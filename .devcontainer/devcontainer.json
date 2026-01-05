@@ -1,0 +1,12 @@
+{
+  "name": "ASMEPurchaseOrderHelper",
+  "image": "mcr.microsoft.com/devcontainers/dotnet:8.0",
+  "features": {},
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-dotnettools.csharp"
+      ]
+    }
+  }
+}
