@@ -1,0 +1,11 @@
+﻿{
+  "materials": [
+    {
+      "asmeSpec": "SA-522/SA-522M",
+      "astmSpec": "A522/A522M",
+      "astmYear": "07",
+      "grades": ["Grade 1", "Grade 2"],
+      "orderingNotes": ["MTR required", "Marking per spec"]
+    }
+  ]
+}

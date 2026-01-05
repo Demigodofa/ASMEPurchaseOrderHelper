@@ -1,0 +1,111 @@
+﻿<Window x:Class="PoApp.Desktop.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ASME PO Helper" Height="720" Width="1100">
+    <Grid Margin="12">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="420"/>
+            <ColumnDefinition Width="12"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- LEFT -->
+        <StackPanel Grid.Column="0" Orientation="Vertical" VerticalAlignment="Stretch">
+            <TextBlock FontSize="20" FontWeight="SemiBold" Text="Material Selection" Margin="0,0,0,10"/>
+
+            <TextBlock Text="ASME Spec" FontWeight="SemiBold"/>
+            <ComboBox ItemsSource="{Binding Specs}"
+                      SelectedItem="{Binding SelectedSpec}"
+                      DisplayMemberPath="AsmeSpec"
+                      IsEditable="True"
+                      Margin="0,6,0,12"/>
+
+            <TextBlock Text="ASTM Equivalent (auto)" FontWeight="SemiBold"/>
+            <TextBox Text="{Binding AstmDisplay}" IsReadOnly="True" Margin="0,6,0,12"/>
+
+            <TextBlock Text="Grade / Class / Type" FontWeight="SemiBold"/>
+            <ComboBox ItemsSource="{Binding AvailableGrades}"
+                      SelectedItem="{Binding SelectedGrade}"
+                      Margin="0,6,0,12"/>
+
+            <DockPanel Margin="0,8,0,6">
+                <TextBlock DockPanel.Dock="Left" Text="Ordering Requirements" FontWeight="SemiBold"/>
+                <StackPanel DockPanel.Dock="Right" Orientation="Horizontal">
+                    <Button Content="All" Margin="6,0,0,0" Padding="10,4"
+                            Command="{Binding ToggleAllOrderingCommand}"
+                            CommandParameter="True"/>
+                    <Button Content="None" Margin="6,0,0,0" Padding="10,4"
+                            Command="{Binding ToggleAllOrderingCommand}"
+                            CommandParameter="False"/>
+                </StackPanel>
+            </DockPanel>
+
+            <Border BorderThickness="1" BorderBrush="#DDD" Padding="8" CornerRadius="6">
+                <ScrollViewer VerticalScrollBarVisibility="Auto" Height="260">
+                    <ItemsControl ItemsSource="{Binding OrderingOptions}">
+                        <ItemsControl.ItemTemplate>
+                            <DataTemplate>
+                                <CheckBox Content="{Binding Text}"
+                                          IsChecked="{Binding IsSelected, Mode=TwoWay}"
+                                          Margin="0,4,0,4"/>
+ 
+
+
+                           </DataTemplate>
+                        </ItemsControl.ItemTemplate>
+                    </ItemsControl>
+                </ScrollViewer>
+            </Border>
+
+            <Button Content="Regenerate"
+ 
+
+
+
+
+
+
+                   Margin="0,12,0,0"
+                    Padding="12,8"
+                    Command="{Binding RegenerateCommand}"/>
+        </StackPanel>
+
+        <!-- RIGHT -->
+ 
+
+
+
+
+
+       <StackPanel Grid.Column="2" Orientation="Vertical">
+            <TextBlock FontSize="20" FontWeight="SemiBold" Text="PO Callout Preview" Margin="0,0,0,10"/>
+
+            <TextBox Text="{Binding GeneratedText}"
+                     AcceptsReturn="True"
+ 
+
+
+
+
+                    VerticalScrollBarVisibility="Auto"
+                     HorizontalScrollBarVisibility="Auto"
+                     TextWrapping="Wrap"
+                     Height="560"/>
+
+
+
+
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,10,0,0">
+                <Button Content="Copy"
+                        Padding="14,8"
+ 
+
+
+
+                       Command="{Binding CopyToClipboardCommand}"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
+

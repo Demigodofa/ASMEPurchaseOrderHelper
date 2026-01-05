@@ -1,0 +1,12 @@
+﻿<Project>
+  <PropertyGroup>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <!-- Default all projects to net8 unless they override -->
+  <PropertyGroup Condition="'$(MSBuildProjectName)' != 'PoApp.Desktop'">
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+</Project>

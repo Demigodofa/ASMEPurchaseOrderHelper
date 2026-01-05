@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="PoApp.Core/PoApp.Core.csproj" />
+  <Project Path="PoApp.Desktop/PoApp.Desktop.csproj" />
   <Project Path="PoApp.Infrastructure/PoApp.Infrastructure.csproj" />
   <Project Path="PoApp.Ingest.Cli/PoApp.Ingest.Cli.csproj" />
   <Project Path="PoApp.Tests/PoApp.Tests.csproj" />
