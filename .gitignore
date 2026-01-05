@@ -11,3 +11,13 @@
 # OS junk
 .DS_Store
 Thumbs.db
+**/bin/
+**/obj/
+.vs/
+.vscode/
+.venv/
+staging/
+inputs/pdfs/
+*.db
+*.sqlite
+*.sqlite3
