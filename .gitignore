@@ -21,3 +21,7 @@ inputs/pdfs/
 *.db
 *.sqlite
 *.sqlite3
+data/
+*.pdf
+*.bak
+startup-error.txt
