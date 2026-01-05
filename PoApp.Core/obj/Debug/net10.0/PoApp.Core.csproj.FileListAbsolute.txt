@@ -1,0 +1,12 @@
+/workspaces/ASMEPurchaseOrderHelper/PoApp.Core/bin/Debug/net10.0/PoApp.Core.deps.json
+/workspaces/ASMEPurchaseOrderHelper/PoApp.Core/bin/Debug/net10.0/PoApp.Core.dll
+/workspaces/ASMEPurchaseOrderHelper/PoApp.Core/bin/Debug/net10.0/PoApp.Core.pdb
+/workspaces/ASMEPurchaseOrderHelper/PoApp.Core/obj/Debug/net10.0/PoApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ASMEPurchaseOrderHelper/PoApp.Core/obj/Debug/net10.0/PoApp.Core.AssemblyInfoInputs.cache
+/workspaces/ASMEPurchaseOrderHelper/PoApp.Core/obj/Debug/net10.0/PoApp.Core.AssemblyInfo.cs
+/workspaces/ASMEPurchaseOrderHelper/PoApp.Core/obj/Debug/net10.0/PoApp.Core.csproj.CoreCompileInputs.cache
+/workspaces/ASMEPurchaseOrderHelper/PoApp.Core/obj/Debug/net10.0/PoApp.Core.sourcelink.json
+/workspaces/ASMEPurchaseOrderHelper/PoApp.Core/obj/Debug/net10.0/PoApp.Core.dll
+/workspaces/ASMEPurchaseOrderHelper/PoApp.Core/obj/Debug/net10.0/refint/PoApp.Core.dll
+/workspaces/ASMEPurchaseOrderHelper/PoApp.Core/obj/Debug/net10.0/PoApp.Core.pdb
+/workspaces/ASMEPurchaseOrderHelper/PoApp.Core/obj/Debug/net10.0/ref/PoApp.Core.dll
