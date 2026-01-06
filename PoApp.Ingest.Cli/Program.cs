@@ -142,6 +142,11 @@ static bool TryExtractSpecFromPage(Page page, out MaterialSpecRecord record)
         return false;
 
     var designation = $"{prefix}-{number}";
+    if (headerText.Contains("HIGHSTRENGTHSA-", StringComparison.OrdinalIgnoreCase))
+    {
+        prefix = "SA";
+        designation = $"HIGH STRENGTH SA-{number}";
+    }
 
     var (astmSpec, astmYear, astmNote) = ExtractAstmEquivalent(text);
 
