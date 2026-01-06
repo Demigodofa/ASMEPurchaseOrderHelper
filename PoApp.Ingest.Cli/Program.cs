@@ -210,18 +210,28 @@ static bool TryGetHeaderFromTopLines(string text, out string headerText)
     var headerPattern = new Regex(
         @"^(?<prefix>[A-Z]+)\s*-\s*(?<num>\d+[A-Z]?)\s*/\s*(?<prefix2>[A-Z]+)\s*-\s*(?<num2>\d+[A-Z]?)\s*M?$",
         RegexOptions.IgnoreCase);
+    var singlePattern = new Regex(@"^(?<prefix>[A-Z]+)\s*-\s*(?<num>\d+[A-Z]?)$", RegexOptions.IgnoreCase);
 
     foreach (var line in lines.Take(10))
     {
         var candidate = line.Trim();
         var match = headerPattern.Match(candidate);
-        if (!match.Success)
-            continue;
+        if (match.Success)
+        {
+            var prefix = match.Groups["prefix"].Value.ToUpperInvariant();
+            var number = match.Groups["num"].Value.ToUpperInvariant();
+            headerText = $"{prefix}-{number}/{prefix}-{number}M";
+            return true;
+        }
 
-        var prefix = match.Groups["prefix"].Value.ToUpperInvariant();
-        var number = match.Groups["num"].Value.ToUpperInvariant();
-        headerText = $"{prefix}-{number}/{prefix}-{number}M";
-        return true;
+        var singleMatch = singlePattern.Match(candidate);
+        if (singleMatch.Success)
+        {
+            var prefix = singleMatch.Groups["prefix"].Value.ToUpperInvariant();
+            var number = singleMatch.Groups["num"].Value.ToUpperInvariant();
+            headerText = $"{prefix}-{number}";
+            return true;
+        }
     }
 
     var compactPattern = new Regex(
@@ -249,6 +259,8 @@ static bool TryParseSpec(string headerText, out string prefix, out string number
         return false;
 
     var match = Regex.Match(headerText, @"^(?<prefix>[A-Z]+)-(?<num>\d+[A-Z]?)(?:/|$)", RegexOptions.IgnoreCase);
+    if (!match.Success)
+        match = Regex.Match(headerText, @"^(?<prefix>[A-Z]+)-(?<num>\d+[A-Z]?)$", RegexOptions.IgnoreCase);
     if (!match.Success)
         return false;
 
