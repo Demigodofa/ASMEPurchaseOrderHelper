@@ -1,9 +1,12 @@
 ﻿using System.Collections.ObjectModel;
+using System.IO;
 using System.Linq;
+using System.Text.Json;
 using System.Windows;
 using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 using PoApp.Core.Models;
+using PoApp.Desktop.Models;
 using PoApp.Desktop.Services;
 
 namespace PoApp.Desktop.ViewModels;
@@ -14,6 +17,7 @@ public partial class MainViewModel : ObservableObject
     public ObservableCollection<string> SpecTypes { get; } = new() { "", "SA", "A" };
     public ObservableCollection<string> AvailableGrades { get; } = new();
     public ObservableCollection<OrderingOption> OrderingOptions { get; } = new();
+    public ObservableCollection<RequiredFieldInput> RequiredFields { get; } = new();
 
     [ObservableProperty] private string? selectedSpecType;
     [ObservableProperty] private MaterialSpecRecord? selectedSpec;
@@ -21,9 +25,14 @@ public partial class MainViewModel : ObservableObject
     [ObservableProperty] private string astmDisplay = "";
     [ObservableProperty] private string generatedText = "";
 
+    private readonly Dictionary<string, List<string>> requiredFieldMap;
+    private readonly Dictionary<string, List<string>> endFinishRules;
+
     public MainViewModel()
     {
         var dataset = JsonMaterialRepository.LoadFromRepoDataFolder();
+        requiredFieldMap = LoadMap("ordering-required-fields.json");
+        endFinishRules = LoadMap("end-finish-normalized.json");
 
         foreach (var m in dataset.Materials.OrderBy(m => m.SpecDesignation))
             Specs.Add(m);
@@ -36,6 +45,7 @@ public partial class MainViewModel : ObservableObject
     {
         AvailableGrades.Clear();
         OrderingOptions.Clear();
+        RequiredFields.Clear();
 
         if (value is null)
         {
@@ -45,7 +55,9 @@ public partial class MainViewModel : ObservableObject
             return;
         }
 
-        AstmDisplay = $"{value.AstmSpec}-{value.AstmYear}";
+        AstmDisplay = string.IsNullOrWhiteSpace(value.AstmSpec) && string.IsNullOrWhiteSpace(value.AstmYear)
+            ? ""
+            : $"{value.AstmSpec}-{value.AstmYear}".Trim('-');
 
         foreach (var g in value.Grades ?? [])
             AvailableGrades.Add(g);
@@ -53,10 +65,12 @@ public partial class MainViewModel : ObservableObject
  
 
 
-       SelectedGrade = AvailableGrades.FirstOrDefault();
+        SelectedGrade = AvailableGrades.FirstOrDefault();
 
-        foreach (var note in value.OrderingNotes ?? [])
-            OrderingOptions.Add(new OrderingOption(note, isSelected: true));
+        foreach (var item in value.OrderingInfoItems ?? [])
+            OrderingOptions.Add(new OrderingOption(item, isSelected: true));
+
+        BuildRequiredFields(value);
 
         Regenerate();
     }
@@ -139,8 +153,99 @@ private void ToggleAllOrdering(object? parameter)
 
 
 
-       var selectedNotes = OrderingOptions.Where(o => o.IsSelected).Select(o => o.Text);
-        GeneratedText = PoTextGenerator.Generate(SelectedSpec, SelectedGrade, selectedNotes, SelectedSpecType);
+        var selectedNotes = OrderingOptions.Where(o => o.IsSelected).Select(o => o.Text);
+        var requiredEntries = RequiredFields.Select(field => new RequiredFieldEntry(
+            field.Label,
+            field.Value,
+            field.Note,
+            field.Options));
+
+        GeneratedText = PoTextGenerator.Generate(SelectedSpec, SelectedGrade, selectedNotes, requiredEntries, SelectedSpecType);
+    }
+
+    private void BuildRequiredFields(MaterialSpecRecord spec)
+    {
+        RequiredFields.Clear();
+
+        if (!requiredFieldMap.TryGetValue(spec.SpecDesignation, out var required))
+            return;
+
+        if (required.Contains("Quantity"))
+            AddRequiredField(new RequiredFieldInput("Quantity"));
+
+        if (required.Contains("Length (specific or random)"))
+            AddRequiredField(new RequiredFieldInput("Length (specific or random)"));
+
+        if (required.Contains("Size / OD / Thickness"))
+            AddRequiredField(new RequiredFieldInput("Size / OD / Thickness"));
+
+        if (required.Contains("End Finish"))
+            AddRequiredField(BuildEndFinishField(spec.SpecDesignation));
+    }
+
+    private RequiredFieldInput BuildEndFinishField(string spec)
+    {
+        var field = new RequiredFieldInput("End Finish");
+
+        if (!endFinishRules.TryGetValue(spec, out var rules))
+            return field;
+
+        var options = new List<string>();
+        var notes = new List<string>();
+
+        foreach (var rule in rules)
+        {
+            if (rule.StartsWith("Options:", StringComparison.OrdinalIgnoreCase))
+            {
+                var parts = rule["Options:".Length..]
+                    .Split(',', StringSplitOptions.RemoveEmptyEntries | StringSplitOptions.TrimEntries);
+                options.AddRange(parts);
+                continue;
+            }
+
+            if (rule.StartsWith("A999/A999M", StringComparison.OrdinalIgnoreCase))
+            {
+                notes.Add("Plain ends unless specified.");
+                continue;
+            }
+
+            notes.Add(rule);
+        }
+
+        if (options.Count > 0)
+        {
+            options = options.Distinct(StringComparer.OrdinalIgnoreCase).ToList();
+            options.Insert(0, "");
+            field.Options = new ObservableCollection<string>(options);
+        }
+
+        if (notes.Count > 0)
+            field.Note = string.Join(" ", notes);
+
+        return field;
+    }
+
+    private void AddRequiredField(RequiredFieldInput field)
+    {
+        field.PropertyChanged += (_, args) =>
+        {
+            if (args.PropertyName == nameof(RequiredFieldInput.Value))
+                Regenerate();
+        };
+
+        RequiredFields.Add(field);
+    }
+
+    private static Dictionary<string, List<string>> LoadMap(string fileName)
+    {
+        var path = DataFileLocator.FindDataFile(fileName);
+        if (string.IsNullOrWhiteSpace(path))
+            return new Dictionary<string, List<string>>(StringComparer.OrdinalIgnoreCase);
+
+        var json = File.ReadAllText(path);
+        var data = JsonSerializer.Deserialize<Dictionary<string, List<string>>>(json);
+
+        return data ?? new Dictionary<string, List<string>>(StringComparer.OrdinalIgnoreCase);
     }
 }
 
@@ -169,5 +274,37 @@ public sealed partial class OrderingOption : ObservableObject
 
     [ObservableProperty]
     private bool isSelected;
+}
+
+public sealed partial class RequiredFieldInput : ObservableObject
+{
+    public RequiredFieldInput(string label)
+    {
+        Label = label;
+        options = new ObservableCollection<string>();
+    }
+
+    public string Label { get; }
+
+    [ObservableProperty]
+    private string? value;
+
+    [ObservableProperty]
+    private string? note;
+
+    private ObservableCollection<string> options;
+
+    public ObservableCollection<string> Options
+    {
+        get => options;
+        set
+        {
+            options = value;
+            OnPropertyChanged(nameof(Options));
+            OnPropertyChanged(nameof(HasOptions));
+        }
+    }
+
+    public bool HasOptions => Options.Count > 0;
 }
 

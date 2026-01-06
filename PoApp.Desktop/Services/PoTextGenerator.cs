@@ -1,11 +1,17 @@
 ﻿using System.Text;
 using PoApp.Core.Models;
+using PoApp.Desktop.Models;
 
 namespace PoApp.Desktop.Services;
 
 public static class PoTextGenerator
 {
-    public static string Generate(MaterialSpecRecord spec, string? grade, IEnumerable<string> selectedOrderingNotes, string? selectedSpecType)
+    public static string Generate(
+        MaterialSpecRecord spec,
+        string? grade,
+        IEnumerable<string> selectedOrderingNotes,
+        IEnumerable<RequiredFieldEntry> requiredFields,
+        string? selectedSpecType)
     {
         var sb = new StringBuilder();
 
@@ -38,6 +44,20 @@ public static class PoTextGenerator
             sb.AppendLine("ORDERING REQUIREMENTS:");
             foreach (var n in notes)
                 sb.AppendLine($"- {n}");
+        }
+
+        var required = requiredFields?.ToList() ?? new();
+        if (required.Count > 0)
+        {
+            sb.AppendLine("REQUIRED FIELDS:");
+            foreach (var field in required)
+            {
+                var value = string.IsNullOrWhiteSpace(field.Value) ? "[enter]" : field.Value;
+                if (!string.IsNullOrWhiteSpace(field.Note) && string.IsNullOrWhiteSpace(field.Value))
+                    value = field.Note;
+
+                sb.AppendLine($"- {field.Label}: {value}");
+            }
         }
 
         sb.AppendLine();

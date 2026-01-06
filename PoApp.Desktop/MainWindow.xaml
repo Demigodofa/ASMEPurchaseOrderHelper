@@ -33,6 +33,52 @@
                       SelectedItem="{Binding SelectedGrade}"
                       Margin="0,6,0,12"/>
 
+            <TextBlock Text="Required Fields" FontWeight="SemiBold" Margin="0,6,0,6"/>
+            <Border BorderThickness="1" BorderBrush="#DDD" Padding="8" CornerRadius="6">
+                <ScrollViewer VerticalScrollBarVisibility="Auto" Height="160">
+                    <ItemsControl ItemsSource="{Binding RequiredFields}">
+                        <ItemsControl.ItemTemplate>
+                            <DataTemplate>
+                                <StackPanel Margin="0,4,0,8">
+                                    <TextBlock Text="{Binding Label}" FontWeight="SemiBold"/>
+                                    <ComboBox ItemsSource="{Binding Options}"
+                                              SelectedItem="{Binding Value}"
+                                              Margin="0,4,0,0">
+                                        <ComboBox.Style>
+                                            <Style TargetType="ComboBox">
+                                                <Setter Property="Visibility" Value="Collapsed"/>
+                                                <Style.Triggers>
+                                                    <DataTrigger Binding="{Binding HasOptions}" Value="True">
+                                                        <Setter Property="Visibility" Value="Visible"/>
+                                                    </DataTrigger>
+                                                </Style.Triggers>
+                                            </Style>
+                                        </ComboBox.Style>
+                                    </ComboBox>
+                                    <TextBox Text="{Binding Value}" Margin="0,4,0,0">
+                                        <TextBox.Style>
+                                            <Style TargetType="TextBox">
+                                                <Setter Property="Visibility" Value="Visible"/>
+                                                <Style.Triggers>
+                                                    <DataTrigger Binding="{Binding HasOptions}" Value="True">
+                                                        <Setter Property="Visibility" Value="Collapsed"/>
+                                                    </DataTrigger>
+                                                </Style.Triggers>
+                                            </Style>
+                                        </TextBox.Style>
+                                    </TextBox>
+                                    <TextBlock Text="{Binding Note}"
+                                               FontSize="11"
+                                               Foreground="#666"
+                                               TextWrapping="Wrap"
+                                               Margin="0,4,0,0"/>
+                                </StackPanel>
+                            </DataTemplate>
+                        </ItemsControl.ItemTemplate>
+                    </ItemsControl>
+                </ScrollViewer>
+            </Border>
+
             <DockPanel Margin="0,8,0,6">
                 <TextBlock DockPanel.Dock="Left" Text="Ordering Requirements" FontWeight="SemiBold"/>
                 <StackPanel DockPanel.Dock="Right" Orientation="Horizontal">
