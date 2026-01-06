@@ -143,20 +143,7 @@ static bool TryExtractSpecFromPage(Page page, out MaterialSpecRecord record)
 
     var designation = $"{prefix}-{number}";
 
-    var astmSpecMatch = Regex.Match(text, @"\bA\d+[A-Z]?\/A\d+[A-Z]?\b", RegexOptions.IgnoreCase);
-    var astmSpec = string.Empty;
-    if (astmSpecMatch.Success)
-    {
-        astmSpec = astmSpecMatch.Value.ToUpperInvariant();
-    }
-
-    var astmYearMatch = Regex.Match(text, @"\bA\d+[A-Z]?\/A\d+[A-Z]?-(\d{2,4})\b", RegexOptions.IgnoreCase);
-    var astmYear = string.Empty;
-    if (astmYearMatch.Success)
-    {
-        var yearToken = astmYearMatch.Groups[1].Value;
-        astmYear = yearToken.Length == 2 ? $"20{yearToken}" : yearToken;
-    }
+    var (astmSpec, astmYear) = ExtractAstmEquivalent(text);
 
     var category = ResolveCategory(prefix);
     record = new MaterialSpecRecord(
@@ -170,6 +157,37 @@ static bool TryExtractSpecFromPage(Page page, out MaterialSpecRecord record)
         OrderingNotes: Array.Empty<string>());
 
     return true;
+}
+
+static (string Spec, string Year) ExtractAstmEquivalent(string text)
+{
+    if (string.IsNullOrWhiteSpace(text))
+        return (string.Empty, string.Empty);
+
+    var identMatch = Regex.Match(
+        text,
+        @"Identical\s+with\s+ASTM\s+Specification\s+(A\d+[A-Z]?\/A\d+[A-Z]?M?)-(\d{2,4})",
+        RegexOptions.IgnoreCase);
+    if (identMatch.Success)
+    {
+        var spec = identMatch.Groups[1].Value.ToUpperInvariant();
+        var yearToken = identMatch.Groups[2].Value;
+        var year = yearToken.Length == 2 ? $"20{yearToken}" : yearToken;
+        return (spec, year);
+    }
+
+    var astmSpecMatch = Regex.Match(text, @"\bA\d+[A-Z]?\/A\d+[A-Z]?\b", RegexOptions.IgnoreCase);
+    var astmSpec = astmSpecMatch.Success ? astmSpecMatch.Value.ToUpperInvariant() : string.Empty;
+
+    var astmYearMatch = Regex.Match(text, @"\bA\d+[A-Z]?\/A\d+[A-Z]?-(\d{2,4})\b", RegexOptions.IgnoreCase);
+    var astmYear = string.Empty;
+    if (astmYearMatch.Success)
+    {
+        var yearToken = astmYearMatch.Groups[1].Value;
+        astmYear = yearToken.Length == 2 ? $"20{yearToken}" : yearToken;
+    }
+
+    return (astmSpec, astmYear);
 }
 
 static bool TryGetTopRightHeader(Page page, out string headerText)
