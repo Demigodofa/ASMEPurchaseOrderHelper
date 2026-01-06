@@ -10,7 +10,15 @@ public static class PoTextGenerator
         var sb = new StringBuilder();
 
         sb.AppendLine($"MATERIAL: ASME {spec.SpecDesignation}");
-        sb.AppendLine($"EQUIVALENT: ASTM {spec.AstmSpec}-{spec.AstmYear}");
+
+        if (!string.IsNullOrWhiteSpace(spec.AstmYear))
+        {
+            sb.AppendLine($"{spec.AstmYear} ASTM Specification is identical to {spec.SpecDesignation} Per. ASME Sect.II 2025");
+        }
+        else if (!string.IsNullOrWhiteSpace(spec.AstmSpec))
+        {
+            sb.AppendLine($"EQUIVALENT: ASTM {spec.AstmSpec}-{spec.AstmYear}");
+        }
 
         if (!string.IsNullOrWhiteSpace(grade))
             sb.AppendLine($"GRADE/CLASS/TYPE: {grade}");
