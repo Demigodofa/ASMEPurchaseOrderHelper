@@ -13,7 +13,12 @@
         <StackPanel Grid.Column="0" Orientation="Vertical" VerticalAlignment="Stretch">
             <TextBlock FontSize="20" FontWeight="SemiBold" Text="Material Selection" Margin="0,0,0,10"/>
 
-            <TextBlock Text="ASME Spec" FontWeight="SemiBold"/>
+            <TextBlock Text="Spec Type" FontWeight="SemiBold"/>
+            <ComboBox ItemsSource="{Binding SpecTypes}"
+                      SelectedItem="{Binding SelectedSpecType}"
+                      Margin="0,6,0,12"/>
+
+            <TextBlock Text="Material Spec" FontWeight="SemiBold"/>
             <ComboBox ItemsSource="{Binding Specs}"
                       SelectedItem="{Binding SelectedSpec}"
                       DisplayMemberPath="SpecDesignation"

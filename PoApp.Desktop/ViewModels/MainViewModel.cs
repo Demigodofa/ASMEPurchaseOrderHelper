@@ -11,9 +11,11 @@ namespace PoApp.Desktop.ViewModels;
 public partial class MainViewModel : ObservableObject
 {
     public ObservableCollection<MaterialSpecRecord> Specs { get; } = new();
+    public ObservableCollection<string> SpecTypes { get; } = new() { "", "SA", "A" };
     public ObservableCollection<string> AvailableGrades { get; } = new();
     public ObservableCollection<OrderingOption> OrderingOptions { get; } = new();
 
+    [ObservableProperty] private string? selectedSpecType;
     [ObservableProperty] private MaterialSpecRecord? selectedSpec;
     [ObservableProperty] private string? selectedGrade;
     [ObservableProperty] private string astmDisplay = "";
@@ -60,6 +62,11 @@ public partial class MainViewModel : ObservableObject
     }
 
     partial void OnSelectedGradeChanged(string? value)
+    {
+        Regenerate();
+    }
+
+    partial void OnSelectedSpecTypeChanged(string? value)
     {
         Regenerate();
     }
@@ -133,7 +140,7 @@ private void ToggleAllOrdering(object? parameter)
 
 
        var selectedNotes = OrderingOptions.Where(o => o.IsSelected).Select(o => o.Text);
-        GeneratedText = PoTextGenerator.Generate(SelectedSpec, SelectedGrade, selectedNotes);
+        GeneratedText = PoTextGenerator.Generate(SelectedSpec, SelectedGrade, selectedNotes, SelectedSpecType);
     }
 }
 

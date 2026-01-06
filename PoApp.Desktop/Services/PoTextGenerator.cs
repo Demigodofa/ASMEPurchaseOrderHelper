@@ -5,13 +5,17 @@ namespace PoApp.Desktop.Services;
 
 public static class PoTextGenerator
 {
-    public static string Generate(MaterialSpecRecord spec, string? grade, IEnumerable<string> selectedOrderingNotes)
+    public static string Generate(MaterialSpecRecord spec, string? grade, IEnumerable<string> selectedOrderingNotes, string? selectedSpecType)
     {
         var sb = new StringBuilder();
 
-        sb.AppendLine($"MATERIAL: ASME {spec.SpecDesignation}");
+        var materialDesignation = string.Equals(selectedSpecType, "A", StringComparison.OrdinalIgnoreCase)
+            ? $"A-{spec.SpecNumber}"
+            : spec.SpecDesignation;
+        sb.AppendLine($"MATERIAL: {materialDesignation}");
 
-        if (!string.IsNullOrWhiteSpace(spec.AstmYear))
+        if (string.Equals(selectedSpecType, "A", StringComparison.OrdinalIgnoreCase)
+            && !string.IsNullOrWhiteSpace(spec.AstmYear))
         {
             sb.AppendLine($"{spec.AstmYear} ASTM Specification is identical to {spec.SpecDesignation} Per. ASME Sect.II 2025");
         }
