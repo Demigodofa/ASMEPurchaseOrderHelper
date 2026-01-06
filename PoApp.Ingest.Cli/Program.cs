@@ -20,6 +20,15 @@ if (pdfFiles.Count == 0)
 
 Console.WriteLine($"Scanning {pdfFiles.Count} PDF(s) in: {pdfRoot}");
 
+var tocSpecs = ExtractTocSpecs(pdfFiles);
+if (tocSpecs.Count > 0)
+    Console.WriteLine($"TOC specs found: {tocSpecs.Count}");
+if (tocSpecs.Count < 100)
+{
+    Console.WriteLine("TOC spec count is low; header filtering is disabled for this run.");
+    tocSpecs.Clear();
+}
+
 var results = new Dictionary<string, MaterialSpecRecord>(StringComparer.OrdinalIgnoreCase);
 var orderingItemsBySpec = new Dictionary<string, List<string>>(StringComparer.OrdinalIgnoreCase);
 
@@ -33,7 +42,7 @@ foreach (var pdfPath in pdfFiles)
 
     foreach (var page in document.GetPages())
     {
-        if (TryExtractSpecFromPage(page, out var record, out var headerText))
+        if (TryExtractSpecFromPage(page, out var record, out var headerText, tocSpecs))
         {
             if (currentSpec is not null && !string.Equals(currentSpec, record.SpecDesignation, StringComparison.OrdinalIgnoreCase))
             {
@@ -160,7 +169,11 @@ static string ResolveDataDirectory()
     return Path.Combine(AppContext.BaseDirectory, "data");
 }
 
-static bool TryExtractSpecFromPage(Page page, out MaterialSpecRecord record, out string headerText)
+static bool TryExtractSpecFromPage(
+    Page page,
+    out MaterialSpecRecord record,
+    out string headerText,
+    IReadOnlySet<string>? allowedSpecs = null)
 {
     record = default!;
     headerText = string.Empty;
@@ -169,10 +182,12 @@ static bool TryExtractSpecFromPage(Page page, out MaterialSpecRecord record, out
     if (string.IsNullOrWhiteSpace(text))
         return false;
 
-    if (!TryGetTopRightHeader(page, out headerText) && !TryGetHeaderFromTopLines(text, out headerText))
+    if (!TryGetTopRightHeader(page, allowedSpecs, out headerText)
+        && !TryGetTopHeaderFromWords(page, allowedSpecs, out headerText)
+        && !TryGetHeaderFromTopLines(text, allowedSpecs, out headerText))
         return false;
 
-    if (!TryParseSpec(headerText, out var prefix, out var number))
+    if (!TryParseSpec(headerText, allowedSpecs, out var prefix, out var number))
         return false;
 
     var designation = $"{prefix}-{number}";
@@ -341,7 +356,7 @@ static string NormalizeWhitespace(string value)
     return Regex.Replace(value, @"\s+", " ").Trim();
 }
 
-static bool TryGetTopRightHeader(Page page, out string headerText)
+static bool TryGetTopRightHeader(Page page, IReadOnlySet<string>? allowedSpecs, out string headerText)
 {
     headerText = string.Empty;
     var words = page.GetWords();
@@ -357,6 +372,9 @@ static bool TryGetTopRightHeader(Page page, out string headerText)
         if (!headerPattern.IsMatch(word.Text))
             continue;
 
+        if (!TryParseSpec(word.Text, allowedSpecs, out _, out _))
+            continue;
+
         var box = word.BoundingBox;
         if (box.Left >= minLeft && box.Top >= minTop)
         {
@@ -368,7 +386,37 @@ static bool TryGetTopRightHeader(Page page, out string headerText)
     return false;
 }
 
-static bool TryGetHeaderFromTopLines(string text, out string headerText)
+static bool TryGetTopHeaderFromWords(Page page, IReadOnlySet<string>? allowedSpecs, out string headerText)
+{
+    headerText = string.Empty;
+    var words = page.GetWords();
+    if (words is null)
+        return false;
+
+    var headerPattern = new Regex(@"^[A-Z]+-\d+[A-Z]?(?:/[A-Z]+-\d+[A-Z]?M?)?$", RegexOptions.IgnoreCase);
+    var minTop = page.Height * 0.8;
+    var maxLeft = page.Width * 0.35;
+
+    foreach (var word in words)
+    {
+        if (!headerPattern.IsMatch(word.Text))
+            continue;
+
+        if (!TryParseSpec(word.Text, allowedSpecs, out _, out _))
+            continue;
+
+        var box = word.BoundingBox;
+        if (box.Top >= minTop && box.Left <= maxLeft)
+        {
+            headerText = word.Text.Trim();
+            return true;
+        }
+    }
+
+    return false;
+}
+
+static bool TryGetHeaderFromTopLines(string text, IReadOnlySet<string>? allowedSpecs, out string headerText)
 {
     headerText = string.Empty;
 
@@ -390,7 +438,7 @@ static bool TryGetHeaderFromTopLines(string text, out string headerText)
             var prefix = match.Groups["prefix"].Value.ToUpperInvariant();
             var number = match.Groups["num"].Value.ToUpperInvariant();
             headerText = $"{prefix}-{number}/{prefix}-{number}M";
-            return true;
+            return IsAllowedSpec(headerText, allowedSpecs);
         }
 
         var singleMatch = singlePattern.Match(candidate);
@@ -399,7 +447,7 @@ static bool TryGetHeaderFromTopLines(string text, out string headerText)
             var prefix = singleMatch.Groups["prefix"].Value.ToUpperInvariant();
             var number = singleMatch.Groups["num"].Value.ToUpperInvariant();
             headerText = $"{prefix}-{number}";
-            return true;
+            return IsAllowedSpec(headerText, allowedSpecs);
         }
     }
 
@@ -413,13 +461,13 @@ static bool TryGetHeaderFromTopLines(string text, out string headerText)
         var prefix = compactMatch.Groups["prefix"].Value.ToUpperInvariant();
         var number = compactMatch.Groups["num"].Value.ToUpperInvariant();
         headerText = $"{prefix}-{number}/{prefix}-{number}M";
-        return true;
+        return IsAllowedSpec(headerText, allowedSpecs);
     }
 
     return false;
 }
 
-static bool TryParseSpec(string headerText, out string prefix, out string number)
+static bool TryParseSpec(string headerText, IReadOnlySet<string>? allowedSpecs, out string prefix, out string number)
 {
     prefix = string.Empty;
     number = string.Empty;
@@ -435,7 +483,8 @@ static bool TryParseSpec(string headerText, out string prefix, out string number
 
     prefix = match.Groups["prefix"].Value.ToUpperInvariant();
     number = match.Groups["num"].Value.ToUpperInvariant();
-    return true;
+    var designation = $"{prefix}-{number}";
+    return IsAllowedSpec(designation, allowedSpecs);
 }
 
 static MaterialCategory ResolveCategory(string prefix)
@@ -534,4 +583,63 @@ static void ScanForMissingSpecs(IEnumerable<string> pdfFiles, IReadOnlyCollectio
     {
         Console.WriteLine($"- {spec}: {string.Join(", ", hits[spec])}");
     }
+}
+
+static HashSet<string> ExtractTocSpecs(IEnumerable<string> pdfFiles)
+{
+    var specs = new HashSet<string>(StringComparer.OrdinalIgnoreCase);
+    var headerPattern = new Regex(@"\b(?<spec>(?:SA|SB|SF|A)-\d+[A-Z]?M?)\b", RegexOptions.IgnoreCase);
+
+    foreach (var pdfPath in pdfFiles)
+    {
+        using var document = PdfDocument.Open(pdfPath);
+        var tocStarted = false;
+        var emptyPages = 0;
+
+        foreach (var page in document.GetPages())
+        {
+            var text = page.Text;
+            if (string.IsNullOrWhiteSpace(text))
+                continue;
+
+            if (!tocStarted && text.IndexOf("TABLE OF CONTENTS", StringComparison.OrdinalIgnoreCase) >= 0)
+                tocStarted = true;
+
+            if (!tocStarted)
+                continue;
+
+            var pageMatches = headerPattern.Matches(text);
+            if (pageMatches.Count == 0)
+            {
+                emptyPages++;
+                if (emptyPages >= 4)
+                    break;
+                continue;
+            }
+
+            emptyPages = 0;
+            foreach (Match match in pageMatches)
+            {
+                var spec = match.Groups["spec"].Value.ToUpperInvariant();
+                specs.Add(spec);
+            }
+        }
+
+        if (specs.Count > 0)
+            break;
+    }
+
+    return specs;
+}
+
+static bool IsAllowedSpec(string designation, IReadOnlySet<string>? allowedSpecs)
+{
+    if (allowedSpecs is null || allowedSpecs.Count == 0)
+        return true;
+
+    var normalized = designation.ToUpperInvariant();
+    if (normalized.Contains("/"))
+        normalized = normalized.Split('/')[0];
+
+    return allowedSpecs.Contains(normalized);
 }
