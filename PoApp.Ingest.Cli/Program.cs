@@ -1,3 +1,4 @@
+using System.Text;
 using System.Text.Json;
 using System.Text.RegularExpressions;
 using Microsoft.Extensions.Configuration;
@@ -28,9 +29,7 @@ foreach (var pdfPath in pdfFiles)
 
     using var document = PdfDocument.Open(pdfPath);
     string? currentSpec = null;
-    var inOrderingBlock = false;
-    var currentOrderingSection = "";
-    var currentItem = "";
+    var currentSpecText = new StringBuilder();
 
     foreach (var page in document.GetPages())
     {
@@ -38,9 +37,8 @@ foreach (var pdfPath in pdfFiles)
         {
             if (currentSpec is not null && !string.Equals(currentSpec, record.SpecDesignation, StringComparison.OrdinalIgnoreCase))
             {
-                FinalizeOrderingItem(currentSpec, orderingItemsBySpec, ref currentItem);
-                inOrderingBlock = false;
-                currentOrderingSection = "";
+                FinalizeOrderingInfo(currentSpec, currentSpecText.ToString(), orderingItemsBySpec);
+                currentSpecText.Clear();
             }
 
             currentSpec = record.SpecDesignation;
@@ -51,15 +49,13 @@ foreach (var pdfPath in pdfFiles)
         if (currentSpec is null)
             continue;
 
-        var lines = GetOrderedLines(page);
-        ProcessOrderingLines(lines, currentSpec, orderingItemsBySpec, ref inOrderingBlock, ref currentOrderingSection, ref currentItem);
+        currentSpecText.AppendLine(page.Text);
     }
 
     if (currentSpec is not null)
     {
-        FinalizeOrderingItem(currentSpec, orderingItemsBySpec, ref currentItem);
-        inOrderingBlock = false;
-        currentOrderingSection = "";
+        FinalizeOrderingInfo(currentSpec, currentSpecText.ToString(), orderingItemsBySpec);
+        currentSpecText.Clear();
     }
 }
 
@@ -204,126 +200,13 @@ static bool TryExtractSpecFromPage(Page page, out MaterialSpecRecord record, out
     return true;
 }
 
-static List<string> GetOrderedLines(Page page)
-{
-    var words = page.GetWords().ToList();
-    if (words.Count == 0)
-        return new List<string>();
-
-    var lineGroups = new Dictionary<double, List<Word>>();
-    const double lineTolerance = 2.0;
-
-    foreach (var word in words)
-    {
-        var top = word.BoundingBox.Top;
-        var key = lineGroups.Keys.FirstOrDefault(existing => Math.Abs(existing - top) <= lineTolerance);
-        if (Math.Abs(key) > 0.001 || lineGroups.ContainsKey(key))
-            lineGroups[key].Add(word);
-        else
-            lineGroups[top] = new List<Word> { word };
-    }
-
-    var lines = lineGroups
-        .Select(group =>
-        {
-            var lineWords = group.Value.OrderBy(w => w.BoundingBox.Left).ToList();
-            var text = string.Join(" ", lineWords.Select(w => w.Text));
-            var avgLeft = lineWords.Average(w => w.BoundingBox.Left);
-            var top = group.Key;
-            return new { Text = NormalizeWhitespace(text), Left = avgLeft, Top = top };
-        })
-        .ToList();
-
-    var midX = page.Width / 2;
-    var leftColumn = lines.Where(line => line.Left <= midX).OrderByDescending(line => line.Top).ToList();
-    var rightColumn = lines.Where(line => line.Left > midX).OrderByDescending(line => line.Top).ToList();
-
-    return leftColumn.Concat(rightColumn).Select(line => line.Text).Where(line => line.Length > 0).ToList();
-}
-
-static void ProcessOrderingLines(
-    IReadOnlyList<string> lines,
+static void FinalizeOrderingInfo(
     string spec,
-    Dictionary<string, List<string>> orderingItemsBySpec,
-    ref bool inOrderingBlock,
-    ref string currentSection,
-    ref string currentItem)
+    string text,
+    Dictionary<string, List<string>> orderingItemsBySpec)
 {
-    var headerPattern = new Regex(@"\b(?<section>\d+)\s*\.\s*Ordering Information\b", RegexOptions.IgnoreCase);
-    var sectionPattern = new Regex(@"\b(?<section>\d+)\s*\.(?!\s*\d)\s+[A-Z]", RegexOptions.IgnoreCase);
-    var itemStartTemplate = @"^\s*{0}\s*\.\s*\d+(?:\s*\.\s*\d+)?\s+";
-
-    foreach (var line in lines)
-    {
-        if (line.Length == 0)
-            continue;
-
-        if (IsHeaderFooterLine(line, spec))
-            continue;
-
-        var lettersOnly = Regex.Replace(line, @"[^A-Za-z]", "").ToUpperInvariant();
-        var hasOrdering = lettersOnly.Contains("ORDERINGINFORMATION");
-        if (hasOrdering)
-        {
-            var headerMatch = headerPattern.Match(line);
-            FinalizeOrderingItem(spec, orderingItemsBySpec, ref currentItem);
-            inOrderingBlock = true;
-            currentSection = headerMatch.Success ? headerMatch.Groups["section"].Value : currentSection;
-            continue;
-        }
-
-        if (!inOrderingBlock)
-            continue;
-
-        var sectionMatch = sectionPattern.Match(line);
-        if (sectionMatch.Success && !string.IsNullOrWhiteSpace(currentSection)
-            && !string.Equals(sectionMatch.Groups["section"].Value, currentSection, StringComparison.Ordinal))
-        {
-            FinalizeOrderingItem(spec, orderingItemsBySpec, ref currentItem);
-            inOrderingBlock = false;
-            currentSection = "";
-            continue;
-        }
-
-        var otherItemSectionMatch = Regex.Match(line, @"^\s*(?<section>\d+)\s*\.\s*\d+", RegexOptions.IgnoreCase);
-        if (otherItemSectionMatch.Success && !string.IsNullOrWhiteSpace(currentSection)
-            && !string.Equals(otherItemSectionMatch.Groups["section"].Value, currentSection, StringComparison.Ordinal))
-        {
-            FinalizeOrderingItem(spec, orderingItemsBySpec, ref currentItem);
-            inOrderingBlock = false;
-            currentSection = "";
-            continue;
-        }
-
-        if (string.IsNullOrWhiteSpace(currentSection))
-        {
-            var itemSectionMatch = Regex.Match(line, @"^\s*(?<section>\d+)\s*\.\s*\d+", RegexOptions.IgnoreCase);
-            if (itemSectionMatch.Success)
-                currentSection = itemSectionMatch.Groups["section"].Value;
-        }
-
-        if (string.IsNullOrWhiteSpace(currentSection))
-            continue;
-
-        var itemStart = new Regex(string.Format(itemStartTemplate, Regex.Escape(currentSection)), RegexOptions.IgnoreCase);
-        if (itemStart.IsMatch(line))
-        {
-            FinalizeOrderingItem(spec, orderingItemsBySpec, ref currentItem);
-            currentItem = itemStart.Replace(line, "").Trim();
-            continue;
-        }
-
-        if (!string.IsNullOrWhiteSpace(currentItem))
-            currentItem = $"{currentItem} {line}";
-    }
-}
-
-static void FinalizeOrderingItem(
-    string spec,
-    Dictionary<string, List<string>> orderingItemsBySpec,
-    ref string currentItem)
-{
-    if (string.IsNullOrWhiteSpace(currentItem))
+    var items = ExtractOrderingItems(text);
+    if (items.Count == 0)
         return;
 
     if (!orderingItemsBySpec.TryGetValue(spec, out var existing))
@@ -332,20 +215,88 @@ static void FinalizeOrderingItem(
         orderingItemsBySpec[spec] = existing;
     }
 
-    existing.Add(NormalizeWhitespace(currentItem));
-    currentItem = "";
+    existing.AddRange(items);
 }
 
-static bool IsHeaderFooterLine(string line, string spec)
+static List<string> ExtractOrderingItems(string text)
 {
-    if (line.Contains("ASME BPVC", StringComparison.OrdinalIgnoreCase)
-        || line.Contains("BPVC", StringComparison.OrdinalIgnoreCase))
-        return true;
+    if (string.IsNullOrWhiteSpace(text))
+        return new List<string>();
 
-    if (line.Contains(spec, StringComparison.OrdinalIgnoreCase) && line.Length < 40)
-        return true;
+    var normalized = text.Replace("\r\n", "\n");
+    var headerMatches = Regex.Matches(
+        normalized,
+        @"(?s)(?<section>\d+)\s*\.\s*Ordering\s*Information",
+        RegexOptions.IgnoreCase);
 
-    return false;
+    var items = new List<string>();
+    foreach (Match headerMatch in headerMatches)
+    {
+        var section = headerMatch.Groups["section"].Value;
+        if (string.IsNullOrWhiteSpace(section))
+            continue;
+
+        var start = headerMatch.Index + headerMatch.Length;
+        var tail = normalized.Substring(start);
+        var nextSection = Regex.Match(tail, @"\b\d+\s*\.(?!\s*\d)\s+[A-Z]", RegexOptions.IgnoreCase);
+        var end = nextSection.Success ? start + nextSection.Index : normalized.Length;
+        if (end <= start)
+            continue;
+
+        var body = normalized.Substring(start, end - start);
+        items.AddRange(ParseOrderingItems(body, section));
+    }
+
+    return items;
+}
+
+static List<string> ParseOrderingItems(string text, string sectionNumber)
+{
+    var items = new List<string>();
+    if (string.IsNullOrWhiteSpace(text) || string.IsNullOrWhiteSpace(sectionNumber))
+        return items;
+
+    var normalized = NormalizeWhitespace(text);
+    var itemPattern = new Regex(
+        @"\b" + Regex.Escape(sectionNumber) + @"\s*\.\s*\d+(?:\s*\.\s*\d+)?\b",
+        RegexOptions.IgnoreCase);
+
+    var matches = itemPattern.Matches(normalized).Cast<Match>().ToList();
+    for (var i = 0; i < matches.Count; i++)
+    {
+        var start = matches[i].Index + matches[i].Length;
+        var end = (i + 1 < matches.Count) ? matches[i + 1].Index : normalized.Length;
+        if (end <= start)
+            continue;
+
+        var itemText = normalized.Substring(start, end - start).Trim();
+        if (itemText.Length == 0)
+            continue;
+
+        itemText = CleanOrderingItem(itemText);
+        if (itemText.Length == 0)
+            continue;
+
+        if (itemText.StartsWith("Information items to be considered", StringComparison.OrdinalIgnoreCase))
+            continue;
+
+        items.Add(itemText);
+    }
+
+    return items;
+}
+
+static string CleanOrderingItem(string text)
+{
+    if (string.IsNullOrWhiteSpace(text))
+        return string.Empty;
+
+    var cleaned = Regex.Replace(text, @"(\w)-\s+(\w)", "$1$2");
+    cleaned = Regex.Replace(cleaned, @"\bship-ment\b", "shipment", RegexOptions.IgnoreCase);
+    cleaned = Regex.Replace(cleaned, @"\bre-quirements\b", "requirements", RegexOptions.IgnoreCase);
+    cleaned = Regex.Replace(cleaned, @"\brequire-ments\b", "requirements", RegexOptions.IgnoreCase);
+    cleaned = Regex.Replace(cleaned, @"\s+\d+$", "");
+    return NormalizeWhitespace(cleaned);
 }
 
 static (string Spec, string Year, string Note) ExtractAstmEquivalent(string text)
