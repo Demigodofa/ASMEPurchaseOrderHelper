@@ -8,4 +8,5 @@ public sealed class AppSettings
 public sealed class PathSettings
 {
     public string PdfSourceRoot { get; set; } = string.Empty;
+    public List<string> PdfFiles { get; set; } = new();
 }

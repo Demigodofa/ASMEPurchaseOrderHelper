@@ -19,7 +19,7 @@
     <PackageVersion Include="CommunityToolkit.Mvvm" Version="8.3.2" />
 
     <!-- PDF -->
-    <PackageVersion Include="UglyToad.PdfPig" Version="0.0.10" />
+    <PackageVersion Include="UglyToad.PdfPig" Version="1.7.0-custom-5" />
 
     <!-- Tests -->
     <PackageVersion Include="Microsoft.NET.Test.Sdk" Version="17.10.0" />

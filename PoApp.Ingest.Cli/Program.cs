@@ -9,15 +9,7 @@ using UglyToad.PdfPig.Content;
 var settings = LoadSettings();
 var pdfRoot = ResolvePdfRoot(settings);
 
-if (!Directory.Exists(pdfRoot))
-{
-    Console.WriteLine($"PDF source folder not found: {pdfRoot}");
-    return;
-}
-
-var pdfFiles = Directory.EnumerateFiles(pdfRoot, "*.pdf", SearchOption.TopDirectoryOnly)
-    .Where(path => !Path.GetFileName(path).Contains("PART B", StringComparison.OrdinalIgnoreCase))
-    .ToList();
+var pdfFiles = ResolvePdfFiles(settings, pdfRoot);
 
 if (pdfFiles.Count == 0)
 {
@@ -80,6 +72,38 @@ static string ResolvePdfRoot(AppSettings settings)
         return configured;
 
     return Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory);
+}
+
+static List<string> ResolvePdfFiles(AppSettings settings, string pdfRoot)
+{
+    var explicitFiles = settings.Paths.PdfFiles
+        .Where(path => !string.IsNullOrWhiteSpace(path))
+        .Select(Path.GetFullPath)
+        .ToList();
+
+    if (explicitFiles.Count > 0)
+    {
+        var existing = explicitFiles.Where(File.Exists).ToList();
+        var missing = explicitFiles.Except(existing, StringComparer.OrdinalIgnoreCase).ToList();
+        foreach (var path in missing)
+        {
+            Console.WriteLine($"Missing PDF file: {path}");
+        }
+
+        return existing;
+    }
+
+    if (!Directory.Exists(pdfRoot))
+    {
+        Console.WriteLine($"PDF source folder not found: {pdfRoot}");
+        return new List<string>();
+    }
+
+    return Directory.EnumerateFiles(pdfRoot, "*.pdf", SearchOption.TopDirectoryOnly)
+        .Where(path => Path.GetFileName(path).Contains("SECT II", StringComparison.OrdinalIgnoreCase))
+        .Where(path => Path.GetFileName(path).Contains("PART A", StringComparison.OrdinalIgnoreCase))
+        .Where(path => !Path.GetFileName(path).Contains("PART B", StringComparison.OrdinalIgnoreCase))
+        .ToList();
 }
 
 static string ResolveDataDirectory()

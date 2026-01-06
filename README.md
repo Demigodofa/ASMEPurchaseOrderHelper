@@ -37,6 +37,7 @@ PC UI tool to help purchasing agents generate correct ASME purchase orders. The 
 - `PoApp.Desktop/appsettings.json` -> `Paths:PdfSourceRoot` for the local OCR PDF folder.
 - `PoApp.Ingest.Cli/appsettings.json` -> `Paths:PdfSourceRoot` for ingestion runs.
 - If left blank, the app defaults to the current user's Desktop folder.
+- Optional: `Paths:PdfFiles` to list specific PDF file paths (overrides folder scan).
 
 ## Open questions
 - Do we want a formal data schema now, or evolve it as we ingest?
