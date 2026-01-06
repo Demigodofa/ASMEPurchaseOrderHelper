@@ -3,6 +3,13 @@
     <ProjectReference Include="..\PoApp.Core\PoApp.Core.csproj" />
     <ProjectReference Include="..\PoApp.Infrastructure\PoApp.Infrastructure.csproj" />
     <PackageReference Include="CommunityToolkit.Mvvm" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="appsettings.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
   <PropertyGroup>
     <OutputType>WinExe</OutputType>

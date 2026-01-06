@@ -2,11 +2,15 @@ using System;
 using System.IO;
 using System.Windows;
 using System.Windows.Threading;
+using PoApp.Core.Configuration;
+using PoApp.Desktop.Services;
 
 namespace PoApp.Desktop;
 
 public partial class App : Application
 {
+    public static AppSettings Settings { get; private set; } = new();
+
     protected override void OnStartup(StartupEventArgs e)
     {
         // UI thread exceptions
@@ -14,6 +18,8 @@ public partial class App : Application
 
         // Non-UI exceptions
         AppDomain.CurrentDomain.UnhandledException += CurrentDomain_UnhandledException;
+
+        Settings = AppSettingsProvider.Load();
 
         base.OnStartup(e);
     }
