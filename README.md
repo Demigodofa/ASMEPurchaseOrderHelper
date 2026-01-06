@@ -38,6 +38,8 @@ PC UI tool to help purchasing agents generate correct ASME purchase orders. The 
 - `PoApp.Ingest.Cli/appsettings.json` -> `Paths:PdfSourceRoot` for ingestion runs.
 - If left blank, the app defaults to the current user's Desktop folder.
 - Optional: `Paths:PdfFiles` to list specific PDF file paths (overrides folder scan).
+- Optional: `Ingest:ExpectedSpecs` to report missing specs after ingest.
+- Optional: `Ingest:ScanMissingSpecs` to scan PDFs for any mentions of missing specs (diagnostic mode).
 
 ## Ingest output
 - Combined dataset: `data/materials.json`

@@ -51,6 +51,12 @@ WriteDataset(Path.Combine(dataDir, "materials-electrode.json"),
 Console.WriteLine($"Extracted {results.Count} material specs.");
 Console.WriteLine($"Wrote dataset to: {Path.Combine(dataDir, "materials.json")}");
 
+var missingSpecs = ReportMissingSpecs(settings, combinedDataset);
+if (missingSpecs.Count > 0 && settings.Ingest.ScanMissingSpecs)
+{
+    ScanForMissingSpecs(pdfFiles, missingSpecs);
+}
+
 static AppSettings LoadSettings()
 {
     var config = new ConfigurationBuilder()
@@ -129,7 +135,7 @@ static bool TryExtractSpecFromPage(Page page, out MaterialSpecRecord record)
     if (string.IsNullOrWhiteSpace(text))
         return false;
 
-    if (!TryGetTopRightHeader(page, out var headerText))
+    if (!TryGetTopRightHeader(page, out var headerText) && !TryGetHeaderFromTopLines(text, out headerText))
         return false;
 
     if (!TryParseSpec(headerText, out var prefix, out var number))
@@ -173,7 +179,7 @@ static bool TryGetTopRightHeader(Page page, out string headerText)
     if (words is null)
         return false;
 
-    var headerPattern = new Regex(@"^[A-Z]+-\d+[A-Z]?/[A-Z]+-\d+[A-Z]?M?$", RegexOptions.IgnoreCase);
+    var headerPattern = new Regex(@"^[A-Z]+-\d+[A-Z]?(?:/[A-Z]+-\d+[A-Z]?M?)?$", RegexOptions.IgnoreCase);
     var minLeft = page.Width * 0.55;
     var minTop = page.Height * 0.8;
 
@@ -188,6 +194,47 @@ static bool TryGetTopRightHeader(Page page, out string headerText)
             headerText = word.Text.Trim();
             return true;
         }
+    }
+
+    return false;
+}
+
+static bool TryGetHeaderFromTopLines(string text, out string headerText)
+{
+    headerText = string.Empty;
+
+    var lines = text.Split(['\r', '\n'], StringSplitOptions.RemoveEmptyEntries);
+    if (lines.Length == 0)
+        return false;
+
+    var headerPattern = new Regex(
+        @"^(?<prefix>[A-Z]+)\s*-\s*(?<num>\d+[A-Z]?)\s*/\s*(?<prefix2>[A-Z]+)\s*-\s*(?<num2>\d+[A-Z]?)\s*M?$",
+        RegexOptions.IgnoreCase);
+
+    foreach (var line in lines.Take(10))
+    {
+        var candidate = line.Trim();
+        var match = headerPattern.Match(candidate);
+        if (!match.Success)
+            continue;
+
+        var prefix = match.Groups["prefix"].Value.ToUpperInvariant();
+        var number = match.Groups["num"].Value.ToUpperInvariant();
+        headerText = $"{prefix}-{number}/{prefix}-{number}M";
+        return true;
+    }
+
+    var compactPattern = new Regex(
+        @"(?<prefix>[A-Z]+)-(?<num>\d+[A-Z]?)/(?<prefix2>[A-Z]+)-(?<num2>\d+[A-Z]?)[M]?",
+        RegexOptions.IgnoreCase);
+    var compactBlock = Regex.Replace(string.Join(" ", lines.Take(10)), @"\s+", "");
+    var compactMatch = compactPattern.Match(compactBlock);
+    if (compactMatch.Success)
+    {
+        var prefix = compactMatch.Groups["prefix"].Value.ToUpperInvariant();
+        var number = compactMatch.Groups["num"].Value.ToUpperInvariant();
+        headerText = $"{prefix}-{number}/{prefix}-{number}M";
+        return true;
     }
 
     return false;
@@ -228,4 +275,82 @@ static void WriteDataset(string path, MaterialDataset dataset)
 {
     var json = JsonSerializer.Serialize(dataset, new JsonSerializerOptions { WriteIndented = true });
     File.WriteAllText(path, json);
+}
+
+static List<string> ReportMissingSpecs(AppSettings settings, MaterialDataset dataset)
+{
+    var expected = settings.Ingest.ExpectedSpecs
+        .Where(spec => !string.IsNullOrWhiteSpace(spec))
+        .Select(spec => spec.Trim().ToUpperInvariant())
+        .Distinct()
+        .ToList();
+
+    if (expected.Count == 0)
+        return new List<string>();
+
+    var found = dataset.Materials.Select(m => m.SpecDesignation.ToUpperInvariant()).ToHashSet();
+    var missing = expected.Where(spec => !found.Contains(spec)).ToList();
+
+    if (missing.Count == 0)
+    {
+        Console.WriteLine("All expected specs were found.");
+        return missing;
+    }
+
+    Console.WriteLine($"Missing {missing.Count} expected spec(s):");
+    foreach (var spec in missing.OrderBy(spec => spec))
+        Console.WriteLine($"- {spec}");
+
+    return missing;
+}
+
+static void ScanForMissingSpecs(IEnumerable<string> pdfFiles, IReadOnlyCollection<string> missingSpecs)
+{
+    Console.WriteLine("Scanning PDFs for missing spec mentions (no header filter)...");
+
+    var patterns = missingSpecs
+        .Select(spec => new { Spec = spec, Regex = new Regex(@"\b" + Regex.Escape(spec) + @"\b", RegexOptions.IgnoreCase) })
+        .ToList();
+
+    var hits = new Dictionary<string, List<string>>(StringComparer.OrdinalIgnoreCase);
+
+    foreach (var pdfPath in pdfFiles)
+    {
+        using var document = PdfDocument.Open(pdfPath);
+        foreach (var page in document.GetPages())
+        {
+            var text = page.Text;
+            if (string.IsNullOrWhiteSpace(text))
+                continue;
+
+            foreach (var entry in patterns)
+            {
+                if (!entry.Regex.IsMatch(text))
+                    continue;
+
+                if (!hits.TryGetValue(entry.Spec, out var locations))
+                {
+                    locations = new List<string>();
+                    hits[entry.Spec] = locations;
+                }
+
+                if (locations.Count >= 3)
+                    continue;
+
+                locations.Add($"{Path.GetFileName(pdfPath)} page {page.Number}");
+            }
+        }
+    }
+
+    if (hits.Count == 0)
+    {
+        Console.WriteLine("No mentions of missing specs were found in the scanned PDFs.");
+        return;
+    }
+
+    Console.WriteLine("Missing spec mentions found:");
+    foreach (var spec in hits.Keys.OrderBy(s => s))
+    {
+        Console.WriteLine($"- {spec}: {string.Join(", ", hits[spec])}");
+    }
 }
