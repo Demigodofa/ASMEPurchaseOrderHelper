@@ -28,9 +28,9 @@ PC UI tool to help purchasing agents generate correct ASME purchase orders. The 
 - Data location: store the user data file in `%LocalAppData%\ASMEPurchaseOrderHelper\` for write access and easy updates.
 - Updates: ship a new EXE + bundled data; on run, migrate/replace the local data file if newer.
 - Data layout (to keep it fast and non-brittle):
-  - `Materials` table: `AsmeSpec`, `AstmSpec`, `AstmYear`, and other core fields.
-  - `MaterialGrades` table: `AsmeSpec`, `Grade`.
-  - `MaterialNotes` table: `AsmeSpec`, `Note`.
+  - `Materials` table: `SpecDesignation`, `SpecPrefix`, `SpecNumber`, `AstmSpec`, `AstmYear`, `Category`, and other core fields.
+  - `MaterialGrades` table: `SpecDesignation`, `Grade`.
+  - `MaterialNotes` table: `SpecDesignation`, `Note`.
   - This keeps the data normalized, avoids duplication, and scales well as fields grow.
 
 ## Configuration
@@ -38,6 +38,10 @@ PC UI tool to help purchasing agents generate correct ASME purchase orders. The 
 - `PoApp.Ingest.Cli/appsettings.json` -> `Paths:PdfSourceRoot` for ingestion runs.
 - If left blank, the app defaults to the current user's Desktop folder.
 - Optional: `Paths:PdfFiles` to list specific PDF file paths (overrides folder scan).
+
+## Ingest output
+- Combined dataset: `data/materials.json`
+- Category datasets (for UI buttons): `data/materials-ferrous.json`, `data/materials-nonferrous.json`, `data/materials-electrode.json`
 
 ## Open questions
 - Do we want a formal data schema now, or evolve it as we ingest?

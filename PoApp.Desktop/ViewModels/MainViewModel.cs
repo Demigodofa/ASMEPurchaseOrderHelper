@@ -23,7 +23,7 @@ public partial class MainViewModel : ObservableObject
     {
         var dataset = JsonMaterialRepository.LoadFromRepoDataFolder();
 
-        foreach (var m in dataset.Materials.OrderBy(m => m.AsmeSpec))
+        foreach (var m in dataset.Materials.OrderBy(m => m.SpecDesignation))
             Specs.Add(m);
 
         if (Specs.Count > 0)

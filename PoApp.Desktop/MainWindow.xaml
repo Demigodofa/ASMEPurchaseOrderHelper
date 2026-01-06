@@ -16,7 +16,7 @@
             <TextBlock Text="ASME Spec" FontWeight="SemiBold"/>
             <ComboBox ItemsSource="{Binding Specs}"
                       SelectedItem="{Binding SelectedSpec}"
-                      DisplayMemberPath="AsmeSpec"
+                      DisplayMemberPath="SpecDesignation"
                       IsEditable="True"
                       Margin="0,6,0,12"/>
 

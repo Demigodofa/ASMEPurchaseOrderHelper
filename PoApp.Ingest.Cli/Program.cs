@@ -28,31 +28,28 @@ foreach (var pdfPath in pdfFiles)
     using var document = PdfDocument.Open(pdfPath);
     foreach (var page in document.GetPages())
     {
-        if (!TryExtractSpecFromPage(page, out var asmeSpec, out var astmSpec, out var astmYear))
+        if (!TryExtractSpecFromPage(page, out var record))
             continue;
 
-        if (!results.ContainsKey(asmeSpec))
-        {
-            results[asmeSpec] = new MaterialSpecRecord(
-                AsmeSpec: asmeSpec,
-                AstmSpec: astmSpec,
-                AstmYear: astmYear,
-                Grades: Array.Empty<string>(),
-                OrderingNotes: Array.Empty<string>());
-        }
+        if (!results.ContainsKey(record.SpecDesignation))
+            results[record.SpecDesignation] = record;
     }
 }
 
 var dataDir = ResolveDataDirectory();
 Directory.CreateDirectory(dataDir);
-var outputPath = Path.Combine(dataDir, "materials.json");
+var combinedDataset = new MaterialDataset(results.Values.OrderBy(r => r.SpecDesignation).ToList());
+WriteDataset(Path.Combine(dataDir, "materials.json"), combinedDataset);
 
-var dataset = new MaterialDataset(results.Values.OrderBy(r => r.AsmeSpec).ToList());
-var json = JsonSerializer.Serialize(dataset, new JsonSerializerOptions { WriteIndented = true });
-File.WriteAllText(outputPath, json);
+WriteDataset(Path.Combine(dataDir, "materials-ferrous.json"),
+    new MaterialDataset(combinedDataset.Materials.Where(m => m.Category == MaterialCategory.Ferrous).ToList()));
+WriteDataset(Path.Combine(dataDir, "materials-nonferrous.json"),
+    new MaterialDataset(combinedDataset.Materials.Where(m => m.Category == MaterialCategory.NonFerrous).ToList()));
+WriteDataset(Path.Combine(dataDir, "materials-electrode.json"),
+    new MaterialDataset(combinedDataset.Materials.Where(m => m.Category == MaterialCategory.ElectrodeWire).ToList()));
 
 Console.WriteLine($"Extracted {results.Count} material specs.");
-Console.WriteLine($"Wrote dataset to: {outputPath}");
+Console.WriteLine($"Wrote dataset to: {Path.Combine(dataDir, "materials.json")}");
 
 static AppSettings LoadSettings()
 {
@@ -124,48 +121,59 @@ static string ResolveDataDirectory()
     return Path.Combine(AppContext.BaseDirectory, "data");
 }
 
-static bool TryExtractSpecFromPage(Page page, out string asmeSpec, out string astmSpec, out string astmYear)
+static bool TryExtractSpecFromPage(Page page, out MaterialSpecRecord record)
 {
-    asmeSpec = string.Empty;
-    astmSpec = string.Empty;
-    astmYear = string.Empty;
+    record = default!;
 
     var text = page.Text;
     if (string.IsNullOrWhiteSpace(text))
         return false;
 
-    if (!HasTopRightSaHeader(page))
+    if (!TryGetTopRightHeader(page, out var headerText))
         return false;
 
-    var asmeMatch = Regex.Match(text, @"\bSA-\d+[A-Z]?\b", RegexOptions.IgnoreCase);
-    if (!asmeMatch.Success)
+    if (!TryParseSpec(headerText, out var prefix, out var number))
         return false;
 
-    asmeSpec = asmeMatch.Value.ToUpperInvariant();
+    var designation = $"{prefix}-{number}";
 
     var astmSpecMatch = Regex.Match(text, @"\bA\d+[A-Z]?\/A\d+[A-Z]?\b", RegexOptions.IgnoreCase);
+    var astmSpec = string.Empty;
     if (astmSpecMatch.Success)
     {
         astmSpec = astmSpecMatch.Value.ToUpperInvariant();
     }
 
     var astmYearMatch = Regex.Match(text, @"\bA\d+[A-Z]?\/A\d+[A-Z]?-(\d{2,4})\b", RegexOptions.IgnoreCase);
+    var astmYear = string.Empty;
     if (astmYearMatch.Success)
     {
         var yearToken = astmYearMatch.Groups[1].Value;
         astmYear = yearToken.Length == 2 ? $"20{yearToken}" : yearToken;
     }
 
+    var category = ResolveCategory(prefix);
+    record = new MaterialSpecRecord(
+        SpecDesignation: designation,
+        SpecPrefix: prefix,
+        SpecNumber: number,
+        AstmSpec: astmSpec,
+        AstmYear: astmYear,
+        Category: category,
+        Grades: Array.Empty<string>(),
+        OrderingNotes: Array.Empty<string>());
+
     return true;
 }
 
-static bool HasTopRightSaHeader(Page page)
+static bool TryGetTopRightHeader(Page page, out string headerText)
 {
+    headerText = string.Empty;
     var words = page.GetWords();
     if (words is null)
         return false;
 
-    var headerPattern = new Regex(@"^SA-\d+[A-Z]?/SA-\d+[A-Z]?M?$", RegexOptions.IgnoreCase);
+    var headerPattern = new Regex(@"^[A-Z]+-\d+[A-Z]?/[A-Z]+-\d+[A-Z]?M?$", RegexOptions.IgnoreCase);
     var minLeft = page.Width * 0.55;
     var minTop = page.Height * 0.8;
 
@@ -176,8 +184,48 @@ static bool HasTopRightSaHeader(Page page)
 
         var box = word.BoundingBox;
         if (box.Left >= minLeft && box.Top >= minTop)
+        {
+            headerText = word.Text.Trim();
             return true;
+        }
     }
 
     return false;
+}
+
+static bool TryParseSpec(string headerText, out string prefix, out string number)
+{
+    prefix = string.Empty;
+    number = string.Empty;
+
+    if (string.IsNullOrWhiteSpace(headerText))
+        return false;
+
+    var match = Regex.Match(headerText, @"^(?<prefix>[A-Z]+)-(?<num>\d+[A-Z]?)(?:/|$)", RegexOptions.IgnoreCase);
+    if (!match.Success)
+        return false;
+
+    prefix = match.Groups["prefix"].Value.ToUpperInvariant();
+    number = match.Groups["num"].Value.ToUpperInvariant();
+    return true;
+}
+
+static MaterialCategory ResolveCategory(string prefix)
+{
+    if (prefix.Equals("SB", StringComparison.OrdinalIgnoreCase))
+        return MaterialCategory.NonFerrous;
+
+    if (prefix.StartsWith("SF", StringComparison.OrdinalIgnoreCase))
+        return MaterialCategory.ElectrodeWire;
+
+    if (prefix.Equals("SA", StringComparison.OrdinalIgnoreCase) || prefix.Equals("A", StringComparison.OrdinalIgnoreCase))
+        return MaterialCategory.Ferrous;
+
+    return MaterialCategory.Unknown;
+}
+
+static void WriteDataset(string path, MaterialDataset dataset)
+{
+    var json = JsonSerializer.Serialize(dataset, new JsonSerializerOptions { WriteIndented = true });
+    File.WriteAllText(path, json);
 }

@@ -9,7 +9,7 @@ public static class PoTextGenerator
     {
         var sb = new StringBuilder();
 
-        sb.AppendLine($"MATERIAL: ASME {spec.AsmeSpec}");
+        sb.AppendLine($"MATERIAL: ASME {spec.SpecDesignation}");
         sb.AppendLine($"EQUIVALENT: ASTM {spec.AstmSpec}-{spec.AstmYear}");
 
         if (!string.IsNullOrWhiteSpace(grade))
