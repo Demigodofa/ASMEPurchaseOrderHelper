@@ -28,7 +28,7 @@ PC UI tool to help purchasing agents generate correct ASME purchase orders. The 
 - Data location: store the user data file in `%LocalAppData%\ASMEPurchaseOrderHelper\` for write access and easy updates.
 - Updates: ship a new EXE + bundled data; on run, migrate/replace the local data file if newer.
 - Data layout (to keep it fast and non-brittle):
-  - `Materials` table: `SpecDesignation`, `SpecPrefix`, `SpecNumber`, `AstmSpec`, `AstmYear`, `Category`, and other core fields.
+  - `Materials` table: `SpecDesignation`, `SpecPrefix`, `SpecNumber`, `AstmSpec`, `AstmYear`, `AstmNote`, `Category`, and other core fields.
   - `MaterialGrades` table: `SpecDesignation`, `Grade`.
   - `MaterialNotes` table: `SpecDesignation`, `Note`.
   - This keeps the data normalized, avoids duplication, and scales well as fields grow.

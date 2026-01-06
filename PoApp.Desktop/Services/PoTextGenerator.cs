@@ -15,6 +15,11 @@ public static class PoTextGenerator
         sb.AppendLine($"MATERIAL: {materialDesignation}");
 
         if (string.Equals(selectedSpecType, "A", StringComparison.OrdinalIgnoreCase)
+            && !string.IsNullOrWhiteSpace(spec.AstmNote))
+        {
+            sb.AppendLine($"{spec.AstmNote} Per. ASME Sect.II 2025");
+        }
+        else if (string.Equals(selectedSpecType, "A", StringComparison.OrdinalIgnoreCase)
             && !string.IsNullOrWhiteSpace(spec.AstmYear))
         {
             sb.AppendLine($"{spec.AstmYear} ASTM Specification is identical to {spec.SpecDesignation} Per. ASME Sect.II 2025");

@@ -6,6 +6,7 @@ public sealed record MaterialSpecRecord(
     string SpecNumber,
     string AstmSpec,
     string AstmYear,
+    string AstmNote,
     MaterialCategory Category,
     IReadOnlyList<string> Grades,
     IReadOnlyList<string> OrderingNotes

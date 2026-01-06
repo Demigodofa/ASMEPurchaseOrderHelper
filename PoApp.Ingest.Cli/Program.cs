@@ -143,7 +143,7 @@ static bool TryExtractSpecFromPage(Page page, out MaterialSpecRecord record)
 
     var designation = $"{prefix}-{number}";
 
-    var (astmSpec, astmYear) = ExtractAstmEquivalent(text);
+    var (astmSpec, astmYear, astmNote) = ExtractAstmEquivalent(text);
 
     var category = ResolveCategory(prefix);
     record = new MaterialSpecRecord(
@@ -152,6 +152,7 @@ static bool TryExtractSpecFromPage(Page page, out MaterialSpecRecord record)
         SpecNumber: number,
         AstmSpec: astmSpec,
         AstmYear: astmYear,
+        AstmNote: astmNote,
         Category: category,
         Grades: Array.Empty<string>(),
         OrderingNotes: Array.Empty<string>());
@@ -159,21 +160,27 @@ static bool TryExtractSpecFromPage(Page page, out MaterialSpecRecord record)
     return true;
 }
 
-static (string Spec, string Year) ExtractAstmEquivalent(string text)
+static (string Spec, string Year, string Note) ExtractAstmEquivalent(string text)
 {
     if (string.IsNullOrWhiteSpace(text))
-        return (string.Empty, string.Empty);
+        return (string.Empty, string.Empty, string.Empty);
 
     var identMatch = Regex.Match(
         text,
-        @"Identical\s+with\s+ASTM\s+Specification\s+(A\d+[A-Z]?\/A\d+[A-Z]?M?)-(\d{2,4})",
-        RegexOptions.IgnoreCase);
+        @"\((?<note>Identical\s+with\s+ASTM\s+Specification\s+.+?)\)",
+        RegexOptions.IgnoreCase | RegexOptions.Singleline);
     if (identMatch.Success)
     {
-        var spec = identMatch.Groups[1].Value.ToUpperInvariant();
-        var yearToken = identMatch.Groups[2].Value;
-        var year = yearToken.Length == 2 ? $"20{yearToken}" : yearToken;
-        return (spec, year);
+        var note = NormalizeWhitespace(identMatch.Groups["note"].Value);
+        var specMatch = Regex.Match(note, @"ASTM\s+Specification\s+(A\d+[A-Z]?\/A\d+[A-Z]?M?)-(\d{2,4})",
+            RegexOptions.IgnoreCase);
+        if (specMatch.Success)
+        {
+            var spec = specMatch.Groups[1].Value.ToUpperInvariant();
+            var yearToken = specMatch.Groups[2].Value;
+            var year = yearToken.Length == 2 ? $"20{yearToken}" : yearToken;
+            return (spec, year, note);
+        }
     }
 
     var astmSpecMatch = Regex.Match(text, @"\bA\d+[A-Z]?\/A\d+[A-Z]?\b", RegexOptions.IgnoreCase);
@@ -187,7 +194,12 @@ static (string Spec, string Year) ExtractAstmEquivalent(string text)
         astmYear = yearToken.Length == 2 ? $"20{yearToken}" : yearToken;
     }
 
-    return (astmSpec, astmYear);
+    return (astmSpec, astmYear, string.Empty);
+}
+
+static string NormalizeWhitespace(string value)
+{
+    return Regex.Replace(value, @"\s+", " ").Trim();
 }
 
 static bool TryGetTopRightHeader(Page page, out string headerText)
