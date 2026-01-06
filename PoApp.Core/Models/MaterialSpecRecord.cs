@@ -8,6 +8,7 @@ public sealed record MaterialSpecRecord(
     string AstmYear,
     string AstmNote,
     MaterialCategory Category,
+    IReadOnlyList<string> OrderingInfoItems,
     IReadOnlyList<string> Grades,
     IReadOnlyList<string> OrderingNotes
 );

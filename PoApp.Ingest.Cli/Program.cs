@@ -20,25 +20,62 @@ if (pdfFiles.Count == 0)
 Console.WriteLine($"Scanning {pdfFiles.Count} PDF(s) in: {pdfRoot}");
 
 var results = new Dictionary<string, MaterialSpecRecord>(StringComparer.OrdinalIgnoreCase);
+var orderingItemsBySpec = new Dictionary<string, List<string>>(StringComparer.OrdinalIgnoreCase);
 
 foreach (var pdfPath in pdfFiles)
 {
     Console.WriteLine($"- {Path.GetFileName(pdfPath)}");
 
     using var document = PdfDocument.Open(pdfPath);
+    string? currentSpec = null;
+    var inOrderingBlock = false;
+    var currentOrderingSection = "";
+    var currentItem = "";
+
     foreach (var page in document.GetPages())
     {
-        if (!TryExtractSpecFromPage(page, out var record))
+        if (TryExtractSpecFromPage(page, out var record, out var headerText))
+        {
+            if (currentSpec is not null && !string.Equals(currentSpec, record.SpecDesignation, StringComparison.OrdinalIgnoreCase))
+            {
+                FinalizeOrderingItem(currentSpec, orderingItemsBySpec, ref currentItem);
+                inOrderingBlock = false;
+                currentOrderingSection = "";
+            }
+
+            currentSpec = record.SpecDesignation;
+            if (!results.ContainsKey(record.SpecDesignation))
+                results[record.SpecDesignation] = record;
+        }
+
+        if (currentSpec is null)
             continue;
 
-        if (!results.ContainsKey(record.SpecDesignation))
-            results[record.SpecDesignation] = record;
+        var lines = GetOrderedLines(page);
+        ProcessOrderingLines(lines, currentSpec, orderingItemsBySpec, ref inOrderingBlock, ref currentOrderingSection, ref currentItem);
+    }
+
+    if (currentSpec is not null)
+    {
+        FinalizeOrderingItem(currentSpec, orderingItemsBySpec, ref currentItem);
+        inOrderingBlock = false;
+        currentOrderingSection = "";
     }
 }
 
 var dataDir = ResolveDataDirectory();
 Directory.CreateDirectory(dataDir);
-var combinedDataset = new MaterialDataset(results.Values.OrderBy(r => r.SpecDesignation).ToList());
+var combinedDataset = new MaterialDataset(results.Values
+    .Select(record =>
+    {
+        orderingItemsBySpec.TryGetValue(record.SpecDesignation, out var orderingItems);
+        return record with
+        {
+            OrderingInfoItems = orderingItems is not null ? orderingItems.ToList() : Array.Empty<string>()
+        };
+    })
+    .OrderBy(r => r.SpecDesignation)
+    .ToList());
 WriteDataset(Path.Combine(dataDir, "materials.json"), combinedDataset);
 
 WriteDataset(Path.Combine(dataDir, "materials-ferrous.json"),
@@ -127,15 +164,16 @@ static string ResolveDataDirectory()
     return Path.Combine(AppContext.BaseDirectory, "data");
 }
 
-static bool TryExtractSpecFromPage(Page page, out MaterialSpecRecord record)
+static bool TryExtractSpecFromPage(Page page, out MaterialSpecRecord record, out string headerText)
 {
     record = default!;
+    headerText = string.Empty;
 
     var text = page.Text;
     if (string.IsNullOrWhiteSpace(text))
         return false;
 
-    if (!TryGetTopRightHeader(page, out var headerText) && !TryGetHeaderFromTopLines(text, out headerText))
+    if (!TryGetTopRightHeader(page, out headerText) && !TryGetHeaderFromTopLines(text, out headerText))
         return false;
 
     if (!TryParseSpec(headerText, out var prefix, out var number))
@@ -159,10 +197,155 @@ static bool TryExtractSpecFromPage(Page page, out MaterialSpecRecord record)
         AstmYear: astmYear,
         AstmNote: astmNote,
         Category: category,
+        OrderingInfoItems: Array.Empty<string>(),
         Grades: Array.Empty<string>(),
         OrderingNotes: Array.Empty<string>());
 
     return true;
+}
+
+static List<string> GetOrderedLines(Page page)
+{
+    var words = page.GetWords().ToList();
+    if (words.Count == 0)
+        return new List<string>();
+
+    var lineGroups = new Dictionary<double, List<Word>>();
+    const double lineTolerance = 2.0;
+
+    foreach (var word in words)
+    {
+        var top = word.BoundingBox.Top;
+        var key = lineGroups.Keys.FirstOrDefault(existing => Math.Abs(existing - top) <= lineTolerance);
+        if (Math.Abs(key) > 0.001 || lineGroups.ContainsKey(key))
+            lineGroups[key].Add(word);
+        else
+            lineGroups[top] = new List<Word> { word };
+    }
+
+    var lines = lineGroups
+        .Select(group =>
+        {
+            var lineWords = group.Value.OrderBy(w => w.BoundingBox.Left).ToList();
+            var text = string.Join(" ", lineWords.Select(w => w.Text));
+            var avgLeft = lineWords.Average(w => w.BoundingBox.Left);
+            var top = group.Key;
+            return new { Text = NormalizeWhitespace(text), Left = avgLeft, Top = top };
+        })
+        .ToList();
+
+    var midX = page.Width / 2;
+    var leftColumn = lines.Where(line => line.Left <= midX).OrderByDescending(line => line.Top).ToList();
+    var rightColumn = lines.Where(line => line.Left > midX).OrderByDescending(line => line.Top).ToList();
+
+    return leftColumn.Concat(rightColumn).Select(line => line.Text).Where(line => line.Length > 0).ToList();
+}
+
+static void ProcessOrderingLines(
+    IReadOnlyList<string> lines,
+    string spec,
+    Dictionary<string, List<string>> orderingItemsBySpec,
+    ref bool inOrderingBlock,
+    ref string currentSection,
+    ref string currentItem)
+{
+    var headerPattern = new Regex(@"\b(?<section>\d+)\s*\.\s*Ordering Information\b", RegexOptions.IgnoreCase);
+    var sectionPattern = new Regex(@"\b(?<section>\d+)\s*\.(?!\s*\d)\s+[A-Z]", RegexOptions.IgnoreCase);
+    var itemStartTemplate = @"^\s*{0}\s*\.\s*\d+(?:\s*\.\s*\d+)?\s+";
+
+    foreach (var line in lines)
+    {
+        if (line.Length == 0)
+            continue;
+
+        if (IsHeaderFooterLine(line, spec))
+            continue;
+
+        var lettersOnly = Regex.Replace(line, @"[^A-Za-z]", "").ToUpperInvariant();
+        var hasOrdering = lettersOnly.Contains("ORDERINGINFORMATION");
+        if (hasOrdering)
+        {
+            var headerMatch = headerPattern.Match(line);
+            FinalizeOrderingItem(spec, orderingItemsBySpec, ref currentItem);
+            inOrderingBlock = true;
+            currentSection = headerMatch.Success ? headerMatch.Groups["section"].Value : currentSection;
+            continue;
+        }
+
+        if (!inOrderingBlock)
+            continue;
+
+        var sectionMatch = sectionPattern.Match(line);
+        if (sectionMatch.Success && !string.IsNullOrWhiteSpace(currentSection)
+            && !string.Equals(sectionMatch.Groups["section"].Value, currentSection, StringComparison.Ordinal))
+        {
+            FinalizeOrderingItem(spec, orderingItemsBySpec, ref currentItem);
+            inOrderingBlock = false;
+            currentSection = "";
+            continue;
+        }
+
+        var otherItemSectionMatch = Regex.Match(line, @"^\s*(?<section>\d+)\s*\.\s*\d+", RegexOptions.IgnoreCase);
+        if (otherItemSectionMatch.Success && !string.IsNullOrWhiteSpace(currentSection)
+            && !string.Equals(otherItemSectionMatch.Groups["section"].Value, currentSection, StringComparison.Ordinal))
+        {
+            FinalizeOrderingItem(spec, orderingItemsBySpec, ref currentItem);
+            inOrderingBlock = false;
+            currentSection = "";
+            continue;
+        }
+
+        if (string.IsNullOrWhiteSpace(currentSection))
+        {
+            var itemSectionMatch = Regex.Match(line, @"^\s*(?<section>\d+)\s*\.\s*\d+", RegexOptions.IgnoreCase);
+            if (itemSectionMatch.Success)
+                currentSection = itemSectionMatch.Groups["section"].Value;
+        }
+
+        if (string.IsNullOrWhiteSpace(currentSection))
+            continue;
+
+        var itemStart = new Regex(string.Format(itemStartTemplate, Regex.Escape(currentSection)), RegexOptions.IgnoreCase);
+        if (itemStart.IsMatch(line))
+        {
+            FinalizeOrderingItem(spec, orderingItemsBySpec, ref currentItem);
+            currentItem = itemStart.Replace(line, "").Trim();
+            continue;
+        }
+
+        if (!string.IsNullOrWhiteSpace(currentItem))
+            currentItem = $"{currentItem} {line}";
+    }
+}
+
+static void FinalizeOrderingItem(
+    string spec,
+    Dictionary<string, List<string>> orderingItemsBySpec,
+    ref string currentItem)
+{
+    if (string.IsNullOrWhiteSpace(currentItem))
+        return;
+
+    if (!orderingItemsBySpec.TryGetValue(spec, out var existing))
+    {
+        existing = new List<string>();
+        orderingItemsBySpec[spec] = existing;
+    }
+
+    existing.Add(NormalizeWhitespace(currentItem));
+    currentItem = "";
+}
+
+static bool IsHeaderFooterLine(string line, string spec)
+{
+    if (line.Contains("ASME BPVC", StringComparison.OrdinalIgnoreCase)
+        || line.Contains("BPVC", StringComparison.OrdinalIgnoreCase))
+        return true;
+
+    if (line.Contains(spec, StringComparison.OrdinalIgnoreCase) && line.Length < 40)
+        return true;
+
+    return false;
 }
 
 static (string Spec, string Year, string Note) ExtractAstmEquivalent(string text)
