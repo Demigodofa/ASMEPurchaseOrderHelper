@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 890,
+  "globalPageIndex": 1688,
+  "width": 613.92,
+  "height": 793.2,
+  "text": "ASME BPVC.II.A-2025 \n(p J Have welding requirements been defined, and weld \nmetal and weldment data been submitted? \n(q) Has the influence of fabrication practices on materi\u00ad\nal properties been defined? \nIV-1900 REQUIREMENTS FOR RECOGNIZED \nNATIONAL OR INTERNATIONAL \nSPECIFICATIONS \nAcceptable material specifications will be identified by \ndate or edition. The latest approved edition(s) will be sta\u00ad\nted in the subtitle of the ASME specification. Eventually, \nacceptable previous editions will be listed in Section II, \nParts A and B. Minimum requirements that shall be con\u00ad\ntained in a material specification for which acceptance \nis being requested include such items as the name of \nthe national or international organization, scope, refer\u00ad\nence documents, process, manufacture, conditions for de\u00ad\nlivery, heat treatment, chemical and tensile requirements, \nforming properties, testing specifications and require\u00ad\nments, workmanship, finish, marking, inspection, and \nrejection. \nIV-2000 PUBLICATION OF RECOGNIZED \nNATIONAL OR INTERNATIONAL \nSPECIFICATIONS \nSpecifications for which ASME has been given publish\u00ad\ning permission by the originating organization will be \npublished in Section II, Parts A and B. Specifications for \nwhich ASME has not been given publishing permission \nby the originating organization will be referenced on a \ncover sheet in Section II, Parts A and B. Information on ob\u00ad\ntaining a copy of those referenced documents will be \nmaintained in those Parts. Additions and exceptions to \nthe material specification will be noted in the subtitle of \nthe specification and in Table 11-200-1 or 11-200-2 in Sec\u00ad\ntion II, Parts A and B. \nIV-2100 CEN SPECIFICATIONS \nEuropean Standards are adopted by CEN in three offi\u00ad\ncial languages (English, French, and German) as an EN \nstandard. After the CEN adoption, to become applicable \nin a member country of CEN, an EN standard shall be giv\u00ad\nen the status of a national standard. During this process \n(a) the text of the EN standard shall remain unaltered \nand shall be included as adopted by CEN \n(b) national forewords and/or annexes may be added \nto cover specific national practices, but shall not be irt \ncontradiction with the EN standard \n(c) a prefix XX (e.g., XX= BS for the United Kingdom, NF \nfor France, and DIN for Germany) is added to the designa\u00ad\ntion of the EN standard (e.g., BS EN 10028-1 or NF EN \n10028-1) \n( d) the date of adoption as a national standard will dif\u00ad\nfer from the date of adoption as an EN standard, and may \ndiffer from one country to another \nWritten or electronic copies can only be obtained from \nEuropean National Standardization Bodies as XX EN (CEN \ndoes not sell standards). Consequently, in order to main\u00ad\ntain coherence and homogeneity in the reference system, \nthe mentions in the subtitle of the corresponding ASME \nspecification will only refer to the EN standard number \nwithout any prefix and to the year of approval by CEN. \nIt will also be mentioned in the cover sheet that the na\u00ad\ntional parts do not apply for the ASME specification. \n1634 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1688.json",
+  "tabulaTablesCsv": "tables_tabula/page-1688.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-1688.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 3062,
+  "bestTextAlphaRatio": 0.7792
+}

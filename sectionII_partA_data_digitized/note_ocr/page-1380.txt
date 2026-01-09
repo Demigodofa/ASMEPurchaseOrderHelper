@@ -1,0 +1,144 @@
+SA-813/SA-813M
+
+8.1.1 Specified Diameter—The outside diameter shall be
+based on circumferential measurement and shall not exceed the
+tolerances stated as follows:
+
+8.1.1.1 For sizes up to and including NPS 1%, +0.010 in.
+[£0.25 mm],
+
+8.1.1.2 For sizes NPS 1% up to and including NPS 6,
++0.020 in. [+0.5 mm],
+
+8.1.1.3 For sizes NPS 8 up to and including NPS 18,
++0.030 in. [£0.75 mm],
+
+8.1.1.4 For sizes NPS 20 up to and including NPS 24,
++0.040 in. [+1 mm], and
+
+8.1.1.5 For sizes NPS 30, +0.050 in. [£1.25 mm].
+
+8.1.1.6 Outside diameter tolerances closer than shown
+above may be obtained by agreement between the pipe
+manufacturer and purchaser.
+
+8.1.2 Out-of-Roundness—The difference between the major
+and the minor outside diameter shall not be more than 1.5 % of
+the specified outside diameter.
+
+8.1.3 Alignment (Camber)—Using a 10-ft [3.0-m] straight-
+edge placed so that both ends are in contact with the pipe, the
+camber shall not be more than %e in. [4.8 mm].
+
+8.1.4 Thickness—The wall thickness at any point in the pipe
+excluding the weld, shall not be more than 12 % under or over
+the nominal thickness for wall thickness less than 0.188 in.
+[4.8 mm] and not more than 0.030 in. [0.8 mm] under or over
+the nominal thickness for wall thickness 0.188 in. [4.8 mm]
+and greater. Weld reinforcement not to exceed 20 % of the wall
+thickness is permitted on each of the inside and outside
+surfaces of the pipe.
+
+9. Lengths
+
+9.1 Pipe lengths shall be in accordance with the following
+regular practice:
+
+9.1.1 Unless otherwise agreed upon, all sizes up to and
+including NPS 8 are available in a length up to 24 ft (Note 2)
+with the permissible range of 15 to 24 ft (Note 2). Short lengths
+are acceptable and the number and minimum length shall be
+agreed upon between the manufacturer and the purchaser.
+
+Nore 2—The value(s) applies when the inch-pound designation of this
+specification is the basis of purchase. When the “M” designation of this
+specification is the basis of purchase, the corresponding metric value(s)
+shall be agreed upon between the manufacturer and purchaser.
+
+9.1.2 If definite cut lengths are desired, the lengths required
+shall be specified in the order. No pipe shall be under the
+specified length and not more than % in. [6 mm] over that
+specified.
+
+10. Workmanship, Finish, and Appearance
+
+10.1 The finished pipes shall be free of injurious imperfec-
+tions and shall have a workmanlike finish. Minor imperfections
+may be removed by grinding, provided the wall thicknesses are
+not decreased to less than that permitted in Section 8.
+
+11. Examination of Double-Welded Pipe
+
+11.1 Both ends of each double-welded (Class DW) pipe
+shall be visually examined to determine that complete fusion
+was attained between the two welds. In lieu of examining the
+
+ASME BPVC.ILA-2025
+
+ends of the pipe, this examination may be performed on
+cropped ends removed from both ends of each double welded
+pipe.
+
+12. Mechanical Tests Required
+
+12.1 Transverse or Longitudinal Tension Test—One tension
+test shall be made on a specimen for lots of not more than 100
+pipes. Tension tests shall be made on specimens from two tubes
+for lots of more than 100 pipes. Pipe size greater than NPS 6
+shall be tested using the transverse tension test with the weld
+centered in the gauge length of the test specimen. Test
+specimens shall be taken from the pipe or test plates of the
+same material as the pipe, the test plates being attached to the
+end of the cylinder and welded as prolongation of the pipe
+longitudinal weld seam.
+
+Nore 3—The term lot, for mechanical tests, applies to all pipe of the
+same nominal size and wall thickness (or schedule) which is produced
+from the same heat of steel and subjected to the same finishing treatment:
+(J) in a continuous heat-treatment furnace, or (2) in a batch-type
+heat-treatment furnace, equipped with recording pyrometers and automati-
+cally controlled within a 50 °F [30 °C] range, the larger of: (a) each 200
+ft [60 m] or fraction thereof or (b) that pipe heat treated in the same batch
+furnace charge.
+
+12.2 Flattening Test—For material heat treated in a batch-
+type furnace, flattening tests shall be made on 5 % of the pipe
+from each heat-treated lot. For material heat treated by the
+continuous process, this test shall be made on a sufficient
+number of pipe to constitute 5 % of the lot, but in no case less
+than two lengths of pipe.
+
+12.2.1 For pipe where the diameter equals or exceeds NPS
+10, a transverse-guided face bend test of the weld may be
+conducted instead of a flattening test in accordance with the
+method outlined in the steel tubular product supplement of Test
+Methods and Definitions A370. The ductility of the weld shall
+be considered acceptable when there is no evidence of cracks
+in the weld or between the weld and the base metal after
+bending. Test specimens from 5 % of the lot shall be taken
+from the pipe or test plates of the same material as the pipe, the
+test plates being attached to the end of the cylinder and welded
+as a prolongation of the pipe longitudinal seam.
+
+13. Hydrostatic or Nondestructive Electric Test
+
+13.1 Each pipe shall be subjected to the nondestructive
+electric test or the hydrostatic test. The type of test to be used
+shall be at the option of the manufacturer, unless otherwise
+specified in the purchase order.
+
+13.2 The hydrostatic test shall be in accordance with Speci-
+fication A999/A999M.
+
+13.3 Nondestructive Examination—Each pipe shall be ex-
+amined with a nondestructive test in accordance with Practice
+E213, or E426. Unless specifically called out by the purchaser,
+the selection of the nondestructive electric test will be at the
+option of the manufacturer. The range of pipe sizes that may be
+examined by each method shall be subject to the limitations in
+the scope of the respective practices.
+
+13.3.1 The following information is for the benefit of the
+user of this specification:
+
+1318

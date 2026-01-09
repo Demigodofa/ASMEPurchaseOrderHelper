@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 875,
+  "globalPageIndex": 1673,
+  "width": 617.04,
+  "height": 795.6,
+  "text": "\u2713----~ \nASME 1:JPVC.II.A-2025 \nTable 11-200-1 \nFerrous Material Specifications Acceptable for BPVC Construction (Including Acceptable ASTM \nEditions) (Cont'd) \nLatest \nASME Material Adopted \nSpecification [Note (1)] \nSA-988/SA-988M 17 \nSA-989 /SA-989M 18 \nSA-995/SA-995M 20 \n\u2022 SA-999 /SA-999M 18 \nSA-1008/SA-1008M 24 \nSA-1010/SA-lOl0M 01(2009) \nSA-1011/SA-1011M 23 \nSA-1016/SA-1016M 17a \nSA-1017 /SA-1017M 17 \nSA-1058 19 \nSA-1091 24 \nNOTES: \nDescription [Note (2)) \nAll Acceptable Editions \n[Note (3)], [Note (4)] \nIdentical except for addition of para. 5.1.6; Supplementary Requirements Sl 9, 17 \nS20, S21, and S22 are mandatory; correction to S20 to add powder storage \nrequirements. \nIdentical except for addition of para. 5.1.7; Supplementary Requirements S2, 18 \nS4, and S5 are mandatory. \nIdentical except for Grade 6A editions prior to 19 are obsolete. 98(2007) through 20 \nIdentical except for the editions prior to 04a, para. 6.2.1 on grade substitution 04a through 18 \nof the 04a edition or later applies. \nGeneral Requirements, Pipes \nIdentical except for the addition of 8.1.1.1 on mechanical properties for \npressure vessel design. \nIdentical except for an editorial correction to a column heading in Table 2. \nIdentical \nIdentical \nGeneral Requirements, Tubes \nIdentical. For Grade 122, acceptable editions 07 and later. For Grade 23, \nacceptable editions 11 and later. \nIdentical \n06 through 24 \nOla through 23 \n10 through 17a \n01 through 17 \nIdentical except for editorial correction of B9 to B91 in Table 3 and deletion of ... \n4.1.2.8 \n(1) \u2022 This refers to the edition of the source standard currently adopted by BPV II. The source standards for ASME material specifications \nlisted in this table are ASTM standards. \n(2) This refers to differences between the ASME material specification and the source standard. \n(3) This refers to acceptable editions of the corresponding ASTM specification. Ellipses in this column indicate that there are not any other \nacceptable editions. \n( 4) ASTM technical committees review the standards under their jurisdiction on a 5-yr cycle. If no changes are needed, then the standard is \nsimply reapproved. At times, editorial errors are discovered within an ASTM standard between the 5-yr review cycle. If the technical \ncommittee decides to fix the errors immediately, then the standard will be republished with a superscript epsilon ( E) in the designation. \nBPVC II Committee has taken the position that a reapproved or editorially corrected edition is technically and substantively identical to \nthe base edition. For example, edition 15(2020), 15\u20221, or 15(2020}\"1 is technically and substantively identical to 15. Therefore, for the \npurposes of ASME construction, a reapproved or editorially corrected edition of an ASTM specification shall be considered acceptable for \nuse, even if the edition is beyond the range listed in this column, provided that its base edition is within range. \n1619 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 1,
+  "tabulaTablesPath": "tables_tabula/page-1673.json",
+  "tabulaTablesCsv": "tables_tabula/page-1673.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-1673.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2952,
+  "bestTextAlphaRatio": 0.7073
+}

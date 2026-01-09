@@ -1,0 +1,94 @@
+,,ElongationA,a,,
+strength,,strength,,in 2 in. or,Wall Thickness,or 50 mm, min, %
+
+Grade and UNS Designation,ksi [MPa] ksi [MPa],min,%,,,,and,,All Other
+TP405,,,,in.,mm,S44735,S41500,Grades
+,60 [415] 30 [205],20,,,,,,
+S40500,,,5/16 [0.312],,8,18,15,20
+,55 [380] 30 [205],20,%2 [0.281],,7.2,17,14,19
+S40800,,,1⁄4 [0.250],,6.4,16,14,18
+TP410,15 60 [415] 30 [205],20,7/32 [0.219],,5.6,,13,17
+S41000,,,3/is [0.188],,4.8,14,12,16
+TP429, TP430, and TP430 Ti,,,,,,,,
+,60 [415] 35 [240],20,%2 [0.156],,4,13,11,15
+S429000, S 43000, and S 43036,,,1/a [0.125],,3.2,13,11,14
+TP443,,,,,,,,
+,70 [485] 40 [275],20,%2 [0.094],,2.4,12,10,13
+S44300,,,1/16 [0.062],,1.6,11,9,12
+TP446-1,,,,,,,,
+,70 [485] 40 [275],18,0.062--0.035, excl,,1.6-0.9,10,8,12
+S44600,,,0.035-0.022, excl,,0.9-0.6,10,8,11
+TP446-2,,,,,,,,
+,65 [450] 40 [275],20,0.022-0.015, incl,,0.6-0.4,10,8,11
+S44600,,,,,,,,
+TP409,,,ACalculated,elongation,requirements,shall be rounded,to the nearest,whole
+,55 [380] 25 [170],20,,,,,,
+S40900,,,number.,,,,,
+TP439,,,,,,,,
+,60 [415] 30 [205],20,,,,,,
+S43035,,,Note-The above table gives the computed minimum values for each 1/s2 in. [0.8,,,,,
+S43932,60 [415] 30 [205],20,mm] decrease in wall thickness. Where the wall thickness lies between two values,,,,,
+,,,shown above, the minimum elongation value shall be determined by the following,,,,,
+,115 [795] 90 [620],15,,,,,,
+S41500,,,equation:,,,,,
+TPXM-27,,,,,,,,
+,65 [450] 40 [275],20,,,,,,
+S44627,,,,,Grade,Equation,,
+TPXM-33,,,,,,,,
+,68 [470] 45 [310],20,TP446-1 and S44735,,,E = 28.81 + 9.00 [E = 1.131 + 9.00],,
+S44626,,,S41500,,,E = 241 + 7.5,,
+18Cr-2Mo,,,,,,,,
+,60[415] 40 [275],20,All other grades,,,E = 321 + 10.00 [E = 1.251 + 10.00],,
+S44400,,,,,,,,
+29-4 and 29-4-2,,,,,,,,
+,80 [550] 60 [415],20,where:,,,,,
+S44700 and S44800,,,,,,,,
+,,,E = elongation in 2 in. or 50 mm, %.,,,,,
+26-3-3,,,,,,,,
+,85 [585] 65 [450],20,t = actual thickness of specimen, in. [mm].,,,,,
+S44660,,,,,,,,
+25-4-4,,,,,,,,
+,90 [620] 75 [515],20,,,,,,
+S44635,,,,,,,,
+,,,,,TABLE 5 Hardness Requirements.,,,
+,75 [515] 60 [415],18,,,,,,
+S44735,,,,,,,,
+,,,,,,Brinell,,Rockwell
+28-2-3.5,,,,,,,,
+,,,,,,Hardness,,,Hardness,
+S32803,87 [600] 72 [500],16,,,,,,
+,,,Grade,,UNS Designation,max,B Scale, max,
+S40977,65 [450] 41 [280],18,,,,,,
+S43940,62 [430] 36 [250],18,TP405,,S40500,207,,95
+S42035,80 [550] 55 [380],16,,,S40800,207,,95
+TP468,,,TP410,,S41000,207,,95
+,60 [415] 30 [205],22,,,,,,
+S46800,,,TP429, TP430, and,,S42900, S 43000,,190,,90
+,,,TP430TI,,and S 43036,,,
+A For tubing smaller than 1⁄2 in. [12.7,mm] in outside diameter, the elongation,,,,,,,
+,,,TP443,,S44300,207,,95
+values given for strip specimens in Table,2 shall apply. Mechanical,property,,,,,,
+,,,TP446-1 and,,S44600,207,,95
+requirements do not apply to tubing,smaller than 1/a in. [3.2 mm],in outside,,,,,,
+,,,TP446-2,,,,,
+diameter or with walls thinner than 0.Q15 in. [0.4 mm].,,,,,,,,
+,,,TP409,,S40900,207,,95
+8 For longitudinal strip tests a deduction of 0.90 % for TP446-1 and S44735 and,,,,,,,,
+,,,TP439,,S43035A,190,,90
+1.00 % for all other grades shall be made from the basic minimum elongation for,,,,,,,,
+,,,,,S43932,190,,90
+each 1/s2 in. [0.8 mm] decrease in wall,thickness below 5/16 in.,[8 mm]. The,,,,,,
+,,,,,S41500,2958,,32
+following table gives the computed minimum values:,,,,,,,,
+,,,TPXM-33 and,,S44626 and,241,,100
+,,,TPXM-27,,S44627,,,
+,,,18CR-2Mo,,S44400,217,,95
+,,,29-4 and 29-4-2,,S44700 and,207,,100
+considered as scale. Any special finish requirements shall be,,,,,S44800,,,
+258 subject to agreement between the manufacturer and the pur­,,,26-3-3,,S44660,265,,
+,,,25-4-4,,S44635,270,,278
+chaser.,,,,,S44735,,,100
+,,,28-2-3.5,,S32803,240,,100
+14. Mechanical Tests Required,,,,,S40977,180,,88
+,,,,,S43940,180,,88
+14.1 Tension Tests-One tension test shall be made,,on,a,,S42035,180,,88

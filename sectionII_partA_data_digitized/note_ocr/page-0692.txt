@@ -1,0 +1,156 @@
+SA-376/SA-376M
+
+subsequent exposure to sensitizing conditions in TP321,
+TP321H, TP347, TP347H, TP348, and TP348H. When speci-
+fied by the purchaser, a lower temperature stabilization or
+re-solution anneal shall be used subsequent to the initial high
+temperature solution anneal (see Supplementary Requirement
+89).
+
+5.4 The grain size of grades 304H, 316H, 321H, 347H, and
+
+348H as determined in accordance with Test Methods E112,
+shall be No. 7 or coarser.
+
+6. Chemical Composition
+
+6.1 The steel shall conform to the requirements as to
+chemical composition prescribed in Table 1.
+
+7. Product Analysis
+
+7.1 At the request of the purchaser, an analysis of one billet
+from each heat or two pipes from each lot shall be made by the
+manufacturer. A lot of pipe shall consist of the number of
+lengths as a function of size, as shown below, of the same size
+and wall thickness from any one heat of steel:
+
+NPS [DN] Designator Lengths of Pipe in Lot
+
+Under NPS 2 [DN 50] 400 or fraction thereof
+NPS 2 [DN 50] to NPS 5 200 or fraction thereof
+[DN 125], incl
+
+Over NPS 5 [DN 125] 100 or fraction thereof
+
+7.2 The results of these analyses shall be reported to the
+purchaser or the purchaser’s representative, and shall conform
+to the requirements specified in Table 1.
+
+7.3 If the analysis of one of the tests specified in Section 8
+does not conform to the requirements specified in Section 6, an
+analysis of each billet or pipe from the same heat or lot may be
+made, and all billets or pipe conforming to the requirements
+shall be accepted.
+
+8. Tensile Requirements
+
+8.1 The material shall conform to the requirements as to
+tensile properties prescribed in Table 2.
+
+9. Workmanship, Finish, and Appearance
+
+9.1 The pipe manufacturer shall explore a sufficient number
+of visual surface imperfections to provide reasonable assurance
+that they have been properly evaluated with respect to depth.
+Exploration of all surface imperfections is not required but may
+be necessary to assure compliance with 9.2.
+
+9.2 Surface imperfections that penetrate more than 12/2 %
+of the nominal wall thickness or encroach on the minimum
+wall thickness shall be considered defects. Pipe with such
+defects shall be given one of the following dispositions:
+
+9.2.1 The defect may be removed by grinding provided that
+the remaining wall thickness is within specified limits.
+
+9.2.2 Repaired in accordance with the repair welding pro-
+visions of 9.6.
+
+9.2.3 The section of pipe containing the defect may be cut
+off within the limits of requirements on length.
+
+9.2.4 Rejected.
+
+9.3 To provide a workmanlike finish and basis for evaluat-
+ing conformance with 9.2, the pipe manufacturer shall remove
+by grinding the following:
+
+642
+
+ASME BPVC.ILA-2025
+
+TABLE 2 Tensile Requirements
+
+Tensile* Yield Elongation in 2 in. or 50
+strength, strength mm
+Grade min. KSI min, (or 4D) min, %
+[MPa] ksi ——
+MPa Longitudinal Transverse
+TP304, TP304H,
+TPSO4LN, TP316,
+TP316H, TP316LN,
+75 30
+TP347, TP347H, [515] 205 35 25
+TP347LN, TP348,
+TP348H, 16-8-2H,
+$31725
+TP304N, TP3i6N, 80 35
+$31726 (550) 240) 35 25
+$34565 115 60 35 30
+[790] 415]
+TP321, 321H
+0.375 in. 7 30 35 25
+[9.50 mm] [515] (205)
+>0.375 in. 70 25 35, 25
+[9.50 mm]? [480] 170)
+$31266 109 [750] 61 35 25
+420}
+
+For grade TP304, NPS8 or larger, and in schedules 140 and heavier, the required
+minimum tensile strength shall be 70 ksi [480 MPa].
+
+Prior to the issuance of A376/A376M — 88, the tensile and yield strength values
+were 75 [520] and 30 [210] respectively, for nominal wall greater than 0.375 in.
+[9.5 mm].
+
+9.3.1 Mechanical marks, abrasions (see Note 3), and pits,
+any of which imperfections are deeper than “ie in. [1.6 mm].
+
+Note 3—Marks and abrasions are defined as cable marks, dinges, guide
+marks, roll marks, ball scratches, scores, die marks, and so forth.
+
+9.3.2 Visual imperfections commonly referred to as scabs,
+seams, laps, tears, or slivers found by exploration in accor-
+dance with 9.1 to be deeper than 5 % of the nominal wall
+thickness.
+
+9.4 At the purchaser’s discretion, pipe shall be subject to
+rejection if surface imperfections acceptable under 9.2 are not
+scattered, but appear over a large area in excess of what is
+considered a workmanlike finish. Disposition of such pipe shall
+be a matter of agreement between the manufacturer and the
+purchaser.
+
+9.5 When imperfections or defects are removed by grinding,
+a smooth curved surface shall be maintained, and the wall
+thickness shall not be decreased below that permitted by this
+specification. The outside diameter at the point of grinding may
+be reduced by the amount so removed.
+
+9.5.1 Wall thickness measurements shall be made with a
+mechanical caliper or with a properly calibrated nondestructive
+testing device of appropriate accuracy. In case of dispute, the
+measurement determined by use of the mechanical caliper shall
+govern.
+
+9.6 Weld repair shall be permitted only subject to the
+approval of the purchaser and in accordance with Specification
+A999/A999M.
+
+9.7 The finished pipe shall be reasonably straight.
+9.8 The pipe shall be free of scale and contaminating iron
+particles. Pickling, blasting, or surface finishing is not manda-
+
+tory when pipe is bright annealed. The purchaser may request
+that a passivating treatment be applied.

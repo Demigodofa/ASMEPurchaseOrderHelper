@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 180,
+  "globalPageIndex": 978,
+  "width": 620.16,
+  "height": 798.0,
+  "text": "SA-517 /SA-517M ASME BPVC.II.A-2025 \nc0 A517/A517M -17 \nTABLE 2 Tensile Requirements \nTensile strength, ksi [MPa] \nYield strength, min, ksi [MPa] \nElongation in 2 in. [50 mm], min, %A \nReduction of area, min, %: \n2.50 in. [65 mm] and Under \n115-135 [795-930] \n100 [690] \n16 \nRectangular specimens 35 \nRound specimens 45 \nA See Specification A20/A20M for elongation adjustment. \nSupplementary Requirement S17, Vacuum Carbon-Deoxidized \nSteel, in Specification A20/ A20M for grades other than Grade \nA. \n7. Mechanical Requirements \n7.1 Tension Tests: \n7 .1.1 Requirements-The plates as represented by the \ntension-test specimens shall conform to the requirements given \nin Table 2. \n7.1.2 Test Methods: \n7.1.2.1 The yield strength may be determined by the 0.2 % \noffset method or by the total extension under load of 0.5 % \nmethod. \n7.1.2.2 For plates 3/'4 in. [20 nun] and under in thickness, the \ntest specimen shall be the 1 \u00bd in. [40 mm] wide rectangular-test \nspecimen. \n7.1.2.3 For plates over \u00be in. [20 mm], either the full \nthickness rectangular-test specimen or the \u00bd in. [12.5 mm] \nround-test specimen may be used. \nOver 2.50 to 6 in. [65 to 150 mm] \n105-135 [725-930] \n90 [620] \n14 \n45 \n7 .1.2.4 When the 1 \u00bd in. [ 40 mm] wide rectangular-test \nspecimen is used, the elongation is measured in a 2 in. or [50 \nmm] gage length which includes the fracture. \n7 .2 Impact Properties Requirements: \n7 .2.1 Transverse Charpy V-notch impact test specimens \nshall have a lateral expansion opposite the notch of not less \nthan 0,015 in. [0.38 mm]. \n7.2.2 The test temperature shall be agreed upon between the \nmanufacturer and the purchaser, but shall not be higher than \n32\u00b0F [0\u00b0C]. \n8. Keywords \n8.1 alloy steel; boilers; high-strength; impact tested; plates; \npressure vessels; quenched; tempered \nSUPPLEMENTARY REQUIREMENTS \nSupplementary requirements shall not apply unless specified in the order. \nA list of standardized supplementary requirements for use at the option of the purchaser are included \nin Specification A20/A20M. Several of those considered suitable for use with this specification are \nlisted by title. Other tests may be performed by agreement between the supplier and the purchaser. \nL \ni \nI \n____ ____.S~l;_.:_, _V._._.a~c~u~um~T~r~e~atm=e\"'n\"'t,L_ _____________ -----:-~S~S~I~JJttasonic~aminationJ,11--acc01xiance-with-S-J:leGifiea--------,---\nS2. Product Analysis, tion A435/A435M, \nS3. Simulated Post-Weld Heat Treatment of Mechanical S9. Magnetic Particle Examination, \nTest Coupons, Sll. Ultrasonic Examination in accordance with Specifica-\nS5. Charpy V-Notch Impact Test, tion A577/A577M, \nS6. Drop Weight Test (for Material 0.625 in. [16 mm] and S12. Ultrasonic Examination in accordance with Specifica-\nover in Thickness), tion A578/A578M, and \nS7. High-Temperature Tension Test, S17. Vacuum Carbon-Deoxidized Steel. \n878 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0978.json",
+  "tabulaTablesCsv": "tables_tabula/page-0978.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text\\pages\\page-0978.txt",
+  "bestTextSource": "full_ocr_highdpi",
+  "bestTextLength": 2847,
+  "bestTextAlphaRatio": 0.671
+}

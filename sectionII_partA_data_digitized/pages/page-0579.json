@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 579,
+  "globalPageIndex": 579,
+  "width": 604.32,
+  "height": 847.68,
+  "text": "ASME BPVC.II.A-2025 SA-350/SA-3S0M (ASTM A350/A350M) \nSPECIFICATION FOR CARBON AND LOW-ALLOY STEEL \nFORGINGS, REQUIRING NOTCH TOUGHNESS TESTING \nFOR PIPING COMPONENTS \nSA-3 50 /SA-3 SOM cO \nINT/iRNATIONAL \nStandards Worldwide \n(Identical with ASTM Specification A350/A350M-23 except for the deletion of footnote Din Table 1 and revision to \n14.1.5.) \nASME SA-350/SA-350M replaces Table 1 Note D and para. 14.1.5 of ASTM A350/A350M with the following: \n0 DELETED \n14.1.5 Impact test results, 7 .2 (Table 3, Table 4, Table 5, and Table 6), including specimen size if sub size specimens were \nused. \n527 \n(25) ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0579.json",
+  "tabulaTablesCsv": "tables_tabula/page-0579.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-0579.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 607,
+  "bestTextAlphaRatio": 0.6524
+}

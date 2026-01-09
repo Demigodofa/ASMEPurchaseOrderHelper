@@ -1,0 +1,2952 @@
+=== Page 317 ===
+
+ASME BPVC.II.A-2025 SA-204/SA-204M
+i SPECIFICATION FOR PRESSURE VESSEL PLATES,
+ALLOY STEEL, MOLYBDENUM
+CxS SA-204/SA-204M ily 25)
+® Standards Worldwide
+| (Identical with ASTM Specification A204/A204M-17.)
+| 265
+
+=== Page 318 ===
+
+SA-204/SA-204M ASME BPVC.II.A-2025 
+Standard Specification for 
+Pressure Vessel Plates, Alloy Steel, Molybdenum 
+1. Scope 
+1.1 This specification covers molybdenum-alloy steel 
+plates, intended particularly for welded boilers and other 
+pressure vessels. 
+1.2 Plates under this specification are available in three 
+grades having different strength levels as follows: 
+Grade Tensile Strength, ksi [MPa] 
+A 65-85 [450-585] 
+B 70-90 [485-620] 
+C 75-95 [515-655] 
+1.3 The maximum thickness of plates is limited only by the 
+capacity of the composition to meet the specified mechanical 
+property requirements. 
+1.4 The values stated in either inch-pound units or SI units 
+are to be regarded separately as standard. Within the text, the 
+SI units are shown in brackets. The values stated in each 
+system are not exact equivalents; therefore, each system must 
+be used independently of the other. Combining values from the 
+two systems may result in nonconformance with this specifi­
+cation. 
+l .5 This international standard was developed in accor­
+dance with internationally recognized principles on standard­
+ization established in the Decision on Principles for the 
+Development of International Standards, Guides and Recom­
+mendations issued by the World Trade Organization Technical 
+Barriers to Trade (TBT) Committee. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+A20/ A20M Specification for General Requirements for Steel 
+Plates for Pressure Vessels 
+266 
+A435/A435M Specification for Straight-Beam Ultrasonic 
+Examination of Steel Plates 
+A577/A577M Specification for Ultrasonic Angle-Beam Ex­
+amination of Steel Plates 
+A578/A578M Specification for Straight-Beam Ultrasonic __ _ 
+Examination of Rolled Steel Plates for Special Applica­
+tions 
+3. General Requirements and Ordering Information 
+• 3.1 Material supplied to this material specification shall 
+conform to Specification A20/ A20M. These requirements out­
+line the testing and retesting methods and procedures, permit­
+ted variations in dimensions, and mass, quality and repair of 
+defects, marking, loading, and ordering information. 
+3.2 In addition to the basic requirements of this 
+specification, certain supplementary requirements are available 
+when additional control, testing, or examination is required to 
+meet end use requirements. The purchaser is referred to the 
+listed supplementary requirements in this specification and to 
+the detailed requirements in Specification A20/A20M. 
+3.3 Coils are excluded from qualification to this specifica­
+tion until they are processed into finished plates. Plates 
+produced from coil means plates that have been cut to 
+individual lengths from coil. The processor directly controls, or 
+is responsible for, the operations involved in the processing of 
+coils into finished plates. Such operations include decoiling, 
+leveling, cutting to length, testing, inspection, conditioning, 
+heat treatment (if applicable), packaging, marking, loading for 
+shipment, and certification. 
+Norn 1-For plates produced from coil and furnished without heat 
+treatment or with stress relieving only, three test results are reported for 
+each qualifying coil. Additional requirements regarding plates from coil 
+are described in Specification A20/A20M. 
+3.4 If the requirements of this specification are in conflict 
+with the requirements of Specification A20/A20M, the require­
+ments of this specification shall prevail. 
+4. Materials and Manufacture 
+4.1 Steelmaking Practice-The steel shall be killed.
+
+=== Page 319 ===
+
+( 
+ASME BPVC.II.A-2025 SA·204/SA-204M 
+TABLE 1 Chemical Requirements 
+Element Composition, % 
+Grade A Grade B Grade C 
+Carbon, max:A 
+Up to 1 in. [25 mm] 0.18 0.20 0.23 
+incl, In thickness 
+Over 1 in. to 2 in. [50 mm] 0.21 0.23 0.26 
+incl, in thickness 
+Over 2 in. to 4 in. [100 mm] 0.23 0.25 0.28 
+incl, in thickness 
+Over 4 in. [100 mm] 0.25 0.27 0.28 
+in thickness 
+Manganese, max: 
+Heat analysis 0.90 0.90 0.90 
+Product analysis 0.98 0.98 0.98 
+Pho_sphorous, maxA 0.025 0.025 0.025 
+Sulfur, maxA 0.025 0.025 0.025 
+Silicon: 
+Heat analysis 0.15-0.40 0.15-0.40 0.15-0.40 
+Product analysis 0.13-Q.45 0.13-Q.45 0.13-Q.45 
+Molybdenum: 
+Heat analysis 0.45-o.60 0.45-0.60 0.45-0.60 
+Product analysis 0.41-0.64 0.41-0.64 0.41-0.64 
+A Applies to both heat and product analyses. 
+TABLE 2 Tensile Requirements 
+Grade A Grade B Grade C 
+ksi [MPa] ksi [MPa] ksi [MPa] 
+Tensile strength 65-85 [45Q-585] 70-90 [485-620] 75-95 [515-655] 
+Yield strength, minA 37 [255] 40 [275] 43 [295] 
+Elongation in 8 in. [200 mm], min, % 8 19 17 16 
+Elongation in 2 in. [50 mm], min, % 8 23 21 20 
+A Determined by either the 0.2 % offset method or the 0.5 % extension-under-load method. 
+8 See Specification A20/A20M for elongation adjustment. 
+5. Heat Treatment 
+5.1 Plates 1½ in. [40 mm] and under in thickness are 
+normally supplied in the as-rolled condition. The plates may be 
+ordered normalized, normalized and tempered, or stress re­
+lieved. 
+5.2 Plates over 1 ½ in. [40 mm] in thickness shall be 
+normalized or normalized and tempered. 
+6. Chemical Requirements 
+6.1 The steel shall conform to the chemical requirements 
+given in Table 1 unless otherwise modified in accordance with 
+Supplementary Requirement S17, Vacuum Carbon-Deoxidized 
+Steel, in Specification A20/ A20M. 
+7. Mechanical Requirements 
+7 .1 Tension Test Requirements-The plates, as represented 
+by the tension-test specimens, shall conform to the require­
+ments given in Table 2. 
+8. Keywords 
+8.1 alloy steel plate; molybdenum-alloy; pressure contain­
+ing parts; pressure vessel steel plate 
+SUPPLEMENTARY REQUIREMENTS 
+Supplementary requirements shall not apply unless specified in the purchase order. 
+A list of standardized supplementary requirements for use at the option of the purchaser is included 
+in Specification A20/A20M. Those that are considered suitable for use with this specification are listed 
+in this section by title. 
+S 1. Vacuum Treatment, 
+S2. Product Analysis, 
+S3. Simulated Post-Weld Heat Treatment of Mechanical 
+Test Coupons, 
+267 
+S4.1 Additional Tension Test, 
+S5. Charpy V-Notch Impact Test, 
+S6. Drop Weight Test (for Material 0.625 in. [16 mm] and 
+over in Thickness),
+
+=== Page 320 ===
+
+SA-204/SA-204M ASME BPVC.II.A-2025 
+S7. High-Temperature Tension Test, 
+S8. Ultrasonic Examination in accordance with Specifica­
+tion A435/A435M, 
+S9. Magnetic Particle Examination, 
+S 11. Ultrasonic Examination in accordance with Specifica­
+tion A577/A577M, 
+268 
+Sl2. Ultrasonic Examination in accordance with Specifica­
+tion A578/ A578M, and 
+S17. Vacuum Carbon-Deoxidized Steel.
+
+=== Page 321 ===
+
+ASME BPVC.ILA-2025 SA-209/SA-209M
+
+SPECIFICATION FOR SEAMLESS
+CARBON-MOLYBDENUM ALLOY-STEEL BOILER AND
+SUPERHEATER TUBES
+
+CxS SA-209/SA-209M Ally
+
+INTERNATIONAL
+'® Standards Wore
+
+(Identical with ASTM Specification A209/A209M-03(2017),)
+
+269
+
+=== Page 322 ===
+
+SA-209 /SA-209M ASME BPVC.II.A-2025 
+Standard Specification for 
+Seamless Carbon-Molybdenum Alloy-Steel Boiler and 
+Superheater Tubes 
+l. Scope 
+1.1 This specification covers several grades of minimum­
+wall-thickness, seamless, carbon-molybdenum alloy-steel, 
+boiler and superheater tubes. 
+1.2 This specification covers tubes l/2 to 5 in. [12.7 to 127 
+mm] inclusive, in outside diameter and 0.035 to 0.500 in. [0.9 
+to 12.7 mm], inclusive, in minimum wall thickness. 
+1.3 An optional supplementary requirement is provided and, 
+when desired, shall be so stated in the order. 
+1.4 The values stated in either inch-pound units or SI units 
+are to be regarded separately as standard. Within the text, the 
+SI units are shown in brackets. The values stated in each 
+system are not exact equivalents; therefore, each system must 
+be used independently of the other. Combining values from the 
+two systems may result in nonconformance with the specifi­
+cation. The inch-pound units shall apply unless the "M" 
+designation of this specification is specified in the order. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+Al016/Al016M Specification for General Requirements for 
+Ferritic Alloy Steel, Austenitic Alloy Steel, and Stainless 
+Steel Tubes 
+3. General Requirements 
+3J Product furnished under this specification shall conform 
+to the requirements of Specification A1016/A1016M, includ-
+ing any supplementary requirements that are indicated in the 
+purchase order. Failure to comply with the general require­
+ments of Specification A1016/Al016M constitutes nonconfor­
+mance with this specification. In case of conflict with the 
+requirements of this specification and Specification Al016/ 
+Al016M, this specification shall prevail. 
+4. Materials and Manufacture 
+4.1 Steelmaking Practice--The steel shall be killed. 
+4.2 The tubes shall be made by the seamless process and 
+shall be either hot-finished or cold-finished, as specified. 
+4.3 Heat Treatment-Hot-finished tubes shall be heat treated 
+at a temperature of 1200 °F [650 °C] or higher. Cold-finished 
+tubes shall, after the final cold finishing, be heat treated at a 
+temperature of 1200 °F [650 °C] or higher, or tubing may be 
+furnished in the full-annealed, isothermal annealed, or nonnal­
+ized and tempered condition. If furnished in the normalized 
+and tempered condition, the minimum tempering temperature 
+shall be 1200 °F [ 650 °C]. 
+5. Chemical Composition 
+270 
+5 .1 The steel shall conform to the requirements given in 
+Table L 
+5.2 Product Analysis 
+5.2.1 An analysis shall be made by the manufacturer of one 
+billet or one tube from each heat. The chemical composition 
+thus determined, shall conform to the requirements given in 
+Table 1. 
+5.2.2 If the original test for product analysis fails, retests of 
+two additional billets or tubes shall be made. Both retests for 
+the elements in question shall meet the requirements of the 
+specification; otherwise all remaining material in the heat or lot 
+(See 7.1) shall be rejected or, at the option of the producer, each 
+billet or tube may be individually tested for acceptance. Billets 
+or tubes that do not meet the requirements of the specification 
+shall be rejected.
+
+=== Page 323 ===
+
+ASME BPVC.II.A-2025 SA-209/SA-209M 
+TABLE 1 Chemical Composition Requirements 
+Element 
+Grade T1 
+Carbon 0.10-0.20 
+Manganese 0.30-0.80 
+Phosphorus, max 0.025 
+Sulfur, max 0.025 
+Silicon 0.10-0.50 
+Molybdenum 0.44-0.65 
+6. Mechanical Properties 
+6.1 Tensile Requirements 
+Composition,% 
+Grade T1a Grade T1b 
+0.15-0.25 0.14 max 
+0.30-0.80 0.30-0.80 
+0.025 0.025 
+0.025 0.025 
+0.10-0.50 0.10-0.50 
+0.44-0.65 0.44-0.65 
+6.1.1 The material shall conform to the requirements given 
+in Table 2. 
+6.1.2 Table 3 gives the computed minimum elongation 
+values for each ½2-in. [0.8-mm] decrease in wall thickness. 
+Where the wall thickness lies between two values shown 
+above, the minimum elongation value shall be determined by 
+the following equation: 
+E = 48t+ 15.00[E 0 = L87t+l5.00] (l) 
+where: 
+E = elongation in 2 in. [50 mm],%, and, 
+= actual thickness of specimen, in. [mm]. 
+6.2 Hardness Requirements-The tubes shall have a hard­
+ness not exceeding the values given in Table 4. 
+6.3 Number of Tests 
+6.3.1 Tension Test-One tension test shall be made on a 
+specimen for lots of not more than 50 tubes. Tension tests shall 
+be made on specimens from two tubes for lots of more than 50 
+tubes (See 7 .2) 
+6.3.2 Flattening Test-One flattening test shall be made on 
+specimens from each end of one finished tube, not the one used 
+for the flaring test, from each lot (See 7.1) 
+6.3.3 Flaring Test-One flaiing test shall be made on 
+specimens from each end of one finished tube, not the one used 
+for the flattening test, from each lot (See 7.1) 
+6.3.4 Hardness Test-Brinell or Rockwell hardness tests 
+shall be made on specimens from two tubes from each lot (See 
+7.2) 
+TABLE 2 Tensile Requirements 
+Tensile strength, min, ksi [MPa] 
+Yield strength, min, ksi [MPa] 
+Elongation in 2 in. or 50 mm, min, % 
+For longitudinal strip tests a deduction 
+shall be made for each ½2-in. 
+[0.8- mm] decrease in wall thickness 
+below 5/16 in. [8 mm] from the 
+basic minimum elongation of the 
+following percentage 
+Grade 
+Ti 
+55 (380] 
+30 (205] 
+30 
+1.5QA 
+Grade 
+T1b 
+53 (365] 
+28 (195] 
+30 
+1.5QA 
+When standard round 2-in. or 50-mm 22 22 
+gage length or smaller proportion-
+ally sized specimen with the gage 
+length equal to 40 (four times the 
+diameter) is used 
+ATable 3 gives the computed minimum values. 
+Grade 
+Tia 
+60 (415] 
+32 [220] 
+30 
+1.50A 
+22 
+TABLE 3 Computed Minimum Values 
+Wall Thickness Elongation in 2 in. or 50 _____ i_n _________ m_m____ mm, min, %A 
+o/16 (0.312) 
+%2 (0.281) 
+¼ (0.250) 
+7 /s2 (0.219) 
+s;;e (0.188) 
+5/,2 (0.156) 
+1/a (0.125) 
+%2 (0.094) 
+1/16 (0.062) 
+8 
+7.2 
+6.4 
+5.6 
+4.8 
+4 
+3.2 
+2.4 
+1.6 
+30 
+29 
+27 
+26 
+24 
+22 
+21 
+20 
+18 
+Acalculated elongation requirements shall be rounded to the nearest whole 
+number. 
+271 
+TABLE 4 Hardness Requirements 
+Grade T 1 
+Grade T 1a 
+Grade T 1b 
+7. Sampling 
+Brinell Hardness 
+Number (Tubes 0.200 
+in. (5.1 mm] and over in 
+Wall Thickness), HBW 
+146 
+153 
+137 
+Rockwell Hardness 
+Number (Tubes less than 
+0.200 in. [5.1 mm] in 
+Wall Thickness), HRS 
+80 
+81 
+77 
+7. l Flattening, Flaring, and Product Analysis-For 
+flattening, flaring, and product analysis requirements, the term 
+lot applies to all tubes prior to cutting of the same nominal size 
+and wall thickness that are produced from the same heat of 
+steel. When final heat treatment is in a batch-type furnace, a lot 
+shaU include only those tubes of the same size and from the 
+same heat that are heat treated in the same furnace charge. 
+When the final heat treatment is in a continuous furnace, the 
+number of tubes of the same size and from the same heat in a 
+lot shall be determined from the size of the tubes given in Table 
+5. 
+7.2 Tension and Hardness Tests-For tension and hardness 
+tests, the term lot applies to all tubes prior to cutting, of the 
+same nominal diameter and wall thic.kness that are produced 
+from the same heat of steel. When final heat treatment is in a 
+batch-type furnace, a lot shall include only those tubes of the 
+same size and the same heat that are heat treated in the same 
+furnace charge. When the final heat treatment is in a continuous 
+furnace, a lot shall include all tubes of the same size and heat, 
+heat treated in the same furnace at the same temperature, time 
+at heat, and furnace speed. 
+TABLE 5 Number of Tubes in a Lot Heat Treated by the 
+Continuous Process 
+Size of Tube Size of Lot 
+2 in. [50.8 mm] and over in outside diameter and not more than 50 tubes 
+0.200 in. [5.1 mm] and over in wall thickness 
+2 in. (50.8 mm] and over in outside diameter and not more than 75 tubes 
+under 0.200 in. [5.1 mm] in wall thickness 
+Less than 2 in. (50.8 mm] but over 1 in. (25.4 mm] not more than 75 tubes 
+in outside diameter 
+1 in. [25.4 mm] or less in outside diameter not more than 125 tubes
+
+=== Page 324 ===
+
+SA-209 /SA-209M ASME BPVC.Il.A-2025 
+8. Forming Operations 
+8.1 Tubes when inserted in the boiler shall stand expanding 
+and beading without showing cracks or flaws. Superheater 
+tubes when properly manipulated shall stand all forging, 
+welding, and bending operations necessary for application 
+without developing defects. 
+9. Product Marking 
+9 .1 In addition to the marking prescribed in Specification 
+A1016/Al016M, the marking shall include whether the tube is 
+hot-finished or cold-finished. 
+10. Keywords 
+10.1 boiler tubes; carbon-molybdenum; seamless steel 
+tube; steel tube; superheater tubes 
+SUPPLEMENTARY REQUIREMENTS 
+The following supplementary requirement shall apply only when specified by the purchaser in the 
+inquiry, contract, or order. 
+Sl. Surface Condition 
+S 1.1 If pickling or shot blasting, or both, are required, this 
+shall be specifically stated in the order. Details of this supple­
+mental requirement shall be agreed upon between the manu­
+facturer and the purchaser. 
+272
+
+=== Page 325 ===
+
+ASME BPVC.II.A-2025 SA-210/SA-210M (ASTM A210/A210M)
+| SPECIFICATION FOR SEAMLESS MEDIUM-CARBON
+STEEL BOILER AND SUPERHEATER TUBES
+| CxS SA-210/SA-210M ily (25)
+® Standards Worldwide
+| (Identical with ASTM Specification A210/A210M-19.)
+273
+
+=== Page 326 ===
+
+SA-210/SA-210M (ASTM A210/A210M) ASME BPVC.II.A-2025 
+a Designation: A210/A210M-19 
+•u ,11 
+INTERNATIONAL 
+Standard Specification for 
+Seamless Medium-Carbon Steel Boiler and Superheater 
+Tubes 1 
+This standard is issued under the fixed designation A210/A210M; the number immediately following the designation indicates the year 
+of original adoption or, in the case of revision, the year of last revision. A number in parentheses indicates the year of last reapproval. 
+A superscript epsilon (e) indicates an editorial change since the last revision or reapproval. 
+1. Scope* 
+1.1 This specification 2 covers minimum-wall-thickness, 
+seamless medium-carbon steel, boiler tubes and boiler flues, 
+including safe ends (see Note 1), arch and stay tubes, and 
+superheater tubes. 
+NoTE 1-This type is not suitable for safe ending by forge welding. 
+1.2 The tubing sizes and thicknesses usually furnished to 
+this specification are½ in. to 5 in. [12.7 to 127 mm] in outside 
+diameter and 0.035 to 0.500 in. [0.9 to 12.7 mm], inclusive, in 
+minimum wall thickness. Tubing having other dimensions may 
+be furnished, provided such tubes comply with all other 
+requirements of this specification. 
+1.3 Mechanical property requirements do not apply to 
+tubing smaller than 1/s in. [3.2 mm] in inside diameter or 0.015 
+in. [0.4 mm] in thickness. 
+1.4 This specification covers grades A-1 and C of Seamless 
+Medium-Carbon Boiler and Superheater Tubes with different 
+chemical and tensile requirements. (Table 1, Table 3, and 
+Section 11.) 
+1.5 The values stated in either inch-pound units or SI units 
+are to be regarded separately as standard. Within the text, the 
+SI units are shown in brackets. The values stated in each 
+system are not exact equivalents; therefore, each system must 
+be used independently of the other. Combining values from the 
+two systems may result in nonconformance with the specifi­
+cation. The inch-pound units shall apply unless the "M" 
+designation of this specification is specified in the order. 
+1.6 This international standard was developed in accor­
+dance with internationally recognized principles on standard­
+ization established in the Decision on Principles for the 
+Development of International Standards, Guides and Recom­
+mendations issued by the World Trade Organization Technical 
+Barriers to Trade (TBT) Committee. 
+1 This specification is under the jurisdiction of ASTM Committee AO! on Steel, 
+Stainless Steel and Related Alloys and is the direct responsibility of Subcommittee 
+A0l.09 on Carbon Steel Tubular Products. 
+Current edition approved May I, 2019. Published May 2019. Originally 
+approv.ed in 1938. Last previous edition approved in _2012 as A210/A210M- 02 
+(2012). DOI: 10.1520/A0210_A0210M-19. 
+2 For ASME Boiler and Pressure Vessel Code applications see related Specifi­
+cation SA-210 in Section II of that Code. 
+2. Referenced Documents 
+2.1 ASTM Standards: 3 
+A450/A450M Specification for General Requirements for 
+Carbon and Low Alloy Steel Tubes 
+3. Ordering Information 
+3 .1 Orders for material under this specification should 
+include the following, as required, to describe the desired 
+material adequately: 
+3.1.1 Quantity (feet, metres, or number of lengths), 
+3.1.2 Name of material (seamless tubes), 
+3.1.3 Grade, 
+3.1.4 Manufacture (hot-finished or cold-finished), 
+3 .1.5 Size ( outside diameter and minimum wall thickness), 
+3.1.6 Length (specific or random), 
+3.1.7 Optional requirements (Sections 7 and 10), 
+3.1.8 Test report required, (see Certification Section of 
+Specification A450/ A450M), 
+3.1.9 Specification designation, and 
+3.1.10 Special requirements. 
+4. General Requirements 
+4.1 Material furnished under this specification shall con­
+form to the applicable requirements of the current edition of 
+Specification A450/A450M, unless otherwise provided herein. 
+5. Manufacture 
+5.1 Steelmaking Practice-The steel shall be killed. 
+5.2 The tubes shall be made by the seamless process and 
+shall be either hot-finished or cold-finished, as specified. 
+6. Heat Treatment 
+6.1 Hot-finished tubes need not be heat treated. Cold­
+finished tubes shall be given a subcritical anneal, a full anneal, 
+or a normalizing heat treatment after the final cold finishing 
+process. 
+3 For referenced ASTM standards, visit the ASTM website, www.asttn.org, or 
+contact ASTM Customer Service at service@astm.org. For Annual Book of ASTM 
+Standards volume information, refer to the standard's Document Summary page on 
+the ASTM website. 
+* A Summary of Changes section appears at the end of this standard 
+274
+
+=== Page 327 ===
+
+ASME BPVC.II.A-Z0Z5 SA-Z10/SA-Z10M {ASTM AZ10/AZ10M) 
+Element 
+CarbonA , max 
+Manganese 
+Phosphorus, max 
+Sulfur, max 
+Silicon, min 
+TABLE 1 Chemical Requirements 
+Grade A-1 
+0.27 
+0.93 max 
+0.035 
+0.035 
+0.10 
+Composition, % 
+Grade C 
+0.35 
+0.29-1.06 
+0.035 
+0.035 
+0.10 
+A For each reduction of 0.01 % below the specified carbon maximum, an increase 
+of 0.06 % manganese above the specified maximum will be permitted up to a 
+maximum of 1.35 %. 
+TABLE 3 Tensile Requirements 
+Tensile strength, min, ksi [MPa] 
+Yield strength, min, ksi [MPa] 
+Elongation in 2 in. or 50 mm, min, % 
+For longitudinal strip tests, a deduction shall be 
+made for each ½2-in. (0.8-mm] decrease in 
+wall thickness under 5 /16 in. [8 mm] from the 
+basic minimum elongation of the following 
+percentage points 
+Grade A-1 
+60 (415] 
+37 (255] 
+30 
+1.50 A 
+When standard round 2-in. or 50-mm gage length 22 
+or smaller proportionally sized specimen 
+with the gage length equal to 4D (four times 
+the diameter) is used 
+A See Table 4 for the computed minimum values. 
+7. Surface Condition 
+Grade C 
+70 (485] 
+40 (275] 
+30 
+1.50 A 
+20 
+7 .1 If pickling or shot blasting or both are required, this 
+shall be specifically stated in the order. 
+8. Chemical Composition 
+8.1 The steel shall conform to the requirements as to 
+chemical composition prescribed in Table 1. 
+8.2 When a grade is ordered under this specification, sup­
+plying an alloy grade that specifically requires the addition of 
+any element other than those listed for the ordered grade in 
+Table 1 is not permitted. 
+9. Product Analysis 
+9.1 When requested on the purchase order, a product analy­
+sis shall be made by the supplier from one tube or billet per 
+heat. The chemical composition thus determined shall conform 
+to the requirements specified. 
+9.2 If the original test for product analysis fails, retests of 
+two additional billets or tubes shall be made. Both retests for 
+the elements in question shall meet the requirements of the 
+specification; otherwise, all remaining material in the heat or 
+lot (see Note 2) shall be rejected or, at the option of the 
+producer, each billet or tube may be individually tested for 
+acceptance. Billets or tubes which do not meet the require­
+ments of the specification shall be rejected. 
+Now 2-For flattening and flaring requirements, the term "lot" applies 
+to all tubes prior to cutting of the same nominal size and wall thickness 
+which are produced from the same heat of steel. When final heat treatment 
+is in a batch-type furnace, a lot shall include only those tubes of the same 
+size and from the same heat which are heat treated in the same furnace 
+charge. When the final heat treatment is in a continuous furnace, the 
+number of tubes of the same size and from the same heat in a lot shall be 
+determined from the size of the tubes as prescribed in Table 2. 
+NoTE 3-For tensile and hardness test requirements, the term "lot" 
+applies to all tubes prior to cutting, of the same nominal diameter and wall 
+thickness which are produced from the same heat of steel. When final heat 
+treatment is in a batch-type furnace, a lot shall include only those tubes of 
+the same size and the same heat which are heat treated in the same furnace 
+charge. When the final heat treatment is in a continuous furnace, a lot shall 
+include all tubes of the same size and heat, heat treated in the same furnace 
+at the same temperature, time at heat, and furnace speed. 
+10. Tensile Requirements 
+10.1 The material shall conform to the requirements as to 
+tensile properties prescribed in Table 3. 
+10.2 Table 4 gives the computed minimum elongation 
+values for each 1/32-in. [0.8-mm] decrease in wall thickness. 
+Where the wall thickness lies between two values shown 
+above, the minimum elongation value shall be determined by 
+the following equation: 
+E = 48t+ 15.00 [ E = l.87t+ 15.00] 
+where: 
+E elongation in 2 in. or 50 mm, %, and 
+= actual thiclmess of specimen, in. [mm]. 
+11. Hardness Requirements 
+11.1 The tubes shall have a hardness not exceeding the 
+following: 79 HRBW or 143 HBW for Grade A-1, 89 HRBW 
+or 179 HBW for Grade C. 
+12. Mechanical Tests Required 
+12.1 Tension Test-One tension test shall be made on a 
+specimen for lots of not more than 50 tubes. Tension tests shall 
+be made on specimens from two tubes for lots of more than 50 
+tubes (see Note 3). 
+12.2 Flattening Test-One flattening test shall be made on 
+specimens from each end of one finished tube from each lot 
+(see Note 2), but not the one used for the flaring test. Tears or 
+breaks occurring at the 12 or 6 o'clock positions on Grade C 
+tubing with sizes of 2.375 in. [60.3 mm] in outside diameter 
+and smaller shall not be considered a basis for rejection. 
+12.3 Flaring Test-One flaring test shall be made on speci­
+mens from each end of the one finished tube from each lot (see 
+Note 2), but not the one used for the flattening test. 
+12.4 Hardness Test-Brinell or Rockwell hardness tests 
+shall be made on specimens from two tubes from each lot (see 
+Note 3). 
+275 
+TABLE 2 Number of Tubes in a Lot Heat Treated by the 
+Continuous Process 
+Size of Tube Size of Lot 
+2 in. (50.8 mm) and over in outside diameter and not more than 50 tubes 
+0.200 in. (5.1 mm) and over in wall thickness 
+2 in. (50.8 mm) and over in outside diameter and not more than 75 tubes 
+under 0.200 in. (5.1 mm) in wall thickness 
+Less than 2 in. (50.8 mm) but over 1 in. not more than 75 tubes 
+(25.4 mm) in outside diameter 
+1 in. (25.4 mm) or less in outside diameter not more than 125 tubes
+
+=== Page 328 ===
+
+SA-210/SA-210M (ASTM A210/A210M) ASME BPVG.II.A-2025
+TABLE 4 Computed Minimum Elongation Values 13. Forming Operations
+Wall Thickness, in. [mm] etengation ial 13.1 When inserted in the boiler, tubes shall stand ex-
+’ 3s /0 . . . . ;
+panding and beading without showing cracks or flaws. When
+S46 (0.312) [8] . 30 properly manipulated, superheater tubes shall stand all forging,
+ye 580) (ea “ welding, and bending operations necessary for application
+| “he (0.219) [5.6] 26 without developing defects.
+Ae (0.188) [4.8] 24
+“se (0.156) [4] 22 14. Product Marking
+Ye (0.125) [3.2] 21
+Yaa (0.094) [2.4] 20 14.1 In addition to the marking prescribed in Specification
+“Ae (0.062) [1.6] 18 A450/A450M, the marking shall indicate whether the tube is
+0.062 to 0.035 [1.6 to 0.9], excl 17 . . =
+0.035 to 0.022 [0.9 to 0.6], excl 16 hot-finished or cold-finished.
+: —E—EE— — 14.2 Bar Coding—In addition to the requirements in 14.1
+‘ Calculated elongation requirements shall be rounded to the nearest whole bar coding is acceptable as a supplemental identification
+method. The purchaser may specify in the order a specific bar
+coding system to be used.
+12.5 Hydrostatic or Nondestructive Electric Test—Each 156. K q
+tube shall be subjected to the hydrostatic, or, instead of this - Keywords
+test, a nondestructive electric test may be used when specified 15.1 boiler tubes; carbon; seamless steel tube; steel tube;
+by the purchaser. } superheater tubes
+SUMMARY OF CHANGES
+Committee AO1 has identified:the location of selected changes to this specification since the last issue,
+A210/A210M — 02 (2012), that may impact the use of this specification. (Approved May 1, 2019.) |
+(1) Scope was expanded to include grades. :
+(2) Hardness values were aligned to match changes in A370 |
+Sections 16-18 reporting of hardness values. |
+ASTM International takes no position respecting the validity of any patent rights asserted in connection with any item mentioned
+in this standard. Users of this standard are expressly advised that determination of the validity of any such patent rights, and the risk
+of infringement of such rights, are entirely their own responsibility.
+This standard is subject to revision at any time by the responsible technical committee and must be reviewed every five years and
+if not revised, either reapproved or withdrawn. Your comments are invited either for revision of this standard or for additional standards
+and should be addressed to ASTM International Headquarters. Your comments will receive careful consideration at a meeting of the
+responsible technical committee, which you may attend. If you feel that your comments have not received a fair hearing you should
+make your views known to the ASTM Committee on Standards, at the address shown below.
+This standard is copyrighted by ASTM International, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428-2959,
+United States, Individual reprints (single or multiple copies) of this standard may be obtained by contacting ASTM at the above
+. address or at 610-832-9585 (phone), 610-832-9555 (fax), or service@astm.org (e-mail); or through the ASTM website
+(www.astm.org). Permission rights to photocopy the standard may also be secured from the Copyright Clearance Center, 222 mae oe
+Rosewood Drive, Danvers, MA 01923, Tel: (978) 646-2600; http://www.copyright.corm/
+276
+4
+
+=== Page 329 ===
+
+ASME BPVC.II.A-2025 SA-213/SA-213M (ASTM A213/A213M) 
+SPECIFICATION FOR SEAMLESS FERRITIC AND 
+AUSTENITIC ALLOY-STEEL BOILER, SUPERHEATER, 
+AND HEAT-EXCHANGER TUBES 
+SA-213/SA-213M cO 
+INTERNATIONAL 
+Standards Worldwide 
+(Identical with ASTM Specification A213/A213M-23 except for the additional H Grade requirements in para. 6.2 and 
+Supplementary Requirement S5 made mandatory.) 
+ASME SA-213/SA-213 replaces para. 6.2.2 of ASTM A213/A213M with the following: 
+6.2.2 Austenitic Stainless Steels-All austenitic tubes shall be furnished in the heat-treated condition, and shall be heat 
+treated in accordance with the requirements of Table 3. Other than for Grades S30815, S30942, S31272, S33228, S30432, 
+and H grades, seamless tubing immediately following hot forming may be individually quenched in water or rapidly cooled 
+by other means ( direct quenched), provided that the temperature of the tubes after hot forming is not less than the 
+minimum specified heat treatment temperatures. For H grades, as well as Grades S30815, S30942, S31272, S33228, and 
+S30432, the tubes shall be reheated to the specified heat treatment temperature for the required time before quenching. 
+277 
+(25)
+
+=== Page 330 ===
+
+SA-213/SA-213M (ASTM A213/A213M} ASME BPVC.II.A-2025 
+cdRnf Designation: A213/A213M-23 
+~ull 7 
+INTERNATIONAL 
+Standard Specification for 
+Seamless Ferritic and Austenitic Alloy-Steel Boiler, 
+Superheater, and Heat-Exchanger Tubes 1 
+This standard is issued under the fixed designation A213/A213M; the number immediately following the designation indicates the year 
+of original adoption or, in the case of revision, the year of last revision. A number in parentheses indicates the year of last reapproval. 
+A superscript epsilon (s) indicates an editorial change since the last revision or reapproval. 
+This standard has been approved for use by agencies of the U.S. Department of Defense. 
+1. Scope* 
+1. 1 This specification 2 covers seamless ferritic and auste­
+nitic steel boiler, superheater, and heat-exchanger tubes, des­
+ignated Grades TS, TP304, etc. These steels are listed in Tables 
+1 and 2. 
+1.2 Grades containing the letter, H, in their designation, 
+have requirements different from those of similar grades not 
+containing the letter, H. These different requirements provide 
+higher creep-rupture strength than normally achievable in 
+similar grades without these different requirements. 
+1.3 The tubing sizes and thicknesses usually furnished to 
+this specification are 1/s in. [3.2 mm] in inside diameter to 5 in. 
+[127 mm] in outside diameter and 0.015 to 0.500 in. [0.4 to 
+12.7 mm], inclusive, in minimum wall thickness or, if specified 
+in the order, average wall thickness. Tubing having other 
+diameters may be furnished, provided such tubes comply with 
+all other requirements of this specification. 
+1.4 The values stated in either SI units or inch-pound units 
+are to be regarded separately as standard. Within the text, the 
+SI units are shown in brackets. The values stated in each 
+system may not be exact equivalents; therefore, each system 
+shall be used independently of the other. Combining values 
+from the two systems may result in non-conformance with the 
+standard. The inch-pound units shall apply unless the "M" 
+designation of this specification is specified in the order. 
+l.5 This international standard was developed in accor­
+dance with internationally recognized principles on standard­
+ization established in the Decision on Principles for the 
+Development of International Standards, Guides and Recom­
+mendations issued by the World Trade Organization Technical 
+Barriers to Trade (TBT) Committee. 
+1 This specification is under the jurisdiction of ASTM Committee A0l on Steel, 
+Stainless Steel and Related Alloys and is the direct responsibility of Subcommittee 
+A0l.10 on Stainless and Alloy Steel Tubular Products. 
+Current edition approved May 1, 2023. Published June 2023. Originally 
+approved in 1939. Last previous edition approved in 2022 as A213/A213M - 22a. 
+DOI: 10.1520/A0213_A0213M-23. 
+2 For ASME Boiler and Pressure Vessel Code applications see related Specifi­
+cation SA-213 in Section II of that Code. 
+2. Referenced Documents 
+2.1 ASTM Standards:3 
+A262 Practices for Detecting Susceptibility to Intergranular 
+Attack in Austenitic Stainless Steels 
+A941 Terminology Relating to Steel, Stainless Steel, Related 
+Alloys, and Ferroalloys 
+A1016/A1016M Specification for General Requirements for 
+Ferritic Alloy Steel, Austenitic Alloy Steel, and Stainless 
+Steel Tubes 
+E112 Test Methods for Determining Average Grain Size 
+2.2 A WS Specifications 4 
+A5.5/A5.5M Specification for Low-Alloy Steel Electrodes 
+for Shielded Metal Arc Welding 
+A5.23/A5.23M Specification for Low-Alloy Steel Elec­
+trodes and Fluxes for Submerged Arc Welding 
+A5.28/A5.28M Specification for Low-Alloy Steel Elec­
+trodes for Gas Shielded Arc Welding 
+A5.29/A5.29M Low-Alloy Steel Electrodes for Flux Cored 
+Arc Welding 
+3. Terminology 
+3.1 Definitions-For definitions of terms used in this 
+specification, refer to Terminology A941. 
+4. Ordering Information 
+4.1 It shall be the responsibility of the purchaser to specify 
+all requirements that are necessary for products under this 
+specification. Such requirements to be considered include, but 
+are not limited to, the following: 
+4.1.1 Quantity (feet, metres, or number of lengths), 
+4.1.2 Name of material (seamless tubes), 
+4.1.3 Grade (Tables 1 and 2), 
+4.1 .4 Condition (hot finished or cold finished), 
+4.1.5 Heat treatment type (Table 3). 
+4.1.6 Controlled structural characteristics (see 6.3), 
+3 For referenced ASTM standards, visit the ASTM website, www.astm.org, or 
+contact ASTM Customer Service at service@astm.org. For Annual Book of ASTM 
+Standards volume information, refer to the standard's Document Summary page on 
+the ASTM website. 
+4 Available from American Welding Society (AWS), 550 NW LeJeune Rd., 
+Miami, FL 33126, http://www.aws.org. 
+* A Summary of Chauges section appears at the end of this standard 
+278
+
+=== Page 331 ===
+
+TABLE 1 Chemical Composition Limits, %“ , for Low Alloy Steel
+Grade Designation Composition, %
+Carbon Manga- Phospho- Sul- Silicon Nickel Chromium Molybdenum Vana- Boron Niobium® Nitrogen Aluminum Tungsten Other
+| nese rus fur dium Elements
+T2 K11547,——s-0.10-0.20 0.30—0.61 0.025 0.025" 0.10-0.30 es 0.50-0.81 0.44—-0.65 ee - es we wee wee we
+T5 K41545 0.15 0.30-0.60 0.025 0.025 0.50 we 4.00-6.00 0.45—0.65 ee i es vee _ we -
+T5b K51545 0.15 0.30-0.60 0.025 0.025 1.00-2.00 we 4.00-6.00 0.45-0.65 we ee wee i ee wee -
+T5c K41245 0.12 0.30-0.60 0.025 0.025 0.50 i 4.00-6.00 0.45—0.65 - wee es wes we vee Ti
+4xC-0.70 .
+T9 K90941 0.15 0.30-0.60 0.025 0.025 0.25-—1.00 ee 8.00-10.00 0.90—1.10 we ee wee wee we wee i
+T11 K11597 = 0.05-0.15 0.30-0.60 0.025 0.025 0.50—1.00 ee 1.00-1.50  0.44-0.65 ve wee ee es we wes wes
+T12 K11562 0.05-0.15 0.30-0.61 0.025 0.0258 0.50 ee 0.80-1.25 0.44~0.65 ve we - es vee wee ee
+T17 K12047 = 0.15-0.25 0.30—0.61 0.025 0.025 0.15-0.35 . ve 0.80—1.25 i 0.15 we wee ve wee wee wee
+T21 K31545 0.05-0.15 0.30-0.60 0.025 0.025 0.50—1.00 was 2.65-3.35 0.80-1.06 we vee _ - - ee ve
+T22 K21590 0.05-0.15 0.30-0.60 0.025 0.025 0.50 - 1.90-2.60 0.87—1.13 wee we _ i - wee ves
+T23 K40712 0.04-0.10 0.10-0.60 0.030 0.010 0.50 0.40 1.90-2.60  0.05—0.30 0.20-0.30 0.0010- 0.02-0.08 0.015 0.030 1.45-1.75 Ti 0.005—
+0.006 0.060
+TV/N =
+3.5°
+T24 K30736 0.05-0.10 0.30-0.70 0.020 0.010 0.15—0.45 wes 2.20-2.60 0.90—1.10 0.20-0.30 0.0015- ee 0.012 0.02 - Ti
+0.007 0.06-—0.10
+T36 K21001 0.10-0.17 0.80—-1.20 0.030 0.025 0.25-0.50 1.00—1.30 0.30 0.25-—0.50 0.02 ves 0.015-0.045 0.02 0.050 wee Cu
+0.50—0.80
+T91 Type 1 K90901 0.07-0.14 0.30-0.60 0.020 0.010 0.20-0.50 0.40 8.0-9.5 0.85-1.05 0.18-0.25 ee 0.06-0.10  0.030- 0.02 - Ti 0.01 >
+0.070 Zr 0.01 2
+T91 Type 2 K90901 les)
+i) Heat 0.08-0.12 0.30-0.50? 0.020” 0.005" 0.20-0.40? 0.20? 8.0-9.5°  0.85-1.05 0.18-0.25 0.0012  0.06-0.10 0.035— 0.020? 0.05? Ti 0.01° =
+“NI
+Product 0.07—-0.13 0.80-—1.05 0.16-0.27 0.05—0.11 Sb —
+: >
+0.003? BS
+Sn oO
+0.010” N
+As od
+: , : 0.010?
+N/Al 4.0
+min
+T92 K92460 __(0.07-0.13 0.30-0.60 0.020 0.010 0.50 0.40 8.5-9.5 0.30-0.60 0.15-0.25 0.001i- 0.04-0.09 0.030— 0.02 1.5-2.00 Ti0.01
+0.006 0.070 Zr 0.01
+T93 K91350 0.05-0.10 0.20-0.70 0.020 0.008 0.05--0.50 0.20 8.50—9.50 ve 0.15-0.30 0.007-— Fe. 0.005— 0.030 2.5-3.5 Co
+: 0.015 0.015 2.5-3.5
+Nd a
+) 0.010— is
+0.060
+. O 0.0050 >
+T7115 K91060 | >
+Heat 0.08-0.13 0.20-0.50 0.020 0.005 0.15-0.45 0.25 10.0-11.0 0.40-0.60 0.18-0.25 0.001 0.02-—0.06 0.030— 0.02 wee Ti 0.01 N
+| 0.070 Zr 0.01
+, | Cu 0.10 2
+| As 0.010 >
+. = | Sn 0.010 7)
+| Sb 0.003 2
+W 0.05 >
+, N/AI 4.0 N
+min w
+, : CNB? >
+10.5 max N
+=
+: w
+=
+ee
+|
+|
+|
+. |
+
+=== Page 332 ===
+
+N 
+co 
+0 
+TABLE 1 Continued 
+UNS Grade Composition, % Designation 
+Carbon Manga• Phospho· Sul· Silicon Nickel Chromium Molybdenum Vana· Boron NiobiumE Nitrogen Aluminum 
+nese rus fur dium 
+Product 0.07-0.14 0.20-0.50 0.020 0.005 0.15-0.45 0.25 10.0-11.0 0.37-0.63 0.16-0.27 0.001 0.02-0.07 0.030- 0.02 
+0.070 
+T122 K91271 0.07-0.14 0.70 0.020 0.010 0.50 0.50 10.0-11.5 0.25-0.60 0.15-0.30 0.0005- 0.04-0.10 0.040- 0.02 
+0.005 0.100 
+T128 K91421 0.12 - 0.30- 0.02 0.01 0.20- 0.10 -0.40 10.50 - 0.20 - 0.60 0.15 - 0.008- 0.02 - 0.06 0.002- 0.02 
+0.17 0.80 0.60 12.00 0.30 0.015 0.020 
+T911 K91061 0.09-0.13 0.30-0.60 0.020 0.010 0.10-0.50 0.40 8.5-9.5 0.90-1.10 0.18-0.25 0.0003- 0.06-0.10 0.040- 0.02 
+0.006 0.090 
+T921 K91201 0.08-0.12 0.5-0.7 0.03 0.02 1.6-2.2 0.8-1.4 8.0-9.5 0.8-1.1 0.02-0.05 0.04 
+A Maximum, unless range or minimum is indicated. Where ellipses ( ... ) appear in this table, there is no requirement, and analysis for the element need not be determined or reported. 
+8 It is permissible to order T2 and T12 with a sulfur content of 0.045 max. See 16.3. 
+Tungsten Other 
+Elements 
+Ti 0.01 
+Zr 0.01 
+Cu 0.10 
+As 0.010 
+Sn 0.010 
+Sb 0.003 
+W0.05 
+1.50-2.50 Cu 
+0.30-1.70 
+Ti 0.01 
+Zr 0.01 
+1.50- Co 1.50 
+2.20 -2.20 
+Cu 0.15 
+0.90-1.10 Ti 0.01 
+Zr0.D1 
+Cu 
+0.8·1.4 
+cAlternatively, in lieu of this ratio minimum, the material shall have a minimum hardness of 275 HV in the hardened condition, defined as after austenitizing and cooling to room temperature but prior to tempering. Hardness 
+testing shall be performed at mid-thickness of the product. Hardness test frequency shall be two samples of product per heat treatment lot and the hardness testing results shall be reported on the material test report. 
+0 Applies to both heat and product analyses. 
+Ethe terms Niobium (Nb) and Columbium (Cb} are alternate names for the same element. 
+FGrade T93 shall have a Nb + Ta content of 0.05-0.12 %. 
+°Chromium-Nickel Balance is defined as CNB = (Cr + 6Si + 4Mo + 1.5W + 11V + 5Nb + 9TI + 12AI} - (40C + 30N + 4Ni + 2Mn + 1 Cu). 
+( 
+tll 
+;i. 
+N 
+""" w ......_ 
+tll 
+;i. 
+N 
+""" w 
+3: 
+~ 
+tll .., 
+3: 
+;i. 
+N 
+""" w ......_ 
+;i. 
+N 
+""" w 
+3: ._, 
+;i. 
+tll 
+3: 
+t"l 
+l:!l 
+'"0 
+< 
+~ 
+~ 
+N 
+0 
+N 
+C/1
+
+=== Page 333 ===
+
+TABLE 2 Chemical Composition Limits, %“ , for Austenitic and Ferritic Stainless Steel
+UNS Composition
+Grade Designation Carbon Manga- Phospho- Sulfur Silicon Chromium Nickel Molybdenum Nitrogen? Niobium” Titanium Other
+nese rus Elements
+TP201 $20100 0.15 5.5-7.5 0.060 0.030 1.00 16.0-18.0 3.5-5.5 wee 0.25 wee ee _
+TP202 $20200 0.15 7.5-10.0 0.060 0.030 1.00 17.0-19.0 4.0-6.0 ee 0.25 wee we es
+XM-19 $20910 0.06 4.0-6.0 0.045 0.030 1.00 20.5—23.5 11.5-13.5  1.50-3.00 0.20—0.40 0.10—0.30 ee V 0.10—0.30
+Cc $21500 0.06—0.15 5.5-7.0 0.045 0.030 0.20—1.00 14.0-16.0 9.0—-11.0 0.80—1.20 a 0.75—1.25 wee B 0.003—
+0.009,
+V 0.15—0.40
+Cc ~ §25700 : 0.02 2.00 0.025 0.010 6.5-8.0 8.0-11.5 22.0—25.0 0.50 wes - ee vee
+TP304 S$30400 0.08 2.00 0.045 0.030 1.00 18.0—20.0 8.0—11.0 ee i wes vee wes
+TP304L ~ §30403 | 0.035” 2.00 0.045 0.030 1.00 18.0-20.0 8.0-12.0 we ve ee we wee
+TP304H $30409 0.04—0.10 2.00 0.045 0.030 1.00 18.0-20.0 8.0—11.0 wes we ee ee ee
+Cc $30432 0.07—0.13 1.00 0.040 ~— 0.010 . 0.30 17.0-19.0 7.5-10.5 ee 0.05—0.12 0.30—0.60 wee Al 0.003—
+0.030,
+. B 0.001-
+0.010,
+Cu 2.5-3.5 .
+C $30434 0.07—0.14 2.00 0.040 0.010 1.00 17.5-19.5 9.0-12.0 be we 0.10-0.40  0.10-0.25* B 0.001-
+0.004
+Cu 2.50—
+3.50 Bp
+TP304N $30451 0.08 2.00 0.045 0.030 1.00 18.0—20.0 8.0—-11.0 wee 0.10—0.16 ee we - =
+TP304LN $30453 0.035? 2.00 0.045 0.030 1.00 18.0—20.0 8.0—-11.0 i 0.10—0.16 i i _ oo
+S C $30615 0.016-0.24 2.00 0.030 0.030 3.2—4.0 17.0-19.5 13.5-16.0 - ee ee ee Al 0.8-1.5 =
+be Cc $30815 0.05—0.10 0.80 0.040 0.030 1.40—2.00 20.0—22.0 10.0-12.0 ee 0.14—0.20 ve we Ce 0.03-0.08 x
+TP309S $30908 0.08 2.00 0.045 0.030 1.00 22.0—-24.0 12.0-15.0 - ee ue _ ve =
+TP309H $30909 0.04—-0.10 2.00 0.045 0.030 1.00 22.0-24.0 12.0—15.0 i - ee wee es N
+TP309LMOoN $30925 0.025 2.00 0.040 0.030 0.70 23.0—26.0 13.0-16.0 0.5-1.2 0.25—0.40 ve vee wee NS
+TP309Cb $30940 0.08 2.00 0.045 0.030 1.00 22.0—24.0 12.0—16.0 ve wee 10xC—1.10 we we de
+TP309HCb $30941 0.04—0.10 2.00 0.045 0.030 1.00 22.0-24.0 12.0-16.0 vee i 10xC-1.10 ee we
+wes $30942 0.03—0.10 2.00 0.040 0.030 1.00 21.0—23.0 14.5-16.5 0.10—0.20 0.50—0.80 B=0.001—0.005
+Cc $31002 0.015 2.00 0.020 0.015 0.15 24.0-26.0 19.0—22.0 0.10 - 0.10 i vee wee
+TP310S $31008 0.08 2.00 0.045 0.030 1.00 24.0-26.0 19.0-22.0 wee i ve ve ee
+TP310H $31009 0.04—0.10 2.00 — 0.045 — 0.030 1.00 24.0-26.0 19.0—22.0 - a ee ee ve a
+TP310MoCbN -§$31025 0.10 1.50 0.030 0.030 1.00 19.5—23.0 23.0-26.0 1.0-2.0 0.10-0.25 0.10—0.40 0.20 B 0.002- >
+. 0.010 N
+$31035 0.04—0.10 0.60 0.025 0.015 0.40 21.5-23.5 23.5-26.5 i 0.20—0.30 0.40—0.60 ee W 3.0-4.0 &
+. | . Co 1.0-2.0 4
+Cu 2.5-3.5 is
+B 0.002— _
+0.008 =
+TP310Cb $31040 0.08 2.00 0.045 0.030 1.00 24.0-26.0 19.0-22.0 wee we 10xC-1.10 we vee en
+TP310HCb $31041 0.04—0.10 2.00 0.045 0.030 1.00 24.0-26.0 19.0—22.0 wes _ 10xC-1.10 ee ee 7
+. TP310HCbDN $31042 0.04—0.10 2.00 0.045 0.030 1.00 24.0-26.0 19.0—22.0 we 0.15—0.35 0.20—-0.60 wee we =
+Cc $31043 0.04—0.10 2.00 0.045 0.030 1.00 24.0—26.0 19.0—22.0 we 0.15—0.35 0.20-0.50° wee Ta 0.20 min? >
+TP310MoLN $31050 0.025 2.00 0.020 0.030 0.40 24.0-26.0 21.0-23.0 2.00-3.00 0.10—0.16 ee we wee SS
+Cc S31060 0.05—0.10 1.00 0.040 0.030 0.50 22.0-24.0 10.0-12.5 _ 0.18-0.25 we i Ce+La 2
+0.025-0.070 re
+| B 0.001—0.010 ae
+Cc $31254 0.020 1.00 0.030 0.010 0.80 19.5-20.5 17.5-18.5 6.0-6.5 0.18—0.25 . ee wee Cu 0.50—1.00 =z
+ee 3
+
+=== Page 334 ===
+
+TABLE 2 Continued tn
+5 UNS Composition °
+esignation SOS
+Grade , Carbon Manga Phospho- Sulfur Silicon — Chromium Nickel Molybdenum Nitrogen? Niobium” Titanium Kents &
+>
+ve $31266 0.030 2.00—4.00 0.035 0.020 1.00 23.0—25.0 21.0—24.0 5.2-6.2 0.35—0.60 i ee Cu 1.00-2.00 e )
+W 1.50-2.50 ‘z
+Cc $31272 0.08-0.12 1.50—2.00 0.030 0.015 0.30--0.70 14.0-16.0 14.0-16.0 1.00—1.40 i ee 0.30—0.60 B 0.004— S
+) . 0.008 “nn
+oo Cc S31277 0.020 3.00 0.030 0.010 0.50 20.5-23.0 26.0—28.0 6.5-8.0 0.30-—0.40 ee i Cu 0.50—1.50 =
+_ . TP316 $31600 0.08 2.00 0.045 0.030 1.00 16.0-18.0 10.0-14.0 2.00-3.00 ue wee ee we >
+| TP316L $31603 0.035” 2.00 0.045 0.030 1.00 16.0-18.0 10.0-14.0 2.00-3.00 wee ee we we SS
+TP316H $31609 0.04—0.10 2.00 0.045 0.030 1.00 16.0—18.0 11.0-14.0 2.00—3.00 wee oe wee ee Ang
+TP316Ti $31635 0.08 2.00 0.045 0.030 0.75 16.0—18.0 10.0-14.0 2.00—3.00 0.10 wee 5X ve ‘<
+oe (C + N)- ae
+: ; 0.70 K
+TP316N $31651 0.08 2.00 0.045 0.030 1.00 16.0-18.0 10.0-13.0 2.00-—3.00 0.10-0.16 _ ee we —
+TP316LN $31653 0.035? 2.00 0.045 0.030 1.00 16.0-18.0 10.0-13.0 2.00—3.00 0.10-0.16 we ee wee
+TP317 $31700 0.08 2.00 0.045 0.030 1.00 18.0-20.0 11.0-15.0 3.0—4.0 ee ve wee ee
+TP317L $31703 0.035 2.00 0.045 0.030 1.00 18.0—20.0 11.0-15.0 3.0—4.0 we _ vee i
+TP317LM $31725 0.03 2.00 0.045 0.030 1.00 18.0-—20.0 13.5-17.5 4.0-5.0 0.20 ve i Cu 0.75
+_. TP317LMN $31726 0.03 2.00 0.045 0.030 1.00 17.0—20.0 13.5-17.5 4.0-5.0 0.10—0.20 wee we Cu 0.75
+C $31730 0.030 2.00 0.040 0.010 1.00 17.0-19.0 15.0-16.5 3.0—4.0 0.045 wee wee Cu 4.0-5.0 ~
+Cc $31740 0.005-0.020° 2.00 0.045 0.030 1.00 17.0-19.0 11.0-15.0 3.0-4.5 0.06-0.15  0.20-0.50” va ws nn
+C $32050 0.030 1.50 0.035 0.020 1.00 22.0—24.0 20.0—23.0 6.0-6.8 0.21-0.32 wee wee Cu 0.40 =
+TP321 $32100 0.08 2.00 0.045 0.030 1.00 17.0-19.0 9.0—12.0 ve ee i 5(C + N)— wee es]
+~ 0.70 =
+I) TP321H $32109 0.04—0.10 2.00 0.045 0.030 1.00 17.0-19.0 9.0-12.0 wee ee ee 4(C + N)— i ‘x
+0.70 x
+Cc $32615 0.07 2.00 0.045 0.030 4.8-6.0  16.5-19.5 19.0-22.0 0.30—1.50 wee ee ee Cu 1.50- g
+2.50
+Cc $33228 0.04—0.08 1.00 0.020 0.015 0.30 26.0—28.0 31.0-33.0 i ve 0.60—1.00 wee Ce 0.05— oI
+0.10,
+, Al 0.025
+C $34565 0.030 5.0-—7.0 0.030 0.010 1.00 23.0—25.0 16.0-18.0 4.0-5.0 0.40-0.60 0.10 ve i
+TP347 $34700 - 0.08 2.00 0.045 0.030 1.00 17.0-20.0 9.0—13.0 i vee 10xC-—1.10 wee vee
+TP347W $34705 0.05 2.00 0.040 0.030 1.00 17.0-20.0 8.00—11.0 ve 0.10—-0.25 0.25-0.50 ee V 0.20-0.50
+W 1.50-—2.60
+TP347H $34709 0.04—0.10 2.00 0.045 0.030 1.00 17.0-19.0 9.0-13.0 we es 8xC—1.10 i _
+TP347HFG $34710 0.06—0.10 2.00 0.045 0.030 1.00 17.0-19.0 9.0—13.0 ee a 8xC—1.10 ue ve
+TP347LN $34751 0.005-0.020 2.00 0.045 0.030 1.00 17.0—19.0 9.0—13.0 _ 0.06-0.10  0.20-0.50% ee _
+Cc $34752 0.005—0.020 2.00 0.035 0.010 0.60 17.0—19.0 10.0-13.0 0.20—1.20 0.06-0.12 0.20-0.50" _ Cu 2.50—3.50
+: : B 0.001—0.005
+TP348 $34800 0.08 2.00 0.045 0.030 1.00 17.0-19.0 9.0-13.0 i ee G _ Co 0.20, Ta
+- , 0.10
+TP348H S34809 0.04—0.10 2.00 0.045 0.030 1.00 17.0-19.0 9.0-13.0 ee ee a wee Co 0.20, Ta
+0.10
+ve $35045 0.06-0.10 1.50 0.045 0.015 1.00 25.0—29.0 32.0—37.0 i i i 0.15-0.60 Al 0.15—0.60
+Cu 0.75
+XM-15 338100 0.08 2.00 0.030 0.030 1.50—2.50 17.0-19.0 17.5-18.5 a we - we ve
+wee 338815 0.030 2.00 0.040 0.020 5.5-6.5 13.0-15.0 15.0-17.0 0.75—1.50 wes i wee Cu 0.75—1.50
+Al 0.30
+Alloy 20 N08020 0.070 2.00 0.045 0.035 1.00 19.0-21.0 32.0-38.0  2.00-3.00 ee M vee Cu 3.00-4.00
+N08028 0.030 2.50 0.030 0.030 1.0 26.0-28.0 30.0-34.0 3.0-4.0 Cu 0.6-1.4
+N08029 0.020 2.0 0.025 0.015 0.6 26.0-28.0 30.0-34.0 4.0-5.0 Cu 0.6-1.4
+
+=== Page 335 ===
+
+N 
+co w 
+( ( 
+TABLE2 Continued 
+UNS Composition 
+Grade Designation Manga- Phospho-Carbon nese rus Sulfur Silicon Chromium Nickel Molybdenum Nitrogen 8 NiobiumN 
+C N08367 0.030 2.00 0.040 0.030 1.00 20.0-22.0 23.5-25.5 6.00-7.00 0.18-0.25 
+800 N08800 0.10 1.50 0.045 0.Q15 1.00 19.0-23.0 30.0-35.0 
+800H N08810 0.05-0.10 1.50 0.045 0.Q15 1.00 19.0-23.0 30.0-35.0 
+N08811 0.06-0.10 1.50 0.045 0.015 1.00 19.0-23.0 30.0-35.0 
+N08904 0.020 2.00 0.040 0.030 1.00 19.0-23.0 23.0-28.0 4.0-5.0 0.10 
+N08925 0:020 1.00 0.045 0.030 0.50 19.0-21.0 24.0-26.0 6.0-7.0 0.10-0.20 
+N08926 0.020 2.00 0.030 0.010 0.50 19.0-21.0 24.0-26.0 6.0-7.0 0.15-0.25 
+TP444 S44400 0.03 1.00 0.040 0.030 1.00 17.5-19.5 K 1.75-2.50 0.035 
+C S35030 0.05-0.10 1.50 0.030 0.Q15 0.50-2.0 18.5-22.5 22.5-27.5 0.05-0.15 0.25-0.75 
+AMaximum, unless a range or minimum is indicated. Where ellipses ( ... ) appear in this table, there is no minimum and analysis for the element need not be determined or reported. 
+8The method of analysis for Nitrogen shall be a matter of agreement between the purchaser and the producer. 
+Cfor these alloys, there is no common grade designation. The UNS number uniquely identifies these alloys. 
+°For small diameter or thin walls, or both, where many drawing passes are required, a carbon maximum of 0.040 % is necessary in Grades TP304L, TP304LN, TP316L, and TP316LN. 
+EGrade S30434 shall have (Ti + ½ Nb) of not less than 2 times and not more than 4 times the carbon content. 
+FGrade TP347LN and S34752 shall have an Nb content of not less than 15 times the carbon content. 
+GGrade TP348 shall have an Nb + Ta content of not less than 1 0 times the carbon content and not more than 1.1 0 %. 
+HGrade TP348H shall have an Nb + Ta content of not less than 8 times the carbon content and not more than 1.10 %. 
+'Iron shall be determined arithmetically by difference of 100 minus the sum of the other specified elements. 
+JAi + 1i shall be 0.85 % min; 1.20 % max. 
+KGrade TP444 shall have Ni + Cu = 1.00 max. 
+LGrade TP444 shall have 1i + Nb content not less than 0.20 + 4(C+N) and not more than 0.80 %. 
+~08020 shall have an Nb + Ta content of not less than 8 times the carbon content and not more than 1.00%. 
+ivrhe terms Niobium (Nb) and Columbium (Cb) are alternative names for the same element. 
+°UNS S31043 shall have a Nb+ 1/2Ta content of 0.30 to 0.60 %. 
+PUNS designation S317 40 steel shall have a niobium content of not less than 15 times the carbon content. 
+Titanium 
+L 
+Other 
+Elements 
+Cu 0.75 
+Cu 0.75 
+Al 0.15-0.60 
+1i 0.15-0.60 
+Fe 1 39.5 min 
+Cu 0.75 
+Al 0.15-0.60 
+1i 0.15-0.60 
+Fe 1 39.5 min 
+Cu 0.75 
+Al 0.15-0.60J 
+1i 0.15-0.60J 
+Fe 1 39.5 min 
+Cu 1.00-2.00 
+Cu 0.80-1.50 
+Cu 0.50-1.50 
+Cu: 2.5-3.5 
+r;; 
+:s: 
+1:,:1 
+0:, 
+~ 
+~ N 
+0 
+N 
+U1 
+~ 
+N 
+... w ...... 
+~ 
+N 
+... w 
+:s: 
+> 
+~ :s: 
+~ ... w 
+~ ... w 
+a
+
+=== Page 336 ===
+
+SA-213/SA-213M (ASTM A213/A213M) , ASME BPVC.11.A-2025 
+TABLE 3 Heat Treatment and Grain Size RequirementsA 
+Austenitizing/ Subcritical Annealing Solutioning/ 
+Grade UNS Heat Treat Type Stabilizing Cooling Media or Tempering ASTM 
+Number Temperature, Temperature, Grain Size No. 8 
+min or range °F [°C] min or range °F ["C] 
+Ferritic Alla Steels 
+T2 K11547 full or isothermal 
+anneal; or 
+normalize and 
+temper; or 
+subcritical anneal 1200 to 1350 
+[650 to 730] 
+T5 K41545 full or isothermal 
+anneal; or 
+normalize and 1250 [675] 
+temper 
+T5b K51545 full or isothermal 
+anneal; or 
+normalize and 1250 [675] 
+temper 
+T5c K41245 subcritical anneal air or furnace 1350 [730] 0 
+T9 K90941 full or isothermal 
+anneal; or 
+normalize and 1250 [675] 
+temper 
+T11 K11597 full or isothermal 
+anneal; or 
+normalize and 1200 [650] 
+temper 
+T12 K11562 full or isothermal 
+anneal; or 
+normalize and 
+temper; or 
+subcritical anneal 1200 to 1350 
+[650 to 730] 
+T17 K12047 full or isothermal 
+anneal; or 
+normalize and 1200 [650] 
+temper 
+T21 K31545 full or isothermal 
+anneal; or 
+normalize and 1250 [675] 
+temper 
+T22 K21590 full or isothermal 
+anneal; or 
+normalize and 1250 [675] 
+temper 
+T23 K40712 normalize and 1900-1975 1350-1470[730-800] 
+temper [1040-1080] 
+T24 K30736 normalize and 1800-1870 D 1350-1420 [730-770] 
+temper [980-1020] 
+T36 K21001 normalize and 1650 [900] E 1100 [595] 
+temper 
+T91 Types 1 and 2 K90901 normalize and 1900-1975 1350-14 70 [730-800] 
+temper [1040-1080] 
+T92 K92460 normalize and 1900-1975 1350-1470 [730-800] 
+temper [1040-1080] 
+T93 K91350 normalize and 1960-2140 1380-1455 [750-790] 
+temper [1070-1170] 
+T115 K91060 normalize and 1920-2010 1380-1455 
+temper [1050-1100] [750-790] 
+T122 K91261 normalize and 1900-1975 1350-1470 [730-800] 
+temper [1040-1080] 
+T128 K91421 normalize and 1975-2140 air 1400-1470 
+temper [1080-1170] [760-800] 
+T911 K91061 normalize and 1900-1975 D 1365-1435 
+temper [1040-1080] [740-780] 
+T921 K91201 normalize and 1670-1740 air 1350-1420 
+temper [910-950] [730-770] 
+Austenitic Stainless Steels 
+TP201 S20100 solution treatment 1900 [1040]F water or other rapid cool 
+TP202 S20200 solution treatment 1900 [1040]F water or other rapid cool 
+XM-19 S20910 solution treatment 1900 [1040]F water or other rapid cool 
+S21500 solution treatment 1900 [1040]F,G water or other rapid cool 
+S25700 solution treatment 1900 [1040]F water or other rapid cool 
+TP304 S30400 solution treatment 1900 [1040t water or other rapid cool 
+284
+
+=== Page 337 ===
+
+ASME BPVC.II.A-2025 SA-213/SA-213M (ASTM A213/A213M) 
+,------, TABLE3 Continued 
+Austenitizing/ Subcritical Annealing 
+UNS Solutioning/ or Tempering ASTM Grade Number Heat Treat Type Stabilizing Cooling Media Temperature, Grain Size No. 8 
+Temperature, min or range °F [°C] min or range °F [°C] 
+TP304L S30403 solution treatment 1900 [1040]F water or other rapid cool 
+TP304H S30409 solution treatment 1900 [1040] water or other rapid cool 7 
+S30432 solution treatment 2000 [1100]F water or other rapid cool 
+S30434 solution treatment 2120 [1160] water or other rapid cool 
+TP304N S30451 solution treatment 1900 [1040]F water or other rapid cool 
+TP304LN S30453 solution treatment 1900 [1040]F water or other rapid cool 
+S30615 solution treatment 1900 [1040]F water or other rapid cool 
+S30815 solution treatment 1920 [1050] water or other rapid cool 
+TP309S S30908 solution treatment 1900 [1040]F water or other rapid cool 
+TP309H S30909 solution treatment 1900 [1040] water or other rapid cool 7 
+TP309LMoN S30925 solution treatment 1920 [1050] water or other rapid cool 7 
+TP309Cb S30940 solution treatment 1900 [1040]F water or other rapid cool 
+TP309HCb S30941 solution treatment 1900 [1040]H water or other rapid cool 7 
+S30942 solution treatment 2120 [1160] water or other rapid cool 6 
+S31002 solution treatment 1900 [1040t water or other rapid cool 
+TP310S S31008 solution treatment 1900 [1040t water or other rapid cool 
+TP310H S31009 solution treatment 1900 [1040] water or other rapid cool 7 
+TP310MoCbN S31025 solution treatment 2100 [1150] water or other rapid cool 7 
+S31035 solution treatment 2160-2280 water or other rapid cool 
+[1180-1250] 
+TP310Cb S31040 solution treatment 1900 [1040]F water or other rapid cool 
+TP310HCb S31041 solution treatment 1900 [1040]H water or other rapid cool 7 
+TP310HCbN S31042 solution treatment 1900 [1040]F.H water or other rapid cool 7 
+S31043 solution treatment 1900 [1040]F.H water or other rapid cool 7 
+TP310MoLN S31050 solution treatment 1900 [1040t water or other rapid cool 
+S31060 solution treatment 1975-2160 water or other rapid cool 7 
+[1080-1180jF 
+S31254 solution treatment 2100 [1150] water or other rapid cool 
+S31266 solution treatment 2100 [1150] water or other rapid cool 
+S31272 solution treatment 1920 [1050] water or other rapid cool 
+S31277 solution treatment 2050 [1120]F water or other rapid cool 
+TP316 S31600 solution treatment 1900 [1040]F water or other rapid cool 
+TP316L S31603 solution treatment 1900 [1040t water or other rapid cool 
+TP316H S31609 solution treatment 1900 [1040] water or other rapid cool 7 
+TP316Ti S31635 solution treatment 1900 [1040] water or other rapid cool 
+TP316N S31651 solution treatment 1900 [1040t water or other rapid cool 
+TP316LN S31653 solution treatment 1900 [1040t water or other rapid cool 
+TP317 S31700 solution treatment 1900 [1040t water or other rapid cool 
+TP317L S31703 solution treatment 1900 [1040t water or other rapid cool 
+S31725 solution treatment 1900 [1Q40]F water or other rapid cool 
+S31730 solution treatment 1900 [1040]F water or other rapid cool 
+S31740 solution treatment 1900 [1040]F water or other rapid cool 
+S32050 solution treatment 2100 [1150]F water or other rapid cool 
+TP321 S32100 solution treatment 1900 [1040]F,H water or other rapid cool 
+TP321H S32109 solution treatment cold worked: water or other rapid cool 7 
+2000 [1090] 
+hot rolled: 
+1925 [1050]H 
+S32615 solution treatment 1900 [1040t water or other rapid cool 3 or finer 
+S32716 solution treatment 1900 [1040t water or other rapid cool 
+S33228 solution treatment 2050 [1120] water or other rapid cool 
+S34565 solution treatment 2050-2140 water or other rapid cool 
+', 
+-· [1120-1170] 
+TP347 S34700 solution treatment 1900 [1040]F.H water or other rapid cool 
+TP347W S34705 solution treatment 2000 [1100] water or other rapid cool 7-10 
+TP347H S34709 solution treatment cold worked: water or other rapid cool 7 
+2000 [1100] 
+hot rolled: 
+1925 [1050]H 
+TP347HFG S34710 solution treatment, 1 2150 [1175]F water or other rapid cool 7-10 
+TP347LN S34751 solution treatment 1900 [1040]F water or other rapid cool 
+S34752 solution treatment 1940-2138 Water or other rapid cool 
+[1060-1170] 
+TP348 S34800 solution treatment 1900 [1040]F,H water or other rapid cool 
+TP348H S34809 solution treatment cold worked: water or other rapid cool 7 
+2000 [1100] 
+hot rolled: 
+1925 [1050]H 
+S35045 solution treatment 2000 [1100t still air cool or faster 
+XM-15 S38100 solution treatment 1900 [1040]F water or other rapid cool 
+S38815 solution treatment 1950 [1065]F water or other rapid cool 
+"---'· 
+285
+
+=== Page 338 ===
+
+SA-213/SA-213M (ASTM A213/A213M) ASME BPVC.II.A-2025 
+TABLE 3 Continued 
+Austenitizing/ Subcritical Annealing 
+or Tempering 
+Temperature, Grade UNS Solutioning/ 
+Heat Treat Type Stabilizing Cooling Media Number Temperature, min or range °F ["CJ 
+ASTM 
+Grain Size No. 8 
+min or range °F [°C] 
+Alloy 20 
+800 
+800H 
+N08020 
+N08028 
+N08029 
+N08367 
+N08800 
+N08810 
+N08811 
+N08904 
+N08925 
+N08926 
+S35030 
+stabilization 
+treatment 
+solution treatment 
+solution treatment 
+solution treatment 
+solution treatment 
+solution treatment 
+solution treatment 
+solution treatment 
+solution treatment 
+solution treatment 
+solution treatment 
+1700-1850 
+[925-1010jF 
+2000 [1100]F 
+2000 [1100jF 
+2025 [1105jF 
+1900 [1040]P 
+2050 [1120]P 
+2100 [1150jF 
+2000 [1100jF 
+2010-2100 
+[1100-1150] 
+2010-2100 
+[1100-1150] 
+1900 [1040]P 
+water or other rapid cool 
+water or other rapid cool 
+water or other rapid cool 
+water or other rapid cool 
+water or other rapid cool 
+water or other rapid cool 
+water or other rapid cool 
+water or other rapid cool 
+water or other rapid cool 
+water or other rapid cool 
+water or other rapid cool 
+5 
+5 
+Ferritic Stainless Steels 
+TP444 S44400 subcritical anneal 
+A Where ellipses ( ... ) appear in this table there is no requirement. 
+8 ASTM Grain Size No. listed, or coarser, unless otherwise indicated. 
+c Approximately, to achieve properties. 
+1400 [760] 
+0 Accelerated cooling from the normalizing temperature shall be permitted for section thicknesses greater than 3 in. [75 mm]. 
+EAccelerated air cooling or liquid quenching shall be permitted for Class 2. 
+F Quenched in water or rapidly cooled by other means, at a rate sufficient to prevent re-precipitation of carbides, as demonstrable by the capability of tubes, heat treated 
+by either separate solution annealing or by direct quenching, passing Practices A262, Practice E. The manufacturer is not required to run the test unless it is specified on 
+the purchase order (see Supplementary Requirement S4). Note that Practices A262 requires the test to be performed on sensitized specimens in the low-carbon and 
+stabilized types and on specimens representative of the as-shipped condition for other types. In the case of low-carbon types containing 3 % or more molybdenum, the 
+applicability of the sensitizing treatment prior to testing shall be a matter for negotiation between the seller and the purchaser. 
+0 A maximum solution treating temperature of 2100 °F [1150 °CJ is recommended for UNS S21500. 
+HA solution treating temperature above 1950 °F [1065 °CJ may impair resistance to intergranular corrosion after subsequent exposure to sensitizing conditions in the 
+indicated grades. When specified by the purchaser, a lower temperature stabilization or resolution anneal shall be used subsequent to the higher-temperature solution 
+anneal prescribed in this table. 
+1 Solution treatment shall be preceded by a softening heat treatment prior to cold-working. The softening temperature shall be at least 90 °F [50 °C] higher than the solution 
+heat treatment temperature, which shall be at 2150 °F [1180 °C] minimum. 
+4.1.7 Size (outside diameter and minimum wall thickness, 
+unless average wall thickness is specified), 
+4.1.8 Length (specific or random), 
+4.1.9 Hydrostatic Test or Nondestructive Electric Test (see 
+10.1), 
+4.1.10 Specification designation and year of issue, 
+4.1.11 Increased sulfur (for machinability, see Note B, Table 
+1, and 16.3), and 
+4.1.12 Special requirements and any supplementary require­
+ments selected. 
+5. General Requirements 
+5 .1 Product furnished to this specification shall conform to 
+the requirements of Specification Al016/A1016M, including 
+any supplementary requirements that are indicated in the 
+purchase order. Failure to comply with the general require­
+ments of Specification Al016/A1016M constitutes nonconfor­
+mance with this specification. In case of conflict between the 
+requirements of this specification and Specification A1016/ 
+Al016M, this specification shall prevail. 
+6. Materials and Manufacture 
+6.1 Manufacture and Condition-Tubes shall be made by 
+the seamless process and shall be either hot finished or cold 
+finished, as specified. Grade TP34 7HFG shall be cold finished. 
+6.2 Heat Treatment: 
+286 
+6.2.l Ferritic Alloy and Ferritic Stainless Steels-The fer­
+ritic alloy and ferritic stainless steels shall be reheated for heat 
+treatment in accordance with the requirements of Table 3. Heat 
+treatment shall be carried out separately and in addition to 
+heating for hot forming. 
+6.2.2 Austenitic Stainless Steels-AU austenitic tubes shall 
+be furnished in the heat-treated condition, and shall be heat 
+treated in accordance with the requirements of Table 3. 
+Alternatively, immediately after hot forming, while the tem­
+perature of the tubes is not less than the minimum solution or 
+stabilization treatment temperature specified in Table 3, tubes 
+may be individually quenched in water or rapidly cooled by 
+other means (direct quenched). 
+6.3 If any controlled structural characteristics are required, 
+these shall be so specified in the order as to be a guide as to the 
+most suitable heat treatment. 
+7. Chemical Composition 
+7.1 Composition Requirements: 
+7 .1.1 The alloy steels shall conform to the chemical require­
+ments given in Table 1. 
+7.1.2 The stainless steels shall conform to the chemical 
+requirements given in Table 2. 
+7.2 Product Analysis:
+
+=== Page 339 ===
+
+ASME BPVC.II.A-2025 SA-213/SA-213M (ASTM A213/A213M) 
+7 .2.1 An analysis of either one billet or one tube shall be 
+made from each heat. The chemical composition thus deter­
+mined shall conform to the requirements specified. 
+7.2.2 If the original test for product analysis fails, retests of 
+two additional billets or tubes shall be made. Both retests, for 
+the elements in question, shall meet the requirements of the 
+specification; otherwise all remaining material in the heat shall 
+be rejected or, at the option of the producer, each billet or tube 
+may be individually tested for acceptance. Billets or tubes that 
+do not meet the requirements of the specification shall be 
+rejected. 
+8. Grain Size 
+8.1 Grain size shall be as given in Table 3, as determined in 
+accordance with Test Methods E112. 
+8.2 Grain size determinations, to demonstrate compliance 
+with 8.1, shall be made on one end of one finished tube from 
+each lot. See 15.1. 
+9. Mechanical Properties 
+9.1 Tensile Requirements: 
+9.1.1 The material shall conform to the requirements as to 
+tensile properties given in Table 4. 
+9.1.2 Table 5 gives the computed minimum elongation 
+values for each V32-in. [0.8-mm] decrease in wall thickness. 
+Where the wall thickness lies between two values shown in 
+Table 5, the minimum elongation value shall be determined by 
+the following equations. For Grades T23, T24, T91, T92, T115, 
+T122, Tl28, T911, T921, and S44400: E = 32t + 10.00 [E = 
+1.25t + 10.00]. For Grade T36: E = 32t + 5.0 [E = 1.25t + 5.0]. 
+For grade T93: E = 32t + 9.00 [E = l.25t + 9.00]. For all other 
+ferritic alloy grades: E = 48t + 15.00 [E = l.87t + 15.00]. 
+where: 
+E = elongation in 2 in. [50 mm], %, and 
+t = actual thickness of specimen, in. [mm]. 
+9 .1.3 One tension test shall be made on a specimen from one 
+tube for lots of not more than 50 tubes. Tension tests shall be 
+made on specimens from two tubes for lots of more than 50 
+tubes. See 15.2. 
+9.2 Hardness Requirements: 
+9 .2.1 The material shall conform to the hardness require­
+ments given in Table 4. See 15.2. 
+9.2.2 Brinell, Vickers, or Rockwell hardness tests shall be 
+made on specimens from two tubes from each lot. See 15.2. 
+9 .3 Flattening Test-One flattening test shall be made on 
+specimens from each end of one finished tube, not the one used 
+for the flaring test, from each lot. See 15.1. 
+9.4 Flaring Test-One flaring test shall be made on speci­
+mens from each end of one finished tube, not the one used for 
+the flattening test, from each lot. See 15.1. 
+9.5 Mechanical property requirements do not apply to 
+tubing smaller than Vs in. [3.2 mm] in inside diameter or 
+thinner than 0.015 in. [0.4 mm] in thickness. 
+10. Hydrostatic or Nondestructive Electric Test 
+10.1 Each tube shall be subjected to the nondestructive 
+electric test or the hydrostatic test. The type of test to be used 
+shall be at the option of the manufacturer, unless otherwise 
+specified in the purchase order. 
+11. Forming Operations 
+11.1 Tubes, when inserted in a boiler or tube sheet, shall 
+stand expanding and beading without showing cracks or flaws. 
+Superheater tubes when properly manipulated shall stand all 
+forging, welding, and bending operations necessary for appli­
+cation without developing defects. See Note 1. 
+NOTE I-Certain of the ferritic steels covered by this specification will 
+harden if cooled rapidly from above their critical temperature. Some will 
+air harden, that is, become hardened to an undesirable degree when cooled 
+in air from high temperatures, particularly chromium-containing steels 
+with chromium of 4 % and higher. Therefore, operations that involve 
+heating such steels above their critical temperatures, such as welding, 
+flanging, and hot bending, should be followed by suitable heat treatment. 
+12. Repair by Welding 
+12.1 Repair welding shall be performed in conformance . 
+with Specification A1016/A1016M. 
+12.2 All repair welds in T91 shall be made with one of the 
+following welding processes and consumables: SMAW, A5.5/ 
+A5.5M E90XX-B9; SAW, A5.23/A5.23M EB9 + neutral flux; 
+GTAW, A5.28/A5.28M ER90S-B9; and FCAW A5.29/A5.29M 
+E91Tl-B9. In addition, the sum of the Ni+Mn content of all 
+welding consumables used to weld repair T91 Types 1 and 2 
+shall not exceed 1.0 %. 
+12.3 All repair welds in T92, T93, T911, and T122, shall be 
+made using welding consumables meeting the chemical re­
+quirements for the grade in Table 1. 
+13. Permissible Variations from the Specified Wall 
+Thickness 
+13.1 Permissible variations from the specified minimum 
+wall thickness shall be in accordance with Specification 
+A1016/A1016M. 
+13.2 Permissible variations from the specified average wall 
+thickness shall be ± 10 % of the specified average wall 
+thickness for cold formed tubes and, unless otherwise specified 
+by the purchaser, shall be in accordance with Table 6 for hot 
+formed tubes. 
+287 
+14. Surface Condition 
+14.1 Ferritic alloy cold-finished steel tubes shall be free of 
+scale and suitable for inspection. A slight amount of oxidation 
+is not considered scale. 
+14.2 Ferritic alloy hot-finished steel tubes shall be free of 
+loose scale and suitable. for inspection. • 
+14.3 Stainless steel tubes shall be pickled free of scale. 
+When bright annealing is used, pickling is not necessary. 
+14.4 Any special finish requirement shall be subject to 
+agreement between the supplier and the purchaser. 
+15. Sampling 
+15.1 For flattening, flaring, and grain size·requirements, the 
+term lot applies to all tubes, prior to cutting, of the same size· 
+(see 4.1.7) that are produced from the same heat of steel.When
+
+=== Page 340 ===
+
+SA-213/SA-213M (ASTM A213/A213M) ASME BPVC.II.A-2025 
+TABLE 4 Tensile and Hardness Requirements 
+HardnessA 
+Tensile Yield Elongation 
+Grade UNS Strength, Strength, in 2 in. or Srinell/Vickers Rockwell Designation min, ksi min, ksi 50 mm, 
+[MPa] [MPa] min, % 8 • 0 
+Low Alloy Steels: 
+T5b K51545 60 [415] 30 [205] 30 179 HSW/ 89 HRS 
+190HV 
+T9 K90941 60 [415] 30 [205] 30 179 HSW/ 89 HRS 
+190HV 
+T12 K11562 60 [415] 32 [220] 30 163 HSW/ 85 HRS 
+170 HV 
+T23 K40712 74 [510] 58 [400] 20 220 HSW/ 97 HRS 
+230 HV 
+T24 K30736 85 [585] 60 [415] 20 250 HSW/ 25 HRC 
+265 HV 
+T36 Class 1 K21001 90 [620] 64 [440] 15 250 HSW/ 25 HRC 
+265 HV 
+T36 Class 2 K21001 95.5 [660] 66.5 [460] 15 250 HSW/ 25 HRC 
+265 HV 
+T91 Types 1 and 2 K90901 85 [585] 60 [415] 20 190 to 250 HSW/ 90 HRS to 25 
+196 to 265 HV HRC 
+T92 K92460 90 [620] 64 [440] 20 250 HSW/ 25 HRC 
+265 HV 
+T93 K91350 90 [620] 64 [440] 19 250 HSW/ 25 HRC 
+265 HV 
+T115 K91060 90 [620] 65 [450] 20 190 to 250 HWS/ 90 HRS to 25 
+196 to 265 HV HRC 
+T122 K91271 90 [620] 58 [400] 20 250 HSW/ 25 HRC 
+265 HV 
+T128 K91421 94 [650] 71 [490] 20 265HSW/280HV 27HRC 
+T911 K91061 90 [620] 64 [440] 20 250 HSW/ 25 HRC 
+265 HV 
+T921 K91201 109 [750] 84 [580] 20 276 HSW/ 26 HRC 
+290 HV 
+All other low alloy 60 [415] 30 [205] 30 163 HSW/ 85 HRS 
+grades 170 HV 
+Austenitic Stainless 
+Steels: 
+TP201 S20100 95 [655] 38 [260] 35 219 HSW/ 95 HRS 
+230 HV 
+TP202 S20200 90 [620] 45 [310] 35 219 HSW/ 95 HRS 
+230 HV 
+XM-19 S20910 100 [690] 55 [380] 35 250 HSW/ 25 HRC 
+265 HV 
+S21500 78 [540] 33 [230] 35 192 HSW/ 90 HRS 
+200 HV 
+S25700 78 [540] 35 [240] 50 217 HSW 95 HRS 
+TP304 S30400 75 [515] 30 [205] 35 192 HSW/ 90 HRS 
+200 HV 
+TP304L S30403 70 [485] 25 [170] 35 192 HSW/ 90 HRS 
+200 HV 
+TP304H S30409 75 [515] 30 [205] 35 192 HSW/ 90 HRS 
+200 HV 
+S30432 86 [590] 34 [235] 35 219 HSW/ 95 HRS 
+230 HV 
+S30434 73 [500] 30 [205] 35 192 HSW/ 90 HRS 
+200 HV 
+TP304N S30451 80 [550] 35 [240] 35 192 HSW/ 90 HRS 
+200 HV 
+TP304LN S30453 75 [515] 30 [205] 35 192 HSW/ 90 HRS 
+200 HV 
+S30615 90 [620] 40 [275] 35 192 HSW/ 90 HRS 
+200 HV 
+S30815 87 [600] 45 [310] 40 217 HSW 95 HRS 
+TP309S S30908 75 [515] 30 [205] 35 192 HSW/ 90 HRS 
+200 HV 
+TP309H S30909 75 [515] 30 [205] 35 192 HSW/ 90 HRS 
+200 HV 
+TP309LMoN S30925 93 [640] 38 [260] 30 256 HSW/270 HV 100 HRS 
+TP309Cb S30940 75 [515] 30 [205] 35 192 HSW/ 90 HRS 
+200 HV 
+TP309HCb S30941 75 [515] 30 [205] 35 192 HSW/ 90 HRS 
+200 HV 
+288
+
+=== Page 341 ===
+
+ASME BPVC.II.A-2025 SA-213/SA-213M (ASTM A213/A213M) 
+.,,.---- TABLE4 Continued 
+' HardnessA 
+Tensile Yield Elongation 
+Grade UNS Strength, Strength, in 2 in. or BrinellNickers Rockwell Designation min, ksi min, ksi 50mm, 
+• [MPa] [MPa] min, % 8 ·c 
+S30942 86 [590] 34 [235] 35 219 HBW/ 95 HRB 
+230 HV 
+S31002 73 [500] 30 [205] 35 192 HBW/ 90 HRB 
+200 HV 
+TP310S S31008 75 [515] 30 [205] 35 192 HBW/ 90 HRB 
+200 HV 
+TP310H S31009 75 [515] 30 [205] 35 192 HBW/ 90 HRB 
+200 HV 
+TP310MoCbN S31025 93 [640] 39 [270] 30 256 HBW/ 100 HRB 
+270 HV 
+S31035 95 [655] 45 [310] 40 220 HBW/ 96 HRB 
+230 HV 
+TP310Cb S31040 75 [515] 30 [205] 35 192 HBW/ 90 HRB 
+200 HV 
+TP310HCb S31041 75 [515] 30 [205] 35 192 HBW/ 90 HRB 
+200 HV 
+TP310HCbN S31042 95 [655] 43 [295] 30 256 HBW 100 HRB 
+S31043 95 [655] 43 [295] 30 256 HBW 100 HRB 
+TP310MoLN S31050 
+T ,,; 0.25 in. [6 mm] 84 [580] 39 [270] 25 217 HBW 95 HRB 
+t > 0.25 in. [6 mm] 78 [540] 37 [255] 25 217 HBW 95 HRB 
+S31060 87 [600] 41 [280] 40 217 HBW 95 HRB 
+S31254 
+T,,; 0.187 in. [5 mm] 98 [675] 45 [310] 35 220 HBW/ 96 HRB 
+230 HV 
+T > 0.187 in. [5 mm] 95 [655] 45 [310] 35 220 HBW/ 96 HRB 
+230 HV 
+S31266 109 [750] 61 [420] 35 B100 
+S31272 65 [450] 29 [200] 35 217 HBW 95 HRB 
+S31277 112 [770] 52 [360] 40 241 HBW 100 HRB 
+TP316 S31600 75 [515] 30 [205] 35 192 HBW/ 90 HRB 
+200 HV 
+TP316L S31603 70 [485] 25(170] 35 192 HBW/ 90 HRB 
+200 HV 
+TP316H S31609 75 [515] 30 [205] 35 192 HBW/ 90 HRB 
+200 HV 
+TP3161i S31635 75 [515] 30 [205] 35 192 HBW/ 90 HRB 
+200 HV 
+TP316N S31651 80 [550] 35 [240] 35 192 HBW/ 90 HRB 
+200 HV 
+TP317 S31700 75 [515] 30 [205] 34 192 HBW/ 90 HRB 
+200 HV 
+TP317L S31703 75 [515] 30 [205] .35 192 HBW/ 90 HRB 
+200 HV 
+S31725 75 [515] 30 [205] 35 192 HBW/ 90 HRB 
+200 HV 
+S31730 70 [480] 25 [175] 35 90 HRB 
+S31740 75 [515] 30 [205] 35 192 HBW/ 90 HRB 
+200 HV 
+S32050 98 [675] 48 [330] 40 256 HBW 100 HRB 
+TP321 S32100 75 [515] 30 [205] 35 192 HBW/ 90 HRB 
+200 HV 
+TP321H S32109 75 [515] 30 [205] 35 192 HBW/ 90 HRB 
+200 HV 
+S32615 80 [550] 32 [220] 25 192 HBW/ 90 HRB 
+200 HV 
+S32716 80 [550] 35 [240] 35 192 HBW/ 90 HRB 
+200 HV 
+S33228 73 [500] 27 [185] 30 192 HBW/ 90 HRB 
+200 HV 
+S34565 115 [790] 60 [415] 35 241 HBW 100 HRB 
+TP347 S34700 75 [515] 30 [205] 35 192 HBW/ 90 HRB 
+200 HV 
+TP347W S34705 90 [620] 38 [260] 30 219 HBW/ 95 HRB 
+230 HV 
+TP347H S34709 75 [515] 30 [205] 35 192 HBW/ 90 HRB 
+200 HV 
+TP347HFG S34710 80 [550] 30 [205] 35 192 HBW/ 90 HRB 
+200 HV 
+TP347LN S34751 75 [515] 30 [205] 35 192 HBW/ 90 HRB 
+200 HV 
+~ 
+289
+
+=== Page 342 ===
+
+SA-213/SA-213M (ASTM A213/A213M) ASME BPVC.II.A-2025 
+TABLE4 Continued 
+HardnessA 
+Tensile Yield Elongation 
+Grade UNS Strength, Strength, in 2 in. or BrinellNickers Rockwell Designation min, ksi min, ksi 50mm, 
+[MPa] [MPa] min, % 8 ·c 
+834752 75 [515] 30 [205] 35 192 HBW/ 90 HRB 
+200 HV 
+TP348 834800 75 [515] 30 [205] 35 192 HBW/ 90 HRB 
+200 HV 
+TP348H 834809 75 [515] 30 [205] 35 192 HBW/ 90 HRB 
+200 HV 
+835045 70 [485] 25[170] 35 192 HBW/ 90 HRB 
+200 HV 
+XM-15 838100 75 [515] 30 [205] 35 192 HBW/ 90 HRB 
+200 HV 
+838815 78 [540] 37 [255] 30 256 HBW 100 HRB 
+Alloy 20 N08020 80 [550] 35 [240] 30 217 HBW 95 HRB 
+N08028 73 [500] 31 [214] 40 
+N08029 73 [500] 31 [214] 40 
+N08367 
+:s:;3/16 in. wall 100 [690] 45 [310] 30 100 HRB 
+>3/16 in. wall 95 [655] 45 [310] 30 241 HBW 
+800 N08800 
+cold-worked 75 [515] 30 [205] 30 192 HBW/ 90 HRB 
+annealed 200 HV 
+hot-finished 65 [450] 25 [170] 30 192 HBW/ 90 HRB 
+annealed 200 HV 
+800H N08810 65 [450] 25 [170] 30 192 HBW/ 90 HRB 
+200 HV 
+N08811 65 [450] 25 [170] 30 192 HBW/ 90 HRB 
+200 HV 
+N08904 71 [490] 31 [215] 35 192 HBW/ 90 HRB 
+200 HV 
+N08925 87 [600] 43 [295] 40 217 HBW 95 HRB 
+N08926 94 [650] 43 [295] 35 256 HBW 100 HRB 
+835030 80 [550] 34 [235] 30 192HBW/ 90 HRB 
+200HV 
+Ferritic Stainless Steels: 
+TP444 844400 60[415] 40[275] 20 217 HBW/ 230 HV 96 HRB 
+AMax, unless a range or a minimum is specified. 
+8 When standard round 2 in. or 50 mm gauge length or smaller proportionally sized specimens with gauge length equal to 4D (4 times the diameter) is used, the minimum 
+elongation shall be 22 % for all low alloy grades except T23, T24, T91, T92, T93, T115, T122, T128, and T911; and except for TP444. 
+c For longitudinal strip tests, a deduction from the basic minimum elongation values of 1.00 % for TP444, T23, T24, T91, T92, T93, T115, T122, T128, and T911, and of 
+1.50 % for all other low alloy grades for each 1/32-in. [0.8-mm] decrease in wall thickness below 5 /15 in. [8 mm] shall be made. 
+TABLE 5 Computed Minimum ValuesA 
+Wall Thickness Elongation in 2 in. 
+or 50 mm, min, % 
+844400, 
+T23, T24, T91 
+in. Types 1 and 2, T93 T36 All Other mm T92, T921, Ferritic Grades 
+T115, T122, 
+T128, and T911 
+5/16 [0.312] 8 20 19 15 30 
+%2[0.281] 7.2 19 18 14 29 
+¼[0.250] 6.4 18 17 13 27 
+7 /32 [0.219] 5.6 17 16 12 26 
+3/16 [0.188] 4.8 16 15 11 24 
+%2[0.156] 4 15 14 10 23 
+1/a [0.125] 3.2 14 13 9 21 
+%2 [0.094] 2.4 13 12 8 20 
+1 /16 [0.062] 1.6 12 11 7 18 
+0.062 to 0.035, excl 1.6 to 0.9 12 11 7 17 
+0.035 to 0.022, excl 0.9 to 0.6 11 10 6 17 
+0.022 to 0.015 incl 0.6 to 0.4 11 10 6 16 
+A Calculated elongation requirements shall be rounded to the nearest whole 
+number. 
+290
+
+=== Page 343 ===
+
+ASME BPVC.II.A-2025 SA-213/SA-213M (ASTM A213/A213M) 
+TABLE 6 Permitted Variations in Average Wall Thickness for Hot 
+Formed Tubes 
+Tolerance in %, from specified 
+Specified Outside 
+Diameter, in. [mm] 
+Over Under 
+0.405 to 2.875 [10.3 to 
+73.0] incl, all t/D 
+ratiosA 
+Above 2.875 [73.0], 
+t/D ,s; 5 %A 
+Above 2.875 [73.0], 
+t/D > 5 %A 
+20 
+22.5 
+15 
+12.5 
+12.5 
+12.5 
+A t = specified wall thickness D = specified outside diameter 
+TABLE 7 Number of Tubes in a Lot Heat Treated by the 
+Continuous Process or by Direct Quench After Hot Forming 
+Size of Tube 
+2 in. [50.8 mm] and over in outside 
+diameter and 0.200 in. [5.1 mm] and over 
+in wall thickness 
+2 in. [50.8 mm] and over in outside 
+diameter and 
+under 0.200 in. [5.1 mm] in wall thickness 
+Less than 2 in. [50.8 mm] but over 1 in. 
+[25.4 mm] in outside diameter 
+1 in. [25.4 mm] or less in outside diameter 
+final heat treatment is in a batch-type furnace, a lot shall 
+include only those tubes of the same size and from the same 
+heat that are heat treated in the same furnace charge. When the 
+final heat treatment is in a continuous furnace or when the 
+heat-treated condition is obtained directly by quenching after 
+hot forming, the number of tubes of the same size and from the 
+same heat in a lot shall be determined from the size of the tubes 
+as prescribed in Table 7. 
+15.2 For tensile and hardness test requirements, the term lot 
+applies to all tubes prior to cutting, of the same size (see 4.1.7) 
+that are produced from the same heat of steel. When final heat 
+treatment is in a batch-type furnace, a lot shall include only 
+those tubes of the same size and the same heat that are heat 
+treated in the same furnace charge. When the final heat 
+treatment is in a continuous furnace, or when the heat-treated 
+condition is obtained directly by quenching after hot forming, 
+a lot shall include all tubes of the same size and heat, heat 
+treated in the same furnace at the same temperature, time at 
+heat, and furnace speed; or all tubes of the same size and heat, 
+hot formed and quenched in the same production run, except as 
+prescribed in 9.1.3. 
+Size of Lot 
+not more than 50 tubes 
+not more than 75 tubes 
+not more than 75 tubes 
+not more than 125 tubes 
+16. Product Marking 
+16.1 In addition to the marking prescribed in Specification 
+A1016/A1016M, the marking shall include: the condition, hot 
+finished or cold finished; and the wall designation, minimum 
+wall or average wall. 
+16.2 For the austenitic stainless steels having a grain size 
+requirement (see Table 3) the marking shall also include the 
+heat number and heat-treatment lot identification. 
+16.3 When either T2 or T12 are ordered with higher sulfur 
+contents as permitted by Note B of Table 1, the marking shall 
+include the letter, S, following the grade designation: T2S or 
+T12S. 
+16.4 For T91, the marking shall also include the type. 
+17. Keywords 
+17.1 alloy steel tubes; austenitic stainless steel; boiler tubes; 
+ferritic stainless steel; heat exchanger tubes; high-temperature 
+applications; seamless steel tubes; steel tubes; superheater 
+tubes; temperature service applications-high 
+291
+
+=== Page 344 ===
+
+SA-213/SA-213M (ASTM A213/A213M) ASME BPVC.II.A-2025 
+SUPPLEMENTARY REQUIREMENTS 
+The following supplementary requirements shall apply only when specified by the purchaser in the 
+inquiry, contract, or order. 
+Sl. Stress-Relieved Annealed Tubes 
+S 1.1 For use in certain corrosives, particularly chlorides 
+where stress corrosion may occur, tubes in Grades TP304L, 
+TP316L, TP321, TP347, and TP348 may be specified in the 
+stress-relieved annealed condition. 
+Sl.2 When stress-relieved tubes are specified, tubes shall be 
+given a heat treatment at 1500 to 1650 °F [815 to 900 °C] after 
+roll straightening. Cooling from this temperature range may be 
+either in air or by slow cooling. No mechanical straightening is 
+permitted after the stress-relief treatment. 
+Sl.3 Straightness of the tubes shall be a matter of negotia­
+tion between the purchaser and supplier. 
+S2. Stabilizing Heat Treatment 
+S2.1 Subsequent to the solution anneal required in Section 
+6, Grades TP309HCb, TP310HCb, TP310HCbN, TP321, 
+TP321H, TP347, TP347H, TP348, and TP348H shall be given 
+a stabilization heat treatment at a temperature lower than that 
+used for the initial solution annealing heat treatment. The 
+temperature of stabilization heat treatment shall be at a 
+temperature as agreed upon between the purchaser and vendor. 
+S3. Unstraightened Tubes 
+S3 .1 When the purchaser specifies tubes unstraightened 
+after final heat treatment (such as coils), the minimum yield 
+strength of Table 4 shall be reduced by 5 ksi [35 MPa]. 
+S3.2 On the certification, and wherever the grade designa­
+tion for unstraightened tubing appears, it shall be identified 
+with the suffix letter "U" (for example, 304-U, 321-U, etc.). 
+S4. lntergranular Corrosion Test 
+S4.1 When specified, material shall pass intergranular cor­
+rosion tests conducted by the manufacturer in accordance with 
+Practices A262, Practice E. 
+Norn S4.1-Practice E requires testing on the sensitized condition for 
+low carbon or stabilized grades, and on the as-shipped condition for other 
+grades. 
+S4.2 A stabilization heat treatment in accordance with 
+Supplementary Requirement S2 may be necessary and is 
+permitted in order to meet this requirement for the grades 
+containing titanium or columbium, particularly in their H 
+versions. 
+SS. Minimum Cooling Rate for Grade T91 Type 2 
+S5.l For Grade T91 Type 2 material, the heat treatment 
+shall ensure that following austenitizing the rate of cooling 
+from 1650 °F to 900 °F [900 °C to 480 °C] is no slower than 
+9 °F/min [5 °C/ min]. 
+SUMMARY OF CHANGES 
+Committee A0l has identified the location of selected changes to this standard since the last issue 
+(A213/A213M - 22a) that may impact the use of this standard. (Approved May 1, 2023.) 
+(1) Added Supplementary Requirement S5. ( 3) Revised outside diameter column in Table 6. 
+(2) Corrected UNS number for Grade T9 in Table 3. 
+Committee A0l has identified the location of selected changes to this standard since the last issue 
+(A213/A213M - 22) that may impact the use of this standard. (Approved Nov. 1, 2022.) 
+( 1) Added Alloy UNS S35030 to Table 2, Table 3, and Table 4. 
+Committee A0l has identified the location of selected changes to this standard since the last issue 
+(A213/A213M- 21b) that may impact the use of this standard. (Approved May 1, 2022.) 
+( 1) Revised carbon maximum for UNS S31002 in Table 2. 
+(2) Revised nitrogen from 0.18-0.22 to 0.18-0.25 for UNS 
+S31254 in Table 2. 
+292
+
+=== Page 345 ===
+
+ASME BPVC.II.A-2025 SA-213/SA-213M (ASTM A213/A213M) 
+ASTM International takes no position respecting the validity of any patent rights asserted in connection with any item mentioned 
+in this standard. Users of this standard are expressly advised that determination of the validity of any such patent rights, and the risk 
+of infringement of such rights, are entirely their own responsibility. 
+This standard is subject to revision at any time by the responsible technical committee and must be reviewed evel)I five years and 
+if not revised, either reapproved or withdrawn. Your comments are invited either for revision of this standard or for additional standards 
+and should be addressed to ASTM International Headquarters. Your comments will receive careful consideration at a meeting of the 
+responsible technical committee, which you may attend. If you feel that your comments have not received a fair hearing you should 
+make your views known to the ASTM Committee on Standards, at the address shown below. 
+This standard is copyrighted by ASTM International, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428-2959, 
+United States. Individual reprints (single or multiple copies) of this standard may be obtained by contacting ASTM at the above 
+address or at 610-832-9585 (phone), 610-832-9555 (fax), or service@astm.org (e-mail); or through the ASTM website 
+(www.astm.org). Permission rights to photocopy the standard may also be secured from the Copyright Clearance Center, 222 
+Rosewood Drive, Danvers, MA 01923, Tel: (978) 646-2600; http://www.copyright.com/ 
+293
+
+=== Page 347 ===
+
+ASME BPVC.ILA-2025 SA-214/SA-214M
+
+SPECIFICATION FOR ELECTRIC-RESISTANCE-WELDED
+CARBON STEEL HEAT-EXCHANGER AND CONDENSER
+TUBES
+
+CxS SA-214/SA-214M ily
+® Bterdies nonaace
+
+(Identical with ASTM Specification A214/A214M-19.)
+
+295
+
+=== Page 348 ===
+
+SA-214/SA-214M ASME BPVC.11.A-2025 
+Specification for 
+Electric-Resistance-Welded Carbon Steel Heat-Exchanger 
+and Condenser Tubes 
+1. Scope 
+1.1 This specification covers minimum-wall-thickness, 
+electric-resistance-welded, carbon steel tubes to be used for 
+heat exchangers, condensers, and similar heat-transfer appara­
+tus. 
+1.2 The tubing sizes usually furnished to this specification 
+are to 3 in. [76.2 mm] in outside diameter, inclusive. Tubing 
+having other dimensions may be furnished, provided such 
+tubes comply with all other requirements of this specification. 
+1.3 Mechanical property requirements do not apply to 
+tubing smaller than 1/s in. [3.2 mm] in inside diameter or 0.015 
+in. [0.4 mm] in thickness. 
+1.4 The purchaser shall specify in the order the outside 
+diameter and minimum wall thickness. The inside diameter 
+shall not be specified. 
+1.5 The values stated in either inch-pound units or SI units 
+are to be regarded separately as standard. Within the text, the 
+SI units are shown in brackets. The values stated in each 
+system are not exact equivalents; therefore, each system must 
+be used independently of the other. Combining values from the 
+two systems may result in nonconformance with the specifi­
+cation. The inch-pound units shall apply unless the "M" 
+designation of this specification is specified in the order. 
+1.6 This international standard was developed in accor­
+dance with internationally recognized principles on standard­
+ization established in the Decision on Principles for the 
+Development of International Standards, Guides and Recom­
+mendations issued by the World Trade Organization Technical 
+Barriers to Trade (TBT) Committee. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+A450/ A450M Specification for General Requirements for 
+Carbon and Low Alloy Steel Tubes 
+3. Ordering Information 
+3.1 Orders for material under this specification should 
+include the following, as required, to describe the desired 
+material adequately: 
+3.1.l Quantity (feet, metres, or number of lengths), 
+3.1.2 Name of material (electric-resistance-welded tubes), 
+3.1.3 Size (outside diameter and minimum wall thickness), 
+3.1.4 Length (specific or random), 
+3.1.5 Optional requirements (Section 8 and 10.5), 
+3.1.6 Test report required (see Certification Section of 
+Specification A450/A450M), 
+296 
+3.1.7 Specification designation, and 
+3.1.8 Special requirements. 
+4. General Requirements 
+4.1 Material furnished under this specification shall con­
+form to the applicable requirements of the current edition of 
+Specification A450/ A450M, unless otherwise provided herein. 
+5. Manufacture 
+5 .1 Tubes shall be made by electric-resistance welding. 
+6. Heat Treatment 
+6.1 After welding, all tubes shall be heat treated at a 
+temperature of 1650°F [900°C] or higher and followed by 
+cooling in air or in the cooling chamber of a controlled 
+atmosphere furnace. Cold drawn tubes shall be heat treated 
+after the final cold-draw pass at a temperature of 1200°F 
+[650°C] or higher. •
+
+=== Page 349 ===
+
+ASME BPVC.ILA-2025 SA-214/SA-214M |
+_. 7. Chemical Composition 10.3 Reverse Flattening Test—One reverse flattening test |
+7.1 The steel shall conform to the following requirements as Sal be made on a specimen from each 1500 ft [450 m] of
+to chemical composition: finished tubing. |
+Carbon, max % 0.18 10.4 Hardness Test—Brinell or Rockwell hardness tests
+Manganese, % 0.27 to 0.63 shall be made on specimens from two tubes from each lot. The
+Phosphorus, max, % 0.035 . . .
+Sulfur, max, % 0.035 term lot applies to all tubes prior to cutting, of the same
+7.2 Supplvine an alloy orade of steel that svecificall nominal diameter and wall thickness which are produced from
+Supplying at y & pee Y the same heat of steel. When final heat treatment is in a
+requires the addition of any element other than those listed in |
+7.1 is not permitted. batch-type furnace, a lot shall include only those tubes of the
+same size and the same heat which are heat treated in the same
+8. Product Analysis furnace charge. When final heat treatment is in a continuous
+; furnace, a lot shall include all tubes of the same size and heat,
+8.1 When requested on the purchase order, a product analy- ,; | ;
+; . ; heat treated in the same furnace at the same temperature, time
+sis shall be made by the supplier from | tube per 250 pieces; at heat. and furnace speed
+Z when tubes are identified by heat, one tube per heat shall be pee’
+oe analyzed. The chemical composition thus determined shall 10.5 Hydrostatic or Nondestructive Electric Test—Each — |
+conform to the requirements specified. tube shall be subjected to either the hydrostatic or the nonde- |
+8.2 If the original test for product analysis fails, retests of structive electric test. The purchaser may specify which test is
+two additional lengths of flat-rolled stock, or tubes shall be to be used.
+made. Both retests, for the elements in question, shall meet the .
+requirements of the specification; otherwise all remaining 1. Surface Condition
+material in the heat or lot (Note 1) shall be rejected or, at the 11.1 The finished tubes shall be free of scale. A slight
+option of the producer, each length of flat-rolled stock or tube amount of oxidation shall not be considered as scale.
+may be individually tested for acceptance. Lengths of flat-
+rolled stock or tubes which do not meet the requirements of the 42, Product Marking
+specification shall be rejected. . oo,
+. 12.1 In addition to the marking prescribed in Specification
+Note 1—A lot consists of 250 tubes. A450/A450M, the letters “ERW” shall be legibly stenciled on
+9, Hardness Requirements each tube, or marked on a tag attached to the bundle or box in
+which the tubes are shipped.
+| 9.1 The tubes shall have a hardness number not exceeding PP
+72 HRBW. 12.2 The manufacturer’s name or symbol may be placed
+permanently on each tube by rolling or light stamping before
+10. Mechanical Tests Required normalizing. If a single stamp is placed on the tube by hand,
+10.1 Flattening Test—One flattening test shall be made on __ this mark should not be less than 8 in. [200 mm] from one end
+specimens from each of two tubes from each lot (Note 1) or Of the tube.
+fraction thereof. 12.3 Bar Coding—tIn addition to the requirements in 12.1
+10.2 Flange Test—One flange test shall be made on speci- and 12.2 bar coding is acceptable as a supplemental identifi-
+mens from each of two tubes from each lot (Note 1) or fraction cation method. The purchaser may specify in the order a
+thereof. | specific bar coding system to be used.
+297
+
+=== Page 351 ===
+
+ASME BPVC.II.A-2025 SA·216/SA·216M (ASTM A216/A216M) 
+SPECIFICATION FOR STEEL CASTINGS, CARBON, 
+SUITABLE FOR FUSION WELDING, FOR 
+HIGH-TEMPERATURE SERVICE 
+SA-216/SA-216M cO 
+INTIIRNATIONAL 
+Standards Worldwide 
+(Identical with ASTM Specification A216/A216M-21 except for the addition of 2.3 and editorial differences in 2.1 and 
+10.1.) 
+ASME SA-216/SA-216M replaces paras. 2.1 and 10.1 of ASTM A216/A216M and adds para. 2.3 as follows: 
+2.1 ASTM Standards:3 
+A703/A703M Specification for Steel Castings, General Requirements, for Pressure-Containing Parts 
+A985/A985M Specification for Steel Investment Castings General Requirements, for Pressure-Containing Parts 
+2.3 ASME Standard: 
+ASME Boiler and Pressure Vessel Code (BPVC), Section IX, Welding, Brazing, and Fusing Qualifications 
+10.1 Repairs shall be made using procedures and welders qualified under ASME BPVC Section IX. 
+299 
+(25)
+
+=== Page 352 ===
+
+SA-216/SA-216M (ASTM A216/A216M) ASME BPVC.II.A-2025 
+c6 Designation: A216/A216M - 21 
+~u 11 7 
+INTERNATIONAL 
+Standard Specification for 
+Steel Castings, Carbon, Suitable for Fusion Welding, for 
+High-Temperature Service 1 
+This standard is issued under the fixed designation A216/A216M; the number immediately following the designation indicates the year 
+of original adoption or, in the case of revision, the year of last revision. A number in parentheses indicates the year of last reapproval. 
+A superscript epsilon (s) indicates an editorial change since the last revision or reapproval. 
+This standard has been approved for use by agencies of the U.S. Deparnnent of Defense. 
+1. Scope* 
+1.1 This specification 2 covers carbon steel castings for 
+valves, flanges, fittings, or other pressure-containing parts for 
+high-temperature service and of quality suitable for assembly 
+with other castings or wrought steel parts by fusion welding. 
+1.2 Three grades, WCA, WCB, and WCC, are covered in 
+this specification. Selection will depend upon design and 
+service conditions, mechanical properties, and the high­
+temperature characteristics. 
+1.3 The values stated in either SI units or inch-pound units 
+are to be regarded separately as standard. The values stated in 
+each system may not be exact equivalents; therefore, each 
+system shall be used independently of the other. Combining 
+values from the two systems may result in nonconformance 
+with the standard. 
+1 .4 This international standard was developed in accor­
+dance with internationally recognized principles on standard­
+ization established in the Decision on Principles for the 
+Development of International Standards, Guides and Recom­
+mendations issued by the World Trade Organization Technical 
+Barriers to Trade (TBT) Committee. 
+2. Referenced Documents 
+2.1 ASTM Standards: 3 
+A488/A488M Practice for Steel Castings, Welding, Qualifi­
+cations of Procedures and Personnel 
+1 This specification is under the jurisdiction of ASTM Committee A0l on Steel, 
+Stainless Steel and Related Alloys and is the direct responsibility of Subcommittee 
+AO 1.18 on Castings. 
+Current edition approved Sept. 1, 2021. Published September 2021. Originally 
+approved in 1939. Last previous edition approved in 2018 as A216/A216M - 18. 
+DOI: 10.!520/A0216_A0216M-21. 
+2 For ASME Boiler and Pressure Vessel Code applications, see related Specifi­
+cation SA-216/SA-216M in Section II of that code. 
+3 For referenced ASTM standards, visit the ASTM website, www.astm.org, or 
+contact ASTM Customer Service at service@astm.org. For Annual Book of ASTM 
+Standards volume info1mation, refer to the standard's Document Summary page on 
+the ASTM website. 
+A703/A703M Specification for Steel Castings, General 
+Requirements, for Pressure-Containing Parts 
+A985/A985M Specification for Steel Investment Castings 
+General Requirements, for Pressure-Containing Parts 
+2.2 Manufacturers Standardization Society of the Valve and 
+Fittings Industry Standard: 4 
+SP 55 Steel Castings for Valve, Flanges, and Fittings, and 
+Other Components (Visual Method) 
+3. General Conditions for Delivery 
+3 .1 Except for investment castings, castings furnished to 
+this specification shall conform to the requirements of Speci­
+fication A 703/ A 703M, including any supplementary require­
+ments that are indicated in the purchase order. Failure to 
+comply with the general requirements of Specification A703/ 
+A703M constitutes nonconformance with this specification. In 
+case of conflict between the requirements of this specification 
+and Specification A703/A703M, this specification shall pre­
+vail. 
+3.2 Steel investment castings furnished to this specification 
+shall conform to the requirements of Specification A985/ 
+A985M, including any supplementary requirements that are 
+indicated in the purchase order. Failure to comply with the 
+general requirements of Specification A985/A985M consti­
+tutes nonconformance with this specification. In case of con­
+flict between the requirements of this specification and Speci­
+fication A985/A985M, Specification A985/A985M shall 
+prevail. 
+4. Ordering Information 
+4.1 The inquiry and order should include or indicate the 
+following: 
+4.1.1 A description of the casting by pattern number or 
+drawing (dimensional tolerances shall be included on the 
+casting drawing), 
+4 Available from Manufacturers Standardization Society of the Valve and Fittings 
+Industry (MSS), 127 Park St., NE, Vienna, VA 22180-4602, http://www.mss­
+hq.com. 
+* A Summary of Changes section appears at the end of this standard 
+300
+
+=== Page 353 ===
+
+ASME BPVC.II.A-2025 SA-216/SA-216M (ASTM A216/A216M) 
+TABLE 1 Chemical RequirementsA 
+Element,% 
+Material Grade Carbon Manganese Phosphorus Sulfur 8 Silicon Nickel 0 Chromium 0 Molybdenum 0 Copper 0 Vanadium 0 
+UNS 
+weA 0 
+0.25 0.70 0.035 0.035 0.60 0.50 0.50 0.20 0.30 0.03 J02502 
+wes 0 
+0.30 1.00 0.035 0.035 0.60 0.50 0.50 0.20 0.30 0.03 J03002 
+wee 0 
+0.25 1.20 0.035 0.035 0.60 0.50 0.50 0.20 0.30 0.03 J02503 
+A All values are maximums. 
+8 For lower maximum sulfur content, see Supplementary Requirement S52. 
+c Specified Residual Elements-Except when Supplementary Requirement S50 is specified, the total content of these elements is 1.00 % maximum. 
+° For each reduction of 0.01 % below the specified maximum carbon content, an increase of 0.04 % manganese above the specified maximum will be permitted up to a 
+maximum of 1.10 % for WCA, 1.28 % for wes, and 1.40 % for wee. 
+4.1.2 Grade of steel, 
+4.1.3 Options in the specification, 
+4.1.4 Whether the castings are to be produced using the 
+investment casting process, and 
+4.1.5 The supplementary requirements desired, including 
+the standards of acceptance. 
+5. Heat Treatment 
+5 .1 All castings shall receive a heat treatment proper to their 
+design and chemical composition. 
+5.2 Castings shall be furnished in the annealed, or 
+normalized, or normalized and tempered condition unless 
+Supplementary Requirement S15 is specified. 
+5.3 Heat treatment shall be performed after castings have 
+been allowed to cool below the transformation range. 
+6. Temperature Control 
+6.1 Furnace temperatures for heat treating shall be effec­
+tively controlled by pyrometer. 
+7. Chemical Composition 
+7.1 The steel shall be in accordance with the requirements 
+as to chemical composition prescribed in Table 1. 
+8. Tensile Requirements 
+8.1 Steel used for the castings shall be in accordance with 
+the requirements as to tensile properties prescribed in Table 2. 
+TABLE 2 Tensile RequirementsA 
+Material Tensile Yield Elongation Reduction of 
+Grade Strength, Strength, 8 in 2 in. Area,% ksi [MPa] ksi [MPa] [50 mm], % 0 
+WeA 60-85 30 [205] 24 35 [415-585] 
+WeB 70-95 36 [250] 22 35 [485-655] 
+wee 70-95 40 [275] 22 35 [485-655] 
+A All values are minimums, except where a range is provided. 
+8 Determine by either 0.2 % offset method or 0.5 % extension-under-load method. 
+0 When IeI test bars are used in tensile testing as provided for in Specification 
+A703/A703M, the gage length to reduced section diameter ratio shall be 4 to 1. 
+9. Quality 
+9.1 The surface of the casting shall be examined visually 
+and shall be free of adhering sand, scale, cracks, and hot tears. 
+Other smface discontinuities shall meet the visual acceptance 
+standards specified in the order. Visual Method SP-55 or other 
+visual standards may be used to define acceptable surface 
+discontinuities and finish. Unacceptable visual surface discon­
+tinuities shall be removed and their removal verified by visual 
+examination of the resultant cavities. 
+9.2 When additional inspection is desired, Supplementary 
+Requirements S4, S5, and SlO may be ordered. 
+9.3 The castings shall not be peened, plugged, or impreg­
+nated to stop leaks. 
+10. Repair by Welding 
+10.1 Repairs shall be made using procedures and welders 
+qualified under Practice A488/A488M. 
+301 
+10.2 Weld repairs shall be inspected to the same quality 
+standards that are used to inspect the castings. When castings 
+are produced with Supplementary Requirement S4 specified, 
+weld repairs shall be inspected by magnetic particle examina­
+tion to the same standards that are used to inspect the castings. 
+When castings are produced with Supplementary Requirement 
+S5 specified, weld repairs on castings that have leaked on 
+hydrostatic test, or on castings in which the depth of any cavity 
+prepared for repair welding exceeds 20 % of the wall thickness 
+or 1 in. [25 mm], whichever is smaller, or on castings in which 
+any cavity prepared for welding is greater than approximately 
+10 in.2 [65 cm 2 ], shall be radiographed to the same standards 
+that are used to inspect the castings. 
+10.3 Castings containing any repair weld that exceeds 20 % 
+of the wall thickness or 1 in. [25 mm], whichever is smaller, or 
+that exceeds approximately 10 in.2 [65 cm 2 ] in area, or that was 
+made to correct hydrostatic test defects, shall be stress relieved 
+or heat treated after welding. This mandatory stress relief or 
+heat treatment shall be in accordance with the procedure 
+qualification used. 
+11. Keywords 
+11.1 carbon steel; high temperature; pressure-containing 
+parts; steel castings
+
+=== Page 354 ===
+
+SA-216/SA-216M (ASTM A216/A216M) ASME BPVC.II.A-2025 
+SUPPLEMENTARY REQUIREMENTS 
+The following supplementary requirements shall not apply unless specified in the purchase order. 
+Lists of standardized supplementary requirements for use at the option of the purchaser are included 
+in Specifications A 703/ A 703M and A985/ A985M. Those which are ordinarily considered suitable for 
+use with this specification are given below. Others enumerated in Specifications A703/A703M and 
+A985/A985M may be used with this specification upon agreement between the manufacturer and 
+purchaser. 
+Sl. Unspecified Elements 
+S2 .. Destruction Tests 
+S3. Bend Test 
+S4. Magnetic Particle Inspection 
+SS. Radiographic Inspection 
+SlO. Examination of Weld Preparation 
+SlS. Quench and Temper Heat Treatment 
+S50. Carbon Equivalent 
+S50.1 When specified in the order, the maximum carbon 
+equivalent shall be: 
+Grade Carbon Equivalent, max 
+WCA 0.50 
+WCB 0.50 
+wee o.55 
+S50.2 Carbon equivalent (CE) shall be determined as fol­
+lows: 
+Mn Cr+ Mo+ V Ni+ Cu 
+CE= C+6+ 5 +-1-5-
+SSl. Requirements for Carbon Steel Castings for Hydro­
+fluoric Acid Alkylation Service 
+S51.1 The maximum carbon equivalent shall be as follows: 
+CE maximum 
+Maximum specified section thickness less than or equal to 1 in. 0.43 
+[25mm] 
+Maximum specified section thickness greater than 1 in. [25 mm] 0.45 
+S51.2 Determine the carbon equivalent (CE) as follows: 
+Mn (Cr+Mo+V) (Ni+Cu) 
+CE=C+6+ 5 + 15 
+S51.3 Vanadium and niobium maximum content based upon 
+heat analysis shall be: 
+NoTE !-Niobium= columbium 
+Maximum vanadium 
+Maximum niobium 
+Maximum vanadium plus niobium 
+0.02 wt.% 
+0.02 wt.% 
+0.03wt. % 
+S51.4 The sum of the nickel and copper contents for the 
+casting base metal, based upon heat analysis, shall not exceed 
+0.15 wt.%. For weld filler metals used for repairs, the sum of 
+the chromium, nickel, and copper content, based on heat 
+analysis, shall not exceed 0.15 wt. %. 
+S51.5 The minimum carbon content for the casting base 
+metal shall be 0.18 wt.%. The maximum carbon content shall 
+be as required for the appropriate grade. 
+S51.6 Welding consumables for repair welds shall be of the 
+low-hydrogen type. E60:XX electrodes shall not be used. 
+S51. 7 In addition to the requirements for product marking in 
+the specification, an "HF-N" stamp or marking shall be 
+provided on each casting to identify that the casting complies 
+with this supplementary requirement. 
+S52. Lower Sulfur Maximum 
+S52.l When specified in the order, the maximum sulfur 
+content of Grade WCA, or Grade WCB, or Grade WCC shall 
+not exceed 0.030. 
+SUMMARY OF CHANGES 
+Committee A0l has identified the location of selected changes to this standard since the last issue 
+(A216/A216M-18) that may impact the use of this standard. (Approved Sept. 1, 2021.) 
+(1) Updated Supplementary Requirements S51.4 to S51.6 to 
+make base metal and weld filler metal chemistry requirements 
+more clear. 
+302
+
+=== Page 355 ===
+
+ASME BPVC.II.A-2025 SA-216/SA-216M (ASTM A216/A216M) 
+ASTM International takes no position respecting the validity of any patent rights asserted in connection with any item mentioned 
+in this standard. Users of this standard are expressly advised that determination of the validity of any such patent rights, and the risk 
+of infringement of such rights, are entirely their own responsibility. 
+This standard is subject to revision at any time by the responsible technical committee and must be reviewed every five years and 
+if not revised, either reapproved or withdrawn. Your comments are invited either for revision of this standard or for additional standards 
+and should be addressed to ASTM International Headquarters. Your comments will receive careful consideration at a meeting of the 
+responsible technical committee, which you may attend. If you feel that your comments have not received a fair hearing you should 
+make your views known to the ASTM Committee on Standards, at the address shown below. 
+This standard is copyrighted by ASTM International, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428-2959, 
+United States. Individual reprints (single or multiple copies) of this standard may be obtained by contacting ASTM at the above 
+address or at 610-832-9585 (phone), 610-832-9555 (fax), or service@astm.org (e-mail); or through the ASTM website 
+(www.astm.org). Permission rights to photocopy the standard may also be secured from the Copyright Clearance Center, 222 
+Rosewood Drive, Danvers, MA 01923, Tel: (978) 646-2600; http://www.copyright.com/ 
+303
+
+=== Page 357 ===
+
+ASME BPVC.II.A-2025 SA·217/SA-217M (ASTM A217/A217M) 
+SPECIFICATION FOR STEEL CASTINGS, MARTENSITIC 
+STAINLESS AND ALLOY, FOR PRESSURE-CONTAINING 
+PARTS, SUITABLE FOR HIGH-TEMPERATURE SERVICE 
+SA-217 /SA-217M ~ 
+INTERNATIONAL 
+Standards Worldwide 
+(Identical with ASTM Specification A217 /A217M-22 except for the addition of 2.3 and editorial differences in 2.1 and 
+9.1 .. ) 
+ASME SA-217 /SA-217M replaces paras. 2.1 and 9.1 of ASTM A217/A217M and adds para. 2.3 as follows: 
+2.1 ASTM Standards:3 
+A216/ A216M Specification for Steel Castings, Carbon, Suitable for Fusion Welding, for High-Temperature Service 
+A352/ A352M Specification for Steel Castings, Ferritic and Martensitic, for Pressure-Containing Parts, Suitable for 
+Low-Temperature Service 
+A487 / A487M Specification for Steel Castings Suitable for Pressure Service 
+A703/A703M Specification for Steel Castings, General Requirements, for Pressure-Containing Parts 
+A802/A802M Practice for Steel Castings, Surface Acceptance Standards, Visual Examination 
+A985/A98SM Specification for Steel Investment Castings General Requirements, for Pressure-Containing Parts 
+2.3 ASME Standard: 
+ASME Boiler and Pressure Vessel Code (BPVC), Section IX, Welding, Brazing, and Fusing Qualifications 
+9.1 Repairs shall be made using procedures and welders qualified under ASME BPVC Section IX. 
+305 
+(25)
+
+=== Page 358 ===
+
+SA-217/SA-217M (ASTM A217/A217M) ASME BPVC.II.A-2025 
+~ Designation: A217/A217M - 22 
+~u ,,1 
+INT/iiRNATIONAL 
+Standard Specification for 
+Steel Castings, Martensitic Stainless and Alloy, for 
+Pressure-Containing Parts, Suitable for High-Temperature 
+Service 1 
+This standard is issued under the fixed designation A217/A217M; the number immediately following the designation indicates the year 
+of original adoption or, in the case of revision, the year of last revision. A number in parentheses indicates the year of last reapproval. 
+A superscript epsilon ( e) indicates an editorial change since the last revision or reapproval. 
+This standard has been approved for use by agencies of the U.S. Department of Defense . 
+1. Scope* 
+L 1 This specification 2 covers martensitic stainless steel and 
+alloy steel castings for valves, flanges, fittings, and other 
+pressure-containing parts (Note 1) intended primarily for 
+high-temperature and corrosive service (Note 2). 
+1.2 One grade of martensitic stainless steel and nine grades 
+of ferritic alloy steel are covered. Selection will depend on 
+design and service conditions, mechanical properties, and the 
+high-temperature and corrosion-resistant characteristics (Note 
+3). 
+NoTB I-Carbon steel castings for pressure-containing parts are cov­
+ered by Specification A216/A216M. Low alloy quench-and-tempered 
+grades equivalent to Specification A217/A217M grades may be found in 
+both Specifications A352/A352M and A487/A487M. 
+NoTB 2-The grades covered by this specification represent materials 
+that are generally suitable for assembly with other castings or wrought 
+steel parts by fusion welding. It is not intended to imply that these grades 
+possess equal degrees of weldability; therefore, it is the responsibility of 
+the purchaser to establish for himself a suitable welding technique. Since 
+these grades possess varying degrees of suitability for high-temperature 
+and corrosion-resistant service, it is also the responsibility of the purchaser 
+to determine which grade shall be furnished, due consideration being 
+given to the requirements of the applicable construction codes. 
+NoTB 3-The committee formulating this specification has included 
+nine grades of materials that are considered to represent basic types of 
+ferritic alloy steels suitable for valves, flanges, fittings, and other pressure­
+containing parts. Additional alloy steels that may better fulfill certain types 
+of service will he considered for inclusion in this specification by the 
+committee as the need becomes apparent. 
+1.3 The values stated in either SI units or inch-pound units 
+are to be regarded separately as standard. The values stated in 
+each system may not be exact equivalents; therefore, each 
+' This specification is under the jurisdiction of ASTM Committee A0l on Steel, 
+Stainless Steel and Related Alloys and is the direct responsibility of Subcommittee 
+A0l.18 on Castings. 
+Current edition approved March 1, 2022. Published March 2022. Originally 
+approved in 1939. Last previous edition approved in 2020 as A217/A217M-20. 
+DOI: 10.1520/ A0217 _A0217M-22. 
+2 For ASME Boiler and Pressure Vessel Code applications, see related Specifi­
+cation SA-217/SA 217M in Section II of that code. 
+.system shall be used independently of the other. Combining 
+values from the two systems may result in nonconformance 
+with the standard. 
+1.4 This international standard was developed in accor­
+dance with internationally recognized principles on standard­
+ization established in the Decision on Principles for the 
+Development of International Standards, Guides and Recom­
+mendations issued by the World Trade Organization Technical 
+Barriers to Trade (TBT) Committee. 
+2. Referenced Documents 
+2.1 ASTM Standards.-3 
+A216/A216M Specification for Steel Castings, Carbon, Suit­
+able for Fusion Welding, for High-Temperature Service 
+A352/A352M Specification for Steel Castings, Ferritic and 
+Martensitic, for Pressure-Containing Parts, Suitable for 
+Low-Temperature Service 
+A487/A487M Specification for Steel Castings Suitable for 
+Pressure Service 
+A488/A488M Practice for Steel Castings, Welding, Qualifi­
+cations of Procedures and Personnel 
+A703/A703M Specification for Steel Castings, General 
+Requirements, for Pressure-Containing Parts 
+A802/A802M Practice for Steel Castings, Surface Accep­
+tance Standards, Visual Examination 
+A985/ A985M Specification for Steel Investment Castings 
+General Requirements, for Pressure-Containing Parts 
+2.2 AWS Specifications: 4 
+A5.5/A5.5M Low-Alloy Steel Electrodes for Shielded Metal 
+Arc Welding 
+3 For referenced ASTM standards, visit the ASTM website, www.astm.org, or 
+contact ASTM Customer Service at service@astm.org. For Annual Book of ASTM 
+Standardr volume infonnation, refer to the standard's Document Summary page on 
+the ASTM website. 
+4 Available from American Welding Society, 550 NW LeJuene Rd., Miami, FL 
+33126, http://www.aws.org. 
+* A Summary of Changes section appears at the end of this standard 
+306
+
+=== Page 359 ===
+
+ASME BPVC.IILA-2025 SA-217/SA-217M (ASTM A217/A217M) |
+a A5.23/A5.23M Low-Alloy Steel Electrodes and Fluxes for 4.1.1 A description of the casting by pattern number or :
+[ Submerged Arc Welding drawing (dimensional tolerances shall be included on the |
+A5.28/A5.28M Low-Alloy Steel Electrodes and Rods for — casting drawing),
+Gas Shielded Arc Welding 4.1.2 Grade of steel,
+A5.29/A5.29M Low-Alloy Steel Electrodes for Flux Cored 4.1.3 Options in the specification, .
+Arc Welding 4.1.4 Whether the castings are to be produced using the ,
+. investment casting process, and
+3. General Conditions for Delivery 4.1.5 The supplementary requirements desired, including |
+3.1 Except for investment castings, castings furnished to — the standards of acceptance.
+this specification shall conform to the requirements of Speci-
+fication A703/A703M, including any supplementary require- 5. Heat Treatment
+ments that are indicated in the purchase order. Failure to 5.1 All castings shall receive a heat treatment proper to their
+comply with the general requirements of Specification A703/ design and chemical composition.
+A703M constitutes nonconformance with this specification. In |
+_ case of conflict between the requirements of this specification 5.2 Castings shall be furnished in the normalized and
+A and Specification A703/A703M, this specification shall pre- tempered conditions, Grades WC1, WC4, WCS, WC6, and
+| vail. ; CA15 shall be tempered at 1100°F [595 °C] min; Grades
+WC9, C5, C12, and WCI1I1 shall be tempered at 1250 °F
+en Steel investment castings furnished to this specification [675 °C] min; Grade C12A shall be thermally treated, either by
+shall conform to the requirements of Specification A985/ — pormalizing and tempering or by accelerated cooling from the
+A985M, including any supplementary requirements that he austenitizing temperature by air blasting or liquid quenching,
+indicated in the pafenate order. Failure to comply with the —fotlowed by tempering. C12A castings shall be austenitized at
+general requirements o | Specification A985/A985M consti- 1900 to 1975 °F [1040 to 1080 °C] and tempered at 1350 to
+tutes nonconformance with this specification. In case of con- 1470 °F [730 to 800 °C].
+flict between the requirements of this specification and Speci-
+fication A985/A985M, Specification A985/A985M_ shall 5.3 Heat treatment shall be performed after castings have
+prevail. been allowed to cool below the transformation range.
+4. Ordering Information 6. Chemical Composition
+4.1 The inquiry and order should include or indicate the 6.1 The steel shall be in accordance with the requirements
+\ following: as to chemical composition prescribed in Table 1 (Footnote 4).
+| TABLE 1 Composition Requirements*? |
+Grade
+| UNS Number
+Type .
+Element, % nr
+Weg WC4 WC5 wC6 wcg wC11 C5 C12 C12A CA15
+J12524 J12082 J22000 J12072 J21890 J11872 J42045 J82090 J84090 J91150
+. C-Mo Ni-Cr-Mo Ni-Cr-Mo Cr-Mo Cr-Mo Cr-Mo Cr-Mo Cr-Mo Cr-Mo-V Cr
+Carbon 0.25 0.05-0.20 0.05-0.20 0.05-0.20 0.05-0.18  0.15~-0.21 0.20 0.20 0.08-0.12 0.15:
+Manganese 0.50-0.80 0.50-0.80 0.40-0.70 0.50-0.80 0.40-0.70 0.50-0.80 0.40-0.70 0.35-0.65 — 0.30-0.60 1.00
+Phosphorus 0.04 0.04 0.04 0.035° 0.035 0.020 0.04¢° 0.035° 0.025 0.040°
+Sulfur 0.045 0.045 0.045 0.035° 0.035° 0.015 0.045° 0.035° 0.010 0.025°
+Silicon 0.60 0.60 0.60 0.60 0.60 0.30-0.60 0.75 1.00 0.20-0.50 1.50
+Nickel a 0.70-1.10  0.60-1.00 _ Le _ La Lee 0.40 1.00 :
+| Chromium _ 0.50-0.80 0.50-0.90 1.00-1.50 2.00-2.75 1.00-1.50 4.00-6.50 8.00-10.00  8.0-9.5 11.5-14.0
+Molybdenum 0.45-0.65 0.45-0.65 0.90-1.20 0.45-0.65 0.90-1.20 0.45-0.65 0.45-0.65 0.90-1.20  0.85~1.05 0.50
+an Niobium? -_ -_ _ _ Le _ - 0.03 0.060-0.10 Lee
+Nitrogen wee wee wae wae Lee a Lae ee 0.030-0.070 wee
+Vanadium ee wee wae wae a ee wee 0.06 0.18-0.25 ae
+Specified Residual Elements
+Copper 0.50 0.50 0.50 0.50 0.50 0.35 0.50 0.50 Le Les
+~ Nickel 0.50 a a 0.50 0.50 0.50 0.50 0.50 Lee Le
+Chromium 0.35 eas wae eas vas as eae ae . Lae _ .
+Titanium bee Lee Lee a Lae _— a bee 0.01 wae
+Tungsten 0.10 . 0.10 0.10 0.10 0.10 _ 0.10 0.10 La a
+Vanadium _ nae wee Daas wae 0.03 wee Lae wee a
+Zirconium wae Lee wae wee ee ee ee ae 0.01 ee
+Total Content of 1.00 0.60 0.60 1.00 1.00 1.00 1.00 1.00 Lae bee
+Residual Elements
+A Where ellipses (..) appear in this table, there is no requirement, and the element need not be analyzed for or reported.
+® All values are maximums unless a range is provided. |
+© For lower maximum phosphorus or sulfur contents, see Supplementary Requirement S52. .
+( » Columbium (Cb) and niobium (Nb) are interchangeable names for the same element 41.
+, 307 ,
+
+=== Page 360 ===
+
+SA-217/SA-217M (ASTM A217/A217M) ASME BPVC.ILA-2025
+Note 4—The role of alloying elements in the development of Grade TABLE 3 Minimum Preheat Temperatures =
+C12A has been extensively investigated. V and Nb contribute to precipi- Te MN!
+tation strengthening by forming fine and coherent precipitation of M(C, Preheat
+N)X carbo-nitrides in the ferrite matrix. V also precipitates as VN during Grade Thickness, in. [mm] Temperature,
+tempering or during creep. The two elements are more effective in °F [°C]
+combination. Therefore, the addition of strong nitride-forming elements, — WCL”~”*~‘“‘i‘é™SO.O CSM UNder=—™~<“it~‘s*s«s«SSOCSCLYC CS”
+those with a stronger affinity for nitrogen than Nb and V, as deoxidation Over 5% [15.9] 250 [120]
+agents, interferes with these high-temperature strengthening mechanisms.” WC4 Al 300 [150]
+: WC5 All 300 [150]
+7. Mechanical Properties WC6 All 300 [150]
+wcg All 400 [200]
+7.1 Steel used for the castings shall conform to the require- WC11 All 300 [150]
+ments as to tensile properties given in Table 2. C5 All 400 [200]
+C12 All 400 [200]
+7.2 C12A castings shall be hardness tested in accordance C12A All , 400 [200]
+with Supplementary Requirement S13, and shall havea Brinell WW CSAT A400 1200)
+hardness of 185-248 HBW.
+8. Quality , that cannot be identified or were produced by cracks or
+8.1 The surface of the casting shall be examined visually crack-like imperfections. Such castings may be repaired. To be |
+and shall be free of adhering sand, scale, cracks, and hot tears. accepted, a repaired casting shall pass the ultrasonic examina-
+Other surface discontinuities shall meet the visual acceptance tion and shall meet the minimum wall thickness requirements
+standards specified in the order. Practice A802/A802M or other of the purchase order.
+visual standards may be used to define acceptable surface 8.3 When additional inspection is desired, Supplementary
+discontinuities and finish. Unacceptable visual surface discon- Requirements $4, S5, and S10 may be ordered.
+tinuities shall be removed and their removal verified by visual , | ,
+examination of the resultant cavities. When methods involving 8.4 The castings shall not be peened, plugged, or impreg-
+high temperatures are used in the removal of discontinuities, nated to stop leaks.
+castings shall be preheated to at least the minimum tempera- 9 Repair by Welding
+| tures in Table 3. | 0.1 Repairs shall b d d d weld
+8.2 Hollow castings of Grade C12A, larger than NPS 4 [DN qualifi e fonder Praction MARS IAASSM. POEL, NEMS
+100], and whose internal surfaces are not accessible to the
+visual examination in 8.1, shall be examined by the ultrasonic 9.2 All repair welds in C12A castings shall be made with
+examination prescribed in Supplementary Requirement S7. one of the following welding processes and consumables:
+Castings producing a signal equal to or greater than the lowest SMAW, A5.5/A5.5M E90XX-B9; SAW, A5.23/A5.23M EB9 +
+signal produced by the referenced discontinuities shall be Neutral Flux; GTAW, A5.28/A5 28M ER90S-B9; and FCAW,
+identified and separated from the acceptable castings. The area AS.29/ A3.29M BOITI-B9. In addition, the sum of the Ni + Mn
+producing the signal may be re-examined. Such castings shall Content in all welding consumables used to weld repair C12A
+be rejected if the test signals were produced by imperfections  ©4stings shall not exceed 1.0 %. Weld-repaired Grade C12A
+castings shall be post-weld heat treated at 1350 to 1470 °F [730
+as to 800 °C].
+° Viswanathan, R. and Bakker, W. T., Materials for Ultra Supercritical Fossil . . ;
+Power Plants, EPRI, Palo Alto, CA, 2000. TR-114750. _ 9.3 Weld repairs shall be inspected to the same quality
+standards that are used to inspect the castings. When castings
+TABLE 2 Tensile Requirements“ are produced with Supplementary Requirement S4 specified,
+To  Bgnga- ._, . Weld repairs shall be inspected by magnetic particle examina-
+Tensile Yield tion in Reduc- tion to the same standards that are used to inspect the castings
+Strength, ; tion of pe © casungs.
+Grade ksi vei (Meat? - c ran Area, | When castings are produced with Supplementary Requirement
+[MPa] HE % S5 specified, weld repairs on castings that have leaked on a
+wot”ti‘é™O™O.COC+CS-QO....-»O S35 (240) ~=9024  ~©«©5}©)© 35.~—S=CSwrosstatic test, or on castings in which the depth of any cavity
+[450-620] prepared for repair welding exceeds 20 % of the wall thickness :
+WC4, WC5, WC6, WC9 ' 425-685) 40 [275] 20 35 or 1 in. [25 mm], whichever is smaller, or on castings in which a
+wet 80-105 50 [345] 18 45 any cavity prepared for welding is greater than approximately :
+[550-725] 10 in.” [65 cm], shall be radiographed to the same standards
+05, C12 (620-795) 60 [415] "e 3 that are used to inspect the castings. |
+C12A one 760 60 [415] 18 45 9.4 Weld repairs shall be considered major in the case of a !
+CA15 90-115 65 [450] 18 a9 ~-casting that has leaked on hydrostatic test, or when the depth of :
+[620-795] the cavity prepared for welding exceeds 20% of the wall !
+4 All values are minimums unless a range is provided. thickness or 1 in. [25 mm], whichever is smaller, or when the |
+"Determine by either 0.2 % offset method or 0.5 %o extension-under-load method. extent of the cavity exceeds approximately 10 in.” [65 cm].
+When ICI test bars are used in tensile testing as provided for in Specification All castings with major repair welds shall be thermally stress
+A703/A703M, the gage length to reduced section diameter ratio shall be 4 to 1. .
+relieved or completely reheat treated. This mandatory stress en .
+
+=== Page 361 ===
+
+ASME BPVC.II.A-2025 SA-217 /SA-217M (ASTM A217 /A217M) 
+relief or reheat treatment shall be in accordance with the 
+qualified procedure used. Major repairs shall be inspected to 
+the same quality standards that are used to inspect the castings. 
+10. Keywords 
+10.1 alloy steel; high temperature; martensitic stainless 
+steel; pressure containing; steel castings 
+SUPPLEMENTARY REQUIREMENTS 
+The following supplementary requirements shall not apply unless specified in the purchase order. 
+Lists of standardized supplementary requirements for use at the option of the purchaser are included 
+in Specifications A703/A703M and A985/A985M. Those which are ordinarily considered suitable for 
+use with this specification are given below. Others enumerated in Specifications A703/A703M and 
+A985/A985M may be used with this specification upon agreement between the manufacturer and 
+purchaser. 
+Sl. Unspecified Elements 
+S2. Destruction Tests 
+S3. Bend Tests 
+S4. Magnetic Particle Inspection 
+SS. Radiographic Inspection 
+S7. Ultrasonic Inspection 
+SlO. Examination of Weld Preparation 
+Sl3. Hardness Test 
+S21. Heat Treatment Furnace Record 
+S22. Heat Treatment 
+S51. Mandatory Post-Weld Heat Treatment 
+S51.1 All castings with repair welds shall receive a manda­
+tory thermal stress relief or complete reheat treatment in 
+accordance with the qualified procedure after all weld repairs. 
+S52. Lower Maximum Phosphorus or Sulfur Contents 
+S52.1 When specified in the order, the maximum phosphorus 
+or sulfur contents shall be as follows: 
+S52.2 For WC6, the maximum phosphorus content shall not 
+exceed 0.030 % and the maximum sulfur content shall not 
+exceed 0.025 %. 
+309 
+S52.3 For WC9, the maximum sulfur content shall not 
+exceed 0.030 %. 
+S52.4 For C5, the maximum phosphorous content shall not 
+exceed 0.035 % and the maximum sulfur content shall not 
+exceed 0.030 %. 
+S52.5 For C12, the maximum phosphorus content shall not 
+exceed 0.035 % and the maximum sulfur content shall not 
+exceed 0.025 %. 
+S52.6 For CA15, the maximum phosphorus content shall not 
+exceed 0.025% and the maximum sulfur content shall not 
+exceed 0.020 %. 
+S53. Temper Embrittlement Factor 
+S53.1 When specified by the purchaser, the composition of 
+Grade WC9, based on heat analysis, shall be restricted in 
+accordance with the following equations: 
+J=(Si+Mn) X (P + Sn) X 104 s; 180(Si, Mn, P, and Sn in wt%) 
+Cu:5 0.20 % 
+Nis; 0.30 % 
+S53.1.1 Lower values of J, Cu, and Ni can be specified by 
+agreement between the purchaser and the supplier. 
+S53.1.2 The values of J shall be reported. 
+S53.1.3 If WC9 castings are repaired by welding, the 
+composition of the weld deposit shall be restricted in accor­
+dance with the following equations: 
+X=(l0P + 5Sb + 4Sn + As)/100 s; 15(P, Sb, Sn, and As in ppm) 
+Cus; 0.20 % 
+Nis; 0.30 %
+
+=== Page 362 ===
+
+SA-217 /SA-217M (ASTM A217 / A217M) ASME BPVC.II.A-2025 
+SUMMARY OF CHANGES 
+Committee A0l has identified the location of selected changes to this standard since the last issue 
+(A217/A217M-20) that may impact the use of this standard. (Approved March 1, 2022.) 
+( 1) The element columbium has been changed to niobium for 
+continuity with other A0l.18 specifications. 
+ASTM International takes no position respecting the validity of any patent rights asserted in connection with any item mentioned 
+in this standard. Users of this standard are expressly advised that determination of the validity of any such patent rights, and the risk 
+of infringement of such rights, are entirely their own responsibility. 
+This standard is subject to revision at any time by the responsible technical committee and must be reviewed every five years and 
+if not revised, either reapproved or withdrawn. Your comments are invited either for revision of this standard or for additional standards 
+and should be addressed to ASTM International Headquarters. Your comments will receive careful consideration at a meeting of the 
+responsible technical committee, which you may attend. If you feel that your comments have not received a fair hearing you should 
+make your views known to the ASTM Committee on Standards, at the address shown below. 
+This standard is copyrighted by ASTM International, 100 Barr Harbor Drive, PO Box C?00, West Conshohocken, PA 19428-2959, 
+United States. Individual reprints (single or multiple copies) of this standard may be obtained by contacting ASTM at the above 
+address or at 610-832-9585 (phone), 610-832-9555 (fax), or service@astm.org (e-mail); or through the ASTM website 
+(www.astm.org). Permission rights to photocopy the standard may also be secured from the Copyright Clearance Center, 222 
+Rosewood Drive, Danvers, MA 01923, Tel: (978) 646-2600; http://www.copyright.com/ 
+310
+
+=== Page 363 ===
+
+ASME BPVC.ILA-2025 SA-225/SA-225M )
+, SPECIFICATION FOR PRESSURE VESSEL PLATES,
+ALLOY STEEL, MANGANESE-VANADIUM-NICKEL
+CxS SA-225/SA-225M ily |
+® Standards Worldwide
+‘identical with ASTM Specification A225/A225M-17.)
+311
+
+=== Page 364 ===
+
+SA-225/SA-225M ASME BPVC.II.A-2025 
+Standard Specification for 
+Pressure Vessel Plates, Alloy Steel, Manganese-Vanadium­
+Nickel 
+1. Scope 
+1.1 This specification covers manganese-vanadium-nickel 
+alloy steel plates intended primarily for welded layered pres­
+sure vessels. 
+1.2 Plates under this specification are available in two 
+grades having different strength levels as follows: 
+Grade 
+C 
+D 
+Tensile Strength, ksi [MPa] 
+1 05-135 [725-930] 
+3 in. [75 mm] and under 80-105 [550-725] 
+Over 3 in. [75 mm] 75-100 [515-690] 
+1.3 The maximum thickness of plates is limited only by the 
+capacity of the chemical composition to meet the specified 
+mechanical property requirements. 
+1.4 The values stated in either inch-pound units or SI units 
+are to be. regarded separately as standard. Within the text, the 
+SI units are shown in brackets. The values stated in each 
+system are not exact equivalents; therefore, each system must 
+be used independently of the other. Combining values from the 
+two systems may result in nonconformance with the specifi­
+cation. 
+1.5 This international standard was developed in accor­
+dance with internationally recognized principles on standard­
+ization established in the Decision on Principles for the 
+Development of International Standards, Guides and Recom­
+mendations issued by the World Trade Organization Technical 
+Barriers to Trade (TBT) Committee. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+A20/ A20M Specification for General Requirements for Steel 
+Plates for Pressure Vessels 
+A435/A435M Specification for Straight-Beam Ultrasonic 
+Examination of Steel Plates 
+A577/A577M Specification for Ultrasonic Angle-Beam Ex­
+amination of Steel Plates 
+A578/A578M Specification for Straight-Beam Ultrasonic 
+Examination of Rolled Steel Plates for Special Applica­
+tions 
+3. General Requirements and Ordering Information 
+3.1 Material supplied to this material specification shall 
+conform to Specification A20/A20M. These requirements out­
+line the testing and retesting methods and procedures, permit­
+ted variations in dimensions, and mass, quality and repair of 
+defects, marking, loading, and ordering information. 
+312 
+3.2 In addition to the basic requirements of this 
+specification, certain supplementary requirements are available 
+when additional control, testing, or examination is required to 
+meet end use requirements. The purchaser is refe1Ted to the 
+listed supplementary requirements in this specification and to 
+the detailed requirements in Specification A20/A20M. 
+3.3 Coils are excluded from qualification to this specifica­
+tion until they are processed into finished plates. Plates 
+produced from coil means plates that have been cut to 
+individual lengths from coil. The processor directly controls, or 
+is responsible for, the operations involved in the processing of 
+coils into finished plates. Such operations include decoiling, 
+leveling, cutting to length, testing, inspection, conditioning, 
+heat treatment (if applicable), packaging, marking, loading for 
+shipment, and certification. 
+Norn 1-For plates produced from coil and furnished without heat 
+treatment or with stress relieving only, three test results are reported for 
+each qualifying coil. Additional requirements regarding plates from coil 
+are described in Specification A20/A20M. 
+3.4 If the requirements of this specification are in conflict 
+with the requirements of Specification A20/ A20M, the require­
+ments of this specification shall prevail.
+
+=== Page 365 ===
+
+ASME BPVC.II.A-2025 SA-225/SA-225M 
+TABLE 1 Chemical Requirements 
+Elements 
+Carbon, maxA 
+Manganese, max: 
+Heat analysis 
+Product analysis 
+Phosphorus, maxA 
+Sulfur, maxA 
+Silicon: 
+Heat analysis 
+Product analysis 
+Vanadium: 
+Heat analysis 
+Product analysis 
+Nickel: 
+Heat analysis 
+Product analysis 
+A Applies to both heat and product analyses. 
+Grade C 
+0.25 
+1.60 
+1.72 
+0.025 
+0.025 
+0.15-0.40 
+0.13-0.45 
+0.13-0.18 
+0.11-0.20 
+0.40-0.70 
+0.37-0.73 
+Composition, % 
+Grade D 
+0.20 
+1.70 
+1.84 
+0.025 
+0.025 
+0.10-0.50 
+0.08-0.56 
+0.10-0.18 
+0.08-0.20 
+0.40-0.70 
+0.37-0.73 
+TABLE 2 Tensile Requirements 
+Grade C Grade D 
+ksi [MPa] ksi [MPa] 
+Tensile strength: 
+All thicknesses 105-135 [725-930] 
+3 in. [75 mm] and under 80-105 [550-725] 
+Over 3 in. [75 mm] 75-100 [515-690] 
+Yield strength, min:A 
+All thicknesses 70 (485] 
+3 in. [75 mm] and under 60 [415] 
+Over 3 in. [75 mm] 55 [380] 
+Elongation in 8 in. [200 mm], min, % 8 
+Elongation in 2 in. (50 mm], min, % 8 20 19 
+Elongation in 5D, min, % 8 17 
+A Determined by either the 0.2 % offset method or the 0.5 % extension-under-load method. 
+8 See Specification A20/A20M for elongation adjustment. 
+4. Materials and Manufacture 
+4.1 Steelmaking Practice-The steel shall be killed and 
+shall conform to the fine austenitic grain size requirement of 
+Specification A20/A20M. 
+5. Heat Treatment 
+5.1 Grade D plates of all thicknesses and Grade C plates of 
+thicknesses over 2 in. [50 mm] shall be normalized. 
+5.2 Grade C plates 2 in. [50 mm] and under in thickness are 
+usually supplied in the as-rolled condition. The plates may be 
+ordered normalized or stress-relieved, or both. 
+6. Chemical Composition 
+6.1 The steel shall conform to the chemical requirements 
+given in Table 1, unless otherwise modified in accordance with 
+313 
+Supplementary Requirement Sl7, Vacuum Carbon-Deoxidized 
+Steel, in Specification A20/ A20M. 
+7. Mechanical Properties 
+7 .1 Tension Test-The plates, as represented by the tension 
+test specimens, shall conform to the requirements given in 
+Table 2. 
+7.2 For plates with a nominal thickness of% in. [20 mm] 
+and under, the 1 ½-in. [40-mm] wide rectangular specimen may 
+be used and the elongation determined in a 2-in. [50-mm] gage 
+length that includes the fracture and that shows the greatest 
+elongation. 
+8. Keywords 
+8.1 alloy steel plates; manganese-vanadium-nickel steel 
+plate; plate for pressure vessels; pressure containing parts
+
+=== Page 366 ===
+
+SA-225/SA-225M ASME BPVC.II.A-2025 
+SUPPLEMENTARY REQUIREMENTS 
+Supplementary requirements shall not apply unless specified in the purchase order. 
+A list of standardized supplementary requirements for use at the option of the purchaser is included 
+in Specification A20/ A20M. Those that are considered suitable for use with this specification are listed 
+below by title. 
+S 1. Vacuum Treatment, 
+S2. Product Analysis, 
+S3. Simulated Post-Weld Heat Treatment of Mechanical 
+Test Coupons, 
+S4. l Additional Tension Test, 
+S5. Charpy V-Notch Impact Test, 
+S6. Drop Weight Test (for Material 0.625 in. [16 mm] and 
+over in Thickness), 
+S7. High-Temperature Tension Test, 
+314 
+S8. Ultrasonic Examination in accordance with Specifica­
+tion A435/A435M, 
+S9. Magnetic Particle Examination, 
+S 1 l. Ultrasonic Examination in accordance with Specifica­
+tion A577 / A577M, 
+S12. Ultrasonic Examination in accordance with Specifica­
+tion A578/ A578M, and 
+S 17. Vacuum Carbon-Deoxidized Steel.

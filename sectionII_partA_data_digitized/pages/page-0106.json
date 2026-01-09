@@ -1,0 +1,21 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 106,
+  "globalPageIndex": 106,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "SA-6/SA-6M \nDesignation Flange (Nominal \nDepth in Area Depth \nInches and A, d, Width Thick-\nWeight in in. 2 in. \nb\" in. ness t\" \nPounds per in.A \nLinear Foot) \n8 24 X 121 35.6 24.50 8.050 1.090 \nX 106 31.2 24.50 7.870 1.090 \n8 24 X 100 29.3 24.00 7.245 0.870 \nX 90 26.5 24.00 7.125 0.870 \nX 80 23.5 24.00 7.000 0.870 \n8 20 X 96 28.2 20.30 7.200 0.920 \nX 86 25.3 20.30 7.060 0.920 \n8 20 X 75 22.0 20.00 6.385 0.795 \nX 66 19.4 20.00 6.255 0.795 \n8 18 X 70 20.6 18.00 6.251 0.691 \nX 54.7 16.1 18.00 6.001 0.691 \n8 15 X 50 14.7 15.00 5.640 0.622 \nX 42.9 12.6 15.00 5.501 0.622 \n8 12 X 50 14.7 12.00 5.477 0.659 \nX 40.8 12.0 12.00 5.252 0.659 \n8 12 X 35 10.3 12.00 5.078 0.544 \nX 31.8 9.35 12.00 5.000 0.544 \n8 10 X 35 10.3 10.00 4.944 0.491 \nX 25.4 7.46 10.00 4.661 0.491 \n8 8 X 23 6.77 8.00 4.171 0.425 \nX 18.4 5.41 8.00 4.001 0.425 \n8 6 X 17.25 5.07 6.00 3.565 0.359 \nX 12.5 3,67 6.00 3.332 0.359 \n8 5 X 10 2.94 5.00 3,004 0.326 \n8 4 X 9.5 2.79 4.00 2,796 0.293 \nX 7.7 2.26 4.00 2,663 0.293 \n8 3 X 7.5 2.21 3.00 2,509 0.260 \nX 5.7 1.67 3.00 2,330 0.260 \nASME BPVC.II.A-2025 \nTABLE A2.2 \"S\" Shapes \ntr Y \nd X X \nDesignation \nWeb [Nominal \nThick- Depth in Milli-\nness lw, metres and \nMass in Kilo-in.A grams per \nMetre] \n0.800 8 610 X 180 \n0.620 X 158 \n0.745 S610x149 \n0.625 X 134 \n0.500 X 119 \n0.800 8 510 X 143 \n0.660 X 128 \n0.635 S510x112 \n0.505 X 98 \n0.711 S460x104 \n0.461 X 81.4 \n0.550 8 380 X 74 \n0.411 X 64 \n0.687 S310x74 \n0.462 X 60.7 \n0.428 8 310 X 52 \n0.350 X 47.3 \n0.594 S250x52 \n0.311 X 37.8 \n0.441 S200x34 \n0.271 X 27.4 \n0.465 8 150 X 25.7 \n0.232 X 18.6 \n0.214 S130x15 \n0.326 8 100 X 14.1 \n0.193 X 11.5 \n0.349 8 75 X 11.2 \n0.170 X 8.5 \nFlange \nArea A, Depth Thick-\nmm 2 d, mm Width ness, b,, \nmm t\" mmA \n23 000 622 204 27.7 \n20 100 622 200 27.7 \n18 900 610 184 22.1 \n17 100 610 181 22.1 \n15 200 610 178 22.1 \n18 200 516 183 23.4 \n16 300 516 179 23.4 \n14 200 508 162 20.2 \n12 500 508 159 20.2 \n13 300 457 159 17.6 \n10 400 457 152 17.6 \n9 480 381 143 15.8 \n8 130 381 140 15.8 \n9 480 305 139 16.7 \n7 740 305 133 16.7 \n6 650 305 129 13.8 \n6 030 305 127 13.8 \n6 650 254 126 12.5 \n4 810 254 118 12.5 \n4 370 203 106 10.8 \n3 480 203 102 10.8 \n3 270 152 91 9.1 \n2 360 152 85 9.1 \n1 880 127 76 8.3 \n1 800 102 71 7.4 \n1 450 102 68 7.4 \n1 430 76 64 6,6 \n1 080 76 59 6.6 \nA Actual flange and web thicknesses vary due to mill rolling practices; however, permitted variations for such dimensions are not addressed. \n54 \nWeb \nThick-\nness \nlw, \nmmA \n20.3 \n15.7 \n18.9 \n15.9 \n12.7 \n20,3 \n16.8 \n16.1 \n12.8 \n18.1 \n11.7 \n14.0 \n10.4 \n17.4 \n11.7 \n10.9 \n8.9 \n15.1 \n7.9 \n11.2 \n6.9 \n11.8 \n5.9 \n5.4 \n8.3 \n4.9 \n8.9 \n4.3 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-0106.txt",
+  "ocrTextLength": 2250,
+  "ocrApplied": true,
+  "tabulaTablesPath": "tables_tabula/page-0106.json",
+  "tabulaTablesCsv": "tables_tabula/page-0106.csv",
+  "tabulaTableCount": 2,
+  "bestTextPath": "best_text/pages/page-0106.txt",
+  "bestTextSource": "ocr",
+  "bestTextLength": 2250,
+  "bestTextAlphaRatio": 0.1893
+}

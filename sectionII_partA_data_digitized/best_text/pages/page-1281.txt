@@ -1,0 +1,72 @@
+~-
+\ 
+'-...__..,..-
+ASME BPVC.II.A-2025 SA-738/SA-738M 
+TABLE 1 Chemical Requirements 
+NOTE I-Where" ... " appears there is no requirement. 
+Element Composition, % 
+Grade A Grade B Grade C Grade D Grade E 
+Carbon, maxA 0.24 0.20 0.20 0.10 0.12 8 
+Manganese: 
+Heat analysis 
+1.5 in. [40 mm] and under 1.50 max 0.90-1.50 1.50 max 1.00-1.60 1.10-1.60 8 
+Over 1.5 to 2.0 in. 1.50 max 0.90-1.50 1.50 max C 1.10-1.60 8 
+[40to 50 mm] 
+Over 2.0 to 2.5 in. 1.50 max 0.90-1.50 1.50 max C C 
+[50 to 65 mm], incl 
+Over 2.5 in. [65 mm] 1.60 max 0.90-1.60 1.60 max C C 
+Product analysis 
+1.5 in. [40 mm] and under 1.62 max 0.84-1.62 1.62 max 0.92-1.72 1.02-1.72 8 
+Over 1.5 to 2.0 in. 1.62 max 0.84-1.62 1.62 max C 1.02-1.72 8 
+[40 to 50 mm], incl 
+Over 2.0 to 2.5 in. 1.62 max 0.84-1.62 1.62 max C C 
+[50 to 65 mm], incl 
+Over 2.5 in. [65 mm] 1.72 max 0.84-1.72 1.72 max C C 
+Phosphorus, maxA 0.025 0.025 0.025 O.D15 O.D15 
+Sulfur, maxA 0.025 0.025 0.025 0.006 0.006 
+Silicon: 
+Heat analysis 0.15--0.50 0.15--0.55 0.15-0.50 0.15--0.50 0.15--0.50 
+Product analysis 0.13--0.55 0.13--0.60 0.13-0.55 0.13-0.55 0.13-0.55 
+Copper, max: 
+Heat analysis 0.35 0.35 0.35 0.35 0.35 
+Product analysis 0.38 0.38 0.38 0.38 0.38 
+Nickel, max: 
+Heat analysis 0.50 0.60 0.50 0.60 0.70 
+Product analysis 0.53 0.63 0.53 0.63 0.73 
+Chromium, max: 
+Heat analysis 0.25 0.30 0.25 0.25 0.30 
+Product analysis 0.29 0.34 0.29 0.29 0.34 
+Molybdenum, max: 
+Heat analysis 
+1.5 in. [40 mm] and under 0.08 0.20 0.08 0.30 0.35 
+Over 1.5 in. [40 mm] 0.08 0.30 0.08 C C 
+Product analysis 
+1.5 in. [40 mm] and under 0.09 0.21 0.09 0.33 0.38 
+Over 1.5 in. [40 mm] 0.09 0.33 0.09 C C 
+Vanadium, max: 
+Heat analysis 0.07° 0.07 0.05 0.08 0.09 
+Product analysis 0.08° 0.08 0.05 0.09 0.10 
+Columbium (niobium), G max: 
+Heat analysis 0.04° 0.04 0.05 0.05 
+Product analysis 0.05° 0.05 0.06 0.06 
+Columbium (niobium)G plus vanadium, 
+max: 
+Heat analysis 0.08° 0.08 0.11 0.12 
+Product analysis 0.10° 0.10 0.12 0.13 
+Titanium, maxA E F 
+Boron, maxA 0.0007 0.0007 
+Aluminum, minA 0.020 total or 0.020 total or 
+O.D15 acid solubleE 0.015 acid solubleF 
+A Applies to both heat and product analyses. 
+8 For each reduction of 0.01 percentage point below the specified maximum for carbon, an increase of 0.06 percentage point above the specified maximum for manganese 
+is permitted, up to a maximum of 1.85 % by heat analysis, and 1.99 % by product analysis. 
+0 Not applicable because of maximum thickness. 
+0 Vanadium and columbium (niobium)G may be added only by agreement between the manufacturer and the purchaser. 
+E By agreement between the manufacturer and the purchaser, the steel may be produced with titanium, in which case the minimum aluminum content shall not apply. If 
+this option is exercised, the titanium content, by heat analysis, shall be 0.006 % to 0.03 %, and the titanium content for the heat and product analyses shall be reported 
+on the test report. 
+F By agreement between the manufacturer and the purchaser, the steel may be produced with titanium, in which case the minimum aluminum content shall not apply. If 
+this option is exercised, the titanium content, by heat analysis, shall be 0.006 % to 0.03 % inclusive and the titanium content for the heat and product analyses shall be 
+reported on the test report. 
+G Columbium and niobium are interchangeable names for the same element and both names are acceptable for use in A01 specifications. 
+1203 

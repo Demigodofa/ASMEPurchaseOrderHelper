@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 703,
+  "globalPageIndex": 703,
+  "width": 599.4,
+  "height": 844.08,
+  "text": "ASME BPVC.11.A-2025 \nSPECIFICATION FOR FERRITIC DUCTILE IRON \nPRESSURE-RETAINING CASTINGS FOR USE AT \nELEVATED TEMPERATURES \nSA-395/SA-395M 0 \nINTERNATIONAL \nStandards Worldwide \n(Identical with ASTM Specification A395/ A395M-99(2018).) \n653 \nSA-395/SA-395M ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-0703.txt",
+  "ocrTextLength": 236,
+  "ocrApplied": true,
+  "bestTextPath": "best_text\\pages\\page-0703.txt",
+  "bestTextSource": "full_ocr_highdpi",
+  "bestTextLength": 245,
+  "bestTextAlphaRatio": 0.678
+}

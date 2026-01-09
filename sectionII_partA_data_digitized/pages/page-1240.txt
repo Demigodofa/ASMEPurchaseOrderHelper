@@ -1,0 +1,116 @@
+SA-703/SA-703M ASME BPVC.ll.A-2025 
+[30 °C] below nor more than 175 °F [100 °C] above the 
+furnace set point used. 
+4.2.2.2 The maximum variation in measured temperature as 
+determined by the difference between the highest temperature 
+and the lowest temperature shall be as agreed between the 
+purchaser and producer, except that during production heat 
+treatment no portion of the furnace shall be below the 
+minimum specified temperature nor above the maximum 
+specified temperature for the grade being processed. 
+5. Chemical Composition 
+5.1 Chemical Analysis-Chemical analysis of materials 
+covered by this specification shall be in accordance with Test 
+Methods A751. 
+5.2 Heat Analysis-An analysis of each heat shall be made 
+by the manufacturer to determine the percentages of the 
+elements specified. The analysis shall be made from a test 
+sample preferably taken during the pouring of the heat. When 
+drillings are used, they shall be taken not less than ¼ in. 
+[6.4 mm] beneath the surface. The chemical composition thus 
+determined shall be reported to the purchaser, or their 
+representative, and shall conform to the requirements in the 
+individual specification for the grade being poured. 
+5.3 Product Analysis-A product analysis may be made by 
+the purchaser from material representing each heat, lot, or 
+casting. The analysis shall be made on representative material. 
+Due to the possibility of decarburization, samples for carbon 
+analysis shall be taken no closer than ¼ in. [6.4 mm] to a cast 
+surface, except that castings too thin for this shall be analyzed 
+on representative material. The chemical composition thus 
+determined shall meet the requirements specified in the appli­
+cable specification for the grade involved, or shall be subject to 
+rejection by the purchaser, except that the chemical composi­
+tion determined for carbon and low-alloy steel and stainless 
+steel castings may vary from the specified limits by the 
+amounts shown in Table 1 and Table 2, respectively. The 
+product analysis tolerances of Tables 1 and 2 are not applicable 
+as acceptance criteria for heat analysis by the casting manu­
+facturer. When comparing product and heat analysis for other 
+thari carbon and low-alloy steels and stainless steels, the 
+reproducibility data R 2 , in Test Methods E353 or E354, as 
+applicable, shall be taken into consideration .. 
+5.4 Unspecified Elements-When chemical analysis for el­
+ements not specified for the grade ordered is desired, Supple­
+mentary Requirement S 1 may be specified. 
+5.5 Grade Substitution-Grade substitution is not permitted. 
+Grade substitution occurs when the material being supplied 
+contains one or more elements that are not specified for the 
+supplied material such that the material conforms to the 
+requirements of a different grade. 
+5.6 Where more than one ladle is poured into a single 
+casting, the molten metal in each ladle must conform to the 
+specified chemical requirements. 
+6. Mechanical Test Methods 
+6.1 All mechanical tests shall be conducted in accordance 
+with Test Methods and Definitions A370. When material is 
+TABLE 1 Product Analysis Tolerances - Carbon and Low-Alloy 
+Steels 
+Element RangeA Tolerances 8 • 0 over max or 
+under min, Limit, % 
+Carbon (C) up to 0.65% 0.03 x % CL + 0.02 
+above 0.65% 0.04% 
+Manganese (Mn) upto 1 % 0.08 x % Mnc + 0.01 
+above 1 % 0.09 
+Silicon (Si) upto 0.60% 0.22 x % Sic - 0.01 
+above 0.60 % 0.15% 
+Phosphorus (P) all 0.13 x % Pc+ 0.005 
+Sulfur (S) all 0.36 x % Sc+ 0.001 
+Nickel (Ni) up to 2% 0.10 x % Nie + 0.03 
+above 2% 0.25% 
+Chromium (Cr) upto 2% 0.07 x % Crc + 0.04 
+above 2% 0.18% 
+Molybdenum (Mo) upto 0.6% 0.04 x % Moc + 0.03 
+above 0.6 % 0.06% 
+Vanadium (V) up to 0.25% 0.23 x % Ve+ 0.004 
+above 0.25% 0.06% 
+Tungsten (W) upto0.10% 0.08 x % We+ 0.02 
+above 0.10% 0.02% 
+Copper (Cu) upto 0.15% 0.18 x % Cuc+ 0.02 
+above 0.15 % 0.05% 
+Aluminum (Al) upto 0.03% 0.01 % 
+0.03 to 0.10 %, incl. 0.08x % Al + 0.02 
+above 0.10% 0.03% 
+A The range denotes the composition limits up to which the tolerances are 
+computed by the equation, and above which the tolerances are given by a 
+constant. 
+8 The subscript L for the elements In each equation indicates that the limits of the 
+element specified by the applicable specification are to be inserted into the 
+equation to calculate the tolerance for the upper limlt and the lower limit, if 
+applicable, respectively. Examples of computing tolerances are presented In the 
+footnote C. 
+0 To compute the tolerances, consider the manganese limits 0.50 - 80 % of Grade 
+WC4 of Specification A217/A217M. In accordance with Table 1, the maximum 
+permissible deviation of a product analysis below the lower limit 0.50 is 0.05 % = 
+(0.08 x 0.50 + 0.01 ). The lowest acceptable product analysis of Grade WC4, 
+therefore, is 0.45 %. Similarly, the maximum permissible deviation above the 
+upper limit of 0.80 % is 0.074 % = (0.08 x 0.80 + 0.01). The highest acceptable 
+product analysis of Grade WC4, therefore, is 0.874. For Grade wee of Specifi­
+cation A216/A216M, the maximum manganese content is 1.40 % if the carbon 
+content is 0.20 %. In this case, the highest acceptable product analysis is 1.49 = 
+(1.40 + 0.09). 
+ordered to an M-suffix (SI units) standard, then in accordance 
+with Test Methods A1058. 
+6.2 Choice of testing track from the options listed in Test 
+Methods Al058 when material is ordered to an M-su:ffix (SI 
+units) product standard, should be identified by the purchaser 
+in the ordering information. If the choice of test track is not 
+specified in the. order, then the default ASTM tr.ack shall be 
+used as noted in Test Methods A1058. 
+7. Tensile Requirements 
+7 .1 One tension test shall be made from each heat, and shall 
+conform to the tensile requirements specified. Test coupons 
+shall be cast from the same heat as the castings represented, 
+except that for investment castings, the test coupons shall be 
+cast in the same type of mold as the castings. 
+1154 

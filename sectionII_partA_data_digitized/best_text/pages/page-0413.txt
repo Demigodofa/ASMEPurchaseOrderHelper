@@ -1,0 +1,162 @@
+. '---' 
+ASME BPVC.II.A-2025 SA-249 /SA-249M 
+TABLE 2 Heat Treatment Requirements 
+Grade UNS Number Solutioning Temperature, min or range Quenching Method 
+All grades not 
+individually listed 
+below 
+1900 °F [1040 °C] A 
+S30601 
+S30815 
+S30941 
+S31009 
+S31041 
+S31254 
+S31266 
+S31277 
+S31609 
+S31727 
+2010 to 2140 °F [1100 to 1170 °C] 
+1920 °F [1050 °CJ 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+D 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+TP309HCb 
+TP310H 
+TP310HCb 
+TP316H 
+1900 °F [1040 °CJc 
+1900 °F [1040 °C] 
+1900 °F [1040 °CJC 
+2100 °F [1150 °C] 
+2100 °F [1150 °C] 
+2050 °F [1120 °C] 
+1900 °F [1040 °C] 
+1975 °F [1080 °C}-
+2155 °F [1180 °C] 
+1975 °F [1080 °C]-
+2155 °F [1180 °C] 
+TP321 
+TP321H 
+S32053 
+S32100 
+S32109 
+S32654 
+S33228 
+S34565 
+1900 °F [1040 'CJC 
+2000 'F [1100 'CJC 
+2100 'F [1150 'CJ 
+2050 'F [1120 'CJ 
+2050 'F [1120 'C]-
+2140 'F [1170 'CJ 
+TP347 
+TP347H 
+TP34B 
+TP348H 
+S34700 
+S34709 
+S34800 
+S34809 
+S35045 
+S38815 
+NOB020 
+N08367 
+N08800 
+N08810 
+N08811 
+N08904 
+N08926 
+1900 °F [1040 'Cle 
+2000 'F [1100 'CJC 
+1900 °F [1040 'CJC 
+2000 'F [1100 'CJC 
+2000 'F [1100 'CJ 
+1950 'F [1065 'CJ 
+Alloy 20 
+BOO 
+800H 
+1700-1850 'F [925-1010 'CJ stabilization treatment 
+2025 'F [1110 'C] 
+1900 'F [1040 'CJ 
+2050 'F [1120 'CJ 
+2100 'F [1150 °C] 
+2000 'F [1100 °C] 
+2010 'F [1105 °C] 
+A Quenched in water or rapidly cooled by other methods, at a rate sufficient to prevent reprecipitation of chromium carbides, as demonstrated by the capability of passing 
+Practices A262, Practice E. The manufacturer is not required to run the test unless it is specified on the purchase order (See Supplementary Requirement S6). Note that 
+Practices A262 requires the test to be performed on sensitized specimens in the low carbon and stabilized types and on specimens representative of the as-shipped 
+condition of the other types. In the case of low-carbon types containing 3 % or more molybdenum, the applicability of the sensitizing treatment prior to testing shall be a 
+matter for negotiation between the seller and purchaser. • 
+8 Quenched in water or rapidly cooled by other methods. 
+c A solution treating temperature above 1950 °F [1065 °C] may impair resistance to intergranular corrosion after subsequent exposure to sensitizing conditions in the 
+indicated grades. When specified by the purchaser, a lower temperature stabilization or re-solution anneal shall be used subsequent to the higher-temperature solution 
+anneal prescribed in this table (See Supplementary Requirement S4). 
+0 cooled in still air, or faster. 
+difficult to test the sample as a single piece, the sample may be 
+sectioned into smaller pieces provided a minimum of 4 in. of 
+weld is subjected to reverse bending. 
+NOTE 1-The reverse bend test is not applicable when the specified wall 
+is 10 % or more of the specified outside diameter, or the wall thickness is 
+0.134 in. [3.4 mm) or greater, or the outside diameter size is less than 
+0.375 in. [9.5 mm). Under these conditions the reverse flattening test of 
+Specification Al016/Al016M shall apply. 
+12. Grain Size Requirement 
+12.1 The grain size of Grades TP309H, TP309HCb, 
+TP310H and TP310HCb, as determined in accordance with 
+Test Methods E112, shall be No. 6 or coarser. 
+12.2 The grain size of Grades TP304H, TP316H, TP321H, 
+TP347H and TP348H, as determined in accordance with Test 
+Methods El12, shall be No. 7 or coarser. 
+12.3 The grain size of Grade UNS S32615, as determined in 
+accordance with Test Methods E112, shall be No. 3 or finer. 
+12.4 The grain size of N08810 and N08811, as determined 
+in accordance with Test Methods El12, shall be 5 or coarser. 
+13. Mechanical Tests and Grain Size Determinations 
+Required 
+13.1 Tension Test-One tension test shall be made on a 
+specimen for lots of not more than 50 tubes. Tension tests shall 
+be made on specimens from two tubes for lots of more than 50 
+tubes (See 13.9.2). 
+13 .2 Flattening Test-One flattening test shall be made on 
+specimens from each end of one finished tube, not the one used 
+for the flange test, from each lot (See 13.9.1). 
+13.3 Flange Test-One flange test shall be made on speci­
+mens from each end of one finished tube, not the one used for 
+the flattening test, from each lot (See 13.9.1). 
+361 
+13.4 Reverse-Bend Test-One reverse-bend test shall be 
+made on a specimen from each 1500 ft [450 m] of finished 
+tubing. 
+13.5 Hardness Test-Brinell or Rockwell hardness tests 
+shall be made on specimens from two tubes from each lot (See 
+13.9.2) . 

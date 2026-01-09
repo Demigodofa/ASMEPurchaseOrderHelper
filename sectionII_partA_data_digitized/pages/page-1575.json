@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 777,
+  "globalPageIndex": 1575,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "ASME BPVC.II.A-2025 SA-1011/SA-1011M (ASTM A1011/A1011M) \nTABLE 4 Mechanical Property RequirementsA for Hot Rolled Steel Sheet and Strip Designations SS, HSLAS, HSLAS\u00b7F, and UHSS \nElongation in 8 in. \nTensile Strength 8 \nElongation in 2 in. [50 mm] min, % for Thicknesses: [200 mm], % for \nYield Strength Thickness: sDesignation ksi [MPa] min ksi [MPa] min or Under Under Under range Under 0.230-0.097 in. 0.097-0.064 in. 0.064-0.025 in 0.230 in. [6.0 mm] [6.0-2.5 mm] [2.5 to 1.6 mm] [1.6-0.65 mm] \nSS: \nGrade 30 [205] 30 [205] 49 [340] 25 24 21 19 \nGrade 33 [230] 33 [230] 52 [360] 23 22 18 18 \nGrade 36 [250] Type 1 36 [250] 53 [365] 22 21 17 17 \nGrade 36 [250] Type 2 36 [250] 58-80 [400-550] 21 20 16 16 \nGrade 40 [275] 40 [275] 55 [380] 21 20 15 16 \nGrade 45 [31 D] Type 1 45 [310] 60 [410] 19 18 13 14 \nGrade 45 [310] Type 2 45-60 [310-410] 60 [410] 20 19 14 15 \nGrade 50 [340] 50 [340] 65 [450] 17 16 11 12 \nGrade 55 [380] 55 [380] 70 [480] 15 14 9 10 \nGrade 60 [410] 60 [410] 75 [520] 14 13 8 9 \nGrade 70 [480] 70 [480] 85 [585] 13 12 7 8 \nOver 0.097 in. Up to 0.097 in. \nHSLAS: [2.5mm] [2.5mm] \nGrade 45 [310] Class 1 45 [310] 60 [410] 25 23 \nGrade 45 [31 OJ Class 2 45 [310] 55 [380] 25 23 \nGrade 50 [340] Class 1 50 [340] 65 [450] 22 20 \nGrade 50 [340] Class 2 50 [340] 60 [410] 22 20 \nGrade 55 [380] Class 1 55 [380] 70 [480] 20 18 \nGrade 55 [380] Class 2 55 [380] 65 [450] 20 18 \nGrade 60 [410] Class 1 60 [410] 75 [520] 18 16 \nGrade 60 [410] Class 2 60 [410] 70 [480] 18 16 \nGrade 65 [450] Class 1 65 [450] 80 [550] 16 14 \nGrade 65 [450] Class 2 65 [450] 75 [520] 16 14 \nGrade 70 [480] Class 1 70 [480] 85 [585] 14 12 \nGrade 70 [480] Class 2 70 [480] 80 [550] 14 12 \nHSLAS-F: \nGrade 50 [340] 50 [340] 60 [410] 24 22 \nGrade 60 [410] 60 [410] 70 [480] 22 20 \nGrade 70 [480] 70 [480] 80 [550] 20 18 \nGrade 80 [550] 80 [550] 90 [620] 18 16 \nUHSS: \nGrade 90 [620] Types 1 and 2 90 [620] 100 [690] 16 14 \nGrade 1 DO [690] Types 1 and 2 100 [690] 110 [760] 14 12 \nA For coil products, testing by the producer is limited to the end of the coil. Mechanical properties throughout the coil shall comply with the minimum values specified. \n8 A minimum and maximum tensile strength has been specified for SS36 Type 2. \nAPPENDIXES \n(Nonmandatory Information) \nXl. BENDING PROPERTIES \n1521 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1575.json",
+  "tabulaTablesCsv": "tables_tabula/page-1575.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-1575.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2290,
+  "bestTextAlphaRatio": 0.3533
+}

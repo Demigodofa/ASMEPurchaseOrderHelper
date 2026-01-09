@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 713,
+  "globalPageIndex": 713,
+  "width": 601.08,
+  "height": 845.28,
+  "text": "ASME BPVC.II.A-2025 SA-395/SA-395M \nFIG. 6 STANDARD\u00bd IN. [12.5 MMJ ROUND TENSION TEST SPECIMEN WITH 2 IN. [50.0 MMJ GAGE LENGTH \nAND EXAMPLES OF SMALL SIZE SPECIMENS PROPORTIONAL TO THE STANDARD SPECIMEN \nDimensions \nG-Gage length \nD-Diameter (Note 1) \nR-Radius of fillet \nA-Length of reduced section (Note 2) \nNOTES: \nStandard Specimen, in. [mm] \n\u00bd [12.SJ Round \n2.000 \u00b1 0.005 [50 \u00b1 0.13] \n0.500 \u00b1 0.010 [12.5 \u00b1 0.25] \n% [9.5J, min \n2\u00bc [58], min \nSmall Size Specimens Proportionate to Standard, in. [mm] \n0.350 [9] Round \n1.4 \u00b1 0.005 [35 \u00b1 0.13] \n0.350 \u00b1 0.007 [9 \u00b1 0.18] \n% [9.5], min \n1\u00be [45J, min \n0.250 [6.SJ Round \n1.0 \u00b1 0.005 [25 \u00b1 0.13] \n0.250 \u00b1 0.005 [6.5 \u00b1 0.13] \n\u00bc [6.5J, min \n1\u00bc [32J, min \n(1) The reduced section may have a gradual taper from the ends toward the center, with the ends not more than 0.005 in. rn.13 mmJ larger in \ndiameter than the center on the standard specimen, and not more than 0.003 in. [0.076 mmJ larger in diametel' than the center on the small \nsize specimens. \n(2) If desired, on the small size specimens the length of the reduced section may be increased to accommodate an extensometer. However, reference \nmarks for measurement of elongation should nevertheless be spaced at the indicated gage length. \n(3) The gage length and fillets shall be as shown, but the ends may be of any form to fit the holders of the testing machine in such a way that \nthe load shall be axial. If the ends are to be held in grips it is desirable, to make the length of the grip section great enough to allow the \nspecimen to extend into the grips a distance equal to two thirds or more of the length of the grips. \nFIG. 7 TEST COUPONS FOR MICROSCOPICAL EXAMINATION OF DUCTILE IRON \n663 \n[44mm] \n3/ain. \n[10 mm] \n1 r \n[70mm] \nSection A-A \nE \nE \nN \n~ \nC E \n~ E \nr--N :e. ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 1,
+  "bestTextPath": "best_text/pages/page-0713.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1789,
+  "bestTextAlphaRatio": 0.6255
+}

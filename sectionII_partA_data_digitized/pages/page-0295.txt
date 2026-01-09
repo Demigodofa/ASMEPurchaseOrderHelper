@@ -1,0 +1,118 @@
+ASME BPVC.II.A-Z0Z5 SA-193/SA-193M 
+where: 
+w = 
+Ts = 
+At = 
+minimum wedge tensile load without fracture, 
+tensile strength specified in ksi or MPa in Tables 2 and 
+3, and 
+stress area of the thread section, square inches or square 
+millimetres, as shown in the Cone Proof Load Tables in 
+Specification A962/A962M. 
+9.2 Hardness Requirements: 
+9.2.1 The hardness shall conform to the requirements pre­
+scribed in Tables 2 and 3. Hardness testing shall be performed 
+in accordance with either Specification A962/ A962M or with 
+Test Methods F606/F606M. 
+9.2.2 Grade B7M-The maximum hardness of the grade 
+shall be 235 HBW or 99 HRB. The minimum hardness shall 
+not be less than 200 HBW or 93 HRB. Conformance to this 
+hardness shall be ensured by testing the hardness of each stud 
+or bolt by Brinell or Rockwell B methods in accordance with 
+9 .2.1. The use of 100 % electromagnetic testing for hardness as 
+an alternative to 100 % indentation hardness testing is permis­
+sible when qualified by sampling using indentation hardness 
+testing. Each lot tested for hardness electromagnetically shall 
+be 100 % examined in accordance with Practice E566. Follow­
+ing electromagnetic testing for hardness, a random sample of a 
+minimum of 100 pieces of each heat of steel in each lot (as 
+defined in 12.1.1) shall be tested by indentation hardness 
+methods. All samples must meet hardness requirements to 
+permit acceptance of the lot. If any one sample is outside of the 
+specified maximum or minimum hardness, the lot shall be 
+rejected and either reprocessed and resampled or tested 100 % 
+by indentation hardness methods. 
+9.2.2.l Surface preparation for indentation hardness testing 
+shall be in accordance with Test Methods E18. Hardness tests 
+shall be performed on the end of the bolt or stud. When this is 
+impractical, the hardness test shall be performed elsewhere. 
+10. Workmanship, Finish, and Appearance 
+10.1 Bolts, screws, studs, and stud bolts shall be pointed and 
+shall have a workmanlike finish. Points shall be flat and 
+chamfered or rounded at option of the manufacturer. Length of 
+point on studs and stud bolts shall be not less than one nor more 
+than two complete threads as measured from the extreme end 
+parallel to the axis. Length of studs and stud bolts shall be 
+measured from first thread to first thread. 
+10.2 Unless otherwise specified in the purchase order, bolt 
+heads shall be in accordance with the dimensions of ASME 
+Bl8.2.1 or ASME B18.2.3.3M. Unless otherwise specified in 
+the purchase order, the Heavy Hex Screws Series should be 
+used for nominal body diameters of l ¼ in. [30 mm] and less. 
+For larger sizes, the Heavy Hex Screw Series should be used, 
+except the maximum body diameter and radius of fillet may be 
+the same as for the Heavy Hex Bolt Series. The body diameter 
+and head fillet radius for sizes of Heavy Hex Cap Screws and 
+Bolts that are not shown in their respective tables in ASME 
+B18.2.l or ASME B18.2.3.3M may be that shown in the 
+corresponding Hex Cap Screw and Bolt Tables respectively. 
+Socket head screws or bolts shall be in accordance with ASME 
+B18.3 or ASME B18.3.1M. 
+11. Retests 
+11.1 If the results of the mechanical tests of any test lot do 
+not conform to the requirements specified, the manufacturer 
+may retreat such lot not more than twice, in which case two 
+additional tension tests shall be made from such lot, all of 
+which shall conform to the requirements specified. 
+12. Test Specimens 
+12.1 Number of Tests-For heat-treated bars, one tension 
+test shall be made for each diameter of each heat represented in 
+each tempering charge. When heat treated without interruption 
+in continuous furnaces, the material in a lot shall be the same 
+heat, same prior condition, same size, and subjected to the 
+same heat treatment. Not fewer than two tension tests are 
+required for each lot containing 20 000 lb [9000 kg] or less. 
+Every additional 10 000 lb [4500 kg] or fraction thereof 
+requires one additional test. 
+12. l.1 For studs, bolts, screws, and so forth, one tension test 
+shall be made for each diameter of each heat involved in the 
+lot. Each lot shall consist of the following: 
+Diameter, in. [mm] 
+11/s [30] and under 
+Over 11/s (30] to 1¾ (42], incl 
+Over 1¾ (42] to 2½ (64], incl 
+Over 2½ (64] 
+Lot Size 
+1500 lb (680 kg] or fraction thereof 
+4500 lb [2000 kg] or fraction thereof 
+6000 lb [2700 kg] or fraction thereof 
+100 pieces or fraction thereof 
+12.1.2 Tension tests are not required to be made on bolts, 
+screws, studs, or stud bolts that are fabricated from heat-treated 
+bars furnished in accordance with the requirements of this 
+specification and tested in accordance with 12.1, provided they 
+are not given a subsequent heat treatment. 
+243 
+12.1.3 Full Size Specimens, Headed Bolting COmponents­
+Headed bolts or screws 1 ½ in. in body diameter and smaller, 
+with body length three times the diameter or longer, and that 
+are produced by upsetting or forging (hot or cold) shall be 
+subjected to full size testing in accordance with 9.1.2. This 
+testing shall be in addition to tensile testing as specified in 
+9.1.1. Wedge tensile testing shall be limited to product with 
+socket head cap screw, hexagon, square, hex flange, or twelve 
+point flange heads. The lot size shall be as shown in 12.1.1. 
+Failure shall occur in the body or threaded section with no 
+failure, or indications of failure, such as cracks, at the junction 
+of the head and shank. Wedge tensile testing is not required for 
+flat countersunk head or socket button products. 
+13. Nuts 
+13.1 Bolts, studs, and stud bolts shall be furnished with 
+nuts, when specified in the purchase order. Nuts shall conform 
+to Specification A194/Al94M. 
+14. Certification 
+14.1 Certification is required. In addition to the require­
+ments of Specification A962/ A962M the rep01i shall include 
+results of the chemical analysis, macroetch examination (Car­
+bon and Alloy Steels Only), and mechanical tests, and state the 
+method of heat treatment employed. 

@@ -1,0 +1,102 @@
+SA-723/SA-723M ASME BPVC.II.A-2025 
+TABLE 2 Tensile Requirements 
+Class 1 Class 2 Class 2a Class 3A Class 4 8 Class 5° 
+Tensile strength, min, ksi [MPa] 115 [795] 135 [930) 145 [1000) 155 [1070) 
+140 [965] 
+13 
+175 [1205] 
+160 [1105] 
+12 
+190 [1310] 
+180 [1240] 
+10 
+Yield strength, 0.2 % offset, min, ksl [MPa] 100 [690) 120 [825) 130 [895) 
+Elongation in 2 in. or 50 mm, min,% 16 14 13.5 
+Reduction of area, min, % 50 45 43 40 35 30 
+A Typical maximum section size of 10 in. [255 mm] for open-ended vessels, or 7 in. [180 mm] for blind-ended vessels. 
+8 Typical maximum section size of 6 in. [150 mm] for open-ended vessels, or 4 in. [100 mm] for blind-ended vessels. 
+0 Typical maximum section size of 4 in. [100 mm]. 
+TABLE 3 Charpy V-Notch Impact Requirements at 40°F [4.5°C] maxA 
+Class 1 Class 2 Class 2aA Class 3 8 Class 4° Class 5° 
+Minimum average value of set of three 35 [47] 30 [41) 28 [38] 25 [34] 20 [27] 12 [16] 
+specimens, ft-lbfE [J] 
+Minimum value of one specimen, ft-lb! [J) 30 [41] 25 [34] 23 [31] 20 [27] 15 [20] 10 [14] 
+AQr such other lower temperature as is specified when supplementary requirement S3 is involved. 
+8Typical maximum section size of 10 in. [255 mm] for open-ended vessels, or 7 in. [180 mm] for blind-ended vessels. 
+°Typical maximum section size of 6 in. [150 mm] for open-ended vessels, or 4 in. [100 mm] for blind-ended vessels. 
+°Typical maximum section size of 4 in. [100 mm]. 
+ENot more than one specimen from a set may be below this value. 
+6.5 Orientation-For upset disk forgings, the longitudinal 
+axis of all test specimens shall be oriented in the tangential or 
+radial direction. For all other forgings, the longitudinal axis of 
+the specimens shall be oriented in the direction of maximum 
+working of the forging, or as agreed between manufacturer and 
+purchaser. 
+6.6 Number of Tests: 
+6.6.1 For forgings weighing 1000 lb [455 kg] or less, as heat 
+treated but not exceeding 80 in. [2030 mm] in length, exclud­
+ing test material, one tension test and one set of impact tests 
+(three specimens) shall be taken to represent each heat in each 
+heat-treatment charge. This testing shall be repeated at the 
+opposite end of the same test forging, if the heat-treated length 
+excluding test material exceeds 80 in. [2030 mm]. When heat 
+treatment is performed in continuous-type furnaces with suit­
+able temperature control and equipped with recording pyrom­
+eters so that complete heat-treatment records are available, a 
+heat-treatment charge shall be considered as any continuous 
+run not exceeding 8 h in duration. 
+6.6.2 Forgings weighing over 1000 lb [455 kg] but not over 
+5000 lb [2270 kg] as heat treated and not over 80 in. [2030 
+mm] in length excluding test material, one tension test and one 
+set of three impact tests shall be removed from each forging. 
+When the length of the forging exceeds 80 in. [2030 mm] this 
+testing shall be repeated at the opposite end of the forging. 
+6.6.3 Forgings exceeding 5000 lb [2270 kg] and not over 80 
+in. [2030 mm] in length, excluding test material, shall have one 
+tension test and one set of three impact tests removed from 
+each of two locations, 180° apart. For forgings with lengths 
+exceeding 80 in. [2030 mm] this testing shall be repeated at the 
+opposite end of the forging. Supplementary Requirement S6 is 
+applicable for forgings intended for use under the rules of 
+Section VIII, Division 3 of the ASME Boiler and Pressure 
+Vessel Code. 
+7. Nondestructive Examination Requirements 
+7.1 Ultrasonic Examination: 
+7.1.1 Forgings shall be ultrasonically examined in accor­
+dance with the procedures of Practice A388/A388M. 
+7.1.1.1 Straight-Beam Examination: (a)Unless otherwise 
+specified, the back-reflection method of tuning shall be used in 
+accordance with Practice A388/A388M. 
+(b) In addition to the reportable conditions of Practice 
+A388/A388M, indications exceeding the resultant back­
+reflection shall be recorded. 
+(c) A forging shall be unacceptable when one or more 
+reflections are present producing indications accompanied by a 
+complete loss of back-reflection, not attributable to nor asso­
+ciated with the geometric configuration. For this purpose, a 
+back-reflection of less than 5 % of full screen height shall be 
+considered complete loss of back-reflection. 
+7.1.1.2 Angle-Beam Examination: (a) Calibration notches 
+shall be cut into the inside diameter and outside diameter 
+surfaces in accordance with Practice A388/A388M. 
+(b) A forging that contains a discontinuity which results in an 
+indication exceeding the amplitude of the reference line is 
+subject to rejection. 
+(c) The report of the ultrasonic test shall be in compliance 
+with Practice A388/A388M. 
+(d) Additional nondestructive examination or trepanning 
+may be employed to resolve questions of interpretation of 
+ultrasonic indications. The manufacturer shall accept respon­
+sibility for injurious defects that will not be removed in final 
+machining. 
+7 .2 Magnetic Particle Examination: 
+7 .2.1 Each forging shall be examined by magnetic particle 
+methods described in Practice A275/A275M. Acceptance and 
+rejection standards shall be as follows: Only indications with 
+major dimensions greater than ½6 in. [1.6 mm] shall be 
+considered relevant. The following relevant indications are 
+unacceptable: 
+7.2.1.1 Any linear indications greater than 1/16 in. [1.6 mm] 
+long for materials less than 5/s in. [16 mm] thick; greater than 
+1/s in. [3.2 mm] long for materials from 5/s in. to under 2 in. [50 
+1178 

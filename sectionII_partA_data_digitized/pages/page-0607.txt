@@ -1,0 +1,101 @@
+ASME BPVC.II.A-2025 SA-353/SA-353M 
+TABLE 1 Chemical Requirements 
+Carbon, maxA 
+Manganese, max 
+Heat analysis 
+Product analysis 
+Phosphorus, maxA 
+Sulfur, maxA 
+Silicon: 
+Heat analysis 
+Product analysis 
+Nickel: 
+Heat analysis 
+Product analysis 
+Element 
+A Applies to both heat and product analyses. 
+Composition, % 
+0.13 
+0.90 
+0.98 
+0.015 
+0.015 
+0.15-0.40 8 
+0.13-0.45 8 
+8.50-9.50 
+8.40-9.60 
+8 The specified minimum limit does not apply if the total aluminum content is 
+0.030 % or more, or provided that acid soluble aluminum is 0.025 % or more. 
+TABLE 2 Tensile Requirements 
+Tensile strength, ksi [MPa] 
+Yield strength (0.2 % offset), min, ksi [MPajA 
+Elongation In 2 in. [50 mm], min, % 8 
+Asee7.1.1. 
+100-120 [690-825) 
+75 [515) 
+20.0 
+8 See Specification A20/ A20M for elongation adjustment. 
+pads that are heated for forming shall be heat treated after 
+forming in accordance with 5 .2. 
+5.2 Heat Treatment Procedure: 
+5.2.1 First Normalizing Treatment-Heat the plate to a 
+uniform temperature of 1650 ± 25°F [900 ± 15°C], hold at 
+that temperature for a minimum of 1 h/in. [2.4 min/mm] of 
+thickness, but in no case less than 15 min, and cool in air. 
+5.2.2 Second Normalizing Treatment-Reheat the plate to a 
+uniform temperature of 1450 ± 25°F [790 ± 15°C], hold at 
+that temperature for a minimum of 1 h/in. [2.4 min/mm] of 
+thickness, but in no case less than 15 min, and cool in air. 
+5.2.3 Tempering Treatment-Reheat the plate to a unifmm 
+temperature within the range from 1050 to 1125°F [565 to 
+605°C], hold within that temperature range for a minimum of 
+1 h/in. [2.4 min/mm] of thickness, but in no case less than 15 
+min, and cool in air or water quench at a rate not less than 
+300°F/h [165°C/h]. 
+5.2.4 If hot forming is performed after heating to a tempera­
+ture within the range from 1650 to 1750°F [900 to.955°C] the 
+first normalizing treatment (5.2.1) may be omitted. 
+5.2.5 When the plates are heat treated by the fabricator, it 
+shall be the fabricator's responsibility to apply the proper heat 
+treatment and to conduct tests it deems necessary to ensure that 
+the specified properties are attained. 
+6. Chemical Requirements 
+6.1 The steel shall conform to the chemical composition 
+requirements shown in Table 1 unless otherwise modified in 
+accordance with Supplementary Requirement S 17, Vacuum 
+Carbon-Deoxidized Steel, in Specification A20/A20M. 
+7. Mechanical Requirements 
+7 .1 Tension Test Requirements-The material as represented 
+by the tension-test specimens shall conform to the require­
+ments specified in Table 2. 
+7.1.1 Upon agreement between the purchaser and the 
+manufacturer, yield strength may be determined by the exten­
+sion under load method, using 0.005 in.fin. [0.005 mm/mm] 
+total extension. 
+7.1.2 For nominal plate thicknesses of¾ in. [20 mm] and 
+under, the 1 ½-in. [40-rnrn] wide rectangular specimen may be 
+used for the tension test and the elongation may be determined 
+in a 2-in. [50-mm] gage length that includes the fracture and 
+shows the greatest elongation. 
+7 .1.3 One tension test shall be taken from each plate as heat 
+treated. 
+7.2 Impact Test Requirements: 
+555 
+7 .2.1 Charpy V-notch impact tests shall be made in accor­
+dance with Specification A20/ A20M. 
+7.2.2 The longitudinal axis of the test specimens shall be 
+transverse to the final rolling direction of the plate. 
+7.2.3 Unless otherwise agreed, tests shall be conducted at 
+-320°F [-195°C]. 
+7.2.4 Each test specimen shall have a lateral expansion 
+opposite the notch of not less than 0.015 in. [0.381 mm]. 
+8. Finish 
+8.1 Because retained scale may mask surface imperfections, 
+as well as mar the plate surface, plates shall be descaled by the 
+producer after heat treatment. In the case of material to be 
+heat-treated by the purchaser, the plates shall be descaled by 
+the producer prior to shipment. 
+9. Keywords 
+9.1 alloy steel; alloy steel plate; pressure containing parts; 
+pressure vessel steels; steel plates; steel plates for pressure 
+vessel applications 

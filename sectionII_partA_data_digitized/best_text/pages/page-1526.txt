@@ -1,0 +1,116 @@
+SA-989 /SA-989M ASME BPVC.II.A-2025 
+TABLE 1 Chemical Requirements 
+Composition, %A 
+UNS 
+Designation Grade Carbon Manganese Phosphorus, Sulfur, Silicon Nickel Chromium 
+max max 
+Niobium 8 
+Molybdenum plus Ta~:m, Titanium 
+Tantalum 
+Allo Steels 
+K90941 9% chromium 0.15 max 0.30-0.60 0.030 
+0.020 
+0.030 0.50-1.00 8.0-10.0 0.90-1.10 
+K90901 9 % chromium, 1 % 0.08-0.12 0.30-0.60 0.010 0.20-0.50 0.40 max 8.0-9.5 0.85-1.05 Other Elements 
+Nb 8 0.06-0.10 
+N 0.03-0.07 
+molybdenum, 0.2 % 
+vanadium plus 
+niobium 8 and Al 0.04 max 
+nitrogen V 0.18-0.25 
+K31545 chromium-molybdenum 0.05-0.15 0.30-0.60 
+K21590 chromium-molybdenum 0.05-0.15 0.30-0.60 
+Class 1 
+K21590 chromium-molybdenum 0.05-0.15 0.30-0.60 
+0.040 
+0.040 
+0.040 
+0.040 0.50 max 
+0.040 0.50 max 
+0.040 0.50 max 
+2.7-3.3 
+2.00-2.50 
+2.00-2.50 
+0.80-1.06 
+0.87-1.13 
+0.87-1.13 
+Class 3 
+A Maximum, unless otherwise specified. 
+8Niobium and columbium are interchangeable names for the same element and both names are acceptable for use in A01.22 specifications. 
+TABLE 2 Heat Treating Requirements 
+UNS No. Heat Treat Type Austenitizing/Solutionlng Cooling Media Quenching, Cool Tempering Temperature, 
+Temperature, °F [°C]A to Below °F [ 0 C] min °F [°C] 
+Allo~ Steels 
+B B K90941 anneal 
+normalize and temper 
+K90901 normalize and temper 
+K31545 anneal 
+K21590 Class 1, 3 anneal 
+normalize and temper 
+A Minimum unless temperature range is listed. 
+8 Not applicable. 
+1750 [955] 
+1750 [955] 
+1900-2000[1040-1095] 
+1750 [955] 
+1650 [900] 
+1650 [900] 
+7.3 See Supplementary Requirement S12 if a particular heat 
+treatment method is specified by the purchaser in the purchase 
+order. 
+7.4 Time of Heat Treatment-Heat treatment of the hot 
+isostatically-pressed parts shall be performed before or after 
+machining at the option of the manufacturer. 
+8. Structural Integrity Requirements 
+8.1 Microporosity: 
+8.1.1 The parts shall be free of microporosity as demon­
+strated by measurement of density as provided in 8.1.2 or by 
+microstructural examination as provided in 8.1.3. 
+8.1.2 Density Measurement: 
+8.1.2.1 The density measurement shall be used for accep­
+tance of material but not for rejection of material. The 
+measured density for each production lot shall exceed 99 % of 
+the density typical of that grade when wrought and in the same 
+heat treated condition as the sample. A production lot that fails 
+to meet this acceptance criterion is permitted, at the option of 
+the producer, to be tested for microporosity in accordance with 
+the microstructural examination as provided in 8.1.3. 
+8.1.2.2 Density shall be determined for one sample from 
+each production lot by measuring the difference in weight of 
+the sample when weighed in air and when weighed in water 
+and multiplying this difference by the density of water (Archi­
+mede's principle). The equipment used shall be capable of 
+1472 
+furnace cool 
+air cool B 1250 [675] 
+air cool B 1350 [730] 
+furnace cool B B 
+furnace cool B B 
+air cool B 1250 [675] 
+determining density within ±0.004 lb/in. 3 [0.10 g/cm 3 ]. 
+Alternatively, at the option of the producer, it is permitted to 
+use Test Method B311 to determine the density. 
+8.1.2.3 At the option of the producer, the density shall be 
+compared to the room temperature density typical of wrought 
+alloy steels or to the density of a wrought reference sample of 
+the same grade heat treated in accordance with the require­
+ments of Table 2 (see Note 2). The typical density for alloy 
+steel in the annealed condition at· room temperature is 0.28 
+lb/in.3 [7.8 g/cm 3 ]. 
+NoTE 2-The actual density of alloy steel varies slightly with compo­
+sition and heat treatment. For this reason, small differences in the 
+measured density from the typical density for a given grade of steel may 
+be the result of differences in alloy content, heat treatment, or micropo­
+rosity. When density values are measured that are less than the density 
+typical of a given grade of steel, it is appropriate to examine the sample 
+for microporosity by the more specific metallographic examination 
+procedures. 
+8.1.3 Microstructural Examination: 
+8.1.3.1 The microstructure shall be examined at 20-50x, 
+100-200x, and 1000-2000x and shall be reasonably uniform 
+and shall be free of voids, laps, cracks, and porosity. 
+8.1.3.2 One sample from each production lot shall be 
+examined. The sample shall be taken from the component, 
+stem, protrusion, or test part made from a single powder blend 
+consolidated in the same hot isostatic press using the same 
+pressure, temperature, and time parameters and heat-treated in 

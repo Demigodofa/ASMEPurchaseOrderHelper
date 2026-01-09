@@ -1,0 +1,67 @@
+SA-517 /SA-517M ASME BPVC.II.A-2025 
+c0 A517/A517M -17 
+TABLE 2 Tensile Requirements 
+Tensile strength, ksi [MPa] 
+Yield strength, min, ksi [MPa] 
+Elongation in 2 in. [50 mm], min, %A 
+Reduction of area, min, %: 
+2.50 in. [65 mm] and Under 
+115-135 [795-930] 
+100 [690] 
+16 
+Rectangular specimens 35 
+Round specimens 45 
+A See Specification A20/A20M for elongation adjustment. 
+Supplementary Requirement S17, Vacuum Carbon-Deoxidized 
+Steel, in Specification A20/ A20M for grades other than Grade 
+A. 
+7. Mechanical Requirements 
+7.1 Tension Tests: 
+7 .1.1 Requirements-The plates as represented by the 
+tension-test specimens shall conform to the requirements given 
+in Table 2. 
+7.1.2 Test Methods: 
+7.1.2.1 The yield strength may be determined by the 0.2 % 
+offset method or by the total extension under load of 0.5 % 
+method. 
+7.1.2.2 For plates 3/'4 in. [20 nun] and under in thickness, the 
+test specimen shall be the 1 ½ in. [40 mm] wide rectangular-test 
+specimen. 
+7.1.2.3 For plates over ¾ in. [20 mm], either the full 
+thickness rectangular-test specimen or the ½ in. [12.5 mm] 
+round-test specimen may be used. 
+Over 2.50 to 6 in. [65 to 150 mm] 
+105-135 [725-930] 
+90 [620] 
+14 
+45 
+7 .1.2.4 When the 1 ½ in. [ 40 mm] wide rectangular-test 
+specimen is used, the elongation is measured in a 2 in. or [50 
+mm] gage length which includes the fracture. 
+7 .2 Impact Properties Requirements: 
+7 .2.1 Transverse Charpy V-notch impact test specimens 
+shall have a lateral expansion opposite the notch of not less 
+than 0,015 in. [0.38 mm]. 
+7.2.2 The test temperature shall be agreed upon between the 
+manufacturer and the purchaser, but shall not be higher than 
+32°F [0°C]. 
+8. Keywords 
+8.1 alloy steel; boilers; high-strength; impact tested; plates; 
+pressure vessels; quenched; tempered 
+SUPPLEMENTARY REQUIREMENTS 
+Supplementary requirements shall not apply unless specified in the order. 
+A list of standardized supplementary requirements for use at the option of the purchaser are included 
+in Specification A20/A20M. Several of those considered suitable for use with this specification are 
+listed by title. Other tests may be performed by agreement between the supplier and the purchaser. 
+L 
+i 
+I 
+____ ____.S~l;_.:_, _V._._.a~c~u~um~T~r~e~atm=e"'n"'t,L_ _____________ -----:-~S~S~I~JJttasonic~aminationJ,11--acc01xiance-with-S-J:leGifiea--------,---
+S2. Product Analysis, tion A435/A435M, 
+S3. Simulated Post-Weld Heat Treatment of Mechanical S9. Magnetic Particle Examination, 
+Test Coupons, Sll. Ultrasonic Examination in accordance with Specifica-
+S5. Charpy V-Notch Impact Test, tion A577/A577M, 
+S6. Drop Weight Test (for Material 0.625 in. [16 mm] and S12. Ultrasonic Examination in accordance with Specifica-
+over in Thickness), tion A578/A578M, and 
+S7. High-Temperature Tension Test, S17. Vacuum Carbon-Deoxidized Steel. 
+878 

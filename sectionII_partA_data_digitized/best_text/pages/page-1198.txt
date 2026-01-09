@@ -1,0 +1,114 @@
+SA-672/SA-672M ASME BPVC.U.A-2025 
+TABLE 1 Plate Specification 
+Pipe Grade Type of Steel 
+ASTM Specification 
+No. Grade 
+A45 plain carbon A285/A285M A 
+A50 plain carbon A285/A285M B 
+A55 plain carbon A285/A285M C 
+B60 plain carbon, killed A515/A515M 60 
+B 65 plain carbon, killed A515/A515M 65 
+B70 plain carbon, killed A515/A515M 70 
+C55 plain carbon, killed, fine grain A516/A516M 55 
+C60 plain carbon, killed, fine grain A516/A516M 60 
+C65 plain carbon, killed, fine grain A516/A516M 65 
+C70 plain carbon, killed, fine grain A516/A516M 70 
+D70 manganese-silicon- A537/A537M Cl-1 
+normalized 
+D80 manganese-silicon-Q&TA A537/A537M Cl-2 
+H 75 manganese-molybdenum- A302/A302M A 
+normalized 
+H 80 manganese-molybdenum- A302/A302M B, C or D 
+normalized 
+J 80 manganese-molybdenum- A533/A533M Cl-1 8 
+Q&TA 
+J 90 manganese-molybdenum- A533/A533M Cl-2 8 
+Q&TA 
+J 100 manganese-molybdenum- A533/A533M Cl-3 8 
+Q&TA 
+L 65 molybdenum A204/A204M A 
+L 70 molybdenum A204/A204M B 
+L 75 molybdenum A204/A204M C 
+N 75 manganese-silicon A299/A299M A 
+A Q&T = quenched and tempered. 
+8 Any grade may be furnished. 
+6. General Requirements 
+6.1 Material furnished to this specification shall conform to 
+the applicable requirements of the current edition of Specifi­
+cation A530/A530M unless otherwise provided herein. 
+7. Chemical Composition 
+7.1 Product Analysis of Plate-The pipe manufacturer shall 
+make an analysis of each mill heat of plate material. The 
+product analysis so determined shall meet the requirements of 
+the plate specification to which the material was ordered. 
+7 .2 Product Analysis of Weld-The pipe manufacturer shall 
+make an analysis of the finished deposited weld material from 
+each 500 ft [150 m] or fraction thereof. Analysis shall conform 
+to the welding procedure for deposited weld metal. 
+7.3 Analysis may be taken from the mechanical test speci­
+mens. The results of the analyses shall be reported to the 
+purchaser. 
+7 .4 If the analysis of one of the tests specified in 7 .1 or 7 .2 
+does not conform to the requirements specified, analyses shall 
+be made on additional pipes of double the original number 
+from the same lot, each of which shall conform to the 
+requirements specified. Nonconforming pipe shall be rejected. 
+8. Mechanical Properties 
+8.1 Tension Test: 
+8.1.1 Requirements-Transverse tensile properties of the 
+welded joint shall meet the minimum requirements for ultimate 
+tensile strength of the specified plate material. In addition for 
+Grades Dxx, Hxx, Jxx, and Nxx in Classes 3x, 4x, and 5x 
+transverse tensile properties of the base plate, shall be deter­
+mined on specimens cut from the heat-treated pipe. These 
+properties shall meet the mechanical test requirements of the 
+plate specification. 
+8.1.2 Number of Tests-One test specimen shall be made to 
+represent each lot of finished pipe. 
+8.1.3 Test Specimen Location and Orientation-The test 
+specimens shall be taken transverse to the weld at the end of 
+the finished pipe and may be flattened cold before final 
+machining to size. 
+8.1.4 Test Method-The test specimen shall be made in 
+accordance with QW-150 in Section IX of the ASME Boiler 
+and Pressure Vessel Code. The test specimen shall be tested at 
+room temperature in accordance with Test Methods and Defi­
+nitions A370. 
+8.2 Transverse-Guided-Weld-Bend Tests: 
+8 .2.1 Requirements-The bend test shall be acceptable if no 
+cracks or other defects exceeding 1/s in. [3 mm] in any direction 
+are present in the weld metal or between the weld and the base 
+metal after bending. Cracks that originate along the edges of 
+the specimen during testing, and that are less than 
+¼ in. [6 mm] measured in any direction shall not be consid­
+ered. 
+8.2.2 Number of Tests-One test (two specimens) shall be 
+made to represent each lot of finished pipe. 
+8.2.3 Test Specimen Location and Orientation-Two bend 
+test specimens shall be taken transverse to the weld at the end 
+of the finished pipe. As an alternative by agreement between 
+the purchaser and the manufacturer, the test specimens may be 
+taken from a test plate of the same material as the pipe, the test 
+plate being attached to the end of the cylinder and welded as a 
+prolongation of the pipe longitudinal seam. 
+8.2.4 Test Method-The test requirements of Test Methods 
+and Definitions A370, paragraph A2.5.l.7 shall be met. For 
+wall thickness over 3/s in. [10 mm] but less than¾ in. [19 mm] 
+side-bend tests may be made instead of the face and root-bend 
+tests. For wall thicknesses ¾ in. [19 mm] and over both 
+specimens shall be subjected to the side-bend test. 
+8.3 Pressure Test-Classes X2 and X3 pipe shall be tested in 
+accordance with Specification A530/A530M, Hydrostatic Test 
+Requirements. 
+9. Radiographic Examination 
+9 .1 The full length of each weld of Classes X 1 and X2 shall 
+be radiographically examined in accordance with and meet the 
+requirements of the ASME Boiler and Pressure Vessel Code, 
+Section VIII, paragraph UW-51. 
+9.2 Radiographic examination may be performed prior to 
+heat treatment. 
+10. Rework 
+10.1 Elimination of Suiface Impeifections-Unacceptable 
+surface imperfections shall be removed by grinding or machin­
+ing. The remaining thickness of the section shall be no less than 
+1108 

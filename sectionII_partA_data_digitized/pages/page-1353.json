@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 555,
+  "globalPageIndex": 1353,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "( \n\\ \nASME BPVC.II.A-2025 SA-789/SA-789M (ASTM A789/A789M) \nTABLE 5 Permissible Variations in Dimensions \nGroup \nMinimum WallE Permissible \nSize, Outside Permissible Variations Avera~e Wall 0 \nPermissible Variations in Variations Thin Walled Diameter, in. in Outside Diameter, Permissib e Variations in Wall Thickness/ Cut Length, ln. 8 \nTubes 0 \n[mm] in.[mm] in Wall Thickness/ % % [mm] \nOver Under Over Under \nUp to \u00bd [12.7], excl \u00b10.005 [0.13] \u00b115 30 0 \u00bc[3] 0 \n2 \u00bd to 1\u00bd [12.7 to 38.1], excl \u00b10.005 [0.13] \u00b110 20 0 1/a [3] 0 less than 0.065 in. \n[1.6 mm] specified \n3 1 \u00bd to 3\u00bd [38.1 to 88.9], excl \u00b10.010 [0.25] \u00b110 20 0 3/1a [5] 0 less than 0.095 in. \n[2.4 mm] specified \n4 3\u00bd to 5\u00bd [88.9 to 139.7], excl \u00b10.015 [0.38] \u00b110 20 0 3/te [5] 0 less than 0.150 in. \n[3.8 mm] specified \n5 5\u00bd to 8 [139.7 to 203.2], incl \u00b10.030 [0.76] \u00b110 20 0 3/15 [5] 0 less than 0.150 in. \n[3.8 mm] specified \nA When tubes as ordered require wall thicknesses \u00be in. [19 mm] or over, or an Inside diameter 60 % or less of the outside diameter, a wider variation in wall thickness \nis required. On such sizes a variation in average wall thickness of 12.5 % over or under, or a variation in minimum wall thickness of 25.0 % over and O % under, shall be \npermitted. \nFor tubes less than \u00bd in. [12.7 mm] in inside diameter that cannot be successfully drawn over a mandrel, the average wall thickness may vary \u00b115 % from that specified \nor the minimum wall thickness may vary by +30 %, -0 % from that specified. \n8 These tolerances apply to cut lengths up to and including 24 ft [7.3 m]. For lengths greater than 24 ft [7.3 m], the above over-tolerances shall be increased by \u00bc in. [3 \nmm] for each 10 ft [3 m] or fraction thereof over 24 ft or\u00bd in. [13 mm], whichever Is the lesser. \n0 OVality provisions of 12.2 apply. \n0 Applicable to tubing specified as average wall (see 3.1.4). \nE Applicable to tubing specified as minimum wall (see 3.1.4). \nSUPPLEMENTARY REQUIREMENTS \nThe following supplementary requirement shall apply only when specified by the purchaser in the \ninquiry, contract, or order. \nSl. Pneumatic Test \nS 1.1 The tubing shall be examined by a pneumatic test \n(either air underwater or pneumatic leak test) in accordance \nwith Specification A1016/A1016M. \nSUMMARY OF CHANGES \nCommittee AOl has identified the location of selected changes to this specification since the last issue \n(A789/A789M- 22) that may impact the use of this specification. (Approved March 1, 2024.) \n(1) Added UNS S83072 to Table 1, Table 2, and Table 4. \n1291 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1353.json",
+  "tabulaTablesCsv": "tables_tabula/page-1353.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-1353.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2529,
+  "bestTextAlphaRatio": 0.6263
+}

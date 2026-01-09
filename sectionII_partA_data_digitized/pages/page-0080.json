@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 80,
+  "globalPageIndex": 80,
+  "width": 617.04,
+  "height": 795.6,
+  "text": "SA-6/SA-6M ASME BPVC.II.A-2025 \nTABLE 26 Permitted Variations in Sectional Dimensions for Square-Edge and Round-Edge Flat Bars \nNoTE 1-Where \" ... \" appears in this table, there is no requirement. \nPermitted Variations Over or Under Specified Thickness, for Thicknesses Given in Inches, in. \nPermitted Variations From \nSpecified \nSpecified Widths, in. \nWidth, in. \n0.203 to over 1 Over2 \n0.230, 0.230 to \u00bcto\u00bd, Over\u00bdto to 2, to 3, Over3 \nexcl \u00bc, excl incl 1, incl incl incl \nOver Under \nTo 1, incl 0.007 0.007 0.008 0.010 1/84 1/84 \nOver 1 to 2, incl 0.007 0.007 0.012 0.o15 1/s2 1/02 1/02 \nOver 2 to 4, incl 0.008 0.008 0.015 0.020 1/s2 o/84 %4 1/15 v.. \nOver 4 to 6, incl 0.009 0.009 0.015 0.020 1/s2 o/84 %4 %2 1/10 \nOver 6 to 8, incl A 0.015 0.016 0.025 1/32 %4 1/,e 1/a 8 o/02 B \nA Flats over 6 to 8 in., incl, in width are not available as hot-rolled carbon steel bars in thickness under 0.230 in. \n8 For flats over 6 to 8 in., in width, and to 3 in. incl in thickness. \nTABLE 27 Permitted Variations in Sectional Dimensions for Round and Square Bars and Round-Cornered Squares \nPermitted Variations from Permitted Out-of-\nSpecified Size, In. Specified Size, in. Round or \nOut-of-Square, \nOver Under in.A \nTo 6 /\\s 0.005 0.005 0.008 \nOver 5 /1s to 7 /\\s, incl 0.006 0.006 0.009 \nOver 7 /\\e to 5/e, incl 0.007 0.007 0.010 \nover 5/e to %, incl 0.008 0.008 0.012 \nOver 7 /e to 1, incl 0.009 0.009 0.013 \nOver 1 to 11/e , incl 0.010 0.010 0.015 \nOver 11/s to 1 \u00bc, incl 0.011 0.011 0.016 \nOver 1 \u00bc to 1%, incl 0.012 0.012 0.o18 \nover 1% to 1\u00bd, incl 0.014 0.014 0.021 \nOver 1 \u00bd to 2, incl 1/e4 1/e4 0.023 \nOver 2 to 2\u00bd , incl 1/32 0 0.023 \nOver 2\u00bd to 3\u00bd, incl %4 0 0.035 \nOver 3\u00bd to 4\u00bd, incl 1/\\e 0 0.046 \nover 4\u00bd to 5\u00bd, incl o/84 0 0.058 \nOver 5\u00bd to 6\u00bd, incl 'I\u2022 0 0.070 \nOver 6\u00bd to 8\u00bc, incl %2 0 0.085 \nOver 8\u00bc to 9\u00bd, incl \u2022A\u2022 0 0.100 \nOver 9\u00bd to 10, incl \u00bc 0 0.120 \nA Out-of-round is the difference between the maximum and minimum diameters of the bar, measured at the same transverse cross section. Out-of-square section is the \ndifference in perpendicular distance between opposite faces, measured at the same transverse cross section. \nTABLE 28 Permitted Variations in Sectional Dimensions for Hexagons \nPermitted \nPermitted Variations from Out-of-\nSpecified Sizes Between Specified Size, in. Hexagon \nSection, Opposite Sides, in. Three \nOver Under Measurements, \nin.A \n\u00bd and under 0.007 0.007 0.011 \nOver \u00bd to 1, incl 0.010 0.010 0.015 \nOver 1 to 1\u00bd, incl 0.021 0.013 0.025 \nOver 1 \u00bd to 2, incl 1/s2 1/e4 1/s2 \nOver 2 to 2\u00bd , incl %4 1/54 %4 \nOver 2\u00bd to 3 1h, incl 1/15 1/e4 'A\u2022 \nA Out-of-hexagon section is the greatest difference in distance between any two opposite faces measured at the same transverse cross section. \n28 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0080.json",
+  "tabulaTablesCsv": "tables_tabula/page-0080.csv",
+  "tabulaTableCount": 3,
+  "bestTextPath": "best_text\\pages\\page-0080.txt",
+  "bestTextSource": "full_ocr_highdpi",
+  "bestTextLength": 2800,
+  "bestTextAlphaRatio": 0.577
+}

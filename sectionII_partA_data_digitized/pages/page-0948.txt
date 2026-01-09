@@ -1,0 +1,104 @@
+SA-513/SA-513M (ASTM A513/A513M) ASME BPVC.II.A-2025 
+TABLE 2 Chemical Requirements for Other Carbon and Alloy SteelsA 
+Norn 1-Chemistry represents heat analysis. Product analysis, except for rimmed or capped steel, is to be in accordance with usual practice as shown 
+in Table 3. 
+Grade 
+Chemical Composition Limits, % 
+Designation Carbon Manganese Phosphorus, Sulfur, 
+max max 
+1006 0.08 max 0.45 max 0.030 0.035 
+1008 0.10 max 0.50 max 0.035 0.035 
+1009 0.15 max 0.60 max 0.035 0.035 
+1010 0.08-0.13 0.30-0.60 0.035 0.035 
+1012 0.10--0.15 0.30-0.60 0.035 0.035 
+1015 0.13--0.18 0.30-0.60 0.035 0.035 
+1016 0.13--0.18 0.60-0.90 0.035 0.035 
+1017 0.15--0.20 0.30-0.60 0.035 0.035 
+1018 0.15--0.20 0.60-0.90 0.035 0.035 
+1019 0.15--0.20 0.70-1.00 0.035 0.035 
+1020 0.18-0.23 0.30-0.60 0.035 0.035 
+1021 0.18-0.23 0.60-0.90 0.035 0.035 
+1022 0.18-0.23 0.70-1.00 0.035 0.035 
+1023 0.20--0.25 0.30-0.60 0.035 0.035 
+1024 0.18-0.25 1.30-1.65 0.035 0.035 
+1025 0.22-0.28 0.30-0.60 0.035 0.035 
+1026 0.22-0.28 0.60-0.90 0.035 0.035 
+1027 0.22-0.29 1.20-1.55 0.035 0.035 
+1030 0.28-0.34 0.60--0.90 0.035 0.035 
+1033 0.30-0.36 0.70--1.00 0.035 0.035 
+1035 0.32-0.38 0.60-0.90 0.035 0.035 
+1040 0.37-0.44 0.60-0.90 0.040 0.050 
+1050 0.48-0.55 0.60-0.90 0.040 0.050 
+1060 0.55-0.65 0.60-0.90 0.040 0.050 
+1340 0.38-0.43 1.60--1.90 0.035 0.040 
+1524 0.19-0.25 1.35-1.65 0.040 0.050 
+4118 0.18-0.23 0.70-0.90 0.035 0.040 
+4130 0.28-0.33 0.40-0.60 0.035 0.040 
+4140 0.38-0.43 0.75--1.00 0.035 0.040 
+5130 0.28-0.33 0.70-0.90 0.035 0.040 
+8620 0.18-D.23 0.70--0.90 0.035 0.040 
+8630 0.28-D.33 0.70--0.90 0.035 0.040 
+A Where the ellipsis ( ... ) appears in this table, there is no requirement. 
+except that where the heat identity has not been maintained or 
+where the analysis is not sufficiently complete to permit 
+conformance to be determined, the chemical composition 
+determined from a product analysis made by the tubular 
+manufacturer shall conform to the requirements specified for 
+heat analysis. When requested in the order or contract, a report 
+of such analysis shall be furnished to the purchaser. 
+7. Product AnalysIS 
+7.1 When requested on the purchase order, a product analy­
+sis shall be made by the supplier. The number and source of 
+samples for such product analysis shall be based on the 
+individual heat or lot identity of one of the following forms of 
+material: 
+7.1.1 Heat Identity Maintained-One product analysis per 
+heat shall be made on either the flat-rolled stock or tube. 
+7.1.2 Heat Identity Not Maintained-A product from one 
+tube per 2000 ft [600 m] or less for sizes over 3 in. [75 mm], 
+and one tube per 5000 ft [1500 m] or less for sizes 3 in. [75 
+mm] and under. 
+7.2 Samples for product analysis shall be taken in accor­
+dance with Practice A751. The composition thus determined 
+shall correspond to the requirements of Table 1 or Table 2. 
+7.3 If the original test for product analysis fails, retests of 
+two additional lengths of flat-rolled stock or tubes shall be 
+848 
+Silicon Nickel Chromium Molybdenum 
+0.15--0.35 
+0.15--0.35 0.40--0.60 0.08-0.15 
+0.15-0.35 0.80-1.10 0.15-0.25 
+0.15-0.35 0.80--1.10 0.15-0.25 
+0.15-0.35 0.80-1.10 
+0.15-0.35 0.40-0.70 0.40--0.60 0.15--0.25 
+0.15-0.35 0.40--0.70 0.40--0.60 0.15--0.25 
+TABLE 3 Tolerances for Product Analysis for Steels Shown in 
+Tables 1 and 2A,a 
+Variation, Over the Maxi-
+mum Limit or Under the 
+Element Limit, or Maximum of Minimum Limit 
+Specified Range, % 
+Under min, Over max, 
+% % 
+Carbon to 0.15, incl 0.02 0.03 
+over 0.15 to 0.40, incl 0.03 0.04 
+over-OAO-to~0.55,inc .03 0 
+Manganese to 0.60, incl 0.03 0.03 
+over 0.60 to 1.15, incl 0.04 0.04 
+over 1.15 to 1.65, incl 0.05 0.05 
+Phosphorus 0.01 
+Sulfur 0.01 
+Silicon to 0.30, incl 0.02 0.03 
+over 0.30 to 0.60 0.05 0.05 
+Nickel to 1.00, incl 0.03 0.03 
+Chromium to 0.90, incl 0.03 0.03 
+over 0.90 to 2.10, incl 0.05 0.05 
+Molybdenum to 0.20, incl 0.01 O.D1 
+over 0.20 to 0.40, incl 0.02 0.02 
+A Individual determinations may vary from the specified heat limits or ranges to the 
+extent shown in this table, except that any element in a heat may not vary both 
+above and below a specified range. 
+8 Where the ellipsis ( ... ) appears in this table, there is no requirement. 
+made. Both retests for the elements in question shall meet the 
+requirements of the specification; otherwise, all remaining 
+material in the heat or lot shall be rejected or, at the option of 

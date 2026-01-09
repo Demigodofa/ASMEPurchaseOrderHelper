@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 595,
+  "globalPageIndex": 595,
+  "width": 865.08,
+  "height": 627.36,
+  "text": "( \nTABLE2 Continued \nElement, % (max, except where range is given) \nMaterial Grade Carbon Manganese Silicon Sulfur Phosphorus Chromium Nickel \nCK20 0.04-0.20 1.50 1.75 0.040 0.040 23.0-27.0 19.0-22.0 \nJ94202 \nCK3MCuN 0.025 1.20 1.00 0.010 0.045 19.5-20.5 17.5-19.5 \nJ93254 \nCN3MN 0.03 2.00 1.00 0.010 0.040 20.0-22.0 23.5-25.5 \nJ94651 \nCN7M 0.07 1.50 1.50 0.040 0.040 19.0-22.0 27.5-30.5 \nN08007 \nU1 CT15C 0.05-0.15 0.15-1.50 0.50-1.50 0.03 0.03 19.0-21.0 31.0-34.0 ..i,. \nw N08151 \nHG10MnN 0.07-0.11 3.0-5.0 0.70 0.030 0.040 18.5-20.5 11.5-13.5 \nJ92604 \nHK30 0.25-0.35 1.50 1.75 0.040 0.040 23.0-27.0 19.0-22.0 \nJ94203 \nHK40 0.35-0.45 1.50 1.75 0.040 0.040 23.0-27.0 19.0-22.0 \nJ94204 \nHT30 0.25-0.35 2.00 2.50 0.040 0.040 13.0-17.0 33.0-37.0 \nN08030 \nA Grade CFBC shall have a columbium (niobium) content of not less than 8 times the carbon content but not over 1.00 %. \n8 Grade CF1 0MC shall have a columbium (niobium) content of not less than 10 times the carbon content but not over 1.20 %. \nc Grade HG1 0MnN shall have a columbium (niobium) content of not less than 8 times the carbon, but not over 1.00 %. \n\u00b0 Columbium (Cb) and niobium (Nb) are alternate names for Element 41. \nMolybdenum Columbium Vanadium (Niobium) 0 \n0.50 \n6.0-7.0 \n6.0-7.0 \n2.0-3.0 \n0.50-1.50 \n0.25-0.45 C \n0.50 \n0.50 \n0.50 \nNitrogen Copper \n0.18-0.24 0.50-1.00 \n0.18-0.26 0.75 \n3.0-4.0 \n0.20-0.30 0.50 \n;i;. \nV, \n3: \nt<:I \n0:, \n\"t, \n<: \ng \n~ \nN \n0 \nN \n(:/1 \n~ w \n(:/1 \n... ....... \n~ \n(;a \n(:/1 \n... \n3: ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0595.json",
+  "tabulaTablesCsv": "tables_tabula/page-0595.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0595.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1483,
+  "bestTextAlphaRatio": 0.3479
+}

@@ -1,0 +1,143 @@
+SA-135/SA-135M (ASTM A135/A135M)
+
+(Note 6) and cut so as to make a tight joint when the pipe is
+tested at the mill to the specified internal hydrostatic pressure.
+The variation from the standard, when tested with the standard
+working gauge, shall not exceed one and one-half turns either
+way. Pipe shall not be rounded by hammering in order to get a
+full thread. There shall be not more than two black threads for
+¥%-in. [19.0-mm] taper among the perfect threads. Black
+threads should not be confused with imperfect threads, such as
+those torn, shaven, or broken.
+
+Nore 6—A complete description of the American National Standard
+Pipe Threads applicable to pipe, valves, and fittings is contained in ASME
+B1.20.1; also “Screw-Thread Standards for Federal Services, 1942,”
+National Bureau of Standards Handbook H 28, January, 1942, the perti-
+nent data in both sources being identical.
+
+13.3. Couplings—Each length of threaded pipe shall be
+provided with one coupling manufactured in accordance with
+Specification A865/A865M except that the coupling may be
+wrought iron (Note 7). Threads shall be cut so as to make a
+tight joint. Taper-tapped couplings shall be furnished on all
+weights (masses) of threaded pipe NPS 22 [DN 65] and larger.
+
+Note 7—For sizes NPS 2 [DN 50] and smaller, it is commercial
+practice to furnish straight-tapped couplings for standard-weight (mass)
+(Schedule 40) pipe and taper-tapped couplings for extra-strong (Schedule
+80) and double-extra-strong pipe. If taper-tapped couplings are required
+for sizes NPS 2 [DN 50] and smaller on standard weight (mass) (Schedule
+40) pipe, line pipe in accordance with Specification 5L of the American
+Petroleum Institute should be ordered, thread lengths to be in accordance
+with ASME B1.20.1. Taper-tapped couplings for sizes NPS 2 [DN 50] and
+smaller in standard weight (mass) may be used on mill-threaded standard
+weight (mass) type of the same size.
+
+13.4 Protective Coating:
+
+13.4.1 After the pipe has been subjected to the hydrostatic
+test, and if required by the purchaser, it shall be thoroughly
+cleaned of all dirt, oil, grease, loose scale, and rust; then dried,
+and given a protective coating of the kind and in the manner
+specified by the purchaser. Pipe furnished to Schedule 10 shall
+be normally shipped with a light coating of processing oil. If so
+specified, the pipe can be given a mill coating or a special
+coating.
+
+14. Weld Repair
+14.1 Welding Repair:
+
+14.2 Defects in the pipe wall, provided their depth does not
+exceed one third the specified wall thickness, shall be repaired
+by electric welding. Defects in the welds such as sweats or
+leaks, unless otherwise specified, shall be repaired or the piece
+rejected at the option of the manufacturer. Repairs of this
+nature shall be made by completely removing the defect,
+cleaning the cavity, and then electric welding.
+
+14.3 All repaired pipe shall be retested hydrostatically in
+accordance with Section 10.
+
+15. Sampling
+
+15.1 Chemical Analysis:
+
+15.1.1 Samples for chemical analysis shall be taken in
+accordance with Test Method, Practices, and Terminology
+A751. The number of samples shall be determined as follows:
+
+190
+
+ASME BPVC.ILA-2025
+
+NPS Numbers of Samples Selected
+Under 6 [DN 150] 2 from each lot of 400 pipes or fraction
+thereof
+6 [DN 150] to 20 [DN 2 from each lot of 200 pipes or fraction
+500], incl thereof
+Over 20 [DN 500] to 2 from each lot of 100 pipes or fraction
+30 [DN 750], incl thereof
+
+15.2 Tension Test:
+
+15.2.1 One longitudinal tension test shall be made on one
+length (Note 8) from each lot of 400 lengths or fraction thereof
+of each size under NPS 8 [DN 200] and one transverse body
+and one transverse weld tension test on one length from each
+lot of 200 lengths or fraction thereof of each size NPS 8 to NPS
+20 [DN 200 to DN 500] and on one length from each lot of 100
+lengths or fraction thereof of each size over NPS 20 to NPS 30
+[DN 500 to DN 750]. When taken from the skelp, the number
+of tests shall be determined in the same manner as when taken
+from the finished pipe.
+
+Nor 8—Length is defined as the length as ordered, except that in the
+case of orders for cut lengths shorter than double random, which is defined
+as the length as rolled, prior to cutting to the required short lengths.
+
+15.3 Flattening Test:
+
+15.3.1 When pipe is produced in single length, the flattening
+test specified in 9.1 shall be made on both crop ends cut from
+each length of pipe. When pipe is produced in multiple lengths,
+flattening tests are required on the crop ends from the front and
+back ends of each coil and on two intermediate rings repre-
+senting each coil.
+
+15.4 Hydrostatic Test:
+
+15.4.1 Each length of pipe shall be subjected to the hydro-
+static test specified in Section 10.
+
+16. Test, Retest, and Resampling
+
+16.1 Chemical Analysis:
+
+16.1.1 If the results of the analysis of either length of pipe
+does not conform to the requirements specified in Section 7,
+analyses of two additional lengths from the same lot shall be
+made, each of which shall conform to the requirements
+specified.
+
+16.2 Tension Test:
+
+16.2.1 The test specimens and the tests required by this
+specification shall conform to those described in Test Methods
+and Definitions A370, except that all specimens shall be tested
+at room temperature.
+
+16.2.2 The longitudinal tension test specimen shall be taken
+from the end of the pipe, or by agreement between the
+manufacturer and the purchaser may be taken from the skelp,
+at a point approximately 90° from the weld, and shall not be
+flattened between gauge marks. The sides of each specimen
+shall be parallel between gauge marks. At the manufacturer
+option, the tension test may be made on full section of pipe.
+
+16.2.3 Transverse weld test specimens shall be taken with
+the weld at the center of the specimen. Transverse body test
+specimens shall be taken opposite to the weld. All transverse
+test specimens shall be approximately 11 in. [38 mm] wide in
+the gauge length and shall represent the full wall thickness of
+the pipe from which the specimen was cut.

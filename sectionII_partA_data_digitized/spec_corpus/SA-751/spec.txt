@@ -1,0 +1,1981 @@
+=== Page 1304 ===
+
+SA-751 ASME BPVC.II.A-2025 
+Test Methods and Practices for 
+Chemical Analysis of Steel Products 
+INTRODUCTION 
+These test methods and practices were prepared to answer the need for a single document that would 
+include all aspects of obtaining and reporting the chemical analysis of steel, stainless steel, and related 
+alloys. Such subjects as definitions of terms and product (check) analysis variations (tolerances) 
+required clarification. Requirements for sampling, meeting specified limits, and treatment of data 
+usually were not clearly established in product specifications. 
+It is intended that these test methods and. practices will contain all requirements for the 
+determination of chemical composition of steel, stainless steel, or related alloys so that product 
+specifications will need contain only special modifications and exceptions. 
+1. Scope 
+1.1 These test methods and practices cover definitions, 
+reference methods, practices, and guides relating to the chemi­
+cal analysis of steel, stainless steel, and related alloys. They 
+include both wet chemical and instrumental techniques. 
+1.2 Directions are provided for handling chemical 
+requirements, product analyses, residual elements, and refer­
+ence standards, and for the treatment and reporting of chemical 
+analysis data. 
+1.3 These test methods and practices apply only to those 
+product standards which include these test methods and 
+practices, or parts thereof, as a requirement. 
+1.4 In cases of conflict, the product specification require­
+ments shall take precedence over the requirements of these test 
+methods and practices. 
+1.5 Attention is directed to ISO/IEC 17025 when there may 
+be a need for information on criteria for evaluation of testing 
+laboratories. 
+1.6 This standard does not purport to address all of the 
+safety concerns, if any, associated with its use. It is the 
+responsibility of the user of this standard to establish appro­
+priate safety, health, and environmental practices and deter­
+mine the applicability of regulatory limitations prior to use. 
+1.7 This international standard was developed in accor­
+dance with internationally recognized principles on standard­
+ization established in the Decision on Principles for the 
+Development of International Standards, Guides and Recom­
+mendations issued by the World Trade Organization Technical 
+Barriers to Trade (TBT) Committee. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+A941 Terminology Relating to Steel, Stainless Steel, Related 
+Alloys, and Ferroalloys 
+E29 Practice for Using Significant Digits in Test Data to 
+Determine Conformance with Specifications 
+E50 Practices for Apparatus, Reagents, and Safety Consid­
+erations for Chemical Analysis of Metals, Ores, and 
+Related Materials 
+E60 Practice for Analysis of Metals, Ores, and Related 
+Materials by Spectrophotometry 
+E322 Test Method for Analysis of Low-Alloy Steels and 
+Cast Irons by Wavelength Dispersive X-Ray Fluorescence 
+Spectrometry (Withdrawn 2021) 
+E350 Test Methods for Chemical Analysis of Carbon Steel, 
+Low-Alloy Steel, Silicon Electrical Steel, Ingot Iron, and 
+Wrought Iron 
+E352 Test Methods for Chemical Analysis of Tool Steels and 
+1234
+
+=== Page 1305 ===
+
+ASME BPVC.II.A-2025 SA-751 
+Other Similar Medium- and High-Alloy Steels 
+E353 Test Methods for Chemical Analysis of Stainless, 
+Heat-Resisting, Maraging, and Other Similar Chromium­
+Nickel-Iron Alloys 
+E354 Test Methods for Chemical Analysis of High­
+Temperature, Electrical, Magnetic, and Other Similar Iron, 
+Nickel, and Cobalt Alloys 
+E415 Test Method for Analysis of Carbon and Low-Alloy 
+Steel by Spark Atomic Emission Spectrometry 
+E548 Guide for General Criteria Used for Evaluating Labo­
+ratory Competence (Withdrawn 2002) 
+E572 Test Method for Analysis of Stainless and Alloy Steels 
+by Wavelength Dispersive X-Ray Fluorescence Spectrom­
+etry 
+E743 Guide for Spectrochemical Laboratory Quality Assur­
+ance (Withdrawn 1998) 
+E851 Practice for Evaluation of Spectrochemical Laborato­
+ries (Withdrawn 1998) 
+E882 Guide for Accountability and Quality Control in the 
+Chemical Analysis Laboratory 
+E1019 Test Methods for Determination of Carbon, Sulfur, 
+Nitrogen, and Oxygen in Steel, Iron, Nickel, and Cobalt 
+Alloys by Various Combustion and Inert Gas Fusion 
+Techniques 
+E1085 Test Method for Analysis of Low-Alloy Steels by 
+Wavelength Dispersive X-Ray Fluorescence Spectrometry 
+El086 Test Method for Analysis of Austenitic Stainless Steel 
+by Spark Atomic Emission Spectrometry 
+E1097 Guide for Determination of Various Elements by 
+Direct Current Plasma Atomic Emission Spectrometry 
+E1184 Practice for Determination of Elements by Graphite 
+Furnace Atomic Absorption Spectrometry 
+E1282 Guide for Specifying the Chemical Compositions and 
+Selecting Sampling Practices and Quantitative Analysis 
+Methods for Metals, Ores, and Related Materials 
+E1329 Practice for Verification and Use of Control Charts in 
+Spectrochemical Analysis (Withdrawn 2019) 
+E1476 Guide for Metals Identification, Grade Verification, 
+and Sorting 
+El806 Practice for Sampling Steel and Iron for Determina­
+tion of Chemical Composition 
+2.2 ISO Standards: 
+ISO/IEC 17025 General Requirements for the Competence 
+of Testing and Calibration Laboratories 
+3. Terminology 
+3.l Definitions: 
+3 .1.1 For definitions of terms used in these test methods and 
+practices, see Terminology A941. 
+3.2 Definitions of Terms Specific to This Standard: 
+3.2.1 product, check, or verification analysis, n-a chemical 
+analysis of the semifinished or finished product, usually for the 
+purpose of determining conformance to the specification re­
+quirements. 
+3.2.1.1 Discussion-The range of the specified composition 
+applicable to product analysis is normally greater than that 
+applicable to heat analysis in order to take into account 
+deviations associated with analytical reproducibility (Note 1) 
+and the heterogeneity of the steel. 
+NoTE 1-All of the chemical analysis procedures referenced in these 
+test methods include precision statements with reproducibility data, with 
+the exception of Test Methods E50. 
+3.2.2 product analysis tolerances, n-a permissible varia­
+tion over the maximum limit or under the minimum limit of a 
+specified element and applicable only to product analyses, not 
+cast or heat analyses (Note 2). 
+NoTE 2-The term "analysis tolerance" is often misunderstood. It does 
+not apply to cast or heat analyses determined to show conformance to 
+specified chemical limits. It applies only to product analysis and becomes 
+meaningful only when the heat analysis of an element falls close to one of 
+the specified limits. For example, stainless steel UNS 30400 limits for 
+chromium are 18.00 to 20.00 %. A heat that the producer reported as 
+18.01 % chromium may be found to show 17.80 % chromium by a user 
+performing a product analysis. If the product analysis tolerance for such a 
+chromium level is 0.20 %, the product analysis of 17.80 % chromium 
+would be acceptable. A product analysis of 17.79 % would not be 
+acceptable. 
+3.2.3 proprietary analytical method, n-a non-standard ana­
+lytical method, not published by ASTM, utilizing reference 
+standards traceable to the National Institute of Standards and 
+Technology (NIST), when available, or other sources refer­
+enced in Section 10. 
+3.2.4 referee analysis, n-performed using ASTM test 
+methods listed in 9.1.1, NIST reference standards or methods, 
+and reference standards agreed upon between parties. 
+3.2.4.1 Discussion-The selection of a laboratory to per­
+form the referee analysis shall be a matter of agreement 
+between the supplier and the purchaser. 
+3.2.5 certified reference material, n-a specimen of material 
+specially prepared, analyzed, and certified for chemical content 
+under the jurisdiction of a recognized standardizing agency or 
+group, such as the NIST, for use by analytical laboratories as an 
+accurate basis for comparison. 
+3.2.5.1 Discussion-Reference samples should bear suffi­
+cient resemblance to the material to be analyzed so that no 
+significant differences are required in procedures or corrections 
+(for example, for interferences or inter-element effects). 
+3.2.6 working reference materials, n-reference materials 
+used for routine analytical control and traceable to NIST 
+standards and other recognized standards when appropriate 
+standards are available. 
+1235
+
+=== Page 1306 ===
+
+SA-751 ASME BPVC.II.A-2025 
+4. Concerning Specification of Chemical Composition 
+Req1drements 
+4.1 It is recommended that Guide B1282 be consulted as a 
+guide for specifying the chemical compositions for steels. 
+4.2 The recommended practice for specifying chemical 
+composition limits is to limit the number of significant figures 
+for each element so that the number of figures to the right of the 
+decimal point conforms to the following: 
+Chemical Concentration 
+Maximum Number of 
+Figures to Right of Decimal Point 
+Up to 0.010 %, incl. 0.XXXX or may be expressed as ppm 
+Over 0.010 % to 0.10 %, incl 0.XXX 
+Over 0.1 O % to 3.0 %, incl 0.XX 
+Over 3.0 % O.X 
+4.3 For those cases in which the composition range spans 
+either 0.10 or 3.0 %, the number of figures to the right of the 
+decimal is to be determined by that indicated by the upper 
+limit. 
+4.4 Technical considerations may dictate the employment of 
+less than the number of figures to the right of the decimal as 
+previously recommended. 
+NoTE 3-The recommendations should be employed to reduce the 
+number of significant figures, such as from 18.00 to 18.0 %, but a 
+significant figure should never be added unless there is a technical reason 
+for so doing. 
+5. Cast or Heat Analysis 
+5.1 The producer shall perform analyses for those elements 
+specified in the material specification. The results of such 
+analyses shall conform to the requirements specified in the 
+material specification. 
+5.1.1 For multiple heats, either individual heat or cast 
+analysis, or an average heat or cast analysis, shall be reported. 
+If significant variations in heat or cast size are involved, a 
+weighted average heat or cast analysis, based on the relative 
+quantity of metal in each heat or cast, shall be reported. 
+5.1.2 For consumable electrode remelted material, a heat is 
+defined as all the ingots remelted by the same process from a 
+primary heat. The heat analysis shall be obtained from one 
+remelted ingot, or the product of one remelted ingot, from each 
+primary melt. If this heat analysis does not meet the heat 
+analysis requirements of the specification, one sample from the 
+product of each remelted ingot shall be analyzed, and the 
+analyses shall meet the heat analysis requirements. 
+5.2 If the test samples taken for the heat analysis are lost, 
+inadequate, or not representative of the heat, a product analysis 
+of the semifinished or finished product may be used to establish 
+the heat analysis. 
+5.2.1 If a product analysis is made to establish the heat 
+analysis, the product analysis shall meet the specified limits for 
+heat analysis and the product analysis tolerances described in 
+Section 6 do not apply. 
+5.3 Unless otherwise specified, compositions shall be 
+reported in mass fraction percent (wt%). 
+6. Product Analysis Requirements 
+6.1 For product analysis, the range of the specified chemical 
+composition is normally greater ( designated product analysis 
+tolerances) than that applicable to heat analyses to take into 
+account deviations associated with analytical reproducibility 
+and the heterogeneity of the steel. If several determinations of 
+any element in the heat are made, they may not vary both 
+above and below the specified range. 
+6.2 Product analysis tolerances may not be used to deter­
+mine conformance to the specified heat or cast analysis unless 
+permitted by the individual material specification. 
+6.3 Product analysis tolerances, where available, are given 
+in the individual material specifications or in the general 
+requirement specifications. 
+7. Unspecified Elements (Note 4) 
+7 .1 Reporting analyses of unspecified elements is permitted. 
+NoTE 4--All commercial metals contain small amounts of various 
+elements in addition to those which are specified. It is neither practical nor 
+necessary to specify limits for every unspecified element that might be 
+present, despite the fact that the presence of many of these elements is 
+often routinely determined by the producer. 
+7.2 Analysis limits shall be established for specific elements 
+rather than groups of elements such as "all others," "rare 
+earths," and "balance." 
+8. Sampling 
+8.1 Cast or Heat Analyses: 
+8.1.1 Samples shall be taken, insofar as possible, during the 
+casting of a heat, at a time which, in the producer's judgment, 
+best represents the composition of the cast. 
+8.1.2 In case the heat analysis samples or analyses are lost 
+or inadequate, or when it is evident that the sample does not 
+truly represent the heat, representative samples may be taken 
+from the semifinished or finished product, in which case such 
+samples may be analyzed to satisfy the specified requirements. 
+The analysis shall meet the specified limits for heat analysis. 
+8.2 Check, Product, or Verification Analyses-Unless other­
+wise specified, the latest revision of Practice B1806 shall be 
+used as a guide for sampling. 
+9. Test Methods 
+9.1 This section lists some test methods that have been 
+found acceptable for chemical analysis of steels. 
+9 .1.1 The following ASTM wet chemical test methods have 
+been found acceptable as referee test methods and as a base for 
+standardizing instrumental analysis techniques. 
+Test Methods 
+E350 
+E352 
+E353 
+E354 
+E1019 
+General Description 
+Basic wet chemical procedure for steels. 
+Wet chemical procedure for tool steels. 
+Wet chemical procedure for stainless steels. 
+Wet chemical procedure for high nickel steels. 
+Determination of carbon, sulfur, nitrogen, oxygen, and 
+hydrogen, in steel and in iron, nickel, and cobalt alloys. 
+9 .1.2 The following ASTM instrumental test methods, 
+practices, and guides may be employed for chemical analysis 
+of steels or may be useful as a guide in the calibration and 
+standardization of instrumental equipment for routine sampling 
+and analysis of steels. 
+1236
+
+=== Page 1307 ===
+
+ASME BPVC.II.A-2025 SA-751 
+Test Methods, 
+Practices, Guides General Description 
+E50 Apparatus, reagents, and safety. 
+EBO Photometric and spectrophotometric work. 
+Spectrographic analysis of steels (rod-to-rod technique). 
+Spectrographic analysis of acid-soluble aluminum. 
+E322 X-ray fluorescence for steels 
+Spectrometric analysis of stainless steels 
+E415 Vacuum spectrometric analysis of steels 
+Spectrographic determination of silicon and aluminum in high­
+purity iron. 
+E572 X-ray emission spectrometric analysis of stainless steels. 
+Flame atomic absorption. 
+E882 Accountability and quality control. 
+E1019 Determination of carbon, sulfur, nitrogen, oxygen, and hydro­
+gen in steel and in iron, nickel, and cobalt alloys. 
+E1085 X-ray emission spectrometric analysis of low alloy steels. 
+E1086 Optical emission vacuum spectrometric analysis of stainless 
+steel. 
+By the point-to plane excitation technique. 
+E1097 Direct current plasma spectroscopy. 
+E1184 Graphite furnace atomic absorption. 
+E1282 Selecting sampling practices and analysis methods. 
+E1329 Verification and use of control charts. 
+E1806 Sampling. 
+9.2 The following are some of the commonly accepted 
+techniques employed for routine chemical analysis of steels. 
+These routine analyses are the basis for the producers' quality 
+control/assurance programs. Proprietary methods are permis­
+sible provided the results are equivalent to those obtained from 
+standard methods when applicable. 
+9.2.1 Analysis of stainless steels using x-ray fluorescence 
+spectroscopy (XRF). See Table 1 for normal elements and 
+ranges for stainless steels. 
+9.2.2 Analysis of stainless steels using spark emission 
+spectroscopy (OBS). See Table 2 for normal elements and 
+ranges for stainless steels. 
+9.2.3 Analysis of solutions using an atomic absorption 
+spectrophotometer. 
+9.2.4 Analysis of solutions using an inductively coupled 
+plasma emission spectrometer. 
+9.2.5 Determination of carbon or sulfur, or both, by com­
+bustion (in oxygen) and measurement of CO 2 or S0 2 , or both, 
+by thermal conductivity or infrared detectors. 
+Element Ranges % 
+C 0.002--5.0 
+S 0.0005--0.1 
+9.2.6 Determination of nitrogen and oxygen by fusion (in a 
+helium atmosphere) and measurement of N 2 by thermal con­
+ductivity and oxygen by measurement of CO by infrared or 
+thermal conductivity detectors. 
+Element Ranges % 
+0.0005-0.3 
+0.0008-0.02 
+TABLE 1 Normal Elements and Ranges for Stainless Steels 
+Using X-Ray Fluorescence Spectroscopy 
+Element Ranges % Element Ranges % 
+Mn 0.005--15.0 Cu 0.005--4.0 
+p 0.00Hl.15 Cb 0.005-3.0 
+Si 0.005-5.0 V 0.005--2.0 
+Cr 0.01-26.0 TI 0.005--2.5 
+Ni 0.01-36.0 Co 0.005-4.0 
+Al 0.002-5.5 Sn 0.002-0.20 
+Mo 0.005--8.0 w 0.005-3.0 
+TABLE 2 Normal Elements and Ranges for Stainless Steels 
+Using Spark Emission Spectroscopy 
+C 0.004--5.0 V 0.005--2.0 
+S 0.0005--0.1 Ti 0.005--2.5 
+N 2 0.0020-0.3 Co 0.005-4.0 
+Mn 0.005--15.0 Sn 0.001-0.20 
+P 0.001-1.5 W 0.005-3.0 
+Si 0.005--5.0 Pb 0.002-0.05 
+Cr 0.01-26.0 B 0.0005-0.05 
+Ni 0.01-36.0 Ca 0.0002-0.01 
+Al 0.001-5.5 Mg 0.001-0.01 
+Mo 0.005--8.0 Ce 0.001-0.2 
+Cu 0.005--4.0 Zr 0.001-0.1 
+Cb 0.005-3.0 Ta 0.005-0.5 
+9.2.7 Analysis of solutions using inductively coupled 
+plasma emission spectroscopy (ICP) or direct plasma emission 
+spectroscopy (DCP). Normal elements and ranges for stainless 
+steels are as follows: 
+Element Ranges % 
+B 0.0002-0.01 
+Ca 0.0002-0.01 
+Mg 0.0002-0.01 
+Ce 0.001-0.2 
+Zr 0.001-0.1 
+Ta 0.005-0.5 
+La 0.001-0.01 
+9.3 There are additional common techniques often used for 
+chemical analysis of standards for instrument analysis such as: 
+polarographic analysis, ion exchange separations, 
+radioactivation, and mass spectrometry. 
+10. Reference Materials 
+10.1 For referee analyses, reference standards of a recog­
+nized standardizing agency shall be employed with preference 
+given to NIST standard reference materials when applicable. 
+(NIST does not produce reference standards suitable for all 
+elements or all alloys.) 
+10.1.1 When standard reference materials for certain alloys 
+are not available from NIST, reference materials may be 
+produced by employing ASTM standard procedures and NIST 
+standard reference materials to the extent that such procedures 
+and reference standards are available. Several independent 
+laboratories should be used for certification of these standards 
+and their results statistically reviewed and merged. 
+10.1.2 Test methods not published by ASTM, such as a 
+definitive analytical method, may be used when the method is 
+validated by analyzing certified reference materials along with 
+the candidate reference material. Examples of definitive ana­
+lytical methods include gravimetric, coulometry, titrimetric 
+based on normality, and mass spectrometry. 
+10.2 Working reference materials may be used for routine 
+analytical control. 
+11. Significant Numbers 
+11.1 Laboratories shall report each element to the same 
+number of significant numbers as used in the pertinent material 
+specifications. 
+1237
+
+=== Page 1308 ===
+
+SA-765/SA-765M ASME BPVC.II.A-2025 
+Standard Specification for 
+Carbon Steel and Low-Alloy Steel Pressure-Vessel­
+Component Forgings with Mandatory Toughness 
+Requirements 
+1. Scope 
+1. 1 This specification covers heat-treated carbon steel and 
+alloy steel forgings with mandatory toughness requirements. 
+These forgings are intended for pressure vessels, feedwater 
+heaters, and similar uses. 
+1.2 These forgings include tube sheets, covers, channel 
+barrels, integral forged channels, rings, nozzles, flanges, and 
+similar parts. 
+1.3 All grades are considered weldable under proper condi­
+tions. 
+1.4 The maximum thickness of forgings produced to this 
+specification is limited only by the capacity of the selected 
+grade to respond to any heat treatment specified and to meet the 
+specified mechanical tests, including impact tests at the speci­
+fied temperature. 
+1.5 Material supplied to this specification shall conform to 
+the requirements of Specification A788/A788M, which out­
+lines additional ordering information, manufacturing 
+requirements, testing and retesting methods and procedures, 
+marking, certification, product analysis variations, and addi­
+tional supplementary requirements. 
+1.6 If the requirements of this specification are in conflict 
+with the requirements of Specification A788/A788M, the 
+requirements of this specification shall prevail. 
+1. 7 The values stated in either inch-pound units or SI 
+[metric] units are to be regarded separately as the standard; 
+within the text and tables, the SI units are shown in brackets. 
+The values stated in each system are not exact equivalents; 
+therefore, each system must be used independently of the other. 
+Combining values from the two systems may result in noncon­
+formance with the specification. 
+1.8 Unless the order specifies the applicable "M" specifica­
+tion designation, the material shall be furnished to the inch­
+pound units. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+A275/A275M Practice for Magnetic Particle Examination of 
+Steel Forgings 
+A370 Test Methods and Definitions for Mechanical Testing 
+of Steel Products 
+A388/A388M Practice for Ultrasonic Examination of Steel 
+Forgings 
+A788/A788M Specification for Steel Forgings, General Re­
+quirements 
+E112 Test Methods for Determining Average Grain Size 
+E165 Practice for Liquid Penetrant Examination for General 
+Industry 
+2.2 ASME Standards: 
+ASME Boiler and Pressure Vessel Code 
+3. Ordering Information 
+3.1 In addition to the ordering information requirements of 
+Specification A788/A788M, a detailed sketch or written de­
+scription of the forging and the method of selecting the test 
+location (see 6.2) should be supplied to the producer, when 
+appropriate areas of significant in-service loading of the 
+forging need to be designated. 
+3.2 The required impact test temperature should be supplied 
+if different than the temperature listed in Table 3, otherwise the 
+impact test shall be conducted at the temperature listed in Table 
+3 for the chosen Grade. 
+3.3 If a hubbed tube sheet is to be supplied for ASME Boiler 
+and Pressure Code Application Supplementary Requirement 
+S12 of Specification A788/A788M shall be specified. 
+1240
+
+=== Page 1309 ===
+
+~ 
+~. 
+ASME BPVC.II.A-2025 SA-765/SA-765M 
+TABLE 1 Chemical Requirements 
+Composition, % 
+Grade I Grade II Grade Ill Grade IV Grade V 
+Carbon, max 0.30 0.30 0.20 0.20 0.30 
+Manganese 0.60to 0.60 to 0.90 max 1.00-1.60 0.60-1.35 
+1.35 1.35 
+Phosphorus, 0.020 0.020 0.020 0.020 0.020 
+max 
+Sulfur, max 0.020 0.020 0.020 0.020 0.020 
+Silicon 0.15 to 0.15 to 0.15 to 0.15--0.50 0.15--0.35 
+0.35 0.35 0.35 
+Nickel, maxA 0.50 0.50 3.3 to 3.8 0.50 max 1.0-2.0 
+Vanadium, max 0.05 0.05 0.05 0.06 0.03 
+Aluminum, max 0.05 0.05 0.05 0.05 0.05 
+Chromium,A 0.40 0.40 0.20 0.40 0.30 
+max 
+Molybdenum/ 0.10 0.10 0.06 0.10 0.12 
+max 
+Copper, max 0.35 0.35 0.35 0.35 0.35 
+A Intentional additions of Cr, Mo, and Ni up to the specified maximum are permitted 
+to be made to Grades I, 11, and IV by the manufacturer. 
+3.4 If steel is required to be vacuum degassed, Supplemen­
+tary Requirement S8 of Specification A788/A788M should be 
+specified. 
+4. Heat Treatment for Mechanical Properties 
+4.1 Heat treatment shall consist of one of the following heat 
+treatment options of the manufacturer's choice. 
+4.1.1 Normalize and temper. 
+4.1.2 Double normalize, wherein the second austenitizing 
+temperature is at the same or lower temperature than the first, 
+followed by tempering. 
+4.1.3 Quench and temper, with the option of adding a 
+preliminary normalize before austenitizing for quenching in a 
+suitable liquid medium. The type of cooling medium used shall 
+be reported. 
+4.1.4 Use of an intercritical heat treatment cycle in accor­
+dance with Specification A788/A788M in which cooling from 
+the full and partial austenitization stages may be done by liquid 
+quenching or air cooling. The method of cooling and type of 
+quench medium, if used, shall be reported. 
+4.1.5 The minimum tempering temperature shall be 1100°F 
+[590°C]. 
+5. Chemical Requirements 
+5.1 Heat Analysis-The heat analysis obtained from sam­
+pling in accordance with Specification A788/A788M shall 
+comply with Table 1. 
+5.2 Product Analysis-The purchaser may use the product 
+analysis provision of Specification A788/A788M to obtain a 
+product analysis from a forging representing each heat or 
+multiple heat. 
+6. Mechanical Requirements 
+6.1 General Requirements-The forgings shall conform to 
+the tension test requirements of Table 2. The forgings shall also 
+conform to the impact test requirements of Table 3. The largest 
+obtainable round tension test specimen as specified in Test 
+Methods and Definitions A370 shall be used. Impact speci­
+mens shall be Charpy V-notch, Type A, as in Test Methods and 
+Definitions A370. The usage of subsize impact specimens must 
+have prior purchaser approval. 
+6.1.1 When agreed upon between the purchaser and the 
+producer and specified on the order, impact tests may be made 
+at temperatures different from those shown in Table 3 provided 
+the test temperature is at least as low as the intended service 
+temperatures and the provided impact energy requirements of 
+Table 3 are met. Such forgings shall be suitably marked in 
+accordance with 9.1 to identify the test temperature. 
+6.2 Test Location-Test coupons shall be taken so that the 
+longitudinal axis and mid-length of tension and impact test 
+specimens shall be positioned in accordance with one of the 
+following methods: 
+6.2.1 Method I-Forgings with 2 in. [50 mm] maximum 
+thickness. The specimens shall have their longitudinal axis at 
+the midthickness or the center of the cross section and with the 
+midlength of the specimen at least 2 in. [50 mm] from any 
+second surface. 
+6.2.2 Method 2-Grade I and Grade II forgings with thick­
+nesses greater than 2 in. up to 4 in. [50 to 100 mm] inclusive, 
+or Grade III and IV forgings with thicknesses greater than 2 in. 
+up to 6 in. [50 to 150 mm] inclusive. The specimens shall have 
+their longitudinal axis at least ¼ T of maximum heat-treated 
+thickness from any surface and with the midlength of the 
+specimen at least one T from any second surface. This is 
+normally referred to as ¼ T by T when T is the maximum 
+heat-treated thickness. A thermal buffer may be used to adhere 
+to the condition in 6.3. Unless otherwise agreed upon, the 
+following limitation for heat-treated thickness shall apply: 
+Grade 
+I 
+II 
+Ill 
+IV 
+V 
+(Classes 1 and 2) 
+in. [mm], min 
+2 [50] 
+2 [50] 
+2 [50] 
+2 [50] 
+2 [50] 
+in. [mm], max 
+4 [100] 
+4 [100] 
+6 [150] 
+6 [150] 
+6 [150] 
+6.2.3 Method 3-For forgings thicker than described in 
+Method 2 (6.2.2): 
+6.2.3.1 Prior to heat treatment the forging shall be machined 
+to a purchaser supplied or approved drawing that indicates the 
+locations of significant in-service loading in the finished part. 
+The mechanical test specimens shall be located as an integral 
+part of the forging such that the mid-point of the gauge length 
+of the tension test specimen and the area under the notch of the 
+impact specimens are located no closer than the dimension t 
+from one heat treated surface and 2t from any other heat treated 
+surface where t is the dimension from the area of significant 
+loading to the heat treated surface, or¾ in. [20 mm] whichever 
+is the greater. 
+6.2.4 Method 4-This method shall be limited to forgings 
+with a rough machined weight of not more than 1000 lb [455 
+kg]. Separate test forging when agreed upon between the 
+purchaser and the supplier. Test coupons representing forgings 
+from one heat and one heat treatment lot may be taken from a 
+separately forged piece under the following conditions: 
+6.2.4.1 The separate test forging shall be of the same heat of 
+material and shall be subjected to substantially the same 
+reduction and working as the production forging it represents. 
+1241
+
+=== Page 1311 ===
+
+ASME BPVCILA-2025 SA-770/SA-770M
+
+SPECIFICATION FOR THROUGH-THICKNESS TENSION
+TESTING OF STEEL PLATES FOR SPECIAL
+APPLICATIONS
+
+Ox SA-770/SA-770M
+
+(Identical with ASTM Specification A770/A770M-03(2018) except for editorial correction to Table 2.)
+
+1245
+
+=== Page 1312 ===
+
+SA-770/SA-770M ASME BPVC.II.A-2025 
+Standard Specification for 
+Through-Thickness Tension Testing of Steel Plates for 
+Special Applications 
+1. Scope 
+1.1 This specification covers the procedures and accep­
+tance standards for the determination of reduction of area using 
+a tension test specimen whose axis is perpendicular to the 
+rolled surfaces of steel plates 1 in. [25 mm] and greater in 
+thickness. The principal purpose of the testing is to provide a 
+measure of the resistance of a steel plate to lamellar tearing. 
+(See Appendix XL) 
+1.2 The values stated in either inch-pound units or SI units 
+are to be regarded as standard. Within the text, the SI units are 
+shown in brackets. The values stated in each system are not 
+exact equivalents; therefore, each system must be used inde­
+pendently of the other. Combining values from the two systems 
+may result in nonconformance with the specification. 
+1.3 This specification is expressed in both inch-pound and 
+SI unit~. However, unless the order specifies the applicable 
+"M" specification designation (SI units), the material shall be 
+furnished to inch-pound units. 
+2. Referenced Documents 
+2.l ASTM Standards: 
+A370 Test Methods and Definitions for Mechanical Testing 
+of Steel Products 
+3. Ordering Information 
+3.1 The inquiry and order shall include the following, if 
+required: 
+3.1.1 Supplementary requirements that are available to meet 
+end use requirements (see SI through S5). 
+3.1.2 Special requirements agreed upon between the manu­
+facturer and the purchaser. 
+4. Tension Tests 
+4.1 Number of Tests: 
+4.1.l Two tests shall be required from each plate-as-rolled, 
+except for plates subjected to heat treatment by quenching and 
+tempering. 1\vo tests shall be required from each quenched­
+and-tempered plate. The tests shall be representative of the 
+plate in its final condition. 
+4.1.2 When plates are furnished by the manufacturer in an 
+unheat-treated condition and qualified by heat-treated speci­
+mens (including normalized, normalized and tempered, and 
+quenched and tempered), two tests shall be required from each 
+plate-as-rolled. 
+NoTE 1-The term "plate-as-rolled" refers to the unit plate rolled from 
+a slab or directly from an ingot. It does not refer to the condition of the 
+plate. 
+4.2 Location of Test Coupons-Take one test coupon at each 
+end of each plate as defined in 4.1. Take the test coupons from 
+the center of the plate width. 
+4.3 Orientation of Test Specimens-The longitudinal axis of 
+the reduced section of the test specimens shall be perpendicular 
+to the rolled surface of the plate. 
+4.4 Preparation of Test Specimens: 
+4.4.1 Welded Prolongations-When required, join welded 
+prolongations to the surface(s) of the plate being tested. The 
+joining method used shall be one which results in a minimal 
+heat-affected zone in the portion of the plate to be tested. 
+Shielded metal arc, friction, stud, or electron-beam welding 
+methods have proven to be suitable. 
+4.4.2 Standard Test Specimens: 
+4.4.2.1 Three types of standard round tension test specimens 
+are shown in Fig. 1 and Table 1. For Types 1 and 2 specimens, 
+locate the center of the length of the reduced section at the 
+approximate mid-point of the plate thickness. For Type 3 
+specimens, locate the weld fusion line of one plate surface 
+within ¼ in. [6 mm] of one end of the reduced section. 
+4.4.2.2 For plates from 1 in. [25 mm] to 1 ¼ in. [32 mm] 
+inclusive in thickness, use either the 0.350-in. [8.75-mm] Type 
+1 specimen or the 0.500-in. [12.5-mm] Type 2 specimen. 
+1246
+
+=== Page 1313 ===
+
+ASME BPVC.II.A-2025 SA-770/SA-770M 
+0 to Yiin. 
+(0 to ""'"'1 
+D 
+---A----....t 
+TYPE 
+1 
+TYPE 
+3 
+NoTE 1-For Type 3 only one welded prolongation may be needed, 
+depending upon plate thickness. 
+FIG. 1 Standard Round Tension Test Specimens 
+TABLE 1 Schedule of Standard Test Specimens, Inches 
+[MillimetresJA 
+Plate thickness (~ 
+Diameter (D) 
+Radius, minimum (R) 
+Length of reduced section (A) 
+1 ,st ,s 1¼ 
+0.350 [8.75] 
+¼[6] 
+1¾[45] 
+Specimen Type 
+2 
+1 < t::S 2 
+0.500 [12.5] 
+%[10] 
+2¼[60] 
+3 
+2<t 
+Q.500 [12.5] 
+% [10] 
+2¼ [60] 
+A See Test Methods and Definitions A370 (Fig. 5 for further details and Fig. 6 for 
+various types of ends). 
+4.4.2.3 For plates over 1 ¼ in. to 2 in. [50 mm] inclusive in 
+thickness, use the 0.500-in. [12.5-mm] Type 2 specimen. 
+4.4.2.4 For plates greater than 2 in. [50 nun] in thickness, 
+use the Type 3 specimen. 
+4.4.3 Alternative Test Specimens-The alternative test 
+specimens in Fig. 2 and Table 2 may be used in place of the 
+standard specimens in Fig. 1 and Table 1. 
+4.4.3.1 For plates over 2 in. [50 mm] in thickness, Type A or 
+Type B specimens may be used. The Type A specimen provides 
+a reduced section length greater than the plate thickness. The 
+Type B specimen provides a reduced section length of 2¼ in. 
+[57 mm] with its center at the mid-thickness of the plate. Over 
+a minimum plate thickness determined by the specimen end 
+configuration, no welded prolongations may be needed for the 
+Type B specimen. For plates over 4¼ in. [108 mm] in 
+thickness, the Type C specimen may be used. For plates over 6 
+in. [150 mm] in thickness, a series of two or more Type A or 
+Type C specimens with reduced sections of 4 in. [100 mm] or 
+less may be used to cover the full thickness of the plate. The 
+number of tests required will depend upon the thickness of the 
+plate being tested and the reduced section length selected. 
+TYPES 
+D. E. & F 
+FIG. 2 Alternative Tension Test Specimens 
+TYPE. 
+A 
+4.4.3.2 For plates over 1 in. [25 mm] in thickness, a series 
+of button-head specimens shown in Fig. 2 and Table 2 may be 
+used. The test specimen type to be used, Type D, Type E, or 
+Type F, is determined by the nominal plate thickness as 
+described in Table 2. A series of two or more Type F specimens 
+may be used to cover the full thickness of the plate. The length 
+of the reduced section (A), as shown in Fig. 2 and specified in 
+Table 2, is the length of the reduced section excluding the 
+machined radius (R). Within the plate thickness dimension 
+specified for each test specimen type, either the button-head 
+thickness, the reduced section length, or the machined radius 
+may be varied. In all cases, the minimum length of the reduced 
+section must be as specified in Table 2 to maintain a minimum 
+length to diameter ratio (see Appendix X2.2). 
+5. Acceptance Standards 
+5.1 Each tension test shall have a minimum reduction of 
+area no less than 20 %. If the reduction of area of both tests is 
+less than 20 %, no retest shall be permitted. If the reduction of 
+area of one of the two tests from a plate is less than 20 %, one 
+retest of two additional specimens taken from a location 
+adjacent to the specimen that failed may be made, and both of 
+these additional specimens shall have a reduction of area of 
+20 % or more. 
+1247
+
+=== Page 1314 ===
+
+SA-770/SA-770M ASME BPVC.II.A-2025 
+TABLE 2 Schedule of Alternative Test Specimens, Inches [Millimetres] 
+Specimen Type 
+AA BA cs D E F 
+Plate thickness (0 2<1[50<ij 2 <1[50 < ij 4¼ < 1[108 < t] 1sts1¾[25st 1¾ <ts 2½ [45 s t 2½</[64<ij 
+s 45] s 64] 
+Diameter (0) 0.500 [12.5] 0.500 [12.5] 0.500 [12.5] 0.250 (6.25]c ± 0.005 0.350 [8.75f ± 0.007 0.500 [12.5f ± 10.010 
+(0.10] [0.18] [0.25] 
+Radius, min (R) %[10] % [10] v,. [2] optional optional optional 
+Length of reduced t+ ¼min(/+ 6] 2¼ [60] 1-1½ [t- 38] 0.625 [16] 0.875 [22] 1.250 [32] 
+section, min(A) 
+A See Test Methods and Definitions A370 (Fig. 5 for further details and Fig. 6 for various types of ends). 
+8 See Test Methods and Definitions A370 (Fig. 6, specimen 3 for further details). 
+c The reduced section may have a gradual taper from the ends toward the center, with the ends not more than 1 % larger In diameter than the center (controlling 
+dimension). 
+5.2. Failures occurring in the prolongations, the weld, or in 
+the fusion line shall be considered as a "no-test," and an 
+additional specimen shall be tested. 
+6. Marking 
+6.1 Plates accepted in accordance with this specification 
+shall be identified by stamping or stenciling ZT adjacent to the 
+marking required by the applicable product specification. 
+7. Keywords 
+7.1 lamellar tearing; special steel-making processes; steel 
+plate; through-thickness tension testing 
+SUPPLEMENTARY REQUIREMENTS 
+These requirements apply only when specified by the purchaser. 
+Sl. Tensile Strength Requirements 
+S 1. 1 Tensile strength shall conform to a minimum value 
+which is subject to agreement between the manufacturer and 
+purchaser. 
+S2. Yield Strength Requirements 
+S2.1 Yield strength, for plates 2 in. [50 mm] and over in 
+thickness, shall conform to a minimum value which is subject 
+to agreement between the manufacturer ru:ld purchaser. 
+S3. Reduction of Area Requirements 
+S3.1 A minimum reduction of area limit higher than that in 
+5.1 may be specified subject to agreement between the manu­
+facturer and purchaser. 
+S4. Number of Tests 
+S4.1 A greater number of tests than indicated in 4.1 may be 
+specified subject to agreement between the manufacturer and 
+purchaser. 
+SS. Location of Test Coupons 
+S5.1 Test coupons from locations in addition to those 
+specified in 4.2 may be specified subject to agreement between 
+the manufacturer and purchaser. 
+APPENDIXES 
+(Nonmandatory Information) 
+Xl. LAMELLAR TEARING ADJACENT TO WELDS 
+XU Introduction 
+Xl.1.1 Lamellar tearing is a particular type of cracking that 
+occurs under the weld of a steel plate weldment. It is generally 
+caused by strain induced in the thickness direction resulting 
+from shrinkage of the weld deposit and by the restraint 
+imposed by the components that comprise the weldment. High 
+restraint increases the possibility of lamellar tearing. However, 
+lamellar tearing is not solely confined to highly restrained 
+weldments. Lamellar tearing may also result from loads on the 
+plate surface. 
+Xl.2 Characteristics of Lamellar Tearing 
+Xl.2.1 Lamellar tearing normally occurs in susceptible 
+material underneath the weld, in a direction generally parallel 
+1248
+
+=== Page 1315 ===
+
+ASME BPVC.II.A-2025 SA-770/SA-770M 
+to the plate surface and often slightly outside the heat-affected 
+zone. Lamellar tearing generally has a step-like appearance 
+consisting of "terraces" (cracks running parallel to the plate 
+surface) and "walls" (cracks which connect the individual 
+terraces). The tearing may remain completely subsurface or 
+appear at plate edges or at weld toes. 
+Xl.3 Inclusions 
+Xl.3.1 The step-like cracking characteristic of lamellar 
+tearing is usually considered to result from small elongated 
+nonmetallic inclusions that are normally present in the steel. 
+Strains in the through-thickness direction can cause individual 
+inclusions to fractures or decohere from the surrounding steel 
+matrix, thus initiating a void. Further strain can cause the 
+remaining metallic ligaments to shear or rupture, resulting in 
+the step-like fracture appearance. 
+Xl.3.2 A high or concentrated inclusion content in the steel 
+produces planar regions of poor ductility parallel to the steel 
+surface. On the other hand, a reduction in the magnitude and 
+concentration of these inclusions to a low level tends to 
+preclude any easy fracture path along the low ductility inclu­
+sions and the steel exhibits improved ductility in a through­
+thickness direction. 
+Xl.3.3 The extent of nonmetallic inclusions depends on the 
+type of steel. In silicon semikilled or fully killed steels, these 
+inclusions are primatily oxides (present as silicates) and 
+sulfides (present as manganese sulfides). For aluminum-silicon 
+killed steels, these inclusions are primarily sulfides (manganese 
+sulfides). To improve the through-thickness ductility and thus 
+the resistance of the steel to lamellar tearing, it is necessary to 
+reduce the level of the nonmetallic inclusions. To provide a 
+high resistance to lamellar tearing may require the use of 
+special steel-making processes that can reduce the oxygen and 
+sulfur contents in the steel to very low levels. 
+Xl.4 Steel Manufacturing Processes 
+Xl.4.1 Special steel-making processes are available for 
+improving the through-thickness ductility. The more common 
+processes, used singly or in combination, are: (J) low sulfur 
+practices; (2) inclusion shape control; (3) electroslag or 
+vacuum arc remelting; atld (4) vacuum degassing. The steel­
+making processes are not all intended for the same purpose, but 
+will improve the through-thickness ductility to various degrees 
+depending on the process used. 
+Xl.5 Through-Thickness Ductility Requirements 
+Xl.5.1 Susceptibility to lamellar tearing depends on many 
+factors (for example, restraint, welding conditions, etc.) and, 
+consequently a specific through-thickness ductility require­
+ment does not provide a guarantee against lamellar tearing. The 
+most widely accepted method of measuring the material 
+ductility factor of susceptibility to lamellar tearing is the 
+reduction of area of a round tension test specimen oriented 
+perpendicular to the rolled surface of a plate. 
+X2. TESTING PARAMETERS AFFECTING REDUCTION OF AREA VALUES 
+X2.1 Variability of Through-Thickness Properties 
+X2.1.1 Through-thickness tension test results, and in par­
+ticular the reduction of area determination as provided for in 
+this specification, are subject to substantially greater scatter 
+than would normally be expected from standard tension tests of 
+a plate in the longitudinal or transverse direction. This scatter 
+of test results is due in part to the inherent variability of the 
+distribution of the nonmetallic inclusions discussed in Xl.3. 
+For example, those nonmetallic inclusions that form during the 
+solidification phase of the steelmaking process tend to occur 
+with a higher frequency in the area of final solidification. 
+X2.l.2 Test specimen design may also have an effect on the 
+test results. Some of these factors are discussed in X2.2. 
+Operator technique will also be a factor in increasing scatter, 
+particularly in the measurement of the final diameter of the test 
+specimen. Because of the effect of inclusions on the fracture 
+process, the appearance of the final fracture may be quite 
+different than the classical cup-cone fractures common to 
+longitudinal and transverse tension testing. For those materials 
+with approximately 20 % reducti.on of area, the final diatneter 
+measurement may require a substantial amount of judgment on 
+the part of the test operator. 
+X2.1.3 In view of the potential variability of the through­
+thickness reduction of area test results, it is recognized that two 
+tests per plate are not sufficient to fully characterize the 
+through-thickness ductility of that plate. The number of tests 
+and test positions have not been established that would provide 
+a good estimate of both the meat1 and the variability of 
+through-thickness tensile reduction of values of a plate. There­
+fore, an average value requirement is not included in this 
+specification. The intent of this specification is to qualify a 
+plate according to the described testing procedures using only 
+a minimum value requirement. The potential variability of the 
+test results also increases the possibility that subsequent testing 
+of a steel plate qualified according to this specification may 
+produce results that do not meet the specified acceptance 
+standard. 
+X2.2 Effects of Test Specimen Design 
+X2.2.1 Two main factors considered in the selection of test 
+specimen geometry were the diameter and the slenderness 
+ratio. It is generally accepted that there is a diameter effect on 
+reduction-of-area values such that a smaller diameter specimen 
+generally yields a higher average reduction in area value. It is 
+also accepted that smaller diameter test specimens will tend to 
+give greater variability to the resulting reduction in area values. 
+Because these relationships between the test specimen diam­
+eter and the average and variability of the test result have not 
+been satisfactorily quantified at this time, the same minimum 
+requirement has been applied to all test specimen diameters. 
+X2.2.2 The slenderness ratio (reduced section length/ 
+reduced section diameter) is lmown to affect the reduction in 
+1249
+
+=== Page 1316 ===
+
+SA-770/SA-770M ASME BPVC.II.A-2025 
+area values when below a minimum value. This minimum 
+value may be from 1.5 to 2.5, depending on the material. 
+Below this minimum value, the reduction at the failure point in 
+the reduced section is restrained by the larger cross section 
+away from the reduced section. A minimum slenderness ratio 
+of 2 was selected for the standard Type 2 specimen to allow a 
+0.500-in. (12.5-mm] diameter specimen to be used on a 1-in. 
+[25-mm] plate. A minimum slenderness ratio of 2.5 was 
+selected for the collar-button specimens (Types D, E, and F) to 
+ensure that this effect is minimized for these test specimens. 
+1250
+
+=== Page 1317 ===
+
+ASME BPVC.ILA-2025 SA-781/SA-781M
+
+SPECIFICATION FOR CASTINGS, STEEL AND ALLOY,
+COMMON REQUIREMENTS, FOR GENERAL INDUSTRIAL
+USE
+
+Cx SA-781/SA-781M iy
+® Sender Wowie
+
+(Identical with ASTM Specification A781/A781M-06.)
+
+1251
+
+=== Page 1318 ===
+
+SA-781/SA-781M ASME BPVC.II.A-2025 
+SPECIFICATION FOR CASTINGS, STEEL AND ALLOY, 
+COMMON REQUIREMENTS, FOR GENERAL 
+INDUSTRIAL USE 
+SA-781/SA-781M cO 
+INTIIRNATIONAL 
+Standards Worldwide 
+(Identical with ASTM Specification A 781/A 781M-06.) 
+1. Scope 
+1.1 This specification covers a group of requirements 
+that are mandatory requirements of the following steel 
+casting specifications issued by ASTM. lfthe product spec­
+ification specifies different requirements, the product speci­
+fication shall prevail. 
+ASTM 
+Designation 
+A27/A27M 
+A 128/A 128M 
+A 148/A 148M 
+A297/A297M 
+A447/A447M 
+A494/A494M 
+A560/A560M 
+A 743/A 743M 
+A 744/A 744M 
+A 747/A 747M 
+A890/A890M 
+A 915/A 915M 
+A958 
+A 1002 
+Title of Specification 
+Steel Castings, Carbon, for General Appli­
+cation 
+Steel Castings, Anstenitic Manganese 
+Steel Castings, High-Strength, for Struc­
+tural Purposes 
+Steel Castings, Iron-Chromium and Iron­
+Chromium-Nickel, Heat-Resistant for 
+General Application 
+Steel Castings, Chromium-Nickel-Iron 
+Alloy (25-12 Class), for High-Tempera­
+ture Service 
+Castings, Nickel and Nickel Alloy 
+Castings, Chromium-Nickel Alloy 
+Castings, Iron-Chromium, Iron-Chromium-
+Nickel, Corrosion Resistant, for General 
+Application 
+Castings, Iron-Chromium-Nickel, Corrosion 
+Resistant, for Severe Service 
+Steel Castings, Stainless, Precipitation Hard­
+ening 
+Castings, Iron-Chromium-Nickel-Molybde­
+num Corrosion-Resistant, Duplex 
+(Austenitic/Ferritic) for General Appli­
+cation 
+Steel Castings, Carbon and Alloy Chemical 
+Requirements Similar to Standard 
+Wrought Grades 
+Steel Castings, Carbon and Alloy, with Ten­
+sile Requirements, Chemical Require­
+ments Similar to Standard Wrought 
+Grades 
+Castings, Nickel-Aluminum Ordered Alloy 
+1.2 This specification also covers a group of supple­
+mentary requirements that may be applied to the above 
+specifications as indicated therein. These are provided for 
+use when additional testing or inspection is desired and 
+apply only when specified individually by the purchaser 
+in the order. 
+1.3 The requirements of the individual material speci­
+fication, and this general specification shall prevail in the 
+sequence named. 
+1.4 The values stated in either inch-pound units or SI 
+units are to be regarded separately as standard. Within the 
+text, the SI units are shown in brackets. The values stated 
+in each system are not exact equivalents; therefore, each 
+system must be used independently of the other. Combining 
+values from the two systems may result in nonconformance 
+with the specification. Inch-pound units are applicable for 
+material ordered to Specification A 781 and SI units for 
+material ordered to Specification A 781M. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+A 27 / A 27M Specification for Steel Castings, Carbon, for 
+General Application 
+A 128/ A 128M Specification for Steel Castings, Austenitic 
+Manganese 
+A 148/A 148M Specification for Steel Castings, High 
+Strength, for Structural Purposes 
+A 297 / A 297M Specification for Steel Castings, Iron­
+Chromium and Iron-Chromium-Nickel, Heat Resistant, 
+for General Application 
+A 370 Test Methods and Definitions for Mechanical Test­
+ing of Steel Products 
+A 380 Practice for Cleaning, Descaling, and Passivation 
+of Stainless Steel Parts, Equipment, and Systems 
+1252
+
+=== Page 1319 ===
+
+ASME BPVC.II.A-2025 SA-781/SA-781M 
+A 447 / A 447M Specification for Steel Castings, Chro­
+mium-Nickel-Iron Alloy (25-12 Class), for High-Tem­
+perature Service 
+A 488/ A 488M Practice for Steel Castings, Welding, Qual­
+ifications of Procedures and Personnel 
+A 494/ A 494M Specification for Castings, Nickel and 
+Nickel Alloy 
+A 560/ A 560M Specification for Castings, Chromium­
+Nickel Alloy 
+A 609/A 609M Practice for Castings, Carbon, Low-Alloy, 
+and Martensitic Stainless Steel, Ultrasonic Examination 
+Thereof 
+A 743/A 743M Specification for Castings, Iron-Chro­
+mium, Iron-Chromium-Nickel, Corrosion Resistant, for 
+General Application. 
+A 744/ A 744M Specifi~ation for Castings, Iron-Chro­
+mium-Nickel, Corrosion Resistant, for Severe Service 
+A 747 /A 747M Specification for Steel Castings, Stainless 
+Precipitation Hardening 
+A 751 Test Methods, Practices, and Terminology for 
+Chemical Analysis of Steel Products 
+A 800/ A 800M Practice for Steel Casting, Austenitic 
+Alloy, Estimating Ferrite Content Thereof 
+A 802 / A 802M Practice for Steel Castings, Surface 
+Acceptance Standards, Visual Examination 
+A 890 / A 890M Specification for Castings, Iron-Chro­
+mium-Nickel-Molybdenum Corrosion-Resistant, 
+Duplex (Austenitic/Ferritic) for General Application 
+A 915 / A 915M Specification for Steel Castings, Carbon, 
+and Alloy, Chemical Requirements Similar to Standard 
+Wrought Grades 
+A 941 Terminology Relating to Steel, Stainless Steel, 
+Related Alloys, and Ferroalloys 
+A 958 Specification for Steel Castings, Carbon and Alloy, 
+with Tensile Requirements, Chemical Requirements 
+Similar to Standard Wrought Grades 
+A 967 Specification for Chemical Passivation Treatments 
+for Stainless Steel Parts 
+A 991/A 991M Test Method for Conducting Temperature 
+Uniformity Surveys of Furnaces Used to Heat Treat 
+Steel Products 
+A 1002 Specification for Castings, Nickel-Aluminum 
+Ordered Alloy 
+E 94 Guide for Radiographic Examination 
+E 125 Reference Photographs for Magnetic Particle Indica­
+tions on Ferrous Castings 
+E 165 Test Method for Liquid Penetrant Examination 
+E 186 Reference Radiographs for Heavy-Walled (2 to 
+4½ in. [51 to 114 mm]) Steel Castings 
+E 280 Reference Radiographs for Heavy-Walled (4½ to 
+12 in. [114 to 305 mm]) Steel Castings 
+E 340 Test Method for Macroetching Metals and Alloys 
+E 353 Test Methods for Chemical Analysis of Stainless, 
+Heat-Resisting, Maraging, and Other Similar Chro­
+mium-Nickel-Iron Alloys 
+E 354 Test Methods for Chemical Analysis of High-Tem­
+perature, Electrical, Magnetic, and Other Similar Iron, 
+Nickel, and Cobalt Alloys 
+E 446 Reference Radiographs for Steel Castings Up to 2 in. 
+[51 mm] in Thickness 
+E 709 Guide for Magnetic Particle Examination 
+3. Terminology 
+3.1 Definitions: 
+3.1.1 The definitions in Test Methods and Definitions 
+A 370, Test Methods, Practices, and Terminology A 751, 
+and Terminology A 941 are applicable to this specification 
+and those listed in 1. 1. • 
+3.1.2 test coupon, n - the part from which the test 
+specimen will be extracted. 
+3.1.3 test specimen, n - the part that will be acted 
+upon in a test. 
+4. Materials and Manufacture 
+4.1 Melting Process - The steel shall be made by open­
+hearth or electric furnace process with or without separate 
+refining, such as argon-oxygen-decarburization (AOD), 
+unless otherwise specified in the individual specification. 
+4.2 Heat Treatment: 
+4.2.1 Castings shall be heat treated in the working 
+zone of a furnace that has been surveyed in accordance 
+with Test Method A 991 / A 991M. 
+4.2.2 When castings are heat treated at temperatures 
+above 2000°F [1100°C], then the working zone shall have 
+been established by a survey performed at not more than 
+25°F [15°C] below nor more than 200°F [l 10°C] above 
+the minimum heat treatment temperature specified for the 
+grade. If a minimum heat treatment temperature is not 
+specified for the grade, then the survey temperature shall 
+be not more than 50°F [30°C] below nor more than 175°F 
+[ 100°C] above the furnace set point used. 
+4.2.3 The maximum variation in measured tempera­
+ture as determined by the difference between the highest 
+temperature and the lowest temperature shall be as agreed 
+between the purchaser and producer except that during 
+production heat treatment, no portion of the furnace shall 
+be below the minimum specified temperature nor above 
+the maximum specified temperature for the grade being 
+processed. 
+5. Chemical Composition 
+5.1 Chemical Analysis - Chemical analysis of materi­
+als covered by this specification shall be in accordance 
+with Test Methods, Practices, and Terminology A 751. 
+5.2 Heat Analysis - An analysis of each heat shall be 
+made by the manufacturer to determine the percentages of 
+1253
+
+=== Page 1320 ===
+
+SA-781/SA-781M ASME BPVC.II.A-2025 
+the elements specified in the individual specification for 
+the grade being poured. The analysis shall be made from 
+a test sample preferably taken during the pouring of the 
+heat. When drillings are used, they shall be taken not less 
+than ¼ in. [6.4 mm] beneath the surface. The chemical 
+composition thus determined shall conform to the require­
+ments in the individual specification for the grade being 
+poured. 
+5.3 Product Analysis - A product analysis may be 
+made by the purchaser from material representing each 
+heat, lot, or casting. The analysis shall be made on represen­
+tative material. Samples for carbon analysis of carbon and 
+alloy steel shall be taken no closer than ¼ in. [6 mm] to 
+a cast surface, except that castings too thin for this shall 
+be analyzed on representative material. The chemical com­
+position thus determined shall meetthe requirements speci­
+fied in the applicable specification for the grade involved, 
+or shall be subject to rejection by the purchaser, except 
+that the chemical composition determined for carbon and 
+low alloy steel castings may vary from the specified limits 
+by the amounts shown in Table 1. The product analysis 
+tolerances of Table 1 are not applicable as acceptance 
+criteria for heat analysis by the casting manufacturer. When 
+comparing product and heat analysis for other than carbon 
+and low alloy steels, the reproducibility Data R 2 , in Test 
+Methods E 353 or E 354, as applicable, shall be taken into 
+consideration. 
+5.4 Unspecified Elements - When chemical analysis 
+for elements not specified for the grade ordered is desired, 
+Supplementary Requirement S13 may be specified. 
+5.4.1 Grade substitution, for stainless steel or nickel 
+base alloy castings, is not permitted. Grade substitution 
+occurs when the material supplied: 
+( 1) contains an element, other than nitrogen, that is not 
+specified in the ordered grade; and, 
+(2) the amount of that element equals or exceeds the 
+minimum requirement for the element in another grade for 
+which it is specified. 
+For this requirement, a grade is defined as an alloy 
+described individually in a table of chemical requirements 
+within any specification listed within the scope of 
+A 781/A 781M. 
+6. Mechanical Test Requirements 
+6.1 The individual product specifications vary as to 
+whether mechanical tests are required; for this reason, and 
+to determine specific test requirements, the individual prod­
+uct specification should be reviewed. 
+6.2 Unless otherwise specified by the purchaser, when 
+mechanical properties are required by the product specifi­
+cation, test coupons may be cast integrally with the cast­
+ings, or as separate blocks, in accordance with Fig. 1, 
+Fig. 2, or Fig. 3, except when Supplementary Requirement 
+S 15 is specified. The test coupon in Fig. 3 shall be 
+employed only for austenitic alloy castings with cross sec­
+tions less than 2½, in. [65 mm]. 
+7. Workmanship, Finish, and Appearance 
+7.1 All castings shall be made in a workmanlike manner 
+and shall conform to the dimensions on drawings furnished 
+by the purchaser before manufacture is started. If the pat­
+tern is supplied by the purchaser, the dimensions of the 
+casting shall be as predicated by the pattern. 
+8. Quality 
+8.1 The surface of the casting shall be free of adhering 
+sand, scale, cracks, and hot tears as determined by visual 
+examination. Other surface discontinuities shall meet the 
+visual acceptance standards specified in the order. Practice 
+A 802/ A 802M or other visual standards may be used to 
+define acceptable surface discontinuities and finish. Unac­
+ceptable visual surface discontinuities shall be removed 
+and their removal verified by visual examination of the 
+resultant cavities. 
+8.2 When additional inspection is desired, Supplemen­
+tary Requirements Sl, S2, S3, S4, or S5 may be specified. 
+8.3 Rejectable indications shall not be peened, plugged, 
+or impregnated. 
+9. Repair 
+9.1 Repair by welding shall be in accordance with the 
+requirements of the individual specification using proce­
+dures and welders qualified in accordance with Practice 
+A 488 / A 488M. 
+10. • Inspection 
+10.1 The manufacturer shall afford the purchaser's 
+inspector all reasonable facilities necessary to satisfy that 
+the material is being produced and furnished in accordance 
+with the applicable specification. Foundry inspection by 
+the purchaser shall not interfere unnecessarily with the 
+manufacturer's operations. All tests and inspections, with 
+the exception of product analysis (5.3), shall be made at 
+the place of manufacture unless otherwise agreed. 
+11. Rejection 
+11.1 Subsequent to acceptance at the manufacturer's 
+works, material that is found to be unacceptable as deter­
+mined by requirements specified in the order may be 
+rejected by the purchaser. The manufacturer should be 
+notified of such rejection. If the manufacturer is dissatisfied 
+with the results of any tests performed by the purchaser, 
+he may make claim for a rehearing. 
+12. Keywords 
+12.1 castings; common requirements; steel and alloy 
+1254
+
+=== Page 1321 ===
+
+ASME BPVC.II.A-2025 
+FIG. 1 TEST COUPONS FOR CASTINGS WITH DETAILS OF DESIGN 
+r- 37/ 8 in.+ 2T--J 
+T~ ~ 3 7 / 8 in.~ ~T 
+7 
+Optional 
+--;,~i~=-i i:2. 1. 
+..___ii in. min. 
+lJ 
+Alternate design 
+for bend bar 
+1• L+2T-J 
+~t--r r-11---
+------------ DOptional 
+2 in. min . 
+n--------i_i_i 
+SA-781/SA-781M 
+GENERAL NOTE: Radius of casting coupon interface at option of foundry. 
+in. 
+[mmJ 
+1. L (length) 
+2. End Taper 
+3. Height 
+½& 
+[4.8] 
+4. Width (at top) 
+5. Radius (at 
+bottom) 
+6. Spacing between 
+legs 
+7. Location of test 
+specimens 
+8. Number of legs 
+9. Rs 
+Metric Equivalents 
+½ 
+[13] 
+Leg Design [125 mm] 
+1¾ 
+[45] 
+A 5 in. [125 mm] minimum length will be 
+used. This length may be increased at the 
+option of the foundry to accommodate addi­
+tional test specimens (see Note ll. 
+Use of and size of end taper is at the option 
+of the foundry. 
+1 ¼ in. [32 mm] 
+1 ¼ in. [32 mm] (see Note 1). 
+½ in. [13 mmJ, max 
+A ½ in. [13 mm] radius will be used between 
+the legs. 
+The tensile, bend, and impact specimens will 
+be taken from the lower portion of the leg 
+(see Note 2). 
+The number of legs is at the option of the foundry 
+providing they are equi-spaced according to 
+item 6. 
+Radius from O to approximately 11\_ 6 in. 
+[2 mmJ. • 
+2 
+[51] 
+i¼ 
+[57] 
+1. L (length) 
+2. Width 
+3. T (riser taper) 
+height 
+5 
+[127] 
+Riser Design 
+83/a 
+[213] 
+The length of the riser at the base will be the 
+same as the top length of the leg. The 
+length of the riser at the top therefore 
+depends on the amount of taper added to 
+the riser. 
+The width of the riser at the base of a multi­
+ple-leg coupon shall be n <2¼> [57 mm] -
+% [16 mmJ where n equals the number of 
+legs attached to the coupon. The width of 
+the riser at the top is therefore dependent 
+on the amount of taper added to the riser. 
+Use of and size is at the option of the foundry. 
+The minimum height of the riser shall be 2 in. 
+[51 mm]. The maximum height is at the 
+option of the foundry for the following rea­
+sons: (al many risers are cast open. (bl differ­
+ent compositions may require variation in 
+risering for soundness. (cl different pouring 
+temperatures may require variation in ris­
+ering for soundness. 
+NoTE 1 - Test Coupons for Large and Heavy Steel Castings: The test coupons in Fig. 1 are to be used for large and heavy steel castings. 
+However, at the option of the foundry the cross-sectional area and length of the standard coupon may be increased as desired. 
+NOTE 2 - Bend Specimen: If a bend specimen is required, an alternate design (as shown by dotted lines in Fig. 1) is indicated. 
+1255
+
+=== Page 1322 ===
+
+SA-781/SA-781M ASME BPVC.II.A-2025 
+FIG. 2 TEST COUPON FOR TENSION TEST 
+I 11/ 2 in. I 
+r 
+5 in. 11 
+ell 
+--!i17 
+~II 
+fll 3 • 'SIi m. 
+c::ll_l 
+41/ 16 in. 
+·;,11 
+.:::-11 
+□ 11/,sin. 
+diameter ___ ___, -t 
+Metric Equivalents 
+in. (mm) in. (mm) 
+1/a (3.2) 31/2 (88.9) 
+1/2 (12.7) 4 (101.6) 
+11/15 (27.0) 41/15 (103.2) 
+1112 (38.1) 5 (127.0) 
+3 (76.2) 11 (279.4) 
+~ L 
+1 1 / 16 in. 
+diameter 
+GENERAL NOTE: Pour through head; cover molten head with powdered charcoal, coke dust, etc., 
+immediately after pouring, in order to keep head fluid as long as possible. 
+1256
+
+=== Page 1323 ===
+
+ASME BPVC.II.A-2025 
+FIG. 3 CAST-TO-SHAPE TEST COUPON FOR TENSION SPECIMEN 
+NOTE: (2) or more 
+bars may be attached 
+to down sprue. 
+3/ain.R 
+0.230 in. 
+min. 
+12 in. 
+SA-781/SA-781M 
+3 in. 
+* 
+8 in. 
+~ 
+l, in. 
+GENERAL NOTE: Coupons produced in this manner are suitable for austenitic alloys only. 
+The mold may be preheated for pouring to produce a sound coupon. 
+1257
+
+=== Page 1324 ===
+
+SA-781/SA-781M ASME BPVC.II.A-2025 
+TABLE 1 
+PRODUCT ANALYSIS TOLERANCES 
+Tolerancesa,c Over Maximum or 
+Element Range, %A Under Minimum Limit, % 
+C up to 0.65 0.03 X % CL + 0.02 
+above 0.65 0.04 
+Mn up to 1 0.08 X % MnL + 0.01 
+above 1 0.09 
+Si up to 0.60 0.22 X % SiL - 0.01 
+above 0.60 0.15 
+p all 0.13 X % PL+ 0.005 
+s all 0.36 X % SL+ 0.001 
+Ni up to 2 0.10 X % NiL + 0.03 
+above 2 0.25 
+Cr up to 2 0.07 x % CrL + 0.04 
+above 2 0.18 
+Mo up to 0.6 0.04 X % MoL + 0.03 
+above 0.6 0.06 
+V up to 0.25 0.23 X % VL + 0.004 
+above 0.25 0.06 
+w up to 0.10 0.08 X % WL + 0.02 
+above 0.10 0.02 
+Cu up to 0.15 0.18 x % CuL + 0.02 
+above 0.15 0.05 
+Al up to 0.10 0.08 X % AIL+ 0.02 
+above 0.10 0.03 
+A The range denotes the composition limits up to which tolerances are computed by the equation, and 
+above which the tolerances are given by a constant. 
+8 The subscript L for the elements in each equation indicates that the limits of the element specified by 
+the applicable specification are to be inserted into the equation to calculate the tolerance for the upper 
+limit and the lower limit (if applicable), respectively. Examples of computing tolerances are presented in 
+footnote C. 
+c To illustrate the computation of the tolerance, consider the manganese maximum of 0.70 for an 0.30 
+carbon grade 65-35 in Specification A 27/A 27M. The maximum permissible deviation is (0.08 x 0.70 + 
+0.01) = 0.066 .. Therefore, the highest acceptable product analysis is 0.766. Similarly, for a 0.20 carbon 
+grade 70-40 in· Specification A 27/A 27M, the maximum manganese content is 1.40; thus, the highest 
+acceptable product analysis is (1.40 + 0.09) = 1.49. 
+1258
+
+=== Page 1325 ===
+
+ASME BPVC.II.A-2025 SA-781/SA-781M 
+SUPPLEMENTARY REQUIREMENTS 
+Supplementary requirements shall be applied only when specified by the purchaser. Details 
+of the supplementary requirements shall be agreed upon by the manufacturer and purchaser. 
+The specified tests shall be performed by the manufacturer prior to shipment of the castings. 
+S1. Magnetic Particle Examination 
+S1.1 Castings shall be examined for surface and near 
+surface discontinuities by magnetic particle examination. 
+The examination shall be in accordance with Guide E 709. 
+Extent of examination and the basis for acceptance shall 
+be agreed upon between the manufacturer and purchaser. 
+S2. Radiographic Examination 
+S2.1 Castings shall be examined for internal defects 
+by means of X rays or gamma rays. The procedure shall 
+be in accordance with Guide E 94, and types and degrees 
+of discontinuities considered shall be judged by Reference 
+Radio graphs E 446, E 186, or E 280. Extent of examination 
+and basis for acceptance shall be agreed upon between the 
+manufacturer and purchaser. 
+S3. Liquid Penetrant Examination 
+S3.1 Castings shall be examined for surface discontinu­
+ities by means of liquid penetrant examination. The exami­
+nation shall be in accordance with Test Method E 165. 
+Areas to be inspected, methods and types of liquid pene­
+trants to be used, developing procedure, and basis for 
+acceptance shall be agreed upon between the manufacturer 
+and purchaser. 
+S4. Ultrasonic Examination 
+S4.1 Castings shall be examined for internal defects 
+by means of ultrasonic examination. The examination pro­
+cedure shall be in accordance with Practice 
+A 609 I A 609M. Extent of examination, methods of testing, 
+and basis for acceptance shall be agreed upon between the 
+manufacturer and purchaser. 
+S5. Examination of Weld Preparation 
+S5.1 Magnetic particle or liquid penetrant examination 
+of cavities prepared for welding shall be performed to 
+verify removal of those discontinuities found unacceptable 
+by the examination method specified for the casting. Unless 
+other degrees of shrinkage or types of discontinuities found 
+in the cavities are specified, Type II, Internal Shrinkage, 
+of Reference Photographs E 125, of Degree 2 in sections 
+up to 2 in. [50.8 mm] thick and of Degree 3 in sections 
+over 2 in. thick shall be acceptable. 
+S6. Certification 
+S6.1 The manufacturer's certification shall be furnished 
+to the purchaser stating that the material was manufactured, 
+sampled, tested, and inspected in accordance with the mate­
+rial specification (including year date) and was found to 
+meet the requirements. 
+S6.2 A manufacturer's certification printed from or 
+used in electronic form from an electronic data interchange 
+(EDI) transmission shall be regarded as having the same 
+validity as a counterpart printed in the certifier's facility 
+provided it conforms to any existing EDI agreement 
+between the purchaser and the supplier. 
+S7. Prior Approval of Major Weld Repairs 
+S7.1 Major weld repairs as defined and agreed upon 
+between the manufacturer and purchaser shall be subject 
+to the prior approval of the purchaser. 
+S8. Marking 
+S8.1 The manufacturer's name or identification mark 
+and the pattern number shall be cast or stamped on all 
+castings. When further specified, the heat numbers or serial 
+numbers shall be marked on individual castings. 
+S9. Charpy Impact Test 
+S9.1 Charpy impact test properties shall be determined 
+by testing a set of three Charpy V-notch specimens made 
+from each heat at a test temperature agreed upon by the 
+manufacturer and purchaser. The material from which the 
+test specimens are prepared shall be cast in accordance with 
+6.2. The acceptance requirements shall be either energy 
+absorbed, lateral expansion, or percent shear area, or all 
+three, and shall be that agreed upon between the manufac­
+turer and purchaser. Test specimens shall be prepared as 
+Type A and tested in accordance with Test Methods and 
+Definitions A 370. 
+S9.2 Absorbed Energy-Average energy value of three 
+specimens shall be not less than specified, with not more 
+1259
+
+=== Page 1326 ===
+
+SA•781/SA-781M ASME BPVC.II.A-2025 
+S19. Cleaning of Stainless Steels 
+S19.l Final cleaning of the casting surfaces shall be 
+performed in accordance with one of the cleaning methods 
+in Practice A 380 or Specification A 967 as agreed upon 
+between the purchaser and the supplier. Acceptance testing 
+shall be subject to agreement between the purchaser and 
+supplier. 
+1262
+
+=== Page 1327 ===
+
+Tensile 
+specimen 
+ASME BPVC.II.A-2025 
+FIG. Sl5.l SPECIMEN FROM CASTING 
+Thickness added 
+due to taper 
+' 
+Gage 
+length 
+T 
+"Cl 
+(I) 
+"Cl 
+"Cl 
+"' 
+SA-781/SA-781M 
+1_------------. 
+T "T"~ II:: ..- Thickness added due to taper 'I' 
+~-++'7",i,t,...,_"'7'1+-~ Height= T + N + D + l/Viot 1_ : 
+• "T" min. I 
+~ 1 h "T" ~in . .J'-+-~-➔-L-,-h--+"-T'-' m-in _______ _. 
+Minimum length of the base-Specimen gage length+ 2xT + 2x the 
+thickness due to the taper. 
+Minimum width of the base-T + 2x the thickness added due to the taper. 
+Minimum height-T + Nx D+ Wtot 
+The taper is to be selected by the producer for ease of drawing the 
+pattern from the mold. 
+where: 
+N = number of specimens to be cut from one side of the coupon, 
+D = diameter of the specimens, and 
+(bl Cylinder 
+Wiot = the total width of metal required to remove the coupon from the casting, 
+and to machine specimens from the coupon. 
+GENERAL NOTE: Longitudinal axis and gage length of test specimen must be within shaded zone. 
+1263
+
+=== Page 1328 ===
+
+SA-781/SA-781M ASME BPVC.II.A-2025 
+FIG. Sl7.l REFERENCE PHOTOGRAPHS OF MACROETCHED CAST STEEL 
+1 3 4 
+6 7 8 
+GENERAL NOTE: The ten levels of severity of intergranular network structures shown are indicative of the presence of aluminum nitride 
+precipitation in the primary austenitic grain boundaries. 
+1266
+
+=== Page 1329 ===
+
+ASME BPVC.II.A-2025 SA-781/SA-781M 
+APPENDIXES 
+(Nonmandatory Information) 
+Xl. ALLOY DESIGNATIONS FOR CAST 
+STAINLESS STEELS 
+Xl.1 Cast stainless steels are usually specified on the 
+basis of composition using the alloy designation system 
+established by the Alloy Casting Institute (ACI). The ACI 
+designations, for example, CF8M, have been adopted by 
+ASTM and are preferred for cast alloys over the designa­
+tions used by the American Iron and Steel Institute for 
+similar wrought steels. 
+Xl.2 This nomenclature system has served successfully 
+to accommodate changes in old alloys and to designate 
+new ones. 
+X X 00 X X X 
+Service Classification T 
+Letter _________ __,_ 
+Ternary Diagram Location 
+Letter _________ _. 
+Carbon Content Number------~ 
+Special Elements Letter III 
+Xl.2.1 Service Classification Letter - The first letter 
+of the cast stainless steel designation system identifies the 
+intended service application of the alloy. The letter Cindi­
+cates corrosion-resistant service, and the letter H indicates 
+the heat-resistant service at and above 1200°F [649°C]. 
+Xl.2.2 Ternary Diagram Location Letter- The second 
+letter indicates the approximate location of the nickel and 
+chromium contents of the alloy grade on the FeCrNi ternary 
+diagram shown in Fig. Xl.1. 
+Xl.2.3 Carbon Content Number- For C service classi­
+fications, this single or dual digit numeral represents the 
+maximum carbon content in units of 0.01 %. For H service 
+classifications, this number represents the midpoint of the 
+range of carbon content in terms of 0.01 % with a 
+±0.05% limit. 
+Xl.2.4 Special Elements Letter-Additional letters fol­
+lowing the numeral represent special chemical elements in 
+the alloy grade, such as M for molybdenum, C for colum­
+bium, Cu for copper, W for tungsten. There are two excep­
+tions; the letter A indicates Controlled Ferrite, and the 
+letter F indicates Free Machining. 
+Xl.3 In Fig. Xl.1, unlettered Ni-Cr ranges are associ­
+ated with the nearest lettered location. They may be the 
+result of differences between corrosion and heat-resistant 
+types, or because of the influence of additional elements, 
+for example, the precipitation hardening grade CB- 7Cu-1 
+and CB-7Cu-2. 
+X2. WROUGHT ALLOYS SIMILAR TO 
+CASTING ALLOYS IN SPECIFICATIONS 
+A 494/A 494M, A 743/A 743M, A 744/A 744M, 
+A 747/A 747M, AND A 890/A 890M 
+X2.1 Table X2.1 is provided for the user of the above 
+listed specifications as an aid in selecting cast alloys that 
+are similar in chemical composition to wrought alloys. It 
+is not intended to imply that the cast alloy would have the 
+same mechanical, physical or corrosion properties as the 
+indicated wrought alloy. 
+X3. ADDITION OF NEW GRADES TO 
+PRODUCT SPECIFICATIONS COVERED BY 
+A 781/A 781M 
+X3.1 Information required for the inclusion of new 
+material grades in product specifications covered by 
+A 781/A 781M: 
+I. At least one user should support the request. 
+2. A set of data from ten production heats, this data 
+should include: 
+X3.1.1 Chemical composition. 
+X3.1.2 Mechanical properties as applicable to the 
+product specification being cited. These may include but 
+are not limited to the following: 
+X3.1.2.1 Ultimate tensile strength, 
+X3.1.2.2 Yield strength, 
+X3.1.2.3 Reduction in area, 
+X3.1.2.4 Elongation, and 
+X3.1.2.5 Impact properties (Charpy V). 
+X3.2 The test coupon size from which the test pieces 
+are removed should be stated for each test. 
+X3.2.1 Heat treatment requirements. 
+X3.2.2 Weld procedure ( welding should be carried 
+out using commercially available consumables). 
+1267
+
+=== Page 1330 ===
+
+SA-781/SA-781M ASME BPVC.II.A-2025 
+FIG. Xl.l LETTERS ASSIGNED TO CHROMIUM AND NICKEL RANGES IN ACI DESIGNATION SYSTEM 
+Location of ACI Alloy Types 
+FE O 0 10 20 30 40 50 
+Percent Nickel 
+GENERAL NOTES: 
+60 70 80 90 100 
+{a) The approximate areas of microstructures to be expected at room temperature are indicated as follows: 
+I - Martensite 
+II - Martensite and untransformed austenite 
+Ill - Ferrite plus martensite and untransformed austenite 
+IV - Ferrite 
+V - Ferrite plus austenite 
+VI - Ferrite plus austenite plus sigma 
+VII - Austenite 
+{b) Carbides also may be present depending on carbon content and thermal history. 
+1268
+
+=== Page 1331 ===
+
+ASME BPVC.II.A-2025 SA-781/SA-781M 
+,,,,---- TABLE X2.l 
+SIMILAR ALLOYS 
+Similar 
+Casting Grade UNS Wrought UNS 
+Nominal Composition ASTM Casting Specification Designation Number Alloy Number 
+11Cr-7Ni A 743/A 743M CA6N J91650 
+13Cr-4Ni A 743/A 743M CA6NM J91540 F-6NMA S41500 
+13Cr A 743/A 743M CA15 J91150 410 8 S41000 
+13Cr A 743/A 743M CA40 J91151 
+12Cr-Mo-V-W A 743/A 743M CA28MWV J91422 422 8 S42200 
+13Cr-Mo A 743/A 743M CA15M J91153 420 8 S42000 
+13Cr-S A 743/A 743M CA40F J91154 420F 8 S42020 
+19Cr-1Ni A 743/A 743M CB30 J91803 442 8 S44200 
+16Cr-4N i-4Cu A 747/A 747M CB7Cu-l J92180 17.4C Sl7400 
+15Cr-5Ni-3Cu A 747/A 747M CB7Cu-2 J92110 15-Sc Sl5500 
+27Cr A 743/A 743M CC50 J92615 446 8 S44600 
+25Cr-5Ni-3Cu-2Mo A 890/A 890M lA & CD4MCu J93370 255C S32550 
+25Cr-5N i-3Cu-2Mo-N A 890/A 890M lB & CD4MCuN J93372 255C S32550 
+25Cr-6N i-2Cu-3Mo-N A 890/A 890M lC & CD3MCuN J93373 255C S32550 
+24Cr-10Ni-3Mo-N A 890/A 890M 2A & CE8MN J93345 
+25Cr-5Ni-2Mo-N A 890/A 890M 3A & CD6MN J93371 
+22Cr-5Ni-3Mo-N A 890/A 890M 4A & CD3MN J92205 2205c S39205 
+25Cr-7Ni-4Mo-N A 890/A 890M SA & CE3MN J93404 
+25Cr-7Ni-Mo-N A 890/A 890M 6A & CD3MCuWN J93380 Zeran 100° S32760 
+28Cr-9Ni A 743/A 743M CE30 J93423 
+18Cr-8Ni A 743/A 743M, A 744/A 744M CF3 J92500 304L 8 S30403 
+16Cr-12Ni-2Mo A 743/A 743M, A 744/A 744M CF3M J92800 316L 8 S31603 
+16Cr-12Ni-2Mo-N A 743/A 743M CF3MN J92804 316LN 8 S31653 
+18Cr-8Ni A 743/A 743M, A 744/A 744M CFS J92600 304 8 S30400 
+18Cr-10Ni-Cb A 743/A 743M, A 744/A 744M CF8C J92710 347 8 S34700 
+16Cr-12Ni-2Mo A 743/A 743M, A 744/A 744M CF8M J92900 316 8 S31600 
+18Cr-8 N i-4S i-N A 743/A 743M CFlOSMnN J92972 NitronicE 60 S21800 
+18Cr-8Ni-S A 743/A 743M CF16F J92701 303Se 8 S30300 
+18Cr-8Ni A 743/A 743M CF20 J92602 302 8 S30200 
+22Cr-13Ni-5Mn A 743/A 743M CG6MMN J93790 N itronicE 50 S20910 
+18Cr-13Ni-3Mo A 743/A 743M, A 744/A 744M CG8M J93000 317 8 S31700 
+21Cr-11Ni A 743/A 743M CG12 J93001 308 8 S30800 
+23Cr-12Ni A 743/A 743M CH20 J93402 309 8 S30900 
+20Cr-18N i-6 Mo-Cu-N A 743/A 743M, A 744/A 744M CIOMCuN J93254 254 SMOF S31254 
+25Cr-20Ni A 743/A 743M Cl<20 J94202 310 8 S31000 
+24Ni-21Cr-6Mo-N A 743/A 743M, A 744/A 744M CN3MN J94651 AL-6XNG N08367 
+29N i-20Cr-3Cu-2 Mo A 743/A 743M, A 744/A 744M CN7M N08007 Alloy 20c N08020 
+24N i-l 9Cr-3Mo-2Cu A 743/A 743M, A 744/A 744M CN7MS J94650 
+41N i-22Cr-3Mo-Fe A 494/A 494M CU5MCuC N08826 825 N28820 
+61Ni-16Mo-16Cr A 494/A 494M CW2M N26455 C4C N06455 
+59Ni-18Mo-18Cr A 494/A 494M CW6M N30107 
+60N i-22Cr-9Mo-3.5Cb A 494/A 494M CW6MC N26625 625c N06625 
+55Ni-l 7Mo-16Cr-4W A 494/A 494M CW12MW N30002 cc Nl0002 
+57Ni-13Mo-21Cr A 494/A 494M CX2MW N26022 C22H N06022 
+--- 74Ni-12Cr-4Bi-4Sn A 494/A 494M CY5SnBiM N26055 
+72 N i-15Cr-8Fe A 494/A 494M CY40 N06040 600c N06600 
+95Ni A 494/A 494M CZlOO N02100 200c N02200 
+63Ni-29Cu-4Si A 494/A 494M M25S N24025 
+63N i-29Cu-2Cb A 494/A 494M M30C N24130 
+63 N i-29Cu-Si A 494/A 494M M30H N24030 
+67Ni-30Cu A 494/A 494M M-35-1 N24135 400c N04400 
+67Ni-30Cu A 494/A 494M M-35-2 N04020 400c N04400 
+65Ni-28Mo-2Fe A 494/A 494M N7M N30007 B2c Nl0665 
+62Ni-28Mo-5Fe A 494/A 494M Nl2MV N30012 Bc NlOOOl 
+A ASTM designation. 
+8 Common description, formerly used by AISI. 
+c Common name used by two or more producers; not a trademark. 
+D Proprietary trademark: WEIR Materials. 
+E Proprietary trademark: Al< Steel Corporation. 
+F Proprietary trademark: Avesta Sheffield AB. 
+\ G Proprietary trademark: Allegheny Ludlum Corporation. 
+~ H Proprietary trademark: Haynes International. 
+1269
+
+Resolved Notes (AI-verified)
+NOTE 1 (page 1305)
+NoTE 1-All of the chemical analysis procedures referenced in these 
+test methods include precision statements with reproducibility data, with 
+the exception of Test Methods E50. 
+3.2.2 product analysis tolerances, n-a permissible varia­
+tion over the maximum limit or under the minimum limit of a 
+specified element and applicable only to product analyses, not 
+cast or heat analyses (Note 2).
+
+NOTE 1 (page 1312)
+NoTE 1-The term "plate-as-rolled" refers to the unit plate rolled from 
+a slab or directly from an ingot. It does not refer to the condition of the 
+plate. 
+4.2 Location of Test Coupons-Take one test coupon at each 
+end of each plate as defined in 4.1. Take the test coupons from 
+the center of the plate width. 
+4.3 Orientation of Test Specimens-The longitudinal axis of 
+the reduced section of the test specimens shall be perpendicular 
+to the rolled surface of the plate. 
+4.4 Preparation of Test Specimens: 
+4.4.1 Welded Prolongations-When required, join welded 
+prolongations to the surface(s) of the plate being tested. The 
+joining method used shall be one which results in a minimal 
+heat-affected zone in the portion of the plate to be tested. 
+Shielded metal arc, friction, stud, or electron-beam welding 
+methods have proven to be suitable. 
+4.4.2 Standard Test Specimens: 
+4.4.2.1 Three types of standard round tension test specimens 
+are shown in Fig. 1 and Table 1. For Types 1 and 2 specimens, 
+locate the center of the length of the reduced section at the 
+approximate mid-point of the plate thickness. For Type 3 
+specimens, locate the weld fusion line of one plate surface 
+within ¼ in. [6 mm] of one end of the reduced section. 
+4.4.2.2 For plates from 1 in. [25 mm] to 1 ¼ in. [32 mm] 
+inclusive in thickness, use either the 0.350-in. [8.75-mm] Type 
+1 specimen or the 0.500-in. [12.5-mm] Type 2 specimen. 
+1246
+
+NOTE 1 (page 1313)
+NoTE 1-For Type 3 only one welded prolongation may be needed, 
+depending upon plate thickness. 
+FIG. 1 Standard Round Tension Test Specimens 
+TABLE 1 Schedule of Standard Test Specimens, Inches 
+[MillimetresJA 
+Plate thickness (~ 
+Diameter (D) 
+Radius, minimum (R) 
+Length of reduced section (A) 
+1 ,st ,s 1¼ 
+0.350 [8.75] 
+¼[6] 
+1¾[45] 
+Specimen Type 
+2 
+1 < t::S 2 
+0.500 [12.5] 
+%[10] 
+2¼[60] 
+3 
+2<t 
+Q.500 [12.5] 
+% [10] 
+2¼ [60] 
+A See Test Methods and Definitions A370 (Fig. 5 for further details and Fig. 6 for 
+various types of ends). 
+4.4.2.3 For plates over 1 ¼ in. to 2 in. [50 mm] inclusive in 
+thickness, use the 0.500-in. [12.5-mm] Type 2 specimen. 
+4.4.2.4 For plates greater than 2 in. [50 nun] in thickness, 
+use the Type 3 specimen. 
+4.4.3 Alternative Test Specimens-The alternative test 
+specimens in Fig. 2 and Table 2 may be used in place of the 
+standard specimens in Fig. 1 and Table 1. 
+4.4.3.1 For plates over 2 in. [50 mm] in thickness, Type A or 
+Type B specimens may be used. The Type A specimen provides 
+a reduced section length greater than the plate thickness. The 
+Type B specimen provides a reduced section length of 2¼ in. 
+[57 mm] with its center at the mid-thickness of the plate. Over 
+a minimum plate thickness determined by the specimen end 
+configuration, no welded prolongations may be needed for the 
+Type B specimen. For plates over 4¼ in. [108 mm] in 
+thickness, the Type C specimen may be used. For plates over 6 
+in. [150 mm] in thickness, a series of two or more Type A or 
+Type C specimens with reduced sections of 4 in. [100 mm] or 
+less may be used to cover the full thickness of the plate. The 
+number of tests required will depend upon the thickness of the 
+plate being tested and the reduced section length selected. 
+TYPES 
+D. E. & F 
+FIG. 2 Alternative Tension Test Specimens 
+TYPE. 
+A 
+4.4.3.2 For plates over 1 in. [25 mm] in thickness, a series 
+of button-head specimens shown in Fig. 2 and Table 2 may be 
+used. The test specimen type to be used, Type D, Type E, or 
+Type F, is determined by the nominal plate thickness as 
+described in Table 2. A series of two or more Type F specimens 
+may be used to cover the full thickness of the plate. The length 
+of the reduced section (A), as shown in Fig. 2 and specified in 
+Table 2, is the length of the reduced section excluding the 
+machined radius (R). Within the plate thickness dimension 
+specified for each test specimen type, either the button-head 
+thickness, the reduced section length, or the machined radius 
+may be varied. In all cases, the minimum length of the reduced 
+section must be as specified in Table 2 to maintain a minimum 
+length to diameter ratio (see Appendix X2.2). 
+5. Acceptance Standards 
+5.1 Each tension test shall have a minimum reduction of 
+area no less than 20 %. If the reduction of area of both tests is 
+less than 20 %, no retest shall be permitted. If the reduction of 
+area of one of the two tests from a plate is less than 20 %, one 
+retest of two additional specimens taken from a location 
+adjacent to the specimen that failed may be made, and both of 
+these additional specimens shall have a reduction of area of 
+20 % or more. 
+1247
+
+NOTE 2 (page 1305)
+NoTE 2-The term "analysis tolerance" is often misunderstood. It does 
+not apply to cast or heat analyses determined to show conformance to 
+specified chemical limits. It applies only to product analysis and becomes 
+meaningful only when the heat analysis of an element falls close to one of 
+the specified limits. For example, stainless steel UNS 30400 limits for 
+chromium are 18.00 to 20.00 %. A heat that the producer reported as 
+18.01 % chromium may be found to show 17.80 % chromium by a user 
+performing a product analysis. If the product analysis tolerance for such a 
+chromium level is 0.20 %, the product analysis of 17.80 % chromium 
+would be acceptable. A product analysis of 17.79 % would not be 
+acceptable. 
+3.2.3 proprietary analytical method, n-a non-standard ana­
+lytical method, not published by ASTM, utilizing reference 
+standards traceable to the National Institute of Standards and 
+Technology (NIST), when available, or other sources refer­
+enced in Section 10. 
+3.2.4 referee analysis, n-performed using ASTM test 
+methods listed in 9.1.1, NIST reference standards or methods, 
+and reference standards agreed upon between parties. 
+3.2.4.1 Discussion-The selection of a laboratory to per­
+form the referee analysis shall be a matter of agreement 
+between the supplier and the purchaser. 
+3.2.5 certified reference material, n-a specimen of material 
+specially prepared, analyzed, and certified for chemical content 
+under the jurisdiction of a recognized standardizing agency or 
+group, such as the NIST, for use by analytical laboratories as an 
+accurate basis for comparison. 
+3.2.5.1 Discussion-Reference samples should bear suffi­
+cient resemblance to the material to be analyzed so that no 
+significant differences are required in procedures or corrections 
+(for example, for interferences or inter-element effects). 
+3.2.6 working reference materials, n-reference materials 
+used for routine analytical control and traceable to NIST 
+standards and other recognized standards when appropriate 
+standards are available. 
+1235

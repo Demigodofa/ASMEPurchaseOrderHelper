@@ -1,0 +1,99 @@
+SA-106/SA-106M ASME BPVC.II.A-2025 
+TABLE 2 Tensile Requirements 
+Tensile strength, min, psi [MPa) 
+Yield strength, min, psi [MPa] 
+Grade A 
+48 000 [330) 
+30 000 [205) 
+Grade B 
+60 000 [415) 
+35 000 [240] 
+Grade C 
+70 000 [485) 
+40 000 [275) 
+Longitu- Transverse Longitu- Transverse Longitu- Transverse 
+dinal dinal dinal 
+Elongation in 2 in. [50 mm], min, %: 
+Basic minimum elongation transverse strip tests, and for all small 35 25 30 16.5 30 16.5 
+sizes tested in full section 
+When standard round 2-in. [50-mm] gauge length test specimen is 28 20 22 12 20 12 
+used 
+For longitudinal strip tests A A A 
+For transverse strip tests, a deduction for each 1/a2-in. [0.8-mm) 1.25 1.00 1.00 
+decrease in wall thickness below o/is in. [7.9 mm] from the basic 
+minimum elongation of the following percentage shall be made 
+A The minimum elongation in 2 in. [50 mm) shall be determined by the following equation: 
+e = 625000A 0 •2 / U 0 ·• 
+for inch-pound units, and 
+e = 1 940A 0 •2 / U 0 ·• 
+for SI units, 
+where: 
+e minimum elongation in 2 in. [50 mm], %, rounded to the nearest 0.5 %, 
+A cross-sectional area of the tension test specimen, in. 2 [mm 2 ], based upon specified outside diameter or nominal specimen width and specified wall thickness, 
+rounded to the nearest 0.01 in. 2 [1 mm 2 ). (II the area thus calculated is equal to or greater than 0.75 in.2 [500 mm"], then the value 0.75 in.2 [500 mm 2 ] 
+shall be used.), and 
+U specified tensile strength, psi [MPa]. 
+without developing cracks. When ordered for close coiling, the 
+pipe shall stand being bent cold through 180° around a 
+cylindrical mandrel, the diameter of which is eight times the 
+outside diameter (as shown in ASME B 36.lOM) of the pipe, 
+without failure. 
+11.2 For pipe whose diameter exceeds 25 in. [635 mm] and 
+whose diameter to wall thickness ratio, where the diameter to 
+wall thickness ratio is the specified outside diameter divided by 
+the nominal wall thickness, is 7 .0 or less, the bend test shall be 
+conducted. The bend test specimens shall be bent at room 
+temperature through 180° with the inside diameter of the bend 
+being 1 in. [25 mm] without cracking on the outside portion of 
+the bent portion. 
+Example: For 28 in. [711 mm] diameter 5.000 in. [127 mm] 
+thick pipe the diameter to wall thickness ratio = 28/5 = 5.6 
+[711/127 = 5.6]. 
+12. Flattening Tests 
+12.1 Although testing is not required, pipe shall be capable 
+of meeting the flattening test requirements of Supplementary 
+Requirement S3, if tested. 
+13. Hydrostatic Test 
+13.1 Except as allowed by 13.2, 13.3, and 13.4, each length 
+of pipe shall be subjected to the hydrostatic test without 
+leakage through the pipe wall. 
+13.2 As an alternative to the hydrostatic test at the option of 
+the manufacturer or where specified in the purchase order, it 
+shall be permissible for the full body of each pipe to be tested 
+with a nondestructive electric test described in Section 14. 
+13.3 Where specified in the purchase order, it shall be 
+permissible for pipe to be furnished without the hydrostatic test 
+and without the nondestructive electric test in Section 14; in 
+172 
+this case, each length so furnished shall include the mandatory 
+marking of the letters "NH." It shall be permissible for pipe 
+meeting the requirements of 13.1 or 13.2 to be furnished where 
+pipe without either the hydrostatic or nondestructive electric 
+test has been specified in the purchase order; in this case, such 
+pipe need not be marked with the letters "NH." Pipe that has 
+failed either the hydrostatic test of 13.1 or the nondestructive 
+electric test of 13.2 shall not be furnished as "NH" pipe. 
+13.4 Where the hydrostatic test and the nondestructive 
+electric test are omitted and the lengths marked with the letters 
+"NH," the certification, where required, shall clearly state "Not 
+Hydrostatically Tested," and the letters "NH" shall be ap­
+pended to the product specification number and material grade 
+shown on the certification. 
+14. Nondestructive Electric Test 
+14.1 As an alternative to the hydrostatic test at the option of 
+the manufacturer or where specified in the purchase order as an 
+alternative or addition to the hydrostatic test, the full body of 
+each pipe shall be tested with a nondestructive electric test in 
+accordance with Practice E213, E309, or E570. In such cases, 
+the marking of each length of pipe so furnished shall include 
+the letters "NOE." It is the intent of this nondestructive electric 
+test to reject pipe with imperfections that produce test signals 
+equal to or greater than that produced by the applicable 
+calibration standard. 
+14.2 Where the nondestructive electric test is performed, the 
+lengths shall be marked with the letters "NOE." The 
+certification, where required, shall state "Nondestructive Elec­
+tric Tested" and shall indicate which of the tests was applied. 
+Also, the letters "NDE" shall be appended to the product 
+specification number and material grade shown on the certifi­
+cation. 

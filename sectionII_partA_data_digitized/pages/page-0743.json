@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 743,
+  "globalPageIndex": 743,
+  "width": 602.64,
+  "height": 846.48,
+  "text": "ASME BPVC.11.A-202S SA-414/SA-414M \nSPECIFICATION FOR STEEL, SHEET, CARBON, AND \nHIGH-STRENGTH, LOW-ALLOY FOR PRESSURE \nVESSELS \nSA-414 /SA-414M cO \nINTERNATIONAL \nStandards Worldwide \n(Identical with ASTM Specification A414/A414M-14(2019).) \n693 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-0743.txt",
+  "ocrTextLength": 216,
+  "ocrApplied": true,
+  "bestTextPath": "best_text\\pages\\page-0743.txt",
+  "bestTextSource": "full_ocr_highdpi",
+  "bestTextLength": 233,
+  "bestTextAlphaRatio": 0.652
+}

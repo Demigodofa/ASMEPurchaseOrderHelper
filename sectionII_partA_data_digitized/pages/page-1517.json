@@ -1,0 +1,23 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 719,
+  "globalPageIndex": 1517,
+  "width": 618.6,
+  "height": 796.8,
+  "text": ".~-. \nASME BPVC.II.A-2025 SA-988/SA-988M \nTABLE 3 Tensile and Hardness Requirements \nUNS Tensile Strength, min, ksi Yield Strength, min, ksi Elongation in 2 in. Reduction of Brinell \n[50 mm] or 40, Area, Hardness Designation [MPa] [MPajA min,% min,% Number \nMartensitic Stainless Steels \nS41000 Class 1 70 [485] 40 [275] 18 35.0 143---187 \nS41000 Class 2 85 [585] 55 [380] 18 35.0 167-229 \nS41000 Class 3 110 [760] 85 [585] 15 35.0 235-302 \nS41000 Class 4 130 [895] 110 [760] 12 35.0 263-321 \nS41026 110-135 [760-930] 90 [620] 16 45.0 235-285 \nS41500 115 [790] 90 [620] 15 45.0 295 max \nS42390 100-125 [690-862] 75 [517] 14.0 \nAustenitic Stainless Steels \nN08028 73 [500] 31 [214] 40 50 \nN08029 73 [500] 31 [214] 40 50 \nS30400 75 [515] 8 30 [205] 30 50 \nS30403 70 [485] 0 25 [170] 30 50 \nS30451 80 [550] 35 [240] 30 50 \nS30453 75 [515] 8 30 [205] 30 50 \nS31600 75 [515] 8 30 [205] 30 50 \nS31603 70 [485]\u00b0 25 [170] 30 50 \nS31651 80 [550] 35 [240] 30 50 \nS31653 75 [515] 8 30 [205] 30 50 \nS31700 75 [515] 8 30 [205] 30 50 \nS31703 70 [485] 0 25 [170] 30 50 \nS21904 90 [620] 50 [345] 45 60 \nS31254 94 [650] 44 [300] 35 50 \nS31725 75 [525] 30 [205] 40.0 50.0 \nS31726 80 [550] 35 [240] 40.0 50.0 \nN08367 95 [655] 45 [310] 30.0 50.0 \nS32654 109 [750] 62 [430] 40.0 250 max \nAge-Hardening Stainless Steels \nUNS Designation, \ncondition \nS17400, A 363 max \nS17400, H900 190 [1310] 170 [1170] 6 15 388 min \nS17400, H925 170 [1170] 155 [1070] 7 20 375 min \nS17400, H1025 155 [1070] 145 [1000] 8 27 331 min \nS17400, H1075 145 [1000] 125 [860] 9 28 311 min \nS17400, H1100 140 [965] 115 [795] 10 29 302 min \nS17400, H1150 135 [930] 105 [725] 11 30 277 min \nS17400, H1150M 115 [795] 75 [520] 14 35 255 min \nAustenitic-Ferritic Stainless Steels \nS31803 90 [620] 65 [450] 25 45 \nS32205 95 [655] 65 [450] 25.0 293 max \nS32906 109 [750] 80 [550] 25 310 max \nS32950 100 [690] 70 [485] 15 \nS32750 116 [800] 80 [550] 15 310 max \nS39274 116 [800] 80 [550] 15 30 310 max \nS32760 109-130 [750-895] 80 [550] 25.0 45 \nS39277 118 [820] 85 [585] 25.0 50 \nS32505 116 [800] 80 [550] 25 50 310 max \nA Determined by the 0.2 % offset method. \n8 For sections over 5 in. [130 mm] in thickness, the minimum tensile strength shall be 70 ksi [485 MPa]. \nc For sections over 5 in. [130 mm] in thickness, the minimum tensile strength shall be 65 ksi [450 MPa]. \n9.5 Tension Tests: \n9.5.1 Age-Hardening and Martensitic Stainless Steels-One \ntension test shall be made for each production lot in each heat \ntreatment charge. When the heat treating cycles are the same \nand the furnaces (either batch or continuous type) are con\u00ad\ntrolled within \u00b1 25 \u00b0F [ \u00b1 14 \u00b0C] and equipped with recording \npyrometers so that complete records of heat treatment are \navailable, then only one tension test from each production lot \nof each type of part (See Note 3) and section size is required \ninstead of one test from each production lot in each heat\u00ad\ntreatment charge. \nNorn 3-\"Type\" in this case is used to describe the shape of the part \nsuch as a flange, elbow, tee, and so forth. \n9.5.2 Austenitic and Austenitic-Ferritic Stainless Steels\u00ad\nOne tension test shall be made for each production lot. The \ntension test specimen shall be made from material accompa\u00ad\nnying the parts in final heat treatment. \n9.5.3 Testing shall be performed as specified in Specifica\u00ad\ntion A961/A961M using the largest feasible of the round \nspecimens. \n9.6 Hardness Tests: \n9.6.1 When two or more parts are produced, a minimum of \ntwo pieces per batch or continuous run as defined in 9.6.2 shall \nbe hardness tested as specified in Specification A961/A961M \n1463 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1517.json",
+  "tabulaTablesCsv": "tables_tabula/page-1517.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-1517.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 3588,
+  "bestTextAlphaRatio": 0.4289,
+  "noteOcrPath": "note_ocr/page-1517.txt",
+  "noteOcrCount": 1,
+  "noteOcrNotes": [
+    "Note 3\u2014\u201cType\u201d in this case is used to describe the shape of the part"
+  ]
+}

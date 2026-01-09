@@ -1,0 +1,101 @@
+ASME BPVC.II.A-2025 SA-962/SA-962M 
+SUPPLEMENTARY REQUIREMENTS 
+One or more of the following supplementary requirements shall be applied only when specified by 
+the purchaser in the purchase order or contract. The specified supplementary requirements shall be 
+completed prior to shipment of the product. 
+SSO. Product Marking 
+S50.1 Grade and manufacturer's identification symbols 
+shall be applied to one end of studs and to the heads of bolts of 
+all sizes. If the available area is inadequate, the grade symbol 
+may be marked on one end and the manufacturer's identifica­
+tion symbol marked on the other end. 
+SSl. Stress Relieving 
+S51.1 A stress relieving operation shall follow straightening 
+after heat treatment. The minimum stress relieving temperature 
+shall be 100 °F [55 °C] below the tempering temperature. Tests 
+for mechanical properties shall be performed after stress 
+relieving. 
+SS2. Heat Analysis 
+S52.1 An analysis of each remelt ingot shall be made by the 
+steel manufacturer to determine the percentages of those 
+elements specified in the individual product specification. The 
+chemical analysis thus determined shall conform to the require­
+ments of the individual product specification. 
+SS3. Sequential or Continuous Strand Casting 
+S53.l When multiple heats of the same chemical compo­
+sition range are sequentially strand cast, the heats shall be 
+separated by an established procedure such that intermix 
+material shall not be supplied. 
+SS4. Bolting for Dynamic Service 
+S54.1 Bolting for dynamic service shall be examined for 
+surface discontinuities and decarburization. 
+S54.2 Surface Discontinuities: 
+S54.2.1 The surface discontinuities shall conform to Speci­
+fication F788 and the additional limitations in S54.2.2. 
+S54.2.2 Thread lap inspection shall be performed in accor­
+dance with Specification F788 Supplementary Requirement 
+S50. The threads shall have no laps at the root, or on the flanks 
+initiating or extending below the pitch line. 
+S54.2.3 Quench cracks of any depth, any length, or in any 
+location are not permitted. 
+S54.2.4 Folds at the junction of the head and the shank are 
+not permitted. 
+S54.3 Decarburization: 
+S54.3.l Decarburization tests shall be conducted as follows, 
+with the same number of tests as the tension test: 
+S54.3.2 Section the thread area longitudinally through the 
+axis, and mount and polish the cut face in accordance with 
+Practice E3. Use either optical or microhardness measurements 
+for decarburization. In case of dispute, the microhardness 
+method shall be used. 
+S54.3.3 For optical measurement, etch the metallographic 
+section in 4 % Nital. Examine the surface of the etched sample 
+under a microscope at 1 OOx using a measuring eyepiece 
+graduated in 0.001 in. [0.03 mm] increments, or on a ground 
+glass screen or photomicrograph. There shall be no gross 
+decarburization (clearly defined ferrite grains), and the depth of 
+partial decarburization (light etching zone) anywhere below the 
+pitch line shall be less than 5 % of the nominal thread height. 
+S54.3.4 For microhardness measurement, make hardness 
+tests in accordance with Test Method E384 on unetched 
+metallographic sections using either a DPH 136° indenter and 
+a 200-gf load, or a Knoop indenter and a 200-gf load. Take 
+measurements at the minor diameter on the thread crest 
+bisector to determine the base metal hardness. On the same or 
+an adjacent thread, take measurements within 0.003 in. [0.08 
+mm] of the flank surface at the pitch line, and 0.003 in. [0.08 
+mm] below the thread root. These two hardness readings shall 
+be equal to or greater than the base metal hardness minus 30 
+DPHorKHN. 
+SSS. Magnetic Particle Examination 
+S55.1 The wet fluorescent magnetic particle examination 
+method shall be applied to 100 % of the lot in accordance with 
+Practice E1444/E1444M. Acceptance criteria shall be in accor­
+dance with S57. 
+SS6. Liquid Penetrant Examination 
+S56.1 The fluorescent liquid penetrant examination method 
+shall be applied to 100 % of the lot in accordance with Practice 
+E1417/E1417M. Acceptance criteria shall be in accordance 
+with S57. 
+SS7. Acceptance Criteria 
+S57.1 Only indications, which have a dimension greater 
+than 1/16 in., shall be considered relevant. A linear indication is 
+one having a length greater than three times the width. A 
+rounded indication is one of circular or elliptical shape with a 
+length equal to or less than three times the width. All surfaces 
+examined shall be free of the following: 
+S57 .1.1 Relevant linear indications; 
+S57.l.2 Relevant rounded indications greater than 3/16 in.; 
+and, 
+S57.l.3 Four or more relevant rounded indications in a line 
+separated by 1/16 in. or less, edge to edge. 
+SSS. Positive Material Identification Examination 
+S58.l Bolting shall receive Positive Material Identification 
+to ensure that the purchaser is receiving bolting of the correct 
+material grade prior to shipment of the bolting. This examina­
+tion is a method to assure that no material grade mix-up has 
+happened during manufacturing and marking of bolting. 
+S58.2 Bolting shall receive a Positive Material Identifica­
+tion examination by Guide B1916. 
+S58.3 The quantity examined shall be 100 % of the bolting. 
+1421 

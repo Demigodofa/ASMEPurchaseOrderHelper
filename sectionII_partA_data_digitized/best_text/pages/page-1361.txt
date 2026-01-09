@@ -1,0 +1,113 @@
+ASME BPVC.II.A-2025 SA-790/SA-790M (ASTM A790/A790M) 
+13.3 Flattening Test-For pipe heat treated in a batch-type 
+furnace, :flattening tests shall be made on 5 % of the pipe from 
+each heat-treated lot. For pipe heat treated by the continuous 
+process, or by direct quenching after hot forming, this test shall 
+be made on a sufficient number of pipes to constitute 5 % of the 
+lot, but in no case less than two lengths of pipe. 
+13.3.1 For welded pipe, a transverse guided face bend test 
+of the weld may be conducted instead of a :flattening test in 
+accordance with the method outlined in the steel tubular 
+product supplement of Test Methods and Definitions A370. For 
+welded pipe with a specified wall thickness 2: 3/s in. [9.52 mm], 
+two side bend tests may be made instead of the face bend test. 
+The ductility of the weld shall be considered acceptable when 
+there is no evidence of cracks in the weld or between the weld 
+and the base metal after bending. Test specimens from 5 % of 
+the lot shall be taken from the pipes or test plates of the same 
+material as the pipe, the test plates being attached to the end of 
+the cylinder and welded as a prolongation of the pipe longitu­
+dinal seam. 
+13.4 Hardness Test-Brinell or Rockwell hardness tests 
+shall be made on specimens from two pipes from each lot (see 
+13.2). 
+14. Hydrostatic or Nondestructive Electric Test 
+14.1 Each pipe shall be subjected to the nondestructive 
+electric test or the hydrostatic test. The type of test to be used 
+shall be at the option of the manufacturer, unless otherwise 
+specified in the purchase order. 
+14.2 The hydrostatic test shall be in accordance with Speci­
+fication A999/A999M, except that the value for S to be used in 
+the calculation of the hydrostatic test pressure shall be equal to 
+50 % of the specified minimum yield strength of the pipe. 
+14.3 Nondestructive Electric Test-Nondestructive electric 
+tests shall be in accordance with Practices E213 or E309. 
+14.3.1 As an alternative to the hydrostatic test, and when 
+specified by the purchaser, each pipe shall be examined with a 
+nondestructive test in accordance with Practices E213 or E309. 
+Unless specifically called out by the purchaser, the selection of 
+the nondestructive electric test will be at the option of the 
+manufacturer. The range of pipe sizes that may be examined by 
+each method shall be subject to the limitations in the scope of 
+the respective practices. 
+14.3.1.1 The following information is for the benefit of the 
+user of this specification: 
+14.3.1.2 The reference standards defined in 14.3.1.3 -
+14.3 .1.5 are convenient standards for calibration of nondestruc­
+tive testing equipment. The dimensions of these standards 
+should not be construed as the minimum size imperfection 
+detectable by such equipment. 
+14.3.1.3 The ultrasonic testing (UT) can be performed to 
+detect both longitudinally and circumferentially oriented de­
+fects. It should be recognized that different techniques should 
+be employed to detect differently oriented imperfections. The 
+examination may not detect short, deep, defects. 
+14.3.1.4 The eddy-current testing (ET) referenced in this 
+specification (see Practice E426) has the capability of detecting 
+significant discontinuities, especially the short abrupt type. 
+14.3 .1.5 A purchaser interested in ascertaining the nature 
+(type, size, location, and orientation) of discontinuities that can 
+be detected in the specific application of these examinations 
+should discuss this with the manufacturer of the tubular 
+product. 
+14.4 Time of Examination-Nondestructive testing for 
+specification acceptance shall be performed after all mechani­
+cal processing, heat treatments, and straightening operations. 
+This requirement does not preclude additional testing at earlier 
+stages in the processing. 
+14.5 Surface Condition: 
+14.5.1 All surfaces shall be free of scale, dirt, grease, paint, 
+or other foreign material that could interfere with interpretation 
+of test results. The methods used for cleaning and preparing the 
+surfaces for examination shall not be detrimental to the base 
+metal or the surface finish. 
+14.5.2 Excessive surface roughness or deep scratches can 
+produce signals that interfere with the test. 
+14.6 Extent of Examination: 
+14.6.1 The relative motion of the pipe and the transducer(s), 
+coil(s), or sensor(s) shall be such that the entire pipe surface is 
+scanned, except as in 14.6.2. 
+14.6.2 The existence of end effects is recognized and the 
+extent of such effects shall be determined by the manufacturer 
+and, if requested, shall be reported to the purchaser. Other 
+nondestructive tests may be applied to the end areas, subject to 
+agreement between the purchaser and the manufacturer. 
+14.7 Operator Qualifications-The test unit operator shall 
+be certified in accordance with SNT-TC- lA, or an equivalent 
+recognized and documented standard. 
+14.8 Test Conditions: 
+14.8.1 For eddy-current testing, the excitation coil fre­
+quency shall be chosen to ensure adequate penetration yet 
+provide good signal-to-noise ratio. 
+14.8.2 The maximum eddy-current coil frequency used 
+shall be as follows: 
+On specified walls up to 0.050 in.-100 KHz max 
+On specified walls up to 0.150 in.-50 KHz max 
+On specified walls over 0.150 in.-10 KHz max 
+14.8.3 Ultrasonic-For examination by the ultrasonic 
+method, the minimum nominal transducer frequency shall be 
+2.00 MHz and the maximum nominal transducer size shall be 
+1.5 in. If the equipment contains a reject notice filter setting, 
+this shall remain off during calibration and testing unless 
+linearity can be demonstrated at that setting. 
+14.9 Reference Standards-Reference standards of conve­
+nient length shall be prepared from a length of pipe of the same 
+grade, size (NPS, or outside diameter and schedule or wall 
+thickness), surface finish and heat treatment condition as the 
+pipe to be examined. 
+14.9.1 For Ultrasonic Testing, the reference ID and OD 
+notches shall be any one of the three common notch shapes 
+shown in Practice E213, at the option of the manufacturer. The 
+depth of each notch shall not exceed 12 ½ % of the specified 
+nominal wall thickness of the pipe or 0.004 in., whichever is 
+1299 

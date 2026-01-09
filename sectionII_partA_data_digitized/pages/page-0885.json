@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 87,
+  "globalPageIndex": 885,
+  "width": 618.6,
+  "height": 796.8,
+  "text": "ASME BPVC.II.A-2025 SA-479/SA-479M \nXl.3 To satisfy the concerns of inadvertent assignment of \nfine grained material to elevated temperature applications, \nspecial marking has been added for material that meets the \nrequirements of Supplementary Requirement S l. \n783 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-0885.txt",
+  "ocrTextLength": 264,
+  "ocrApplied": true,
+  "bestTextPath": "best_text/pages/page-0885.txt",
+  "bestTextSource": "ocr",
+  "bestTextLength": 264,
+  "bestTextAlphaRatio": 0.7652
+}

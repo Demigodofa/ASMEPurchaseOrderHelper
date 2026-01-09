@@ -1,0 +1,21 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 559,
+  "globalPageIndex": 559,
+  "width": 597.72,
+  "height": 842.88,
+  "text": "ASME BPVC.II.A-2025 SA-335/SA-335M (ASTM A335/A335M) \nTABLE 1 Chemical Requirements \nUNS Composition, % \nGrade \nDesigna- Phos- Molybde-tionA Man- Sulfur, Carbon phorus, Silicon Chromium num Others ganese max max \nP1 K11522 0.10-0.20 0.30-0.80 0.025 0.025 0.10-0.50 0.44-0.65 \nP2 K11547 0.10-0.20 0.30-0.61 0.025 0.025 0.10-0.30 0.50-0.81 0.44-0.65 \nP5 K41545 0.15 max 0.30-0.60 0.025 0.025 0.50 max 4.00-6.00 0.45-0.65 \nP5b K51545 0.15 max 0.30-0.60 0.025 0.025 1.00-2.00 4.00-6.00 0.45-0.65 \nP5c K41245 0.12 max 0.30-0.60 0.025 0.025 0.50 max 4.00-6.00 0.45-0.65 B \npg K90941 0.15 max 0.30-0.60 0.025 0.025 0.25-1.00 8.00-10.00 0.90-1.10 \nP11 K11597 0.05-0.15 0.30-0.60 0.025 0.025 0.50-1.00 1.00-1.50 0.44-0.65 \nP12 K11562 0.05-0.15 0.30-0.61 0.025 0.025 0.50 max 0.80-1.25 0.44-0.65 \nP15 K11578 0.05-0.15 0.30-0.60 0.025 0.025 1.15-1.65 0.44-0.65 \nP21 K31545 0.05-0.15 0.30-0.60 0.025 0.025 0.50 max 2.65-3.35 0.80-1.06 \nP22 K21590 0.05-0.15 0.30-0.60 0.025 0.025 0.50 max 1.90-2.60 0.87-1.13 \nP23 K40712 0.04-0.10 0.10-0.60 0.030 max 0.010 max 0.50 max 1.90-2.60 0.05-0.30 V 0.20-0.30 \nNbF 0.02-0.08 \nB 0.0010-0.006 \nN 0.015 max \nAl 0.030 max \nW 1.45-1.75 \nNi 0.40 max \nTi 0.005-0.060 \nTi/N 2e: 3.5\u00b0 \nP24 K30736 0.05-0.10 0.30-0.70 0.020 0.010 0.15-0.45 2.20-2.60 0.90-1.10 V 0.20-0.30 \nTi 0.06-0.10 \nN 0.012 max \nAl 0.02 max \nB 0.0015-0.007 \nP36 K21001 0.10-0.17 0.80-1.20 0.030 max 0.025 max 0.25-0.50 0.30 max 0.25-0.50 Ni 1.00-1.30 \nCu 0.50-0.80 \nNbF 0.015-0.045 \nV 0.02 max \nN 0.02 max \nAl 0.050 max \nP91 K90901 0.08-0.12 0.30-0.60 0.020 0.010 0.20-0.50 8.00-9.50 0.85-1.05 \nType 1 V 0.18-0.25 \nN 0.030-0.070 \nNi 0.40 max \nAl 0.02 max \nNbF 0.06-0.10 \nTi 0.01 max \nZr 0.01 max \nP91 K90901 \nType 2 V \nHeat 0.08-0.12 0.30-0.50\u00b0 0.020\u00b0 0.005\u00b0 0.20-0.40\u00b0 8.00-9.50\u00b0 0.85-1.05 Heat 0.18-0.25 \nProduct 0.07-0.13 0.80-1.05 Product 0.16-0.27 \nNi 0.20 max 0 \nAl 0.020 max 0 \nN 0.035-0.070\u00b0 \nN/ Al ratio 2e:4.0 \nNbF \nHeat 0.06-0.1 o \nProduct 0.05-0.11 \nTi O.Q1 max 0 \nZr 0.01 max 0 \nSn 0.010 max 0 \nSb 0.003 max 0 \nAs 0.010 max 0 \nB 0.001 max 0 \nW 0.05 max 0 \nCu 0.10 max 0 \nP92 K92460 0.07-0.13 0.30-0.60 0.020 0.010 0.50 max 8.50-9.50 0.30-0.60 V 0.15-0.25 \nN 0.03-0.07 \nNi 0.40 max \nAl 0.02 max \nNbF 0.04-0.09 \nW 1.5-2.00 \nB 0.001-0.006 \nTi 0.01 max \nZr 0.01 max \n507 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-0559.txt",
+  "ocrTextLength": 2248,
+  "ocrApplied": true,
+  "tabulaTablesPath": "tables_tabula/page-0559.json",
+  "tabulaTablesCsv": "tables_tabula/page-0559.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text\\pages\\page-0559.txt",
+  "bestTextSource": "full_ocr_highdpi",
+  "bestTextLength": 2299,
+  "bestTextAlphaRatio": 0.205
+}

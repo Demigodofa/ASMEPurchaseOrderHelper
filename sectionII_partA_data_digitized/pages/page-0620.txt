@@ -1,0 +1,106 @@
+U1 
+0\ 
+OJ 
+TABLE 1 Continued 
+UNS ASTM Plate Filler Metal Classification and UNS DesignationA for Applicable 8 AWS Specification 
+Grade Desig- Material, Specification No. A5.4/A5.4M A5.9/A5.9M A5.11/A5.11M A5.14/A5.14M A5.22/A5.22M Type nation and Grade Class. UNS Class. 
+S31266 A240/A240M ... . .. S31266 . .. . .. . .. 
+316 S31600 316 A240/A240M E316 W31610 ER316 Type 316 
+316L S31603 316L A240/A240M E316L W31613 ER316L Type 316L 
+316H S31609 316H A240/A240M E316H W31610 ER316H Type 316H 
+316N S31651 316N A240/A240M E316 W31610 ER316 Type 316N 
+316LN S31653 316LN A240/A240M E316L W31613 ER316L Type 316LN 
+S31655 A240/A240M . . . ... S31655 . . . . .. . .. 
+317 S31700 317 A240/A240M E317 W31710 ER 317 Type 317 
+317L S31703 317L A240/A240M E317L W34713 ER317L Type 317L 
+S31725 A240/A240M . .. ... S31725 . .. .. . . .. 
+S31726 A240/A240M . . . ... S31726 . .. . . . . .. 
+S31727 A240/A240M . . . ... S31727 . .. . . . . .. 
+S32050 A240/A240M . .. ... S32050 . . . . . . . .. 
+S32053 A240/A240M . . . ... S32053 .. . . . . .. . 
+A240/A240M ER321 
+321 S32100 321 E347 W34710 Type 321 ER347 
+321H 0 S32109° 321H 0 A240/A240M W34710 ER321 
+Type 321H 0 ER347 
+S32654 A240/A240M . .. ... S32654 . .. . . . . .. 
+S34565 A240/A240M . . . ... S34565 . .. . . . . .. 
+347 S34700 347 A240/A240M E347 W34710 ER347 Type 347 
+347H 0 S34709° 347H 0 A240/A240M ER347 Type 347H 0 
+347LN S34751 A240/A240M 
+Type 347LN ... . . . . .. 
+S34752 A240/A240M .. . ... S34752 .. . . . . . . . 
+348 S34800 348 A240/A240M E347 W34710 ER347 Type 348 
+A New designation established in accordance with Practice E527 and SAE J1086. 
+8 Choice of American Welding Society specification depends on the welding process used. 
+c Minimum carbon content of the filler metal shall be 0.040 mass %. 
+0 In previous editions, S30600 was incorrectly shown as S01815. 
+Ecommon name, not a trademark, widely used, not associated with any one producer. 
+UNS Class. UNS Class. UNS Class. UNS 
+. .. ENiCrMo-10 W86022 ERNiCrMo-10 N06022 .. . ... 
+S31680 E316T W31631 W31640 ... ... . .. . .. 
+S31683 ... . . . . .. . .. E316LT W31635 
+S31680 ... . .. . .. . .. E316T W31631 
+S31680 ... . .. . .. . .. E316T W31631 
+S31683 ... . .. . .. . .. E316LT W31635 
+. .. . .. . .. . .. . . . . .. ... 
+S31780 . . . . .. . .. .. . E317LT W31735 
+S31783 . .. . .. . . . . .. E317LT W31735 
+. . . ENiCrMo-3 W86112 ERNiCrMo-3 N06625 . .. . .. 
+. .. ENiCrMo-3 W86112 ERNiCrMo-3 N06625 . . . . .. 
+. .. ... . .. . .. . . . . .. . .. 
+. .. . . . . .. . .. . . . . .. ... 
+.. . . . . . .. . . . .. . . .. .. . 
+S32180 
+S34780 . . . . .. ... . .. E347T W34731 
+S32180 E347T W34731 S34780 
+. . . .. . . .. . .. . .. . .. . .. 
+. .. . . . . .. .. . . . . . .. ... 
+S34780 . .. . . . .. . ... E347T W34731 
+S34780 E347T W34731 
+. . . ... . .. .. . .. . .. . . .. 
+. . . . .. . .. .. . .. . . .. .. . 
+S34780 . . . . .. . .. ... E347T W34731 
+A5.30/A5.30M 
+Class. UNS 
+. .. . .. 
+IN316 S31680 
+IN316L S31683 
+IN316 S31680 
+IN316 S31680 
+IN316L S31683 
+. .. . .. 
+... . .. 
+... . .. 
+... . .. 
+... . .. 
+... . .. 
+... . .. 
+... . .. 
+IN348 S34780 
+IN348 S34780 
+... . .. 
+. .. . .. 
+IN348 S34780 
+IN348 S34780 
+... . .. 
+... . .. 
+IN348 S34780 
+'These filler metals have a high nickel content and, therefore, lower creep strength than the parent metal at temperatures exceeding about 1470 °F [800 °C], and its resistance to sulphurous media is inferior in certain 
+cases. 
+~ w 
+trt 
+c:o ......_ 
+~ w 
+trt 
+c:o 
+:s: 
+> Vl 
+:s: 
+1:,::1 
+t:!:I 
+~ 
+~ 
+N 
+C 
+N 
+trt 

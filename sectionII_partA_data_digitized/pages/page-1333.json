@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 535,
+  "globalPageIndex": 1333,
+  "width": 613.92,
+  "height": 793.2,
+  "text": "ASME BPVC.II.A-2025 SA-788/SA-788M \nSPECIFICATION FOR STEEL FORGINGS, GENERAL \nREQUIREMENTS \nSA-788 /SA-788M <O \nINTERNATIONAL \nStandards Worldwide \n(Identical with ASTM Specification A788/A788M-15.) \n1271 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-1333.txt",
+  "ocrTextLength": 172,
+  "ocrApplied": true,
+  "bestTextPath": "best_text\\pages\\page-1333.txt",
+  "bestTextSource": "full_ocr_highdpi",
+  "bestTextLength": 199,
+  "bestTextAlphaRatio": 0.628
+}

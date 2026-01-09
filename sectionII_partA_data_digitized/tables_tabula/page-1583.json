@@ -1,0 +1,356 @@
+[
+  {
+    "rows": [
+      [
+        "1 to 1'/2 [25 to 40], incl",
+        "0.006 [0.15]",
+        "0.006 [0.15]",
+        "reduced by the amount so removed."
+      ],
+      [
+        "Over 1 1\u20442 to 2 [40 to 50], excl",
+        "0.008 [0.2]",
+        "0.008 (0.2)",
+        ""
+      ],
+      [
+        "2 to 21\u20442 [50 to 65], excl",
+        "0.01 0 [0.25]",
+        "0.010 [0.25)",
+        ""
+      ],
+      [
+        "21\u20442 to 3 [65 to 75], excl",
+        "0.012 [0.3]",
+        "0.012 (0.3]",
+        "14. Repair by Welding"
+      ],
+      [
+        "3 to 4 [75 to 100], incl",
+        "0.D15 [0.38]",
+        "0.015 [0.38)",
+        ""
+      ],
+      [
+        "Over 4 to 71\u20442 [100 to 200], incl",
+        "0.015 [0.38]",
+        "0.025 [0.64]",
+        "14.1 Repair welding of base metal defects in tubing is"
+      ],
+      [
+        "Over 71\u20442 to 9 [200 to 225), incl",
+        "0.015 [0.38)",
+        "0.045 [1.14)",
+        "permitted only with the approval of the purchaser and with the"
+      ]
+    ]
+  },
+  {
+    "rows": [
+      [
+        "11\u20442  [38.1] and under",
+        "",
+        "20.0",
+        "0.0",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Over 11\u20442 [38.1]",
+        "",
+        "22.0",
+        "0.0",
+        "12.2 For tubes",
+        "2.0",
+        "in.",
+        "[50.8",
+        "mm]",
+        "and",
+        "under",
+        "in",
+        "outside"
+      ],
+      [
+        "Welded Tubes",
+        "",
+        "",
+        "",
+        "diameter and 0.135 in. [3.44 mm] and under in wall thickness,",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "All sizes",
+        "",
+        "18.0",
+        "0.0",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "rows": [
+      [
+        "austenitic tubes, an ovality allowance is necessary for all sizes",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "specification."
+      ],
+      [
+        "less than 2 in. [50.8 mm] outside diameter, because they are",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "likely to become out of round during their final heat treatment.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "14.2 Repair welding shall be performed using procedures"
+      ],
+      [
+        "For such tubes, the maximum and minimum outside diameter",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "and welders or welding operators that have been qualified in"
+      ],
+      [
+        "at any cross",
+        "section shall",
+        "not deviate",
+        "from",
+        "the",
+        "nominal",
+        "",
+        "accordance with ASME Boiler and Pressure Vessel Code,"
+      ],
+      [
+        "diameter by more than \u00b10.010 in. [\u00b10.25 mm]. However, the",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Section IX."
+      ],
+      [
+        "mean diameter at that cross section must still be within the",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "given permitted variation given in Table",
+        "",
+        "",
+        "3. In the event of",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "conflict between the provisions of 10.2.1 and those of 10.3, the",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "TABLE 4 Permitted Variations in LengthA"
+      ],
+      [
+        "larger value of ovality tolerance shall apply.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Specified"
+      ],
+      [
+        "10.4 When the specified wall is 2 % or less of the specified",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Method of Outside Cut Length, in. [mm]"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Manufacture Diameter, in. Over Under"
+      ],
+      [
+        "OD, the method of measurement is per agreement between",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "[mm)"
+      ],
+      [
+        "purchaser and manufacturer (see Note 2).",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Seamless, hot-finished All sizes \u2022/10 [5] 0 [OJ"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Seamless, cold-finished Under 2 [50.8) 1/e [3] 0 [OJ"
+      ],
+      [
+        "Nom 2-Very thin wall tubing may not be stiff enough for the outside",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "2 [50.8] or over 3/,5 [5] 0 [OJ"
+      ],
+      [
+        "diameter to be accurately measured with a point contact method, such as",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Welded Under 2 [50.8) 1/e [3] 0 [OJ"
+      ],
+      [
+        "with the use",
+        "of a micrometer",
+        "or caliper.",
+        "When very",
+        "thin",
+        "walls are",
+        "",
+        "2 [50.8] or over o/10 [5] 0 [0]"
+      ],
+      [
+        "specified, \"go\" -",
+        "\"no go\" ring gauges are commonly used to",
+        "",
+        "",
+        "",
+        "measure",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "A These permitted variations in length apply to tubes before bending. They apply"
+      ],
+      [
+        "diameters of 11\u20442",
+        "in. [38.1 mm] or less. A 0.002 in. [0.05 mm] additional",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "to cut lengths up to and including 24 ft [7 .3 m]. For lengths greater than 24 ft [7 .3"
+      ],
+      [
+        "tolerance is usually added on the \"go\" ring gauge to allow clearance for",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "m], the above over-tolerances shall be increased by 1/a in. (3 mm] for each 1O ft [3"
+      ]
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 349,
+  "globalPageIndex": 1147,
+  "width": 620.16,
+  "height": 798.0,
+  "text": "ASME BPVC.II.A-2025 SA-638/SA-638M \n5.1.3 Solution and precipitation treated (Grade 660 \nonly-Type 1 or Type 2 solution treatment as specified), or \n5.1.4 Other as specified. \n6. Heat Treatment \n6.1 Samples cut from bars, forgings, or a sample forged \nfrom the forging stock shall conform to the mechanical \nproperties of Tables 1 and 2 when heat treated as prescribed \nin Table 3. \n6.2 When a sample cut from the forging stock and heat \ntreated as prescribed in Table 3 conforms to the properties \nin Tables 1 and 2, it shall be accepted as equivalent to a \nforged coupon. \n7. Chemical Composition \n7 .1 The steel shall conform to the requirements for \nchemical composition specified in Table 4. \n7 .2 Methods and practices relating to chemical analysis \nrequired by this specification shall be in accordance with \nTest Methods, Practices, and Terminology A 751, except \nthat for remelt material, product analysis tolerances may \nbe used to determine conformance to this specification. \n7 .3 For referee purposes, Test Methods E 30 shall be \nused. \n7 .4 Methods and practices relating to chemical analysis \nrequired by this specification shall be in accordance with \nTest Methods, Practices, and Definitions A 7 51, except that \nfor remelt material, product analysis tolerances may be \nused to determine conformance to this specification. \n8. Mechanical Properties \n8.1 The material shall conform to the mechanical prop\u00ad\nerty requirements specified in Table 1 after heat treatment \nas described in Table 3. \n8.2 The material shall meet the requirements as to \nstress-rupture properties specified in Table 2 at the test \ntemperature indicated after heat treatment as described in \nTable 3. \n8.3 When specified in the ordering information (3.1.8), \nmaterial may be ordered without stress-rupture testing. \nMaterial not stress-rupture tested shall be permanently \nstamped NR (See Section 10). \n9. Metallurgical Properties \n9.1 When specified, the grain size shall be 1 or finer. \n10. Product Marking \n10.1 Unless otherwise specified on the purchase order, \neach bundle shall be properly tagged with metal tags show\u00ad\ning the purchase order number, heat number, name of alloy \n( or grade), \"NR\" when material has not been stress-rupture \ntested, specification number, and size. \n10.1.1 Bars 1 in. [25 mm] and over in diameter, or \n1 in. [25 mm] and over in thiclmess between parallel sides, \nshall be stamped with the heat number, and if not stress\u00ad\nrupture tested, with the letters \"NR\" within approximately \n2 in. [50 mm] of one end. Smaller sizes shall be boxed or \nbundled and identified with metal tags as described in 10.1. \n10.1.2 Forgings shall be identified as agreed upon \nbetween the seller and the purchaser. \n11. Keywords \n11.1 precipitation hardening superalloy steel; super\u00ad\nalloy steel bars; superalloy steel billets; superalloy steel \nforgings; temperature service applications - high \n1053 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1147.json",
+  "tabulaTablesCsv": "tables_tabula/page-1147.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-1147.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2904,
+  "bestTextAlphaRatio": 0.7503
+}

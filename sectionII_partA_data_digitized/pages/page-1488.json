@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 690,
+  "globalPageIndex": 1488,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "SA-965 /SA-965M ASME BPVC.II.A-2025 \nSUPPLEMENTARY REQUIREMENTS \nOne or more of the following supplementary requirements shall apply only when specified by the \npurchaser in the inquiry, contract, and order. Details of these supplementary requirements shall be \nagreed upon between the manufacturer and the purchaser. \nSl. Rough Turning and Boring \nS 1.1 The position of the rough turning and boring in the \nsequence of manufacturing operations shall be specified. \nS2. Transverse Tension Test \nS2.1 Instead of the test specimen orientation requirements \nin 8.3, the longitudinal axis of the test specimens shall be \ntransverse to the direction of major working of the forging. The \nresults shall conform with requirements of Table 2, with the \nexception of the ductility limits, which shall be as prescribed in \nTable S2.1. \nS3. Hydrostatic Test \nS3. l A hydrostatic pressure test shall be applied. The details \nof the test, including its position in the sequence of manufac\u00ad\nturing operations, shall be specified. \nS4. Stabilization Heat Treatment \nS4.1 When specified, Grades F347 and F321 shall receive \nstabilization treatment, which shall consist of holding the \nforging at 1500 to 1600 \u00b0F [815 to 870 \u00b0C], for not less than \n2 h/2n. of thickness and then cooling in the furnace or in still \nair. \nSS. Marking \nS5.1 Forgings shall be marked at a location indicated by the \npurchaser in the purchase order or drawing. \nS6. Individual Forging \nS6.1 Forgings, whether identical or not identical, shall be \nproduced individually. They shall not be forged in multiple and \nseparated prior to or after heat treatment. \nS6.2 The shape and size of individual forgings shall be \nagreed between the manufacturer and the purchaser by means \nof a forging drawing or the purchase order. \nS7. Grain Size Requirements for Service Exceeding \n1000 \u00b0F [540 \u00b0C] \nS7.1 For design metal temperatures above 1000 \u00b0F \n[540 \u00b0C], the forgings shall have a grain size of 7 or coarser as \ndetennined in accordance with Test Methods El12. The actual \ngrain size shall be reported on the certificate of test. \nSS. Ultrasonic Inspection \nS8.1 An ultrasonic inspection of the machined forging shall \nbe made in accordance with Practice A745/A745M to the \nquality acceptance level specified in the purchase order or \ncontract. \n1430 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1488.json",
+  "tabulaTablesCsv": "tables_tabula/page-1488.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-1488.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2306,
+  "bestTextAlphaRatio": 0.7559
+}

@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 381,
+  "globalPageIndex": 1179,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "ASME BPVC.II.A-2025 SA-666 \nTABLE 2 \nTENSILE PROPERTY REQUIREMENTSCA> (CONT'D) \nType \n304N \n304LN \n316 \n316L \n316N \nType \n201 \n205 \n301 \n302 \nType \n201 \n205 \n301 \n302 \nNOTES: \nUNS \nDesignation \nS30451 \nS30453 \nS31600 \nS31603 \nS31651 \nUNS \nDesignation \nS20100 \nS20500 \nS30100 \nS30200 \nUNS \nDesignation \nS20100 \nS20500 \nS30100 \nS30200 \nTensile Strength, min \npsi MPa \n150 000 1035 \n150 000 1035 \n150 000 1035 \n150 000 1035 \n150 000 1035 \nTensile Strength, min \npsi MPa \n175 000 1205 \n175 000 1205 \n175 000 1205 \n175 000 1205 \nTensile Strength, min \npsi MPa \n185 000 1275 \n185 000 1275 \n185 000 1275 \n185 000 1275 \n\u00bd Hard (Cont'd) \nYield Strength, min \npsi MPa \nllO 000 760 \nllO 000 760 \nllO 000 760 \nllO 000 760 \nllO 000 760 \n3/4 Hard \nYield Strength, min \npsi MPa \n135 000 930 \n135 000 930 \n135 000 930 \n135 000 930 \nFull Hard \nYield St1\u00b7ength, min \npsi MPa \n140 000 965 \n140 000 965 \n140 000 965 \n140 000 965 \nElongation in 2 in. or 50 mm, min, % \n<\". 0.015 to \n< 0.015 in. ::; 0.030 in. > 0.030 in. \n6 8 8 \n6 7 7 \n6 7 7 \n5 6 6 \n6 8 8 \nElongation in 2 in. or 50 mm, min, % \n<\". 0.015 to \n< 0.015 in. ::; 0.030 in. > 0.030 in. \n10 12 12 \n15 15 15 \n10 12 12 \n5 6 6 \nElongation in 2 in. or 50 mm, min, % \n<\". 0.015 to \n< 0.015 in. s 0.030 in. > 0.030 in. \n8 9 9 \n10 10 10 \n8 9 9 \n3 4 4 \n(Al This specification defines minimum properties only and does not imply a range. Depending on the work hardening characteristics of the \nparticular grade, either the yield or the tensile strength can be the controlling factor in meeting the properties. The noncontrolling factor \nnormally wi 11 exceed considerably the specified minimum. \n<Bl Type 201 is generally produced with a chemical composition balanced for rich side (Type 201-1) or lean side (Type 201-2) austenite stability \ndepending on the properties required for specific applications. \n(Cl Annealed material that naturally meets mechanical properties may be applied. \n(DJ PSS means plate, strip, sheet. \n(El FB means flat bar. \n1087 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 1,
+  "tabulaTablesPath": "tables_tabula/page-1179.json",
+  "tabulaTablesCsv": "tables_tabula/page-1179.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-1179.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1983,
+  "bestTextAlphaRatio": 0.4735
+}

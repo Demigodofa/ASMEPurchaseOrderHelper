@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 64,
+  "globalPageIndex": 862,
+  "width": 618.6,
+  "height": 796.8,
+  "text": "SA-453 /SA-453M \n9. Product Marking \nASME BPVC.II.A-2025 \nFIG. 1 Combination Smooth-Notch Stress-Rupture Test Specimen \n(See Table 6) \n9.1 Bolts, Nuts, Screws, and Studs-In addition to the \nrequirements of Specification A962/A962M, the grade symbol \nand class shown in Table 4 and the type designation (see 6.1.1) \nshall also appear on all bolting components so processed. \nGrade 660 Class D and Grade 668 shall be stamped NR in \naddition to other required markings. \n10. Certification \n10.1 Certification is required. See Specification A962/ \nA962M. \n11. Keywords \n11.1 bolts-steel; bolting components-steel; marking; \nnuts-steel; precipitation hardening steels; pressure vessel ser\u00ad\nvice; revision letter; steel bars-alloy; steel bolting; steel \n:flanges; steel values; temperature service applications-high \n760 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0862.json",
+  "tabulaTablesCsv": "tables_tabula/page-0862.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-0862.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 815,
+  "bestTextAlphaRatio": 0.7202
+}

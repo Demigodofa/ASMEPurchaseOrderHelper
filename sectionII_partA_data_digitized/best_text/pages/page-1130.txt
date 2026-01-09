@@ -1,0 +1,100 @@
+SA-609 /SA-609M ASME BPVC.II.A-2025 
+6.3 The ultrasonic examination shall be conducted prior 
+to machining that prevents an effective examination of the 
+casting. 
+7. Test Conditions 
+7.1 To assure complete coverage of the specified cast­
+ing section, each pass of the search unit shall overlap by 
+at least 10% of the width of the transducer. 
+7.2 The rate of scanning shall not exceed 6 in.ls 
+(150 mm/s). 
+7.3 The ultrasonic beam shall be introduced perpendic­
+ular to the examination surface. 
+8. Procedure 
+8.1 Adjust the instrument controls to position the first 
+back reflection for the thickness to be tested at least one 
+half of the distance across the cathode ray tube. 
+8.2 Using the set of reference blocks spanning the 
+thickness of the casting being inspected, mark the flat­
+bottom hole indication height for each of the applicable 
+blocks on the cathode ray tube shield. Draw a curve through 
+these marks on the screen or on suitable graph paper. The 
+maximum signal amplitude for the test blocks used shall 
+peak at approximately three-fomths of the screen height 
+above the sweep by use of the attenuator. This curve shall 
+be referred to as the 100% distance amplitude correction 
+(DAC) curve. If the attenuation of ultrasound in the casting 
+thickness being examined is such that the system's dynamic 
+range is exceeded, segmented DAC curves are permitted. 
+8.3 The casting examination surface will normally be 
+rougher than that of the test blocks; consequently, employ 
+a transfer mechanism to provide approximate compensa­
+tion. In order to accomplish this, first select a region of 
+the casting that has parallel walls and a surface condition 
+representative of the rest of the casting as a transfer point. 
+Next, select the test block whose overall length, C (Fig. 
+1), most closely matches the reflection amplitude through 
+the block length. Place the search unit on the casting at 
+tl1e transfer point and adjust the instrument gain until the 
+back reflection amplitude through the casting matches that 
+through the test block. Using this transfer technique, the 
+examination sensitivity in the casting may be expected to 
+be within ±30% or less of that given by the test blocks. 
+8.4 Do not change those instrument controls and the 
+test frequency set during calibration, except the attenuator, 
+or calibrated gain control, during acceptance examination 
+of a given thickness of the casting. Make a periodic calibra­
+tion during the inspection by checking the amplitude of 
+response from the¼ in. (6.4 mm) diameter flat-bottom hole 
+in the test block utilized for the transfer. 
+NOTE 3 - The attenuator or calibrated gain control may be used to 
+change the signal amplitude during examination to permit small amplitude 
+signals to be more readily detected. Signal evaluation is made by returning 
+the attenuator or calibrated gain control to its original setting. 
+8.5 During examination of areas of the casting having 
+parallel walls, recheck areas showing 75% or greater loss 
+of back reflection to determine whether loss of back reflec­
+tion is due to poor contact, insufficient couplant, misori­
+ented discontinuity, etc. If the reason for loss of back 
+reflection is not evident, consider the area questionable 
+and further investigate. 
+9. Report 
+9.1 The manufacturer's report of final ultrasonic exami­
+nation shall contain the following data and shall be fur­
+nished to the purchaser: 
+9.1.1 The total number, location, amplitude, and area 
+when possible to delineate boundaries by monitoring the 
+movement of the center of the search unit of all indications 
+equal to or greater than 100% of the DAC. 
+9.1.2 Questionable areas from 8.5 that, upon fmther 
+investigation, are determined to be caused by discontinu­
+ities. 
+9.1.3 The examination frequency, type of instrument, 
+types of search units employed, couplant, manufacturer's 
+identifying numbers, purchaser's order number, and data 
+and authorized signature. 
+9.1.4 A sketch showing the physical outline of the 
+casting, including dimensions of all areas not inspected 
+due to geometric configuration, with the location and sizes 
+of all indications in accordance with 9.1.1 and 9.1.2. 
+10. Acceptance Standards 
+10.1 This practice is intended for application to castings 
+with a wide variety of sizes, shapes, compositions, melting 
+processes, foundry practices, and applications. Therefore, 
+it is impractical to specify an ultrasonic quality level that 
+would be universally applicable to such a diversity of prod­
+ucts. Ultrasonic acceptance or rejection criteria for individ­
+ual castings should be based on a realistic appraisal of 
+service requirements and the quality that can normally be 
+obtained in production of the particular type of casting. 
+10.2 Acceptance quality levels shall be established 
+between the purchaser and the manufacturer on the basis 
+of one or more of the following criteria: 
+10.2.1 No indication equal to or greater than the 
+DAC over an area specified for the applicable quality level 
+of Table 2. 
+10.2.2 No reduction of back reflection of 75% or 
+greater that has been determined to be caused by a disconti­
+nuity over an area specified for the applicable quality level 
+of Table 2. 
+1036 

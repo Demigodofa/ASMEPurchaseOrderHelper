@@ -1,0 +1,152 @@
+ASME BPVC.II.A-2025 SA-988/SA-988M 
+14.1.2 The weld metal shall be deposited using the elec­
+trodes specified in Table 5 except as otherwise provided in 
+Section S14. The electrodes shall be purchased in accordance 
+with ASME Specifications SFA-5.4, SFA-5.9, or SFA-5.11. 
+The submerged arc process with neutral flux, the gas metal-arc 
+welding and gas tungsten-arc welding processes are permitted 
+to be used. 
+14.1.5 The preheat, interpass temperature, and post-weld 
+heat treatment requirements given in Table 5 shall be met. 
+14.1.6 Repair by welding shall not exceed 10 % of the 
+surface area of the part. Repair by welding shall not exceed 
+33½ % of the wall thickness of the finished part or 3/s in. [9.5 
+mm], whichever is less. 
+14.1.3 Defects shall be removed completely prior to weld­
+ing by chipping or grinding to sound metal as verified by 
+magnetic particle inspection in accordance with Test Method 
+A275/A275M for the age-hardening, martensitic, or austenitic­
+ferritic stainless steels, or by liquid penetrant inspection in 
+accordance with Test Method E165/El65M for all grades. 
+14.1.7 No weld repairs are permitted for S41000 Classes 3 
+and 4. 
+15. Inspection 
+15.1 The manufacturer shall afford the purchaser's inspector 
+all reasonable facilities necessary to satisfy the inspector that 
+the material is being furnished in accordance with the purchase 
+order. Inspection by the purchaser shall not interfere unneces­
+sarily with the manufacturer's operations. All tests and inspec­
+tions shall be made at the place of manufacture unless 
+otherwise agreed upon. 
+14.1.4 After repair welding, the welded area shall be ground 
+smooth to the original contour and shall be completely free of 
+defects as verified by magnetic-particle or liquid-penetrant 
+inspection, as applicable. 
+UNS Designation 
+S17400 
+S41000 Class 1 
+S41000 Class 2 
+S41026 
+S41500 
+S42390 
+N08028 
+N08029 
+S30400 
+S30403 
+S30451 
+S30453 
+S31600 
+S31603 
+S31651 
+S31653 
+S31700 
+S31703 
+S21904 
+S31254 
+S31725 
+S31726 
+N08367 
+S32654 
+S31803 
+S32205 
+S32906 
+S32950 
+S32750 
+S39274 
+S32760 
+S39277 
+S32505 
+TABLE 5 Repair Welding Requirements 
+Preheat and lnterpass 
+ElectrodesA Temperature Range, °F 
+[oC]B 
+Age-Hardening Stainless Steels 
+17 Cr, 4 Ni, 3 Cu NR 
+Martensitic Stainless Steels 
+E 410-15 or 16 400-700 [205-370] 
+E 410-15 or 16 400-700 [205-370] 
+13 % Cr, 1½ % Ni,½% Mo 400-700 [205-370] 
+13 % Cr, 4 % Ni 300-700 [150-370] 
+400-750 [205-400] 
+Austenitic Stainless Steels 
+ER383 NR 
+ERNiCrMo-3E NR 
+ERNiCrMo-13E 
+E 308-15 or 16 NR 
+E 308L-15 or 16 NR 
+E 308-15 or 16 NR 
+E 308L-15 or 16 NR 
+E 316-15 or 16 NR 
+E 316L-15 or 16 NR 
+E 316-15 or 16 NR 
+E 316L-15 or 16 NR 
+E 317-15 or 16 NR 
+E 317L-15 or 16 NR 
+XM-10W NR 
+E NiCrMo-3 NR 
+D 
+D 
+E NiCrMo-3 NR 
+25 % Cr, 61 % Ni, 14 % Mo NR 
+Austenitic-Ferritic Stainless Steels 
+22 % Cr, 5.5 % Ni, 3 % Mo NR 
+22 % Cr, 5.5 % Ni, 3 % Mo NR 
+29 % Cr, 8 % Ni, 2 % Mo NR 
+26 % Cr, 8 % Ni, 2 % Mo NR 
+25 % Cr, 7 %, Ni, 4 % Mo NR 
+25 % Cr, 7 % Ni, 3 % Mo, W NR 
+25 % Cr, 7 % Ni, 3.5 Mo NR 
+25 % Cr, 7 % Ni, 3 % Mo, 1.5 % Cu, 1 % W NR 
+27 % Cr, 7 % Ni, 3 % Mo, 2 % Cu NR 
+A Electrodes shall comply with ASME SFA-5.4, and corresponding ER grades of SFA-5.9 or SFA-5.11. 
+6 NR = not required. 
+0 WQ = water quench. 
+Minimum Post-Weld Heat Treatment 
+Temperature °F [°Cf 
+1875-1925 [1025-1055], air cool, 
+lus 900-1150 [480-620] 
+1250 [675] 
+1250 [675] 
+1150 [620] 
+1050 [565] 
+1350-1440 [730- 780] 
+2010-2120 [1100-1160] + WQ 
+1975--2100 [1080-1150] + WQ 
+1900 [1040] + WQ 
+1900 [1040] + WQ 
+1900 [1040] + WQ 
+1900 [1040] + WQ 
+1900 [1040] + WQ 
+1900 [1040] + WQ 
+1900 [1040] + WQ 
+1900 [1040] + WQ 
+1900 [1040] + WQ 
+1900 [1040] + WQ 
+NR 
+2100 [1150] + WQ 
+2100 [1150] + WQ 
+2100 [1150] + WQ 
+2025 [1105] + WQ 
+2100 (1150] + WQ 
+NR 
+NR 
+NR 
+NR 
+NR 
+NR 
+NR 
+NR 
+NR 
+0 Match filler metal is available. Fabricators also have used AWS A5.14, Class ER, NiCrMo-3 and AWS A5.11, Class E, NiCrMo-3 filter metals. 
+EASME SFA-5.14 Class. 
+1465 

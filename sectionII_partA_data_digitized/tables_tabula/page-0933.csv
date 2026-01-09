@@ -1,0 +1,46 @@
+1,C,200 [95],1150 [620jA minimum
+2,A, B,200 [95],1100 [595jA minimum
+2,C,200 [95],1150 [620]A minimum
+4,A, B, E,200 [95],1100 [595jA minimum
+4,C, D,200 [95],1150 [620jA minimum
+6,A, B,300 [150],1100 [595jA minimum
+7,A,300 [150],1100 [595jA minimum
+8,A, B, C,300 [150],1250 [675]A minimum
+9,A, B, E,300 [150],11 oo [595]A minimum
+9,C,D,300 [150],1150 [620]A minimum
+10,A,B,300 [150],1100 [595]A minimum
+11,A, B,300 [150],1100 [595]A minimum
+12,A, B,300 [150],1100 [595]A minimum
+13,A, B,400 [205],1100 [595]A minimum
+14,A,400 [205],1100 [595]A minimum
+16,A,50 [10],1100 [595]A minimum
+17,A,,No welding
+CA15,A,400 [205],1750 [955] air cool or liquid quench below 400 [205] temper at 900 [480] minimum
+CA15,B,400 [205],1100 [595]A minimum
+CA15,C,D,400 [205],1150 [620]A minimum
+
+,,Temperature, 'F ['CJ,,
+,A, B,200 [95],1100 [595]A minimum,
+1,C,200 [95],1150 [620jA minimum,
+2,A, B,200 [95],1100 [595jA minimum,
+2,C,200 [95],1150 [620]A minimum,
+4,A, B, E,200 [95],1100 [595jA minimum,
+4,C, D,200 [95],1150 [620jA minimum,
+6,A, B,300 [150],1100 [595jA minimum,
+7,A,300 [150],1100 [595jA minimum,
+8,A, B, C,300 [150],1250 [675]A minimum,
+9,A, B, E,300 [150],11 oo [595]A minimum,
+9,C,D,300 [150],1150 [620]A minimum,
+10,A,B,300 [150],1100 [595]A minimum,
+11,A, B,300 [150],1100 [595]A minimum,
+12,A, B,300 [150],1100 [595]A minimum,
+13,A, B,400 [205],1100 [595]A minimum,
+14,A,400 [205],1100 [595]A minimum,
+16,A,50 [10],1100 [595]A minimum,
+17,A,,No welding,
+CA15,A,400 [205],1750 [955] air cool or liquid quench below 400 [205] temp,
+CA15,B,400 [205],1100 [595]A minimum,
+CA15,C,D,400 [205],1150 [620]A minimum,
+CA15M,A,400 [205],1100 [595jA minimum,
+CA6NM,A,50 [10],Final temper between 1050 [565] and 1150 [620],
+CA6NM,B,50 [10],Intermediate PWHT between 1225 [665] and 1275 [690],

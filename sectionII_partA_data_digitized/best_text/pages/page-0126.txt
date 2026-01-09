@@ -1,0 +1,114 @@
+SA-20/SA-Z0M ASME BPVC.II.A-2025 
+procedure qualification test plates and the weld repaired plate 
+shall be subjected to the thermal heat treatment as specified by 
+the purchaser. 
+9.4.7 In addition, repair welds shall meet the requirements 
+of the construction code specified by the purchaser. 
+10. Test Methods 
+10.1 All tests shall be conducted in accordance with Test 
+Methods and Definitions A370. 
+10.2 Yield strength shall be determined by either the 0.2 % 
+offset method or the 0.5 % extension under load method, unless 
+otherwise stated in the applicable product specification. 
+10.3 Rounding Procedures-For purposes of determining 
+conformance with the applicable product specification, a cal­
+culated value shall be rounded to the nearest 1 ksi [5 MPa] for 
+tensile and yield strengths, and to the nearest unit in the 
+right-hand place of figures used in expressing the limiting 
+value for other values, in accordance with the rounding method 
+given in Practice E29. 
+11. Tension Tests 
+11.1 Number of Test Coupons: 
+11.1.1 Plates Produced from As-Rolled Plates-For other 
+than quenched and tempered plates, one tension test coupon 
+shall be taken from each plate-as-rolled. Two tension test 
+coupons shall be taken from each quenched and tempered 
+plate, as heat treated. If plates are furnished by the manufac­
+turer or processor in accordance with 11.4.2 and qualified by 
+using test specimens taken from heat-treated test coupons 
+(including normalized, normalized and tempered, and 
+quenched and tempered), one tension test coupon shall be 
+taken from each plate-as-rolled (see Terminology A941 for the 
+definition of plate-as-rolled). 
+11.1.2 Plates Produced from Coil and Furnished without 
+Heat Treatment or with Stress Relieving Only-Except as 
+allowed by 11.1.2.1 and 11.1.4, a minimum of three tension 
+coupons shall be taken from each coil as follows: 
+11.1.2. l The first test coupon shall be taken immediately 
+prior to the first plate to be qualified to the applicable product 
+specification, the second test coupon shall be taken from the 
+approximate center lap, and the third test coupon shall be taken 
+immediately after the last plate to be qualified to the applicable 
+product specification. If, during decoiling, the amount of 
+material decoiled is less than that required to reach the next 
+standard test location, a test for qualification of that particular 
+portion of the coil shall be made from a test coupon taken from 
+a location adjacent to the innermost portion decoiled. 
+11.1.2.2 All plates between any two test locations that meet 
+the requirements of the applicable product specification are 
+acceptable. 
+11. l.2.3 All plates between a test location that fails to meet 
+the requirements of the applicable product specification and an 
+adjacent test location that meets the requirements of the 
+applicable product specification are rejectable, except that the 
+processor has the option to malce other tests after cutting back 
+the coil in either direction. 
+11.1.3 Plates Produced from Coil and Furnished Heat 
+Treated by Other than Stress Relieving-For other than 
+74 
+quenched and tempered plates, one tension test coupon shall be 
+taken from each coil. Two tension test coupons shall be taken 
+from each quenched and tempered plate, as heat treated. 
+11.1.4 Plates Produced from Coil and Qualified Using Test 
+Specimens Taken from Test Coupons Heat Treated by Other 
+than Stress Relieving-One tension test coupon shall be taken 
+from each coil. 
+11.2 Orientation of Test Specimens-The longitudinal axis 
+of the tension test specimens shall be transverse to the final 
+rolling direction of the plate. 
+11.3 Location of Test Coupons-Tension test coupons shall 
+be taken from a corner of the plate. For quenched and tempered 
+plates, the two tension test coupons shall be taken from 
+opposite ends of the plate. 
+11.4 Tests from Heat-Treated Plates: 
+11.4.1 If heat treatment is performed by the manufacturer or 
+processor, the test specimens shall be taken from the plate in 
+the heat-treated condition or from full-thickness coupons 
+simultaneously heat treated with the plate. 
+11.4.2 If heat treatment is to be performed by the fabricator, 
+the plates shall be accepted on the basis of tests made on test 
+specimens taken from full-thickness coupons heat treated in 
+accordance with the requirements specified in the applicable 
+product specification or the purchase order. If the heat­
+treatment temperatures are not specified, the manufacturer or 
+processor shall heat treat the coupons under conditions it 
+considers appropriate. The purchaser shall be informed of the 
+procedure followed in heat treating the specimens. 
+11.4.3 If approved by the purchaser, the procedures of 
+11.4.2 may be implemented on plates heat treated by the 
+manufacturer or processor, except that for plates that are 
+quenched and tempered, all testing required the specification or 
+the purchase order must be performed after plate heat 
+treatment, in accordance with 11.1.1 and 11.4.4, and the results 
+reported. 
+11.4.4 For plates that are heat treated with a cooling rate 
+faster than still-air cooling from the austenitizing temperature, 
+one of the following shall apply in addition to other require­
+ments specified herein: 
+11.4.4.1 The gage length of the tension test specimen shall 
+be talcen at least IT from any as-heat treated edge, where Tis 
+the thickness of the plate, and shall be at least ½ in. [12.5 mm] 
+from flame-cut or heat-affected-zone surfaces. 
+11.4.4.2 A steel thermal buffer pad, 1 Tby lTby at least 3T, 
+shall be joined to the plate edge by a partial penetration weld 
+completely sealing the buffered edge prior to heat treatment. 
+11.4.4.3 Thermal insulation or other thermal barriers shall 
+be used during the heat treatment adjacent to the plate edge 
+where the test specimens are to be removed. It shall be 
+demonstrated that the cooling rate of the tension test specimen 
+is no faster than, and not substantially slower than, that attained 
+by the method described in 11.4.4.2. 
+11 .4.4.4 When test coupons cut from the plate but heat 
+treated separately are used, the coupon dimensions shall be not 
+less than 3T by 3T by T and each tension test specimen cut 
+from it shall meet the requirements of 11.4.4.1. 

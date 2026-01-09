@@ -1,0 +1,71 @@
+ASME BPVC.11.A-2025 SA-283/SA-283M (ASTM A283/A283M) 
+TABLE 1 Chemical Requirements 
+Carbon, max 
+Manganese, max 
+Phosphorus, max 
+Sulfur, max 
+Silicon 
+Elements 
+Plates 1 ½ in. [40 mm] and under, max 
+Plates over 1 ½ in. [40 mm] 
+Copper, min % when copper is specified 
+Grade C 
+0.24 
+0.90 
+0.030 
+0.030 
+0.40 
+0.15-0.40 
+0.20 
+Heat Analysis, % 
+Grade D 
+0.27 
+0.90 
+0.030 
+0.030 
+0.40 
+0.15-0.40 
+0.20 
+TABLE 2 Tensile RequirementsA 
+Grade C Grade D 
+Tensile strength, ksi [MPa] 
+Yield point, min, ksi [MPa] 
+55-75 [380-515) 
+30 [205] 
+60-80 [ 415-550] 
+33 [230] 
+Elongation in 8 in. [200 mm], min, % 8 
+Elongation in 2 in. [50 mm], min, % 8 
+22 
+25 
+A See Specimen Orientation under the Tension Tests section of Specification A6/A6M. 
+20 
+23 
+8 For plates wider than 24 in. [610 mm], the elongation requirement is reduced two percentage points. See elongation requirement adjustments in the Tension Tests section 
+of Specification A6/A6M. 
+5. Chemical Composition 
+5.1 The heat analysis shall conform to the requirements 
+prescribed in Table 1. 
+5.2 The steel shall conform on product analysis to the 
+requirements prescribed in Table 1, subject to the product 
+analysis tolerances in Specification A6/ A6M. 
+6. Mechanical Properties 
+6.1 Tensile Properties: 
+6.1.1 Material as represented by the test specimens shall 
+conform to the requirements as to tensile properties prescribed 
+in Table 2. 
+7. Keywords 
+7.1 carbon steel; plates; structural quality 
+SUPPLEMENTARY REQUIREMENTS 
+Supplementary requirements shall not apply unless specified in the order or contract. Standardized 
+supplementary requirements for use at the option of the purchaser are listed in Specification A6/ A6M. 
+Those that are considered suitable for use with this specification are listed by title: 
+S2. Product Analysis. 
+S3. Simulated Post-Weld Heat Treatment of Mechanical 
+Test Coupons. 
+S5. Charpy V-Notch Impact Test. 
+425 
+S6. Drop Weight Test (for Material 0.625 in. [16 mm] and 
+over in Thickness). 
+S8. Ultrasonic Examination. 
+S15. Reduction of Area. 

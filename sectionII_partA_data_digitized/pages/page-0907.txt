@@ -1,0 +1,137 @@
+ASME BPVC.II.A-2025 SA-480/SA-480M (ASTM A480/A480M) 
+TABLE A3.11 Permitted Variations in Length of Hot-rolled, 
+Narrow, Coll-processed Product as Cut Lengths 
+Tolerances for variations of length of hot-rolled, narrow, coil-processed 
+product as cut lengths shall be Identical to the tolerances for hot-rolled, wide, 
+coil-processed product as listed in Table A3.15, unless otherwise agreed upon 
+by seller and purchaser and specified in the purchase order. 
+TABLE A3.12 Permitted Variations in Flatness of Hot-rolled, 
+Narrow, Flat-rolled, Coil-processed Product as Cut Lengths 
+Tolerances for variations of flatness of hot-rolled, narrow, coil-processed 
+product as cut lengths shall be identical to the tolerances for hot-rolled, wide, 
+coil-processed product as listed in Table A3.16, unless o.therwise agreed upon 
+by seller and purchaser and specified in the purchase order. 
+TABLE A3.13 Permitted Variations in Thickness of Hot-rolled, 
+Wide, Coil-processed Product as Coil and Cut Lengths 
+NoTE I-Thickness measurements are taken at least 10 mm from the 
+edge of the product. 
+NOTE 2-For specified thicknesses other than those shown, the toler­
+ances for the next higher thickness shall apply. 
+Permitted Variations of Thickness, mm, Over and 
+Under, Except as Indicated Otherwise, for Specified 
+Specified Thickness, mm Width (w) 
+W:S 1500 W> 1500 
+2.0 0.18 0.25 
+2.25 0.20 0.27 
+2.5 0.23 0.30 
+3.0 0.25 0.33 
+3.5 0.30 0.33 
+5.0 -0.25, +0.47 -0.25, +0.51 
+6.0 -0.25, +0.51 -0.25, +0.51 
+8.0 -0.25, +0.75 -0.25, +0.75 
+>8.0 -0.25, +0.75 -0.25, +0.75 
+TABLE A3.14 Permitted Variations in Width of Hot-rolled, Wide, 
+Coil-processed Product as Cut Lengths (Not Resquared) and Coil 
+Specified Dimension, mm Tolerance on Width, mm, for 
+Trimmed Edges 
+Thickness (t), mm Width (w), mm Over Under 
+<5.00 W< 1200 2 0 
+W2: 1200 6 0 
+5.00 <ts 10.00 w < 1200 4 0 
+W2: 1200 9 0 
+>10.00 W< 1200 6 0 
+W2: 1200 12 0 
+TABLE A3.15 Permitted Variations In Length of Hot-rolled, Wide, 
+Coil-processed Product as Cut Lengths Not Resquared 
+Specified Length 
+• (L), mm 
+L< 3000 
+3000 s L s 6000 
+Over 
+(0.005 x L) 
+Tolerance, mm 
+Under 
+0 
+0 
+TABLE A3.16 Permitted Variations In Flatness of Hot-rolled, Wide, 
+Coil-processed Product as Cut Lengths 
+Not Specified to Stretcher-Leveled Standard of Flatness 
+Specified Thickness Specified Width Flatness 
+(t), mm (w), mm Tolerance/ mm 
+1<5 W<900 13 
+900:S W<1500 19 
+W2: 1500 26 
+/2:5 W<1500 23 
+1500 :SW< 1800 30 
+W2: 1800 38 
+Stretcher-Leveled Standard of Flatness 
+Specified Thickness Specified Width Specified Length 
+(L),mm 
+Flatness 
+Tolerance/ mm (t), mm (w); mm 
+t:S 13 W< 1200 
+W2: 1200 
+L < 2400 
+L 2: 2400 
+L < 2400 
+L 2: 2400 
+4 
+7 
+7 
+7 
+A Maximum deviation from a horizontal flat surface. 
+TABLE A3.17 Permitted Variations in Thickness of Hot-rolled 
+Plate Mill Plate (Quarto Platet• 8 
+NOTE 1-For specified thicknesses other than those shown, the toler­
+ances for the next higher thickness shall apply. 
+Specified 
+Thickness, 
+mm 
+5 
+8 
+10 
+20 
+25 
+50 
+75 
+100 
+150 
+200 
+250 
+Width (W), mm 
+2100 3000 
+W< 2100 SW< SW< w 2: 3600 
+3000 3600 
+Tolerance Over Specified Thickness, 6 mm 
+1.35 1.75 
+1.15 1.30 2.15 
+1.15 1.30 2.15 
+1.40 1.55 2.15 2.30 
+1.55 1.65 2.15 2.55 
+1.80 1.90 2.40 2.95 
+3.20 3.80 4.45 5.10 
+3.75 4.00 5.00 5.70 
+4.50 5.00 8.50 9.00 
+6.00 6.50 9.00 11.0 
+8.00 8.50 11.0 14.0 
+A Thickness is measured along the original longitudinal edges of the as-produced 
+plate at least 1 0 mm but not more than 75 mm from the edge. 
+8 For circles, the over thickness tolerances in this table apply to the diameter of the 
+circle corresponding to the width ranges shown. For plates of Irregular shape, the 
+over thickness tolerances apply to the greatest width corresponding to the width 
+ranges shown. For plates up to 250 mm, incl, in thickness, the tolerance under the 
+specified thickness is 0.30 mm. 
+c The tolerance over specified thickness In the area more than 75 mm in from the 
+longitudinal edges of the plate at the mill produced width shall not exceed twice the 
+tabular tolerance. 
+807 
+TABLE A3.18 Permitted Variations In Width for Hot-rolled 
+Rectangular Sheared Plate MIii Plates (Quarto Plates) 
+Specified Width (W), mm 
+W< 2000 
+2000 s w < 3000 
+w 2: 3000 
+Tolerances, Over arid Under, mm 
++15,-0 
++20, -0 
++25,-0 

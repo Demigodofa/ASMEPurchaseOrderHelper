@@ -1,0 +1,108 @@
+SA-788/SA-788M ASME BPVC.II.A-2025 
+A940/ A940M Specification for Vacuum Treated Steel 
+Forgings, Alloy, Differentially Heat Treated, for Turbine 
+Rotors 
+A941 Terminology Relating to Steel, Stainless Steel, Related 
+Alloys, and Ferroalloys 
+A965/ A965M Specification for Steel Forgings, Austenitic, 
+for Pressure and High Temperature Parts 
+A966/ A966M Practice for Magnetic Particle Examination of 
+Steel Forgings Using Alternating Current 
+A982/A982M Specification for Steel Forgings, Stainless, for 
+Compressor and Turbine Airfoils 
+A983/A983M Specification for Continuous Grain Flow 
+Forged Carbon and Alloy Steel Crankshafts for Medium 
+Speed Diesel Engines 
+A986/A986M Specification for Magnetic Particle Examina­
+tion of Continuous Grain Flow Crankshaft Forgings 
+A991/A991M Test Method for Conducting Temperature 
+Uniformity Surveys of Furnaces Used to Heat Treat Steel 
+Products 
+A1021/A1021M Specification for Martensitic Stainless Steel 
+Forgings and Forging Stock for High-Temperature Service 
+A1048/A1048M Specification for Pressure Vessel Forgings, 
+Alloy Steel, Higher Strength Chromium-Molybdenum­
+Tungsten for Elevated Temperature Service 
+A1049/A1049M Specification for Stainless Steel Forgings, 
+Ferritic/Austenitic (Duplex), for Pressure Vessels and 
+Related Components 
+A1058 Test Methods for Mechanical Testing of Steel 
+Products-Metric 
+E23 Test Methods for Notched Bar Impact Testing of Me­
+tallic Materials 
+Ell2 Test Methods for Determining Average Grain Size 
+E165/E165M Practice for Liquid Penetrant Examination for 
+General Industry 
+E380 Practice for Use of the International System of Units 
+(SI) (the Modernized Metric System) (Withdrawn 1997) 
+E399 Test Method for Linear-Elastic Plane-Strain Fracture 
+Toughness Kic of Metallic Materials 
+E428 Practice for Fabrication and Control of Metal, Other 
+than Aluminum, Reference Blocks Used in Ultrasonic 
+Testing 
+B1290 Test Method for Crack-Tip Opening Displacement 
+(CTOD) Fracture Toughness Measurement (Withdrawn 
+2013) 
+B1820 Test Method for Measurement of Fracture Toughness 
+B1916 Guide for Identification of Mixed Lots of Metals 
+2.2 Other Standards: 
+ANSI/ASME B46.1 Surface Texture (Surface Roughness, 
+Waviness and Lay) 
+ASME Boiler and Pressure Vessel Code 
+3. Terminology 
+3.1 Terminology A941 is applicable to this specification. 
+Additional terms and wording more applicable to forgings are 
+as noted in this section. 
+3.2 Forging Definitions: 
+3.2.1 steel forging, n-the product of a substantially com­
+pressive plastic working operation that consolidates the mate­
+rial and produces the desired shape. The plastic working may 
+be performed by a hammer, press, forging machine, or ring 
+rolling machine, and must deform the material to produce an 
+essentially wrought structure. 
+3.2.1.1 Discussion-Hot rolling operations may be used to 
+produce blooms or billets for reforging. 
+3.3 Forging Geometries: 
+3.3.1 bar forging, n-forging that has no bore and having an 
+axial length greater than its maximum cross sectional dimen­
+sion. 
+3.3.1.1 Discussion-More than one cross sectional shape or 
+size may be included. Sometimes referred to as a solid forging. 
+3.3.2 disk forging, n-forging, sometimes referred to as a 
+pancake forging, that has (a) an axial length appreciably less 
+than its diameter, (b) may be dished on one or both faces, and 
+( c) final forging includes upsetting operations to reduce the 
+height of the stock and increase its diameter. 
+3.3.2.1 Discussion-Since much of the hot working is done 
+in axially compressing the stock, the central area may not 
+receive sufficient consolidation. To counter this effect, consid­
+eration is usually given to the initial saddening (see 3.3.6) of 
+the ingot or billet. 
+3.3.3 hollow forging, n-forging (also known as a shell 
+forging or a mandrel forging) in which (a) the axial length is 
+equal to or greater than the diameter, and (b) the forging length 
+and wall thickness are produced by hot working over a mandrel 
+(usually water cooled) such that the bore diameter remains 
+essentially the same as that of the mandrel. 
+3.3.3.1 Discussion-Unless a hollow ingot has been used, 
+the starting slug is hot trepanned or punched after upsetting and 
+the bore diameter adjusted to suit the forging mandrel. The 
+outside diameter may be contoured if required. The workpiece 
+is forged between the upper die and lower dies while the 
+mandrel is supported by cranes or manipulators to facilitate 
+rotation. 
+3.3.4 ring forging, n-type of hollow forging in which (a) 
+the axial length is less than the diameter, (b) the wall thickness 
+is reduced, and ( c) the outside diameter is increased by hot 
+working between the top die and a mandrel supported on 
+temporary saddles. 
+3.3.4.1 Discussion-Forging between the top die and the 
+mandrel enables the ring diameter to be increased while 
+reducing the wall thickness, without increasing the axial 
+length. 
+3.3.5 ring rolling, n-involves the use of specialized equip­
+ment whereby a hot punched, trepanned, or bored disk is ( a) 
+hot worked between a powered outer roller and an idling inner 
+roller, such that the wall thickness is reduced and the outside 
+diameter is increased, and (b) the axial length of the ring is not 
+1274 

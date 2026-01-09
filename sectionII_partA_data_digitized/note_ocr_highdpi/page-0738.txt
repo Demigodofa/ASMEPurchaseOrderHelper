@@ -1,0 +1,139 @@
+SA-409/SA-409M
+
+crown, not to exceed ie in. [2 mm]. Any weld reinforcement
+may be removed at the manufacturer’s option or by agreement
+between the manufacturer and purchaser. The contour of the
+reinforcement should be reasonably smooth and free from
+irregularities. The weld metal shall be fused uniformly into the
+plate surface. No concavity of contour is permitted unless the
+resulting thickness of weld metal is equal to or greater than the
+minimum thickness of the adjacent base metal.
+
+5.2.3 Weld defects, as determined by specified inspection
+requirements, shall be repaired by removal to sound metal and
+rewelding.
+
+5.3 Heat Treatment:
+
+5.3.1 Except as provided in 5.3.2, all pipe shall be furnished
+in the heat-treated condition. For H grades and $30815,
+separate solution heat treatments are required for solution
+annealing; in-process heat treatments are not permitted as
+a substitute for the separate solution heat treatments. The
+heat-treatment procedure shall consist of heating the material to
+a minimum temperature of 1900 °F [1040 °C], except for S31254,
+$31266, and S30815 which shall be heat treated to 2100 °F
+[1150°C] and 1920°F [1050 °C] respectively, S31727 and
+$32053 which shall be heat treated in the range 1975 to 2155 °F
+[1080 to 1180°C], S34565 which shall be heat treated in
+2050 °F [1120 °C] to 2140 °F [1170 °C], and N08367, which
+shall be heated to a minimum temperature of 2025 °F
+[1107°C], all materials to be followed by quenching in
+water or rapidly cooling by other means.
+
+5.3.2 The purchase order shall specify one of the following
+conditions if the heat-treated condition specified in 5.3.1 is not
+desired by the purchaser:
+
+5.3.2.1 A final heat-treatment temperature under 1900 °F
+[1040 °C]. Each pipe supplied under this requirement shall be
+stenciled with the final heat-treatment temperature in degrees
+Fahrenheit or degrees Celsius after the suffix “HT.” Controlled
+structural or special service characteristics may be specified as
+a guide for the most suitable heat treatment.
+
+5.3.2.2, DELETED
+
+5.3.2.3, DELETED
+
+5.4 A solution annealing temperature above 1950 °F
+[1065 °C] may impair the resistance to intergranular corrosion
+after subsequent exposure to sensitizing conditions in TP321,
+TP347, and TP348. When specified by the purchaser, a lower
+temperature stabilization or re-solution anneal shall be used
+subsequent to the initial high temperature solution anneal (see
+Supplementary Requirement $5).
+
+6. Chemical Composition
+
+6.1 The steel shall conform to the chemical composition in
+Table 1.
+
+6.2 When specified on the purchase order, a product analy-
+sis shall be supplied from one tube or coil of steel per heat. The
+product analysis tolerance of Specification A480/A480M shall
+
+apply.
+
+688
+
+ASME BPVC.II.A-2025
+
+6.3 Unless otherwise specified in the purchase order, the
+chemical composition of the welding filler metal shall conform
+to the requirements of the applicable AWS specification for the
+corresponding grade shown in Table 2. Grades with no filler
+metal classification indicated shall be welded with filler metals
+producing deposited weld metal having a composition in
+accordance with the chemical composition specified in Table 1.
+The method of analysis for nitrogen and cerium shall be a
+matter of agreement between the purchaser and manufacturer.
+The purchaser may choose a higher-alloy filler metal when
+needed for corrosion resistance.
+
+7. Tensile Requirements
+
+7.1 The tensile properties of the plate or sheet used in
+making the pipe shall conform to the requirements prescribed
+in Table 3. Certified mill test reports shall be submitted to the
+pipe manufacturer.
+
+7.2 A transverse tension test taken across the welded joint of
+the finished pipe shall meet the same minimum tensile strength
+requirements as the sheet or plate. The weld section on the
+tension specimen shall be in the same condition as the finished
+pipe (with or without bead as specified).
+
+8. Mechanical Tests Required
+
+8.1 Tension Test—One transverse tension test of the weld
+shall be made on each lot (Note 2) of finished pipe.
+
+Nore 2—The term “lot” applies to each 200 ft [60 m] or less of pipe of
+the same NPS and wall thickness (or schedule number) which is produced
+from the same heat of steel and subjected to the same finishing treatment
+in a continuous furnace. When final heat treatment is in a batch-type
+furnace, the lot shall include only that pipe which is heat treated in the
+same furnace charge. When no heat treatment is performed following final
+forming operations, the lot shall include each 200 ft [60 m] or less of pipe
+of the same NPS and wall thickness (or schedule number) which is
+produced from the same heat of steel.
+
+8.2 Transverse Guided-Bend Weld Test—One test (two
+specimens) of the weld shall be made on each lot (Note 2) of
+finished pipe.
+
+8.3 Pressure or Nondestructive Electric Test—Each length
+
+of pipe shall be subjected to a pressure test or a nondestructive
+electric test as prescribed in Section 15.
+
+9. Permissible Variations in Wall Thickness
+
+9.1 The minimum wall thickness at any point shall not be
+more than 0.018 in. [0.46 mm] under the specified wall
+thickness. (This tolerance is slightly more than commercial
+tolerances on sheet and plate to allow for possible loss of
+thickness caused by manufacturing operations.)
+
+10. Permissible Variations in Dimensions
+
+10.1 Permissible variations in dimensions shall not exceed
+the following at any point in each length of pipe.
+
+10.1.1 Specified Diameter—Where the specified wall thick-
+ness is less than 0.188 in. [4.8 mm], the actual outside
+diameter, based on circumferential measurement, shall not vary
+more than +0.20 % from the specified outside diameter. Where
+the specified wall thickness is 0.188 in. [4.8 mm] and heavier,
+the actual outside diameter, based on circumferential

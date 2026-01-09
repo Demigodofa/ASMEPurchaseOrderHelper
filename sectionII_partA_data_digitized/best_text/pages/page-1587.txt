@@ -1,0 +1,113 @@
+ASME BPVC.II.A•2025 SA·1016/SA-1016M 
+25.8.6 More or smaller reference discontinuities, or both, 
+may be used by agreement between the purchaser and the 
+manufacturer. 
+25.9 Standardization Procedure: 
+25.9.1 The test apparatus shall be standardized at the 
+beginning and end of each series of tubes of the same specified 
+size (diameter and wall thickness), grade and heat treatment 
+condition, and at intervals not exceeding 4 h during the 
+examination of such tubing. More frequent standardizations 
+may be performed at the manufacturer's option or may be 
+required upon agreement between the purchaser and the 
+manufacturer. 
+25.9.2 The test apparatus shall also be standardized after 
+any change in test system settings, change of operator, equip­
+ment repair, or interruption due to power loss or shutdown. 
+25.9.3 The reference standard shall be passed through the 
+test apparatus at the same speed and test system settings as the 
+tube to be tested, except that, at the manufacturer's discretion, 
+the tubes may be tested at a higher sensitivity. 
+25.9.4 The signal-to-noise ratio for the reference standard 
+shall be 2.5 to 1 or greater, and the reference signal amplitude 
+for each discontinuity shall be at least 50 % of full scale of the 
+display. In establishing the noise level, extraneous signals from 
+identifiable surface imperfections on the reference standard 
+may be ignored. When reject filtering is used during UT 
+testing, linearity must be demonstrated. 
+25.9.5 If, upon any standardization, the reference signal 
+amplitude has decreased by at least 29 % (3.0 dB), the test 
+apparatus shall be considered out of standardization. The test 
+system settings may be changed, or the transducer(s), coil(s), 
+or sensor(s) adjusted, and the unit restandardized, but all tubes 
+tested since the last acceptable standardization must be re­
+tested. 
+25.10 Evaluation of Impeifections: 
+25.10.1 Tubing producing a test signal equal to or greater 
+than the lowest signal produced by the reference standard shall 
+be designated suspect, shall be clearly marked or identified, 
+and shall be separated from the acceptable tubing. 
+25.10.2 Such suspect tubing shall be subject to one of the 
+following three dispositions: 
+25.10.2.1 The tubes shall be rejected without further 
+examination, at the discretion of the manufacturer. 
+25.10.2.2 If the test signal was produced by imperfections 
+such as scratches, surface roughness, dings, straightener marks, 
+loose ID bead and cutting chips, steel die stamps, stop marks, 
+tube reducer ripple, or chattered flash tJ.im, the tubing shall be 
+accepted or rejected depending on visual observation of the 
+severity of the imperfection, the type of signal it produces on 
+the testing equipment used, or both. 
+25.10.2.3 If the test signal was produced by imperfections 
+that cannot be identified, or was produced by cracks or 
+crack-like imperfections, the tubing shall be rejected. 
+25.10.3 Any tubes with imperfections of the types in 
+25.10.2.2 and 25.10.2.3, exceeding 0.004 in. [0.1 mm] or 
+12.5 % of the specified minimum wall thickness (whichever is 
+greater) in depth shall be rejected. 
+25.10.4 Rejected tubes may be reconditioned and retested 
+providing the wall thickness is not decreased to less than that 
+required by this or the product specification. If grinding is 
+perfo1med, the outside diameter in the area of grinding may be 
+reduced by the amount so removed. To be accepted, recondi­
+tioned tubes must pass the nondestructive examination by 
+which they were originally rejected. 
+26. Hydrostatic Test 
+26.1 In lieu of nondestructive electJ.ic examination, and 
+when specified by the purchaser, and, except as provided in 
+26.2 and 26.3, each tube shall be tested by the manufacturer to 
+a minimum hydrostatic test pressure determined by the follow­
+ing equation: 
+where: 
+Inch- Pound Units:P = 32000 t/D 
+SI Units:P = 220.6 t/D 
+P = hydrostatic test pressure, psi or MPa, 
+t = specified wall thickness, in. or mm, and 
+D = specified outside diameter, in. or mm. 
+(3) 
+26.1.1 The hydrostatic test pressure determined by Eq 3 
+shall be rounded to the nearest 50 psi [0.5 MPa] for pressure 
+below 1000 psi [7 MPa], and to the nearest 100 psi [1 MPa] for 
+pressures 1000 psi [7 MPa] and above. The hydrostatic test 
+may be performed prior to cutting to final length, or prior to 
+upsetting, swaging, expanding, bending or other forming 
+operations, or both. 
+26.2 Regardless of the determination made by Eq 3, the 
+minimum hydrostatic test pressure required to satisfy these 
+requirements need not exceed 1000 psi [7 MPa]. This does not 
+prohibit testing at higher pressures at manufacturer's option or 
+as provided in 26.3. 
+26.3 With concurrence of the manufacturer, a minimum 
+hydrostatic test pressure in excess of the requirements of 26.2 
+or 26.1, or both, may be stated on the order. The tube wall 
+stress shall be determined by the following equation: 
+S = PD/2t (4) 
+where: 
+S = tube wall stress, psi or MPa, and all other symbols as 
+defined in 24.1. 
+26.4 The test pressure shall be held for a minimum of 5 s. 
+26.5 If any tube shows leaks during the hydrostatic test, it 
+shall be rejected. 
+26.6 The hydrostatic test may not be capable of testing the 
+end portion of the pipe. The lengths of pipe that cannot be 
+tested shall be determined by the manufacturer and, when 
+specified in the purchase order, reported to the purchaser. 
+27. Pneumatic Test 
+27.1 Air Undenvater Test-When this test is required, each 
+tube, with internal surfac~ clean and dry, shall be internally 
+pressurized to 150 psi [1000 kPa] minimum with clean and dry 
+compressed air while being submerged in clear water. The tube 
+shall be well lighted, preferably by underwater illumination. 
+Any evidence of air leakage of the pneumatic couplings shall 
+be corrected prior to testing. Inspection shall be made of the 
+1533 

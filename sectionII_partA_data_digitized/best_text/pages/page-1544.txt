@@ -1,0 +1,111 @@
+SA-999/SA-999M ASME BPVC.II.A-2025 
+17. Repair by Welding 
+17 .1 Repair by welding of defects in seamless pipe (includ­
+ing centrifugally cast pipe and forged and bored pipe) and of 
+plate defects in welded pipe and, if specifically stated by the 
+applicable product specification, weld seam defects in welded 
+pipe shall be permitted subject to the approval of the purchaser 
+and with the further understanding that the composition of the 
+deposited filler metal shall be suitable for the composition 
+being welded. Defects shall be thoroughly chipped or ground 
+out before welding and each repaired length shall be reheat 
+treated or stress relieved as required by the applicable product 
+specification. Each length of repaired pipe shall be nondestruc­
+tively tested as required by the applicable product specifica­
+tion. 
+17 .2 Repair welding shall be performed using procedures 
+and welders or welding operators that have been qualified in 
+accordance with the ASME Boiler and Pressure Vessel Code, 
+Section IX. 
+18. Retests 
+18.1 If the results of the qualification tests of any lot do not 
+conform to the requirements specified in the applicable product 
+specification, retests are permitted on additional lengths of pipe 
+of double the original number from the same lot, each of which 
+shall conform to the requirements specified. Only one retest of 
+any lot is permitted. Nonconformance of the retest is cause for 
+the rejection of the lot. 
+18.2 Any individual length of pipe that meets the test 
+requirements is acceptable. It is permitted to retest individual 
+lengths that do not confonn to the test requirements, provided 
+that the reason for nonconformance is established and the 
+nonconforming portion is removed. 
+19. Retreatment 
+19.1 If individual lengths of pipe selected to represent any 
+lot fail to conform to the test requirements, the lot represented 
+may be reheat treated and resubmitted for test. The manufac­
+turer may reheat treat the pipe, but not more than twice, except 
+with the approval of the purchaser. 
+20. Test Specimens 
+20.1 Test specimens shall be taken from the ends of finished 
+pipe prior to any forming operations, or being cut to length. 
+20.2 Specimens cut either longitudinally or transversely 
+shall be acceptable for the tension test. 
+20.3 If any test specimen shows flaws or defective 
+machining, the specimen may be discarded and another sub­
+stituted. 
+21. Flattening Test Requirements 
+21.l Seamless and Centrifugally Cast Pipe-A section of 
+pipe not less than 2½ in. [60 mm] in length shall be flattened 
+cold between parallel plates in two steps. During the first step, 
+which is a test for ductility, no cracks or breaks on the inside, 
+outside, or end surfaces, except as allowed by 21.3.4, shall 
+occur before the distance between the plates is less than the 
+value of H calculated as follows: 
+H=(l + e)v(e + t/D) 
+where: 
+H = distance between flattening plates, in. [mm], 
+t = specified wall thickness, in. [mm], 
+(2) 
+D = specified outside diameter, outside diameter correspond­
+ing to specified ANSI pipe size, or outside diameter 
+calculated by adding 2t (as defined above) to the 
+specified inside diameter in. [mm], and 
+e = deformation per unit length (constant for a given grade 
+of steel, 0.07 for medium carbon steel (maximum 
+specified carbon 0.19 % or greater), 0.08 for ferritic 
+alloy steel, 0.09 for austenitic steel, 0.09 for duplex 
+(ferritic/austenitic) stainless steel, and 0.09 for low­
+carbon steel (maximum specified carbon 0.18 % or 
+less)). 
+During the second step, which is a test for soundness, the 
+flattening shall be continued until the specimen breaks or the 
+opposite walls of the specimen meet. 
+21.2 Welded Pipe-A section of welded pipe not less than 4 
+in. [100 mm] in length shall be flattened cold between parallel 
+plates in two steps. The weld shall be placed at 90° from the 
+direction of the applied force (at the point of maximum 
+bending). During the first step, which is a test for ductility, no 
+cracks or breaks on the inside or outside surfaces, except as 
+provided for in 21.3.4, shall occur before the distance between 
+the plates is less than the value of H calculated by Eq 2. During 
+the second step, which is a test for soundness, the flattening 
+shall be continued until the specimen breaks or the opposite 
+walls of the specimen meet. 
+21.3 Seamless, Centrifugally Cast, and Welded Pipe: 
+21.3.1 Evidence of laminated or defective material or weld 
+that is revealed at any time during the entire flattening test shall 
+be cause for rejection. 
+21.3.2 Surface imperfections not evident in the test speci­
+men before flattening, but revealed during the first step of the 
+flattening test, shall be judged in accordance with the finish 
+requirements. 
+21.3.3 Superficial ruptures resulting from surface imperfec­
+tions shall not be a cause for rejection. 
+21.3.4 When low D-to-t ratio tubular products are tested, 
+because the strain imposed due to geometry is unreasonably 
+high on the inside surface at the six and twelve o'clock 
+locations, cracks at these locations shall not be cause for 
+rejection if the D-to-t ratio is less than 10. 
+22. Nondestructive Test Requirements 
+22.1 If required by the applicable product specification or 
+the purchase order, the pipe shall be tested by the hydrostatic 
+test (see 22.2) or by the nondestructive electric test (see 22.3). 
+22.2 Hydrostatic Test: 
+22.2.1 Except as allowed by 22.2.2 and 22.2.3, each length 
+of pipe shall be tested by the manufacturer to a hydrostatic 
+pressure that will produce in the pipe wall a stress not less than 
+60 % of the specified minimum yield strength for ferritic alloy 
+steel and stainless steel pipe, or 50 % of the specified minimum 
+yield strength for austenitic alloy and stainless steel pipe and 
+1490 

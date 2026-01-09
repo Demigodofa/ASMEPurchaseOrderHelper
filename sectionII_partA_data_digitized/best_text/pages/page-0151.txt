@@ -1,0 +1,88 @@
+ASME BPVC.II.A-2025 SA-20/SA-20M 
+X2. VARIATION OF TENSILE PROPERTIES IN PLATE-AS-ROLLED 
+X2.1 The tension requirements of this general requirements 
+specification are intended only to characterize the tensile 
+properties of a plate-as-rolled for determination of confor­
+mance to the requirements of the applicable product specifica­
+tions. Such testing procedures are not intended to define the 
+upper or lower limits of tensile properties at all possible test 
+locations within a plate-as-rolled. It is well known and docu­
+mented that tensile properties vary within a plate-as-rolled or 
+individual piece of steel as a function of chemical composition, 
+processing, testing procedure, and other factors. It is, therefore, 
+incumbent on designers and engineers to use sound engineer­
+ing judgement when using tension test results shown on mill 
+test reports. The testing procedures of this general require­
+ments specification have been found to provide plate adequate 
+for normal pressure vessel design criteria. 
+X2.2 A survey of the variation to be expected in tensile 
+properties obtained from plates and strnctural shapes was 
+conducted by the American Iron and Steel Institute (AISI). 
+The results of this survey are contained in a Contributions to 
+the Metallurgy of Steel entitled "The Variation of Product 
+Analysis and Tensile Properties-Carbon Steel Plates, and 
+Wide Flange Shapes" (SU/18, SU/19, and SU/20), published in 
+September 197 4. The data are presented in tables of probability 
+that tensile properties at other than the official location may 
+differ from those of the reported test location. 
+X2.3 This general requirements specification contains no 
+requirements applicable to product tension tests; conformance 
+to the applicable product specification is determined on the 
+basis of tests performed at the place of manufacture or 
+processing prior to shipment, unless otherwise specified. 
+X2.4 A Task Group of ASTM Subcommittee AOl.11 has 
+determined, based on review of the AISI data (SU20), that the 
+variation in tensile properties within a plate-as-rolled can be 
+expressed as a function of specified requirements; one standard 
+deviation equals approximately 3 % of required tensile 
+strength, 5 % of required yield strength, and 3 percentage 
+points of required elongation. 
+X3. VARIATION IN CHARPY V-NOTCH TESTS 
+X3. l A survey of the variation to be expected in Charpy 
+V-Notch test results obtained from three common fine grain 
+plate steels was conducted by the American Iron and Steel 
+Institute (AISI). 7 The results of the survey are contained in a 
+Contributions to the Metallurgy of Steel entitled, "The Varia­
+tions of Charpy V-Notch Impact Test Properties in Steel 
+Plates," (SU/24), published January 1979. The survey data 
+consists of test values obtained from six locations in addition to 
+the locations specified in 12.1.3 of this specification. The plate 
+conditions tested involved as-rolled, normalized, and quench 
+and tempered. Sufficient full-size specimens were taken from 
+each sample so that three longitudinal and three transverse 
+specimens could be broken at three test temperatures defined 
+for each grade. The data is presented in tables of probability 
+that impact properties at other than the official location which 
+may differ from those of the reported test location. Additional 
+data of the same type, but utilizing samples from thicker plates, 
+was published by AISI as SU/27. 
+X4. RADIUS FOR COLD BENDING 
+X4. l Suggested minimum inside bend radii for cold form­
+ing are referenced to group Designations A through F as 
+defined in Table X4.1. The suggested radii listed in Table X4.2 
+should be used as minimums in typical shop fabrication. 
+Material that does not form satisfactorily when fabricated in 
+accordance with Table X4.2 may be subject to rejection 
+pending negotiation with the steel supplier. When tighter bends 
+are required, the manufacturer should be consulted. 
+X4.2 The bend radius and the radius of the male die should 
+be as liberal as the finished part will permit. The width across 
+the shoulders of the female die should be at least 8 times the 
+plate thickness. Higher strength steels require larger die open­
+ings. The surface of the dies in the area of radius should be 
+smooth. 
+99 
+X4.3 Since cracks in cold bending commonly originate 
+from the outside edges, shear burrs and gas cut edges should be 
+removed by grinding. Sharp corners on edges and on punched 
+or gas cut holes should be removed by chamfering or grinding 
+to a radius. 
+X4.4 If possible, parts should be formed such that the bend 
+line is perpendicular to the direction of final rolling. If it is 
+necessary to bend with the bend line parallel to the direction of 
+final rolling, a more generous radius is suggested (11/2 times 
+applicable value given in Table X4.2 for bend lines perpen­
+dicular to the direction of rolling). 
+X4.5 References 
+X4.5.1 Both of these references are available from Ameri­
+can Iron and Steel Institute (AISI): 

@@ -1,0 +1,111 @@
+ASME BPVC.II.A-2025 SA-234/SA-234M (ASTM A234/A234M) 
+MSS-SP-83 Steel Pipe Unions, Socket-Welding and 
+Threaded 
+MSS-SP-95 Swage(d) Nipples and Bull Plugs 
+MSS-SP-97 Integrally Reinforced Forged Branch Outlet 
+Fittings-Socket Welding, Threaded and Buttwelding 
+Ends 
+2.6 ASNT Standard: 6 
+SNT-TC-lA Recommended Practice for Nondestructive 
+Testing Personnel Qualification and Certification 
+2.7 AWS Specifications 7 
+A5.5/A5.5M Specification for Low-Alloy Steel Electrodes 
+for Shielded Metal Arc Welding 
+A5.23/A5.23M Specification for Low-Alloy Steel Elec­
+trodes and Fluxes for Submerged Arc Welding 
+A5.28/A5.28M Specification for Low-Alloy Steel Elec­
+trodes for Gas Shielded Arc Welding 
+A5.29/A5.29M Low-Alloy Steel Electrodes for Flux Cored 
+Arc Welding 
+3. Terminology 
+3.1 Definitions-For definitions of terms used in this speci­
+fication refer to Specification A960/A960M. 
+4. Ordering Information 
+4.1 See Specification A960/ A960M. 
+5. General Requirements 
+5.1 Product furnished to this specification shall conform to 
+the requirements of Specification A960/ A960M, including any 
+supplementary requirements that are indicated in the purchase 
+order. Failure to comply with the requirements of Specification 
+A960/A960M constitutes non-conformance with this specifi­
+cation. In case of a conflict between the requirements of this 
+specification and Specification A960/ A960M, this specification 
+shall prevail. 
+6. Materials 
+6.1 The starting material for fittings shall be killed steel, 
+consisting of forgings, bars, plates, sheet, and seamless or 
+fusion-welded tubular products with filler metal added and 
+shall conform to the chemical requirements of Table 1. Unless 
+otherwise specified for carbon steel plates and sheet, the steel 
+may be made to either coarse grain or fine grain practice. Grade 
+WP9 shall be made to fine grain practice. 
+6.2 A starting material specification that specifically re­
+quires the addition of any element beyond those listed for the 
+materials in Table 1 for the applicable grade of material is not 
+permitted. This does not preclude the use of deoxidizers or the 
+judicious use of elements for grain size control. 
+7. Manufacture 
+7 .1 Forging or shaping operations may be performed by 
+hammering, pressing, piercing, extruding, upsetting, rolling, 
+6 Available from American Society for Nondestructive Testing (ASNT), P.O. Box 
+28518, 1711 Arlingate Ln., Columbus, OH 43228-0518, http://www.asnt.org. 
+7 Available from American Welding Society (AWS), 550 NW LeJeune Rd., 
+Miami, FL 33126, http://www.aws.org. 
+bending, fusion welding, machining, or by a combination of 
+two or more of these operations. The forming procedure shall 
+be so applied that it will not produce injurious imperfections in 
+the fittings. 
+7 .2 Fittings NPS-4 and under may be machined from 
+hot-forged or rolled, cold-sized, and straightened bar stock 
+having the chemical composition of the Grade in Table 1 and 
+the mechanical properties of the Grade in Table 2. Heat 
+treatment shall be in accordance with Section 8. All caps 
+machined from bar stock shall be examined by liquid penetrant 
+or magnetic particle in accordance with S52 or S53 in 
+Specification A960/A960M. 
+7.3 All welds including welds in tubular products from 
+which fittings are made shall be (1) made by welders, welding 
+operators, and welding procedures qualified under the provi­
+sions of ASME Section IX, (2) heat treated in accordance with 
+Section 8 of this specification, and (3) radiographically exam­
+ined throughout the entire length of each weld in accordance 
+with Article 2, ASME Section V with acceptance limits in 
+accordance with Paragraph UW-51 of ASME Section VIIl, 
+Division 1 of the ASME Boiler & Pressure Vessel Code. In 
+place of radiographic examination, welds may be ultrasonically 
+examined in accordance with Appendix 12 of Section VIIl. The 
+NDE of welds in Grades WPB, WPC, WPl, WPll Class 1, 
+WPll Class 2, WPll Class 3, WP12 Class 1, WP12 Class 2, 
+and WPR may be performed either prior to or after forming. 
+NDE of welds in Grades WPS, WP9, WP91 Types 1 and 2, 
+WP911, WP92, WP22 Class 1, WP22 Class 3, and WP24 shall 
+be done after forming. 
+7.3.1 All welds in WP91 Types 1 and 2 shall be made with 
+one of the following welding processes and consumables: 
+SMAW, A5.5/A5.5M E90:XX-B9; SAW, A5.23/A5.23M EB9 + 
+flux; GTAW, A5.28/A5.28M ER90S-B9; and FCAW AS.29/ 
+A5.29M E91Tl-B9. In addition, the Ni+Mn content of all 
+welding consumables used to fabricate WP91 Type 1 and Type 
+2 fittings shall not exceed 1.0 %. 
+7.3.2 All welds in WP92 and WP911 shall be made using 
+welding consumables meeting the chemical requirements for 
+the grade in Table 1. 
+329 
+7.3.3 All welds in WP115 shall be made using deposited 
+filler metal suitable for the composition being welded. Any 
+defects shall be thoroughly chipped or ground out before 
+welding and each welded length shall be re-heat treated or 
+stress relieved as required by the application specification. 
+Alternately, the weld shall be made with the welding products 
+and procedures of 7 .3 .1. 
+7.4 Personnel performing NDE examinations shall be quali­
+fied in accordance with SNT-TC- lA. 
+7 .5 The welded joints of the fittings shall be finished in 
+accordance with the requirements of Paragraph UW-35 (a) of 
+ASME Section Vlll, Division 1. 
+7.6 All butt-weld tees manufactured by cold-forming meth­
+od(s) shall be liquid penetrant or magnetic particle examined 
+by one of the methods specified in Supplementary Requirement 
+S52 or S53 in Specification A960/A960M. This examination 
+shall be performed after final heat treat. Only the side wall area 
+of the tees need be examined. This area is defined by a circle 

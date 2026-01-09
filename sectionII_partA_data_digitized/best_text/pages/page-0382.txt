@@ -1,0 +1,76 @@
+SA-234/SA-234M (ASTM A234/A234M) ASME BPVC.ll.A-2025 
+TABLE 1 Chemical Requirements 
+NoTE 1-All requirements are maximum unless otherwise indicated. 
+NoTE 2-Where an ellipsis ( ... ) appears in this table, there is no requirement and analysis for the element need not be determined or reported. 
+Grade and Composition, % 
+Marking Phospho-SymbolA Carbon Manganese Sulfur rus Silicon Chromium Molybdenum Nickel Copper Others 
+WPBB.C,D,E, 0.30 0.29-1.06 0.050 0.058 0.10 min 0.40 0.15max 0.40 0.40 Vanadium 0.08 
+WPCC,D,E, 0.35 0.29-1.06 0.050 0.058 0.10min 0.40 0.15 max 0.40 0.40 Vanadium 0.08 
+WP1 0.28 0.30-0.90 0.045 0.045 0.10-0.50 0.44-0.65 
+WP12CL1, 0.05-0.20 0.30-0.80 0.045 0.045 0.60 0.80-1.25 0.44-0.65 
+WP12 CL2 
+WP11 CL 1 0.05-0.15 0.30-0.60 0.030 0.030 0.50-1.00 1.00-1.50 0.44-0.65 
+WP11 CL2, 0.05-0.20 0.30-0.80 0.040 0.040 0.50-1.00 1.00-1.50 0.44-0.65 
+WP11 CL3 
+WP22 CL1, 0.05-0.15 0.30-0.60 0.040 0.040 0.50 1.90-2.60 0.87-1.13 
+WP22 CL3 
+WP24 0.05-0.10 0.30-0.70 0.020 0.010 0.15-0.45 2.20-2.60 0.90-1.10 0.75-1.25 Aluminum 0.020 
+Boron 0.0015-0.0070 
+Nitrogen 0.12 
+Titanium 0.06-0.1 O 
+Vanadium 0.20-0.30 
+WP5 CL1, 0.15 0.30-0.60 0.040 0.030 0.50 4.0-6.0 0.44-0.65 
+WP5 CL3 
+WP9 CL1, 0.15 0.30-0.60 0.030 0.030 1.00 8.0-10.0 0.90-1.10 
+WP9 CL3 
+WPR 0.20 0.40-1.06 0.045 0.050 1.60-2.24 0.75-1.25 
+WP91 Type 1 0.08-0.12 0.30-0.60 0.020 0.010 0.20-0.50 8.0-9.5 0.85-1.05 0.40 Vanadium 0.18-0.25 
+ColumbiumG 0.06-0.1 O 
+Nitrogen 0.03-0.07 
+Aluminum o.02F 
+Titanium 0.01 F 
+Zirconium 0.01 F 
+WP91 Type 2 0.08-0.12 0.30-0.50F 0.020F 0.005F 0.20-0A0F 8.0-9.5F 0.85-1.05 0.20F 0.10F Vanadium 0.18-0.25 
+ColumbiumG 0.06-0.1 O 
+Nitrogen 0.035-0.070F 
+Aluminum o.020F 
+N/ Al ratio ;a:4_0 
+Boron 0.001 F 
+Zirconium 0.01 F 
+Titanium 0.01 F 
+Arsenic o.010F 
+Tin o.010F 
+Antimony o.003F 
+Tungsten 0.05F 
+WP115 0.08-0.13 0.20-0.50 0.020 0.005 0.15-0.45 10.0-11.0 0.40-0.60 0.25 0.10 Vanadium 0. 18-0.25 
+Niobium 0.02-0.06 
+Nitrogen 0.030-0.070 
+Aluminum 0.02 
+Titanium 0.01 
+Boron 0.001 
+Zirconium 0.01 
+Tungsten 0.05 
+Arsenic 0.01 O 
+Tin 0.010 
+Antimony 0.003 
+N/ Al ratio 4.0 min 
+CNBH 10.5 
+WP911 0.09-0.13 0.30-0.60 0.020 0.010 0.10-0.50 8.5-9.5 0,90-1.10 0.40 Vanadium 0.18-0.25 
+ColumbiumG 0.060-0.1 O 
+Nitrogen 0.04-0.09 
+Aluminum 0.02 maxF 
+Boron 0.0003-0.006 
+Tungsten 0.90-1.10 
+Titanium 0.01 maxF 
+Zirconium 0.01 maxF 
+WP92 0.07-0.13 0.30-0.60 0.020 0.010 0.50 8.50-9.50 0.30-0.60 0.40 Aluminum o.02F 
+Boron 0.001-0.006 
+ColumbiumG 0.04-0.09 
+Nitrogen 0.030-0.070 
+Titanium 0.01 F 
+Tungsten 1.50-2.00 
+Vanadium 0.15-0.25 
+Zirconium 0.01 F 
+A When fittings are of welded construction, the grade and marking symbol shown above shall be supplemented by letter "W". 
+8 Fittings made from bar or plate may have 0.35 max carbon. 
+330 

@@ -1,0 +1,41 @@
+composition requirements prescribed in Table 1. S10. Heat Treatment Details
+$2.2. A product analysis in accordance with Section 10 shall . .
+be made from one randomly selected part representing each $10.1 The manufacturer shall furnish a detailed test report |
+size and type (See 9.5.1.1) of part on the order. If the analysis containing the information required in 16.1 and shall include :
+fails to comply, each part in that lot, at the option of the all pertinent details of the heat treating cycle given the parts. |
+manufacturer, shall be checked and accepted if the analysis for
+the part complies with the requirements, or the lot shall be S11. Hardness Test :
+rejected. All results shall be reported to the purchaser. $11.1 Each part shall be hardness tested and shall meet the ;
+requirements of Table 3.
+S3. Tension Tests |
+$3.1 In addition to the requirements of Section 9, one $12. Alternate Heat Treatment (Grade K90901)
+
+tension specimen shall be obtained from a representative part S12.1 Grade K90901 shall be normalized in accordance |
+from each production lot at a location agreed upon between the —_ with Section 7 and tempered at a temperature, to be specified
+manufacturer and the purchaser. The results of the test shall by the purchaser, less than 1350 °F [730 °C]. It shall be the : f
+comply with Table 3 and shall be reported to the purchaser. purchaser’s responsibility to subsequently temper at 1350 °F |
+. . [730 °C] min to conform to the requirements of the specifica-
+
+S4. Particle Size tion. All mechanical tests shall be made on material heat
+
+$4.1 In addition to the manufacturing process of 5.1, the treated in accordance with Section 7. The certification shall
+maximum particle size is 0.020 in. [0.5 mm], and the powders __ reference this supplementary requirement indicating the tem- ;
+shall be produced by the gas atomization process. pering temperature applied. The notation “S10” shall be
+included with the required marking of the part.
+S5. Powder Shielding :
+$5.1 Immediately following atomization, the powder shall $13. Fatigue Acceptance Test i
+remain shielded by an inert gas, until the powder is below a $13.1 For alloy steel, except UNS K90901, components ;
+temperature of 105 °F [40 °C] to ensure that the detrimental intended for service above 800 °F [425°C], and for UNS |
+absorption of oxygen and other deleterious contaminants isno = ,gQQ90] components intended for service above 1000 °F :
+longer possible. The powder shall be stored under a positive [549 °C] a uniaxial fatigue test shall be performed. |
+nitrogen or argon atmosphere or vacuum to minimize potential $13.2 The fatigue test shall be performed in air at 1100 °F = |
+oxidation or contamination. [595 °C] at an axial strain range of 1.0 % with a one hour hold |
+: . or eriod at the maximum positive strain point in each cycle. Test
+56. Magnetic Particle Examination specimen location and srientation shall be in accordance with
+shall be examined by a magnetic-particle method. The method —_ applicable product specifications. Testing shall be conducted in
+shall be in accordance with Test Method A275/A275M. Ac- accordance with Practice E606/E606M. The test shall exceed |
+ceptance limits shall be agreed upon between the manufacturer 200 cycles without fracture or a 20 % drop in the load range. |
+and purchaser. $13.3 Failure to meet this requirement shall be cause for ;
+4 oo. rejection of all parts from that powder blend.
+S7. Liquid Penetrant Examination $13.4 Test frequency shall be the same as for tension tests .
+$7.1 All accessible surfaces shall be examined by a liquid (see 9.5). Retesting is permitted. Two additional specimens !

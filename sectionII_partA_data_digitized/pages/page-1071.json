@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 273,
+  "globalPageIndex": 1071,
+  "width": 803.04,
+  "height": 626.4,
+  "text": "(/~, \n( \nTens \n'\u00b0 \"-l ,_. UNS \nDesignation Type Condition ksi \nS46910 CW 1/z hard 131 \nCW full hard 189 \n') \nTABLE 3 \nSOLUTION-ANNEALED AND COLD-WORKED CONDITION \nMechanical Test Requirements in Solution Annealed and Cold-Worked Condition \nle Strength, Yield Strength, Elongation \nmin min in 2 in. Reduction of \n[50 mm] or Area, min, Rockwell C, \n[MPa] ksi [MPa] 4D, min,% % max \n[900] 109 [750] 8 40 \n[1300] 175 [1200] 3 55 \n) \nHardness \nBrinell, \nmax \n380 \n580 \nI = \n~ \n~ \nN \n0 \nN \nU1 \n~ \nU1 \n\u00b0' \nj \nU1 \ni a: ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1071.json",
+  "tabulaTablesCsv": "tables_tabula/page-1071.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-1071.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 511,
+  "bestTextAlphaRatio": 0.546
+}

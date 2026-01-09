@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 113,
+  "globalPageIndex": 113,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "ASME BPVC.II.A-2025 SA-6/SA\u00b76M \nTABLEA2.7 Continued \nSize and Thickness, in. Weight per Area, in. 2 Size and Thickness, mm Mass per Area, mm 2 Foot, lb Metre, kg \nL2\u00bdx2\u00bdx\u00bd 7.70 2.25 L64 x 64 x 12.7 11.4 1 450 \nL2\u00bdx2\u00bdx% 5.90 1.73 L64 X 64 X 9.5 8.7 1 120 \nL2\u00bd X 2\u00bd X o/1e 5.00 1.46 L64 x 64 x 7.9 7.4 942 \nL2\u00bdx2\u00bdx\u00bc 4.10 1.19 L64 X 64 X 6.4 6.1 768 \nL2\u00bd x 2\u00bd x 3 Ae 3.07 0.90 L64 X 64 X 4.8 4.6 581 \nL2x2x% 4.70 1.36 L51 X 51 X 9.5 7.0 877 \nL2 X 2 X o/1e 3.92 1.15 L51 X 51 X 7.9 5.8 742 \nL2x2x\u00bc 3.19 0.938 L51 X 51 X 6.4 4.7 605 \nL2 X 2 X o/1e 2.44 0.715 L51 X 51 X 4.8 3.6 461 \nL2x2x1/a 1.65 0.484 L51 X 51 X 3.2 2.4 312 \nL1\u00bex1\u00bex\u00bc 2.77 0.813 L44 X 44 X 6.4 4.1 525 \nL1\u00bex1\u00bexo/ie 2.12 0.621 L44 X 44 X 4.8 3.1 401 \nL1\u00bex1\u00bex 1/a 1.44 0.422 L44 X 44 X 3.2 2.1 272 \nL1\u00bd X 1\u00bd X \u00bc 2.34 0.688 L38 X 38 X 6.4 3.4 444 \nL1\u00bd X 1\u00bd X 3/-te 1.80 0.527 L38 X 38 X 4.8 2.7 340 \nL1\u00bdx1\u00bdx%2 1.52 0.444 L38 x 38 x 4.0 2.2 286 \nL1\u00bdx1\u00bdx1/a 1.23 0.359 L38 x 38 x 3.2 1.8 232 \nL1\u00bcx1\u00bcx\u00bc 1.92 0.563 L32 x 32 x 6.4 2.8 363 \nL1\u00bc X 1\u00bc X '1/,e 1.48 0.434 L32 x 32 x 4.8 2.2 280 \nL1\u00bcx1\u00bcx1/a 1.01 0.297 L32 X 32 X 3.2 1.5 192 \nL1 x 1 x\u00bc 1.49 0.438 L25 x 25 x 6.4 2.2 283 \nL1x1x3/10 1.16 0.340 L25 X 25 X 4.8 1.8 219 \nL1x1x1/a 0.80 0.234 L25 X 25 X 3.2 1.2 151 \nL\u00be X \u00be x 1/a 0.59 0.172 L19X 19 X 3.2 0.9 111 \nA The heel of 12 and 10-in. angles may have a rounded outside corner. \n61 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0113.json",
+  "tabulaTablesCsv": "tables_tabula/page-0113.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0113.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1348,
+  "bestTextAlphaRatio": 0.2381
+}

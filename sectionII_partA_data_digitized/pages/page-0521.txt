@@ -1,0 +1,122 @@
+ASME BPVC.II.A-2025 SA-320/SA-320M 
+6.1.2.2 For studs, bolts, screws, etc., one tension test and 
+one set of three impact specimens shall be made for each 
+diameter of each heat involved in the lot. Each lot shall consist 
+of the following: 
+Diameter, in. (mm] Lot Size, lb [kg] 
+11/s [30] and under 1500 (680] or fraction thereof 
+Over 11/s (30] to 1 ¾ [ 45], 4500 (2040] or fraction 
+incl thereof 
+Over 1¾ (45] to 2½ (65], 6000 [2700] or fraction 
+incl thereof 
+Over 2½ (65] 100 pieces or fraction thereof 
+6.1.2.3 Full Size Specimens, Headed Bolting Components­
+Headed bolts or screws 1 ½ in. in body diameter and smaller, 
+with body length three times the diameter or longer, and that 
+are produced by upsetting or forging (hot or cold) shall be 
+subjected to full size testing in accordance with 6.1.3. This 
+testing shall be in addition to tensile testing as specified in 
+6.1.1. Wedge tensile testing shall be limited to product with 
+socket head cap screw, hexagon, square, hex flange, or twelve 
+point flange heads. The lot size shall be shown in 6.1.2.2. 
+Failure shall occur in the body or threaded section with no 
+failure, or indications of failure, such as cracks, at the junction 
+of the head and shank. Wedge tensile testing is not required for 
+flat countersunk head or socket button products. 
+6.1.3 Full Size Bolting Components, Wedge Tensile 
+Testing-When applicable, see 6.1.2.3. Headed components 
+shall be wedge tested full size. The minimum full size load 
+applied (lbf or kN) for individual sizes shall be as follows: 
+W= T., XA, (1) 
+where: 
+w 
+Ts 
+A1 
+= 
+= 
+= 
+minimum wedge tensile load without fracture, 
+tensile strength specified in ksi or MPa in Tables 2 and 
+3, and 
+stress area of the thread section, square inches or square 
+millimetres, as shown in the Cone Proof Load Tables in 
+Specification A962/A962M. 
+6.2 Impact Properties: 
+6.2.1 Requirements: 
+6.2.1.1 Impact tests are required for the grades shown in 
+Table 3. Class 1, lA, and 2 austenitic steels for temperatures 
+above -325 °F [-200 °C]; Class 1 and IA austenitic Grades BS, 
+BSA, BSP, BSPA, BSC, BSCA, BSLN, and BSLNA above 
+-425 °F [-255 °C]; and ferritic or austenitic bolting½ in. [12.5 
+mm] and smaller, are exempt from impact testing, unless 
+Supplementary Requirement Sl is specified in the purchase 
+order (see 1.4). All other material furnished under this speci­
+fication shall be tested. Material of Grades L 7, L 7 A, L 7B, L 7C, 
+L7M, L43, L70, L71, L72, and L73 shall show a minimum 
+impact energy absorption of 20 ft • lbf [27 J] and of Grade LI 
+a minimum impact energy absorption of 40 ft - lbf [54 J] at the 
+specified test temperature. 
+6.2.1.2 The temperature of the coolant used for chilling the 
+test specimens shall be controlled within ±2 °F [l 0 C]. Test 
+temperatures for ferritic grades are listed in Table 2. Excep­
+tions to this requirement are permissible, and the impact tests 
+may be made at specified temperatures different than those 
+shown in Table 2, provided the test temperature is at least as 
+low as the intended service temperature and the bolting is 
+suitably marked to identify the reported test temperature. When 
+impact testing is required for austenitic grades, test criteria 
+shall be agreed upon between the supplier and purchaser. 
+6.2.1.3 The impact test requirements for standard and sub­
+size Charpy V-notch (CVN) test specimens are prescribed in 
+Table 2. If the material is impact tested at a temperature lower 
+than the specified test temperature with impact energy absorp­
+tion results equal to or greater than the specified required 
+impact energy absorption for that product, the material can be 
+considered suitable for the specified test temperature. 
+NoTE 2-As an example, the purchase order or contract requires an 
+L-g:rade bolt to have an average 15 ft-lbs at -50 °F. If the Charpy V-notch 
+testing indicates that the bolting material passes at -100 °F and if it also 
+meets other mechanical property or other environmental resistance 
+requirements, it is permissible or suitable for use if that specified 
+temperature reflects the rninimum anticipated temperature range to which 
+that the product or application will be subjected. 
+6.2.2 Number of Tests: 
+6.2.2.1 The test requirements for heat-treated bars are given 
+in 6.1.2.1. 
+6.2.2.2 For test requirements on studs, bolts, screws, etc., 
+see 6.1.2.2. 
+6.2.2.3 Impact tests are not required to be made on heat­
+treated bars, bolts, screws, studs, and stud bolts ½ in. [12.5 
+mm] and under in diameter. 
+469 
+6.2.3 Test Specimens-For sections 1 in. [25 mm] or less in 
+diameter, test specimens shall be taken at the axis; for sections 
+over 1 in. [25 mm] in diameter, midway between the axis and 
+the surface. 
+6.3 Hardness Requirements: 
+6.3.1 The hardness shall conform to the requirements pre­
+scribed in Table 1. Hardness testing shall be performed in 
+accordance with either Specification A962/A962M or with Test 
+Methods F606/F606M. 
+6.3.2 The maximum hardness of Grade L7M shall be 235 
+HBW or 99 HRB. Minimum hardness shall not be less than 200 
+HBW or 93 HRB. Conformance to this hardness shall be 
+ensured by testing each bolt or stud by Brinell or Rockwell B 
+methods in accordance with 6.3.1. 
+6.3.2.1 The use of 100 % electromagnetic testing for hard­
+ness as an alternative to 100 % indentation hardness testing is 
+permissible when qualified by sampling using indentation 
+hardness testing. Each lot tested for hardness electromagneti­
+cally shall be 100 % examined in accordance with Practice 
+E566. Following electromagnetic testing for hardness, a ran­
+dom sample of a minimum of 100 pieces in each purchase lot 
+(as defined in 6.1.2.2) shall be tested by indentation hardness 
+methods. All samples must meet hardness requirements to 
+permit acceptance of the lot. If any one sample is outside of the 
+specified maximum or minimum hardness, the lot shall be 
+rejected and either reprocessed and resampled, or tested 100 % 
+by indentation hardness methods. 
+6.3.2.2 In the event a controversy exists relative to mini­
+mum strength, tension tests shall prevail over hardness read­
+ings. Products which have been tested and found acceptable 
+shall have a line under the grade symbol. 

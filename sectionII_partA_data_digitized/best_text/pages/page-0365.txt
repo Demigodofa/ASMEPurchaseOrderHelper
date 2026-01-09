@@ -1,0 +1,88 @@
+ASME BPVC.II.A-2025 SA-225/SA-225M 
+TABLE 1 Chemical Requirements 
+Elements 
+Carbon, maxA 
+Manganese, max: 
+Heat analysis 
+Product analysis 
+Phosphorus, maxA 
+Sulfur, maxA 
+Silicon: 
+Heat analysis 
+Product analysis 
+Vanadium: 
+Heat analysis 
+Product analysis 
+Nickel: 
+Heat analysis 
+Product analysis 
+A Applies to both heat and product analyses. 
+Grade C 
+0.25 
+1.60 
+1.72 
+0.025 
+0.025 
+0.15-0.40 
+0.13-0.45 
+0.13-0.18 
+0.11-0.20 
+0.40-0.70 
+0.37-0.73 
+Composition, % 
+Grade D 
+0.20 
+1.70 
+1.84 
+0.025 
+0.025 
+0.10-0.50 
+0.08-0.56 
+0.10-0.18 
+0.08-0.20 
+0.40-0.70 
+0.37-0.73 
+TABLE 2 Tensile Requirements 
+Grade C Grade D 
+ksi [MPa] ksi [MPa] 
+Tensile strength: 
+All thicknesses 105-135 [725-930] 
+3 in. [75 mm] and under 80-105 [550-725] 
+Over 3 in. [75 mm] 75-100 [515-690] 
+Yield strength, min:A 
+All thicknesses 70 (485] 
+3 in. [75 mm] and under 60 [415] 
+Over 3 in. [75 mm] 55 [380] 
+Elongation in 8 in. [200 mm], min, % 8 
+Elongation in 2 in. (50 mm], min, % 8 20 19 
+Elongation in 5D, min, % 8 17 
+A Determined by either the 0.2 % offset method or the 0.5 % extension-under-load method. 
+8 See Specification A20/A20M for elongation adjustment. 
+4. Materials and Manufacture 
+4.1 Steelmaking Practice-The steel shall be killed and 
+shall conform to the fine austenitic grain size requirement of 
+Specification A20/A20M. 
+5. Heat Treatment 
+5.1 Grade D plates of all thicknesses and Grade C plates of 
+thicknesses over 2 in. [50 mm] shall be normalized. 
+5.2 Grade C plates 2 in. [50 mm] and under in thickness are 
+usually supplied in the as-rolled condition. The plates may be 
+ordered normalized or stress-relieved, or both. 
+6. Chemical Composition 
+6.1 The steel shall conform to the chemical requirements 
+given in Table 1, unless otherwise modified in accordance with 
+313 
+Supplementary Requirement Sl7, Vacuum Carbon-Deoxidized 
+Steel, in Specification A20/ A20M. 
+7. Mechanical Properties 
+7 .1 Tension Test-The plates, as represented by the tension 
+test specimens, shall conform to the requirements given in 
+Table 2. 
+7.2 For plates with a nominal thickness of% in. [20 mm] 
+and under, the 1 ½-in. [40-mm] wide rectangular specimen may 
+be used and the elongation determined in a 2-in. [50-mm] gage 
+length that includes the fracture and that shows the greatest 
+elongation. 
+8. Keywords 
+8.1 alloy steel plates; manganese-vanadium-nickel steel 
+plate; plate for pressure vessels; pressure containing parts 

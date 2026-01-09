@@ -1,0 +1,143 @@
+ASME BPVCAILA-2025
+
+6.1.2 When required by the purchaser, the chemical com-
+position of a sample from one part from each lot of parts shall
+be determined by the manufacturer. The composition of the
+sample shall conform to the chemical requirements prescribed
+in Table 1.
+
+6.2 Addition of lead, selenium, or other unspecified ele-
+ments for the purpose of improving the machinability of the
+compact shall not be permitted.
+
+6.3 The steel shall not contain an unspecified element other
+than nitrogen, for the ordered grade, to the extent that the steel
+conforms to the requirements of another grade for which that
+element is a specified element having a required minimum
+content.
+
+7. Heat Treatment
+
+7.1 Except as provided in 7.2, the final heat treatment of all
+parts shall be in compliance with the requirements of Table 2.
+After hot isostatic-pressing and prior to final heat treatment, the
+compacts are permitted to be annealed, at the option of the
+producer, either as a part of the consolidation process or as a
+separate operation.
+
+7.2 When agreed upon by the purchaser, liquid quenching
+may be applied to the martensitic stainless steels in place of the
+furnace cool or air cool specified in Table 2, provided that such
+quenching is followed by tempering in the temperature ranges
+as required in Table 2. Martensitic parts that are liquid
+quenched and tempered shall be marked “QT.”
+
+7.3 The final heat treatment shall be performed before or
+after machining at the option of the producer.
+
+7.4 See Section $16 if a particular heat treatment method is
+specified by the purchaser in the purchase order.
+
+8. Structural Integrity Requirements
+
+8.1 Microporosity—The parts shall be free of microporosity
+as demonstrated by measurement of density as provided in
+8.1.1 or by microstructural examination as provided in 8.1.2.
+
+8.1.1 Density Measurement:
+
+8.1.1.1 The density measurement shall be used for accep-
+tance of material but not for rejection of material. The
+measured density for each production lot shall exceed 99 % of
+the density typical of that grade when wrought and in the same
+heat treated condition as the sample. A production lot that fails
+to meet this acceptance criterion is permitted to be tested at the
+option of the producer, for microporosity in accordance with
+the microstructural examination as provided in 8.1.2.
+
+8.1.1.2 Density shall be determined for one sample from
+each production lot by measuring the difference in mass of the
+sample when weighed in air and when weighed in water and
+multiplying this difference by the density of water (Archi-
+mede’s principle). The equipment used shall be capable of
+determining density within +0.004 Ib/in.? [0.10 g/cm%).
+Alternatively, at the option of the producer, it is permitted to
+use Test Method B311 to determine the density.
+
+8.1.1.3 At the option of the producer, the density shall be
+compared to the room temperature density typical of wrought
+steels of the same class of grades, 0.28 Ib/in.° [7.8 g/cm*] for
+age-hardening, martensitic, and austenitic-ferritic grades, and
+
+SA-988/SA-988M
+
+0.29 Ib/in.? [8.0 g/cm] for austenitic grades, or to the density
+of a wrought reference sample of the same grade heat treated
+in accordance with the requirements of Table 2 (See Note 2).
+
+Note 2—The actual density of stainless steel varies slightly with
+composition and heat treatment. For this reason, small differences in the
+measured density from the typical density for a class of grades may be the
+result of differences in alloy content, heat treatment, or microporosity.
+When density values are measured that are less than the density typical of
+a class of grades, it is appropriate to examine the sample for microporosity
+by the more specific metallographic examination procedures.
+
+8.1.2. Microstructural Examination:
+
+8.1.2.1 The microstructure shall be examined at 20-50x,
+100-200x, and 1000-2000x and shall be reasonably uniform
+and shall be free of voids, laps, cracks, and porosity.
+
+8.1.2.2 One sample from each production lot shall be
+examined. The sample shall be taken after hot-isostatic press-
+ing or after final heat treatment. The sample shall be taken from
+the component, stem, protrusion, or test part made from a
+single powder blend consolidated in the same hot isostatic
+press using the same pressure, temperature, and time param-
+eters and heat-treated in the same final heat-treatment charge.
+The microstructure shall meet the requirements of 8.1.2.1.
+
+8.1.2.3 If the sample fails to meet the requirements for
+acceptance, each part in the lot is permitted to be retested and
+those that pass shall be accepted.
+
+8.2 Hydrostatic Tests—After they have been machined,
+ptessure-containing parts shall be tested to the hydrostatic shell
+test pressures prescribed in ASME B16.5 for the applicable
+steel rating for which the part is designed and shall show no
+leaks. Parts ordered under these specifications for working
+pressures other than those listed in the ASME B16.5 ratings
+shall be tested to such pressures as may be agreed upon
+between the manufacturer and purchaser.
+
+8.2.1 No hydrostatic test is required for weld neck or other
+flanges.
+
+8.2.2 The compact manufacturer is not required to perform
+pressure tests on rough parts that are to be finish machined by
+others. The fabricator of the finished part is not required to
+pressure test parts that are designed to be pressure containing
+only after assembly by welding into a larger structure. The
+manufacturer of the compacts, however, shall be responsible,
+as required in 16.1 for the satisfactory performance of the parts
+under the final test required in 8.2.
+
+8.3 Ultrasonic Tests—When specified in the order,
+austenitic-ferritic stainless steel parts made from $32505 shall
+be ultrasonic tested according to the procedures described in
+Section $7.
+
+9. Mechanical Properties
+
+9.1 The material shall conform to the requirements for
+mechanical properties prescribed in Table 3 at room tempera-
+ture.
+
+9.2 Sample shall be from the component, stem, protrusion,
+or test part made from a single powder blend consolidated in
+the same hot isostatic press using the same pressure,
+temperature, and time parameters and heat-treated in the same
+final heat-treatment charge. If repair welding is required (See
+
+1461

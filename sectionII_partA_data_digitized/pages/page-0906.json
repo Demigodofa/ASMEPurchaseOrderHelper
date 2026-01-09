@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 108,
+  "globalPageIndex": 906,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "SA-480/SA-480M (ASTM A480/A480M) ASME BPVC.II.A-2025 \nTABLE A3.6 Permitted Variations in Width of Cold-rolled, Wide, Coil-processed Product as Cut Lengths (Not Resquared) and Coil \nSpecified Thickness, Permitted Variation In Width, mm, for Specified Width (w), mm \nmmA ws125 125<WS250 250<ws600 600<w<1000 \n1m ~~-o ~~-o ~~-o ~~-o \n1.50 +0.7, -0 +0.7, -0 +1.0, -0 +1.5, -0 \n2.50 +1.0, -0 +1.0, -0 +1.2, -0 +2.0, -0 \n3.50 +1.2, -0 +1.2, -0 +1.5, -0 +3.0, -0 \n8.00 +2.0, -0 +2.0, -0 +2.0, -0 +4.0, -0 \nA For specified thicknesses other than those shown, the tolerances for the next higher thickness shall apply. \nTABLE A3.7 Permitted Variations in Length of Cold-rolled, Wide, \nColl-processed Product as Cut Lengths Not Resquared \nTolerance, mm Specified Length (L), \nmm Over Under \ns2000 \n>2000 \n5 \n0.0025 x L \n0 \n0 \nTABLE A3.8 Permitted Variations In Flatness of Cold-rolled, Wide, \nCoil-processed Product as Cut Lengths \nNot Specified to Stretcher-Leveled Standard of FlatnessA \nSpecified Specified Flatness \nThickness, mm Width, mm Tolerance 8 , mm \n<1.50 <1500 10 \n;e:1500 12 \n;e:1,50 <1500 10 \n;e:1500 12 \nStretcher-Leveled Standard of Flatness 0 \nSpecified \nThickness, mm \nSpecified Specified \nWidth, mm Length, mm \nFlatness \nTolerance, 8 mm \nS4.99 <1200 <2400 \n;e:2400 \n;e:1200 <2400 \n;e:2400 \n2xx and 3xx Series Specified to \u00bc and \u00bd Hard Tempers \nSpecified Specified -r. 1 Flatne~s \n4 \n7 \n7 \n7 \nTh' k W'dth ,o erance, mm 1c ness, mm 1 , mm \u00bc Hard \u00bd Hard \ns0.04 600 to 900, excl 19 23 \n>0.04 to so.so 16 23 \n>0.80 13 19 \ns0.04 \n>0.04 to so.so \n>0.80 \n900 to 1200, incl 26 \n19 \n16 \n29 \n29 \n26 \nA Not specified to stretcher-leveled standard of flatness, and not including hard \ntempers of 2xx and 3xx series, dead-soft sheets, and deep-drawing sheets. \n8 Maximum deviation from a horizontal flat surface. \n0 Not including hard tempers of 2xx and 3xx series, dead-soft sheets, and \ndeep-drawing sheets. \n1000 < w< 2100 \n+2.0, +0 \n+2.0, +0 \n+2.5, -0 \n+3.0, -0 \n+4.0, -0 \nTABLE A3.9 Permitted Variations in Thickness of Hot-rolled, \nNarrow, Flat-rolled, Coll-processed Product as Cut Lengths and \nCoil \nTABLE A3.10 Permitted Variations in Width of Hot-rolled, Narrow, \nFlat-rolled, Coil-processed Product as Cut Lengths and Coil \nTolerances for variations of thickness of hot-rolled, narrow, coil-processed \nproduct as cut lengths and coll shall be identical to the tolerances for hot-rolled, \nwide, coil-processed product as listed in Table A3.13, unless otherwise agreed \nupon by seller and purchaser and specified in the purchase order. \n806 \nTolerances for variations of width of hot-rolled, narrow, coil-processed product \nas cut lengths and coil shall be identical to the tolerances for hot-rolled, wide, \ncoil-processed product as listed in Table A3.14, unless otherwise agreed upon \nby seller and purchaser and specified in the purchase order. ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0906.json",
+  "tabulaTablesCsv": "tables_tabula/page-0906.csv",
+  "tabulaTableCount": 3,
+  "bestTextPath": "best_text/pages/page-0906.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2852,
+  "bestTextAlphaRatio": 0.6245
+}

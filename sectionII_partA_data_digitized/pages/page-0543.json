@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 543,
+  "globalPageIndex": 543,
+  "width": 615.84,
+  "height": 856.2,
+  "text": "ASME BPVC.II.A-2025 SA-333/SA-333M \nAPPENDIX \n(Nonmandatory Information) \nXl. DETERMINATION OF TEMPERATURE REDUCTIONS \nXl.l Under the circumstances stated in 14.1.2, the impact \ntest temperatures specified in Table 4 must be lowered. The \nfollowing examples are offered to describe the application of \nthe provisions of 14.1.2. \nXl.1.1 When subsize specimens are used (see 10.1) and the \nwidth along the notch of the subsize specimen in 80 % or \ngreater of the actual wall thickness of the original material, the \nprovisions of 14.1.2 do not apply. \nXl.1.1.l For example, if the actual wall thickness of pipe \nwas 0.200 in. [5.0 mm] and the width along the notch of the \nlargest subsize specimen obtainable is 0.160 in. [4 mm] or \ngreater, no reduction in test temperature is required. \nXl.1.2 When the width along the subsize specimen notch is \nless than 80 % of the actual wall thickness of the pipe, the \nrequired reduction in test temperature is computed by taking \nthe difference between the temperature reduction values shown \nin Table 6 for the actual pipe thickness and the specimen width \nused. \nXl.1.2.l For example, if the pipe were 0.262 in. [6.67 mm] \nthick and the width along the Charpy specimen notch was 3.33 \nmm (1/3 standard size), the test temperature would have to be \nlowered by 25 \u00b0F [14 \u00b0C]. That is, the temperature reduction \ncorresponding to the subsize specimen is 35 \u00b0F [19 \u00b0C]; the \ntemperature reduction corresponding to the actual pipe thick\u00ad\nness is 10 \u00b0F [5 \u00b0C]; the difference between these two values is \nthe required reduction in test temperature. \n491 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0543.json",
+  "tabulaTablesCsv": "tables_tabula/page-0543.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-0543.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1590,
+  "bestTextAlphaRatio": 0.7214
+}

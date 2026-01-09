@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 742,
+  "globalPageIndex": 742,
+  "width": 597.72,
+  "height": 842.88,
+  "text": "SA-409 /SA-409M \nNPS Designator \n14 \n16 \n18 \n20 \n22 \n24 \n30 \nASME BPVC.II.A-2025 \nAPPENDIX \n(Nonmandatory Information) \nXl. Wall Thickness of Schedule SS and Schedule lOS \nin. \n0.156 \n0.165 \n0.165 \n0.188 \n0.188 \n0.218 \n0.250 \nTABLE X1.1 Pipe Dimensions \nSchedule 5S \nmm \n3.96 \n4.19 \n4.19 \n4.78 \n4.78 \n'5.54 \n6.35 \n692 \nWall Thickness \nin. \n0.188 \n0.188 \n0.188 \n0.218 \n0.218 \n0.250 \n0.312 \nSchedule 1 OS \nmm \n4.78 \n4.78 \n4.78 \n5.54 \n5.54 \n6.35 \n7.92 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0742.json",
+  "tabulaTablesCsv": "tables_tabula/page-0742.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0742.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 449,
+  "bestTextAlphaRatio": 0.3586
+}

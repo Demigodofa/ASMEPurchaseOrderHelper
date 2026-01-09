@@ -1,0 +1,140 @@
+SA-372/SA-372M ASME BPVC.II.A-2025 
+TABLE 1 Chemical Requirements 
+Element Composition, % 
+Grade E 
+Grade A Grade B Grade C Grade D Classes 
+55, 65, 70 
+Carbon 0.30 max 0.35 max 0.48 max 0.40-0.50 0.25-0.35 
+Manganese 1.00 max 1.35 max 1.65 max 1.40-1.80 0.40-0.90 
+Phosphorus, 0.015 0.015 0.015 0.015 0.015 max 
+Sulfur, max 0.010 0.010 0.010 0.010 0.010 
+Silicon 0.15--0.35 0.15-0.35 0.15-0.35 0.15-0.35 0.15--0.35 
+Nickel 
+Chromium 0.80-1.15 
+Molybdenum ... 0.17-0.27 0.15-0.25 
+Vanadium 
+Boron 
+Grade F Grade G Grade H Grade J 
+Classes Classes Classes Classes Grade K 
+55,65, 70 55, 65, 70 55,65, 70 55, 
+65, 70,110 
+Carbon 0.30-0.40 0.25-0.35 0.30-0.40 0.35-0.50 0.18 max 
+Manganese 0.70-1.00 0.70-1.00 0.75-1.05 0.75-1.05 0.10-0.40 
+Phosphorus, 0.015 0.015 0.015 0.015 0.015 max 
+Sulfur, max 0.010 0.010 0.010 0.010 0.010 
+Silicon 0.15-0.35 0.15-0.35 0.15-0.35 0.15-0.35 0.15-0.35 
+Nickel 2.0-3.3 
+Chromium 0.80-1.15 0.40-0.65 0.40-0.65 0.80-1.15 1.00-1.80 
+Molybdenum 0.15-0.25 0.15-0.25 0.15-0.25 0.15-0.25 0.20-0.60 
+Vanadium 
+Boron 
+Grade M Grade N Grade P Grade R 
+Grade L Classes 85 Classes Classes Classes 55, 
+and 100 100,120, 100, 120, 65, 70, 90, 
+140 140 110 
+Carbon 0.38-0.43 0.23 max 0.35 max 0.40 max 0.35-0.50 
+Manganese 0.60-0.80 0.20-0.40 0.90 max 0.90 max 0.75-1.05 
+Phosphorus, 0.015 0.015 0.015 0.015 0.015 max 
+Sulfur, max 0.010 0.010 0.015 0.015 0.010 
+Silicon 0.15-0.35 0.30 max 0.35 max 0.35 max 0.15--0.35 
+Nickel 1.65-2.00 2.8-3.9 1.5--2.25 2.3-3.3 
+Chromium 0.70-0.90 1.50-2.00 0.80-2.00 0.80--2.00 0.80--1.15 
+Molybdenum 0.20-0.30 0.40-0.60 0.20-0.40 0.30-0.50 0.15-0.25 
+Vanadium 0.08 max 0.20 max 0.20 max ... 
+Boron 5--20 ppm 
+5.4 Temper Embrittlement Control-The purchaser's atten­
+tion is drawn to Supplementary Requirement S24 in Specifi­
+cation A788/A788M for application of the J Factor, which may 
+be of assistance in the control of temper embrittlement in 
+forgings produced to Specification A372/A372M. 
+6. Mechanical Properties 
+6.1 Mechanical tests for acceptance shall be made after the 
+final heat treatment of the forgings. 
+6.2 Tension Test-When tested in accordance with Test 
+Methods and Definitions A370, the material shall conform to 
+the requirements of Table 2. The yield strength shall be 
+determined by the 0.2 % offset method. 
+6.3 Bending Properties-Depending upon the outside 
+diameter, D, and the wall thickness, T, of hollow or bored 
+forgings, a bend test or flattening test will be required. 
+6.3.1 For bored or hollow forgings with outside diameters of 
+14 in. [355 mm] or less and with a DIT ratio of more than 10.0, 
+a flattening test is required. This shall be carried out in 
+accordance with Specification A530/A530M and Table 3. No 
+636 
+TABLE 3 Distance Between Plates for Flattening TestsA 
+Grade A 
+Grade B 
+Grade C 
+Grade D 
+Type 
+Grades E, F, G, H, J, R (Class 55) 
+Grades E, F, G, H, J, R (Class 65) 
+Grades E, F, G, H, J, R Class 70) 
+and Grades J, R (Class 90) 
+Grades J, R (Class 110) 
+Grade K 
+Grade L 
+Grade M (Class 85) 
+Grade M (Class 100) 
+Grades N, P (Class 100) 
+Grades N, P (Classes 120, 140) 
+A D = outside diameter. 
+Distance Between Plates 
+0.50 D 
+0.6 D 
+0.65 D 
+0.7 D 
+0.7 D 
+a.a o 
+0.8 D 
+0.9 D 
+0.8 D 
+0.9 D 
+0.7 D 
+0.8 D 
+0.8 D 
+0.9 D 
+breaks or cracks in the test ring are acceptable until the distance 
+between the plates is less than that shown in Table 3. 
+6.3.2 For bored or hollow forgings with outside diameters 
+over 14 in. [355 mm], or where the DIT ratio is 10.0 or less at 
+the manufacturer's option, the flattening test specified in 6.3.1, 
+or a transverse bend test in accordance with Test Methods E290 
+is required. In cases in which the Test Methods E290 method 
+used stipulates a bend test pin or mandrel, the diameter shall be 
+as specified in Table 4. No cracks or ruptures in the test piece 
+are allowable when the test piece is bent through the required 
+angle. 
+6.4 Orientation and Location of Test Specimens: 
+6.4.1 Test specimens representing vessel bodies or shells 
+shall be taken from a prolongation of a forging, from test rings 
+that have been heat treated with the forgings they represent, or 
+from a representative forging after heat treatment in accor­
+dance with 4.3. 
+6.4.1.1 Test specimens representing vessel bodies or shells 
+for properties other than bending properties shall be located at 
+a position corresponding to the mid-wall location of the 
+parallel side wall of the heat-treated forging and shall be 
+oriented parallel to the longitudinal axis of the vessel. 
+6.4.1.2 A test ring shall be in the shape of a right circular 
+cylinder having the same diameter and wall thickness as the 
+cylinders it represents. In addition, the test ring shall be from 
+the same heat of steel and be subjected to the same heat 
+TABLE 4 Maximum Pin Diameters and Minimum Angle for 
+Bend Test 
+Type Pin Diameter Angle, deg 
+Grade A 2T 180 
+Grade B 2T 180 
+Grade C 3T 180 
+Grade D 4T 150 
+Grades E, F, G, H, J, R (Class 55) 4T 150 
+Grades E, F, G, H, J, R (Class 65) 4T 150 
+Grades E, F, G, H, J, R (Class 70) 4T 150 and Grades J, R (Class 90) 
+Grades J, R (Class 110) 6T 150 
+Grade K 4T 150 
+Grade L 6T 150 
+Grade M (Class 85) 4T 150 
+Grade M (Class 100) 4T 150 
+Grades N, P (Class 100) 6T 150 
+Grades N, P (Classes 120, 140) 6T 150 

@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 487,
+  "globalPageIndex": 1285,
+  "width": 613.92,
+  "height": 793.2,
+  "text": "~ \nASME BPVC.II.A-2025 SA-739 \nTABLE 1 Chemical Requirements \nElement \nCarbon, max \nManganese \nPhosphorus, max \nSulfur, max \nSilicon \nChromium \nMolybdenum \nComposition, % \nGrade B 11 Grade B 22 \n0.05-0.20 0.05-0.15 \n0.40-0.65 0.30-0.60 \n0.035 0.035 \n0.040 0.040 \n0.50-0.80 0.50 max \n1.00-1.50 2.00-2.50 \n0.45-0.65 0.90-1.10 \nTABLE 2 Tensile Requirements \nTensile strength, ksi (MPa) \nYield strength, min, ksi (MPa) \nElongation in 2 in. or 50 mm, \nmin,% \nReduction of area, min, % \n6.3 Number of Tests: \nGrade B 11 \n70.0-95.0 (483-655) \n45.0 (310) \n18 \n45 \nGrade B 22 \n75.0-95.0 (517-655) \n45.0 (310) \n18 \n45 \n6.3.1 Two tension tests shall be made to represent bars of \nthe same size from each heat in each heat treatment charge. For \ncontinuous heat-treated material, not fewer than two tension \ntests shall represent a lot selected on the basis of one tension \ntest from each 10 000 lb (4500 kg). \n6.3.2 When heat treated without interruption in continuous \nfurnaces, the material in a lot shall be from the same heat, same \nprior condition, same size, and subjected to the same heat \ntreatments. \n6.4 Test Methods-Tension test~ shall be made in accor\u00ad\ndance with Test Methods and Definitions A370. The yield \nstrength shall be determined by the 0.2 % offset method. \n7. Workmanship, Finish, and Appearance \n7 .1 Wbrkmanship-The bars shall be free of pipe, cracks, \nand flakes. Within the limits of good manufacturing and \ninspection practices the bars shall be free of injurious seams, \nlaps, segregation, or other imperfections which, due to their \nnature, degree or extent, will interfere with the use of the \nmaterial in machining or fabrication. \n7.2 Descaling-Unless otherwise specified, the bars shall be \ndescaled. \n8. General Requirements \n8.1 Material furnished under this specification shall con\u00ad\nform to the applicable requirements of the current edition of \nSpecification A29/ A29M. \n9. Certification and Test Reports \n9.1 A manufacturer's certification that the material was \nmanufactured and tested in accordance with this specification \ntogether with a report of the analysis and tensfon test results \nshall be furnished at the time of shipment. The report shall \ninclude the name of the manufacturer, ASTM designation \nnumber and year date and revision letter, if any, grade, heat \nnumber, and size. \n10. Product Marking \n10.1 The bars shall be marked in accordance with Specifi\u00ad\ncation A29/ A29M except as modified or supplemented by 10.2 \nthrough 10.4 of this specification. \n10.2 When specified by the purchaser, the heat number shall \nbe permanently stamped on one end of each bar 2.50 in. and \nlarger in nominal diameter (or equivalent cross-sectional area). \n10.3 The bars shall neither be hot nor cold stamped on the \nsides unless approved by the purchaser on the purchase order. \n10.4 Each lift, regardless of size, shall be tagged with the \ninformation required by Specification A29/ A29M. \n11. Keywords \n11.1 alloy steel bars; high-temperature applications; hot\u00ad\nwrought steel bars; pressure-containing parts; steel bars; tem\u00ad\nperature service application-high \n1209 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1285.json",
+  "tabulaTablesCsv": "tables_tabula/page-1285.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-1285.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 3095,
+  "bestTextAlphaRatio": 0.6966
+}

@@ -1,0 +1,121 @@
+ASME BPVCG.ILA-2025
+
+treated shall be tested in the heat treated condition in accor-
+dance with the appropriate practice in Practices A763 for the
+specified grade, or as agreed upon for TP409.
+
+11.2 One full-section sample 1 in. [25 mm] long from each
+lot of straight tubes shall be tested in the finished condition in
+accordance with the appropriate practice in Practices A763 for
+the specified grade, or as agreed upon for TP409.
+
+11.3 The appearance of any fissures or cracks in the test
+specimen, when evaluated in accordance with the Evaluation
+Sections of Practices A763 indicating the presence of inter-
+granular attack, shall be cause for rejection of that lot.
+
+11.4 For corrosion test requirements, the term “lot” applies
+to all tubes, prior to cutting to length, of the same nominal
+diameter and wall thickness, produced from the same heat of
+steel and annealed in a continuous furnace at the same
+temperature, time at temperature, and furnace speed.
+
+12. Permissible Variations in Dimensions (Fig. 1)
+
+12.1 Permissible variations from the specified outside diam-
+eter shall be in accordance with Specification A1016/A1016M.
+Those tolerances do not apply to the bent portion of the
+U-tubes. At the bent portion of a U-tube for R = 2 x D or
+greater, neither the major nor minor diameter of the tube shall
+deviate from the nominal diameter prior to bending by more
+than 10 %. If less than 2 x D is specified, tolerances could be
+greater.
+
+DEVIATION
+wpe, U FROM PLANE
+ped LINE . OF BEND
+OF BEND
+LEG
+LENGTH
+LEG LENGTH
+DIFFERENCE
+WALL
+THK OUTSIDE
+DIAMETER
+PLAN VIEW SIDE VIEW
+
+FIG. 1 Plane Bend for U-Tube
+
+SA-803/SA-803M
+
+12.2 Permissible Variations from the Specified Wall Thick-
+ness:
+
+12.2.1 Permissible variations from the specified minimum
+wall thickness shall not exceed +20 - 0 %.
+
+12.2.2 Permissible variations from the specified average
+wall thickness are +10 % of the nominal wall thickness.
+
+12.2.3 The wall thickness of the tube in the U-bent section
+shall not be less than value determined by the equation:
+
+__4RT
+"> ERED
+where:
+bo= wall thickness after bending, in. [mm],
+T = specified minimum tube wall thickness, in. [mm],
+R_ = centerline bend radius, in. [mm], and
+D_ = nominal outside tube diameter, in. [mm].
+
+12.3 Permissible Variations from the Specified Length:
+
+12.3.1 Straight Lengths—The maximum permissible varia-
+tions for lengths 24 ft [7.3 m] and shorter shall be +¥% in. [+3
+mm], —0; for lengths longer than 24 ft [7.3 m], an additional
+over tolerance of + in. [+3 mm] for each 10 ft [3 m], or
+fraction thereof, shall be permitted up to a maximum of +1 in.
+[+13 mm].
+
+12.3.2 U-Bends—In the case of U-tubes, the length of the
+tube legs, as measured from the point of tangency of the bend
+and the tube leg to the end of the tube leg, shall not be less than
+specified, but may exceed the specified values by the amount
+given in Table 5. The difference in lengths of the tube legs shall
+not be greater than / in. [3 mm] unless otherwise specified.
+
+12.4 The end of any tube may depart from square by not
+more than the amount given in Table 6.
+
+12.5 The leg spacing measured between the points of
+tangency of the bend to the legs shall not vary from the value
+(2R-specified tube outside diameter) by more than Mie in. [1.5
+mm] where R is the center-line bend radius.
+
+12.6 The bent portion of the U-tube shall be substantially
+uniform in curvature, and not to exceed +o in. [£1.5 mm] of
+the nominal center-line radius.
+
+12.7 Permissible deviation from the plane of bend (see Fig.
+1) shall not exceed Mc in. [1.5 mm] as measured from the
+points of tangency.
+
+13. Workmanship, Finish, and Appearance
+
+13.1 Tubing purchased to this specification is intended for
+use in heat exchangers and will be inserted through close-
+fitting holes in baffles or support plates, or both, spaced along
+the tube length. The tube ends will also be inserted into very
+close-fitting holes in a tubesheet and expanded and may be
+welded therein. The tubes shall be able to stand roll expanding
+(See Note 1) and bending without showing cracks and flaws,
+and shall be finished reasonably straight and suitable for the
+
+TABLE 5 Tube Leg Length Tolerance
+
+Leg Length, ft [m! Plus Tolerance, in. [mm]
+Up to 20 [6], incl VY [3.2]
+Over 20 to 30 [6 to 9}, incl 5/2 [4.0]
+Over 30 to 40 [9 to 12], incl %e [4.8]
+
+1309

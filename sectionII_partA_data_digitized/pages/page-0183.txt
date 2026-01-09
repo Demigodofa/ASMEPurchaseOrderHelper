@@ -1,0 +1,107 @@
+ASME BPVC.II.A-2025 SA-47 /SA-47M 
+7.2 Tension Test Specimens: 
+7 .2.1 The tension test specimens shall be cast to the 
+form and dimensions shown in Fig. 1 or Fig. 2, in the same 
+kind of molding material used for the production castings. 
+At least three such specimens shall be cast from a represen­
+tative ladle of iron either from each batch-melted heat or, 
+in continuous melting, from each 4 h pour period during 
+which the purchaser's castings were poured, or as otherwise 
+agreed upon between manufacturer and purchaser. 
+7.2.2 All test specimens shall be suitably identified 
+with the designation of either the batch-melted heat or the 
+pour period of a continuous heat. 
+7 .2.3 All test specimens shall be heat treated in the 
+same production furnaces and in the same cycles as the 
+castings they represent. However, in those instances 
+wherein the critical sections of the production castings 
+differ appreciably from that of the central portion of the 
+test specimens, the time cycle for tempering the test speci­
+mens may be altered from that of the production lot in 
+order to obtain similar microstructures or hardness, or both, 
+in both specimen and castings. In such cases the hardness 
+of the specimens shall be tested and reported along with 
+the tensile test results. 
+7.2.4 The tension test is usually performed on unma­
+chined specimens. However, for referee work, the speci­
+men may be machined from the standard cast bar to the 
+dimensions shown in Fig. 3. 
+7.3 Tension Test Method: 
+7.3.1 The gage length of the standard tension speci­
+men shall be 2.00 ± 0.ol in. [50.0 ± 0.3 mm]. 
+7 .3.2 The diameter used to compute the cross-sec­
+tional area shall be the average between the largest and 
+smallest diameters in that section of the 2 in. [50 mm] 
+gage length having the smallest diameter and shall be mea­
+sured to the nearest 0.001 in. [0.2 mm]. No cast bar having 
+a mean diameter less than 0.590 in. [15.0 mm] shall be 
+accepted for test. 
+7.3.3 After reaching a stress equivalent to approxi­
+mately half of the anticipated yield stress, the speed of the 
+moving head of the testing machine shall not exceed 
+0.50 in./min [12.5 mm/min] through the breaking load. 
+7.3.4 While the values for yield point and yield 
+strength are not identical, they are sufficiently close for 
+most applications of ferritic malleable irons to be used 
+interchangeably. They may be determined by any of the 
+approved techniques described in the paragraphs on Deter­
+mination of Yield Strength and Yield Point of Test Methods 
+E 8. If determined as yield strength, that stress producing 
+an extension under load of 0.01 in. [0.25 mm] over the 
+2 in. [50 mm] gage length (for example, 0.5% extension) 
+or an offset of 0.2% shall be taken as the yield stress, 
+which shall be converted to yield strength by dividing by 
+the original cross-sectional area of the gage length found 
+in accordance with 7.3.2. It shall be reported to the nearest 
+100 psi [MPa]. In referee work, yield strength shall be 
+determined as the stress that produces an extension under 
+load of 0.5% of the gage length. 
+7 .3.5 The tensile strength shall be the maximum load 
+carried by the specimen during the test divided by the 
+original cross-sectional area of the gage length, as found 
+in accordance with 7.3.2. It shall be reported to the nearest 
+100 psi [MPa]. 
+7 .3.6 The elongation is the increase in gage length 
+after fracture of a tensile specimen, measured to the nearest 
+0.01 in. [0.25 mm], expressed as a percentage of the origi­
+nal gage length. It shall be reported to the nearest 0.5%. 
+7.4 Retesting: 
+7.4.1 If, after testing, a specimen shows evidence of 
+a defect, another tension test may be made on a companion 
+specimen. Also, a retest shall be permitted whenever frac­
+ture occurs outside the central 50% of the gage length. 
+7 .4.2 If the results of a valid test fail to conform to 
+the requirements of this specification, two retests shall be 
+made. If either retest fails to meet the specification, the 
+castings represented by these test specimens shall be 
+rejected. A valid test is one wherein the test specimen has 
+been properly prepared and appears to be sound and on 
+which the approved test procedure has been followed. 
+131 
+7.4.3 If sufficient companion test bars are unavail­
+able, the manufacturer shall have the option of testing a 
+specimen cut from a representative casting. Therefore, as 
+stated in Xl.3, the mechanical properties of such tension 
+test specimen removed from a production casting will not 
+necessarily correspond to those of a standard separately 
+cast test specimen, the values in Table 1 do not apply. 
+Instead, the mechanical properties of the test specimen 
+from the casting must equal or exceed the average of those 
+from similar test specimens removed from the same loca­
+tion from two castings of the same design where separately 
+cast test bars meet the requirements of Table 1. 
+7 .4.4 If the first test results indicate that a reheat 
+treatment is needed to meet the test requirements, the entire 
+lot of castings and the representative test specimens shall 
+be reheat treated together. Testing shall then be repeated 
+in accordance with 7.4.1-7.4.3. 
+7 .4.5 The results of all tests, including retests, shall 
+be posted in permanent record, which shall state any abnor­
+malities observed during the test and in the fractured ends. 
+Such records shall be kept for at least 1 year after shipment 
+of the production castings and shall be available for exami­
+nation by the purchaser or by his authorized representative. 
+7 .4.6 If not covered in the purchase agreement, the 
+frequency of tension testing shall be in accordance with 
+7.2.1 and sufficiently often to ensure uniformity of product 
+and compliance with minimum test requirements. 

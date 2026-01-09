@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 208,
+  "globalPageIndex": 1006,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "SA-533/SA-533M ASME BPVC.II.A-2025 \nSll. Ultrasonic Examination in accordance with Specifica\u00ad\ntion A577 / A577M, \nS12. Ultrasonic Examination in accordance with Specifica\u00ad\ntion A578/A578M, \nS17. Vacuum Carbon-Deoxidized Steel, and \nS19. Restricted Chemical Requirements. \nADDITIONAL SUPPLEMENTARY REQUIREMENTS \nS53. \nAlso listed below is additional optional Supplementary Requirements S53, which is suitable for this \nspecification. \nS53.1 When specified by the purchaser, the axis of the \ntensile and impact test specimens shall come from the mid\u00ad\nthickness of each plate tested, in lieu of midway between the \ncenter thickness and the top or bottom surface of the plate. \nAPPENDIX \n(Nonmandatory Information) \nXI. NUCLEAR REACTOR BELTLINE CONSIDERATIONS-RESIDUAL ELEMENTS \nXl .1 Reactor design requires review and control of residual \nelements that affect the material properties. Copper and phos\u00ad\nphorus are limited to levels determined by the total fluence to \nbe encountered during plant life. Vanadium and sulfur can \naffect the upper energy shelf level. In the case of sulfur, control \nof this element or its morphology in the plate, or both, may \noffer alternative means of control. The limits required shall be \nspecified in the ordering data. The following table itemizes \ncurrently available commercial limits for the referenced ele\u00ad\nments: \n906 \nElement \nCopper \nPhosphorus \nSulfur \nVanadium \nHeat Analysis, % \n0.10 \n0.012 \n0.010 \n0.03 \nProduct Analysis, % \n0.12 \n0.Q15 \n0.Q13 \n0.04 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-1006.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1495,
+  "bestTextAlphaRatio": 0.7518
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "rows": []
+  },
+  {
+    "rows": [
+      [
+        "600",
+        "1500",
+        "15",
+        "Norn 2-This table applies to widths produced by slitting from wider"
+      ],
+      [
+        "1500",
+        "3000",
+        "20",
+        "sheet."
+      ],
+      [
+        "3000",
+        "6000",
+        "25",
+        ""
+      ]
+    ]
+  }
+]

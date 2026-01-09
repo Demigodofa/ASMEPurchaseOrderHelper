@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 657,
+  "globalPageIndex": 657,
+  "width": 622.44,
+  "height": 861.36,
+  "text": "ASME BPVC.II.A-2025 SA-370 \nQil'.llfillS!rul \nA \nB \nT \nt \nRescctptioo \nMachined Surface \nOriginal OD Surface \nSp,acimen Thickness \nEnd Thickness \nFIG. 12 Tubular Impact Specimen Containing Original OD Surface \nNotch \nShear Area \n(dull) ----L_,, \nNorn I-Measure average dimensions A and B to the nearest 0.02 in. or 0.5 mm. \nNorn 2-Determine the percent shear fracture using Table 7 or Table 8. \nFIG. 13 Determination of Percent Shear Fracture \nTABLE 7 Percent Shear for Measurements Made in Inches \nNorn !-Since this table is set up for finite measurements or dimensions A and B, 100 % shear is to be reported when either A or Bis zero. \nDimen- Dimension A, in. \nsion \nB, in. 0.05 0.10 0.12 0.14 0.16 0.18 0.20 0.22 \n0.05 98 96 95 94 94 93 92 91 \n0.10 96 92 90 89 87 85 84 82 \n0.12 95 90 88 86 85 83 81 79 \n0.14 94 89 86 84 82 80 77 75 \n0.16 94 87 85 82 79 77 74 72 \n0.18 93 85 83 80 77 74 72 68 \n0.20 92 84 81 77 74 72 68 65 \n0.22 91 82 79 75 72 68 65 61 \n0.24 90 81 77 73 69 65 61 57 \n0.26 90 79 75 71 67 62 58 54 \n0.28 89 77 73 68 64 59 55 50 \n0.30 88 76 71 66 61 56 52 47 \n0.31 88 75 70 65 60 55 50 45 \n26.4.3.4 Measure the amount of expansion on each side of \neach half relative to the plane defined by the undeformed \nportion of the side of the specimen using a gauge similar to that \nshown in Figs. 16 and 17. \n26.4.3.5 Since the fracture path seldom bisects the point of \nmaximum expansion on both sides of a specimen, the sum of \nthe larger values measured for each side is the value of the test. \nAffange the halves of one specimen so that compression sides \nare facing each other. Using the gauge, measure the protrusion \non each half specimen, ensuring that the same side of the \nspecimen is measured. Measure the two broken halves indi\u00ad\nvidually. Repeat the procedure to measure the protrusions on \n0.24 0.26 0.28 0.30 0.32 0.34 0.36 0.38 0.40 \n90 90 89 88 87 86 85 85 84 \n81 79 77 76 74 73 71 69 68 \n77 75 73 71 69 67 65 63 61 \n73 71 68 66 64 62 59 57 55 \n69 67 64 61 59 56 53 51 48 \n65 62 59 56 54 51 48 45 42 \n61 58 55 52 48 45 42 39 36 \n57 54 50 47 43 40 36 33 29 \n54 50 46 42 38 34 30 27 23 \n50 46 41 37 33 29 25 20 16 \n46 41 37 32 28 23 18 14 10 \n42 37 32 27 23 18 13 9 3 \n40 35 30 25 20 18 10 5 0 \nthe opposite side of the specimen halves. The larger of the two \nvalues for each side is the expansion of that side of the \nspecimen. \n26.4.3.6 Measure the individual lateral expansion values to \nthe nearest mil (0.025 mm) and record the values. \n26.4.3.7 With the exception described as follows, any speci\u00ad\nmen that does not separate into two pieces when struck by a \nsingle blow shall be reported as unbroken. The lateral expan\u00ad\nsion of an unbroken specimen can be reported as broken if the \nspecimen can be separated by pushing the hinged halves \ntogether once and then pulling them apart without further \nfatiguing the specimen, and the lateral expansion measured for \n605 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0657.json",
+  "tabulaTablesCsv": "tables_tabula/page-0657.csv",
+  "tabulaTableCount": 2,
+  "bestTextPath": "best_text/pages/page-0657.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2895,
+  "bestTextAlphaRatio": 0.5344
+}

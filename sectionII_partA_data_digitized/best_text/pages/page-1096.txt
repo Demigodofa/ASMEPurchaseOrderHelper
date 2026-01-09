@@ -1,0 +1,100 @@
+SA-568/SA-568M (ASTM A568/A568M) ASME BPVC.II.A-2025 
+TABLE A1.12 Thickness Tolerances of Cold-Rolled Sheet (All 
+Designatlons)A -25-mm Minimum Edge Distance 
+Norn I-Thickness is measured at any point across the width not less 
+than 25 mm from a side edge. 
+Norn 2-Widths up to and including 300 mm in this table apply to 
+widths produced by slitting from wider sheet. 
+Norn 3-Micrometers used for measurement of thickness shall be 
+constructed with anvils and spindles having minimum diameters of 
+0.188 in. [4.80 mm]. The tip of the spindle shall be flat, and the tip of the 
+anvil shall be flat or rounded with a minimum radius of curvature of 0.10 
+in. [2.55 mm]. Micrometers with pointed tips are not suitable for thickness 
+measurements. 
+Norn 4--This table was constructed by multiplying the values in the 
+standard table by 0.50 and rounding to 2 decimal places using standard 
+ASTM practice. 
+Norn 5-The thickness of material <50 mm wide shall be measured at 
+mid-width. 
+Specified Width, 
+mm 
+Over 
+1800 
+2000 
+Through 
+1800 
+2000 
+D 
+Specified Ordered Thickness, mm 8 
+Through Over 0.4 Over 1.0 Over 1.2 Over 2.5 
+0.4 to 1.0, to 1.2, to 2.5, to 4.0, 
+incl incl incl incl 
+Thickness Tolerances Over, mm, No Tolerance Underc 
+0.05 0.08 0.10 0.12 0.15 
+D 0.08 0.10 0.15 0.18 
+D Q.15 0.15 Q.18 0.20 
+A 0.55 mm minimum thickness for high-strength low-alloy. 
+8 The specified thickness range captions apply independent of whether the 
+ordered thickness is stated as a nominal or minimum. 
+c The tolerances provided in the table are based on minimum thickness (tolerance 
+over, no tolerance under). For nominal thickness, the tolerance is divided equally 
+over and under. 
+0 Where an ellipsis ( ... ) appears in the table, the requirements have not been 
+defined. 
+TABLE A1.13 Length Tolerances of Cold-Rolled Sheet (All 
+Designations) 
+TABLE A1.15 Width Tolerances for Cold-Rolled Sheet (All 
+Designations)A 
+(Coils and Cut Lengths to 300 mm in Width) (Cut Lengths Over 300 mm in Width) 
+Specified Length, mm Tolerance Over Specified 
+----------------- Length (No Tolerance 
+Over 
+300 
+1500 
+3000 
+6000 
+Through 
+1500 
+3000 
+6000 
+Under), mm 
+6 
+20 
+35 
+45 
+Norn I-This table applies to widths produced by slitting from wider 
+sheet. 
+Specified Width, mm 
+Over Through 
+50 100 
+100 200 
+200 300 
+Width Tolerance, Over 
+and Under, mm 
+0.3 
+0.4 
+0.8 
+--------------------------------- 6:50mrrr-thickness-ioriltgtFstrengthiow-all 
+TABLE A 1.14 Length Tolerances of Cold-Rolled Sheet (All 
+Designations) 
+(Cut Length Sheets, to 300 mm in Width) 
+Norn I-This table applies to widths produced by slitting from wider 
+sheet. 
+Specified Length, mm Tolerances Over Specified 
+----------------- Length (No Tolerance 
+Over Through Under), mm 
+600 1500 15 
+1500 3000 20 
+3000 6000 25 
+996 
+TABLE A1.16 Camber Tolerances of Cold-Rolled Sheet in Coils 
+(All Designatlons)A 
+(Coils to 300 mm in Width) 
+Norn I-Camber is the greatest deviation of a side edge from a straight 
+line, the measurements being taken on the concave side with a straight­
+edge. 
+Norn 2-This table applies to widths produced by slitting from wider 
+sheet. 
+Width, mm Camber Tolerances 
+Through 300, incl 5.0 mm in any 2000 mm 
+A 0.50 mm minimum thickness for high-strength low-alloy. 

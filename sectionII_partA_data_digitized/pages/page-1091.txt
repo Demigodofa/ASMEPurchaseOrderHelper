@@ -1,0 +1,73 @@
+ASME BPVC.II.A-2025 SA-568/SA-568M (ASTM AS68/A568M) 
+TABLE S1.4 Thickness Tolerances [Metric] for Hot-Rolled Sheet (Carbon and Structural Steel Only)-10-mm (Cut Edge) and 20-mm (Mill 
+Edge) Minimum Edge Distance (Coils and Cut Lengths, Including Pickled) 
+NoTE I-Thickness is measured at any point across the width not less than 10 mm from a cut edge and not less than 20 mm from a mill edge. This 
+table does not apply to the uncropped ends of mill edge coils. 
+NoTE 2-Micrometers used for measurement of thickness shall be constructed with anvils and spindles having minimum diameters of 0.188 in. 
+[4.80 mm]. The tip of the spindle shall be flat, and the tip of the anvil shall be flat or rounded with a minimum radius of curvature of 0.10 in. [2.55 mm]. 
+Micrometers with pointed tips are not suitable for thickness measurements. 
+NOTE 3-This table was used to construct Table Al.I by multiplying the values in this table by 0.75 and rounding to 2 decimal places using standard 
+ASTM practice. 
+NOTE 4-The thickness of material <25 mm wide shall be measured at mid-width. 
+Specified Width, mm 
+To 600, incl 
+Over 600 to 1200, incl 
+Over 1200 to 1500, incl 
+Over 1500 to 1800, incl 
+Over 1800 
+Through 2.0 
+0.30 
+0.30 
+0.35 
+0.35 
+0.35 
+Specified Ordered Thickness, mmA 
+Over 2.0 to 2.5, incl Over 2.5 to 4.5, excl 
+Thickness Tolerances, Over, mm, No Tolerance Under 8 
+0.30 
+0.35 
+0.35 
+0.40 
+0.40 
+0.35 
+0.40 
+0.40 
+0.40 
+0.40 
+A The specified thickness range captions apply independent of whether the ordered thickness is stated as a nominal or minimum. 
+4.5 to 6.0, excl 
+0.40 
+0.45 
+0.50 
+0.56 
+0.60 
+8 The tolerances provided in the table are based on minimum thickness (tolerance over, not tolerance under). For nominal thickness, the tolerance is divided equally over 
+and under. 
+TABLE S1.5 Thickness Tolerances [Metric] for Hot-Rolled Sheet (High-Strength, Low-Alloy Steel)-10-mm (Cut Edge) and 20-mm (MIii 
+Edge) Minimum Edge Distance (Coils and Cut Lengths, Including Pickled) 
+NoTE I-Thickness is measured at any point across the width not less than 10 mm from a cut edge and not less than 20 mm from a mill edge. This 
+table does not apply to the uncropped ends of mill edge coils. 
+NoTE 2-Micrometers used for measurement of thickness shall be constructed with anvils and spindles having minimum diameters of 0.188 in. 
+[4.80 mm]. The tip of the spindle shall be flat, and the tip of the anvil shall be flat or rounded with a minimum radius of curvature of 0.10 in. [2.55 mm]. 
+Micrometers with pointed tips are not suitable for thickness measurements. 
+NOTE 3-This table was used to construct Table Al.I by multiplying the values in this table by 0.75 and rounding to 2 decimal places using standard 
+ASTM practice. 
+NOTE 4-The thickness of material <25 mm wide shall be measured at mid-width. 
+Specified Width, mm Through 
+2.0 
+Specified Ordered Thickness, mmA 
+Over 2.0 to Over 2.5 to 
+2.5, incl 4.5, excl 
+Thickness Tolerances Over, mm, No Tolerance Under 8 
+4.5 to 6.0, 
+excl 
+To 600, incl 0.30 0.35 0.40 0.40 
+Over 600 to 1200, incl 0.35 0.40 0.45 0.50 
+----------~O~v~e:-r ~12iO~O~to~150~0;'-' ~in~cl,------ ______ ~o~.3~5~-------~0:-;.4~0 ________ ~o~ •. ~50~ ______ ___;o 0 :_.,.50.-----------+ Over 1500 to 1800, incl 0.40 0.45 0.55 
+Over 1800 to 2000, incl 0.40 0.45 0.60 0.60 
+Over 2000 ° 0.50 0.60 0.60° 
+A The specified thickness range captions apply Independent of whether the ordered thickness is stated as a nominal or minimum. 
+8 The tolerances provided in the table are based on minimum thickness (tolerance over, not tolerance under). For nominal thickness, the tolerance is divided equally over 
+and under. 
+0 Where an ellipsis ( ... ) appears in the table, the requirements have not been defined. 
+991 

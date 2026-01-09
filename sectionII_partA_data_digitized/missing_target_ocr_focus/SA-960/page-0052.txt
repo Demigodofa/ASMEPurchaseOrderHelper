@@ -1,0 +1,35 @@
+SA-985 /SA-985M ASME BPVG.II.A-2025 :
+; APPENDIX re
+(Nonmandatory Information) |
+X1. ALLOY DESIGNATIONS FOR CAST the heat-resistant service at and above 1200°F [650°C].
+TAINLESS STEELS | ,
+STAIN , X1.2.2 Ternary Diagram Location Letter — The second
+X1.1 Cast stainless steels usually are specified on the teat ; ;
+. , letter indicates the approximate location of the nickel and :
+basis of composition using the alloys designation system ; AT
+chromium contents of the alloy grade on the FeCrNi ternary
+established by the Alloy Casting Institute (ACI). The ACI ; — :
+. diagram shown in Fig. X1.1.
+designations, for example, CF8M, have been adopted by _
+ASTM and are preferred for cast alloys over the designa- — X1.2.3 Carbon Content Number — For C service classi- —
+tions used by the American Iron and Steel Institute for _ fications, this single or dual digit numeral represents the .
+similar wrought steels. maximum carbon content in units of 0.01%. For H service |
+X1.2 This nomenclature system has served successfully Classifications, this number represents the midpoint of the |
+; range of carbon content in terms of 0.01% with a
+to accommodate changes in old alloys and to designate _.
++0.05% limit. |
+new ones. ,
+Xx x 00 x x x X1.2.4 Special Elements Letters — Additional letters
+oo following the numeral represents special chemical elements :
+Service Classification . :
+Letter | in the alloy grade, such as M for molybdenum, C for
+Ternary Diagram Location columbium, Cu for copper, and W for tungsten. There are .
+Letter two exceptions. The letter A indicates “Controlled Ferrite,”
+Carbon Content Number and the letter F indicates “Free Machining.”
+Special Elements Letter
+X1.3 In Fig. X1.1, unlettered NiCr ranges are associ-
+X1.2.1 Service Classification Letter — The first letter | ated with the nearest lettered location. They may be the ,
+of the cast stainless steel designation system identifies the result of differences between corrosion and heat-resistance
+intended service application of the alloy. The letter Cindi- types or because of the influence of additional elements,
+cates corrosion-resistant service, and the letter H indicates for example, the precipitation hardening grade CB-7 Cu.
+1452 :

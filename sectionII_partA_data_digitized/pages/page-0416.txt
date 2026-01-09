@@ -1,0 +1,98 @@
+SA-249 /SA-249M ASME BPVC.II.A-2025 
+SUPPLEMENTARY REQUIREMENTS 
+. ~e following supplementary requirements shall apply only when specified by the purchaser in the 
+mqmry, contract, or order. 
+Sl. Stress-Relieved Annealed Tubes 
+S 1.1 For use in certain corrosives, particularly chlorides 
+where stres~ corrosion may occur, tubes in Grades TP304L, 
+TP316L, TP321, TP347, and TP348 may be specified in the 
+stress-relieved annealed condition. Details of these supplemen­
+tal requirements shall be agreed upon by the manufacturer and 
+the purchaser. 
+S 1.2 When stress-relieved tubes are specified, tubes shall be 
+given a heat treatment at 1550 to 1650 °F [845 to 900 °C] after 
+roll straightening. Cooling from this temperature range may be 
+either in air or by slow cooling. No mechanical straightening is 
+permitted after the stress-relief treatment. 
+S 1.3 Straightness of the tubes shall be a matter of negotiation 
+between the purchaser and manufacturer. 
+S2. Minimum Wall Tubes 
+S2.1 When specified by the purchaser, tubes shall be fur­
+nished on a minimum wall basis. Such tubes shall satisfy the 
+minimum wall thickness requirements of Specification A1016/ 
+Al016M rather than the nominal wall requirements of this 
+specification. In ~ddition to the marking required by Section 
+18, the tubing shall be marked S2. 
+S3. Pneumatic Test 
+S3.1 The tubing shall be examined by a pneumatic test 
+(either air under water or pneumatic leak test) in accordance 
+with Specification A1016/Al016M. 
+S4. Stabilizing Heat Treatment 
+S4.1 Subsequent to the solution anneal required in Section 
+6, Grades TP309HCb, TP310HCb, TP321, TP321H, TP347, 
+TP347H, TP348, and TP348H shall be given a stabilization 
+heat treatment at a temperature lower than that used for the 
+initial solution annealing heat treatment. The temperature of 
+stabilization heat treatment shall be at a temperature as agreed 
+upon between the purchaser and vendor. 
+SS. DELETED 
+S6. Intergranular Corrosion Test 
+S6.l When specified, material shall pass intergranular cor­
+rosion tests conducted by the manufacturer in accordance with 
+Practices A262, Practice E. 
+NoTE S6.1-Practice E requires testing on the sensitized condition for 
+low carbon or stabilized grades, and on the as-shipped condition for other 
+grades. 
+S6.2 A stabilization heat treatment in accordance with 
+Supplementary Requirement S4 may be necessary and is 
+permitted in order to meet this requirement for the grades 
+containing titanium or columbium, particularly in their H 
+versions. 
+364 
+87. Weld Decay Test 
+S7.1 This test is not applicable to alloys with a nickel 
+content 2:: 19.0 % or a molybdenum content 2:: 4.00 %, or both. 
+Norn S7.1-Toe weld decay test is sensitive for the presence of delta 
+ferrite in the weld material. Increasing amounts of delta ferrite will result 
+in a higher ratio as defined in S7 .10. Alloys with the high nickel or 
+molybdenum content of S7 .1 may not form delta fenite and therefore may 
+not be sensitive to this test. 
+S7.2 When specified by the purchase order, one sample 
+from each lot of tubing (See 13.9.2) shall be subjected to 
+testing in a boiling mixture of 50 % reagent grade hydrochloric 
+acid and 50 % water. 
+S7 .3 Approximately 2-in. long samples shall be prepared 
+from a production length of tubing. Shorter, 1-in. samples may 
+be used for small diameter (½-in. and below) tubing. Split the 
+sample longitudinally to allow for easy micrometer measure­
+ments. The sample may be one piece which contains the weld 
+and at least 90° of base-metal to one side of the weld. 
+Alternately, the sample may be two separate pieces with one 
+containing the weld and a similar size section from the balance 
+of the tube opposite the weld consisting of 100 % base metal. 
+Remove all burrs and sharp edges by lightly grinding. Remove 
+dust and grease by cleaning with soap and water or other 
+suitable solvents. Then, place sample(s) in the flask. It is not 
+recommended to test more than four samples together, or to 
+mix alloy types. 
+S7.4 Prepare the hydrochloric acid solution by slowly add­
+ing reagent grade (approximately 37 %) hydrochloric acid to 
+an equal volume of distilled water. (Warning-Protect eyes 
+and use rubber gloves when handling acid. Mixing shall be 
+done under a hood and testing shall be run under a hood.) 
+S7.5 The test container shall be a 1-L Erlenmeyer flask 
+equipped with ground-glass joints and an Ahlin condenser. The 
+volume of the solution shall be approximately 700 mL. 
+S7 .6 Measure the thickness of the tube at five locations 
+along the weld area and at five locations along the base-metal 
+section. In both cases, take measurements at approximately 
+equal longitudinal intervals along the section lengths. Make 
+these measurements with a sharp pointed micrometer accurate 
+to at least 0.001 in. The micrometer must be suitable for 
+measuring the small features in the surface after testing. 
+Typical pin micrometers have tapered anvils with a tip radius 
+of less than 0.015 in. 
+S7.7 Immerse the samples into the solution. Add boiling 
+chips and bring to a boil. Allow the chips to remain boiling 
+throughout the test. The time of testing shall be that which is 
+required to remove 40 to 60 % of the original base-metal 

@@ -1,0 +1,93 @@
+SA-333/SA-333M ASME BPVC.II.A-2025 
+actually tested. Appendix X 1 shows some examples of how the 
+temperature reductions are determined. 
+14.2 The notched bar impact test shall be made in accor­
+dance with the procedure for the simple beam, Charpy-type test 
+of Test Methods E23. 
+14.3 Impact tests specified for temperatures lower than 70 
+°F [20 °C] should be made with the following precautions. The 
+impact test specimens as well as the handling tongs shall be 
+cooled a sufficient time in a suitable container so that both 
+reach the desired temperature. The temperature shall be mea­
+sured with thennocouples, thermometers, or any other suitable 
+devices and shall be controlled within 3 °F [2 °C]. The 
+specimens shall be quickly transferred from the cooling device 
+to the anvil of the Charpy impact testing machine and broken 
+with a time lapse of not more than 5 s. 
+15. Hydrostatic or Nondestructive Electric Test 
+15.l Each pipe shall be subjected to the nondestructive 
+electric test or the hydrostatic test. The type of test to be used 
+shall be at the option of the manufacturer, unless otherwise 
+specified in the purchase order. 
+15.2 The hydrostatic test shall be in accordance with Speci­
+fication A999/A999M. 
+15.3 Nondestructive Electric Test-Nondestructive electric 
+tests shall be in accordance with Specification A999/ A999M, 
+with the following addition: 
+15.3.1 If the test signals were produced by visual imperfec­
+tions (listed in 15.3.2), the pipe may be accepted based on 
+visual examination, provided the imperfection is less than 
+0.004 in. (0.1 mm) or 12½ % of the specified wall thickness 
+(whichever is greater). 
+15.3.2 Visual Imperfections: 
+15.3.2.1 Scratches, 
+15.3.2.2 Surface roughness, 
+15.3.2.3 Dings, 
+15.3.2.4 Straightener marks, 
+15.3.2.5 Cutting chips, 
+15.3.2.6 Steel die stamps, 
+15.3.2.7 Stop marks, or 
+15.3.2.8 Pipe reducer ripple. 
+16. Product Marking 
+16.1 Except as modified in 16.1.1, in addition to the 
+marking prescribed in Specification A999/A999M, the mark­
+ing shall include whether hot finished, cold drawn, seamless or 
+welded, the schedule number and the letters "LT'' followed by 
+the temperature at which the impact tests were made, except 
+when a lower test temperature is required because of reduced 
+specimen size, in which case, the higher impact test tempera­
+ture applicable to a full-size specimen should be marked. 
+16.1.1 When the size of the finished pipe is insufficient to 
+obtain subsize impact specimens, the marking shall not include 
+the letters "LT" followed by an indicated test temperature 
+unless Supplementary Requirement Sl is specified. 
+16.1.2 When the pipe is furnished in the quenched and 
+tempered condition, the marking shall include the letters "QT," 
+and the heat treatment condition shall be reported to the 
+purchaser or his representative. 
+17. Keywords 
+17 .1 low; low temperature service; seamless steel pipe; 
+stainless steel pipe; steel pipe; temperature service applications 
+SUPPLEMENTARY REQUIREMENTS 
+The following supplementary requirement shall apply only when specified by the purchaser in the 
+contract or order. 
+Sl. Subsize Impact Specimens 
+S 1.1 When the size of the finished pipe is insufficient to 
+permit obtaining subsize impact specimens, testing shall be a 
+matter of agreement between the manufacturer and the pur­
+chaser. 
+S2. Requirements for Pipe for Hydrofluoric Acid Alky­
+lation Service 
+S2.1 The carbon equivalent (CE), based on heat analysis, 
+shall not exceed 0.43 % if the specified wall thickness is equal 
+to or less than 1 in. [25.4 mm] or 0.45 % if the specified wall 
+thickness is greater than 1 in. [25.4 mm]. 
+S2.2 The carbon equivalent shall be determined using the 
+following formula: 
+CE = C + Mn/6 + (Cr + Mo + V)/5 + (Ni + Cu)/15 
+490 
+S2.3 Based upon heat analysis in mass percent, the vana­
+dium content shall not exceed 0.02 %, the niobium content 
+shall not exceed 0.02 % and the sum of the vanadium and 
+niobium contents shall not exceed 0.03 %. 
+S2.4 Based upon heat analysis in mass percent, the sum of 
+the nickel and copper contents shall not exceed 0.15 %. 
+S2.5 Based upon heat analysis in mass percent, the carbon 
+content shall not be less than 0.18 %. 
+S2.6 Welding consumables for repair welds shall be of low 
+hydrogen type. E60XX electrodes shall not be used, and the 
+resultant weld chemistry shall meet the chemical composition 
+requirements specified for the pipe. 
+S2.7 The designation "HF" shall be stamped or marked on 
+each pipe to signify that the pipe complies with this supple­
+mentary requirement. 

@@ -1,0 +1,58 @@
+ASME BPVC.II.A-2025 SA-574 
+TABLE 1 DELETED 
+TABLE 2 
+TENSILE REQUIREMENTS 
+FOR COARSE THREAD SCREWS TABLE 3 
+Proof Load TENSILE REQUIREMENTS 
+(Length FOR FINE THREAD SCREWS 
+Screw Tensile Measurement Proof Load 
+Dia Threads/ Load, Stress Method), (Length 
+(0), in. in. Min., lbfA Area, in. 28 Min., lbfc Screw Tensile Measurement 
+Dia Threads/ Load, min, Stress Method), 
+0.073 64 473 0.00263 368 (D), in. in. Min., lbfA Area, in. 28 Min., lbfc 
+,✓---._ 
+0.086 56 666 0.00370 518 
+0.099 48 877 0.00487 682 0.060 80 324 0.00180 252 
+0.112 40 1,090 0.00604 846 0.073 72 500 0.00278 389 
+0.125 40 1,430 0.00796 1,110 0.086 64 709 0.00394 552 
+0.138 32 1,640 0.00909 1,270 0.099 56 941 0.00523 732 
+0.164 32 2,520 0.0140 1,960 0.112 48 1,190 0.00661 925 
+0.190 24 3,150 0.0175 2,450 0.125 44 1,490 0.00830 1,160 
+0.250 20 5,730 0.0318 4,450 0.138 40 1,830 0.01015 1,420 
+0.3125 18 9,440 0.0524 7,340 0.164 36 2,650 0.01474 2,060 
+0.375 16 13,900 0.0775 10,800 0.190 32 3,600 0.0200 2,800 
+0.4375 14 19,100 0.1063 14,900 0.250 28 6,500 0.0364 5,100 
+0.500 13 25,500 0.1419 19,900 0.3125 24 10,400 0.0580 8,120 
+0.375 24 15,800 0.0878 12,300 0.625 11 38,400 0.226 30,500 0.4375 20 21,400 0.1187 16,600 0.750 10 56,800 0.334 45,100 0.500 20 28,800 0.1599 22,400 
+0.875 9 78,500 0.462 62,400 0.625 18 43,500 0.256 34,600 
+1.000 8 103,000 0.606 81,800 0.750 16 63,400 0.373 50,400 
+1.125 7 129,000 0.763 103,000 0.875 14 86,500 0.509 68,700 
+1.250 7 165,000 0.969 131,000 1.000 12 113,000 0.663 89,500 
+1.375 6 196,000 1.155 156,000 1.125 12 146,000 0.856 116,000 
+1.500 6 239,000 1.405 190,000 1.250 12 182,000 1.073 145,000 
+1.750 5 323,000 1.90 256,000 1.375 12 224,000 1.315 178,000 
+2.000 4 1 /2 425,000 2.50 338,000 1.500 12 269,000 1.581 213,000 
+2.250 4 1 /2 552,000 3.25 439,000 
+2.500 4 680,000 4.00 540,000 NOTES: 
+2.750 4 838,000 4.93 666,000 A Values based on 180 ksi for 0.500 and smaller and 170 ksi for sizes 
+3.000 4 1,010,000 5.97 806,000 larger than 0.500 in. and stress area in accordance with Footnote 8. 
+3.250 4 1,210,000 7.10 958,000 8 Stress areas based on H-28 as follows: 
+3.500 4 1,420,000 8.33 1,120,000 
+3.750 4 1,640,000 9.66 1,300,000 
+As = 0.7854 [D - (0.9743/n)J 2 
+4.000 4 1,880,000 11.08 1,500,000 
+NOTES: where: 
+A Values based on 180 ksi for 0.500 and smaller and 170 ksi for As = stress area, 
+sizes larger than 0.500 in. and stress area in accordance with Foot- D = nominal screw size, and 
+note 8. n = threads/in. 
+8 Stress areas based on Handbook H-28 (U.S. Department of Com- c Values based on 140 ksi for 0.500 and smaller and 135 ksi for sizes 
+mercel as follows: larger than 0.500 in. and stress area in accordance with Footnote 8. 
+As= 0.7854 [D - (0.9743/n)J 2 
+where: 
+As = stress area, 
+D = nominal screw size, and 
+n = threads/in. 
+c Values based on 140 ksi for 0.500 and smaller and 135 ksi for sizes 
+larger than 0.500 in. and stress area in accordance with Footnote 8. 
+~ 
+1019 

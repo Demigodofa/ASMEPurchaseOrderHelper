@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 607,
+  "globalPageIndex": 1405,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "ASME BPVC.II.A-2025 SA-832/SA-832M \n~vTr40 (~vTr55) = the shift of the 40-ft-lbs (55 J) transition \ntemperature the of the step cooled ma\u00ad\nterial. (The 40-ft-lbs (55 J) transition \ntemperature the of the step cooled ma\u00ad\nterial minus that of the material sub\u00ad\njected to the minimum PWHT only). \nS63.5 The 40-ft-lbs (55 J) transition temperatures for the \ntwo material conditions shall be reported. (Fig. S 1.1) \n8 \n! \nI I \n40 (55) \nA\\11MO (Av1i'SS) \nTemperature, \u00b0F (\u00b0C) \nFIG. S1.1 Transition Temperature Curves Before and After Step Cool Heat Treatment \n1343 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-1405.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 559,
+  "bestTextAlphaRatio": 0.6476
+}

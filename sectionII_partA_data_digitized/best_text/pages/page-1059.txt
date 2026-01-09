@@ -1,0 +1,44 @@
+ASME BPVC.ll.A-2025 SA-563 
+--- TABLE 2 
+CHEMICAL REQUIREMENTS FOR GRADES C3 AND DH3 NUTS 
+Composition, % 
+Classes for Grade C3 Nuts (A) Grade DH3 
+Element N A B C D E F Nuts 
+Carbon: 
+Heat analysis 0.33-0.40 0.38-0.48 0.15-0.25 0.15-0.25 0.20-0.25 0.20-0.25 0.20-0.53 
+Product analysis 0.31-0.42 0.36-0.50 0.14-0.26 0.14-0.26 0.18-0.27 0.19-0.26 0.19-0.55 
+Manganese: 
+Heat analysis 0.90-1.20 0.70-0.90 0.80-1.35 0.40-1.20 0.60-1.00 0.90-1.20 0.40 min 
+Product analysis 0.86-1.24 0.67-0.93 0.76-1.39 0.36-1.24 0.56-1.04 0.86-1.24 0.37 min 
+Phosphorus: 
+Heat analysis 0.07-0.15 0.040 max 0.06-0.12 0.035 max 0.040 max 0.040 max 0.040 max 0.046 max 
+Product analysis 0.07-0.155 0.045 max 0.06-0.125 0.040 max 0.045 max 0.045 max 0.045 max 0.052 max 
+Sulfur: 
+Heat analysis 0.050 max 0.050 max 0.050 max 0.040 max 0.050 max 0.040 max 0.040 max 0.050 max 
+Product analysis 0.055 max 0.055 max 0.055 max 0.045 max 0.055 max 0.045 max 0.045 max 0.055 max 
+Silicon: 
+Heat analysis 0.20-0.90 0.15-0.35 0.30-0.50 0.15-0.35 0.25-0.50 0.15-0.35 0.15-0.35 
+Product analysis 0.15-0.95 0.13-0.37 0.25-0.55 0.13-0.37 0.20-0.55 0.13-0.37 0.13-0.37 
+Copper: 
+Heat analysis 0.25-0.55 0.25-0.45 0.20-0.40 0.20-0.50 0.30-0.50 0.30-0.60 0.20-0.40 0.20 min 
+Product analysis 0.22-0.58 0.22-0.48 0.17-0.43 0.17-0.53 0.27-0.53 0.27-0.63 0.17-0.43 0.17 min 
+Nickel: 
+Heat analysis 1.00 max 0.25-0.45 0.50-0.80 0.25-0.50 0.50-0.80 0.30-0.60 0.20-0.40 0.20 min (BJ 
+Product analysis 1.03 max 0.22-0.48 0.47-0.83 0.22-0.53 0.47-0.83 0.27-0.63 0.17-0.43 0.17 min 
+Chromium: 
+Heat analysis 0.30-1.25 0.45-0.65 0.50-0.75 0.30-0.50 0.50-1.00 0.60-0.90 0.45-0.65 0.45 min 
+Product analysis 0.25-1.30 0.42-0.68 0.47-0.83 0.27-0.53 0.45-1.05 0.55-0.95 0.42-0.68 0.42 min 
+Vanadium: 
+Heat analysis 0.020 min 
+Product analysis 0.010 min 
+Molybdenum: 
+Heat analysis 0.06 max 0.10 max 0.15 min <Bl 
+Product analysis 0.07 max 0.11 max 0.14 min 
+Titanium: 
+Heat analysis 0.05 max 
+Product analysis 
+NOTES: 
+(Al C3 nuts may be made of any of the above listed material classes. Selection of the class shall be at the option of the manufacturer. 
+_(B)_Nicke_l_Qrmolybdenum may b€_ll_sed._ 
+- -
+959 

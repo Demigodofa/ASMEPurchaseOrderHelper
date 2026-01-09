@@ -1,0 +1,125 @@
+SA-513/SA-513M (ASTM A513/A513M) ASME BPVC.II.A-2025 
+TABLE S4.2 Allowance for Surface Imperfections on Inside Diameters of Special Smooth Finish TubesA 
+Wall Depth Allowance for 
+Outside Diameter 
+Size, 
+in. [mm] 
+Wall Thickness, 
+in. [mm] 
+Inside Diameter Surface Imperfections, 
+in. [mm] 
+Scores Pits 
+Up to 2½ incl [65] 0.065 to 0.109 incl [1.65 to 2. 77] 0.001 [0.03] 
+0.001 [0.03] 
+0.001 [0.03] 
+0.0015 [0.04] 
+0.0015 [0.04] 
+0.002 [0.05] 
+0.0025 [0.06] 
+0.003 [0.08] 
+0.0015 [0.04] 
+0.002 [0.05] 
+0.0025 [0.06] 
+0.0025 [0.06] 
+0.003 [0.08] 
+0.004 [0.1 O] 
+0.005 [0.13] 
+0.006 [0.15] 
+Over 2½ to 5½ incl [65 to 140] 
+Over 0.109 to 0.250 incl [2.77 to 6.35] 
+Over 0.250 to 0.312 incl [6.35 to 7.92] 
+0.083 to 0.125 incl [2.11 to 3.18] 
+Over 5½ to 7 incl [140 to 180] 
+Over 0.125 to 0.187 incl [3.18 to 4.75] 
+Over 0.187 to 0.312 incl [4.75 to 7.92] 
+0.125 to 0.187 incl [3.18 to 4.75] 
+Over 0.187 to 0.312 incl [4.75 to 7.92] 
+A If a specific size is desired, these allowances plus normal size tolerances must be considered in calculating size to be ordered. 
+steel and, when heat treated, subjected to the same finishing treatment in 
+a continuous furnace. When final heat treatment is done in a batch-type 
+furnace, the lot shall include all those tubes which are heat treated in the 
+same furnace charge. 
+S5.3 The yield strength corresponding to a permanent offset 
+of 0.2 % of the gauge length of the specimen or to a total 
+extension of 0.5 % of the gauge length under load shall be 
+determined. 
+S6. Destructive Weld Tests 
+S6. l Round tubing and tubing to be formed into other 
+shapes when in the round form shall meet the following 
+destructive weld tests. 
+S6.2 Flattening Test-A test 4 to 6 in. [100 to 150 mm] in 
+length shall be flattened between parallel plates with the weld 
+90° from the direction of applied force (at the point of 
+maximum bending) until opposite walls of the tubing meet. 
+Except as allowed in S6.2.1, no opening in the weld shall take 
+place until the distance between the plates is less than two 
+thirds of the original outside diameter of the tubing. No cracks 
+or breaks in the base metal shall occur until the distance 
+between the plates is less than one third of the original outside 
+diameter of the tubing, but in no case less than five times the 
+thickness of the tubing wall. Evidence of lamination or burnt 
+material shall not develop during the flattening process, and the 
+weld shall not show injurious defects. 
+S6.2.1 When low D-to-t ratio tubing is tested, because the 
+strain imposed due to geometry is unreasonably high on the 
+-inside-surface-ar-the six arnitwelve o'clock-locmions, cracRs at" 
+these locations shall not be cause for rejection if the D-to-t ratio 
+is less than 10. 
+S6.3 Flaring Test-A section of tube approximately 4 in. 
+[100 mm] in length shall stand being flared with a tool having 
+a 60° included angle until the tube at the mouth of the flare has 
+been expanded 15 % of the inside diameter, without cracking 
+or showing flaws. 
+S6.4 In order to properly evaluate weld quality, the producer 
+at his option may normalize the test specimen prior to testing. 
+S6.5 Number of tests and retests: 
+S6.5.1 Two flattening and two flaring tests shall be made 
+from each lot as specified. Each tested specimen shall conform 
+to the respective requirement (See Note Sl). 
+S6.5.2 If the results of the testing do not conform to the 
+requirements, retests shall be made on four additional 
+specimens, each of which shall conform to the respective 
+requirement. 
+862 
+S7. Hydrostatic Test Round Tubing 
+S7.1 All tubing will be given a hydrostatic test calculated as 
+follows: 
+where: 
+2St P=­ D 
+P = minimum hydrostatic test pressure, psi or MPa, 
+S = allowable fiber stress of 14 000 psi or 96.5 MPa, 
+t = specified wall thickness, in. or mm, and 
+D = specified outside diameter, in. or mm. 
+S7 .2 The minimum hydrostatic test pressue shall be main­
+tained for not less than 5 s. 
+S8. Nondestructive Electric Test 
+S8.l Each tube shall be tested with a nondestructive electric 
+test in accordance with Practice E213, Practice E273, Practice 
+E309, or Practice E570. It is the intent of this test to reject tubes 
+containing injurious defects. 
+S8.2 For eddy-current testing, the calibration tube shall 
+contain, at the option of the producer, any one of the following 
+discontinuities to establish a minimum sensitivity level for 
+rejection. For welded tubing, they shall be placed in the weld 
+if visible. 
+S8.2.l Drilled Hole-A hole not larger than 0.031 in. [0.78 
+mm] in diameter shall be drilled radially and completely 
+through the tube wall, care being taken to avoid distortion of 
+the tube wlille drilling. - -- - -
+S8.2.2 Transverse Tangential Notch-Using a round tool or 
+file with a ¼-in. [6.4-mm] diameter, a notch shall be filed or 
+milled tangential to the surface and transverse to the longitu­
+dinal axis of the tube. Said notch shall have a depth not 
+exceeding 12½ % of the specified wall thickness of the tube or 
+0.004 in. [0.101 mm], whichever is greater. 
+S8.2.3 Longitudinal Notch-A notch 0.031 in. [0.78 mm] or 
+less in width shall be machined in a radial plane parallel to the 
+tube axis on the outside surface of the tube, to have a depth not 
+exceeding 12½ % of the specified wall thickness of the tube or 
+0.004 in. [0.101 mm], whichever is greater. The length of the 
+notch shall be compatible with the testing method. 
+S8.3 For ultrasonic testing, the longitudinal calibration ref­
+erence notches shall be at the option of the producer, any one 
+of the three common notch shapes shown in Practice E213 or 
+Practice E273. The depth of notch shall not exceed 12½ % of 
+the specified wall thickness of the tube or 0.004 in. [0.101 

@@ -1,0 +1,125 @@
+'~· 
+'~ 
+ASME BPVC.II.A-2025 SA-859/SA-859M (ASTM A859/A859M) 
+description of the forging and the method of selecting test 
+location (see 6.3). When appropriate, the areas of significant 
+loading in the forging shall be designated. 
+3.2 Material supplied to this specification shall conform to 
+the requirements of Specification A788/A788M, which out­
+lines additional ordering information, manufacturing 
+requirements, testing and retesting methods and procedures, 
+marking, certification, product analysis variations, and addi­
+tional supplementary requirements. 
+3.3 If the requirements of this specification are in conflict 
+with the requirements of Specification A788/A788M, the 
+requirements of this specification shall prevail. 
+4. Manufacture 
+4.1 Melting Practice-The steel shall be made to a killed, 
+fine austenitic grain size, practice. 
+4.1.1 Vacuum degassing in accordance with Specification 
+A788/A788M is highly recommended. 
+4.2 Heat Treatment: 
+4.2.1 Normalizing may, at the manufacturer's option, pre­
+cede the prescribed heat treatment cycle. 
+4.2.2 Grade A Class 1 forgings shall be normalized at a 
+temperature in the range from 1600 to 1725 °F [870 to 940 °C] 
+and then precipitation hardened in the range from 1000 to 
+1225 °F [540 to 665 °C] for a time to be determined by the 
+material manufacturer. 
+4.2.3 Grade A Class 2 forgings shall be liquid quenched 
+from a temperature in the range from 1600 to 1725 °F [870 to 
+940 °C] and then precipitation hardened in the range from 1000 
+to 1225 °F [540 to 665 °C] for a time to be determined by the 
+material manufacturer. 
+4.2.4 Grade B forgings shall be double quenched and 
+tempered (liquid quenched twice) by austenitizing twice at a 
+temperature in the range of 1600 to 1725 °F [870 to 940 °C], 
+and then precipitation hardened at a temperature in the range of 
+1000 to 1300 °F [540 to 700 °C] for a time to be determined by 
+the manufacturer. 
+5. Chemical Composition 
+5.1 Heat Analysis-The heat analysis obtained from sam­
+pling in accordance with Specification A788/A788M shall 
+comply with Table 1. 
+5.2 Product Analysis-The purchaser may use the product 
+analysis provision of Specification A788/A788M to obtain a 
+product analysis from a forging representing each heat or 
+multiple heat. 
+6. Mechanical Requirements 
+6.1 Tensile Requirements;_The forgings, as represented by 
+the tension test specimens, shall conform to the requirements 
+of Table 2. The largest obtainable tension test specimen as 
+specified in Test Methods and Definitions A370 shall be used. 
+6.2 Notch Toughness Requirements: 
+6.2.1 For Grade A, Class 1 or 2 forgings, unless Supple­
+mentary Requirement S6 is specified, the Charpy impact test 
+results shall conform to the requirements of Table 3. One set of 
+three specimens shall be removed from each specimen location 
+as specified in 6.3. The supplier may select a test temperature 
+colder than that specified in the order, but in any case, the 
+actual test temperature shall be reported with the test results. 
+6.2.2 For Grade B forgings two sets of Charpy impact 
+specimens shall be removed from each test specimen location 
+as specified in and shall conform to the requirements of Table 
+3. 
+6.2.3 Full-size, 10 by 10 mm, Charpy V-notch specimens 
+shall be used unless the material thickness or configuration 
+makes it impossible to obtain full-size specimens. If the use of 
+sub-size specimens is necessary, the largest standard sub-size 
+specimen it is possible to obtain shall be used. 
+6.2.4 The acceptance values for sub-size specimens shall be 
+reduced in direct ratio to the reduction of specimen width. 
+6.3 Sampling-The longitudinal axis and the mid-length of 
+tension and impact test specimens shall be positioned in 
+accordance with one of the following methods as specified by 
+the purchaser: 
+TABLE 1 Chemical Requirements 
+Element 
+Carbon 
+Manganese 
+Phosphorus, max 
+Sulfur, max 
+Silicon, max 
+Chromium 
+Nickel 
+Molybdenum 
+Copper 
+Columbium 
+Vanadium max 
+Aluminum max 
+Titanium max 
+Tin max 
+Arsenic max 
+Antimony max 
+Nitrogen 
+Grade A 
+0.07 max 
+0.40-0.70 
+0.025 
+0.025 
+0.40 
+0.60-0.90 
+0.70-1.00 
+0.15-0.25 
+1.00-1.30 
+0.02 min 
+1367 
+Composition, % 
+Grade B 
+0.02-0.04 
+0.75-1.05 
+O.Q15 
+0.002 
+0.40 
+0.45-0.75 
+3.35-3.85 
+0.55-0.65 
+1.15-1.75 
+0.02-0.06 
+0.008 
+0.03 
+0.003 
+0.03 
+0.025 
+0.025 
+report 

@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 714,
+  "globalPageIndex": 1512,
+  "width": 792.0,
+  "height": 612.48,
+  "text": "TABLE 1 Chemical Requirements \n~ \nComposition, %A \n'\u00b0 0:) \nUNS Other \n0:) \nGrade Carbon Manganese Phosphorus Sulfur Silicon Nickel Chromium Molybdenum Copper NiobiumE Nitrogen ....... \nDesignation Elements ~ \nMartensitic Stainless Steels \n'\u00b0 S41000 13 chromium 0.15 1.00 0.040 0.030 1.00 11.5-13.5 \n0:) \n0:) \nS41026 13 chromium 0.15 1.00 0.020 0.020 1.00 1.00-2.00 11.5-13.5 0.40-0.60 0.50 == 0.5 molybdenum \nS41500 13 chromium, 4 0.05 0.50-1.00 0.030 0.030 0.60 3.5-5.5 11.5-14.0 0.50-1.00 \nnickel \nS42390 12 chromium, 1.0 0.18-0.25 1.00 0.030 0.030 1.00 0.30-0.80 11.5-12.5 0.80-1.20 0.08-0.15 0.03-0.08 V \nmolybdenum, 0.25-0.35 \nmodified with \nvanadium \nAustenitic Stainless Steels \nN08028 32 nickel, 27 0.030 2.50 0.030 0.030 1.0 30.Q-34.0 26.0-28.0 3.o-4.0 0.60-1.4 \nchromium, 3.5 \nmolybdenum \nN08029 32 nickel, 27 0.020 2.0 0.025 0.Q15 0.6 30.o-34.0 26.0-28.0 4.0-5.0 0.60-1.4 \nchormium, 4.5 \nmolybdenum \nS30400 8 18 chromium, 8 0.08 2.00 0.045 0.030 1.00 8.0-11.0 18.0-20.0 \nnickel \nS30403 8 18 chromium, 8 0.035 2.00 0.045 0.030 1.00 8.0-13.0 18.0-20.0 \nnickel, ~ \nlow carbon == S30451c 18 chromium, 8 0.08 2.00 0.045 0.030 1.00 8.0-11.0 18.0-20.0 t!l \nnickel, = r--' \n.,, \n.i,,;. modified with \ng tn nitrogen al \nS30453 18 chromium, 8 0.030 2.00 0.045 0.030 1.00 8.0-11.0 18.0-20.0 ~ nickel, N \nmodified with Q \nN \nnitrogen en \nS31600 8 18 chromium, 8 0.08 2.00 0.045 0.030 1.00 10.0-14.0 16.0-18.0 2.0Q-3.00 \nnickel, \nmodified with \nmolybdenum \nS31603 8 18 chromium, 8 0.030 2.00 0.045 0.030 1.00 10.0-14.0 16.0-18.0 2.0Q-3.00 \nnickel, \nmodified with \nmolybdenum, low \ncarbon \nS31651c 18 chromium, 8 0.08 2.00 0.045 0.030 1.00 10.0-13.0 16.0-18.0 2.00-3.00 \nnickel, \nmodified with \nmolybdenum and \nnitrogen \nS31653c 18 chromium, 8 0.030 2.00 0.045 0.030 1.00 10.0-13.0 16.0-18.0 2.0o-3.00 \nnickel, \nmodified with \nmolybdenum and \nnitrogen \nS31700 19 chromium, 13 0.08 2.00 0.045 0.030 1.00 11.0-15.0 18.0-20.0 3.o-4.0 \nnickel \n3.5 molybdenum \nS31703 19 chromium, 13 0.030 2.00 0.045 0.030 1.00 11.0-15.0 18.0-20.0 3.o-4.0 \nnickel, \n3.5 molybdenum \n( ) ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1512.json",
+  "tabulaTablesCsv": "tables_tabula/page-1512.csv",
+  "tabulaTableCount": 2,
+  "bestTextPath": "best_text/pages/page-1512.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2062,
+  "bestTextAlphaRatio": 0.34
+}

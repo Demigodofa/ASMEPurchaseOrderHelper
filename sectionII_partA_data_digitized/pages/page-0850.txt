@@ -1,0 +1,19 @@
+CROSS-REFERENCING IN THE ASME BPVC 
+Paragraphs within the ASME BPVC may include subparagraph breakdowns, i.e., nested lists. The following is a guide to 
+the designation and cross-referencing of subparagraph breakdowns: 
+(a) Hierarchy of Subparagraph Breakdowns 
+(1) First-level breakdowns are designated as (a), (b), (c), etc. 
+(2) Second-level breakdowns are designated as (1), (2), (3), etc. 
+(3) Third-level breakdowns are designated as (-a), (-b), (-c), etc. 
+(4) Fourth-level breakdowns are designated as (-1), (-2), (-3), etc. 
+(SJ Fifth-level breakdowns are designated as (+a), (+b), (+c), etc. 
+(6) Sixth-level breakdowns are designated as (+1), (+2), etc. 
+(b) Cross-References to Subparagraph Breakdowns. Cross-references within an alphanumerically designated para­
+graph (e.g., PG-1, UIG-56.1, NCD-3223) do not include the alphanumerical designator of that paragraph. The cross­
+references to subparagraph breakdowns follow the hierarchy of the designators under which the breakdown appears. 
+The following examples show the format: 
+(1) if X.l(c)(l)(-a) is referenced in X.l(c)(l), it will be referenced as (-a). 
+(2) if X.l(c)(l)(-a) is referenced in X.1(c)(2), it will be referenced as (1)(-a). 
+(3) if X.l(c)(l)(-a) is referenced in X.l(e)(l), it will be referenced as (c)(l)(-a). 
+(4) if X.l(c)(l)(-a) is referenced in X.2(c)(2), it will be referenced as X.l(c)(l)(-a). 
+Iii 

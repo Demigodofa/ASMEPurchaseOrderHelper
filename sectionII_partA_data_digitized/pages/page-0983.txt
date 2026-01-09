@@ -1,0 +1,34 @@
+ASME BPVC.II.A-2025 SA-522/SA-522M 
+TABLE 1 
+CHEMICAL REQUIREMENTS 
+Composition, % 
+Type I Type II 
+Carbon, max 0.13 0.13 
+Manganese, max 0.90 0.90 
+Phosphorus, max 0.025 0.025 
+Sulfur, max 0.025 0.025 
+SiliconA 0.15-0.30 0.15-0.30 
+Nickel 8.5-9.5 7.5-8.5 
+A When vacuum carbon deoxidation is used, the maximum silicon 
+content shall be 0.10%. 
+TABLE 2 
+TENSILE REQUIREMENTS AT ROOM TEMPERATURE 
+Tensile strength, min., ksi [M Pa] 
+Yield strength, min., (0.2% off-set), ksi [MPaJ 
+Elongation in 2 in. [50 mmJ, min., % 
+Reduction of area, min., % 
+TABLE 3 
+100 [690] 
+75 [515] 
+22 
+45 
+CHARPY V-NOTCH LATERAL EXPANSION 
+REQUIREMENTS FOR STANDARD SIZE [10 X 10 MMJ 
+SPECIMENS 
+Report Absorbed 
+Lateral Temperature Energy and% 
+Type Expansion in. [mm] °F [°Ci Shear Fracture 
+1 0.015 C0.38] -320 [-195] Yes 
+2 0.015 [0.38] -275 [-170] Yes 
+A Except when Supplementary Requirement S2 is specified. 
+883 

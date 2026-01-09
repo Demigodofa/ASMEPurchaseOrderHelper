@@ -1,0 +1,18 @@
+incl, In thickness,,,
+Over 1 in. to 2 in. [50 mm],0.21,0.23,0.26
+incl, in thickness,,,
+Over 2 in. to 4 in. [100 mm],0.23,0.25,0.28
+incl, in thickness,,,
+Over 4 in. [100 mm],0.25,0.27,0.28
+in thickness,,,
+anganese, max:,,,
+Heat analysis,0.90,0.90,0.90
+Product analysis,0.98,0.98,0.98
+o_sphorous, maxA,0.025,0.025,0.025
+lfur, maxA,0.025,0.025,0.025
+licon:,,,
+Heat analysis,0.15-0.40,0.15-0.40,0.15-0.40
+Product analysis,0.13-Q.45,0.13-Q.45,0.13-Q.45
+olybdenum:,,,
+Heat analysis,0.45-o.60,0.45-0.60,0.45-0.60
+Product analysis,0.41-0.64,0.41-0.64,0.41-0.64

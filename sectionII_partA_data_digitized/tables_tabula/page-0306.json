@@ -1,0 +1,363 @@
+[
+  {
+    "rows": [
+      [
+        "M12",
+        "1.75",
+        "84.3",
+        "75.5 69.5",
+        "",
+        "87.3",
+        "78.4",
+        "101.6",
+        "87.3"
+      ],
+      [
+        "M14",
+        "2.0",
+        "115.0",
+        "102.9 94.9",
+        "",
+        "119.0",
+        "107.0",
+        "138.6",
+        "119.0"
+      ],
+      [
+        "M16",
+        "2.0",
+        "157.0",
+        "140.5 129.5",
+        "",
+        "162.5",
+        "146.0",
+        "189.2",
+        "162.5"
+      ],
+      [
+        "M20",
+        "2.5",
+        "245.0",
+        "219.3 202.1",
+        "",
+        "253.6",
+        "227.8",
+        "295.2",
+        "253.6"
+      ],
+      [
+        "M22",
+        "2.5",
+        "303.0",
+        "271.2 249.9",
+        "",
+        "313.6",
+        "281.8",
+        "365.1",
+        "313.6"
+      ],
+      [
+        "M24",
+        "3.0",
+        "353.0",
+        "315.9 291.2",
+        "",
+        "365.4",
+        "328.3",
+        "425.4",
+        "365.4"
+      ],
+      [
+        "M27",
+        "3.0",
+        "459.0",
+        "411.0 378.7",
+        "",
+        "475.1",
+        "426.9",
+        "553.4",
+        "475.1"
+      ],
+      [
+        "M30",
+        "3.5",
+        "561.0",
+        "502.1 462.8",
+        "",
+        "580.6",
+        "521.7",
+        "676.0",
+        "580.6"
+      ],
+      [
+        "M36",
+        "4.0",
+        "817.0",
+        "731.2 674.0",
+        "",
+        "845.6",
+        "759.8",
+        "984.5",
+        "845.6"
+      ],
+      [
+        "",
+        "",
+        "",
+        "All Types of Grade 8, and",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "Grades 9C and 9CA",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Nominal Size, mm",
+        "",
+        "Thread Pitch Stress Heavy HexH",
+        "",
+        "Hex'",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "Area,",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "mm2",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "M12",
+        "",
+        "1.75 84.3 46.4",
+        "",
+        "43.4",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "M14",
+        "",
+        "2.0 115.0 63.3",
+        "",
+        "59.2",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "M16",
+        "",
+        "2.0 157.0 86.4",
+        "",
+        "80.9",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "M20",
+        "",
+        "2.5 245.0 134.8",
+        "",
+        "126.2",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "M22",
+        "",
+        "2.5 303.0 166.7",
+        "",
+        "156.0",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "M24",
+        "",
+        "3.0 353.0 194.2",
+        "",
+        "181.8",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "M27",
+        "",
+        "3.0 459.0 252.5",
+        "",
+        "236.4",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "M30",
+        "",
+        "3.5 561.0 308.6",
+        "",
+        "288.9",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "M36",
+        "",
+        "4.0 817.0 449.4",
+        "",
+        "420.8",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "rows": [
+      [
+        "room temperature.",
+        "per Section 8, or cross sectional hardness tested per Annex A3"
+      ],
+      [
+        "Temperature,",
+        "of Test Methods and Definitions A370."
+      ],
+      [
+        "GradeA 'F ['CJ",
+        "8.2.2 Number of Tests:"
+      ],
+      [
+        "1 850 [455]",
+        ""
+      ],
+      [
+        "2, 2H, 2HM 1000 [540]",
+        "8.2.2.l The manufacturer shall test the number of nuts"
+      ],
+      [
+        "3, 7, 7M, 43 1100 [590]",
+        "specified in 8.1.2.1 following all production heat treatments."
+      ],
+      [
+        "16 1200 [650]",
+        ""
+      ],
+      [
+        "",
+        "Proof Load tests prevail over hardness tests in the event a"
+      ],
+      [
+        "",
+        "conflict exists relative to minimum strength."
+      ],
+      [
+        "ANuts intended to be coated with zinc or cadmium (marked in accordance with the",
+        "8.2.3 Test Method-The test shall be run using. a threaded"
+      ],
+      [
+        "requirements of Supplementary Requirement SB) are not subjected to the require\u2022",
+        ""
+      ],
+      [
+        "ments of 8.1.5 (See Appendix X2).",
+        "mandrel or a test bolt in accordance with Specification A962/"
+      ],
+      [
+        "",
+        "A962M."
+      ],
+      [
+        "8.1.5.1 Special Requirement, Grades 2HM and 7M\u00ad",
+        ""
+      ],
+      [
+        "Preparation of Grades 2HM and 7M nuts for hardness test and",
+        "8.3 Cone Proof Load Test:"
+      ],
+      [
+        "the hardness test itself shall be performed with consideration to",
+        "8.3.l Requirements-This test shall be performed only"
+      ],
+      [
+        "(1) protect legibility of markings; (2) minimize exterior dimen\u00ad",
+        "when visible surface discontinuities become a matter of issue"
+      ],
+      [
+        "sional changes; and (3) maintain thread fit.",
+        "between the manufacturer and the purchaser. Nuts in the size"
+      ],
+      [
+        "8.2 Proof Load Test:",
+        "range1\u20444 to 11\u20442 in.inclusive and M12 to M36 inclusive shall be"
+      ],
+      [
+        "8.2.l Requirements-The nuts listed in Tables 3 and 4 shall",
+        "proof load tested. Nuts not in this size range and all types of"
+      ],
+      [
+        "be capable of withstanding the proof loads specified therein.",
+        "Grade 8 nuts are not subject to this test. Nuts manufactured to"
+      ],
+      [
+        "Proof load testing of nuts manufactured to dimensions and",
+        "dimensions and configurations other than those covered by"
+      ],
+      [
+        "configurations other than those covered in Table 3 or Table 4 is",
+        "Specification A962/A962M, ASME B 1.1, ASME B 1.13M,"
+      ],
+      [
+        "only required when S9 is specified in the order or inquiry",
+        "ASME B 18.2.2, or ASME B 18.2.4.6M are not subject to the"
+      ],
+      [
+        "otherwise the nuts shall be cross-sectional hardness tested per",
+        "cone proof load test. The cone proof load applied shall be"
+      ]
+    ]
+  }
+]

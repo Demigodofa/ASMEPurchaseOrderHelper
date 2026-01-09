@@ -1,0 +1,108 @@
+ASME BPVC.U.A-2025 SA-803 /SA-803M 
+SUPPLEMENTARY REQUIREMENTS 
+The following supplementary requirements may become a part of the specification when specified 
+in the inquiry or invitation to bid and pm-chase order or contract. These requirements shall not be 
+considered, unless specified in the order, in which event the necessary tests shall be made by the 
+manufacturer prior to the bending or shipment of the tubing. 
+Sl. Nondestructive Eddy-Current Test 
+S 1.1 Each tube in the finished condition, except for bending 
+if that is required, shall be tested by passing it through an 
+electric nondestrnctive tester capable of detecting defects on 
+the entire cross section of the tube. Suitable instrumentation 
+shall be used to clearly distinguish the artificial defects. The 
+outside and inside surfaces of the tubes shall be free of loose 
+scale, metallic particles, or other material that would tend to 
+restrict signals or create electrical noise. The tubing shall be 
+inspected by feeding it longitudinally through an inspection 
+coil or coils with a diameter suitable for the diameter of tubing 
+to be inspected. The instrument calibration shall be accom­
+plished with a reference standard prepared from the approp1iate 
+length of selected tubing of the same size, grade, and physical 
+condition as the material to be inspected. The standard shall be 
+fed through the coil at the same speed that the inspection of the 
+tubing is performed. 
+Sl.2 The factors listed in S1.3 shall be selected or adjusted, 
+or both, in accordance with the instrument manufacturer's 
+instrnctions, for the particular instrument involved as required 
+to achieve optimum instrument distinction between the refer­
+ence defects and plain portions of the tube. 
+S 1.3 The following as well as other factors involved shall 
+not be used in such a manner that they detract from the overall 
+ability of the instrument to detect defects: test frequency, 
+direct-cmTent saturation level, filter networks, phase-analysis 
+circuits, coil diameter, and instrument gain. 
+Sl.4 The reference standard shall consist of a defect-free 
+sample of the same size, alloy, and condition (temper) as that 
+being tested, and shall contain longitudinal and circumferential 
+notches on the outside diameter establishing the rejection level 
+of the tubing to be tested. Inside diameter notches, both 
+longitudinal and transverse, shall also be a part of the reference 
+standard. These inside notches may be larger than the outside 
+notches, and are intended for use only to assure instrument 
+phase settings capable of yielding optimum inside surface 
+sensitivity. 
+S 1.4.1 All notches shall be produced by EDM methods. The 
+outside diameter notches shall be of the dimensions shown in 
+Table S 1.1. See also Fig. S LI. 
+S 1.5 All tubing shall meet this specification. The instrument 
+calibration shall be verified at the start of testing, after any shut 
+down of the test equipment, after any test equipment 
+adjustment, or at least every V2 h of continuous production 
+testing, or both. Tubes generating a signal above the outside­
+diameter calibration standard sensitivity level shall be rejected. 
+S 1.6 Tubes may be reconditioned and retested provided 
+reconditioning does not adversely effect the minimum wall 
+thickness or other properties of the tube specification require-
+OD, in. 
+[mm] 
+% to 1 
+[15.9 to 
+25.4] 
+incl 
+TABLE S1 .1 Notch DepthA 
+Length, Wall, in. 
+[mm] 
+Depth, max 
+in. [mm] max, in. Width, max 
+0.028 
+[0.71] and 
+heavier 
+[mm] 
+0.005 [0.12] or 10.8 % 0.375 
+of specified average [9.52] 
+wall (when average 
+wall is ordered), or 
+11.8 % of specified 
+minimum wall (when 
+minimum wall is 
+ordered), whichever is 
+greater 
+wall thickness, 
+but not greater 
+than 0.062 in. 
+[1.6 mm] 
+A The tolerance of notch depth shall be± 8 % or± 0.0005 in. [0.01 mm], whichever 
+is greater. Reier to Fig. 81, 1 for notch location orientation and length of calibration 
+standard. 
+INSIDE NOTCHES 
+1!l0° FROM OUTSIDE 
+NOTCHES 
+FIG. S1 .1 Eddy-Current Test Standard 
+ments. Upon agreement between purchaser and manufacturer, 
+the referee method, employing ultrasonic testing, may be 
+employed for retesting tubes rejected by the eddy-current test. 
+The calibration standard for this test shall be identical to that 
+required for the eddy-current test. 
+S2. Nondestructive Eddy-Current Testing (Select Com­
+mercial Grade) 
+S2. l The manufacturer shall test the tubing using the 
+procedure outlined in Supplementary Requirement SI, except 
+for the notch standards, which shall be as indicated in Table 
+S2.1. 
+S3. Report 
+S3.1 A report shall be furnished by the manufacturer to 
+include a record of all tests performed to qualify material to 
+this specification. This record shall include numbers of tests 
+performed and qualitative or quantitative results as are appli­
+cable. 
+1311 

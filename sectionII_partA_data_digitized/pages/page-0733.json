@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 733,
+  "globalPageIndex": 733,
+  "width": 606.0,
+  "height": 848.88,
+  "text": "ASME BPVC.II.A-2025 SA-403/SA-403M \nS3.2 The applicable ASME Partial Data Report form, \nsigned by an Authorized Nuclear Inspector, and a material test \nreport shall be furnished for each lot of pipe fittings. \nS3.3 The material used to fabricate the pipe fitting shall \nconform to the applicable SA specification in ASME Boiler and \nPressure Vessel Code, Section II. The welded joints shall be \nfull penetration butt welds as obtained by double welding or by \nother means that will obtain the same quality of deposited weld \nmetal on the inside and outside. Welds using metal backing \nstrips that remain in place are prohibited. \nS3.4 Each piece of pipe fitting shall be so marked as to \nidentify each such piece of pipe fitting with the lot and the \nmaterial test report. \n683 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-0733.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 778,
+  "bestTextAlphaRatio": 0.7712
+}

@@ -1,0 +1,88 @@
+ASME BPVC.II.A-2025 SA-662/SA-662M 
+TABLE 1 Chemical Requirements 
+Composition, % 
+Element Grade A Grade B Grade C 
+Heat Analysis Product Analysis Heat Analysis Product Analysis Heat Analysis Product Analysis 
+Carbon, max 
+Manganese 
+Phosphorus, max 
+Sulfur, max 
+Silicon 
+0.14 
+0.90-1.35 
+0.025 
+0.025 
+0.15-0.40 
+0.17 0.19 
+0.84-1.46 0.85-1.50 
+0.025 0.025 
+0.025 0.025 
+0.13-0.45 0.15-0.40 
+0.22 0.20 0.24 
+0.79-1.62 1.00-1.60 0.92-1.72 
+0.025 0.025 0.025 
+0.025 0.025 0.025 
+0.13-0.45 0.15-0.50 0.13-0.55 
+TABLE 2 Tensile Properties 
+Tensile strength, ksi [MPa] 
+Yield strength,A min, ksi [MPa] 
+Elongation in 8 in. [200 mm], min, % 8 
+Elongation in 2 in. (50 mm], min, % 8 
+Grade A 
+58-78 (400-540] 
+40 (275] 
+20 
+23 
+Grade B 
+65-85 [ 450-585] 
+40 [275] 
+20 
+23 
+Grade C 
+70-90 (485-620] 
+43 [295] 
+18 
+22 
+A Determined by either the 0.2 % offset method or the 0.5 % extension-under-load method. 
+8 See Specification A20/A20M for elongation adjustments. 
+5. Heat Treatment 
+5 .1 All plates of Grade A and plates of Grades B and C over 
+1 ½ in. [40 mm] in thickness shall be nonnalized. 
+5-2 Plates of Grades Band C, 1 V2 in. [40 mm] and under in 
+thickness, are normally supplied in the as-rolled condition. The 
+plates may be ordered normalized or stress relieved, or both. 
+6. Chemical Requirements 
+6.1 The steel shall confonn to the requirements as to 
+chemical composition given in Table 1 unless otherwise 
+modified in accordance with Supplementary Requirement S17, 
+Vacuum Carbon-Deoxidized Steel, in Specification A20/ 
+A20M. 
+7. Mechanical Requirements 
+7 .1 Tension Test Requirements-The plates, as represented 
+by the tension test specimens, shall conform to the require­
+ments given in Table 2. 
+8. Keywords 
+8.1 carbon steel; carbon steel plate; pressure contammg 
+parts; pressure vessel steels; steel plates for pressure vessels 
+SUPPLEMENTARY REQUIREMENTS 
+Supplementary requirements shall not apply unless specified in the purchase order. A list of 
+standardized supplementary requirements for use at the option of the purchaser is included in 
+Specification A20/ A20M. Those that are considered suitable for use with this specification are listed 
+below by title. 
+S 1. Vacuum Treatment, 
+S2. Product Analysis, 
+S3. Simulated Post-Weld Heat Treatment of Mechanical 
+Test Coupons, 
+S4. l Additional Tension Test, 
+S5. Charpy V-Notch Impact Test (see Appendix Xl), 
+S6. Drop Weight Test (for Material 0.625 in. [16 mm] and 
+over in Thickness), 
+SS. Ultrasonic Examination in accordance with Specifica­
+tion A435/A435M, 
+S9. Magnetic Particle Examination, 
+Sll. Ultrasonic Examination in accordance with Specifica­
+tion A577/A577M, 
+Sl2. Ultrasonic Examination in accordance with Specifica­
+tion A578/ A578M, and 
+S17. Vacuum Carbon-Deoxidized Steel. 
+1079 

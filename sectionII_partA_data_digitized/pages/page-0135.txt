@@ -1,0 +1,50 @@
+ASME BPVC.II.A-2025 SA-20/SA-20M 
+TABLE S27.4 Permissible Variations from Flatness for High-Strength Low-Alloy Steel Plates As-Rolled or Normalized Ordered to 
+Restrictive Flatness 
+Norn I-Flatness Variations for Length-The longer dimension specified is considered the length, and variation in flatness along the length shall not 
+exceed the tabular amount for the specified width in plates up to 3700 mm in length, or in any 3700 mm of longer plates. 
+Norn 2-Flatness Variations for Width-The flatness vaiiation across the width shall not exceed the tabular amount for the specified width. 
+Norn 3-When the longer dimension is under 900 mm, the variation in flatness along the length and across the width shall not exceed 10 mm in each 
+direction. When the larger dimension is from 900 to 1800 mm, inclusive, the permissible flatness variation shall not exceed 75 % of the tabular amount 
+for the specified width, but in no case less than 10 mm. 
+Norn 4-This table and these notes cover the variations for flatness of circular and sketch plates based on the maximum dimensions of those plates. 
+Norn 5-Waviness tolerances for rectangular plates, universal mill plates, and circular and sketch plates do not apply. 
+Norn 6-A "Z" indicates that there is no published restricted value for the size. 
+Norn 7-Plates shall in a ho1izontal position on a flat surface when flatness is measured. 
+Specified 
+Thickness, mm 
+To 6, excl 
+6 to 10, excl 
+10 to 12, excl 
+12 to 20, excl 
+20 to 25, excl 
+25 to 50, excl 
+1200 to 1500, excl 
+27 
+22 
+12 
+11 
+11 
+10 
+Permissible Variations from a Flat Surface for Specified Widths, mm 
+1500 to 1800, excl 1800 to 2100, excl 2100 to 2400, excl 2400 to 2700, excl 
+36 Z Z Z 
+n ~ ~ ~ 
+12 15 17 19 
+11 13 15 16 
+11 12 13 15 
+11 11 12 13 
+ANNEXES 
+(Mandatory Information) 
+Al. PERMISSIBLE VARIATIONS IN DIMENSIONS, ETC.-INCH-POUND UNITS 
+Al.I Listed below are permissible variations in dimensions, 
+and notch toughness information, expressed in inch-pound 
+units of measurement. 
+83 
+2700 to 3000, incl 
+z 
+43 
+21 
+18 
+17 
+13 

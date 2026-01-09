@@ -1,0 +1,226 @@
+[
+  {
+    "rows": [
+      [
+        "is sound.",
+        "pipe is ordered to a schedule number, and the heat number or"
+      ],
+      [
+        "14.5 Bend Test:",
+        "manufacturer's number by which the heat can be identified."
+      ],
+      [
+        "14.5.1 For pipe whose diameter exceeds NPS 25 and whose",
+        "Furthermore, the marking designated in Table 9 to indicate the"
+      ],
+      [
+        "diameter to wall thickness ratio is 7.0 or less shall be subjected",
+        "test method(s) shall be included. Marking may be by stenciling,"
+      ],
+      [
+        "to the bend test instead of the flattening test. Other pipe whose",
+        "stamping, or rolling. Pipe that has been weld repaired in"
+      ],
+      [
+        "diameter equals or exceeds NPS 10 may be given the bend test",
+        "accordance with 7.6 shall be marked \"WR.\""
+      ],
+      [
+        "in place of the flattening test subject to the approval of the",
+        ""
+      ],
+      [
+        "",
+        "16.2 P91 shall be additionally marked with the appropriate"
+      ],
+      [
+        "purchaser.",
+        ""
+      ],
+      [
+        "",
+        "Type."
+      ],
+      [
+        "14.5.2 The bend test specimens shall be bent at room",
+        ""
+      ],
+      [
+        "temperature through 180\u00b0 without cracking on the outside of",
+        ""
+      ],
+      [
+        "",
+        "17. Government Procurement"
+      ],
+      [
+        "the bent portion. The inside diameter of the bend shall be 1 in.",
+        ""
+      ],
+      [
+        "[25 mm].",
+        "17 .1 Scale Free Pipe:"
+      ],
+      [
+        "14.5 .3 Test specimens for the bend test shall be cut from one",
+        "17 .1.1 When specified in the contract or order, the following"
+      ],
+      [
+        "end of the pipe with the number of tests as specified in 14.2",
+        "requirements shall be considered in the inquiry contract or"
+      ],
+      [
+        "and, unless otherwise specified, shall be taken in a transverse",
+        "order, for agencies of the U.S. Government where scale free"
+      ],
+      [
+        "direction. One test specimen shall be taken as close to the outer",
+        "pipe is required. These requirements shall take precedence if"
+      ],
+      [
+        "surface as possible and another from as close to the inner",
+        "there is a conflict between these requirements and the product"
+      ],
+      [
+        "surface as possible. The specimens shall be either 1\u20442 by 1\u20442 in.",
+        "specification."
+      ],
+      [
+        "[12.5 by 12.5 mm] in section or 1 by 1\u20442 in. [25 by 12.5 mm] in",
+        "17 .1.2 The requirements of Specification A999/A 999M for"
+      ],
+      [
+        "section with the comers rounded to a radius not over 1/16 in.",
+        "pipe shall be applicable when pipe is ordered to this specifi\u00ad"
+      ],
+      [
+        "[1.6 mm] and need not exceed 6 in. [150 mm] in length. The",
+        "cation."
+      ],
+      [
+        "side of the samples placed in tension during the bend shall be",
+        ""
+      ],
+      [
+        "",
+        "17 .1.3 Pipe shall be one of the following grades as specified"
+      ],
+      [
+        "the side closest to the inner and outer surface of the pipe,",
+        ""
+      ],
+      [
+        "",
+        "herein:"
+      ],
+      [
+        "respectively.",
+        ""
+      ],
+      [
+        "",
+        "Grade UNS Designation"
+      ],
+      [
+        "",
+        "P11 K11597"
+      ],
+      [
+        "15. Certification",
+        "P22 K21590"
+      ],
+      [
+        "15.1 Certification and test reports, as described in Section",
+        "P5 K41545"
+      ]
+    ]
+  },
+  {
+    "rows": [
+      [
+        "NO",
+        "NO",
+        "NO",
+        "YES",
+        "TEST PRESSUREA"
+      ],
+      [
+        "YES",
+        "NO",
+        "NO",
+        "NO",
+        "UT"
+      ],
+      [
+        "NO",
+        "YES",
+        "NO",
+        "NO",
+        "FL"
+      ],
+      [
+        "NO",
+        "NO",
+        "YES",
+        "NO",
+        "EC"
+      ],
+      [
+        "YES",
+        "YES",
+        "NO",
+        "NO",
+        "UT/FL"
+      ],
+      [
+        "YES",
+        "NO",
+        "YES",
+        "NO",
+        "UT/EC"
+      ],
+      [
+        "NO",
+        "NO",
+        "NO",
+        "NO",
+        "NH"
+      ],
+      [
+        "YES",
+        "NO",
+        "NO",
+        "YES",
+        "UT/TEST"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "PRESSUREA"
+      ],
+      [
+        "NO",
+        "YES",
+        "NO",
+        "YES",
+        "FL/TEST"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "PRESSUREA"
+      ],
+      [
+        "NO",
+        "NO",
+        "YES",
+        "YES",
+        "EC/TEST"
+      ]
+    ]
+  }
+]

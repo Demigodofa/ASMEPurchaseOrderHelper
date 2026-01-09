@@ -1,0 +1,53 @@
+ASME BPVC.II.A-2025 SA-182/SA-182M (ASTM A182/A182M)
+the discretion of the supplier, should be consistent with one of _ ferritic stainless steel; martensitic stainless steel; nickel alloy
+the published industry standards for bar coding. If used on _ steel; notch toughness requirements; pipe fittings; piping ap-
+small parts, the bar code may be applied to the box or a __ plications; pressure containing parts; stainless steel fittings;
+substantially applied tag. stainless steel forgings; steel; steel flanges; steel forgings,
+20. Keywords alloy; steel valves; temperature service applications, elevated;
+
+temperature service applications, high; wrought material
+20.1 austenitic stainless steel; chromium alloy steel;
+chromium-molybdenum steel; ferritic/austenitic stainless steel;
+oa SUPPLEMENTARY REQUIREMENTS
+In addition to any of the supplementary requirements of Specification A961/A961M, the following
+supplementary requirements shall apply only when specified by the purchaser in the order.
+S1. Macroetch Test _ §8. Heat Treatment of Austenitic Forgings
+S1.1 A sample forging shall be sectioned and etched to S8.1 The purchaser shall specify the heat-treatment method
+show flow lines and internal imperfections. The test shall be (in 7.1 or in 7.3.1) that shall be employed.
+conducted according to Test Method E340. Details of the test $8.2 The manufacturer shall provide a test report containing
+shall be agreed upon between the manufacturer and the the information required in 18.2 and shall include a statement
+purchaser. of the heat-treatment method employed.
+S2. Heat Treatment Details S9. Grain Size for Austenitic Grades
+$2.1 The manufacturer shall furnish a detailed test report $9.1 Forgings made from austenitic grades other than H
+containing the information required in 18.2 and shall include __ grades shall be tested for average grain size by. Test Method
+/ all pertinent details of the heat-treating cycle given the forg- E112. Details of the test shall be agreed upon between the
+\. ings. manufacturer and the purchaser. .
+. S3. Material for Optimum Resistance to Stress-Corrosion $10. Stabilizing Treatment
+Cracking $10.1 Subsequent to the solution anneal for Grades F 321, F
+S3.1 Austenitic stainless steel shall be furnished in the 321H, F347, F347H, F 348, and F 348H, these grades shall be
+solution-annealed condition as a final operation with no sub- __ given a stabilizing treatment at 1500 to 1600 °F [815 to 870
+sequent cold working permitted, except, unless specifically | °C] for a minimum of 2 h/in. [4.7 min/mm] of thickness and
+prohibited by the purchaser, straightening of bars from which then cooling in the furnace or in air. In addition to the marking
+parts are machined is permitted to meet the requirements of — required in Section 19, the grade designation symbol shall be
+Specification A484/A484M. . followed by the symbol “S10.”
+S4. Corrosion Tests $11. Grain Size Requirements for Non-H-Grade Austenitic
+| S4.1 All austenitic stainless steels shall pass intergranular Steels Used Above 1000 °F [540 °C]
+corrosion tests performed in accordance with Practice E of $11.1 Non-H grades of austenitic stainless steels shall have
+Practices A262. a grain size of No. 7 or coarser as determined in accordance
+84.2 Intergranular corrosion tests shall be performed on — with Test Methods E112. The grain size so determined shall be
+Me specimens of ferritic stainless steels as described in Practices on a certified test report.
+$4.3 For both the austenitic and ferritic stainless steels, $12. Detection of Detrimental Phases in Austenitic/Ferritic
+details concerning the number of specimens and their source Stainless Steels
+and location are to be a matter of agreement between the $12.1 All austenitic/ferritic stainless steels that are included
+manufacturer and the purchaser. in Test Methods A923 shall meet the requirements of those test
+a methods. |
+S5. Special Filler Metal $12.2 All austenitic/ferritic stainless steels that are included
+S5.1 In repair-welded F 316, F 316L, F 316H, and F316N in Test Method A1084 shall meet the requirements of that test
+forgings, the deposited weld metal shall conform to E 308 — method. | |
+composition wire. Forgings repair welded with E 308 weld _ . | |
+metal shall be marked F  W 308. S13. Minimum Cooling Rate for Grade T91 Type 2
+$13.1 For Grade F91 Type 2 material, the heat treatment
+S6. Hardness Test shall ensure that following austenitizing the rate of cooling
+/ 56.1 Each forging shall be hardness tested and shall meet from 1650 °F to 900 °F [900 °C to 480 °C] is no slower than
+\ | the requirements of Table 3. 9 °F/min [5 °C/ min].
+227 ,

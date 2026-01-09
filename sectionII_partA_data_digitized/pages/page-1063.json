@@ -1,0 +1,21 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 265,
+  "globalPageIndex": 1063,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "ASME BPVC.II.A-2025 \nAPPENDIX \n(Nonmandatory Information) \nXl. INTENDED APPLICATION \nXl.1 Table Xl.1 gives additional information for the \nintended application of nuts. \n963 \nSA-563 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-1063.txt",
+  "ocrTextLength": 178,
+  "ocrApplied": true,
+  "tabulaTablesPath": "tables_tabula/page-1063.json",
+  "tabulaTablesCsv": "tables_tabula/page-1063.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-1063.txt",
+  "bestTextSource": "ocr",
+  "bestTextLength": 178,
+  "bestTextAlphaRatio": 0.7191
+}

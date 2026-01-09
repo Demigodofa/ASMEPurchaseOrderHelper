@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 79,
+  "globalPageIndex": 79,
+  "width": 620.16,
+  "height": 798.0,
+  "text": "Nominal Depth, in. \n6 to 36 \nASME BPVC.II.A-2025 \nTABLE 23 Permitted Variations in Length and End Out-of-Square, Milled Shapes \nLength, ft 8 \n6to 70 \nPermitted Variations in Length and End Out-of-Square, in.A \nMilled Both Ends 0 Milled One-End 0 \nLength Length \nOver Under \nEnd Out-of\u00ad\nSquare Over Under \n1/02 1/a2 \u00bc \u00bc \nA Length is measured along center line of web. Measurements are made with the steel and tape at the same temperature. \n8 The permitted variations in length and end out-of-square are additive. \nSA-6/SA-6M \nEnd Out-of\u00ad\nSquare (for \nMilled End) \n0 End out-of-square is measured by (a) squaring from the center line of the web and (b) squaring from the center line of the flange. The measured variation from true \nsquareness in either plane shall not exceed the total tabular amount. \nTABLE 24 Permitted Variations in Straightness for W and HP Shapes \n... i- CAMBm \nH I \nPositions for Measuring Camber and Sweep of W and HP Shapes \nPermitted Variation in Straightness, in. \nCamber and sweep 1/s x (number of feet of total length/10)A \nWhen certain sections 8 with a flange width approximately equal to depth are \nspecified in the order for use as columns: \nLengths of 45 ft and under \nLengths over 45 ft \n1/s x (number of feet of total length/10) but not over % \n% + [1 /s x ([number of feet of total length - 45]/1 O)] \nA Sections with a flange width less than 6 in., permitted variation for sweep, in. = 1 /s x (number of feet of total length/5). \n8 Applies only to: \n8-in. deep sections 31 lb/ft and heavier, \n10-in. deep sections 49 lb/ft and heavier, \n12-in. deep sections 65 lb/ft and heavier, \n14-in. deep sections 90 lb/ft and heavier, \n16-in. deep sections 88 lb/ft and heavier, and \n18-in. deep sections 135 lb/ft and heavier. \nFor other sections specified in the order for use as columns, the permitted variation is subject to negotiation with the manufacturer. \nTABLE 25 Permitted Variations in Dimensions for Split Tees and \nSplit Angles (L Shapest \nSpecified Depth, in. \nTo 6, excl (beams and channels) \n6 to 16, excl (beams and channels) \n16 to 20, excl (beams and channels) \n20 to 24, excl (beams) \n24 and over (beams) \nPermitted Variation Over or \nUnder Specified Depth, 8 in. \n1/s \no/16 \n\u00bc \n5/10 \n% \nA The permitted variations in length for split tees or angles are the same as those \napplicable to the section from which the tees or angles are split. \n8 The above permitted variations in depth of tees or angles include the permitted \nvariations in depth for the beams or channels before splitting. Permitted variations \nin dimensions and straightness, as set up for the beams or channels from which \nthese tees or angles are cut, apply, except: \nstraightness = \u00bc in. x (length in feeV5) \n27 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0079.json",
+  "tabulaTablesCsv": "tables_tabula/page-0079.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-0079.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2727,
+  "bestTextAlphaRatio": 0.7187
+}

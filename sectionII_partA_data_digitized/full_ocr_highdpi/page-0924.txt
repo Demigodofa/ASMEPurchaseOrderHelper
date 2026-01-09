@@ -1,0 +1,87 @@
+SA-484/SA-484M ASME BPVC.ILA-2025 :
+
+rrrrrrnrnrrrrrneerennmnneennnnieteee ably in writing. In case of dissatisfaction with the results of a ao.
+
+| in| ; test, the producer or supplier is permitted to make claim for a
+
+a ( | rehearing. : :
+
+| L a Ven st 17. Certification |
+
+, 4 Nemes 77 ee \ we | 17.1 A report of the results of all tests required by the .
+
+i a — ween | product specification shall be supplied to the purchaser. This :
+
+Note 1—_Camber or bow tolerances shall not exceed 0.025 jn, material test report shall reference the product specification |
+
+[0.60 mm] x length in ft [m/3]. designation and year date indicating that the material was .
+
+Camber tolerances for hot finished or extruded shapes camber (or bow) manufactured, sampled, tested, and inspected in accordance
+
+is the greatest deviation of a side from a straight line. Measurement is with requirements of the product specification and has been
+taken on the concave side of the shapes with a straight edge. found to meet those requirements. The material test report shall
+FIG. 1 Camber or Bow Tolerances ; | f
+
+report the melting process when the purchase order requires
+
+ee either a specific type of melting or requires that the melting
+
+tp | process used is to be reported. ——
+
+| | , 17.1.1 The report shall indicate the type of steel. If certify- ,
+
+iS | ing that the material conforms to the requirements for more
+
+Lasnenailfaansnnnnini than one type of steel, the manufacturer may indicate each type
+
+Note 1—Allowable deviation from flat is max 0.010 in. [0.25 mm] per of steel on the report, or may issue a separate report for each
+
+1 in. [25 mm] of width. Maximum deviation on dimensions of less than type of steel.
+1 in. [25 mm] is 0.010 in. [0.250 mm]. :
+The transverse flatness tolerance is the maximum deviation from a 17.2 A signature is not required on the report. However, the
+reference base across any cross-section flat surface. document shall clearly identify the organization submitting the
+FIG. 2 Transverse Flatness Tolerances report. Not withstanding the absence of a signature, the
+organization submitting the document is responsible for its :
+
+content.
+
+14.1.2 Tension Tests—Test Methods and Definitions A370. .
+14.1.3 Stress Rupture—Test Methods E139. 17.3 A document printed from or used in electronic form
+14.1.4 Brinell Hardness—Test Methods and Definitions from an electronic data interchange (EDI) transmission shall be ,
+A370. regarded as having the same validity as a counterpart printed in ,
+14.1.5 Rockwell Hardness—Test Methods and Definitions the certifier’s facility. The content of the EDI transmitted ,
+A370, | document shall meet the requirements of the invoked ASTM }
+14.1.6 Intergranular Corrosion—Practice E of Practices  Standard(s) and conform to any existing EDI agreement be- 7 :
+A262. tween the purchaser and the supplier. Not withstanding the :
+14.1.7 Grain Size—Test Methods E112. absence of a signature, the organization submitting the EDI
+14.1.8 Charpy V-notch Impact Test—Test Methods and transmission is responsible for the content of the report. |
+Definitions A370. Note 3—The industry definition of EDI invoked herein is the
+computer-to-computer exchange of business information in a standard :
+
+. format such as ANSI ASC X12. ;
+
+15. Inspection o, ,
+oa. 17.4 When finished material is supplied to a purchase order 1
+
+15.1 Civilian Procurement—Inspection of the material shall specifying the product specification, the organization supply- :
+be as agreed upon between the purchaser and the supplier as ing that material shall provide the purchaser with a copy of the
+part of the purchase contract. original manufacturer’s test report.
+15.2 Government Procurement—Unless otherwise specified 17.4.1 When the original manufacturer’s test report was , :
+in the contract or purchase order, the seller is responsible for § provided by EDI to the organization supplying the finished .
+the performance of all inspection and test requirements in this material to the purchaser, the organization supplying the oo :
+specification, the seller is permitted to use their own facilities finished material shall provide to the purchaser a printed form |
+or other suitable facilities for the performance of the inspection — of the original test report or shall retransmit the test report by |
+and testing, and the purchaser shall have the right to perform | EDI to the purchaser. In either case, the test report shall be ;
+any of the inspection and tests set forth in this specification. | complete with the full identification of the original manufac- I:
+The manufacturer shall afford the purchaser’s inspector all turer and with all data provided on the test report of the original |
+reasonable facilities necessary to satisfy purchaser that the |§ manufacturer. /
+material is being furnished in accordance with the specifica- |
+tion. Inspection by the purchaser shall not interfere unneces- 18. Product Marking :
+sarily with the manufacturer. 18.1 Civilian Procurement: i
+a 18.1.1 Bars and shapes shall be marked or tagged with the
+
+16. Rejection and Rehearing name of manufacturer, purchaser’s name and order number, 2
+16.1 The purchaser is permitted to reject material that fails | ASTM specification designation, heat number, grade or type,
+to conform to the requirements of this specification. Rejection condition, finish, and where appropriate, the size, length, and |
+shall be reported to the producer or supplier promptly, prefer- | weight. Unless otherwise specified, the method of marking is at |
+|

@@ -1,0 +1,1096 @@
+=== Page 1438 ===
+
+SA-905 (ASTM A905) ASME BPVC.II.A-2025 
+a Designation: A905-19 
+•u II 
+INTERNATIONAL 
+Standard Specification for 
+Steel Wire, Pressure Vessel Winding 1 
+This standard is issued under the fixed designation A905; the number immediately following the designation indicates the year of 
+original adoption or, in the case of revision, th.e year of last revision. A number in parentheses indicates the year of last reapproval. A 
+superscript epsilon (e) indicates an editorial change since the last revision or reapproval. 
+1. Scope* 
+1.1 This specification covers requirements for a high 
+strength drawn and cold rolled steel wire in two strength 
+classes, with rectangular cross section, and round mill edge. 
+This wire is intended for prestressed vessel and press frame 
+windings. 
+1.2 The values stated in either inch-pound units or SI 
+(metric) units are to be regarded separately as standards. 
+Within the text and tables, the SI units are shown in parenthe­
+ses. The values stated in each system are not exact equivalents. 
+Therefore, each system must be used independent of the other. 
+Combining values from the two systems may result in noncon­
+formance with the specification. 
+1.3 This international standard was developed in accor­
+dance with internationally recognized principles on standard­
+ization established in the Decision on Principles for the 
+Development of International Standards, Guides and Recom­
+mendations issued by the World Trade Organization Technical 
+Barriers to Trade (TBT) Committee. 
+2. Referenced Documents 
+2.1 ASTM Standards:2 
+A370 Test Methods and Definitions for Mechanical Testing 
+of Steel Products 
+A510/A510M Specification for General Requirements for 
+Wire Rods and Coarse Round Wire, Carbon Steel, and 
+Alloy Steel 
+A 700 Guide for Packaging, Marking, and Loading Methods 
+for Steel Products for Shipment 
+A751 Test Methods, Practices, and Terminology for Chemi­
+cal Analysis of Steel Products 
+E309 Practice for Eddy Current Examination of Steel Tubu­
+lar Products Using Magnetic Saturation 
+1 This specification is under the jurisdiction of ASTM Committee AO! on Steel, 
+Stainless Steel and Related Alloys and is the direct responsibility of Subcommittee 
+AOl.03 on Steel Rod and Wire. 
+Current edition approved Sept. !, 2019. Published September 2019. Originally 
+approved in 1991. Last previous edition approved in 2017 as A905 - 04 (2017). 
+DOI: 10.1520/A0905-19. 
+2 For referenced ASTM standards, visit the ASTM website, www.astm.org, or 
+contact ASTM Customer Service at service@astm.org. For Annual Book of ASTM 
+Standards volume information, refer to the standard's Document Summary page on 
+the ASTM website. 
+2.2 Federal Standard: 3 
+Fed. Std. No. 123 Marking for Shipment (Civil Agencies) 
+3. Ordering Information 
+3.1 It shall be the responsibility of the purchaser to specify 
+all requirements that are necessary for material under this 
+specification. Such requirements may include, but are not 
+limited to, the following: 
+3.1.1 Quantity (mass), 
+3.1.2 Name of material, 
+3.1.3 Dimensions (see Section 7), 
+3.1.4 Finish (see Section 8), 
+3.1.5 Packaging (see Section 11), 
+3.1.6 Cast or heat analysis report (see Section 5), 
+3.1.7 Number of certification or test reports required (see 
+Section 10), 
+3.1.8 ASTM designation and year of issue, and 
+3.1.9 Supplementary requirements, if any. 
+4. Material and Manufacture 
+4.1 The steel shall be produced by any of the following 
+primary processes: (1) basic oxygen, and (2) electric furnace or 
+vacuum induction (VIM). The primary melting may incorpo­
+rate separate degassing or refining and may be followed by 
+secondary melting by the electrode slag process (ESR) or the 
+vacuum arc remelting process (VAR). 
+4.1.1 The steel may be ingot cast or continuously cast. 
+4.2 The finished wire shall be free from detrimental pipe 
+and undue segregation. 
+4.3 The wire shall be cold drawn or cold rolled, or both, to 
+produce the desired mechanical properties and dimensions 
+after subjecting it to the patenting treatment. 
+4.4 The width to thickness ratio of the wire cross section 
+shall not exceed 8. 
+5. Chemical Composition 
+5 .1 The steel shall conform to the requirements for chemical 
+composition prescribed in Table 1. 
+3 Available from Standardization Documents Order Desk, DODSSP, Bldg. 4, 
+Section D, 700 Robbins Ave., Philadelphia, PA 19111-5094, https:// 
+quicksearch.dla.mil. 
+* A Summary of Changes section appears at the end of this standard 
+1376
+
+=== Page 1439 ===
+
+ASME BPVC.II.A-2025 SA-905 (ASTM A905) 
+TABLE 1 Chemical Requirements 
+Element 
+Carbon 
+Manganese 
+Phosphorus 
+Sulphur, max 
+Silicon 
+Composition % 
+0.80-0.95 
+0.30-0.60 
+0.025 
+0.020 
+0.10-0.30 
+5.2 Heat Analysis-Each heat of steel shall be analyzed to 
+determine the percentage of elements prescribed in Table 1. 
+This analysis shall be made from a test specimen preferably 
+taken during the pouring of the heat. When requested, this shall 
+be reported to the purchaser and shall conform to the require­
+ments of Table 1. 
+5.3 Product Analysis-An analysis may be made by the 
+purchaser from finished wire representing each heat of steel. 
+The chemical composition thus determined, as to elements 
+required or restricted, shall conform to the product analysis 
+requirements specified in Table 10 of Specification A510/ 
+A510M. 
+5.4 For referee purposes, Test Methods, Practices, and 
+Terminology A751 shall be used. 
+6. Mechanical Requirements 
+6.1 Tension Test. 
+6.1.1 Requirements-The material as represented by tension 
+test specimens shall conform to the requirements prescribed in 
+Table 2. 
+6.1.2 Number of Tests-One test specimen shall be taken 
+from each end of every coil. 
+6.1.3 Test Method-The tension test shall be made in 
+accordance with Test Methods and Definitions A370, except 
+that the length L for evaluation of the elongation shall be 
+calculated from the following formula: 
+L = 11.3-y'w.r 
+where 
+W = width of the wire, and 
+T = thickness of the wire. 
+The length L shall be used to calculate the permanent 
+elongation. The distance between the gage marks shall be 
+measured to the nearest 0.004 in. (0.1 mm). Determine tensile 
+properties and permanent elongation as described in Test 
+Methods and Definitions A370. 
+6.1.4 Retest-If any test specimen exhibits obvious 
+discontinuity, it may be discarded and another specimen 
+substituted. 
+7. Dimensions and Permissible Variations 
+7 .1 The permissible variations in dimensions of the wire 
+shall be as specified in Table 3, unless otherwise specified in 
+the ordering information. 
+8. Workmanship, Finish, and Appearance 
+8.1 The wire shall be free of detrimental surface 
+imperfections, tangles and sharp kinks. 
+8.2 The wire shall conform to the dimensions, tolerances, 
+and finish specified on the order or drawing. Welds are not 
+permitted. 
+8.3 When required, non-destructive examination shall be 
+carried out in accordance with Supplementary Requirement S 1. 
+8.4 The wire as received shall be smooth and substantially 
+free from rust. No detrimental die marks or scratches may be 
+present. 
+9. Inspection 
+9.1 The manufacturer shall afford the purchaser's inspector 
+all reasonable facilities to satisfy him that the material is being 
+produced and furnished in accordance with this specification. 
+All tests and inspections may be made at the place of 
+manufacture prior to shipment and shall be so conducted as to 
+not interfere unnecessarily with the operation of the work. 
+10. Certification and Reports 
+10.1 The manufacturer shall furnish the required number, 
+from the purchase order, of test reports to the purchaser. The 
+following items shall be reported. 
+10.l.1 Heat number, 
+10.1.2 Heat chemical analysis, 
+10.1.3 Result of test of tensile properties, 
+10.1.4 Reports of non-destructive tests, if required (S.l), 
+and 
+10.1.5 ASTM specification number, year of issue and revi­
+sion letter, if any. 
+TABLE 2 Tensile Requirements 
+Tensile strength min. ksl Yield strength min, ksi Elongation 
+ThicknessA (MPa) (MPa) min % 
+in. (mm) -c=1~as-s""'1~--=-c=1-as-s""2--c=1a_s_s...,.1=-'-'-:c"'"1a_s_s -=-2------=c""1a-ss""7""1 
+0.020 296 268 260 232 4.0 
+(051) (2045) (1850) (1795) (1600) 
+0.030 290 262 255 226 4.0 
+(0.76) (2000) (1810) (1760) (1560) 
+0.040 285 256 250 221 4;0 
+(1.02) (1965) (1770) (1725) (1525) 
+0.051 280 250 243 214 4.0 
+(1.30) (1930) (1725) (1680) (1480) 
+0.059 275 246 239 210 4.0 
+(1.50) (1900) (1700) (1650) (1450) 
+A Tensile requirement values for intermediate thickness may be interpolated. 
+1377
+
+=== Page 1440 ===
+
+SA-905 (ASTM A905) ASME BPVC.II.A-2025 
+TABLE 3 Permissible Variations In Dimensions 
+Thickness in. (mm) 
+0.02 to 0.03 (0.51 to 0.76), incl 
+Over 0.03 to 0.04 (0.76 to 1.02), incl 
+Over 0.04 to 0.06 (1.02 to 1.52), incl 
+Width in. (mm) 
+0.08 to 0.16 (2.03 to 4.06), incl 
+Over 0.16 to 0.24 (4.06 to 6.10), incl 
+Over 0.24 to 0.48 (6.1 O to 12.2), incl 
+Permissible Variation, ±in. (mm) 
+0.0004 (0.01) 
+0.0008 (0.02) 
+0.0012 (0.03) 
+Permissible Variation, ±in. (mm) 
+0.0016 (0.04) 
+0.0024 (0.06) 
+0.0040 (0.10) 
+11. Packaging, Marking, and Loading for Shipment 
+11.1 The coil, reel or spool mass, dimensions, and the 
+method of packaging shall be agreed upon between the 
+manufacturer and purchaser. 
+11.2 The size of the wire, purchaser's order number, ASTM 
+specification number, and name or mark of the manufacturer 
+shall be marked on a tag securely attached to each coil, reel, or 
+spool of wire. 
+11.3 Unless otherwise specified in the purchaser's order, 
+packaging, marking, and loading for shipments shall be in 
+accordance with those procedures recommended by Practices 
+A700. 
+11.4 For Government Procurement-Marking for shipment 
+of material for civil agencies shall be in accordance with Fed. 
+Std. No. 123. 
+12. Keywords 
+12.1 pressure vessel; winding; wire 
+SUPPLEMENTARY·REQUIREMENTS 
+Supplementary requirements to this specification shall only apply to a product specification when 
+specified by the purchaser in his inquiry, contract or order. Details of the supplementary requirements 
+shall be agreed upon in writing between the manufacturer and purchaser. 
+Sl. Surface Examination 
+S 1.1 The surface of the wire shall be examined by the eddy 
+current method in accordance with Practice E309. The accep­
+tance criteria shall be mutually agreed upon by the purchaser 
+and manufacturer. 
+SUMMARY OF CHANGES 
+Committee A0l has identified the location of selected changes to this standard since the last issue 
+(A905 - 04 (2017)) that may impact the use of this standard. (Approved Sept. 1, 2019.) 
+(]) Removed Test Methods E30, MIL-STD-163, and AIAG 
+B-5 from Referenced Documents. 
+(2) Added Test Methods A751 to Referenced Documents. 
+( 3) Combined Specifications A510 and A510M into A510/ 
+A510M in Referenced Documents. Updated references 
+throughout. 
+(4) Revised subsections 5.2, 5.3, 5.4, 11.4, and footnote 3. 
+(5) Removed subsection 11.5. 
+ASTM International takes no position respecting the validity of any patent rights asserted in connection with any item mentioned 
+in this standard. Users of this standard are expressly advised that determination of the validity of any such patent rights, and the risk 
+of infringement of such rights, are entirely their own responsibility. 
+This standard is subject to revision at any time by the responsible technical committee and must be reviewed eve,y five years and 
+if not revised, either reapproved or withdrawn. Your comments are invited either for revision of this standard or for additional standards 
+and should be addressed to ASTM International Headquarters. Your comments will receive careful consideration at a meeting of the 
+responsible technical committee, which you may attend. If you feel that your comments have not received a fair hearing you should 
+make your views known to the ASTM Committee on Standards, at the address shown below. 
+This standard is copyrighted by ASTM International, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428-2959, 
+United States. Individual reprints (single or multiple copies) of this standard may be obtained by contacting ASTM at the above 
+address or at 610-832-9585 (phone), 610-832-9555 (fax), or service@astm.org (e-mail); or through the ASTM website 
+(www.astm.org). Permission rights to photocopy the standard may also be secured from the Copyright Clearance Center, 222 
+Rosewood Drive, Danvers, MA 01923, Tel: (978) 646-2600; httpJ/www.copyright.com/ 
+1378
+
+=== Page 1441 ===
+
+ASME BPVC.ILA-2025, SA-941
+
+TERMINOLOGY RELATING TO STEEL, STAINLESS
+STEEL, RELATED ALLOYS, AND FERROALLOYS
+
+Ox aoa Ally
+
+(Identical with ASTM Specification A941-22a,)
+
+1379
+
+=== Page 1442 ===
+
+SA-941 ASME BPVC.II.A-2025 
+Terminology Relating to 
+Steel, Stainless Steel, Related Alloys, and Ferroalloys 
+1. Scope 
+1.1 This standard is a compilation of definitions of terms 
+related to steel, stainless steel, related alloys, and ferroalloys. 
+1.2 When a term is used in an ASTM document for which 
+Committee A0l is responsible, it is included herein only when 
+judged, after review by Subcommittee A0l.92, to be a gener­
+ally usable term. 
+1.3 Some definitions include a discussion section, which is 
+a mandatory part of the definition and contains additional 
+information that is relevant to the meaning of the defined term. 
+1.4 Definitions of terms specific to a particular standard will 
+appear in that standard and will supersede any definitions of 
+identical terms in this standard. 
+1.5 This international standard was developed in accor­
+dance with internationally recognized principles on standard­
+ization established in the Decision on Principles for the 
+Development of International Standards, Guides and Recom­
+mendations issued by the World Trade Organization Technical 
+Barriers to Trade (TBT) Committee. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+E112 Test Methods for Determining Average Grain Size 
+3. Terminology 
+3.1 Definitions of Terms Specific to This Standard: 
+Accm• Ac 1, Ac 3, Ac,r-See transformation temperature. 
+Aecm, Ae 1 , Ae 3 , Ae,r-See transformation temperature. 
+age hardening, n-hardening by aging, usually after rapid 
+cooling or cold working. 
+age hardening, n-see precipitation hardening. 
+aging, n-a change in the properties of certain steels that 
+occurs at ambient or moderately elevated temperatures after 
+hot working or a heat treatment ( quench aging, natural 
+aging, or artificial aging) or after a cold-working operation 
+(strain aging). 
+DiscussION-The change in properties is often, but not always, due to 
+precipitation hardening, but never involves a change in the chemical 
+composition of the steel. 
+alloy steel, n-a steel, other than a stainless steel, that 
+conforms to a specification that requires one or more of the 
+following elements, by mass percent, to have a minimum 
+content equal to or greater than: 0.30 for aluminum; 0.0008 
+for boron; 0.30 for chromium; 0.30 for cobalt; 0.40 for 
+copper; 0.40 for lead; 1.65 for manganese; 0.08 for molyb­
+denum; 0.30 for nickel; 0.06 for niobium (columbium); 0.60 
+for silicon; 0.05 for titanium; 0.30 for tungsten (wolfram); 
+0.10 for vanadium; 0.05 for zirconium; or 0.10 for any other 
+alloying element, except sulphur, phosphorus, carbon, and 
+nitrogen. 
+annealing, n-a generic term covering any of several heat 
+treatments. 
+DiscusSION-This treatment is used for purposes such as reducing 
+hardness, improving machinability, facilitating cold working, produc­
+ing a desired microstructure, or obtaining desired mechanical, physical, 
+or other properties. Where applicable, it is preferred that the following 
+more specific terms be used: box annealing, bright annealing, full 
+annealing, intermediate annealing, isothermal annealing, process 
+annealing, spheroidizing, and subcritical annealing. The term 
+"annealing," without qualification, implies full annealing. Any pro­
+cess of annealing will usually reduce stresses; however, if the 
+treatment is applied for the sole purpose of stress reduction, it should be 
+designated stress relieving. 
+Arcm, Ar 1 , Ar 3 , Ar,r-See transformation temperature. 
+artificial aging, n-aging above room temperature. 
+atmospheric corrosion resistance, n-the ability to resist 
+degradation or alteration of material through chemical reac­
+tion with the surrounding atmosphere. 
+D1scussioN-This term generally pertains to carbon steel, low alloy 
+steel, or micro-alloyed steel. 
+austempering, n-heat treatment involving quenching a 
+steel object from a temperature above the transformation 
+range in a medium maintained at a temperature above the 
+martensite range sufficiently fast to avoid the formation of 
+1380
+
+=== Page 1443 ===
+
+_,,.-----...___ 
+ASME BPVC.II.A-2025 SA-941 
+high temperature transformation products, and then holding 
+it at that temperature until transformation is complete. 
+austenitizing, n-forming austenite by heating a steel object 
+above the transformation range. 
+baking, n-heating to a low temperature in order to remove 
+gases. 
+batch furnace, n-a heating device within which steel objects 
+are held stationary or oscillated during the thermal process­
+ing cycle. 
+blank carburizing, n-simulating the carburizing operation 
+without introducing carbon. 
+DiscussION-This is usually accomplished by using an inert material 
+in place of the carburizing agent, or by applying a suitable protective 
+coating on the object being heat treated. 
+blank nitriding, n-simulating the nitriding operation without 
+introducing nitrogen. 
+DiscussION-This is usually accomplished by using an inert material 
+in place of the nitriding agent, or by applying a suitable protective 
+coating on the object being heat treated. 
+bluing, n-subjecting the scale-free surface of a steel object to 
+the action of air, steam, or other agents at a suitable 
+temperature, thereby forming a thin blue film of oxide and 
+improving the object's appearance and corrosion resistance. 
+DiscussION-This term is ordinarily applied to sheet, strip, or 
+finished parts. It is used also to denote the heating of springs after 
+fabrication in order to improve their properties. 
+box annealing, n-annealing in a sealed container under 
+conditions that minimize oxidation. 
+DiscussION-The charge is usually heated slowly to a temperature 
+below the transformation range, but sometimes above or within it, 
+and is then cooled slowly. 
+bright annealing, n-annealing in a protective medium to 
+prevent discoloration of the bright surface. 
+capped steel, n-a rimmed steel in which, during ingot 
+solidification, the rimming action was limited by mechanical 
+or chemical means. 
+carbon potential, n-the carbon content at the surface of a 
+specimen of pure iron in equilibrium with the carburizing 
+medium considered, and under the conditions specified. 
+carbon restoration, n-replacing the carbon lost from the 
+surface layer in previous processing by carburizing this layer 
+to substantially the original carbon level. 
+carbon steel, n-a steel that conforms to a specification that 
+prescribes a maximum limit, by heat analysis in mass 
+percent, of not more than: 2.00 for carbon and 1.65 for 
+manganese, but does not prescribe a minimum limit for 
+chromium, cobalt, molybdenum, nickel, niobium 
+(columbium), tungsten (wolfram), vanadium, or zirconium. 
+DiscussION-Except as required above, it is permissible for carbon 
+steel specifications to prescribe limits (minimum or maximum, or both) 
+for each specified alloying element, subject to the following restrictions 
+for the heat analysis limits in mass percent: 
+(a) for wrought carbon steel products, the specified maximum limit is 
+not to exceed: 0.10 for aluminum, 0.60 for silicon, and 0.050 for 
+titanium; 
+(b) for carbon steel castings, the specified maximum limit is not to 
+exceed: 0.10 for aluminum, 1.00 for silicon, and 0.050 for titanium. 
+( c) for carbon steels that are required to be rephosphorized, the 
+specified minimum limit for phosphorus is not to be less than 0.040; 
+( d) for carbon steels that are required to be resulfurized, the specified 
+minimum limit for sulfur is not to be less than 0.060; 
+( e) for carbon steels that are not required to be rephosphorized or 
+resulfurized, the specified maximum limit is not to exceed: 0.60 for 
+copper, 0.050 for phosphorus, and 0.060 for sulfur; and 
+(f) for carbon steels that are required to contain boron, copper, or lead, 
+the specified minimum limit is not to exceed: 0.0005 for boron, 0.35 for 
+copper, and 0.25 for lead. 
+carbonitriding, n-case hardening in which a suitable steel 
+object is heated above Ac 1 in a gaseous atmosphere of such 
+composition as to cause simultaneous absorption of carbon 
+and nitrogen by the surface and, by diffusion, to create a 
+concentration gradient. 
+carburizing, n-a process in which an austenitized steel object 
+is brought into contact with a carbonaceous environment of 
+sufficient carbon potential to cause absorption of carbon at 
+the surface and, by diffusion, to create a concentration 
+gradient. 
+case, n-in case hardening, the outer portion that has been 
+made harder than the core as a result of altered composition 
+or microstructure, or both, from treatments such as 
+carburizing, nitriding, and induction hardening. 
+case hardening, n-a generic term covering any of several 
+processes applicable to steel that change the chemical 
+composition or microstructure, or both, of the surface layer. 
+DiscussION-The processes commonly used are: carburizing and 
+quench hardening; nitriding; and carbonitriding. It is preferred that 
+the applicable specific process name be used. 
+cast analysis-,-Deprecated term. Use the preferred term heat 
+analysis. 
+cementation, n-the introduction of one or more elements into 
+the outer portion of a steel object by means of diffusion at 
+high temperature. 
+certificate of compliance, n-in manufactured products, a 
+document that states that the product was manufactured, 
+sampled, tested, and inspected in accordance with the 
+requirements of the specification (including year of issue) 
+and any other requirements specified in the purchase order or 
+contract, and has been found to meet such requirements. 
+DiscussION-A single document, containing test report information 
+and certificate of compliance information, may be used. 
+certifying organization, n-in product specifications, the 
+entity responsible for the conformance and certification of 
+the product to the specification requirements. 
+check analysis-Deprecated term. Use the preferred term 
+product analysis. 
+coarse grain practice, n-a steelmaking practice for other 
+than stainless steel that is intended to produce a killed steel 
+in which aluminum, niobium (columbium), titanium, and 
+vanadium are residual elements. 
+1381
+
+=== Page 1444 ===
+
+SA-941 ASME BPVC.II.A-2025 
+cold working, n-mechanical deformation of a metal at 
+temperatures below its recrystallization temperature. 
+cold treatment, n-exposing a steel object to temperatures 
+below room temperature for the purpose of obtaining desired 
+conditions or properties, such as dimensional or structural 
+stability. 
+conditioning heat treatment, n-a preliminary heat treat­
+ment used to prepare a steel object for a desired reaction to 
+a subsequent heat treatment. 
+continuous-conveyance furnace, n-a heating device through 
+which steel objects are intentionally moved at a constant rate 
+during the thermal processing cycle. 
+controlled cooling, n-cooling a steel object from an elevated 
+temperature in a predetermined manner to avoid hardening, 
+cracking, or intema1 damage, or to produce a desired 
+microstructure or mechanical properties. 
+controlling cross section thickness (Tc), n-diameter of the 
+largest theoretical sphere that can be inscribed within the 
+volume of the component. 
+Drscuss10N-The controlling cross section thickness (Tc) is used to 
+determine the size of prolongations, test blocks, or representative test 
+pieces. It is calculated based on the dimensions of the component at the 
+time of heat treatment. Where components are heat treated with internal 
+diameters the calculation is made based on the wall thickness. 
+core, n-in case hardening, the interior portion of unaltered 
+composition or microstructure, or both, of a case hardened 
+steel object. 
+core, n-in clad products, the central portion of a multilayer 
+composite metallic material. 
+critical cooling rate, n-the slowest rate of continuous cooling 
+at which austenite can be cooled from above the transfor­
+mation range to prevent its transformation above M •. 
+cycle annealing, n-annealing employing a predetermined 
+and closely controlled time-temperature cycle to produce 
+specific properties or a specific microstructure. 
+decarburization, n-the loss of carbon from the surface of a 
+steel object as a result of its being heated in a medium that 
+reacts with the carbon. 
+defect, n-an imperfection of sufficient magnitude to warrant 
+rejection based on the specified requirements. 
+differential heating, n-heating that intentionally produces a 
+temperature gradient within a steel object such that, after 
+cooling, a desired stress distribution or variation in proper­
+ties is present within the object. 
+diffusion coating, n-any process whereby a base metal is 
+either coated with another metal and heated to a sufficient 
+temperature in a suitable environment, or exposed to a 
+gaseous or liquid medium containing the other metal, 
+thereby causing diffusion of the coating or other metal into 
+the base metal, with a resultant change in the composition 
+and properties of its surface. 
+direct quenching, n-in thermochemical processing, quench­
+ing immediately following the thermochemical treatment. 
+direct quenching, n-in thermomechanical processing, 
+quenching immediately following the final hot deformation. 
+document, n-a written, printed, or electronic record that 
+provides information, evidence, or official statements. 
+double aging, n-employment of two different aging 
+treatments, in sequence, to control the type of precipitate 
+formed from a supersaturated alloy matrix in order to obtain 
+the desired properties. 
+Drscuss10N-The first aging treatment, sometimes referred to as 
+intermediate or stabilizing, is usually carried out at a higher tempera­
+ture than the second. 
+double tempering, n-a treatment in which a quench­
+hardened steel object is given two complete tempering 
+cycles at substantially the same temperature for the purpose 
+of ensuring completion of the tempering reaction and pro­
+moting stability of the resultant microstructure. 
+electronic data interchange, n-the computer to computer 
+exchange of business information in a standardized format. 
+ellipsis, n-in a tabular entry, three periods ( ... ) that indicate 
+that there is no requirement. 
+ferritizing anneal, n-a heat treatment that produces a 
+predominantly ferritic matrix in a steel object. 
+ferroalloy, n-an alloy of iron and one or more other metals, 
+for use as an addition to the molten metal during the 
+manufacture of steels, nickel alloys, or cobalt alloys. 
+ferrous material, n-metals and alloys that contain iron as the 
+principal component. 
+D1scussmN-The iron content is not always stated in the specification 
+and is not always determined by chemical analysis. The iron content 
+may be taken to be 100 % minus the sum of the mean values permitted 
+by the specification for all other elements having a specified range or a 
+specified maximum. For conformance purposes, the mean value for 
+iron, whether specified or calculated, is compared on an individual 
+basis to the mean values permitted by the specification for each of the 
+other elements having a specified range or a specified maximum. If an 
+element other than iron is not specified, but is listed as remainder or 
+balance, then, for conformance purposes the mean value for iron is 
+compared to the calculated value for that other element. 
+fine grain practice, n-a steelmaking practice for other than 
+stainless steel that is intended to produce a killed steel that 
+is capable of meeting the requirements specified for fine 
+austenitic grain size when and if the as-rolled or as-forged 
+product is reheated to a temperature at or above the 
+transformation temperature, Ac 3 . 
+D1scuss10N-When stated as a requirement, fine grain practice 
+normally involves the addition of one or more austenitic grain refining 
+elements in amounts that have been established by the steel producer as 
+being sufficient. Austenitic grain refining elements include, but are not 
+limited to, aluminum, niobium (columbium), titanium, and vanadium. 
+A fine grain practice requirement ( 1) does not specify a minimum 
+austenitic grain refining element addition; (2) does not require prior 
+austenite grain size testing or measurement, or both; ( 3) if tested, does 
+not require meeting any prior austenite grain size requirement; and ( 4) 
+does not apply to, nor in any way control, the p1ior austenite grain size 
+1382
+
+=== Page 1445 ===
+
+ASME BPVC.II.A-2025 SA-941 
+or the ferrite grain size of the steel in the as-rolled or as-forged 
+condition. The prior austenitic grain size and the fen-itic grain size of 
+as-rolled or as-forged steel products are controlled by the manufactur­
+ing process and may be assisted by suitable chemistry. The appropriate 
+manufacturing process controls needed to meet the mechanical property 
+requirements of the specification in the asrolled or as-forged condition 
+are neither defined nor implied by the inclusion of a fine grain practice 
+requirement. 
+flame annealing, n-annealing in which the heat is applied 
+directly by a flame. 
+flame hardening, n-a process in which only the surface layer 
+of a suitable steel object is heated by flame to above Ac 3 or 
+Accm• and then the object is quenched. 
+fog quenching, n-quenching in a mist. 
+full annealing, n-annealing a steel object by austenitizing it 
+and then cooling it slowly through the transformation 
+range. 
+D1scuss10N-The austenitizing temperature is usually above Ac 3 for 
+hypoeutectoid steels and between Ac 1 and Accm for hypereutectoid 
+steels. 
+grain growth, n-an increase in the grain size of a steel object, 
+usually as a result of exposure to elevated temperatures. 
+grain size, n-the dimensions of tl1e grains or crystals in a 
+polycrystalline metal, exclusive of twinned regions and 
+subgrains when present. 
+D1scuss10N-Grain size is usually estimated or measured on the 
+cross section of ,m aggregate of grains, and designated by an ASTM 
+grain size number. (See Test Methods Ell2.) 
+graphitization annealing, n-annealing a steel object in such 
+a way that some or all of the carbon is precipitated as 
+graphite. 
+hardenability, n-the property that determines the depth and 
+distribution of hardness induced by quenching a steel 
+object. 
+hardening, n-increasing the hardness by suitable treatment, 
+usually involving heating and cooling. 
+D1scuss10N-Where applicable, it is preferred that the following 
+more specific terms be used: age hardening, case hardening, flame 
+hardening, induction hardening, precipitation hardening, and 
+quench hardening. 
+heat, -n-a generic term denoting a specific lot of steel, based 
+upon steelmaking and casting considerations. 
+D1scussmN-Where it is necessary to be more definitive, the follow­
+ing more specific terms are used: primary heat, multiple heat, and 
+remelted heat. In product specifications, the term heat generally is 
+used, without qualification, to mean the primary, multiple, or re­
+melted heat, whichever is applicable. 
+heat analysis, n-the chemical analysis determined by tl1e 
+steel producer as being representative of a specific heat of 
+steel. 
+D1scuss10N-Where the analysis reported by the steel producer is not 
+sufficiently complete for conformance with the heat analysis require­
+ments of the applicable product specification to be fully assessed, the 
+manufacturer may complete the assessment of conformance with such 
+heat analysis requirements by using a product analysis for the specified 
+elements that were not reported by the steel producer, provided that 
+product analysis tolerances are not applied and the heat analysis is not 
+altered. 
+heat number, n-the alpha, numeric, or alphanumeric desig­
+nator used to identify a specific heat of steel. 
+heat treatment, n-heating and cooling a steel object in such 
+a way as to obtain desired conditions or properties. 
+D1scuss10N-Heating for the sole purpose of hot working is excluded 
+from the meaning of this definition. 
+high-strength low-alloy steel, n-a steel, other than a carbon 
+steel or an interstitial-free steel, that conforms to a speci­
+fication that requires the minimum content for each specified 
+alloying element to be lower tlmn the applicable limit in the 
+definition for alloy steel, and the yield point or yield strength 
+of the product to be at least 36 ksi or 250 MPa. 
+homogeneous carburizing, n-a process that converts a low­
+carbon steel to one of substantially uniform and higher 
+carbon content throughout the section, so that a specific 
+response to hardening may be obtained. 
+homogenizing, n-holding a steel object at high temperature to 
+eliminate or decrease chemical segregation by diffusion. 
+hot-cold working, n-the mechanical deformation of auste­
+nitic and precipitation hardening steels at a temperature just 
+below the recrystallization temperature to increase the 
+yield strength and hardness by plastic deformation or pre­
+cipitation hardening effects induced by plastic deformation, 
+or both. 
+hot-finished, n-the condition of a product that has been 
+cooled directly after the last hot-working operation, without 
+cold-working (except for straightening or flattening), and 
+independent of the temperature at which hot-working was 
+completed. 
+D1scuss10N-The tolerances and surface finish of hot-finished prod­
+uct can be different from those of cold-finished, cold-drawn, or 
+cold-rolled product. 
+hot quenching, n-an imprecise term used to cover a variety 
+of quenching procedures in which the quenching medium is 
+maintained at a prescribed temperature above 160 °F or 
+70 °C. 
+hot working, n-mechanical deformation of a metal at tem­
+peratures above its recrystallization temperature. 
+imperfection, n-a material discontinuity or irregularity that is 
+detectable by inspection. 
+inclusion shape control, n-the addition of elements during 
+steel making in order to affect the inclusion morphology. 
+induction hardening, n-in surface hardening, a process in 
+which only the surface layer of a suitable steel object is 
+heated by electrical induction to above Ac 3 or Ac 0 m, and then 
+the object is quenched. 
+induction hardening, n-in through hardening, a process in 
+which a suitable steel object is heated by electrical induction 
+to above Ac 3 or Ac 0 m throughout its section, and then the 
+object is quenched. 
+1383
+
+=== Page 1446 ===
+
+SA-941 ASME BPVC.II.A-2025 
+induction heating, n-heating by electrical induction. 
+inspection, n-the process of measuring, examining, testing, 
+gaging, or otherwise comparing the unit of product with the 
+applicable requirements. 
+intermediate annealing, n-annealing wrought steel objects 
+at one or more stages during manufacture prior to final 
+thermal treatment. 
+interrupted aging, n-aging at two or more temperatures, by 
+steps, and cooling to room temperature after each step. 
+interrupted quenching, n-quenching in which the object 
+being quenched is removed from the quenching medium 
+while the object is at a temperature substantially higher than 
+that of the quenching medium. 
+interstitial-free steel, n-a steel that has essentially all of its 
+carbon and nitrogen chemically combined with stabilization 
+elements rather than being present interstitially. 
+D1scussION-The heat analysis limits (minimum or maximum, or 
+both) that are permitted to be prescribed in interstitial-free steel 
+. specifications are as given in the definition for carbon steel, except that 
+the 0.050 % maximum limit for titanium does not apply. 
+isothermal annealing, n-austenitizing a steel object and 
+then cooling it to, and holding it at, a temperature at which 
+austenite transforms to a ferrite-carbide aggregate. 
+isothermal transformation, n-a change in phase at any 
+constant temperature. 
+killed steel, n-a steel deoxidized to such a level that essen­
+tially no reaction occurred between carbon and oxygen 
+during solidification. 
+laser beam welding, n-a welding process that uses a laser 
+beam as the heat source. 
+lot, n-a definite quantity of product manufactured under 
+conditions that are considered uniform. 
+low-alloy steel, n-a steel, other than a carbon steel or an 
+interstitial-free steel, that conforms to a specification that 
+requires the minimum content for each specified alloying 
+element to be lower than the applicable limit in the definition 
+for alloy steel. 
+Mp M 8 -See transformation temperature. 
+manufacturer, n-the organization responsible for the conver­
+sion of materials into products meeting the requirements of 
+a product specification. 
+maraging, n-a precipitation hardening treatment applied to a 
+special group of alloy steels to precipitate one or more 
+intermetallic compounds in a matrix of essentially carbon­
+free martensite. 
+martempering, n-quenching an austenitized steel object in a 
+medium at a temperature in the upper part of, or slightly 
+above, the martensite range, holding it in the medium until 
+its temperature is substantially uniform throughout, and then 
+cooling it in air through the martensite range. 
+martensite range, n-the temperature interval between M 8 and 
+~-
+microalloyed steel, n-a low-alloy steel that conforms to a 
+specification that requires the presence of one or more 
+carbide-, nitride-, or carbonitride-forming elements, gener­
+ally in individual concentrations less than 0.15 mass percent, 
+to enhance strength. 
+DiscussION-The most common microalloying elements are niobium 
+(columbium), titanium, and vanadium. 
+multiple heat, n-two or more molten primary heats, in 
+whole or in part, combined in a common ladle or in a 
+common non-oscillating mold. 
+DiscussION-A multiple heat is identified by a single heat number 
+representative of the multiple heat, or by the individual heat numbers 
+of the primary heats contained in the multiple heat. The heat 
+analysis of a multiple heat identified by a single heat number is the 
+weighted average analysis of the individual primary heats contained in 
+the multiple heat. Two or more molten primary heats sequentially 
+strand cast (poured- into an oscillating mold) constitute a series of 
+individual heats, not a multiple heat. 
+natural aging, n-spontaneous aging of a super-saturated solid 
+solution at room temperature. 
+nickel alloy, n-a material that conforms to a specification that 
+requires by mass percent more nickel than any other ele­
+ment. 
+DiscussION-ln castings, the nickel content requirement is not 
+normally stated in the specification and is not normally determined by 
+chemical analysis, but is taken to be 100 % minus the sum of the mean 
+values permitted by the specification for all other elements having a 
+specified range or a specified maximum. 
+nitriding, n-introducing nitrogen into a solid steel object by 
+holding it at a suitable temperature in contact with a 
+nitrogenous environment. 
+nonferrous material, n-metals and alloys that do not contain 
+iron as the principal component. 
+DiscussION-The iron content is not always stated in the specification 
+and is not always determined by chemical analysis. The iron content 
+may be taken to be 100 % minus the sum of the mean values permitted 
+by the specification for all other elements having a specified range or a 
+specified maximum. For conformance purposes, the mean value for 
+iron, whether specified or calculated, is compared on an individual 
+basis to the mean values permitted by the specification for each of the 
+other elements having a specified range or a specified maximum. If an 
+element other than iron is not specified, but is listed as remainder or 
+balance, then, for conformance purposes, the mean value for iron is 
+compared to the calculated value for that other element. 
+normalizing, v-reheating a steel object to a temperature 
+above the transformation range and then cooling it in air to 
+a temperature substantially below the transformation range 
+to achieve both grain refinement and improved homogeni­
+zation. 
+overaging, n-aging under conditions of time and temperature 
+greater than those required to obtain maximum change in a 
+certain prope1ty, so that the property is altered away from the 
+maximum. 
+overheating, n-heating a steel object to such a high tempera­
+ture that excessive grain growth occurs. 
+1384
+
+=== Page 1447 ===
+
+ASME BPVC.II.A-2025 SA-941 
+D1scussroN-Unlike burning, it may be possible to restore the 
+original properties/microstructure by further heat treatment or mechani­
+cal working, or a combination thereof. 
+patenting, n-in wire making, heat treatment of a medium­
+carbon or high-carbon steel wire or wire rod that includes 
+heating to a temperature above Ac 3 but below normal hot 
+working temperatures, followed directly without hot work­
+ing by controlled cooling to achieve a uniform microstruc­
+ture suitable for cold working and typically characterized by 
+pearlite having a fine interlamellar spacing. 
+DiscussION-The method used for controlled cooling is often used to 
+describe the type of patenting. Examples include but are not limited to, 
+air patenting, salt patenting, fluidized bed patenting, and lead patenting. 
+Furthermore, double lead patenting describes a patenting process in 
+which molten lead is used not only for the controlled cooling, but also 
+for the heating to a temperature above Ac 3 • 
+plate-as-rolled, n-the quantity of plate product rolled at one 
+time, either from a)l individual slab or directly from an ingot. 
+Discuss10N-This term does not refer to the surface condition or the 
+heat-treatment state of the material; a plate-as-rolled may be in the 
+as-rolled condition, or may have received one or more surface 
+treatments or heat treatments, or both. 
+post-weld heat treatment, n-heating weldments immediately 
+after welding, to provide tempering, stress relieving, or a 
+controlled rate of cooling to prevent formation of a hard or 
+brittle microstructure. 
+precipitation hardening, n-hardening caused by the pre­
+cipitation of a constituent from a supersaturated solid so~u­
+tion. 
+precipitation heat treatment, n-artificial aging in which a 
+constituent precipitates from a supersaturated solid solution. 
+preheating, n-heating before welding, a mechanical 
+treatment, or some further thermal treatment. 
+preheating, n-for tool steels, heating to an intermediate 
+temperature immediately before final austenitizing. 
+primary heat, n-the product of a single cycle of a batch 
+melting process. 
+DiscussroN-In the investment casting industry, the term master heat 
+is used. 
+process annealing, n-in the sheet and wire industries, heating 
+a steel object to a temperature close to, but below, Ac 1 and 
+then cooling it, in order to soften it for further cold working. 
+product analysis, n-a chemical analysis of a specimen taken 
+from the semi-finished product or the finished product. 
+progressive aging, n-aging by increasing the temperature in 
+steps, or continuously, during the aging cycle. 
+quench aging, n-aging associated with quenching after 
+solution heat treatment. 
+quench hardening, n-hardening a steel object by austen­
+itizing it, and then cooling it rapidly enough that some or all 
+of the austenite transforms to martensite. 
+DiscussioN-The austenitizing temperature is usually above Ac 3 for 
+hypoeutectoid steels and between Ac 1 and Accm for hypereutectoid 
+steels. 
+quenching, n-rapid cooling in a fluid at a rate sufficient to 
+preserve or produce desired material characteristics. 
+DiscussmN-Where applicable, it is preferred that the following 
+more specific terms be used: fog quenching, hot quenching, inter­
+rupted quenching, selective quenching, spray quenching, and time 
+quenching. Quenching is often used in solution heat treatment of 
+austenitic steels to retain certain constituents in solution. Quenching is 
+also used for ferritic steels to develop desired characteristics ( such as 
+microstructure or toughness) in thicker sections that can otherwise only 
+be achieved in thinner sections. Liquids and gasses are both fluids. 
+recrystallization, n-the formation of a new grain structure 
+through a nucleation and growth process. 
+DIScussION-This is commonly produced by subjecting a steel 
+object, which may be strained, to suitable conditions of time and 
+temperature. 
+recrystallization annealing, n-annealing a cold-worked 
+steel object to produce a new grain structure without a 
+change in phase. 
+recrystallization temperature, n-the approximate minimum 
+temperature at which recrystallization of a cold-worked steel 
+object occurs within a specified time. 
+remelted heat, n-the product of the remelting of a primary 
+heat, in whole or in part. 
+DrscussroN-In the investment casting industry, the term sub-heat is 
+used. 
+residual element, n-in steel, a specified or unspecified 
+element, not intentionally added, originating in the raw 
+materials, refractories, or surrounding atmospheres used in 
+steel making. 
+rimmed steel, n-a steel that contained sufficient oxygen to 
+generate carbon monoxide at the boundary between the solid 
+metal and the remaining molten metal during solidification, 
+resulting in an outer layer low in carbon. 
+secondary hardening, n-the hardening phenomenon that 
+occurs during high-temperature tempering of certain steels 
+containing one or more carbide-forming alloying elements. 
+selective heating, n-intentionally heating only certain por­
+tions of a steel object. 
+selective quenching, n-quenching only certain portions of a 
+steel object. 
+semicontinuous-conveyance furnace, n-a heating device 
+through which steel objects are intentionally moved in 
+accordance with a predetermined start-stop-start pattern 
+during the thermal processing cycle. 
+semikilled steel, n-an incompletely deoxidized steel that 
+contained sufficient oxygen to form enough entrapped car­
+bon monoxide during solidification to offset solidification 
+shrinkage. 
+shell hardening, n-a surface hardening process in which a 
+suitable steel object, when heated through and quench 
+hardened, develops a martensitic layer or shell that closely 
+follows the contour of the piece and surrounds a core of 
+essentially pearlitic transformation product. 
+1385
+
+=== Page 1448 ===
+
+SA-941 ASME BPVC.II.A-2025 
+DrscussION-This result is accomplished by a proper balance be­
+tween section size, hardenability, and severity of quench. 
+slack quenching, n-the incomplete hardening of a steel 
+object due to quenching from the austenitizing temperature 
+at a rate slower than the critical cooling rate for the 
+particular steel composition, resulting in the formation of 
+one or more transformation products in addition to marten­
+site. 
+snap temper, n-a precautionary interim stress-relieving treat­
+ment applied to a high-hardenability steel immediately after 
+quenching to prevent cracking because of delay in temper­
+ing it at the prescribed higher temperature. 
+soaking, n-prolonged holding at a selected temperature. 
+solution heat treatment, n-heating a steel object to a suitable 
+temperature, holding it at that temperature long enough to 
+cause one or more constituents to enter into solid solution, 
+and then cooling it rapidly enough to hold such constituents 
+in solution. 
+specified element, n-in steel, an element controlled to a 
+specified minimum, maximum, or range, in accordance with 
+the requirements of the applicable product specification. 
+spheroidizing, n-heating and cooling a steel object to pro­
+duce a spheroidal or globular form of carbide in its micro­
+structure. 
+D1scussION-Spheroidizing methods commonly used are the follow­
+ing: (1) prolonged holding at a temperature just below Ae 1 ; (2) heating 
+and cooling alternately between temperatures that are just above, and 
+just below, Ae 1 ; (3) heating to a temperature above Ae 1 or Ae 3 and then 
+cooling very slowly in the furnace or holding at a temperature just 
+below Ae 1 ; (4) cooling, from the minimum temperature at which all 
+carbide is dissolved, at a rate suitable to prevent the reformation of a 
+carbide network, and then reheating in accordance with Method (1) or 
+(2) above. (Applicable to hypereutectoid steels containing a carbide 
+network.) 
+spray quenching, n-quenching in a spray of liquid. 
+stabilized stainless steel, n-a stainless steel that conforms to 
+a specification that prescribes limits (minimum or range) for 
+niobium (columbium), tantalum, titanium, or a combination 
+thereof. 
+D1scussION-Such limits are sometimes expressed as a function of 
+the carbon and nitrogen contents. In an appropriately annealed 
+condition, a stabilized stainless steel will resist sensitization to 
+intergranular corrosion associated with the precipitation of chromium 
+carbide at grain boundaries as a result of thermal exposure, such as 
+annealing, stress relieving, welding, or high temperature service. 
+Resistance to sensitization to intergranular corrosion is dependent upon 
+the corrosivity of the environment. The condition of being stabilized 
+with respect to sensitization is frequently demonstrated by passing one 
+or more standard corrosion tests for sensitization. 
+stabilizing treatment, n-any treatment intended to stabilize 
+the microstructure or dimensions of a steel object. 
+stainless steel, n-a steel that conforms to a specification that 
+requires, by mass percent, a minimum chromium content of 
+10.5 or more, and a maximum carbon content of less than 
+1.20. 
+steel, n-a material that conforms to a specification that 
+requires, by mass percent, more iron than any other element 
+and a maximum carbon content of generally less than 2. 
+DIScuss10N-The iron content requirement is not normally stated in 
+the specification and is not normally determined by chemical analysis, 
+but is taken to be 100 % minus the sum of the mean values permitted 
+by the specification for all other elements having a specified range or a 
+specified maximum. For conformance purposes, this calculated value 
+for iron is compared on an individual basis to the mean values 
+permitted by the specification for each of the other elements having a 
+specified range or a specified maximum. Some chromium-containing 
+steels may contain more than 2 % carbon; however, 2 % carbon is 
+generally considered to be the demarcation between steel and cast iron. 
+strain aging, n-aging induced by cold working. 
+strain hardening, n-an increase in hardness and strength of a 
+metal caused by plastic deformation at temperatures below 
+its recrystallization temperature. (Syn. work hardening) 
+stress relieving, n-heating a steel object to a suitable 
+temperature, holding it long enough to reduce residual 
+stresses, and then cooling it slowly enough to minimize the 
+development of new residual stresses. 
+subcritical annealing, n-annealing at a temperature slightly 
+below Ac 1 . 
+surface hardening, n-a generic term covering any of several 
+processes that, by quench hardening only, produce in a 
+steel object a surface layer that is harder or more wear 
+resistant than the core. 
+DIScussION-There is no significant alteration of the chemical 
+composition of the surface layer. Where applicable, it is preferred that 
+the following more specific terms be used: induction hardening, flame 
+hardening, and shell hardening. 
+temper brittleness, n-brittleness that results when certain 
+steels are held within, or are cooled slowly through, a certain 
+range of temperature below the transformation range. 
+tempering, n-reheating a quench hardened or normalized 
+steel object to a temperature below Ac 1 , and then cooling it 
+at any desired rate. 
+test record, n-a document or electronic record that contains 
+the observations and derived data obtained by applying a 
+given test method. 
+test report, n-a document that presents the applicable quali­
+tative or quantitative results obtained by applying one or 
+more given test methods. 
+DIScussION-A single document, containing test report information 
+and certificate of compliance information, may be used. 
+Thermal-Mechanical Control Process (TMCP), n-a rolling 
+process that produces a fine-grained ferritic steel by a 
+particular combination of controls on the manufacturing 
+process, from slab reheating to post-rolling cooling, thereby 
+achieving enhanced mechanical properties. 
+D1scuss10N-(TMCP) requires appropriate selection of chemical 
+composition and accurate control of steel temperature and rolling 
+reduction. 
+thermochemical treatment, n-a heat treatment carried out 
+in a medium suitably chosen to produce a change in the 
+chemical composition of the steel object by exchange with 
+the medium. 
+1386
+
+=== Page 1449 ===
+
+ASME BPVC.II.A-2025 SA-941 
+time quenching, n-interrupted quenching in which the 
+duration of holding in the quenching medium is controlled. 
+transformation ranges, n-those ranges of temperature within 
+which austenite forms during heating and transforms during 
+cooling. 
+DrscussroN-The two ranges are distinct, sometimes overlapping but 
+never coinciding. The limiting temperatures of the ranges are depen­
+dent upon the steel composition and the rate of change of temperature, 
+particularly during cooling. 
+transformation temperature, n-the temperature at which a 
+change in phase occurs, with the limiting temperatures of the 
+transformation ranges designated using the following sym­
+bols: 
+Acc 01 -the temperature at which the solution of cementite 
+in austenite is completed during heating. 
+Ac 1 -the temperature at which austenite begins to form 
+during heating. 
+Ac 3 -the temperature at which transformation of ferrite to 
+austenite is completed dming heating. 
+Ac 4 -the temperature at which austenite transforms to 
+delta ferrite during heating. 
+Ae 1 , Ae 3 , Aecm• Ae 4 -the temperatures of phase change at 
+equilibrium. 
+Arcn 1 -the temperature at which precipitation of cementite 
+starts during cooling. 
+Ar 1 -the temperature at which transformation of austenite 
+to ferrite or to ferrite plus cementite is completed during 
+cooling. 
+Ar 3 -the temperature at which austenite begins to trans­
+form to ferrite during cooling. 
+Ar 4 -the temperature at which delta ferrite transforms to 
+austenite during cooling. 
+Mr-the temperature at which transformation of austenite 
+to martensite is substantially completed during cooling. 
+M 8 -the temperature at which transformation of austenite 
+to martensite starts during cooling. 
+DrscussroN-All of the above changes, except the formation of 
+martensite, occur at lower temperatures dming cooling than during 
+heating, and are dependent upon the rate of change of temperature. 
+unspecified element, n-in steel, an element not controlled to 
+a specified minimum, maximum, or range, in accordance 
+with the requirements of the applicable product specifica­
+tion. 
+wrought product, n-item of steel which has been subject to 
+deformation by rolling, drawing, forging, or some other 
+method, for example, a bar, plate, strip, tube, or wire. 
+1387 
+DrscussroN-The extent of deformation needed to transform an 
+as-cast material to one that exhibits the microstructure and properties 
+expected for wrought products is impractical to define because it may 
+vary among different deformation practices and product application.

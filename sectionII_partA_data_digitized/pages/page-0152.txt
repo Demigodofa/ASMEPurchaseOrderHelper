@@ -1,0 +1,82 @@
+SA-20/SA-20M ASME BPVC.II.A-2025 
+TABLE X4.1 Group Designations for Cold Bending 
+Specification Class Where . Group 
+Applicable Grade Where Applicable DesignationA 
+A203/A203M A, D B 
+B, E C 
+F D 
+A204/A204M A B 
+B C 
+C D 
+A225/A225M C,D D 
+A285/A285M A, B,C A 
+A299/A299M A, B D 
+A302/A302M A,C,D D 
+B E 
+A353/A353M D 
+A387/A387M 1, 2 2, 11, 12 C 
+1 5, 9, 21,21L,22, 22L E 
+2 5, 9, 21, 22, 91 E 
+A455/A455M C 
+A515/A515M 60 or 65 B 
+70 C 
+A516/A516M 55 A 
+60, 65 B 
+70 C 
+A517/A517M A, B, E, F, H, P, Q, S F 
+A533/A533M 1, 2, 3 A, B, C, D, E E 
+A537/A537M 1, 2 8 , 3 8 C 
+2c' 3c D 
+A542/A542M 0 1, 2 F 
+3, 4 D 
+4a E 
+A543/A543M 1, 2, 3 B,C F 
+A553/A553M 0 D 
+A562/A562M A 
+A612/A612M C 
+A645/A645M D 
+A662/A662M A, B B 
+C C 
+A724/A724M A, C D 
+B E 
+A736/A736M 1, 2, 3 A, C D 
+A737/A737M B, C B 
+A738/A738M A, B D 
+ca C 
+cc D 
+A832/A832M 21V, 22V, 23V E 
+A841/A841M 1, 2 A, B, C C 
+3 D F 
+A844/A844M D 
+A1017/A1017M 23,122 D 
+92, 911 E 
+A Steels in Groups A to E inclusive are grouped on the basis of similar specified 
+values for minimum elongation in 2 in. [50 mm]; Group F includes steels that have 
+a specified minimum elongation in 2 in. [50 mm] of 16 or less, and steels that have 
+a ratio of specified minimum tensile strength to specified minimum yield strength of 
+1.15 or less. 
+8 For thicknesses of 4 in. [100 mm] and less. 
+° For thicknesses over 4 in. [100 mm]. 
+° For any type. 
+TABLE X4.2 Suggested Minimum Inside Radii for Cold BendingA 
+Thickness (t), in. [mm] 
+Group 
+Up to¾ in. Over¾ in. [20 mm] Over 1 in. [25 mm] Over 2 in. Designation 8 
+[20mm] to 1 in. [25 mm], to 2 in. [50 mm], [50mm] incl incl 
+A 1.51 1.51 1.51 1.51 
+B 1.51 1.51 1.51 2.0t 
+C 1.51 1.51 2.0t 2.51 
+D 1.51 1.51 2.51 3.0t 
+E 1.51 1.51 3.0t 3.51 
+F 1.751 2.251 4.51 5.51 
+A Values are for bend lines perpendicular to the direction of final rolling. These radii 
+apply when the precautions listed in X4.2 are followed. If bend lines are parallel to 
+the direction of final rolling, multiply values by 1.5. 
+8 Steels specifications included in the group designations may not include the 
+entire thickness range shown in this table. 
+Holt, G. E., et al. "Minimum Cold Bend Radii Project - Final 
+Report," Concurrent Technologies Corporation, January 27, 
+1997. 
+100 
+Brockenbrough, R. L., "Fabrication Guidelines for Cold 
+Bending," R. L. Brockenbrough & Associates, June 28, 1998. 

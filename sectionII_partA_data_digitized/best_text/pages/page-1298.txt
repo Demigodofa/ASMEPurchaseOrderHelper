@@ -1,0 +1,80 @@
+SA-749/SA-749M ASME BPVC.II.A-2025 
+from an electronic data interchange (EDI) transmission 
+shall be regarded as having the same validity as a counter­
+part printed in the certifier's facility. The content of the 
+EDI transmitted document must meet the requirements of 
+the invoked ASTM standard(s) and conform to any existing 
+EDI agreement between the purchaser and the supplier. 
+Notwithstanding the absence of a signature, the organiza­
+tion submitting the EDI transmission is responsible for the 
+content of the report. 
+NOTE 2-The industry definition as invoked here is: EDI is the computer 
+to computer exchange of business information in an agreed upon standard 
+format such as ANSI ASC Xl2. 
+15. Marking 
+15.1 As a minimum requirement, the material shall 
+be identified by having the manufacturer's name, ASTM 
+designation, weight, purchaser's order number, and mate­
+rial identification legibly stenciled on top of each lift or 
+shown on a tag attached to each coil or shipping unit. 
+15.2 When specified in the contract or order, and for 
+direct procurement by or direct shipment to the govern­
+ment, marking for shipment, in addition to requirements 
+specified in the contract or order, shall be in accordance 
+with MIL-STD-129 for military agencies and in accordance 
+with Fed. Std. No. 123 for civil agencies. 
+15.3 For Government procurement by the Defense Sup­
+ply Agency, strip material shall be continuously marked 
+TABLE 1 
+TOLERANCES FOR PRODUCT ANALYSISA 
+Tolerances 
+Limit, or Maximum Under Over 
+of Specified Minimum Maximum 
+Element Element,% Limit Limit 
+Carbon to 0.15, incl 0.02 0.03 
+over 0.15 to 0.40, incl 0.03 0.04 
+over 0.40 to 0.80, incl 0.03 0.05 
+over 0.80 0.03 0.06 
+Manganese to 0.60, incl 0.03 0.03 
+over 0.60 to 1.15, incl 0.04 0.04 
+over 1.15 to 1.65, incl 0.05 0.05 
+Phosphorus 0.01 
+Sulfur 0.01 
+Silicon to 0.30, incl 0.02 0.03 
+over 0.30 to 0.60, incl 0.05 0.05 
+Copper 0.02 
+A See 6.3.1. 
+for identification .in accordance with Fed. Std. No. 183. 
+15.4 Bar coding is acceptable as a supplementary iden­
+tification method. Bar coding should be consistent with 
+the Automotive Industry Action Group (AIAG) standard 
+prepared by the primary metals subcommittee of the AIAG 
+bar code project team. 
+16. Packaging 
+16.1 Unless otherwise specified, the strip shall be pack­
+aged and loaded in accordance with Practices A 700. 
+16.2 When specified in the contract or order, and for 
+direct procurement by or direct shipment to the govern­
+ment, when Level A is specified, preservation, packaging, 
+and packing shall be in accordance with the Level A 
+requirements of MIL-STD-163. 
+16.3 When coils are ordered it is customary to specify 
+a minimum or range of inside diameter, maximum outside 
+diameter, and a maximum coil weight, if required. The 
+ability of manufacturers to meet the maximum coil weights 
+depends upon individual mill equipment. When required, 
+minimum coil weights are subject to negotiation. 
+17. Keywords 
+17.1 carbon; steel; strip 
+TABLE 2 
+INDEX OF TABLES FOR DIMENSIONS, TOLERANCES, 
+AND ALLOWANCES 
+Table No. 
+Dimensions Inch-Pound Units SI Units 
+Camber tolerances 8 Al.6 
+Crown tolerances 5 Al.3 
+Flatness tolerances 9 Al.7 
+Length tolerances 7 Al.5 
+Thickness tolerances 3, 4 Al.I, Al.2 
+Width tolerances 6 Al.4 
+1226 

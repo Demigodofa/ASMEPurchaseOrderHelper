@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 451,
+  "globalPageIndex": 1249,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "ASME BPVC.II.A-2025 SA-703/SA-703M \nX2. ADDITION OF NEW GRADES TO PRODUCT SPECIFICATIONS COVERED BY SPECIFICATION A703/A703M \nX2.l Where grades are already included in other A0l.18 \nstandards, they may be added to other A0l.18 standards. In this \ncase, the information described in X2.2 and X2.3 is not \nrequired. \nX2.2 For grades not already included in A0l.18 standards, \nthe following data should be provided from a minimum of ten \nproduction heats. This data should include: \nX2.2. l Chemical composition. \nX2.2.2 Mechanical properties, as applicable to the product \nspecification being cited. These may include, but are not \nlimited, to the following: \nX2.2.2. l Ultimate tensile strength, \nX2.2.2.2 Yield strength or yield point, \nX2.2.2.3 Elongation, \nX2.2.2.4 Reduction of area, \nX2.2.2.5 Hardness, and \nX2.2.2.6 Impact properties (Charpy V-notch). \nX2.2.3 The test coupon size from which the test specimens \nwere removed, stated for each test. \nX2.2.4 Heat treatment requirements. \nX2.2.5 Welding procedure. (Welding should be carried out \nusing commercially available consumables.) \nX2.2.6 Whether the material is covered by any patents. \nX2.3 The inclusion of the proposed material should be \nsupported by written request from at least one purchaser or user \nindicating the need for the new grade. \n1163 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-1249.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1315,
+  "bestTextAlphaRatio": 0.7148
+}

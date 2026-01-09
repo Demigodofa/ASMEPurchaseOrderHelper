@@ -1,0 +1,68 @@
+( 
+ASME BPVC.II.A-2025 SA·204/SA-204M 
+TABLE 1 Chemical Requirements 
+Element Composition, % 
+Grade A Grade B Grade C 
+Carbon, max:A 
+Up to 1 in. [25 mm] 0.18 0.20 0.23 
+incl, In thickness 
+Over 1 in. to 2 in. [50 mm] 0.21 0.23 0.26 
+incl, in thickness 
+Over 2 in. to 4 in. [100 mm] 0.23 0.25 0.28 
+incl, in thickness 
+Over 4 in. [100 mm] 0.25 0.27 0.28 
+in thickness 
+Manganese, max: 
+Heat analysis 0.90 0.90 0.90 
+Product analysis 0.98 0.98 0.98 
+Pho_sphorous, maxA 0.025 0.025 0.025 
+Sulfur, maxA 0.025 0.025 0.025 
+Silicon: 
+Heat analysis 0.15-0.40 0.15-0.40 0.15-0.40 
+Product analysis 0.13-Q.45 0.13-Q.45 0.13-Q.45 
+Molybdenum: 
+Heat analysis 0.45-o.60 0.45-0.60 0.45-0.60 
+Product analysis 0.41-0.64 0.41-0.64 0.41-0.64 
+A Applies to both heat and product analyses. 
+TABLE 2 Tensile Requirements 
+Grade A Grade B Grade C 
+ksi [MPa] ksi [MPa] ksi [MPa] 
+Tensile strength 65-85 [45Q-585] 70-90 [485-620] 75-95 [515-655] 
+Yield strength, minA 37 [255] 40 [275] 43 [295] 
+Elongation in 8 in. [200 mm], min, % 8 19 17 16 
+Elongation in 2 in. [50 mm], min, % 8 23 21 20 
+A Determined by either the 0.2 % offset method or the 0.5 % extension-under-load method. 
+8 See Specification A20/A20M for elongation adjustment. 
+5. Heat Treatment 
+5.1 Plates 1½ in. [40 mm] and under in thickness are 
+normally supplied in the as-rolled condition. The plates may be 
+ordered normalized, normalized and tempered, or stress re­
+lieved. 
+5.2 Plates over 1 ½ in. [40 mm] in thickness shall be 
+normalized or normalized and tempered. 
+6. Chemical Requirements 
+6.1 The steel shall conform to the chemical requirements 
+given in Table 1 unless otherwise modified in accordance with 
+Supplementary Requirement S17, Vacuum Carbon-Deoxidized 
+Steel, in Specification A20/ A20M. 
+7. Mechanical Requirements 
+7 .1 Tension Test Requirements-The plates, as represented 
+by the tension-test specimens, shall conform to the require­
+ments given in Table 2. 
+8. Keywords 
+8.1 alloy steel plate; molybdenum-alloy; pressure contain­
+ing parts; pressure vessel steel plate 
+SUPPLEMENTARY REQUIREMENTS 
+Supplementary requirements shall not apply unless specified in the purchase order. 
+A list of standardized supplementary requirements for use at the option of the purchaser is included 
+in Specification A20/A20M. Those that are considered suitable for use with this specification are listed 
+in this section by title. 
+S 1. Vacuum Treatment, 
+S2. Product Analysis, 
+S3. Simulated Post-Weld Heat Treatment of Mechanical 
+Test Coupons, 
+267 
+S4.1 Additional Tension Test, 
+S5. Charpy V-Notch Impact Test, 
+S6. Drop Weight Test (for Material 0.625 in. [16 mm] and 
+over in Thickness), 

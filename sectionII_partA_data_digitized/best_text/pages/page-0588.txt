@@ -1,0 +1,100 @@
+SA-350/SA-350M (ASTM A350/A350M} ASME BPVC.II.A-2025 
+SUPPLEMENTARY REQUIREMENTS 
+In addition to any supplementary requirements of Specification A961/A961M, the following 
+supplementary requirements shall apply only when specified by the purchaser in the order: 
+Sl. Other Impact Test Temperatures 
+S 1.1 Impact test temperatures lower or higher than the 
+standard temperature in Table 4 of this specification shall be 
+used. 
+S 1.1.1 When higher test temperatures are employed, the 
+actual test temperature may not be higher than that given in 
+Table Sl.1.1. 
+S 1.2 The test temperature shall be specified by the pur­
+chaser. When subsize specimens are used, the manufacturer 
+shall adjust the test temperature in accordance with the size 
+restrictions of 7.2.4.2 and 7.2.4.3. 
+Sl.3 The forging shall be marked with the specified test 
+temperature in accordance with 15.1.5. A lower temperature 
+shall not be marked on the forging because of the use of 
+subsize specimens. 
+S 1 .4 The test results shall comply with Table 3 for standard 
+size specimens, and with Table 5 for subsize specimens. 
+S2. Stress-Relieved Test Specimens 
+S2. l The test specimens shall be stress relieved. Stress 
+relieving shall be done after heat treatment in 5.4 and before 
+machining the specimens from the heat-treated test material. 
+S2.2 The purchaser shall furnish the forging manufacturer 
+with details of the stress-relief treatment desired. 
+S3. Lateral Expansion 
+S3.l Lateral expansion of the Charpy V-notch test shall be 
+measured and reported. 
+TABLE S1.1.1 Maximum Supplemental Test Temperatures 
+Grade 
+LF1 
+LF2, Class 1 
+LF3, Classes 1 and 2 
+LF5, Classes 1 and 2 
+LF6, Classes 1 and 2 
+LF9 
+LF787, Class 2 
+LF787, Class 3 
+LF2 Class 2 
+LF6 Class 3 
+Maximum Test Temperature, "F ["CJ 
+-10 [-23] 
+-35 [-37] 
+-125 [-87] 
+-60 [-51] 
+-40 [-40] 
+-80 [-62] 
+-60 [-51] 
+-80 [-62] 
++10 [-12) 
++10 [-12] 
+S4. Vacuum Carbon-Deoxidized Steels 
+S4.1 Material made to Grades LFl, LF2, LF3, LF5, and LF9 
+shall be vacuum carbon-deoxidized, in which case the silicon 
+content shall be 0.12 % maximum. The test report shall 
+indicate that the steel was vacuum carbon-deoxidized. 
+SS. Special Impact Test Requirements for Flanges (Note 
+SS.1) 
+S5.l Charpy test specimens shall be cut from an actual 
+flange representing each size, heat, and heat-treatment lot. If 
+more than one size flange is represented by the same heat and 
+heat-treatment lot, the maximum size flange shall be consid­
+ered representative. 
+536 
+S5.2 The number, location, and orientation of the test 
+specimens shall be stated on the order. 
+S5.3 The test results shall comply with Table 3 for standard 
+size specimens, and with Table 5 for subsize specimens. 
+Norn S5.1-These special requirements should be considered for 
+services when the applied stresses approach the maximum permissible 
+limits of the governing code, or the installation is subject to severe cyclic 
+conditions (7000 or more cycles over the expected life of the installation), 
+or both. 
+S6. Carbon Equivalent 
+S6.l The maximum carbon equivalent based on heat analy­
+sis shall be as shown in Table S6.1. 
+TABLE S6.1 Maximum Carbon Equivalent Value 
+Grade 
+LF1 
+LF2 CL 1 and CL2 
+LF6 CL1 
+LF6 CL2 
+Max. Thickness Less 
+Than or Equal to 2 in. 
+0.45 
+0.47 
+0.45 
+0.47 
+Max. Thickness 
+Greater Than 2 in. 
+0.46 
+0.48 
+0.46 
+0.48 
+S6.2 Determine the carbon equivalent (CE) as follows: 
+CE = C + Mn/6 + (Cr + Mo + V)/5 + (Ni + Cu)/15 
+S6.3 A lower maximum carbon equivalent may be agreed 
+upon between the supplier and the purchaser. 

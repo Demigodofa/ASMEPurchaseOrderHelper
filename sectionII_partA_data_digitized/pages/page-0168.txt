@@ -1,0 +1,98 @@
+SA-29/SA-29M ASME BPVC.II.A-2025 
+TABLE A2.2 Tolerances in Cross Section for Hot-Wrought Hexagonal and Octagonal Steel Bars 
+Specified Size Between 
+Opposite Sides, mm 
+To 13, incl 
+Over 13 to 25, incl 
+Over 25 to 40, incl 
+Over 40 to 50, incl 
+Over 50 to 65, incl 
+Over 65 to 80, incl 
+Over 80 to 100, incl 
+Tolerance from Specified Size, mm 
+Over 
+0.18 
+0.25 
+0.55 
+0.8 
+1.2 
+1.6 
+2.0 
+Under 
+0.18 
+0.25 
+0.35 
+0.40 
+0.40 
+0.40 
+0.40 
+A Out of hexagon or out of octagon is the greatest difference between any two dimensions at the cross section between opposite faces. 
+Out of 
+Hexagon or 
+Out of 
+Octagon, 
+mmA 
+0.3 
+0.4 
+0.6 
+0.8 
+1.2 
+1.6 
+2.0 
+TABLE A2.3 Thickness and Width Tolerances for Hot-Wrought Square-Edge and Round-Edge Flat BarsA,a 
+Tolerances from Specified Thickness for Thickness Given Over and Under, mm Tolerances from Specified 
+Specified Width, mm Width, mm 
+Over 5 to 6, incl Over 6 to 12, Over 12, to 25, Over 25 to 50, Over 50 to 75 Over 75 Over Under incl incl incl 
+To 25, incl 0.18 0.20 0.25 0.5 0.5 
+Over 25 to 50, incl 0.18 0.30 0.40 0.8 1.0 1.0 
+Over 50 to 100, incl 0.20 0.40 0.50 0.8 1.2 1.2 1.5 1.0 
+Over 100 to 150, incl 0.25 0.40 0.50 0.8 1.2 1.2 2.5 1.5 
+Over 150 to 200, incl A 0.40 0.65 0.8 1.2 1.6 3.0 2.5 
+A When a square is held against a face and an edge of a square edge flat bar, the edge shall not deviate by more than 3° or 5 % of the thickness. 
+8 Flats over 150 to 200 mm, incl in width are not available as hot-wrought bars in thickness 6 mm and under. 
+TABLE A2.4 Thickness, Length, and Out-of-Square Tolerances for Hot-Wrought Bar Size Angles 
+Tolerances in Thickness for Thickness Given, Over and Under, mm 
+Specified Length of 
+Leg, mmA,B 
+To 5, incl Over 5 to 
+10, incl Over 10 
+To 50, incl 
+Over 50 to 75, excl 
+0.2 
+0.3 
+A The longer leg of an unequal angle determines the size for tolerance. 
+8 Out of square tolerances in either direction is 1 ½ 0 = 0.026 mm/mm. 
+0.2 
+0.4 
+0.3 
+0.4 
+TABLE A2.5 Dimensional Tolerances for Hot-Wrought Bar Size Channels 
+Tolerances in Size, Over and Under, mm 
+Specified Size of 
+Channel, mm 
+To 40, incl 
+Over 40 to 75, excl 
+Depth of SectionA Width of FlangesA 
+2 2 
+A Measurements for depth of section and width of flanges are overall. 
+8 For channels 16 mm and under in depth, out of square tolerance is 0.05 mm/mm. 
+116 
+To 5, incl 
+0.2 
+0.4 
+Thickness of Web 
+Over 5 
+0.4 
+0.5 
+Tolerances 
+for Length of 
+Leg Over 
+and Under, 
+mm 
+1 
+2 
+Out of Square of 
+Either Flange per mm 
+of Flange Width, 8 mm 
+0.03 
+0.03 

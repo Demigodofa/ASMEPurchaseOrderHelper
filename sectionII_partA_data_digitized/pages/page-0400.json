@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 400,
+  "globalPageIndex": 400,
+  "width": 857.4,
+  "height": 617.52,
+  "text": "TABLE2 Continued \n~ Tensile Strength, min Yield Strength, 8 min Elongation Hardness, maxc N \nin .,. \nUNS Designation TypeA 2 in. or Cold Bend 00 0 \nBrine!!. \n-------ksi MPa ksi MPa 50mm, Rockwell \"' HBW ~ min,% N \nS30441 75 515 30 205 40 201 92 HRBW not required \n.,. \n0 \nS30451 304N 80 550 35 240 30 217 95 HRBW not required :s: \nS30452 XM-21J \nSheet and Strip 90 620 50 345 30 241 100 HRBW not required \nPlate 85 585 40 275 30 241 100 HRBW not required \nS30453 304LN 75 515 30 205 40 217 95 HRBW not required \nS30500 305 70 485 25 170 40 183 88 HRBW not required \nS30530 75 515 30 205 40 201 92 HRBW not required \nS30600 78 540 35 240 40 \nS30616 86 590 36 245 40 241 100 HRBW not required \nS30601 78 540 37 255 30 not required \nS30615 90 620 40 275 35 217 95 HRBW not required \nS30815 87 600 45 310 40 217 95 HRBW \nS30908 309S 75 515 30 205 40 217 95 HRBW not required \nS30909 309HF 75 515 30 205 40 217 95 HRBW not required \nS30940 309CbF 75 515 30 205 40 217 95 HRBW not required \nS30941 309HCbF 75 515 30 205 40 217 95 HRBW not required \nS31008 310S 75 515 30 205 40 217 95 HRBW not required \nS31009 310HF 75 515 30 205 40 217 95 HRBW not required :i:,. \n\"' S31040 310CbF 75 515 30 205 40 217 95 HRBW not required :s: \nS31041 310HCbF 75 515 30 205 40 217 95 HRBW not required l:'l \nS31050 310 MoLNF = \"O w t :s 0.25 in. 84 580 39 270 25 217 95 HRBW not required <: ,.rs,. \nC co t > 0.25 in. 78 540 37 255 25 217 95 HRBW not required \nS31060 87 600 41 280 40 217 95 HRBW not required ~ \nN \nS31254 0 \nN \nSheet and Strip 100 690 45 310 35 223 96 HRBW not required Vt \nPlate 95 655 45 310 35 223 96 HRBW not required \nS31266 109 750 61 420 35 not required \nS31277 112 770 52 360 40 not required \nS31600 316 75 515 30 205 40 217 95 HRBW not required \nS31603 316L 70 485 25 170 40 217 95 HRBW not required \nS31609 316H 75 515 30 205 40 217 95 HRBW not required \nS31635 316TiF 75 515 30 205 40 217 95 HRBW not required \nS31640 316CbF 75 515 30 205 30 217 95 HRBW not required \nS31651 316N 80 550 35 240 35 217 95 HRBW not required \nS31653 316LN 75 515 30 205 40 217 95 HRBW not required \nS31655 92 635 45 310 35 241 100 HRBW not required \nS31700 317 75 515 30 205 35 217 95 HRBW not required \nS31703 317L 75 515 30 205 40 217 95 HRBW not required \nS31725 317LMF 75 515 30 205 40 217 95 HRBW not required \nS31726 317LMNF 80 550 35 240 40 223 96 HRBW not required \nS31727 80 550 36 245 35 217 96 HRBW not required \nS31730 70 480 25 175 35 90 HRBW not required \nS31753 317LN 80 550 35 240 40 217 95 HRBW not required \nS32050 98 675 48 330 40 250 not required \nS32053 93 640 43 295 40 217 96 HRBW not required \nS32100 321 75 515 30 205 40 217 95 HRBW not required \nS32109 321H 75 515 30 205 40 217 95 HRBW not required \nS32615K 80 550 32 220 25 not required ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0400.json",
+  "tabulaTablesCsv": "tables_tabula/page-0400.csv",
+  "tabulaTableCount": 2,
+  "bestTextPath": "best_text/pages/page-0400.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2752,
+  "bestTextAlphaRatio": 0.3467
+}

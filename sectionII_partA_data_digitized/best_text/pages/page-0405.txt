@@ -1,0 +1,18 @@
+ASME BPVC.II.A-2025 SA-240 /SA-240M 
+TABLE S3.1 Tensile and Yield Strength Requirements 
+Norn 1-These values apply only for material of 1.5 inches (38 mm) 
+nominal thickness or less. 
+Tensile 0.2 % Offset 1 % Offset 
+Strength, Yield Yield 
+UNS Grade min., Ksi Strength, Strength, 
+[MPa] Min., Ksi Min., Ksi 
+[MPa] [MPa] 
+S31603 316L 70 [485] 25 [170] 38 [260] 
+S31600 316 75 [515] 30 [205] 38 [260] 
+S31653 316LN 75 [515] 30 [205] 46 [320] 
+S30403 304L 70 [485] 25 [170] 35 [240] 
+S30400 304 75 [515] 30 [205] 36 [250] 
+S30453 304LN 75 [515] 30 [205] 45 [310] 
+S30451 304N 80 [550] 35 [240] 45 [310] 
+S32100 321 75 [515] 30 [205] 35 [240] 
+353 

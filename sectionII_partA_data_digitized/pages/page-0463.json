@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 463,
+  "globalPageIndex": 463,
+  "width": 599.4,
+  "height": 844.08,
+  "text": "ASME BPVC.II.A-2025 SA-276 \n1 Wrought version of CA 6NM. \nJ Iron shall be determined arithmetically by difference of 100 minus the sum of specified elements. \nK (Al + Ti) = 0.85 \u2022 1.20. \nLThe terms Columbium (Cb) and Niobium (Nb) both relate to the same element. \nM % Cr+ 3.3 x % Mo+ 16 x % N ;eo 41. \nNorn 4---A typical ordering description is as follows: 5000 lb [2270 kg] \nStainless Steel Bars, Annealed and Centerless Ground, 1 V2 in. [40 mm] \nRound, 10 to 12 ft [3 to 3.7 m] in length, Type 304, ASTM Specification \nA276/A276M dated __ . End use: machined valve parts. \n4. Manufacture \n4.1 Condition: \n4.1.1 Bars shall be furnished in one of the following \nconditions listed in the Mechanical Requirements table: \n4.1.1.1 Condition A-Annealed. \n4.1.1.2 Condition H-Hardened and tempered at a relatively \nlow temperature. \n4.1.1.3 Condition T-Hardened and tempered at a relatively \nhigh temperature. \n4.1.1.4 Condition S- Strain Hardened-Relatively light \ncold work. \n4.1.1.5 Condition B-Relatively severe cold work. \n4.1.1.6 Condition SA-Stabilized annealed. \n5. Chemical Composition \n5 .1 The steel shall conform to the requirements for chemical \ncomposition specified in Table 1. \n5.2 Methods and practices relating to chemical analysis \nrequired by this specification shall be in accordance with Test \nMethods, Practices, and Terminology A751. \n6. Mechanical Properties Requirements \n6.1 The material shall conform to the mechanical test \nrequirements specified in Table 2. \n6.2 The martensitic grades shall be capable of meeting the \nhardness requirements after heat treating as specified in Table \n3. \n6.3 Hardness measurements, when required, shall be made \nat a location midway between the surface and the center of the \ncross section. \n7. Magnetic Permeability \n7 .1 When required by the purchase order, the magnetic \npermeability of Types 201 and 205 in the annealed condition \nshall not exceed 1.2 as tested by a Severn-type indicator. \n8. General Requirements \n8.1 In addition to the requirements of this specification, all \nrequirements of the current edition of Specification A484/ \nA484M shall apply. Failure to comply with the general \nrequirements of Specification A484/ A484M constitutes non\u00ad\nconformance to this specification. \n9. Certification \n9.1 Upon request of the purchaser in the contract or order, \nthe producer's certification that the material was manufactured \nand tested in accordance with this specification, together with \na certified report of the test results shall be furnished at the time \nof the shipment. \n411 \n10. Keywords \n10.1 austenitic stainless steel; austenitic-ferritic duplex \nstainless steel; ferritic stainless steel; martensitic stainless steel; \nstainless steel bars; stainless steel shapes ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0463.json",
+  "tabulaTablesCsv": "tables_tabula/page-0463.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0463.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2747,
+  "bestTextAlphaRatio": 0.7306
+}

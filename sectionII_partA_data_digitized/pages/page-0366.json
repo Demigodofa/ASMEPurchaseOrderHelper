@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 366,
+  "globalPageIndex": 366,
+  "width": 640.44,
+  "height": 875.52,
+  "text": "SA-225/SA-225M ASME BPVC.II.A-2025 \nSUPPLEMENTARY REQUIREMENTS \nSupplementary requirements shall not apply unless specified in the purchase order. \nA list of standardized supplementary requirements for use at the option of the purchaser is included \nin Specification A20/ A20M. Those that are considered suitable for use with this specification are listed \nbelow by title. \nS 1. Vacuum Treatment, \nS2. Product Analysis, \nS3. Simulated Post-Weld Heat Treatment of Mechanical \nTest Coupons, \nS4. l Additional Tension Test, \nS5. Charpy V-Notch Impact Test, \nS6. Drop Weight Test (for Material 0.625 in. [16 mm] and \nover in Thickness), \nS7. High-Temperature Tension Test, \n314 \nS8. Ultrasonic Examination in accordance with Specifica\u00ad\ntion A435/A435M, \nS9. Magnetic Particle Examination, \nS 1 l. Ultrasonic Examination in accordance with Specifica\u00ad\ntion A577 / A577M, \nS12. Ultrasonic Examination in accordance with Specifica\u00ad\ntion A578/ A578M, and \nS 17. Vacuum Carbon-Deoxidized Steel. ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-0366.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 985,
+  "bestTextAlphaRatio": 0.733
+}

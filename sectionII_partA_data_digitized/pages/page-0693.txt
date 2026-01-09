@@ -1,0 +1,115 @@
+ASME BPVC.II.A-2025 SA-376/SA-376M 
+10. Hydrostatic or Nondestructive Electric Test 
+10.1 Each pipe shall be subjected to the Nondestmctive 
+Electric Test or the Hydrostatic Test. Unless specified by the 
+purchaser, either test may be used at the option of the producer. 
+10.2 Hydrostatic Test-Each length of finished pipe shall be 
+subjected to the hydrostatic test in accordance with Specifica­
+tion A999/ A999M, unless specifically exempted under the 
+provisions of 10.3 and 10.4. 
+10.3 For pipe sizes NPS 24 [DN 600] and over, the 
+purchaser, with the agreement of the manufacturer, may 
+complete the hydrostatic test requirement with the system 
+pressure test, which may be lower or higher than the specifi­
+cation test pressure, but in no case shall the test pressure be 
+lower than the system design pressure. Each length of pipe 
+furnished without the completed manufacturer's hydrostatic 
+test shall include with the mandatory marking the letters "NH." 
+10.4 Nondestructive Examination-Each pipe shall be ex­
+amined with a nondestmctive test in accordance with Practice 
+E213 or Practice E426. Unless specifically called out by the 
+purchaser, the selection of the nondestructive electric test will 
+be at the option of the manufacturer. The range of pipe sizes 
+that may be examined by each method shall be subject to the 
+limitations in the scope of the respective practices. 
+10.4.1 The following information is for the benefit of the 
+user of this specification: 
+10.4.1.1 The reference standards defined in 10.10.1 through 
+11.l 0.4 are convenient standards for calibration of nondestruc­
+tive testing equipment. The dimensions of these standards 
+should not be construed as the minimum size imperfection 
+detectable by such equipment. 
+10.4.1.2 The ultrasonic testing (UT) can be performed to 
+detect both longitudinally and circumferentially oriented de­
+fects. It should be recognized that different techniques should 
+be employed to detect differently oriented imperfections. The 
+examination may not detect short, deep, defects. 
+10.4.1.3 The eddy-current testing (ET) referenced in Prac­
+tice E426 has the capability of detecting significant 
+discontinuities, especially the short abrupt type. 
+10.4.1.4 A purchaser interested in ascertaining the nature 
+(type, size, location, and orientation) of discontinuities that can 
+be detected in the specific application of these examinations 
+should discuss this with the manufacturer of the tubular 
+product. 
+10.5 Time of Examination-Nondestructive testing for 
+specification acceptance shall be performed after all mechani­
+cal processing, heat treatments, and straightening operations. 
+This requirement does not preclude additional testing at earlier 
+stages in the processing. 
+10.6 Surface Condition: 
+10.6.1 All surfaces shall be free of scale, dirt, grease, paint, 
+or other foreign material that could interfere with interpretation 
+of test results. The methods used for cleaning and preparing the 
+surfaces for examination shall not be detrimental to the base 
+metal or the surface finish. 
+10.6.2 Excessive surface roughness or deep scratches can 
+produce signals that interfere with the test. 
+10.7 Extent of Examination: 
+10.7.1 The relative motion of the pipe and the transducer(s), 
+coil(s), or sensor(s) shall be such that the entire pipe surface is 
+scanned, except as in 5.2. 
+10.7.2 The existence of end effects is recognized, and the 
+extent of such effects shall be determined by the manufacturer, 
+and, if requested, shall be repo1ied to the purchaser. Other 
+nondestmctive tests may be applied to the end areas, subject to 
+agreement between the purchaser and the manufacturer. 
+10.8 Operator Qualifications-The test unit operator shall 
+be certified in accordance with SNT-TC-lA, or an equivalent 
+recognized and documented standard. 
+10.9 Test Conditions: 
+10.9.1 For eddy-current testing, the excitation coil fre­
+quency shall be chosen to ensure adequate penetration yet 
+provide good signal-to-noise ratio. 
+10.9.2 The maximum eddy-cmrent coil frequency used 
+shall be as follows: 
+Specified Wall Thickness, in. [mm] Maximum Frequency, KHz 
+<0.050 [1.25] 100 
+0.050 to 1.50 [1.25 to 3.80] 50 
+>0.150 [3.80] 10 
+10.9.3 Ultrasonic-For examination by the ultrasonic 
+method, the minimum nominal transducer frequency shall be 
+2.00 MHz and the maximum nominal transducer size shall be 
+1.5 in. [38 mm]. 
+10.9.3.1 If the equipment contains a reject notice filter 
+setting, this shall remain off during calibration and testing 
+unless linearity can be demonstrated at that setting. 
+10.10 Reference Standards: 
+10.10.1 Reference standards of convenient length shall be 
+prepared from a length of pipe of the same grade, size (NPS, or 
+outside diameter and schedule or wall tl1ickness), surface 
+finish, and heat treatment condition as the pipe to be examined. 
+10.10.2 For Ultrasonic Testing, the reference ID and OD 
+notches shall be any one of the three common notch shapes 
+shown in Practice E213, at the option of the manufacturer. The 
+depth of each notch shall not exceed 12½ % of the specified 
+nominal wall thickness of the pipe or 0.004 in. [0.1 mm], 
+whichever is greater. The width of the notch shall not exceed 
+twice the depth. Notches shall be placed on both the OD and ID 
+surfaces. 
+643 
+10.10.3 For Eddy-Current Testing, the reference standard 
+shall contain, at the option of the manufacturer, any one of the 
+following discontinuities: 
+10.10.3.1 Drilled Hole-The reference standard shall con­
+tain three or more holes, equally spaced circumferentially 
+around the pipe and longitudinally separated by a sufficient 
+distance to allow distinct identification of the signal from each 
+hole. The holes shall be drilled radially and completely through 
+the pipe wall, with care being taken to avoid dist01iion of the 
+pipe while drilling. One hole shall be drilled in the weld, if 
+visible. Alternately, the producer of welded pipe may choose to 
+drill one hole in the weld and mn the calibration standard 
+through the test coils three times with the weld turned at 120° 
+on each pass. The hole diameter shall vary with NPS as 
+follows: 

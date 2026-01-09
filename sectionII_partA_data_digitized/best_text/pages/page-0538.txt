@@ -1,0 +1,118 @@
+SA-333/SA-333M ASME BPVC.Il.A-2025 
+TABLE 2 Tensile Requirements 
+Grade 1 Grade 3 Grade 4 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 Grade 11 
+psi MPa psi MPa psi MPa psi MPa psi MPa psi MPa psi MPa psi MPa psi IMPa 
+Tensile strength, min 55 000 380 65 000 450 60 000 415 60 000 415 65 000 450 100 000 690 63 000 435 80 000 550 65 000:1450 
+Yield strenqth, min 30 000 205 35 000 240 35 000 240 35 000 240 35 000 240 75 000 515 46 000 315 65 000 450 35 000 240 
+Longi- Trans- Langi- Trans- Longi- Trans- Longi- Trans- Langi- Trans- Longi- Trans- Longi- Trans- Langi- Trans- Longi-
+tudinal verse tudinal verse tudinal verse tudinal verse tudinal verse tudinal verse tudinal verse tudinal verse tudinal 
+Elongation in 2 in. or 50 
+mm, (or 4D), min,%: 
+Basic minimum 35 25 30 20 30 16.5 30 16.5 30 22 22 ... 28 ... 22 ... 18A 
+elongation for walls 5 /16 
+in. [8 mm] and over in 
+thickness, strip tests, 
+and for all small sizes 
+tested in full section 
+When standard round 28 20 22 14 22 12 22 12 22 14 16 ... ... ... 16 ... ... 
+2-in. or 50-mm gage 
+length or proportionally 
+smaller size test 
+specimen with the gage 
+length equal to 4D (4 
+times the diameter) is 
+used 
+For strip tests, a 1,75 8 1.25 8 1,50 8 1.00 8 1.50 8 1.00 8 1.50 8 1.00 8 1,50 8 1.00 8 1,25 8 ... 1,50 8 ... 1.25 8 ... .. . 
+deduction for each 1/s2 
+in. [0.8 mm] decrease in 
+wall thickness below 5 /16 
+in. [8 mm] from the 
+basic minimum 
+elongation of the 
+following percentage 
+Wall Thickness 
+Elongation in 2 in. or 50 mm, min, % 0 
+Grade 1 Grade 3 Grade 4 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10 
+in. mm Langi- Trans- Langi- Trans- Langi- Trans-
+tudinal verse tudinal verse tudinal verse 
+5/10 (0.312) 8 35 25 30 20 30 16 
+%2 (0.281) 7.2 33 24 28 19 28 15 
+¼ (0.250) 6.4 32 23 27 18 27 15 
+7 /s2 (0.219) 5.6 30 ... 26 ... 26 ... 
+3/16 (0.188) 4.8 28 ... 24 ... 24 ... 
+%2 (0.156) 4 26 ... 22 ... 22 ... 
+Ya (0.125) 3.2 25 ... 21 ... 21 ... 
+%2 (0.094) 2.4 23 ... 20 ... 20 ... 
+1/16 (0.062) 1.6 21 ... 18 ... 18 ... 
+A Elongation of Grade 11 is for all walls and small sizes tested in full section. 
+8 The following table gives the calculated minimum values. 
+Langi-
+tudinal 
+30 
+28 
+27 
+26 
+24 
+22 
+21 
+20 
+18 
+c Calculated elongation requirements shall be rounded to the nearest whole number. 
+Trans- Langi- Trans- Langi- Trans- Langi- Trans- Langi- Trans-
+verse tudinal verse tudinal verse tudinal verse tudinal verse 
+16 30 22 22 ... 28 ... 22 ... 
+15 28 21 21 ... 26 ... 21 .. . 
+15 27 20 20 ... 25 ... 20 ... 
+... 26 ... 18 ... 24 ... 18 .. . 
+... 24 ... 17 ... 22 ... 17 .. . 
+... 22 ... 16 . .. 20 ... 16 .. . 
+... 21 ... 15 ... 19 ... 15 .. . 
+... 20 ... 13 ... 18 ... 13 .. . 
+... 18 ... 12 ... 16 ... 12 .. . 
+Note-The preceding table gives the computed minimum elongation values for each 1/s2-in. [0.80-mm] decrease in wall thickness. Where the wall thickness lies between 
+two values shown above, the minimum elongation value is determined by the following equation: 
+Grade 
+3 
+4 
+6 
+7 
+8 and 10 
+9 
+where: 
+E = elongation in 2 in. or 50 mm, in %, and 
+t = actual thickness of specimen, in. [mm]. 
+Direction of Test 
+Longitudinal 
+Transverse 
+Longitudinal 
+Transverse 
+Longitudinal 
+Transverse 
+Longitudinal 
+iransverse 
+Longitudinal 
+Transverse 
+Longitudinal 
+Longitudinal 
+as the pipe, the test plate being attached to the end of the pipe 
+and welded as a prolongation of the pipe longitudinal seam. 
+4.2.6.2 The bend test shall be in accordance with QW-160 
+of Section IX of the ASME Boiler and Pressure Vessel Code. 
+486 
+Equation 
+E = 56 I+ 17.50 [E = 2.191 + 17.50] 
+E = 40 t+ 12.50 [E= 1.561+ 12.50] 
+E = 48 t+ 15.00 [E= 1.871+ 15.00] 
+E = 32 I+ 10.00 [E= 1.251+ 10.00] 
+E = 48 I+ 15.00 [E= 1.871+ 15.00] 
+E = 32 I + 6.50 [ E = 1.25 I+ 6.50] 
+E = 48 t + 15.00 [E = 1.871 + 15.00] 
+E = 32 t+ 6.50 [ E= 1.25 I+ 6.50] 
+E = 48 I+ 15.00 [E= 1.871+ 15.00] 
+E = 32 I+ 11.00 [E= 1.251+ 11.00] 
+E = 40 t + 9.50 [ E = 1.561 + 9.50] 
+E = 48 I+ 13.00 [E= 1.87 I+ 13.00] 
+4.2.7 Charpy V-notch Impact Tests-Impact tests on welded 
+joints shall include tests on weld metal and heat affected zones 
+and shall meet the same requirements as the base metal. (See 
+Tables 3 and 4). 

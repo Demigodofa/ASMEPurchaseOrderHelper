@@ -1,0 +1,97 @@
+ASME BPVC.II.A-2025 SA-135/SA-135M (ASTM A135/A135M) 
+TABLE 1 Tensile Requirements 
+Tensile strength, min, ksi [MPa] 
+Yield strength, min, ksi [MPa] 
+Grade A 
+48 [330] 
+30 [205] 
+Grade B 
+60 [415] 
+35 [240] 
+Elongation in 2 in. or [50 mm], min, %: . . . . 
+For pipe having a specified wall thickness of '½sin. [7.9 mm] or more, 1f tested using a longitudinal 
+strip test specimen. 
+35 30 
+For pipe having a specified wall thickness of less than 6 /,s in. [7.9 mm], if tested using a longitudinal 
+strip test specimen. 
+A B 
+For pipe of any size, if tested using a full-size longitudinal test specimen. 35 30 
+A The minimum elongation shall be determined by the following equation, with the calculated value rounded to the nearest percent: 
+E= 561+16.5 
+[ E = 2.2t+ 16.5] 
+where: 
+E = elongation in 2 in. or [50 mm], minimum, %, and 
+t = specified wall thickness, in. [mm]. 
+8The minimum elongation shall be determined by the following equation, with the calculated value rounded to the nearest percent: 
+£= 481+14 
+[£= 1.91+14] 
+where: 
+E elongation in 2 in. or [50 mm], minimum, %, and 
+specified wall thickness, in. [mm]. 
+3. Terminology 
+3.1 For definitions of terms relating to steel manufacturing 
+and properties, refer to Tenninology A941. 
+3.2 For definitions of terms relating to mechanical testing, 
+refer to Tenninology E6. 
+3.3 Definitions of Terms Specific to This Standard: 
+3.3.1 burr, n-a rough or sharp edge left on pipe ends by 
+cutting or sawing. 
+3.3.2 lot, n-all pipe of the same size, wall thickness and 
+rolled length that is produced from the same heat of steel and 
+subject to the same heat treatment. 
+3.3.3 black thread, n-a thread crease exhibiting the original 
+pipe surface after machining. 
+0 
+4. Ordering Information 
+4.1 Orders for material under this specification should 
+include the following, as required, to describe the desired 
+material adequately: 
+4.1.1 Quantity (feet, metres, or number of lengths), 
+4.1.2 Name of product (electric-resistance-welded pipe), 
+4.1.3 Specification designation and year of issue, 
+4.1.4 Grade (see Table 1), 
+4.1.5 Size (nominal size, NPS [DN], or outside diameter; 
+and nominal wall thickness), 
+4.1.6 Length (specific or random, see 12.4), 
+4.1.7 End finish (plain or threaded, see 13.2), 
+4.1.7.1 Threaded and coupled, if specified, 
+4.1.7.2 Threads only, if specified, 
+4.1.7.3 Plain end, if specified, 
+4.1.8 Alternative electric test (see Section 11), 
+4.1.9 Tension test specimen (see Section 15), 
+4.1.10 Heat analysis, if required (see 6.1), 
+4.1.11 Certificate of compliance, if required (see Section 
+19), and 
+4.1.12 Special requirements. 
+5. Manufacture 
+5.1 The steel shall be made by either or both of the 
+following processes: basic-oxygen or electric-furnace. 
+5.2 Steel may be cast in ingots or may be strand cast. When 
+steels of different grades are sequentially strand cast, identifi­
+cation of the resultant transition material is required. The 
+producer shall remove the transition material by any estab­
+lished procedure that positively separates the grades. 
+5.3 The pipe shall be manufactured from flat rolled steel in 
+individual lengths or in continuous length by electric-resistance 
+or electric-induction welding without the addition of extrane­
+ous material. 
+187 
+5.4 The weld seam of electric-resistance welded pipe to 
+Grade B pipe shall be heat treated after welding to a minimum 
+temperature of 1000 °F [540 °C] or processed in such a manner 
+that no untempered martensite remains. 
+6. Chemical Composition 
+6.1 The steel shall conform to the requirements prescribed 
+in Table 2, based on the heat analysis. When specified in the 
+Element 
+Carbon 
+Manganese 
+Phosphorus 
+Sulfur 
+TABLE 2 Chemical Requirements 
+Composition, max, % 
+Grade A Grade B 
+0.25 0.30 
+0.95 1.20 
+0.035 0.035 
+0.035 0.035 

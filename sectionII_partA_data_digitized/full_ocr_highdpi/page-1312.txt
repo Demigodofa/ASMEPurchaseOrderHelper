@@ -1,0 +1,57 @@
+SA-770/SA-770M ASME BPVC.ILA-2025
+standard Specification for ee
+Through-Thickness Tension Testing of Steel Plates for |
+Special Applications |
+
+1. Scope 3.1.2 Special requirements agreed upon between the manu-
+1.1 This specification covers the procedures and accep- facturer and the purchaser.
+
+tance standards for the determination of reduction of areausing 4, Tension Tests
+
+a tension test specimen whose axis is perpendicular to the 4.1 Number of Tests: a
+
+rolled surfaces of steel plates 1 in. [25 mm] and greater in 4.1.1 Two tests shall be required from each pvlate-as-rolled
+
+\ ae aera . ATT sts shall quired from each plate-as-rolled,
+
+thickness. The principal purpose of the testing is to provide a t for plates subjected to heat treatment bv quenchine and
+
+measure of the resistance of a steel plate to lamellar tearing. CACEP : OF pares S Serres Y Qhencming @
+
+| oe : tempering. Two tests shall be required from each quenched-
+
+(See Appendix X1.) and-tempered plate. The tests shall be representative of the ,
+1.2 The values stated in either inch-pound units or SI units plate in its final condition. | /
+are to be regarded as standard. Within the text, the SI units are 4.1.2 When plates are furnished by the manufacturer in an |
+shown in brackets. The values stated in each system are not unheat-treated condition and qualified by heat-treated speci- |
+exact equivalents; therefore, each system must be used inde- — mens (including normalized, normalized and tempered, and
+pendently of the other. Combining values from the two systems — quenched and tempered), two tests shall be required from each
+may result in nonconformance with the specification. plate-as-rolled. |
+1.3 This specification is expressed in both inch-pound and Note 1—~The term “plate-as-rolled’’ refers to the unit plate rolled from ,
+SI units. However, unless the order specifies the applicable _a slab or directly from an ingot. It does not refer to the condition of the
+“M” specification designation (SI units), the material shall be _ Plate. .
+furnished to inch-pound units. 4.2. Location of Test Coupons—Take one test coupon at each .
+, end of each plate as defined in 4.1. Take the test coupons from :
+2. Referenced Documents the center of the plate width. , |
+2.1 ASTM Standards: 4.3 Orientation of Test Specimens—The longitudinal axis of
+A370 Test Methods and Definitions for Mechanical Testing _ the reduced section of the test specimens shall be perpendicular
+of Steel Products to the rolled surface of the plate. |
+- a Infarmat; 4.4 Preparation of Test Specimens: :
+3. Ordering Information 4.4.1 Welded Prolongations—-When required, join welded
+3.1 The inquiry and order shall include the following, if  prolongations to the surface(s) of the plate being tested. The
+required: joining method used shall be one which results in a minimal
+, 3.1.1 Supplementary requirements that are available tomeet — peat-affected zone in the portion of the plate to be tested. ;
+end use requirements (see S1 through 55). Shielded metal arc, friction, stud, or electron-beam welding |
+methods have proven to be suitable. :
+4.4.2 Standard Test Specimens: |
+4.4.2.1 Three types of standard round tension test specimens
+are shown in Fig. 1 and Table 1. For Types 1 and 2 specimens, re ,
+locate the center of the length of the reduced section at the ,
+approximate mid-point of the plate thickness. For Type 3 ;
+specimens, locate the weld fusion line of one plate surface ;
+within 4 in. [6 mm] of one end of the reduced section. :
+4.4.2.2 For plates from 1 in. [25 mm] to 1% in. [32 mm] |
+inclusive in thickness, use either the 0.350-in. [8.75-mm] Type .
+1 specimen or the 0.500-in. [12.5-mm] Type 2 specimen.
+.
+1246

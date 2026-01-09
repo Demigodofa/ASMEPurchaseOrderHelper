@@ -1,0 +1,278 @@
+{
+  "createdUtc": "2026-01-07T17:04:42.716047+00:00",
+  "entries": [
+    {
+      "spec": "SA-20",
+      "tocPageNumber": 67,
+      "tocLine": "SA-20/SA-20M Specification for General Requirements for Steel Plates for Pressure Vessels 67",
+      "tocImage": "toc-003.png"
+    },
+    {
+      "spec": "SA-31",
+      "tocPageNumber": 119,
+      "tocLine": "SA-31 Specification for Steel Rivets and Bars for Rivets, Pressure Vessels ....... 119",
+      "tocImage": "toc-003.png"
+    },
+    {
+      "spec": "SA-36",
+      "tocPageNumber": 125,
+      "tocLine": "SA-36/SA-36M Specification for Carbon Structural Steel .... 0... ccc eect eee eee eee 125",
+      "tocImage": "toc-003.png"
+    },
+    {
+      "spec": "SA-47",
+      "tocPageNumber": 129,
+      "tocLine": "SA-47 /SA-47M Specification for Ferritic Malleable Iron Castings ..........sseee ener nee 129",
+      "tocImage": "toc-003.png"
+    },
+    {
+      "spec": "SA-105",
+      "tocPageNumber": 163,
+      "tocLine": "SA-105/SA-105M Specification for Carbon Steel Forgings for Piping Applications .......... 163",
+      "tocImage": "toc-003.png"
+    },
+    {
+      "spec": "SA-106",
+      "tocPageNumber": 169,
+      "tocLine": "SA-106/SA-106M Specification for Seamless Carbon Steel Pipe for High-Temperature Service 169",
+      "tocImage": "toc-003.png"
+    },
+    {
+      "spec": "SA-134",
+      "tocPageNumber": 16,
+      "tocLine": "SA-134/SA-134M Specification for Pipe, Steel, Electric-Fusion (ARC)-Welded (Sizes NPS 16 and",
+      "tocImage": "toc-003.png"
+    },
+    {
+      "spec": "SA-135",
+      "tocPageNumber": 185,
+      "tocLine": "SA-135/SA-135M Specification for Electric-Resistance-Welded Steel Pipe .............e00- 185 -",
+      "tocImage": "toc-003.png"
+    },
+    {
+      "spec": "SA-181",
+      "tocPageNumber": 205,
+      "tocLine": "SA-181/SA-181M Specification for Carbon Steel Forgings, for General-Purpose Piping ...... 205",
+      "tocImage": "toc-003.png"
+    },
+    {
+      "spec": "SA-203",
+      "tocPageNumber": 261,
+      "tocLine": "SA-203/SA-203M Specification for Pressure Vessel Plates, Alloy Steel, Nickel ............. 261",
+      "tocImage": "toc-003.png"
+    },
+    {
+      "spec": "SA-204",
+      "tocPageNumber": 265,
+      "tocLine": "SA-204/SA-204M Specification for Pressure Vessel Plates, Alloy Steel, Molybdenum ........ 265",
+      "tocImage": "toc-003.png"
+    },
+    {
+      "spec": "SA-231",
+      "tocPageNumber": 315,
+      "tocLine": "SA-231/SA-231M Specification for Chromium-Vanadium Alloy Steel Spring Wire .......... 315",
+      "tocImage": "toc-004.png"
+    },
+    {
+      "spec": "SA-232",
+      "tocPageNumber": 321,
+      "tocLine": "SA-232/SA-232M Specification for Chromium-Vanadium Alloy Steel Valve Spring Quality Wire 321",
+      "tocImage": "toc-004.png"
+    },
+    {
+      "spec": "SA-263",
+      "tocPageNumber": 373,
+      "tocLine": "SA-263 Specification for Stainless Chromium Steel-Clad Plate .............000ee 373",
+      "tocImage": "toc-004.png"
+    },
+    {
+      "spec": "SA-264",
+      "tocPageNumber": 379,
+      "tocLine": "SA-264 Specification for Stainless Chromium-Nickel Steel-Clad Plate ............ 379",
+      "tocImage": "toc-004.png"
+    },
+    {
+      "spec": "SA-265",
+      "tocPageNumber": 385,
+      "tocLine": "SA-265 Specification for Nickel and Nickel-Base Alloy-Clad Steel Plate .......... 385",
+      "tocImage": "toc-004.png"
+    },
+    {
+      "spec": "SA-266",
+      "tocPageNumber": 393,
+      "tocLine": "SA-266/SA-266M Specification for Carbon Steel Forgings for Pressure Vessel Components .. 393",
+      "tocImage": "toc-004.png"
+    },
+    {
+      "spec": "SA-276",
+      "tocPageNumber": 407,
+      "tocLine": "SA-276/SA-276M Specification for Stainless Steel Bars and Shapes ..........eeeeeeeeeaee 407",
+      "tocImage": "toc-004.png"
+    },
+    {
+      "spec": "SA-283",
+      "tocPageNumber": 423,
+      "tocLine": "SA-283/SA-283M Specification for Low and Intermediate Tensile Strength Carbon Steel Plates 423",
+      "tocImage": "toc-004.png"
+    },
+    {
+      "spec": "SA-299",
+      "tocPageNumber": 431,
+      "tocLine": "SA-299/SA-299M Specification for Pressure Vessel Plates, Carbon Steel, Manganese-Silicon . 431",
+      "tocImage": "toc-004.png"
+    },
+    {
+      "spec": "SA-307",
+      "tocPageNumber": 439,
+      "tocLine": "SA-307 Specification for Carbon Steel Bolts and Studs, 60 000 PSI Tensile Strength 439",
+      "tocImage": "toc-004.png"
+    },
+    {
+      "spec": "SA-351",
+      "tocPageNumber": 539,
+      "tocLine": "SA-351/SA-351M Specification for Castings, Austenitic, for Pressure-Containing Parts ...... 539",
+      "tocImage": "toc-004.png"
+    },
+    {
+      "spec": "SA-370",
+      "tocPageNumber": 583,
+      "tocLine": "SA-370 Test Methods and Definitions for Mechanical Testing of Steel Products ... 583",
+      "tocImage": "toc-005.png"
+    },
+    {
+      "spec": "SA-401",
+      "tocPageNumber": 667,
+      "tocLine": "SA-401/SA-401M Specification for Steel Wire, Chromium-Silicon Alloy ............0.00005 667",
+      "tocImage": "toc-005.png"
+    },
+    {
+      "spec": "SA-403",
+      "tocPageNumber": 673,
+      "tocLine": "SA-403/SA-403M Specification for Wrought Austenitic Stainless Steel Piping Fittings ....... 673",
+      "tocImage": "toc-005.png"
+    },
+    {
+      "spec": "SA-423",
+      "tocPageNumber": 707,
+      "tocLine": "SA-423/SA-423M Specification for Seamless and Electric-Welded Low-Alloy Steel Tubes .... 707",
+      "tocImage": "toc-005.png"
+    },
+    {
+      "spec": "SA-439",
+      "tocPageNumber": 721,
+      "tocLine": "SA-439/SA-439M Specification for Austenitic Ductile Iron Castings ......... 00 css sence ee 721",
+      "tocImage": "toc-005.png"
+    },
+    {
+      "spec": "SA-476",
+      "tocPageNumber": 767,
+      "tocLine": "SA-476/SA-476M Specification for Ductile Iron Castings for Paper Mill Dryer Rolls ........ 767",
+      "tocImage": "toc-005.png"
+    },
+    {
+      "spec": "SA-487",
+      "tocPageNumber": 827,
+      "tocLine": "SA-487 /SA-487M Specification for Steel Castings Suitable for Pressure Service ............ 827",
+      "tocImage": "toc-005.png"
+    },
+    {
+      "spec": "SA-522",
+      "tocPageNumber": 8,
+      "tocLine": "SA-522/SA-522M Specification for Forged or Rolled 8 and 9% Nickel Alloy Steel Flanges, Fit-",
+      "tocImage": "toc-006.png"
+    },
+    {
+      "spec": "SA-540",
+      "tocPageNumber": 911,
+      "tocLine": "SA-540/SA-540M Specification for Alloy-Steel Bolting for Special Applications ............ 911",
+      "tocImage": "toc-006.png"
+    },
+    {
+      "spec": "SA-563",
+      "tocPageNumber": 953,
+      "tocLine": "SA-563 Specification for Carbon and Alloy Steel Nuts ......... 000s e eee eee ee 953",
+      "tocImage": "toc-006.png"
+    },
+    {
+      "spec": "SA-574",
+      "tocPageNumber": 1013,
+      "tocLine": "SA-574 Specification for Alloy Steel Socket-Head Cap Screws ........eeeeeeeees 1013",
+      "tocImage": "toc-006.png"
+    },
+    {
+      "spec": "SA-649",
+      "tocPageNumber": 1061,
+      "tocLine": "SA-649/SA-649M Specification for Forged Steel Rolls Used for Corrugating Paper Machinery 1061",
+      "tocImage": "toc-006.png"
+    },
+    {
+      "spec": "SA-705",
+      "tocPageNumber": 1165,
+      "tocLine": "SA-705/SA-705M Specification for Age-Hardening Stainless Steel Forgings ............... 1165",
+      "tocImage": "toc-007.png"
+    },
+    {
+      "spec": "SA-737",
+      "tocPageNumber": 1197,
+      "tocLine": "SA-737/SA-737M Specification for Pressure Vessel Plates, High-Strength Low-Alloy Steel ... 1197",
+      "tocImage": "toc-007.png"
+    },
+    {
+      "spec": "SA-747",
+      "tocPageNumber": 1211,
+      "tocLine": "SA-747/SA-747M Specification for Steel Castings, Stainless, Precipitation Hardening ....... 1211",
+      "tocImage": "toc-007.png"
+    },
+    {
+      "spec": "SA-751",
+      "tocPageNumber": 1233,
+      "tocLine": "SA-751 Test Methods and Practices for Chemical Analysis of Steel Products ...... 1233",
+      "tocImage": "toc-007.png"
+    },
+    {
+      "spec": "SA-788",
+      "tocPageNumber": 1271,
+      "tocLine": "SA-788/SA-788M Specification for Steel Forgings, General Requirements ................- 1271",
+      "tocImage": "toc-007.png"
+    },
+    {
+      "spec": "SA-813",
+      "tocPageNumber": 1313,
+      "tocLine": "SA-813/SA-813M Specification for Single- or Double-Welded Austenitic Stainless Steel Pipe . 1313",
+      "tocImage": "toc-007.png"
+    },
+    {
+      "spec": "SA-814",
+      "tocPageNumber": 1323,
+      "tocLine": "{ SA-814/SA-814M Specification for Cold-Worked Welded Austenitic Stainless Steel Pipe .... 1323",
+      "tocImage": "toc-007.png"
+    },
+    {
+      "spec": "SA-905",
+      "tocPageNumber": 1375,
+      "tocLine": "SA-905 Specification for Steel Wire, Pressure Vessel Winding ..............0005 1375",
+      "tocImage": "toc-008.png"
+    },
+    {
+      "spec": "SA-960",
+      "tocPageNumber": 1389,
+      "tocLine": "SA-960/SA-960M Specification for Common Requirements for Wrought Steel Piping Fittings 1389",
+      "tocImage": "toc-008.png"
+    },
+    {
+      "spec": "SA-999",
+      "tocPageNumber": 1485,
+      "tocLine": "SA-999/SA-999M Specification for General Requirements for Alloy and Stainless Steel Pipe . 1485",
+      "tocImage": "toc-008.png"
+    },
+    {
+      "spec": "SA-1058",
+      "tocPageNumber": 1541,
+      "tocLine": "SA-1058 Test Methods for Mechanical Testing of Steel Products\u2014Metric ......... 1541 :",
+      "tocImage": "toc-008.png"
+    }
+  ],
+  "summary": {
+    "tocEntries": 45
+  }
+}

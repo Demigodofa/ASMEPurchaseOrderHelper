@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 105,
+  "globalPageIndex": 903,
+  "width": 617.04,
+  "height": 795.6,
+  "text": "L \nASME BPVC.II.A-2025 SA-480/SA-480M (ASTM A480/A480M) \nTABLE A2.28 Permitted Variations in Weight for Hot-rolled or \nCold-rolled Coil Processed Product With Thickness \nLess Than 3 /,s in. [4.76 mm] \nAny item of five sheets or less, or any \nitem estimated to weigh 200 lb \n[90.72 kg] or less, may actually \nweigh as much as 1 O % over the \ntheoretical weight \nAny item of more than five sheets \nand estimated to weigh more than \n200 lb [90.72 kg], may actually \nweigh as much as 7\u00bd % over \nthe theoretical weight \nChromium-manganese-nickel \nChromium-nickel \nChromium \nweigh 200 lb [90.72 kg] or less \nweigh more than 200 lb [90.72 kg] \n40. 7 lb/tt 2 -in. thickness \n. [7.82 kg/m 2 -mm thick] \n42.0 lb/tt2-in. thickness \n[8.07 kg/m 2 -mm thick] \n41.2 lb/ft 2 -in. thickness \n[7.92 kg/m 2 -mm thick] \nTABLE A2.29 Permitted Variations in Camber for Cold-rolled Coil \nProcessed Product in Coils and Cut LengthsA \nSpecified Width, in. [mm] \nTo 1\u00bd [38.10], incl \nOver 1 1h to 24 [38.1 0 to 609.60], excl \nTolerance per Unit Length of \nAny 8 ft [2438 mm], in. [mm] \n\u00bd [12.70] \n\u00bc[6.35] \nA Camber is the deviation of a side edge from a straight line and measurement is \ntaken by placing an 8-ft [2438 mm] straightedge on the concave side and \nmeasuring the greatest distance between the strip edge and the straightedge. \nTABLE A2.30 Permitted Variations in Camber for Sheared Mill \nand Universal MIii PlatesA \nmaximum camber 1/a inches in any 5 fl \n3.18 mm in any 1.524 m \nA Camber is the deviation of a side edge from a straight line, and measurement is \ntaken by placing a 5-ft straightedge on the concave side and measuring the \ngreatest distance between the plate and the straightedge. \n803 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0903.json",
+  "tabulaTablesCsv": "tables_tabula/page-0903.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-0903.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1687,
+  "bestTextAlphaRatio": 0.6598
+}

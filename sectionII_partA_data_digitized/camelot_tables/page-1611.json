@@ -1,0 +1,724 @@
+[
+  {
+    "rows": [
+      [
+        "Welds  not  meeting",
+        "",
+        "these  requirements  shall  be  considered",
+        ""
+      ],
+      [
+        "minor welds.",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "TABLE 3 Welding  Consumables for  Use with  Grade C91  Castings",
+        "",
+        ""
+      ],
+      [
+        "Process",
+        "Specification",
+        "Classification",
+        ""
+      ],
+      [
+        "SMAW",
+        "A5.5/A5.5M",
+        "E90XX-B9",
+        ""
+      ],
+      [
+        "SAW",
+        "A5.23/A5.23M",
+        "EB9 + Neutral  Flux",
+        "as  shown in Table 5."
+      ],
+      [
+        "GTAW",
+        "A5.28/A5.28M",
+        "ER90S-B9",
+        ""
+      ],
+      [
+        "FCAW",
+        "A5.29/A5.29M",
+        "E91T1-B9",
+        ""
+      ]
+    ]
+  },
+  {
+    "rows": [
+      [
+        "",
+        "ASME  BPVC.II.A-2025",
+        "SA-1091/SA-1091M (ASTM A1091/A1091M)",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "9.  Permissible Variations  in Dimensions  of Centrifugally",
+        "TABLE  4 Chemical  Composition of Grade C933 Welding",
+        ""
+      ],
+      [
+        "",
+        "",
+        "ConsumablesA",
+        ""
+      ],
+      [
+        "",
+        "Cast Pipe",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Element",
+        "Weight%",
+        ""
+      ],
+      [
+        "",
+        "9 .1  Thickness-The wall thickness of centrifugally cast pipe \nCarbon",
+        "0.08-0.12",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Manganese \nshall not vary  over that specified by more than  Vs  in.  [3  mm].",
+        "0.70",
+        ""
+      ],
+      [
+        "",
+        "Phosphorus",
+        "0.025",
+        ""
+      ],
+      [
+        "",
+        "There shall be no variation under the specified wall thickness.",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Sulfur",
+        "0.012",
+        ""
+      ],
+      [
+        "",
+        "Silicon",
+        "0.60",
+        ""
+      ],
+      [
+        "",
+        "10.  Rework,  Welding,  and Retreatment \nNickel",
+        "0.60",
+        ""
+      ],
+      [
+        "",
+        "Chromium",
+        "8.0-9.5",
+        ""
+      ],
+      [
+        "",
+        "10.l  Defects, as  defined in Section 8,  shall be removed and",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Molybdenum",
+        "0.50",
+        ""
+      ],
+      [
+        "",
+        "Niobium \ntheir  removal  verified  by  visual  inspection  of  the  resultant",
+        "0.05-0.10",
+        ""
+      ],
+      [
+        "",
+        "Nitrogen",
+        "0.050",
+        ""
+      ],
+      [
+        "",
+        "cavities.  Defects  that  are  located  by  inspecting  with  supple",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Vanadium",
+        "0.18-0.25",
+        ""
+      ],
+      [
+        "",
+        "mentary requirements  specified in the order shall be removed",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Cobalt",
+        "2.75-3.50",
+        ""
+      ],
+      [
+        "",
+        "Tungsten \nor reduced to  an  acceptable  size.",
+        "2.25-3.00",
+        ""
+      ],
+      [
+        "",
+        "Boron",
+        "0.007-0.020",
+        ""
+      ],
+      [
+        "",
+        "10.2  If removal  of the  defect  does  not  impinge  upon  the",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "A  All  values are  maximums unless a  range  is  provided.",
+        ""
+      ],
+      [
+        "",
+        "minimum wall thickness, if applicable,  the depression may be",
+        "",
+        ""
+      ],
+      [
+        "",
+        "blended uniformly into the surrounding  surface.",
+        "",
+        ""
+      ],
+      [
+        "",
+        "10.3  Welding is permitted, subject to the following require",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "10.3.5  Major welds shall be subject to the prior approval of",
+        ""
+      ],
+      [
+        "",
+        "ments:",
+        "",
+        ""
+      ],
+      [
+        "",
+        "the  purchaser.",
+        "",
+        ""
+      ],
+      [
+        "",
+        "10.3.1  Only welders and procedures qualified in accordance",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "10.3.6  The  locations,  lengths,  widths,  and  depths  of major",
+        ""
+      ],
+      [
+        "",
+        "with ASME Boiler and Pressure Vessel Code, Section IX, shall",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "welds  shall be included in the material test report.",
+        ""
+      ],
+      [
+        "",
+        "be used.",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "10.3.7  When specified by the purchaser, the locations of all",
+        ""
+      ],
+      [
+        "",
+        "10.3.2  For Grade C91, all welding shall be made with one of",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "welds  shall be included in  the material test report.",
+        ""
+      ],
+      [
+        "",
+        "the processes  and consumables  shown in Table 3.  In addition,",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "10.3.8  Post-WeldHeatTreatmentforGrade C91-All welds",
+        ""
+      ],
+      [
+        "",
+        "the sum of the Ni + Mn content of all weld consumables used",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "shall be heat treated in  accordance  with  one  of the  following",
+        ""
+      ],
+      [
+        "",
+        "for  weld repair shall not exceed  1.0 %.",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "requirements,  as  applicable:",
+        ""
+      ],
+      [
+        "",
+        "10.3.3  For  Grade  C933,  close  matching  parent  chemistry",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "10.3.8.1  For  castings  for  which  re-austenitizing  does  not",
+        ""
+      ],
+      [
+        "",
+        "welding consumables shall be used,  such as AWS A5.5/A5.5M",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "lead  to  unacceptable  distortion,  defined  as  violation  of  the",
+        ""
+      ],
+      [
+        "",
+        "designation  B9015  H4,  matching  the  chemistry  in  Table  4.",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "tolerances  of  the  specification  or  contained  in  the  purchase",
+        ""
+      ],
+      [
+        "",
+        "Other undermatching electrodes may be agreed upon between",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "order,  the  following  shall  apply:  Castings  containing  a  weld",
+        ""
+      ],
+      [
+        "",
+        "the  purchaser  and  manufacturer  but  may  result  in  reduced",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "made  after  the  austenitizing  and  tempering  heat  treatment  in",
+        ""
+      ],
+      [
+        "",
+        "high-temperature  creep performance.",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "5.1  ~hall  be  re-austenitized  and  tempered  according \nto",
+        "the"
+      ],
+      [
+        "",
+        "~0.3.3.1  When  Supplementary  Requirement  S4  of Specifi",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "reqwrements  of 5.1.  Local heat treatment is  not permitted.",
+        ""
+      ],
+      [
+        "",
+        "~ation  ~703/A703M or A985/A985M for investment castings",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "10.3.8.2  For castings for which re-austenitizing does lead to",
+        ""
+      ],
+      [
+        "",
+        "1s  specified,  welds  shall  be  inspected  by  magnetic  particle",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "unacceptable  distortion, \nand  with \nthe  agreement  of",
+        "the"
+      ],
+      [
+        "",
+        "ex~nation to the same standards that are used to  inspect the",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "pur~haser,  in  lieu  of re-austenitizing  and  tempering,  the  fol",
+        ""
+      ],
+      [
+        "",
+        "castings.",
+        "",
+        ""
+      ],
+      [
+        "",
+        "lowmg  shall  apply:",
+        "",
+        ""
+      ],
+      [
+        "",
+        "~0.3.3.2  When  Supplementary  Requirement  S5  of Specifi",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "( 1) Welds shall be heat treated within the temperature range",
+        ""
+      ],
+      [
+        "",
+        "~ation ~703/A703M or A985/A985M for investment castings",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "~f  1350  to  1470 \u00b0F  [730  to  800 \u00b0C],  for  a minimum  holding",
+        ""
+      ],
+      [
+        "",
+        "1s  specified, welds on castings that have leaked on hydrostatic",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "time based on  the maximum thickness  of the  casting.",
+        ""
+      ],
+      [
+        "",
+        "test,  or o?  castings in which the  depth of any  cavity prepared",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "(2) Castings having a maximum thickness :S5  in.  [125 mm]",
+        ""
+      ],
+      [
+        "",
+        "for  weldmg  exceeds  20 %  of  the  wall \nthickness  or  1  in.",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "shall be held at temperature for  1 h per inch of thickness  [l h",
+        ""
+      ],
+      [
+        "",
+        "[25 _mm],  whichever  is  smaller,  or  on  castings  in  which  any",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "per 25  mm  of thickness],  except that 30 minutes  minimum is",
+        ""
+      ],
+      [
+        "",
+        "cavity  prepared  for  welding \nis  greater \nthan  approximately",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "permitted for  castings  having  a maximum thickness  less  than",
+        ""
+      ],
+      [
+        "",
+        "10 in.2  [65 cm2],  shall be radiographed to  the  same  standards",
+        "",
+        ""
+      ],
+      [
+        "",
+        "1 in.  [25  mm].",
+        "",
+        ""
+      ],
+      [
+        "''----'",
+        "that are  used to  inspect the castings.",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "( 3) Castings having a maximum thickness greater than 5 in.",
+        ""
+      ],
+      [
+        "",
+        "10.3.4  Welds  shall  be  considered  major  in  the  case  of a",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "[125 mm]  shall be held at temperature for 5 h, plus  15 minutes",
+        ""
+      ],
+      [
+        "",
+        "casting that has leaked on hydrostatic test, or when the depth of",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "for  each additional inch  [25  mm]  over 5 in.  [125  mm].",
+        ""
+      ],
+      [
+        "",
+        "the  cavity  prepared  for  welding  exceeds  20 %  of  the  wall",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "10.3.8.3  Local post-weld heat treatment is permitted only by",
+        ""
+      ],
+      [
+        "",
+        "thickness  or 1 in.  [25  mm],  whichever is  smaller,  or when the",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "agreement  between  the  producer  and  the  purchaser.  Process",
+        ""
+      ],
+      [
+        "",
+        "extent  of the  cavity  exceeds  approximately  10  in.2  [65  cm2].",
+        "",
+        ""
+      ],
+      [
+        "",
+        "requirements,",
+        "to  ensure \nthat",
+        "the  minimum  post-weld  heat"
+      ],
+      [
+        "",
+        "Welds  not  meeting \nthese  requirements  shall  be  considered",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "treatment is reached in welds and that the maximum post-weld",
+        ""
+      ],
+      [
+        "",
+        "minor welds.",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "heat treatment is  not exceeded anywhere on the casting,  shall",
+        ""
+      ],
+      [
+        "",
+        "",
+        "be as  agreed upon by the producer and the purchaser.",
+        ""
+      ],
+      [
+        "",
+        "TABLE 3 Welding  Consumables for  Use with  Grade C91  Castings",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "10.3.8.4  Castings  shall be designated as  Class  1 or Class  2",
+        ""
+      ],
+      [
+        "",
+        "Classification \nProcess \nSpecification",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "depending on the type of weld (see  10.3.4) and heat treatment'",
+        ""
+      ],
+      [
+        "",
+        "E90XX-B9 \nSMAW \nA5.5/A5.5M",
+        "",
+        ""
+      ],
+      [
+        "",
+        "EB9 + Neutral  Flux \nSAW \nA5.23/A5.23M",
+        "as  shown in Table 5.",
+        "'"
+      ],
+      [
+        "",
+        "ER90S-B9 \nGTAW \nA5.28/A5.28M",
+        "",
+        ""
+      ],
+      [
+        "",
+        "E91T1-B9 \nFCAW \nA5.29/A5.29M",
+        "~oTE  3-For Class 2 castings, ASME or other construction codes may",
+        ""
+      ],
+      [
+        "",
+        "",
+        "assign  allowable  stresses  or  pressure  ratings  different  from  and  more",
+        ""
+      ]
+    ]
+  }
+]

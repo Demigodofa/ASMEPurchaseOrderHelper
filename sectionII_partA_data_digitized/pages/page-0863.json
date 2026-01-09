@@ -1,0 +1,23 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 65,
+  "globalPageIndex": 863,
+  "width": 623.28,
+  "height": 800.52,
+  "text": "ASME BPVC.II.A-2025 \nTABLE 7 Test Specimen Dimensions \nNoTE 1- Surfaces marked 8 , finish to 8 \u00b5in. [0.2 \u00b5m] rms or better. \nNoTE 2-The difference between dimensions F and D shall not exceed \n0.0005 in. [0.01 mm] for specimens 1 or 2. The difference shall not exceed \n0.001 in. [0.02 mm] for specimens 3, 4, 5, or 6. \nNoTE 3-Taper the gage length G to the center so that the diameter D \nat the ends of the gage length exceeds the diameter at the center of the \ngage length by not less than 0.0005 in. [0.01 mm] nor more than 0.0015 \nin. [0.04 mm]. \nNoTE 4-All sections shall be concentric about the specimen axis \nwithin 0.001 in. [0.02 mm]. \nNoTE 5-Thread size T shall be equal to or greater than diameter H. \nNoTE 6-Dimensions A and B are not specified. \nNoTE 7-Length of shoulder C- 1/s + 1112 -0 in. [3.2 + 0.8 mm]. \nNoTE 8-Length of shoulder E-3/s + 1/32 -0 in. [10.0 + 0.8 mm]. \nMid-length \nGage Dia 0 Gage Shoulder \nSpecimen and Notch-Root Length, Diameter, Notch-Root \nType Dia F G H Radius \nInches \n0.125 0.5 0.177 0.005 \n2 0.160 0.65 0.226 0.005 \n3 0.178 0.75 0.250 0.005 \n4 0.252 1.0 0.375 0.007 \n5 0.357 1.5 0.500 0.010 \n6 0.505 2.0 0.750 0.015 \nTolerance \u00b10.001 \u00b10.05 \u00b10.003 \u00b10.0005 \nMillimetres \n7 3.17 12.0 4.5 0.13 \n8 4.06 17.0 5.5 0.13 \n9 4.52 20.0 6.5 0.13 \n10 6.40 25.0 9.5 0.18 \n11 9.07 40.0 12.0 0.25 \n12 12.8 50.0 19.0 0.38 \nTolerance \u00b10.025 \u00b11.3 \u00b10.1 \u00b10.01 \nTABLE 8 Permissible Variations in Size of Cold-Finished Bars \nSpecified Size, in. [mm] \nOver \u00bd to 1 [13 to 25], excl \n1 to 1 \u00bd [25 to 38], excl \n1 \u00bd to 4 [38 to 100], incl 8 \nPermissible Variations from Specified \nSize, in. [mm]A \nOver Under \n0.002 [0.05] 0.002 [0.05] \n0.0025 [0.06] 0.0025 [0.06] \n0.003 [0.08] 0.003 [0.08] \nA When it is necessary to heat treat or heat treat and pickle after cold finishing, \nbecause of special hardness or mechanical property requirements, the permissible \nvariations are generally double those shown in the table. \n8 For size tolerances of sizes over 4 in. [100 mm], the manufacturer should be \nconsulted. \n761 \nSA-453 /SA-453M ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0863.json",
+  "tabulaTablesCsv": "tables_tabula/page-0863.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0863.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2046,
+  "bestTextAlphaRatio": 0.522,
+  "gapOcrHighDpiPath": "gap_ocr_highdpi/page-0863.txt",
+  "gapOcrHighDpiLength": 2056,
+  "camelotTablesPath": "camelot_tables/page-0863.json",
+  "camelotTablesCsv": "camelot_tables/page-0863.csv",
+  "camelotTableCount": 2
+}

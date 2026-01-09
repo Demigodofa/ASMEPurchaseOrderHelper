@@ -1,0 +1,82 @@
+-~ 
+ASME BPVC.II.A-2025 SA-813/SA-813M 
+TABLE 1 Dimensions of Welded and Seamless Stainless Steel PipeA 
+NoTE 1-Table 1 is based on Table number 1 of the American National Standard for Stainless Steel Pipe (ANSI B36.19-1965). 
+NoTE 2-The decimal thickness listed for the respective pipe sizes represents their nominal or average wall dimensions. 
+Outside Diameter Nominal Wall Thickness 
+NPS Desig- Schedule 5S 8 Schedule 10S 8 Schedule 40S Schedule 80S nator in, mm 
+in. mm in. mm in. mm in. mm 
+1/a 0.405 10.29 0.049G 1.24 0.068 1.73 0.095 2.41 
+¼ 0.540 13.72 0.065c 1.65 0.088 2.24 0.119 3.02 
+% 0.675 17.15 0.065c 1.65 0.091 2.31 0.126 3.20 
+½ 0.840 21.34 0.065c 1.65 0.083G 2.11 0.109 2.77 0.147 3.73 
+% 1.050 26.67 0.065c 1.65 0.083G 2.11 0.113 2.87 0.154 3.91 
+1.0 1.315 33.40 0.065c 1.65 0.109G 2.77 0.133 3.38 0.179 4.55 
+1¼ 1.660 42.16 0.065c 1.65 0.109G 2.77 0.140 3.56 0.191 4.85 
+1½ 1.900 48.26 0.065c 1.65 0.109c 2.77 0.145 3.68 0.200 5.08 
+2 2.375 60.33 0.065c 1.65 0.109G 2.77 0.154 3.91 0.218 5.54 
+2½ 2.875 73.03 0.083 2.11 0.120c 3.05 0.203 5.16 0.276 7.01 
+3 3.500 88.90 0.083 2.11 0.120c 3.05 0.216 5.49 0.300 7.62 
+3½ 4.000 101.60 0.083 2.11 0.120c 3.05 0.226 5.74 0.318 8.08 
+4 4.500 114.30 0.083 2.11 0.120c 3.05 0.237 6.02 0.337 8.56 
+5 5.563 141.30 0.109G 2.77 0.134c 3.40 0.258 6.55 0.375 9.52 
+6 6.625 168.28 0.109 2.77 0.134G 3.40 0.280 7.11 0.432 10.97 
+8 8.625 219.08 0.109G 2.77 0.148G 3.76 0.322 8.18 0.500 12.70 
+10 10.750 273.05 0.134G 3.40 0.165G 4.19 0.365 9.27 0.5ooc 12.70G 
+12 12.750 323.85 0.156G 3.96 0.180c 4.57 0.375G 9.52G 0.5ooc 12.70G 
+14 14.000 355.60 0.156G 3.96 0.188 4.78 
+16 16.000 406.40 0.165G 4.19 0.188 4.78 
+18 18.000 457.20 0.165G 4.19 0.188 4.78 
+20 20.000 508.00 0.188G 4.78 0.218G 5.54 
+22 22.000 558.80 0.188G 4.78 0.218G 5.54 
+24 24.000 609.60 0.215c 5.54 0.250 6.35 
+30 30.000 762.00 0.250 6.35 0.312 7.92 
+AFor pipe sizes not listed, the dimensions and tolerances shall be by agreement between the purchaser and producer. 
+8 Schedules 5S and 10S wall thicknesses do not permit threading in accordance with the American National Standard for Pipe Threads (ANSI 81.20.1). 
+~hese do not conform to the American National Standard for Welded and Seamless Wrought Steel Pipe (ANSI 836.10-1979). 
+2.2 ANSI Standards: 
+Bl.20.1 Pipe Threads, General Purpose 
+B31.3 Chemical Plant and Refinery Piping Code 
+B36.10 Welded and Seamless Wrought Steel Pipe 
+B36.19 Stainless Steel Pipe 
+2.3 ASME Boiler and Pressure Vessel Code: 
+Section vm Division 1, Pressure Vessels 
+2.4 Other Standard: 
+SAE Jl086 Practice for Numbering Metals and Alloys 
+(UNS) 
+SNT-TC- lA Personnel Qualification and Certification in 
+Nondestructive Testing 
+3. Ordering Information 
+3.1 Orders for material under this specification should 
+include the following as required, to describe the desired 
+material adequately: 
+3.1.1 Quantity (feet, centimetres, or number of lengths), 
+3.1.2 Name of material (austenitic steel pipe), 
+3.1.3 Class (1.3). If not specified by the purchaser, the 
+producer shall have the option to furnish either single-welded 
+(SW) or double-welded (OW) pipe, 
+3.1.4 Grade (Table 2), 
+3 .1.5 Size (NPS or outside diameter and schedule number or 
+average wall thickness), 
+3.1.6 Length (specific or random), (Section 9), 
+3.1.7 End finish (section on Ends of Specification A999/ 
+A999M), 
+3.1.8 Optional requirements (hydrostatic or nondestructive 
+electric test, Section 13,) (Supplementary Requirements Sl to 
+S6), 
+3.1.9 Test report required (Section on Certification of Speci­
+fication A999/ A999M), 
+3.1.10 Specification number, and 
+3 .1.11 Special requirements or exceptions to the specifica­
+tion. 
+4. Materials and Manufacture 
+4.1 Manufacture: 
+4.1.1 The pipe shall be made by a machine-welding or an 
+automatic-welding process, welding from one or both sides and 
+producing full penetration welds with no addition of filler 
+metal in the welding operation. 
+4.1.2 Weld repairs, with the addition of compatible filler 
+metal, may be made to the weld joint in accordance with the 
+requirements of the section on Repair by Welding of Specifi­
+cation A999/A999M. 
+1315 

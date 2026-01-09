@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 305,
+  "globalPageIndex": 1103,
+  "width": 617.04,
+  "height": 795.6,
+  "text": "ASME BPVC.II.A-2025 SA-568/SA-568M (ASTM AS68/A568M) \nTABLE X5.2 Flatness Conversion FactorsA \nNOTE 1-\"L\" is the wave interval as defined in Fig. XS.1 (a). \n/Unit Height % Steep-\nness \n/Unit (I) 2 L ~ \nit ~ \\fTTo-1 it \nHeight (H) \n( Hit)\" (100H) \n(peak to 2L 10 5 -L-\npeak) \n% Steep- 2.5 (it S) 2 \n(LS) \nness (S) 100 \nA Examples-( 1) Assume % steepness is given as 1.5 and the corresponding \nI-unit value is desired. From Table X5.2, I= 2.5(itS) 2 = 2.5((3.14)(1.5)] 2 = 55.5. \n(2) Assume an I-unit value of 25 is given and the corresponding % steepness is \ndesired. From Table X5.2, S = 2/it(/ x 10- 1 ) 112 = 2/3.14 (25 x 10- 1 ) 112 = 1.0. \nSUMMARY OF CHANGES \nCommittee A0l has identified the location of selected changes to this standard since the last issue \n(A568/A568M- 19) that may impact the use of this standard. (Approved Nov. 1, 2019.) \n( 1) Revised 1.4 to clarify that the values to be rounded are \nmeasured, calculated, or observed values. \n(2) Added 1.4.1 to differentiate ordered values, which are \nfixed, from measured, calculated, or observed values, which \nare subject to rounding. \nCommittee A0l has identified the location of selected changes to this standard since the last issue \n(A568/A568M - 17a) that may impact the use of this standard. (Approved Sept. 1, 2019.) \n( 1) Added flatness tolerances for yield strength greater than \n50 min ksi (340 MPa) to Table 13, Table 14, Table Al.10, and \nTable Al.11. \nASTM International takes no position respecting the validity of any patent rights asserted in connection with any item mentioned \nin this standard. Users of this standard are expressly advised that determination of the validity of any such patent rights, and the risk \nof infringement of such rights, are entirely their own responsibility. \nThis standard is subject to revision at any time by the responsible technical committee and must be reviewed eve,y five years and \nif not revised, either reapproved or withdrawn. Your comments are invited either for revision of this standard or for additional standards \nand should be addressed to ASTM International Headquarters. Your comments will receive careful consideration at a meeting of the \nresponsible technical committee, which you may attend. If you feel that your comments have not received a fair hearing you should \nmake your views known to the ASTM Committee on Standards, at the address shown below. \nThis standard is copyrighted by ASTM International, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428-2959, \nUnited States. Individual reprints (single or multiple copies) of this standard may be obtained by contacting ASTM at the above \naddress or at 610-832-9585 (phone), 610-832-9555 (fax), or service@astm.org (e-mail); or through the ASTM website \n(www.astm.org). Permission rights to photocopy the standard may also be secured from the Copyright Clearance Center, 222 \nRosewood Drive, Danvers, MA 01923, Tel: (978) 646-2600; http://www.copyright.com/ \n1007 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 1,
+  "tabulaTablesPath": "tables_tabula/page-1103.json",
+  "tabulaTablesCsv": "tables_tabula/page-1103.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-1103.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2969,
+  "bestTextAlphaRatio": 0.6945
+}

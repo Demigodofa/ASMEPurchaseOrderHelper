@@ -1,0 +1,78 @@
+ASME BPVC.II.A-2025 SA-213/SA-213M (ASTM A213/A213M) 
+TABLE 6 Permitted Variations in Average Wall Thickness for Hot 
+Formed Tubes 
+Tolerance in %, from specified 
+Specified Outside 
+Diameter, in. [mm] 
+Over Under 
+0.405 to 2.875 [10.3 to 
+73.0] incl, all t/D 
+ratiosA 
+Above 2.875 [73.0], 
+t/D ,s; 5 %A 
+Above 2.875 [73.0], 
+t/D > 5 %A 
+20 
+22.5 
+15 
+12.5 
+12.5 
+12.5 
+A t = specified wall thickness D = specified outside diameter 
+TABLE 7 Number of Tubes in a Lot Heat Treated by the 
+Continuous Process or by Direct Quench After Hot Forming 
+Size of Tube 
+2 in. [50.8 mm] and over in outside 
+diameter and 0.200 in. [5.1 mm] and over 
+in wall thickness 
+2 in. [50.8 mm] and over in outside 
+diameter and 
+under 0.200 in. [5.1 mm] in wall thickness 
+Less than 2 in. [50.8 mm] but over 1 in. 
+[25.4 mm] in outside diameter 
+1 in. [25.4 mm] or less in outside diameter 
+final heat treatment is in a batch-type furnace, a lot shall 
+include only those tubes of the same size and from the same 
+heat that are heat treated in the same furnace charge. When the 
+final heat treatment is in a continuous furnace or when the 
+heat-treated condition is obtained directly by quenching after 
+hot forming, the number of tubes of the same size and from the 
+same heat in a lot shall be determined from the size of the tubes 
+as prescribed in Table 7. 
+15.2 For tensile and hardness test requirements, the term lot 
+applies to all tubes prior to cutting, of the same size (see 4.1.7) 
+that are produced from the same heat of steel. When final heat 
+treatment is in a batch-type furnace, a lot shall include only 
+those tubes of the same size and the same heat that are heat 
+treated in the same furnace charge. When the final heat 
+treatment is in a continuous furnace, or when the heat-treated 
+condition is obtained directly by quenching after hot forming, 
+a lot shall include all tubes of the same size and heat, heat 
+treated in the same furnace at the same temperature, time at 
+heat, and furnace speed; or all tubes of the same size and heat, 
+hot formed and quenched in the same production run, except as 
+prescribed in 9.1.3. 
+Size of Lot 
+not more than 50 tubes 
+not more than 75 tubes 
+not more than 75 tubes 
+not more than 125 tubes 
+16. Product Marking 
+16.1 In addition to the marking prescribed in Specification 
+A1016/A1016M, the marking shall include: the condition, hot 
+finished or cold finished; and the wall designation, minimum 
+wall or average wall. 
+16.2 For the austenitic stainless steels having a grain size 
+requirement (see Table 3) the marking shall also include the 
+heat number and heat-treatment lot identification. 
+16.3 When either T2 or T12 are ordered with higher sulfur 
+contents as permitted by Note B of Table 1, the marking shall 
+include the letter, S, following the grade designation: T2S or 
+T12S. 
+16.4 For T91, the marking shall also include the type. 
+17. Keywords 
+17.1 alloy steel tubes; austenitic stainless steel; boiler tubes; 
+ferritic stainless steel; heat exchanger tubes; high-temperature 
+applications; seamless steel tubes; steel tubes; superheater 
+tubes; temperature service applications-high 
+291 

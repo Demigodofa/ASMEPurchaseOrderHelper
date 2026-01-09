@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 89,
+  "globalPageIndex": 89,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "ASME BPVC.II.A-2025 \nTABLE A1.6 Permitted Variations in Diameter for Sheared Circular Plates 25 mm and Under in Thickness \nSpecified Diameters, mm Permitted Variations Over Specified \nDiameter for Thicknesses Given in Millimetres, mmA \nSA-6/SA-6M \nTo 10, excl 1 0 to 16, excl 16 to 25, incl \nTo 800, excl \n800 to 2100, excl \n21 oo to 2700, excl \n2700 to 3300, excl \n3300 and over \nA No permitted variation under specified diameter. \n6 \n8 \n10 \n11 \n13 \n10 \n11 \n13 \n14 \n16 \n13 \n14 \n16 \n17 \n19 \nTABLE A1.7 Permitted Variations in Diameter for Gas-Cut Circular Plates (Not Applicable to Alloy Steel) \nPermitted Variation Over Specified Diameter \nSpecified \nfor Thicknesses Given, mmA \nDiameters, mm To 25, 25 to 50 to 100 to 150 to \n50, 100, 150, 200, excl excl excl excl excl \nTo 800, excl 10 10 13 13 16 \n800 to 2100, excl 10 13 13 16 19 \n2100 to 2700, exc/ 13 14 16 19 22 \n2700 to 3300, exc/ 13 14 17 22 25 \n3300 and over 16 19 22 25 29 \nA No permitted variations under specified diameter. \n200 to \n400, \nincl \n19 \n22 \n25 \n29 \n32 \nTABLE A1.8 Permitted Variations in Width and Length for Rectangular Plates When Gas Cutting is Specified or Required (Applies to \nAlloy Steel Specifications Only) \nNoTE I-Plates with universal rolled edges will be gas cut to length only. \nNoTE 2-These pem1itted variations shall be taken all under or divided over and under, if so specified. \nSpecified Thickness, mm \nTo 50, excl \n50 to 100, excl \n100 to 150, excl \n150 to 200, excl \n200 to 400, excl \nPermitted Variation Over Specified \nWidth and Length, mm \n19 \n25 \n29 \n33 \n38 \nTABLE A1.9 Permitted Variations in Width and Length for Rectangular Plates When Gas Cutting is Specified or Required (Not \nApplicable to Alloy Steel) \nNoTE I-Plates with universal rolled edges will be gas cut to length only. \nSpecified Thickness, mm \nTo 50, excl \n50 to 100, excl \n100 to 150, exc/ \n150 to 200, excl \n200 to 400, incl \nA These permitted variations shall be taken all under or divided over and under, if so specified. \n37 \nPermitted Variation Over \nSpecified Width \nand Length, mmA \n13 \n16 \n19 \n22 \n25 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0089.json",
+  "tabulaTablesCsv": "tables_tabula/page-0089.csv",
+  "tabulaTableCount": 2,
+  "bestTextPath": "best_text\\pages\\page-0089.txt",
+  "bestTextSource": "full_ocr_highdpi",
+  "bestTextLength": 2094,
+  "bestTextAlphaRatio": 0.619
+}

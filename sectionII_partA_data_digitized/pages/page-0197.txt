@@ -1,0 +1,116 @@
+.--. 
+ASME BPVC.II.A-2025 SA-53/SA-53M 
+9.2.4 For eddy current testing, the calibration pipe shall 
+contain, at the option of the manufacturer, any one of the 
+following calibration standards to establish a minimum sensi­
+tivity level for rejection. 
+9.2.4.1 Drilled Hole-The calibration pipe shall contain 
+three holes spaced 120° apart or four holes spaced 90° apart, 
+sufficiently separated longitudinally to ensure separately dis­
+tinguishable responses. The holes shall be drilled radially and 
+completely through the pipe wall, care being taken to avoid 
+distortion of the pipe while drilling. Dependent upon the 
+nominal pipe size, the calibration pipe shall contain the 
+following hole: 
+NPS DN Diameter of Drilled Hole 
+:51/2 :,; 15 0.039 In. [1.0 mm] 
+> ½ :5 1¼ > 15 :,; 32 0.055 in. [1.4 mm] 
+> 1¼:,; 2 >32:550 0.071 in. [1.8 mm] 
+> 2:,; 5 > 50:,; 125 0.087 in. [2.2 mm] 
+>5 > 125 0.106 in. [2.7 mm] 
+9.2.4.2 Transverse Tangential Notch-Using a round tool or 
+file with a ¼ in. [6 mm] diameter, a notch shall be filed or 
+milled tangential to the surface and transverse to the longitu­
+dinal axis of the pipe. The notch shall have a depth not 
+exceeding 12.5 % of the specified wall thickness of the pipe or 
+0.012 in. [0.3 mm], whichever is the greater. 
+9.2.4.3 Longitudinal Notch-A notch 0.031 in. [0.8 mm] or 
+less in width shall be machined in a radial plane parallel to the 
+pipe axis on the outside surface of the pipe, to a depth not 
+exceeding 12.5 % of the specified wall thickness of the pipe or 
+0.012 in. [0.3 mm], whichever is the greater. The length of the 
+notch shall be compatible with the testing method. 
+9.2.4.4 Compatibility-The calibration standards in the cali­
+bration pipe shall be compatible with the testing equipment and 
+the method being used. 
+9.2.5 For flux leakage testing, the longitudinal calibration 
+reference notches shall be straight-sided notches machined in a 
+radial plane parallel to the pipe axis. For specified wall 
+thicknesses less than 0.500 in. [12.7 mm], outside and inside 
+notches shall be used. For specified wall thicknesses equal to or 
+greater than 0.500 in. [12.7 mm], only an outside notch shall be 
+used. The notch depth shall not exceed 12.5 % of the specified 
+wall thickness, or 0.012 in. [0.3 mm], whichever is the greater. 
+The notch length shall not exceed 1 in. [25 mm], and the notch 
+width shall not exceed the notch depth. Outside diameter and 
+inside diameter notches shall be located sufficiently apart to 
+allow separation and identification of the signals. 
+9.2.6 Pipe containing one or more imperfections that pro­
+duce a signal equal to or greater than the signal produced by the 
+calibration standard shall be rejected or the area producing the 
+signal shall be rejected. 
+9.2.6.1 Test signals produced by imperfections that cannot 
+be identified, or produced by cracks or crack-like 
+imperfections, shall result in rejection of the pipe, unless it is 
+repaired and retested. To be accepted, the pipe shall pass the 
+same specification test to which it was originally subjected and 
+the remaining wall thickness shall not have been decreased 
+below that permitted by the specification. It shall be permis­
+sible to reduce the outside diameter at the point of grinding by 
+the amount so removed. 
+9.2.6.2 It shall be permissible to evaluate test signals pro­
+duced by visual imperfections in accordance with the provi­
+sions of Section 12. A few examples of such imperfections are 
+straightener marks, cutting chips, scratches, steel die stamps, 
+stop marks, or pipe reducer ripple. 
+9.2.7 The test methods described in Section 9 are not 
+necessarily capable of inspecting the end portion of pipes. This 
+condition is referred to as end effect. The length of the end 
+effect shall be determined by the manufacturer and, if specified 
+in the purchase order, reported to the purchaser. 
+10. Permissible Variations in Weight (Mass) and 
+Dimensions 
+10.1 Weight (Mass)-The weight (mass) of the pipe shall 
+not vary more than± 10 % from its specified weight (mass), as 
+derived by multiplying its measured length by its specified 
+weight (mass) per unit length, as given in Table X2.2 or Table 
+X2.3, or as calculated using the relevant equation in ASME 
+B36.10M. 
+No'!B 6-For pipe NPS 4 [DN 100] or smaller, the weight (mass) 
+tolerance is applicable to the weights (masses) of the customary lifts of 
+pipe as produced for shipment by the mill. For pipe larger than NPS 4 [DN 
+100], where individual lengths are weighed, the weight (mass) tolerance is 
+applicable to the individual lengths. 
+10.2 Diameter-For pipe NPS 1 ½ [DN 40] or smaller, the 
+outside diameter at any point shall not vary more than ± 1/64 in. 
+[0.4 mm] from the specified outside diameter. For pipe NPS 2 
+[DN 50] or larger, the outside diameter shall not vary more 
+than ± 1 % from the specified outside diameter. 
+10.3 Thickness-The minimum wall thickness at any point 
+shall be not more than 12.5 % under the specified wall 
+thickness. The minimum wall thickness on inspection shall 
+conform to the requirements given in Table X2.4. 
+11. End Finish 
+11.1 If ordered with plain ends, the pipe shall be furnished 
+to the following practice, unless otherwise specified. 
+11.1.1 NPS 1½ [DN 40] or Smaller-Unless otherwise 
+specified in the purchase order, end finish shall be at the option 
+of the manufacturer. 
+11.1.2 Larger than NPS l½ [DN 40]: 
+11.1.2.1 Pipe of standard-weight or extra-strong weight, or 
+in wall thickness less than 0.500 in. [12.7 mm], other than 
+double extra-strong weight pipe, shall be plain-end beveled 
+with ends beveled to an angle of 30°, +5°, -0°, measured from 
+a line drawn perpendicular to the axis of the pipe, and with a 
+root face of 1/16 in. ± 1/32 in. [1.6 mm ± 0.8 mm]. 
+145 
+11.1.2.2 Pipe with a specified wall thickness greater than 
+0.500 in. [12.7 mm], and all double extra-strong weight pipe, 
+shall be plain-end square cut. 
+11.2 If ordered with threaded ends, the pipe ends shall be 
+provided with a thread in accordance with the gaging practice 
+and tolerances of ANSI B 1.20.1. For standard-weight pipe NPS 
+6 [DN 150] or smaller, refer to Table X3.l for threading data. 
+For standard-weight pipe NPS 8 [DN 200] or larger and all 
+sizes of extra-strong weight pipe and double extra-strong 
+weight pipe, refer to Table X3.2 for threading data. Threaded 

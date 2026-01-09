@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 747,
+  "globalPageIndex": 747,
+  "width": 602.64,
+  "height": 846.48,
+  "text": "ASME BPVC.II.A-2025 SA-414/SA-414M \nsource of the material is the coil used to qualify the lot, the \nmiddle test shall be reported as the second middle test on the \nreport. The test report shall contain the results of four tensile \ntests and all must meet the requirements tensile requirements \ntable. \n10.3 A signature is not required on the test report. However, \nthe document shall clearly identify the organization submitting \nthe report. Notwithstanding the absence of a signature, the \norganization submitting the report is responsible for the content \nof the report. \n10.4 A Material Test Report, Certificate of Inspection, or \nsimilar document printed from or used in electronic form from \nan electronic data interchange (EDI) transmission shall be \nregarded as having the same validity as a counterpart printed in \nthe certifier's facility. The content of the EDI transmitted \ndocument must meet the requirements of the invoked ASTM \nstandard and the purchaser and supplier. Notwithstanding the \nabsence of a signature, the organization submitting the EDI \ntransmission is responsible for the content of the report. \n11. Product Marking \n11.1 The name or brand of the manufacturer, heat and slab \nnumber, specification designation number, and grade shall be \nlegibly and durably marked on each cut length sheet in two \nplaces not less than 12 in. [300 mm] from the edges. Cut length \nsheets, the maximum lengthwise and crosswise, dimensions of \nwhich do not exceed 72 in. [1800 mm], shall be legibly and \ndurably marked in one place approximately midway between \nthe center and a side edge. The manufacturer's test identifica\u00ad\ntion number shall be legibly and durably marked on each test \nspecimen. Steel-die marking of sheets is prohibited on material \n< 0.250 in. [6 mm]. \n11.2 For coil product, the information required in 11.1 shall \nbe legibly and durably marked both on each coil and on a tag \naffixed to each coil. \n12. Keywords \n12.1 carbon steel sheet; pressure vessel steels; steel sheet \n697 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-0747.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2012,
+  "bestTextAlphaRatio": 0.7689
+}

@@ -1,0 +1,20 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 239,
+  "globalPageIndex": 1037,
+  "width": 634.08,
+  "height": 809.4,
+  "text": "ASME BPVC.II.A-2025 SA-543/SA-543M \n4. Manufacture \n4.1 Steelmaking Practice - The steel shall b~ killed \nand shall conform to the fine austenitic grain size require\u00ad\nment of Specification A 20/ A 20M. \n5. Heat Treatment \n5.1 All plates shall be heat treated by heating to a \nsuitable austenitizing temperature, holding for a sufficient \ntime period to attain uniform temperature through the thick\u00ad\nness and quenching in a suitable liquid medium by spraying \nor immersion. The plates shall then be tempered to produce \nthe required properties by heating to a suitable temperature \nnot lower than 1100\u00b0P [595\u00b0C] with a holding time of not \nless than \u00bd h/in. [1.2 min/mm] of thickness but not less \nthan\u00bd h. \n5.2 Plates over 4 in. [100 mm] in thickness shall receive \na prior treatment of normalizing at, or water quenching \nfrom a temperature within the range from 1650 to 1850\u00b0P \n[900 to 1010\u00b0C] before the heat treatment specified in 5.1. \n5.3 When the fabricator elects to perform the heat \ntreatment in 5.1 and 5.2, the manufacturer shall normalize \nthe plates at an appropriate temperature prior to shipment \nunless otherwise agreed to. \nTABLE 1 \nCHEMICAL REQUIREMENTS \nComposition, % \nElement \nCarbon, maxA \nManganese, maxA \nPhosphorus, maxA \nSulfur, maxA \nSilicon: \nType B \n0.20 \n0.40 \n0.020 \n0.020 \nType C \n0.18 \n0.40 \n0.020 \n0.020 \n6. Chemical Requirements \n6.1 The steel shall conform to the chemical require\u00ad\nments shown in Table 1 unless otherwise modified in accor\u00ad\ndance with Supplementary Requirement S 17, Vacuum \nCarbon-Deoxidized Steel, in Specification A 20/ A 20M. \n7. Mechanical Requirements \n7.1 Tension Test Requirements: \n7.1.1 The material as represented by the tension-test \nspecimens shall conform to the requirements shown in \nTable 2. \n7.1.2 Fornominal plate thicknesses of\u00be in. [20 mm] \nand under, the 1\u00bd in. [40 mm] wide rectangular specimen \nmay be used for the tension test and the elongation may \nbe determined in a 2 in. [50 mm] gage length that includes \nthe fracture and shows the greatest elongation. \n8. Keywords \n8.1 alloy steel; alloy steel plate; pressure containing \nparts; pressure vessel steels; steel plates; steel plates for \npressure vessels \nTABLE 2 \nTENSILE REQUIREMENTS \nClass 1 Class 2 \nTensile strength, ksi [M Pa] 105-125 115-135 \n[725-860] [795-930] \nYield strength, min, ksi 85 [585] 100 [690] \nCMPaJ \nElongation, 2 in. [50 mmJ, 14 14 \nmin, %A, 8 \nClass 3 \n90-115 \n[620-795] \n70 [485] \n16 \n- - - ________ H~at_aQiilysi_s 0.15-0.40 0.15-0.40 A See 7.1.2. \nProduct analysis \nNickel: \nO.I.3=-o:4S- - - - - 0:13-\"0.-4-5 - - - ~ - 8 S-ee--Speci1icat-ion-A-20/A---2GM-for eloogation_adjusim__e_n:t. __ \nHeat analysis \nProduct analysis \nChromium: \nHeat analysis \nProduct analysis \nMolybdenum: \nHeat analysis \nProduct analysis \n2.25-4.00 \n2.18-4.07 \n1.00-1.90 \n0.94-1.96 \n0.20-0.65 \n0.16-0.69 \nA Applies to both heat and product analyses. \n2.00-3.50 \n1.93-3.57 \n1.00-1.90 \n0.94-1.96 \n0.20-0.65 \n0.16-0.69 \n937 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1037.json",
+  "tabulaTablesCsv": "tables_tabula/page-1037.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text\\pages\\page-1037.txt",
+  "bestTextSource": "full_ocr_highdpi",
+  "bestTextLength": 2882,
+  "bestTextAlphaRatio": 0.656,
+  "gapOcrHighDpiPath": "gap_ocr_highdpi/page-1037.txt",
+  "gapOcrHighDpiLength": 2859
+}

@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 764,
+  "globalPageIndex": 1562,
+  "width": 613.92,
+  "height": 793.2,
+  "text": "SA-1008/SA-1008M (ASTM A1008/A1008M) ASME BPVC.II.A-2025 \nX2.RELATEDISOSTANDARDS \nX2.1 The ISO standards listed below may be reviewed for \ncomparison with this ASTM standard. The relationship be\u00ad\ntween the standards may only be approximate; therefore, the \nrespective standards should be consulted for actual require\u00ad\nments. Those who use these documents must determine which \nspecifications address their needs. \nX2.1.1 ISO 3574 Cold-Reduced Carbon Steel Sheet of \nCommercial and Drawing Qualities. \nX2.1.2 ISO 4997 Cold-Reduced Steel Sheet of Structural \nQuality. \nX2.1.3 ISO 13887 Cold-Reduced Steel Sheet of Higher \nStrength with Improved Formability. \nX3. HARDNESS PROPERTIES \nX3.l See Table X3.1 for typical hardness property values. \nTABLE X3.1 Typical Hardness Values \nNOTE 1-The hardness values shown are at the time of shipment. \nNOTE 2-Test for hardness shall be conducted in accordance with the \nrequirements of Test Methods El 8. \nNorn 3-The hardness values are Rockwell B scale as measured or \nconverted from the appropriate Rockwell scales. \nNorn 4--The typical hardness values apply to the full range of steel \nsheet thickness. Hardness tends to increase as the steel sheet thickness \ndecreases. \nNOTE 5-Hardness testing is commonly used to assess the relative \nformability of various designations of uncoated steel sheet. This assess\u00ad\nment done by many users is recognized to be only an approximation of the \nrelative formability and therefore cannot be used as a specification \nrequirement. \nDesignation \nCS Type A \nCS Type B \nCS Type C \nDS Type A \nDS Type B \nDDS \nEDDS \n1508 \nHardness\u00ad\nRockwell B Scale \n70 or less \n70 or less \n70 or less \n60 or less \n60 or less \n55 or less \n45 or less ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 3,
+  "tabulaTablesPath": "tables_tabula/page-1562.json",
+  "tabulaTablesCsv": "tables_tabula/page-1562.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-1562.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1706,
+  "bestTextAlphaRatio": 0.7479
+}

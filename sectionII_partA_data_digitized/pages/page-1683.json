@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 885,
+  "globalPageIndex": 1683,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "ASME BPVC.11.A-2025 \nTable IV-800-1 \nASTM Test Methods and Units for Reporting \nU.S. Customary Metric \nASTM U.S. Customary Significant Significant \nDesignation Title Property Units Figures Metric Units Figures \nA370 Standard Test Methods and Tensile strength and ksi 3 ... ... \nDefinitions for Mechanical yield strength \nTesting of Steel Products \nA1058 Standard Test Methods for Tensile strength and ... ... MPa 3 \nMechanical Testing of Steel yield strength \nProducts-Metric \nD2766 Standard Test Method for Specific heat [Note Btu/lb-\u00b0F 3 J/kg-K 3 \nSpecific Heat of Liquids and (1)] \nSolids \nEB Standard Test Methods for Tensile strength and ksi 3 MPa 3 \nTension Testing of Metallic yield strength \nMaterials Density lb/in.3 3 kg/m 3 4 \nE21 Standard Test Methods for Tensile strength and ksi 3 MPa 3 \nElevated Temperature yield strength \nTension Tests of Metallic \nMaterials \nE132 Standard Test Method for Poisson's ratio ... 2 ... 2 \nPoisson's Ratio at Room \nTemperature \nE139 Standard Test Methods for Rupture time hr 5 h 5 \nConducting Creep, \nCreep-Rupture, and \nStress-Rupture Tests of \nMetallic Materials \nE228 Standard Test Method for Instantaneous (in./in./\u00b0F) x 10\u00b7 6 3 (mm/mmf\u00b0C) x 10\" 6 3 \nLinear Thermal Expansion coefficient \nof Solid Materials With a Mean linear (in./in./\u00b0F) x 10\u00b7 6 (mm/mmf\u00b0C) x 10\u00b7 6 \nPush-Rod Dilatometer coefficient \nLinear coefficient in./100 ft mm/m \nE289 Standard Test Method for Instantaneous in./in./\u00b0F x 10\u00b7 6 3 (mm/mm/\u00b0C) x 10\u00b7 6 3 \nLinear Thermal Expansion coefficient \nof Rigid Solids With Mean coefficient in./in./\u00b0F x 10\u00b7 6 (mm/mm/\u00b0C) x 10\u00b7 6 \nInterferometry Linear coefficient in./100 ft mm/m \nE831 Standard Test Method for Instantaneous (in./in./\u00b0F) x 10\u00b7 6 3 (mm/mmf\u00b0C) x 10\u00b7 6 3 \nLinear Thermal Expansion coefficient \nof Solid Materials by Mean linear (in./in./ 0 F) x 10\u00b7 6 (mm/mm/\u00b0C) x 10\u00b7 6 \nThermomechanical coefficient \nAnalysis Linear coefficient in./100 ft mm/m \nE1225 Standard Test Method for Thermal conductivity Btu/hr-ft-\u00b0F 3, except 2 for W/m x \u00b0C 4, except 3 for \nThermal Conductivity of X < 10 X < 100 \nSolids Using the \nGuarded-Comparative-Lo-\nngitudinal Heat Flow \nTechnique \nE1461 Standard Test Method for Thermal diffusivity ft 2 /hr 3 m 2 /sec x 10\u00b7 6 3 \nThermal Diffusivity by the Thermal conductivity Btu/hr-ft-\u00b0F 3, except 2 for W/m x \u00b0C 4, except 3 for \nFlash Method X < 10 X < 10 \nE1875 Standard Test Method for Modulus of elasticity psi X 10 6 3 MPa x 10 3 3 \nDynamic Young's Modulus, \nShear Modulus, and \nPoisson's Ratio by Sonic \nResonance \nNOTE: \n(1) Specific heat is not published but may be used to calculate thermal diffusivity from thermal conductivity. \n1629 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 1,
+  "tabulaTablesPath": "tables_tabula/page-1683.json",
+  "tabulaTablesCsv": "tables_tabula/page-1683.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-1683.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2642,
+  "bestTextAlphaRatio": 0.6957
+}

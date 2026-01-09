@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 78,
+  "globalPageIndex": 78,
+  "width": 617.04,
+  "height": 795.6,
+  "text": "SA\u00b76/SA\u00b76M ASME BPVC.II.A-2025 \nTABLE 21 Permitted Variations in Straightness for S, M, C, MC, L, T, Z, and Bulb Angle Shapes \nVariable \nCamber \nSweep \nNominal Size,A \nin. \nUnder 3 \n3 and over \nAll \nCAMBER CAMBeR CAMlleR \n1--t L-.J L \nBeilm Cl'lannel Angle \n($ and M) (C and MC) (I.) \nCAMBER CAMl!ll:R. \n... \nPositions for Measuring Camber of Shapes \nPermitted Variation, in. \n\u00bc in. in any 5 ft, or \u00bc x (number of feet of total length/5) \n1/s x (number of feet of total lenglh/5) \nDue to the extreme variations in flexibility of these shapes, permitted variations for sweep are subject to negotiations between the \nmanufacturer and the purchaser for the individual sections involved. \nA Greatest cross-sectional dimension. \nTABLE 22 Permitted Variations in Length for W and HP Shapes \nPermitted Variations from Specified Length for Lengths Given in Feel, in.A, 8 \nOver Under \n4 O\u00b7 \nA For HP and W shapes specified in the order for use as bearing piles, the \npermitted variations in length are plus 5 in. and minus O in. These permitted \nvariations in length also apply to sheet piles. \n8 The permitted variations in end out-of-square for W and HP shapes shall be 1/64 \nin. per inch of depth, or per inch of flange width if the flange width is larger than the \ndepth. \n26 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0078.json",
+  "tabulaTablesCsv": "tables_tabula/page-0078.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-0078.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1271,
+  "bestTextAlphaRatio": 0.7309
+}

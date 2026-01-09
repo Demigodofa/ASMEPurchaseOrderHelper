@@ -1,0 +1,21 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 304,
+  "globalPageIndex": 1102,
+  "width": 613.92,
+  "height": 793.2,
+  "text": "SA-568/SA-568M (ASTM A568/A568M) ASME BPVC.II.A-2025 \nTABLE X5.1 I-Unit Conversion Chart \n1006 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-1102.txt",
+  "ocrTextLength": 3802,
+  "ocrApplied": true,
+  "tabulaTablesPath": "tables_tabula/page-1102.json",
+  "tabulaTablesCsv": "tables_tabula/page-1102.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text\\pages\\page-1102.txt",
+  "bestTextSource": "full_ocr_highdpi",
+  "bestTextLength": 1228,
+  "bestTextAlphaRatio": 0.19
+}

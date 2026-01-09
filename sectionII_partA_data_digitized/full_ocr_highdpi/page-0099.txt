@@ -1,0 +1,51 @@
+ASME BPVCG.II.A-2025 SA-6/SA-6M !
+_— TABLE A1.28 Permitted Variations in Sectional Dimensions for |
+; Hexagons .
+, | | Permitted Variations from Out-of- :
+Specified Sizes Between Specified Size, mm Hexagon
+| Opposite Sides, mm nn Section,
+Over Under mm4
+To 13 incl ) 0.18 0.18 0.3
+Over 13 to 25 incl 0.25 0.25 0.4
+. Over 25 to 40 incl 0.55 0.35 0.6
+Over 40 to 50 incl 0.8 0.40 0.8 :
+Over 50 to 65 incl 1.2 0.40 1.2 :
+Over 65 to 80 incl 1.6 1.6
+4 Out-of-hexagon section is the greatest difference in distance between any two
+opposite faces, measured at the same transverse cross section.
+TABLE A1.29 Permitted Variations in Straightness for Bars |
+co Maximum Permitted Variation in Straightness, mm4
+6 mm in any 1500 mm and (length in millimetres/250)"
+4 Permitted variations in straightness do not apply to hot-rolled bars if any
+. subsequent heating operation has been performed. . !
+® Round to the nearest whole millimetre.
+TABLE A1.30 Permitted Variations in Length for Hot-Cut Steel Bars“
+Note 1—Where “...” appears in this table, there is no requirement. |
+Specified Sizes of ed es ’ Permitted Variations Over Specified Lengths
+Rounds, Specified Sizes of Flats, mm Given in Metres, mm (No Variation Under)
+Squares, and Hexagons, , , 1.5 to 3 to 6 to 9to° = 12 to
+mm Thickness Wiath 3, excl 6, excl 9, excl 12, excl 18, incl
+To 25, incl to 25, incl to 75, incl 15 20 35 45 - 60
+Over 25 to 50, incl over 25 to 75, incl 15 25 40 50 65
+we to 25, incl over 75 to 150, incl 15 25 40 50 65
+. Over 50 to 125, incl over 25 over 75 to 150, incl 25 40 45 60 70 :
+7 Over 125 to 250, incl ve ves 50 65 70 75 85
+over 6 to 25, incl over 150 to 200, incl 20 30 45 90 100
+over 25 to 75, incl over 150 to 200, incl 30 45 50 —-90 100
+Bar size sections es - 15 25 40 50 65
+Hot Sawing ,
+50 to 125, incl 25 and over 75 and over 8B 40 45 60 70
+Over 125 to 250, incl __... - B 65 70 75 85 :
+A For flats over 150 to 200 mm, incl, in width and over 75 mm in thickness, consult the manufacturer for permitted variations in length. :
+® Smaller sizes and shorter lengths are not commonly hot sawed. i
+TABLE A1.31 Permitted Variations in Length for Bars Recut Both Ends After Straightening*?
+| Permitted Variations Over :
+Sizes of Rounds, Squares, Hexagons, Specified Length Given in Metres, mm
+Widths of Flats and Maximum Dimen- (No Variation Under)
+sions of Other Sections, mm to 3.7, over
+To 75, incl 6 8
+Over 75 to 150, incl 8 ; 11
+Over 150 to 200, incl ; 11 14 )
+Rounds over 200 to 250, incl 14 18 .
+4 For flats over 150 to 200 mm, incl, in width, and over 75 mm in thickness, consult the manufacturer or the processor for permitted variations in length.
+® Permitted variations are sometimes required all over or all under the specified length, in which case the sum of the two permitted variations applies.

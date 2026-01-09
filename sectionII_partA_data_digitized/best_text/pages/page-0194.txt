@@ -1,0 +1,104 @@
+SA-53/SA-53M ASME BPVC.II.A-2025 
+TABLE 1 Chemical Requirements 
+Comeosition, max, % 
+Carbon Manganese Phosehorus Sulfur Coeeer< NickelA ChromiumA MolybdenumA VanadiumA 
+Tyee S (seamless eiee) 
+Grade A 0.25 8 0.95 0.05 0.045 0.40 0.40 0.40 0.15 0.08 
+Grade B 0.30G 1.20 0.05 0.045 0.40 0.40 0.40 0.15 0.08 
+Tyee E (electric-resistance-welded) 
+Grade A 0.25 8 0.95 0.05 0.045 0.40 0.40 0.40 0.15 0.08 
+Grade B 0.30G 1.20 0.05 0.045 0.40 0.40 0.40 0.15 0.08 
+Tyee F (furnace-welded eiee) 
+Grade A 0.30 8 1.20 0.05 0.045 0.40 0.40 0.40 0.15 0.08 
+A The total composition for these five elements shall not exceed 1.00 %. 
+8For each reduction of 0.D1 % below the specified carbon maximum, an increase of 0.06 % manganese above the specified maximum will be permitted up to a maximum 
+of 1.35%. 
+cFor each reduction of 0.01 % below the specified carbon maximum, an increase of 0.06 % manganese above the specified maximum will be permitted up to a maximum 
+of 1.65%. 
+6.2 If the analysis of either pipe does not conform to the 
+requirements given in Table 1, analyses shall be made on 
+additional pipes of double the original number from the same 
+lot, each of which shall conform to the specified requirements. 
+7. Mechanical Properties 
+7.1 Tension Test: 
+7 .1.1 For tension tests other than transverse weld tension 
+tests, the yield strength corresponding to a permanent offset of 
+0.2 % of the gage length or to an extension of 0.5 % of the gage 
+length under load, the tensile strength, and the elongation in 2 
+in. or 50 mm shall be determined, and the tension test results 
+shall conform to the applicable tensile property requirements 
+given in Table 2. 
+7.1.2 For transverse weld tension tests, the tensile strength 
+shall be determined, and the tension test results shall conform 
+to the applicable tensile strength requirement given in Table 2. 
+7.1.3 Electric-resistance-welded pipe NPS 8 [DN 200] or 
+larger shall be tested using two transverse test specimens, one 
+taken across the weld and one taken opposite the weld. 
+7 .1.4 Transverse tension test specimens shall be approxi­
+mately 1 V2 in. [38 mm] wide in the gage length and shall 
+represent the full wall thickness of the pipe from which the test 
+specimens were cut. 
+TABLE 2 Tensile Requirements 
+Grade A Grade B 
+Tensile strength, min, psi [MPa] 48 000 [330] 60 000 [415] 
+Yield strength, min, psi [MPa] 30 000 [205] 35 000 [240] 
+Elongation in 2 in. or 50 mm A,a A,a 
+A The minimum elongation in 2 in. [50 mm] shall be that determined by the 
+following equation: 
+e = 625000 [ 1940 J A°• 2 1 u 0 ·• 
+where: 
+e minimum elongation in 2 in. or 50 mm in percent, rounded to the nearest 
+percent, 
+A the lesser of. 0.75 in. 2 [500 mm 2 ] and the cross-sectional area of the 
+tension test specimen, calculated using the specified outside diameter of 
+the pipe, or the nominal width of the tension test specimen and the 
+specified wall thickness of the pipe, with the calculated value 
+rounded to the nearest 0.01 in. 2 [1 mm 2 ], and 
+U = specified minimum tensile strength, psi [MPa]. 
+8 See Table X4.1 or Table X4.2, whichever is applicable, for the minimum 
+elongation values that are required for various combinations of tension test 
+specimen size and specified minimum tensile strength. 
+7 .2 Bend Test: 
+7.2.1 For pipe NPS 2 [DN 50] or smaller, a sufficient length 
+of pipe shall be capable of being bent cold through 90° around 
+a cylindrical mandrel, the diameter of which is twelve times the 
+specified outside diameter of the pipe, without developing 
+cracks at any portion and without opening the weld. 
+7.2.2 If ordered for close coiling, the pipe shall stand being 
+bent cold through 180° around a cylindrical mandrel, the 
+diameter of which is eight times the specified outside diameter 
+of the pipe, without failure. 
+7.2.3 Double-extra-strong pipe over NPS 1 V4 [DN 32] need 
+not be subjected to the bend test. 
+7 .3 Flattening Test: 
+7.3.1 The flattening test shall be made on welded pipe over 
+NPS 2 [DN 50] in extra-strong weight or lighter. 
+7.3.2 Seamless Pipe: 
+7.3.2.1 Although testing is not required, pipe shall be 
+capable of meeting the flattening test requirements of Supple­
+mentary Requirement S 1, if tested. 
+7.3.3 Electric-Resistance-Welded Pipe: 
+7.3.3.1 A test specimen at least 4 in. [100 mm] in length 
+shall be flattened cold between parallel plates in three steps, 
+with the weld located either 0° or 90° from the line of direction 
+of force as required by 7.3.3.2 or 7.3.3.3, whichever is 
+applicable. During the first step, which is a test for ductility of 
+the weld, except as allowed by 7.3.5, 7.3.6, and 7.3.7, no cracks 
+or breaks on the inside or outside surface at the weld shall be 
+present before the distance between the plates is less than two 
+thirds of the specified outside diameter of the pipe. As a second 
+step, the flattening shall be continued as a test for ductility 
+away from the weld. During the second step, except as allowed 
+by 7.3.6 and 7.3.7, no cracks or breaks on the inside or outside 
+surface away from the weld shall be present before the distance 
+between the plates is less than one third of the specified outside 
+diameter of the pipe but is not less than five times the specified 
+wall thickness of the pipe. During the third step, which is a test 
+for soundness, the flattening shall be continued until the test 
+specimen breaks or the opposite walls of the test specimen 
+meet. Evidence of laminated or unsound material or of incom­
+plete weld that is revealed by the flattening test shall be cause 
+for rejection. 
+142 
+7.3.3.2 For pipe produced in single lengths, the flattening 
+test specified in 7.3.3.1 shall be made using a test specimen 

@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 213,
+  "globalPageIndex": 1011,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "ASME BPVC.IU-2025 SA-540 /SA-540M \nSPECIFICATION FOR ALLOY-STEEL BOLTING FOR \nSPECIAL APPLICATIONS \nSA-540/SA-540M 0 \nINTISIINATIOffAL \nStandards Worldwide \n(Identical with ASTM Specification AS40/AS40M-15(2021).) \n911 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-1011.txt",
+  "ocrTextLength": 179,
+  "ocrApplied": true,
+  "bestTextPath": "best_text/pages/page-1011.txt",
+  "bestTextSource": "ocr",
+  "bestTextLength": 179,
+  "bestTextAlphaRatio": 0.6369
+}

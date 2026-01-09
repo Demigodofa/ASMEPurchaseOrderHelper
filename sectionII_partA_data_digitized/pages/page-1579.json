@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 781,
+  "globalPageIndex": 1579,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "ASME BPVC.II.A-2025 SA-1016/SA-1016M \nSPECIFICATION FOR GENERAL REQUIREMENTS FOR \nFERRITIC ALLOY STEEL, AUSTENITIC ALLOY STEEL, \nAND STAINLESS STEEL TUBES \nSA-1016/SA-1016M \n(Identical with ASTM Specification A1016/A1016M-17a.) \n1525 \ncO \nINTERNATIONAL \nStandards Worldwide ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-1579.txt",
+  "ocrTextLength": 260,
+  "ocrApplied": true,
+  "bestTextPath": "best_text/pages/page-1579.txt",
+  "bestTextSource": "ocr",
+  "bestTextLength": 260,
+  "bestTextAlphaRatio": 0.6692
+}

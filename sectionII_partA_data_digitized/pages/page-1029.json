@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 231,
+  "globalPageIndex": 1029,
+  "width": 632.52,
+  "height": 808.08,
+  "text": "ASME BPVC.ll.A-2025 SA-542/SA-542M \nSPECIFICATION FOR PRESSURE VESSEL PLATES, \nALLOY STEEL, QUENCHED-AND-TEMPERED, \nCHROMIUM-MOLYBDENUM, AND CHROMIUM\u00ad\nMOLYBDENUM-VANADIUM \nSA-542/SA-542M 0 \nINTERNATIONAL \nStandards Worldwide \n(Identical with ASTM Specification A542/A542M-19.) \n929 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-1029.txt",
+  "ocrTextLength": 239,
+  "ocrApplied": true,
+  "bestTextPath": "best_text/pages/page-1029.txt",
+  "bestTextSource": "ocr",
+  "bestTextLength": 239,
+  "bestTextAlphaRatio": 0.7029
+}

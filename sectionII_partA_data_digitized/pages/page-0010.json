@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 10,
+  "globalPageIndex": 10,
+  "width": 627.84,
+  "height": 804.24,
+  "text": "TABLES \nI-1 \nII-200-1 \nII-200-2 \nIV-100-1 \nIV-800-1 \nIV-1500-1 \nFIGURES \nII-400-1 \nStandard Units for Use in Equations ................................................ . \nFerrous Material Specifications Acceptable for BPVC Construction (Including Acceptable ASTM \nEditions) ..................................................................... . \nFerrous Material Specifications Acceptable for BPVC Construction (Including Acceptable non-\nASTM Editions) ............................................................... . \nHot Isostatically Pressed Component Requirements for Austenitic Stainless Steels, Austenitic\u00ad\nFerritic (Duplex) Stainless Steels, Martensitic Stainless Steels, Ferritic Steels, and Nickel \nAlloys ....................................................................... . \nASTM Test Methods and Units for Reporting ........................................ . \nExample of a Comparison of Allowable Stresses of Base Metals With Compositions Similar to \nThose of Selected Welding Consumables and the Proposed New Base Metal ............ . \nIllustrative Table of ASME Material Specifications (for II-400 Explanation Purposes Only) ..... \nX \n1609 \n1612 \n1620 \n1626 \n1629 \n1632 \n1622 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0010.json",
+  "tabulaTablesCsv": "tables_tabula/page-0010.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-0010.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1196,
+  "bestTextAlphaRatio": 0.541
+}

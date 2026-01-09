@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 613,
+  "globalPageIndex": 1411,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "ASME BPVC.11.A-2025 SA-834 \nS5. Prior Approval of Major Repairs \nS5.1 Major repairs as defined and agreed upon between the \nmanufacturer and purchaser shall be subject to the prior \napproval of the purchaser. \nS6. Marking \nS6.1 The manufacturer's name or identification mark and \nthe part identification number shall be cast or stamped on all \ncastings. When further specified, lot numbers shall be marked \non individual castings. \nS6.2 When the castings are of such size that individual \nmarking is impracticable, they shall be grouped by part \nidentification or lot number and placed in a container. The \ncontainer shall be marked with the required identification. \nS7. Hardness Test \nS7 .1 Hardness measurements at specified locations on the \ncastings shall be made in accordance with Test Method ElO \nand reported. \n1349 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-1411.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 825,
+  "bestTextAlphaRatio": 0.7709
+}

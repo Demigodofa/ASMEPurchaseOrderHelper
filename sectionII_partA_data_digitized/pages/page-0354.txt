@@ -1,0 +1,70 @@
+SA-216/SA-216M (ASTM A216/A216M) ASME BPVC.II.A-2025 
+SUPPLEMENTARY REQUIREMENTS 
+The following supplementary requirements shall not apply unless specified in the purchase order. 
+Lists of standardized supplementary requirements for use at the option of the purchaser are included 
+in Specifications A 703/ A 703M and A985/ A985M. Those which are ordinarily considered suitable for 
+use with this specification are given below. Others enumerated in Specifications A703/A703M and 
+A985/A985M may be used with this specification upon agreement between the manufacturer and 
+purchaser. 
+Sl. Unspecified Elements 
+S2 .. Destruction Tests 
+S3. Bend Test 
+S4. Magnetic Particle Inspection 
+SS. Radiographic Inspection 
+SlO. Examination of Weld Preparation 
+SlS. Quench and Temper Heat Treatment 
+S50. Carbon Equivalent 
+S50.1 When specified in the order, the maximum carbon 
+equivalent shall be: 
+Grade Carbon Equivalent, max 
+WCA 0.50 
+WCB 0.50 
+wee o.55 
+S50.2 Carbon equivalent (CE) shall be determined as fol­
+lows: 
+Mn Cr+ Mo+ V Ni+ Cu 
+CE= C+6+ 5 +-1-5-
+SSl. Requirements for Carbon Steel Castings for Hydro­
+fluoric Acid Alkylation Service 
+S51.1 The maximum carbon equivalent shall be as follows: 
+CE maximum 
+Maximum specified section thickness less than or equal to 1 in. 0.43 
+[25mm] 
+Maximum specified section thickness greater than 1 in. [25 mm] 0.45 
+S51.2 Determine the carbon equivalent (CE) as follows: 
+Mn (Cr+Mo+V) (Ni+Cu) 
+CE=C+6+ 5 + 15 
+S51.3 Vanadium and niobium maximum content based upon 
+heat analysis shall be: 
+NoTE !-Niobium= columbium 
+Maximum vanadium 
+Maximum niobium 
+Maximum vanadium plus niobium 
+0.02 wt.% 
+0.02 wt.% 
+0.03wt. % 
+S51.4 The sum of the nickel and copper contents for the 
+casting base metal, based upon heat analysis, shall not exceed 
+0.15 wt.%. For weld filler metals used for repairs, the sum of 
+the chromium, nickel, and copper content, based on heat 
+analysis, shall not exceed 0.15 wt. %. 
+S51.5 The minimum carbon content for the casting base 
+metal shall be 0.18 wt.%. The maximum carbon content shall 
+be as required for the appropriate grade. 
+S51.6 Welding consumables for repair welds shall be of the 
+low-hydrogen type. E60:XX electrodes shall not be used. 
+S51. 7 In addition to the requirements for product marking in 
+the specification, an "HF-N" stamp or marking shall be 
+provided on each casting to identify that the casting complies 
+with this supplementary requirement. 
+S52. Lower Sulfur Maximum 
+S52.l When specified in the order, the maximum sulfur 
+content of Grade WCA, or Grade WCB, or Grade WCC shall 
+not exceed 0.030. 
+SUMMARY OF CHANGES 
+Committee A0l has identified the location of selected changes to this standard since the last issue 
+(A216/A216M-18) that may impact the use of this standard. (Approved Sept. 1, 2021.) 
+(1) Updated Supplementary Requirements S51.4 to S51.6 to 
+make base metal and weld filler metal chemistry requirements 
+more clear. 
+302 

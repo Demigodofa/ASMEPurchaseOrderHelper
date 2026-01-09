@@ -1,0 +1,108 @@
+ASME BPVC.II.A-2025 SA-194/SA-194M 
+F1940 Test Method for Process Control Verification to 
+Prevent Hydrogen Embrittlement in Plated or Coated 
+Fasteners 
+F1941/F1941M Specification for Electrodeposited Coatings 
+on Mechanical Fasteners, Inch and Metric 
+F2329/F2329M Specification for Zinc Coating, Hot-Dip, 
+Requirements for Application to Carbon and Alloy Steel 
+Bolts, Screws, Washers, Nuts, and Special Threaded 
+Fasteners 
+2.2 ASME Standards: 
+B 1.1 Unified Screw Threads 
+B 1.2 Gages and Gaging for Unified Inch Screw Threads 
+B 1.13M Metric Screw Threads 
+B 18.2.2 Square and Hex Nuts 
+B 18.2.4.6M Metric Heavy Hex Nuts 
+3. Terminology 
+3.1 Definitions of Terms Specific to This Standard: 
+3.1.1 Austenitic Grades-All grades with a prefix of "8" or 
+"9." 
+3.1.2 Ferritic Grades-Grades 1, 2, 2H, 2HM, 3, 6, 6F, 7, 
+7M, 43, and 16. 
+3.1.3 Lot-Unless otherwise specified (see Discussion 
+below), a lot is the quantity of nuts of a single nominal size and 
+grade produced by the same manufacturing process. 
+3.1.3.1 Discussion-When Supplementary Requirement S5 
+is invoked on the purchase order, the following definitions of a 
+lot shall apply: 
+3.1.3.2 For Grade 8 Nuts-The quantity of all the nuts of a 
+single nominal diameter and grade made from the same heat of 
+steel and made by the same manufacturing process. 
+3.1.3.3 For All Other Grade Nuts-(see 8.2 and 
+8.1.2.1)-All the nuts of a single nominal diameter and grade 
+made from the same heat number and heat treated in the same 
+batch if batch-type heat treating equipment is used or heat 
+treated in the same continuous run of not more than 8 h under 
+the same conditions if continuous-type heat treating equipment 
+is used. 
+3.1.4 Type: 
+3.1.4.1 For Grade 8 Nuts-Variations within the grade 
+designated by a letter and differentiated by chemistry and by 
+manufacturing process. 
+3.1.4.2 For Grade 6 Nuts-Variations within the grade 
+designated by the letter F as differentiated by chemical addi­
+tions made for machineability. 
+3.1.5 Series-The dimensional relationship and geometry of 
+the nuts as described in ASME B 18.2.2 for inch nuts or ASME 
+B 18.2.4.6M for metric nuts. 
+4. Ordering Information 
+4.1 The inquiry and order for bolting material and bolting 
+components under this specification shall include the following 
+as required to describe the items adequately: 
+4.1.1 Specification designation, year date, ·and grade, issue 
+date and revision letter, 
+4.1.2 Quantity, number of pieces, 
+4.1.3 Dimensions (see Section 9), 
+4.1.4 Options in accordance with 8.2.2.1, 9.1, 9.2, 10.3, and 
+12, and 
+4.1.5 Supplementary Requirements, if any. 
+4.2 Coatings-Coatings are prohibited unless specified by 
+the purchaser (see Supplementary Requirements S7 and S8). 
+When coated nuts are ordered, the purchaser should take 
+special care to ensure that Appendix X2 is thoroughly under­
+stood. 
+4.3 See Supplementary Requirement S3 for nuts to be used 
+in low temperature applications (Specification A320/A320M). 
+4.4 Proof Load Testing-See Supplementary Requirement 
+S9 for proof load testing of nuts manufactured to dimensions 
+and configurations other than those covered in Tables 3 and 4. 
+5. Common Requirements 
+5.1 Bolting material and bolting components supplied to 
+this specification shall conform to the requirements of Speci­
+fication A962/ A962M, of which nuts are considered bolting 
+components, as are bolts, studs, screws, and washers intended 
+for use in special service applications. These requirements 
+include test methods, finish, thread dimensions, marking, 
+certification, optional supplementary requirements, and others. 
+Failure to comply with the requirements of Specification 
+A962/A962M constitutes nonconformance with this specifica­
+tion. In case of conflict between the requirements of this 
+specification and Specification A962/ A962M, this specification 
+shall prevail. 
+6. Manufacture (Process) 
+6.1 Stainless steels for all types of Grade 6 and 8 nuts shall 
+be made by one of the following processes: 
+6.1.1 Electric- furnace ( with separate degassing and refining 
+optional), 
+6.1.2 Vacuum induction furnace, or 
+6.1.3 Either of the above followed by electroslag remelting, 
+or consumable-arc remelting. 
+6.2 The steel producer shall exercise adequate control to 
+eliminate excessive unhomogeneity, nonmetallics, pipe, 
+porosity, and other defects. 
+6.3 Grades 1 and 2 nuts shall be hot or cold forged, or shall 
+be machined from hot-forged, hot-rolled, or cold-drawn bars. 
+6.3.1 All Grade 1 and 2 nuts shall be stress-relieved at a 
+temperature of at least 1000 °F [538 °C] after forming or 
+machining from bar with the following exceptions: 
+6.3.1.1 Nuts made by hot forging. 
+249 
+6.3.1.2 Nuts machined from hot-forged or hot-rolled bar. 
+6.3.1.3 Nuts machined from hot-forged/hot-rolled and cold-
+finished (max 10 % reduction in area) bar. 
+6.3.1.4 Nuts machined from cold-drawn and annealed (min 
+1000 °F [538 °C]) bar. 
+6.3.2 Grade 1 and 2 nuts made by hot forging or by 
+machining from hot-forged or hot-rolled bars need not be stress 
+relieved. 

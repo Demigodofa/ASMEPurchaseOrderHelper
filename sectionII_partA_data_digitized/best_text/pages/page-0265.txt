@@ -1,0 +1,112 @@
+ASME BPVC.ll.A-2025 SA-182/SA-182M {ASTM A182/A182M) 
+A511/ A511M Specification for Seamless Stainless Steel Me­
+chanical Tubing and Hollow Bar 
+A 739 Specification for Steel Bars, Alloy, Hot- Wrought, for 
+Elevated Temperature or Pressure-Containing Parts, or 
+Both 
+A 763 Practices for Detecting Susceptibility to Intergranular 
+Attack in Ferritic Stainless Steels 
+A788/A788M Specification for Steel Forgings, General Re­
+quirements 
+A923 Test Methods for Detecting Detrimental Intermetallic 
+Phase in Duplex Austenitic/Ferritic Stainless Steels 
+A961/A961M Specification for Common Requirements for 
+Steel Flanges, Forged Fittings, Valves, and Parts for 
+Piping Applications 
+A965/ A965M Specification for Steel Forgings, Austenitic, 
+for Pressure and High Temperature Parts 
+A1049/A1049M Specification for Stainless Steel Forgings, 
+Ferritic/ Austenitic (Duplex), for Pressure Vessels and 
+Related Components 
+A1084 Test Method for Detecting Detrimental Phases in 
+Lean Duplex Austenitic/Ferritic Stainless Steels 
+E92 Test Methods for Vickers Hardness and Knoop Hard­
+ness of Metallic Materials 
+El12 Test Methods for Determining Average Grain Size 
+E165/El65M Practice for Liquid Penetrant Testing for Gen-
+eral Industry 
+E340 Practice for Macroetching Metals and Alloys 
+2.3 ASME Standards . .4 
+B 16.11 Forged Steel Fittings, Socket Welding, and Threaded 
+2.4 ASME Boiler and Pressure Vessel Code: 4 
+Section IX 
+2.5 A WS Specifications 5 
+A5.4/A5.4M Specification for Stainless Steel Electrodes for 
+Shielded Metal Arc Welding 
+A5.5/A5.5M Specification for Low-Alloy Steel Electrodes 
+for Shielded Metal Arc Welding 
+A5.9/A5.9M Specification for Bare Stainless Steel Welding 
+Electrodes and Rods 
+A5.ll/A5.11M Specification for Nickel and Nickel-Alloy 
+Welding Electrodes for Shielded Metal Arc Welding 
+A5.14/A5.14M Specification for Nickel and Nickel-Alloy 
+Bare Welding Electrodes and Rods 
+A5.23/A5.23M Specification for Low-Alloy Steel Elec­
+trodes and Fluxes for Submerged Arc Welding 
+A5.28/A5.28M Specification for Low-Alloy Steel Elec­
+trodes for Gas Shielded Arc Welding 
+A5.29/A5.29M Low-Alloy Steel Electrodes for Flux Cored 
+Arc Welding 
+3. Terminology 
+3.1 Definitions-For definitions of terms used in this 
+specification, refer to Specification A961/A961M. 
+4 Available from American Society of Mechanical _Engineers (ASME), ASME 
+International Headquarters, Two Park Ave., New York, NY 10016-5990, http:// 
+www.asme.org. 
+5 Available from American Welding Society (AWS), 550 NW LeJeune Rd., 
+Miami, FL 33126, http://www.aws.org. 
+3.2 Definitions of Terms Specific to This Standard: 
+3.2.l hardened condition, n-for F 23, the metallurgical 
+condition achieved after normalizing and cooling to room 
+temperature but prior to tempering. 
+4. Ordering Information 
+4.1 It is the purchaser's responsibility to specify in the 
+purchase order information necessary to purchase the needed 
+material. In addition to the ordering information guidelines in 
+Specification A961/A961M, orders should include the follow­
+ing information: 
+4.1.1 Additional requirements (see 7.2.1, Table 2 footnotes, 
+9.3, and 19.2), and 
+4.1.2 Requirement, if any, that manufacturer shall submit 
+drawings for approval showing the shape of the rough forging 
+before machining and the exact location of test specimen 
+material (see 9.3.1). 
+5. General Requirements 
+5 .1 Product furnished to this specification shall conform to 
+the requirements of Specification A961/A961M, including any 
+supplementary requirements that are indicated in the purchase 
+order. Failure to comply with the general requirements of 
+Specification A961/A961M constitutes nonconformance with 
+this specification. In case of conflict between the requirements 
+of this specification and Specification A961/A961M, this 
+specification shall prevail. 
+6. Manufacture 
+6.1 The low-alloy ferritic steels shall be made by the 
+open-hearth, electric-furnace, or basic-oxygen process with the 
+option of separate degassing and refining processes in each 
+case. 
+6.2 The stainless steels shall be melted by one of the 
+following processes: ( a) electric-furnace (with the option of 
+separate degassing and refining processes); (b) vacuum­
+fumace; or ( c) one of the former followed by vacuum or 
+electroslag-consumable remelting. Grade F XM-27Cb may be 
+produced by electron-beam melting. 
+6.3 A sufficient discard shall be made to secure freedom 
+from injurious piping and undue segregation. 
+6.4 Except as permitted in 6.4.2 and 6.4.3, the material shall 
+be forged as close as practicable to the specified shape and size. 
+6.4.1 Flanges, elbows, return bends, tees, and header tees 
+shall not be machined directly from bar stock. Other parts 
+whose longitudinal axis is not parallel to the longitudinal axis 
+of the hollow bar or forged or rolled bar shall not be machined 
+directly from bar. 
+6.4.2 Parts may be machined from hollow bar or forged or 
+rolled solution-annealed austenitic stainless steel bar without 
+additional hot working provided the longitudinal axis of the 
+part is parallel to the longitudinal axis of the bar. 
+6.4.3 Low alloy, martensitic stainless, ferritic stainless, and 
+ferritic-austenitic stainless steel parts, NPS-4 [DN 100] and 
+under, may be machined from hollow bar or forged or rolled 
+bar, without additional hot working provided the longitudinal 
+axis of the part is parallel to the longitudinal axis of the bar. 
+213 

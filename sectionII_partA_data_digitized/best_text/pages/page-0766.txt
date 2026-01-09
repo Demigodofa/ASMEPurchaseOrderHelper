@@ -1,0 +1,48 @@
+SA-426/SA-426M ASME BPVC.II.A-2025 
+TABLE S1.1 Residual Elements 
+Total Contents of 
+Grade Copper, Nickel, Chromium, Tungsten, These 
+max max max max Unspecified Elements, 
+max,% 
+CP1 0.50 0.50 0.35 0.10 1.00 
+CP2 0.50 0.50 0.10 1.00 
+CPS 0.50 0.50 0.10 1.00 
+CPSb 0.50 0.50 0.10 1.00 
+CP7 0.50 0.50 0.10 1.00 
+CP9 0.50 0.50 0.10 1.00 
+CP11 0.50 0.50 0.10 1.00 
+CP12 0.50 0.50 0.10 1.00 
+CP15 0.50 0.50 0.35 0.10 1.00 
+CP21 0.50 0.50 0.10 1.00 
+CP22 0.50 0.50 0.10 1.00 
+CPCA15 0.50 1.00 0.10 1.50 
+S11. Charpy Impact Test 
+S 11.1 Charpy impact test properties shall be determined on 
+each heat from a set of three Charpy V-notch specimens. The 
+test coupons shall be taken as specified for tension specimens 
+in Section 11 and tested at a test temperature agreed upon by 
+the manufacturer and purchaser. The acceptance requirements 
+shall be either energy absorbed or lateral expansion or percent 
+shear area, and shall be that agreed upon by the manufacturer 
+and purchaser. Test specimens shall be prepared as Type A and 
+tested in accordance with Test Methods and Definitions A370. 
+Sll.2 Absorbed Energy Value, of three specimens shall not 
+be less than that agreed upon by the manufacturer and 
+purchaser, with no more than one value permitted below the 
+minimum average specified and no value permitted below the 
+minimum specified for a single specimen. 
+Sll.3 Lateral Expansion Value, shall be agreed upon by the 
+manufacturer and purchaser. 
+Sll.4 Percent Shear Area, shall be agreed upon by the 
+manufacturer and purchaser. 
+716 
+S12. Drop Weight Test 
+S12.1 Drop weight test properties shall be determined by 
+preparing and testing either Type Pl, P2, or P3 specimens in 
+accordance with Test Method E208. The test coupons shall be 
+taken as specified for tension specimens in Section 11. The 
+crack starter weld shall be deposited on the surface of the 
+specimen which was nearest to the casting surface. Each test 
+shall consist of at least two specimens tested at a temperature 
+agreed upon by the manufacturer and purchaser. Each speci­
+men shall exhibit a "no break" performance. 

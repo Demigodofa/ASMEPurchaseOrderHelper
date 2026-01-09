@@ -1,0 +1,21 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 524,
+  "globalPageIndex": 1322,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "SA-781/SA-781M ASME BPVC.II.A-2025 \nFIG. 2 TEST COUPON FOR TENSION TEST \nI 11/ 2 in. I \nr \n5 in. 11 \nell \n--!i17 \n~II \nfll 3 \u2022 'SIi m. \nc::ll_l \n41/ 16 in. \n\u00b7;,11 \n.:::-11 \n\u25a1 11/,sin. \ndiameter ___ ___, -t \nMetric Equivalents \nin. (mm) in. (mm) \n1/a (3.2) 31/2 (88.9) \n1/2 (12.7) 4 (101.6) \n11/15 (27.0) 41/15 (103.2) \n1112 (38.1) 5 (127.0) \n3 (76.2) 11 (279.4) \n~ L \n1 1 / 16 in. \ndiameter \nGENERAL NOTE: Pour through head; cover molten head with powdered charcoal, coke dust, etc., \nimmediately after pouring, in order to keep head fluid as long as possible. \n1256 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-1322.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 567,
+  "bestTextAlphaRatio": 0.4427,
+  "noteOcrPath": "note_ocr/page-1322.txt",
+  "noteOcrCount": 0,
+  "noteOcrNotes": [],
+  "noteOcrHighDpiPath": "note_ocr_highdpi/page-1322.txt",
+  "noteOcrHighDpiCount": 0,
+  "noteOcrHighDpiNotes": []
+}

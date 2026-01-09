@@ -1,0 +1,112 @@
+' ~-
+ASME BPVC.II.A-Z0Z5 SA-335/SA-335M (ASTM A335/A335M) 
+NPS Designator Maximum Number of 
+Lengths in a Lot 
+Under2 400 
+2~5 200 
+6 and over 1 00 
+8.2 The results of these analyses shall be reported to the 
+purchaser or the purchaser's representative, and shall conform 
+to the requirements specified in Table 1. 
+8.3 For grade P91 Type 1 the carbon content may vary for 
+the product analysis by -0.01 % and +0.02 % from the 
+specified range as per Table 1. 
+8.4 If the analysis of one of the tests specified in 8.1 does 
+not conform to the requirements specified in 6.1, an analysis of 
+each billet or pipe from the same heat or lot may be made, and 
+all billets or pipe conforming to the requirements shall be 
+accepted. 
+9. Tensile and Hardness Requirements 
+9 .1 The tensile properties of the material shall conform to 
+the requirements prescribed in Table 3. 
+9.2 Table 4 lists elongation requirements. 
+9.3 Table 5 gives the computed minimum elongation values 
+for each 1/32-in. [0.8-mm] decrease in wall thickness. Where the 
+wall thickness lies between two values above, the minimum 
+elongation value is determined by the following formula: 
+Direction of Test 
+Longitudinal, all grades except P23, P24, 
+P36, P91 Type 1 and Type 2, P92, 
+P921, P93, P115, P122, P128, and 
+P911 
+Transverse, all grades except P23, P24, 
+P36, P91 Type 1 and Type 2, P92, 
+P921, P93, P115, P122, P128, and 
+P911 
+Longitudinal, P23, P24, P91 Type 1 and 
+Type 2, P92, P921, P115, P122, P128, 
+and P911 
+Longitudinal, P36 
+Longitudinal, P93 
+where: 
+E = elongation in 2 in. or 50 mm, %, and 
+t = actual thickness of specimens, in. [mm]. 
+Equation 8 
+E = 481 + 15.00 
+[E = 1.87 t + 15.00] 
+E = 321 + 10.00 
+[E = 1.25 t + 10.00] 
+E = 321 + 10.00 
+[E = 1.25 t + 10.00] 
+E = 321 + 5.0 
+[E = 1.25 t+ 5.0] 
+E = 321 + 9.0 
+[E = 1.25 t+ 9.0] 
+9.4 Table 6 lists hardness requirements. 
+9.5 For Grade P91 Type 1 and Type 2, when quenching and 
+tempering has been performed, the tensile and hardness prop-
+erties shall be met and verified on material taken from the 
+half-thickness location. 
+10. Permissible Variations in Diameter 
+10.1 For pipe ordered to NPS [DN] or outside diameter, 
+variations in outside diameter shall not exceed those specified 
+in Table 7. 
+10.2 For pipe ordered to inside diameter, the inside diameter 
+shall not vary more than :±: 1 % from the specified inside 
+diameter. 
+11. Permissible Variations in Wall Thickness 
+11.1 In addition to the implicit limitation of wall thickness 
+for pipe imposed by the limitation on weight in Specification 
+A999/ A999M, the wall thickness for pipe at any point shall be 
+within the tolerances specified in Table 8. The minimum wall 
+thickness and outside diameter for inspection for compliance 
+with this requirement for pipe ordered by NPS [DN] and 
+schedule number is shown in ASME B36.10M. 
+12. Hydrostatic Test 
+12.1 The requirements for grades other than P91 Type 1 and 
+Type 2, P92, P93, P115, P911, P122, and P128 are shown in 
+12.1.1 - 12.1.4. 
+12.1.1 Each length of pipe with outside diameter greater 
+than 10 in. [250 mm] and wall thickness less than or equal to 
+0.75 in. [19 mm], shall be submitted to the hydrostatic test, 
+except as provided for in 12.1.4. 
+12.1.2 Pipe of all other sizes shall be subjected to the 
+nondestructive electric test as shown in Section 13, except as 
+provided for in 12.1.3 and 12.1.4. 
+12.1.3 When specified by the purchaser, pipe of all other 
+sizes shall be furnished without the hydrostatic test and without 
+nondestructive examination. 
+12.1.4 When specified by the purchaser, pipe shall be 
+furnished with both the hydrostatic test and a nondestructive 
+examination having been performed. 
+12.2 The requirements for grades P91 Type 1 and Type 2, 
+P92, P93, P115, P911, P122, and P128 are shown in 12.2.1 -
+12.2.3. 
+12.2.1 Each length of pipe with outside diameter greater 
+than 10 in. [250 mm] and wall thickness less than or equal to 
+0.75 in. [19 mm], shall be submitted to both the hydrostatic test 
+and the ultrasonic test as shown in Section 13. 
+TABLE 3 Tensile Requirements 
+Grade 
+P91 P92, P93, 
+P1, P2 P12 P23 P24 Type 1 P911, P921 P115 P122 P128 P36 Class All Others and P36 Class 2 
+T e2 1 
+Tensile strength, 
+min: 
+ksi 55 60 74 85 85 90 109 90 90 94 95.5 60 
+MPa 380 415 510 585 585 620 750 620 620 650 660 415 
+Yield strength, 
+min: 
+ksi 30 32 58 60 60 64 84 65 58 71 66.5 30 
+MPa 205 220 400 415 415 440 580 450 400 490 460 205 
+511 

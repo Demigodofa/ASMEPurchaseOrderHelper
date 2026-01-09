@@ -1,0 +1,4372 @@
+=== Page 1053 ===
+
+ASME BPVC.ILA-2025 SA-563
+
+SPECIFICATION FOR CARBON AND ALLOY STEEL NUTS
+
+Cx SA-563
+
+63-07a(2014) except for deletion of the term “private label distributor” in para,
+
+(Identical with ASTM Specification AS
+14.7 and 14.9 and editorially correct title.)
+
+=== Page 1054 ===
+
+SA-563 ASME BPVC.II.A-2025 
+SPECIFICATION FOR CARBON AND ALLOY 
+STEEL NUTS 
+SA-563 
+[Identical with ASTM Specification A 563-07a(2014) except for deletion of the term "private label distributor" in para. 14.7 and 14.9 and 
+editorially correct title.] 
+1. Scope 
+1.1 This specification covers chemical and mechanical 
+requirements for eight grades of carbon and alloy steel 
+nuts for general structural and mechanical uses on bolts, 
+studs, and other externally threaded parts. 
+NOTE 1 - See Appendix Xl for guidance on suitable application of 
+nut grades. 
+1.2 The requirements for any grade of nut may, at the 
+supplier's option, and with notice to the purchaser, be 
+fulfilled by furnishing nuts of one of the stronger grades 
+specified herein unless such substitution is barred in the 
+inquiry and purchase order. 
+1.3 Grades C3 and DH3 nuts have atmospheric corro­
+sion resistance and weathering characteristics comparable 
+to that of the steels covered in Specifications 
+A 242/ A 242M, A 588/ A 588M, and A 709 / A 709M. The 
+atmospheric corrosion resistance of these steels is substan­
+tially better than that of carbon steel with or without copper 
+addition (see 5.2). When properly exposed to the atmo­
+sphere, these steels can be used bare (uncoated) for many 
+applications. 
+NOTE 2 - A complete metric compan.ion to Specification A 563 has 
+_ -bet\n. dev€\lo13ed-A 563M; therefore, no metric equIValenfs are presentea 
+in this specification. 
+1.4 Terms used in this specification are defined in Ter­
+minology F 1789 unless otherwise defined herein. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+A 194/ A 194M Specification for Carbon and Alloy Steel 
+Nuts for Bolts for High Pressure or High Temperature 
+Service, or Both 
+A 242/ A 242M Specification for High-Strength Low­
+Alloy Structural Steel 
+A 307 Specification for Carbon Steel Bolts and Studs, 
+60 000 psi Tensile Strength 
+A 325 Specification for Structural Bolts, Steel, Heat 
+Treated, 120/105 ksi Minimum Tensile Strength 
+A 354 Specification for Quenched and Tempered Alloy 
+Steel Bolts, Studs, and Other Externally Threaded Fas­
+teners 
+A 394 Specification for Steel Transmission Tower Bolts, 
+Zinc-Coated and Bare 
+A 449 Specification for Hex Cap Screws, Bolts and Studs, 
+Steel, Heat Treated, 120/105/90 ksi Minimum Tensile 
+Strength, General Use 
+A 490 Specification for Structural Bolts, Alloy Steel, Heat 
+Treated, 150 ksi Minimum Tensile Strength 
+A 588/ A 588M Specification for High-Strength Low­
+Alloy Structural Steel, up to 50 ksi [345 MPa] Minimum 
+Yield Point, with Atmospheric Corrosion Resistance 
+A 687 Specification for High-Strength Nonheaded Steel 
+Bolts and Studs 
+A 709 / A 709M Specification for Structural Steel for 
+Bridges 
+A 751 Test Methods, Practices, and Terminology for 
+954 
+Chemical Analysis of Steel Products 
+B 695 Specifi~atjon~ fQf i=@tingr:;_oi Zinc MechanicaUy -
+- Deposited on Iron and Steel 
+D 3951 Practice for Commercial Packaging 
+F 606 Test Methods for Determining the Mechanical Prop­
+erties of Externally and Internally Threaded Fasteners, 
+Washers, Direct Tension Indicators, and Rivets 
+F 812/F 812M Specification for Surface Discontinuities of 
+Nuts, Inch and Metric Series 
+F 1789 Terminology for Fl 6 Mechanical Fasteners 
+F 2329 Specification for Zinc Coating, Hot-Dip, Require­
+ments for Application to Carbon and Alloy Steel Bolts, 
+Screws, Washers, Nuts, and Special Threaded Fasteners 
+G 101 Guide for Estimating the Atmospheric Corrosion 
+Resistance of Low-Alloy Steels
+
+=== Page 1055 ===
+
+ASME BPVC.II.A-2025 SA-563 
+2.2 ANSI Standards: 
+ANSI B 1.1 Unified Screw Threads 
+ANSI Bl8.2.2 Square and Hex Nuts 
+3. Ordering Information 
+3.1 Orders for nuts under this specification shall include 
+the following: 
+3.1.1 Quantity (number of nuts), 
+3.1.2 Nominal size and thread series of nuts, 
+3.1.3 Style of nut (for example, heavy hex), 
+3.1.4 Grade of nut, 
+3.1.5 Zinc Coating - Specify the zinc-coating pro­
+cess required, for example, hot-dip, mechanically depos­
+ited, or no preference (see 4.7), 
+3.1.6 Other Finishes - Specify other protective fin­
+ish if required, 
+3.1.7 ASTM designation and year of issue, and 
+3.1.8 Supplementary or special requirements. 
+NOTE 3 - An example of an ordering description follows: 1000 1/g-9 
+heavy hex nuts, Grade DH, hot-dip zinc-coated, and lubricated, ASTM 
+A 563-XX. 
+4. Materials and Manufacture 
+4.1 Steel for nuts shall be made by the open-hearth, 
+basic-oxygen, or electric-furnace process except that steel 
+for Grades 0, A, and B nuts may be made by the acid­
+bessemer process. 
+4.2 Nuts may be made cold or hot by forrning, pressing, 
+or punching or may be machined from bar stock. 
+4.3 Grades DH and DH3 nuts shall be heat treated by 
+quenching in a liquid medium from a temperature above 
+llie trarisfonnationtemperaturtTillld--tempering-at a-tempera~ 
+ture of at least 800°F. 
+4.4 Grades C and D nuts made of steel having carbon 
+content not exceeding 0.20%, phosphorus not exceeding 
+0.04%, and sulfur not exceeding 0.05% by heat analysis 
+may be heat treated by quenching in a liquid medium from 
+a temperature above the transformation temperature and 
+need not be tempered. When this heat treatment is used, 
+there shall be particular attention to the requirements in 
+6.1.1. 
+4.5 Grades C, C3, and D nuts made of any steel permit­
+ted for these grades may be heat treated by quenching in 
+a liquid medium from a temperature above the transforma­
+tion temperature and tempering at a temperature of at least 
+800°F. 
+4.6 Threads shall be formed by tapping or machining. 
+4.7 Zinc Coatings, Hot-Dip and Mechanically 
+Deposited: 
+4.7.1 When zinc-coated fasteners are required, the 
+purchaser shall specify the zinc coating process, for exam­
+ple, hot-dip, mechanically deposited, or no preference. 
+4.7.2 When hot-dip is specified, the fasteners shall 
+be zinc-coated by the hot-dip process in accordance with 
+the requirements of Specification F 2329. 
+4.7.3 When mechanically deposited is specified, the 
+fasteners shall be zinc coated by the mechanical deposition 
+process in accordance with the requirements of Class 55 
+of Specification B 695. 
+4.7.4 When no preference is specified, the supplier 
+may furnish either a hot-dip zinc coating in accordance 
+with Specification F 2329, or a mechanically deposited zinc 
+coating in accordance with Specification B 695, Class 55. 
+Threaded components (bolts and nuts) shall be coated by 
+the same zinc-coating process and the supplier's option is 
+limited to one process per item with no mixed processes 
+in a lot. 
+4.7.5 Hot-dip zinc-coated nuts shall be tapped after 
+zinc coating. 
+4.7.6 Mechanically deposited zinc-coated nuts for 
+assembly with mechanically deposited zinc-coated bolts 
+shall be tapped oversize prior to zinc coating and need not 
+be retapped afterwards. 
+4.8 Lubricant: 
+4.8.1 Hot-dip and mechanically deposited zinc­
+coated Grade DH nuts shall be provided with an additional 
+lubricant which shall be clean and dry to the touch (see 
+Supplementary Requirement S 1 to specify lubrication 
+requirements for plain finish nuts). 
+4.8.2 See Supplementary Requirement S2 for option 
+to specify a dye in the lubricant. 
+5. Chemical Composition 
+5.1 Grades 0, A, B, C, D, and DH shall conform to 
+the chemical composition specified in Table 1. 
+955 
+5.2 Grades C3 and DH3 shall conform to the chemical 
+composition specified in Table 2. See Guide G 101 for 
+methods of estimating the atmospheric corrosion resistance 
+of low alloy steels. 
+5.3 Resulfurized or rephosphorized steel, or both, are 
+not subject to rejection based on product analysis for sulfur 
+or phosphorus. 
+5.4 Application of heats of steel to which bismuth, 
+selenium, tellurium, or lead has been intentionally added 
+shall not be permitted for Grades D, DH, and DH3.
+
+=== Page 1056 ===
+
+SA-563 ASME BPVC.II.A-2025 
+5.5 Chemical analyses shall be performed in accor­
+dance with Test Methods, Practices, and Terminology 
+A 751. 
+6. Mechanical Properties 
+6.1 Hardness: 
+6.1.1 The hardness of nuts of each grade shall not 
+exceed the maximum hardness specified for the grade in 
+Table 3. 
+6.1.2 Jam nuts, slotted nuts, nuts smaller in width 
+across flats or thickness than standard hex nuts (7.1), and 
+nuts that would require a proof load in excess of 160 000 lbf 
+may be furnished on the basis of minimum hardness 
+requirements specified for the grade in Table 3, unless proof 
+load testing is specified in the inquiry and purchase order. 
+6.2 Proof Load: 
+6.2.1 Nuts of each grade, except those listed in 6.1.2, 
+shall withstand the proof load stress specified for the grade, 
+size, style, thread series, and surface finish of the nut in 
+Table 3 and Table 4. 
+6.2.2 Nuts hot dip or mechanically zinc coated in 
+accordance with 4.7.2 or 4.7.3 shall be proof load tested 
+after zinc coating and overtapping. 
+7. Dimensions 
+7.1 Unless otherwise specified, nuts shall be plain 
+(uncoated) and shall conform to the dimensions prescribed 
+in ANSI B18.2.2. 
+7.2 Hex and hex-slotted nuts over 1½ to 2 in. inclusive 
+shall have dimensions conforming to ANSI Bl8.2.2 calcu­
+lated using the formulas for the 1 ¼ through 1 ½ in. size 
+range in Appendix III (Formulas for Nut Dimensions) of 
+ANSI Bl8.2.2. 
+7.3 Threads: Plain (Uncoated) Nuts 
+7.3.1 Unless otherwise specified, the threads shall 
+conform to the dimensions for coarse threads with Class 2B 
+tolerances prescribed in ANSI B 1.1. 
+7.4 Threads: Nuts Hot Dip Zinc Coated Specification 
+F 2329 (4.7.2) 
+7.4.1 Nuts to be used on bolts with Class 2A threads 
+before hot-dip zinc coating, and then hot-dip zinc coated 
+in accordance with Specification F 2329, shall be tapped 
+oversize after coating, to the minimum and maximum 
+thread dimensions in Table 5. The major and minor diame­
+ters shall also be increased by the allowance to provide the 
+corresponding minimum and maximum major and minor 
+diameters. 
+1.5 Threads: Nuts With Other Coatings 
+7.5.1 Nuts to be used on bolts mechanically zinc 
+coated or on bolts hot-dip zinc-coated to a specification 
+other than Specification F 2329, or otherwise hot-dip 
+coated, shall be tapped oversize by a diametral amount 
+sufficient to permit assembly on the coated bolt thread, 
+unless other requirements are specified in the inquiry or 
+purchase order. 
+7.5.2 When specifically permitted by the purchaser, 
+nuts for bolts with electrodeposited coating, such as cad­
+mium, zinc, and so forth, or with chemically applied coat­
+ing may be tapped oversize by a diametral amount sufficient 
+to permit assembly on the coated bolt thread. 
+956 
+7 .5.3 The allowable oversize tapping shall not 
+exceed that specified in Table 5. 
+8. Workmanship 
+8.1 Surface discontinuity limits shall be in accordance 
+with Specification F 812/F 812M. 
+9. Number of Tests 
+9.1 The requirements of this specification shall be met 
+in continuous mass production for stock, and the manufac­
+turer shall make sample inspections to ensure that the prod­
+uct conforms to the specified requirements. Additional tests 
+of individual shipments of material are not ordinarily con­
+templated. Individual heats of steel are not identified in 
+the finished product. 
+9.2 When additional tests are specified in the inquiry 
+and purchase order, a lot, for purposes of selecting test 
+samples, shall consist of all material offered for inspection 
+at one time that has the following common characteristics: 
+9.2.1 Grade, 
+9.2.2 Nominal size, 
+9.2.3 Style of nut, 
+9.2.4 Thread series and class, and 
+9.2.5 Surface finish. 
+9.3 Unless otherwise specified in the inquiry and pur­
+chase order, the number of tests for each lot of required 
+property shall be as follows: 
+Number of Nuts in Lot 
+800 and under 
+801 to 8 000 
+8 001 to 22 000 
+Over 22 000 
+Number of Specimens 
+2 
+3 
+5 
+9.4 If any test specimen shows flaws, it may be dis­
+carded and another specimen substituted.
+
+=== Page 1057 ===
+
+ASME BPVC.II.A-2025 SA-563 
+9.5 Should any specimen fail to meet the requirements 
+of any specified test, double the number of specimens from 
+the same lot shall be tested for this property, in which case 
+all of the additional specimens shall meet the specifications. 
+10. Test Methods 
+10.1 Tests shall be conducted in accordance with Test 
+Methods F 606. 
+11. Report 
+11.1 When specified in the order, the manufacturer 
+shall furnish a test report ce1tified to be the last completed 
+set of mechanical tests for each stock size in each shipment. 
+12. Inspection 
+12.1 If the inspection described in 12.2 is required by 
+the purchaser, it shall be specified in the inquiry and con­
+tract or order. 
+12.2 The inspector representing the purchaser shall 
+have free entry to all parts of the manufacturer's works 
+that concern the manufacture of the material ordered. The 
+manufacturer shall afford the inspector all reasonable facili­
+ties to satisfy him that the material is being furnished in 
+accordance with this specification. All tests and inspections 
+required by the specification that are requested by the pur­
+chaser's representative shall be made before shipment, and 
+shall be conducted as not to interfere unnecessarily with 
+the operation of the works. 
+13. Rejection and Rehearing 
+13.1 Material that fails to conform to the requirements 
+of this specification may be rejected. Rejection should be 
+reported to the producer or supplier promptly and in writ­
+ing. In case of dissatisfaction with the results of the test, 
+- - - - - - - - - the.producer.or_ sJJp_plier_m_ay_ ll!_al<:e _Ehl_i1!1 f?r_ a _Ee_liearing. 
+14. Product Marking 
+14.1 Nuts made to the requirements of Grades 0, A, 
+and B are not required to be marked unless individual 
+marking is specified in the inquiry and order. When individ­
+ual marking is required, the mark shall be the grade letter 
+symbol on one face of the nut. 
+14.2 Heavy hex nuts made to the requirements of 
+Grade C (Note 4) shall be marked on one face with three 
+circumferential marks 120° apart. 
+14.3 Heavy hex nuts made to the requirements of 
+Grade C3 shall be marked on one face with three circumfer­
+ential marks 120° apart and the numeral 3. In addition, the 
+manufacturer may add other distinguishing marks indicat­
+ing that the nut is atmospheric corrosion resistant and of 
+a weathering type. 
+14.4 Nuts made to the requirements of Grade D shall 
+be marked with the grade symbol, D (Note 4) on one face. 
+14.5 Nuts made to the requirements of Grade DH shall 
+be marked with the grade symbol, DH (Note 4) on one face. 
+14.6 Heavy hex nuts made to the requirements of 
+Grade DH3 shall be marked with the grade symbol DH3 
+on one face. Hex nuts made to the requirements of DH3 
+shall be marked with the symbol HX3 on one face. In 
+addition, the manufacturer may add other distinguishing 
+marks indicating that the nut is atmospheric corrosion resis­
+tant and of a weathering type. 
+14.7 In addition, nuts of Grades C, C3, D, DH, and 
+DH3 and hex nuts made to the requirements of DH3, shall 
+be marked with a symbol to identify the manufacturer. 
+14.8 Marks may be raised or depressed at the option 
+of the manufacturer. However, if markings are located on 
+the bearing surface, they shall be depressed. 
+14.9 Grade and manufacturer's identification shall be 
+separate and distinct. The two identifications shall prefera­
+bly be in different locations and, when on the same level, 
+shall be separated by at least two spaces. 
+NOTE 4- See Table 3 for marking of equivalent nuts made in accordance 
+with requirements of Specification A 194/ A 194M. 
+15. Packaging and Package Marking 
+15.1 Packaging: 
+15.1.1 Unless otherwise specified, packaging shall 
+be in accordance with Practice D 3951. 
+15.1.2 When special packaging requirements are 
+required, they shall be defined at the time of the inquiry 
+and order. 
+15.2 Package Marking: 
+15.2.1 Each shipping unit shall include or be plainly 
+957 
+marked with the following information: 
+1.5.2.f:l- ASTM clesignation---an-d -grade; - - - - - - - - -
+15.2.1.2 Size, 
+15.2.1.3 Name and brand or trademark of the man-
+ufacturer, 
+15.2.1.4 Number of pieces, 
+15.2.1.5 Purchase order number, and 
+15.2.1.6 Country of origin. 
+16. Responsibility 
+16.1 The party responsible for the fastener shall be the 
+organization that supplies the fastener to the purchaser. 
+17. Keywords 
+17.1 alloy steel; carbon steel; nuts; steel; weathering 
+steel
+
+=== Page 1058 ===
+
+SA-563 ASME BPVC.II.A-2025 
+TABLE 1 
+CHEMICAL REQUIREMENTS FOR GRADES 0, A, B, C, 
+D, AND DH NUTS 
+Composition, % 
+Grade of Manganese, Phosphorus, Sulfur, 
+Nut Analysis Carbon min max max 
+0, A, B, C heat 0.55 max 0.12 0.15(A) 
+product 0.58 max 0.13 (B) 
+D (Cl heat 0.55 max 0.30 0.04 0.05 
+product 0.58 max 0.27 0.048 0.058 
+heat 0.20-0.55 0.60 0.04 0.05 
+DH (Cl product 0.18-0.58 0.57 0.048 0.058 
+NOTES: 
+(Al For Grades 0, A, and Ba sulfur content of 0.23% max is acceptable 
+with the purchasers approval. 
+CB) Acid bessemer steel only. 
+(Cl For Grades D and DH a sulfur content of 0.05-0.15% is acceptable 
+provided the manganese is 1.35% min. 
+958
+
+=== Page 1059 ===
+
+ASME BPVC.ll.A-2025 SA-563 
+--- TABLE 2 
+CHEMICAL REQUIREMENTS FOR GRADES C3 AND DH3 NUTS 
+Composition, % 
+Classes for Grade C3 Nuts (A) Grade DH3 
+Element N A B C D E F Nuts 
+Carbon: 
+Heat analysis 0.33-0.40 0.38-0.48 0.15-0.25 0.15-0.25 0.20-0.25 0.20-0.25 0.20-0.53 
+Product analysis 0.31-0.42 0.36-0.50 0.14-0.26 0.14-0.26 0.18-0.27 0.19-0.26 0.19-0.55 
+Manganese: 
+Heat analysis 0.90-1.20 0.70-0.90 0.80-1.35 0.40-1.20 0.60-1.00 0.90-1.20 0.40 min 
+Product analysis 0.86-1.24 0.67-0.93 0.76-1.39 0.36-1.24 0.56-1.04 0.86-1.24 0.37 min 
+Phosphorus: 
+Heat analysis 0.07-0.15 0.040 max 0.06-0.12 0.035 max 0.040 max 0.040 max 0.040 max 0.046 max 
+Product analysis 0.07-0.155 0.045 max 0.06-0.125 0.040 max 0.045 max 0.045 max 0.045 max 0.052 max 
+Sulfur: 
+Heat analysis 0.050 max 0.050 max 0.050 max 0.040 max 0.050 max 0.040 max 0.040 max 0.050 max 
+Product analysis 0.055 max 0.055 max 0.055 max 0.045 max 0.055 max 0.045 max 0.045 max 0.055 max 
+Silicon: 
+Heat analysis 0.20-0.90 0.15-0.35 0.30-0.50 0.15-0.35 0.25-0.50 0.15-0.35 0.15-0.35 
+Product analysis 0.15-0.95 0.13-0.37 0.25-0.55 0.13-0.37 0.20-0.55 0.13-0.37 0.13-0.37 
+Copper: 
+Heat analysis 0.25-0.55 0.25-0.45 0.20-0.40 0.20-0.50 0.30-0.50 0.30-0.60 0.20-0.40 0.20 min 
+Product analysis 0.22-0.58 0.22-0.48 0.17-0.43 0.17-0.53 0.27-0.53 0.27-0.63 0.17-0.43 0.17 min 
+Nickel: 
+Heat analysis 1.00 max 0.25-0.45 0.50-0.80 0.25-0.50 0.50-0.80 0.30-0.60 0.20-0.40 0.20 min (BJ 
+Product analysis 1.03 max 0.22-0.48 0.47-0.83 0.22-0.53 0.47-0.83 0.27-0.63 0.17-0.43 0.17 min 
+Chromium: 
+Heat analysis 0.30-1.25 0.45-0.65 0.50-0.75 0.30-0.50 0.50-1.00 0.60-0.90 0.45-0.65 0.45 min 
+Product analysis 0.25-1.30 0.42-0.68 0.47-0.83 0.27-0.53 0.45-1.05 0.55-0.95 0.42-0.68 0.42 min 
+Vanadium: 
+Heat analysis 0.020 min 
+Product analysis 0.010 min 
+Molybdenum: 
+Heat analysis 0.06 max 0.10 max 0.15 min <Bl 
+Product analysis 0.07 max 0.11 max 0.14 min 
+Titanium: 
+Heat analysis 0.05 max 
+Product analysis 
+NOTES: 
+(Al C3 nuts may be made of any of the above listed material classes. Selection of the class shall be at the option of the manufacturer. 
+_(B)_Nicke_l_Qrmolybdenum may b€_ll_sed._ 
+- -
+959
+
+=== Page 1060 ===
+
+SA-563 ASME BPVC.II.A-2025 
+,,,--~ 
+TABLE 3 
+MECHANICAL REQUIREMENTS 
+Nuts With UNC, 8 UN, 6 UN and Coarser Pitch Threads 
+Proof Load Stress, ksi (Al Hardness 
+Nominal Nut Style of Non-Zinc-Coated Zinc-Coated Brinell Rockwell 
+Grade of Nut Size, in. Nut Nuts (B) Nuts (Bl min max min max 
+0 ¼ to 1½ square 69 52 103 302 855 C32 
+A ¼ to 1½ square 90 68 116 302 868 C32 
+0 ¼ to 1½ hex 69 52 103 302 855 C32 
+A ¼ to 1½ hex 90 68 116 302 868 C32 
+8 ¼ to 1 hex 120 90 121 302 869 C32 
+8 ' 11/s to 1½ hex 105 79 121 302 869 C32 
+D (Cl ¼ to 1½ hex 135 135 159 352 884 C38 
+DH (D) ¼ to 1½ hex 150 150 248 352 C24 C38 
+DH3 ½ to 1 hex 150 150 248 352 C24 C38 
+A ¼ to 4 heavy hex 100 75 116 302 868 C32 
+8 ¼ to 1 heavy hex 133 100 121 302 869 C32 
+8 11/s to 1½ heavy hex 116 87 121 302 869 C32 
+C (Cl ¼ to 4 heavy hex 144 144 143 352 878 C38 
+C3 ¼ to 4 heavy hex 144 144 143 352 878 C38 
+D (Cl ¼ to 4 heavy hex 150 150 159 352 884 C38 
+DH (D) ¼ to 4 heavy hex 175 150 248 352 C24 C38 
+DH3 ¼ to 4 heavy hex 175 150 248 352 C24 C38 
+A ¼ to 1½ hex thick 100 75 116 302 868 C32 
+8 l ¼ to l hex thick 133 100 121 302 869 C32 
+8 11/s to 1½ hex thick 116 87 121 302 869 C32 
+D (Cl ¼ to 1½ hex thick 150 150 159 352 884 C38 
+DH (D) ¼ to 1½ hex thick 175 175 248 352 C24 C38 
+Nuts with UN F, 12 UN, and Finer Pitch Threads 
+0 ¼ to 1½ hex 65 49 103 302 855 C32 
+A ¼ to 1½ hex 80 60 116 302 868 C32 
+8 ¼ to 1 hex 109 82 121 302 869 C32 
+8 11/s to 1½ hex 94 70 121 302 869 C32 
+D (Cl ¼ to 1½ hex 135 135 159 352 884 C38 
+DH (D) ¼ to 1½ hex 150 150 248 352 C24 C38 
+A ¼ to 4 heavy hex 90 68 116 302 868 C32 
+8 ¼ to 1 heavy hex 120 90 121 302 869 C32 
+8 11/s to 1½ heavy hex 105 79 121 302 869 C32 
+D (Cl ¼ to 4 heavy hex 150 150 159 352 884 C38 
+DH (D) Xi to 4 heavy hex 175 150 248 352 C24 C38 
+A ¼ to 1½ hex thick 90 68 116 302 868 C32 
+8 ¼ to 1 hex thick 120 90 121 302 869 C32 
+8 11/s to 1½ hex thick 105 79 121 302 869 C32 
+D (Cl ¼ to 1½ hex thick 150 150 159 352 884 C38 
+DH (D) ¼ to 1½ hex thick 175 175 248 352 C24 C38 
+NOTES: 
+(Al To determine nut proof load in pounds, multiply the appropriate nut proof load stress by the tensile stress area of the thread. Stress areas 
+for U NC, UN F, and 8 UN thread series are given in Table 4. 
+(8) Non-zinc-coated nuts are nuts intended for use with externally threaded fasteners which have a plain (nonplated or noncoatedl finish or have 
+a plating or coating of insufficient thickness to necessitate overtapping the nut thread to provide assemblability. Zinc-coated nuts are nuts 
+intended for use with externally threaded fasteners which are hot-dip zinc-coated, mechanically zinc-coated, or have a plating or coating of 
+sufficient thickness to necessitate overtapping the nut thread to provide assemblability. 
+(Cl Nuts made in accordance to the requirements of Specification A 194/A 194M, Grade 2 or Grade 2H, and marked with their grade symbol 
+are acceptable equivalents for Grades C and D nuts. When A 194 zinc-coated inch series nuts are supplied, the zinc coating, overtapping, 
+lubrication and rotational capacity testing shall be in accordance with Specification A 563. 
+(D) Nuts made in accordance with the requirements of Specification A 194/A 194M, Grade 2H, and marked with its grade symbol are an acceptable 
+equivalent for Grade DH nuts. When A 194 zinc-coated inch series nuts are supplied, the zinc coating, overtapping, lubrication and rotational 
+capacity testing shall be in accordance with Specification A 563. '~ 
+960
+
+=== Page 1061 ===
+
+ASME BPVC.II.A-2025 SA-563 
+-~-. TABLE 4 TABLE 5 
+TENSILE STRESS AREAS THREAD DIMENSIONS AND OVERTAPPING 
+Nominal Nominal Nominal ALLOWANCES FOR NUTS HOT DIP ZINC COATED PER 
+Size- UNC Size- UNF Size- 8 UN SPECIFICATION F 2329 
+Threads Tensile Stress Threads Tensile Stress Threads Tensile Stress 
+per Inch Area, A, in. 2 per Inch Area A, in. 2 per Inch Area, A, in. 2 Nominal Nut Diametral Pitch Diameter, in. Size, in. and Allowance, 
+1/4-20 0.0318 ¾-28 0.0364 Pitch in. (Al min max 
+½6-18 0.0524 5/ir24 0.0580 
+¾-16 0.0775 ¾-24 0.0878 0.250-20 0.016 0.2335 0.2384 
+1/irl4 0.1063 ½6-20 0.1187 0.312-18 0.017 0.2934 0.2987 
+½-13 0.1419 ½-20 0.1599 0.375-16 0.017 0.3514 0.3571 
+½6-12 0.182 ½6-18 0.203 0.437-14 0.018 0.4091 0.4152 
+¾-11 0.226 o/s-18 0.256 0.500-13 0.018 0.4680 0.4745 
+¾-10 0.334 ¾-16 0.373 0.562-12 0.020 0.5284 0.5352 
+7/s-9 0.462 7/s-14 0.509 0.625-11 0.020 0.5860 0.5932 
+_ .. ..-----, 1-8 0.606 1-12 0.663 1-8 0.606 0.750-10 0.020 0.7050 0.7127 
+1 1/s-7 0.763 1¾-12 0.856 1¾-8 0.790 0.875-9 0.022 0.8248 0.8330 
+1¾-7 0.969 1¼-12 1.073 1¾-8 1.000 1.000-8 0.024 0.9428 0.9516 
+1¾-6 1.155 1¾-12 1.315 1¾-8 1.233 1.125-8 0.024 1.0678 1.0768 
+1½-6 1.405 1½-12 1.581 1½-8 1.492 1.125-7 0.024 1.0562 1.0656 
+1¾-5 1.90 13/,.-8 2.08 1.250-8 0.024 1.1928 1.2020 
+2-43/2 2.50 2-8 2.77 1.250-7 0.024 1.1812 1.1908 
+2¾-4½ 3.25 2¼-8 3.56 1.375-8 0.027 1.3208 1.3301 
+2½-4 4.00 2½-8 4.44 1.375-6 0.027 1.2937 1.3041 
+2¾-4 4.93 2¾-8 5.43 1.500-8 0.027 1.4458 1.4553 
+3-4 5.97 3-8 6.51 1.500-6 0.027 1.4187 1.4292 
+3¾-4 7.10 3¼-8 7.69 1.750-5 0.050 1.6701 1.6817 
+3½-4 8.33 3½-8 8.96 2.000-4.5 0.050 1.9057 1.9181 
+3¾-4 9.66 3¾-8 10.34 2.250-4.5 0.050 2.1557 2.1683 
+4-4 11.08 4-8 11.81 2.500-4 0.050 2.3876 2.4011 
+2.750-4 0.050 2.6376 2.6513 
+GENERAL NOTE: A, The stress area is calculated as follows: 3.000-4 0.050 2.8876 2.9015 
+3.250-4 0.050 3.1376 3.1517 
+3.500-4 0.050 3.3876 3.4019 
+As= 0.7854 [o- 0 •9 : 43 r 
+3.750-4 0.050 3.6376 3.6521 
+3.750-4 0.050 3.6376 3.6521 
+4.000-4 0.050 3.8876 3.9023 
+where: NOTE: 
+As = stress area, in. 2 , (A) These allowances also apply to the minimum and maximum major 
+D = nominal size, in., and and minor diameters. 
+n = threads per inch. 
+961
+
+=== Page 1062 ===
+
+SA-563 ASME BPVC.II.A-2025 
+SUPPLEMENTARY REQUIREMENTS 
+The following supplementary requirement shall be applied only when specified by the 
+purchaser on the contract or order. Details of these supplementary requirements shall 
+be agreed upon in writing between the manufacturer and purchaser. This supplementary 
+requirement shall in no way negate any requirement of the specification itself. 
+S1. Supplementary Lubricant Requirements for 
+Nuts 
+S1.1 Nuts, regardless of specified finish, shall be pro­
+vided with an additional lubricant that shall be clean and 
+dry to the touch. 
+S2. Lubricant Dye 
+S2.1 In addition to the requirements of Supplementary 
+Requirement S 1, the lubricant shall have a contrasting color 
+so that it's presence is visually obvious. 
+962 
+S3. Lubricant Placement 
+The lubricant shall be applied to specified surfaces on 
+the nuts, such as (I) principally only those portions which 
+are threaded, or (2) on threaded portions and either only 
+one bearing face or both bearing faces, as required, or (3) 
+such other specific lubricant placement criteria as are 
+agreed to between the purchaser and the user.
+
+=== Page 1063 ===
+
+ASME BPVC.ILA-2025
+
+APPENDIX
+
+(Nonmandatory Information)
+
+X1. INTENDED APPLICATION
+X11 Table X1.1 gives additional information for the
+intended application of nuts.
+
+963
+
+SA-563
+
+=== Page 1064 ===
+
+SA-563 
+Grade of Bolt Surface Finish 
+(D) (E) 
+A 307 non-zinc-
+coated and 
+Grade A zinc-coated 
+A 307 non-zinc-coated 
+and zinc-
+Grade B coated 
+A 325 non-zinc-coated 
+Type l zinc-coated 
+A 325 Type 3 non-zinc-coated 
+A 354 non-zinc-coated 
+Grade BC zinc-coated 
+A 354 non-zinc-coated Grade BD 
+A 394 zinc-coated Type 0 
+A 394 zinc-coated Types 1 and 2 
+A 394 non-zinc-coated Type 3 
+A 449 non-zinc-coated 
+Types l and 2 zinc-coated 
+A 490 non-zinc-coated Types l and 2 
+A 490 Type 3 non-zinc-coated 
+A 687 non-zinc-coated 
+zinc-coated 
+NOTES: 
+ASME BPVC.II.A-2025 
+TABLE Xl.l 
+NUT AND BOLT SUITABILITY GUIDE 
+A563 Grade and ANSI Nut Style (A) 
+Nominal Recommended (B) 
+Size in. Hex Heavy Hex 
+¼ to 1½ A 
+>l½ to 2 A 
+>2 to 4 A 
+¼ to 1½ A 
+>l½ to 2 A 
+>2 to 4 A 
+½ to 1½ C 
+½ to 1½ DH 
+½ to 1½ C3 
+¼ to 1½ C 
+>l ½ to 4 C 
+¼ to 1½ DH 
+>1 1/2t04 DH 
+¼ to 1½ DH 
+>l½ to 4 DH 
+½ to 1 A 
+½ to 1 DH 
+½ to l DH3 
+¼ to 1½ B 
+>l % to 3 A 
+¼ to 1½ DH 
+>l½ to 3 DH 
+½ to 1½ DH 
+½ to 1½ DH3 
+1¼ to 3 D 
+1¼ to 3 DH 
+Square 
+A 
+A 
+Hex 
+B,D,DH 
+A(F) 
+B,D,DH 
+A (Fl 
+D,DH 
+DH 
+B,D 
+D 
+D,DH 
+D,DH 
+Suitable (C) 
+Heavy Hex 
+A,B,C,D,DH,DH3 
+C,D,DH,DH3 
+C,D,DH,DH3 
+B,C,D,DH,DH3 
+C,D,DH,DH3 
+C,D,DH,DH3 
+C3,D,DH,DH3 
+DH3 
+C3,D,DH,DH3 
+C3,D,DH,DH3 
+D,DH,DH3 
+DH3 
+C3 
+B,C,C3,D,DH,DH3 
+C,C3,D,DH,DH3 
+D 
+D 
+DH3 
+DH,DH3 
+Hex Thick 
+A,B,D,DH 
+A,B,D,DH 
+D,DH 
+DH 
+D,DH 
+B,D,DH 
+D,DH 
+(Al The availability of DH nuts in nominal sizes¾ in. and larger is very limited and generally available only on special orders for 50 000 pieces 
+or more. For smaller quantities A 194 Gr. 2H nuts should be considered. 
+(BJ "Recommended" denotes a commercially available nut having the most suitable mechanical properties and dimensional configuration (style) 
+that will make it possible to torque the bolt to the required load when used in combination with the nut. 
+(Cl "Suitable" denotes nuts having mechanical properties that will make it possible to torque the bolt to the required load when used in combination 
+with the nut; but, which require consideration of dimensional configuration (style) suitability and availability. Others are not suitable. 
+(DJ The term "bolt" includes all externally threaded types of fasteners. 
+(El Non-zinc-coated nuts are nuts intended for use with externally threaded fasteners which have a plain (nonplated or noncoated) finish or have 
+a plating or coating of insufficient thickness to necessitate overlapping the nut thread to provide assemblability. Zinc-coated nuts are nuts 
+intended for use with externally threaded fasteners which are hot-dip zinc-coated, mechanically zinc-coated, or have a plating or coating of 
+sufficient thickness to necessitate overlapping the nut thread to provide assemblability. 
+(Fl Hex nuts in nominal sizes over 1 1/2 to 2 in. inclusive are not covered in the tables of tabulated sizes in ANSI BlB.2.2 but are commercially 
+available. Such nuts are suitable. See 7.2 for dimensions. 
+964
+
+=== Page 1065 ===
+
+ASME BPVC.ILA-2025 SA-564/SA-564M
+SPECIFICATION FOR HOT-ROLLED AND
+COLD-FINISHED AGE-HARDENING STAINLESS STEEL |
+BARS AND SHAPES
+CxS SA-564./SA-564M ily
+os ® Standards Worldwide :
+(Identical with ASTM Specification A564/A564M-04(2009).) :
+965
+
+=== Page 1066 ===
+
+SA-564/SA-564M ASME BPVC.II.A-2025 
+SPECIFICATION FOR HOT-ROLLED 
+AND COLD-FINISHED AGE-HARDENING 
+STAINLESS STEEL BARS AND SHAPES 
+SA-564/SA-564M cO 
+INTSRNATIONAL 
+Standards Worldwide 
+[Identical with AS1M Specification A 564/A 564M-04(2009).] 
+1. Scope 
+1.1 This specification covers bars and shapes of age­
+hardening stainless steels. Hot-finished or cold-finished 
+rounds, squares, hexagons, bar shapes, angles, tees, and 
+channels are included; these shapes may be produced by 
+hot rolling, extruding, or forging. Billets or bars for reforg­
+ing may be purchased to this specification. 
+1.2 These steels are generally used for parts requiring 
+corrosion resistance and high strength at room temperature, 
+or at temperatures up to 600°F [315°C]; 700°F (370°C] 
+for Type 632; 840°F [450°C] for Type UNS S46910. They 
+are suitable for machining in the solution-annealed condi­
+tion after which they may be age-hardened to the mechani­
+cal properties specified in Section 7 without danger of 
+cracking or distortion. Type XM-25 is machinable in the 
+as-received fully heat treated condition. Type UNS S46910 
+is suitable for machining in the solution-annealed, cold­
+worked, and aged-hardened condition. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+A 314 Specification for Stainless Steel Billets and Bars for 
+Forging 
+A 370 Test Methods and Definitions for Mechanical Test­
+ing of Steel Products 
+A 484/ A 484M Specification for General Requirements for 
+Stainless Steel Bars, Billets, and Forgings 
+A 705/ A 705M Specification for Age-Hardening, Stainless 
+Steel Forgings 
+A 751 Test Methods, Practices, and Terminology for 
+Chemical Analysis of Steel Products 
+E 527 Practice for Numbering Metals and Alloys (UNS) 
+2.2 Other Documents: 
+SAE J1086 Recommended Practice for Numbering Metals 
+and Alloys (UNS) 
+1.3 Types 631 and 632 contain a large amount of ferrite 3. Ordering Information 
+in the microstructure and can have low ductility in forgings 3.1 It is the responsibility of the purchaser to specify 
+and larger diameter bars. Applications should be limited all requirements that are necessary for material ordered 
+____ _.t~o__.,s'!!m""all'!!_'di,.,,,'cf!.am~e~te~r_.,b,..ar_,__.. ______________ _l,duLlln""de..,,r~t,.._h,.,_,js"---"':specification.~~-Such~.equireme11ts-m~)LinC-ludG-------------+--
+l.4 The values stated in either inch-pound units or SI but are not limited to the following: 
+(metric) units are to be regarded separately as standards; 3.1.1 Quantity (weight or number of pieces), 
+within the text and tables, the SI units are shown in [brack- 3.1.2 Type or UNS designation (Table 1), 
+ets]. The values stated in each system are not exact equiva-
+lents; therefore, each system must be used independent of 3 •1 •3 Specific melt type when required, 
+the other. Combining values from the two systems may 3.1.4 Heat treated condition (5.1), 
+result in nonconformance with the specification. 3.1.5 Transverse properties when required (7.6), 
+1.5 Unless the order specifies an "M" designation, the 3.1.6 Finish (Specification A 484/ A 484M), 
+material shall be furnished to inch-pound units. 317 S rf ti' f h p (5 2 1) . . u aceprepara ono s a es .. , 
+NOTE 1 - For forgings, see Specification A 705/ A 705M. 3.1.8 Size, or applicable dimension including diame-
+NOTE 2 - For billets and bars for forging see Specification A 314. ter, thickness, width, length, etc., 
+966
+
+=== Page 1067 ===
+
+ASME BPVC.11.A-Z0ZS SA-564/SA-564M 
+3.1.9 Preparation for delivery (Specification 
+A 484/ A 484M), 
+3.1.10 Special requirements (refer to 7.4 and 8.3), 
+3.1.11 Marking requirements (Specification 
+A 484/ A 484M), and 
+3.1.12 ASTM designation and date of issue if other 
+than that currently published. 
+3.2 If possible, the intended use of the item should be 
+given on the purchase order especially when the item is 
+ordered for a specific end use or uses. 
+NOTE 3 -A typical ordering description is as follows: 5000 lb [2270 kg] 
+Type 630, Solution-Annealed Cold Finished Centerless Ground, l½ in. 
+[38.0 mm] round bar, 10 to 12 ft [3.0 to 3.6 m] in length, ASTM A 564 
+dated ___ . End use: valve shafts. 
+4. General Requirements 
+4.1 In addition to the requirements of this specification, 
+all requirements of the current edition of Specifications 
+A 484/ A 484M shall apply. Failure to comply with the 
+general requirements of Specification A 484/ A 484M con­
+stitutes nonconformance with this specification. 
+5. Materials and Manufacture 
+5.1 Heat Treatment and Condition: 
+5.1.1 Material of types other than XM-16, XM-25, 
+and Type 630 shall be furnished in the solution-annealed 
+condition, or in the equalized and oven-tempered condition, 
+as noted in Table 2, unless otherwise specified by the 
+purchaser. 
+5.1.1.1 Types 630, XM-16, and XM-25 may be 
+furnished in the solution-annealed or age-hardened con­
+dition. 
+5.1.2 Type UNS S46910 shall be funished in solu­
+tton-annealed-contlitiorr per-Tab-le--2-,or-solutcion-anne--aleEl­
+and cold-worked condition per Table 3, or aged-hardened 
+condition per Table 4. 
+5.1.3 Reforging stock shall be supplied in a condition 
+of heat treatment to be selected by the forging manufac­
+turer. 
+5.2 Shapes may be subjected to either Class A or 
+Class C preparation as specified on the purchase order. 
+5.2.1 Class A consists of preparation by grinding for 
+the removal of imperfections of a hazardous nature such 
+as fins, tears, and jagged edges provided the underweight 
+tolerance is not exceeded and the maximum depth of grind­
+ing at any one point does not exceed 10% of the thickness 
+of the section. 
+5.2.2 Class C consists of preparation by grinding for 
+the removal of all visible surface imperfections provided 
+the underweight tolerance is not exceeded and the maxi­
+mum depth of grinding at any one point does not exceed 
+10% of the thickness of the section. 
+6. Chemical Composition 
+6.1 Each alloy covered by this specification shall con­
+form to the chemical requirements specified in Table 1. 
+6.2 Methods and practices relating to chemical analysis 
+required by this specification shall be in accordance with 
+Test Methods, Practices, and Terminology A 751. 
+7. Mechanical Properties Requirements 
+7 .1 The material, as represented by mechanical test 
+specimens, shall conform to the mechanical property 
+requirements specified in Table 2 or Table 3 and shall be 
+capable of developing the properties in Table 4 when heat 
+treated as specified in 5 .1. 
+7.2 Samples cut from bars for forging stock shall con­
+form to the mechanical properties of Table 2 and Table 4 
+when heat treated as specified in Table 2 and Table 4. 
+7.3 The yield strength shall be determined by the offset 
+method as described in the current edition of Test Methods 
+and Definitions A 370. The limiting permanent offset shall 
+be 0.2% of the gage length of the specimen. 
+7.4 The impact requirement shall apply only when 
+specified in the purchase order. When specified, the mate­
+rial, as represented by impact test specimens, shall be capa­
+ble of developing the impact property requirements 
+specified in Table 4 when heat treated in accordance 
+with 5.1. 
+7.5 Longitudinal impact requirements are not applica­
+ble to bars less than¾ in. (16.9 mm) diameter or size or 
+_Jlat~les~than ¾ in. (16.9 mm) thick. 
+967 
+7.6 Tensile and impact requirements in the transverse 
+(through thickness) direction are not applicable to bars less 
+than 3 in. [7 5 mm] diameter in size or flats less than 3 in. 
+[75 mm] thick. 
+7.7 Material tensile tested and, when specified, impact 
+tested in the transverse (through thickness) direction and 
+meeting the requirements shown in Table 4 need not be 
+tested in the longitudinal direction. 
+8. Number of Tests 
+8.1 At least one room temperature tension test and one 
+or more hardness tests shall be made on each lot. 
+8.2 One or more hardness tests and at least one tension 
+test shall be made from each lot on test samples heat
+
+=== Page 1068 ===
+
+SA-564/SA-564M ASME BPVC.II.A-2025 
+treated as required in 5 .1. Unless otherwise specified in 
+the purchase order, the condition of hardening heat treat­
+ment shall be at the option of the producer. The tests shall 
+meet the requirements of Table 4. 
+8.3 When specified in the purchase order, the impact 
+test shall consist of testing three Charpy V-notch Type A 
+specimens in accordance with Methods and Definitions 
+A 370. The specimens shall be heat treated in accordance 
+with 5.1. Unless otherwise specified in the purchase order, 
+the condition of hardening heat treatment shall be at the 
+968 
+option of the producer and testing shall be done at 70 to 
+80°F [20 to 25°C]. The tests shall meet the requirements 
+of Table 4. When tested at temperatures other than 70 to 
+80°F, [20 to 25°C] the impact test requirements will be as 
+agreed upon by purchaser and producer. 
+9. Keywords 
+9.1 age-hardening stainless steel; precipitation harden­
+ing stainless steel; stainless steel bars; stainless steel shapes
+
+=== Page 1069 ===
+
+'° er, 
+'° 
+(--
+UNS 
+TABLE 1 
+CHEMICAL REQUIREMENTSA 
+Composition, % Composition, % 
+Designation 8 Type Carbon Manganese Pnosphorus Sulfur Silicon Chromium Nickel 
+S17400 630 0.07 1.00 0.040 0.030 1.00 15.00-17.50 3.00-5.00 
+S17700 631 0.09 1.00 0.040 0.030 1.00 16.00-18.00 6.50-7.75 
+S15700 632 0.09 1.00 0.040 0.030 1.00 14.00-16.00 6.50-7.75 
+S35500 634 0.10-0.15 0.50-1.25 0.040 0.030 0.50 15.00-16.00 4.00-5.00 
+S17600 635 0.08 1.00 0.040 0.030 1.00 16.00-17.50 6.00-7.50 
+S15500 XM-12 0.07 1.00 0.040 0.030 1.00 14.00-15.50 3.50-5.50 
+S13800 XM-13 0.05 0.20 0.010 0.008 0.10 12.25-13.25 7.50-8.50 
+S45500 XM-16 0.03 0.50 0.015 0.015 0.50 11.00-12.50 7.50-9.50 -
+S45503 . . . 0.010 0.50 0.010 0.010 0.20 11.00-12.50 7.50-9.50 
+S45000 XM-25 0.05 1.00 0.030 0.030 1.00 14.00-16.00 5.00-7.00 
+10.75-
+S46500 . . . 0.02 0.25 0.015 0.010 0.25 11.00-12.50 11.25 
+S46910 . . . 0.030 1.00 0.030 0.015 0.70 11.0-13.0 8.0-10.0 
+A Limits are in percent maximum unless shown as a rar ge or stated otherwise. 
+8 New designation established in accordance with Prac1 ice E 527 and SAE Jl086. 
+c Columbium plus tantalum 0.15-0.45. 
+0 Nitrogen 0.07-0.13. 
+£ Nitrogen 0.01. 
+F Columbium plus tantalum 0.10-0.50. 
+G Columbium 8 times carbon minimum. 
+---- ~----- ··-·--- -··----- ·-- ------ -·---··. ,-1-
+' 
+') 
+Aluminum Molybdenum Titanium 
+... . .. . .. 
+0.75-1.50 ... . .. 
+0.75-1.50 2.00-3.00 ... 
+... 2.50-3.25 . .. 
+0.40 ... 0.40-1.20 
+... . .. . .. 
+0.90-1.35 2.00-2.50 ... 
+... 0.50 0.90-1.40 
+... 0.50 1.00-1.35 
+... 0.50-1.00 . .. 
+. . . 0.75-1.25 1.50-1.80 
+0.15-0.50 3.0-5.0 0.50-1.20 
+- -- •-a-. - ' 
+Copper 
+3.00-5.00 
+. .. 
+. .. 
+. .. 
+. .. 
+2.5Q-4.50 
+. .. 
+1.50-2.50 
+1.50-2.50 
+1.25-1.75 
+... 
+1.5-3.5 
+Other 
+Elements 
+C 
+. .. 
+. .. 
+0 
+. .. 
+C 
+£ 
+F 
+F 
+G 
+£ 
+... 
+) 
+i 
+CCI 
+~ = ~ 
+N 
+0 
+N c;n 
+~ r.it 
+-t 
+~ r.it 
+i
+
+=== Page 1070 ===
+
+'° " 0 
+( 
+TABLE 2 
+SOLUTION TREATMENT 
+Mechanical Test Requirements in Solution Treated ConditionA 
+UNS 
+Designation 
+Sl7400 
+Sl7700 
+Sl5700 
+S35500 
+Sl7600 
+Sl5500 
+Sl3800 
+S45500 
+S45000 
+S45503 
+S46500 
+S46910 
+A See 7.1. 
+8 See 7.3. 
+Type 
+630 
+631 
+632 
+634£ 
+635 
+XM-12 
+XM-13 
+XM-16 
+XM-25 
+Condition 
+A 
+A 
+A 
+A 
+A 
+A 
+A 
+A 
+A 
+A 
+A 
+A 
+Solution Treatment 
+1900 ± 25°F [1040 ± 15°CJ (cool 
+as tequired to below 90°F 
+C321Cll 
+r 
+.L '7vv 125°F [1040 ± 15°CJ (water 
+que1ch) 
+1900 ~ 25°F [1040 ± 15°CJ (water 
+que1ch) 
+1900j± 25°F [1040 ± 15°CJ 
+que ch, hold not less than 3 h at 
+min s 100°F or lower 
+1900 t 25°F [1040 ± 15°CJ (air 
+cool 
+1900 }' 25°F [1040 ± 15°CJ (cool 
+as equired to below 90°F 
+(32° )) 
+➔ ____ 7 25°F [925 ± 15°CJ Cool as 
+required to below 60°F [16°CJ 
+1525 t 25°F [830 ± 15°CJ (cool 
+rapiqly) 
+1900 :!i 25°F [1040 ± 15°CJ (cool 
+rapijly) 
+r 
+____ J 25°F [830 ± 15°CJ (cool 
+rapitjly) 
+1800 :!i 25°F [980 ± 15°CJ (oil or 
+water quench), hold for min. 8 h 
+at milnus 100°F (73°C), air warm 
+1830 ~ 2050°F [1000 - 1120°CJ 
+(cool! rapidly) 
+Tensile Strength, 
+min 
+ksi [MPaJ 
+120 [825] 
+125F [860] 
+87 [600] 
+Yield Strength, 
+min 8 
+ksi [MPaJ 
+75 [515] 
+95 [655] 
+58 [400] 
+Elongation 
+in 2 in. 
+[SQ mm] or 
+4D, min,% 
+10 
+10 
+10 
+Reduction 
+of Area, 
+min,% 
+45 
+40 
+Hardnessc 
+Rockwell C, 
+max 
+38 
+HRB98 
+HRBlOO 
+32 
+38 
+38 
+36 
+32 
+36 
+36 
+33 
+c Either Rockwell C hardness or Brinell is permis~ble. On sizes½ in. Cl2.70 mm) and smaller, Rockwell C is preferred. 
+0 321 BH for rounds cold drawn after solution tre ting. 
+E Equalization and over-tempering treatment 142 ± 50°F (775 ± 30°CJ for not less than 3 h, cool to room temperature, heat to 1075 ± 25°F [580 ± 15°CJ for not less than 3 h. 
+F Maximum 165 ksi [1140 M PaJ tensile strength nly for sizes up to ½ in. (13 mm). 
+Brinell, 
+max 
+363 
+229 
+269D 
+363£ 
+302 
+363 
+363 
+331 
+321 
+331 
+331 
+315 
+) 
+!;I) 
+;i.. 
+cit 
+Cl\ 
+-t 
+!f; 
+~ 
+s: :s: 
+i 
+C!l 
+= 
+~ 
+~ N 
+0 
+N 
+~
+
+=== Page 1071 ===
+
+(/~, 
+( 
+Tens 
+'° "-l ,_. UNS 
+Designation Type Condition ksi 
+S46910 CW 1/z hard 131 
+CW full hard 189 
+') 
+TABLE 3 
+SOLUTION-ANNEALED AND COLD-WORKED CONDITION 
+Mechanical Test Requirements in Solution Annealed and Cold-Worked Condition 
+le Strength, Yield Strength, Elongation 
+min min in 2 in. Reduction of 
+[50 mm] or Area, min, Rockwell C, 
+[MPa] ksi [MPa] 4D, min,% % max 
+[900] 109 [750] 8 40 
+[1300] 175 [1200] 3 55 
+) 
+Hardness 
+Brinell, 
+max 
+380 
+580 
+I = 
+~ 
+~ 
+N 
+0 
+N 
+U1 
+~ 
+U1 
+°' 
+j 
+U1 
+i a:
+
+=== Page 1072 ===
+
+SA-564/SA-564M ASME BPVC.II.A-2025 
+TABLE 4 
+,,----....__ 
+MECHANICAL TEST REQUIREMENTS AFTER AGE HARDENING HEAT TREATMENTA 
+Yield Impact 
+Suggested Hardening or Aging Tensile Strength, Elongation Charpy-V, 
+Treatment, or Both•,c,o Strength, min minF in 2 in. HardnessG min 
+Applicable [50 mm] Reduction 
+Temperature, Time, Thickness, in. and Test or 4D, of area, Rockwell C, Brinell, 
+Type Condition °F [°C] h QuenchH Direction£ ksi [MPaJ l<si [MPal min,% min,% min min ft·lbf J 
+630 H900 900 [480] 1.0 air cool Up to 3 in. incl 190 [1310] 170 [1170] 10 40 40 388 
+[75 mml (L) 
+Over 3 in. [75 mm] to 35 
+8 in. incl [200 mml 
+(T) 
+H925 925 [495] 4.0 air cool Up to 3 in. incl 170 [1170] 155 [1070] 10 44 38 375 5 6.8 
+[75 mml (Ll 
+Over 3 In. [75 mm] to 38 
+8 In. incl [200 mm] 
+(T) 
+Hl025 1025 [550] 4.0 air cool 155 [1070] 145 [1000] 12 45 35 331 15 20 
+Hl075 1075 [580] 4.0 air cool 145 [lOOOl 125 [860] 13 45 32 311 20 27 
+HllOO 1100 [595] 4.0 air cool Up to 8 in. Incl 140 [965] 115 [795] 14 45 31 302 25 34 
+[200 mm] CL) 
+H1150 1150 [620] 4.0 air cool 135 [930] 105 [725] 16 50 28 277 30 41 
+Hll50M 1400 [760] for 2 h, air cool plus 115 [795] 75 [520] 18 55 24 255 55 75 
+1150 [620] for 4 h, air cool 
+Hll50D 1150 [620] for 4 h, air cool plus 125 [860] 105 [725] 16 50 24 255 30 41 
+1150 [620] for 4 h, air cool 33 max 311 
+max 
+631 RH950 l 750°F [955°Cl for not less than 
+10 min, but not more than 1 h, 
+cool rapidly to room tempera-
+lure. Cool within 24 h to minus Up to 4 in. incl. 185 [1280] 150 [1030] 6 10 41 388 100 ± 10°F [75°Cl, hold not less [100 mml (Ll 
+than 8 h. Warm in air to room 
+temperature. Heat to 950°F 
+[510°CJ, hold 1 h, air cool. 
+TH1050 Alternative treatment: 1400°F 
+[760°Cl hold 90 min, cool to 55 
+± 5°F [15 ± 3°Cl within 1 h. Up to 6 in. incl 170 [1170] 140 [965] 6 25 38 Hold not less than 30 min, heat [150 mml CL) 352 
+to 1050°F [565°Cl hold for 90 
+min, air cool. 
+632 Up to 4 In. incl 
+RH950 [lOO mmJ (L) 200 [1380] 175 [1210] 7 25 415 
+TH1050 Same as Type 631 Up to 6 in. incl 180 [1240] 160 [1100] 25 [150 mml (U 8 375 
+634 1 HlOOO 1750 [955] for not less than 10 
+min, but not more than 1 h. 
+Water quench. Cool to not higher 
+than minus 100°F [75°Cl. Hold 170 [1170] 155 [1070] 12 25 37 341 
+for not less than 3 h. Temper at 
+1000°F [540°CJ, holding for not 
+less than 3 h. 
+635 H950 950 [510] 0.5 air cool 190 [1310] 170 [1170] 8 25 39 363 
+HlOOO 1000 [540] 0.5 air cool 180 [1240] 160 [1100] 8 30 37 352 
+Hl050 1050 [565] 0.5 air cool 170 [1170] 150 [1035] 10 40 35 331 
+XM-12 H900 900 [480] 1.0 air cool Up to 12 in. incl 
+[300 mml (L) 10 35 
+190 [1310] 170 [1170] 40 388 
+Up to 12 in. incl 6 15 
+[300 mm] (T) 
+H925 925 [495] 4.0 air cool Up to 12 in. incl 
+[300 mm] (L) 10 38 5 6.8 
+170 [1170] 155 [1070] 38 375 
+Up to 12 in. incl 7 20 
+[300 mml CT) 
+-~ 
+972
+
+=== Page 1073 ===
+
+ASME BPVC.II.A-2025 SA-564/SA-564M 
+,,,,--., 
+TABLE 4 
+MECHANICAL TEST REQUIREMENTS AFTER AGE HARDENING HEAT TREATMENTA (CONT'D) 
+Yield Impact 
+Suggested Hardening or Aging Tensile Strength, Elongation Charpy-V, 
+Treatment, or Both 8 ,,;D Strength, min minF in 2 in. HardnessG min 
+Applicable [50 mml Reduction 
+Temperature, Time, Thickness, in. and Test or 4D, of area, Rockwell C, Brinell, 
+Type Condition 'F ['Cl h QuenchH DirectionE ksi [MPal ksi [MPal min,% min,% min min ft·lbf J 
+XM-12 Hl025 1025 [550) 4.0 air cool Up to 12 in. incl 
+[300 mml (Ll 12 45 15 20 
+155 [1070) 145 [1000) 35 331 
+Up to 12 in. incl 8 27 10 14 
+[300 mml (Tl 
+Hl075 1075 [580) 4.0 air cool Up to 12 in. Incl 
+[300 mml (Ll 13 45 20 27 
+145 [lOOOJ 125 [860) 32 311 
+Up to 12 in. incl 9 28 15 20 
+[300 mml (Tl 
+HllOO 1100 [595) 4.0 air cool Up to 12 In. Incl 
+[300 mm] (Ll 14 45 25 34 
+140 [965) 115 [795) 31 302 
+Up to 12 in. incl 10 29 15 20 
+[300 mml (Tl 
+Hll50 1150 [620) 4.0 air cool Up to 12 in. incl 
+[300 mml (Ll 16 50 30 41 
+135 [930) 105 [725] 28 277 
+Up to 12 in. incl 11 30 20 27 
+[300 mml (Tl 
+Hll50M 1400 [760) for 2 h, air cool plus Up to 12 in, incl 
+1150 [620) for 4 h, air cool [300 mml (Ll 18 55 55 75 
+115 [795] 75 [515) 24 255 
+Up to 12 in. Incl 14 35 35 47 
+[300 mml (Tl 
+XM-13 H950 950 [510) 4.0 air cool Up to 12 in. Incl 
+[300 mml (Ll 45 
+220 [1515) 205 [1415] 10 45 430 
+Up to 12 in. incl 35 
+[300 mml (T) 
+HlOOO 1000 [540) 4.0 air cool Up to 12 in. Incl 
+[300 mm] (Ll 10 50 
+205 [1415] 190 [1310) 43 400 
+Up to 12 in. incl 10 40 
+[300 mml (Tl 
+Hl025 1025 [550] 4.0 air cool Up to 12 in. incl 
+[300 mml (Ll 50 
+185 [1280) 175 [1210] 11 41 380 
+Up to 12 In. Incl 45 
+[300 mml (Tl 
+Hl050 1050 [565] 4.0 air cool Up to 12 In. incl 
+[300 mml (Ll 50 
+175 [1210] 165 [1140] 12 40 372 
+' ~, Up to 12 in. incl 45 
+[300 mml (Tl 
+HllOO 1100 [595] 4.0 air cool Up to 12 in. incl 
+[300 mml (Ll 50 
+150 [1035] 135 [930) 14 34 313 
+Up to 12 in. incl 50 
+[300 mml <Tl 
+Hll50 1150 [620) 4.0 air cool Up to 12 in. incl 
+[300 mml (Ll 50 
+135 [930) 90 [620) 14 30 283 
+Up to 12 in. incl 50 
+[300 mml (T) 
+Hll50M 1400 [760) for 2 h, air cool plus Up to 12 in. incl 
+1150 [620] for 4 h, air cool [300 mml (Ll 55 
+125 [860] 85 [585) 16 26 259 
+Up to 12 in. incl 55 
+[300 mml <Tl 
+\ 
+~ 
+973
+
+=== Page 1074 ===
+
+SA-564/SA-564M ASME BPVC.II.A-2025 
+TABLE 4 
+MECHANICAL TEST REQUIREMENTS AFTER AGE HARDENING HEAT TREATMENTA (CONT'D) 
+Yield Impact 
+Suggested Hardening or Aging Tensile Strength, Elongation Charpy-V, 
+Treatment, or Both 8 ,c,o Strength, min minF in 2 in. Hardness" min 
+Applicable [50 mml Reduction 
+Temperature, Time, Thickness, in. and Test or 4D, of area, Rockwell C, Brinell, 
+Type Condition °F [°Cl h QuenchH Direction£ ksi [MPal ksi [MPal min,% min,% min min ft·lbf 
+XM-16 H900 900 [480] 4.0 air cool 235 [1620] 220 [1515] 8 30 47 444 
+H950 950 [510] 4.0 air coo! Up to 6 in. incl 220 [1515] 205 l1415l 10 40 44 415 l150 mml (U 
+HlOOO 1000 [540] 4.0 air cool 205 [1415] 185 l1275l 10 40 40 363 
+S45503 Up to 6 in. incl 
+[150 mml (U 8 30 
+H900 900 [480] 4.0 air cool 235 [1620] 220 [1520] 47 444 
+Up to 6 in. inc! 4 15 
+[150 mml (Tl 
+Up to 6 in. incl 
+l150 mm] (l) 10 40 
+H950 950 [510] 4.0 air cool 220 [1515] 205 [1410] 44 415 
+Up to 6 in. incl 5 20 
+[150 mml (Tl 
+Up to 6 in. incl 
+[150 mml (U 10 40 
+HlOOO 1000 [540] 4.0 air coo! 205 [1410] 185 [1275] 40 363 
+Up to 6 in. incl 6 25 
+l150 mml (Tl 
+XM-25 Up to 12 in. incl 
+C300 mm] (l) 10 40 
+H900 900 [480] 4.0 air cool 180 Cl240J 170 [1170] 39 363 
+Up to 12 in. incl. 6 20 
+DOO mml (Tl 
+Up to 12 in. incl 
+[300 mml (U 10 40 
+H950 950 [510] 4.0 air cool 170 [1170] 160 [1100] 37 341 
+Up to 12 in. incl 7 22 
+[300 mml (T) 
+Up to 12 in. incl 
+[300 mml (U 12 45 
+HlOOO 1000 [540] 4.0 air cool 160 [1100] 150 [1035] 36 331 
+Up to 12 in. incl 8 27 
+[300 mml (T) 
+1025 [550] air cool Up to 8 in. inc! [1035] 140 [965] 34 321 H1025 4.0 [200 mml (L) 150 12 45 
+Up to 12 in. incl 
+[300 mml (U 12 45 
+Hl050 1050 [565] 4.0 air cool 145 [1000] 135 [930] 34 321 
+Up to 12 in. incl 9 30 
+-- l300-mm3 (Tl 
+Up to 12 in. incl 
+DOO mml (L) 16 50 
+HllOO 1100 [595] 4.0 air cool 130 [895] 105 [725] 30 285 
+Up to 12 in. incl 11 30 
+[300 mml (T) 
+Up to 12 in. incl 
+Doo mml (U 10 55 
+Hll50 1150 [620] 4.0 air coo! 125 [860] 75 [515] 26 262 
+Up to 12 in. incl 12 35 
+[300 mml (T) 
+974
+
+=== Page 1075 ===
+
+ASME BPVC.11.A-2025 SA-564/SA-564M 
+TABLE 4 
+MECHANICAL TEST REQUIREMENTS AFTER AGE HARDENING HEAT TREATMENTA (CONT'D) 
+Yield Impact 
+Suggested Hardening or Aging Tensile Strength, Elongation Charpy-V, 
+Treatment, or Both 8 A 0 Strength, min minF in 2 in. HardnessG min 
+Applicable [50 mml Reduction 
+Temperature, Time, Thickness, in. and Test or 4D, of area, Rockwell C, Brinell, 
+Type Condition OF [OCJ h QuenchH Direction£ ksi [MPal ksi [MPal min,% min,% min min ft·lbf 
+S46500 Up to 12 in. incl 
+air or [300 mml (U 10 45 
+H950 950 [510] 4.0 oil 240 [1655] 220 ll515l 47 444 
+Up to 12 in. incl. 8 35 
+[300 mml (T) 
+Up to 12 in. inc! 
+air or [300 mml (U 10 50 
+HlOOO 1000 [540] 4.0 220 [1515] 200 [1380] 45 430 oil Up to 12 in. incl. 10 40 
+[300 mml (Tl 
+Up to 12 in. incl 
+air 01· DOO mm] CU 12 50 
+Hl025 1025 [560] 4.0 oil 210 [1450] 195 [1345] 44 415 
+Up to 12 in. incl 11 45 
+[300 mml (T) 
+Up to 12 in. incl 
+air or [300 mml CU 13 50 
+Hl050 1050 [565] 430 200 [1380] 185 [1280] 43 400 oil Up to 12 in. incl 12 45 
+[300 mml CT) 
+UNS cw 1 1, 
+S46910 hard + 890 [475] 1.0 air cool 245 [1690] 218 [1500] 6 48 456 
+aging 
+CW full 
+hard + 890 [475] 1.0 air cool 320 [2205] 290 [2005] 55 561 
+aging 
+A See 7.1. 
+8 Time refers to minimum time material is at temperature and may be extended to obtain required ductility properties. 
+c Unless otherwise noted, temperatures shown are suggested temperatures and may be varied to obtain required tensile properties. 
+0 Intermediate temperatures must meet the ductility requirements of the next highest suggested hardening or aging temperature, or both. 
+Example: Type 630 at 1050°F [565°CJ must have 13% elongation and 45% reduction, same as for age hardening at 1075°F [580°CJ. 
+E CU - Longitudinal axis of specimen parallel to direction of grain flow during rolling or forging. CT) - Transverse axis of specimen per-
+pendicular to direction of grain flow during rolling or forging. 
+F See 7.3. 
+G Either Rockwell C hardness or Brinell is permissible. On sizes½ in. (12.70 mm) and smaller, Rockwell C is preferred. 
+H When air cooling is specified, gases other than air may be used. 
+1 Refer to Table 2 for detai Is on equalize and over temper heat treatment. 
+975
+
+=== Page 1077 ===
+
+ASME BPVC.II.A-2025 SA-568/SA-568M (ASTM A568/A568M) 
+SPECIFICATION FOR STEEL, SHEET, CARBON, 
+STRUCTURAL, AND HIGH-STRENGTfl, LOW-ALLOY, 
+HOT-ROLLED AND COLD-ROLLED, GENERAL 
+REQUIREMENTS FOR 
+SA-568 /SA-568M 
+(Identical with ASTM Specification A568/A568M-19a.) 
+977 
+cO 
+IIITUNAnoHAJ. 
+Standards Wortdwida 
+{25)
+
+=== Page 1078 ===
+
+SA-568/SA-568M (ASTM A568/A568M} ASME BPVC.II.A-2025 
+~ Designation: A568/A568M -19a 
+-=:!Un!_ 
+INTERNATIONAL 
+Standard Specification for 
+Steel, Sheet, Carbon, Structural, and High-Strength, Low­
+Alloy, Hot-Rolled and Cold-Rolled, General Requirements 
+for 1 
+This standard is issued under the fixed designation A568/A568M; the number immediately following the designation indicates the year 
+of original adoption or, in the case of revision, the year of last revision. A number in parentheses indicates the year of last reapproval. 
+A superscript epsilon (e) indicates an editorial change since the last revision or reapproval. 
+This standard has been approved for use by agencies of the U.S. Department qf Defense. 
+1. Scope* 
+1.1 This specification covers the general requirements for 
+steel sheet in coils and cut lengths. It applies to the following 
+specifications that describe carbon steel, structural steel, and 
+high-strength, low-alloy steel (HSLA) furnished as hot-rolled 
+sheet and cold-rolled sheet: Specifications A414/A414M, 
+A424/A424M, A606/A606M, A659/A659M, A794/A794M, 
+A1008/A1008M, AlOll/AlOllM, and Al039/A1039M. 
+1.2 This specification is not applicable to hot-rolled heavy­
+thickness carbon sheet coils (Specification A635/A635M). 
+1.3 In case of any conflict in requirements, the requirements 
+of the individual material specification shall prevail over those 
+of this general specification. 
+1.4 For the purposes of determining conformance with this 
+and the appropriate product specification referenced in 1. 1, 
+measured values, calculated values, or observed values shall be 
+rounded to the nearest unit in the right hand place of figures 
+used in expressing the limiting values in accordance with the 
+rounding method of Practice E29. 
+1.4. l Ordered values, identified in tables, specified such as 
+over 30 through 48 or 30 exclusive to 48 inclusive, covers all 
+ordered values specified as 30.1, 30.01, 30.001, etc., up to and 
+including 48.000 etc., but does not cover ordered values 
+specified as3U.O00 etc., or less, nor does it cover ordered 
+values specified as 48.1, 48.01, 48.001, etc. 
+1.5 Annex Al lists permissible variations in dimensions and 
+mass (see Note 1) in SI [metric] units. The values listed are not 
+exact conversions of the values listed in the inch-pound tables, 
+but instead are rounded or rationalized values. Conformance to 
+Annex Al is mandatory when the "M" specification is used. 
+NoTE 1-The term weight is used when inch-pound units are the 
+1 This specification is under the jurisdiction of ASTM Committee ADI on Steel, 
+Stainless Steel and Related Alloys and is the direct responsibility of Subcommittee 
+A0l.19 on Steel Sheet and Strip. 
+Current edition approved Nov. I, 2019. Published November 2019. Originally 
+approved in 1966. Last previous edition approved in 2019 as A568/A568M- 19. 
+DOI: 10.l520/A0568_A0568M-19A. 
+standard. However, under SI the preferred term is mass. 
+1.6 The values stated in either SI units or inch-pound units 
+are to be regarded separately as standard. The values stated in 
+each system may not be exact equivalents; therefore, each 
+system shall be used independently of the other. Combining 
+values from the two systems may result in non-conformance 
+with the standard. 
+1. 7 This specification and the applicable material specifica­
+tions are expressed in both inch-pound units and SI units. 
+However, unless the order specifies the applicable "M" speci­
+fication designation (SI units), the material shall be furnished 
+to inch-pound units. 
+1.8 This international standard was developed in accor­
+dance with internationally recognized principles on standard­
+ization established in the Decision on Principles for the 
+Development of International Standards, Guides and Recom­
+mendations issued by the World Trade Organization Technical 
+Barriers to Trade (TBT) Committee. 
+2. Referenced Documents 
+2.1 ASTM Standards: 2 
+A370 Test Methods and Definitions for Mechanical Testing 
+of Steel Products 
+_ A41AI-A414M-Specificatign for----Steel,-----Sheet, GaFbon, and­
+High-Strength, Low-Alloy for Pressure Vessels 
+A424/A424M Specification for Steel, Sheet, for Porcelain 
+Enameling 
+A606/ A606M Specification for Steel, Sheet and Strip, High­
+Strength, Low-Alloy, Hot-Rolled and Cold-Rolled, with 
+Improved Atmospheric Corrosion Resistance 
+A635/A635M Specification for Steel, Sheet and Strip, 
+Heavy-Thickness Coils, Hot-Rolled, Alloy, Carbon, 
+Structural, High-Strength Low-Alloy, and High-Strength 
+Low-Alloy with Improved Formability, General Require­
+ments for 
+2 For referenced ASTM standards, visit the ASTM website, www.astm.org, or 
+contact ASTM Customer Service at service@astm.org. For Annual Book of ASTM 
+Standards volume infonnation, refer to the standard's Document Summary page on 
+the ASTM website. 
+* A Summary of Changes section appears at the end of this standard 
+978 
+' ~
+
+=== Page 1079 ===
+
+ASME BPVC.II.A-2025 SA-568/SA-568M (ASTM A568/A568M) 
+A659/A659M Specification for Commercial Steel (CS), 
+Sheet and Strip, Carbon (0.16 Maximum to 0.25 Maxi­
+mum Percent), Hot-Rolled 
+A 700 Guide for Packaging, Marking, and Loading Methods 
+for Steel Products for Shipment 
+A751 Test Methods, Practices, and Terminology for Chemi­
+cal Analysis of Steel Products 
+A794/A794M Specification for Commercial Steel (CS), 
+Sheet, Carbon (0.16 % Maximum to 0.25 % Maximum), 
+Cold-Rolled 
+A941 Terminology Relating to Steel, Stainless Steel, Related 
+Alloys, and Ferroalloys 
+A1008/A1008M Specification for Steel, Sheet, Cold-Rolled, 
+Carbon, Structural, High-Strength Low-Alloy, High­
+Strength Low-Alloy with Improved Formability, Solution 
+Hardened, and Bake Hardenable 
+AlOll/AlOllM Specification for Steel, Sheet and Strip, 
+Hot-Rolled, Carbon, Structural, High-Strength Low­
+Alloy, High-Strength Low-Alloy with Improved 
+Formability, and Ultra-High Strength 
+A1030/Al030M Practice for Measuring Flatness Character­
+istics of Steel Sheet Products 
+Al039/Al039M Specification for Steel, Sheet, Hot Rolled, 
+Carbon, Commercial, Structural, and High-Strength Low­
+Alloy, Produced by Twin-Roll Casting Process 
+A1073/A1073M Practice for Using Hand Micrometers to 
+Measure the Thickness of Uncoated Steel Sheet and 
+Nonmetallic and Metallic-Coated Steel Sheet 
+Ell Specification for Woven Wire Test Sieve Cloth and Test 
+Sieves 
+E29 Practice for Using Significant Digits in Test Data to 
+Determine Conformance with Specifications 
+E59 Practice for Sampling Steel and Iron for Determination 
+of Chemical Composition (Withdrawn 1996) 3 
+E290 Test Methods for Bend Testing of Material for Ductil-
+ity 
+2.2 Military Standards . .4 
+MIL-STD-129 Marking for Shipment and Storage 
+2.3 Federal Standards . .4 
+Fed. Std. No. 123 Marking for Shipments (Civil Agencies) 
+3. Terminology 
+3.1 Definitions of Terms Specific to This Standard: 
+3.1.1 Steel Types: 
+3.1.2 carbon steel, n-designation for steel when no mini­
+mum content is specified or required for aluminum, chromium, 
+cobalt, columbium, molybdenum, nickel, titanium, tungsten, 
+vanadium, zirconium, or any element added to obtain a desired 
+alloying effect; when the specified minimum for copper does 
+not exceed 0.40 %; or when the maximum content specified for 
+any of the following elements does not exceed the percentages 
+noted: manganese 1.65, silicon 0.60, or copper 0.60. 
+3 The last approved version of this historical standard is referenced on 
+www.astm.org. 
+4 Available from Standardization Documents Order Desk, DODSSP, Bldg. 4, 
+Section D, 700 Robbins Ave., Philadelphia, PA 19111-5098, http:// 
+www.dodssp.daps.mil. 
+3.1.2.1 Discussion-In all carbon steels small quantities of 
+certain residual elements unavoidably retained from raw ma­
+terials are sometimes found which are not specified or required, 
+such as copper, nickel, molybdenum, chromium, and so forth. 
+These elements are considered as incidental and are not 
+normally determined or reported. 
+3.1.3 high-strength, low-alloy steel, n-specific group of 
+steels in which higher strength, and in some cases additional 
+resistance to atmospheric corrosion or improved formability, 
+are obtained by moderate amounts of one or more alloying 
+elements. 
+3.1.4 Product Types: 
+3.1.5 hot-rolled sheet, n-manufactured by hot-rolling slabs 
+in a continuous mill to the required thickness and can be 
+supplied in coils or cut lengths as specified. 
+( 1) Hot-rolled carbon steel sheet is commonly classified by 
+size as follows: 
+Width, in. 
+All WidthsA 
+Coils and Cut Lengths 
+Thickness, in. 
+0.027 to 0.230, excl 
+A Hot-rolled sheet in coils and cut lengths less than 12 in. in width must have cut 
+edges. Hot-rolled material with mill edges 12 in. and less in width is considered 
+hot-rolled strip. 
+Width, mm 
+All WidthsA 
+Coils and Cut Lengths 
+Thickness, mm 
+0.7 to 6.0, excl 
+A Hot-rolled sheet in coils and cut lengths less than 300 mm. in width must have 
+cut edges. Hot-rolled material with mill edges 300 mm and less in width is 
+considered hot-rolled strip. 
+(2) Hot-rolled high-strength low-alloy steel sheet is com­
+monly classified by size as follows: 
+Width, in. 
+All WidthsA 
+Coils and Cut Lengths 
+Thickness, in. 
+0.031 to 0.230, excl 
+A Hot-rolled sheet in coils and cut lengths less than 12 in. in width must have cut 
+edges. Hot-rolled material with mill edges 12 in. and less in width is considered 
+hot-rolled strip. 
+Width, in. 
+All WidthsA 
+Coils and Cut Lengths 
+Thickness, mm 
+0.8 to 6.0, excl 
+-A Hot-rollecl-sheetin coils and-cut lengths-less than 300-mm-i11 wiatlcl must-have-cut -
+edges. Hot-rolled material with mill edges 300 mm and less in width is considered 
+hot-rolled strip. 
+979 
+NoTE 2-The changes in width limits with the publication of A568/ 
+A568M - 06a result in a change in tensile testing direction for material 
+from 0.180 in. [4.5 mm] to 0.230 in. exclusive [6.0 mm exclusive] over 
+48 in. [1200 mm] wide. Material formerly tested in the transverse 
+direction will be tested in the longitudinal direction. This is expected to 
+result in some changes in reported properties. The purchaser is advised to 
+discuss this change with the supplier. 
+3.1.6 cold-rolled sheet, n-manufactured from hot-rolled 
+descaled coils by cold reducing to the desired thickness, 
+generally followed by annealing to recrystallize the grain 
+structure. If the sheet is not annealed after cold reduction it is 
+known as full hard with a hardness of 84 HRB minimum and 
+can be used for certain applications where ductility and flatness 
+are not required. 
+( 1) Cold-rolled carbon sheet is commonly classified by size 
+as follows:
+
+=== Page 1080 ===
+
+SA-568/SA-568M (ASTM A568/A568M) ASME BPVC.II.A-2025 
+Width, in. 
+All WidthsA,a 
+Width, mm 
+All WidthsA,a 
+Thickness, in. 
+Through 0.142 
+Thickness, mm 
+Through 4.0 
+A Cold-rolled sheet coils and cut lengths, slit from wider coils with cut edge (only) 
+and in thicknesses through 0.142 in. [4.0 mm] carbon 0.25 % maximum by cast 
+analysis. 
+8 When no special edge or finish (other than matte, commercial bright, or luster 
+finish) or single strand rolling of widths, or both under 24 in. [600 mm] is not 
+specified or required. 
+(2) Cold-rolled high-strength low-alloy sheet is commonly 
+classified by size as follows: 
+Width, in. 
+Through 12 A 
+Over 12 8 
+Width, mm 
+To 300, inclA 
+Over300 8 
+Thickness, in. 
+0.D19 through 0.082 
+0.020 and over 
+Thickness, mm 
+0.5 to 2.0, incl 
+0.5 and Over 
+A Cold-rolled sheet coils and cut lengths, slit from wider coils with cut edge (only) 
+and in thicknesses 0.019 in. [0.5 mm] through 0.082 in. [2.0 mm] carbon 0.25 % 
+maximum by cast analysis. 
+8 When no special edge or finish (other than matte, commercial bright, or luster 
+finish) or single strand rolling of widths, or both under 24 in. [600 mm] is not 
+specified or required. 
+3.1.6.1 Discussion-Steel products are available in various 
+thickness, width, and length combinations depending upon 
+equipment and processing capabilities of various manufactur­
+ers and processors. Historic limitations of a product based upon 
+dimensions (thickness, width, and length) do not take into 
+account current production and processing capabilities. To 
+qualify any product for a particular product specification 
+requires all appropriate and necessary tests be performed and 
+that the results meet the limits prescribed in that product 
+specification. If the necessary tests required by a product 
+specification cannot be conducted, the product cannot be 
+qualified to that specification. This general requirements speci­
+fication contains permitted variations for the commonly avail­
+able sizes. Permitted variations for other sizes are subject to 
+agreement between the customer and the manufacturer or 
+processor, whichever is applicable. 
+3.1.7 retests, n-additional test, or tests, made from the 
+original material when the original test did not meet the 
+appropriate acceptance criteria required by a product specifi­
+cation and the failure was mechauical in natures as described in 
+Section 11. 
+3.1.8 resample, n-additional test or tests made when the 
+test on the original sample did not meet the appropriate 
+acceptance criteria required by the product specification, but 
+possibly requiring that the material in question have an 
+appropriate amount discarded prior to securing the new sample 
+or samples. 
+3.1.9 steel manufacturer, n-the orgauization that directly 
+controls or is responsible for the melting and refining of steel 
+and the conversion of that steel into semifinished steel products 
+known as slabs either through continuous casting, conventional 
+or compact methods, or ingot casting and subsequent conver­
+sion of the ingots to slabs, and for one or more additional 
+operations such as testing, marking, loading for shipment, and 
+certification. 
+3.1.10 coil processor, n-the orgauization that directly con­
+trols or is responsible for operations involved in processing the 
+coil such as leveling, cutting to length, testing, inspection, 
+blanking, slitting, pickling, cold rolling (cold reduction), heat 
+treating, temper rolling, coating, packaging, marking, loading 
+for shipment, and certification. 
+3 .1.10.1 Discussion-The processing operations need not be 
+controlled by the orgauization that hot rolls the slab into a coil. 
+If only one organization controls or is responsible for (or both) 
+the hot-rolling and processing operations, that organization is 
+termed the manufacturer. If more than one organization con­
+trols or is responsible for (or both) hot-rolling and processing 
+operations, the organization that controls and is responsible for 
+the hot-rolling is termed the hot roll manufacturer and the 
+organization or organizations controlling and responsible for 
+the processing operations is/are termed the processor or pro­
+cessors. Likewise, one organization may be the manufacturer 
+of the hot roll coil and another the manufacturer of the cold roll 
+coil. In such case, the orgauization responsible for the conver­
+sion of the hot roll coil to a cold roll coil and other processing 
+operations will also be termed the cold roll manufacturer and 
+organizations performing additional processing operations to 
+the cold roll coil will be termed the coil processor or coil 
+processors. 
+3.1.11 hot roll manufacturer, n-the organization that di­
+rectly controls or is responsible for the conversion of steel 
+slabs, by hot-rolling into coils, and for one or more additional 
+operations such as leveling, cutting to length, testing, 
+inspection, blanking, slitting, pickling, cold rolling, heat 
+treating, coating, packaging, marking, loading for shipment, 
+and certification. 
+3.1.12 cold roll manufacturer, n-the orgauization that di­
+rectly controls or is responsible for the conversion of hot roll 
+coils into cold roll coils, and for one or more additional 
+operations such as pickling, annealing, temper rolling, slitting, 
+cutting to length, testing, inspection, blanking, coating, 
+packaging, marking, loading for shipment, and certification. 
+3.2 Refer to Terminology A941 for additional definitions of 
+terms used in this standard. 
+4. Materials and Manufacture 
+980 
+4.1 Unless otherwise specified, hot-rolled material shall be 
+furnished hot-rolled, not annealed, not pickled. 
+4.2 Coil breaks, stretcher strains, and fluting can occur 
+during the user's processing of hot-rolled or hot-rolled pickled 
+sheet. When any of these features are detrimental to the 
+application, the manufacturer shall be notified at time of 
+ordering in order to properly process the sheet. 
+4.3 Cold-rolled carbon steel sheet is available as discussed 
+in 10.2, 10.3, and in Table 1. 
+4.4 Unless specified as a full-hard product, cold-rolled sheet 
+is annealed after being cold reduced to thickness. The 
+annealed, cold-rolled sheet can be used as annealed last (dead 
+soft) for unexposed end-use applications. When cold-rolled 
+sheet is used for unexposed applications and coil breaks are a 
+hazard in uncoiling, it may be necessary to further process the 
+material. In this case the manufacturer should be consulted.
+
+=== Page 1081 ===
+
+Major imperfections: 
+Cut lengths 
+Coils 
+Minor imperfections: 
+Cut lengths 
+Coils 
+Finish 
+Special oils 
+Thickness, width and length tolerance: 
+Standard 
+Restricted 
+Flatness tolerance: 
+Standard 
+Restricted squareness 
+Coil wraps 
+Coil welds 
+Outside inspection 
+Special testing 
+ASME BPVC.II.A-2025 SA-568/SA-568M (ASTM A568/A568M) 
+TABLE 1 Cold-Rolled Sheet Steel Class Comparison 
+Exposed 
+Mill rejects 
+Purchaser accepts within the manufacturer's published 
+standards (policy) 
+Mill rejections repetitive imperfections. May contain random 
+imperfections which the purchaser accepts within the 
+manufacturer's published standards (policy) 
+Purchaser accepts within the manufacturer's published 
+standards (policy) 
+Matte unless otherwise specified 
+May be specified 
+Will be met 
+May be specified 
+Will be met 
+May be specified 
+Purchaser accepts within the manufacturer's published 
+standards {policy) 
+Purchaser accepts within the manufacturer's published 
+standards (policy) 
+May be specified 
+May be specified 
+Unexposed 
+Mill rejects 
+Purchaser accepts within the manufacturer's published 
+standards (policy) 
+Purchaser accepts all minor imperfections 
+Purchaser accepts all minor imperfections 
+Purchaser accepts all finishes 
+May not be specified 
+Will be met 
+May not be specified 
+Will be met {temper rolled) Not guaranteed-normally 
+within twice standard {annealed last) 
+May not be specified 
+Purchaser accepts all 
+Purchaser accepts within the manufacturer's published 
+standards (policy) 
+May not be specified 
+May not be specified 
+After annealing, cold-rolled sheet is generally given a light sitions are required for carbon steel, they shall be prepared in 
+skin pass to impart shape or may be given a heavier skin pass accordance with Appendix X2. 
+or temper pass to prevent the phenomenon known as stretcher 5.1.2 Where the material is used for fabrication by welding, 
+straining or fluting, when formed. Temper passing also pro- care must be exercised in selection of chemical composition or 
+vides a required surface texture. mechanical properties to assure compatibility with the welding 
+4.5 Temper Rolling: process and its effect on altering the properties. 
+4.5.1 Unless otherwise specified, cold-rolled sheet for ex- 5.2 Cast or Heat Analysis: 
+posed applications shall be temper rolled and is usually 5.2.1 An analysis of each cast or heat of steel shall be made 
+~~~~~~ 7 s~pe;,;c:-ifi-,;,_e;:;:dr'wanindliYfurnTI1,· s_h_ed~in~th_e_s_tr_am_· ~fr_e_e_c_o_ndi_'_ti_o_n_a_s_s_hi~·p_._p_ed~~b~y~th~e", steel manufacturer to determine the percentage of 
+(see Appendix XI). elements specified or restricted-by-the-applieahle.speGHi~""onlh--~~~-'-
+4.5.2 Cold-rolled sheet for unexposed applications may be 5.2.2 When requested, cast or heat analysis for elements 
+specified and furnished "annealed last" or "temper rolled." listed or required shall be reported to the purchaser or to his 
+"Annealed last" is normally produced without temper rolling representative. The steel manufacturer, or the hot roll 
+but may be lightly temper rolled during oiling or rewinding. manufacturer, cold roll manufacturer, or processor, if different 
+Unexposed temper-rolled material may be specified strain-free from the steel manufacturer, is responsible for providing this 
+or nonfluting. Where specific hardness range or limit or a information to the purchaser or his representative as requested. 
+specified surface texture is required, the application is consid-
+ered as exposed. 5.3 Product, Check, or Verification Analysis: 
+5.3.1 Non-killed steels such as capped or rimmed steels are NOTE 3-Skin-passed sheet is subject to an aging phenomenon (see 
+Appendix Xl). Unless special killed (nonaging) steel is specified, it is to not technologically suited to product analysis due to the 
+the user's interest to fabricate the sheet as soon as possible, for optimum nonuniform character of their chemical composition; therefore, 
+performance. the tolerances in Table 2 do not apply. Product analysis is 
+5. Chemical Composition 
+5.1 Limits: 
+5.1.1 The chemical composition shall be in accordance with 
+the applicable product specification. However, if other compo-
+981 
+appropriate on these types of steel only when misapplication is 
+apparent or for copper when copper steel is specified. 
+5.3.2 For steels other than non-killed (capped or rimmed), 
+product analysis may be made by the purchaser. The chemical 
+analysis shall not vary from the limits specified by more than
+
+=== Page 1082 ===
+
+SA-568/SA-568M (ASTM A568/A568M) ASME BPVC.II.A-2025 
+TABLE 2 Tolerances for Product Analysis 
+Tolerance 
+Element Limit, or Maximum of Under Over 
+Specified Element, % Minimum Maximum 
+Limit Limit 
+Carbon to 0.15 incl 0.02 0.03 
+over 0.15 to 0.40 incl 0.03 0.04 
+over 0.40 to 0.80 incl 0.03 0.05 
+over 0.80 0.03 0.06 
+Manganese to 0.60 incl 0.03 0.03 
+over 0.60 to 1.15 incl 0.04 0.04 
+over 1.15 to 1.65 incl 0.05 0.05 
+Phosphorus A 0.01 
+Sulfur A 0.01 
+Silicon to 0.30 incl 0.02 0.03 
+over 0.30 to 0.60 incl 0.05 0.05 
+Copper 0.02 A 
+Nickel to 1.00 incl A 0.03 
+Chromium to 0.90 incl A 0.04 
+Molybdenum to 0.20 incl A 0.01 
+Vanadium to 0.10 incl 0.01 6 o.o1s 
+Columbium (Niobium) to 0.10 incl 0.01 6 0,01s 
+Titanium to 0.15 incl 0.01A 0,01s 
+Aluminum to 0.10 incl 0.03° A 
+Nitrogen to 0.030 incl 0.005 0.005 
+A Where an ellipsis ( ... ) appears in the table, the requirements have not been 
+defined. 
+6 If the minimum of the range is 0.01 %, the under tolerance is 0.005 %. 
+0 If the minimum of the range is 0.01 %, the under tolerance is 0.005 % and if the 
+minimum of the range is 0.02 %, the under tolerance is 0.01 %. 
+the amounts in Table 2. The several determinations of any 
+element in a cast shall not vary both above and below the 
+specified range. 
+5.4 Sampling for Product Analysis: 
+5.4.1 To indicate adequately the representative composition 
+_ ou ca§!_by_groduct analysis_,_ it is_general practice. to-select-­
+samples to represent the steel, as fairly as possible, from a 
+minimum number of pieces as follows: 3 pieces for lots up to 
+15 tons incl, and 6 pieces for lots over 15 tons (see Practice 
+E59). 
+5.4.2 When the steel is subject to tension test requirements, 
+samples for product analysis may be taken either by drilling 
+entirely through the used tension test specimens themselves, or 
+as covered in 5.4.3. 
+5.4.3 When the steel is not subject to tension test 
+requirements, the samples for analysis must be taken by 
+milling or drilling entirely through the sheet in a sufficient 
+number of places so that the samples are representative of the 
+entire sheet or strip. The sampling may be facilitated by folding 
+the sheet both ways, so that several samples may be taken at 
+one drilling. Steel subjected to certain heating operations by 
+the purchaser may not give chemical analysis results that 
+properly represent its original composition. Therefore, users 
+must analyze chips taken from the steel in the condition in 
+which it is received from the steel manufacturer. 
+5.5 Specimen Preparation-Drillings or chips must be taken 
+without the application of water, oil, or other lubricant, and 
+must be free of scale, grease, dirt, or other foreign substances. 
+They must not be overheated during cutting to the extent of 
+causing decarburization. Chips must be well mixed and those 
+too coarse to pass a No. 10 sieve or too fine to remain on a 
+No. 30 sieve are not suitable for proper analysis. Sieve size 
+numbers are in accordance with Specification E 11. 
+5.6 Test Methods-In case a referee analysis is required and 
+agreed upon to resolve a dispute concerning the results of a 
+chemical analysis, the procedure of performing the referee 
+analysis must be in accordance with the latest issue of Test 
+Methods, Practices, and Terminology A751, unless otherwise 
+agreed upon between the manufacturer and the purchaser. 
+6. Mechanical Properties 
+6.1 The mechanical property requirements, number of 
+specimens, test locations, and specimen orientation shall be in 
+accordance with the applicable product specification. 
+6.2 Unless otherwise specified in the applicable product 
+specification, test specimens must be prepared in accordance 
+with Test Methods and Definitions A370. 
+6.3 Mechanical tests shall be conducted in accordance with 
+Test Methods and Definitions A370. 
+6.4 Bend tests where required shall be conducted in com­
+pliance with Test Methods E290. 
+6.5 To determine conformance with the product 
+specification, a calculated value should be rounded to the 
+nearest 1 ksi tensile strength and yield point or yield strength, 
+and to the nearest unit in the right hand place of figures used in 
+expressing the limiting value for other values in accordance 
+with the rounding off method given in Practice E29. 
+6.6 Structural sheet steels are commonly fabricated by cold 
+bending. There are many interrelated factors that affect the 
+ability of a given steel to cold form over a given radius under 
+shop conditions. These factors include thickness, strength 
+level, degree of restraint, relationship to rolling direction, _ 
+chemistry, and microstructure. Each of the appropriate product 
+specifications lists in the appendix the suggested minimum 
+inside radius for cold bending. These radii should be used as 
+minima for 90° bends. They presuppose "hard way" bending 
+(bend axis parallel to rolling direction) and reasonably good 
+shop forming practices. Where possible, the use of larger radii 
+or "easy way" bends are recommended for improved perfor­
+mance. 
+6. 7 Fabricators should be aware that cracks may initiate 
+upon bending a sheared or burned edge. This is not considered 
+to be a fault of the steel but is rather a function of the induced 
+cold-work or heat-affected zone. 
+7. General Requirements for Delivery 
+7.1 The products covered by this specification are produced 
+to inch-pound or metric decimal thickness only and the 
+appropriate thickness tolerances apply. 
+982
+
+=== Page 1083 ===
+
+·~ 
+ASME BPVC.II.A-2025 SA-568/SA-568M (ASTM A568/A568M) 
+7 .2 Steel may be produced as ingot-cast or strand-cast. 
+When different grades of strand-cast steel are sequentially cast, 
+identification and separation of the transition material is 
+required. 
+8. Dimensions, Tolerances, and Allowances 
+8.1 Dimensions, tolerances, and allowances applicable to 
+products covered by this specification are contained in Tables 
+3-20 [Annex Al, Tables Al.l-Al.17]. The appropriate toler­
+ance tables shall be identified in each individual specification. 
+8.2 The appropriate thickness tolerance tables for measure­
+ments taken 3/s in. [10 mm] from the edge are found in Section 
+S 1 of the Supplementary Requirements in this specification. 
+See the appropriate product specification for instructions on 
+how to specify. 
+8.3 When thickness is measured using hand held microm­
+eters refer to Practice A1073/A1073M. 
+8.4 Flatness Tolerances: 
+8.4.1 Standard flatness tolerances are contained in Tables 13 
+and 14 for hot-rolled sheet and Table 20 for cold-rolled sheet. 
+8.4.2 Measurement techniques for flatness characteristics 
+are described in Practice A1030/Al030M. 
+8.4.3 Two alternative methods for flatness determination are 
+the use of I-units and percent steepness. A description of these 
+two alternative methods is contained in Practice A1030/ 
+A1030M, as well as Appendix X5. 
+8.4.3.1 The use of I-units or percent steepness as a flatness 
+standard is subject to negotiation between the purchaser and 
+the producer. 
+8.4.3.2 Measurement techniques for I-units, percent 
+steepness, and rejection limits are subject to negotiation 
+between the purchaser and the producer. 
+9. Finish and Condition 
+9.1 Hot-rolled sheet has a surface with an oxide or scale 
+resulting from the hot-rolling operation. The oxide or scale can 
+be removed by piclding or blast cleaning when required for 
+press-work operations or welding. Hot-rolled and hot-rolled 
+descaled sheet is not generally used for exposed parts where 
+- sutface-is-0f prime_importanc_e_._ _ _ _ _ _ 
+particular contour. They may also contain some edge 
+imperfections, the more common types of which are cracked 
+edges, thin edges (feather), and damaged edges due to handling 
+or processing and which should not extend in beyond the 
+ordered width. These edge conditions are detrimental where 
+joining of the mill edges by welding is practiced. When the 
+purchaser intends to shear or to blank, a sufficient width 
+allowance should be made when purchasing to ensure obtain­
+ing the desired contour and size of the pattern sheet. The 
+manufacturer may be consulted for guidance. Cut edges are the 
+normal edges which result from the shearing, slitting, or 
+trimming of mill-edge sheet. 
+9.1.1.1 The ends of plain hot-rolled mill-edge coils are 
+irregular in shape and are referred to as uncropped ends. Where 
+such ends are not acceptable, the purchaser's order should so 
+specify. Processed coils such as pickled or blast cleaned are 
+supplied with square-cut ends. 
+9.2 Cold-rolled carbon sheet (exposed) is intended for those 
+applications where surface appearance is of primary impor­
+tance. This class will meet requirements for controlled surface 
+texture, surface quality, and flatness. It is normally processed 
+by the manufacturer to be free of stretcher strain and fluting. 
+Subsequent user roller leveling immediately before fabrication 
+will minimize strain resulting from aging. 
+9.2.1 Cold-rolled carbon sheet, when ordered for exposed 
+applications, can be supplied in the following finishes: 
+9.2.1.1 Matte finish is a dull finish, without luster, produced 
+by rolling on rolls that have been roughened by mechanical or 
+chemical means to various degrees of surface texture depend­
+ing upon application. With some surface preparation matte 
+finish is suitable for decorative painting. It is not generally 
+recommended for bright plating. 
+9 .2.1.2 Commercial bright finish is a relatively bright finish 
+having a surface texture intermediate between that of matte and 
+luster finish. With some surface preparation commercial bright 
+finish is suitable for decorative painting or certain plating 
+applications. If sheet is deformed in fabrication the surface 
+may roughen to some degree and areas so affected will require 
+surface preparation to restore surface texture to that of the 
+undeformed areas; 
+9.1.1 Hot-rolled sheet can be supplied with mill edges or cut 
+edges as specified. Mill edges are the natural edges resulting 
+from the hot-rolling operation. They do not conform to any 
+~2.13 Luster finish 1s asmootfioright 1inisli produced by -
+rolling on ground rolls and is suitable for decorative painting or 
+plating with additional special surface preparation by the user. 
+TABLE 3 List of Tables for Dimensions, Tolerances, and Allowances 
+Dimensions 
+Camber tolerances 
+Diameter tolerances of sheared circles 
+Flatness tolerances 
+Length tolerances 
+Out-of-square tolerances 
+Restricted squareness tolerances 
+Thickness tolerances 
+Width tolerances of cut edge 
+Width tolerances of mill edge 
+CarbonA and High-Strength Low-Alloy Steel 
+Hot-Rolled Sheet 
+Inch-Pound Units 
+10 
+9 
+13, 14 
+8 
+11 
+12 
+4, 5, S1.1, S1.2 
+7 
+6 
+SI Units 
+A1.7 
+A1.6 
+A1.10, A1.11 
+A1.5 
+A1.8 
+A1.9 
+A1.1, A1.2, S1.4, S1.5 
+A1.4 
+A1.3 
+Table No. 
+A Tolerances for hot-rolled carbon sheet steel with 0.25 % maximum carbon, cast or heat analysis. 
+983 
+Cold-Rolled Sheet 
+Inch-Pound Units 
+10, 19 
+9 
+20 
+16, 17 
+11 
+12 
+15,S1.3 
+7, 18 
+SI Units 
+A1.7, A1.16 
+A1.6 
+A1.17 
+A1.13, A1.14 
+A1.8 
+A1.9 
+A1.12, S1.6 
+A1.4,A1.15
+
+=== Page 1084 ===
+
+SA-568/SA-568M (ASTM A568/A568M) ASME BPVC.11.A-2025 
+TABLE 4 Thickness Tolerances for Hot-Rolled Sheet (Carbon and Structural Steel Only)-5/s-in. (Cut Edge) and 1-in. (Mill Edge) 
+Minimum Edge Distance (Coils and Cut Lengths, Including Pickled) 
+NoTE 1-Thickness is measured at any point across the width not less than 5 /s in. from a cut edge and not less than 1 in. from a mill edge. This table 
+does not apply to the uncropped ends of mill edge coils. 
+NoTE 2--.:Micrometers used for measurement of thickness shall be constructed with anvils and spindles having minimum diameters of 0.188 in. 
+(4.80 mm]. The tip of the spindle shall be flat, and the tip of the anvil shall be flat or ronnded with a minimum radius of curvature of 0.10 in. [2.55 mm]. 
+Micrometers with pointed tips are not suitable for thickness measurements. 
+NoTE 3-The thickness of material <2 in. wide shall be measured at mid-width. 
+Specified Width, in. 
+To 20 incl 
+Over 20 to 40, incl 
+Over 40 to 48, incl 
+Over 48 to 60, incl 
+Over 60 to 72, incl 
+Over72 
+0.027 to 0.051, 
+incl 
+0.008 
+0.008 
+0.008 
+C 
+C 
+C 
+Specified Ordered Thickness, in.A 
+Over 0.051 to 0.057, Over 0.057 to 0.071, Over 0.071 to 0.098, Over 0.098 to 0.180, 
+incl incl incl excl 
+Thickness Tolerances Over, in., No Tolerance Under 8 
+0.008 0.009 0.009 0.010 
+0.008 0.009 0.010 0.010 
+0.009 0.009 0.010 0.012 
+0.009 0.010 0.010 0.012 
+0.010 0.010 0.012 0.012 
+C C 0.012 0.012 
+A The specified thickness range captions apply independent of whether the ordered thickness is stated as a nominal or minimum. 
+0.180 to 0.230, 
+excl 
+0.010 
+0.012 
+0.014 
+0.015 
+0.016 
+O.D18 
+8 The tolerances provided in the table are based on minimum thickness (tolerance over, no tolerance under). For nominal thickness, the tolerance is divided equally over 
+and under. 
+c Where an ellipsis ( ... ) appears in the table, the requirements have not been defined. 
+TABLE 5 Thickness Tolerances for Hot-Rolled Sheet (High-Strength, Low-Alloy Steel)-5/s-in. (Cut Edge) and 1-in. (Mill Edge) Minimum 
+Edge Distance (Coils and Cut Lengths, Including Pickled) 
+NoTE 1-Thickness is measured at any point across the width not less than 5/s in. from a cut edge and not less than 1 in. from a mill edge. This table 
+does not apply to the uncropped ends of mill edge coils. 
+NoTE 2-Micrometers used for measurement of thickness shall be constructed with anvils and spindles having minimum diameters of 0.188 in. 
+[4.80 mm]. The tip of the spindle shall be flat, and the tip of the anvil shall be flat or rounded with a minimum radius of curvature of 0.10 in. [2.55 mm]. 
+Micrometers with pointed tips are not suitable for thickness measurements. 
+NoTE 3-The thickness of material <2 in. wide shall be measured at mid-width. 
+Specified Ordered Thickness, in.A 
+0.031 to 0.051, Over 0.051 to Over 0.059 to Over 0.070 Over 0.082 Over 0.098 0.180 to Specified Width, in. to 0.082, to 0.098, to 0.180, incl 0.059, incl 0.070, incl incl incl excl 0.230, excl 
+Thickness Tolerances All Over, in., No Tolerance Under 8 
+To 15, incl 0.008 0.009 0.009 0.009 0.009 0.010 0.010 
+Over 15 to 20, incl 0.008 0.009 0.010 0.010 0.010 0.012 0.012 
+Over 20 to 32, incl 0.009 0.009 0.010 0.010 0.010 0.012 0.014 
+Over 32 to 40, incl 0.009 0.009 0.010 0.010 0.012 0.012 0.014 
+Over 40 to 48, incl 0.009 0.010 0.010 0.010 0.012 0.015 O.D15 
+Over 48 to 60, incl C 0.010 0.010 0.010 0.012 O.D15 O.D15 
+Over 60 to 72, incl C C 0.012 0.012 0.014 0.016 0.016 
+Over 72 to 80, incl C C C 0.012 0.014 0.018 0.018 
+__over80- C .. ____c;_ _Q_ _C_ 0,01-5- -O,()t8- O.o18c;c 
+A The specified thickness range captions apply independent of whether the ordered thickness is stated as a nominal or minimum. 
+8 The tolerances provided in the table are based on minimum thickness (tolerance over, no tolerance under). For nominal thickness, the tolerance is divided equally over 
+and under. 
+c Where an ellipsis ( ... ) appears in the table, the requirements have not been defined. 
+The luster may not be retained after fabrication; therefore, the 
+formed parts will require surface preparation to make them 
+suitable for bright plating. 
+9.3 Cold-rolled carbon sheet, when intended for unexposed 
+applications, is not subject to limitations on degree and 
+frequency of surface imperfections, and restrictions on texture 
+and mechanical properties are not applicable. When ordered as 
+"annealed last," the product will have coil breaks and a 
+tendency toward fluting and stretcher straining. Unexposed 
+cold-rolled sheet may contain more surface imperfections than 
+exposed cold-rolled sheet because steel applications, process­
+ing procedures, and inspection standards are less stringent. 
+9.4 Cold-rolled high-strength low-alloy sheet is supplied 
+with a matte finish, unless otherwise specified. 
+9.5 The cold-rolled products covered by this specification 
+are furnished with cut edges and square cut ends, unless 
+otherwise specified. 
+984 
+-___________,
+
+=== Page 1085 ===
+
+ASME BPVC.ILA-2025 SA-568/SA-568M (ASTM A568/A568M)
+“ | TABLE 6 Width Tolerances“ of Hot-Rolled Mill Edge Sheet (All TABLE 9 Diameter Tolerances of Circles Sheared from Hot-Rolled
+: . ; Designations) _ (Including Pickled) and Cold-Rolled Sheet (Over 12 in. Width) (All
+‘ (Coils and Cut Lengths, Including Pickled) Designations)
+a HO Tolerances Over Specified Diameter, in. (No E
+Tolerances Over ve: ; , Tolerances Under) |
+Specified Width, in. Specified Width, in. Specified Thickness,” in. Over 30 to 48 . .
+No Tolerance Under Under 30 incl Over 48 :
+Over 12 to 14 incl he 0.044 to 0.057 incl Ae Va V6 :
+Over 14 to 17 incl Vp Over 0.057 to 0.098 incl Yao 5/3p se
+Over 19 to 21 incl “% 40.071 in. minimum thickness for hot-rolled high-strength low-alloy steel sheet. =
+Over 21 to 24 incl We :
+Over 24 to 26 incl 1%e :
+Over 26 to 30 incl 1/6 ;
+Over 30 to 50 incl 1% TABLE 10 Camber Tolerances“ for Hot-Rolled (Including Pickled) f
+Over 50 to 78 incl 1% and Cold-Rolled Sheet (All Designations) :
+Over 78 1% (Cut Lengths) :
+j ™ “ . . . . . : 1 . e
+Sanna." 7% 7 1 7 EERE ET 12 to 14 Incl High-Strength Low-Allo The Note 1—Camber is the greatest deviation of a side edge from a straight |
+a ~ Over 14 to 17 incl Vy line, the measurement being taken on the concave side with a straightedge.
+; Over 17 to 19 incl %e Cut Length, ft Camber Tolerances, in. |
+: Over 19 to 21 incl Ye a a cas f
+Over 21 to 24 incl "6 Over 4 incl ¥, :
+Over 24 to 26 incl , 1% Over 6 ° ° incl “ib
+Over 26 to 28 incl. S6 , ‘ ,
+Over 28 to 35 incl 1% Over 8 to 10 incl Ae | :
+Over 35 to 50 incl 1% over . Q ne i
+Over 50 to 60 incl 1% Over tate 18 in im |
+Over 60 to 65 inc! 1% Over 16 to 18 incl ¥, :
+Over 65 to 70 incl 1% Over ie C so nel ; ‘,
+Over 70 to 80 incl 1% ver one anine ’ -
+Over 80 5 Over 20 to 30 incl 1% :
+rns eee aetna tens CntseennaOmne Over 30 to 40 incl 1% ;
+Wortty tolerances do not apply to the uncropped ends of mill edge coils AThe camber tolerance for coils is 1 in. in any 20 ft !
+/ TABLE 7 Width Tolerances of Hot-Rolled Cut Edge Sheet (All TABLE 11 Out-of-Square Tolerances of Hot-Rolled Cut-Edge
+Widths) and Cold-Rolled Sheet (Widths Over 12 in. Only) (including Pickled) and Cold-Rolled Sheet (All Designations)
+io . (All Designations)* __ ut bongs)
+oe (Coils and Cut Lengths, Including Pickled) Out-of-square is the greatest deviation of an end edge from a straight line at :
+ifi ; right angle to a side and touching one corner. It is also obtained by measuring |
+wes , Tolerances Over Specified Width, in.
+Specified Width, in. the difference between the diagonals of the cut length. The out-of-square :
+No Tolerance Under
+Ry ay as deviation is one half of that difference. The tolerance for all thicknesses and all :
+Osa 48 incl | 5, 5 sizes is Vie in./6 in. of width or fraction thereof. :
+Over 48 to 60 incl vZ) .
+Over 60 to 80 incl ae 1
+Over 80 Ya TABLE 12 Restricted Squareness Tolerances of Hot-Rolled !
+A Cold Rolled widths 12 in. and less refer to Table 18.) (Including Pickled) and Cold-Rolled Sheet (All Designations) /
+(Cut Lengths) |
+When cut lengths are specified restricted squareness, the width and the length :
+TABLE 8 Length Tolerances of Hot-Rolled Sheet are not less than the dimensions specified. The individual tolerance for over- :
+i ( All D e signations) = | Width, overlength, camber, or out-of-square should not exceed ‘Asin. upto.and
+/ Cut Lenaths. | a dina Pickled including 48 in. in width and up to and including 120 in. in length. For cut |
+f (Cut Lengths, Including Pickled) lengths wider or longer, the applicable tolerance is Ye in. :
+in ' Tolerances Over Specified |
+eas Specified Length, in. Length, in. :
+No Tolerance Under |
+To 15 incl Ye |
+Oe ot eens i 9.5.1.1 The term slit last edge is a cut edge that was |
+2 .
+Over 60 to 120 inc! 3/, edge-trimmed at the final process step. |
+Over 120 to 156 incl | 1 (1) If the purchaser requires the edge to be trimmed at the :
+over top ° We ne te final process step, the term slit last edge shall be shown on the |
+2
+Over 240 15, purchase order. | 7
+a (2) If the producer decides to trim the edge at the final ;
+process step, without being required by the purchaser, the term |
+9.5.1 The term cut edge refers to the edge resulting from slit last edge is not required, since this condition falls under the :
+trimming the hot-rolled mill edge that is formed during the  ™ cut edge as described in 9.5.1. |
+hot-rolling process. At the producer’s option, the edge shall be 9.6 Oiling: ,
+| ' p p p g g | | |
+/ trimmed at any process step after the hot-rolling process step to 9.6.1 Plain hot-rolled sheet is customarily furnished not
+‘ the final process step. oiled. Oiling must be specified, when required.
+Co p p g p q
+985
+
+=== Page 1086 ===
+
+SA-568/SA-568M (ASTM A568/A568M) ASME BPVC.II.A-2025 
+TABLE 13 Flatness TolerancesA of Temper Rolled, Levelled/=" or 
+Pickled Hot-Rolled Sheet Cut Lengths 8 (All Designations) 
+Flatness Tolerances, c in. 
+Specified Ordered Yield Strength, 
+Specified Ordered Specified Ordered min, ksi 
+Minimum Thickness, Over 
+in. Width, in. Under 45 to 55 to 80 to 
+45 55° Under 100° 
+ao 0 
+0.027 to 0.057 incl To 36 incl ½ ¾ 1 1¼ 
+over 36 to 60 incl ¾ 11/s 1½ 1¾ 
+over 60 1 1½ 1¾ 2 
+0.057 to 0.180 excl To 60 incl ½ ¾ 1¼ 
+over 60 to 72 incl ¾ 11/a 1½ 1¾ 
+over 72 1 1½ 1¾ 2 
+0.180 to 0.230 excl To 60 incl ½ ¾ 1¼ 
+over 60 to 72 incl ¾ 11/a 1 1h 1¾ 
+over 72 1 1½ 1¾ 2 
+A The above table also applies to lengths cut from coils by the consumer when 
+adequate flattening operations are performed. 
+8 Application of this table to product in coil form is not appropriate unless the coil 
+has been rolled out and adequately flattened with all coil set removed. 
+c Maximum deviation from a horizontal flat surface. 
+0 0.071 minimum thickness of HSLA. 
+E The term Levelled also includes but is not limited to Tension Levelled, Stretcher 
+Levelled, Roller Levelled, & 2-Mill 
+TABLE 14 Flatness TolerancesA of Non-Processed Hot-rolled 
+Sheet Cut Lengths 8 (All Designations) 
+Flatness Tolerances,c in. 
+Specified Ordered Yield Strength, 
+Specified Ordered Specified Ordered min, ksi 
+Over Minimum Thickness, in. Width, in. Under 45 to 55 to 80 to 
+45 55° Under 100° 
+ao 0 
+0.027 to 0.057 incl To 36 incl 1½ 2¼ 2½ 2¾ 
+over 36 to 60 incl 2¼ 3% 3½ 3¾ 
+over 60 3 4½ 4¾ 5 
+over 0.057 to 0.180 excl over 12 to 60 incl 1½ 2¼ 2½ 2¾ 
+over 60 to 72 incl 2¼ 3% 3½ 3¾ 
+over 72 3 4½ 4¾ 5 
+0.180 to 0.230 excl over 12 to 60 incl 1½ 2¼ 2½ 2¾ 
+over 60 to 72 incl 2¼ 3% 3½ 3¾ 
+over 72 3 4½ 4¾ 5 
+A The above table also applies to lengths cut from coils by the consumer when 
+adequate flattening operations are performed. 
+8 Application of this table to product in coil form is not appropriate unless the coil 
+-------1t=ia~s bel!ITTOlled"outmll:f~y-flattenoow1thwlcoil set removed. 
+c Maximum deviation from a horizontal flat surface. 
+0 0.071 minimum thickness of HSLA. 
+9.6.2 Hot-rolled pickled or descaled sheet is customarily 
+furnished oiled. If the product is not to be oiled, it must be so 
+specified since the cleaned surface is prone to rusting. 
+9.6.3 Cold-rolled products covered by this specification can 
+be furnished oiled or not oiled as specified. 
+9.7 Sheet steel in coils or cut lengths may contain surface 
+imperfections that can be removed with a reasonable amount of 
+metal finishing by the purchaser. 
+10. Workmanship 
+10.1 Cut lengths shall have a workmanlike appearance and 
+shall not have imperfections of a nature or degree for the 
+product, the grade, class, and the quality ordered that will be 
+detrimental to the fabrication of the finished part. 
+10.2 Coils may contain some abnormal imperfections that 
+render a portion of the coil unusable since the inspection of 
+coils does not afford the producer the same opportunity to 
+remove portions containing imperfections, as in the case with 
+cut lengths. 
+10.3 Surface Conditions: 
+10.3.1 Exposed cold-rolled sheet is intended for applica­
+tions where surface appearance is of primary importance, that 
+is, exposed applications. Unexposed or annealed cold-rolled 
+sheet is intended for applications where surface appearance is 
+not of primary importance, that is, unexposed applications. 
+10.3.2 Cut lengths for exposed applications shall not in­
+clude individual sheets having major surface imperfections 
+(holes, loose slivers, and pipe) and repetitive minor surface 
+imperfections. Cut lengths may contain random minor surface 
+imperfections that can be removed with a reasonable amount of 
+metal finishing by the purchaser. These imperfections shall be 
+acceptable to the purchaser within the manufacturer's pub­
+lished standards. 
+10.3.3 For coils for exposed applications, it is not possible 
+to remove the surface imperfections listed in 10.3.2. Coils will 
+contain such imperfections which shall be acceptable to the 
+purchaser within the manufacturer's published standards. Coils 
+contain more surface imperfections than cut lengths because 
+the producer does not have the same opportunity to sort 
+portions containing such imperfections, as is possible with cut 
+lengths. 
+10.3.4 Cut lengths for unexposed applications shall not 
+include individual sheets having major surface imperfections 
+such as holes, loose slivers, and pipe. In addition, unexposed 
+cut lengths can be expected to contain more minor imperfec­
+tions such as pits, scratches, sticker breaks, edge breaks, 
+pinchers, cross breaks, roll marks, and other surface imperfec­
+tions than exposed. These imperfections shall be acceptable to 
+the purchaser without limitation. 
+10.3.5 For coils for unexposed applications, it is not pos­
+sible to remove the surface imperfections listed in 10.3.4. Coils 
+wiH-eontain smface impetfecti~~r=ep-arrna·:..-_-------f 
+986 
+able. Minor imperfections shall be acceptable to the purchaser 
+within the manufacturer's published standards. Unexposed 
+coils contain more surface imperfections than exposed coils. 
+11. Retests and Disposition of Non-Conforming Material 
+11.1 Retests: 
+11.1.1 Unless otherwise prohibited by the product 
+specification, retests are permitted under the following circum­
+stances: 
+11.1.1.1 If any tension test specimen shows defective ma­
+chining or develops flaws, it must be discarded and another 
+specimen substituted. 
+11.1.1.2 If the percent elongation of any tension test speci­
+men is less than that specified and any part of the fracture is 
+more than ¾ in. [20 mm] from the center of the gauge length 
+of a 2-in. [50-mm] specimen, or is outside the middle half of
+
+=== Page 1087 ===
+
+ASME BPVC.II.A-2025 SA-568/SA-568M (ASTM A568/A568M) 
+TABLE 15 Thickness Tolerances for Cold-Rolled Sheet (All Designations)A -1-in. Minimum Edge Distance (Coils and Cut Lengths) 
+NoTE I-Thickness is measured at any point across the width not less than 1 in. from a side edge. 
+NoTE 2-Micrometers used for measurement of thickness shall be constructed with anvils and spindles having minimum diameters of 0.188 in. 
+[4.80 mm]. The tip of the spindle shall be flat, and the tip of the anvil shall be flat or rounded with a minimum radius of curvature of 0.10 in. [2.55 mm). 
+Micrometers with pointed tips are not suitable for thickness measurements. 
+NoTE 3-The thickness of material <2 in. wide shall be measured at mid-width. 
+Specified Ordered Thickness, in. 8 
+Specified Width, in. To 0.014, 
+excl 
+0,014 to 0.019, Over 0,019A to Over 0.039 to 0.057, Over 0.057 to 0.071, Over 0.071 to 0.098, Over 0.098 to 0.142, 
+incl 0.039, incl incl incl incl incl 
+Thickness Tolerances, Over, in., No Tolerance Underc 
+To 15, incl 0.001 
+0.001 
+D 
+0.002 
+0,002 
+D 
+0.003 0,004 0.005 0.005 
+0.005 
+0.006 
+0.005 
+0.006 
+0.007 
+Over 15 to 72, incl 
+Over72 
+0.003 0.004 0.005 
+0.003 0.004 0.005 
+A Minimum Thickness, 0.021 in. for high-strength, low-alloy. 
+8 The specified thickness range captions apply independent of whether the ordered thickness is stated as a nominal or minimum. 
+c The tolerances provided in the table are based on minimum thickness (tolerance over, no tolerance under). For nominal thickness, the tolerance is divided equally over 
+and under. 
+0 Where an ellipsis (. , .) appears in the table, the requirements have not been defined. 
+TABLE 16 Length Tolerances of Cold-Rolled Sheet 
+(All Designations) 
+(Cut Lengths Over 12 in. in Width) 
+Specified Length, in. 
+Over 12 to 30, incl 
+Over 30 to 60, incl 
+Over 60 to 96, incl 
+Over 96 to 120, incl 
+Over 120 to 156, incl 
+Over 156 to 192, incl 
+Over 192 to 240 incl 
+Over 240 
+Tolerances Over 
+Specified Length, 
+in. No Tolerances 
+Under 
+1/a 
+¼ 
+½ 
+¾ 
+1 
+1¼ 
+1½ 
+1¾ 
+TABLE 17 Length Tolerances of Cold-Rolled Sheet 
+(All Designations) 
+(Cut Length Sheets, to 12 in. in Width) 
+NoTE 1-This table applies to widths produced by slitting from wider 
+sheet. 
+Specified Length, in. 
+24 to 60, incl 
+Over 60 to 120, incl 
+Over 120 to 240, incl 
+Tolerances Over Specified 
+Length, in, No Tolerance Under 
+½ 
+¾ 
+1 
+TABLE 18 Width Tolerances for Cold-Rolled Sheet 
+(All Designations)A 
+(Coils and Cut Lengths to 12 in. Width) 
+Specified Width, in. 
+To 6, incl 
+Over 6 to 9, incl 
+Over 9 to 12, incl 
+Width Tolerance, Plus and Minus, in. 
+0,012 
+0.016 
+0.032 
+A 0.020 in. minimum thickness for high-strength low-alloy. 
+the gauge length of an 8-in. [200-mm] specimen, as indicated 
+by scribe scratches marked on the specimen before testing, a 
+retest is allowed. ' 
+11.1.1.3 If the test result of any tension test specimen fails 
+to meet the specification requirements and the failure is the 
+result of improper adherence to tension test procedures, a retest 
+is permitted. 
+TABLE 19 Camber Tolerances of Cold-Rolled Sheet in Coils 
+(All Designationst 
+(Coils to 12 in. in Width) 
+NoTE I-Camber is the greatest deviation of a side edge from a straight 
+line, the measurement being taken on the concave side with a straightedge. 
+NoTE 2-This table applies to widths produced by slitting from wider 
+sheet. 
+Width, in. Camber Tolerance 
+To 12, incl ¼ in. in any 8 ft 
+A 0.020 in. minimum thickness for high-strength low-alloy, 
+TABLE 20 Flatness Tolerances of Cold-Rolled Sheet Cut Length 
+(All Designations) 
+NoTE 1-This table does not apply when product is ordered full hard, 
+to a hardness range, or "annealed last" (dead soft). 
+Norn 2-This table also applies to lengths cut from coils, when 
+adequate flattening measures are performed to remove all undesirable 
+flatness conditions, including, but not limited to, coil set. 
+Flatness Tolerance/ in. 
+Specified Specified Width, in. Specified Yield Point, min, ksi Thickness, in. 
+Under 45 45 to 50 8 incl. 
+To 0.044, incl to 36 incl % ¾ 
+OlleL36 to----60 incl % 1Yi,_ 
+over 60 7/a 1½ 
+Over 0.044 to 36 incl ¼ % 
+over 36 to 60 incl % % 
+over 60 to 72 incl % 11/a 
+over 72 7/a 1½ 
+A Maximum deviation from a horizontal flat surface. 
+8 Tolerances for high-strength, low-alloy steel with specified minimum yield point in 
+excess of 50 ksi are subject to negotiation, 
+11. 1.1.4 If the test result of an original tension test specimen 
+fails to meet the specification requirements and the failure is 
+not related to the conditions described in 11.1.1.1 - 11.1.1.3, 
+but the results are within 2 ksi [14 MPa] of the required yield 
+strength, within 2 ksi [14 MPa] of the required tensile strength, 
+or within 2 percentage points of the required elongation, one 
+retest shall be permitted to replace the failing test. 
+987
+
+=== Page 1088 ===
+
+SA-568/SA-568M (ASTM A568/A568M) ASME BPVC.II.A-2025 
+11.1.2 The retest specimen shall be taken either adjacent to 
+the first failed specimen, or selected at random from the 
+material to be certified to the specification. 
+11.1.3 If the results of a retest satisfy the specified tension 
+test requirements and all other requirements of the applicable 
+specification are satisfied, the material shall be accepted. 
+11.2 Disposition of Non-Conforming Material: 
+11.2.1 In those cases where the lot is found to be non­
+conforming, and resampling of non-conforming material is not 
+prohibited by the specification, resampling is permitted under 
+the following circumstances and using the following practices: 
+11.2.1.1 If the results of an original tension test or retest 
+specimen fail to satisfy the specification requirements, and the 
+failed test results are not related to the conditions described in 
+11.1, the lot shall be quarantined and resampled for certifica­
+tion of the non-conforming material to the specification re­
+quirements. 
+11.2.1.2 Resampling for certification of the non-conforming 
+material shall include the discarding of out-of-specification 
+material and the resampling of the lot. The resampling shall be 
+appropriate to the specific out-of-specification condition and 
+the processing history of the lot. 
+11.2.1.3 A maximum of two resampling efforts shall be 
+permitted. If after conducting two resampling efforts, the 
+material does not satisfy the specification requirements, the lot 
+shall be rejected. 
+12. Inspection 
+12.1 When purchaser's order stipulates that inspection and 
+tests (except product analyses) for acceptance on the steel be 
+made prior to shipment from the mill, the manufacturer shall 
+afford the purchaser's inspector all reasonable facilities to 
+satisfy him that the steel is being produced and furnished in 
+accordance with the specification. Mill inspection by the 
+purchaser shall not interfere unnecessarily with the manufac­
+tnrer' s operation. 
+14.2 The manufacturer or processor shall issue a test report 
+or optional certificate of compliance, or both, when required by 
+the purchase order or the specification. 
+14.3 The test report shall show the heat analysis and the 
+results of all tests required by the purchase order and seller and 
+by the specification. 
+14.4 The certificate of compliance shall include a statement 
+that the product was manufactured and tested in accordance 
+with the requirements of the specification and that the test 
+results conform to the requirements of the specification. 
+Norn 4-The heat analysis, results of all tests, and the certificate of 
+compliance may be reported separately on in a combined report. 
+14.5 Steel processors shall pass transfer data supplied by the 
+steel manufacturer provided the processing has not altered the 
+attributes represented. In cases where the steel is retested the 
+processor is responsible for the accuracy of the data and shall 
+maintain traceability back to its source. Retesting for heat 
+analysis shall be done in accordance with the specification Test 
+Methods A751. The report shall clearly identify the physical 
+product it represents. 
+14.6 Test rep01is and certificates of compliance shall pro­
+vide information necessary to identify the product represented; 
+for example the manufacturer's name or brand, the processor's 
+name or brand or the seller's name or brand, ASTM specifi­
+cation number and year date, product designation, type or 
+class, as applicable, and all other information necessary to 
+completely identify the material. 
+14.7 A signature is not required on test reports or certifica­
+tions. However, the document shall clearly identify the orga­
+nization submitting the document. Notwithstanding the ab­
+sence of a signature, the organization submitting the document 
+is responsible for the content of the document. 
+14.8 When required, copies of the original material manu­
+facturer's test report shall be included with any subsequent test 
+report. 
+14.9 A Material Test Report, Certificate of Inspection, or 
+13. Rejection and Rehearing similar document printed from or used in electronic form from 
+13.l Unless otherwise specified, any rejection shall b~ electroni~ata interchange_ (EDI) transmission s~all be 
+rep01ied to the manufacturer within a reasonable time after regardedasliavmg the same vahc:!ity as a counterpart prmte~ 
+recei t of material by the purchaser. the certifier's facility. The c?ntent of the ~DI transmitted 
+p document must meet the reqmrements of the mvoked ASTM 
+13.2 Material that is reported to be defective subsequent to standard(s) and confonn to any existing EDI agreement be-
+the acceptance at the purchaser's works shall be set aside, tween the purchaser and the supplier. Notwithstanding the 
+adequately protected, and correctly identified. The manufac- absence of a signature, the organization submitting the EDI 
+turer shall be notified as soon as possible so that an investiga- transmission is responsible for the content of the report. 
+tion may be initiated. 14.9.1 The content of the EDI document shall meet all the 
+13.3 Samples that are representative of the rejected material requirements of 14.3 through 14.6. 
+shall be made available to the manufacturer. In the event that 
+the manufacturer is dissatisfied with the rejection, he may 
+request a rehearing. 
+14. Test Reports and Certification 
+14.1 When test repo1is are required by the purchase order or 
+the material specification, the supplier shall report the results of 
+all test required by the material specification and the order. 
+988 
+NoTE 5-The industry definition as invoked here is: EDI is the 
+computer to computer exchange of business information in an agreed upon 
+standard format such as ANSI ASC Xl2. 
+15. Product Marking 
+15.1 As a minimum requirement, the material shall be 
+identified by having the manufacturer's name, ASTM 
+designation, weight, purchaser's order number, and material
+
+=== Page 1089 ===
+
+ASME BPVC.II.A-2025 SA-568/SA-568M (ASTM A568/A568M) 
+identification legibly stenciled on top of each lift or shown on 
+a tag attached to each coil or shipping unit. 
+15.2 When specified in the contract or order, and for direct 
+procurement by or direct shipment to the government, marking 
+for shipment in addition to requirements specified in the 
+contract or order, shall be in accordance with MIL-STD-129 
+for military agencies and in accordance with Fed. Std. No. 123 
+for civil agencies. 
+15.3 Bar coding is acceptable as a supplementary identifi­
+cation method. Bar coding should be consistent with the 
+Automotive Industry Action Group (AIAG) standard prepared 
+by the primary metals subcommittee of the AIAG bar code 
+project team. 
+16. Packing and Package Marking 
+16.1 Unless otherwise specified, the sheet shall be packaged 
+and loaded in accordance with Practices A700. 
+16.2 When coils are ordered, it is customary to specify a 
+minimum or range of inside diameter, maximum outside 
+diameter, and a maximum coil weight, if required. The ability 
+of manufacturers to meet the maximum coil weights depends 
+upon individual mill equipment. When required, minimum coil 
+weights are subject to negotiation. 
+17. Keywords 
+17 .1 carbon steel sheet; cold rolled steel sheet; general 
+delivery requirements; high strength low alloy steel; hot-rolled 
+steel sheet; steel sheet; structural steel sheet 
+SUPPLEMENTARY REQUIREMENTS 
+The following supplementary requirements shall apply only when specified by the purchaser in the 
+purchase order or contract. 
+Sl. Thickness Tolerances 
+Sl.l See Tables Sl.1-Sl.6. 
+TABLE S1.1 Thickness Tolerances for Hot-Rolled Sheet (Carbon and Str.uctural Steel Only)-3/a-in. (Cut Edge) and ¾-in. (Mill Edge) 
+Minimum Edge Distance (Coils and Cut Lengths, Including Pickled) 
+NoTE 1-Thickness is measured at any point across the width not less than 3/s in. from a cut edge and not less than ¾ in. from a mill edge. This table 
+does not apply to the uncropped ends of mill edge coils. 
+NoTE 2-Micrometers used for measurement of thickness shall be constructed with anvils and spindles having minimum diameters of 0.188 in. 
+[4.80 mm]. The tip of the spindle shall be flat, and the tip of the anvil shall be flat or rounded with a minimum radius of curvature of 0.10 in. [2.55 mm]. 
+Micrometers with pointed tips are not suitable for thickness measurements. 
+NoTE 3-This table was used to construct Table 4 by multiplying the values in this table by 0.75 and rounding to 3 decimal places using standardASTM 
+practice. 
+Norn 4-The thickness of mateiial <1 in. wide shall be measured at mid-width. 
+Specified Ordered Thickness, in. A 
+Specified Width, in. -----0:027--ilJ0.051~ -cveril:051 to--0.057-;- -Over 0.05-7---to 0,071, -ever G.G71 tG--Q.098,- Over---0.098-to 0.j-80, _0.18Qio 0.230, 
+incl incl incl incl excl excl 
+To 20 incl 
+Over 20 to 40 incl 
+Over 40 to 48 incl 
+Over 48 to 60 incl 
+Over 60 to 72 incl 
+Over 72 
+0.010 
+0.010 
+0.010 
+C 
+C 
+C 
+0.010 
+0.010 
+0.012 
+0.012 
+0.014 
+C 
+Thickness Tolerances Over, in., No Tolerance Under 8 
+0.012 0.012 0.014 
+0.012 0.014 0.014 
+0.012 0.014 0.016 
+0.014 0.014 0.016 
+0.014 O.D16 0.016 
+C 0.016 0.016 
+A The specified thickness range captions apply independent of whether the ordered thickness is stated as a nominal or minimum. 
+0.014 
+O.D16 
+O.D18 
+0.020 
+0.022 
+0.024 
+8 The tolerances provided in the table are based on minimum thickness (tolerance over, no tolerance under). For nominal thickness, the tolerance is divided equally over 
+and under. 
+c Where an ellipsis( ... ) appears in the table, the requirements have not been defined. 
+989
+
+=== Page 1090 ===
+
+SA-568/SA-568M (ASTM A568/A568M) ASME BPVC.II.A-2025 
+TABLE S1.2 Thickness Tolerances for Hot-Rolled Sheet (High-Strength, Low-Alloy Steel)-3/e-in. (Cut Edge) and ¾-in. (Mill Edge) 
+Minimum Edge Distance (Coils and Cut Lengths, Including Pickled) 
+NoTE I-Thickness is measured at any point across the width not less than 3/s in. from a cut edge and not less than¾ in. from a mill edge. This table 
+does not apply to the uncropped ends of mill edge coils. 
+NoTE 2-Micrometers used for measurement of thickness shall be constructed with anvils and spindles having minimum diameters of 0.188 in. 
+[ 4.80 mm]. The tip of the spindle shall be flat, and the tip of the anvil shall be flat or rounded with a minimum radius of curvature of 0.10 in. [2.55 mm]. 
+Micrometers with pointed tips are not suitable for thickness measurements. 
+NoTE 3-This table was used to construct Table 5 by multiplying the values in this table by 0.75 and rounding to 3 decimal places using standardASTM 
+practice. 
+NoTE 4-The thickness of material <1 in. wide shall be measured at mid-width. 
+Specified Ordered Thickness, in.A 
+Specified Width, in. 0.031 to 0.051, Over 0.051 Over 0.059 Over 0.070 to Over 0.082 to Over 0.098 to 0.180 to 
+incl to 0.059, incl to 0.070, incl 0.082, incl 0.098, incl 0.180, excl 0.230, excl 
+Thickness Tolerances, Over, in., No Tolerance Under 8 
+To 15, incl 0.010 0.012 0.012 0.012 0.012 0.014 0.014 
+Over 15 to 20, incl 0.010 0.012 0.014 0.014 0.014 0.016 0.016 
+Over 20 to 32, incl 0.012 0.012 0.014 0.014 0.014 0.016 0.018 
+Over 32 to 40, incl 0.012 0.012 0.014 0.014 0.016 0.016 O.Q18 
+Over 40 to 48, incl 0.012 0.014 0.014 0.014 0.016 0.020 0.020 
+Over 48 to 60, incl C 0.014 0.014 0.014 0.016 0.020 0.020 
+Over 60 to 72, incl C C 0.016 0.016 O.Q18 0.022 0.022 
+Over 72 to 80, incl C C C 0.016 0.018 0.024 0.024 
+Over 80 C C C C 0.020 0.024 0.024° 
+A The specified thickness range captions apply independent of whether the ordered thickness is stated as a nominal or minimum. 
+8 The tolerances provided in the table are based on minimum thickness (tolerance over, no tolerance under). For nominal thickness, the tolerance is divided equally over 
+and under. 
+c Where an ellipsis ( ... ) appears in the table, the requirements have not been defined. 
+TABLE S1 .3 Thickness Tolerances for Cold-Rolled Sheet (All Designations)A -%-in. Minimum Edge Distance (Coils and Cut Lengths) 
+NoTE I-Thickness is measured at any point across the width not less than 3/s in. from a side edge. 
+NoTE 2-Micrometers used for measurement of thickness shall be constructed with anvils and spindles having minimum diameters of 0.188 in. 
+[4.80 mm]. The tip of the spindle shall be flat, and the tip of the anvil shall be flat or rounded with a minimum radius of curvature of 0.10 in. [2.55 mm]. 
+Micrometers with pointed tips are not suitable for thickness measurements. 
+NoTE 3-This table was used to construct Table 15 by multiplying the values in this table by 0.50 and rounding to 3 decimal places using standard 
+ASTM practice. 
+NoTE 4--The thickness of material <1 in. wide shall be measured at mid-width. 
+Specified Ordered Thickness, in. 8 
+Specified Width, in. To 0.014, 
+excl 
+0.014 to 0.019, Over 0,019A to Over 0.039 to 0.057, Over 0.057 to 0.071, Over 0.071 to 0.098, 
+incl 0.039 incl incl incl incl 
+To 15, incl 0.002 
+-over 15 to 72, in~ 0.002 
+Over 72 ° 
+0.004 
+---o:oo,r· 
+D 
+Thickness Tolerances, Over, in., No Tolerance Under 
+0.006 0.008 0.010 
+---0-.006 ---0-.008 0.010 
+---
+0.006 0.008 0.010 
+A Minimum Thickness, 0.021 in. for high-strength, low-alloy. 
+8 The specified thickness range captions apply independent of whether the ordered thickness is stated as a nominal or minimum. 
+0.010 
+0.010 
+0.012 
+Over 0.098 to 
+0.142, incl 
+0.010 
+0.012 
+0.014 
+c The tolerances provided in the table are based on minimum thickness (tolerance over, no tolerance under). For nominal thickness, the tolerance is divided equally over 
+and under. 
+0 Where an ellipsis ( ... ) appears in the table, the requirements have not been defined. 
+990
+
+=== Page 1091 ===
+
+ASME BPVC.II.A-2025 SA-568/SA-568M (ASTM AS68/A568M) 
+TABLE S1.4 Thickness Tolerances [Metric] for Hot-Rolled Sheet (Carbon and Structural Steel Only)-10-mm (Cut Edge) and 20-mm (Mill 
+Edge) Minimum Edge Distance (Coils and Cut Lengths, Including Pickled) 
+NoTE I-Thickness is measured at any point across the width not less than 10 mm from a cut edge and not less than 20 mm from a mill edge. This 
+table does not apply to the uncropped ends of mill edge coils. 
+NoTE 2-Micrometers used for measurement of thickness shall be constructed with anvils and spindles having minimum diameters of 0.188 in. 
+[4.80 mm]. The tip of the spindle shall be flat, and the tip of the anvil shall be flat or rounded with a minimum radius of curvature of 0.10 in. [2.55 mm]. 
+Micrometers with pointed tips are not suitable for thickness measurements. 
+NOTE 3-This table was used to construct Table Al.I by multiplying the values in this table by 0.75 and rounding to 2 decimal places using standard 
+ASTM practice. 
+NOTE 4-The thickness of material <25 mm wide shall be measured at mid-width. 
+Specified Width, mm 
+To 600, incl 
+Over 600 to 1200, incl 
+Over 1200 to 1500, incl 
+Over 1500 to 1800, incl 
+Over 1800 
+Through 2.0 
+0.30 
+0.30 
+0.35 
+0.35 
+0.35 
+Specified Ordered Thickness, mmA 
+Over 2.0 to 2.5, incl Over 2.5 to 4.5, excl 
+Thickness Tolerances, Over, mm, No Tolerance Under 8 
+0.30 
+0.35 
+0.35 
+0.40 
+0.40 
+0.35 
+0.40 
+0.40 
+0.40 
+0.40 
+A The specified thickness range captions apply independent of whether the ordered thickness is stated as a nominal or minimum. 
+4.5 to 6.0, excl 
+0.40 
+0.45 
+0.50 
+0.56 
+0.60 
+8 The tolerances provided in the table are based on minimum thickness (tolerance over, not tolerance under). For nominal thickness, the tolerance is divided equally over 
+and under. 
+TABLE S1.5 Thickness Tolerances [Metric] for Hot-Rolled Sheet (High-Strength, Low-Alloy Steel)-10-mm (Cut Edge) and 20-mm (MIii 
+Edge) Minimum Edge Distance (Coils and Cut Lengths, Including Pickled) 
+NoTE I-Thickness is measured at any point across the width not less than 10 mm from a cut edge and not less than 20 mm from a mill edge. This 
+table does not apply to the uncropped ends of mill edge coils. 
+NoTE 2-Micrometers used for measurement of thickness shall be constructed with anvils and spindles having minimum diameters of 0.188 in. 
+[4.80 mm]. The tip of the spindle shall be flat, and the tip of the anvil shall be flat or rounded with a minimum radius of curvature of 0.10 in. [2.55 mm]. 
+Micrometers with pointed tips are not suitable for thickness measurements. 
+NOTE 3-This table was used to construct Table Al.I by multiplying the values in this table by 0.75 and rounding to 2 decimal places using standard 
+ASTM practice. 
+NOTE 4-The thickness of material <25 mm wide shall be measured at mid-width. 
+Specified Width, mm Through 
+2.0 
+Specified Ordered Thickness, mmA 
+Over 2.0 to Over 2.5 to 
+2.5, incl 4.5, excl 
+Thickness Tolerances Over, mm, No Tolerance Under 8 
+4.5 to 6.0, 
+excl 
+To 600, incl 0.30 0.35 0.40 0.40 
+Over 600 to 1200, incl 0.35 0.40 0.45 0.50 
+----------~O~v~e:-r ~12iO~O~to~150~0;'-' ~in~cl,------ ______ ~o~.3~5~-------~0:-;.4~0 ________ ~o~ •. ~50~ ______ ___;o 0 :_.,.50.-----------+ Over 1500 to 1800, incl 0.40 0.45 0.55 
+Over 1800 to 2000, incl 0.40 0.45 0.60 0.60 
+Over 2000 ° 0.50 0.60 0.60° 
+A The specified thickness range captions apply Independent of whether the ordered thickness is stated as a nominal or minimum. 
+8 The tolerances provided in the table are based on minimum thickness (tolerance over, not tolerance under). For nominal thickness, the tolerance is divided equally over 
+and under. 
+0 Where an ellipsis ( ... ) appears in the table, the requirements have not been defined. 
+991
+
+=== Page 1092 ===
+
+SA-568/SA-568M (ASTM A568/A568M) ASME BPVC.II.A-2025 
+TABLE S1.6 Thickness Tolerances [Metric] for Cold-Rolled Sheet (All Designatlons)A-10-mm Minimum Edge Distance 
+NoTE I-Thickness is measured at any point across the width not less than 10 mm from a side edge. 
+NoTE 2-Widths up to and including 300 mm in this table apply to widths produced by slitting from wider sheet. 
+NoTE 3-Micrometers used for measurement of thickness shall be constructed with anvils and spindles having minimum diameters of 0.188 in. 
+[4.80 mm]. The tip of the spindle shall be flat, and the tip of the anvil shall be flat or rounded with a minimum radius of curvature of 0.10 in. [2.55 mm]. 
+Micrometers with pointed tips are not suitable for thickness measurements. 
+NOTE 4-This table was used to construct Table Al.12 by multiplying the values in this table by 0.50 and rounding to 2 decimal places using standard 
+ASTM practice. 
+NOTE 5-The thickness of material <25-mm wide shall be measured at mid-width. 
+Specified Width, mm 
+Over Through 
+1800 
+2000 
+1800 
+2000 
+D 
+Through 0.4 
+0.10 
+D 
+D 
+Specified Ordered Thickness, mm 8 
+Over 0.4 to 1.0, Incl Over 1.0 to 1.2, incl Over 1.2 to 2.5, incl Over 2.5 to 4.0, Incl 
+Thickness Tolerances Over, mm, No Tolerance Under 0 
+0.15 0.20 0.25 0.30 
+0.15 0.20 0.30 0.35 
+0.30 0.30 0.35 0.40 
+A 0.55-mm minimum thickness for high-strength low-alloy. 
+8 The specified thickness range captions apply independent of whether the ordered thickness is stated as a nominal or minimum. 
+0 The tolerances provided in the table are based on minimum thickness (tolerance over, no tolerance under). For nominal thickness, the tolerance Is divided equally over 
+and under. 
+0 Where an ellipsis ( ... ) appears in the table, the requirements have not been defined. 
+ANNEX 
+(Mandatory Information) 
+Al. PERMISSIBLE VARIATIONS IN DIMENSIONS AND MASS IN SI UNITS 
+Listed in Tables Al.l-Al.17 are permissible variations in dimensions and mass expressed in the International System of Units (SI) 
+terminology. 
+TABLE A1.1 Thickness Tolerances [Metric] for Hot-Rolled Sheet 
+(Carbon and Structural Steel Only)-15-mm (Cut Edge) and 
+25-mm (Mill Edge) Minimum Edge Distance (Coils and Cut 
+Lengths, Including Pickled) 
+NoTE I-Thickness is measured at any point across the width not less 
+than 15 mm from a cut edge and not less than 25 mm from a mill edge. 
+This table does not apply to the uncropped ends of mill edge coils. 
+NOTE 2-Micrometers used for measurement of thickness shall be 
+constructed with anvils and spindles having minimum diameters of 
+0.188 in. [4.80 mm]. The tip of the spindle shall be flat, and the tip of the 
+-----------------~an=v'°',...-1 -c,sh'='all 6eflat or rounded with a mm1mum radms of curvature of . 
+in. [2.55 mm]. Micrometers with pointed tips are not suitable for thickness 
+measurements. 
+NoTE 3-The thickness of material <50 mm wide shall be measured at 
+mid-width. 
+Specified Ordered Thickness, mmA 
+Through 2.0 Over 2.0 to Over 2.5 to 4.5 to 6.0, 
+Specified Width, mm 2.5, incl 4.5, excl excl 
+Thickness Tolerances Over, mm, 
+No Tolerance Under 8 
+To 600 0.22 0.22 0.26 0.30 
+Over 600 to 1200, incl 0.22 0.26 0.30 0.34 
+Over 1200 to 1500, incl 0.26 0.26 0.30 0.38 
+Over 1500 to 1800, incl 0.26 0.30 0.30 0.42 
+Over 1800 0.26 0.30 0.30 0.45 
+A The specified thickness range captions apply independent of whether the 
+ordered thickness is stated as a nominal or minimum. 
+8 The tolerances provided In the table are based on minimum thickness (tolerance 
+over, not tolerance under). For nominal thickness, the tolerance is divided equally 
+over and under. 
+992
+
+=== Page 1093 ===
+
+ASME BPVC.II.A-2025 SA-568/SA-568M (ASTM A568/A568M) 
+TABLE A1.2 Thickness Tolerances of Hot-Rolled Sheet (High­
+Strength, Low-Alloy Steel)-15-mm (Cut Edge) and 25-mm (Mill 
+Edge) Minimum Edge Distance (Coils and Cut Lengths, Including 
+Pickled) 
+NOTE I-Thickness is measured at any point across the width not less 
+than 15 mm from a cut edge and not less than 25 mm from a mill edge. 
+This table does not apply to the uncropped ends of mill edge coils. 
+NOTE 2-Micrometers used for measurement of thickness shall be 
+constructed with anvils and spindles having minimum diameters of 
+0.188 in. [4.80 mm]. The tip of the spindle shall be flat, and the tip of the 
+anvil shall be flat or rounded with a minimum radius of curvature of 0.10 
+in. [2.55 mm]. Micrometers with pointed tips are not suitable for thickness 
+measurements. 
+NoTE 3-This table was constructed by multiplying the values in the 
+standard table by 0.75 and rounding to 2 decimal places using standard 
+ASTM practice. 
+NoTE 4--The thickness of material <50 mm wide shall be measured at 
+mid-width. 
+Specified Width, mm 
+To 600, incl 
+Over 600 to 1200, incl 
+Over 1200 to 1500, incl 
+Over 1500 to 1800, incl 
+Over 1800 to 2000, incl 
+Over2000 
+Specified Ordered Thickness, mmA 
+Through Over 2.0 to Over 2.5 4.5 to 
+2.0 2.5, incl to 6.0, excl 
+4.5, excl 
+Thickness Tolerances Over, mm, No Tolerance Un­
+der 8 
+0.22 0.26 0.30 0.30 
+0.26 0.30 0.34 0.38 
+0.26 0.30 0.38 0.38 
+0.30 0.34 0.41 0.42 
+0.30 0.34 0.45 0.45 
+C 0.38 0.45 0.45° 
+A The specified thickness range captions apply independent of whether the 
+ordered thickness is stated as a nominal or minimum. 
+8 The tolerances provided in the table are based on minimum thickness (tolerance 
+over, not tolerance under). For nominal thickness, the tolerance is divided equally 
+over and under. 
+0 Where an ellipsis ( ... ) appears in the table, the requirements have not been 
+defined. 
+TABLE A 1.3 Width TolerancesA of Hot-Rolled Mill Edge Sheet (All 
+Designations) 
+(Coils and Cut Lengths, Including Pickled) 
+Specified Width, mm Width Tolerance, Over Only, mm 
+TABLE A1.4 Width Tolerances of Hot-Rolled Cut Edge Sheet (All 
+Widths) and Cold-Rolled Sheet (Widths Over 300 mm)-(AII 
+Designationst 
+(Coils and Cut Lengths, Including Pickled) 
+--------------A·veI Thraug~rl'IOA HSb~A====---========S~p~ec~lf~ie~d:::!W=:l~dt~h:!::' m~m~=====--';W~id ... th,_1i~o~le,,,ra,..n..,.ce 5 , _____ _J_ 
+300 600 16 16 Over Through Over Only, mm 
+600 1200 26 28 600A 3 
+1200 1500 32 38 600 1200 5 
+1500 1800 35 45 1200 1500 6 
+1800 48 50 1500 1800 8 
+A The above tolerances do not apply to the uncropped ends of mill edge coils 1800 10 
+(9.1.1.1). A Cold Rolled widths 300 mm and less, refer to Table A1.15. 
+993
+
+=== Page 1094 ===
+
+SA-568/SA-568M (ASTM A568/A568M) ASME BPVC.II.A-2025 
+TABLE A 1.5 Length Tolerances of Hot-Rolled Sheet (All 
+Designations) 
+Over 
+300 
+600 
+900 
+1500 
+3000 
+4000 
+5000 
+6000 
+(Cut Lengths, Including Pickled) 
+Specified Length, mm 
+Through 
+600 
+900 
+1500 
+3000 
+4000 
+5000 
+6000 
+Length Tolerance, Over 
+Only, mm 
+6 
+8 
+12 
+20 
+25 
+35 
+40 
+45 
+TABLE A1.6 Diameter Tolerances of Circles from Hot-Rolled 
+(Including Pickled) and Cold-Rolled Sheet (Over 300 mm Width) 
+(All Designations) 
+Specified ThicknessA , mm 
+Over 
+1.5 
+2.5 
+Through 
+1.5 
+2.5 
+Tolerances Over Specified Diameter, mm (No 
+Tolerances Under) 
+Through 600 
+1.5 
+2.5 
+3.0 
+Diameters, mm 
+Over600to 
+1200, incl 
+3.0 
+4.0 
+5.0 
+Over1200 
+5.0 
+5.5 
+6.5 
+A 1.8 mm minimum thickness for hot-rolled high-strength low-alloy steel sheet. 
+TABLE A1.7 Camber TolerancesA for Hot-Rolled (Including 
+Pickled) and Cold-Rolled Sheet (All Designations) 
+(Cut Lengths) 
+Norn I-Camber is the greatest deviation of a side edge from a straight 
+line, the measurement being taken on the concave side with a straightedge. 
+Cut Length, mm 
+Camber TolerancesA , mm 
+Over Through 
+1200 4 
+1200 1800 5 
+1800 2400 6 
+2400 3000 8 
+3700 4300 13 
+4300 4900 16 
+4900 5500 19 
+5500 6000 22 
+6000 9000 32 
+9000 12200 38 
+A The camber tolerance for coils is 25.0 mm in any 6000 mm. 
+994 
+TABLE A1.8 Out-of-Square Tolerances of Hot-Rolled Cut-Edge 
+(Including Pickled) and Cold-Rolled Sheet (All Designations) 
+(Cut Lengths) 
+Out-of-square is the greatest deviation of an end edge from a straight line at 
+right angle to a side and touching one corner. It is also obtained by measuring 
+the difference between the diagonals of the cut length. The out-of-square 
+deviation is one half of that difference. The tolerance for all thicknesses and all 
+sizes is 1.0 mm/100 mm of width or fraction thereof. 
+TABLE A1.9 Restricted Squareness Tolerances of Hot-Rolled 
+(Including Pickled) and Cold-Rolled Sheet (All Designations) 
+(Cut Lengths) 
+When cut lengths are specified restricted squareness, the width and the length 
+are not less than the dimensions specified. The individual tolerance for over­
+width, over-length, camber, or out-of-square should not exceed 1.6 mm up to 
+and Including 1200 mm in width and up to and including 3000 mm in length. 
+For cut lengths wider or longer, the applicable tolerance is 3.2 mm.
+
+=== Page 1095 ===
+
+ASME BPVC.II.A-2025 SA-568/SA-568M (ASTM A568/A568M) 
+TABLE A1.10 Flatness TolerancesA of Temper Rolled, Levelled 0 , 
+or Pickled Hot-Rolled Sheet Cut Lengths 8 (All Designations) 
+Specified Flatness Tolerance, c mm 
+Ordered Specified Ordered Yield Strength, 
+Thickness, mm Specified Ordered 
+min, MPa 
+Over Width, mm Under 310 to 380 to 550 to Over Through 310 380 Under 690 
+550 
+1.2 1.5 to 900, incl 15 20 25 30 
+over 900 to 1500, incl 20 30 40 45 
+over 1500 25 40 45 50 
+1.5 4.5 to 1500, incl 15 20 25 30 
+over 1500 to 1800, incl 20 30 40 45 
+over 1800 25 40 45 50 
+4.5 6.0 excl to 1500, incl 15 20 25 30 
+over 1500 to 1800, incl 20 30 40 45 
+over 1800 25 40 45 50 
+A The above table also applies to lengths cut from coils by the consumer when 
+adequate flattening operations are performed. 
+8 Application of this table to product in coil form is not appropriate unless the coil 
+has been rolled out and adequately flattened with all coil set removed. 
+c Maximum deviation from a horizontal flat surface. 
+0 The term Levelled also includes but is not limited to Tension Levelled, Stretcher 
+Levelled, Roller Levelled, & Z-Mill. 
+TABLE A1.11 Flatness TolerancesA of Non-Processed Hot-Rolled 
+Sheet Cut Lengths 8 (All Designations) 
+Specified Flatness Tolerancec, mm 
+Ordered Specified Ordered Yield Strength, 
+Thickness, mm Specified Ordered 
+min, MPa 
+Over Width, mm Under 310 to 380 to 550 to Over Through 310 380 Under 690 
+550 
+1.2 1.5 to 900, incl 45 60 70 80 
+over 900 to 1500, incl 60 90 100 110 
+over1500 75 120 130 140 
+1.5 4.5 to 1500, incl 45 60 70 80 
+over 1500 to 1800, incl 60 90 100 110 
+over 1800 75 120 130 140 
+4.5 6.0 excl to 1500, incl 45 60 70 80 
+over 1500 to 1800, incl 60 90 100 110 
+over 1800 75 120 130 140 
+A The above table also applies to lengths cut from coils by the consumer when 
+aaetjuate flattening operations are-pertoTmed:-
+8 Application of this table to product in coil form is not appropriate unless the coil 
+has been rolled out and adequately flattened with all coil set removed. 
+c Maximum deviation from a horizontal flat surface. 
+995
+
+=== Page 1096 ===
+
+SA-568/SA-568M (ASTM A568/A568M) ASME BPVC.II.A-2025 
+TABLE A1.12 Thickness Tolerances of Cold-Rolled Sheet (All 
+Designatlons)A -25-mm Minimum Edge Distance 
+Norn I-Thickness is measured at any point across the width not less 
+than 25 mm from a side edge. 
+Norn 2-Widths up to and including 300 mm in this table apply to 
+widths produced by slitting from wider sheet. 
+Norn 3-Micrometers used for measurement of thickness shall be 
+constructed with anvils and spindles having minimum diameters of 
+0.188 in. [4.80 mm]. The tip of the spindle shall be flat, and the tip of the 
+anvil shall be flat or rounded with a minimum radius of curvature of 0.10 
+in. [2.55 mm]. Micrometers with pointed tips are not suitable for thickness 
+measurements. 
+Norn 4--This table was constructed by multiplying the values in the 
+standard table by 0.50 and rounding to 2 decimal places using standard 
+ASTM practice. 
+Norn 5-The thickness of material <50 mm wide shall be measured at 
+mid-width. 
+Specified Width, 
+mm 
+Over 
+1800 
+2000 
+Through 
+1800 
+2000 
+D 
+Specified Ordered Thickness, mm 8 
+Through Over 0.4 Over 1.0 Over 1.2 Over 2.5 
+0.4 to 1.0, to 1.2, to 2.5, to 4.0, 
+incl incl incl incl 
+Thickness Tolerances Over, mm, No Tolerance Underc 
+0.05 0.08 0.10 0.12 0.15 
+D 0.08 0.10 0.15 0.18 
+D Q.15 0.15 Q.18 0.20 
+A 0.55 mm minimum thickness for high-strength low-alloy. 
+8 The specified thickness range captions apply independent of whether the 
+ordered thickness is stated as a nominal or minimum. 
+c The tolerances provided in the table are based on minimum thickness (tolerance 
+over, no tolerance under). For nominal thickness, the tolerance is divided equally 
+over and under. 
+0 Where an ellipsis ( ... ) appears in the table, the requirements have not been 
+defined. 
+TABLE A1.13 Length Tolerances of Cold-Rolled Sheet (All 
+Designations) 
+TABLE A1.15 Width Tolerances for Cold-Rolled Sheet (All 
+Designations)A 
+(Coils and Cut Lengths to 300 mm in Width) (Cut Lengths Over 300 mm in Width) 
+Specified Length, mm Tolerance Over Specified 
+----------------- Length (No Tolerance 
+Over 
+300 
+1500 
+3000 
+6000 
+Through 
+1500 
+3000 
+6000 
+Under), mm 
+6 
+20 
+35 
+45 
+Norn I-This table applies to widths produced by slitting from wider 
+sheet. 
+Specified Width, mm 
+Over Through 
+50 100 
+100 200 
+200 300 
+Width Tolerance, Over 
+and Under, mm 
+0.3 
+0.4 
+0.8 
+--------------------------------- 6:50mrrr-thickness-ioriltgtFstrengthiow-all 
+TABLE A 1.14 Length Tolerances of Cold-Rolled Sheet (All 
+Designations) 
+(Cut Length Sheets, to 300 mm in Width) 
+Norn I-This table applies to widths produced by slitting from wider 
+sheet. 
+Specified Length, mm Tolerances Over Specified 
+----------------- Length (No Tolerance 
+Over Through Under), mm 
+600 1500 15 
+1500 3000 20 
+3000 6000 25 
+996 
+TABLE A1.16 Camber Tolerances of Cold-Rolled Sheet in Coils 
+(All Designatlons)A 
+(Coils to 300 mm in Width) 
+Norn I-Camber is the greatest deviation of a side edge from a straight 
+line, the measurements being taken on the concave side with a straight­
+edge. 
+Norn 2-This table applies to widths produced by slitting from wider 
+sheet. 
+Width, mm Camber Tolerances 
+Through 300, incl 5.0 mm in any 2000 mm 
+A 0.50 mm minimum thickness for high-strength low-alloy.
+
+=== Page 1097 ===
+
+ASME BPVC.II.A-2025 SA-568/SA-568M (ASTM A568/A568M) 
+TABLE A1.17 Flatness Tolerances of Cold-Rolled Sheet Cut 
+Length (All Designations)A 
+NoTE 1-This table does not apply when product is ordered full hard, 
+to a hardness range or "annealed last" ( dead soft). 
+NOTE 2-This table applies to lengths cut from coils, when adequate 
+flattening measures are petformed to remove all undesirable flatness 
+conditions, including, but not limited to, coil set. 
+Specified Specified Width, mm Flatness Tolerance, mm Speci-
+fied Yield Point, min, MPa 
+Thickness, 
+Under 310 310 to 340 mm Over Through MPa MPa 8 
+Through 1.0 900 10 20 
+900 1500 15 30 
+1500 20 40 
+Over 1.0 900 8 20 
+900 1500 10 20 
+1500 1800 15 30 
+1800 20 40 
+A Maximum deviation from a horizontal flat surface. 
+8 Tolerances for high-strength, low-alloy steel with specified minimum yield point in 
+excess of 340 MPa are subject to negotiation. 
+APPENDIXES 
+(Nonmandatory Information) 
+Xl. AGING EFFECTS ON FORMABILITY OF COLD-ROLLED CARBON-STEEL SHEET PRODUCTS 
+Xl.1 Cold-rolled carbon-steel sheet products exhibit maxi­
+mum formability in the annealed last, or dead-soft, condition. 
+However, many sheet products are not suitable for exposed 
+applications in the dead-soft condition because Luder's lines 
+(sometimes referred to as "stretcher strains" or "fluting") may 
+develop during subsequent forming. This problem is avoided in 
+most cases by temper rolling the sheet after annealing. After 
+temper rolling, however, some sheet products are susceptible to 
+aging. Aging refers to a gradual increase in yield strength and 
+corresponding decrease in ductility during storage after temper 
+rolling. Aging always has a negative effect on formability and, 
+when aging leads to the redevelopment of an upper yield point, 
+lt in renewed susce tibilit to fluting. 
+Xl .2 Aging can occur when interstitial solute atoms, carbon 
+or nitrogen, are present in the steel. Solute carbon or nitrogen 
+atoms are those not chemically combined with other elements 
+in the steel (as carbides or nitrides, for example). Over time, 
+these carbon or nitrogen interstitial solute atoms diffuse to 
+crystalline imperfections within the steel and, in so doing, give 
+rise to aging. The extent to which aging occurs depends on the 
+interstitial solute level and the combination of temperature and 
+time to which the steel is exposed after temper rolling. In 
+general, higher interstitial solute levels result in larger strength 
+increases during storage; the rate of aging increases with 
+increasing temperature. As described as follows, the final 
+interstitial solute level and aging characteristics depend on the 
+chemical composition of the steel as well as specific sheet­
+processing methods used by the steel producer. 
+Xl .3 Low-Carbon Steels-In conventional aluminum-killed 
+low-carbon steels, the level of interstitial solute is affected 
+mainly through the fonnation of aluminum nitride and iron 
+carbides within the steel during processing, which is influenced 
+by the manner in which annealing is performed. 
+Xl.3.1 Many sheet products are annealed in batches of 
+large, tightly wound coils. During heating, any solute nitrogen 
+present in the full-hard sheet combines with aluminum to form 
+aluminum nitride. Subsequent cooling is very slow and allows 
+essentially all of the carbon to precipitate as iron carbide. Final 
+interstitial solute levels are very low and, as a result, batch­
+annealed low-carbon steels have excellent resistance to aging. 
+Xl.3.1.1 Dee drawing steel (DDS) sheet typically is batch-
+annealed and has excellent aging resistance. 1 temper 
+rolling, DDS sheet is suitable for use in many exposed 
+applications with severe forming requirements. 
+Xl.3.2 Cold-rolled low-carbon steels are sometimes pro­
+cessed in a continuous annealing line, in which the full-hard 
+sheet is uncoiled, passed through an annealing furnace, and 
+then rewound in a continuous manner. Heating and cooling 
+rates are much higher than those found in batch annealing. The 
+faster cooling, in particular, results in higher levels of intersti­
+tial solute in the product as compared with batch annealing. 
+The manner in which the sheet is cooled can be controlled to 
+minimize the solute carbon level, and temper rolling is effec­
+tive for reducing fluting tendencies. However, continuous­
+annealed low-carbon steels are more prone to subsequent aging 
+than batch-annealed steels. 
+997
+
+=== Page 1098 ===
+
+SA-568/SA-568M (ASTM A568/A568M) ASME BPVC.II.A-2025 
+Xl.3.2.1 Low-carbon commercial steel (CS) and drawing 
+steel (DS) sheet are available as either batch- or continuous­
+annealed products, depending on the facilities of a given 
+producer. To minimize aging effects in continuous-annealed 
+products, rotation of stock by fabricating the oldest material 
+first is recommended. 
+Xl .4 Interstitial-Free Steels-Interstitial-free steels have 
+essentially no interstitial solutes and, as a result, are nonaging. 
+Processing involves vacuum degassing during refining of the 
+liquid steel, as well as additions of elements that form very 
+stable carbides and nitrides, such as titanium or columbium 
+(niobium). These steps ensure that total interstitial levels are 
+very low, and that the interstitials are all chemically combined 
+( or stabilized) in the fmm of alloy carbides or nitrides. 
+Interstitial-free steels are nonaging regardless of whether 
+annealing is conducted in a continuous or batch manner. 
+Xl.4.1 Extra-deep drawing steel (EDDS) must be vacuum 
+degassed and stabilized. This nonaging, interstitial-free product 
+is suitable for exposed applications with the most severe 
+forming requirements. 
+Xl.5 Bake-Hardenable Steels-Bake-hardenable steels are 
+a special product class with controlled interstitial solute levels 
+and aging behavior. These steels are processed to have mod­
+erate aging resistance, to permit forming while the steel is in its 
+most ductile condition. Aging occurs largely during a subse­
+quent thermal treatment (for example, paint-curing), which 
+results in desirable hardening of the final part for better 
+durability. 
+Xl.5.1 Continuous-annealed low-carbon steels can exhibit 
+significant bake-hardening, as well as certain vacuum-degassed 
+and batch-annealed steels. 
+X2. STANDARD CHEMICAL RANGES AND LIMITS 
+X2.l Standard chemical ranges and limits are prescribed for 
+carbon steels in Table X2.1. 
+X2.2 Chemical ranges for non-standard steels are prescribed 
+in Table X2.2. 
+X2.2.1 Other ranges are available upon agreement between 
+purchase and producer. 
+998 
+X2.3 The purchaser shall indicate if they wish to invoke 
+Table X2.l (and the Steel Designation to be employed), Table 
+X2.2 (and the maximum composition), or Table X2.3 (and the 
+Grade Designation) when placing their order. 
+X2.3.1 Table X2.3 specifies options that may only be used 
+in conjunction with Specifications A1008/A1008M and 
+A1011/A1011M. 
+-~-.
+
+=== Page 1099 ===
+
+ASME BPVC.II.A-2025 SA-568/SA-568M (ASTM A568/A568M) 
+~ TABLE X2.1 Standard Steels-Carbon Sheet Steel Compositions TABLE X2.2 Standard Chemical Ranges and Limits 
+Steel Designation Chemical Composition Limits, % Norn 1-The carbon ranges shown in the column headed "Range" 
+No. C Mn Pmax S max apply when the specified maximum limit for manganese does not exceed 
+1002 0.02--0.04 0.35 max 0.030 0.035 1.00 %. When the maximum manganese limit exceeds 1.00 %, add 0.01 to 
+1003 0.02-0.06 0.35 max 0.030 0.035 the carbon ranges shown below. 
+1004 0.02/0.08 0.35 max 0.030 0.035 Carbon Steels Only, Cast or Heat Analysis 1005 0.06 max 0.35 max 0.030 0.035 
+1006 0.08 max 0.45 max 0.030 0.035 Element Maximum Specified Range Lowest 
+1007 0.02/0.10 0.50 max 0.030 0.035 Element,% max 
+1008 0.10 max 0.50 max 0.030 0.035 Carbon to 0.15 incl 0.05 0.08 
+1009 0.15 max 0.60 max 0.030 0.035 (see Note) over 0.15 to 0.30 incl 0.06 
+1010 0.08--0.13 0.30-0.60 0.030 0.035 over 0.30 to 0.40 incl 0.07 
+1012 0.10-0.15 0.30-0.60 0.030 0.035 over 0.40 to 0.60 incl 0.08 
+1015 0.13--0.18 0.30-0.60 0.030 0.035 over 0.60 to 0.80 incl 0.11 
+1016 0.13--0.18 0.60-0.90 0.030 0.035 over 0.80 to 1.35 incl 0.14 
+1017 0.15--0.20 0.30-0.60 0.030 0.035 
+1018 0.15-0.20 0.60-0.90 0.030 0.035 Manganese to 0.50 incl 0.20 0.40 
+1019 0.15-0.20 0.70-1.00 0.030 0,035 over 0.50 to 1.15 incl 0.30 
+/-------.'... 
+1020 0.18-0.23 0.30-0.60 0.030 0.035 over 1.15 to 1.65 incl 0.35 
+1021 0.18-0.23 0.60-0.90 0.030 0.035 
+1022 0.18-0.23 0.70-1.00 0.030 0.035 
+1023 0.20-0.25 0.30-0.60 0.030 0.035 Phosphorus to 0.08 incl 0.03 0.030A 
+1025 0.22-0.28 0.30-0.60 0.030 0.035 over 0.08 to O.Q15 incl 0.05 
+1026 0.22-0.28 0.60-0.90 0.030 0.035 
+1029 0.25-0.31 0.60-0.90 0.030 0.035 
+1030 0.28-0.34 0.60-0.90 0.030 0.035 
+1033 0.30-0.36 0.70-1.00 0.030 0.035 Sulfur to 0.08 incl 0.03 0.035A 
+1035 0.32-0.38 0.60-0.90 0.030 0.035 over 0.08 to 0.15 incl 0.05 
+1037 0.32-0.38 0.70-1.00 0.030 0.035 over 0.15 to 0.23 incl 0.070.10 
+1038 0.35-0.42 0.60-0.90 0.030 0.035 over 0.23 to 0.33 incl 0.10 
+1039 0.37-0.44 0.70-1.00 0.030 0.035 
+1040 0.37-0.44 0.60-0.90 0.030 0.035 
+1042 0.40-0.47 0.60-0.90 0.030 0.035 Silicon to 0.15 incl 0.08 0.10 
+1043 0.40-0.47 0.70-1.00 0.030 0.035 over 0.15 to 0.30 incl 0.15 
+1045 0.43--0.50 0.60-0.90 0.030 0.035 over 0.30 to 0.60 incl 0.30 
+1046 0.43-0.50 0.70-1.00 0.030 0.035 
+1049 0.46--0.53 0.60--0.90 0.030 0.035 
+1050 0.48-0.55 0.60-0.90 0.030 0.035 
+1055 0.50-0.60 0.60-0.90 0.030 0.035 Copper When copper is required 
+1060 0.55-0.65 0.60-0.90 0.030 0.035 0.20 min is commonly speci-
+1064A 0.59-0.70 0.50-0.80 0.030 0.035 fied. 
+1065 0.60-0.70 0.60-0.90 0.030 0.035 
+A Certain individual specifications provide for lower standard limits for phosphorus 1070 0.65-0.75 0.60-0.90 0.030 0.035 
+1074 0.70-0.80 0.50-0.80 0.030 0.035 and sulfur. 
+1075 0.70-0.80 0.40-0.70 0.030 0.035 
+1078 0.72-0.85 0.30-0.60 0.030 0.035 
+1080 0.75-0.88 0.60-0.90 0.030 0.035 
+1084 0.80-0.93 0.60-0.90 0.030 0.035 
+1085 0.80-0.93 0.70-1.00 0.030 0.035 
+1086 0.80-0.93 0.30-0.50 0.030 0.035 
+1090 0.85-0.98 0.69-0.90 0.030 0.035 
+1095 0.90-1.03 0.30-0.50 0.030 0.035 
+1515 0.13--0.18 1.10-1.40 0.030 0.035 
+1521 0.18-0.23 1.10-1.40 0.030 0.035 
+1522 0.18-0.24 1.10-1.40 0.030 0.035 
+( 1524 0.19--0.25 1.35-1.65 0.030 0.035 
+1526 0.22-0.29 1.10-1.40 0.030 0.035 
+~.· 1527 0.22-0.29 1.20-1.50 0.030 0.035 
+1536 0.30--0.37 1.20-1.50 0.030 0.035 
+1541 0.36-0.44 1.35-1.65 0.030 0.035 
+1547 0.43--0.51 1.35-1.65 0.030 0.035 
+1548 0.44--0.52 1.10-1.40 0.030 0.035 
+1552 0.47-0.55 1.20-1.50 0.030 0.035 
+1566 0.60-0.71 0.85-1.15 0.030 0.035 
+A Steel Designation No. 1064 is not an SAE Standard Chemistry. 
+Note-When silicon is required, the following ranges and limits are commonly 
+used: 
+To 1015, excl 0.10 max 
+1015 to 1025, incl 0.1 O max, 0.10-0.25, or 0.15--0.30 
+Over 1025 0.10-0.25 or 0.15-0.30 
+999
+
+=== Page 1100 ===
+
+SA-568/SA-568M (ASTM A568/ A568M) ASME BPVC.II.A-2025 
+MINOR. STRAI!\I, Pel'<:flnt (ei) 
+FIG. X4.1 Forming Limit Curve 
+the forming limit curve is lower. The magnitude of the 
+downgrade displacement is specific to each material; therefore, 
+current material information should be consulted to determine 
+placement of the forming limit curve. 
+X4.3 Procedure 
+X4.3.l Obtain a sheet sample of "known quality," the sheet 
+quality being established by either supplier designation, con­
+sumer purchase order, or most preferred tensile data obtained 
+from a companion sheet sample. 
+X4.3.2 Obtain or prepare a negative on stencil with selected 
+circles in a uniform pattern. The circles may be 2.5 to 25.0 mm 
+in diameter; the most convenient diameter is 5.0 mm because 
+it is easy to read and the gauge spacing is short enough to show 
+the maximum strain in a specific location on the part. 
+X4.3.3 The sheet metal blanks should be cleaned to remove 
+excess oil and dirt; however, some precoated sheets can be 
+etched without removing the coating. The area(s) to be etched 
+should be detem1ined from observation of panels previously 
+formed; generally, the area that has a split problem is selected 
+for etching. Normally, the convex side of the radius is gridded. 
+If sufficient time is available, the entire blank may be etched, 
+since valuable information can be obtained about the move­
+ment of metal in stamping a part when strains can be evaluated 
+in what may appear to be noncritical areas. Additionally, for 
+complex shapes it may be desirable to etch both surfaces of 
+blanks so that the strains that occur in reverse draws can be 
+determined. 
+X4.3.4 The sheet metal blanks may be etched by a photo­
+graphic or electrochemical method. In the former method of 
+photosensitive solution, for example, 50 % Kodak Photo Resist 
+(KPR) emulsion and 50 % KPR-thinner, is sprayed onto the 
+sheet. The emulsion is dried by baking the sheet at 65 °C for 
+15 min or by just standing it for several hours at room 
+temperature in a dark room. The latter should be employed in 
+materials that age and, hence, become stronger when baked at 
+65 °C. The negative is placed on the emulsion, held intimately 
+in contact with the sheet, and exposed to a strong ultraviolet 
+light source for 1 to 1 ½ min. The sheet is developed for 30 to 
+45 s in KPR developer, rinsed with water, and sprayed with 
+alcohol to set the resist. It is again rinsed with water and then 
+sprayed with KPR black dye to reveal the etched circles. 
+X4.3.5 In the electrochemical method, the etch pad is 
+saturated with an appropriate electrolyte. Various electrolytes 
+are available from suppliers of the etching equipment. Some 
+electrolytes are more effective than others for etching certain 
+surfaces, such as terne plate and other metallic coated steels. A 
+mst-inhibiting solution is preferred for steel sheets. 
+X4.3.6 A ground clamp for the transformer of suitable 
+amperage (10 to 50 A is usually used) is fastened to the blank 
+1002
+
+=== Page 1101 ===
+
+ASME BPVC.II.A-2025 SA-568/SA-568M (ASTM A568/A568M) 
+and the second lead is attached to the etch pad. Although the 
+current may be turned on at this time, caution should be taken 
+not to lay the pad on the sheet blank as it will arc. It is 
+advisable to refrain from touching the metal of the etch pad and 
+the grounded sheet blank. 
+X4.3.7 The stencil is placed with the plastic coating against 
+the sheet surface in the area to be etched. Wetting the stencil 
+with a minimum amount of electrolyte will assist in smoothing 
+out the wrinkles and gives a more uniform etch. The etch pad 
+is now positioned on the stencil and the current turned on, if it 
+is not already on. Apply suitable pressure to the pad. Only the 
+minimum time necessary to produce a clear etched pattern 
+should be used. The etching time will vary with the amperage 
+available from the power source and the stencil area, as well as 
+the pad area in contact with the stencil. Rocker-type etch pads 
+give good prints and require less amperage than flat-surfaced 
+pads. Excessive current causes stencil damage. 
+X4.3.8 The etching solution activates the surface of the 
+metal and may cause rusting unless it is inhibited. After the 
+desired area has been etched, the blank should be wiped or 
+rinsed, dried, and neutralized. 
+X4.3.9 The etched blank is now ready for forming. The 
+lubricants and press conditions should simulate production 
+situations. If a sequence of operations is used in forming a part, 
+it is desirable to etch sufficient blanks so that each operation 
+can be studied. 
+X4.4 Measurement of Strain After Forming 
+X4.4.1 After forming, the circles are generally distorted into 
+elliptical shapes (Fig. X4.2). These ellipses have major and 
+minor strain axes. The major strain (e 1 ) is always defined to be 
+the direction in which the greatest positive strain has occurred 
+without regard to original blank edges or the sheet rolling 
+direction. The minor strain (e 2 ) is defined to be 90° to the major 
+strain direction. 
+X4.4.2 There are several methods for determining the major 
+and minor strains of the formed panel. Typical tools are a pair 
+of dividers and a scale ruled in 0.5 mm. For sharp radii, a thin 
+plastic scale that can follow the contour of the stamping can be 
+used to determine the dimensions of the ellipses. (Scales are 
+available to read the percent strain directly.) 
+MINOR 
+srAAtlll 
+TliNSlON • COMPRIISSU)N 
+, ' I \ 
+I 1 
+: / \ , 
+\ I 
+""'_..,...,.,,"' 
+MINOR 
+$TAAIN 
+~ 
+, 
+TSNSION • TI!NSION 
+FIG. X4.2 Major and Minor Strain Axes 
+X4.5 Evaluation of Strain Measurements 
+X4.5.1 The e 1 strain is always positive while the e 2 strain 
+may be zero, positive, or negative, as indicated on the forming 
+limit curve chart (Fig. X4.1). The maximum e 1 and associated 
+e 2 values measured in critical areas on the formed part are 
+plotted on the graph paper containing the forming limit curve 
+by locating the point of intersections of the e 1 , e 2 strains. 
+X4.5.2 If this point is on or below the "safety band" of the 
+forming limit curve, the strain should not cause breakage. 
+Points further below the curve indicate that a less ductile 
+material of a lower grade may be applied. Points above the 
+"safety band" show that fabrication has induced strains that 
+could result in breakage. Therefore, in evaluation on stampings 
+exhibiting these strains, efforts should be made to provide an 
+e 1 , e 2 strain combination that would lie on or below the "safety 
+band" of the forming limit curve. A different e 1 , e 2 strain 
+combination can be obtained through changes of one or more 
+of the forming variables such as die conditions, · lubricants, 
+blank size, thickness, or material grade. It should be noted at 
+this time that these conclusions are derived from a reference 
+base being the steel "quality" used to fabricate the grid 
+stamping. 
+X4.5.3 When attempting to change the relationship of e 1 
+and e 2 strains, it should be noted that on the forming limit curve 
+the most severe condition for a given e 1 strain is at O % e 2 
+strain. This means the metal works best when it is allowed to 
+deform in two dimensions, e 1 and e 2 , rather than being 
+restricted in one dimension. A change in e 2 to decrease the 
+severity can be made by changing one of the previously 
+mentioned forming variables of the die design, for example, 
+improving lubrication on the tension-tension side will increase 
+e 2 and decrease the severity. 
+X4.5.4 In addition to the forming limit curve, the e 1 e 2 strain 
+measurements may be used to evaluate the material require­
+ments on the basis of strain gradients, as illustrated in Fig. 
+X4.3, or by plotting contours of equivalent strain levels on the 
+1003 
+(l)@im: APPROXIMATE LOCATION 
+Of ETCHED ClRO.l:!S 
+CftOSSSt!Cm>N OF l!TCHED PANEL 
+FIG. X4.3 Graph of Major Strains and Critical Major Strains and 
+Cross Section of Etched Panel
+
+=== Page 1102 ===
+
+SA-568/SA-568M (ASTM A568/A568M) ASME BPVC.ILA-2025
+TABLE X5.1 I-Unit Conversion Chart —™
+Heighth | Se ee ee ee ee ee ee ee ee ee ee ee ee PoE oP yo 4
+3/32) 22[ a8] is] ia] ii] iol a) a] let 5|_s| al at 4] 3} at 3] af 312) 2] 2) 2) al 2] al ala)
+| 9/32) 195 |161{136/116/ 100] 87) 76] 68) 60) 54) 49) 44) 40] 37) 34) 31] 20) 27) 25) 23) 22) 20] 19] 18] 17] 16] 15} 14] 14) 13) 12)
+| 11/32] 292 [241 |203| 173) 149/130) 114] 101) 90] 81) 73) 66) 60) 55) $1) 47) 43) 40) 37] 35) 32] 30] 29) 27] 25] 24] 23] 21) 20) 19) 18]
+_.£/16 | 473 1391 |328| 280 | 244/210) 185 | 164/ 146] 131] 118) 107; 98) 89] 82) 76) 70) 65) 60) 56] 53) 491 46] 43] 41] 39) 36 35) 33) 31) 30)
+15/32 [543 14491377| 321] 277] 241) 212 | 188) 168] 150) 136) 123] 1121103] 94] 87] 801 74] 691 65] 60) 56, 53] SOl 47] 44] 42] 40] 38) 36) 34]
+| cco eeupsnspuiiupusiacipiieuperiuupeiite-ersepieispeeespeniiiep erases AAMUCIE UT) tte te neppieepstinie peices
+: (mm) 250] 275] 300) 325 | 350] 375 | 400/425 | 450) 47515001525 1550 1575/1600 | 6251650 | 675] 7001725 1750 1775/8001 8251850 1875 |900} 92519501975 11000 |
+[ cmmad Ul 194] 160] 134) 115] 99] 86) 76] 67) 60) 54] 48) 44) 40) 37) 34) 31) 29) 27) 25) 23) 22) 20] 19] 18] 17) 16] 15) 147 13] 13) 12)
+1006
+
+=== Page 1103 ===
+
+ASME BPVC.II.A-2025 SA-568/SA-568M (ASTM AS68/A568M) 
+TABLE X5.2 Flatness Conversion FactorsA 
+NOTE 1-"L" is the wave interval as defined in Fig. XS.1 (a). 
+/Unit Height % Steep-
+ness 
+/Unit (I) 2 L ~ 
+it ~ \fTTo-1 it 
+Height (H) 
+( Hit)" (100H) 
+(peak to 2L 10 5 -L-
+peak) 
+% Steep- 2.5 (it S) 2 
+(LS) 
+ness (S) 100 
+A Examples-( 1) Assume % steepness is given as 1.5 and the corresponding 
+I-unit value is desired. From Table X5.2, I= 2.5(itS) 2 = 2.5((3.14)(1.5)] 2 = 55.5. 
+(2) Assume an I-unit value of 25 is given and the corresponding % steepness is 
+desired. From Table X5.2, S = 2/it(/ x 10- 1 ) 112 = 2/3.14 (25 x 10- 1 ) 112 = 1.0. 
+SUMMARY OF CHANGES 
+Committee A0l has identified the location of selected changes to this standard since the last issue 
+(A568/A568M- 19) that may impact the use of this standard. (Approved Nov. 1, 2019.) 
+( 1) Revised 1.4 to clarify that the values to be rounded are 
+measured, calculated, or observed values. 
+(2) Added 1.4.1 to differentiate ordered values, which are 
+fixed, from measured, calculated, or observed values, which 
+are subject to rounding. 
+Committee A0l has identified the location of selected changes to this standard since the last issue 
+(A568/A568M - 17a) that may impact the use of this standard. (Approved Sept. 1, 2019.) 
+( 1) Added flatness tolerances for yield strength greater than 
+50 min ksi (340 MPa) to Table 13, Table 14, Table Al.10, and 
+Table Al.11. 
+ASTM International takes no position respecting the validity of any patent rights asserted in connection with any item mentioned 
+in this standard. Users of this standard are expressly advised that determination of the validity of any such patent rights, and the risk 
+of infringement of such rights, are entirely their own responsibility. 
+This standard is subject to revision at any time by the responsible technical committee and must be reviewed eve,y five years and 
+if not revised, either reapproved or withdrawn. Your comments are invited either for revision of this standard or for additional standards 
+and should be addressed to ASTM International Headquarters. Your comments will receive careful consideration at a meeting of the 
+responsible technical committee, which you may attend. If you feel that your comments have not received a fair hearing you should 
+make your views known to the ASTM Committee on Standards, at the address shown below. 
+This standard is copyrighted by ASTM International, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428-2959, 
+United States. Individual reprints (single or multiple copies) of this standard may be obtained by contacting ASTM at the above 
+address or at 610-832-9585 (phone), 610-832-9555 (fax), or service@astm.org (e-mail); or through the ASTM website 
+(www.astm.org). Permission rights to photocopy the standard may also be secured from the Copyright Clearance Center, 222 
+Rosewood Drive, Danvers, MA 01923, Tel: (978) 646-2600; http://www.copyright.com/ 
+1007
+
+=== Page 1104 ===
+
+SA-572/SA-572M ASME BPVC.II.A-2025 
+Specification for 
+High-Strength Low-Alloy Columbium-Vanadium Structural 
+Steel 
+1. Scope 
+1.1 This specification covers five grades of high-strength 
+low-alloy structural steel shapes, plates, sheet piling, and bars. 
+Grades 42 [290], 50 [345], and 55 [380] are intended for 
+riveted, bolted, or welded structures. Grades 60 [415] and 65 
+[ 450] are intended for riveted or bolted construction of bridges, 
+or for riveted, bolted, or welded construction in other applica­
+tions. 
+1.2 For applications, such as welded bridge construction, 
+where notch toughness is important, notch toughness require­
+ments are to be negotiated between the purchaser and the 
+producer. 
+1.3 Specification A588/A588M shall not be substituted for 
+Specification A572/ A572M without agreement between the 
+purchaser and the supplier. 
+1.4 The use of columbium (niobium), vanadium, titanium, 
+nitrogen, or combinations thereof, within the limitations noted 
+in Section 5, is required; the selection of type (1, 2, 3, or 5) is 
+at the option of the producer, unless otherwise specified by the 
+purchaser. (See Supplementary Requirement S90.) 
+1.5 The maximum thicknesses available in the grades and 
+products covered by this specification are shown in Table 1. 
+1.6 When the steel is to be welded, a welding procedure 
+suitable for the grade of steel and intended use or service is to 
+be utilized. See Appendix X3 of Specification A6/ A6M for 
+information on weldability. 
+1.7 The values stated in either inch-pound units or SI units 
+are to be regarded separately as standard. Within the text, the 
+SI units are shown in brackets. The values stated in each 
+system are not exact equivalents; therefore, each system is to 
+be used independently of the other, without combining values 
+in any way. 
+1.8 The text of this specification contains notes or footnotes, 
+or both, that provide explanatory material. Such notes and 
+footnotes, excluding those in tables and figures, do not contain 
+any mandatory requirements. 
+1.9 For structural products produced from coil and fur­
+nished without heat treatment or with stress relieving only, the 
+additional requirements, including additional testing require­
+ments and the reporting of additional tests, of Specification 
+A6/ A6M apply. 
+1.10 This international standard was developed in accor­
+dance with internationally recognized principles on standard­
+ization established in the Decision on Principles for the 
+Development of International Standards, Guides and Recom­
+mendations issued by the World Trade Organization Technical 
+Barriers to Trade (TBT) Committee. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+A6/ A6M Specification for General Requirements for Rolled 
+Structural Steel Bars, Plates, Shapes, and Sheet Piling 
+A36/A36M Specification for Carbon Structural Steel 
+A514/A514M Specification for High-Yield-Strength, 
+Quenched and Tempered Alloy Steel Plate, Suitable for 
+Welding 
+A588/A588M Specification for High-Strength Low-Alloy 
+Structural Steel, up to 50 ksi [345 MPa] Minimum Yield 
+Point, with Atmospheric Corrosion Resistance 
+1010
+
+=== Page 1105 ===
+
+ASME BPVC.II.A-2025 SA-572/SA-572M 
+TABLE 1 Maximum Product Thickness or Size 
+Yield Point, min 
+Grade Plates and Bars 
+ksi [MPa] 
+in. [mm] 
+42 [290]A 42 [290] 6 [150] 
+50 [345jA 50 [345] 4B [100] 8 
+55 [380] 55 [380] 2½ [64] 
+60 [415jA 60 [415] 2½ C [64]c 
+65 [450] 65 [450] 2 [50] 
+Maximum Thickness or Size 
+Structural Shape 
+Flange or Leg 
+Thickness 
+in. [mm] 
+all all 
+all all 
+all all 
+2 [50] 
+2 [50] 
+Sheet Piling 
+all 
+all 
+all 
+all 
+all 
+Zees and Rolled 
+Tees 
+all 
+all 
+all 
+all 
+all 
+A In the above tabulation, Grades 42, 50, and 60 [290, 345, and 415], are the yield point levels most closely approximating a geometric progression pattern between 36 
+ksi [250 MPa], min, yield point steels covered by Specification A36/A36M and 100 ksi [690 MPa], min, yield strength steels covered by Specification A514/A514M. 
+8 Round bars up to and including 11 in. [275 mm] in diameter are permitted. 
+c Round bars up to and including 3½ in. [90 mm] in diameter are permitted. 
+TABLE 2 Chemical RequirementsA 
+(Heat Analysis) 
+Silicon 
+Plates to 1 ½ in. 
+Structural [40 mm] Thick, Plates Over 1 ½ in. Diameter, Thickness, Shape Shapes with [40 mm] Thick and or Distance Flange or Carbon, Manganese, 8 Phosphorus,' Sulfur,' Flange or Leg Shapes with Flange Between Parallel Grade max, Thickness to 3 in. 
+Faces, in. [mm] Leg max,% max,% max,% % [75 mm] inclusive, Thickness 
+Plates and Bars Thickness, Sheet Piling, Over 3 in. 
+in. [mm] Bars, Zees, and [75 mm] 
+Rolled Teesc 
+max,% range,% 
+6 [150] all 42 [290] 0.21 1.35° 0.030 0.030 0.40 0.15-0.40 
+4 [100]E all 50 [345] 0.23 1.35° 0.030 0.030 0.40 0.15-0.40 
+2½ [64]F all 55 [380] 0.25 1.35° 0.030 0.030 0.40 0.15-0.40 
+2½ [64]F $2 [50] 60 [415] 0.26 1.35° 0.030 0.030 0.40 0.15-0.40 
+>½-2 >1-2 65 [450] 0.23 1.65 0.030 0.030 0.40 0.15-0.40 
+[13-50] [25-50] 
+$½ [13]H $1 65 [450] 0.26 1.35° 0.030 0.030 0.40 G 
+A Copper when specified shall have a minimum content of 0.20 % by heat analysis (0.18 % by product analysis). 
+8 Manganese, minimum, by heat analysis of 0.80 % (0.75 % by product analysis) shall be required for all plates over% in. [10 mm] in thickness; a minimum of 0.50 % 
+(0.45 % by product analysis) shall be required for plates % in. [1 O mm] and less in thickness, and for all other products. The manganese to carbon ratio shall not be less 
+than 2 to 1. 
+c Bars over 1 ½ in. [40 mm] in diameter, thickness, or distance between parallel faces shall be made by a killed steel practice. 
+° For each reduction of 0.01 percentage point below the specified carbon maximum, an increase of 0.06 percentage point manganese above the specified maximum is 
+permitted, up to a maximum of 1.60 %. 
+E Round bars up to and including 11 in. [275 mm] in diameter are permitted. 
+F Round bars up to and including 3½ in. [90 mm] in diameter are permitted. 
+a The size and grade is not described in this specification. 
+H An alternative chemical requirement with a maximum carbon of 0.21 % and a maximum manganese of 1.65 % is permitted, with the balance of the elements as shown 
+in Table 2. 
+'A maximum phosphorus content of 0.04 % and a maximum sulfur content of 0.05 % are permitted for the following materials: 
+• Structural shapes 
+• Sheet piling 
+• Bars 
+, Plates with widths up to and including 15 in. [380 mm] 
+3. General Requirements for Delivery 
+3.1 Structural products furnished under this specification 
+shall conform to the requirements of the cmrent edition of 
+Specification A6/ A6M, for the specific structural product 
+ordered, unless a conflict exists in which case this specification 
+shall prevail. 
+3.2 Coils are excluded from qualification to this specifica­
+tion until they are processed into a finished structural product. 
+Structural products produced from coil means structural prod­
+ucts that have been cut to individual lengths from a coil. The 
+processor directly controls, or is responsible for, the operations 
+involved in the processing of a coil into a finished structural 
+product. Such operations include decoiling, leveling or 
+straightening, hot-forming or cold-forming (if applicable), 
+cutting to length, testing, inspection, conditioning, heat treat­
+ment (if applicable), packaging, marking, loading for shipment, 
+and certification. 
+NoTE 1-For structural products produced from coil and furnished 
+without heat treatment or with stress relieving only, two test results are to 
+be reported for each qualifying coil. Additional requirements regarding 
+structural products produced from coil are described in Specification 
+A6/A6M. 
+4. Materials and Manufacture 
+4.1 The steel shall be killed. 
+1011
+
+=== Page 1106 ===
+
+SA-572/SA-572M ASME BPVC.II.A-2025 
+1 
+2 
+3 
+5 
+TypeA 
+TABLE 3 Alloy Content 
+Elements 
+Columbium/niobiumE 
+Vanadium 
+Columbium/niobiumE 
+Vanadium 
+Columbium/niobiumE plus vanadium 
+Titanium 
+Nitrogen 
+Vanadium 
+Heat Analysis, % 
+0.005-0.05 8 
+0.01-0.15° 
+0.005-0.05 8 
+0.01-0.15° 
+0.02-0.15D 
+0.006-0.04 
+0.003-0.015 
+0.06 max 
+A Alloy content shall be in accordance with Type 1, 2, 3, or 5 and the contents of 
+the applicable elements shall be reported on the test report. 
+8 Product analysis limits = 0.004 to 0.06 %. 
+c Product analysis limits = 0.005 to 0.17 %. 
+0 Product analysis limits = 0.01 to 0.16 %. 
+E Columbium and niobium are interchangeable names for the same element and 
+both names are acceptable for use in Committee A01 specifications. 
+5. Chemical Composition 
+5.1 The heat analysis shall conform to the requirements 
+prescribed in Table 2 and Table 3. 
+5.2 The steel shall conform on product analysis to the 
+requirements prescribed in Table 2 and Table 3, subject to the 
+product analysis tolerances in Specification A6/A6M. 
+6. Mechanical Properties 
+6.1 Tensile Properties: 
+6.1.1 The material as represented by the test specimens shall 
+conform to the tensile properties given in Table 4. 
+TABLE 4 Tensile RequirementsA 
+Grade 
+42 [290] 
+50 [345] 
+55 [380] 
+60 [415] 
+65 [450] 
+Yield Point, min 
+ksi 
+42 
+50 
+55 
+60 
+65 
+[MPa] 
+[290] 
+[345] 
+[380] 
+[415] 
+[450] 
+Tensile Strength, min 
+ksi 
+60 
+65 
+70 
+75 
+80 
+[MPa] 
+[415] 
+[450] 
+[485] 
+[520] 
+[550] 
+Minimum Elonga­
+tion, % B, C, D 
+in 8 in. in 2 in. 
+[200 mm] [50 mm] 
+20 
+18 
+17 
+16 
+15 
+24 
+21 
+20 
+18 
+17 
+A See specimen orientation under the Tension Tests section of Specification 
+A6/A6M. 
+8 Elongation not required to be determined for floor plate. 
+c For wide flange shapes over 426 lb/ft [634 kg/m], elongation in 2 in. [50 mm] of 
+19 % minimum applies. 
+° For plates wider than 24 in. [600 mm], the elongation requirement is reduced two 
+percentage points for Grades 42, 50, and 55 [290, 345, and 380], and three 
+percentage points for Grades 60 and 65 [415 and 450]. See elongation require­
+ment adjustments in the Tension Tests section of Specification A6/A6M. 
+7. Test Reports 
+7 .1 In addition to the Test Reports requirements in Specifi­
+cation A6/A6M, when Specification A588/A588M is substi­
+tuted for Specification A572/ A572M, the test report shall 
+include the statement "Specification A588/A588M substi­
+tuted." 
+8. Keywords 
+8.1 bars; bolted construction; bridges; buildings; 
+columbium/niobium-vanadium; high-strength; low-alloy; 
+plates; riveted construction; shapes; sheet piling; steel; struc­
+tural steel; welded construction 
+SUPPLEMENTARY REQUIREMENTS 
+Supplementary requirements shall not apply unless specified in the order or contract. Standardized 
+supplementary requirements for use at the option of the purchaser are listed in Specification A6/ A6M. 
+Those that are considered suitable for use with this specification are listed by title: 
+S5. Charpy V-Notch Impact Test. 
+S18. Maximum Tensile Strength 
+S30. Charpy V-Notch Impact Test for Structural Shapes: Alternate Core Location 
+S32. Single Heat Bundles. 
+In addition, the following supplementary requirements are suitable for use: 
+S81. Tensile Strength S99. Interlock Strength 
+S81.l For Grade 50 [345) steel of thicknesses ¾ in. [20 
+mm] and less, the tensile strength shall be a minimum of 70 ksi 
+[485 MPa]. 
+S90. Type 
+S90.1 The specific type of steel shall be as specified by the 
+purchaser in the order or contract. 
+S99.1 The minimum strength of the interlocked joint re­
+quired for certain services may be specified for straight web 
+(PS type) and arched web (PSA type) sheet piling sections 
+subject to specific agreement between the material purchaser 
+and the manufacturer. 
+1012
+
+=== Page 1107 ===
+
+ASME BPVC.II.A-2025 
+SPECIFICATION FOR ALLOY STEEL SOCKET-HEAD CAP 
+SCREWS 
+SA-574 
+(Identical with ASTM Specification A574-04E1 except that Table 1 on chemical requirements has been deleted and 
+Supplementary Requirement Sl is now mandatory. Paragraphs 6.1 and 6.2 have been revised to refer to Table Sl.1 and 
+para. 6.3 has been deleted.) 
+1013 
+SA-574
+
+Resolved Notes (AI-verified)
+NOTE 1 (page 1078)
+NoTE 1-The term weight is used when inch-pound units are the 
+1 This specification is under the jurisdiction of ASTM Committee ADI on Steel, 
+Stainless Steel and Related Alloys and is the direct responsibility of Subcommittee 
+A0l.19 on Steel Sheet and Strip. 
+Current edition approved Nov. I, 2019. Published November 2019. Originally 
+approved in 1966. Last previous edition approved in 2019 as A568/A568M- 19. 
+DOI: 10.l520/A0568_A0568M-19A. 
+standard. However, under SI the preferred term is mass. 
+1.6 The values stated in either SI units or inch-pound units 
+are to be regarded separately as standard. The values stated in 
+each system may not be exact equivalents; therefore, each 
+system shall be used independently of the other. Combining 
+values from the two systems may result in non-conformance 
+with the standard. 
+1. 7 This specification and the applicable material specifica­
+tions are expressed in both inch-pound units and SI units. 
+However, unless the order specifies the applicable "M" speci­
+fication designation (SI units), the material shall be furnished 
+to inch-pound units. 
+1.8 This international standard was developed in accor­
+dance with internationally recognized principles on standard­
+ization established in the Decision on Principles for the 
+Development of International Standards, Guides and Recom­
+mendations issued by the World Trade Organization Technical 
+Barriers to Trade (TBT) Committee. 
+2. Referenced Documents 
+2.1 ASTM Standards: 2 
+A370 Test Methods and Definitions for Mechanical Testing 
+of Steel Products 
+_ A41AI-A414M-Specificatign for----Steel,-----Sheet, GaFbon, and­
+High-Strength, Low-Alloy for Pressure Vessels 
+A424/A424M Specification for Steel, Sheet, for Porcelain 
+Enameling 
+A606/ A606M Specification for Steel, Sheet and Strip, High­
+Strength, Low-Alloy, Hot-Rolled and Cold-Rolled, with 
+Improved Atmospheric Corrosion Resistance 
+A635/A635M Specification for Steel, Sheet and Strip, 
+Heavy-Thickness Coils, Hot-Rolled, Alloy, Carbon, 
+Structural, High-Strength Low-Alloy, and High-Strength 
+Low-Alloy with Improved Formability, General Require­
+ments for 
+2 For referenced ASTM standards, visit the ASTM website, www.astm.org, or 
+contact ASTM Customer Service at service@astm.org. For Annual Book of ASTM 
+Standards volume infonnation, refer to the standard's Document Summary page on 
+the ASTM website. 
+* A Summary of Changes section appears at the end of this standard 
+978 
+' ~
+
+NOTE 1 (page 1084)
+NoTE 1-Thickness is measured at any point across the width not less than 5 /s in. from a cut edge and not less than 1 in. from a mill edge. This table 
+does not apply to the uncropped ends of mill edge coils.
+
+NOTE 1 (page 1084)
+NoTE 1-Thickness is measured at any point across the width not less than 5 /s in. from a cut edge and not less than 1 in. from a mill edge. This table 
+does not apply to the uncropped ends of mill edge coils.
+
+NOTE 1 (page 1087)
+NoTE 1-This table applies to widths produced by slitting from wider 
+sheet. 
+Specified Length, in. 
+24 to 60, incl 
+Over 60 to 120, incl 
+Over 120 to 240, incl 
+Tolerances Over Specified 
+Length, in, No Tolerance Under 
+½ 
+¾ 
+1 
+TABLE 18 Width Tolerances for Cold-Rolled Sheet 
+(All Designations)A 
+(Coils and Cut Lengths to 12 in. Width) 
+Specified Width, in. 
+To 6, incl 
+Over 6 to 9, incl 
+Over 9 to 12, incl 
+Width Tolerance, Plus and Minus, in. 
+0,012 
+0.016 
+0.032 
+A 0.020 in. minimum thickness for high-strength low-alloy. 
+the gauge length of an 8-in. [200-mm] specimen, as indicated 
+by scribe scratches marked on the specimen before testing, a 
+retest is allowed. ' 
+11.1.1.3 If the test result of any tension test specimen fails 
+to meet the specification requirements and the failure is the 
+result of improper adherence to tension test procedures, a retest 
+is permitted. 
+TABLE 19 Camber Tolerances of Cold-Rolled Sheet in Coils 
+(All Designationst 
+(Coils to 12 in. in Width) 
+NoTE I-Camber is the greatest deviation of a side edge from a straight 
+line, the measurement being taken on the concave side with a straightedge.
+
+NOTE 1 (page 1089)
+NoTE 1-Thickness is measured at any point across the width not less than 3/s in. from a cut edge and not less than ¾ in. from a mill edge. This table 
+does not apply to the uncropped ends of mill edge coils.
+
+NOTE 1 (page 1105)
+NoTE 1-For structural products produced from coil and furnished 
+without heat treatment or with stress relieving only, two test results are to 
+be reported for each qualifying coil. Additional requirements regarding 
+structural products produced from coil are described in Specification 
+A6/A6M. 
+4. Materials and Manufacture 
+4.1 The steel shall be killed. 
+1011
+
+NOTE 2 (page 1079)
+NoTE 2-The changes in width limits with the publication of A568/ 
+A568M - 06a result in a change in tensile testing direction for material 
+from 0.180 in. [4.5 mm] to 0.230 in. exclusive [6.0 mm exclusive] over 
+48 in. [1200 mm] wide. Material formerly tested in the transverse 
+direction will be tested in the longitudinal direction. This is expected to 
+result in some changes in reported properties. The purchaser is advised to 
+discuss this change with the supplier. 
+3.1.6 cold-rolled sheet, n-manufactured from hot-rolled 
+descaled coils by cold reducing to the desired thickness, 
+generally followed by annealing to recrystallize the grain 
+structure. If the sheet is not annealed after cold reduction it is 
+known as full hard with a hardness of 84 HRB minimum and 
+can be used for certain applications where ductility and flatness 
+are not required. 
+( 1) Cold-rolled carbon sheet is commonly classified by size 
+as follows:
+
+NOTE 2 (page 1084)
+NoTE 2--.:Micrometers used for measurement of thickness shall be constructed with anvils and spindles having minimum diameters of 0.188 in. 
+(4.80 mm]. The tip of the spindle shall be flat, and the tip of the anvil shall be flat or ronnded with a minimum radius of curvature of 0.10 in. [2.55 mm]. 
+Micrometers with pointed tips are not suitable for thickness measurements.
+
+NOTE 2 (page 1087)
+NoTE 2-Micrometers used for measurement of thickness shall be constructed with anvils and spindles having minimum diameters of 0.188 in. 
+[4.80 mm]. The tip of the spindle shall be flat, and the tip of the anvil shall be flat or rounded with a minimum radius of curvature of 0.10 in. [2.55 mm). 
+Micrometers with pointed tips are not suitable for thickness measurements.
+
+NOTE 2 (page 1089)
+NoTE 2-Micrometers used for measurement of thickness shall be constructed with anvils and spindles having minimum diameters of 0.188 in. 
+[4.80 mm]. The tip of the spindle shall be flat, and the tip of the anvil shall be flat or rounded with a minimum radius of curvature of 0.10 in. [2.55 mm]. 
+Micrometers with pointed tips are not suitable for thickness measurements.
+
+NOTE 2 (page 1090)
+NoTE 2-Micrometers used for measurement of thickness shall be constructed with anvils and spindles having minimum diameters of 0.188 in. 
+[ 4.80 mm]. The tip of the spindle shall be flat, and the tip of the anvil shall be flat or rounded with a minimum radius of curvature of 0.10 in. [2.55 mm]. 
+Micrometers with pointed tips are not suitable for thickness measurements.
+
+NOTE 3 (page 1084)
+NoTE 3-The thickness of material <2 in. wide shall be measured at mid-width. 
+Specified Width, in. 
+To 20 incl 
+Over 20 to 40, incl 
+Over 40 to 48, incl 
+Over 48 to 60, incl 
+Over 60 to 72, incl 
+Over72 
+0.027 to 0.051, 
+incl 
+0.008 
+0.008 
+0.008 
+C 
+C 
+C 
+Specified Ordered Thickness, in.A 
+Over 0.051 to 0.057, Over 0.057 to 0.071, Over 0.071 to 0.098, Over 0.098 to 0.180, 
+incl incl incl excl 
+Thickness Tolerances Over, in., No Tolerance Under 8 
+0.008 0.009 0.009 0.010 
+0.008 0.009 0.010 0.010 
+0.009 0.009 0.010 0.012 
+0.009 0.010 0.010 0.012 
+0.010 0.010 0.012 0.012 
+C C 0.012 0.012 
+A The specified thickness range captions apply independent of whether the ordered thickness is stated as a nominal or minimum. 
+0.180 to 0.230, 
+excl 
+0.010 
+0.012 
+0.014 
+0.015 
+0.016 
+O.D18 
+8 The tolerances provided in the table are based on minimum thickness (tolerance over, no tolerance under). For nominal thickness, the tolerance is divided equally over 
+and under. 
+c Where an ellipsis ( ... ) appears in the table, the requirements have not been defined. 
+TABLE 5 Thickness Tolerances for Hot-Rolled Sheet (High-Strength, Low-Alloy Steel)-5/s-in. (Cut Edge) and 1-in. (Mill Edge) Minimum 
+Edge Distance (Coils and Cut Lengths, Including Pickled)
+
+NOTE 3 (page 1087)
+NoTE 3-The thickness of material <2 in. wide shall be measured at mid-width. 
+Specified Ordered Thickness, in. 8 
+Specified Width, in. To 0.014, 
+excl 
+0,014 to 0.019, Over 0,019A to Over 0.039 to 0.057, Over 0.057 to 0.071, Over 0.071 to 0.098, Over 0.098 to 0.142, 
+incl 0.039, incl incl incl incl incl 
+Thickness Tolerances, Over, in., No Tolerance Underc 
+To 15, incl 0.001 
+0.001 
+D 
+0.002 
+0,002 
+D 
+0.003 0,004 0.005 0.005 
+0.005 
+0.006 
+0.005 
+0.006 
+0.007 
+Over 15 to 72, incl 
+Over72 
+0.003 0.004 0.005 
+0.003 0.004 0.005 
+A Minimum Thickness, 0.021 in. for high-strength, low-alloy. 
+8 The specified thickness range captions apply independent of whether the ordered thickness is stated as a nominal or minimum. 
+c The tolerances provided in the table are based on minimum thickness (tolerance over, no tolerance under). For nominal thickness, the tolerance is divided equally over 
+and under. 
+0 Where an ellipsis (. , .) appears in the table, the requirements have not been defined. 
+TABLE 16 Length Tolerances of Cold-Rolled Sheet 
+(All Designations) 
+(Cut Lengths Over 12 in. in Width) 
+Specified Length, in. 
+Over 12 to 30, incl 
+Over 30 to 60, incl 
+Over 60 to 96, incl 
+Over 96 to 120, incl 
+Over 120 to 156, incl 
+Over 156 to 192, incl 
+Over 192 to 240 incl 
+Over 240 
+Tolerances Over 
+Specified Length, 
+in. No Tolerances 
+Under 
+1/a 
+¼ 
+½ 
+¾ 
+1 
+1¼ 
+1½ 
+1¾ 
+TABLE 17 Length Tolerances of Cold-Rolled Sheet 
+(All Designations) 
+(Cut Length Sheets, to 12 in. in Width)
+
+NOTE 3 (page 1089)
+NoTE 3-This table was used to construct Table 4 by multiplying the values in this table by 0.75 and rounding to 3 decimal places using standardASTM 
+practice. 
+Norn 4-The thickness of mateiial <1 in. wide shall be measured at mid-width. 
+Specified Ordered Thickness, in. A 
+Specified Width, in. -----0:027--ilJ0.051~ -cveril:051 to--0.057-;- -Over 0.05-7---to 0,071, -ever G.G71 tG--Q.098,- Over---0.098-to 0.j-80, _0.18Qio 0.230, 
+incl incl incl incl excl excl 
+To 20 incl 
+Over 20 to 40 incl 
+Over 40 to 48 incl 
+Over 48 to 60 incl 
+Over 60 to 72 incl 
+Over 72 
+0.010 
+0.010 
+0.010 
+C 
+C 
+C 
+0.010 
+0.010 
+0.012 
+0.012 
+0.014 
+C 
+Thickness Tolerances Over, in., No Tolerance Under 8 
+0.012 0.012 0.014 
+0.012 0.014 0.014 
+0.012 0.014 0.016 
+0.014 0.014 0.016 
+0.014 O.D16 0.016 
+C 0.016 0.016 
+A The specified thickness range captions apply independent of whether the ordered thickness is stated as a nominal or minimum. 
+0.014 
+O.D16 
+O.D18 
+0.020 
+0.022 
+0.024 
+8 The tolerances provided in the table are based on minimum thickness (tolerance over, no tolerance under). For nominal thickness, the tolerance is divided equally over 
+and under. 
+c Where an ellipsis( ... ) appears in the table, the requirements have not been defined. 
+989
+
+NOTE 3 (page 1090)
+NoTE 3-This table was used to construct Table 5 by multiplying the values in this table by 0.75 and rounding to 3 decimal places using standardASTM 
+practice.
+
+NOTE 4 (page 1090)
+NoTE 4-The thickness of material <1 in. wide shall be measured at mid-width. 
+Specified Ordered Thickness, in.A 
+Specified Width, in. 0.031 to 0.051, Over 0.051 Over 0.059 Over 0.070 to Over 0.082 to Over 0.098 to 0.180 to 
+incl to 0.059, incl to 0.070, incl 0.082, incl 0.098, incl 0.180, excl 0.230, excl 
+Thickness Tolerances, Over, in., No Tolerance Under 8 
+To 15, incl 0.010 0.012 0.012 0.012 0.012 0.014 0.014 
+Over 15 to 20, incl 0.010 0.012 0.014 0.014 0.014 0.016 0.016 
+Over 20 to 32, incl 0.012 0.012 0.014 0.014 0.014 0.016 0.018 
+Over 32 to 40, incl 0.012 0.012 0.014 0.014 0.016 0.016 O.Q18 
+Over 40 to 48, incl 0.012 0.014 0.014 0.014 0.016 0.020 0.020 
+Over 48 to 60, incl C 0.014 0.014 0.014 0.016 0.020 0.020 
+Over 60 to 72, incl C C 0.016 0.016 O.Q18 0.022 0.022 
+Over 72 to 80, incl C C C 0.016 0.018 0.024 0.024 
+Over 80 C C C C 0.020 0.024 0.024° 
+A The specified thickness range captions apply independent of whether the ordered thickness is stated as a nominal or minimum. 
+8 The tolerances provided in the table are based on minimum thickness (tolerance over, no tolerance under). For nominal thickness, the tolerance is divided equally over 
+and under. 
+c Where an ellipsis ( ... ) appears in the table, the requirements have not been defined. 
+TABLE S1 .3 Thickness Tolerances for Cold-Rolled Sheet (All Designations)A -%-in. Minimum Edge Distance (Coils and Cut Lengths) 
+NoTE I-Thickness is measured at any point across the width not less than 3/s in. from a side edge.
+
+NOTE 5 (page 1088)
+NoTE 5-The industry definition as invoked here is: EDI is the 
+computer to computer exchange of business information in an agreed upon 
+standard format such as ANSI ASC Xl2. 
+15. Product Marking 
+15.1 As a minimum requirement, the material shall be 
+identified by having the manufacturer's name, ASTM 
+designation, weight, purchaser's order number, and material

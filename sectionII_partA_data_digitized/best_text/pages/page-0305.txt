@@ -1,0 +1,128 @@
+ASME BPVC.II.A-2025 SA-194/SA-194M 
+TABLE 3 Proof Load Using Threaded Mandrel - Inch Series 
+NoTE I-Proof loads are not design loads. 
+Nominal Threads Stress Area 
+Size, in. per Inch in. 2 Grade 1 
+Heavy Hex 8 Hexc 
+¼ 20 0.0316 4 130 3 820 
+5/-16 18 0.0524 6 810 6 290 
+% 16 0.0774 10 080 9 300 
+7 /1a 14 0.1063 13 820 12 760 
+½ 13 0.1419 18 450 17 030 
+9/15 12 0.182 23 660 21 840 
+% 11 0.226 29 380 27 120 
+3/4 10 0.334 43 420 40 080 
+7/a 9 0.462 60 060 55 440 
+1 8 0.606 78 780 72 720 
+11/a 8 0.790 102 700 94 800 
+1¼ 8 1.000 130 000 120 000 
+1% 8 1.233 160 200 148 000 
+1½ 8 1.492 194 000 170 040 
+¼ 20 0.0316 
+5/15 18 0,0524 
+% 16 0.0774 
+7/16 14 0.1063 
+½ 13 0.1419 
+9/15 12 0.182 
+5/a 11 0.226 
+3/4 10 0.334 
+7/s 9 0.462 
+1 8 0.606 
+11/a 8 0.790 
+1¼ 8 1.000 
+1% 8 1.233 
+1½ 8 1.492 
+Proof Load, lbfA 
+Grades 2, 2HM, 6, 6F, 7M 
+Heavy Hex 0 HexE 
+4 770 4 300 
+7 860 7 070 
+11 620 10 460 
+15 940 14 350 
+21 280 19 160 
+27 300 24 570 
+33 900 30 510 
+50 100 45 090 
+69 300 62 370 
+90 900 81 810 
+118 500 106 700 
+150 000 135 000 
+185 000 166 500 
+223 800 201 400 
+All Tyees of Grade 8, Grades 9C and 9CA 
+Hea HexH Hex' 
+2 540 2 380 
+4 190 3 930 
+6 200 5 810 
+8 500 7 970 
+11 350 10 640 
+14 560 13 650 
+18 080 16 950 
+26 720 25 050 
+36 960 34 650 
+48 480 45 450 
+63 200 59 250 
+80 000 75 000 
+98 640 92 450 
+119 360 111 900 
+Grades 2H, 3, 7, 16, 43 
+Heavy HexF 
+5 570 
+9 170 
+13 560 
+18 600 
+24 830 
+31 850 
+39 550 
+58 450 
+80 850 
+106 000 
+138 200 
+175 000 
+215 800 
+261 100 
+Hex"' 
+4 770 
+7 860 
+11 620 
+15 940 
+21 280 
+27 300 
+33 900 
+50 100 
+69 300 
+90 900 
+118 500 
+150 000 
+185 000 
+223 800 
+A See limit for proof load test in 8.2.2.1. The proof load for jam nuts shall be 46 % of the tabulated load. 
+8 Based on proof stress of 130 000 psi. 
+c Based on proof stress of 120 000 psi. 
+0 Based on proof stress of 150 000 psi. 
+E Based on proof stress of 135 000 psi. 
+F Based on proof stress of 175 000 psi. 
+0 Based on proof stress of 150 000 psi. 
+H Based on proof stress of 80 000 psi. 
+' Based on proof stress of 75 000 psi. 
+to ensure product conformance. The use of 100 % electromag­
+netic testing for hardness as an alternative to 100 % indentation 
+hardness testing is permissible when qualified by sampling 
+using indentation hardness testing. Each lot tested for hardness 
+electromagnetically shall be 100 % examined in accordance 
+with Practice E566. Following electromagnetic testing for 
+hardness, a random sample of a minimum of 100 pieces in each 
+purchase lot (as defined in 3.1.3) shall be tested by indentation 
+hardness methods. All samples must meet hardness require­
+ments to permit acceptance of the lot. If any one sample is 
+outside of the specified maximum or minimum hardness, the 
+lot shall be rejected and either reprocessed and resampled, or 
+tested 100 % by indentation hardness methods. 
+8.1.3.2 In addition, 8.1.2.2 shall be met. 
+8.1.4 Number of Tests, All Types of Grade 8-Tests on the 
+number of sample nuts in accordance with 8.1.2.1 shall be 
+performed by the manufacturer. 
+8.1.5 Test 2-In addition to the testing required by 8.1.2.1 
+the manufacturer shall also perform hardness tests on sample 
+nuts after the following test heat treatment. After completion of 
+253 

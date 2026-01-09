@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 880,
+  "globalPageIndex": 1678,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "ASME BPVC.II.A-2025 \n111-250 OTHER MARKINGS \nAny other markings, such as marking of non-ASME or \nnon-ASTM material specifications, have no relevance, \neven if those markings are for materials explicitly prohib\u00ad\nited by the construction code being used. That is, as long \nas the one marking, and the documentation required by \nthe material and by the construction code, shows that it \nmeets all the requirements for use of that material in that \nconstruction code, any additional markings are irrelevant. \n1624 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-1678.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 510,
+  "bestTextAlphaRatio": 0.7706
+}

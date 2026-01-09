@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 185,
+  "globalPageIndex": 185,
+  "width": 613.92,
+  "height": 793.2,
+  "text": "ASME BPVC.II.A-2025 SA-47 /SA-47M \ntests and inspections on the reprocessed casting(s) show \ncompliance with this specification, the castings shall be \nacceptable; if they do not, they shall be rejected. \n13.2 If the purchaser should find that a casting or lot . \nof castings fails to comply with this specification subse\u00ad\nquent to receipt at his facility, he shall so notify the manu\u00ad\nfacturer promptly and in no case later than six weeks after \nreceipt of the shipment, stating clearly his basis for rejec\u00ad\ntion. In case of dissatisfaction with the purchaser's claim, \nthe manufacturer may apply for a hearing before final \nrejection of the shipment. \n14. Certification \n14.1 A manufacturer's certification or compliance \nstatement that the casting or lot of castings was made, \nsampled, tested, and inspected in accordance with this spec\u00ad\nification, including a report of test results signed by an \nauthorized agent of the manufacturer, shall be furnished at \nthe time of shipment, and such certification or compliance \nstatement shall be the basis for acceptance of the casting \nor lot of castings. \nEnglish \nGrade \n32510 \nMetric \nGrade \n22010 \nTABLE 1 \nTENSION TEST REQUIREMENTS \nInch-Pound Grades \nTensile Yield \nStrength, Strength, \nmin, psi min, psi \n50 000 32 500 \nMetric Grades \nTensile Yield \nStrength, Strength, \nmin, MPa min, MPa \n340 220 \nElongation in \n2 in., min,% \nElongation in \n50 mm, min,% \n10 \n133 \n15. Product Marking \n15.1 When the size of the casting permits, each casting \nshall bear the identifying mark of the manufacturer and \nthe part or pattern number at a location shown on the \ncovering drawing and, if not shown on the drawing, at \nsuch a location at the discretion of the producer that the \nidentification will not interfere with subsequent processing \nand service of the casting. \n16. Packaging and Package Marking \n16.1 Unless otherwise stated in the contract or order, \nthe cleaning, preservation, and packing of castings for ship\u00ad\nment shall be in accordance with the manufacturer's com\u00ad\nmercial practice. Packaging and marking shall also be \nadequate to identify the contents and to ensure acceptance \nand safe delivery by the carrier for the mode of transporta\u00ad\ntion employed. \n16.2 U.S. Government Procurement - When specified \nin the contract or purchase order, marking for shipment \nshall be in accordance with the requirements of Fed. Std. \nNo. 123 and MIL-SID-129. \nTABLE 2 \nTYPICAL HARDNESS \nInch-Pound Grade \n[Metric Grade] \n325 10 [22010] \nHardness, \nMaximum \nHB \n156 \nIndentation Value \nDiameters, mm \n4.8 \nTABLE 3 \nPERMISSIBLE VARIATION IN ANY \nSOLID DIMENSION \nSize, in. [mm] \nUp to 1 [Up to 25] \n1 to 6 [25 to 150] \n6 to 12 [151 to 300] \n12 to 18 [301 to 460] \n18 to 24 [461 to 600] \n24 to 36 [601 to 900] \nTolerance, \u00b1 in. [mm] \n0.03 [0.8] \n0.06 [l.6] \n0.12 [3.2] \n0.15 [3.8] \n0.19 [4.8] \n0.22 [5.6] ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0185.json",
+  "tabulaTablesCsv": "tables_tabula/page-0185.csv",
+  "tabulaTableCount": 2,
+  "bestTextPath": "best_text/pages/page-0185.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2853,
+  "bestTextAlphaRatio": 0.7035
+}

@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 384,
+  "globalPageIndex": 384,
+  "width": 845.28,
+  "height": 601.08,
+  "text": "w w \nN \nTABLE 2 Tensile Requirements \nNoTE 1-Where an ellipsis ( ... ) appears in this table, there is no requirement. \nGrade and Marking Symbol \nTensile strength, minimum unless \na range is given ksi [MPa] \nYield strength, min, ksi [MPa] \n(0.2 % offset or 0.5 % \nextension-\nunder-load) \nWPB \n60 [415] \n35 [240] \nWPC, WP11 CL1, \nWP11 CL2, WP 1 WP22 CL1, \nWP12 CL2 WP5 CL1 \nWP9 CL1 \n70 [485] \n40 [275] \n55-80 \n[380-550] \n30 [205] \n60 [415] \n30 [205] \nWP11 CL3, \nWPR WP22 CL3 \nWP5 CL3 \nWP9 CL3 \n63-88 75 [520] \n[435-605] \n46 [315] 45 [310] \nAll Grades except WPR, \nWP91 Type 1 and Type 2, WP115 \nand WP911 \nElongation: \nStandard round specimen, or small proportional specimen, min % in 4 D \nRectangular specimen for wall thickness 5 /10 in. [7.94 mm] and over, \nand for all small sizes tested in full section; min % in 2 in. [50 mm] \nRectangular specimen for wall thickness less than 5/16 in. [7.94 mm]; \nmin% in 2 in. [50 mm] (\u00bd-in. [12.7-mm] wide specimen) \nLongi\u00ad\ntudinal \n22 \n30 \nB \nA WPB and WPC fittings manufactured from plate shall have a minimum elongation of 17 %. \nTrans-\nverse \n14 \n20A \nB \nWP24 WP91 \nTypes 1 and 2 \n85 [585] 90 [620] \n60 [415] 60 [415] \nElongation Requirements \nGrades \nWPR and WP24 \nLangi- Trans-\ntudinal verse \n20 \n28 \nB \nWP92 WP115 WP12 CL1 WP911 \n90-120 90 [620] 60 [415] \n[620-840] \n64[440] 65 [450] 32 [220] \nWP91 Types 1 and 2 \nWP92 \nLangi-\ntudinal \n20 \nWP115 \nWP911 \nTrans\u00ad\nverse \n13 \n8 For each 1/32 in. [0.79 mm] decrease in wall thickness below 5 /16 in. [7.94 mm], a deduction ol 1.5 % for longitudinal and 1.0 % for transverse from the values shown above is permitted. The following table gives the \nminimum value for various wall thicknesses. \nWall Thickness All Grades except WPR, WP91 Type 1 and Type 2, WP115, \nand WP911 \nin. fmm] \n5/16 (0.312) 7.94 \n----=--=~-~------------'=\"'-------------=Lo::cn=Qitudinal \n30.0 \nTransverse \n20.0 \n19.0 \n18.0 \n9 /32 (0.281) \n\u00bc (0.250) \n7 /32 (0.219) \n3/16 (0.188) \n5 /32 (0.156) \n1/s (0.125) \n3/sz (0.094) \n1/16 (0.0622 \n7.14 \n6.35 \n5.56 \n4.76 \n3.97 \n3.17 \n2.38 \n1.59 \n28.5 \n27.0 \n25.5 \n24.0 \n22.5 \n21.0 \n19.5 \n18.0 \nGrades \nWPR \nLon~inal \n28.0 \n26.5 \n25.0 \n23.5 \n22.0 \n20.5 \n19.0 \n17.5 \n16.0 \nWP91 Types 1 and 2, \nWP92, WP115, and \nWP911 \nLon_gi!l:!dinal \n20 \n19 \n18 \n17 \n16 \n15 \n14 \n13 \n12 \nNote-This table gives the computed minimum % elongation value for each 1/32 in. [0.79 mm] decrease in wall thickness. Where the wall thickness lies between two values above, the minimum elongation value is \ndetermined by the following equations: \nwhere: \nDirection of Test \nLongitudinal \nTransverse \nE = elongation in 2 in. or [50 mm], %, and \n= actual thickness of specimen, in. [mm]. \nEquation \nE = 481 + 15.00 \nE = 321 + 10.00 \n~ N w \n-:t \n~ N w \n~ \n~ \nV, \n~ \n;i. \nN \nw \n\"\" ~ w \n\"\" .; \ni;; \n3: \nl:'1 \n0:, \n~ ; \nN \n0 \nN \nVt ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 1,
+  "tabulaTablesPath": "tables_tabula/page-0384.json",
+  "tabulaTablesCsv": "tables_tabula/page-0384.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0384.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2799,
+  "bestTextAlphaRatio": 0.4823
+}

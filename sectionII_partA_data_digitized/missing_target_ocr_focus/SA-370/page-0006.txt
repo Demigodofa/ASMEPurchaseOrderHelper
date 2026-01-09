@@ -1,0 +1,72 @@
+SA-370 ASME BPVC.ILA-2025
+Note 2—-Many machines are equipped with stress-strain recorders for 9, Test Specimen Parameters —
+autographic plotting of stress-strain curves. It should be noted that some ;
+recorders have a load measuring component entirely separate from the a4 Selection—Test Coupons shall be selected in accordance
+load indicator of the testing machine. Such recorders are calibrated with the applicable product specifications.
+separately. 9.1.1 Wrought Steels—Wrought steel products are usually
+8.3 Loading—It is the function of the gripping or holding tested in the sonenndinal Sarection, ou in some cases, where
+device of the testing machine to transmit the load from the “” P ermits an € service justines it, tes ing 1s in the
+heads of the machine to the specimen under test. The essential transverse, radial, or tangential directions (see Figs. | and 2).
+requirement is that the load shall be transmitted axially. This 9.1.2 Forg ed Steels—For open die forgings, the metal for
+ae ; . ; tension testing is usually provided by allowing extensions or
+implies that the centers of the action of the grips shall be in . ,
+, , .; ; ; prolongations on one or both ends of the forgings, either on all
+alignment, insofar as practicable, with the axis of the specimen ; ;
+—- . or a representative number as provided by the applicable
+at the beginning and during the test and that bending or ; ,
+Le . ; ; product specifications. Test specimens are normally taken at
+twisting be held to a minimum. For specimens with a reduced ; ; . ; .
+; oa ; , mid-radius. Certain product specifications permit the use of a
+section, gripping of the specimen shall be restricted to the grip : ; ; ,
+; ; representative bar or the destruction of a production part for
+section. In the case of certain sections tested in full size, . 44: ,
+‘al loading | oidabl dj h hall b test purposes. For ring or disk-like forgings test metal is aa
+Se wiccible. mg 1S unavormanre ane me sucn cases shan oe provided by increasing the diameter, thickness, or length of the
+Permisstle. forging. Upset disk or ring forgings, which are worked or
+8.4 Speed of Testing—The speed of testing shall not be | extended by forging in a direction perpendicular to the axis of
+greater than that at which load and strain readings canbe made _—' the ‘forging, usually have their principal extension along
+accurately. In production testing, speed of testing is commonly | concentric circles and for such forgings tangential tension
+expressed: (J) in terms of free running crosshead speed (rate of | Specimens are obtained from extra metal on the periphery or
+movement of the crosshead of the testing machine when not end of the forging. For some forgings, such as rotors, radial
+under load), (2) in terms of rate of separation of the two heads _ tension tests are required. In such cases the specimens are cut
+of the testing machine under load, (3) in terms of rate of | °F trepanned from specified locations.
+stressing the specimen, or (4) in terms of rate of straining the 9.2 Size and Tolerances—Test specimens shall be (1) the
+specimen. The following limitations on the speed of testing are —_ full cross section of material, or (2) machined to the form and
+recommended as adequate for most steel products: dimensions shown in Figs. 3-6. The selection of size and type
+: of specimen is prescribed by the applicable product specifica-
+Note 3—Tension tests using closed-loop machines (with feedback Kone Full cro P section  cimene hall e tested r Qin
+control of rate) should not be performed using load control, as this mode CTOSS SCCHON Sp s » De este i.
+of testing will result in acceleration of the crosshead upon yielding and © (200 mm) gauge length unless otherwise specified in the |
+elevation of the measured yield strength. product specification.
+8.4.1 Any convenient speed of testing may be used up to 9.3 Procurement of Test Specimens—Specimens shall be
+one half the specified yield point or yield strength. When this  ¢xtracted by any convenient method taking care to remove all
+point is reached, the free-running rate of separation of the distorted, cold-worked, or heat-affected areas from the edges of
+crossheads shall be adjusted so as not to exceed Yio in. per min __ the section used in evaluating the material. Specimens usually
+per inch of reduced section, or the distance between the grips have a reduced cross section at mid-length to ensure uniform
+for test specimens not having reduced sections. This speed ‘distribution of the stress over the cross section and localize the
+shall be maintained through the yield point or yield strength. In Zone of fracture.
+determining the tensile strength, the free-running rate of 9.4 Aging of Test Specimens—Unless otherwise specified, it
+separation of the heads shall not exceed /2 in. per min perinch shall be permissible to age tension test specimens. The time-
+of reduced section, or the distance between the grips for test temperature cycle employed must be such that the effects of
+specimens not having reduced sections. In any event, the previous processing will not be materially changed. It may be ,
+minimum speed of testing shall not be less than “io the accomplished by aging at room temperature 24 to 48 h, or in .
+specified maximum rates for determining yield point or yield _ shorter time at moderately elevated temperatures by boiling in -
+strength and tensile strength. water, heating in oil or in an oven.
+8 8 g
+8.4.2 It shall be permissible to set the speed of the testing 9.5 Measurement of Dimensions of Test Specimens:
+
+. machine by adjusting the free running crosshead speed to the 9.5.1 Standard Rectangular Tension Test Specimens—These
+above specified values, inasmuch as the rate of separation of — forms of specimens are shown in Fig. 3. To determine the
+heads under load at these machine settings is less than the — cross-sectional area, the center width dimension shall be
+specified values of free running crosshead speed. measured to the nearest 0.005 in. (0.13 mm) for the 8-in. (200
+
+8.4.3 As an alternative, if the machine is equipped with a mm) gauge length specimen and 0.001 in. (0.025 mm) for the
+device to indicate the rate of loading, the speed of the machine 2-in. (50 mm) gauge length specimen in Fig. 3. The center
+
+8 Pp gaug stn sp 8
+from half the specified yield point or yield strength through the — ‘thickness dimension shall be measured to the nearest 0.001 in.
+yield point or yield strength may be adjusted so that the rate of | for both specimens.
+stressing does not exceed 100000 psi (690 MPa)/nin. 9.5.2 Standard Round Tension Test Specimens—These
+However, the minimum rate of stressing shall not be less than forms of specimens are shown in Fig. 4 and Fig. 5. To
+10 000 psi (70 MPa)/min. determine the cross-sectional area, the diameter shall be —
+588

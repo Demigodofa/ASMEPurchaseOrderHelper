@@ -1,0 +1,104 @@
+SA-249/SA-249M ASME BPVC.II.A-2025 
+2.2 ASME Boiler and Pressure Vessel Code: 
+Section VIII 
+2.3 Other Standard: 
+SAE J1086 Practice for Numbering Metals and Alloys 
+(UNS) 
+3. Ordering Information 
+3.1 It is the responsibility of the purchaser to specify all 
+requirements that are necessary for material ordered under this 
+specification. Such requirements may include, but are not 
+limited to, the following: 
+3.1.1 Quantity (feet, metres, or number of lengths), 
+3.1.2 Name of material welded tubes (WLD) or heavily cold 
+worked tubes (HCW), 
+3.1.3 Grade (Table 1), 
+3.1.4 Size (outside diameter and nominal wall thickness), 
+3.1.5 Length (specific or random), 
+3.1.6 Optional requirements (13.6), 
+3.1.7 Test report required (see Certification Section of 
+Specification A1016/A1016M), 
+3.1.8 Specification designation, and 
+3.1.9 Special requirements and any supplementary require­
+ments selected. 
+3.1.9.1 If Supplementary Requirement S7 is specified, in­
+clude weld decay ratio per S 11.1.1. 
+4. General Requirements 
+4.1 Material furnished under this specification shall con­
+form to the applicable requirements of the current edition of 
+Specification A1016/Al016M, unless otherwise provided 
+herein. 
+5. Manufacture 
+5.1 The welded (WLD) tubes shall be made from flat-rolled 
+steel by an automatic welding process with no addition of filler 
+metal. 
+5.1.l Subsequent to welding and prior to final heat 
+treatment, the tubes shall be cold worked either in both weld 
+and base metal or in weld metal only. The method of cold 
+working may be specified by the purchaser. When cold drawn, 
+the purchaser may specify the minimum amount of reduction in 
+cross-sectional area or wall thickness, or both. 
+5.1.2 Heavily cold worked (HCW) tubes shall be made by 
+applying cold working of not less than 35 % reduction in both 
+wall and weld to a welded tube prior to the final anneal. No 
+filler metal shall be used in the making of the weld. Prior to 
+cold working, the weld shall be 100 % radiographically in­
+spected in accordance with the requirements of ASME Boiler 
+and Pressure Vessel Code, Section VIII, Division 1, latest 
+revision, Paragraph UW 51. 
+6. Heat Treatment 
+6.1 All material shall be furnished in the heat-treated 
+condition in accordance with the requirements of Table 2. 
+6.2 A solution annealing temperature above 1950 °F [1065 
+0 C] may impair the resistance to intergranular corrosion after 
+subsequent exposure to sensitizing conditions in TP309HCb, 
+TP310HCb, TP321, TP321H, TP347, TP347H, TP348, and 
+TP348H. When specified by the purchaser, a lower temperature 
+stabilization or re-solution anneal shall be used subsequent to 
+the initial high temperature solution anneal (see Supplementary 
+Requirement S4). 
+6.3 N08020 shall be supplied in the stabilization treatment 
+condition. 
+7. Chemical Composition 
+7 .1 The heat analysis shall conform to the requirements as 
+to chemical composition given in Table 1. 
+8. Product Analysis 
+8.1 An analysis of either one length of flat-rolled stock or 
+one tube shall be made for each heat. The chemical composi­
+tion thus determined shall conform to the requirements given in 
+Section 7. 
+8.2 A product analysis tolerance of Table Al.I in Specifi­
+cation A480/ A480M shall apply. The product analysis toler­
+ance is not applicable to the carbon content for material with a 
+specified maximum carbon of 0.04 % or less. 
+8.3 If the original test for product analysis fails, retests of 
+two additional lengths of flat-rolled stock or tubes shall be 
+made. Both retests for the elements in question shall meet the 
+requirements of the specification; otherwise all remaining 
+material in the heat or lot (See 13.9.1) shall be rejected or, at 
+the option of the producer, each length of flat-rolled stock or 
+tube may be individually tested for acceptance. Lengths of 
+flat-rolled stock or tubes that do not meet the requirements of 
+the specification shall be rejected. 
+360 
+9. Tensile Requirements 
+9 .1 The material shall conform to the tensile properties 
+prescribed in Table 3. 
+10. Hardness Requirements 
+10.1 The tubes shall have a Rockwell hardness number not 
+exceeding the values specified in Table 3. 
+10.2 For tubing less than 0.354 in. [9.00 mm] in inside 
+diameter and for tubing less than 0.065 in. [1.65 mm] in wall 
+thickness, it is permissible to use the Vickers hardness test in 
+lieu of the Rockwell test. Tubes shall have a Vickers hardness 
+number not exceeding the values specified in Table 3. 
+11. Reverse-Bend Test Requirement 
+11.1 A section 4 in. [100 mm] minimum in length shall be 
+split longitudinally 90° on each side of the weld. The sample 
+shall then be opened and bent around a mandrel with a 
+maximum thickness of four times the wall thickness, with the 
+mandrel parallel to the weld and against the original outside 
+surface of the tube. The weld shall be at the point of maximum 
+bend. There shall be no evidence of cracks, or of overlaps 
+resulting from the reduction in thickness of the weld areas by 
+cold working. When the geometry or size of the tubing make it 

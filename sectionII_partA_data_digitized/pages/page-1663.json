@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 865,
+  "globalPageIndex": 1663,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "ASME BPVC.II.A-2025 \nMANDATORY APPENDIX I \nSTANDARD UNITS FOR USE IN EQUATIONS \nTable 1-1 \nStandard Units for Use in Equations \nQuantity U.S. Customary Units SI Units \nLinear dimensions (e.g., length, height, thickness, radius, diameter) inches (in.) millimeters (mm) \nArea square inches (in.2) square millimeters (mm 2 ) \nVolume cubic inches (in. 3 ) cubic millimeters (mm 3 ) \nSection modulus cubic inches (in. 3 cubic millimeters (mm 3 \nMoment of inertia of section inches 4 (in. 4 millimeters 4 (mm 4 \nMass (weight) pounds mass (Ihm) kilograms (kg) \nForce (load) pounds force (!bf) newtons (N) \nBending moment inch-pounds (in.-lb) newton-millimeters (N\u2022mm) \nPressure, stress, stress intensity, and modulus of elasticity pounds per square inch (psi) megapascals (MPa) \nEnergy (e.g., Charpy impact values) foot-pounds (ft-lb) joules (I) \nTemperature degrees Fahrenheit (\u00b0F) degrees Celsius ( 0 C) \nAbsolute temperature Rankine ( 0 R) kelvin (K) \nFracture toughness ksi square root inches (ksi '1in.) MPa square root meters (MPa.jm) \nAngle degrees or radians degrees or radians \nBritish thermal units per hour \nBoiler capacity (Btu/hr) watts (W) \n1609 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1663.json",
+  "tabulaTablesCsv": "tables_tabula/page-1663.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-1663.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1153,
+  "bestTextAlphaRatio": 0.7277
+}

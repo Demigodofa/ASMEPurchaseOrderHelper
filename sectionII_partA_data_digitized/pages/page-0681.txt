@@ -1,0 +1,101 @@
+ASME BPVC.II.A-2025 SA-370 
+Al0.4.2 Reproducibility of Heat Treatment Parameters on 
+Production Forgings: 
+Al0.4.2.1 All information pertarnmg to the quench and 
+temper of the master forging shall be recorded on an appro­
+priate permanent record, similar to the one shown in Table 
+AlO.l. 
+Al0.4.2.2 All information pertaining to the quench and 
+temper of the production forgings shall be appropriately 
+recorded, preferably on a form similar to that used in 
+Al0.4.2.1. Quench records of production forgings shall be 
+retained for future reference. The quench and temper record of 
+the master forging shall be retained as a permanent record. 
+Al0.4.2.3 A copy of the master forging record shall be 
+stored with the heat treatment record of the production forging. 
+Al0.4.2.4 The essential variables, as set forth on the heat 
+treat record, shall be controlled within the given parameters on 
+the production forging. 
+Al0.4.2.5 The temperature of the quenching medium prior 
+to quenching each production forging shall be equal to or lower 
+than the temperature of the quenching medium prior to 
+quenching the master forging. 
+Al0.4.2.6 The time elapsed from opening the furnace door 
+to quench for the production forging shall not exceed that 
+elapsed for the master forging. 
+Al0.4.2.7 If the time parameter is exceeded in opening the 
+furnace door to beginning of quench, the forging shall be 
+placed back into the furnace and brought back up to equaliza­
+tion temperature. 
+Al0.4.2.8 All forgings represented by the same master 
+forging shall be quenched with like orientation to the surface of 
+the quench bath. 
+Al0.4.2.9 All production forgings shall be quenched in the 
+same quench tank, with the same agitation as the master 
+forging. 
+Al0.4.2.10 Uniformity of Heat Treat Parameters-(]) The 
+difference in actual heat treating temperature between produc­
+tion forgings and the master forging used to establish the 
+simulator cycle for them shall not exceed ± 25 °P ( ± 14 °C) for 
+the quench cycle. (2) The tempering temperature of the 
+production forgings shall not fall below the actual tempering 
+temperature of the master forging. (3) At least one contact 
+surface thermocouple shall be placed on each forging in a 
+production load. Temperature shall be recorded for all surface 
+thermocouples on a Time Temperature Recorder and such 
+records shall be retained as permanent documentation. 
+Al0.4.3 Heat-cycle Simulation: 
+Al0.4.3.1 Program charts shall be made from the data 
+recorded on the master chart. All test specimens shall be given 
+the same heating rate above, the ACl, the same holding time 
+and the same cooling rate as the production forgings. 
+Al0.4.3.2 The heating cycle above theACl, a portion of the 
+holding cycle, and the cooling portion of the master chart shall 
+be duplicated and the allowable limits on temperature and time, 
+as specified in (a) through (c), shall be established for 
+verification of the adequacy of the simulated heat treatment. 
+( a) Heat Cycle Simulation of Test Coupon Heat Treatment 
+for Quenched and Tempered Forgings and Bars-If cooling 
+rate data for the forgings and bars and cooling rate control 
+devices for the test specimens are available, the test specimens 
+may be heat-treated in the device. 
+(b) The test coupons shall be heated to substantially the 
+same maximum temperature as the forgings or bars. The test 
+coupons shall be cooled at a rate similar to and no faster than 
+the cooling rate representative of the test locations and shall be 
+within 25 °P (14 °C) and 20 sat all temperatures after cooling 
+begins. The test coupons shall be subsequently heat treated in 
+accordance with the thermal treatments below the critical 
+temperature including tempering and simulated post weld heat 
+treatment. 
+(c) Simulated Post Weld Heat Treatment of Test Specimens 
+(for ferritic steel forgings and bars)-Except for carbon steel (P 
+Number 1, Section IX of the Code) forgings and bars with a 
+nominal thickness or diameter of 2 in. (51 mm) or less, the test 
+specimens shall be given a heat treatment to simulate any 
+thermal treatments below the critical temperature that the 
+TABLE A 10.1 Heat-treat Record-essential Variables 
+Master Production Production Production Production Production 
+Forging Foraing 1 Foraing 2 Forging 3 Forging 4 Forging 5 
+Proqram chart number 
+Time at temperature and actual temperature of heat treatment 
+Method of coolinq 
+ForginQ thickness 
+Thermocouple immersion 
+Beneath buffer {yes/no) 
+Foraina number 
+Product 
+Material 
+Thermocouple location-0 deq 
+Thermocouple location-180 deg 
+Quench tank No. 
+Date of heat treatment 
+Furnace number 
+Cycle number 
+Heat treater 
+StartinQ quench medium temperature 
+Time from furnace to auench 
+Heatinq rate above 1000 °F (538 °C) 
+Temoerature upon removal from auench after 5 min 
+Orientation of forging in quench 
+631 

@@ -1,0 +1,209 @@
+[
+  {
+    "rows": [
+      [
+        "Ferrltlc/ Austenitlc",
+        "S31803",
+        "1870-2010 \u00b0F",
+        "Water quench or",
+        "Not required"
+      ],
+      [
+        "",
+        "",
+        "[1020-1100 \u00b0C]",
+        "rapidly cooled by",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "other means",
+        ""
+      ],
+      [
+        "",
+        "S32101",
+        "1870 \u00b0F [1020 \u00b0C] min",
+        "Water quench or",
+        "Not required"
+      ],
+      [
+        "",
+        "",
+        "",
+        "rapidly cooled by",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "other means",
+        ""
+      ],
+      [
+        "",
+        "S32202",
+        "1870-1975 \u00b0F",
+        "Water quench or",
+        "Not required"
+      ],
+      [
+        "",
+        "",
+        "[1020-1080 \u00b0C]",
+        "rapidly cooled by",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "other means",
+        ""
+      ],
+      [
+        "",
+        "S32205",
+        "1870-2010 \u00b0F",
+        "Water quench",
+        "Not required"
+      ],
+      [
+        "",
+        "",
+        "[1020-1100 \u00b0C]",
+        "",
+        ""
+      ],
+      [
+        "",
+        "S32750",
+        "1920-2060 \u00b0F",
+        "Water quench or",
+        "Not required"
+      ],
+      [
+        "",
+        "",
+        "[1025-1125 \u00b0C]",
+        "rapidly cooled by",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "other means",
+        ""
+      ],
+      [
+        "",
+        "S32760",
+        "2010-2085 \u00b0F",
+        "Water quench or",
+        "Not required"
+      ],
+      [
+        "",
+        "",
+        "[1100-1140 \u00b0C]",
+        "rapidly cooled by",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "other means",
+        ""
+      ],
+      [
+        "",
+        "S39274",
+        "1920-2060 \u00b0F",
+        "Water quench or",
+        "Not required"
+      ],
+      [
+        "",
+        "",
+        "[1025-1125 \u00b0C]",
+        "rapidly cooled by",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "other means",
+        ""
+      ],
+      [
+        "",
+        "S32550",
+        "1950-1975 \u00b0F",
+        "Water quench",
+        "Not required"
+      ],
+      [
+        "",
+        "",
+        "[1065-1080 \u00b0C]",
+        "",
+        ""
+      ],
+      [
+        "",
+        "S32950",
+        "Not specified",
+        "Not specified",
+        "Not required"
+      ],
+      [
+        "Martensltlc",
+        "S41000",
+        "2c 1200\u00b0F [650\u00b0C]",
+        "Not specified",
+        "Not specified"
+      ],
+      [
+        "",
+        "S41008",
+        ">1200\u00b0F [650\u00b0C]",
+        "In still air",
+        "Not specified"
+      ],
+      [
+        "",
+        "",
+        "",
+        "as appropriate",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "for grade",
+        ""
+      ],
+      [
+        "",
+        "S41500",
+        ";,, 1750 \u00b0F [955 \u00b0C]",
+        "Air cool to s; 200 \u00b0F",
+        "1050-1150 \u00b0F"
+      ],
+      [
+        "",
+        "",
+        "",
+        "[95 \u00b0C] prior to any",
+        "[565-620 \u00b0C]"
+      ]
+    ]
+  }
+]

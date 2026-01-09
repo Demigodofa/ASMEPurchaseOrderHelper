@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 553,
+  "globalPageIndex": 553,
+  "width": 602.64,
+  "height": 846.48,
+  "text": "ASME BPVC.II.A-2025 \nTABLE 7 \nIMPACT TEMPERATURE REDUCTION \nSpecimen Width Along Notch or Actual \nMaterial Thickness [Note (l)J \nInches Millimeters \n0.394 10 (standard size) \n0.354 9 \n0.315 8 \n0.295 7.5 <% standard size) \n0.276 7 \n0.262 6.6 7 <% standard size) \n0.236 6 \n0.197 5 <% standard size) \n0.158 4 \n0.131 3.33 <% standard size) \n0.118 3 \n0.099 2.5 <% standard size) \nNOTE: \n(1) Straight line interpolation for intermediate values is permitted. \n501 \nTemperature Reduction, \nDegrees Colder \nOF \n0 \n0 \n0 \n5 \n8 \n10 \n15 \n20 \n30 \n35 \n40 \n50 \nSA-334/SA-334M \noc \n0 \n0 \n0 \n3 \n4 \n5 \n8 \n11 \n17 \n19 \n22 \n28 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 1,
+  "tabulaTablesPath": "tables_tabula/page-0553.json",
+  "tabulaTablesCsv": "tables_tabula/page-0553.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0553.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 605,
+  "bestTextAlphaRatio": 0.476
+}

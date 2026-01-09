@@ -1,0 +1,131 @@
+ASME BPVC.II.A-2025 SA-691/SA-691M 
+TABLE 1 Plate Materials 
+Pipe Grade Type of Steel 
+CM-65 carbon-molybdenum steel 
+CM-70 carbon-molybdenum steel 
+CM-75 carbon-molybdenum steel 
+CMSH-70 carbon-manganese-silicon steel, normalized 
+CMS-75 carbon-manganese-silicon steel 
+CMSH-80 carbon-manganese-silicon steel, quenched and tempered 
+½ CR ½ % chromium, ½ % molybdenum steel 
+1CR 1 % chromium,½% molybdenum steel 
+1 ¼ CR 1 ¼ % chromium, ½ % molybdenum steel 
+2¼ CR 2¼ % chromium, 1 % molybdenum steel 
+3CR 3 % chromium, 1 % molybdenum steel 
+5CR 5 % chromium, ½ % molybdenum steel 
+9CR 9 % chromium, 1 % molybdenum steel 
+91 9 % chromium, 1 % molybdenum, vanadium, niobium 0 
+A Hardness values listed are applicable to S3. 
+ASTM Specification 
+Number Grade 
+A204/A204M 
+A204/A204M 
+A204/A204M 
+A537/A537M 
+A299/A299M 
+A537/A537M 
+A387/A387M 
+A387/A387M 
+A387/A387M 
+A387/A387M 
+A387/A387M 
+A387/A387M 
+A387/A387M 
+A387/A387M 
+A 
+B 
+C 
+1 
+2 
+2 
+12 
+11 
+22 
+21 
+5 
+9 
+91 8 
+HB, maxA 
+201 
+201 
+201 
+201 
+201 
+201 
+201 
+201 
+225 
+241 
+241 
+8 Grade 91 shall be designated by Type 1 or Type 2 when required by the prevalent specification. 
+°Element 41 has been identified as columbium or niobium. A01 considers them interchangeable and both acceptable. Subcommittee A01.09 has chosen to use niobium. 
+1.6 This international standard was developed in accor­
+dance with internationally recognized principles on standard­
+ization established in the Decision on Principles for the 
+Development of International Standards, Guides and Recom­
+mendations issued by the World Trade Organization Technical 
+Barriers to Trade (TBT) Committee. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+A20/ A20M Specification for General Requirements for Steel 
+Plates for Pressure Vessels 
+A204/A204M Specification for Pressure Vessel Plates, Alloy 
+Steel, Molybdenum 
+A299/A299M Specification for Pressure Vessel Plates, Car­
+bon Steel, Manganese-Silicon 
+A370 Test Methods and Definitions for Mechanical Testing 
+of Steel Products 
+A387/A387M Specification for Pressure Vessel Plates, Alloy 
+Steel, Chromium-Molybdenum 
+A435/A435M Specification for Straight-Beam Ultrasonic 
+Examination of Steel Plates 
+A530/A530M Specification for General Requirements for 
+Specialized Carbon and Alloy Steel Pipe 
+A537/A537M Specification for Pressure Vessel Plates, Heat­
+Treated, Carbon-Manganese-Silicon Steel 
+El65/El65M Practice for Liquid Penetrant Testing for Gen-
+eral Industry 
+E709 Guide for Magnetic Particle Testing 
+2.2 ASME Boiler and Pressure Vessel Code: 
+Section II 
+Section ill 
+Section Vill 
+Section IX 
+3. Terminology 
+3.1 Definitions of Terms Specific to This Standard: 
+3;1.1 A lot shall consist of 200 ft [60 m] or fraction thereof 
+of pipe from the same heat of steel. 
+3.1.1.1 The description of a lot may be further restricted by 
+use of Supplementary Requirement Sl2. 
+4. Ordering Information 
+4.1 The inquiry and order for material under this specifica­
+tion should include the following information: 
+4.1.1 Quantity (feet, metres, or number of lengths), 
+4.1.2 Name of the material (steel pipe, electric-fusion­
+welded), 
+4.1.3 Plate Specification number, including Grade and Type 
+if applicable, 
+4.1.4 Pipe Grade and class designations (see 1.3), 
+4.1.5 Size (inside or outside diameter, nominal or minimum 
+wall thickness), 
+4.1.6 Length (specific or random), 
+4.1. 7 End finish, 
+4.1.8 Purchase options, if any (see 5.2.3, 11.3, ll.4, 13.1), 
+and 
+4.1.9 Supplementary requirements, if any (refer to Sl 
+through Sl3). 
+5. Materials and Manufacture 
+5.1 Materials-The steel plate material shall conform to the 
+requirements of the applicable plate specification for the pipe 
+grade ordered as listed in Table 1. 
+5.2 Welding: 
+5.2.1 The joints shall be double-welded full-penetration 
+welds made in accordance with procedures and by welders or 
+welding operators qualified in accordance with the ASME 
+Boiler and Pressure Vessel Code, Section IX. 
+5.2.2 The welds shall be made either manually or automati­
+cally by an electric process involving the deposition of filler 
+metal. 
+5.2.3 The welded joints shall have positive reinforcement at 
+the center of each side of the weld, but no more than 1/s in. [3 
+1131 

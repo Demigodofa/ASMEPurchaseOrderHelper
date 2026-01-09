@@ -1,0 +1,21 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 269,
+  "globalPageIndex": 269,
+  "width": 597.72,
+  "height": 842.88,
+  "text": "ASME BPVC.II.A-2025 SA-182/SA-182M (ASTM A182/A182M} \nTABLE 2 Chemical RequirementsA \nGrade/ldenlifi- UNS Composition, % \ncation Desig- Carbon Manga- Phos- Sulfur Silicon Nickel Chromium Molybde- Niobium 8 Titan- Other \nSymbol nation nese phorus num ium Elements \nLowAllo Steels \nF 1 K12822 0.28 0.60-0.90 0.045 0.045 0.15-0.35 0.44-0.65 \nF 2\u00b0 K12122 0.05-0.21 0.30-0.80 0.040 0.040 0.10-0.60 0.50-0.81 0.44-0.65 \nF 5D K41545 0.15 0.30-0.60 0.030 0.030 0.50 0.50 4.0-6.0 0.44-0.65 \nF 5a 0 K42544 0.25 0.60 0.040 0.030 0.50 0.50 4.0-6.0 0.44-0.65 \nF9 K90941 0.15 0.30-0.60 0.030 0.030 0.50-1.00 8.0-10.0 0.90-1.10 \nF 10 S33100 0.10-0.20 0.50-0.80 0.040 0.030 1.00-1.40 19.0-22.0 7.0-9.0 \nF 91 Type 1 K90901 0.08-0.12 0.30-0.60 0.020 0.010 0.20-0.50 0.40 8.0-9.5 0.85-1.05 0.06-0.10 N 0.03-0.07 \nAl o.02E \nV 0.18-0.25 \nTi 0.01E \nzro.01E \nF 91 Type 2 K90901 0.08-0.12 0.30-0.50E 0.020E 0.005E 0.20-0.40E 0.20E 8.0-9.5E 0.85-1.05 0.06-0.10 0.01E N 0.035-0.070E \nAl 0.020E \nNIAi ratio, min \n4.0 \nV 0.18-0.25 \nZr o.01E \nB o.001E \nCu o.10E \nW 0.05E \nSn o.010E \nAs o,010E \nSb 0.003E \nF 92 K92460 0.07-0.13 0.30-0.60 0.020 0.010 0.50 0.40 8.50-9.50 0.30-0.60 0.04-0.09 V 0.15-0.25 \nN \n0.030-0.070 \nAl o.02E \nW 1.50-2.00 \nB \n0.001-0.006 \nTi 0.01E \nZr o.01E \nF 93 K91350 0.05-0.10 0.20-0.70 0.020 0.008 0.05-0.50 0.20 8.50-9.50 V 0.15-0.30 \nB 0.007-0.015 \nAl 0.030 \nW 2.5-3.5 \nCo 2.5-3.5 \nN 0.005-0.015 \nNb 0.05-0.12 \nNd 0.010-0.06 \n0 0.0050 \nF 115 K91060 0.08-0.13 0.20-0.50 0.020 0.005 0.15-0.45 0.25 10.0-11.0 0.40-0.60 0.02-0.06 0.01 V 0.18-0.25 \nB 0.001 \nCu 0.10 \nAl 0.02 \nW 0.05 \nN 0.030-0.070 \nZr0.01 \nAs 0.010 \nSn 0.010 \nSb 0.003 \nNIAi ratio 4.0 \nmin \nCNBP 10.5 \nF 122 K91271 0.07-0.14 0.70 0.020 0.010 0.50 0.50 10.00-11.50 0.25-0.60 0.04- V 0.15-0.30 \n0.10 B 0.005 \nN 0.040-0.100 \nAl 0.02E \nCu 0.30-1.70 \nW 1.50-2.50 \nTi 0.01E \nZr o.01E \nF 911 K91061 0.09-0.13 0.30-0.60 0.020 0.010 0.10-0.50 0.40 8.5-9.5 0.90-1.10 0.060-0.10 ... W 0.90-1.10 \nAl o.02E \nN 0.04-0.09 \nV 0.18-0.25 \nB 0.0003-\n0.006 \nTi 0.01E \nZr o.01E \nF 11 K11597 0.05-0.15 0.30-0.60 0.030 0.030 0.50-1.00 1.00-1.50 0.44-0.65 \nClass 1 \nF 11 K11572 0.10-0.20 0.30-0.80 0.040 0.040 0.50-1.00 1.00-1.50 0.44-0.65 \nClass 2 \n---\n217 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-0269.txt",
+  "ocrTextLength": 1965,
+  "ocrApplied": true,
+  "tabulaTablesPath": "tables_tabula/page-0269.json",
+  "tabulaTablesCsv": "tables_tabula/page-0269.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text\\pages\\page-0269.txt",
+  "bestTextSource": "full_ocr_highdpi",
+  "bestTextLength": 2291,
+  "bestTextAlphaRatio": 0.2
+}

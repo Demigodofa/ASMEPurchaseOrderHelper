@@ -1,0 +1,110 @@
+SA·788/SA-788M ASME BPVC.II.A-2025 
+S19.2.2 Four or more indications exceeding 1/26 in. [1.5 mm] 
+in major dimensions that are aligned and separated by 1/16 in. 
+[1.5 mm] or less end to end. 
+S19.2.3 Ten or more indications exceeding 1/16 in. [1.5 mm] 
+in major dimensions contained in any 6 in.2 [40 cm 2 ] of 
+• surface, with the major dimension in this area not to exceed 
+6 in. [150 mm]. The area shall be taken in the most unfavorable 
+location relative to the indications being evaluated. 
+S20. Ultrasonic Examination 
+S20.1 illtrasonic examination of forgings shall be carried 
+out in accordance with Practice A388/A388M. 
+S20.2 Unless otherwise agreed upon between the manufac­
+turer and the purchaser, acceptance levels BR or DA shall be 
+specified for the longitudinal wave examination and level S for 
+shear wave examination. 
+Level BR-Longitudinal Wave 
+. S20.2.1 The back reflection method of tuning shall be used 
+••• in accordance with Practice A388/A388M. 
+S20.2.2 In addition to the reportable conditions of the 
+Recording Section of Practice A388/A388M, indications ex­
+ceeding the resultant back reflection shall be recorded. 
+S20.2.3 The following conditions are subject to rejection, or 
+repair if applicable. 
+S20.2.3.1 Complete loss of back reflection accompanied by 
+an indication of a discontinuity. For this purpose, a back 
+reflection less than 5 % of full screen height shall be consid­
+ered complete loss of back reflection. 
+S20.2.3.2 An indication equal in amplitude to that of the 
+back reflection established in an indication-free portion of the 
+forging. 
+Level DA-Longitudinal Wave 
+S20.2.4 Reference blocks of acoustically similar metal shall 
+be used for calibration. Blocks shall meet one of the following 
+requirements: 
+S20.2.4.1 A comparison of the back reflections between 
+equivalent thicknesses of the reference block material and the 
+actual forging to be tested, without change in instrument 
+setting shall not show a variation in excess of 25 %. 
+S20.2.4.2 The reference blocks shall be manufactured from 
+steel that is similar in chemistry and processing history to the 
+production forging being tested. The reference blocks shall be 
+fabricated in accordance with the procedures of Practice E428. 
+S20.2.4.3 For test sections up to and including 12 in. 
+[300 mm] thick, the reference blocks shall contain a ¼ in. 
+[6 mm] diameter flat-bottom hole; for over 12 in. [300 mm] up 
+to and including 18 in. [300 to 450 mm], the hole diameter 
+shall be 3 /s in. [10 mm]; and for over 18 in. [450 mm], it shall 
+be ½ in. [13 mm]. 
+S20.2.4.4 A distance-amplitude correction curve shall be 
+established for the proper grade of steel and specified hole size. 
+S20.2.4.5 A forging containing one or more indications 
+equal in amplitude to that of the applicable reference hole, 
+when properly corrected for distance, is subject to rejection, or 
+repair if applicable. 
+Level S-Shear Wave 
+S20.2.5 Calibration notches, calibration reference, and 
+method of scanning shall be in accordance with Practice 
+A388/A388M. Unless otherwise agreed upon, a 60° V-notch 
+shall be used. 
+S20.2.6 A forging containing a discontinuity that results in 
+an indication exceeding the amplitude of the reference line is 
+subject to rejection. 
+S20.2.7 The report of the ultrasonic examination shall be in 
+compliance with Practice A388/A388M. 
+S20.2.8 Additional nondestructive examination or trepan­
+ning may be employed to resolve questions of interpretation of 
+ultrasonic indications. The manufacturer shall accept respon­
+sibility for injurious conditions that will not be removed in final 
+machining. 
+S21. Additional Test Coupon Heat Treatment 
+S21.1 When subcritical heat treatment, applied to a com­
+pleted forging during subsequent fabrication, may affect the 
+mechanical properties of the forging, then coupons for the 
+mechanical testing required by the product specification shall 
+be given a laboratory heat treatment, which simulates the 
+anticipated subcritical heat treatment. 
+S21.2 The purchaser shall specify the required heat treat­
+ment temperature range, minimum time at temperature, and the 
+rates of heating and cooling. 
+S21.3 The required number of test coupons shall be taken 
+from the forging location described in the product specifica­
+tion. 
+S21.4 The test specimens shall meet the minimum mechani­
+cal test requirements of the product specification, as well as 
+those of any additional tests agreed upon between producer and 
+purchaser, after completion of the test coupon heat treatment. 
+S21.5 The forgings supplied in accordance with this supple­
+mentary requirement shall be marked in accordance with 
+17.1.7. 
+S21.6 The material test reports shall include the heat treat­
+ment of the as-delivered material and the results of the 
+mechanical tests from the test coupons subjected to the 
+purchaser specified heat treatments that represent fabrication. 
+S22. Ultrasonic Examination from Bore Surface 
+S22.1 Bored cylindrical forgings shall be examined from the 
+bored surface in accordance with Practice A939/ A939M. The 
+acceptance criteria shall be agreed upon between the purchaser 
+and the producer. 
+S23. Magnetic Particle Examination Using AC Current 
+S23.1 The designated surfaces of ferromagnetic steel forg­
+ings shall be examined at the stage in machining specified by 
+the purchaser in accordance with Practice A966/ A966M. The 
+acceptance criteria for the examination shall be specified by the 
+purchaser. 
+S24. Jractor 
+S24.1 The Jfactor• calculated by means of the following 
+equation, shall be established for each heat of steel used in 
+forging manufacture: 
+1282 

@@ -1,0 +1,61 @@
+ASME BPVC.II.A-2025 SA-266/SA-266M
+—_ discard shall be made to secure freedom from injurious pipe § 8. Mechanical Properties
+( and undue segregation. | 8.1 General Requirements—Except when otherwise speci-
+4,2 The material shall be forged as close as practical to the fied in accordance with Supplementary Requirement S2, the
+specified shape and size. material shall conform to the requirements for mechanical
+4.3 The finished product shall be a hot-worked forging as properties prescribed in Table 2 when tested in accordance with
+defined by Specification A788/A788M. the latest issue of Test Methods and Definitions A370 or Test
+Methods A1058 when the M suffix standard has been specified.
+5. Machining The largest obtainable tension test specimen as specified in Test
+5.1 Surfaces shall be machined as designated by the pur- Methods and Definitions A370 or Test Methods A1058, as
+,; applicable, shall be used.
+chaser. Unmachined surfaces shall be sufficiently free of scale ; ; ; ;
+to permit inspection. 8.1.1 Except when otherwise specified in accordance with
+Supplementary Requirement $2, the longitudinal axis of the
+5.2 Machining may be performed either prior to or afterheat specimens shall be parallel to the direction of major working of
+treatment at the option of the manufacturer unless specified in _ the forging. For upset-disc forgings, the longitudinal axis of the
+a accordance with Supplementary Requirement S1. test specimen shall be in the tangential direction.
+8.1.1.1 The longitudinal axis of the specimen shall be
+6. Heat Treatment located midway between the parallel surfaces of the test
+6.1 After forging and before reheating for heat treatment, extension if added to the periphery of disks or midway between
+the forgings shall be cooled in such a manner as to prevent the center and surface of solid forgings. For hollow forgings, or
+injury and to accomplish transformation. those heat-treated after boring, the specimen shall be located at
+6.2 All forgings shall be annealed, normalized, or normal-  ™idwall. For the special case of forgings that are heat-treated
+ized and tempered, but alternatively may be liquid quenched solid, but are subsequently bored, the tension test specimen
+and tempered when mutually agreed upon between the manu- may be taken at the location of the minimum inside diameter
+facturer and the purchaser. When tempering is performed, it er boring instead of the mid-radius position. When sepa-
+shall be at a subcritical temperature, but no less than 1100°F _—‘Tately forged test blocks are employed as defined in 8.1.3, the
+[595 °C], tension test specimens shall be taken from a location that
+. represents the midwall of the heaviest section of the production
+6.3 A multiple stage austenitizing procedure may be used forgings. When specimens are required from opposite ends,
+whereby the forging is first fully austenitized and liquid they shall be taken from the diagonal corners of an axial plane.
+| quenched, followed by reheating within the intercritical tem- 8.1.2 Except as specified herein, tests for acceptance shall
+. perature range to partially reaustenitize, and again liquid he made after heat treatment has been completed. When the
+quenched. On completion of the austenitizing/quenching — ends of the cylindrical forgings are closed in by reforging, the
+cycles, tempering at a temperature between 1100 °F [595 °C] cyiindrical forgings may be annealed, normalized, or normal-
+and the lower critical temperature shall follow. ized and tempered and tested prior to reforging. After
+Note 2—Although liquid quenching from the austenitizing tempera- reforging, the entire forging shall be reheat-treated in the same
+tures is more effective in enhancing impact properties, air cooling from the manner and at the same temperature range as employed when
+austenitizing temperatures is also beneficial and may be used instead of the forging was heat-treated prior to certification testing.
+the normalizing procedure in 6.2. 8.1.3 When mutually agreed upon between manufacturer
+7. Chemical Composition , and purchaser, test specimens may be machined from a
+, specially forged block suitably worked and heat-treated with
+Tl Heat Analysis—The heat analysis obtained from sam- jp, production forgings. Such a special block shall be obtained
+pling in accordance with Specification AT88/ A788M_ shall from an ingot, slab, or billet from the same heat used to make
+comply with Table | except that the additional features of the forgings it represents. This block shall receive essentially
+Supplementary Requirements sil and S12 shall also apply as the same type of hot working and forging reduction as the
+— individually specified in the ordering information. production forgings; however, a longitudinally forged bar with
+7.2 Product Analysis—The purchaser may use the product — dimensions not less than T by T by 37 may be used to represent
+analysis provision of Specification A788/A788M to obtain a a ring forging. The dimension T shall be representative of the
+product analysis from a forging representing each heat or heaviest effective cross section of the forging. For quenched
+multiple heat.
+) TABLE 2 Tensile Requirements
+TABLE 1 Chemical Requirements Grade 4 lane Grade 3
+Composition, % eee
+—_— SN OOOO Tensile strength, min, ksi [MPa] 60-85 70-95 75-100
+Grades 1 and 2 Grade 3 Grade 4 [415-585] [485-655] [515-690]
+Carbon, max 0.30 0.35 0.30 Yield strength (0.2 % offset), 30 [205] 36 [250] 37.5 [260]
+Manganese 0.40—-1.05 0.80—1.35 0.80—-1.35 min, ksi [MPa]
+Phosphorus, max 0.025 0.025 0.025 Elongation in 2 in. [62.5 mm], 23 [21] 20 [18] 19 [17]
+Sulfur, max 0.025 0.025 0.025 min, %
+395

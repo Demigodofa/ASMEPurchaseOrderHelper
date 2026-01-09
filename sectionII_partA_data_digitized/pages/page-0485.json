@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 485,
+  "globalPageIndex": 485,
+  "width": 602.64,
+  "height": 846.48,
+  "text": "ASME BPVC.II.A-2025 SA-299/SA-299M \nTABLE 1 Chemical Requirements \nElements \nCarbon, max:A \n1 in. [25 mm] and under \nGrade A \nGrade B \nOver 1 in. [25 mm] \nGrade A \nGrade B \nManganese: \n1 in. [25 mm] and under \nHeat analysis \nProduct analysis \nOver 1 in. [25 mm] \nHeat analysis \nProduct analysis \nPhosphorus, maxA \nSulfur, maxA \nSilicon: \nHeat analysis \nProduct analysis \n. A Applies to both heat and product analyses. \n5. Heat Treatment \n0.26 \n0.28 \n0.28 \n0.30 \nComposition, % \n0.90 to 1.40 \n0.84 to 1.52 \n0.90 to 1.50 \n0.84 to 1.62 \n0.025 \n0.025 \u2022 \n0.15 to 0.40 \n0.13 to 0.45 \n5 .1 Plates 2 in. [ 50 mm] and under in thickness are normally \nsupplied in the as-rolled condition. Plates may be ordered \nnormalized or stress relieved, or both. \n5.2 Plates over 2 in. [50 mm] in thickness shall be normal\u00ad\nized. \nTABLE 2 Tensile Requirements \nTensile strength, ksi [MPa] \nYield strength, min,A ksi [MPa]: \n1 in. [25 mm] and under \nOver 1 in. [25 mm] \nElongation in 8 in. [200 mm], min, % 8 \nElongation in 2 in. [50 mm], min, % 8 \nGrade A \n75-95 [515-655] \n42 [290] \n40 [275] \n16 \n19 \nGrade B \n80-100 [550-690] \n47 [325] \n45 [310] \n16 \n19 \nA Determined by either the 0.2 % offset method or the 0.5 % extension-under-load \nmethod. \n8 See the Elongation Requirement Adjustments subsection in the Tension Tests \nsection of Specification A20/A20M. \n6. Chemical Composition \n6.1 The steel shall conform to the requirements given in \nTable 1. \n7. Mechanical Properties \n7 .1 Tension Test Requirements-The plates, as represented \nby the tension test specimens, shall conform to the require\u00ad\nments given in Table 2. \n8. Keywords \n8.1 carbon steel plate; pressure containing parts; pressure \nvessel steels; steel plates; steel plates for pressure vessel \napplications \nSUPPLEMENTARY REQUIREMENTS \nSupplementary requirements shall not apply unless specified in the purchase order. \nA list of standardized supplementary requirements for use at the option of the purchaser is included \nin Specification A20/ A20M. Those that are considered suitable for use with this specification are listed \nbelow by title. \nS 1. Vacuum Treatment, \nS2. Product Analysis, \nS3. Simulated Post-Weld Heat Treatment of Mechanical \nTest Coupons, \nS4. Additional Tension Test, \nS5. Charpy V-Notch Impact Test, \nS6. Drop Weight Test (for Material 0.625 in. [16 mm] and \nover in Thickness), \nS7. High-Temperature Tension Test, \nS8. Ultrasonic Examination in accordance with Specifica\u00ad\ntion A435/A435M, \nS9. Magnetic Particle Examination, \nSll. Ultrasonic Examination in accordance with Specifica\u00ad\ntion A577 / A577M, \nS 12. Ultrasonic Examination in accordance with Specifica\u00ad\ntion A578/A578M. \n433 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0485.json",
+  "tabulaTablesCsv": "tables_tabula/page-0485.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0485.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2658,
+  "bestTextAlphaRatio": 0.6625
+}

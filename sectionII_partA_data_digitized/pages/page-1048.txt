@@ -1,0 +1,89 @@
+SA-556/SA-556M (ASTM A556/A556M) ASME BPVC.II.A-2025 
+the dimensional requirements and does not cause triggering of 
+ultrasonic alarm system upon retesting shall be considered as 
+having met the requirements of this supplement. 
+S2. Nondestructive Ultrasonic Test-Round Tubing (Select 
+Commercial Grade) 
+S2.1 The manufacturer shall test the tubing using the 
+procedure outlined in Supplementary Requirement Sl, except 
+for the notch depth, which shall be 5 % of wall thickness in 
+depth but not less than 0.004 in. [0.10 mm]. Tolerance on depth 
+shall be +0.000 in. or -0.0005 in. [0.01 mm]. 
+S3. Nondestructive Eddy-Current Test 
+S3.1 Each tube shall be tested after the finish heat treatment 
+following the final cold-draw pass by passing through an 
+electric nondestructive tester capable of detecting defects on 
+the entire cross section of the tube. Suitable instrumentation 
+shall be used to clearly distinguish aiiificial defects or refer­
+ence notches. Tubes to be tested shall be reasonably straight 
+and the outside and inside diameter surfaces shall be free of 
+loose scale, metallic particles, or other material which would 
+tend to restrict signals or create electlical noise. The tubing 
+shall be inspected by feeding longitudinally through an inspec­
+tion coil or coils of a diameter suitable for the diameter of 
+tubing to be inspected. The instrument calibration shall be 
+accomplished with a reference standard prepared from an 
+appropriate length of selected tubing of the same size, grade, 
+and physical condition as the material to be inspected. The 
+standard shall be fed through the coil at the same speed at 
+which the inspection of the tubing is performed. The following 
+factors shall be selected or adjusted, or both, in accordance 
+with the instrument manufacturer's instructions for the paiiicu­
+lar instrument involved as required to achieve optimum instru­
+ment distinction between the reference defects and plain 
+portion of the tube. These as well as other factors involved 
+shall not be used in such a manner that they detract from the 
+instrument's overall ability to detect injurious defects: 
+S3 .1.1 Test frequency, 
+S3.l.2 Direct-current saturation level, 
+S3. l.3 Filter networks, 
+S3.l.4 Phase analysis circuits, 
+S3.l.5 Coil diameter, and 
+S3.l.6 Instrument gain. 
+S3.2 The reference standard shall contain longitudinal and 
+circumferential notches in the outside diameter and shall be 
+used to establish the rejection level for the tubing to be tested. 
+Inside diameter notches, both longitudinal and circumferential, 
+shall also be a part of the reference standard. These notches 
+may be larger than outside diameter notches and ai·e intended 
+for use only to assure instrument phase settings capable of 
+yielding optimum inside diameter surface sensitivity. The 
+outside diameter reference notches shall have a depth equal to 
+10 % of the wall thickness. The tolerance of the notch shall be 
+±8 % or 0.0005 in. [0.01 mm], whichever is greater. Width of 
+notch shall not exceed twice the depth. The length of the 
+reference notches shall not exceed 0.375 in. [9.5 mm]. All 
+tubing including that which may be reconditioned, provided 
+the dimensional or other properties of the tubing are not 
+adversely affected and provided the tubing does not show 
+indications above the level determined by the outside diameter 
+references, shall meet this specification provided the instru­
+ment calibration is verified by indicating the standard outside 
+diameter reference notches of a given lot. Tubes generating a 
+signal above the calibration standard sensitivity level shall be 
+rejected. Tubes may be reconditioned if not adversely affecting 
+the dimensional or other properties of the tube and so tested as 
+to assure a satisfactory tube within the limits of this specifica­
+tion. All tubing shall be demagnetized after inspection has been 
+completed. 
+SUMMARY OF CHANGES 
+Committee _AQ 1 _h_as. identified 1he la.cation_ oLselected changes-to-this specifiGati0n sin Ge the-last-issae­
+(A556/ A556M - 96 (2012)) that may impact the use of this standard. (Approved Sept. 1, 2018.) 
+(1) Substituted Test Methods A751 for obsolete Test Methods 
+E30. 
+(2) Changed hardness test indenter designation and reporting 
+style. 
+ASTM International takes no position respecting the validity of any patent rights asserted in connection with any item mentioned 
+in this standard. Users of this standard are expressly advised that determination of the validity of any such patent rights, and the risk 
+of infringement of such rights, are entirely their own responsibility. 
+This standard is subject to revision at any time by the responsible technical committee and must be reviewed every five years and 
+if not revised, either reapproved or withdrawn. Your comments are invited either for revision of this standard or for additional standards 
+and should be addressed to ASTM International Headquarters. Your comments will receive careful consideration at a meeting of the 
+responsible technical committee, which you may attend. If you feel that your comments have not received a fair hearing you should 
+make your views known to the ASTM Committee on Standards, at the address shown below. 
+This standard is copyrighted by ASTN/ International, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428-2959, 
+United States. Individual reprints (single or multiple copies) of this standard may be obtained by contacting ASTM at the above 
+address or at 610-832-9585 (phone}, 610-832-9555 (fax}, or service@astm.org (e-mail}; or through the ASTM website 
+(www.astm.org). Permission rights to photocopy the standard may also be secured from the Copyright Clearance Center, 222 
+Rosewood Drive, Danvers, MA 01923, Tel: (978) 646-2600; http://www.copyright.com/ 
+948 

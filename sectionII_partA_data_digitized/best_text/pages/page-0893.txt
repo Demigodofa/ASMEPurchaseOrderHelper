@@ -1,0 +1,117 @@
+ASME BPVC.II.A-2025 SA-480/SA-480M (ASTM A480/A480M) 
+another through the furnace. Interspersement of different melts is permis­
+sible if they are of approximately the same nominal thickness and are heat 
+treated in the same operating period and under the same conditions ( time 
+and temperature). 
+16.1.3 One intergranular corrosion test, when required, shall 
+be selected from each heat and thickness subjected to the same 
+heat treatment practice. It is permitted to obtain such speci­
+mens from specimens selected for mechanical testing. 
+17. Test Specimens 
+17.1 Tension Test: 
+17 .1.1 Tension test specimens shall be taken from finished 
+material and shall be selected in either or both longitudinal and 
+transverse direction. The tension test specimen shall conform 
+to the appropriate sections of Test Methods and Definitions 
+A370, unless otherwise specified in the applicable material 
+specification or agreed upon by the seller and the purchaser. 
+17 .1.2 The testing speed between the yield strength and the 
+fracture of the specimen, shall be conducted at a constant strain 
+rate between 1/s in. and ½ in. [3.18 mm and 12.70 mm] 
+inclusive, per in. [25.40 mm] of gauge length per minute, or at 
+a crosshead speed that will give a strain rate within this range. 
+For the purposes of this specification, the rate of strain shall be 
+determined by a strain-rate pacer, indicator, or controller, or by 
+dividing the unit elongation by the elapsed time from yield 
+strength to fracture. 
+17.2 Hardness Test-It is permitted to perform hardness 
+tests on the grip ends of the tension specimens before they are 
+subjected to the tension test. 
+17.2.1 Unless otherwise specified in the purchase order, the 
+manufacturer may use an alternate hardness test procedure 
+when material size or form dictates. Hardness conversion shall 
+be done using the applicable tables in Test Methods and 
+Definitions A370. When the material is too thin to allow 
+hardness testing using any of the Rockwell superficial hardness 
+tests, the hardness requirement is waived. 
+17.3 Bend Test: 
+17.3,1 Bend test specimens (when required) shall be taken 
+from finished material and shall be selected in the transverse 
+direction or as indicated in the applicable material specification 
+or as agreed upon by the seller and the purchaser. In the case 
+of transverse bend test specimens, the axis of bend shall be 
+parallel to the direction of rolling. 
+17.3.2 Bend test specimens from sheet and strip product 
+shall be the full thickness of the material and approximately 
+1 in. [25.4 mm] in width. It is permitted to round the edges of 
+the test specimen to a radius equal to one half the specimen 
+thickness. 
+17.3.3 The width of strip for which bend tests can be made 
+is subject to practical limitations on the length of the bend test 
+specimen. For narrow strip, the following widths can be tested: 
+Minimum Strip Width 
+Strip Thickness, in. [mm] and Minimum Specimen Length for 
+Bend Tests, in. [mm] 
+0.100 [2.5] and under ½ [12.7] 
+Over 0.100 to 0.140 [2.5 to 3.5], excl 1 [25.4] 
+0.140 [3.5] and over 1 ½ [38.1] 
+Bend test specimens shall be of any suitable length over the 
+specified minimum length. 
+17.3.4 Bend test specimens taken from plates shall be in full 
+thickness of the material up to and including ½ in. [12.7 mm] 
+in thickness, of suitable length, and between 1 in. and 2 in. 
+[25.4 mm and 50.8 mm] in width. It is permitted to remove the 
+sheared edges to a depth of at least 1/s in. [3.2 mm] and it is 
+permitted to smooth the sides with a file. It is permitted to 
+break the corners of the cross section of the specimen with a 
+file, but no appreciable rounding of the corners is permitted. 
+17.3.5 In the case of plates over ½in. [12.7 mm] in 
+thickness, it is permitted to use bend test specimens, machined 
+to 1 in. [25.4 mm] nominal width by½ in. [12.7 mm] nominal 
+thickness and at least 6 in. [152.4 mm] in length. One surface, 
+to be the outside surface in bending, shall be the original 
+surface of the plate; however, surface preparation by light 
+grinding is permitted. It is permitted to round the edges to a 
+1/16 in. [1.6 mm] radius. When agreed by the seller and the 
+purchaser, it is permitted to modify the cross section to ½ in. 
+[12.7 mm] nominal square. 
+17.3.6 In the case of plates over 1 in. [25.4 mm] in 
+thickness, bend tests must be agreed upon between the seller 
+and the purchaser. 
+17.3.7 The bend test specimen shall withstand cold bending 
+through the angle specified in the applicable material specifi­
+cation without cracking on the outside of the bent portion. 
+17.4 The bend shall be made over a diameter equal to the 
+number of thicknesses of flat stock shown in the applicable 
+material specification or over a single piece of flat stock equal 
+to the number of thicknesses shown in the applicable material 
+specification; or as follows: 
+17.4.1 Material up to and including 3/s in. [9.5 mm] in 
+thickness shall be bent over a piece ( or pieces) of flat stock that 
+has the same nominal thickness of the material being tested 
+(1 T), allowing the test material to form its natural curvature. 
+17.4.2 Material over 3 /s in. [9.5 mm] and up to and including 
+1 in. [25.4 mm] in thickness shall be bent over a piece (or 
+pieces) of flat stock equalling two times the thickness of the 
+material being tested (2T), allowing the test material to form its 
+natural curvature. 
+18. Special Tests 
+18.1 If other tests are required, the methods and acceptance 
+criteria shall be agreed upon between the seller and the 
+purchaser and specified on the purchase order. 
+791 
+18.2 Resistance to Intergranular Corrosion: 
+18.2.1 The intergranular corrosion test, Practice E of Prac­
+tices A262, is not required unless it is specified on the purchase 
+order. All austenitic chromium-nickel types except the H types 
+are expected to be capable of passing this test. However, it is 
+not necessary to actually run the test unless it is specified on the 
+purchase order. Note that Practices A262 requires the test to be 
+performed on sensitized specimens in the low-carbon and 
+stabilized types and on specimens representative of the as­
+shipped condition for other types. In the case of low-carbon 
+types containing 3 % or more molybdenum in their specified 
+composition, the applicability of the sensitizing treatment prior 
+to testing shall be a matter for negotiation between the . seller 
+and the purchaser. When specified, all flat rolled products of 
+the chromium-nickel series (300 series) in thickness up to and 

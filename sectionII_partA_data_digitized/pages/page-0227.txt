@@ -1,0 +1,108 @@
+ASME BPVC.II.A-2025 SA-106/SA-106M 
+19.1.1 NPS l½ [DN 40] and Smaller-All walls shall be 
+either plain-end square cut, or plain-end beveled at the option 
+of the manufacturer. 
+19.1.2 NPS 2 [DN 50] and Larger-Walls through extra 
+strong weights, shall be plain-end-beveled. 
+19.1.3 NPS 2 [DN 50] and Larger-Walls over extra strong 
+weights, shall be plain-end square cut. 
+19.2 Plain-end beveled pipe shall be plain-end pipe having 
+a bevel angle of 30°, + 5° or - 0°, as measured from a line 
+drawn perpendicular to the axis of the pipe with a root face of 
+1/16 ± 1/32 in. [1.6 ± 0.8 mm]. Other bevel angles may be 
+specified by agreement between the purchaser and the manu­
+facturer. 
+20. Sampling 
+20.1 For product analysis (see 9.1) and tensile tests (see 
+21.1), a lot is the number of lengths of the same size and wall 
+thickness from any one heat of steel; of 400 lengths or fraction 
+thereof, of each size up to, but not including, NPS 6 [DN 150]; 
+and of 200 lengths or fraction thereof of each size NPS 6 [DN 
+150] and over. 
+20.2 For bend tests (see 21.2), a lot is the number of lengths 
+of the same size and wall thickness from any one heat of steel, 
+of 400 lengths or fraction thereof, of each size. 
+20.3 For flattening tests, a lot is the number of lengths of the 
+same size and wall thickness from any one heat of steel, of 400 
+lengths or fraction thereof of each size over NPS 2 [DN 50], up 
+to but not including NPS 6 [DN 150], and of 200 lengths or 
+fraction thereof, of each size NPS 6 [DN 150] and over. 
+21. Number of Tests 
+21.1 The tensile requirements specified in Section 10 shall 
+be determined on one length of pipe from each lot (see 20.1). 
+21.2 For pipe NPS 2 [DN 50] and under, the bend test 
+specified in 11.1 shall be made on one pipe from each lot ( see 
+20.2). The bend test, where used as required by 11.2, shall be 
+made on one end of 5 % of the pipe from each lot. For small 
+lots, at least one pipe shall be tested. 
+21.3 If any test specimen shows flaws or defective 
+machining, it shall be permissible to discard it and substitute 
+another test specimen. 
+22. Retests 
+22.1 If the percentage of· elongation of any tension test 
+specimen is less than that given in Table 1 and any part of the 
+fracture is more than ¾ in. [19 mm] from the center of the 
+gauge length of a 2-in. [50-mm] specimen as indicated by 
+scribe scratches marked on the specimen before testing, a retest 
+shall be allowed. If a specimen breaks in an inside or outside 
+surface flaw, a retest shall be allowed. 
+23. Test Specimens and Test Methods 
+23.1 On NPS 8 [DN 200] and larger, specimens cut either 
+longitudinally or transversely shall be acceptable for the 
+tension test. On sizes smaller than NPS 8 [DN 200], the 
+longitudinal test only shall be used. 
+23.2 When round tension test specimens are used for pipe 
+wall thicknesses over 1.0 in. [25.4 mm], the mid-length of the 
+longitudinal axis of such test specimens shall be from a 
+location midway between the inside and outside surfaces of the 
+pipe. 
+23 .3 Test specimens for the bend test specified in Section 11 
+and for the flattening tests shall consist of sections cut from a 
+pipe. Specimens for flattening tests shall be smooth on the ends 
+and free from burrs, except when made on crop ends. 
+23.4 Test specimens for the bend test specified in 11.2 shall 
+be cut from one end of the pipe and, unless otherwise specified, 
+shall be taken in a transverse direction. One test specimen shall 
+be taken as close to the outer surface as possible and another 
+from as close to the inner surface as possible. The specimens 
+shall be either½ by½ in. [12.5 by 12.5 mm] in section or 1 by 
+½ in. [25 by 12.5 mm] in section with the corners rounded to 
+a radius not over 1/16 in. [1.6 mm] and need not exceed 6 in. 
+[150 mm] in length. The side of the samples placed in tension 
+during the bend shall be the side closest to the inner and outer 
+surface of the pipe respectively. 
+23.5 All routine check tests shall be made at room tempera­
+ture. 
+23.6 All tests shall be performed after the heat treatments 
+permitted by 5.1 or required by 5.2. 
+24. Certification 
+24.1 In the required test report(s), in addition to the require­
+ments of Specification A530/A530M, the producer or supplier 
+shall furnish to the purchaser a chemical analysis report for the 
+elements specified in Table 1. 
+25. Product Marking 
+25.1 In addition to the marking prescribed in Specification 
+A530/A530M, the marking shall include heat number, the 
+information as per Table 4, an additional symbol "S" if one or 
+more of the supplementary requirements apply; the length, OD 
+1 %, if ordered as special outside diameter tolerance pipe; ID 
+1 %, if ordered as special inside diameter tolerance pipe; the 
+schedule number, weight class, or nominal wall thickness; and, 
+for sizes larger than NPS 4 [DN 100], the weight. Length shall 
+be marked in feet and tenths of a foot [metres to two decimal 
+places], depending on the units to which the material was 
+ordered, or other marking subject to agreement. For sizes NPS 
+1 ½, 1 ¼, 1, and¾ [DN 40, 32, 25, and 20], each length shall 
+be marked as prescribed in Specification A530/A530M. These 
+sizes shall be bundled in accordance with standard mill practice 
+and the total bundle footage marked on the bundle tag; 
+individual lengths of pipe need not be marked with footage. 
+For sizes less than NPS % [DN 20], all the required markings 
+shall be on the bundle tag or on each length of pipe and shall 
+TABLE 4 Marking 
+Hydro NDE Marking 
+Yes No Test Pressure 
+No Yes NDE 
+No No NH 
+Yes Yes Test Pressure/NOE 
+175 

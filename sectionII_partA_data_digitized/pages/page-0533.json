@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 533,
+  "globalPageIndex": 533,
+  "width": 607.56,
+  "height": 850.08,
+  "text": "ASME BPVC.II.A-2025 SA-325 \nS1. Bolts Threaded Full Length \nSI. I Bolts with nominal lengths equal to or shorter than \nfour times the nominal bolt diameter shall be threaded full \nlength. Bolts need not have a shoulder, and the distance from \nthe underhead bearing surface to the first complete (full form) \nthread, as measured with a GO thread ring gage, assembled by \nhand as far as the thread will permit, shall not exceed the length \nof 2\u00bd threads for bolt sizes 1 in. and smaller, and 3V2 threads \nfor bolt sizes larger than 1 in. \nSl.2 Bolts shall be marked in accordance with Section 15, \nexcept that the symbol shall be \" A325 T\" instead of \"A325.\" \n481 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-0533.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 662,
+  "bestTextAlphaRatio": 0.7311
+}

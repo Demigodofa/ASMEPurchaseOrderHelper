@@ -1,0 +1,128 @@
+ASME BPVC.II.A-2025 
+TABLE 3 
+TENSILE REQUIREMENTS 
+Tensile Strength, min 
+Yield Strength, min 
+Elongation in 2 in. or 50 mm (or 4D), 
+min,%: 
+Basic minimum elongation for walls 5 / 16 
+in. [8 mmJ and over in thickness, strip 
+tests, and for all small sizes tested in 
+full section 
+When standard round 2 in. or 50 mm 
+gage length or proportionally smaller 
+size specimen with the gage length 
+equal to 4D (4 times the diameter) 
+is used 
+Grade 1 
+ksi MPa 
+55 380 
+30 205 
+35 
+28 
+For strip tests, a deduction for each 1 / 32 1.75 
+in. [0.8 mm] decrease in wall thick- [Note (2)] 
+ness below 5 / 16 in. [8 mm] from the 
+basic minimum elongation of the fol-
+lowing percentage points 
+NOTES: 
+Grade 3 
+ksi MPa 
+65 450 
+35 240 
+30 
+22 
+1.50 
+[Note (2)] 
+Grade 6 
+ksi MPa 
+60 415 
+35 240 
+30 
+22 
+1.50 
+[Note (2)J 
+(1) Elongation of Grade 11 is for all walls and for small sizes tested in full section. 
+(2) The following table gives the calculated minimum values: 
+Grade 7 
+ksi MPa 
+65 450 
+35 240 
+30 
+22 
+1.50 
+[Note (2)J 
+Grade 8 
+ksi MPa 
+100 690 
+75 520 
+22 
+16 
+1.25 
+[Note (2)J 
+Wall Thickness Elongation in 2 in. or 50 mm, min % [Note (l)J 
+in. mm Grade 1 Grade 3 Grade 6 Grade 7 
+5 /16 (0.312) 8 35 30 30 30 
+%2 (0.281) 7.2 33 28 28 28 
+1/4 (0.250) 6.4 32 27 27 27 
+7 /32 (0.219) 5.6 30 26 26 26 
+3/16 (0.188) 4.8 28 24 24 24 
+%2 (0.156) 4 26 22 22 22 
+11s (0.125) 3.2 25 21 21 21 
+%2 (0.094) 2.4 23 20 20 20 
+1/16 (0.062) 1.6 21 18 18 18 
+NOTE: 
+(1) Calculated elongation requirements shall be rounded to the nearest whole number. 
+SA-334/SA-334M 
+Grade 9 
+ksi MPa 
+63 435 
+46 315 
+28 
+1.50 
+[Note (2)] 
+Grade 8 
+22 
+21 
+20 
+18 
+17 
+16 
+15 
+13 
+12 
+Grade 11 
+ksi MPa 
+65 450 
+35 240 
+18 [Note (l)J 
+Grade 9 
+28 
+26 
+25 
+24 
+22 
+20 
+19 
+18 
+16 
+NOTE: The above table gives the computed minimum elongation values for each 1 / 32 in. [0.8 mmJ decrease in wall thickness. Where the wall 
+thickness lies between two values shown above, the minimum elongation value is determined by the following equations. 
+Grade 
+1 
+3 
+6 
+7 
+8 
+9 
+where: 
+Equation [Note (3)J 
+E= 56t+l7.50[E= 2.19t+l7.50J 
+E = 48t + 15.00 [£ = l.87t + 15.00J 
+E = 48t + 15.00 [£ = l.87t + 15.00J 
+E = 48t + 15.00 [£ = l.87t + 15.00J 
+E = 40t + 9.50 [E = 1.56t + 9.50] 
+E = 48t + 13.00 [E = 1.87t + 13.00J 
+E = elongation in 2 in. or 50 mm, %, and 
+t = actual thickness of specimen, in. [mm J. 
+499 

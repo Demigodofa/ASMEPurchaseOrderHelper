@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 101,
+  "globalPageIndex": 899,
+  "width": 618.6,
+  "height": 796.8,
+  "text": "ASME BPVC.II.A-2025 SA-480/SA-480M (ASTM A480/A480M} \nTABLE A2.13 Permitted Variations in Thickness of Hot-rolled, Wide, Coil-processed Product as Coil and Cut Lengths \nSpecified Thickness,A in. [mm] \n0.072 [1.83] \n>0.072 to 0.083 [1.83 to 2.11] \n>0.083 to 0.098 [2.11 to 2.49] \n>0.098 to 0.114 [2.49 to 2.90] \n>0.114 to 0.130 [2.90 to 3.30] \n>0.130 to 0.145 [3.30 to 3.68] \n>0.145 to 0.1875 [3.68 to 4.76] \n>0.1875 to 0.250 [4. 76 to 6.35] \n>0.250 to 0.3125 [6.35 to 7.94] \n>0.3125 [7.94] \nPermitted Variations, in. [mm], Over and Under, \nExcept as Indicated Otherwise, for Specified Width (w) in. [mm] \nw:,; 60 [1525) w > 60 [1525] \n0.006 [0.15] 0.009 [0.22] \n0.007 [0.18] 0.010 [0.25] \n0.008 [0.20] 0.011 [0.27] \n0.009 [0.23] 0.012 [0.30] \n0.011 [0.27] 0.013 [0.33] \n0.012 [0.30] 0.013 [0.33] \n0.013 [0.33] 0.014 [0.35] \n-0.010 [0.25], +0.020 [0.50] -0.010 [0.25], +0.020 [0.50] \n-0.010 [0.25], +0.022 [0.55] -0.010 [0.25], +0.022 [0.55] \n-0.010 [0.25], +0.030 [0.75] -0.010 [0.25], +0.030 [0.75] \nA Thickness measurements are taken at least % in. [9.52 mm] from the edge of the sheet. \nTABLE A2.14 Permitted Variations in Width of Hot-rolled, Wide, \nCoil-processed Product as Cut Lengths (Not Resquared) and Coil \nSpecified Thickness, \nt, in. [mm] \n\u00b71 < 3 /10 [4.76] \n3/16 [4.76] :,; t < % [9.5] \n/;a,: 3/a [9.5] \nWidth (w), \nin. [mm] \nw < 48 [1219] \nW\"\" 48 [1219] \nw < 48 [1219] \nW\"\" 48 [1219] \nW< 48 [1219] \nw;e,, 48 [1219] \nTolerances on Width, in. \n[mm], for Trimmed Edges \n+1/ia [1.59], -0 \n+ \u00bc [6.35], -0 \n+%2 [3.97], -0 \n+% [9.5], -0 \n+\u00bc [6.35], -0 \n+7/16 [11.1], -0 \nTABLE A2.15 Permitted Variations in Length of Hot-rolled, Wide, \nCoil-processed Product as Cut Lengths Not Resquared \nSpecified \nThickness, \nt, in. [mm] \nt < 3/16 [4.76] \nt \"\" 3 /16 [4.76] \nLength (L), ft [mm] \nL:,; 10 [3048] \n10 [3048] < L :,; 20 [6096] \nL:,; 10 [3048] \n10 [3048] < L :,; 20 [6096] \n799 \nTolerances, in. [mm], \nOver and Under \n+\u00bc [6.35], -0 \n\u00bd [12.7], -0 \n+\u00bd [12.7], -0 \n+% [15.9], -0 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0899.json",
+  "tabulaTablesCsv": "tables_tabula/page-0899.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0899.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1982,
+  "bestTextAlphaRatio": 0.329
+}

@@ -1,0 +1,117 @@
+ASME BPVC.II.A-2025 
+(25) 
+MANDATORY APPENDIX II 
+ASME MATERIAL SPECIFICATIONS 
+11-100 GENERAL 
+ASME material specifications are derived from pub­
+lished standards of standard development organizations 
+(herein referred to as source standards). If it is deter­
+mined that a particular source standard can be of use 
+for BPVC purposes, then it is modified as necessary to 
+conform to BPVC requirements, and subsequently pub­
+lished in Section II as an ASME material specification. A 
+list of all ASME material specifications is in the "Specifica­
+tion" column of Tables 11-200-1 and 11-200-2. 
+11-200 SOURCE STANDARDS 
+The source standard from which an ASME material 
+specification was derived is part of the specification's des­
+ignation, as shown below. 
+ASME Material 
+Specification Designation 
+SA-217 /SA-217M 
+SA/AS-1548 
+SA/CSA-G40.21 
+SB-166 
+SF-568M 
+SA/EN 10028-2 
+SA/GB 713 
+SA/IS 2062 
+SA/JlS G3118 
+Source Standard 
+ASTM A217 /A217M 
+AS 1548 
+CSA G40.21 
+ASTM B166 
+ASTM F568M 
+EN 10028-2 
+GB 713 
+IS 2062 
+JSA-JIS G 3118 
+Standards Organization 
+ASTM International 
+Standards Australia 
+CSA Group 
+ASTM International 
+ASTM International 
+European Committee for 
+Standardization 
+Standardization 
+Administration of China 
+Bureau of Indian Standards 
+Japanese Industrial 
+Standards 
+The "Latest Adopted" column of Tables 11-200-1 and 
+11-200-2 states which edition (revision) of the source 
+standard is the framework for the current ASME material 
+specification. The "Description" column explains any 
+changes made to the source standard when it was 
+adopted as an ASME material specification. 
+11-300 PERMISSIBILITY OF SUPERSEDED 
+EDITIONS FOR ASME CONSTRUCTION 
+At times, the publishing organization will update its 
+standard and supersede the previous edition. When this 
+occurs, the BPVC II committee may choose to evaluate 
+the update and adopt it as the framework for the ASME 
+material specification. 
+The Section II committee may also choose to continue 
+to allow for Code construction a previously accepted 
+but now superseded edition. If allowed, the Statement 
+of Policy on the Use of ASME Material Specifications is in­
+voked and caveats listed in the "Description" column shall 
+be met. Any superseded editions permitted are refer­
+enced in the column "All Acceptable Editions" of Tables 
+11-200-1 and 11-200-2. 
+If no superseded editions are currently permitted for 
+use, then ellipses ( ... ) will appear in the "All Acceptable 
+Editions" column. 
+11-400 STRUCTURE OF ASME MATERIAL 
+SPECIFICATIONS 
+This paragraph gives examples of deciphering from 
+Tables 11-200-1 and 11-200-2 the structure of ASME mate­
+rial specifications as well as which editions of a source 
+standard are permitted for use. These examples are based 
+on Figure II-400-1. The specifications in the figure are 
+based on editions found in BPVC Section II, Parts A and 
+B, 2021 Edition. 
+(a) SA-217/SA-217M. The standard adopted was ASTM 
+A217 /A217M. The 2007 edition (A217 /A217M-07) is 
+the latest adopted. The word "Identical" is listed in the 
+"Description" column; this means that ASME material 
+specification SA-217 /SA-217M is identical to ASTM 
+A217 /A217M-07. The "All Acceptable Editions" column 
+indicates that revisions 1993 through 2007, inclusive, 
+are permitted for construction. 
+(b) SA-513. The standard adopted was ASTM A513. The 
+2000 edition (A513-00) is the latest adopted. The "De­
+scription" column indicates that for the ASTM specifica­
+tion to be used as ASME material specification SA-513, 
+its Supplementary Requirements S6 and either S7 or SB 
+are mandatory. Ellipses ( ... ) are listed under the "All Ac­
+ceptable Editions" column. This means that only the edi­
+tion listed under the "Latest Adopted" column - ASTM 
+A513-00 - is permitted for Code construction. 
+(c) SA/CSA G40.21. The standard adopted was CSA 
+G40.21. The latest edition adopted is 2013(R2018). This 
+means that the 2018 edition is the latest adopted, and that 
+it is a reapproval of the 2013 edition [(CSA G40.21-2013 
+(R2018)]. The ASME material specification was modified 
+to have additional requirements for marking, chemical 
+composition, controlled and normalized rolling, and pro­
+viding a test report. The only CSA G40.21 editions per­
+mitted for construction are 1992, and 2004 through 
+2018, inclusive. 
+(d) SB-166. The standard adopted was ASTM B166, 
+2011 edition (B166-11). The ASME material specification 
+has been modified to require certification and test report 
+be given to the purchaser; and that the details of 
+1610 

@@ -1,0 +1,64 @@
+ASME BPVC.ILA-2025 SA-1091/SA-1091M (ASTM A1091/A1091M)
+——- 9. Permissible Variations in Dimensions of Centrifugally TABLE 4 Chemical Composition of Grade C933 Welding ;
+Cast Pipe Consumables :
+. . . . Element Weight % !
+9.1 Thickness—The wall thickness of centrifugally cast pipe Carbon 0.08-0.12
+shall not vary over that specified by more than % in. [3 mm]. Manganese 0.70
+There shall be no variation under the specified wall thickness. Ghesphomus Cote
+Sili 0.60
+10. Rework, Welding, and Retreatment Nioxel 0.60 :
+10.1 Defects, as defined in Section 8, shall be removed and Molyedenum oo ;
+their removal verified by visual inspection of the resultant — Niobium 0.05-0.10
+cavities. Defects that are located by inspecting with supple- varogen oan 95 :
+mentary requirements specified in the order shall be removed — Gopatt 275-850 :
+or reduced to an acceptable size. Tungsten 2.25-3.00
+Lo Boron 0.007—-0.020
+10.2 If removal of the defect does not impinge upon the Al vakes ae manne eshte kuaiiaa
+minimum wall thickness, if applicable, the depression may be geisP :
+— blended uniformly into the surrounding surface.
+10.3 Welding is permitted, subject to the following require- 10.3.5 Major welds shall be subject to the prior approval of
+ments: ~*
+: : the purchaser.
+10.3.1 Only welders and procedures qualified in accordance 1b 3.6 The locations, lengths, widths, and depths of major
+with ASME Boiler and Pressure Vessel Code, Section IX, shall “ ; an ; 4.
+be used welds shall be included in the material test report.
+10.3.2 For Grade C91, all welding shall be made with one of 10.3.7 When specified by the purchaser, the locations of all
+. ws welds shall be included in the material test report.
+the processes and consumables shown in Table 3. In addition, 10.3.8 Post-Weld Heat Treatment for Grade C91—All welds
+the sum of the Ni + Mn content of all weld consumables used shall be heat treated in accordance with one of the following
+for weld repair shall not exceed 1.0 %. requirements, as applicable:
+Wee ot Oe matching pare omy 10.3.8.1 For castings for which re-austenitizing does not
+desi naion E9015 H4. matchin ‘the chemist in Table 4 lead to unacceptable distortion, defined as violation of the
+Oth undermatchin electro des ia ay be agree iy on between tolerances of the specification or contained in the purchase
+i the purchaser and manufacturer but may result in reduced order, the following shall apply: Castings containing a weld
+: hi note erature creep performance y made after the austenitizing and tempering heat treatment in :
+; “0 3 31 When Su » hanent Re uirement S4 of Specifi- 5.1 shall be re-austenitized and tempered according to the
+cation ‘A703 /A703M PP A985 iAO8 SM for investment atin 5 requirements of 5.1. Local heat treatment is not permitted.
+. . : . ne 10.3.8.2 For castings for which re-austenitizing does lead to
+is specified, welds shall be inspected by magnetic P article unacceptable distortion, and with the agreement of the
+castings. to the same standards that are used to inspect the purchaser, in lieu of re-austenitizing and tempering, the fol-
+. . :- lowing shall apply:
+10.3.3.2 When Supplementary Requirement SS of Specifi (1) Welds shall be heat treated within the temperature range ;
+cation A703/A703M or A985/A985M for investment castings of 1350 to 1470 °F [730 to 800 °C], for a minimum holdin
+is specified, welds on castings that have leaked on hydrostatic time based on the maximum thickness of the casting g
+test, or on castings in which the depth of any cavity prepared (2) Castings having a maximum thickness <5 in. 125 mm]
+for welding exceeds 20% of the wall thickness or T in. 11 be held at temperature for 1 h per inch of thickness [1 h |
+[25mm], whichever is smaller, or on castings in which any per 25 mm of thickness], except that 30 minutes minimum is
+( cavity prepared for welding is greater than approximately ited f ings h . thickness less th
+: "2 2, : permitted for castings having a maximum thickness less than
+. 10 in.” [65 cm*], shall be radiographed to the same standards Lin. [25 mm]
+— that ue ee inspect the castings. maior in the case of a (3) Castings having a maximum thickness greater than 5 in.
+. : J [125 mm] shall be held at temperature for 5 h, plus 15 minutes
+casting that has leaked on hydrostatic test, or when the depth of for each additional inch [25 mm] over 5 in. [125 mm]
+thickneeoe Len 5 tal whisnces te emalle or few 10.3.8.3 Local post-weld heat treatment is permitted only by
+- , . 22 2 agreement between the producer and the purchaser. Process
+extent of the cavity exceeds app roximately 10 in. [65 cm I. requirements, to ensure that the minimum post-weld heat
+Welds ae ra these requirements shall be considered treatment is reached in welds and that the maximum post-weld ;
+, heat treatment is not exceeded anywhere on the casting, shall
+TABLE 3 Welding Consumables for Use with Grade C91 Castings be 10 sod Canings shall Pe tesignated the Clas chaser Class 2
+gees upeticeton ___fasef eaten __. depending on the type of weld (see 10.3.4) and heat treatment,
+SAW A5.23/A5.23M EB9 + Neutral Flux as shown in Table 5.
+GTAW A5.28/A5.28M ER90S-B9
+{ FCAW A5.29/A5.29M E91T1-B9 Nore 3—For Class 2 castings, ASME or other construction codes may
+i" a assign allowable stresses or pressure ratings different from and more
+1557

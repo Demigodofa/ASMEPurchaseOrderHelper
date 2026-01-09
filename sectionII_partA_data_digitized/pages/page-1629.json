@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 831,
+  "globalPageIndex": 1629,
+  "width": 613.92,
+  "height": 793.2,
+  "text": "ASME BPVC.II.A-2025 \nSPECIFICATION FOR FLAT PRODUCTS MADE OF \nSTEELS FOR PRESSURE PURPOSES \nPart 3: Weldable Fine Grain Steels, Normalized \nSA/EN 10028-3 \n(Identical with International Specification EN 10028-3:2017 with these additional requirements.) \n1575 \nSA/EN 10028-3 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-1629.txt",
+  "ocrTextLength": 273,
+  "ocrApplied": true,
+  "bestTextPath": "best_text/pages/page-1629.txt",
+  "bestTextSource": "ocr",
+  "bestTextLength": 273,
+  "bestTextAlphaRatio": 0.6923
+}

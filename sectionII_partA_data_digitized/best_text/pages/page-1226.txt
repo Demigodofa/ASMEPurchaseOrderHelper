@@ -1,0 +1,118 @@
+SA-693 (ASTM A693) ASME BPVC.11.A-2025 
+6. Heat Treatment of Product 
+6.1 Material of types other than Type UNS S46910 shall be 
+furnished in the solution-annealed condition as noted in Tables 
+2 and 3 unless otherwise specified by the purchaser on the 
+purchase order. 
+6.1.1 When continuous heat treating is used, process param­
+eters (that is, furnace temperature set points, heat input, travel 
+rate, etc.) for continuous heat treating lines shall be established 
+by the material producer and validated by testing of product to 
+the requirements of 7.1. 
+6.2 Type UNS S46910 shall be furnished in cold-worked 
+condition. 
+7. Mechanical Properties 
+7 .1 The material, as represented by mechanical test 
+specimens, shall conform to the mechanical property require-
+ments specified in Table 4 and shall be capable of developing 
+the properties in Table 5 when heat treated as specified in 9 .1. 
+8. Bending Requirements 
+8.1 Samples cut from the solution-annealed plate, sheet, or 
+strip shall withstand cold bending as specified in Table 6 
+without cracking on the outside of the bent portion. 
+9. Heat Treatment of Test Specimens 
+9.1 Samples cut from the plate, sheet, or strip shall conform 
+to the mechanical properties of Table 5 when precipitation 
+hardened as specified in Table 2 and Table 3. 
+10. Keywords 
+10.1 plate; precipitation hardening; sheet; stainless steel; 
+strip 
+TABLE 2 Heat Treatment, °F 
+UNS 
+Desig­
+nation 
+S17400 
+S17700 
+S15700 
+S35000 
+S35500 
+S17600 
+S36200 
+S15500 
+S13800 
+S45500 
+S45000 
+S46500 
+S46910° 
+Type 
+630 
+631 
+632 
+633 
+634 8 
+635 
+XM-9 
+XM-12 
+XM-13 
+XM-16 
+XM-25 
+Solution Treatment 
+1925 ± 50 'F (cool as required) 
+1950 ± 25 °F (cool as required) 
+Alternative Treatment: 
+1400 ± 25 °F, hold 90 min, cool to 55 ± 5 °F within 1 h. 
+Hold not less than 30 min, heat to 1050 ± 10 'F, hold for 
+90 min, air cool. 
+1950 ± 25 °F (cool as required) 
+1900 ± 50 °F (quench) 
+1900 ± 25 °F (quench) 
+1900 ± 25 °F (air cool) 
+1550 ± 25 °F (air cool) 
+1900 ± 25 °F (cool as required) 
+1700 ± 25 °F (cool as required to below 60 'F) 
+1525 ± 25 °F (water quench) 
+1900 ± 25 'F (cool rapidly) 
+1875 ± 25 °F (cool rapidly to room temperature) followed 
+by subzero cooling within 24 h after solution treatment; 
+-100 ± 10 °F, hold not less than 8 h; 
+warm in air to room temperature 
+A Times refer to time material is at temperature. 
+Precipitation Hardening TreatmentA 
+900 ± 15 'F, 1 h, air cool. 
+925 ± 15 'F, 4 h, air cool. 
+1025 ± 15 °F, 4 h, air cool. 
+1075 ± 15 'F, 4 h, air cool. 
+1100 ± 15 'F, 4 h, air cool. 
+1150 ± 15 'F, 4 h, air cool. 
+(1400 ± 15 'F, 2 h, air cool+ 1150 ± 15 'F, 4 h, air cool). 
+1750 ± 15 'F, hold 1 0 min, cool rapidly to room temperature. Cool 
+within 24 h, to -100 ± 10 °F, hold not less than 8 h. Warm in air to 
+room temperature. Heat to 950 ± 10 °F, hold 1 h, air cool. 
+Same as Type 631 
+1710 ± 25 'F for not less than 10 min, but not more than 1 h, quench. 
+Cool to not higher than -100 °F, hold for not less than 3 h. 
+Temper at 850 ± 15 °F, 3 h, air cool, or 
+1000 ± 15 °F, 3 h, air cool. 
+1750 ± -1 0 °F for not less than 10 min, but not more than 1 h, quench. 
+Cool to not higher than -100 °F, hold for not less than 3 h. 
+Temper at 1000 ± 25 °F, holding for not less than 3 h. 
+950 ± 15 °F, 30 min, air cool. 
+1000 ± 15 °F, 30 min, air cool. 
+1050 ± 15 °F, 30 min, air cool. 
+900 ± 10 'F, 8 h, air cool. 
+Same as Type 630 
+950 ± 1 0 'F, 4 h, air cool. 
+1000 ± 10 'F, 4 h, air cool. 
+900 ± 10 'F, 4 h, air cool. or 950 ± 10 'F, 4 h, air cool. 
+900 ± 15 'F, 4 h, air cool. 
+1000 ± 15 °F, 4 h, air cool. 
+1150 ± 15 'F, 4 h, air cool. 
+900 ± 10 'F, 4 h, air cool 
+950 ± 15 'F, 4 h, air cool 
+1000 ± 15 °F, 4 h, air cool 
+1050 ± 15 °F, 4 h, air cool 
+1100 ± 15 'F, 4 h, air cool 
+890 + 15 'F, 4 h, air cool 
+8 Equalization and over-tempering treatment: 1425 ± 50 °F for not less than 3 h, cool to room temperature, heat to 1075 ± 25 °F for not less than 3 h. 
+c Furnished in cold-worked condition. 
+1140 

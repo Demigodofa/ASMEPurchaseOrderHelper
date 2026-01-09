@@ -1,0 +1,117 @@
+,,......-----....., 
+ASME BPVC.II.A-2025 SA-1058 
+TABLE 6 Approximate Hardness Conversion Numbers for Austenitic Steels (Rockwell B to other Hardness Numbers) 
+Rockwell B Scale, Brinell Indentation Brinell Hardness, 
+100-kgf Load, Diameter, 3000-kgf Load, 
+1/10-in. (1.588-mm) mm 10-mm 
+Ball Ball 
+100 3.79 256 
+99 3.85 248 
+98 3.91 240 
+97 3.96 233 
+96 4.02 226 
+95 4.08 219 
+94 4.14 213 
+93 4.20 207 
+92 4.24 202 
+91 4.30 197 
+90 4.35 192 
+89 4.40 187 
+88 4.45 183 
+87 4.51 178 
+86 4.55 174 
+85 4.60 170 
+84 4.65 167 
+83 4.70 163 
+82 4.74 160 
+81 4.79 156 
+80 4.84 153 
+15.1.1 A range of hardness can properly be specified only 
+for quenched and tempered or normalized and tempered 
+material. For annealed material a maximum figure only should 
+be specified. For normalized material a minimum or a maxi­
+mum hardness may be specified by agreement. In general, no 
+hardness requirements should be applied to untreated material. 
+15.1.2 Brinell hardness may be required when tensile prop­
+erties are not specified. 
+15.2 Test Specimen-Brinell hardness tests are made on 
+prepared areas and sufficient metal must be removed from the 
+surface to eliminate decarburized metal and other surface 
+irregularities. The thickness of the piece tested must be such 
+that no bulge or other marking showing the effect of the load 
+appears on the side of the piece opposite the indentation. 
+15.3 Procedure: 
+15.3.1 It is essential that the applicable product specifica­
+tions state clearly the position at which Brinell hardness 
+indentations are to be made and the number of such indenta­
+tions required. The distance of the center of the indentation 
+from the edge of the specimen or edge of another indentation 
+must be at least two and one-half times the diameter of the 
+indentation. 
+15.3.2 Measure two diameters of the indentation at right 
+angles to the nearest 0.1 mm, estimate to the nearest 0.05 mm, 
+and average to the nearest 0.05 mm. If the two diameters differ 
+by more than 0.1 mm, discard the readings and make a new 
+indentation. 
+16. Rockwell Test 
+16.1 The Rockwell Test shall be carried out in accordance 
+with the requirements of Test Methods El 8, ISO 6508-1, or TIS 
+Z 2245. 
+Rockwell Superficial Hardness 
+Rockwell A Scale, 15T Scale, 30T Scale, 45T Scale, 
+60-kgf Load, 15-kgf Load, 30-kgf Load, 45-kgf Load, 
+Diamond ¼a-in. (1.588- 1/1a-in. (1.588- 1/10-in. (1.588-
+Penetrator mm) mm) mm) 
+Ball Ball Ball 
+61.5 91.5 80.4 70.2 
+60.9 91.2 79.7 69.2 
+60.3 90.8 79.0 68.2 
+59.7 90.4 78.3 67.2 
+59.1 90.1 77.7 66.1 
+58.5 89.7 77.0 65.1 
+58.0 89.3 76.3 64.1 
+57.4 88.9 75.6 63.1 
+56.8 88.6 74.9 62.1 
+56.2 88.2 74.2 61.1 
+55.6 87.8 73.5 60.1 
+55.0 87.5 72.8 59.0 
+54.5 87.1 72.1 58.0 
+53.9 86.7 71.4 57.0 
+53.3 86.4 70.7 56.0 
+52.7 86.0 70.0 55.0 
+52.1 85.6 69.3 54.0 
+51.5 85.2 68.6 52.9 
+50.9 84.9 67.9 51.9 
+50.4 84.5 67.2 50.9 
+49.8 84.1 66.5 49.9 
+17. Portable Hardness Test 
+17 .1 Although this standard generally prefers the use of 
+fixed-location Brinell or Rockwell hardness test methods, it is 
+not always possible to perform the hardness test using such 
+equipment due to the part size, location, or other logistical 
+reasons. In this event, hardness testing using portable equip­
+ment as described in Test Methods A956/A956M, A1038, and 
+Ell0 shall be used with strict compliance for reporting the test 
+results in accordance with the selected standard (see examples 
+below). Standard Practice A833 may be used, although it might 
+not always be suitable as a criterion for acceptance or rejection 
+since Practice A833 does not contain a precision and bias 
+statement. 
+17.1.1 Practice A833-The measured hardness number 
+shall be reported in accordance with the standard methods and 
+given the HBC designation followed by the comparative test 
+bar hardness to indicate that it was determined by a portable 
+comparative hardness tester, as in the following example: 
+17 .1.1.1 232 HBC/2.40 where 232 is the hardness test result 
+using the portable comparative test method (HBC) and 240 is 
+the Brinell hardness of the comparative test bar. 
+17.1.2 Practice A956/A956M: 
+17 .1.2.1 The measured hardness number shall be reported in 
+accordance with the standard methods and appended with a 
+Leeb impact device in parenthesis to indicate that it was 
+determined by a portable hardness tester, as in the following 
+example: 
+( 1) 350 HW where 350 is the hardness test result using the 
+portable Leeb hardness test method with the HLD impact 
+device. 
+1549 

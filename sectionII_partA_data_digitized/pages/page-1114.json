@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 316,
+  "globalPageIndex": 1114,
+  "width": 613.92,
+  "height": 793.2,
+  "text": "SA-574 ASME BPVC.II.A-2025 \nTABLE 4 \nWEDGE TEST ANGLES \nWedge Angle, Deg \nBody Lengths \n2D or Less or Body Lengths \nScrew Size, Threaded to Greater Than \nD, in. the Head 2D \n0.112 to 0.500, incl. 6 10 \n0.625 to 0. 750, incl. 6 8 \n0.875 to 1.500, incl. 4 6 \nTABLE 5 \nDECARBURIZATION LIMITS \n0.75 h 5 from 0.1 h 5 at \nThread Root to Root, \nThreads/in. Height, hs Crest, Min. Max. \n48 0.013 0.010 0.001 \n44 0.014 0.011 0.001 \n40 0.015 0.011 0.002 \n36 0.017 0.013 0.002 \n32 0.019 0.014 0.002 \n28 0.022 0.017 0.002 \n24 0.026 0.020 0.003 \n20 0.031 0.023 0.003 \n18 0.034 0.026 0.003 \n16 0.038 0.029 0.004 \n14 0.044 0.033 0.004 \n13 0.047 0.035 0.005 \n12 0.051 0.038 0.005 \n11 0.056 0.042 0.006 \n10 0.061 0.046 0.006 \n9 0.068 0.051 0.007 \n8 0.077 0.058 0.008 \n7 0.088 0.066 0.009 \n6 0.102 0.077 0.010 \n5 0.123 0.092 0.012 \n4.5 0.136 0.102 0.014 \n4 0.153 0.115 0.015 \n1020 \n---\" ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1114.json",
+  "tabulaTablesCsv": "tables_tabula/page-1114.csv",
+  "tabulaTableCount": 2,
+  "bestTextPath": "best_text/pages/page-1114.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 869,
+  "bestTextAlphaRatio": 0.2463
+}

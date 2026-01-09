@@ -1,0 +1,69 @@
+{
+  "createdUtc": "2026-01-09T00:14:01.675154+00:00",
+  "spec": "SA-231",
+  "rangeStart": 367,
+  "rangeEnd": 373,
+  "pages": [
+    {
+      "globalPageIndex": 367,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 367,
+      "textPath": "best_text\\pages\\page-0367.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 368,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 368,
+      "textPath": "best_text\\pages\\page-0368.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0368.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0368.csv"
+      }
+    },
+    {
+      "globalPageIndex": 369,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 369,
+      "textPath": "best_text\\pages\\page-0369.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0369.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0369.csv"
+      }
+    },
+    {
+      "globalPageIndex": 370,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 370,
+      "textPath": "best_text\\pages\\page-0370.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 371,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 371,
+      "textPath": "best_text\\pages\\page-0371.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0371.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0371.csv"
+      }
+    },
+    {
+      "globalPageIndex": 372,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 372,
+      "textPath": "best_text\\pages\\page-0372.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0372.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0372.csv"
+      }
+    },
+    {
+      "globalPageIndex": 373,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 373,
+      "textPath": "best_text\\pages\\page-0373.txt",
+      "assets": {}
+    }
+  ]
+}

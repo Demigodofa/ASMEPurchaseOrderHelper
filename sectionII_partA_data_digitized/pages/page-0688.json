@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 688,
+  "globalPageIndex": 688,
+  "width": 607.56,
+  "height": 850.08,
+  "text": "SA-372/SA-372M ASME BPVC.II.A-2025 \nSUPPLEMENTARY REQUIREMENTS \nOne or more of the following supplementary requirements shall apply only when specified by the \npurchaser on the inquiry, contract, or order. Details of these supplementary requirements shall be \nagreed upon by the manufacturer and the purchaser. \nSl.Grain Size \nS 1.1 When a grain size range is required, it shall be \nspecified in the ordering information and shall be determined \nby an agreed-upon method from Test Methods El12. \nSl.2 Samples for grain size estimation shall be taken from \nthe tension test specimen location. \nS2. Rough Machining \nS2.1 Rough machining shall be performed in the sequence \nand manner as specified. \nS3. Impact Testing \nS3.1 Charpy V-notch test specimens shall be taken from the \nsame location and in the same orientation as tension test \nspecimens. The number of specimens, minimum energy values, \nand test temperature(s) shall be as specified. \nS4. Fracture Toughness \nS4.1 Specific fracture toughness requirements are levied by \ncertain sections of the ASME Boiler and Pressure Vessel Code. \nForgings in the permitted types shall comply with the appli\u00ad\ncable code sections. \nS4.2 The necessary code references toughness criteria and \ntest temperature data shall be included in the ordering infor\u00ad\nmation. \nSS. Ultrasonic Examination \n638 \nS5.1 Ultrasonic examination of forgings shall be carried out \nin accordance with Practice A388/A388M. \nS5.2 Acceptance criteria shall be specified and shall be in \naccordance with the applicable code or purchaser's specifica\u00ad\ntion and shall be included as part of the ordering information. ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-0688.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1629,
+  "bestTextAlphaRatio": 0.7815
+}

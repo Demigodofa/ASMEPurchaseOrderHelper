@@ -1,0 +1,62 @@
+0.50 2060 2260,,C,,TABLE 2
+0.55 2050 2240,,C,,CHEMICAL REQUIREMENTS
+0.60 2030 2220,,C,,
+0.65 2010 2200,,C,,Product
+0.70 2000 2160,,C,,Analysis
+0.80 1980 2140,,C,,Analysis,% Tolerance, %
+0.90 1960 2120,,C,,
+1.00 1940 2100,,C,Carbon,0.48-0.53 ±0.02
+1.10 1920 2080,,C,Manganese,0.70-0.90 ±0.03
+1.20 1900 2060,,C,Phosphorus,0.020 max +0.005
+1.40 1860 2020,,C,Sulfur,0.035 max +0.005
+1.60 1820 1980,,C,Silicon,0.15-0.35 ±0.02
+1.80 1800 1960,,C,,
+,,,Chromium,0.80-1.10 ±0.05
+2.00 1780 1930,,C,,
+,,,Vanadium,0.15 min -0.01
+2.20 1750 1900,,C,,
+2.50 1720 1860,,45,,
+2.80 1680 1830,,45,,
+3.00 1660 1800,,45,,
+3.50 1620 1760,,45,,
+4.00 1580 1720,,40,,
+4.50 1560 1680,,40,,
+5.00 1520 1640,,40,,TABLE 3
+5.50 1480 1620,,40,PERMISSIBLE VARIATIONS IN WIRE DIAMETERA,
+6.00 1460 1600,,40,,SI Units
+6.50 1440 1580,,40,,
+7.00 1420 1560,,40,,Permissible
+8.00 1400 1540,,40,,Variations, Permissible
+9.00 1380 1520,,40,,plus and Out-of-Round,
+10.00 1360 1500,,40,Diameter, mm,minus, mm mm
+11.00 1340 1480,,40,,
+12.00 1320 1460,,40,to 2.0, incl,0.02 0.02
+,,,Over 2.0 to 4.00, incl,0.03 0.03
+Inch-Pound Units,,,,
+,,,Over 4.00 to 9.00, incl,0.04 0.04
+,,,Over 9.00,0.05 0.05
+,,Reduction,,
+Diameter,,,of Area,,,
+,,,,Inch-Pound
+in. ksi, min ksi, max,,min,%,,
+,,,,Permissible
+0.020 300 325,,C,,Variations, Permissible
+0.032 290 315,,C,,
+,,,,plus and Out-of-Round,
+0.041 280 305,,C,,
+,,,Diameter, in.,minus, in. in.
+0.054 270 295,,C,,
+0.062 265 290,,C,,
+,,,0.020 to 0.075, incl,0.0008 0.0008
+0.080 255 275,,C,,
+,,,Over 0.075 to 0.148, incl,0.001 0.001
+0.105 245 265,,45,,
+Over 0.148 to 0.375, incl 0.135 235 255,,45,,0.0015 0.0015
+0.162 225 245,,40,Over 0.375 to 0.500, incl,0.002 0.002
+0.192 220 240,,40,,
+0.244 210 230,,40,A For purposes of determining conformance with this specification,,
+0.283 205 225,,40,all specified limits are absolute as defined in,Practice E 29.
+0.312 203 223,,40,,
+0.375 200 220,,40,,
+0.438 195 215,,40,,
+0.500 190 210,,40,,

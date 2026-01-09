@@ -1,0 +1,80 @@
+ASME BPVC.ILA-2025 SA-516/SA-516M
+oo TABLE 1 Chemical Requirements |
+Composition, % | :
+| _ Elements Grade 55 Grade 60 Grade 65 Grade 70
+[Grade 380] [Grade 415] [Grade 450] [Grade 485]
+
+Carbon, max:*8 |
+VY in. [12.5 mm] and under 0.18 0.21 0.24 0.27 :
+Over 1% in. to 2 in. [12.5 to 50 mn], incl 0.20 0.23 0.26 0.28 .
+Over 2 in. to 4 in. [50 to 100 mn], incl 0.22 0.25 0.28 0.30 |
+
+Over 4 to 8 in. [100 to 200 mm], incl 0.24 0.27 0.29 0.31
+Over 8 in. [200 mm] 0.26 0.27 0.29 0.31
+Manganese:? ;
+¥ in, [12.5 mm] and under:
+Heat analysis 0.60-0.90 0.60-0.90° 0.85-1.20 0.85-1.20
+Product analysis 0.55-0.98 0.55-0.98° 0.79-1.30 0.79-1.30
+Over 1% in. [12.5 mm]: :
+Heat analysis . 0.60—1.20 0.85—1.20 0.85-1.20 0.85—1.20 :
+Product analysis 0.55—-1.30 0.79-1.30 0.79-1.30 0.79-1.30 |
+Phosphorus, max” 0.025 0.025 0.025 0.025 |
+
+a Sulfur, max4 0.025 0.025 0.025 0.025
+“ Silicon:
+
+Heat analysis 0.15-0.40 0.15-0.40 0.15-0.40 0.15-0.40
+4 Applies to both heat and product analyses, :
+® For each reduction of 0.01 percentage point below the specified maximum for carbon, an increase of 0.06 percentage point above the specified maximum for manganese ;
+is permitted, up to a maximum of 1.50 % by heat analysis and 1.60 % by product analysis. :
+© Grade 60 plates 1% in. [12.5 mm] and under in thickness may have 0.85—1.20 % manganese on heat analysis, and 0.79~1.30 % manganese on product analysis.
+
+TABLE 2 Tensile Requirements
+| Grade ;
+55 [380] 60 [415] 65 [450] 70 [485] ;
+Tensile strength, ksi [MPa] 55-75 [380-515] 60-80 [415~—550] 65-85 [450-585] 70-90 [485-620]
+Yield strength, min,@ ksi [MPa] 30 [205] 32 [220] 35 [240] 38 [260]
+Elongation in 8 in. [200 mm], min, %* 23 21 19 17 |
+
+- Elongation in 2 in. [50 mm], min, %° 27 25 23 21
+
+A Determined by either the 0.2 % offset method or the 0.5 % extension-under-load method. :
+
+. ® See Specification A20/A20M for elongation adjustment. ;
+
+Note 1—For plates produced from coil and furnished without heat 5.4 If approved by the purchaser, cooling rates faster than
+, treatment or with stress relieving only, three test results are reported for those obtained by cooling in air are permissible for improve- |
+each qualifying coil. Additional requirements regarding plate produced £ the tough rovided the vlat sub ntl |
+from coil are described in Specification A20/A20M. ment o i e ne mness, provided t * PO n “130° OS y i"
+| ; ; ; ; , ; tempered in the temperature range 1100 to | F [595 to ,
+3.5 If the requirements of this specification are in conflict 70 eC) | Pete ane
+with the requirements of Specification A20/A20M, the require- |
+ments of this specification shall prevail. . - |
+P P 6. Chemical Composition |
+4. Materials and Manufacture |
+maine PRGGHGSLTKS SSEI-# _ 6.1 The steel shall conform to the chemical requirements |
+
+, 4.1 Steelmaking Practice—Yhe steel shall be “killed and siven in Table (unless otherwise modified-in-accordance with =
+
+/ See renin ona OtAt austenitic grain size requirement Of — Supplementary Requirement $17, Vacuum Carbon-Deoxidized |
+
+NC | pecuication _ Steel, in Specification A20/A20M.
+
+— 5, Heat Treatment
+| , ; ; 7. Mechanical Properties
+
+5.1 Plates 1.50 in. [40 mm] and under in thickness are P
+normally supplied in the as-rolled condition. The plates may be 7.1 Tension Test—The plates, as represented by the tension
+ordered normalized or stress relieved, or both. test specimens, shall conform to the requirements given in
+
+5.2 Plates over 1.50in. [40 mm] in thickness shall be Table 2.
+
+normalized. |
+
+5.3 When notch-toughness tests are required on plates 8. Keywords
+1%21n. [40 mm] and under in thickness, the plates shall be 8.1 carbon steel; carbon steel plate; pressure containing
+normalized unless otherwise specified by the purchaser. parts; pressure vessel steels; steel plates for pressure vessels
+
+Nw
+
+873

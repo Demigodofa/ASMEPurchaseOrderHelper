@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 761,
+  "globalPageIndex": 1559,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "ASME BPVC.II.A-2025 SA-1008/SA-l00BM (ASTM A1008/A1008M) \nANNEX \n(Mandatory Information) \nAl. BAKE HARDENABLE STEELS \nAl.1 Determination of Bake Hardening Index \nAl .1.1 The bake hardening index (BHI) is determined by a \ntwo-step procedure using a standard longitudinal (rolling \ndirection) tensile-test specimen, prepared in accordance with \nTest Methods and Definitions A370. The test specimen is first \nstrained in tension. The magnitude of this tensile \"pre-strain\" \nshall be 2 % (extension under load). The test specimen is then \nremoved from the test machine and baked at a temperature of \n340 \u00b0F [170 \u00b0C] for a period of 20 min. Referring to Fig. Al.I, \nthe bake hardening index (BHI) of the material is calculated as \nfollows: \nBHI= B-A (Al.1) \nwhere: \nA = flow stress at 2 % extension under load, and \nB = yield strength [upper yield strength (Bu) or lower yield \nstrength (BL)] after baking at 340 \u00b0F [170 \u00b0C] for \n20 min. \nAl.1.2 The original test specimen cross section (width and \nthickness) is used in the calculation of all engineering strengths \nin this test. \nAl.1.3 The pre-straining of 2 % in tension is intended to \nsimulate a modest degree of forming strain, while the subse\u00ad\nquent baking is intended to simulate a paint-curing or similar \ntreatment. In the production of actual parts, forming strains and \nbaking treatments can differ from those employed here, and as \na result, final properties can differ from the values obtained \nunder these controlled conditions. \n1505 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-1559.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1496,
+  "bestTextAlphaRatio": 0.7333
+}

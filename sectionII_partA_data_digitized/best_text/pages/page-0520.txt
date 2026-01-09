@@ -1,0 +1,111 @@
+SA-320/SA-320M ASME BPVC.Il.A-2025 
+TABLE 2 Impact Test Temperatures and Properties 
+Test Temperature CVN Specimen Section Min Average Impact Min Impact Value of a Single 
+Grade 
+L7M, L70, L71, L72, L73 
+L7, L7A, L7B, L7C, L43 
+L1 
+"F 
+-100 
+-150 
+-100 
+"C 
+-73 
+-101 
+-73 
+F436/F436M Specification for Hardened Steel Washers Inch 
+and Metric Dimensions 
+F606/F606M Test Methods for Determining the Mechanical 
+Properties of Externally and Internally Threaded 
+Fasteners, Washers, Direct Tension Indicators, and Rivets 
+2.2 ASME Standards: 
+B 1.1 Screw Threads 
+B18.21.l Washers: Helical Spring-Lock, Tooth Lock, and 
+Plain Washers (Inch Series) 
+3. Ordering Information 
+3.l It is the purchaser's responsibility to specify in the 
+purchase order all information necessary to purchase the 
+needed materials. Examples of such information include, but 
+are not limited to, the following: 
+3 .1.1 Quantity and size, 
+3.1.2 Heat-treated condition, that is, for the austenitic stain­
+less steels, solution-treated (Class l); solution-treated after 
+finishing (Class IA); and annealed and strain-hardened (Class 
+2), 
+3.1.3 Description of items required (bars, bolts, screws, or 
+studs), 
+3.1.4 Nuts and washers, if required by the purchaser, in 
+accordance with Section 10, and 
+3.1.5 Special requirements, in accordance with 5.1.1, 5.1.3, 
+5.1.4, and 13.1. 
+4. Common Requirements 
+4.1 Bolting materials and bolting components supplied to 
+this specification shall conform to the requirements of Speci­
+fication A962/ A962M. These requirements include test 
+methods, finish, thread dimensions, macroetch ( carbon and 
+alloy steels only) marking, certification, optional supplemen­
+tary requirements, and others. Failure to comply with the 
+requirements of Specification A962/ A962M constitutes non­
+conformance with this specification. In case of conflict be­
+tween the requirements in this specification and Specification 
+A962/A962M, this specification shall prevail. 
+5. Materials and Manufacture 
+5.1 Heat Treatment: 
+5.1.1 Bolting materials shall be allowed to cool to room 
+temperature after rolling or forging. Grades L7, L7A, L7B, 
+L7C, L7M, L43, Ll, L70, L71, L72, and L73 shall be reheated 
+Size, mm Toughness of Three Test Specimen of Set of Three, 
+Specimens, ft-lbf [J] ft-lbf [J] 
+10 X 10 20 [27] 15 [20] 
+10 X 7.5 16 [22] 12 [16] 
+10 X 10 20 [27] 15 [20] 
+10 X 7.5 16 [22] 12 [16] 
+10 X 10 40 [54] 30 [41] 
+10 X 7.5 32 [44] 24 [32] 
+to above the upper critical temperature and liquid quenched 
+and tempered. Grades B8, B8C, B8M, B8T, B8F, BSP, BSLN, 
+and BSMLN shall receive a carbide solution treatment. Prod­
+ucts made from such material are described as Class 1. This 
+shall consist of holding the bolting material for a sufficient time 
+at a temperature at which the chromium carbide will go into 
+solution and then cooling in air or in a liquid medium at a rate 
+sufficient to prevent reprecipitation of the carbide. Bolting 
+material thus treated is described as Class 1. If specified in the 
+purchase order, bolting material shall be solution treated in the 
+finished condition and shall be described as Class lA. 
+468 
+5.1.2 Use of water quenching is prohibited for any ferritic 
+grade when heat treatment is performed after heading or 
+threading. 
+5.1.3 When increased mechanical properties are desired, 
+austenitic bolting shall be solution annealed and strain hard­
+ened if specified in the purchase order; material so treated is 
+identified as Class 2. 
+5 .1.4 If scale-free bright finish is required, this shall be 
+specified in the purchase order. 
+5.1.5 For L7M bolting, the final heat treatment, which may 
+be the tempering or stress-relieving operation conducted at 
+1150 °F [620 °C] minimum, shall be done after machining or 
+rolling of the threads and any type of cutting. 
+6. Mechanical Requirements 
+6.1 Tensile Properties: 
+6.1.1 Bolting material as represented by the tension speci­
+mens shall conform to the requirements as to tensile properties 
+prescribed in Table 1 at room temperature after heat treatment 
+(see 5.1.1). Alternatively, Class 2 Strain Hardened Headed 
+Bolting Components shall be tested full size after strain 
+hardening to determine tensile strength and yield strength and 
+shall conform to the requirements prescribed in Table 1. 
+Should the results of full size tests conflict with results of 
+tension specimen tests, full size test results shall prevail. 
+6.1.2 Number of Tests: 
+6.1.2.1 For heat-treated bars, one tension test and one 
+impact test consisting of three specimens shall be made for 
+each diameter of each heat represented in each tempering 
+charge. When heat treated without interruption in continuous 
+furnaces, the material in a lot shall be the same heat, same prior 
+condition, same size, and subjected to the same heat treatment. 
+Not fewer than two tensile tests and two impact tests are 
+required for each lot containing 20 000 lbs [9000 kg] or less. 
+Every additional 10 000 lbs [4500 kg] or fraction thereof 
+requires an additional tensile test and impact test. 

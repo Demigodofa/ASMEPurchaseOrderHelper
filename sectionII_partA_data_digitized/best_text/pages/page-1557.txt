@@ -1,0 +1,99 @@
+,,,,~. 
+ASME BPVC.II.A-2025 SA-1008/SA-1008M (ASTM A1008/A1008M) 
+TABLE 5 Mechanical Property RequirementsA,a for Cold Rolled Steel Sheet Designations SHS and BHS 
+Yield Strength, min Tensile Strength, min 
+Elongation in Bake Hardening Index, min 
+Designation 2 in. or Upper Yield/Lower Yield 
+50 mm, min., 
+ksi [MPa] ksi [MPa] % ksi [MPa] 
+SHS: 
+Grade 26 [180] 26 [180] 43 [300] 32 
+Grade 31 [210] 31 [210] 46 [320] 30 
+Grade 35 [240] 35 [240] 50 [340] 26 
+Grade 41 [280] 41 [280] 53 [370] 24 
+Grade 44 [300] 44 [300] 57 [390] 22 
+BHS: 
+Grade 26 [180] 26 [180] 43 [300] 30 4/3 25/20 
+Grade 31 [210] 31 [210] 46 [320] 28 4/3 25/20 
+Grade 35 [240] 35 [240] 50 [340] 24 4/3 25/20 
+Grade 41 [280] 41 [280] 53 [370] 22 4/3 25/20 
+Grade 44 [300] 44 [300] 57 [390] 20 4/3 25/20 
+A Where an ellipsis ( ... ) appears in the table, there is no requirement. 
+8 For coil products, testing by the producer is limited to the end of the coil. Mechanical properties throughout the coil shall comply with the minimum values specified. 
+testing is performed on a per-coil basis, only one test shall be 
+made for each master coil. 
+(1) Requirements specified in 8.2.3.2 are minimum testing 
+requirements. Additional testing may be performed at the 
+producer's option, or upon agreement between producer and 
+user or seller and purchaser. 
+(2) Testing of non-strength required grades may also be 
+performed as described in 8.2.3.2, for each specific non­
+strength grade ordered. 
+8.2.3.3 Tension test specimens shall be taken at a point 
+immediately adjacent to the material to be qualified. 
+8.2.3.4 Tension test specimens shall be taken from the full 
+thickness of the sheet. 
+8.2.3.5 Tension test specimens shall be taken from a loca­
+tion approximately halfway between the center of the sheet and 
+the edge of the material as rolled. 
+8.2.3.6 Tension test samples shall be taken with the length­
+wise axis of the test specimen parallel to the rolling direction 
+(longitudinal test). 
+8.2.3.7 Test Method-Yield strength shall be determined by 
+either the 0.2 % offset method or the 0.5 % extension under 
+load method unless otherwise specified. 
+8.2.3.8 Bake hardenable steel shall conform to bake hard­
+ening index requirements included in Table 5 for the grade 
+specified. The method for measuring the bake hardening index 
+is described in Annex Al. Bake hardenable steel shall exhibit 
+a minimum increase in yield strength of 4 ksi [25 MPa] as 
+based on the upper yield point or 3 ksi [20 MPa] as based on 
+the lower yield stress, after a prestrained specimen has been 
+exposed to a standard bake cycle (340 °F [170 °C]) for 20 min. 
+8.2.4 Bending Properties: 
+8.2.4.l The suggested minimum inside radii for cold bend­
+ing are listed in Appendix Xl and is discussed in more detail 
+in Specification A568/A568M (Section 6). Where a tighter 
+bend radius is required, where curved or offset bends are 
+involved, or where stretching or drawing are also a 
+consideration, the producer shall be consulted. 
+8.3 RHS and FHS: 
+8.3.1 The available hardness grades for RHS and FHS are 
+shown in Table 6. 
+8.3.2 The steel represented by RHS grades and FHS shall 
+meet the specified hardness shown in Table 6, as determined at 
+the time of shipment. 
+8.3.2.1 Based on chemistry and processing parameters such 
+as method of annealing ( continuous or box annealing), and 
+rolling practice, RHS grades may be subject to aging and 
+potentially exhibit greater hardness when tested at a later date. 
+8.3.2.2 Due to the non-recrystallized microstructure, FHS is 
+not expected to be subject to aging. 
+8.3.3 Hardness testing shall be performed by the producer, 
+at the final processing step, prior to shipment, at a location not 
+less than 1 in. [25 mm] from the edge of the sheet. 
+9. Finish and Appearance 
+9.1 Surface Finish: 
+9.1.1 Unless otherwise specified, the sheet shall have a 
+matte finish. When required, specify the appropriate surface 
+texture and condition. For additional information, see the 
+Finish and Condition section of Specification A568/A568M 
+(may not apply when steel is ordered full hard (FHS), since the 
+final process step is typically the cold reduction mill). For 
+additional information see "Finish and Condition" section of 
+Specification A568/ A568M. 
+9.2 Oiling: 
+9.2.1 Unless otherwise specified, the sheet shall be oiled 
+(may not apply when steel is ordered full hard (FHS), since the 
+final process step is typically the cold reduction mill). 
+9.2.2 When required, specify the sheet to be furnished not 
+oiled (dry). 
+10. Retests and Disposition of Non-Conforming Material 
+10.1 Retests, conducted with the requirements of Subsec­
+tion 11.1 of Specification A568/ A568M, are permitted when an 
+unsatisfactory test result is suspected to be the consequence of 
+the test method procedure. 
+10.2 Disposition of non-conforming material shall be sub­
+ject to the requirements of Subsection 11.2 of Specification 
+A568/ A568M. 
+1503 

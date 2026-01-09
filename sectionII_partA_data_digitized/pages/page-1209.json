@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 411,
+  "globalPageIndex": 1209,
+  "width": 795.6,
+  "height": 617.04,
+  "text": ",-,. ,-,. \nN ,-,. \n( \n,----~-. \nTABLE 1 Chemical Requirements \nGrade ............... TP304 TP 304L TP 304LN TP 316 TP 316L TP 316LN TP XM-29 TP 304N \nUNS S30400 S30403 S30453 S31600 S31603 S31653 S24000 S30451 \nElement DesignationA \n.... \nComposition, % \nCarbon, max 0.08 0.035 0.035 0.08 \nManganese, max 8 2.00 2.00 2.00 2.00 \nPhosphorus, max 0.040 0.040 0.040 0.040 \nSulfur, max 0.030 0.030 0.030 0.030 \nSilicon, max 0.75 0.75 0.75 0.75 \nNickel 8.00- 8.00- 8.00- 10.00-\n11.00 13.00 13.00 14.00 \nChromium 18.00- 18.00- 18.00- 16.00-\n20.00 20.00 20.00 18.00 \nMolybdenum ... ... ... 2.00-\n3.00 \nNitrogenc ... ... 0.10- ... \n0.16 \nCopper ... ... ... ... \nlitanium ... ... ... ... \nAluminum ... ... ... ... \nOthers ... ... ... \nA New designation established in accordance with Practice E527 and SAE J1086. \n8 Maximum, unless otherwise noted. \n0.035 0.035 0.060 \n2.00 2.00 11.50-\n14.50 \n0.040 0.040 0.060 \n0.030 0.030 0.030 \n0.75 0.75 1.00 \n10.00- 10.00- 2.25-\n15.00 15.00 3.75 \n16.00- 16.00- 17.00-\n18.00 18.00 19.00 \n2.00- 2.00- ... \n3.00 3.00 \n... 0.10- 0.20-\n0.16 0.40 \n. .. . .. . .. \n... . .. ... \n. .. . .. ... \n... ... ... \nc The method of analysis for nitrogen shall be a matter of agreement between the purchaser and manufacturer. \n0 (AI + li) = 0.85 - 1.20. \nEFe shall be determined arithmethically by difference of 100 minus the sum of the other specified elements. \n0.08 \n2.00 \n0.040 \n0.030 \n0.75 \n8.00-\n11.0 \n18.0-\n20.0 \n... \n0.10-\n0.16 \n. .. \n. .. \n... \n. .. \nTP316N \nS31651 \n0.08 \n2.00 \n0.040 \n0.030 \n0.75 \n10.00-\n14.00 \n16.0-\n18.0 \n2.00-\n3.00 \n0.10-\n0.16 \n. .. \n... \n. .. \n... \n... 800 800H . .. \nN08367 N08800 N08810 N08811 \n0.030 0.10 0.05- 0.06-\n0.10 0.10 \n2.00 1.50 1.50 1.50 \n0.040 0.045 0.045 0.045 \n0.030 O.Q15 O.Q15 O.Q15 \n1.00 1.00 1.00 1.00 \n23.50- 30.0- 30.0- 30.0-\n25.50 35.0 35.0 35.0 \n20.00- 19.00- 19.00- 19.00-\n22.00 23.0 23.0 23.0 \n6.00- ... .. . ... \n7.00 \n0.16- ... .. . ... \n0.25 \n0.75 max 0.75 0.75 0.75 \n... 0.15- 0.15- 0.25-\n0.60 0.60 0.60D \n... 0.15- 0.15- 0.25-\n0.60 0.60 0.60D \n... Fe Fe Fe \n39.5 39.5 39.5 \nMin.E Min.E Min.E \n. .. . .. \nN08926 S31254 \n0.020 0.020 \n2.00 1.00 \n0.03 0.030 \n0.01 0.010 \n0.5 0.80 \n24.00- 17.5-\n26.00 18.5 \n19.00- 19.5-\n21.00 20.5 \n6.0- 6.0-\n7.0 6.5 \n0.15- 0.16-\n0.25 0.22 \n0.5-1.5 0.50-1.00 \n... . .. \n. .. . .. \n. .. . .. \n. .. \nS32654 \n0.020 \n2.Q-4.0 \n0.030 \n0.005 \n0.50 \n21.0-\n23.0 \n24.0-\n25.0 \n7.0-\n8.0 \n0.45-\n0.55 \n0.30-0.60 \n. .. \n... \n. .. \n) \nI \n~ ;:., \n~ N \n0 \nN \ni:n \n~ \nQ\\ \n00 \n00 \n~ \nQ\\ \n00 \n00 \n3: ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1209.json",
+  "tabulaTablesCsv": "tables_tabula/page-1209.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-1209.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2480,
+  "bestTextAlphaRatio": 0.2121
+}

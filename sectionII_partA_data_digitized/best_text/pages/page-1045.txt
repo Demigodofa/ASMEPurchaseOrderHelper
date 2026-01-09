@@ -1,0 +1,131 @@
+ASME BPVC.II.A-2025 SA-556/SA-556M (ASTM A556/A556M) 
+6. Chemical Composition 
+6.1 The steel shall conform to one of the requirements as to 
+chemical composition as prescribed in Table 1. 
+6.2 When a grade is ordered under this specification, sup­
+plying an alloy grade that specifically requires the addition of 
+any element other than those listed for the ordered grade in 
+Table 1 is not permitted. 
+7. Product Analysis 
+7.1 When requested in the purchase order, a product analy­
+sis shall be made by the manufacturer or supplier from one tube 
+or billet per heat. 
+7 .2 If the original test for product analysis fails, retests of 
+two additional tubes or billets shall be made. Both retests for 
+the elements in question shall meet the requirements of this 
+specification; otherwise, all remaining material in the heat or 
+lot (Note 1) shall be rejected or, at the option of the producer, 
+each tube may be individually tested for acceptance. Tubes that 
+do not meet the requirements of this specification shall be 
+rejected. 
+NoTE 1-For tension and hardness test requirements, the term lot 
+applies to all tubes prior to cutting, of the same nominal diameter and wall 
+thickness which are produced from the same heat of steel. When final heat 
+treatment is in a batch-type furnace, a lot shall include only those tubes of 
+the same size and the same heat which are heat treated in the same furnace 
+charge. When the final heat treatment is in a continuous furnace, a lot shall 
+include all tubes of the same size and heat, heat treated in the same furnace 
+at the same temperature, time at heat and furnace speed. 
+7.3 For referee purposes, Test Methods A751 shall be used. 
+8. Mechanical Properties 
+8.1 Tensile Properties-The material shall conform to the 
+requirements as to tensile properties prescribed in Table 2, 
+when pulled in full section. 
+8.2 Hardness Requirements-The tubes shall not exceed the 
+Rockwell Hardness shown in Table 3. 
+9. Permissible Variations in Dimensions (Fig. 1) 
+TABLE 2 Tensile Requirements 
+GradeA2 Grade B2 Grade C2 
+Tensile strength, min, ksi [MPa] 
+Yield strength, min, ksi [MPa] 
+Elongation in 2 in. or 50 mm, 
+min, % (longitudinal) 
+47 [320] 
+26 [180] 
+35 
+60 [410] 
+37 [260] 
+30 
+TABLE 3 Hardness Requirements 
+Grade A2 72 HRBW 
+Grade B2 79 HRBW 
+Grade C2 89 HRBW 
+70 [480] 
+40 [280] 
+30 
+9.2 Permissible variations from the specified minimum wall 
+thickness shall not exceed +20 % or -0. The wall thickness of 
+the tube in U-bent section shall be not less than value 
+determined by: 
+t.r= T (2R)/(2R+D) 
+where: 
+tr = wall thickness after bending, in. [mm], 
+T = specified minimum tube wall thickness, in. [mm], 
+R = centerline bend radius, in. [mm], and 
+D = ·nominal outside tube diameter, in. [mm]. 
+(1) 
+9.3 In the case of U-tubes, the length of the tube legs as 
+measured from the point of tangency of the bend and the tube 
+leg to the end of the tube leg shall not be less than specified, but 
+may exceed the specified values by the amount given in Table 
+4. The difference in lengths of the tube legs shall not be greater 
+than 1/s in. [3 mm] unless otherwise specified. 
+9.4 The end of any tube may depart from square by not 
+more than the amount given in Table 5. 
+9.5 The leg spacing measured between the points of tan­
+gency of the bend to the legs shall not vary from the value (2R 
+- specified tube OD) by more than 1/16 in. [1.5 mm] where R is 
+the centerline bend radius. 
+9.6 The bent portion of the U-tube shall be substantially 
+uniform in curvature and not exceed ± 1/16 in. [ ± 1.5 rnm] of the 
+normal centerline radius. - - - - - ______ 9~LP~fllli_ssible variations from the specified outside diam-
+eter shall not exceecf":±o--:0O4·in. lD---:-1DITllll]Torto:btng antler - -10:-Workmanship,-Finish,--and-Appearance__ ___ ____ _ 
+1.0-in. [25.4-mm] outside diameter nor ±0.006 in. [0.15 mm] 
+for tubing 1.0 in. [25.4 mm] to 1.25 in. [31.7 mm] inclusive. 
+These tolerances do not apply to the bent p01tion of the 
+U-tubes. At the bent portion of a U-tube for R = 2 x D or 
+greater neither the major nor minor diameter of tube shall 
+deviate from nominal by more than 10 %. If 1 ½Dis specified, 
+tolerances could be greater. 
+TABLE 1 Chemical Requirements 
+Element 
+Carbon, max 
+Manganese 
+Phosphorus, max 
+Sulfur, max 
+Silicon, min 
+Grade A2 
+0.18 
+0.27-0.63 
+0.035 
+0.035 
+Composition, % 
+Grade B2 
+0.27 
+0.29-0.93 
+0.035 
+0.035 
+0.10 
+Grade C2 
+0.30 
+0.29-1.06 
+0.035 
+0.035 
+0.10 
+945 
+10.1 Finished tubes shall be free from scale but may have a 
+superficial oxide film on the surfaces. A light oxide scale on the 
+outside and inside surfaces of U-bend shall be allowed for 
+tubes which have been heat treated. 
+10.2 Finished tubes shall be reasonably straight and have 
+smooth ends free from burrs. Tubes shall have a workmanlike 
+finish and shall be free of surface imperfections that cannot be 
+removed within the allowable wall tolerances. Removal of 
+smface imperfections such as handling marks, straightening 
+marks, light mandrel and die marks, shallow pits, and scale 
+pattern will not be required provided they are within the 
+allowable wall tolerances. 
+10.3 Finished tubes shall be coated both on the outside and 
+the inside diameter to prevent corrosion in transit. The type of 
+coating applied should be mutually agreed upon and specified 
+in the order. 

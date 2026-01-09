@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 300,
+  "globalPageIndex": 1098,
+  "width": 618.6,
+  "height": 796.8,
+  "text": "SA-568/SA-568M (ASTM A568/A568M) ASME BPVC.II.A-2025 \nXl.3.2.1 Low-carbon commercial steel (CS) and drawing \nsteel (DS) sheet are available as either batch- or continuous\u00ad\nannealed products, depending on the facilities of a given \nproducer. To minimize aging effects in continuous-annealed \nproducts, rotation of stock by fabricating the oldest material \nfirst is recommended. \nXl .4 Interstitial-Free Steels-Interstitial-free steels have \nessentially no interstitial solutes and, as a result, are nonaging. \nProcessing involves vacuum degassing during refining of the \nliquid steel, as well as additions of elements that form very \nstable carbides and nitrides, such as titanium or columbium \n(niobium). These steps ensure that total interstitial levels are \nvery low, and that the interstitials are all chemically combined \n( or stabilized) in the fmm of alloy carbides or nitrides. \nInterstitial-free steels are nonaging regardless of whether \nannealing is conducted in a continuous or batch manner. \nXl.4.1 Extra-deep drawing steel (EDDS) must be vacuum \ndegassed and stabilized. This nonaging, interstitial-free product \nis suitable for exposed applications with the most severe \nforming requirements. \nXl.5 Bake-Hardenable Steels-Bake-hardenable steels are \na special product class with controlled interstitial solute levels \nand aging behavior. These steels are processed to have mod\u00ad\nerate aging resistance, to permit forming while the steel is in its \nmost ductile condition. Aging occurs largely during a subse\u00ad\nquent thermal treatment (for example, paint-curing), which \nresults in desirable hardening of the final part for better \ndurability. \nXl.5.1 Continuous-annealed low-carbon steels can exhibit \nsignificant bake-hardening, as well as certain vacuum-degassed \nand batch-annealed steels. \nX2. STANDARD CHEMICAL RANGES AND LIMITS \nX2.l Standard chemical ranges and limits are prescribed for \ncarbon steels in Table X2.1. \nX2.2 Chemical ranges for non-standard steels are prescribed \nin Table X2.2. \nX2.2.1 Other ranges are available upon agreement between \npurchase and producer. \n998 \nX2.3 The purchaser shall indicate if they wish to invoke \nTable X2.l (and the Steel Designation to be employed), Table \nX2.2 (and the maximum composition), or Table X2.3 (and the \nGrade Designation) when placing their order. \nX2.3.1 Table X2.3 specifies options that may only be used \nin conjunction with Specifications A1008/A1008M and \nA1011/A1011M. \n-~-. ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1098.json",
+  "tabulaTablesCsv": "tables_tabula/page-1098.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-1098.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2460,
+  "bestTextAlphaRatio": 0.7715
+}

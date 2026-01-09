@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 147,
+  "globalPageIndex": 945,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "ASME BPVC.II.A-2025 SA-513/SA-513M (ASTM A513/A513M) \nSPECIFICATION FOR ELECTRIC-RESISTANCE-WELDED \nCARBON AND ALLOY STEEL MECHANICAL TUBING \nSA-513 /SA-513M cO \nINTSRNATIONAL \nStandards Worldwide \n(Identical with ASTM Specification A513/A513M-20a except that Supplementary Requirements SS, S6, and either S7 or \nSB at the manufacturer's option and certification have been made mandatory, and for editorial corrections in 3.1.7 and \nSS.1.) \nASME SA-513/SA-513M replaces paras. 3.1.7, 6.1, 7.1, and S5.1 of ASTM A513/A513M with the followirl!J: \n3.1.7 Report chemical analysis (see Section 6), product analysis (See Section 7), and results of tests performed to \nSupplementary Requirements SS, S6, and either S7 or SB. \n6.1 An analysis of each heat of steel shall be made by the steel manufacturer to determine the percentages of the ele-\n(25) \n-------------mentttpeeiJied-;---i-f-see0ruJ.gey-melting--preeesseiH1-Fe-empleyeEl,---tre-heat-analysi-ha!!-be-ebtaiRed-frem-0ne--remelted-ing0,F---------~ \nor the product of one remelted ingot of each primary melt The heat analysis shall conform to the requirements specified, \n~ \nexcept that where the heat identity has not been maintained or where the analysis is not sufficiently complete to permit \nconformance to be determined, the chemical composition determined from a product analysis made by the tubular \nmanufacturer shall conform to the requirements specified for heat analysis. A report of such analysis shall be furnished to \nthe purchaser. \n7.1 A product analysis shall be made by the supplier. The number and source of samples for such product analysis shall \nbe based on the individual heat or lot identity of one of the following forms of material: \nSS.1 Round tubing shall conform to the tensile requirements and not necessarily the hardness limits shown in Table \nSS.1. For grades of round tubing not shown in Table SS.1, and for all square and rectangular tubing, tensile or hardness \nlimits shall be upon agreement between the manufacturer and the purchaser. \n845 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0945.json",
+  "tabulaTablesCsv": "tables_tabula/page-0945.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-0945.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2029,
+  "bestTextAlphaRatio": 0.7457
+}

@@ -1,0 +1,26 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 460,
+  "globalPageIndex": 460,
+  "width": 597.72,
+  "height": 842.88,
+  "text": "SA-276 ASME BPVC.II.A-2025 \nSpecification for \nStainless Steel Bars and Shapes \n1. Scope \n1.1 This specification covers hot-finished or cold-finished \nbars except bars for reforging (Note 1). It includes rounds, \nsquares, and hexagons, and hot-rolled or extruded shapes, such \nas angles, tees, and channels in the more commonly used types \nof stainless steels. The free-machining types (Note 2) for \ngeneral corrosion resistance and high-temperature service are \ncovered in a separate specification. \nNoTE 1-For bars for reforging, see Specification A314. \nNoTE 2-For free-machining stainless bars designed especially for \noptimum machinability, see Specification A582/A582M. \nNoTE 3-There are standards covering high nickel, chromium, auste\u00ad\nnitic corrosion, and heat-resisting alloy materials. These standards are \nunder the jurisdiction of ASTM Subcommittee B02.07 and may be found \nin Annual Book of ASTM Standards, Vol. 02.04. \n1.2 The values stated in either SI units or inch-pound units \nare to be regarded separately as standard. Within the text, the \nSI units are shown in brackets. The values stated in each \nsystem may not be exact equivalents; therefore, each system \nshall be used independently of the other. Combining values \nfrom the two systems may result in non-conformance with the \nstandard. The inch-pound units shall apply unless the \"M\" \ndesignation of this specification is specified in the order. \n2. Referenced Documents \n2.l ASTM Standards: \nA314 Specification for Stainless Steel Billets and Bars for \nForging \nA370 Test Methods and Definitions for Mechanical Testing \nof Steel Products \nA484/ A484M Specification for General Requirements for \nStainless Steel Bars, Billets, and Forgings \nA582/A582M Specification for Free-Machining Stainless \nSteel Bars \n408 \nA751 Test Methods, Practices, and Terminology for Chemi\u00ad\ncal Analysis of Steel Products \nAl058 Test Methods for Mechanical Testing of Steel \nProducts-Metric \nE527 Practice for Numbering Metals and Alloys in the \nUnified Numbering System (UNS) \n2.2 SAE Document: \nSAE J 1086 Recommended Practice for Numbering Metals \nand Alloys \n3. Ordering Information \n3.1 It is the responsibility of the purchaser to specify all \nrequirements that are necessary for material ordered under this \nspecification. Such requirements rnay include but are not \nlimited to the following: \n3.1.1 Quantity (weight or number of pieces), \n3.1.2 Name of material: stainless steel, \n3.1.3 Form (bars, angles, and so forth), \n3.1.4 Condition (Section 4.1), \n3.1.5 Finish (Section 8 of Specification A484/A484M), \n3.1.6 Surface preparation of shapes (Section 8 of Specifica-\ntion A484/A484M), \n3 .1. 7 Applicable dimensions including size, thickness, \nwidth, and length, 1, \n3.1.8 Cross section (round, square, and so forth), \n3.1.9 Type or UNS designation (Table 1), \n3.1.10 ASTM designation and date of issue, and \n3 .1.11 Whether bars are to be rolled as bars or cut from strip \nor plate. \n3.1.12 Test for magnetic permeability when specified by \ncustomer purchase order when ordering Types 201 and 205. \n3 .1.13 Choice of testing track from the options listed in Test \nMethods A1058 when material is ordered to an M suffix (SI \nunits) product standard. If the choice of test track is not \nspecified in\u00b7 the order, then the default ASTM track shall be \nused as noted in Test Methods A1058. \n3.1.14 Supplementary requirements, and \n3.1.15 Additional requirements. ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0460.json",
+  "tabulaTablesCsv": "tables_tabula/page-0460.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0460.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 3424,
+  "bestTextAlphaRatio": 0.7401,
+  "noteOcrPath": "note_ocr/page-0460.txt",
+  "noteOcrCount": 0,
+  "noteOcrNotes": [],
+  "noteOcrHighDpiPath": "note_ocr_highdpi/page-0460.txt",
+  "noteOcrHighDpiCount": 1,
+  "noteOcrHighDpiNotes": [
+    "Note 3\u2014There are standards covering high nickel, chromium, auste-"
+  ]
+}

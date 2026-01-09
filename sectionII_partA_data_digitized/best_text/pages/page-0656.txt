@@ -1,0 +1,119 @@
+SA-370 ASME BPVC.11.A-2025 
+c::c::J 
+L......__ 55 mm ___ _J ,---{2.1651n.)~l 
+L 
+. LI
+·. .2mm.{(l..07·9.·.1n,) x· O.ZSmm r7 l:__ 10 mm (0.010 In,) rad. 
+_b:.::J .L(o.394111.) : 
+i+,rnmm • ' (0.394 In.) 45" 
+Norn I-Permissible variations shall be as follows: 
+Notch length to edge 
+Adjacent sides shall be at 
+Cross-section dimensions 
+Length of specimen (L) 
+Centering of notch (U2) 
+Angle of notch 
+Radius of notch 
+Notch depth 
+Finish requirements 
+90 ±2° 
+90° ± 10 min 
+±0.075 mm (±0.003 in.) 
++ o, - 2.5 mm ( + o, - 0.100 in.) 
+±1 mm (±0.039 in.) 
+±10 
+±0.025 mm (±0.001 in.) 
+±0.025 mm (±0.001 in.) 
+2 µm (63 µin.) on notched surface and 
+opposite face; 4 µm (125 µin.) on other 
+two surfaces 
+(a) Standard Full Size Specimen 
+\7o~ mm t;f mm t;f5 mm 
+'4197 ~ ~264 t ,;2ss in~ 
+[J [J [] 
+Norn 2-On subsize specimens, all dimensions and tolerances of the 
+standard specimen remain constant with the exception of the width, which 
+vaties as shown above and for which the tolerance shall be ± 1 %. 
+(b) Standard Subsize Specimens 
+FIG. 11 Charpy (Simple Beam) Impact Test Specimens 
+23.2.2.4 Tolerances for standard subsize specimens are 
+shown in Fig. 11. Standard subsize test specimen sizes are: 
+10 x 7.5 mm, 10 x 6.7 mm, 10 x 5 mm, 10 x 3.3 mm, and 
+10 x2.5 mm. 
+23.2.2.5 Notch the narrow face of the standard subsize 
+specimens so that the notch is perpendicular to the 10 mm wide 
+face. 
+23.3 Notch Preparation-The machining (for example, 
+milling, broaching, or grinding) of the notch is critical, as 
+minor deviations in both notch radius and profile, or tool marks 
+at the bottom of the notch may result in variations in test data, 
+particularly in materials with low-impact energy absorption. 
+(see Annex AS). 
+24. Calibration 
+24.1 Accuracy and Sensitivity-Calibrate and adjust Charpy 
+impact machines in accordance with the requirements of Test 
+Methods E23. 
+25. Conditioning-Temperature Control 
+25.1 When a specific test temperature is required by the 
+specification or purchaser, control the temperature of the 
+heating or cooling medium within ±2 °F (1 °C). 
+Norn 17-For some steels there may not be a need for this restticted 
+temperature, for example, austenitic steels. 
+Norn 18-Because the temperature of a testing laboratory often varies 
+from 60 to 90 °F (15 to 32 °C) a test conducted at "room temperature" 
+might be conducted at any temperature in this range . 
+26. Procedure 
+26.l Temperature: 
+26.1.1 Condition the specimens to be broken by holding 
+them in the medium at test temperature for at least 5 min in 
+liquid media and 30 min in gaseous media. 
+26.1.2 Prior to each test, maintain the tongs for handling test 
+specimens at the same temperature as the specimen so as not to 
+affect the temperature at the notch. 
+26.2 Positioning and Breaking Specimens: 
+26.2.1 Carefully center the test specimen in the anvil and 
+release the pendulum to break the specimen. 
+26.2.2 If the pendulum is not released within 5 s after 
+removing the specimen from the conditioning medium, do not 
+break the specimen. Return the specimen to the conditioning 
+medium for the period required in 26.1.1. 
+26.3 Recovering Specimens-In the event that fracture ap­
+pearance or lateral expansion must be determined, recover the 
+matched pieces of each broken specimen before breaking the 
+next specimen. 
+26.4 Individual Test Values: 
+26.4.1 Impact Energy-Record the impact energy absorbed 
+to the nearest ft· lbf (J). 
+604 
+26.4.2 Fracture Appearance: 
+26.4.2.1 Determine the percentage of shear fracture area by 
+any of the following methods: 
+(I) Measure the length and width of the brittle portion of 
+the fracture surface, as shown in Fig. 13 and determine the 
+percent shear area from either Table 7 or Table 8 depending on 
+the units of measurement. 
+(2) Compare the appearance of the fracture of the specimen 
+with a fracture appearance chart as shown in Fig. 14. 
+(3) Magnify the fracture surface and compare it to a 
+precalibrated overlay chart or measure the percent shear 
+fracture area by means of a planimeter. 
+(4) Photograph the fractured surface at a suitable magnifi­
+cation and measure the percent shear fracture area by means of 
+a planimeter. 
+26.4.2.2 Determine the individual fracture appearance val­
+ues to the nearest 5 % shear fracture and record the value. 
+26.4.3 Lateral Expansion: 
+26.4.3.1 Lateral expansion is the increase in specimen 
+width, measured in thousandths of an inch (mils), on the 
+compression side, opposite the notch of the fractured Charpy 
+V-notch specimen as shown in Fig. 15. 
+26.4.3.2 Examine each specimen half to ascertain that the 
+protrusions have not been damaged by contacting the anvil, 
+machine mounting smface, and so forth. Discard such samples 
+since they may cause erroneous readings. 
+26.4.3.3 Check the sides of the specimens perpendicular to 
+the notch to ensure that no burrs were formed on the sides 
+during impact testing. If burrs exist, remove them carefully by 
+rubbing on emery cloth or similar abrasive surface, making 
+sure that the protrusions being measured are not rubbed during 
+the removal of the burr. 

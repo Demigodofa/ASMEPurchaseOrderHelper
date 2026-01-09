@@ -1,0 +1,356 @@
+=== Page 475 ===
+
+ASME BPVC.ILA-2025 SA-283/SA-283M (ASTM A283/A283M)
+
+SPECIFICATION FOR LOW AND INTERMEDIATE
+TENSILE STRENGTH CARBON STEEL PLATES
+
+CxS SA-283/SA-283M ily
+
+iermnnarionat,
+® Standares Worwide
+
+(Identical with ASTM Specification A283/A283M-18.)
+
+423
+
+(28)
+
+=== Page 476 ===
+
+SA-283 /SA-283M (ASTM A283 /A283M) ASME BPVGC.ILA-2025
+Ally Designation: A283/A283M - 18
+~y
+INTERNATIONAL
+Standard Specification for
+1 . 1
+Low and Intermediate Tensile Strength Carbon Steel Plates
+This standard is issued under the fixed designation A283/A283M; the number immediately following the designation indicates the year
+of original adoption or, in the case of revision, the year of last revision. A number in parentheses indicates the year of last reapproval.
+A superscript epsilon () indicates an editorial change since the last revision or reapproval.
+This standard has been approved for use by agencies of the U.S. Department of Defense.
+1. Scope* Development of International Standards, Guides and Recom-
+1.1 This specification? covers two grades (C and D) of mendations issued by the World Trade Organization Technical
+carbon steel plates of structural quality for general application. Barriers to Trade (IBT) Committee.
+1.2 When the steel is to be welded, a welding procedure 2. Referenced Documents
+suitable for the grade of steel and intended use or service is to 2.1 ASTM Standards:?
+be utilized. See Appendix X3 of Specification A6/A6M for A6/A6M Specification for General Requirements for Rolled
+information on weldability. Structural Steel Bars, Plates, Shapes, and Sheet Piling
+1.3 The values stated in either inch-pound units or Slunits 3 Ceneral Requirements for Delivery
+are to be regarded separately as standard. Within the text, the 31 Pl furnished under thi Gcati hall f
+SI units ‘are shown in brackets. The values stated in each h ates urnishe ¢ the. this sp se ion of 5 “ine orm
+system may not be exact equivalents; therefore, each system to the requirements Of the current edition o pec cation
+shall be used independently of the other. Combining values AG/ AOM, for the specific date ordered, unless a conilict exists,
+‘ from the two systems may result in non-conformance with the ™ which case this specification shall prevail.
+standard. : 3.2 Coils are excluded from qualification to this specifica-
+1.4 For plate produced from coil and furnished without heat i ua any il processec ne L a pais Plates
+treatment or with stress relieving only, the additional P i “dh ; lone “f a coil Th es tha ti i, cut Me
+requirements, including additional testing requirements and the mM Ivicua ble £ oth a CO} ti © Soh et ; ch y controls,
+reporting of additional test results, of Specification A6/AGM 38 FeSPONSHDIe for, the operabons MVOlved tt Ue Processing
+apply of a coil into finished plates. Such operations include decoiling,
+a . . leveling, cutting to length, testing, inspection, conditioning,
+1.5 This specification contains notes or footnotes, or both, —_ eat treatment (if applicable), packaging, marking, loading for
+that provide explanatory material: Such notes and footnotes, shipment, and certification.
+excluding those in tables and figures, do not contain any Nove 1_For ol duced £ ‘| and furnished without
+; ote 1—For plates produced from coil and furnished without heat
+‘ mandatory requirements. | treatment or with stress relieving only, two test results are to be reported
+1.6 This international standard was developed in accor- for each qualifying coil. Additional requirements regarding plate produced
+dance with internationally recognized principles on standard- _ from coil are described in Specification A6/A6M.
+ization established in the Decision on Principles for the 4 Materials and Manufacture ,
+4.1 The steel shall be made by one or more of the following .
+' This specification is under the jurisdiction of ASTM Committee A01 on Steel, processes: basic-oxygen or electric-furnace.
+Stainless Steel and Related Alloys and is the direct responsibility of Subcommittee -s
+A01.02 on Structural Steel for Bridges, Buildings, Rolling Stock and Ships. 4.2 The steel shall be killed.
+Current edition approved June 1, 2018. Published June 2018. Originally a
+approved in 1946. Last previous edition approved in 2013 as A283/A283M — 13. * For referenced ASTM standards, visit the ASTM website, www.astm.org, or
+DOI: 10.1520/A0283_A0283M-18. contact ASTM Customer Service at service@astm.org. For Annual Book of ASTM
+? For ASME Boiler and Pressure Vessel Code applications, see related Specifi- Standards volume information, refer to the standard’s Document Summary page on
+cation SA-283/SA 283M in Section II of that Code. the ASTM website.
+*A Summary of Changes section appears at the end of this standard
+424
+
+=== Page 477 ===
+
+ASME BPVC.11.A-2025 SA-283/SA-283M (ASTM A283/A283M) 
+TABLE 1 Chemical Requirements 
+Carbon, max 
+Manganese, max 
+Phosphorus, max 
+Sulfur, max 
+Silicon 
+Elements 
+Plates 1 ½ in. [40 mm] and under, max 
+Plates over 1 ½ in. [40 mm] 
+Copper, min % when copper is specified 
+Grade C 
+0.24 
+0.90 
+0.030 
+0.030 
+0.40 
+0.15-0.40 
+0.20 
+Heat Analysis, % 
+Grade D 
+0.27 
+0.90 
+0.030 
+0.030 
+0.40 
+0.15-0.40 
+0.20 
+TABLE 2 Tensile RequirementsA 
+Grade C Grade D 
+Tensile strength, ksi [MPa] 
+Yield point, min, ksi [MPa] 
+55-75 [380-515) 
+30 [205] 
+60-80 [ 415-550] 
+33 [230] 
+Elongation in 8 in. [200 mm], min, % 8 
+Elongation in 2 in. [50 mm], min, % 8 
+22 
+25 
+A See Specimen Orientation under the Tension Tests section of Specification A6/A6M. 
+20 
+23 
+8 For plates wider than 24 in. [610 mm], the elongation requirement is reduced two percentage points. See elongation requirement adjustments in the Tension Tests section 
+of Specification A6/A6M. 
+5. Chemical Composition 
+5.1 The heat analysis shall conform to the requirements 
+prescribed in Table 1. 
+5.2 The steel shall conform on product analysis to the 
+requirements prescribed in Table 1, subject to the product 
+analysis tolerances in Specification A6/ A6M. 
+6. Mechanical Properties 
+6.1 Tensile Properties: 
+6.1.1 Material as represented by the test specimens shall 
+conform to the requirements as to tensile properties prescribed 
+in Table 2. 
+7. Keywords 
+7.1 carbon steel; plates; structural quality 
+SUPPLEMENTARY REQUIREMENTS 
+Supplementary requirements shall not apply unless specified in the order or contract. Standardized 
+supplementary requirements for use at the option of the purchaser are listed in Specification A6/ A6M. 
+Those that are considered suitable for use with this specification are listed by title: 
+S2. Product Analysis. 
+S3. Simulated Post-Weld Heat Treatment of Mechanical 
+Test Coupons. 
+S5. Charpy V-Notch Impact Test. 
+425 
+S6. Drop Weight Test (for Material 0.625 in. [16 mm] and 
+over in Thickness). 
+S8. Ultrasonic Examination. 
+S15. Reduction of Area.
+
+=== Page 478 ===
+
+SA-283 /SA-283M (ASTM A283 /A283M) ASME BPVC.ILA-2025
+SUMMARY OF CHANGES —.
+Committee AQ] has identified the location of selected changes to this standard since the last issue
+(A283/A283M — 13) that may impact the use of this standard. (Approved June 1, 2018.)
+
+(1) Revised 1.3. (4) Revised subject heading in Section 5.
+
+(2) Revised subject heading in Section 4. (5) Revised Table 2, Table Footnote B.
+
+(3) Removed open hearth from 4.1.
+
+ASTM International takes no position respecting the validity of any patent rights asserted in connection with any item mentioned
+in this standard. Users of this standard are expressly advised that determination of the validity of any such patent rights, and the risk
+of infringement of such rights, are entirely their own responsibility.
+This standard is subject to revision at any time by the responsible technical committee and must be reviewed every five years and
+if not revised, either reapproved or withdrawn. Your comments are invited either for revision of this standard or for additional standards ce
+and should be addressed to ASTM International Headquarters. Your comments will receive careful consideration at a meeting of the
+responsible technical committee, which you may attend. If you feel that your comments have not received a fair hearing you should
+. make your views known to the ASTM Committee on Standards, at the address shown below. . | .
+This standard is copyrighted by ASTM International, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428-2959,
+United States. Individual reprints (single or multiple copies) of this standard may be obtained by contacting ASTM at the above
+address or at 610-832-9585 (phone), 610-832-9555 (fax), or service@astm.org (e-mail); or through the ASTM website
+(www.astm.org). Permission rights to photocopy the standard may also be secured from the Copyright Clearance Center, 222
+Rosewood Drive, Danvers, MA 01923, Tel: (978) 646-2600; http://www.copyright.com/
+426
+
+=== Page 479 ===
+
+ASME BPVC.ILA-2025 SA-285/SA-285M
+
+SPECIFICATION FOR PRESSURE VESSEL PLATES,
+CARBON STEEL, LOW- AND INTERMEDIATE-TENSILE
+STRENGTH
+
+Ox SA-285/SA-285M Ay
+
+IRNATIONAL
+
+'® Standards Workwide
+
+(Identical with ASTM Specification A285/A285M-17.)
+
+427
+
+=== Page 480 ===
+
+SA-285/SA-285M ASME BPVC.II.A-2025
+Standard Specification for —~
+Pressure Vessel Plates, Carbon Steel, Low- and |
+Intermediate-Tensile Strength
+1. Scope system are not exact equivalents; therefore, each system must
+1.1 This specification covers carbon steel plates of low- be used independently of the other. Combining values from the
+and intermediate-tensile strengths which may be killed or two systems may result in nonconformance with the specifi-
+semi-killed at the producer’s option. These plates are intended C4400. _
+for fusion-welded pressure vessels. 1.6 This international standard was developed in accor-
+1.2 Plates under this specification are available in three dance with internationally recognized principles on standard-
+srades having different strength levels as follows: ization established in the Decision on Principles for the —
+Tensile § » kei IMP Development of International Standards, Guides and Recom-
+Grade 2S 65 (ot 0- 4150, al mendations issued by the World Trade Organization Technical
+B 50-70 [345-485] Barriers to Trade (TBT) Committee.
+C 55-75 [380-515] :
+1.3 The maximum thickness of plates is limited by the 2. Referenced Documents
+capacity of the composition to meet the specified mechanical 2.1 ASTM Standards: ,
+property requirements. A20/A20M Specification for General Requirements for Steel ,
+Note 1—For killed carbon steels only, refer to the following ASTM , Plates for Pressure Vessels |
+specifications: a ] A299/A299M Specification for Pressure Vessel Plates, Car-
+ManganeseSilicon for Pressure Vessel Plates, Carbon Steel, bon Steel, Manganese-Silicon
+A515/A515M Specification for Pressure Vessel Plates, Carbon Steel, A435/ A435 M Specification for Straight-Beam Ultrasonic
+for Intermediate- and Higher-Temperature Service Examination of Steel Plates
+A516/A516M Specification for Pressure Vessel Plates, Carbon Steel, AS15/AS15M Specification for Pressure Vessel Plates, Car-
+- for Moderate- and Lower-Temperature Service bon Steel, for Intermediate- and Higher-Temperature Ser-
+1.4 For plates produced from coil and furnished without vice
+heat treatment or with stress relieving only, the additional A516/A516M Specification for Pressure Vessel Plates, Car-
+requirements, including additional testing requirements and the bon Steel, for Moderate- and Lower-Temperature Service
+reporting of additional test results, of Specification A20/A20M AS77/A577M Specification for Ultrasonic Angle-Beam Ex-
+apply. , amination of Steel Plates
+1.5 The values stated in either inch-pound units or SI units AS 78! AS 73M Specification for Str aight-Beam Ultrasonic
+are to be regarded separately as standard. Within the text, the Examination of Rolled Steel Plates for Special Applica-
+SI units are shown in brackets. The values stated in each tions
+, 3. General Requirements and Ordering Information
+, 3.1 Material supplied to this material specification shall |
+conform to Specification A20/A20M. These requirements out- -
+line the testing and retesting methods and procedures, permit- :
+ted variations in dimensions, and mass, quality and repair of
+. defects, marking, loading, and ordering information.
+3.2 In addition to the basic requirements of this
+specification, certain supplementary requirements are available
+when additional control, testing, or examination is required to ,
+| meet end use requirements. The purchaser is referred to the
+, 428
+
+=== Page 481 ===
+
+ASME BPVC.ILA-2025 SA-285/SA-285M
+_— TABLE 1 Chemical Requirements
+( Composition, %
+‘ Elements Cacia cece
+Grade A Grade B Grade C
+Carbon, max“ 0.17 0.22 0.28
+Manganese, max:
+Heat analysis 0.90 . 0.90 0.90
+Product analysis 0.98 0.98 0.98
+Phosphorus, max? 0.025 0.025 0.025
+Sulfur, max“ 0.025 0.025 0.025
+4 Applies to both heat and product analyses. ,
+TABLE 2 Tensile Requirements
+Grade A Grade B Grade C
+ksi [MPa] ksi [MPa] ksi [MPa]
+Tensile strength 45-65 [310-450] 50-70 [345-485] 55-75 [380-515]
+—_ Yield strength, min“ 24 [165] 27 [185] 30 [205]
+Elongation in 8 in. or [200 mm], min, %? 27 25 23
+Elongation in 2 in. or [50 mm], min, %® 30 28 27
+4 Determined by either the 0.2 % offset method or the 0.5 % extension-under-load method.
+® See Specification A20/A20M for elongation adjustment.
+listed Supplementary requirements in this specification andto 4. Heat Treatment ,
+i ificati 20/4 : Loa :
+the detailed requirements in Specification A20/A20M. 4.1 Plates are normally supplied in the as-rolled condition.
+3.3 Coils are excluded from qualification to this specifica- | The plates may be ordered normalized or stress relieved, or
+tion until they are processed into finished plate. Plates pro- both.
+duced from coil means plates that have been cut to individual
+lengths from coil. The processor directly controls, or is 5. Chemical Composition
+_ response ‘ob i" Operations involved mn ho rie decoit of 5.1 The steel shall conform to the requirements as to
+coils Into linished plates. such operations include decolling, — chemical composition as given in Table 1.
+leveling, cutting to length, testing, inspection, conditioning,
+heat treatment (if applicable), packaging, marking, loading for 6. Mechanical Properties
+shipment, and certification.
+. . 6.1 Tension Test—The plates, as represented by the tension
+Note 2—For plates produced from coil and furnished without heat test specimens, shall conform to the requirements given in
+treatment or with stress relieving only, three test results are reported for Table 2
+each qualifying coil. Additional requirements regarding plate produced LaDIC a“.
+from coil are described in Specification A20/A20M.
+3.4 If the requirements of this specification are in conflict 7, Keywords
+with the requirements of Specification A20/A20M, the require- 7.1 carbon steel plate; low-and-intermediate strength steel
+ments of this specification shall prevail. plate for pressure vessels; steel plate for pressure vessels
+SUPPLEMENTARY REQUIREMENTS
+LL Supplementary requirements shall not apply unless specified in the purchase order.
+A list of standardized supplementary requirements for use at the option of the purchaser is included
+in Specification A20/A20M. Those that are considered suitable for use with this specification are listed
+below by title.
+S3. Simulated Post-Weld Heat Treatment of Mechanical S11. Ultrasonic Examination in accordance with Specifica-
+Test Coupons, tion A377/AS77M, and
+54. Additional Tension Test, $12. Ultrasonic Examination in accordance with Specifica-
+S8. Ultrasonic Examination in accordance with Specifica- tion A5S78/A578M.
+tion A435/A435M,
+|
+429
+
+=== Page 482 ===
+
+SA-285/SA-285M ASME BPVC.II.A-2025 
+ADDITIONAL SUPPLEMENTARY REQUIREMENTS 
+Also listed below are additional optional supplementary requirements suitable for this specification: 
+S57. Copper-Bearing 
+S57 .1 The copper content, by heat analysis shall be 
+0.20-0.35 % and by product analysis 0.18-0.37 %. 
+S58. Restricted Copper 
+S58.1 The maximum incidental copper content by heat 
+analysis shall not exceed 0.25 %. 
+430
+
+Resolved Notes (AI-verified)
+NOTE 1 (page 480)
+Note 1—For killed carbon steels only, refer to the following ASTM , Plates for Pressure Vessels |
+specifications: a ] A299/A299M Specification for Pressure Vessel Plates, Car-
+ManganeseSilicon for Pressure Vessel Plates, Carbon Steel, bon Steel, Manganese-Silicon
+A515/A515M Specification for Pressure Vessel Plates, Carbon Steel, A435/ A435 M Specification for Straight-Beam Ultrasonic
+for Intermediate- and Higher-Temperature Service Examination of Steel Plates
+A516/A516M Specification for Pressure Vessel Plates, Carbon Steel, AS15/AS15M Specification for Pressure Vessel Plates, Car-
+- for Moderate- and Lower-Temperature Service bon Steel, for Intermediate- and Higher-Temperature Ser-
+1.4 For plates produced from coil and furnished without vice
+heat treatment or with stress relieving only, the additional A516/A516M Specification for Pressure Vessel Plates, Car-
+requirements, including additional testing requirements and the bon Steel, for Moderate- and Lower-Temperature Service
+reporting of additional test results, of Specification A20/A20M AS77/A577M Specification for Ultrasonic Angle-Beam Ex-
+apply. , amination of Steel Plates
+1.5 The values stated in either inch-pound units or SI units AS 78! AS 73M Specification for Str aight-Beam Ultrasonic
+are to be regarded separately as standard. Within the text, the Examination of Rolled Steel Plates for Special Applica-
+SI units are shown in brackets. The values stated in each tions
+, 3. General Requirements and Ordering Information
+, 3.1 Material supplied to this material specification shall |
+conform to Specification A20/A20M. These requirements out- -
+line the testing and retesting methods and procedures, permit- :
+ted variations in dimensions, and mass, quality and repair of
+. defects, marking, loading, and ordering information.
+3.2 In addition to the basic requirements of this
+specification, certain supplementary requirements are available
+when additional control, testing, or examination is required to ,
+| meet end use requirements. The purchaser is referred to the
+, 428
+
+NOTE 2 (page 481)
+Note 2—For plates produced from coil and furnished without heat test specimens, shall conform to the requirements given in
+treatment or with stress relieving only, three test results are reported for Table 2
+each qualifying coil. Additional requirements regarding plate produced LaDIC a“.
+from coil are described in Specification A20/A20M.
+3.4 If the requirements of this specification are in conflict 7, Keywords
+with the requirements of Specification A20/A20M, the require- 7.1 carbon steel plate; low-and-intermediate strength steel
+ments of this specification shall prevail. plate for pressure vessels; steel plate for pressure vessels
+SUPPLEMENTARY REQUIREMENTS
+LL Supplementary requirements shall not apply unless specified in the purchase order.
+A list of standardized supplementary requirements for use at the option of the purchaser is included
+in Specification A20/A20M. Those that are considered suitable for use with this specification are listed
+below by title.
+S3. Simulated Post-Weld Heat Treatment of Mechanical S11. Ultrasonic Examination in accordance with Specifica-
+Test Coupons, tion A377/AS77M, and
+54. Additional Tension Test, $12. Ultrasonic Examination in accordance with Specifica-
+S8. Ultrasonic Examination in accordance with Specifica- tion A5S78/A578M.
+tion A435/A435M,
+|
+429

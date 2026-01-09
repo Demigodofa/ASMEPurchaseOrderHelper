@@ -1,0 +1,73 @@
+r..------.., 
+ASME BPVC.II.A-2025 SA-788/SA-788M 
+Jfacto,= (Mn+Si) (P+Sn) X 104 
+Has been found to be effective in reducing temper embrittle­
+ment effects. 
+S24.2 The purchaser shall specify the required maximum 
+value of Jfactor in both the inquiry and ordering documents. 
+S24.3 The determination of the tin content of the steel is 
+necessary for the application of this supplementary require­
+ment even if there is no chemical analysis requirement for tin 
+in the product specification. 
+Note-In Dr. Paul Bates's paper,1 it was noted that the 
+Fracture Appearance Transition Temperature (PATT) fell 
+steadily from Jfactor 120 to 60, but below 20, the drop in PATT 
+was much less apparent. 
+S25. Positive Material Identification 
+S25.1 Forgings shall receive positive material identification 
+to ensure that forgings are of the ordered material grade prior 
+to shipment. 
+S25.2 Forgings shall receive a positive material identifica­
+tion in accordance with Guide B1916. 
+S25.3 The entire ordered quantity of forgings shall be 
+examined. 
+S25.4 Forgings not conforming to the ordered grade shall be 
+rejected. 
+1 Bates, P., "The Production of Safety Critical Forgings for Pressure Vessel 
+Applications," International Forgemasters Conference, Wiesbaden, Germany, Sep­
+tember 2000. 
+S25.5 Following this material identification examination, 
+acceptable forgings shall be marked as agreed between the 
+purchaser and producer. 
+S26. Pressure Equipment Directive-Mechanical Testing 
+S26.1 Charpy impact testing shall be done at the lowest 
+scheduled operating temperature, but not higher than 68°F 
+[20oC]. 
+S26.2 The frequency of Charpy impact testing shall be the 
+same as that specified in the product specification for the 
+tension test, with one Charpy test (3 specimens) for each 
+required tension test. 
+S26.3 The minimum individual absorbed energy for the 
+Charpy impact test shall be 20 ft·lbf [27 J]. 
+S26.4 The minimum elongation in the tension test shall be 
+measured on a gauge length of five times the diameter of the 
+test specimen (5D), and shall be not less than 14 %. • 
+S26.5 The results of the impact and tension tests shall be 
+included in the product certification. 
+S27. Heat Analysis for Remelted Ingots 
+S27.1 Instead of the heat analysis provisions in 8.1.6.2 of 
+Specification A788/A788M for consumable electrode remelt­
+ing processes, a heat analysis shall be obtained from each 
+remelted ingot (or the product from it) from single master or 
+parent heat. 
+S27.2 The product analysis provisions of Specification 
+A788/A788M shall not apply. 
+ANNEXES 
+(Mandatory Information) 
+Al. RECIRCULATION FACTOR 
+Al. 1 The recirculation factor for the vacuum lift process is 
+obtained as follows: 
+Tons {kg) of Steel Lifted per Cycle X Number of Cycles 
+Heat Weight in Tons [kg] 
+A2. EXPLANATORY NOTE FOR WEIGHTED AVERAGE ANALYSIS 
+A2.l A weighted average analysis is mandatory whenever 
+an ingot is poured from the combination of two or more heats 
+wherein the resultant chemistry of the ingot assumes an 
+identity attributable to each heat involved in the combination. 
+It is necessary to make this determination to ensure that each 
+element in the official chemistry is represented by proportion to 
+its amount in each individual furnace heat. An example of the 
+determination of a weighted average analysis for an ingot made 
+from a three-heat combination pour with varying weights and 
+chemistry involved in each heat is shown below: 
+1283 

@@ -1,0 +1,52 @@
+SA-213/SA-213M (ASTM A213/A213M) ASME BPVC.ILA-2025
+SUPPLEMENTARY REQUIREMENTS —
+The following supplementary requirements shall apply only when specified by the purchaser in the
+inquiry, contract, or order.
+
+S1. Stress-Relieved Annealed Tubes $3.2 On the certification, and wherever the grade designa-
+
+S1.1 For use in certain corrosives, particularly chlorides tion for unstraightened tubing appears, it shall be identified
+where stress corrosion may occur, tubes in Grades TP304L, With the suffix letter “U” (for example, 304-U, 321-U, etc.).
+TP316L, TP321, TP347, and TP348 may be specified in the .
+stress-relieved annealed condition. S4. Intergranular Corrosion Test
+
+S1.2 When stress-relieved tubes are specified, tubes shall be S4.1 When speci . :
+
+. : 5 . pecified, material shall pass intergranular cor-
+given a h cat treatment at 1500 to 1650 F [815 to 900 °C] after rosion tests conducted by the manufacturer in accordance with
+roll straightening. Cooling from this temperature range may be . .
+
+: . : : ; an Practices A262, Practice E. .
+either in air or by slow cooling. No mechanical straightening is . : . . .
+permitted after the stress-relief treatment. Ne uence E requires testing on the sensitized condition for
+
+$1.3 Straightness of the tubes shall be a matter of negotia- sade on or stabilized grades, and on the as-shipped condition for other
+tion between the purchaser and supplier.
+$4.2 A stabilization heat treatment in accordance with
+S2. Stabilizing Heat Treatment Supplementary Requirement S2 may be necessary and is
+$2.1 Subsequent to the solution anneal required in Section permitted in order to meet this requirement for the grades
+6, Grades TP309HCb, TP310HCb, TP310HCbN, TP321, containing titanium or columbium, particularly in their H
+TP321H, TP347, TP347H, TP348, and TP348H shall be given _- versions.
+a stabilization heat treatment at a temperature lower than that
+used for the initial solution annealing heat treatment. The $5. Minimum Cooling Rate for Grade T91 Type 2
+temperature of stabilization heat treatment shall be at a ;
+temperature as agreed upon between the purchaser and vendor. $5.1 For Grade T91 Type 2 material, the heat treatment
+shall ensure that following austenitizing the rate of cooling
+S3. Unstraightened Tubes from 1650 °F to 900 °F [900 °C to 480 °C] is no slower than
+$3.1 When the purchaser specifies tubes unstraightened 9 F/min [5 °C/ min].
+after final heat treatment (such as coils), the minimum yield
+strength of Table 4 shall be reduced by 5 ksi [35 MPa].
+SUMMARY OF CHANGES
+Committee AO1 has identified the location of selected changes to this standard since the last issue
+(A213/A213M — 22a) that may impact the use of this standard. (Approved May 1, 2023.)
+(1) Added Supplementary Requirement S5. (3) Revised outside diameter column in Table 6.
+(2) Corrected UNS number for Grade T9 in Table 3.
+Committee AO1 has identified the location of selected changes to this standard since the last issue
+(A213/A213M — 22) that may impact the use of this standard. (Approved Nov. 1, 2022.)
+(1) Added Alloy UNS S35030 to Table 2, Table 3, and Table 4.
+Committee AO1 has identified the location of selected changes to this standard since the last issue
+(A213/A213M — 21b) that may impact the use of this standard. (Approved May 1, 2022.)
+(1) Revised carbon maximum for UNS S31002 in Table 2.
+(2) Revised nitrogen from 0.18-0.22 to 0.18-0.25 for UNS
+$31254 in Table 2.
+292 )

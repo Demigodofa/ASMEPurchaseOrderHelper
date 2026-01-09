@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 384,
+  "globalPageIndex": 1182,
+  "width": 613.92,
+  "height": 793.2,
+  "text": "SA-666 ASME BPVC,11.A-2025 \nTABLE 4 \n.,,..,..---...... ___ \nV-BLOCI< BEND REQUIREMENTS \nAnnealed and \u00be Hard \nThickness ~ 0.050 in. Thickness > 0.050 to ~ 0.1874 in. \nType UNS Designation Included Bend Angle, 0 Bend Factor Included Bend Angle, 0 Bend Factor \n201 S20100 135 2 135 3 \n201L S20103 135 2 135 3 \n201LN S20153 135 2 135 3 \n202 S20200 135 4 135 4 \n205 S20500 135 2 135 3 \n301 S30100 135 2 135 3 \n301L S30103 135 2 135 3 \n301LN S30153 135 2 135 3 \n302 S30200 135 2 135 3 \n304 S30400 135 2 135 3 \n304L S30403 135 5 135 6 \n304N S30451 135 3 135 4 \n304LN S30453 135 4 135 5 \n316 S31600 135 5 135 6 \n316L S31603 135 6 135 7 \n316N S31651 135 5 135 6 \n\u00bc Hard \nThickness ~ 0.050 in. Thickness> 0.050 to~ 0.1874 in. \nType UN S Designation Included Bend Angle, 0 Bend Factor Included Bend Angle, 0 Bend Factor \n201 S20100 135 2 135 3 \n201L S20103 135 2 135 3 \n201LN S20153 135 2 135 3 \n205 S20500 135 2 135 3 \n301 S30100 135 2 135 3 \n301L S30103 135 2 135 3 \n301LN S30153 135 2 135 3 \n302 S30200 135 2 135 3 \n304 S30400 135 2 135 3 \n304L S30403 135 5 135 6 \n304N S30451 135 3 135 4 \n304LN S30453 135 4 135 5 \n316 S31600 135 5 135 6 \n316L S31603 135 6 135 7 \n316N S31651 135 5 135 6 \n1090 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1182.json",
+  "tabulaTablesCsv": "tables_tabula/page-1182.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-1182.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1187,
+  "bestTextAlphaRatio": 0.2561
+}

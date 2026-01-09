@@ -1,0 +1,120 @@
+ASME BPVC.II.A-2025 SA-989 /SA-989M 
+TABLE 6 Repair Welding Requirements 
+UNS 
+Designation ElectrodesA 
+Preheat and 
+lnterpass 
+Temperature 
+Range, °F [°C] 
+Allo Steels 
+K90941 
+K91650 
+K31545 
+E 505-15 or 16 
+9 % Cr, 1 % Mo, VCbN 
+E 9018-B 3 
+K21590 Class 1 E 9018-B 3 
+K21590 Class 3 E 9018-B 3 
+A Electrodes shall comply with ASME SFA 5.5. 
+400-700 
+[205-370] 
+400-700 
+[205-370] 
+300-600 
+[150-315] 
+300-600 
+[150-315] 
+300-600 
+[150-315] 
+Minimum Post­
+Weld Heat 
+Treatment 
+Temperature 
+OF [OC] 
+1250 [675] 
+1300 [705] 
+1250 [675] 
+1250 [675] 
+1250 [675] 
+in accordance with ASME Specification SFA-5.5. The sub­
+merged arc process with neutral flux, the gas metal-arc welding 
+and gas tungsten-arc welding processes are permitted. 
+13.1.3 Defects shall be completely removed prior to weld­
+ing by chipping or grinding to sound metal as verified by 
+magnetic particle inspection in accordance with Test Method 
+A275/A275M for the alloy steels in this specification, or by 
+liquid penetrant inspection in accordance with Test Method 
+E165/El65M for all grades. 
+13.1.4 After repair welding, the welded area shall be ground 
+smooth to the original contour and shall be free of defects as 
+verified by magnetic-particle or liquid-penetrant inspection, as 
+applicable. 
+13.l.5 The preheat, interpass temperature, and post-weld 
+heat treatment, requirements given in Table 6 shall be met. 
+13.1.6 Repair by welding shall not exceed 10 % of the 
+surface area of the part. Repair by welding shall not exceed 
+33Y3 % of the wall thickness of the finished part or 3/s in. [9.5 
+mm], whichever is less. 
+14. Inspection 
+14.1 The manufacturer shall afford the purchaser's inspector 
+all reasonable facilities necessary to satisfy the inspector that 
+the material is being furnished in accordance with the purchase 
+order. Inspection by the purchaser shall not interfere unneces­
+sarily with the manufacturer's operations. All tests and inspec­
+tions shall be made at the place of manufacture unless 
+otherwise agreed upon. 
+15. Rejection 
+15.l Each part that develops defects during shop working 
+operations or in service shall be rejected and the manufacturer 
+notified. 
+15.2 Samples representing material rejected by the pur­
+chaser shall be preserved until disposition of the claim has been 
+agreed upon between the manufacturer and the purchaser. 
+16. Certification 
+16.1 In addition to the certification requirements of Speci­
+fication A961/A961M, test reports shall be furnished to the 
+purchaser or his representative. Test reports shall provide the 
+following as applicable: 
+16.1.1 Type of heat treatment, Section 7, (Table 2), 
+16.1.2 Chemical analysis results, Section 6 (Table 1), re­
+ported results shall be to the same number of significant figures 
+as the limits specified in Table 1 for that element, 
+16.1.3 Product analysis results, Section 10 (Table 4 or Table 
+5), 
+16.1.4 Tensile property results, Section 9 (Table 3), report 
+the yield strength and tensile strength, in ksi [MPa], elongation 
+and reduction in area, in percent, 
+16.1.5 Hardness results, 9.6 (Table 3), 
+16.1.6 Structural integrity test results, Section 8, and 
+16.1.7 Any supplementary testing required by the purchase 
+order. 
+17. Product Marking 
+17 .1 In addition to marking requirements of Specification 
+A961/A961M, the following additional marking requirements 
+shall apply: 
+17 .1.1 Quenched and tempered alloy steel parts shall be 
+marked with the letters "QT" following the specification 
+designation. 
+17.1.2 Hot isostatically-pressed parts repaired by welding 
+shall be marked with the letter "W" following the specification 
+designation. 
+17 .1.3 Hot isostatically-pressed parts meeting all require­
+ments for more than one class or grade are permitted at the 
+option of the producer to be marked with more than one class 
+or grade designation. 
+17.2 Bar Coding-In addition to the requirements in 17.1, 
+bar coding is acceptable as a supplemental identification 
+method. The purchaser may specify in the order that a specific 
+bar coding system be used. The bar coding system, if applied 
+at the discretion of the supplier, should be consistent with one 
+of the published industry standards for bar coding. If used on 
+small parts, the bar code may be applied to the box or a 
+substantially applied tag. 
+18. Keywords 
+18.1 alloy steel; chromium-alloy steel; chromium­
+molybdenum steel; gas-atomized powder; hot isostatically­
+pressed alloy steel pa1ts; piping applications; pipe fittings, 
+steel; pressure containing parts; steel flanges; steel valves; 
+temperature service applications, elevated; temperature service 
+applications, high 
+1475 

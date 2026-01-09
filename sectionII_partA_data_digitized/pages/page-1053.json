@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 255,
+  "globalPageIndex": 1053,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "ASME BPVC.II.A-2025 \nSPECIFICATION FOR CARBON AND ALLOY STEEL NUTS \nSA-563 \n(Identical with ASTM Specification A563-07a(2014) except for deletion of the term \"private label distributor\" in para. \n14.7 and 14.9 and editorially correct title.) \n953 \nSA-563 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-1053.txt",
+  "ocrTextLength": 252,
+  "ocrApplied": true,
+  "bestTextPath": "best_text/pages/page-1053.txt",
+  "bestTextSource": "ocr",
+  "bestTextLength": 252,
+  "bestTextAlphaRatio": 0.6865
+}

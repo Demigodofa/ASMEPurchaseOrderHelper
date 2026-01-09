@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 388,
+  "globalPageIndex": 388,
+  "width": 619.08,
+  "height": 858.72,
+  "text": "SA-234/SA-234M (ASTM A234/A234M) ASME BPVC.II.A-2025 \nANNEX \n(Mandatory Information) \nAl. FITTING DESIGNATION FOR MARKING PURPOSES \nGrade \nWPB \nWPC \nWP1 \nWP12 \nWP11 \nWP22 \nWP5 \nWP9 \nWPR \nWP91 Type 1 \nWP91 Type 2 \nWP92 \nWP115 \nWP911 \nTABLE A1.1 Fitting Designation for Marking Purposes \nClass \nCL1 \nCL2 \nCL1 \nCL2 \nCL3 \nCL1 \nCL3 \nCL1 \nCL3 \nCL1 \nCL3 \nConstruction \nW (Welded construction) \nS (Seamless construction) \nW (Welded construction) \nS (Seamless construction) \nW (Welded construction) \nS (Seamless construction) \nW (Welded construction) \nS (Seamless construction) \nW (Welded construction) \nS (Seamless construction) \nW (Welded construction) \nS (Seamless construction) \nW (Welded construction) \nS (Seamless construction) \nW (Welded construction) \nS (Seamless construction) \nW (Welded construction) \nS (Seamless construction) \nW (Welded construction) \nS (Seamless construction) \nW (Welded construction) \nS (Seamless construction) \nW (Welded construction) \nS (Seamless construction) \nW (Welded construction) \nS (Seamless construction) \nW (Welded construction) \nS (Seamless construction) \nW (Welded construction) \nS (Seamless construction) \nW (Welded construction) \nS (Seamless construction) \nW (Welded construction) \nS (Seamless construction) \nW (Welded construction) \nS (Seamless construction) \nW (Welded construction) \nS (Seamless construction) \nW (Welded construction) \nS (Seamless construction) \nA Add \"U\" to marking if welds are ultrasonic inspected in lieu of radiography. \n336 \nMandatory Marking \nWPBWA \nWPB \nWPCWA \nWPC \nWP1WA \nWP1 \nWP12 CL1WA \nWP12 CL1 \nWP12 CL2WA \nWP12 CL2 \nWP11 CL1WA \nWP11 CL1 \nWP11 CL2WA \nWP11 CL2 \nWP11 CL3WA \nWP11 CL3 \nWP22 CL1WA \nWP22 CL1 \nWP22 CL3WA \nWP22 CL3 \nWP5 CL1WA \nWP5CL1 \nWP5 CL3 WA \nWP5 CL3 \nWP9 CL1 WA \nWP9 CL1 \nWP9 CL3WA \nWP9 CL3 \nWPRWA \nWPR \nWP91T1WA \nWP91T1 \nWP91T2WA \nWP91T2 \nWP92WA \nWP92 \nWP115WA \nWP115 \nWP911WA \nWP911 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0388.json",
+  "tabulaTablesCsv": "tables_tabula/page-0388.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0388.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1870,
+  "bestTextAlphaRatio": 0.6754
+}

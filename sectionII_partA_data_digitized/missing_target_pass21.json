@@ -1,0 +1,90 @@
+{
+  "createdUtc": "2026-01-08T00:07:14.799666+00:00",
+  "summary": {
+    "items": 10,
+    "found": 0,
+    "merged": 0
+  },
+  "results": [
+    {
+      "spec": "SA-264",
+      "kind": "table",
+      "number": 19,
+      "pdf": "SA-264.pdf",
+      "approxPage": 32,
+      "status": "missing_pdf"
+    },
+    {
+      "spec": "SA-266",
+      "kind": "table",
+      "number": 2,
+      "pdf": "SA-266.pdf",
+      "approxPage": 4,
+      "status": "missing_pdf"
+    },
+    {
+      "spec": "SA-370",
+      "kind": "note",
+      "number": 12,
+      "pdf": "SA-370.pdf",
+      "approxPage": 13,
+      "status": "missing_pdf"
+    },
+    {
+      "spec": "SA-370",
+      "kind": "note",
+      "number": 13,
+      "pdf": "SA-370.pdf",
+      "approxPage": 13,
+      "status": "missing_pdf"
+    },
+    {
+      "spec": "SA-370",
+      "kind": "note",
+      "number": 1858,
+      "pdf": "SA-370.pdf",
+      "approxPage": 27,
+      "status": "missing_pdf"
+    },
+    {
+      "spec": "SA-401",
+      "kind": "note",
+      "number": 1,
+      "pdf": "SA-401.pdf",
+      "approxPage": 3,
+      "status": "missing_pdf"
+    },
+    {
+      "spec": "SA-487",
+      "kind": "note",
+      "number": 19,
+      "pdf": "SA-487.pdf",
+      "approxPage": 63,
+      "status": "missing_pdf"
+    },
+    {
+      "spec": "SA-540",
+      "kind": "note",
+      "number": 3,
+      "pdf": "SA-540.pdf",
+      "approxPage": 5,
+      "status": "missing_pdf"
+    },
+    {
+      "spec": "SA-540",
+      "kind": "note",
+      "number": 4,
+      "pdf": "SA-540.pdf",
+      "approxPage": 5,
+      "status": "missing_pdf"
+    },
+    {
+      "spec": "SA-960",
+      "kind": "note",
+      "number": 3,
+      "pdf": "SA-960.pdf",
+      "approxPage": 70,
+      "status": "missing_pdf"
+    }
+  ]
+}

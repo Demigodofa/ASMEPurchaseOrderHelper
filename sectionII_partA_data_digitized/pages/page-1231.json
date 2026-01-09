@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 433,
+  "globalPageIndex": 1231,
+  "width": 617.04,
+  "height": 795.6,
+  "text": "Type \n630 \n631 \n632 \n633 \n634 \n635 \nXM-9 \nXM-12 \nXM-13 \nXM-16 \nXM-25 \nS46500 \nASME BPVC.II.A-2025 \nTABLE 6 Bend Test Requirements in Solution-Treated Condition \nSize, in. (mm) Cold Bend \nDegrees \n0.187 (4.76) and under 180 \nOver 0.187 to 0.275 (4.76 to 6.98) 180 \n0.187 (4.76) and under 180 \nOver 0.187 to 0.275 (4.76 to 6.98) 180 \nUnder 0.1875 (4.762) 180 \n0.187 to 0.249 (4.76 to 6.32) 130 \nOver 0.249 to 0.750 (6.32 to 19.08) 90 \n0.109 (2.77) and under 180 \nUnder 0.1875 (4.762) 180 \nUnder 0.1875 (4. 762) 180 \n0.140 (3.56) and under 180 \nSA-693 (ASTM A693) \nBend Test \nMandrel \nnone required \n1TA \n3T \n1T \n3T \n2T \n3T \n3T \nnone required \n9T \nnone required \nnone required \n6T \n6T \n6T \nAT= thickness of sheet being tested. \nSUMMARY OF CHANGES \nCommittee A0l has identified the location of selected changes to this standard since the last issue \n(A693A693 - 16 (2022)) that may impact the use of this standard. (Approved Sept. 1, 2022.) \n( 1) Added 6.1.1 on continuous annealing. \nASTM International takes no position respecting the validity of any patent rights asserted In connection with any item mentioned \nin this standard. Users of this standard are expressly advised that determination of the validity of any such patent rights, and the risk \nof infringement of such rights, are entirely their own responsibility. \nThis standard is subject to revision at any time by the responsible technical committee and must be reviewed eve/)/ five years and \nif not revised, either reapproved or withdrawn. Your comments are invited either for revision of this standard or for additional standards \nand should be addressed to ASTM International Headquarters. Your comments will receive careful consideration at a meeting of the \nresponsible technical committee, which you may attend. If you feel that your comments have not received a fair hearing you should \nmake your views known to the ASTM Committee on Standards, at the address shown below. \nThis standard is copyrighted by ASTM International, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428-2959, \nUnited States. Individual reprints (single or multiple copies) of this standard may be obtained by contacting ASTM at the above \naddress or at 610-832-9585 (phone), 610-832-9555 (fax), or service@astm.org (e-mail); or through the ASTM website \n(www.astm.org). Permission rights to photocopy the standard may also be secured from the Copyright Clearance Center, 222 \nRosewood Drive, Danvers, MA 01923, Tel: {978) 646-2600; httpJ/www.copyright.com/ \n1145 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1231.json",
+  "tabulaTablesCsv": "tables_tabula/page-1231.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-1231.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2518,
+  "bestTextAlphaRatio": 0.6505
+}

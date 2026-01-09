@@ -1,0 +1,501 @@
+[
+  {
+    "rows": [
+      [
+        "",
+        "",
+        "",
+        "Over",
+        "Under",
+        "Over",
+        "Under",
+        "",
+        ""
+      ],
+      [
+        "Over 0.114 to 0.130 [2.90 to 3.30], incl",
+        "0.010",
+        "0.010",
+        "0.094",
+        "0.031",
+        "0.094",
+        "0.094",
+        "0.188",
+        "0.0"
+      ],
+      [
+        "",
+        "[0.25]",
+        "[0.25]",
+        "[2.40]",
+        "[0.80]",
+        "[2.40]",
+        "[2.40]",
+        "[4.80]",
+        ""
+      ],
+      [
+        "Over 0.130 to 0.145 [3.30 to 3.70], incl",
+        "0.012",
+        "0.012",
+        "0.094",
+        "0.031",
+        "0.094",
+        "0.094",
+        "0.188",
+        "0.0"
+      ],
+      [
+        "",
+        "[0.30]",
+        "[0.30]",
+        "[2.40]",
+        "[0.80]",
+        "[2.40]",
+        "[2.40]",
+        "[4.80]",
+        ""
+      ],
+      [
+        "Over 0.145 to less than 3/,a, [3.70 to 4.80]",
+        "0.014",
+        "0.014",
+        "0.094",
+        "0.031",
+        "0.094",
+        "0.094",
+        "0.188",
+        "0.0"
+      ],
+      [
+        "",
+        "[0.35]",
+        "[0.35]",
+        "[2.40]",
+        "[0.80]",
+        "[2.40]",
+        "[2.40]",
+        "[4.80]",
+        ""
+      ],
+      [
+        "3/15 to % [4.80 to 9.00], excl",
+        "0.050",
+        "0.010",
+        "0.094",
+        "0.031",
+        "0.094",
+        "0.094",
+        "0.188",
+        "0.0"
+      ],
+      [
+        "",
+        "[1.25]",
+        "[0.25]",
+        "[2.40]",
+        "[0.80]",
+        "[2.40]",
+        "[2.40]",
+        "[4.80]",
+        ""
+      ],
+      [
+        "% to3\u20444 [9.00 to 19.00], excl",
+        "0.060",
+        "0.010",
+        "0.094",
+        "0.031",
+        "0.094",
+        "0.094",
+        "0.188",
+        "0.0"
+      ],
+      [
+        "",
+        "[1.50]",
+        "[0.25]",
+        "[2.40]",
+        "[0.80]",
+        "[2.40]",
+        "[2.40]",
+        "[4.80]",
+        ""
+      ],
+      [
+        "3\u20444 to 1 [19.00 to 25.00], excl",
+        "0.065",
+        "0.010",
+        "0.094",
+        "0.031",
+        "0.094",
+        "0.094",
+        "0.188",
+        "0.0"
+      ],
+      [
+        "",
+        "[1.65]",
+        "[0.25]",
+        "[2.40]",
+        "[0.80]",
+        "[2.40]",
+        "[2.40]",
+        "[4.80]",
+        ""
+      ],
+      [
+        "1 to 2 [25.00 to 50.00]. excl",
+        "0.075",
+        "0.010",
+        "0.094",
+        "0.031",
+        "0.094",
+        "0.094",
+        "0.188",
+        "0.0"
+      ],
+      [
+        "",
+        "[1.90]",
+        "[0.25]",
+        "[2.40]",
+        "[0.80]",
+        "[2.40]",
+        "[2.40]",
+        "[4.80]",
+        ""
+      ],
+      [
+        "2 to 3 [50.00 to 75.00], excl",
+        "0.150",
+        "0.010",
+        "0.125",
+        "0.062",
+        "0.125",
+        "0.125",
+        "0.250",
+        "0.0"
+      ],
+      [
+        "",
+        "[3.80]",
+        "[0.25]",
+        "[3.00]",
+        "[1.60]",
+        "[3.00]",
+        "[3.00]",
+        "[6.50]",
+        ""
+      ],
+      [
+        "3 to 4 [75.00 to 100.00]. excl",
+        "0.210",
+        "0.010",
+        "0.125",
+        "0.062",
+        "0.125",
+        "0.125",
+        "0.250",
+        "0.0"
+      ],
+      [
+        "",
+        "[5.30]",
+        "[0.25]",
+        "[3.00]",
+        "[1.60]",
+        "[3.00]",
+        "[3.00]",
+        "[6.50]",
+        ""
+      ],
+      [
+        "4 to 6 [100.00 to 150.00], excl",
+        "0.300",
+        "0.010",
+        "0.125",
+        "0.062",
+        "0.125",
+        "0.125",
+        "0.250",
+        "0.0"
+      ],
+      [
+        "",
+        "[7.60]",
+        "[0.25]",
+        "[3.00]",
+        "[1.60]",
+        "[3.00]",
+        "[3.00]",
+        "[6.50]",
+        ""
+      ],
+      [
+        "6 to 8 [150.00 to 200.00], excl",
+        "0.420",
+        "0.010",
+        "0.125",
+        "0.062",
+        "0.125",
+        "0.125",
+        "0.250",
+        "0.0"
+      ],
+      [
+        "",
+        "[10.65]",
+        "[0.25]",
+        "[3.00]",
+        "[1.60]",
+        "[3.00]",
+        "[3.00]",
+        "[6.50]",
+        ""
+      ],
+      [
+        "8 to 10 [200.00 to 250.00], excl",
+        "0.540",
+        "0.010",
+        "0.125",
+        "0.062",
+        "0.125",
+        "0.125",
+        "0.250",
+        "0.0"
+      ],
+      [
+        "",
+        "[13.70]",
+        "[0.25]",
+        "[3.00]",
+        "[1.60]",
+        "[3.00]",
+        "[3.00]",
+        "[6.50]",
+        ""
+      ]
+    ]
+  },
+  {
+    "rows": [
+      [
+        "1\u20442 to 1 [13.00 to 25.00], excl 0.002 [0.05]",
+        "0.002 [0.05]",
+        "",
+        "o/16 to 1\u20442 [8.00 to 13.00], excl 0",
+        "0.003 [0.08]",
+        ""
+      ],
+      [
+        "1 to 1 1\u20442 [25.00 to 38.00], excl 0.0025 [0.06]",
+        "0.0025 [0.06]",
+        "",
+        "1\u20442 to 1 [13.00 to 25.00], incl 0",
+        "0.004 [0.1 OJ",
+        ""
+      ],
+      [
+        "11\u20442  to 31\u20444 [38.00 to 83.00], incl0 0.003 [0.08]",
+        "0.003 [0.08]",
+        "",
+        "Over 1 to 2 [25.00 to 50.00], incl 0",
+        "0.006 [0.15]",
+        ""
+      ],
+      [
+        "31\u20444 to 4 [83.00 to 100], incl 0 0.005 [0.13]",
+        "0.005 [0.13]",
+        "",
+        "Over 2 to 3 [50.00 to 75.00], incl 0",
+        "0.008 [0.20]",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "Over 3 [75.00] 0",
+        "0.010 [0.25]",
+        ""
+      ],
+      [
+        "A Unless otherwise specified, size tolerances are over and under as shown in the",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "above table. When required, however, they may be specified all over and nothing",
+        "",
+        "",
+        "A Distance across flats.",
+        "",
+        ""
+      ],
+      [
+        "under, or all under and nothing over, or any combination of over and under, if the",
+        "",
+        "",
+        "8 When it is necessary to heat treat or heat treat and pickle after cold finishing, size",
+        "",
+        ""
+      ],
+      [
+        "total spread in size tolerance for a specified size is not less than the total spread",
+        "",
+        "",
+        "tolerances are double those shown in the table.",
+        "",
+        ""
+      ],
+      [
+        "shown in the table.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "8 When it is necessary to heat treat or heat treat and pickle after cold finishing, size",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "tolerances are double those shown in the table.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "c Cold-finished bars over 4 in. [100 mm] in diameter are produced; size tolerances",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "for such bars are not included herein.",
+        "",
+        "",
+        "to Condition T or H, and when age hardening the precipitation",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "hardening grades, a lot shall consist of the same size, same",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "heat, and the same heat treat charge in a batch-type furnace or",
+        "",
+        ""
+      ],
+      [
+        "11. Sampling",
+        "",
+        "",
+        "under the same conditions in a continuous furnace.",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "11.2.1 For forgings weighing from 1000 lb",
+        "[500 kg]",
+        "to"
+      ],
+      [
+        "11.1 A lot for product analysis shall consist",
+        "of all bars,",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "5000 lb [2500 kg] each, a lot shall consist of one size classi\u00ad",
+        "",
+        ""
+      ],
+      [
+        "shapes, or forgings made from the same heat.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "fication from each heat and each heat-treating charge. Where",
+        "",
+        ""
+      ],
+      [
+        "11.2 For other tests required by the product specification, a",
+        "",
+        "",
+        "continuous heat-treating furnaces are used, a lot shall consist of",
+        "",
+        ""
+      ],
+      [
+        "lot shall consist of all bar products of the same size, or forgings",
+        "",
+        "",
+        "one size classification from each heat, heated in a period of 8 h",
+        "",
+        ""
+      ],
+      [
+        "weighing less than 1000 lb [500 kg] each, from the same heat,",
+        "",
+        "",
+        "or less.",
+        "",
+        ""
+      ],
+      [
+        "and produced under the same processing",
+        "conditions.",
+        "All",
+        "11.2.2 For all classes of forgings weighing from",
+        "5000 to",
+        ""
+      ],
+      [
+        "austenitic, ferritic, austenitic-ferritic, and",
+        "free-machining",
+        "",
+        "7000 lb [2300 to 3200 kg], each unit shall be considered a lot.",
+        "",
+        ""
+      ]
+    ]
+  }
+]

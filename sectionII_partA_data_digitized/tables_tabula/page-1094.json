@@ -1,0 +1,146 @@
+[
+  {
+    "rows": [
+      [
+        "Over Through Only, mm",
+        "",
+        "right angle to a side and touching one corner. It is also obtained by measuring"
+      ],
+      [
+        "",
+        "",
+        "the difference between the diagonals of the cut length. The out-of-square"
+      ],
+      [
+        "300 600 6",
+        "",
+        "deviation is one half of that difference. The tolerance for all thicknesses and all"
+      ],
+      [
+        "600 900 8",
+        "",
+        "sizes is 1.0 mm/100 mm of width or fraction thereof."
+      ],
+      [
+        "900 1500 12",
+        "",
+        ""
+      ],
+      [
+        "1500 3000 20",
+        "",
+        ""
+      ],
+      [
+        "3000 4000 25",
+        "",
+        ""
+      ],
+      [
+        "4000 5000 35",
+        "",
+        ""
+      ],
+      [
+        "5000 6000 40",
+        "",
+        ""
+      ],
+      [
+        "6000 45",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "TABLE A1.9 Restricted Squareness Tolerances of Hot-Rolled"
+      ],
+      [
+        "",
+        "",
+        "(Including Pickled) and Cold-Rolled Sheet (All Designations)"
+      ],
+      [
+        "",
+        "",
+        "(Cut Lengths)"
+      ],
+      [
+        "",
+        "",
+        "When cut lengths are specified restricted squareness, the width and the length"
+      ],
+      [
+        "",
+        "",
+        "are not less than the dimensions specified. The individual tolerance for over\u00ad"
+      ],
+      [
+        "BLE A1.6 Diameter Tolerances of Circles from Hot-Rolled",
+        "",
+        "width, over-length, camber, or out-of-square should not exceed 1.6 mm up to"
+      ],
+      [
+        "uding Pickled) and Cold-Rolled Sheet (Over 300 mm Width)",
+        "",
+        "and Including 1200 mm in width and up to and including 3000 mm in length."
+      ],
+      [
+        "(All Designations)",
+        "",
+        "For cut lengths wider or longer, the applicable tolerance is 3.2 mm."
+      ],
+      [
+        "Tolerances Over Specified Diameter, mm (No",
+        "",
+        ""
+      ],
+      [
+        "cified ThicknessA , mm",
+        "",
+        ""
+      ],
+      [
+        "Tolerances Under)",
+        "",
+        ""
+      ],
+      [
+        "Diameters, mm",
+        "",
+        ""
+      ],
+      [
+        "ver Through Over600to",
+        "",
+        ""
+      ],
+      [
+        "Through 600 Over1200",
+        "",
+        ""
+      ],
+      [
+        "1200, incl",
+        "",
+        ""
+      ],
+      [
+        "1.5 1.5 3.0 5.0",
+        "",
+        ""
+      ],
+      [
+        "1.5 2.5 2.5 4.0 5.5",
+        "",
+        ""
+      ],
+      [
+        "2.5 3.0 5.0 6.5",
+        "",
+        ""
+      ]
+    ]
+  }
+]

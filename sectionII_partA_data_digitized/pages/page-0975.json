@@ -1,0 +1,21 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 177,
+  "globalPageIndex": 975,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "ASME BPVC.II.A-2025 SA-517 /SA-517M \nSPECIFICATION FOR PRESSURE VESSEL PLATES, \nALLOY STEEL, HIGH-STRENGTH, QUENCHED AND \nTEMPERED \nSA-517 /SA-517M \n(Identical with ASTM Specification A517 /A517M-17 except for the addition of Footnote A to Boron in Table 1.) \n875 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-0975.txt",
+  "ocrTextLength": 261,
+  "ocrApplied": true,
+  "tabulaTablesPath": "tables_tabula/page-0975.json",
+  "tabulaTablesCsv": "tables_tabula/page-0975.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-0975.txt",
+  "bestTextSource": "ocr",
+  "bestTextLength": 261,
+  "bestTextAlphaRatio": 0.682
+}

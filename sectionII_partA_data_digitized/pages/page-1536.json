@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 738,
+  "globalPageIndex": 1536,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "SA-995/SA-995M ASME BPVC.II.A-2025 \n,---------. \nTABLE 2 Chemical RequirementsA,a \nMaterial Grade Element,% \nType \nCarbon Manganese Phosphorus Sulfur Silicon Chromium Nickel Molybdenum Nitrogen Copper Tungsten Other UNS \nCD4MCuN (1 B) 0.040 1.00 0.040 0.040 1.00 24.5-26.5 4.7-6.0 1.70-2.30 0.10-0.25 2.7-3.3 \n25Cr-5Ni-Mo-\nCu-N \nJ93372 \nCE8MN (2A) 0.080 1.00 0.040 0.040 1.50 22.5-25.5 8.0-11.0 3.0-4.5 0.10-0.30 \n24Cr-10Ni-Mo-N \nJ93345 \nCD6MN (3A) 0.060 1.00 0.040 0.040 1.00 24.0-27.0 4.0-6.0 1.75-2.50 0.15-0.25 \n25Cr-5Ni-Mo-N \nJ93371 \nCD3MN (4A) 0.030 1.50 0.040 0.040 1.00 21.0-23.5 4.5-6.5 2.5-3.5 0.10-0.30 1.00 \n22Cr-5Ni-Mo-N \nJ92205 \nCE3MN (5A)c \n25Cr-7Ni-Mo-N \n0.030 1.50 0.040 0.040 1.00 24.0-26.0 6.0-8.0 4.0-5.0 0.10-0.30 \nJ93404 \nCD3MWCuN 0.030 1.00 0.030 0.025 1.00 24.0-26.0 6.5-8.5 3.0-4.0 0.20-0.30 0.50-1.00 0.50-1.00 \n(6A) 0 \n25Cr-7Ni-Mo-N \nJ93380 \nCD3MWN (7A)E 0.030 1.00-3.00 0.030 0.020 1.00 26.0-28.0 6.0-8.0 2.0-3.5 0.30-0.40 1.00 3.0-4.0 B: \n27Cr-7Ni-Mo- 0.0010-0.0100 \nW-N Ba: J93379 0.0002-0.0100 \nCe+ La: \n0.005-0.030 \nA All values are maximums, except where a range is provided. \n8 Where ellipses ( ... ) appear in this table, there is no requirement, and the element need not be analyzed for or reported. \n0 % Cr + 3.3 % Mo + 16 % N ee 40. \no % Cr+ 3.3 (%Mo+ 0.5 % W) + 16 % N ee 40. \n'= % Cr + 3.3 (% Mo + 0.5 % W) + 16 % N 2e 45. \nTABLE 3 Tensile Requirements \nGrade 1B 2A 3A 4A 5A BA 7A \nType 25Cr-5Ni-Mo- 24Cr-10Ni- 25Cr-5Ni- 22Cr-5Ni- 25Cr-7Ni- 25Cr-7Ni- 27Cr-7Ni-\nCt.i-N Mo-N Mo-N Mo-N Mo-N Mo-N Mo-W-N \nTensile strength, 100 [690] 95 [655] 95 [655] 90 [620] 100 [690] 100 [690] 100 [690] \nksl [MPa], min \nYield strength 70 [485] 65 [450] 65 [450] 60 [415] 75 [515] 65 [450] 75 [515] \n(0.2 % offset), \nksi [MPa], min \nElongation in 2 in. 16 25 25 25 18 25 20 \n[50 mm], \n%1minA \nA When ICI test bars are used in tensile testing as provided for in this specification, the gage length to reduced section diameter ratio shall be 4: 1. \n1482 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1536.json",
+  "tabulaTablesCsv": "tables_tabula/page-1536.csv",
+  "tabulaTableCount": 2,
+  "bestTextPath": "best_text/pages/page-1536.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1974,
+  "bestTextAlphaRatio": 0.3637
+}

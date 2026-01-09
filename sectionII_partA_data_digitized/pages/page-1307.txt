@@ -1,0 +1,121 @@
+ASME BPVC.II.A-2025 SA-751 
+Test Methods, 
+Practices, Guides General Description 
+E50 Apparatus, reagents, and safety. 
+EBO Photometric and spectrophotometric work. 
+Spectrographic analysis of steels (rod-to-rod technique). 
+Spectrographic analysis of acid-soluble aluminum. 
+E322 X-ray fluorescence for steels 
+Spectrometric analysis of stainless steels 
+E415 Vacuum spectrometric analysis of steels 
+Spectrographic determination of silicon and aluminum in high­
+purity iron. 
+E572 X-ray emission spectrometric analysis of stainless steels. 
+Flame atomic absorption. 
+E882 Accountability and quality control. 
+E1019 Determination of carbon, sulfur, nitrogen, oxygen, and hydro­
+gen in steel and in iron, nickel, and cobalt alloys. 
+E1085 X-ray emission spectrometric analysis of low alloy steels. 
+E1086 Optical emission vacuum spectrometric analysis of stainless 
+steel. 
+By the point-to plane excitation technique. 
+E1097 Direct current plasma spectroscopy. 
+E1184 Graphite furnace atomic absorption. 
+E1282 Selecting sampling practices and analysis methods. 
+E1329 Verification and use of control charts. 
+E1806 Sampling. 
+9.2 The following are some of the commonly accepted 
+techniques employed for routine chemical analysis of steels. 
+These routine analyses are the basis for the producers' quality 
+control/assurance programs. Proprietary methods are permis­
+sible provided the results are equivalent to those obtained from 
+standard methods when applicable. 
+9.2.1 Analysis of stainless steels using x-ray fluorescence 
+spectroscopy (XRF). See Table 1 for normal elements and 
+ranges for stainless steels. 
+9.2.2 Analysis of stainless steels using spark emission 
+spectroscopy (OBS). See Table 2 for normal elements and 
+ranges for stainless steels. 
+9.2.3 Analysis of solutions using an atomic absorption 
+spectrophotometer. 
+9.2.4 Analysis of solutions using an inductively coupled 
+plasma emission spectrometer. 
+9.2.5 Determination of carbon or sulfur, or both, by com­
+bustion (in oxygen) and measurement of CO 2 or S0 2 , or both, 
+by thermal conductivity or infrared detectors. 
+Element Ranges % 
+C 0.002--5.0 
+S 0.0005--0.1 
+9.2.6 Determination of nitrogen and oxygen by fusion (in a 
+helium atmosphere) and measurement of N 2 by thermal con­
+ductivity and oxygen by measurement of CO by infrared or 
+thermal conductivity detectors. 
+Element Ranges % 
+0.0005-0.3 
+0.0008-0.02 
+TABLE 1 Normal Elements and Ranges for Stainless Steels 
+Using X-Ray Fluorescence Spectroscopy 
+Element Ranges % Element Ranges % 
+Mn 0.005--15.0 Cu 0.005--4.0 
+p 0.00Hl.15 Cb 0.005-3.0 
+Si 0.005-5.0 V 0.005--2.0 
+Cr 0.01-26.0 TI 0.005--2.5 
+Ni 0.01-36.0 Co 0.005-4.0 
+Al 0.002-5.5 Sn 0.002-0.20 
+Mo 0.005--8.0 w 0.005-3.0 
+TABLE 2 Normal Elements and Ranges for Stainless Steels 
+Using Spark Emission Spectroscopy 
+C 0.004--5.0 V 0.005--2.0 
+S 0.0005--0.1 Ti 0.005--2.5 
+N 2 0.0020-0.3 Co 0.005-4.0 
+Mn 0.005--15.0 Sn 0.001-0.20 
+P 0.001-1.5 W 0.005-3.0 
+Si 0.005--5.0 Pb 0.002-0.05 
+Cr 0.01-26.0 B 0.0005-0.05 
+Ni 0.01-36.0 Ca 0.0002-0.01 
+Al 0.001-5.5 Mg 0.001-0.01 
+Mo 0.005--8.0 Ce 0.001-0.2 
+Cu 0.005--4.0 Zr 0.001-0.1 
+Cb 0.005-3.0 Ta 0.005-0.5 
+9.2.7 Analysis of solutions using inductively coupled 
+plasma emission spectroscopy (ICP) or direct plasma emission 
+spectroscopy (DCP). Normal elements and ranges for stainless 
+steels are as follows: 
+Element Ranges % 
+B 0.0002-0.01 
+Ca 0.0002-0.01 
+Mg 0.0002-0.01 
+Ce 0.001-0.2 
+Zr 0.001-0.1 
+Ta 0.005-0.5 
+La 0.001-0.01 
+9.3 There are additional common techniques often used for 
+chemical analysis of standards for instrument analysis such as: 
+polarographic analysis, ion exchange separations, 
+radioactivation, and mass spectrometry. 
+10. Reference Materials 
+10.1 For referee analyses, reference standards of a recog­
+nized standardizing agency shall be employed with preference 
+given to NIST standard reference materials when applicable. 
+(NIST does not produce reference standards suitable for all 
+elements or all alloys.) 
+10.1.1 When standard reference materials for certain alloys 
+are not available from NIST, reference materials may be 
+produced by employing ASTM standard procedures and NIST 
+standard reference materials to the extent that such procedures 
+and reference standards are available. Several independent 
+laboratories should be used for certification of these standards 
+and their results statistically reviewed and merged. 
+10.1.2 Test methods not published by ASTM, such as a 
+definitive analytical method, may be used when the method is 
+validated by analyzing certified reference materials along with 
+the candidate reference material. Examples of definitive ana­
+lytical methods include gravimetric, coulometry, titrimetric 
+based on normality, and mass spectrometry. 
+10.2 Working reference materials may be used for routine 
+analytical control. 
+11. Significant Numbers 
+11.1 Laboratories shall report each element to the same 
+number of significant numbers as used in the pertinent material 
+specifications. 
+1237 

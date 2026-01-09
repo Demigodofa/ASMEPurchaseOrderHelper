@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 365,
+  "globalPageIndex": 365,
+  "width": 642.12,
+  "height": 877.08,
+  "text": "ASME BPVC.II.A-2025 SA-225/SA-225M \nTABLE 1 Chemical Requirements \nElements \nCarbon, maxA \nManganese, max: \nHeat analysis \nProduct analysis \nPhosphorus, maxA \nSulfur, maxA \nSilicon: \nHeat analysis \nProduct analysis \nVanadium: \nHeat analysis \nProduct analysis \nNickel: \nHeat analysis \nProduct analysis \nA Applies to both heat and product analyses. \nGrade C \n0.25 \n1.60 \n1.72 \n0.025 \n0.025 \n0.15-0.40 \n0.13-0.45 \n0.13-0.18 \n0.11-0.20 \n0.40-0.70 \n0.37-0.73 \nComposition, % \nGrade D \n0.20 \n1.70 \n1.84 \n0.025 \n0.025 \n0.10-0.50 \n0.08-0.56 \n0.10-0.18 \n0.08-0.20 \n0.40-0.70 \n0.37-0.73 \nTABLE 2 Tensile Requirements \nGrade C Grade D \nksi [MPa] ksi [MPa] \nTensile strength: \nAll thicknesses 105-135 [725-930] \n3 in. [75 mm] and under 80-105 [550-725] \nOver 3 in. [75 mm] 75-100 [515-690] \nYield strength, min:A \nAll thicknesses 70 (485] \n3 in. [75 mm] and under 60 [415] \nOver 3 in. [75 mm] 55 [380] \nElongation in 8 in. [200 mm], min, % 8 \nElongation in 2 in. (50 mm], min, % 8 20 19 \nElongation in 5D, min, % 8 17 \nA Determined by either the 0.2 % offset method or the 0.5 % extension-under-load method. \n8 See Specification A20/A20M for elongation adjustment. \n4. Materials and Manufacture \n4.1 Steelmaking Practice-The steel shall be killed and \nshall conform to the fine austenitic grain size requirement of \nSpecification A20/A20M. \n5. Heat Treatment \n5.1 Grade D plates of all thicknesses and Grade C plates of \nthicknesses over 2 in. [50 mm] shall be normalized. \n5.2 Grade C plates 2 in. [50 mm] and under in thickness are \nusually supplied in the as-rolled condition. The plates may be \nordered normalized or stress-relieved, or both. \n6. Chemical Composition \n6.1 The steel shall conform to the chemical requirements \ngiven in Table 1, unless otherwise modified in accordance with \n313 \nSupplementary Requirement Sl7, Vacuum Carbon-Deoxidized \nSteel, in Specification A20/ A20M. \n7. Mechanical Properties \n7 .1 Tension Test-The plates, as represented by the tension \ntest specimens, shall conform to the requirements given in \nTable 2. \n7.2 For plates with a nominal thickness of% in. [20 mm] \nand under, the 1 \u00bd-in. [40-mm] wide rectangular specimen may \nbe used and the elongation determined in a 2-in. [50-mm] gage \nlength that includes the fracture and that shows the greatest \nelongation. \n8. Keywords \n8.1 alloy steel plates; manganese-vanadium-nickel steel \nplate; plate for pressure vessels; pressure containing parts ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0365.json",
+  "tabulaTablesCsv": "tables_tabula/page-0365.csv",
+  "tabulaTableCount": 2,
+  "bestTextPath": "best_text/pages/page-0365.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2427,
+  "bestTextAlphaRatio": 0.6333
+}

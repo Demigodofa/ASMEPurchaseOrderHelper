@@ -1,0 +1,26 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 56,
+  "globalPageIndex": 56,
+  "width": 635.64,
+  "height": 810.6,
+  "text": "SA-6/SA-6M ASME BPVC.II.A-2025 \nSpecification for \nGeneral Requirements for Rolled Structural Steel Bars, \nPlates, Shapes, and Sheet Piling \n1. Scope \n1. 1 This general requirements specification covers a group \nof common requirements that, unless otherwise specified in the \napplicable product specification, apply to rolled structural steel \nbars, plates, shapes, and sheet piling covered by each of the \nfollowing product specifications issued by ASTM: \nASTM \nDesignation \nA36/A36M \nA131/A131M \nA242/A242M \nA283/A283M \nA328/A328M \nA514/A514M \nA529/A529M \nA572/A572M \nA573/A573M \nA588/A588M \nA633/A633M \nA656/A656M \nA690/A690M \nA709/A709M \nA710/A710M \nA769/A769M \nA786/A786M \nTitle of Specification \nCarbon Structural Steel \nStructural Steel for Ships \nHigh-Strength Low-Alloy Structural Steel \nLow and Intermediate Tensile Strength Carbon Steel Plates \nSteel Sheet Piling \nHigh-Yield-Strength, Quenched and Tempered Alloy Steel \nPlate, Suitable for Welding \nHigh-Strength Carbon-Manganese Steel of Structural Qual\u00ad\nity \nHigh-Strength Low-Alloy Columbium-Vanadium Structural \nSteel \nStructural Carbon Steel Plates \nHigh-Strength Low-Alloy Structural Steel, up to 50 ksi (345 \nMPa] Minimum Yield Point, with Atmospheric Corrosion \nResistance \nNormalized High-Strength Low-Alloy Structural Steel Plates \nHot-Rolled Structural Steel, High-Strength Low-Alloy Plate \nwith Improved Formability \nHigh-Strength Low-Alloy Nickel, Copper, Phosphorus Steel \nH-Piles and Sheet Piling with Atmospheric Corrosion Re\u00ad\nsistance for Use in Marine Environments \nStructural Steel for Bridges \nPrecipitation-Strengthened Low-Carbon Nickel-Copper\u00ad\nChromium-Molybdenum-Columbium Alloy Structural Steel \nPlates \u2022 \nCarbon and High-Strength Electric Resistance Forge\u00ad\nWelded Steel Structural Shapes \nHot-Rolled Carbon, Low-Alloy, High-Strength Low-Alloy, and \nAlloy Steel Floor Plates \n4 \nA827/A827M \nA829/A829M \nA830/A830M \nA857/A857M \nA871/A871M \nA913/A913M \nA945/A945M \nA950/A950M \nPlates, Carbon Steel, for Forging and Similar Applications \nAlloy Structural Steel Plates \nPlates, Carbon Steel, Structural Quality, Furnished to \nChemical Composition Requirements \nSteel Sheet Piling, Cold Formed, Light Gage \nHigh-Strength Low-Alloy Structural Steel Plate With Atmo\u00ad\nspheric Corrosion Resistance \nHigh-Strength Low-Alloy Steel Shapes of Structural Quality, \nProduced by Quenching and Self-Tempering Process \n(QST) \nHigh-Strength Low-Alloy Structural Steel Plate with Low \nCarbon and Restricted Sulfur for Improved Weldability, \nFormability, and Toughness \nFusion-Bonded Epoxy-Coated Structural Steel H-Piles and \nSheet Piling \nA992/A992M Structural Steel Shapes \nA 1043/A 1043M Structural Steel with Low Yield to Tensile Ratio for Use in \nBuildings \nA 1066/A 1066M High-Strength Low-Alloy Structural Steel Plate Produced by \nThermo-Mechanical Controlled Process (TMCP) \n1.2 Annex Al lists permitted variations in dimensions and \nmass (Note 1) in SI units. The values listed are not exact \nconversions of the values in Tables 1 to 31 inclusive but are, \ninstead, rounded or rationalized values. Conformance to Annex \nAl is mandatory when the \"M\" specification designation is \nused. \nNorn 1-The term \"weight\" is used when inch-pound units are the \nstandard; however, under SI, the preferred term is \"mass.\" \n1.3 Annex A2 lists the dimensions of some shape profiles. \n1.4 Appendix Xl providesjnformation on coil as a source \nof structural products. \n1.5 Appendix X2 provides information on the variability of \ntensile properties in plates and structural shapes. \n1.6 Appendix X3 provides information on weldability. \n1.7 Appendix X4 provides information on cold bending of \nplates, including suggested minimum inside radii for cold \nbending. \n1.8 This general requirements specification also covers a \ngroup of supplementary requirements that are applicable to \nseveral of the above product specifications as indicated therein. \nSuch requirements are provided for use where additional \ntesting or additional restrictions are required by the purchaser, \nand apply only where specified individually in the purchase \norder. ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0056.json",
+  "tabulaTablesCsv": "tables_tabula/page-0056.csv",
+  "tabulaTableCount": 3,
+  "bestTextPath": "best_text/pages/page-0056.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 4098,
+  "bestTextAlphaRatio": 0.7582,
+  "noteOcrPath": "note_ocr/page-0056.txt",
+  "noteOcrCount": 0,
+  "noteOcrNotes": [],
+  "noteOcrHighDpiPath": "note_ocr_highdpi/page-0056.txt",
+  "noteOcrHighDpiCount": 1,
+  "noteOcrHighDpiNotes": [
+    "Note 1\u2014The term \u201cweight\u201d is used when inch-pound units are the"
+  ]
+}

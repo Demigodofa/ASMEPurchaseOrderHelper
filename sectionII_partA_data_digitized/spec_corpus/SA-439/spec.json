@@ -1,0 +1,747 @@
+{
+  "createdUtc": "2026-01-09T00:14:02.711164+00:00",
+  "spec": "SA-439",
+  "rangeStart": 771,
+  "rangeEnd": 868,
+  "pages": [
+    {
+      "globalPageIndex": 771,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 771,
+      "textPath": "best_text\\pages\\page-0771.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 772,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 772,
+      "textPath": "best_text\\pages\\page-0772.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 773,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 773,
+      "textPath": "best_text\\pages\\page-0773.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0773.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0773.csv"
+      }
+    },
+    {
+      "globalPageIndex": 774,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 774,
+      "textPath": "best_text\\pages\\page-0774.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0774.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0774.csv"
+      }
+    },
+    {
+      "globalPageIndex": 775,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 775,
+      "textPath": "best_text\\pages\\page-0775.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 776,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 776,
+      "textPath": "best_text\\pages\\page-0776.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 777,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 777,
+      "textPath": "best_text\\pages\\page-0777.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 778,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 778,
+      "textPath": "best_text\\pages\\page-0778.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 779,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 779,
+      "textPath": "best_text\\pages\\page-0779.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 780,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 780,
+      "textPath": "best_text\\pages\\page-0780.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 781,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 781,
+      "textPath": "best_text\\pages\\page-0781.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0781.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0781.csv"
+      }
+    },
+    {
+      "globalPageIndex": 782,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 782,
+      "textPath": "best_text\\pages\\page-0782.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0782.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0782.csv"
+      }
+    },
+    {
+      "globalPageIndex": 783,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 783,
+      "textPath": "best_text\\pages\\page-0783.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0783.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0783.csv"
+      }
+    },
+    {
+      "globalPageIndex": 784,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 784,
+      "textPath": "best_text\\pages\\page-0784.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0784.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0784.csv"
+      }
+    },
+    {
+      "globalPageIndex": 785,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 785,
+      "textPath": "best_text\\pages\\page-0785.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0785.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0785.csv"
+      }
+    },
+    {
+      "globalPageIndex": 786,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 786,
+      "textPath": "best_text\\pages\\page-0786.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 787,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 787,
+      "textPath": "best_text\\pages\\page-0787.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 788,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 788,
+      "textPath": "best_text\\pages\\page-0788.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 789,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 789,
+      "textPath": "best_text\\pages\\page-0789.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 790,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 790,
+      "textPath": "best_text\\pages\\page-0790.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0790.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0790.csv"
+      }
+    },
+    {
+      "globalPageIndex": 791,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 791,
+      "textPath": "best_text\\pages\\page-0791.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0791.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0791.csv",
+        "noteTargetFiles": [
+          "note_target_ocr\\page-0791-note-01.txt"
+        ]
+      }
+    },
+    {
+      "globalPageIndex": 792,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 792,
+      "textPath": "best_text\\pages\\page-0792.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0792.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0792.csv"
+      }
+    },
+    {
+      "globalPageIndex": 793,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 793,
+      "textPath": "best_text\\pages\\page-0793.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0793.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0793.csv"
+      }
+    },
+    {
+      "globalPageIndex": 794,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 794,
+      "textPath": "best_text\\pages\\page-0794.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 795,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 795,
+      "textPath": "best_text\\pages\\page-0795.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 796,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 796,
+      "textPath": "best_text\\pages\\page-0796.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 797,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 797,
+      "textPath": "best_text\\pages\\page-0797.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0797.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0797.csv"
+      }
+    },
+    {
+      "globalPageIndex": 799,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 1,
+      "textPath": "best_text\\pages\\page-0799.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 800,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 2,
+      "textPath": "best_text\\pages\\page-0800.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 801,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 3,
+      "textPath": "best_text\\pages\\page-0801.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0801.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0801.csv"
+      }
+    },
+    {
+      "globalPageIndex": 802,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 4,
+      "textPath": "best_text\\pages\\page-0802.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 803,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 5,
+      "textPath": "best_text\\pages\\page-0803.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 804,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 6,
+      "textPath": "best_text\\pages\\page-0804.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 805,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 7,
+      "textPath": "best_text\\pages\\page-0805.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 806,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 8,
+      "textPath": "best_text\\pages\\page-0806.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 807,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 9,
+      "textPath": "best_text\\pages\\page-0807.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 808,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 10,
+      "textPath": "best_text\\pages\\page-0808.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0808.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0808.csv"
+      }
+    },
+    {
+      "globalPageIndex": 809,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 11,
+      "textPath": "best_text\\pages\\page-0809.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 810,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 12,
+      "textPath": "best_text\\pages\\page-0810.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 811,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 13,
+      "textPath": "best_text\\pages\\page-0811.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 812,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 14,
+      "textPath": "best_text\\pages\\page-0812.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 813,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 15,
+      "textPath": "best_text\\pages\\page-0813.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 814,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 16,
+      "textPath": "best_text\\pages\\page-0814.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 815,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 17,
+      "textPath": "best_text\\pages\\page-0815.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 816,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 18,
+      "textPath": "best_text\\pages\\page-0816.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 817,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 19,
+      "textPath": "best_text\\pages\\page-0817.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 818,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 20,
+      "textPath": "best_text\\pages\\page-0818.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 819,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 21,
+      "textPath": "best_text\\pages\\page-0819.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 820,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 22,
+      "textPath": "best_text\\pages\\page-0820.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 821,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 23,
+      "textPath": "best_text\\pages\\page-0821.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 822,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 24,
+      "textPath": "best_text\\pages\\page-0822.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 823,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 25,
+      "textPath": "best_text\\pages\\page-0823.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 824,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 26,
+      "textPath": "best_text\\pages\\page-0824.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 825,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 27,
+      "textPath": "best_text\\pages\\page-0825.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 826,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 28,
+      "textPath": "best_text\\pages\\page-0826.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 827,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 29,
+      "textPath": "best_text\\pages\\page-0827.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 828,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 30,
+      "textPath": "best_text\\pages\\page-0828.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 829,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 31,
+      "textPath": "best_text\\pages\\page-0829.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 830,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 32,
+      "textPath": "best_text\\pages\\page-0830.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 831,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 33,
+      "textPath": "best_text\\pages\\page-0831.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 832,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 34,
+      "textPath": "best_text\\pages\\page-0832.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 833,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 35,
+      "textPath": "best_text\\pages\\page-0833.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 834,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 36,
+      "textPath": "best_text\\pages\\page-0834.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 835,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 37,
+      "textPath": "best_text\\pages\\page-0835.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 836,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 38,
+      "textPath": "best_text\\pages\\page-0836.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 837,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 39,
+      "textPath": "best_text\\pages\\page-0837.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 838,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 40,
+      "textPath": "best_text\\pages\\page-0838.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 839,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 41,
+      "textPath": "best_text\\pages\\page-0839.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 840,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 42,
+      "textPath": "best_text\\pages\\page-0840.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 841,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 43,
+      "textPath": "best_text\\pages\\page-0841.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 842,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 44,
+      "textPath": "best_text\\pages\\page-0842.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 843,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 45,
+      "textPath": "best_text\\pages\\page-0843.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 844,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 46,
+      "textPath": "best_text\\pages\\page-0844.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 845,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 47,
+      "textPath": "best_text\\pages\\page-0845.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 846,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 48,
+      "textPath": "best_text\\pages\\page-0846.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 848,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 50,
+      "textPath": "best_text\\pages\\page-0848.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 849,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 51,
+      "textPath": "best_text\\pages\\page-0849.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0849.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0849.csv"
+      }
+    },
+    {
+      "globalPageIndex": 850,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 52,
+      "textPath": "best_text\\pages\\page-0850.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 851,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 53,
+      "textPath": "best_text\\pages\\page-0851.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 852,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 54,
+      "textPath": "best_text\\pages\\page-0852.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0852.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0852.csv"
+      }
+    },
+    {
+      "globalPageIndex": 853,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 55,
+      "textPath": "best_text\\pages\\page-0853.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0853.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0853.csv"
+      }
+    },
+    {
+      "globalPageIndex": 854,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 56,
+      "textPath": "best_text\\pages\\page-0854.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 855,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 57,
+      "textPath": "best_text\\pages\\page-0855.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 857,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 59,
+      "textPath": "best_text\\pages\\page-0857.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 858,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 60,
+      "textPath": "best_text\\pages\\page-0858.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0858.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0858.csv"
+      }
+    },
+    {
+      "globalPageIndex": 859,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 61,
+      "textPath": "best_text\\pages\\page-0859.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0859.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0859.csv"
+      }
+    },
+    {
+      "globalPageIndex": 860,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 62,
+      "textPath": "best_text\\pages\\page-0860.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0860.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0860.csv"
+      }
+    },
+    {
+      "globalPageIndex": 861,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 63,
+      "textPath": "best_text\\pages\\page-0861.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0861.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0861.csv"
+      }
+    },
+    {
+      "globalPageIndex": 862,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 64,
+      "textPath": "best_text\\pages\\page-0862.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0862.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0862.csv"
+      }
+    },
+    {
+      "globalPageIndex": 863,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 65,
+      "textPath": "best_text\\pages\\page-0863.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0863.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0863.csv",
+        "camelotTablesJson": "camelot_tables\\page-0863.json",
+        "camelotTablesCsv": "camelot_tables\\page-0863.csv",
+        "noteTargetFiles": [
+          "note_target_ocr\\page-0863-note-02.txt",
+          "note_target_ocr\\page-0863-note-04.txt",
+          "note_target_ocr\\page-0863-note-05.txt",
+          "note_target_ocr\\page-0863-note-06.txt",
+          "note_target_ocr\\page-0863-note-07.txt",
+          "note_target_ocr\\page-0863-note-08.txt"
+        ]
+      }
+    },
+    {
+      "globalPageIndex": 865,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 67,
+      "textPath": "best_text\\pages\\page-0865.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 866,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 68,
+      "textPath": "best_text\\pages\\page-0866.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0866.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0866.csv"
+      }
+    },
+    {
+      "globalPageIndex": 867,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 69,
+      "textPath": "best_text\\pages\\page-0867.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0867.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0867.csv"
+      }
+    }
+  ]
+}

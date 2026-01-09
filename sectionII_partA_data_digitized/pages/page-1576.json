@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 778,
+  "globalPageIndex": 1576,
+  "width": 613.92,
+  "height": 793.2,
+  "text": "SA-1011/SA-1011M (ASTM A1011/A1011M) ASME BPVC.II.A-2025 \nTABLE X1 .1 Suggested Minimum Inside Radius for Cold Bending \nNOTE 1-(t) Equals a radius equivalent to the steel thickness. \nNoTE 2-The suggested radius should be used as a minimum for 90\u00b0 \nbends in actual shop practice. \nNoTE 3-Material which does not perform satisfactorily, when fabri\u00ad\ncated in accordance with the above requirements, may be subject to \nrejection pending negotiation with the steel supplier. \nDesignation \nStructural Steel \nGrade \n30 [205] \n33 [230] \nMinimum Inside Radius for Cold \nBandin \n36 [250] Type 1 \n36 [250] Type 2 \n40 [275] \n11 \n1 t \n1 t \n1\u00bd1 \n21 \n21 \n21 \n21 \n45 [310] Type 1 \n45 [310] Type 2 \n50 [340] \n55 [380] \n60 [410] \n70 [480] \nHigh-Strength Low-Alloy \nSteel \n45 [310] \n50 [340] \n55 [380] \n60 [410] \n65 [450] \n70 [480] \nHigh-Strength Low-alloy \nSteel with Improved \nFormability \n50 [340] \n60 [410] \n70 [480] \n80 [550] \nUltra-High Strength Steel \nTypes 1 and 2 \n90 [620] \n100 [690] \nClass 1 \n1\u00bd1 \n21 \n21 \n2\u00bd1 \n31 \n3\u00bd1 \n2\u00bd1 \n31 \n3\u00bd t \n1 t \n1\u00bd1 \n21 \n21 \n2\u00bd1 \n2\u00bd1 \nClass 2 \n1\u00bd1 \n1\u00bd1 \n21 \n21 \n2\u00bd1 \n31 \nX2. RELATED ISO STANDARDS \nThe ISO standards listed below may be reviewed for \ncomparison with this ASTM standard. The relationship be\u00ad\ntween the standards may only be approximate; therefore, the \nrespective standards should be consulted for actual require\u00ad\nments. Those who use these documents must determine which \nspecifications address their needs. \nISO 3573 Hot-rolled Carbon Steel Sheet of Commercial \nand Drawing Qualities \nISO 4995 Hot-rolled Steel Sheet of Structural Quality \nISO 4996 Hot-rolled Steel Sheet of High Yield Stress \nStructural Quality \nISO 5951 Hot-rolled Steel Sheet of Higher Yield Strength \nwith Improved Formability \nISO 6316 Hot-rolled Carbon Steel Strip of Structural \nQuality \nISO 6317 Hot-rolled Carbon Steel Strip of Commercial \nand Drawing Qualities \n1522 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 1,
+  "tabulaTablesPath": "tables_tabula/page-1576.json",
+  "tabulaTablesCsv": "tables_tabula/page-1576.csv",
+  "tabulaTableCount": 3,
+  "bestTextPath": "best_text/pages/page-1576.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1881,
+  "bestTextAlphaRatio": 0.6162
+}

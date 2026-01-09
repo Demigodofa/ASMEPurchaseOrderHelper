@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 167,
+  "globalPageIndex": 167,
+  "width": 624.84,
+  "height": 801.72,
+  "text": "ASME BPVC.II.A-2025 SA-29/SA-29M \nTABLE A1.8 Permissible Variations in Length for Hot-Wrought Rounds, Squares, Hexagons, Flats, and Bar Size Sections of Steel \nSpecified Size of Specified Size of Flats, in. Permissible Variations Over Specified Length, in.A \nRounds, Squares, \n5 to 10 ft, excl 1 O to 20 ft, excl 20 to 30 ft, excl 30 to 40 ft, excl 40 to 60 ft, excl and Hexagons, in. Thickness Width \nTo 1, incl to 1, incl \nOver 1 to 2, incl over 1 \nto 1, incl \nOver 2 to 5, incl over 1 \nOver 5 to 1 o, incl \n0.230 to 1, incl \nover 1 to 3, incl \nBar Size Sections \nTo 3\u00bd, incl 1 and over \nOver 3\u00bd to 5, incl \nOver 5 to 10, incl \nA No permissible variations under. \n8 Shorter lengths are not hot sawed. \nMill Shearin \nto 3, incl \u00bd \u00be 1\u00bc \nto 3, incl 5/a 1 1\u00bd \nover 3 to 6, incl 5/a 1\u00bd \nover 3 to 6, incl 1 1\u00bd 1\u00be \n2 2\u00bd 2\u00be \nover 6 to 8, incl \u00be 1\u00bc 1\u00be \nover 6 to 8, incl 1\u00bc 1\u00be 2 \n5/a 1 1\u00bd \nHot Sawin \n3 and over B 1\u00bd 1\u00be \n2 2\u00bc \nB 2\u00bd 2\u00be \nTABLE A1.9 Permissible Variations in Length for Recutting of \nBars Meeting Special Straightness Tolerances \nSizes of Rounds, Squares, \nHexagons, Width of Flats and \nMaximum Dimension of Other \nSections, in.A \nTo 3, incl \nOver 3 to 6, incl \nOver 6 to 8, incl \nRounds over 8 to 10, incl. \nA No tolerance under. \nTolerances Over Specified Length, \nin.A \nTo 12 ft, incl Over 12 ft \nTABLE A1.10 Permissible Variations in Straightness for Hot\u00ad\nWrought Bars and Bar Size Sections of SteeJA \nStandard tolerances \nSpecial tolerances \n\u00bc in. in any 5 ft and (\u00bc in. x length in ft)/5 \n1/a in. in any 5 ft and (Vs in. x length in ft)/5 \nA Because of warpage, straightness tolerances do not apply to bars if any \nsubsequent heating operation or controlled cooling has been performed. \nA2. DIMENSIONAL TOLERANCES-SI UNITS \nA2.1 Listed below are permissible variations in dimensions \nexpressed in SI units of measurement. \n1\u00be \n2 \n2 \n2\u00bc \n3 \n3\u00bd \n3\u00bd \n2 \n2\u00bc \n25/a \n3 \nTABLE A2.1 Tolerances in Sectional Dimensions for Round and Square Bars and Round-Cornered Square Bars \nSize, mm \nTo 7, incl \nOver 7 to 11, incl \nOver 11 to 15, incl \nOver 15 to 19, incl \nOver 19 to 250, incl \nTolerance from \nSpecified Size, Over \nand Under, mm or %A \n0.13 mm \n0.15 mm \n0.18 mm \n0.20 mm \n1% \nA The tolerance shall be rounded to the nearest tenth of a millimetre after calculation. \nOut-of-Round, or \nOut-of-Square \nSection, 8 mm or %A \n0.20 mm \n0.22 mm \n0.27 mm \n0.30 mm \n1.5% \n2\u00bc \n2\u00bd \n2\u00bd \n2\u00be \n3\u00bc \n4 \n4 \n2\u00bd \n2\u00be \n3 \n3\u00bc \n8 Out-of-round is the difference between the maximum and the minimum diameters of the bar, measured at the same cross section. Out-of-square is the difference in the \ntwo dimensions at the same cross section of a square bar between opposite faces. \n115 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0167.json",
+  "tabulaTablesCsv": "tables_tabula/page-0167.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0167.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2667,
+  "bestTextAlphaRatio": 0.6415
+}

@@ -1,0 +1,498 @@
+[
+  {
+    "rows": [
+      [
+        "",
+        "over 0.030 to 0.20, incl",
+        "0.01",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "over 0.20 to 0.60, incl",
+        "0.02",
+        "Cobalt",
+        "over 0.05 to 0.50, incl",
+        "0,01A",
+        ""
+      ],
+      [
+        "",
+        "over 0.60 to 1.20, incl",
+        "0.03",
+        "",
+        "over 0.50 to 2.00, incl",
+        "0.02",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "over 2.00 to 5.00, incl",
+        "0.05",
+        ""
+      ],
+      [
+        "Manganese",
+        "to 1.00, incl",
+        "0.03",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "over 1.00 to 3.00, incl",
+        "0.04",
+        "Columbium plus",
+        "to 1.50, incl",
+        "0.05",
+        ""
+      ],
+      [
+        "",
+        "over 3.00 to 6.00, incl",
+        "0.05",
+        "tantalum",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "over 6.00 to 10.00, incl",
+        "0.06",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "over 10.00 to 15.00, incl",
+        "0.1",
+        "",
+        "",
+        "",
+        "!"
+      ],
+      [
+        "",
+        "over 15.00 to 20.00, incl",
+        "0.15",
+        "Tantalum",
+        "to 0.1 O, incl",
+        "0.02",
+        "'\""
+      ],
+      [
+        "Phosphorus",
+        "to 0.040, incl",
+        "0.005",
+        "Copper",
+        "to 0.50, incl",
+        "0.03",
+        ""
+      ],
+      [
+        "",
+        "over 0.040 to 0.20, incl",
+        "0.01",
+        "",
+        "over 0.50 to 1.00 incl",
+        "0.05",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "over 1.00 to 3.00, incl",
+        "0.10",
+        ""
+      ],
+      [
+        "Sulfur",
+        "to 0.040, incl",
+        "0.005",
+        "",
+        "over 3.00 to 5.00, incl",
+        "0.15",
+        ""
+      ],
+      [
+        "",
+        "over 0.040 to 0.20, incl",
+        "0.01",
+        "",
+        "over 5.00 to 10.00, incl",
+        "0.20",
+        ""
+      ],
+      [
+        "",
+        "over 0.20 to 0.50, incl",
+        "0.02",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "Aluminum",
+        "to 0.15, incl",
+        "-0.005, +0.01",
+        ""
+      ],
+      [
+        "Silicon",
+        "to 1 .00, incl",
+        "0.05",
+        "",
+        "over 0.15 to 0.50, incl",
+        "0.05",
+        ""
+      ],
+      [
+        "",
+        "over 1.00 to 3.00, incl",
+        "0.1",
+        "",
+        "over 0.50 to 2.00, incl",
+        "0.10",
+        ""
+      ],
+      [
+        "",
+        "over 3.00 to 6.00, incl",
+        "0.15",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Chromium",
+        "over 4.00 to 10.00, incl",
+        "0.1",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "over 10.00 to 15.00, incl",
+        "0.15",
+        "Nitrogen",
+        "to 0.02, incl",
+        "0.005",
+        ""
+      ],
+      [
+        "",
+        "over 15.00 to 20.00, incl",
+        "0.2",
+        "",
+        "over 0.02 to 0.19, incl",
+        "0.01",
+        ""
+      ],
+      [
+        "",
+        "over 20.00 to 30.00, incl",
+        "0.25",
+        "",
+        "over 0.19 to 0.25, incl",
+        "0.02",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "over 0.25 to 0.35, incl",
+        "0.03",
+        ""
+      ],
+      [
+        "Nickel",
+        "to 1.00, incl",
+        "0.03",
+        "",
+        "over 0.35 to 0.45, incl",
+        "0.04",
+        ""
+      ],
+      [
+        "",
+        "over 1.00 to 5.00, incl",
+        "0.07",
+        "",
+        "over 0.45 to 0.55, incl",
+        "0.05",
+        ""
+      ],
+      [
+        "",
+        "over 5.00 to 10.00, incl",
+        "0.1",
+        "Tungsten",
+        "to 1.00, incl",
+        "0.03",
+        ""
+      ],
+      [
+        "",
+        "over 10.000 to 20.00, incl",
+        "0.15",
+        "",
+        "over 1.00 to 2.00, incl",
+        "0.05",
+        ""
+      ],
+      [
+        "",
+        "over 20.00 to 30.00, incl",
+        "0.2",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "Vanadium",
+        "to 0.50 incl",
+        "0.03",
+        ""
+      ],
+      [
+        "Molybdenum",
+        "over 0.20 to 0.60, incl",
+        "0.03",
+        "",
+        "over 0.50 to 1.50, incl",
+        "0.05",
+        ""
+      ],
+      [
+        "",
+        "over 0.60 to 2.00, incl",
+        "0.05",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "over 2.00 to 8.00, incl",
+        "0.1",
+        "Selenium",
+        "all",
+        "0.03",
+        ""
+      ]
+    ]
+  },
+  {
+    "rows": [
+      [
+        "be heat treated in production furnaces to the same procedure as",
+        "",
+        "A370 or Test Methods Al058 as applicable.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "the castings it represents.",
+        "",
+        "7.6 To determine conformance",
+        "",
+        "",
+        "with the",
+        "tension",
+        "test"
+      ],
+      [
+        "7.3 Test specimens may be cut from heat-treated castings, at",
+        "",
+        "requirements, an observed value or calculated value shall be",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "the producer's option, instead of from test coupons.",
+        "",
+        "rounded off in accordance with",
+        "",
+        "Practice E29 to the nearest",
+        "",
+        "",
+        ""
+      ],
+      [
+        "7.4 Investment Castings-For investment castings, the cou\u00ad",
+        "",
+        "500 psi [5 MPa] for yield and tensile strength and to the nearest",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "pons may be cast to shape or machined from coupons to",
+        "",
+        "1 % for elongation and reduction of area.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "dimensions in accordance with Test Methods and Definitions",
+        "",
+        "8. Repair by Welding",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "A370 or the ICI coupon shown in Specification A1067/",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "8.1 Repair by welding",
+        "shall",
+        "be",
+        "in accordance",
+        "with",
+        "the"
+      ],
+      [
+        "A1067M, Fig. 1.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "requirements of individual specification using procedures and",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "7.5 Other Castings-Unless otherwise specified by the",
+        "",
+        "welders qualified in accordance with Practice A488/A488M.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "purchaser, test coupons may be cast integrally with the castings",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "or separately in accordance with Specification A1067 /",
+        "",
+        "9. Flanges",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "A1067M, Fig. 1 and Table 1, with Fig. 2, or with Fig. 4, except",
+        "",
+        "9.1 When a flange from",
+        "a flanged",
+        "",
+        "casting is removed to",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "rows": [
+      [
+        "Limit or Maximum of",
+        "Maximum Limit or",
+        "",
+        "Limit or Maximum of",
+        "Maximum Limit or"
+      ],
+      [
+        "",
+        "",
+        "Elements",
+        "",
+        ""
+      ],
+      [
+        "Specified Range, %",
+        "Under the",
+        "",
+        "Specified Range, %",
+        "Under the"
+      ],
+      [
+        "",
+        "Minimum Limit",
+        "",
+        "",
+        "Minimum Limit"
+      ]
+    ]
+  }
+]

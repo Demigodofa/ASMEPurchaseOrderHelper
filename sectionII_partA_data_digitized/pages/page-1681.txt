@@ -1,0 +1,101 @@
+ASME BPVC.Il.A-2025 
+(b) the temperature range of intended application 
+(c) whether cyclic service is to be considered 
+( d) whether external pressure is to be considered 
+The inquirer shall identify all product forms, size 
+ranges, and specifications or specification requirements 
+for the material for which approval is desired. When 
+available, the inquirer shall furnish information describ­
+ing service experience in the temperature range 
+requested. 
+IV-300 CHEMICAL COMPOSITION 
+The inquirer shall recommend to the BPV .Committee 
+on Materials whether the chemical composition specified 
+in the reference specification applies or whether restric­
+tions to this composition shall be imposed for the in­
+tended application. All elements required by the 
+specification shall be reported. Elements within the speci­
+fied compositional range that are known to influence 
+strength, ductility, toughness, weldability, and behavior 
+under service conditions shall also be reported. The 
+method used for chemical analysis shall be sufficiently 
+precise to provide an accurate measurement of the ele­
+ments at the level at which they should be reported. 
+Furthermore, note the following: 
+[a) It is not required that all elements be analyzed by 
+the same technique. 
+(b) The existence of interferences between elements 
+during analysis shall be considered. 
+(c) If standards traceable to national standards labora­
+tories are not available or not used, the applicant should 
+describe the method or methods used and how precision 
+and detection limits were determined. 
+After review of the submitted data, the Committee re­
+serves the right to request additional data (see IV-1700) 
+or to modify the permitted compositional ranges for key 
+elements so that they more accurately reflect the range 
+of the elements of the submitted test heats. 
+IV-400 METALLURGICAL STRUCTURE AND 
+HEAT TREATMENT 
+When applicable for the proposed material, the in­
+quirer shall indicate the intended metallurgical struc­
+tures, including the desired grain size range, to be 
+achieved in order to comply with the mechanical proper­
+ties requirements and, where applicable, fully describe 
+the heat treatment (including cooling methods) to be ap­
+plied to achieve these structures, the mechanical proper­
+ties, and the expected behavior under service conditions. 
+The inquirer shall report the melting and forming prac­
+tices used to produce the evaluated product form(s). 
+The heat treatment temperatures shall be representative 
+of the proposed range. 
+An explanation for the proposed heat treatment tem­
+perature ranges shall be furnished. When such concepts 
+apply, metallurgical transformation curves and informa­
+tion on the transformation points and conditions for ap­
+pearance of the major phases in the microstructure 
+( e.g., continuous cooling transformation diagram or time­
+temperature precipitation plots) would be beneficial for 
+the Committee's consideration. 
+IV-500 MECHANICAL PROPERTIES 
+Test methods employed for the properties tested shall 
+be those referenced in or by the material specifications, or 
+shall be the appropriate ASTM test methods, recommend­
+ed practices, or test methods described in accepted inter­
+national standards. The test methods used shall be 
+indicated in the data package. 
+It is desired that the data be obtained using material re­
+presentative of the range of effects of the key variables of 
+composition, thickness, mechanical working, and heat 
+treatment. It is desirable that, when applicable, test data 
+also be provided for the range of heat treatment expo­
+sures that may influence properties such as tensile 
+strength, toughness, and stress rupture behavior. After 
+consideration of the submitted data, the Committee re­
+serves the right to modify the specification requirements. 
+IV-600 DEFINITIONS FOR DATA 
+COLLECTION PURPOSES 
+casting lot: single production pour from a master heat. 
+heat: quantity of metal with one chemical composition, 
+produced by a recognized production process from a sin­
+gle primary melt of the metal. Remelted ingot material is 
+not recognized as a separate heat unless it is produced 
+from a melt having a different chemical composition than 
+the other heats. 
+hot isostatically pressed component lot: a number of parts 
+made from a single powder blend consolidated in the 
+same hot isostatic press using the same pressure, tem­
+perature, and time parameters, and heat treated in the 
+same final heat-treatment charge. 
+powder blend: a homogeneous mixture of powder from 
+one or more heats of the same grade. The term "powder 
+blend" shall be substituted for the term "heat" for hot iso­
+statically pressed powder material in IV-300, IV-700, 
+IV-900, IV-1200, IV-1400, and IV-1800. 
+wrought lot: quantity of metal made by melting followed 
+by working or by working and heat treatment as a unique 
+batch. Different lots may come from the same heat and 
+may be made into different product forms. Lot definitions 
+are expected to be found in the applicable material 
+specifications. 
+1627 

@@ -1,0 +1,60 @@
+SA-524/SA-524M ASME BPVC.ILA-2025 !
+TABLE 2 Tensile Requirements — |
+Wall Thicknesses . 2
+Grade I, 0.375 in. [9.52 mm] Grade II, greater than 0.375 in.
+and under [9.52 mm]
+Tensile strength, psi [MPa] / 60 000-85 000 55 000-80 000 .
+[415-585] [380-550] |
+Yield strength, min, psi [MPa] 35 000 [240] 30 000 [205]
+Longitudinal Transverse“ Longitudinal Transverse” |
+Elongation in 2 in. [50 mm], min %: .
+Basic minimum elongation for walls %e in. [7.9 mm] and over in thickness, strip 30 16.5 35 25 -
+tests, and for all small sizes tested in full section :
+4 Transverse elongations may not be calculable for sizes smaller than NPS 6 [DN 150] based on test equipment limitations. :
+® The following table gives the computed minimum values:
+Wall Thickness Elongation in 2 in. [50 mm], min, %
+. Grade |
+in. mm Longitudinal Transverse :
+56 (0.312) (7.94] 30.0 16.5 |
+Yo (0.281) [7.14] 28.5 15.5
+4 (0.250) [6.35] 27.0 14.5 :
+The (0.219) [5.56] 25.5 _
+3/46 (0.188) [4.76] 24.0 - :
+5/2 (0.156) [3.97] 22.5 _ ,
+Y% (0.125) [3.18] 21.0 a | .
+So (0.094) [2.38] 19.5 _ |
+46 (0.062) [1.59] 18.0 a |
+ Note—The above table gives the computed minimum elongation values for each Ys2-in. decrease in wall thickness. Where the wall thickness lies between two values :
+shown above, the minimum elongation value is determined by the following equation: .
+Grade Direction of Test Equation :
+I transverse E = 32t + 6.50
+I longitudinal E = 48t + 15.00 |
+where:
+E = elongation in 2 in. in % and | a
+t = actual thickness of specimen, in. |
+state “Not Hydrostatically Tested,” and the specification num- TABLE 3 Variations in Outside Diameter :
+ber and grade designation, as shown on the certification, shall Designator | Permissible Variations in |
+66 99 Outside Diameter, in. [mm]
+be followed by the letters “NH. BN nn inde |
+F ° ° ¥eto 1%, incl. 6 to 40, incl. Yea [0.4] Yao [0.8] :
+12. Dimensions and Weights Over 172 to 4, 40 to 100, incl. Ya [0.8] Yao [0.8] |
+. 12.1 The dimensions and weights of plain end Pipe ate Over 4 to 8, incl. 100 to 200, incl, = ss Ye [1.6] ___%e [0,8] ———
+__ineluded_in ANSI_B36.10. Sizes_and_wall_thicknessesmost—— over 8 to 18, 200 to 460, incl. Yaa [2.4] a0 {0.8} :
+generally available are listed in Appendix X1. incl. : ’
+Over 18 Over 450 Ye [3.2] Yao [0.8]
+13. Dimensions, Weight, and Permissible Variations oe
+13.1 Weight—The weight of any length of pipe shall not . oo, :
+$ 6 y PIP . Note 4—The minimum wall thickness on inspection is shown in :
+vary more than 6.5 % over and 3.5 % under that specified for Appendix X1 :
+pipe of Schedule 120 (Table X1.2) and lighter nor more than :
+10 % over and 3.5 % under that specified for pipe heavier than. 14. Workmanship, Finish, and Appearance :
+Schedule 120. Unless otherwise agreed upon a eo the 14.1 The pipe manufacturer shall explore a sufficient num-
+manufacturer and purchaser, pipe in sizes NPS 4 [DN 10 , an ber of visual surface imperfections to provide reasonable
+smaller may be weighed in convenient lots; pipe in sizes larger assurance that they have been properly evaluated with respect |
+than NPS 4 [DN 100] shall be weighed separately. to depth. Exploration of all surface imperfections is not
+13.2 Diameter—Variations in outside diameter shall not required but may be necessary to assure compliance with 14.2. |
+exceed those specified in Table 3. 14.2 Surface imperfections that penetrate more than 1214 % :
+13.3 Thickness—The minimum wall thickness at any point of the nominal wall thickness or encroach on the minimum |
+shall not be more than 12.5 % under the nominal wall thickness —_ wall thickness shall be considered defects. Pipe with such , |
+specified. defects shall be given one of the following dispositions: , |
+888 |

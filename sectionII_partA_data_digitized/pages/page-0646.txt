@@ -1,0 +1,91 @@
+SA-370 ASME BPVC.II.A-2025 
+lengths over 2 in. A percentage scale reading to 0.5 % of the 
+gauge length may be used. The elongation is the increase in 
+length of the gauge length, expressed as a percentage of the 
+01iginal gauge length. In recording elongation values, give both 
+the percentage increase and the original gauge length. 
+14.4.2 If any part of the fracture takes place outside of the 
+middle half of the gauge length or in a punched or scribed mark 
+within the reduced section, the elongation value obtained may 
+not be representative of the material. If the elongation so 
+measured meets the minimum requirements specified, no 
+further testing is indicated, but if the elongation is less than the 
+minimum requirements, discard the test and retest. 
+14.4.3 Automated tensile testing methods using extensom­
+eters allow for the measurement of elongation in a method 
+described below. Elongation may be measured and reported 
+either this way, or as in the method described above, fitting the 
+broken ends together. Either result is valid. 
+14.4.4 Elongation at fracture is defined as the elongation 
+measured just prior to the sudden decrease in force associated 
+with fracture. For many ductile materials not exhibiting a 
+sudden decrease in force, the elongation at fracture can be 
+taken as the strain measured just prior to when the force falls 
+below 10 % of the maximum force encountered during the test. 
+14.4.4.1 Elongation at fracture shall include elastic and 
+plastic elongation and may be determined with autographic or 
+automated methods using extensometers verified over the 
+strain range of interest. Use a class B2 or better extensometer 
+for materials having less than 5 % elongation; a class C or 
+better extensometer for materials having elongation greater 
+than or equal to 5 % but less than 50 %; and a class D or better 
+extensometer for materials having 50 % or greater elongation. 
+In all cases, the extensometer gauge length shall be the nominal 
+gauge length required for the specimen being tested. Due to the 
+lack of precision in fitting fractured ends together, the elonga­
+tion after fracture using the manual methods of the preceding 
+paragraphs may differ from the elongation at fracture deter­
+mined with extensometers. 
+14.4.4.2 Percent elongation at fracture may be calculated 
+directly from elongation at fracture data and be reported 
+instead of percent elongation as calculated in 14.4.1. However, 
+these two parameters are not interchangeable. Use of the 
+elongation at fracture method generally provides more repeat­
+able results. 
+14.5 Reduction of Area-Fit the ends of the fractured 
+specimen together and measure the mean diameter or the width 
+and thickness at the smallest cross section to the same accuracy 
+as the original dimensions. The difference between the area 
+thus found and the area of the original cross section expressed 
+594 
+as a percentage of the original area is the reduction of area. 
+R 
+(l m 
+FIG. 7 Stress-strain Diagram Showing Yield Point Corresponding 
+With Top of Knee 
+n 
+:I: 
+I 
+R. ---------------~-~-~-~-~--~-u---~•~ 
+1r 
+I 
+I 
+l 
+I 
+I 
+l 
+I 
+\ 
+I 
+l 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+l 
+I 
+' I 
+I 
+I 
+I 
+I 
+0 Strain :m 
+!•--------- ·-•---. ------ ....: 
+om = Extension Under J.oad ' 
+FIG. 8 Stress-strain Diagram Showing Yield Point or Yield 
+Strength by Extension Under Load Method 

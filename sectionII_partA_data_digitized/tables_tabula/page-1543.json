@@ -1,0 +1,154 @@
+[
+  {
+    "rows": [
+      [
+        "",
+        "in.",
+        "in.",
+        "",
+        "mm",
+        "mm"
+      ],
+      [
+        "1/s -1 1\u20442, incl",
+        "1/s\u2022 (0.015)",
+        "1/32 (0.031)",
+        "[6--40], incl",
+        "[0.4]",
+        "[0.8]"
+      ],
+      [
+        "Over 11\u20442  to 4, incl",
+        "1/s2 (0.031)",
+        "1/32 (0.031)",
+        "Over [40 to 100]",
+        "[0.8]",
+        "[0.8]"
+      ],
+      [
+        "Over 4 to 8, incl",
+        "1Ae (0.062)",
+        "1/s2 (0.031)",
+        "Over [100 to 200]",
+        "[1.6]",
+        "[0.8]"
+      ],
+      [
+        "Over 8 to 18, incl",
+        "o/32 (0.093)",
+        "1/s2 (0.031)",
+        "Over [200 to 450]",
+        "[2.4]",
+        "[0.8]"
+      ],
+      [
+        "Over 18 to 26, incl",
+        "1/s (0.125)",
+        "1/s2 (0.031)",
+        "Over [450 to 650]",
+        "[3.2]",
+        "[0.8]"
+      ],
+      [
+        "Over 26 to 34, incl",
+        "o/32 (0.156)",
+        "1/s2 (0.031)",
+        "Over [650 to 850]",
+        "[4.0]",
+        "[0.8]"
+      ],
+      [
+        "Over 34 to 48, incl",
+        "o/16 (0.187)",
+        "1/s2 (0.031)",
+        "Over [850 to 1200]",
+        "[4.8]",
+        "[0.8]"
+      ]
+    ]
+  },
+  {
+    "rows": [
+      [
+        "specified as minimum wall in the purchase order, there shall be",
+        "",
+        "variations shall be agreed upon between the manufacturer and"
+      ],
+      [
+        "no variation under the specified wall thickness.",
+        "",
+        "purchaser."
+      ],
+      [
+        "10.2 Forged and Bored-The wall thickness shall not vary",
+        "",
+        "13.4 No girth welds are permitted unless agreed upon by the"
+      ],
+      [
+        "over that specified by more than Vs in. [3.2 mm]. There shall be",
+        "",
+        "manufacturer and purchaser."
+      ],
+      [
+        "no variation under the specified wall thickness.",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "14. Mass per Unit Length"
+      ],
+      [
+        "10.3 Cast-The wall thickness shall not vary over that",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "14.1 A system of standard pipe sizes has been approved by"
+      ],
+      [
+        "specified by more than V16 in. [1.6 mm]. There shall be no",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "the American National Standards Institute as ANSI B36.10 and"
+      ],
+      [
+        "variation under the specified wall thickness.",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "B36.19. The standard sizes do not prohibit the production and"
+      ],
+      [
+        "11. Permissible Variations in Inside Diameter",
+        "",
+        "use of other sizes of pipe produced to the various product"
+      ],
+      [
+        "",
+        "",
+        "specifications referenced in 1.1. (See Note 3.)"
+      ],
+      [
+        "11.1 Forged and Bored, and Cast-The inside diameter",
+        "",
+        ""
+      ],
+      [
+        "shall not vary under that specified by more than V16 in. [1.6",
+        "",
+        "14.2 For nonstandard sizes of pipe, the calculated mass per"
+      ]
+    ]
+  }
+]

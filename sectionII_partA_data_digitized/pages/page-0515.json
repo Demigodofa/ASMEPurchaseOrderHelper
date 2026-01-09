@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 515,
+  "globalPageIndex": 515,
+  "width": 612.6,
+  "height": 853.8,
+  "text": "ASME BPVC.II.A-2025 SA-312/SA-312M (ASTM A312/A312M) \nAPPENDIX \n(Nonmandatory Information) \nXl. DIMENSIONS OF WELDED AND SEAMLESS STAINLESS STEEL PIPE \nXl.1 Table Xl.1 is based on Table number 1 of the \nAme1ican National Standard for stainless steel pipe (ASME \nB36.19) but not identical. \nTABLE X1.1 Dimensions of Welded and Seamless Stainless Steel Pipe \nNom I-The decimal thickness listed for the respective pipe sizes represents their nominal or average wall dimensions. \nNPS Outside Diameter Nominal Wall Thickness \nDesignator in. mm Schedule 5SA Schedule 10sA Schedule 408 Schedule 808 \nin. mm in. mm in. mm in. \n1/a 0.405 10.3 0.049 1.24 0.068 1.73 0.095 \n\u00bc 0.540 13.7 0.065 1.65 0.088 2.24 0.119 \n3/a 0.675 17.1 0.065 1.65 0.091 2.31 0.126 \n\u00bd 0.840 21.3 0.065 1.65 0.083 2.11 0.109 2.77 0.147 \n\u00be 1.050 26.7 0.065 1.65 0.083 2.11 0.113 2.87 0.154 \n1 1.315 33.4 0.065 1.65 0.109 2.77 0.133 3.38 0.179 \n1\u00bc 1.660 42.2 0.065 1.65 0.109 2.77 0.140 3.56 0.191 \n1\u00bd 1.900 48.3 0.065 1.65 0.109 2.77 0.145 3.68 0.200 \n2 2.375 60.3 0.065 1.65 0.109 2.77 0.154 3.91 0.2i8 \n21/2 2.875 73.0 0.083 2.11 0.120 3.05 0.203 5.16 0.276 \n3 3.500 88.9 0.083 2.11 0.120 3.05 0.216 5.49 0.300 \n3\u00bd 4.000 101.6 0.083 2.11 0.120 3.05 0.226 5.74 0.318 \n4 4.500 114.3 0.083 2.11 0.120 3.05 0.237 6.02 0.337 \n5 5.563 141.3 0.109 2.77 0.134 3.40 0.258 6.55 0.375 \n6 6.625 168.3 0.109 2.77 0.134 3.40 0.280 7.11 0.432 \n8 8.625 219.1 0.109 2.77 0.148 3.76 0.322 8.18 0.500 \n10 10.750 273.1 0.134 3.40 0.165 4.19 0.365 9.27 0.500 8 \n12 12.750 323.9 0.156 3.96 0.180 4.57 0.375 8 9.53 8 0.500 8 \n14 14.000 355.6 0.156 3.96 0.188 8 4.78 8 0.375 8 9.53 8 0.500 8 \n16 16.000 406.4 0.165 4.19 0.188 8 4.78 8 0.375 8 9.53 8 0.500 8 \n18 18.000 457 0.165 4.19 0.188 8 4.78 8 0.375 8 9.53 8 0.500 8 \n20 20.000 508 0.188 4.78 0.218 8 5.54 8 0.375 8 9.53 8 0.500 8 \n22 22.000 559 0.188 4.78 0.218 8 5.54 8 ... \n24 24.000 610 0.218 5.54 0.250 6.35 0.375 8 9.53 8 0.500 8 \n30 30.000 762 0.250 6.35 0.312 7.92 \nA Schedules 58 and 108 wall thicknesses do not permit threading in accordance with the American National Standard for Pipe Threads (ASME B1.20.1). \n8 These do not conform to the American National Standard for Welded and Seamless Wrought Steel Pipe (ASME B36.1 OM). \nSUMMARY OF CHANGES \nCommittee A0l has identified the location of selected changes to this standard since the last issue \n(A312/A312M-22a) that may impact the use of this standard. (Approved March 1, 2024.) \n(]) Added grade S30416 to Table 1 and Table 4. \nCommittee A0l has identified the location of selected changes to this standard since the last issue \n(A312/A312M- 22) that may impact the use of this standard. (Approved Nov. 1, 2022.) \n(]) Added UNS designation S35030 to Table 1, Table 4, and \nTable 6. \n463 \nmm \n2.41 \n3.02 \n3.20 \n3.73 \n3.91 \n4.55 \n4.85 \n5.08 \n5.54 \n7.01 \n7.62 \n8.08 \n8.56 \n9.53 \n10.97 \n12.70 \n12.70 8 \n12.70 8 \n12.70 8 \n12.70 8 \n12.70 8 \n12.70 8 \n... \n12.70 8 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0515.json",
+  "tabulaTablesCsv": "tables_tabula/page-0515.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0515.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2921,
+  "bestTextAlphaRatio": 0.3437
+}

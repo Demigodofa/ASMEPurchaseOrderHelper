@@ -1,0 +1,129 @@
+SA-540/SA-540M ASME BPVC.II.A-2025 
+TABLE 3 Rolled BarsA -Permissible Grinding Depth for Removal 
+of Surface Defects 
+Diameter, in. [mm] 
+1 to 1'/a [25 to 29), incl 
+Over 11/a to 1 ¼ [29 to 32), incl 
+Over 1¼ to 1% [32 to 35), incl 
+Over 1% to 1½ [35 to 38), incl 
+Over 1 ½ to 2 [38 to 50), incl 
+Over 2 to 2 1k [50 to 65), incl 
+Over 2½ to 3½ [65 to 90), incl 
+Over 3 1k to 4½ [90 to 115), incl 
+Over 4½ to 5½ [115 to 140], incl 
+Over 5½ to 6½ [140 to 165], incl 
+Over 6½ to 8¼ [165 to 210], incl 
+Over 8¼ to 9½ [21 0 to 240], incl 
+Minimum Stock Removal 
+Per Side 
+in. mm 
+0.025 
+0.028 
+0.030 
+0.033 
+0.042 
+0.052 
+0.072 
+0.090 
+0.110 
+0.125 
+0.155 
+0.203 
+0.64 
+0.71 
+0.76 
+0.84 
+1.07 
+1.32 
+1.83 
+2.29 
+2.79 
+3.18 
+3.94 
+5.16 
+A Consult the manufacturer on forged bars, cold-finished bars, bored bars, 
+seamless tubes, and forged hollows. 
+13.1.1 One test coupon shall be removed from each end of 
+one bar, one seamless tube, or one bored bar or from each of 
+two forged hollows from each size of each heat in each 
+tempering charge, or each 10 000 lb [4540 kg], whichever is 
+less. One tension test and one impact test consisting of three 
+Charpy V-notch specimens shall be taken from each test 
+coupon. For testing in accordance with 15.1.1, two tests shall 
+be obtained from two representative production pieces from 
+each size of each heat in each tempering charge or each 10 000 
+lb [4540 kg], whichever is less. 
+13.1.2 Hardness Test: 
+13.1.2.1 Bars 2 in. [50 mm] and over and all seamless tubes 
+or bored bars shall be tested near each end of each mill-treated 
+length. Each forged hollow with thickness 2 in. [50 mm] or 
+over shall be tested on the surface. 
+13.1.2.2 Bars under 2 in. [50 mm] shall be tested near each 
+end of not less than 10 % of the bars. Forged hollows less than 
+2 in. [50 mm] thick shall be tested on the surface of not less 
+than 10 % of the forgings. 
+13.2 Hardness Tests of Annealed Bolting Material: 
+13.2.1 Hardness tests shall be made on the annealed bars to 
+assure compliance with 10.2. 
+13.3 Bolting Components: 
+------13.3rTfie number of bolting components tested shall be as 
+specified in Specification A962/ A962M. 
+14. Retests 
+14.1 If the results of the mechanical tests of any test lot do 
+not conform to the specified requirements, the manufacturer 
+shall reject the lot or the manufacturer may re-heat treat such 
+a lot no more than twice. After the lot is re-heat treated, all of 
+the tests specified in Section 13 shall be repeated, and all shall 
+conform to the specified requirements. 
+15. Test Specimens and Methods of Testing 
+15.1 A discard equivalent to the diameter of the bar when 
+heat treated as a solid or a discard equivalent to the wall 
+thickness when heat treated as a seamless tube, bored bar, or 
+hollow forging shall be taken prior to removal of test coupons. 
+15.1.1 When production pieces are not of sufficient length to 
+permit removal of test coupons in accordance with 15.1, the 
+mid-length of the specimens shall be at the mid-length of the 
+production pieces selected for destruction to provide test 
+coupons of the bolting material. The production pieces selected 
+for test shall be identical with respect to the quenched contour 
+and size except for length which shall equal or exceed the 
+length of the represented production pieces. 
+15.2 Tension and impact specimens from bolting compo­
+nents with cross sections of 1 ½ in. [38 mm] or less shall be 
+taken so that their longitudinal axis is on a line representing the 
+center of the diameter or thickness. 
+15.3 Tension test specimens from bolting components with 
+cross sections exceeding 1 ½ in. [38 mm] shall be taken so that 
+their longitudinal axis is midway between mid-thickness and 
+surface. 
+15.4 Impact specimens from bolting components with cross 
+sections exceeding 1 ½ in. [38 mm] shall be taken so that their 
+longitudinal axis is midway between mid-thickness and surface 
+or 1 in. [25 mm] below the surface plus the machining 
+allowance per side, whichever is less. 
+16. Certification 
+16.1 When requested in the purchaser's order, a test report 
+shall be furnished to the purchaser. In addition to the require­
+ments of Specification A962/A962M the report shall include 
+any other tests which may be specified in writing by the 
+purchaser. 
+17. Product Marking 
+916 
+17.1 Bars under 2 in. [50 mm] in diameter shall be bundled 
+and tagged with the specification, grade symbol, and mill heat 
+number. The specification number marked on the tag need not 
+include specification year date and revision number. 
+17.2 Bars 2 in. [50 mm] and over in diameter and all 
+seamless tubes and bored bars shall be die-stamped with the 
+11.1iU heat number and grade symbol on one surface. 
+17 .3 Each hollow forging shall be die-stamped with the heat 
+number or heat symbol code and grade symbol. 
+17.4 See Specification A962/ A962M for marking bolting 
+components. Use the grade symbol shown in Table 1. 
+18. Keywords 
+18.1 bolts-steel; chromium-molybdenum alloy steel; 
+chromium-molybdenum-vanadium alloy steel; chromium­
+nickel-molybdenum-vanadium alloy steel; bolting 
+components-steel; nickel-chromium-molybdenum alloy 
+steel; nuclear applications; nuts-steel; steel bars-alloy; steel 
+bolting material 

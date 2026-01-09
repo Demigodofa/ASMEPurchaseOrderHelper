@@ -1,0 +1,107 @@
+ASME BPVC.II.A-2025 
+IV-700 REQUIRED SAMPLING 
+For all mechanical properties, data shall be provided 
+over the required range of test temperatures from at least 
+three heats of material meeting all of the requirements of 
+the applicable specifications. Data submitted on three 
+heats of one wrought product form for which coverage 
+is requested may be considered to be applicable for all 
+other wrought product forms having the same nominal 
+composition. Testing shall include the characterization 
+of the metallurgical structure, including determination 
+of grain size. 
+For wrought materials and especially for those materi­
+als whose mechanical properties are enhanced by heat 
+treatment, forming practices, or a combination thereof, 
+and for other materials for which the mechanical proper­
+ties may be reasonably expected to be thickness depen­
+dent, data from one additional lot from material of at 
+least 75% of the maximum thickness for which coverage 
+is requested shall be submitted. If no maximum thickness 
+is given, information shall be provided to support the suit­
+ability of the thickness used for the tested samples. 
+When adoption of cast product forms is requested, data 
+from at least three heats for one of the cast product forms 
+shall be submitted. The cast material shall be considered 
+as a separate material even if its nominal composition is 
+the same or very similar to that of an approved wrought 
+material. 
+If the hot isostatically pressed powder material meets 
+all of the requirements of Table IV-100-1, it shall be con­
+sidered the same material as that of the approved 
+wrought material for temperatures approximately 50°F 
+(25°C) below the temperature where time-dependent 
+properties, as defined by the Time-Dependent Properties 
+Notes (T-Notes) in the applicable allowable stress table 
+for the approved wrought material, govern. 
+If the hot isostatically pressed material is to be used at 
+temperatures where the time-dependent properties, as 
+defined by the Time-Dependent Properties Notes 
+(T-Notes) in the applicable allowable stress table for the 
+approved wrought material, govern, the requirements of 
+this Appendix relative to the provision of data for new 
+materials shall apply. 
+If the hot isostatically pressed powder material does 
+not meet all of the requirements of Table IV-100-1, it shall 
+be considered as a separate material to that of the ap­
+proved wrought material. In this case, the requirements 
+of this Appendix relative to the provision of data for 
+new materials shall apply. 
+Additional data for other heats tested to a lesser degree 
+than described herein would be beneficial to the Commit­
+tee's consideration. 
+IV-800 TIME-INDEPENDENT PROPERTIES 
+For time-independent properties at and above room 
+temperature, the required data include values of ultimate 
+tensile strength, 0.2% offset yield strength, reduction of 
+area (when specified in the material specification), and 
+elongation. For steels, nickel alloys, cobalt alloys, and alu­
+minum alloys, data shall be provided at room tempera­
+ture and 100°F (50°C) intervals, beginning at 200°F 
+(100°C) to 100°F (50°C) above the maximum intended 
+use temperature, unless the maximum intended use tem­
+perature does not exceed 100°F ( 40°C). For copper alloys, 
+titanium alloys, and zirconium alloys, data shall be pro­
+vided at room temperature, 150°F (65°C), and 200°F 
+(100°C), and then at 100°F (50°C) intervals, to 100°F 
+(50°C) above the maximum intended use temperature, 
+unless the maximum intended use temperature does not 
+exceed 100°F ( 40°C). The test methods shall be as given 
+in ASTM A370, ASTM A1058, ASTM E8, ASTM E21, or 
+other equivalent national or international test standards. 
+In addition, when specified in the material specification, 
+hardness values shall be provided at room temperature 
+and shall be determined as specified in the material spec­
+ification. Data provided shall be expressed in the units 
+and to the number of significant figures shown in Table 
+IV-800-1. When either the material specification or the 
+applicable construction code ( e.g., Section XII) permits 
+or requires that yield strength be determined by other 
+than the 0.2% offset method, those other yield strength 
+values shall also be reported. 
+IV-900 TIME-DEPENDENT PROPERTIES 
+If approval is desired for temperatures where time­
+dependent properties may be expected to control design, 
+time-dependent data, as itemized below, shall be pro­
+vided, starting at temperatures approximately 50°F 
+(25°C) below the temperature where time-dependent 
+properties may govern and extending at least 100°F 
+(S0°C) above the maximum intended use temperature. 
+Exceptions to this rule are permitted, provided the in­
+quirer provides suitable justification for the deviation. 
+The creep-rupture test method shall be in accordance 
+with ASTM E139 or other equivalent national or interna­
+tional test standard.For time-dependent tests, the interval 
+between successive temperatures shall be chosen such 
+that it permits, in all cases, an accurate estimation of 
+the slope of the stress-rupture curves. For normally stable 
+materials ( e.g., solid solution-strengthened materials), 
+test temperatures shall be at intervals of 100°F (50°C) 
+or less. Where there is a possibility of degradation of 
+strength related to metallurgical instability ( e.g., for 
+precipitation-strengthened materials), test temperatures 
+shall be at intervals of 50°F (25°C) or less. 
+Data provided shall be expressed in the units and to the 
+number of significant figures shown in Table IV-800-1.In 
+addition, for certain types of steels or alloys, it may be 
+1628 

@@ -1,0 +1,131 @@
+ASME BPVC.II.A-2025 SA-1058 
+TABLE 1 Tests and Applicable Standards 
+Test Sections ASTM EN ISO JIS 
+Tension 
+Bend 
+Bend 
+(tube) 
+Hardness 
+Brinell 
+Rockwell 
+Portable 
+Impact 
+Keywords 
+5 to 12 
+13 
+13 
+14 
+15 
+16 
+17 
+18 to 26 
+27 
+E8/E8M 
+E190 
+E290 
+E10 
+E18 
+A833 
+E110 
+A1038 
+E23 
+10002-1 6892-1 2 2241 
+7438A 7438 2 2248 
+10232 8491 
+6506-1 A 6506•1 
+6508• 1 A 6508• 1 
+148-1A 148-1 
+22243 
+22245 
+22242 
+A These standards are designated EN ISO; this identifies the adoption of ISO 
+standards by EN. "EN ISO" is part of the designation. 
+E290 Test Methods for Bend Testing of Material for Ductil­
+ity 
+2.2 Other Documents: 
+ASME Boiler and Pressure Vessel Code Section Vill, Divi­
+sion I 
+ISO 148-1 Metallic Materials-Charpy Pendulum Impact 
+Test-Part 1: Test Method 
+ISO 148-2 Metallic Materials-Charpy Pendulum Impact 
+Test-Part 2: Verification of Test Machines 
+ISO 2566-1 Steel-'-Conversion of Elongation Values-Part 
+1: Carbon and Low Alloy Steels 
+ISO 2566-2 Steel-'-Conversion of Elongation Values-Part 
+2: Austenitic Steels 
+ISO 6506-1 Metallic Materials-Brinell Hardness Test­
+Part 1: Test Method 7 
+ISO 6508-1 Metallic Materials-Rockwell Hardness Test­
+Part 1: Test Method (Scales A, B, C, D, E, F, G, H, K, N, 
+T) 
+ISO 6892-1 Metallic Materials-Tensile Testing at Ambient 
+Temperature 
+ISO 7438 Metallic Materials-Bend Test 
+ISO 8491 Metallic Materials-Tube (in Full Section)­
+Bend Test 
+ISO 17025 General Requirements for the Competence of 
+Testing and Calibration Laboratories 
+ns B 7722 Charpy Pendulum Impact Test-Verification of 
+Testing Machines 
+JIS Z 2201 Test Pieces for Tensile Test for Metallic Materials 
+JIS Z 2241 Method of Tensile Test for Metallic Materials 
+JIS Z 2242 Method of Charpy Pendulum Impact Test for 
+Metallic Materials 
+ns Z 2243 Brinell Hardness Test-Test Method 
+IlS Z 2245 Rockwell Hardness Test-Test Method 
+JIS Z 2248 Method of Bend Test for Metallic Materials 
+3. General Precautions 
+3.1 The ASTM track is the default track; if other than the 
+ASTM track is used that track shall be reported. 
+3.2 Certain methods of fabrication, such as bending, 
+forming, and welding, or operations involving heating, may 
+affect the properties of the material under test. Therefore, the 
+product specifications cover the stage of manufacture at which 
+mechanical testing is to be performed. The properties shown by 
+testing prior to fabrication may not necessarily be representa­
+tive of the product after it has been completely fabricated. 
+3.3 Improper machining or preparation of test specimens 
+may give erroneous results. Care should be exercised to assure 
+good workmanship in machining. Improperly machined speci­
+mens should be discarded and other specimens substituted. 
+3.4 Flaws in the specimen may also affect results. If any test 
+specimen develops flaws, the retest provision of the applicable 
+product specification shall govern. 
+3 .5 If any test specimen fails because of mechanical reasons 
+such as failure of testing equipment or improper specimen 
+preparation, it may be discarded and another specimen taken. 
+4. Orientation of Test Specimens 
+4.1 The terms "longitudinal test" and "transverse test" are 
+used only in material specifications for wrought products and 
+are not applicable to castings. When such reference is made to 
+a test coupon or test specimen, the following definitions apply: 
+4.1.1 Longitudinal Test, unless specifically defined 
+otherwise, signifies that the lengthwise axis of the specimen is 
+parallel to the direction of the greatest extension of the steel 
+during rolling or forging. The stress applied to a longitudinal 
+tension test specimen is in the direction of the greatest 
+extension, and the axis of the fold of a longitudinal bend test 
+specimen is at right angles to the direction of greatest exten­
+sion. 
+4.1.2 Transverse Test, unless specifically defined otherwise, 
+signifies that the lengthwise axis of the specimen is at right 
+angles to the direction of the greatest extension of the steel 
+during rolling or forging. The stress applied to a transverse 
+tension test specimen is at right angles to the greatest 
+extension, and the axis of the fold of a transverse bend test 
+specimen is parallel to the greatest extension. 
+4.2 The terms "radial test" and "tangential test" are used in 
+material specifications for some wrought circular products and 
+are not applicable to castings .. When such reference is made to 
+a test coupon or test specimen, the following definitions apply: 
+4.2.1 Radial Test, unless specifically defined otherwise, 
+signifies that the lengthwise axis of the specimen is perpen­
+dicular to the axis of the product and coincident with one of the 
+radii of a circle drawn with a point on the axis of the product 
+as a center. 
+4.2.2 Tangential Test, unless specifically defined otherwise, 
+signifies that the lengthwise axis of the specimen is perpen­
+dicular to a plane containing the axis of the product and tangent 
+to a circle drawn with a point on the axis of the product as a 
+center. 
+1543 

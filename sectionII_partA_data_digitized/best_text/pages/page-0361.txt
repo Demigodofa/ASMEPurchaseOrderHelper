@@ -1,0 +1,62 @@
+ASME BPVC.II.A-2025 SA-217 /SA-217M (ASTM A217 /A217M) 
+relief or reheat treatment shall be in accordance with the 
+qualified procedure used. Major repairs shall be inspected to 
+the same quality standards that are used to inspect the castings. 
+10. Keywords 
+10.1 alloy steel; high temperature; martensitic stainless 
+steel; pressure containing; steel castings 
+SUPPLEMENTARY REQUIREMENTS 
+The following supplementary requirements shall not apply unless specified in the purchase order. 
+Lists of standardized supplementary requirements for use at the option of the purchaser are included 
+in Specifications A703/A703M and A985/A985M. Those which are ordinarily considered suitable for 
+use with this specification are given below. Others enumerated in Specifications A703/A703M and 
+A985/A985M may be used with this specification upon agreement between the manufacturer and 
+purchaser. 
+Sl. Unspecified Elements 
+S2. Destruction Tests 
+S3. Bend Tests 
+S4. Magnetic Particle Inspection 
+SS. Radiographic Inspection 
+S7. Ultrasonic Inspection 
+SlO. Examination of Weld Preparation 
+Sl3. Hardness Test 
+S21. Heat Treatment Furnace Record 
+S22. Heat Treatment 
+S51. Mandatory Post-Weld Heat Treatment 
+S51.1 All castings with repair welds shall receive a manda­
+tory thermal stress relief or complete reheat treatment in 
+accordance with the qualified procedure after all weld repairs. 
+S52. Lower Maximum Phosphorus or Sulfur Contents 
+S52.1 When specified in the order, the maximum phosphorus 
+or sulfur contents shall be as follows: 
+S52.2 For WC6, the maximum phosphorus content shall not 
+exceed 0.030 % and the maximum sulfur content shall not 
+exceed 0.025 %. 
+309 
+S52.3 For WC9, the maximum sulfur content shall not 
+exceed 0.030 %. 
+S52.4 For C5, the maximum phosphorous content shall not 
+exceed 0.035 % and the maximum sulfur content shall not 
+exceed 0.030 %. 
+S52.5 For C12, the maximum phosphorus content shall not 
+exceed 0.035 % and the maximum sulfur content shall not 
+exceed 0.025 %. 
+S52.6 For CA15, the maximum phosphorus content shall not 
+exceed 0.025% and the maximum sulfur content shall not 
+exceed 0.020 %. 
+S53. Temper Embrittlement Factor 
+S53.1 When specified by the purchaser, the composition of 
+Grade WC9, based on heat analysis, shall be restricted in 
+accordance with the following equations: 
+J=(Si+Mn) X (P + Sn) X 104 s; 180(Si, Mn, P, and Sn in wt%) 
+Cu:5 0.20 % 
+Nis; 0.30 % 
+S53.1.1 Lower values of J, Cu, and Ni can be specified by 
+agreement between the purchaser and the supplier. 
+S53.1.2 The values of J shall be reported. 
+S53.1.3 If WC9 castings are repaired by welding, the 
+composition of the weld deposit shall be restricted in accor­
+dance with the following equations: 
+X=(l0P + 5Sb + 4Sn + As)/100 s; 15(P, Sb, Sn, and As in ppm) 
+Cus; 0.20 % 
+Nis; 0.30 % 

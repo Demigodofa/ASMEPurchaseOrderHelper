@@ -1,0 +1,883 @@
+=== Page 1376 ===
+
+SA-813/SA-813M ASME BPVC.II.A-2025 
+Specification for 
+Single- or Double-Welded Austenitic Stainless Steel Pipe 
+1. Scope 
+1.1 This specification covers two classes of fit-up and 
+alignment quality straight-seam single- or double-welded aus­
+tenitic steel pipe intended for high-temperature and general 
+corrosive service. 
+Nom 1-When the impact test criterion for a low-temperature service 
+would be 15 ft-lbf [20 J] energy absorption or 15 mils [0.38 mm] lateral 
+expansion, some of the austenitic stainless steel grades covered by this 
+specification are accepted by certain pressure vessel or piping codes 
+without the necessity of making the actual test. For example, Grades 304, 
+304L, and 347 are accepted by the ASME Pressure Vessel Code, Section 
+VIII Division 1, and by the Chemical Plant and Refinery Piping Code, 
+ANSI.B31.3 for service at temperatures as low as -425 °F [-250 °C] 
+without qualification by impact tests. Other AISI stainless steel grades are 
+usually accepted for service temperatures as low as -325 °F [-200 °C] 
+without impact testing. Impact testing may, under certain circumstances, 
+be required. For example, materials with chromium or nickel content 
+outside the AISI ranges, and for material with carbon content exceeding 
+0.10 %, are required to be impact tested under the rules of ASME Section 
+VIII Division 1 when service temperatures are lower than -50 °F [-45 °C] 
+1.2 Grades TP304H, TP304N, TP316H, TP316N, TP321H, 
+TP347H, and TP348H are modifications of Grades TP304, 
+TP316, TP321, TP347, and TP348, and are intended for 
+high-temperature service. 
+1.3 Two classes of pipe are covered as follows: 
+1.3.1 Class SW-Pipe, single-welded with no addition of 
+filler metal and 
+1.3.2 Class DW-Pipe, double-welded with no addition of 
+filler metal. 
+1.4 Optional supplementary requirements are provided for 
+pipe where a greater degree of testing is desired. These 
+supplementary requirements call for additional tests to be made 
+and, when desired, one or more of these may be specified in the 
+order. 
+1.5 Table 1 lists the dimensions of welded stainless steel 
+pipe as shown in ANSI B36.19. Pipe having other dimensions 
+may be furnished provided such pipe complies with all other 
+requirements of this specification. 
+1.6 The values stated in either SI units or inch-pound units 
+are to be regarded separately as standard. Within the text, the 
+SI units are shown in brackets. The values stated in each 
+system may not be exact equivalents; therefore, each system 
+shall be used independently of the other. Combining values 
+from the two systems may result in non-conformance with the 
+standard. The inch-pound units shall apply unless the "M" 
+designation of this specification is specified in the order. 
+1.7 This international standard was developed in accor­
+dance with internationally recognized principles on standard­
+ization established in the Decision on Principles for the 
+Development of International Standards, Guides and Recom­
+mendations issued by the World Trade Organization Technical 
+Barriers to Trade (TBT) Committee. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+A262 Practices for Detecting Susceptibility to Intergranular 
+Attack in Austenitic Stainless Steels 
+A370 Test Methods and Definitions for Mechanical Testing 
+of Steel Products 
+A480/A480M Specification for General Requirements for 
+Flat-Rolled Stainless and Heat-Resisting Steel Plate, 
+Sheet, and Strip 
+A751 Test Methods, Practices, and Terminology for Chemi­
+cal Analysis of Steel Products 
+A999/ A999M Specification for General Requirements for 
+Alloy and Stainless Steel Pipe 
+E112 Test Methods for Determining Average Grain Size 
+E213 Practice for Ultrasonic Testing of Metal Pipe and 
+Tubing 
+E381 Method of Macroetch Testing Steel Bars, Billets, 
+Blooms, and Forgings 
+E426 Practice for Electromagnetic (Eddy Current) Examina­
+tion of Seamless and Welded Tubular Products, Titanium, 
+Austenitic Stainless Steel and Similar Alloys 
+E527 Practice for Numbering Metals and Alloys in the 
+Unified Numbering System (UNS) 
+1314
+
+=== Page 1377 ===
+
+-~ 
+ASME BPVC.II.A-2025 SA-813/SA-813M 
+TABLE 1 Dimensions of Welded and Seamless Stainless Steel PipeA 
+NoTE 1-Table 1 is based on Table number 1 of the American National Standard for Stainless Steel Pipe (ANSI B36.19-1965). 
+NoTE 2-The decimal thickness listed for the respective pipe sizes represents their nominal or average wall dimensions. 
+Outside Diameter Nominal Wall Thickness 
+NPS Desig- Schedule 5S 8 Schedule 10S 8 Schedule 40S Schedule 80S nator in, mm 
+in. mm in. mm in. mm in. mm 
+1/a 0.405 10.29 0.049G 1.24 0.068 1.73 0.095 2.41 
+¼ 0.540 13.72 0.065c 1.65 0.088 2.24 0.119 3.02 
+% 0.675 17.15 0.065c 1.65 0.091 2.31 0.126 3.20 
+½ 0.840 21.34 0.065c 1.65 0.083G 2.11 0.109 2.77 0.147 3.73 
+% 1.050 26.67 0.065c 1.65 0.083G 2.11 0.113 2.87 0.154 3.91 
+1.0 1.315 33.40 0.065c 1.65 0.109G 2.77 0.133 3.38 0.179 4.55 
+1¼ 1.660 42.16 0.065c 1.65 0.109G 2.77 0.140 3.56 0.191 4.85 
+1½ 1.900 48.26 0.065c 1.65 0.109c 2.77 0.145 3.68 0.200 5.08 
+2 2.375 60.33 0.065c 1.65 0.109G 2.77 0.154 3.91 0.218 5.54 
+2½ 2.875 73.03 0.083 2.11 0.120c 3.05 0.203 5.16 0.276 7.01 
+3 3.500 88.90 0.083 2.11 0.120c 3.05 0.216 5.49 0.300 7.62 
+3½ 4.000 101.60 0.083 2.11 0.120c 3.05 0.226 5.74 0.318 8.08 
+4 4.500 114.30 0.083 2.11 0.120c 3.05 0.237 6.02 0.337 8.56 
+5 5.563 141.30 0.109G 2.77 0.134c 3.40 0.258 6.55 0.375 9.52 
+6 6.625 168.28 0.109 2.77 0.134G 3.40 0.280 7.11 0.432 10.97 
+8 8.625 219.08 0.109G 2.77 0.148G 3.76 0.322 8.18 0.500 12.70 
+10 10.750 273.05 0.134G 3.40 0.165G 4.19 0.365 9.27 0.5ooc 12.70G 
+12 12.750 323.85 0.156G 3.96 0.180c 4.57 0.375G 9.52G 0.5ooc 12.70G 
+14 14.000 355.60 0.156G 3.96 0.188 4.78 
+16 16.000 406.40 0.165G 4.19 0.188 4.78 
+18 18.000 457.20 0.165G 4.19 0.188 4.78 
+20 20.000 508.00 0.188G 4.78 0.218G 5.54 
+22 22.000 558.80 0.188G 4.78 0.218G 5.54 
+24 24.000 609.60 0.215c 5.54 0.250 6.35 
+30 30.000 762.00 0.250 6.35 0.312 7.92 
+AFor pipe sizes not listed, the dimensions and tolerances shall be by agreement between the purchaser and producer. 
+8 Schedules 5S and 10S wall thicknesses do not permit threading in accordance with the American National Standard for Pipe Threads (ANSI 81.20.1). 
+~hese do not conform to the American National Standard for Welded and Seamless Wrought Steel Pipe (ANSI 836.10-1979). 
+2.2 ANSI Standards: 
+Bl.20.1 Pipe Threads, General Purpose 
+B31.3 Chemical Plant and Refinery Piping Code 
+B36.10 Welded and Seamless Wrought Steel Pipe 
+B36.19 Stainless Steel Pipe 
+2.3 ASME Boiler and Pressure Vessel Code: 
+Section vm Division 1, Pressure Vessels 
+2.4 Other Standard: 
+SAE Jl086 Practice for Numbering Metals and Alloys 
+(UNS) 
+SNT-TC- lA Personnel Qualification and Certification in 
+Nondestructive Testing 
+3. Ordering Information 
+3.1 Orders for material under this specification should 
+include the following as required, to describe the desired 
+material adequately: 
+3.1.1 Quantity (feet, centimetres, or number of lengths), 
+3.1.2 Name of material (austenitic steel pipe), 
+3.1.3 Class (1.3). If not specified by the purchaser, the 
+producer shall have the option to furnish either single-welded 
+(SW) or double-welded (OW) pipe, 
+3.1.4 Grade (Table 2), 
+3 .1.5 Size (NPS or outside diameter and schedule number or 
+average wall thickness), 
+3.1.6 Length (specific or random), (Section 9), 
+3.1.7 End finish (section on Ends of Specification A999/ 
+A999M), 
+3.1.8 Optional requirements (hydrostatic or nondestructive 
+electric test, Section 13,) (Supplementary Requirements Sl to 
+S6), 
+3.1.9 Test report required (Section on Certification of Speci­
+fication A999/ A999M), 
+3.1.10 Specification number, and 
+3 .1.11 Special requirements or exceptions to the specifica­
+tion. 
+4. Materials and Manufacture 
+4.1 Manufacture: 
+4.1.1 The pipe shall be made by a machine-welding or an 
+automatic-welding process, welding from one or both sides and 
+producing full penetration welds with no addition of filler 
+metal in the welding operation. 
+4.1.2 Weld repairs, with the addition of compatible filler 
+metal, may be made to the weld joint in accordance with the 
+requirements of the section on Repair by Welding of Specifi­
+cation A999/A999M. 
+1315
+
+=== Page 1378 ===
+
+..... w ..... 
+°' 
+TABLE 2 Chemical Requirements 
+UNS Comoosition, % 
+Grade Desig- Carbon, Manga- Phos- Sulfur, Molyb-
+nationA max 8 nese, phorus, Silicon Nickel Chromium Titanium 
+max 8 max denum max 
+TP201° S20100 0.15 5.5-7.5 0.060 0.030 1.00 3.5-5.5 16.0-18.0 ... . .. 
+TP201LN° S20153 0.03 6.4-7.5 0.045 0.015 0.75 4.0-5.0 16.0-17.5 ... . .. 
+TP304 S30400 0.08 2.00 0.045 0.030 1.00 max 8.0-11.0 18.0-20.0 ... . .. 
+TP304H S30409 0.04-0.10 2.00 0.045 0.030 1.00 max 8.0-11.0 18.0-20.0 ... . .. 
+TP304L S30403 0.030E 2.00 0.045 0.030 1.00 max 8.0-12.0 18.0-20.0 ... . .. 
+TP304N S30451 0.08 2.00 0.045 0.030 1.00 max 8.0-11.0 18.0-20.0 ... . .. 
+TP304LN S30453 0.030 2.00 0.045 0.030 1.00 max 8.0-11.0 18.0-20.0 ... . .. 
+TP309Cb S30940 0.08 2.00 0.045 0.030 1.00 max 12.0-16.0 22.0-24.0 ... . .. 
+TP309S S30908 0.08 2.00 0.045 0.030 1.00 max 12.0-15.0 22.0-24.0 ... . .. 
+TP310Cb S31040 0.08 2.00 0.045 0.030 1.00 max 19.0-22.0 24.0-26.0 ... . .. 
+TP310S S31008 0.08 2.00 0.045 0.030 1.00 max 19.0-22.0 24.0-26.0 ... . .. 
+TP316 S31600 0.08 2.00 0.045 0.030 1.00 max 10.0-14.0 16.0-18.0 2.00-3.00 . . . 
+TP316H S31609 0.04-0.10 2.00 0.045 0.030 1.00 max 10.0-14.0 16.0-18.0 2.00-3.00 . . . 
+TP316L S31603 0.030E 2.00 0.045 0.030 1.00 max 10.0-14.0 16.0-18.0 2.00-3.00 . . . 
+TP316N S31651 0.08 2.00 0.045 0.030 1.00 max 10.0-15.0 16.0-18.0 2.00-3.00 
+TP316LN S31653 0.030E 2.00 0.045 0.030 1.00 max 10.0-13.0 16.0-18.0 2.00-3.00 ... 
+TP317 S31700 0.08 2.00 0.045 0.030 1.00 max 11.0-15.0 18.0-20.0 3.0-4.0 . . . 
+TP317L S31703 0.030 2.00 0.045 0.030 1.00 max 11.0-15.0 18.0-20.0 3.0-4.0 . . . 
+. .. S31727 0.030 1.00 0.030 0.030 1.00 max 14.5-16.5 17.5-19.0 3.8-4.5 . . . 
+. . . S32053 0.030 1.00 0.030 0.010 1.00 max 24.0-26.0 22.0-24.0 5.0-6.0 . . . 
+TP321 S32100 0.08 2.00 0.045 0.030 1.00 max 9.00-12.0 17.0-19.0 . . . F 
+TP321H S32109 0.04-0.10 2.00 0.045 0.030 1.00 max 9.00-12.0 17.0-19.0 G . . . 
+TP347 S34700 0.08 2.00 0.045 0.030 1.00 max 9.00-12.0 17.0-19.0 . . . . . . 
+TP347H S34709 0.04-0.10 2.00 0.045 0.030 1.00 max 9.00-12.0 17.0-19.0 . . . . . . 
+TP348 S34800 0.08 2.00 0.045 0.030 1.00 max 9.00-12.0 17.0-19.0 . . . . . . 
+TP348H S34809 0.04-0.10 2.00 0.045 0.030 1.00 max 9.00-12.0 17.0-19.0 ... . . . 
+TPXM-10 S21900 0.08 8.0-10.0 0.045 0.030 _ 1.00 max 5.5-7.5 19.0-21.5 .. . ... 
+TPXM-11 S21903 0.04 8.0-10.0 0.045 0.030 1.00 max 5.5-7.5 19.0-21.5 ... .. . 
+TPXM-15 S38100 0.08 2.00 0.030 0.030 1.50-2.50 17.5-18.5 17.0-19.0 ... . . . 
+TPXM-19 S20910 0.06 4.0-6.0 0.045 0.030 1.00 max 11.5-13.5 20.5-23.5 1.50-3.00 .. . 
+TPXM-29 S24000 0.08 11.5-14.5 0.060 0.030 1.00 max 2.3-3.7 17.0-19.0 .. . . . . 
+. . . S31254 0.020 1.00 0.030 0.010 0.80 max 17.5-18.5 19.5-20.5 6.0-6.5 .. . 
+. . . S30815 O.OS-0.10 0.80 0.040 0.030 1.40-2.00 10.0-12.0 20.0-22.0 . . . 
+. . . N08367 0.030 2.00 0.040 0.030 1.00 max 23.5-25.5 20.0-22.0 6.0-7.0 .. . 
+. . . S31266J 0.030 2.00-4.00 0.035 0.020 1.00 max 21.0-24.0 23.0-25.0 5.2--6.2 .. . 
+ANew designation established in accordance with ASTM E527 and SAE J1086 Practice for Numbering Metals and Alloys (UNS). 
+8Maximum, unless otherwise indicated. 
+°rhe method of analysis for nitrogen shall be a matter of agreement between the purchaser and manufacturer. 
+0 DELETED 
+Tanta-Colum- lum, Nitrogenc Vanadium Copper Cerium Cobalt bium max 
+. .. . .. 0.25 . .. . .. . .. . .. 
+. .. . .. 0.10-0.25 . .. 1.00 . .. . .. 
+. .. . .. . .. . .. . .. . .. . .. 
+. .. . .. . .. . .. . .. . .. . .. 
+. .. . .. . .. . .. . .. . .. . .. 
+. .. . .. 0.10-0.16 . .. . .. . .. . .. 
+. .. . .. 0.10-0.16 . .. . .. . .. . .. 
+10x C . .. . .. . .. . .. . .. . .. 
+min, 
+1.10 max 
+. .. . .. . .. . .. . .. . .. . .. 
+10xC . .. . . . . .. . . . . .. . .. 
+min, 
+1.10 max 
+. .. . . . . . . . .. . .. . .. . .. 
+... . .. . . . . .. . . . . .. . .. 
+... . .. . . . . .. . .. . .. . .. 
+... . . . . . . . .. . . . . .. . .. 
+0.10-0.16 ... . . . . .. . .. 
+. .. . . . 0.10-0.16 .. . . . . . .. . .. 
+... . . . . . . .. . . . . . .. . .. 
+... . . . . . . . .. . . . . .. . .. 
+. .. ... 0.15-0.21 .. . 2.8-4.0 . . . . .. 
+. .. . . . 0.17-0.22 . . . . . . ... . .. 
+... . . . . . . . .. .. . . .. . .. 
+. . . . . . . .. . . . . . . ... . .. 
+H . . . . .. . . . . . . . . . ... 
+I . . . . . . . .. . .. . . . ... 
+H 0.10 0.20 max . . . . . . . .. ... 
+I 0.10 0.20 max . . . . . . . .. ... 
+. . . .. . 0.15-o.40 . .. . . . . .. . .. 
+... .. . 0.15-Q.40 . . . . . . . .. . .. 
+... . . . .. . . .. .. . . .. . .. 
+0.10-0.30 . . . 0.20-0.40 0.10-0.30 .. . ... . .. 
+. .. .. . 0.20-0.40 . . . . . . . .. ... 
+. . . .. . 0.18-Q.22 . .. 0.50-1.00 ... . .. 
+... . .. 0.14-0.20 . .. . . . 0.03-Q.08 . .. 
+... . . . 0.18-Q.25 . . . 0.75 max . . . . .. 
+. . . .. . 0.35-Q.60 . . . 1.00-2.50 ... . .. 
+EFor small diameter or thin walls or both, where many drawing passes are required, a carbon maximum of 0.040 % is necessary in grades TP304L and TP316L. Small outside diameter tubes are defined as those less 
+than 0.500 in. [12.7 mm] in outside diameter and light wall tubes as those less than 0.049 in. [1.2 mm] in average wall thickness (0.044 in. [1 mm] in minimum wall thickness). 
+Ffhe titanium content shall be not less than five times the carbon content and not more than 0.70 %. 
+~e titanium content shall be not less than four times the carbon content and not more than 0.70 %. 
+"The columbium plus tantalum content shall be not less than ten times the carbon content and not more than 1.0 %. 
+'rhe columbium plus tantalum content shall be not less than eight times the carbon content and not more than 1.1 O %. 
+JFor S31266, W = 1.50-2.50. 
+( ) 
+~ 
+00 
+~ 
+w ...... 
+~ 
+00 
+~ 
+w 
+:s: 
+i 
+t!l 
+= 
+~ 
+~ 
+N 
+0 
+N 
+111
+
+=== Page 1379 ===
+
+ASME BPVC.II.A-2025 SA-813 /SA-813M 
+4.1.3 The pipe shall be pickled free of scale. When bright 
+annealing is used, pickling is not necessary. 
+4.1.4 H grades and S30815 shall have a grain size of 7 or 
+coarser when determined in accordance with ASME E112. 
+Grain size determinations shall be made on each heat treatment 
+lot, as defined in Section 12, for the same number of pipes as 
+prescribed for the flattening test in 12.2. 
+4.2 Heat Treatment: 
+4.2.1 All pipe shall be furnished in the heat-treated condition. 
+The heat-treatment procedure, except for H grades, N08367, 
+and S31254, shall consist of heating the pipe to a minimum 
+temperature of 1900 °F [1040 °C] and quenching in water or 
+rapidly cooling by other means. 
+4.2.2 All H grades and S30815 shall be furnished in the solution-
+,,~~ treated condtion. If cold working is involved in processing, the 
+minimum solution treating temperature for Grades TP321H, 
+TP347H, and TP348H shall be 2000 °F [1100 °C] and for 
+Grades TP304H and TP316H, 1900 °F [1040 °C]. If the H 
+Grade is hot rolled, the minimum solution treating tempera­
+tures for Grades TP321H, TP347H, and TP348H shall be 
+1925 °F [1050 °C], and for Grades TP304H and TP316H, 
+1900 °F [1040 °C]. The mimum temperature for S30815 shall 
+be 1920 °F [1050 °C]. 
+4.2.3 The heat-treatment procedure for S31254 shall consist 
+of heating the pipe to a minimum temperature of 2100 °F 
+[1150 °C] and quenching in water or rapidly cooling by other 
+means. 
+4.2.4 S31727 and S32053 shall be heat treated 1975 to 
+2155 °F [1080 to 1180 °C] followed by quenching in water or 
+rapidly cooling by other means. 
+4.2.5 UNS N08367 should be solution annealed from 
+2025 °F [1107 °C] minimum followed by rapid quenching. 
+4.2.6 DELETED 
+4.2.7 DELETED 
+4.2.8 DELETED 
+5. Chemical Composition 
+5.1 The steel shall conform to the chemical composition in 
+Table 2. 
+5.2 When specified on the purchase order, a product analy­
+sis shall be supplied from one tube or coil of steel per heat. The 
+product analysis tolerance of Specification A480/ A480M shall 
+apply. 
+6. Product Analysis 
+6.1 At the request of the purchaser, an analysis of one length 
+of flat-rolled stock from each heat, or one pipe from each lot 
+shall be made by the manufacturer. A lot of pipe shall consist 
+of the following number of lengths of the same size and wall 
+thickness from any one heat of steel. 
+NPS Number 
+Under2 
+2 to 5 inclusive 
+6 and over 
+Lengths of Pipe in Lot 
+400 or fraction thereof 
+200 or fraction thereof 
+100 or fraction thereof 
+6.2 The results of these analyses shall be reported to the 
+purchaser or his representative, and shall conform to the 
+requirements specified in Section 5. 
+6.3 If the analysis of one of the tests specified in 6.1 does 
+not conform to the requirements specified in Section 5, an 
+analysis of each length of flat-rolled stock from each heat or 
+pipe from the same heat or lot may be made, and all pipe 
+conforming to the requirements shall be accepted. 
+6.4 For referee purposes, Test Methods, Practices, and 
+Terminology A751 shall be used. 
+7. Tensile Requirements 
+7 .1 The tensile properties of the material shall conform to 
+the requirements prescribed in Table 3. 
+8. Permissible Variations in Dimensions 
+8.1 Permissible variations in dimensions shall not exceed 
+the following at any point in each length of pipe. 
+TABLE 3 Tensile Requirements 
+Tensile Yield 
+Grade UNS Strength, Strength, 
+Designation min min 
+ksi [MPa] ksi [MPa] 
+TP201 S20100 75 [515] 38 [260] 
+TP201LN S20153 95 [665] 45 [310] 
+TP304L S30403 70 [485] 25[170] 
+TP316L S31603 70 [485] 25[170] 
+TP304 S30400 75 [515] 30 [205] 
+TP304H S30409 75 [515] 30 [205] 
+TP309Cb S30940 75 [515] 30 [205] 
+TP309S S30908 75 [515] 30 [205] 
+TP310Cb S31040 75 [515] 30 [205] 
+TP310S S31008 75 [515] 30 [205] 
+TP316 S31600 75 [515] 30 [205] 
+TP316H S31609 75 [515] 30 [205] 
+TP317 S31700 75 [515] 30 [205] 
+TP317L S31703 75 [515] 30 [205] 
+S31727 80 [550] 36 [245] 
+S32053 93 [640] 43 [295] 
+TP321 S32100 75 [515] 30 [205] 
+TP321H S32109 75 [515] 30 [205] 
+TP347 S34700 75 [515] 30 [205] 
+TP347H S34709 75 [515] 30 [205] 
+TP348 S34800 75 [515] 30 [205] 
+TP348H S34809 75 [515] 30 [205] 
+TPXM-10 S21900 90 [620] 50 [345] 
+TPXM-11 S21903 90 [620] 50 [345] 
+TPXM-15 S38100 75 [515] 30 [205] 
+TPXM-29 S24000 100 [690] 55 [380] 
+TPXM-19 S20910 100 [690] 55 [380] 
+TP304N S30451 80 [550] 35 [240] 
+TP316N S31651 80 [550] 35 [240] 
+TP304LN S30453 75 [515] 30 [205] 
+TP316LN S31653 75 [515] 30 [205] 
+S31254 94 [650] 44 [300] 
+S30815 87 [600] 45 [310] 
+N08367 
+ts 0.187 100 [690] 45 [310] 
+1>0.187 95 [655] 45 [310] 
+S31266 109 [750] 61 [420] 
+1317
+
+=== Page 1380 ===
+
+SA-813/SA-813M ASME BPVC.II.A-2025 
+8.1.1 Specified Diameter-The outside diameter shall be 
+based on circumferential measurement and shall not exceed the 
+tolerances stated as follows: 
+8.1.1.1 For sizes up to and including NPS 1 ¼, ±0.010 in. 
+[±0.25 mm], 
+8.1.1.2 For sizes NPS 1 ½ up to and including NPS 6, 
+±0.020 in. [±0.5 mm], 
+8.1.1.3 For sizes NPS 8 up to and including NPS 18, 
+±0.030 in. [±0.75 mm], 
+8.1.1.4 For sizes NPS 20 up to and including NPS 24, 
+±0.040 in. [± 1 mm], and 
+8.1.1.5 For sizes NPS 30, ±0.050 in. [±1.25 mm]. 
+8.1.1.6 Outside diameter tolerances closer than shown 
+above may be obtained by agreement between the pipe 
+manufacturer and purchaser. 
+8.1.2 Out-of-Roundness-The difference.between the major 
+and the minor outside diameter shall not be more than 1.5 % of 
+the specified outside diameter. 
+8.1.3 Alignment (Camber)-Using a 10-ft [3.0-m] straight­
+edge placed so that both ends are in contact with the pipe, the 
+camber shall not be more than 3/26 in. [4.8 mm]. 
+8.1.4 Thickness-The wall thickness at any point in the pipe 
+excluding the weld, shall not be more than 12 % under or over 
+the nominal thickness for wall thickness less than 0.188 in. 
+[4.8 mm] and not more than 0.030 in. [0.8 mm] under or over 
+the nominal thickness for wall thickness 0.188 in. [4.8 mm] 
+and greater. Weld reinforcement not to exceed 20 % of the wall 
+thickness is permitted on each of the inside and outside 
+surfaces of the pipe. 
+9. Lengths 
+9.1 Pipe lengths shall be in accordance with the following 
+regular practice: 
+9.1.1 Unless otherwise agreed upon, all sizes up to and 
+including NPS 8 are available in a length up to 24 ft (Note 2) 
+with the permissible range of 15 to 24 ft (Note 2). Short lengths 
+are acceptable and the number and minimum length shall be 
+agreed upon between the manufacturer and the purchaser. 
+NoTE 2-The value(s) applies when the inch-pound designation of this 
+specification is the basis of purchase. When the "M" designation of this 
+specification is the basis of purchase, the corresponding metric value( s) 
+shall be agreed upon between the manufacturer and purchaser. 
+9.1.2 If definite cut lengths are desired, the lengths required 
+shall be specified in the order. No pipe shall be under the 
+specified length and not more than ¼ in. [6 mm] over that 
+specified. 
+10. Workmanship, Finish, and Appearance 
+10.1 The finished pipes shall be free of injurious imperfec­
+tions and shall have a workmanlike finish. Minor imperfections 
+may be removed by grinding, provided the wall thicknesses are 
+not decreased to less than that permitted in Section 8. 
+11. Examination of Double-Welded Pipe 
+11.1 Both ends of each double-welded (Class DW) pipe 
+shall be visually examined to determine that complete fusion 
+was attained between the two welds. In lieu of examining the 
+ends of the pipe, this examination may be performed on 
+cropped ends removed from both ends of each double welded 
+pipe. 
+12. Mechanical Tests Required 
+12.l Transverse or Longitudinal Tension Test-One tension 
+test shall be made on a specimen for lots of not more than 100 
+pipes. Tension tests shall be made on specimens from two tubes 
+for lots of more than 100 pipes. Pipe size greater than NPS 6 
+shall be tested using the transverse tension test with the weld 
+centered in the gauge length of the test specimen. Test 
+specimens shall be taken from the pipe or test plates of the 
+sanie material as the pipe, the test plates being attached to the 
+end of the cylinder and welded as prolongation of the pipe 
+longitudinal weld seam. 
+NoTE 3-The term lot, for mechanical tests, applies to all pipe of the 
+same nominal size and wall thickness (or schedule) which is produced 
+from the same heat of steel and subjected to the same finishing treatment: 
+(J) in a continuous heat-treatment furnace, or (2) in a batch-type 
+heat-treatment furnace, equipped with recording pyrometers and automati­
+cally controlled within a 50 °F [30 °C] range, the larger of: (a) each 200 
+ft [60 m] or fraction thereof or (b) that pipe heat treated in the same batch 
+furnace charge. 
+12.2 Flattening Test-For material heat treated in a batch­
+type furnace, flattening tests shall be made on 5 % of the pipe 
+from each heat-treated lot. For material heat treated by the 
+continuous process, this test shall be made on a sufficient 
+number of pipe to constitute 5 % of the lot, but in no case less 
+than two lengths of pipe. 
+12.2.1 For pipe where the diameter equals or exceeds NPS 
+10, a transverse-guided face bend test of the weld may be 
+conducted instead of a flattening test in accordance with the 
+method outlined in the steel tubular product supplement of Test 
+Methods and Definitions A370. The ductility of the weld shall 
+be considered acceptable when there is no evidence of cracks 
+in the weld or between the weld and the base metal after 
+bending. Test specimens from 5 % of the lot shall be taken 
+from the pipe or test plates of the same material as the pipe, the 
+test plates being attached to the end of the cylinder and welded 
+as a prolongati~n of the pipe longitudinal seam. 
+13. Hydrostatic or Nondestructive Electric Test 
+13.1 Each pipe shall be subjected to the nondestructive 
+electric test or the hydrostatic test. The type of test to be used 
+shall be at the option of the manufacturer, unless otherwise 
+specified in the purchase order. 
+13.2 The hydrostatic test shall be in accordance with Speci­
+fication A999/ A999M. 
+13.3 Nondestructive Examination-Each pipe shall be ex­
+amined with a nondestructive test in accordance with Practice 
+E213, or E426. Unless specifically called out by the purchaser, 
+the selection of the nondestructive electric test will be at the 
+option of the manufacturer. The range of pipe sizes that may be 
+examined by each method shall be subject to the limitations in 
+the scope of the respective practices. 
+13.3.l The following information is for the benefit of the 
+user of this specification: 
+1318
+
+=== Page 1381 ===
+
+ASME BPVC.II.A-2025 SA-813/SA-813M 
+13.3.1.1 The reference standards defined in 13.9.1 - 13.9.4 
+are convenient standards for calibration of nondestructive 
+testing equipment. The dimensions of these standards should 
+not be construed as the minimum size imperfection detectable 
+by such equipment. 
+13.3.1.2 The ultrasonic testing (UT) can be performed to 
+detect both longitudinally and circumferentially oriented de­
+fects. It should be recognized that different techniques should 
+be employed to detect differently oriented imperfections. The 
+examination may not detect short, deep, defects. 
+13.3.1.3 The eddy-current testing (ET) referenced in this 
+specification, (Practice E426), has the capability of detecting 
+significant discontinuities, especially the short abrupt type. 
+13.3.1.4 A purchaser interested in ascertaining the nature 
+(type, size, location, and orientation) of discontinuities that can 
+be detected in the specific application of these examinations 
+should discuss this with the manufacturer of the tubular 
+product. 
+13.4 Time of Examination: 
+13.4.1 Nondestructive testing for specification acceptance 
+shall be performed after all mechanical processing, heat 
+treatments, and straightening operations. This requirement 
+does not preclude additional testing at earlier stages in the 
+processing. 
+13.5 Surface Condition: 
+13.5.1 All surfaces shall be free of scale, dirt, grease, paint, 
+or other foreign material that could interfere with interpretation 
+of test results. The methods used for cleaning and preparing the 
+surfaces for examination shall not be detrimental to the base 
+metal or the surface finish. 
+13.5.2 Excessive surface roughness or deep scratches can 
+produce signals that interfere with the test. 
+13.6 Extent of Examination: 
+13.6.1 The relative motion of the pipe and the transducer(s), 
+coil(s), or sensor(s) shall be such that the entire pipe surface is 
+scanned, except as in 13.5.2. 
+13.6.2 The existence of end effects is recognized, and the 
+extent of such effects shall be determined by the manufacturer, 
+and, if requested, shall be reported to the purchaser. Other 
+nondestructive tests may be applied to the end areas, subject to 
+agreement between the purchaser and the manufacturer. 
+13.7 Operator Qualifications: 
+13. 7 .1 The test unit operator shall be certified in accordance 
+with SNT-TC-lA, or an equivalent recognized and documented 
+standard. 
+13.8 Test Conditions: 
+13.8.1 For eddy-current testing, the excitation coil fre­
+quency shall be chosen to ensure adequate penetration yet 
+provide good signal-to-noise ratio. 
+13.8.2 The maximum eddy-current coil frequency used 
+shall be as follows: 
+On specified walls up to 0.050 in.-100 KHz max 
+On specified walls up to 0.150 in.-50 KHz max 
+On specified walls above 0.150 in.-10 KHz max 
+13.8.3 Ultrasonic-For examination by the ultrasonic 
+method, the minimum nominal transducer frequency shall be 
+2.00 MHz and the maximum nominal transducer size shall be 
+1.5 in. 
+( 1) H the equipment contains a reject notice filter setting, 
+this shall remain off during calibration and testing unless 
+linearity can be demonstrated at that setting. 
+13.9 Reference Standards: 
+13.9.1 Reference standards of convenient length shall be 
+prepared from a length of pipe of the same grade, size (NPS, or 
+outside diameter and schedule or wall thickness), surface finish 
+and heat treatment condition as the pipe to be examined. 
+13.9.2 For Ultrasonic Testing, the reference ID and OD 
+notches shall be any one of the three common notch shapes 
+shown in Practice E213, at the option of the manufacturer. The 
+depth of each notch shall not exceed 12½ % of the specified 
+nominal wall thickness of the pipe or 0.004 in., whichever is 
+greater. The width of the notch shall not exceed twice the 
+depth. Notches shall be placed on both the OD and ID surfaces. 
+13.9.3 For Eddy-Current Testing, the reference standard 
+shall contain, at the option of the manufacturer, any one of the 
+following discontinuities: 
+( 1) Drilled Hole-The reference standard shall contain 
+three or more holes, equally spaced circumferentially around 
+the pipe and longitudinally separated by a sufficient distance to 
+allow distinct identification of the signal from each hole. The 
+holes shall be drilled radially and completely through the pipe 
+wall, with care being taken to avoid distortion of the pipe while 
+drilling. One hole shall be drilled in the weld, if visible. 
+Alternately, the producer of welded pipe may choose to drill 
+one hole in the weld and run the calibration standard through 
+the test coils three times with the weld turned at 120° on each 
+pass. The hole diameter shall vary with NPS as follows: 
+NPS Designator 
+½ 
+above½ to 1¼ 
+above 1¼to 2 
+above 2 to 5 
+above 5 
+Hole Diameter 
+0.039 in. [1 mm] 
+0.055 in. [1.4 mm] 
+0.071 in. [1.8 mm] 
+0.087 in. [2.2 mm] 
+0.106 in. [2.7 mm] 
+(2) Transverse Tangential Notch-Using a round tool or 
+file with a ¼ in. [6.4 mm] diameter, a notch shall be filed or 
+milled tangential to the surface and transverse to the longitu­
+dinal axis of the pipe. Said notch shall have a depth not 
+exceeding 12½ % of the specified nominal wall thickness of 
+the pipe or 0.004 in. (0.102 mm), whichever is greater. 
+( 3) Longitudinal Notch-A notch 0.031 in. or less in width 
+shall be machined in a radial plane parallel to the tube axis on 
+the outside surface of the pipe, to have a depth not exceeding 
+12½ % of the specified wall thickness of the pipe or 0.004 in., 
+whichever is greater. The length of the notch shall be compat­
+ible with the testing method. 
+13.9.4 More or smaller reference discontinuities, or both, 
+may be used by agreement between the purchaser and the 
+manufacturer. 
+13.10 Standardization Procedure: 
+13.10.1 The test apparatus shall be standardized at the 
+beginning and end of each series of pipes of the same size 
+(NPS or diameter and schedule or wall thickness), Grade and 
+1319
+
+=== Page 1382 ===
+
+SA·813/SA·813M ASME BPVC.II.A-2025 
+heat treatment condition, and at intervals not exceeding 4 h. 
+More frequent standardization may be performed at the manu­
+facturer's option or may be required upon agreement between 
+the purchaser and the manufacturer. 
+13.10.2 The test apparatus shall also be standardized after 
+any change in test system settings, change of operator, equip­
+ment repair, or interruption due to power loss, process shut­
+down or when a problem is suspected. 
+13.10.3 The reference standard shall be passed through the 
+test apparatus at the same speed and test system settings as the 
+pipe to be tested. 
+13.10.4 The signal-to-noise ratio for the reference standard 
+shall be 2½ to 1 or greater. Extraneous signals caused by 
+identifiable causes such as dings, scratches, dents, straightener 
+marks, etc., shall not be considered noise. The rejection 
+amplitude shall be adjusted to be at least 50 % of full scale of 
+the readout display. 
+13.10.5 If upon any standardization, the rejection amplitude 
+has decreased by 29 % (3 dB) of peak height from the last 
+standardization, the pipe since the last calibration shall be 
+rejected. The test system settings may be changed, or the 
+transducer(s), coil(s) or sensor(s) adjusted, and the unit 
+restandardized, but all pipe tested since the last acceptable 
+standardization must be retested for acceptance. 
+13.11 Evaluation of Imperfections: 
+13.11.1 Pipes producing a signal equal to or greater than the 
+lowest signal produced by the reference standard(s) shall be 
+identified and separated from the acceptable pipes. The area 
+producing the signal may be reexamined. 
+13.11.2 Such pipes shall be rejected if the test signal was 
+produced by imperfections that cannot be identified or was 
+produced by cracks or crack-like imperfections. These pipes 
+may be repaired per Sections 4 and 10. To be accepted, a 
+repaired pipe must pass the same non-destructive test by which 
+it was rejected, and it must meet the minimum wall thickness 
+requirements of this specification. 
+13.11.3 If the test signals were produced by visual imper­
+fections such as: 
+( 1) Scratches, 
+(2) Surface roughness, 
+(3) Dings, 
+( 4) Straightener marks, 
+( 5) Cutting chips, 
+( 6) Steel die stamps, 
+(7) Stop marks, or 
+(8) Pipe reducer ripple. 
+The pipe may be accepted based on visual examination 
+provided the imperfection is less than 0.004 in. [0.1 mm] or 
+12½ % of the specified wall thickness (whichever is greater). 
+13.11.4 Rejected pipe may be reconditioned and retested 
+providing the wall thickness is not decreased to less than that 
+required by this or the product specification. The outside 
+diameter at the point of grinding may be reduced by the amount 
+so removed. To be accepted, retested pipe shall meet the test 
+requirement. 
+13.11.5 If the imperfection is explored to the extent that it 
+can be identified as non-rejectable, the pipe may be accepted 
+without further test providing the imperfection does not en­
+croach on the minimum wall thickness. 
+14. Product Marking 
+14.1 In addition to that specified in Specification A999/ 
+A999M, the marking shall include the manufacturer's private 
+identifying mark and identified as either single welded (SW) or 
+double welded (DW) as applicable. For Grades TP304H, 
+TP316H, TP321H, TP347H, and TP348H, the marking shall 
+also include the heat ti.umber and heat-treatment lot identifica­
+tion. If specified in the purchase order, the marking for pipe 
+larger than NPS 4 shall include the weights. 
+14.2 DELETED 
+14.3 When a hydrostatic test of the pipe is not performed, 
+the pipe shall be marked NH. 
+15. General Requirements 
+15.1 Material furnished under this specification shall con­
+form to the applicable requirements of the current edition of 
+Specification A999/ A999M unless otherwise provided herein. 
+SUPPLEMENTARY REQUIREMENTS 
+One or more of the following supplementary requirements shall apply only when specified in the 
+purchase order. The purchaser may specify a different frequency of test or analysis than is provided 
+in the supplementary requirement. Subject to agreement between the purchaser and manufacturer, 
+retest and retreatment provisions of these supplementary requirements may also be modified. 
+Sl. Product Analysis 
+S 1.1 For all pipes NPS 5 and larger in nominal size, there 
+shall be one product analysis made of a representative sample 
+from one piece for each ten lengths or fraction thereof from 
+each heat of steel. 
+S1.2 For pipe smaller than NPS 5, there shall be one product 
+analysis made from ten lengths per heat of steel or from 10 % 
+of the number of lengths per heat of steel, whichever number 
+is smaller. 
+S 1.3 Individual lengths failing to conform to the chemical 
+requirements specified in Section 5 shall be rejected. 
+S2. Transverse Tension Tests 
+S2.1 There shall be one transverse tension test made from 
+one end of 10 % of the lengths furnished per heat of steel. This 
+applies only to pipe NPS 8 and larger in nominal size. 
+S2.2 If a specimen from any length fails to conform to the 
+tensile properties specified that length shall be rejected. 
+1320 
+~
+
+=== Page 1383 ===
+
+ASME BPVC.II.A-2025 SA-813 /SA-813M 
+S3. Flattening Test 
+S3.1 The flattening test of Specification A999/A999M shall 
+be made on a specimen from one or both ends of each pipe. 
+Crop ends may be used. If this supplementary requirement is 
+specified, the number of tests per pipe shall also be specified. 
+If a specimen from any length fails because of lack of ductility 
+prior to satisfactory completion of the first step of the flattening 
+test requirement, that pipe shall be rejected subject to retreat­
+ment in accordance with Specification A999/ A999M and 
+satisfactory retest. If a specimen from any length of pipe fails 
+because of a lack of soundness, that length shall be tested, 
+unless subsequent retesting indicates that the remaining length 
+is sound. 
+S4. Etching Tests 
+S4.1 The steel shall be homogeneous as shown by etching 
+tests conducted in accordance with the appropriate portions of 
+Method E381. Etching tests shall be made on a cross section 
+from one end or both ends of each pipe and shall show sound 
+welds and reasonably uniform material free of injurious 
+laminations, cracks, and similar objectionable imperfections. If 
+this supplementary requirement is specified, the number of 
+tests per pipe required shall also be specified. If a specimen 
+from any length shows objectionable imperfections, the length 
+shall be rejected subject to removal of the defective end and 
+subsequent retests indicating the remainder of the length to be 
+sound and reasonably uniform material. 
+SS. Radiographic Examination 
+S5.l Weld soundness shall be determined through radio­
+graphic examination made in accordance with requirements as 
+agreed upon between the pipe manufacturer and purchaser. 
+S6. Corrosion Requirements 
+S6.1 Boiling Nitric Acid Test-Except for Grade TP 321, 
+coupons representing finished pipe made of nonmolybdenum­
+bearing material (0.50 % and less molybdenum) shall meet the 
+requirements of Practice C of Practices A262. The condition of 
+the test specimens and the corrosion rates are as follows: Types 
+304L, 304LN, 347, and 348 shall be tested in the sensitized 
+condition (heated for 1 h at 1240 °F [670 °C]) and the rate of 
+penetration when the solution is tested in accordance with 
+Practice C shall not exceed 0.0020 in. [0.05 mm] per month. 
+All other nonmolybdenum-bearing types, except for Grade TP 
+321, shown in Table 2, shall be tested in the annealed and 
+unsensitized condition and the rate of penetration shall not 
+exceed 0.0015 in. [0.038 mm] per month. 
+S6.2 Acidified Copper Sulfate Test-Coupons representing 
+finished pipe made of molybdenum-bearing material (over 
+0.50 % molybdenum) and Type 321 shall meet the require­
+ments of Practice E of Practices A262. The condition of the test 
+specimen is as follows: Types 316L, 316LN, 317L, and 321 
+shall be tested in the sensitized condition (heated for 1 h at 
+1240 °F [670 °C]). All molybdenum-bearing types shown in 
+Table 2 shall be tested in the annealed and unsensitized 
+condition. All specimens shall meet the requirements of the 
+prescribed bend tests. 
+1321
+
+Resolved Notes (AI-verified)
+NOTE 1 (page 1377)
+NoTE 1-Table 1 is based on Table number 1 of the American National Standard for Stainless Steel Pipe (ANSI B36.19-1965).
+
+NOTE 2 (page 1377)
+NoTE 2-The decimal thickness listed for the respective pipe sizes represents their nominal or average wall dimensions. 
+Outside Diameter Nominal Wall Thickness 
+NPS Desig- Schedule 5S 8 Schedule 10S 8 Schedule 40S Schedule 80S nator in, mm 
+in. mm in. mm in. mm in. mm 
+1/a 0.405 10.29 0.049G 1.24 0.068 1.73 0.095 2.41 
+¼ 0.540 13.72 0.065c 1.65 0.088 2.24 0.119 3.02 
+% 0.675 17.15 0.065c 1.65 0.091 2.31 0.126 3.20 
+½ 0.840 21.34 0.065c 1.65 0.083G 2.11 0.109 2.77 0.147 3.73 
+% 1.050 26.67 0.065c 1.65 0.083G 2.11 0.113 2.87 0.154 3.91 
+1.0 1.315 33.40 0.065c 1.65 0.109G 2.77 0.133 3.38 0.179 4.55 
+1¼ 1.660 42.16 0.065c 1.65 0.109G 2.77 0.140 3.56 0.191 4.85 
+1½ 1.900 48.26 0.065c 1.65 0.109c 2.77 0.145 3.68 0.200 5.08 
+2 2.375 60.33 0.065c 1.65 0.109G 2.77 0.154 3.91 0.218 5.54 
+2½ 2.875 73.03 0.083 2.11 0.120c 3.05 0.203 5.16 0.276 7.01 
+3 3.500 88.90 0.083 2.11 0.120c 3.05 0.216 5.49 0.300 7.62 
+3½ 4.000 101.60 0.083 2.11 0.120c 3.05 0.226 5.74 0.318 8.08 
+4 4.500 114.30 0.083 2.11 0.120c 3.05 0.237 6.02 0.337 8.56 
+5 5.563 141.30 0.109G 2.77 0.134c 3.40 0.258 6.55 0.375 9.52 
+6 6.625 168.28 0.109 2.77 0.134G 3.40 0.280 7.11 0.432 10.97 
+8 8.625 219.08 0.109G 2.77 0.148G 3.76 0.322 8.18 0.500 12.70 
+10 10.750 273.05 0.134G 3.40 0.165G 4.19 0.365 9.27 0.5ooc 12.70G 
+12 12.750 323.85 0.156G 3.96 0.180c 4.57 0.375G 9.52G 0.5ooc 12.70G 
+14 14.000 355.60 0.156G 3.96 0.188 4.78 
+16 16.000 406.40 0.165G 4.19 0.188 4.78 
+18 18.000 457.20 0.165G 4.19 0.188 4.78 
+20 20.000 508.00 0.188G 4.78 0.218G 5.54 
+22 22.000 558.80 0.188G 4.78 0.218G 5.54 
+24 24.000 609.60 0.215c 5.54 0.250 6.35 
+30 30.000 762.00 0.250 6.35 0.312 7.92 
+AFor pipe sizes not listed, the dimensions and tolerances shall be by agreement between the purchaser and producer. 
+8 Schedules 5S and 10S wall thicknesses do not permit threading in accordance with the American National Standard for Pipe Threads (ANSI 81.20.1). 
+~hese do not conform to the American National Standard for Welded and Seamless Wrought Steel Pipe (ANSI 836.10-1979). 
+2.2 ANSI Standards: 
+Bl.20.1 Pipe Threads, General Purpose 
+B31.3 Chemical Plant and Refinery Piping Code 
+B36.10 Welded and Seamless Wrought Steel Pipe 
+B36.19 Stainless Steel Pipe 
+2.3 ASME Boiler and Pressure Vessel Code: 
+Section vm Division 1, Pressure Vessels 
+2.4 Other Standard: 
+SAE Jl086 Practice for Numbering Metals and Alloys 
+(UNS) 
+SNT-TC- lA Personnel Qualification and Certification in 
+Nondestructive Testing 
+3. Ordering Information 
+3.1 Orders for material under this specification should 
+include the following as required, to describe the desired 
+material adequately: 
+3.1.1 Quantity (feet, centimetres, or number of lengths), 
+3.1.2 Name of material (austenitic steel pipe), 
+3.1.3 Class (1.3). If not specified by the purchaser, the 
+producer shall have the option to furnish either single-welded 
+(SW) or double-welded (OW) pipe, 
+3.1.4 Grade (Table 2), 
+3 .1.5 Size (NPS or outside diameter and schedule number or 
+average wall thickness), 
+3.1.6 Length (specific or random), (Section 9), 
+3.1.7 End finish (section on Ends of Specification A999/ 
+A999M), 
+3.1.8 Optional requirements (hydrostatic or nondestructive 
+electric test, Section 13,) (Supplementary Requirements Sl to 
+S6), 
+3.1.9 Test report required (Section on Certification of Speci­
+fication A999/ A999M), 
+3.1.10 Specification number, and 
+3 .1.11 Special requirements or exceptions to the specifica­
+tion. 
+4. Materials and Manufacture 
+4.1 Manufacture: 
+4.1.1 The pipe shall be made by a machine-welding or an 
+automatic-welding process, welding from one or both sides and 
+producing full penetration welds with no addition of filler 
+metal in the welding operation. 
+4.1.2 Weld repairs, with the addition of compatible filler 
+metal, may be made to the weld joint in accordance with the 
+requirements of the section on Repair by Welding of Specifi­
+cation A999/A999M. 
+1315

@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 854,
+  "globalPageIndex": 1652,
+  "width": 613.92,
+  "height": 793.2,
+  "text": "SA/IS 2062 ASME BPVC.II.A-2025 \nSPECIFICATION FOR HOT ROLLED MEDIUM AND HIGH TENSILE \nSTRUCTURAL STEEL \nSA/IS 2062 \n(Identical with International Specification JS 2062-2011 (Seventh Revision), as translated and published in the English language by the Bureau of \nIndian Standards, with these additional requirements.) \n1. Additional Requirements \n1.1 Marking: \n1.1.l In addition to the marking requirements of this \nspecification, all products are to be identified by this SA/IS \nspecification designation. \nThe designation of the steel, grade designation, and \nquality shall be marked and followed by letters desig\u00ad\nnating the applied heat treatment ( +AR, +N, or +NR). \n1.1.2 The required markings for plates shall be by \nsteel die stamping, paint marking, or by means of perma\u00ad\nnently affixed labels or tags. \n1.2 Chemical Composition: \nIn addition to the chemical requirements ofTable 1 and \nTable 3 of this specification, the limits on elements listed in \nSA-20/SA-20M shall be observed. \n1.3 Mechanical Properties: \nNote 1 of Table 2 shall not apply to SA/IS 2062. \n1.4 Delivery Conditions: \nThe products shall be supplied only in the as-rolled, \nnormalized or normalized-rolled condition. Steel shall \nbe killed by use of not less than 0.02% total aluminum \ncontent. Semi-killed steel shall not be used. \n1.5 Repair by Welding: \nRepairs shall be made by utilizing welding procedures \nqualified in accordance with ASME Section IX, and repair \nwelding shall be done by welders or welding operators \nmeeting the qualification requirements of ASME \nSection IX. \n1.6 Test Reports: \n1.6.1 For all products, a test report shall be furn\u00ad\nished. As a minimum, it shall include the following: \n(a) this SA/IS specification designation including the \nedition year \n(b) grade designation and quality to which the product \nis furnished \n(c) delivery condition \n( d) heat number, heat analysis, and nominal sizes \n(e) the results of all tests required by this SA/IS spec\u00ad\nification \n1.6.2 Copies of the original manufacturer's test \nreport shall be included with any subsequent test report. \n2. Source \n2.1 See N onmandatory Appendix A for ordering infor\u00ad\nmation to obtain an English language copy of IS 2062 and \nits references. \n1598 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 1,
+  "tabulaTablesPath": "tables_tabula/page-1652.json",
+  "tabulaTablesCsv": "tables_tabula/page-1652.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-1652.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2229,
+  "bestTextAlphaRatio": 0.7519
+}

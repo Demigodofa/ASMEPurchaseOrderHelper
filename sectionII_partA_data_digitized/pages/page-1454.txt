@@ -1,0 +1,113 @@
+SA-960/SA-960M ASME BPVC.II.A-2025 
+shall be used unless the material to be tested is of insufficient 
+thickness, in which case the largest obtainable standard subsize 
+impact specimens shall be used. When the size or shape of the 
+finished fittings is insufficient to permit obtaining the smallest 
+standard subsize impact specimens, an impact test by the fitting 
+manufacturer will not be required. 
+13. Hydrostatic Test Requirements 
+13 .1 Parts manufactured under this specification shall be 
+capable of passing a hydrostatic test compatible with the rating 
+of the specified matching pipe of equivalent material. Such a 
+test shall be conducted only when specified in the purchase 
+order or when the hydrostatic test Supplementary Requirement 
+is invoked by the purchaser. 
+14. Rework 
+14.1 When one or more representative test specimens or 
+retest specimens do not conform to the requirements specified 
+in the product specification for the tested characteristic, the lot 
+of material represented by the test specimen may be reworked 
+according to the following requirements. 
+14.1.1 If previously tested in the untreated condition, the 
+product may be reworked by heat treatment, and subsequently 
+retested, in accordance with the product specification. 
+14.1.2 If previously tested in the heat treated condition, the 
+product may be reworked by reheat treatment, and subse­
+quently retested, in accordance with the product specification. 
+15. Surface Finish, Appearance, and Corrosion 
+Protection 
+15.1 The parts shall conform to the dimensions, tolerances 
+and finish as specified in the purchaser's order and to the 
+individual ASTM product specification. 
+15.2 The finished parts shall be cleaned to remove all scale 
+and processing compounds prior to the final surface examina­
+tion. The cleaning process shall not injure the surface finish, 
+material properties, or the metallurgical structure. 
+15.2.1 The surface finish shall allow the detection of imper­
+fections that can be disclosed by visual inspection. 
+15.2.2 The cleaned parts shall be protected to prevent 
+recontamination. 
+15.2.2.1 Exterior and interior surfaces of carbon, low, and 
+intermediate alloy steel fittings shall have a corrosion protec­
+tive coating. Unless otherwise specified by the purchaser, the 
+type of surface protection shall be at the option of the 
+manufacturer. 
+15.2.2.2 Stainless steel and nickel alloy fittings need not be 
+coated. Unmachined surfaces of stainless steel fittings shall be 
+passivated by exposure to an acid bath, or electropolished. 
+15.2.3 Protective coatings on parts subsequently subjected 
+to socket welds or butt welds shall be suitable for welding 
+without removal of the coating. Threaded fittings shall be 
+capable of installation without the removal of the coating. 
+15.2.4 When specified in the purchase order, parts may be 
+furnished in the as-formed condition. 
+15.3 Fittings supplied under this specification shall be 
+examined visually. Selected typical surface discontinuities 
+shall be explored for depth. Unless otherwise specified in the 
+purchase order, the following shall apply. 
+15.3.1 Fittings conforming to ASME B16.9, MSS-SP-43, 
+and MSS-SP-95 shall be free of surface discontinuities that 
+penetrate more than 5 % of the specified nominal wall 
+thickness, except as defined in 15.3.3 and 15.3.4. Fittings 
+conforming to ASME B16.11, MSS-SP-79, MSS-SP-83, and 
+MSS-SP-97 shall be free of surface discontinuities that pen­
+etrate more than 5 % of the actual wall thickness at the point of 
+interest, or 1/16 in. [1.6 mm], whichever is less, except as 
+defined in 15.3.4. Fittings conforming to MSS-SP-75 shall be 
+free of surface discontinuities that penetrate more than 6½ % 
+of the specified nominal wall thickness. 
+15.3.2 Surface discontinuities deeper than 5 % of the speci­
+fied nominal or actual wall thickness as applicable, except as 
+defined in 15.3.3 and 15.3.4, shall be removed by the manu­
+facturer by machining or grinding to sound metal, and the 
+repaired areas shall blend smoothly into the contour of the 
+finished fitting. Surface discontinuities on fittings conforming 
+to MSS-SP- 75 shall be removed or repaired in accordance with 
+the requirements of that standard. Except for fittings conform­
+ing to MSS-SP-75, the wall thickness at all points shall be at 
+least the specified minimum wall thickness, or 87½ % of the 
+specified nominal wall thickness and the diameters shall be 
+within the limits specified in the applicable dimensional 
+standards. 
+15.3.3 Surface checks (fish scale) deeper than 1/64 in. [0.4 
+mm] shall be removed. 
+15.3.4 Mechanical marks deeper than 1/16 in. [1.6 mm] shall 
+be removed. 
+15.3.5 When the removal of a surface discontinuity reduces 
+the wall thickness below the specified minimum wall thickness 
+at any point, the fitting shall be subject to rejection or to repair 
+as provided in Section 16, or in accordance with MSS-SP- 75 
+for fittings conforming to that standard. 
+16. Repair by Welding 
+16.1 The purchaser may require the supplier to submit 
+proposed weld repairs for approval by invoking the appropriate 
+Supplementary Requirement in the purchase order. 
+16.2 If the purchaser does not require prior approval of the 
+proposed weld repairs, these repairs shall be permitted at the 
+discretion of the supplier. All weld repairs shall be performed 
+in accordance with the following limitations and requirements. 
+16.2.1 The welding procedure, welders and operators shall 
+be qualified in accordance with Section IX of the ASME Boiler 
+and Pressure Vessel Code. The composition of the weld deposit 
+shall be compatible with the composition of the material being 
+welded. 
+16.2.2 Defects shall be completely removed prior to weld­
+ing by machining, chipping or grinding to sound metal. 
+Removal of these defects shall be verified by magnetic particle 
+examination in accordance with Guide E709 or liquid penetrant 
+inspection in accordance with Test Method E165/E165M, as 
+applicable. 
+16.2.3 After repair welding, the welded area shall be ma­
+chined or ground smooth to the original contour and shall be 
+completely free of defects as verified by magnetic particle 
+1394 

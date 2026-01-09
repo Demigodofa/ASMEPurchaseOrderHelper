@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 266,
+  "globalPageIndex": 1064,
+  "width": 613.92,
+  "height": 793.2,
+  "text": "SA-563 \nGrade of Bolt Surface Finish \n(D) (E) \nA 307 non-zinc-\ncoated and \nGrade A zinc-coated \nA 307 non-zinc-coated \nand zinc-\nGrade B coated \nA 325 non-zinc-coated \nType l zinc-coated \nA 325 Type 3 non-zinc-coated \nA 354 non-zinc-coated \nGrade BC zinc-coated \nA 354 non-zinc-coated Grade BD \nA 394 zinc-coated Type 0 \nA 394 zinc-coated Types 1 and 2 \nA 394 non-zinc-coated Type 3 \nA 449 non-zinc-coated \nTypes l and 2 zinc-coated \nA 490 non-zinc-coated Types l and 2 \nA 490 Type 3 non-zinc-coated \nA 687 non-zinc-coated \nzinc-coated \nNOTES: \nASME BPVC.II.A-2025 \nTABLE Xl.l \nNUT AND BOLT SUITABILITY GUIDE \nA563 Grade and ANSI Nut Style (A) \nNominal Recommended (B) \nSize in. Hex Heavy Hex \n\u00bc to 1\u00bd A \n>l\u00bd to 2 A \n>2 to 4 A \n\u00bc to 1\u00bd A \n>l\u00bd to 2 A \n>2 to 4 A \n\u00bd to 1\u00bd C \n\u00bd to 1\u00bd DH \n\u00bd to 1\u00bd C3 \n\u00bc to 1\u00bd C \n>l \u00bd to 4 C \n\u00bc to 1\u00bd DH \n>1 1/2t04 DH \n\u00bc to 1\u00bd DH \n>l\u00bd to 4 DH \n\u00bd to 1 A \n\u00bd to 1 DH \n\u00bd to l DH3 \n\u00bc to 1\u00bd B \n>l % to 3 A \n\u00bc to 1\u00bd DH \n>l\u00bd to 3 DH \n\u00bd to 1\u00bd DH \n\u00bd to 1\u00bd DH3 \n1\u00bc to 3 D \n1\u00bc to 3 DH \nSquare \nA \nA \nHex \nB,D,DH \nA(F) \nB,D,DH \nA (Fl \nD,DH \nDH \nB,D \nD \nD,DH \nD,DH \nSuitable (C) \nHeavy Hex \nA,B,C,D,DH,DH3 \nC,D,DH,DH3 \nC,D,DH,DH3 \nB,C,D,DH,DH3 \nC,D,DH,DH3 \nC,D,DH,DH3 \nC3,D,DH,DH3 \nDH3 \nC3,D,DH,DH3 \nC3,D,DH,DH3 \nD,DH,DH3 \nDH3 \nC3 \nB,C,C3,D,DH,DH3 \nC,C3,D,DH,DH3 \nD \nD \nDH3 \nDH,DH3 \nHex Thick \nA,B,D,DH \nA,B,D,DH \nD,DH \nDH \nD,DH \nB,D,DH \nD,DH \n(Al The availability of DH nuts in nominal sizes\u00be in. and larger is very limited and generally available only on special orders for 50 000 pieces \nor more. For smaller quantities A 194 Gr. 2H nuts should be considered. \n(BJ \"Recommended\" denotes a commercially available nut having the most suitable mechanical properties and dimensional configuration (style) \nthat will make it possible to torque the bolt to the required load when used in combination with the nut. \n(Cl \"Suitable\" denotes nuts having mechanical properties that will make it possible to torque the bolt to the required load when used in combination \nwith the nut; but, which require consideration of dimensional configuration (style) suitability and availability. Others are not suitable. \n(DJ The term \"bolt\" includes all externally threaded types of fasteners. \n(El Non-zinc-coated nuts are nuts intended for use with externally threaded fasteners which have a plain (nonplated or noncoated) finish or have \na plating or coating of insufficient thickness to necessitate overlapping the nut thread to provide assemblability. Zinc-coated nuts are nuts \nintended for use with externally threaded fasteners which are hot-dip zinc-coated, mechanically zinc-coated, or have a plating or coating of \nsufficient thickness to necessitate overlapping the nut thread to provide assemblability. \n(Fl Hex nuts in nominal sizes over 1 1/2 to 2 in. inclusive are not covered in the tables of tabulated sizes in ANSI BlB.2.2 but are commercially \navailable. Such nuts are suitable. See 7.2 for dimensions. \n964 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 1,
+  "tabulaTablesPath": "tables_tabula/page-1064.json",
+  "tabulaTablesCsv": "tables_tabula/page-1064.csv",
+  "tabulaTableCount": 2,
+  "bestTextPath": "best_text/pages/page-1064.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2923,
+  "bestTextAlphaRatio": 0.674
+}

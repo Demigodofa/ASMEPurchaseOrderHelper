@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 186,
+  "globalPageIndex": 984,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "SA-522/SA-522M ASME BPVC.II.A-2025 \nSUPPLEMENTARY REQUIREMENTS \nOne or more of the supplementary requirements described below may be included in \npurchaser's order or contract. When so included, a supplementary requirement shall have \nthe same force as if it were in the body of the specification. Supplementary requirement \ndetails not fully described shall be agreed upon between the purchaser and the supplier, \nbut shall not negate any of the requirements in the body of the specification. \nS1. Nondestructive Tests \nS1.1 Ultrasonic Tests - Ultrasonic tests\u00b7may be made \nby agreement between manufacturer and purchaser. \nS1.2 Liquid Penetrant Tests - Liquid penetrant tests \nmay be made by agreement between manufacturer and \npurchaser. \n884 \nS2. Other Impact Test Temperatures \nS2.1 The purchaser may specify an impact test tempera\u00ad\nture higher than that in Table 3 but no higher than the \nminimum intended operating temperature for the forging. \nS2.2 Marking shall be in accordance with 15.2. ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0984.json",
+  "tabulaTablesCsv": "tables_tabula/page-0984.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-0984.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 999,
+  "bestTextAlphaRatio": 0.7798
+}

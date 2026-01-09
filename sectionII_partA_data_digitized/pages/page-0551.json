@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 551,
+  "globalPageIndex": 551,
+  "width": 599.4,
+  "height": 844.08,
+  "text": "ASME BPVC.II.A-2025 \nTABLE 3 \nTENSILE REQUIREMENTS \nTensile Strength, min \nYield Strength, min \nElongation in 2 in. or 50 mm (or 4D), \nmin,%: \nBasic minimum elongation for walls 5 / 16 \nin. [8 mmJ and over in thickness, strip \ntests, and for all small sizes tested in \nfull section \nWhen standard round 2 in. or 50 mm \ngage length or proportionally smaller \nsize specimen with the gage length \nequal to 4D (4 times the diameter) \nis used \nGrade 1 \nksi MPa \n55 380 \n30 205 \n35 \n28 \nFor strip tests, a deduction for each 1 / 32 1.75 \nin. [0.8 mm] decrease in wall thick- [Note (2)] \nness below 5 / 16 in. [8 mm] from the \nbasic minimum elongation of the fol-\nlowing percentage points \nNOTES: \nGrade 3 \nksi MPa \n65 450 \n35 240 \n30 \n22 \n1.50 \n[Note (2)] \nGrade 6 \nksi MPa \n60 415 \n35 240 \n30 \n22 \n1.50 \n[Note (2)J \n(1) Elongation of Grade 11 is for all walls and for small sizes tested in full section. \n(2) The following table gives the calculated minimum values: \nGrade 7 \nksi MPa \n65 450 \n35 240 \n30 \n22 \n1.50 \n[Note (2)J \nGrade 8 \nksi MPa \n100 690 \n75 520 \n22 \n16 \n1.25 \n[Note (2)J \nWall Thickness Elongation in 2 in. or 50 mm, min % [Note (l)J \nin. mm Grade 1 Grade 3 Grade 6 Grade 7 \n5 /16 (0.312) 8 35 30 30 30 \n%2 (0.281) 7.2 33 28 28 28 \n1/4 (0.250) 6.4 32 27 27 27 \n7 /32 (0.219) 5.6 30 26 26 26 \n3/16 (0.188) 4.8 28 24 24 24 \n%2 (0.156) 4 26 22 22 22 \n11s (0.125) 3.2 25 21 21 21 \n%2 (0.094) 2.4 23 20 20 20 \n1/16 (0.062) 1.6 21 18 18 18 \nNOTE: \n(1) Calculated elongation requirements shall be rounded to the nearest whole number. \nSA-334/SA-334M \nGrade 9 \nksi MPa \n63 435 \n46 315 \n28 \n1.50 \n[Note (2)] \nGrade 8 \n22 \n21 \n20 \n18 \n17 \n16 \n15 \n13 \n12 \nGrade 11 \nksi MPa \n65 450 \n35 240 \n18 [Note (l)J \nGrade 9 \n28 \n26 \n25 \n24 \n22 \n20 \n19 \n18 \n16 \nNOTE: The above table gives the computed minimum elongation values for each 1 / 32 in. [0.8 mmJ decrease in wall thickness. Where the wall \nthickness lies between two values shown above, the minimum elongation value is determined by the following equations. \nGrade \n1 \n3 \n6 \n7 \n8 \n9 \nwhere: \nEquation [Note (3)J \nE= 56t+l7.50[E= 2.19t+l7.50J \nE = 48t + 15.00 [\u00a3 = l.87t + 15.00J \nE = 48t + 15.00 [\u00a3 = l.87t + 15.00J \nE = 48t + 15.00 [\u00a3 = l.87t + 15.00J \nE = 40t + 9.50 [E = 1.56t + 9.50] \nE = 48t + 13.00 [E = 1.87t + 13.00J \nE = elongation in 2 in. or 50 mm, %, and \nt = actual thickness of specimen, in. [mm J. \n499 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 3,
+  "tabulaTablesPath": "tables_tabula/page-0551.json",
+  "tabulaTablesCsv": "tables_tabula/page-0551.csv",
+  "tabulaTableCount": 3,
+  "bestTextPath": "best_text/pages/page-0551.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2369,
+  "bestTextAlphaRatio": 0.4745
+}

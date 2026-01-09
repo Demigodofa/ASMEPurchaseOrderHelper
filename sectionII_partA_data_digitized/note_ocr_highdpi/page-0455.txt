@@ -1,0 +1,153 @@
+ASME BPVC.ILA-2025
+
+TABLE 2 Number of Tubes in a Lot Heat Treated by the
+Continuous Process
+
+Size of Lot
+Size of Tube
+
+2 in. [50.8 mm] and over in outside diameter and
+0.200 in. [5.1 mm] and over in wall thickness
+Less than 2 in. [50.8 mm] but over 1 in. [25.4 mm]
+in outside diameter or over 1 in. [25.4 mm] in
+outside diameter and under 0.200 in. [5.1 mm] in
+wall thickness
+
+1 in. [25.4 mm] or less in outside diameter
+
+not more than 50 tubes
+
+not more than 75 tubes
+
+not more than 125 tubes
+
+include all tubes of the same size and heat, heat treated in the
+same furnace at the same temperature, time at heat, and furnace
+speed.
+
+4. Ordering Information
+
+4.1 It is the responsibility of the purchaser to specify all
+requirements that are necessary for material ordered under this
+specification. Such requirements may include, but are not
+limited to, the following:
+
+4.1.1 Quantity (feet, metres, or number of lengths),
+
+4.1.2 Name of material (seamless or welded tubes),
+
+4.1.3 Grade (Table 1),
+
+4.1.4 Size (outside diameter and nominal wall thickness),
+
+4.1.5 Length (specific or random),
+
+4.1.6 Optional requirements (hydrostatic or nondestructive
+electric test, Section 16),
+
+4.1.7 Test report required (Certification Section of Specifi-
+cation A1016/A1016M),
+
+4.1.8 Specification designation,
+
+4.1.9 Intergranular corrosion test, and
+
+4.1.10 Special requirements.
+
+5. General Requirements
+
+5.1 Material furnished under this specification shall con-
+form to the applicable requirements of Specification A1016/
+A1016M unless otherwise provided herein.
+
+6. Manufacture
+
+6.1 The tubes shall be made by the seamless or welded
+process with no filler metal added.
+
+7. Heat Treatment
+
+7.1 As a final heat treatment, tubes shall be reheated to a
+temperature of 1200 °F [650 °C] or higher and cooled (as
+appropriate for the grade) to meet the requirements of this
+specification.
+
+7.2 The martensitic grade UNS S 41500 shall be reheated to
+a temperature of 950 °F [510 °C] or higher and cooled as
+appropriate to meet the requirements of this specification.
+
+8. Chemical Composition
+
+8.1 The steel shall conform to the chemical requirements
+prescribed in Table 1.
+
+403
+
+SA-268/SA-268M
+
+9, Product Analysis
+
+9.1 An analysis of either one billet or one length of flatrolled
+stock or one tube shall be made from each heat. The chemical
+composition thus determined shall conform to the requirements
+specified.
+
+9.2 The product analysis tolerance of the Chemical Require-
+ments Table of A480/A480M shall apply. The product analysis
+tolerance is not applicable to the carbon content for material
+with a specified maximum carbon of 0.04 % or less.
+
+9.3 If the original test for product analysis fails, retests of
+two additional billets, lengths of flat-rolled stock or tubes shall
+be made. Both retests for the elements in question shall meet
+the requirements of the specification; otherwise all remaining
+material in the heat or lot shall be rejected or, at the option of
+the producer, each billet or tube may be individually tested for
+acceptance. Billets, lengths of flat-rolled stock or tubes which
+do not meet the requirements of the specification shall be
+rejected.
+
+10. Tensile Requirements
+
+10.1 The material shall conform to the tensile properties
+prescribed in Tables 3 and 4.
+
+11. Hardness Requirements
+
+11.1 The tubes shall have a hardness number not to exceed
+those prescribed in Table 5.
+
+12. Permissible Variations in Dimensions
+
+12.1 Variations in outside diameter, wall thickness, and
+length from those specified shall not exceed the amounts
+prescribed in Table 6.
+
+12.2 The permissible variations in outside diameter given in
+Table 6 are not sufficient to provide for ovality in thin-walled
+tubes, as defined in the Table. In such tubes, the maximum and
+minimum diameters at any cross section shall deviate from the
+nominal diameter by no more than twice the permissible
+variation in outside diameter given in Table 6; however, the
+mean diameter at that cross section must still be within the
+given permissible variation.
+
+12.3. When the specified wall is 2 % or less of the specified
+outside diameter, the method of measurement is in accordance
+with the agreement between the purchaser and the manufac-
+turer (see Note 1).
+
+Norte 1—Very thin wall tubing may not be stiff enough for the outside
+diameter to be accurately measured with a point contact test method, such
+as with the use of a micrometer or caliper. When very thin walls are
+specified, “go”—“‘no go” ring gages are commonly used to measure
+diameters of 112 in. [38.1 mm] or less. A 0.002-in. [0.05-mm] additional
+tolerance is usually added on the “go” ring gage to allow clearance for
+sliding. On larger diameters, measurement is commonly performed with a
+pi tape. Other test methods such as optical test methods may also be
+considered.
+
+13. Surface Condition
+
+13.1 All tubes shall be free of excessive mill scale, suitable
+for inspection. A slight amount of oxidation will not be

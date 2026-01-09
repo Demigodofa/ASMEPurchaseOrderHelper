@@ -1,0 +1,111 @@
+SA-961/SA-961M ASME BPVC.II.A-2025 
+:finished part is insufficient to permit obtaining the smallest 
+standard subsize impact specimens, an impact test by the part 
+manufacturer will not be required. 
+12.4 If the average impact energy value meets the product 
+specification requirements, but the energy value for one speci­
+men is below the specified minimum value for individual 
+specimens, a retest is permitted. This shall consist of two 
+impact specimens from a location adjacent to, and on either 
+side of, the specimen that failed. Each of the retested speci­
+mens must exhibit an energy value equal to or greater than the 
+minimum average value required by the product specification. 
+13. Hydrostatic Test Requirements 
+13.1 Parts manufactured under this specification shall be 
+capable of passing a hydrostatic test compatible with the rating 
+of the finished part. Such tests shall be conducted by the 
+supplier only when the hydrostatic test supplementary require­
+ment in the product specification is invoked by the purchaser. 
+14. Re~ork 
+14.1 When one or more representative test specimens or 
+retest specimens do not conform to the requirements specified 
+in the product specification for the tested characteristic, the 
+product may be reworked according to the following require­
+ments: 
+14.1.1 If previously tested in the unheat treated condition, 
+the product may be reworked by heat treatment, and subse­
+quently retested, in accordance with the product specification. 
+14.1.2 If previously tested in the heat treated condition, the 
+product may be reworked by reheat treatment, and subse­
+quently retested, in accordance with the product specification. 
+15. Surface Finish, Appearance, and Corrosion 
+Protection 
+15.1 The parts shall conform to the dimensions, tolerances, 
+and finish as specified on the purchaser's drawing or order and 
+the individual ASTM product specification. 
+15.2 The :finished parts shall be cleaned to remove all scale 
+and processing compounds prior to the final surface examina­
+tion. The cleaning process shall not injure the surface finish, 
+material properties, or the metallurgical structure. 
+15.2.1 The surface finish shall allow the detection of imper­
+fections that can be disclosed by visual inspection. 
+15.2.2 The cleaned parts shall be protected to prevent 
+recontamination. 
+15.2.2.1 Exterior and interior surfaces of carbon, low and 
+intermediate alloy steel :fittings shall have a corrosion protec­
+tive coating. Unless otherwise specified by the purchaser, the 
+type of surface protection shall be at the option of the 
+manufacturer. 
+15.2.2.2 Stainless steel and nickel alloy :fittings need not be 
+coated. Unmachined surfaces of stainless steel fittings shall be 
+passivated by exposure to an acid bath, or electropolished. 
+15.2.3 Protective coatings on parts subsequently subjected 
+to socket welds or butt welds shall be suitable for welding 
+without removal of the coating. Threaded :fittings shall be 
+capable of installation without the removal of the coating. 
+15.2.4 When specified in the purchase order, parts may be 
+furnished in the as-formed or as-forged condition. 
+15.3 The parts shall be free of injurious imperfections as 
+defined below. At the discretion of the inspector representing 
+the purchaser, finished parts shall be subject to rejection if 
+surface imperfections acceptable under 15.5 are not scattered, 
+but appear over a large area. 
+15.4 Depth of Injurious Imperfections-Selected typical 
+linear and other typical surface imperfections shall be explored 
+for depth. When the depth encroaches on the minimum 
+specified wall thickness of the finished part, such imperfections 
+shall be considered injurious. • 
+15.5 Imperfections Not Classified as Injurious-Surface 
+imperfections not classified as injurious shall be treated as 
+follows: 
+15.5.1 Seams, laps, tears, or slivers not deeper than 5 % of 
+the actual wall thickness at the point of interest or 1/16 in. [1.6 
+mm], whichever is less, are acceptable. If deeper, these 
+imperfections require removal, and shall be removed by 
+machining or grinding. 
+15.5.2 Mechanical marks or abrasions and pits shall be 
+acceptable without grinding or machining provided the depth 
+does not exceed 1/16 in. [1.6 mm]. If such imperfections are 
+deeper than 1/16 in. [1.6 mm] but do not encroach on the 
+minimum wall thickness of the forging they shall be removed 
+by machining or grinding to sound metal. 
+15.5.3 The wall thickness at the point of grinding, or at 
+imperfections not required to be removed, shall be determined 
+by deducting the amount removed by grinding, from the 
+nominal finished wall thickness of the part. In any case, the 
+wall thickness shall not be less than the specified minimum 
+value. 
+16. Repair by Welding 
+16.1 The purchaser may require the supplier to submit 
+proposed weld repairs for approval by invoking the appropriate 
+supplementary requirement from the applicable product speci­
+fication in the purchase order. If the purchaser does not require 
+prior approval of proposed weld repairs, these repairs shall be 
+permitted at the discretion of the supplier. All weld repairs shall 
+be performed in accordance with the following limitations and 
+requirements. 
+16.1.1 The welding procedure and welders shall be qualified 
+in accordance with Section IX of the ASME Boiler and 
+Pressure Vessel Code. 
+16.1.2 Defects shall be completely removed prior to weld­
+ing by chipping or grinding to sound metal. Removal of these 
+defects shall be verified by magnetic particle inspection in 
+accordance with Test Method A275/A275M or Guide E709 for 
+the ferritic, martensitic, or ferritic/austenitic grades, or by 
+liquid penetrant inspection in accordance with Test Method 
+E165/E165M for ferritic, martensitic, or austenitic grades. 
+16.1.3 After repair welding, the welded area shall be ground 
+smooth to the original contour and shall be completely free of 
+defects as verified by magnetic particle or liquid penetrant 
+inspection, as applicable. 
+1406 

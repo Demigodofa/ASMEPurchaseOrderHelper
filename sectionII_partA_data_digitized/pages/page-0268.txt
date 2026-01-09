@@ -1,0 +1,113 @@
+SA-18Z/SA-18ZM (ASTM A18Z/A18ZM) ASME BPVC.II.A•Z0Z5 
+TABLE 1 Continued 
+Grade Heat Treat Type Austenitizing/Solutioning Cooling Quenching Cool Tempering Temperature, 
+Temperature, Minimum Media Below °F [°C] Minimum or 
+or Range, °F [°CjA Range, °F [°C] 
+F 316Ti solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 317 solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 317L solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F317LNCb solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 72 solution treat and quench 1975-2155 [1080-1180] liquidE 500 [260] B 
+F 73 solution treat and quench 1975-2155 [1080-1180] liquidE 500 [260] B 
+F 347 solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 347H solution treat and quench 2000 [1095] liquidE 500 [260] B 
+F 347LN solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 347LNCuB solution treat and quench 1940-2140 liquidE 500 [260] B 
+[1060-1170] 
+F 348 solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 348H solution treat and quench 2000 [1095] liquidE 500 [260] B 
+F 321 solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 321H solution treat and quench 2000 [1095] liquidE 500 [260] B 
+F XM-11 solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F XM-19 solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 20 solution treat and quench 1700-1850 [925-101 OJ liquidE 500 [260] B 
+F 44 solution treat and quench 2100 [1150] liquidE 500 [260] B 
+F 45 solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 46 solution treat and quench 2010-2140 [1100-1140] liquidE 500 [260] B 
+F 47 solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 48 solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 49 solution treat and quench 2050 [1120] liquidE 500 [260] B 
+F 56 solution treat and quench 2050-2160 [1120-1180] liquidE 500 [260] B 
+F 58 solution treat and quench 2085 [1140] liquidE 500 [260] B 
+F 62 solution treat and quench 2025 [1105] liquidE 500 [260] B 
+F 63 solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 64 solution treat and quench 2010-2140 [1100-1170] liquidE 500 [260] B 
+F 904L solution treat and quench 1920-2100 [1050-1150] liquidE 500 [260] B 
+F 70 solution treat and quench 1900 [1040] liquid 0 500 [260] B 
+F700 solution treat and quench 2025-2100 [1107 -1149] liquid/rapid cool 500 [260] B 
+FNIC solution treat and quench 1800-1900 [983-1 038] liquid/rapid cool 500 [260] B 
+FNIC10 solution treat and quench 2100-2150 [1149-1177] liquid/rapid cool 500 [260] B 
+FNIC11 solution treat and quench 2100-2150 [1149-1177] liquid/rapid cool 500 [260] B 
+F1925 solution treat and quench 1800-1900 [983-1 038] liquid/rapid cool 500 [260] B 
+F1925N solution treat and quench 2150 [1177] liquid/rapid cool 500 [260] B 
+F35030 solution treat and guench 1900 [1040] liguid 500 [260] B 
+Ferritic-Austenitic Stainless Steels 
+F 50 solution treat and quench 
+F 51 solution treat and quench 
+F 52c 
+F 53 solution treat and quench 
+F 54 solution treat and quench 
+F 55 solution treat and quench 
+F 57 solution treat and quench 
+F 59 solution treat and quench 
+F 60 solution treat and quench 
+F 61 solution treat and quench 
+F 65 solution treat and quench 
+F 66 solution treat and quench 
+F 67 solution treat and quench 
+F 68 solution treat and quench 
+F 69 solution treat and quench 
+F 71 solution treat and quench 
+A Minimum unless temperature range is listed. 
+8 Not applicable. 
+1925 [1050] 
+1870 [1020] 
+1880 [1025] 
+1920-2060 [1050-1125] 
+2010-2085 [1100-1140] 
+1940 [1060] 
+1975-2050 [1080-1120] 
+1870 [1020] 
+1920-2060 [1050-1125] 
+1830-2100 [1000-1150] 
+1870-1975 [1020-1080] 
+1870-2050 [1020-1120] 
+1700-1920 [925-1 050] 
+1870 [1020] 
+1925-2100 [1050-1150] 
+liquid 500 [260] B 
+liquid 500 [260] B 
+liquid 500 [260] B 
+liquid 500 [260] B 
+liquid 500 [260] B 
+liquid 500 [260] B 
+liquid 175 [80] B 
+liquid 500 [260] B 
+liquid 500 [260] B 
+liquid 500 [260] B 
+liquid 0 500 [260] B 
+liquid 500 [260] B 
+liquid 500 [260] B 
+liquid 500 [260] B 
+liquid 500 [260] B 
+liquid 500 [260] B 
+c Grade F 52 shall be solution treated at 1825 to 1875 °F [995 to 1025 °C] 30 min/in. of thickness and water quenched. 
+0 The cooling media for Grades F 65 and F 70 shall be quenching in water or rapidly cooling by other means. 
+E Forged or rolled bar meeting the requirements of 7.5 shall be liquid quenched or rapid-cooled by other means in accordance with Specification A484/A484M. 
+where Tis the maximum heat-treated thickness of the repre­
+sented forging. In addition, for quenched and tempered 
+forgings, the mid-length of the test specimen shall be at least T 
+from all other surfaces as-heat-treated, exclusive of the T 
+dimension surfaces. When the section thickness does not 
+permit this positioning, the test specimen shall be positioned as 
+near as possible to the prescribed location, as agreed to by the 
+purchaser and the supplier. 
+216 
+9.3.1 With prior purchase approval, the test specimen for 
+ferritic steel forgings may be taken at a depth (t) corresponding 
+to the distance from the area of significant stress to the nearest 
+heat-treated surface and at least twice this distance (2 t) from 
+any second surface. However, the test depth shall not be nearer 
+to one treated surface than¾ in. [19 mm] and to the second 
+treated surface than 1 ½ in. [38 mm]. This method of test 
+specimen location would normally apply to contour-forged 

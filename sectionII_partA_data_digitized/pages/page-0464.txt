@@ -1,0 +1,78 @@
+SA-276 ASME BPVC.ll.A-2025 
+TABLE 2 Mechanical Requirements 
+Brinell 
+Tensile Yield Strength/ Hard-
+Strength, Elonga- Reduc- ness, min lion in 2 Diameter or Thickness, min lion of HBW Type Condition Finish in. [mm] in. [50 mm] 8 
+Area, c. 0 unless or4D 
+min% min, % otherwise 
+ksi MPa ksi MPa indicated, E 
+max 
+Austenitic Grades 
+N08020 SA hot-finished or all 80 [550] 35 [240] 30 50 
+cold-finished 
+N08367 A hot-finished or all 95 655 45 310 30 50 
+cold-finished 
+N08700 A hot-finished or all 80 550 35 240 30 50 
+cold-finished 
+N08800 800 A hot-finished or all 75 515 30 205 30 192 
+cold-finished 
+N08810 800H A hot-finished or all 65 450 25 170 30 192 
+cold-finished 
+N08811 A hot-finished or all 65 450 25 170 30 192 
+cold-finished 
+N08904 904L A hot-finished or all 71 490 31 220 35 
+cold-finished 
+N08925 A hot-finished or all 87 600 43 295 40 217 
+cold-finished 
+N08926 A hot-finished or all 94 650 43 295 35 256 
+cold-finished 
+201,202 A hot-finished or all 75 515 40 275 40 45 
+cold-finished 
+S20161 A hot-finished all 125 860 50 345 40 40 255 
+cold-finished all 125 860 50 345 40 40 311 
+S20162 A hot-finished or all 100 690 50 345 50 60 
+cold finished 
+205 A hot-finished or all 100 690 60 414 40 50 
+cold-finished 
+XM-19 A hot-finished or all 100 690 55 380 35 55 
+cold-finished 
+As hot-finished or up to 2 [50.8], incl 135 930 105 725 20 50 
+hot- cold-finished 
+rolled 
+over 2 to 3 [50.8 to 76.2], 115 795 75 515 25 50 
+incl 
+over 3 to 8 [76.2 to 203.2], 100 690 60 415 30 50 
+incl 
+S21800 A hot-finished or all 95 655 50 345 35 55 241 
+cold-finished 
+XM-10, XM-11 A hot-finished or all 90 620 50 345 45 60 
+cold-finished 
+XM-29 A hot-finished or all 100 690 55 380 30 50 
+cold-finished 
+XM-28 A hot-finished or all 100 690 55 380 30 50 
+cold-finished 
+S24565 A hot-finished or all 115 795 60 415 35 40 
+cold-finished 
+S28200 A hot-finished or all 110 760 60 410 35 55 
+cold finished 
+302,302B, 304,304LN, A hot-finished all 75F 515 30F 205 40G 50 
+305,308,309, 309S, cold-finished up to½ [12.70] incl 90 620 45 310 30 40 
+309Gb, 310, 310S, over ½ [12. 70] 75F 515 30F 205 30 40 
+310Gb, 314, 316, 
+316LN, 316Gb, 316TI, 
+317, 321, 347, 
+348 
+304L, 316L A hot-finished all 70 485 25 170 40G 50 
+cold-finished up to ½ [12. 70] incl. 90 620 45 310 30 40 
+over½ [12.70] 70 485 25 170 30 40 
+304N, 316N A hot-finished or all 80 550 35 240 30 
+cold-finished 
+202,302,304, 304N, 316, B cold-finished up to ¾ [19.05] incl 125 860 100 690 12 35 
+316N 
+304L, 316L over ¾ [19.05] to 115 795 80 550 15 35 
+1 [25.40] 
+over 1 [25.40] to 1 ¼ 105 725 65 450 20 35 
+[31.75] 
+over 1 ¼ [31.75] to 1 ½ 100 690 50 345 24 45 
+[38.10] 
+412 

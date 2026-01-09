@@ -1,0 +1,20 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 345,
+  "globalPageIndex": 1143,
+  "width": 627.84,
+  "height": 804.24,
+  "text": "ASME BPVC.II.A-2025 SA-612/SA-612M (ASTM A612/A612M) \nTABLE 1 Chemical Requirements \nElements Composition, % \nCarbon, max:A \nHeat analysis 0.25 \nProduct analysis 0.29 \nManganeseA \nHeat analysis 1.00-1.50 \nProduct analysis 0.92-1.62 \nPhosphorus, max 8 0.025 \nSulfur, max 8 0.025 \nSilicon \nHeat analysis 0.15-0.50 \nProduct analysis 0.13-Q.55 \nCopper, max:c \nHeat analysis 0.35 \nProduct analysis 0.38 \nNickel, max:c \nHeat analysis 0.25 \nProduct analysis 0.28 \nChromium, max:c \nHeat analysis 0.25 \nProduct analysis 0.29 \nMolybdenum, max:c \nHeat analysis 0.08 \nProduct analysis 0.09 \nVanadium, max:c \nHeat analysis 0.08 \nProduct analysis 0.09 \nA For each reduction of 0.01 percentage point below the specified carbon \nmaximum, an increase of 0.06 percentage point manganese above the specified \nmaximum is permitted up to a maximum of 1.65 % for heat analysis (1.70 % for \nproduct analysis). \n8 Applies to both heat and product analyses. \nc When analysis shows that the amount of an element is 0.02 % or lower, the \nvalue may be reported as :;;0.02 %. \nTABLE 2 Tensile Requirements \nThickness \n0.5 in. [12.5 mm] and Under \nTensile strength, ksi [MPa] 83-105 [570-725] \nYield strength, min,A ksi [MPa] 50 [345] \nElongation in 8 in. [200 mm], min, % 8 16 \nElongation in 2 in. [50 mm], min, % 8 22 \nA Determined by either the 0.2 % offset method or the 0.5 % extension-under-load method. \n8 See Specification A20/A20M for elongation adjustments. \n5. Heat Treatment 7. Mechanical Properties \nOver 0.5 in. [Over 12.5 mm] \n81-101 [560-695] \n50 [345) \n16 \n22 \n5.1 Plates are normally supplied in the as-rolled condition. \nPlates may be ordered normalized or stress relieved, or both. \n6. Chemical Composition \n7 .1 Tension Test-The plates, as represented by the tension \ntest specimens, shall conform to the requirements given in \nTable 2. \n6.1 The steel shall conform to the requirements as to \nchemical composition given in Table 1 unless otherwise \nmodified in accordance with Supplementary Requirement S 17, \nVacuum Carbon-Deoxidized Steel, in Specification A20/ \nA20M. \n8. Keywords \n8.1 carbon steel; steel plates for pressure vessels; lower \ntemperature service; high strength steel plates \n1049 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1143.json",
+  "tabulaTablesCsv": "tables_tabula/page-1143.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-1143.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2190,
+  "bestTextAlphaRatio": 0.6621,
+  "gapOcrHighDpiPath": "gap_ocr_highdpi/page-1143.txt",
+  "gapOcrHighDpiLength": 2135
+}

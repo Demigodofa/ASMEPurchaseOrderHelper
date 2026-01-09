@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 52,
+  "globalPageIndex": 850,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "CROSS-REFERENCING IN THE ASME BPVC \nParagraphs within the ASME BPVC may include subparagraph breakdowns, i.e., nested lists. The following is a guide to \nthe designation and cross-referencing of subparagraph breakdowns: \n(a) Hierarchy of Subparagraph Breakdowns \n(1) First-level breakdowns are designated as (a), (b), (c), etc. \n(2) Second-level breakdowns are designated as (1), (2), (3), etc. \n(3) Third-level breakdowns are designated as (-a), (-b), (-c), etc. \n(4) Fourth-level breakdowns are designated as (-1), (-2), (-3), etc. \n(SJ Fifth-level breakdowns are designated as (+a), (+b), (+c), etc. \n(6) Sixth-level breakdowns are designated as (+1), (+2), etc. \n(b) Cross-References to Subparagraph Breakdowns. Cross-references within an alphanumerically designated para\u00ad\ngraph (e.g., PG-1, UIG-56.1, NCD-3223) do not include the alphanumerical designator of that paragraph. The cross\u00ad\nreferences to subparagraph breakdowns follow the hierarchy of the designators under which the breakdown appears. \nThe following examples show the format: \n(1) if X.l(c)(l)(-a) is referenced in X.l(c)(l), it will be referenced as (-a). \n(2) if X.l(c)(l)(-a) is referenced in X.1(c)(2), it will be referenced as (1)(-a). \n(3) if X.l(c)(l)(-a) is referenced in X.l(e)(l), it will be referenced as (c)(l)(-a). \n(4) if X.l(c)(l)(-a) is referenced in X.2(c)(2), it will be referenced as X.l(c)(l)(-a). \nIii ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-0850.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1392,
+  "bestTextAlphaRatio": 0.6782
+}

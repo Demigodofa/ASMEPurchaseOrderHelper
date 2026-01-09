@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 422,
+  "globalPageIndex": 422,
+  "width": 625.68,
+  "height": 863.76,
+  "text": "SA-250 /SA-250M ASME BPVC.II.A-2025 \nTABLE 3 Minimum Elongation Values \nin. \n'\u00bde (0.312) \n%2 (0.281) \n\u00bc (0.250) \n7/32 (0.219) \n3/1s (0.188) \n%2 (0.156) \n1/e (0.125) \n%2 (0.094) \n1/ts (0.062) \nWall Thickness \nmm \n8 \n7.2 \n6.4 \n5.6 \n4.8 \n4 \n3.2 \n2.4 \n1.6 \nElongation in 2 in. or \n50 mm, min,%A \nGradesT1, T1a, T1b, \nT2, T11, T12, and T22 \n30 \n29 \n27 \n26 \n24 \n22 \n21 \n20 \n18 \nA Calculated elongation requirements shall be rounded to the nearest whole number. \nTABLE 4 Hardness Requirements \nGrade Brinell Hardness \nNumber (Tubes 0.200 \nin. [5.1 mm] and over \nin wall thickness), HBW \nRockwell Hardness \nNumber (Tubes less \nthan 0.200 in. [5.1 mm] \nin wall thickness), HRB \nT1 \nT1a \nT1b \nT2 \nT11 \nT12 \nT22 \n146 \n153 \n137 \n163 \n163 \n163 \n163 \ncontinuous furnace, the number of tubes of the same size and \nfrom the same heat in a lot shall be detem1ined from the size \nof the tubes given in Table 5. \n8.2 For tensile and hardness test requirements, the term lot \napplies to all tubes prior to cutting, of the same specified \noutside diameter and specified wall thickness that are produced \nfrom the same heat of steel. When final heat treatment is in a \nbatch-type furnace, a lot shall include only those tubes of the \nsame size and the same heat that are heat treated in the same \nfurnace charge. When the final heat treatment is in a continuous \nfurnace, a lot shall include all tubes of the same size and heat, \nheat treated in the same furnace at the same temperature, time \nat heat, and furnace speed. \n9. Forming Operations \n9.1 Tubes when inserted in the boiler shall stand expanding \nand beading without showing cracks or flaws. Superheater \ntubes when properly manipulated shall stand all forging, \nwelding, and bending operations necessary for application \nwithout developing defects. \n370 \n80 \n81 \n77 \n85 \n85 \n85 \n85 \nTABLE 5 Number of Tubes in a Lot Heat Treated by the \nContinuous Process \nSize of Tube \n2 in. [50.8 mm] and over in outside diameter and \n0.200 in. [5.1 mm] and over in wall thickness \nLess than 2 in. [50.8 mm] but over 1 in. [25.4 mm] \nin outside diameter or over 1 in. [25.4 mm] in \noutside diameter and under 0.200 in. [5.1 mm] in \nwall thickness \n1 in. [25.4 mm] or less in outside diameter \n10. Product Marking \nSize of Lot \nnot more than 50 \ntubes \nnot more than 75 \ntubes \nnot more than 125 \ntubes \n10.1 In addition to the marking prescribed in Specification \nA1016/A1016M, the marking shall include the words \"Electric \nResistance-Welded Steel.\" \n11. Keywords \n11.1 boiler tube; resistance welded steel tube; steel tube, \nalloy; superheater tube; welded steel tube ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0422.json",
+  "tabulaTablesCsv": "tables_tabula/page-0422.csv",
+  "tabulaTableCount": 2,
+  "bestTextPath": "best_text/pages/page-0422.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2595,
+  "bestTextAlphaRatio": 0.6428
+}

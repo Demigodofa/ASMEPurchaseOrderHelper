@@ -1,0 +1,75 @@
+ASME BPVC.II.A-2025 SA-513/SA-513M (ASTM A513/A513M) 
+0 No Flash tubing is further processed by DOM for closer tolerances, produced to outside diameter and wall, inside diameter and wall, or outside diameter and inside 
+diameter, with no dimensional indication of inside diameter flash, and is available in Types 5 and 6. 
+E Birmingham Wire Gauge. 
+FThe ovality shall be within the above tolerances except when the wall thickness is less than 3 % of the outside diameter, in such cases see 8.6.1. 
+TABLE 5 Diameter Tolerances for Types 3, 4, 5, and 6 (S.D.H.R., S.D.C.R., DOM, and S.S.I.D) Round Tubing 
+NoTE !-Measurements for diameter are to be taken at least 2 in. [50 mm] from the ends of the tubes . 
+.Types 3, 4, (Sink Drawn 6A,a Types 5 and 6 
+OD Size RangeA Wall% and 5, 6, (DOM)a,c 0 (DOM) 8 ·CID 
+in. [mm] of OD Over Under Over Under 
+in. [mm] in. [mm] in.[mm] in. [mm] 
+Up to 0.499 [12.67] all 0.004 [0.1 OJ 0.000 [0.00] 
+o.500 to 1.699 [12. 70 to 43.15] all 0.005 [0.13] 0.000 [0.00] 0.000 [0.00] 0.005 [0.13] 
+1.700 to 2.099 [43.18 to 53.31] all 0.006 [0.15] 0.000 [0.00] 0.000 [0.00] 0.006 [0.15] 
+2.100 to 2.499 [53.34 to 63.47] all 0.007 [0.18] 0.000 [0.00] 0.000 [0.00] 0.007 [0.18] 
+2.500 to 2.899 [63.50 to 73.63] all 0.008 [0.20] 0.000 [0.00] 0.000 [0.00] 0.008 [0.20] 
+2.900 to 3.299 [73.66 to 83.79] all 0.009 [0.23] 0.000 [0.00] 0.000 [0.00] 0.009 [0.23] 
+3.300 to 3.699 [83.82 to 93.95] all 0.010 [0.25] 0.000 [0.00] 0.000 [0.00] 0.010 [0.25] 
+3.700 to 4.099 [93.98 to 104.11] all 0.011 [0.28] 0.000 [0.00] 0.000 [0.00] 0.011 [0.28] 
+4.100 to 4.499 [104.14 to 114.27] all 0.012 [0.30] 0.000 [0.00] 0.000 [0.00] 0.012 [0.30] 
+4.500 to 4.899 [114.30 to 124.43] all 0.013 [0.33] 0.000 [0.00] 0.000 [0.00] 0.013 [0.33] 
+4.900 to 5.299 [124.46 to 134.59] all 0.014 [0.36] 0.000 [0.00] 0.000 [0.00] 0.014 [0.36] 
+5.300 to 5.549 [134.62 to 140;94] all 0.015 [0.38] 0.000 [0.00] 0.000 [0.00] 0.015 [0.38] 
+5.550 to 5.999 [140.97 to 152.37] under 6 0.010 [0.25] 0.010 [0.25] 0.010 [0.25] 0.010 [0.25] 
+6 and over 0.009 [0.23] 0.009 [0.23] 0.009 [0.23] 0.009 [0.23] 
+6.000 to 6.499 [152.40 to 165.07] under 6 O.Q13 [0.33] 0.013 [0.33] O.D13 [0.33] 0.013 [0.33] 
+6 and over 0.010 [0.25] 0.010 [0.25] 0.010 [0.25] 0.010 [0.25] 
+6.500 to 6.999 [165.10 to 177.77] under 6 0.015 [0.38] 0.015 [0.38] 0.015 [0.38] 0.015 [0,38] 
+6 and over 0.012 [0.30] 0.012 [0,30] 0.012 [0.30] 0.012 [0.30] 
+7.000 to 7.499 [177.80 to 190.47] under 6 O.Q18 [0.46] O.D18 [0.46] O.D18 [0.46] 0.018 [0.46] 
+6 and over O.Q13 [0.33] O.Q13 [0.33] 0.013 [0.33] O.Q13 [0.33] 
+7.500 to 7.999 [190.50 to 203.17] under 6 0.020 [0.51] 0.020 [0.51] 0.020 [0.51] 0.020 [0.51] 
+6 and over 0.015 [0.38] 0.015 [0.38] 0.015 [0.38] 0.015 [0.38] 
+8.000 to 8.499 [203.20 to 215.87] under 6 0.023 [0.58] 0.023 [0.58] 0.023 [0.58] 0.023 [0.58] 
+6 and over 0.016 [0.41 l O.D16 [0.41] O.D16 [0.41] O.D16 [0.41] 
+8.500 to 8.999 [215.90 to 228.57) under 6 0.025 [0.64] 0.025 [0.66] 0.025 [0.66] 0.025 [0.64] 
+6 and over 0.017 [0.43] 0.017 [0.43] 0.017 [0.43] 0.017 [0.43] 
+9.000 to 9.499 [228.60 to 241.27] under 6 0.028 [0.71] 0.028 [0.71] 0.028 [0.71] 0.028 [0.71] 
+6 and over 0.019 [0.48] 0.019 [0.48] 0.019 [0.48] 0.019 [0.48] 
+9.500 to 9.999 [241.30 to 253.97] under 6 0.030 [0.76] 0.030 [0,76] 0.030 [0.76] 0.030 [0.76] 
+6 and over 0.020 [0.51] 0.020 [0.51] 0.020 [0.51] 0.020 [0.51] 
+10.000 to 10.999 [254.00 to 279.37] all 0.034 [0.85] 0.034 [0.85] 0.034 [0.85] 0.034 [0.85] 
+11.000 to 11.999 [279.40 to 304. 77] all 0.035 [0.89] 0.035 [0.89] 0.035 [0.89] 0.035 [0.89] 
+12.000 to 12.999 [304.80 to 330.17] all 0.036 [0.91] 0.036 [0.91] 0.036 [0.94] 0.036 [0.91] 
+13.000 to 13.999 [330.20 to 355.57] all 0.037 [0.94] 0.037 [0.94] 0.037 [0.94] 0.037 [0,94] 
+14.000 to 14.999 [355.60 to 380.97] all 0.038 [0.97] 0.038 [0.97] 0.038 [0.97] 0.038 [0.97] 
+A Tubing, flash in or flash controlled which is further processed without mandrei to obtain tolerances closer than those shown in Tables 4 and 10. 
+8 The ovality shall be within the above tolerances except when the wall thickness is less than 3 % of the outside diameter, in such cases see 8.6.2. 
+cTubing produced to outside diameter and wall thickness, or inside diameter and wall thickness, or outside diameter and inside diameter, by DOM to obtain tolerances 
+closer than those shown in Tables 4 and 1 O and no dimensional indication of inside diameter flash. 
+beveled protractor equipped with a level, and noting the 
+angular deviation on opposite ends, or at any point throughout 
+the length. 
+9.6 Straightness-The straightness tolerance is 1/16 in./3 ft 
+[1.7 mm/1 m]. The test method for straightness measurement is 
+at the manufacturer's option, unless a specific test method is 
+specified in the purchase order. 
+10. Tubing Sections Other Than Square and Rectangular 
+10.1 In addition to square and rectangular tubing, many 
+producers supply a variety of special sections, such as oval, 
+streamlined, hexagonal, octagonal, round inside and hexagonal 
+or octagonal outside, ribbed inside or out, triangular, rounded 
+rectangular and D shapes. Manufacturing practices limit the 
+size range and section available from the various producers. 
+These special sections may be made through turkshead rolls or 
+through a die with or without use of a mandrel. Since the 
+sections are special, dies and other tools are not held available. 
+Therefore, when inquiring for shapes other than square and 
+rectangular, it is essential to give full details as to dimensions 
+and finish. 
+11. Workmanship, Finish, and Appearance 
+851 
+11.1 The tubing shall be free of injurious defects and shall 
+have a workmanlike finish. 
+~ 

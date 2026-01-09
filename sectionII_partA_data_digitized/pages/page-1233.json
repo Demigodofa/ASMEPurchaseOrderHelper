@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 435,
+  "globalPageIndex": 1233,
+  "width": 617.04,
+  "height": 795.6,
+  "text": "ASME BPVC.II.A-2025 \nSPECIFICATION FOR STEEL BARS, CARBON, \nHOT-WROUGHT OR COLD-FINISHED, SPECIAL \nQUALITY, FOR PRESSURE PIPING COMPONENTS \nSA-696 \n(Identical with ASTM Specification A696-90a(2012).) \n1147 \ncO \nINTERNATIONAL \nStandards Worldwide \nSA-696 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-1233.txt",
+  "ocrTextLength": 210,
+  "ocrApplied": true,
+  "bestTextPath": "best_text\\pages\\page-1233.txt",
+  "bestTextSource": "full_ocr_highdpi",
+  "bestTextLength": 199,
+  "bestTextAlphaRatio": 0.683
+}

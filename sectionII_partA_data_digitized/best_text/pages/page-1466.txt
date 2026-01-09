@@ -1,0 +1,107 @@
+SA-961/SA-961M ASME BPVC.II.A-2025 
+product analysis (check analysis) tolerances are not to be 
+applied to the heat analysis requirements. 
+S52. Product Analysis 
+S52.1 A product analysis shall be made from one randomly 
+selected forging representing each heat. The results shall 
+comply with the product analysis limits listed in the applicable 
+product specification. For Specification Al82/A182M grades 
+of F20 and F58, results shall comply with the product analysis 
+limits listed in Specification B880. 
+S52.2 If the analysis fails to comply, each forging shall be 
+checked or the lot rejected. All results shall be reported to the 
+purchaser. 
+S53. Tension Tests 
+S53.1 In addition to the requirements of Section 9, one 
+tension specimen shall be obtained from a representative 
+forging from each heat at a location agreed upon between the 
+certifying organization and the purchaser. The results of the test 
+shall comply with the tensile property requirements listed in 
+the applicable product specification and shall be reported to the 
+purchaser. 
+S54. Impact Tests 
+S54.1 In addition to the requirements of Section 9, three 
+CVN impact energy specimens shall be obtained from a 
+representative forging from each heat at a location agreed upon 
+between the certifying organization and the purchaser. 
+S54.2 The purchaser shall supply the impact test tempera­
+ture and the required minimum requirements for the test, 
+including the lowest single absorbed energy for a single 
+specimen if an average absorbed energy value is required. The 
+lateral expansion values and the fracture appearance of the 
+specipiens as percentage ductile fracture shall be reported for 
+information if these parameters are not part of the acceptance 
+requirements. 
+SSS. Magnetic Particle Examination 
+S55.1 All accessible surfaces of the finished forging shall be 
+examined by a magnetic particle method. The method shall be 
+in accordance with Test Method A275/A275M. Acceptance 
+limits shall be as agreed upon between the certifying organic 
+zation and the purchaser. 
+S56. Liquid Penetrant Examination 
+S56.1 All accessible surfaces shall be examined by a liquid 
+penetrant method in accordance with Test Method E165/ 
+E165M. Acceptance limits shall be as agreed upon between the 
+certifying organization and the purchaser. 
+S57. Hydrostatic Testing 
+S57.1 A hydrostatic test at a pressure agreed upon between 
+the certifying organization and the purchaser shall be applied 
+by the certifying organization. 
+SSS. Repair Welding 
+S58.1 No repair welding shall be permitted without prior 
+approval of the purchaser. If permitted, the restrictions of 
+Section 16 shall apply. 
+S59. Electropolished Austenitic and Ferritic-Austenitic 
+Grades 
+S59.l All electropolished austenitic and ferritic-austenitic 
+products shall be of a cleanliness in accordance with Specifi­
+cation A967 / A967M. 
+S59.2 Details concerning which test method of Specifica­
+tion A967 / A967M are to be a matter of agreement between the 
+manufacturer and the purchaser. 
+S60. Positive Material Identification Examination 
+S60.1 Forgings shall receive positive material identification 
+to ensure that the purchaser is receiving forgings of the correct 
+material grade prior to shipment of the forgings. This exami­
+nation is a method to ensure that no material grade mix-up has 
+occurred during the manufacturing and marking of the forg­
+ings. 
+S60.2 Forgings shall receive a positive material identifica­
+tion examination in accordance with Guide B1916. 
+S60.3 The quantity examined shall be 100 % of the forg­
+ings. 
+S60.4 All forgings that are not of the correct material grade 
+shall be rejected. 
+S60.5 The method of forging marking after examination 
+shall be agreed upon between the manufacturer and the 
+purchaser. 
+S61. Heat Treatment in the Working Zone of a Surveyed 
+Furnace 
+S61.1 Material shall be heat treated in the working zone of 
+a furnace that has been surveyed in accordance with Test 
+Method A991/A991M, provided that such working zone was 
+established using a variation of 25 °F [14 °C] or less from the 
+furnace set point. 
+S61.2 The test report shall indicate that S61 applies. 
+S62. Requirements for Carbon Steel Products for Concen­
+trated Hydrofluoric Acid Service 
+S62.1 The maximum carbon equivalent based on heat 
+analysis shall be as follows: 
+Maximum section thickness less than or equal CE maximum = 0.43 
+to 1 in. 
+Maximum section thickness greater than 1 in. CE maximum = 0.45 
+S62.2 Determine the carbon equivalent (CE) as follows: 
+CE= C+Mnl6+(C r +Mo + V)/5+(N i + C u)/15 (1) 
+S62.3 Vanadium and Niobium maximum content based on 
+heat analysis shall be: 
+Maximum Vanadium = 0.02 wt % 
+Maximum NiobiumA = 0.02 wt % 
+Maximum Vanadium plus NiobiumA = 0.03 wt % 
+ANiobium = Columbium 
+S62.4 The maximum composition based on heat analysis of 
+Ni + Cu shall be 0.15 wt %. 
+S62.5 The minimum C content based on heat analysis shall 
+be 0.18 wt%. The maximum C content shall be as specified in 
+the appropriate material specification. 
+1408 
+, ~ 

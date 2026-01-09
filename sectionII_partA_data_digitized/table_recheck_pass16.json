@@ -1,0 +1,912 @@
+{
+  "createdUtc": "2026-01-07T19:18:46.746666+00:00",
+  "summary": {
+    "targetPages": 70,
+    "pagesProcessed": 70,
+    "tableRegionsOcr": 69
+  },
+  "pages": [
+    {
+      "globalPageIndex": 77,
+      "tableWordHits": 2,
+      "cropBox": [
+        0,
+        352,
+        3446,
+        2790
+      ],
+      "textPath": "table_target_ocr\\page-0077-table.txt",
+      "length": 1224,
+      "alphaRatio": 0.657
+    },
+    {
+      "globalPageIndex": 125,
+      "tableWordHits": 3,
+      "cropBox": [
+        0,
+        549,
+        3437,
+        2983
+      ],
+      "textPath": "table_target_ocr\\page-0125-table.txt",
+      "length": 4135,
+      "alphaRatio": 0.75
+    },
+    {
+      "globalPageIndex": 220,
+      "tableWordHits": 2,
+      "cropBox": [
+        0,
+        1420,
+        3403,
+        3840
+      ],
+      "textPath": "table_target_ocr\\page-0220-table.txt",
+      "length": 1117,
+      "alphaRatio": 0.741
+    },
+    {
+      "globalPageIndex": 240,
+      "tableWordHits": 3,
+      "cropBox": [
+        0,
+        802,
+        3403,
+        3222
+      ],
+      "textPath": "table_target_ocr\\page-0240-table.txt",
+      "length": 3517,
+      "alphaRatio": 0.753
+    },
+    {
+      "globalPageIndex": 251,
+      "tableWordHits": 1,
+      "cropBox": [
+        0,
+        988,
+        3411,
+        3411
+      ],
+      "textPath": "table_target_ocr\\page-0251-table.txt",
+      "length": 1740,
+      "alphaRatio": 0.766
+    },
+    {
+      "globalPageIndex": 260,
+      "tableWordHits": 2,
+      "cropBox": [
+        0,
+        624,
+        3404,
+        3233
+      ],
+      "textPath": "table_target_ocr\\page-0260-table.txt",
+      "length": 639,
+      "alphaRatio": 0.61
+    },
+    {
+      "globalPageIndex": 279,
+      "tableWordHits": 1,
+      "cropBox": [
+        0,
+        4152,
+        3312,
+        4677
+      ],
+      "textPath": "table_target_ocr\\page-0279-table.txt",
+      "length": 63,
+      "alphaRatio": 0.476
+    },
+    {
+      "globalPageIndex": 328,
+      "tableWordHits": 1,
+      "cropBox": [
+        0,
+        951,
+        3422,
+        3567
+      ],
+      "textPath": "table_target_ocr\\page-0328-table.txt",
+      "length": 3309,
+      "alphaRatio": 0.717
+    },
+    {
+      "globalPageIndex": 368,
+      "tableWordHits": 2,
+      "cropBox": [
+        0,
+        2293,
+        3614,
+        4910
+      ],
+      "textPath": "table_target_ocr\\page-0368-table.txt",
+      "length": 1865,
+      "alphaRatio": 0.716
+    },
+    {
+      "globalPageIndex": 372,
+      "tableWordHits": 2,
+      "cropBox": [
+        0,
+        522,
+        3440,
+        3146
+      ],
+      "textPath": "table_target_ocr\\page-0372-table.txt",
+      "length": 834,
+      "alphaRatio": 0.615
+    },
+    {
+      "globalPageIndex": 374,
+      "tableWordHits": 2,
+      "cropBox": [
+        0,
+        3639,
+        3495,
+        4814
+      ],
+      "textPath": "table_target_ocr\\page-0374-table.txt",
+      "length": 370,
+      "alphaRatio": 0.754
+    },
+    {
+      "globalPageIndex": 415,
+      "tableWordHits": 3,
+      "cropBox": [
+        0,
+        1401,
+        3467,
+        4036
+      ],
+      "textPath": "table_target_ocr\\page-0415-table.txt",
+      "length": 2816,
+      "alphaRatio": 0.741
+    },
+    {
+      "globalPageIndex": 448,
+      "tableWordHits": 1,
+      "cropBox": [
+        0,
+        3132,
+        3321,
+        4683
+      ],
+      "textPath": "table_target_ocr\\page-0448-table.txt",
+      "length": 811,
+      "alphaRatio": 0.731
+    },
+    {
+      "globalPageIndex": 472,
+      "tableWordHits": 3,
+      "cropBox": [
+        0,
+        1514,
+        3321,
+        4089
+      ],
+      "textPath": "table_target_ocr\\page-0472-table.txt",
+      "length": 3381,
+      "alphaRatio": 0.777
+    },
+    {
+      "globalPageIndex": 478,
+      "tableWordHits": 2,
+      "cropBox": [
+        0,
+        865,
+        3321,
+        3440
+      ],
+      "textPath": "table_target_ocr\\page-0478-table.txt",
+      "length": 1641,
+      "alphaRatio": 0.768
+    },
+    {
+      "globalPageIndex": 497,
+      "tableWordHits": 1,
+      "cropBox": [
+        0,
+        2405,
+        3312,
+        4677
+      ],
+      "textPath": "table_target_ocr\\page-0497-table.txt",
+      "length": 202,
+      "alphaRatio": 0.649
+    },
+    {
+      "globalPageIndex": 523,
+      "tableWordHits": 4,
+      "cropBox": [
+        0,
+        643,
+        3348,
+        3229
+      ],
+      "textPath": "table_target_ocr\\page-0523-table.txt",
+      "length": 3411,
+      "alphaRatio": 0.689
+    },
+    {
+      "globalPageIndex": 531,
+      "tableWordHits": 4,
+      "cropBox": [
+        0,
+        619,
+        3321,
+        3194
+      ],
+      "textPath": "table_target_ocr\\page-0531-table.txt",
+      "length": 3937,
+      "alphaRatio": 0.761
+    },
+    {
+      "globalPageIndex": 543,
+      "tableWordHits": 2,
+      "cropBox": [
+        0,
+        1057,
+        3422,
+        3673
+      ],
+      "textPath": "table_target_ocr\\page-0543-table.txt",
+      "length": 1326,
+      "alphaRatio": 0.726
+    },
+    {
+      "globalPageIndex": 555,
+      "tableWordHits": 2,
+      "cropBox": [
+        0,
+        1328,
+        3321,
+        3903
+      ],
+      "textPath": "table_target_ocr\\page-0555-table.txt",
+      "length": 1224,
+      "alphaRatio": 0.723
+    },
+    {
+      "globalPageIndex": 624,
+      "tableWordHits": 1,
+      "cropBox": [
+        0,
+        1897,
+        3449,
+        4524
+      ],
+      "textPath": "table_target_ocr\\page-0624-table.txt",
+      "length": 2801,
+      "alphaRatio": 0.784
+    },
+    {
+      "globalPageIndex": 793,
+      "tableWordHits": 1,
+      "cropBox": [
+        0,
+        1604,
+        3622,
+        4308
+      ],
+      "textPath": "table_target_ocr\\page-0793-table.txt",
+      "length": 4221,
+      "alphaRatio": 0.768
+    },
+    {
+      "globalPageIndex": 943,
+      "tableWordHits": 1,
+      "cropBox": [
+        0,
+        1238,
+        3428,
+        3669
+      ],
+      "textPath": "table_target_ocr\\page-0943-table.txt",
+      "length": 2680,
+      "alphaRatio": 0.712
+    },
+    {
+      "globalPageIndex": 965,
+      "tableWordHits": 2,
+      "cropBox": [
+        0,
+        3088,
+        3428,
+        4420
+      ],
+      "textPath": "table_target_ocr\\page-0965-table.txt",
+      "length": 455,
+      "alphaRatio": 0.681
+    },
+    {
+      "globalPageIndex": 978,
+      "tableWordHits": 2,
+      "cropBox": [
+        0,
+        560,
+        3446,
+        2998
+      ],
+      "textPath": "table_target_ocr\\page-0978-table.txt",
+      "length": 2284,
+      "alphaRatio": 0.683
+    },
+    {
+      "globalPageIndex": 1018,
+      "tableWordHits": 2,
+      "cropBox": [
+        0,
+        416,
+        3488,
+        2873
+      ],
+      "textPath": "table_target_ocr\\page-1018-table.txt",
+      "length": 777,
+      "alphaRatio": 0.525
+    },
+    {
+      "globalPageIndex": 1026,
+      "tableWordHits": 1,
+      "cropBox": [
+        0,
+        3529,
+        3472,
+        4454
+      ],
+      "textPath": "table_target_ocr\\page-1026-table.txt",
+      "length": 648,
+      "alphaRatio": 0.738
+    },
+    {
+      "globalPageIndex": 1032,
+      "tableWordHits": 3,
+      "cropBox": [
+        0,
+        424,
+        3480,
+        2878
+      ],
+      "textPath": "table_target_ocr\\page-1032-table.txt",
+      "length": 2386,
+      "alphaRatio": 0.671
+    },
+    {
+      "globalPageIndex": 1037,
+      "tableWordHits": 4,
+      "cropBox": [
+        0,
+        578,
+        3523,
+        3051
+      ],
+      "textPath": "table_target_ocr\\page-1037-table.txt",
+      "length": 2418,
+      "alphaRatio": 0.677
+    },
+    {
+      "globalPageIndex": 1041,
+      "tableWordHits": 4,
+      "cropBox": [
+        0,
+        417,
+        3506,
+        2882
+      ],
+      "textPath": "table_target_ocr\\page-1041-table.txt",
+      "length": 2949,
+      "alphaRatio": 0.662
+    },
+    {
+      "globalPageIndex": 1046,
+      "tableWordHits": 2,
+      "cropBox": [
+        0,
+        1421,
+        3488,
+        3878
+      ],
+      "textPath": "table_target_ocr\\page-1046-table.txt",
+      "length": 2482,
+      "alphaRatio": 0.719
+    },
+    {
+      "globalPageIndex": 1051,
+      "tableWordHits": 2,
+      "cropBox": [
+        0,
+        427,
+        3506,
+        2892
+      ],
+      "textPath": "table_target_ocr\\page-1051-table.txt",
+      "length": 1474,
+      "alphaRatio": 0.691
+    },
+    {
+      "globalPageIndex": 1055,
+      "tableWordHits": 2,
+      "cropBox": [
+        0,
+        3208,
+        3463,
+        4448
+      ],
+      "textPath": "table_target_ocr\\page-1055-table.txt",
+      "length": 1117,
+      "alphaRatio": 0.757
+    },
+    {
+      "globalPageIndex": 1110,
+      "tableWordHits": 1,
+      "cropBox": [
+        0,
+        2067,
+        3420,
+        4414
+      ],
+      "textPath": "table_target_ocr\\page-1110-table.txt",
+      "length": 2729,
+      "alphaRatio": 0.744
+    },
+    {
+      "globalPageIndex": 1133,
+      "tableWordHits": 1,
+      "cropBox": [
+        0,
+        637,
+        3428,
+        3068
+      ],
+      "textPath": "table_target_ocr\\page-1133-table.txt",
+      "length": 3196,
+      "alphaRatio": 0.78
+    },
+    {
+      "globalPageIndex": 1143,
+      "tableWordHits": 4,
+      "cropBox": [
+        0,
+        426,
+        3488,
+        2883
+      ],
+      "textPath": "table_target_ocr\\page-1143-table.txt",
+      "length": 1464,
+      "alphaRatio": 0.634
+    },
+    {
+      "globalPageIndex": 1149,
+      "tableWordHits": 2,
+      "cropBox": [
+        0,
+        429,
+        3411,
+        2852
+      ],
+      "textPath": "table_target_ocr\\page-1149-table.txt",
+      "length": 1337,
+      "alphaRatio": 0.481
+    },
+    {
+      "globalPageIndex": 1164,
+      "tableWordHits": 2,
+      "cropBox": [
+        0,
+        886,
+        3411,
+        3309
+      ],
+      "textPath": "table_target_ocr\\page-1164-table.txt",
+      "length": 2772,
+      "alphaRatio": 0.714
+    },
+    {
+      "globalPageIndex": 1165,
+      "tableWordHits": 4,
+      "cropBox": [
+        0,
+        2249,
+        3411,
+        4407
+      ],
+      "textPath": "table_target_ocr\\page-1165-table.txt",
+      "length": 2313,
+      "alphaRatio": 0.748
+    },
+    {
+      "globalPageIndex": 1206,
+      "tableWordHits": 0,
+      "status": "no-table-word-detected"
+    },
+    {
+      "globalPageIndex": 1220,
+      "tableWordHits": 3,
+      "cropBox": [
+        0,
+        1921,
+        3411,
+        4344
+      ],
+      "textPath": "table_target_ocr\\page-1220-table.txt",
+      "length": 2912,
+      "alphaRatio": 0.749
+    },
+    {
+      "globalPageIndex": 1234,
+      "tableWordHits": 1,
+      "cropBox": [
+        0,
+        1438,
+        3411,
+        3861
+      ],
+      "textPath": "table_target_ocr\\page-1234-table.txt",
+      "length": 2532,
+      "alphaRatio": 0.725
+    },
+    {
+      "globalPageIndex": 1269,
+      "tableWordHits": 3,
+      "cropBox": [
+        0,
+        697,
+        3411,
+        3120
+      ],
+      "textPath": "table_target_ocr\\page-1269-table.txt",
+      "length": 3218,
+      "alphaRatio": 0.754
+    },
+    {
+      "globalPageIndex": 1273,
+      "tableWordHits": 4,
+      "cropBox": [
+        0,
+        368,
+        3403,
+        2788
+      ],
+      "textPath": "table_target_ocr\\page-1273-table.txt",
+      "length": 2732,
+      "alphaRatio": 0.648
+    },
+    {
+      "globalPageIndex": 1277,
+      "tableWordHits": 3,
+      "cropBox": [
+        0,
+        353,
+        3411,
+        2776
+      ],
+      "textPath": "table_target_ocr\\page-1277-table.txt",
+      "length": 2845,
+      "alphaRatio": 0.666
+    },
+    {
+      "globalPageIndex": 1284,
+      "tableWordHits": 2,
+      "cropBox": [
+        0,
+        2978,
+        3403,
+        4400
+      ],
+      "textPath": "table_target_ocr\\page-1284-table.txt",
+      "length": 384,
+      "alphaRatio": 0.771
+    },
+    {
+      "globalPageIndex": 1285,
+      "tableWordHits": 2,
+      "cropBox": [
+        0,
+        359,
+        3411,
+        2782
+      ],
+      "textPath": "table_target_ocr\\page-1285-table.txt",
+      "length": 3113,
+      "alphaRatio": 0.705
+    },
+    {
+      "globalPageIndex": 1320,
+      "tableWordHits": 3,
+      "cropBox": [
+        0,
+        1751,
+        3403,
+        4171
+      ],
+      "textPath": "table_target_ocr\\page-1320-table.txt",
+      "length": 3100,
+      "alphaRatio": 0.758
+    },
+    {
+      "globalPageIndex": 1383,
+      "tableWordHits": 2,
+      "cropBox": [
+        0,
+        1359,
+        3420,
+        3786
+      ],
+      "textPath": "table_target_ocr\\page-1383-table.txt",
+      "length": 1437,
+      "alphaRatio": 0.767
+    },
+    {
+      "globalPageIndex": 1414,
+      "tableWordHits": 3,
+      "cropBox": [
+        0,
+        3173,
+        3411,
+        4407
+      ],
+      "textPath": "table_target_ocr\\page-1414-table.txt",
+      "length": 238,
+      "alphaRatio": 0.752
+    },
+    {
+      "globalPageIndex": 1415,
+      "tableWordHits": 4,
+      "cropBox": [
+        0,
+        393,
+        3437,
+        2827
+      ],
+      "textPath": "table_target_ocr\\page-1415-table.txt",
+      "length": 2983,
+      "alphaRatio": 0.742
+    },
+    {
+      "globalPageIndex": 1440,
+      "tableWordHits": 1,
+      "cropBox": [
+        0,
+        378,
+        3403,
+        2798
+      ],
+      "textPath": "table_target_ocr\\page-1440-table.txt",
+      "length": 2235,
+      "alphaRatio": 0.655
+    },
+    {
+      "globalPageIndex": 1494,
+      "tableWordHits": 3,
+      "cropBox": [
+        0,
+        1339,
+        3420,
+        3766
+      ],
+      "textPath": "table_target_ocr\\page-1494-table.txt",
+      "length": 3184,
+      "alphaRatio": 0.769
+    },
+    {
+      "globalPageIndex": 1521,
+      "tableWordHits": 2,
+      "cropBox": [
+        0,
+        3489,
+        3454,
+        4440
+      ],
+      "textPath": "table_target_ocr\\page-1521-table.txt",
+      "length": 601,
+      "alphaRatio": 0.752
+    },
+    {
+      "globalPageIndex": 1530,
+      "tableWordHits": 3,
+      "cropBox": [
+        0,
+        1359,
+        3403,
+        3779
+      ],
+      "textPath": "table_target_ocr\\page-1530-table.txt",
+      "length": 3653,
+      "alphaRatio": 0.744
+    },
+    {
+      "globalPageIndex": 1563,
+      "tableWordHits": 3,
+      "cropBox": [
+        0,
+        716,
+        3428,
+        3147
+      ],
+      "textPath": "table_target_ocr\\page-1563-table.txt",
+      "length": 2284,
+      "alphaRatio": 0.732
+    },
+    {
+      "globalPageIndex": 1577,
+      "tableWordHits": 6,
+      "cropBox": [
+        0,
+        499,
+        3420,
+        2926
+      ],
+      "textPath": "table_target_ocr\\page-1577-table.txt",
+      "length": 2287,
+      "alphaRatio": 0.78
+    },
+    {
+      "globalPageIndex": 1589,
+      "tableWordHits": 2,
+      "cropBox": [
+        0,
+        2080,
+        3411,
+        4407
+      ],
+      "textPath": "table_target_ocr\\page-1589-table.txt",
+      "length": 2908,
+      "alphaRatio": 0.741
+    },
+    {
+      "globalPageIndex": 1607,
+      "tableWordHits": 3,
+      "cropBox": [
+        0,
+        2472,
+        3403,
+        4400
+      ],
+      "textPath": "table_target_ocr\\page-1607-table.txt",
+      "length": 442,
+      "alphaRatio": 0.568
+    },
+    {
+      "globalPageIndex": 1610,
+      "tableWordHits": 4,
+      "cropBox": [
+        0,
+        381,
+        3411,
+        2804
+      ],
+      "textPath": "table_target_ocr\\page-1610-table.txt",
+      "length": 3894,
+      "alphaRatio": 0.739
+    },
+    {
+      "globalPageIndex": 1612,
+      "tableWordHits": 2,
+      "cropBox": [
+        0,
+        378,
+        3420,
+        2805
+      ],
+      "textPath": "table_target_ocr\\page-1612-table.txt",
+      "length": 2816,
+      "alphaRatio": 0.757
+    },
+    {
+      "globalPageIndex": 1622,
+      "tableWordHits": 2,
+      "cropBox": [
+        0,
+        3546,
+        3403,
+        4400
+      ],
+      "textPath": "table_target_ocr\\page-1622-table.txt",
+      "length": 115,
+      "alphaRatio": 0.635
+    },
+    {
+      "globalPageIndex": 1626,
+      "tableWordHits": 1,
+      "cropBox": [
+        0,
+        2837,
+        3403,
+        4400
+      ],
+      "textPath": "table_target_ocr\\page-1626-table.txt",
+      "length": 1215,
+      "alphaRatio": 0.742
+    },
+    {
+      "globalPageIndex": 1630,
+      "tableWordHits": 2,
+      "cropBox": [
+        0,
+        2531,
+        3403,
+        4400
+      ],
+      "textPath": "table_target_ocr\\page-1630-table.txt",
+      "length": 1610,
+      "alphaRatio": 0.724
+    },
+    {
+      "globalPageIndex": 1638,
+      "tableWordHits": 2,
+      "cropBox": [
+        0,
+        2277,
+        3403,
+        4400
+      ],
+      "textPath": "table_target_ocr\\page-1638-table.txt",
+      "length": 1181,
+      "alphaRatio": 0.749
+    },
+    {
+      "globalPageIndex": 1640,
+      "tableWordHits": 4,
+      "cropBox": [
+        0,
+        1951,
+        3403,
+        4371
+      ],
+      "textPath": "table_target_ocr\\page-1640-table.txt",
+      "length": 2660,
+      "alphaRatio": 0.765
+    },
+    {
+      "globalPageIndex": 1650,
+      "tableWordHits": 1,
+      "cropBox": [
+        0,
+        1925,
+        3420,
+        4352
+      ],
+      "textPath": "table_target_ocr\\page-1650-table.txt",
+      "length": 770,
+      "alphaRatio": 0.697
+    },
+    {
+      "globalPageIndex": 1652,
+      "tableWordHits": 3,
+      "cropBox": [
+        0,
+        2593,
+        3411,
+        4407
+      ],
+      "textPath": "table_target_ocr\\page-1652-table.txt",
+      "length": 875,
+      "alphaRatio": 0.737
+    },
+    {
+      "globalPageIndex": 1656,
+      "tableWordHits": 2,
+      "cropBox": [
+        0,
+        2613,
+        3411,
+        4407
+      ],
+      "textPath": "table_target_ocr\\page-1656-table.txt",
+      "length": 1175,
+      "alphaRatio": 0.732
+    },
+    {
+      "globalPageIndex": 1675,
+      "tableWordHits": 4,
+      "cropBox": [
+        0,
+        502,
+        3437,
+        2936
+      ],
+      "textPath": "table_target_ocr\\page-1675-table.txt",
+      "length": 2234,
+      "alphaRatio": 0.773
+    }
+  ]
+}

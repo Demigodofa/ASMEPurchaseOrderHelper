@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 165,
+  "globalPageIndex": 963,
+  "width": 627.84,
+  "height": 804.24,
+  "text": "ASME BPVC.II.A-2025 SA-513/SA-513M (ASTM A513/AS13M) \n,,,,----.___ \nTABLE S5.1 Mechanical Properties for Round Tubing \nNorn 1-These values are based on normal mill stress relieving temperatures. For particular applications, properties may be adjusted by negotiation \nbetween purchaser and producer. \nNorn 2-For longitudinal strip tests, the width of the gauge section shall be according to A370 Annex A2, Steel Tubular Products and a deduction of \n0.5 percentage points from the basic minimum elongation for each 1/32 in. [0.8 mm] decrease in wall thickness under 5/16 in. [7.9 mm] in wall thickness \nshall be permitted. \nElongation \nYield Ultimate in 2 in. \nStrength, Strength, [50 mm], \nksi [MPa], ksi [MPa], %, RB RB \nmin min min min max \nAs-Welded Tubin \n1008 30 [205] 42 [290] 15 50 \n1009 30 [205] 42 [290] 15 50 \n1010 32 [220] 45 [310] 15 55 \n1015 35 [240] 48 [330] 15 58 \n,,.---\" 1020 38 [260] 52 [360] 12 62 \n1021 40 [275] 54 [370] 12 62 \n1025 40 [275] 56 [385] 12 65 \n1026 45 [310] 62 [425] 12 68 \n1030 45 [310] 62 [425] 10 70 \n1035 50 [345] 66 [455] 10 75 \n1040 50 [345] 66 [645] 10 75 \n1340 55 [380] 72 [495] 10 80 \n1524 50 [345] 66 [455] 10 75 \n4130 55 [380] 72 [495] 10 80 \n4140 70 [480] 90 [620] 10 85 \nNormalized Tubln \n1008 23 [160] 38 [260] 30 65 \n1009 23 [160] 38 [260] 30 65 \n1010 25 [170] 40 [275] 30 65 \n1015 30 [205] 45 [310] 30 70 \n1020 35 [240] 50 [345] 25 75 \n1021 35 [240] 50 [345] 25 78 \n1025 37 [255] 55 [380] 25 80 \n1026 40 [275] 60 [415] 25 85 \n1030 40 [275] 60 [415] 25 85 \n1035 45 [310] 65 [450] 20 88 \n1040 45 [310] 65 [450] 20 90 \n1340 50 [345] 70 [480] 20 100 \n1524 45 [310] 65 [450] 20 88 \n4130 50 [345] 70 [480] 20 100 \n4140 65 [450) 90 [620] 20 105 \nSink-Drawn Tubin \n1008 38 [260] 48 [330] 8 65 \n1009 38 [260] 48 [330] 8 65 \n1010 40 [275] 50 [345] 8 65 \n1015 45 [310] 55 [380] 8 67 \n1020 50 [345] 60 [415] 8 70 \n1021 52 [360] 62 [425] 7 70 \n1025 55 [380] 65 [450] 7 72 \n1-026 5!L[380] 70 [480] 7 77 \n1030 62 [425] 70 [480] I 78 \n1035 70 [480] 80 [550] 7 82 \nDOM Tubin \n1008 50 [345] 60 [415] 5 73 \n' ... ,~ 1009 50 [345] 60 [415] 5 73 \n1010 50 [345] 60 [415] 5 73 \n1015 55 [380] 65 [450] 5 77 \n1020 60 [415] 70 [480] 5 80 \n1021 62 [425] 72 [495] 5 80 \n1025 65 [450] 75 [515] 5 82 \n1026 70 [480] 80 [550] 5 85 \n1030 75 [515] 85 [585] 5 87 \n1035 80 [550] 90 [620] 5 90 \n1040 80 [550] 90 [620] 5 90 \n1340 85 [585] 95 [655] 5 90 \n1524 80 [550] 90 [620] 5 90 \n4130 85 [585] 95 [655] 5 90 \n4140 100 [690] 110 [Z60] 5 90 \nDOM Stress-Relieved Tubing \n1008 45 [310] 55 [380] 12 68 \n1009 45 [310] 55 [380] 12 68 \n/ \n1010 45 [310] 55 [380] 12 68 \n1015 50 [345] 60 [415] 12 72 \n863 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0963.json",
+  "tabulaTablesCsv": "tables_tabula/page-0963.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0963.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2609,
+  "bestTextAlphaRatio": 0.2296
+}

@@ -1,0 +1,23 @@
+ASME BPVC.II.A-2025 
+MANDATORY APPENDIX I 
+STANDARD UNITS FOR USE IN EQUATIONS 
+Table 1-1 
+Standard Units for Use in Equations 
+Quantity U.S. Customary Units SI Units 
+Linear dimensions (e.g., length, height, thickness, radius, diameter) inches (in.) millimeters (mm) 
+Area square inches (in.2) square millimeters (mm 2 ) 
+Volume cubic inches (in. 3 ) cubic millimeters (mm 3 ) 
+Section modulus cubic inches (in. 3 cubic millimeters (mm 3 
+Moment of inertia of section inches 4 (in. 4 millimeters 4 (mm 4 
+Mass (weight) pounds mass (Ihm) kilograms (kg) 
+Force (load) pounds force (!bf) newtons (N) 
+Bending moment inch-pounds (in.-lb) newton-millimeters (N•mm) 
+Pressure, stress, stress intensity, and modulus of elasticity pounds per square inch (psi) megapascals (MPa) 
+Energy (e.g., Charpy impact values) foot-pounds (ft-lb) joules (I) 
+Temperature degrees Fahrenheit (°F) degrees Celsius ( 0 C) 
+Absolute temperature Rankine ( 0 R) kelvin (K) 
+Fracture toughness ksi square root inches (ksi '1in.) MPa square root meters (MPa.jm) 
+Angle degrees or radians degrees or radians 
+British thermal units per hour 
+Boiler capacity (Btu/hr) watts (W) 
+1609 

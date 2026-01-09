@@ -1,0 +1,137 @@
+SA-815/SA-815M ASME BPVC.II.A-2025 
+TABLE 3 Tensile and Hardness Requirements 
+Yield Elongation 
+All WP and CR Strength, Tensile in 2 in. 
+Grades min, Strength,A [50 mm] 
+ksi [MPa] ksi [MPa] or 4D, 
+min,% 
+Ferritic Steels: 
+S44627 40 [275] 65 [450]- 20.0 
+90 [620] 
+844626 45 [310] 68 [470]- 20.0 
+93 [640] 
+842900 35 [240] 60 [415]- 20.0 
+85 [585] 
+S43000 35[240] 65 [450]- 20.0 
+90 [620] 
+843036 35 [240] 60 [415]- 20.0 
+85 [585] 
+844600 40 [275] 70 [485]-- 18.0 
+95 [655] 
+Ferritic/Austenitic Steels: 
+S31803 65 [450] 90 [620] 20.0 
+S32101 65 [450] 94 [650] 30.0 
+S32202 65 [450] 94 [650] 30.0 
+832205 65 [450] 95 [655] 20.0 
+832750 80 [550] 116 [800]- 15.0 
+140 [965] 
+832760 80 [550] 109 [750]- 25.0 
+130 [895] 
+832950 70 [485] 100 [690] 15.0 
+839274 80 [550] 116 [800] 15.0 
+832550 80 [550] 110 [760] 15.0 
+Martensitic Steels: 
+841000 30 [205] 70 [485]- 20.0 
+95 [655] 
+841008 30[205] 60[415] 22.0 
+841500 90 [620] 110 [760]- 15.0 
+135 [930] 
+AMinimum unless otheiwise indicated. 
+HBW 
+max 
+190 
+241 
+190 
+190 
+190 
+207 
+290 
+290 
+290 
+290 
+310 
+270 
+290 
+310 
+302 
+207 
+183 
+295 
+tensile test made on the starting material may be certification 
+that the material of hot-finished fittings meets the tensile 
+requirements of this specification provided the heat treatments 
+are the same. For purposes of tensile, yield and elongation 
+requirements listed in Table 3, the tensile specimen shall 
+consist of base metal only. If the purchaser requires results, 
+involving the weld, in addition to the base metal only results, 
+then the S2 supplemental requirement of this specification shall 
+be specified on the purchase order. When S2 is specified, the 
+weld metal must meet only the minimum ultimate tensile 
+strength of Table 3. 
+9. Hardness Requirements 
+9.1 Fittings shall not exceed the maximum hardness shown 
+in Table 3. 
+10. Dimensions 
+10.1 The sizes, shapes, and dimensions of the fittings 
+covered by ASME Bl6.9, ASME B16.ll, MSS SP-43, MSS 
+SP-79, MSS SP-83, MSS SP-95, or MSS SP-97 shall be as 
+specified in those standards. 
+10.2 Fittings of size or shape differing from these standards, 
+but meeting all other requirements of this specification, may be 
+furnished in accordance with Supplementary Requirement S58 
+of Specification A960/A960M. 
+11. Workmanship, Finish, and Appearance 
+11.1 Fittings supplied under this specification shall be 
+examined visually. Selected typical surface discontinuities 
+shall be explored for depth. The fittings shall be free from 
+smface discontinuities that penetrate more than 5 % of the 
+specified nominal wall thickness, except as defined in 11.3 and 
+11 .4, and shall have a workmanlike finish. 
+11.2 Surface discontinuities deeper than 5 % of the specified 
+nominal wall thickness, except as defined in 11.3 and 11.4, 
+shall be removed by the manufacturer by machining or 
+grinding to sound metal, and the repaired areas shall be well 
+faired. The waJl thiclmess at all points shall be at least 87½ % 
+of the specified nominal wall thickness, and the diameters at all 
+points shall be within the specified limits. 
+11.3 Surface checks (fish scale) deeper than 1/64 in. [0.4 mm] 
+shall be removed. 
+11.4 Mechanical marks deeper than 1/16 in. (1.6 mm] shall be 
+rernoved. 
+1 LS When the removal of a surface discontinuity reduces 
+the wall thickness below 87½ % of the specified nominal wall 
+thickness at any point, the fitting shall be subject to rejection or 
+to repair as provided in 11.6. 
+11.6 Repair by Welding: 
+11.6.1 Repair welding, of the base metal by the manufac­
+turer, is pem1issible for fittings made to the dimensional 
+standards listed in HU or for other standard fittings made for 
+stock. Prior approval of the purchaser is required to repair 
+special fittings made to the purchaser's requirements. Repair 
+by welding shall neither exceed 10 % of the outside surface 
+area of the fitting nor 33 1/2 % of the nominal wall thickness. 
+11.6.2 The welding procedure and welders shall be qualified 
+in accordance with Specification A960/A960M. 
+11.6.3 The alloy content (carbon, chromium, nickel, molyb­
+denum, columbium, and titanium) of the deposited weld metal 
+shall be within the same percentage range as permitted for the 
+base metal. (Warning-When selecting the filler metal and 
+welding procedure, consideration should be given to their 
+effect on corrosion resistance in service.) 
+11.6.4 Surface discontinuities deeper than 5 % of the speci­
+fied nominal wall thickness shall be removed by mechanical 
+means or thermal cutting or gouging methods. Cavities pre­
+pared for welding shall be examined by the liquid penetrant 
+method of Practice E165. No cracks shall be permitted in the 
+prepared cavities. 
+11.6.5 The weld repair shall be permanently identified with 
+the welder's stamp or symbol in accordance with Specification 
+A960/ A960M. 
+11.6.6 Weld repair area(s) shall be blended uniformly to the 
+base metal and shall be examined by liquid penetrant in 
+accordance with Practice El65. No cracks shall be permitted in 
+the weld or surrounding ½ in. [13 mm] of base metal. 
+11.6.7 After weld repair, material shall be heat treated in 
+accordance with Section 6. 
+11.7 The fittings shall be cleaned free of scale. 
+1336 

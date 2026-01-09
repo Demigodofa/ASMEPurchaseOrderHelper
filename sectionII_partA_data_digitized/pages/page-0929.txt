@@ -1,0 +1,81 @@
+ASME BPVC.II.A-2025 SA-487 /SA-487M 
+4.1.1 A description of the casting by pattern number or 
+drawing (dimensional tolerances shall be included on the 
+casting drawing), 
+4.1.2 ASTM designation and year of issue, 
+4.1.3 Grade and class of steel, 
+4.1.4 Options in the specification, and 
+4.1.5 The supplementary requirements desired, including 
+the standard of acceptance. 
+5. Heat Treatment 
+5.1 All castings shall receive a heat treatment indicated in 
+Table 1. Preliminary heat treatment prior to final heat 
+treatment, as well as multiple tempering, is permitted. 
+5.2 Heat treatment shall be performed after the castings 
+have been allowed to cool below the transformation range. 
+5.3 The furnace temperature for heat treating shall be 
+effectively controlled by use of recording-type pyrometers. 
+6. Chemical Composition 
+6.1 The steel shall confonn to the requirements as to 
+chemical composition prescribed in Table 2. Except for invest­
+ment castings, product analysis tolerance shall conform to the 
+product analysis tolerance shown in Specification A 703/ 
+A703M. For investment castings, the product analysis toler­
+ance shall conform to the product analysis tolerance shown in 
+Specification A985/ A985M. 
+7. Tensile Requirements 
+7 .1 Tensile properties of steel used for the castings shall 
+conform to the requirements prescribed in Table 3. 
+TABLE 1 Heat Treat Requirement 
+Austenitizing Quenching Cool Tempering 
+Grade Class Temperature, MediaA Temperature, 8 
+min, °F [°C] Below °F [°C] OF [OC] 
+A 1600 [870] A 450 [230] 1100 [595] 
+B 1600 [870] L 500 [260] 1100 [595] 
+C 1600 [870] A or L 500 [260] 1150 [620] 
+2 A 1600 [870] A 450 [230] 1100 [595] 
+2 B 1600 [870] L 500 [260] 1100 [595] 
+2 C 1600 [870] A or L 500 [260] 1150 [620] 
+4 A 1600 [870] Aor L 500 [260] 1100 [595] 
+4 B 1600 [870] L 500 [260] 1100 [595] 
+4 C 1600 [870] Aor L 500 [260] 1150 [620] 
+4 D 1600 [870] L 500 [260] 1150 [620] 
+4 E 1600 [870] L 500 [260] 1100 [595] 
+6 A 1550 [845] A 500 [260] 1100 [595] 
+6 B 1550 [845] L 500 [260] 1100 [595] 
+7 A 1650 [900] L 600 [315] 1100 [595] 
+8 A 1750 [955] A 500 [260] 1250 [675] 
+8 B 1750 [955] L 500 [260] 1250 [675] 
+8 C 1750 [955] L 500 [260] 1250 [675] 
+9 A 1600 [870] A or L 500 [260] 1100 [595] 
+9 B 1600 [870] L 500 [260] 1100 [595] 
+9 C 1600 [870] A or L 500 [260] 1150 [620] 
+9 D 1600 [870] L 500 [260] 1150 [620] 
+9 E 1600 [870] L 500 [260] 1100 [595] 
+10 A 1550 [845] A 500 [260] 1100 [595] 
+10 B 1550 [845] L 500 [260] 1100 [595] 
+11 A 1650 [900] A 600 [315] 1100 [595] 
+11 B 1650 [900] L 600 [315] 1100 [595] 
+12 A 1750 [955] A 600 [315] 1100 [595] 
+12 B 1750 [955] L 400 [205] 1100 [595] 
+13 A 1550 [845] A 500 [260] 1100 [595] 
+13 B 1550 [845] L 500 [260] 1100 [595] 
+14 A 1550 [845] L 500 [260] 1100 [595] 
+16 A 1600 [870]c A 600 [315] 1100 [595] 
+17 A 1590 [865]c L 500 [260] 1095 [590jF,G 
+CA15 A 1750 [955] Aor L 400 [205] 900 [480] 
+CA15 B 1750 [955] Aor L 400 [205] 1100 [595] 
+CA15 C 1750 [955] A or L 400 [205] 1150 [620] 0 ·£ 
+CA15 D 1750 [955] A or L 400 [205] 1150 [620] 0 ,£ 
+CA15M A 1750 [955] Aor L 400 [205] 1100 [595] 
+CA6NM A 1850 [1010] A or L 200 [95] 1050-1150 [565-620] 
+CA6NM B 1850 [1010] Aor L 200 [95] 1225-1275 [665-690jE"•F 
+1050-1150 [565-620]G 
+A A= air, L = liquid. 
+8 Minimum temperature unless a range is specified. 
+c Double austenitize. 
+0 Double temper with the final temper at a lower temperature than the intermediate temper. 
+£ Air cool to below 200 °F [95 °C] after first temper. 
+F Intermediate. 
+a Final. 
+829 

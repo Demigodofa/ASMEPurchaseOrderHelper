@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 406,
+  "globalPageIndex": 1204,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "SA-675/SA-675M ASME BPVC.II.A-2025 \nSPECIFICATION FOR STEEL BARS, CARBON, \nHOT-WROUGHT, SPECIAL QUALITY, \nMECHANICAL PROPERTIES \nSA-675/SA-675M \n[Identical with ASTM Specification A 675/ A 675M-03(2009) except that Supplementary Requirement S7 has Grades 65 and 70 added, and S7 is \nmandatory. Sections 4.1.9 and 10 revised to make certification mandatory.] \n1. Scope \n1.1 This specification covers hot-wrought special qual\u00ad\nity carbon steel bars and bar size shapes produced to \nmechanical property requirements and intended for general \nconstructional applications. \n1.2 The bars are available in nine strength grades desig\u00ad\nnated 45, 50, 55, 60, 65, 70, 75, 80, and 90 [310, 345, \n380, 415, 450, 485, 515, 550, and 620] corresponding to \nthe minimum ultimate tensile strength in ksi [MPa]. The \nchemical composition is selected by the manufacturer to \ndevelop the required mechanical properties. \n1.3 Hot-wrought special quality carbon steel bars sub\u00ad\nject to mechanical property requirements are hot wrought \nin straight lengths only. Sections and sizes available are \ncovered in Specification A 29 / A 29M. \n1.4 Some applications may require one or more of the \navailable designations shown under Supplementary \nRequirements. \nNOTE 1 - Merchant-quality hot-wrought carbon steel bars subject to \nmechanical property requirements are covered in Specification \nA663/A663M. \n1.5 The values stated in either inch-pound units or SI \nunits are to be regarded separately as the standard. Within \nthe text, the SI units are shown in brackets. The values \nstated in each system are not equivalents, therefore each \nsystem must be used independently of the other. Combining \nvalues from the two systems may result in nonconfonnance \nwith the specification. \n2. Referenced Documents \n2.1 ASTM Standards: \nA 29 / A 29M Specification for Steel Bars, Carbon and \nAlloy, Hot-Wrought and Cold-Finished, General \nRequirements for \nA 370 Test Methods and Definitions for Mechanical Test\u00ad\ning of Steel Products \nA 663 / A 663M Specification for Steel Bars, Carbon, Mer\u00ad\nchant Quality, Mechanical Properties \nE 290 Test Method for Semi-Guided Bend Test for Ductil\u00ad\nity of Metallic Materials \n3. Terminology \n3.1 Definitions of Terms Specific to This Standard: \n3.1.1 special quality - Special quality bars are used \nwhen end use, method of fabrication, or subsequent pro\u00ad\ncessing treatment requires quality characteristics not avail\u00ad\nable in merchant quality. Typical applications involve \nbending or machining for general constructional uses. \nSome end uses or fabricating procedures can necessitate \none or more requirements which are described in the Sup\u00ad\nplementary Requirements. \n4. Ordering Information \n4.1 Orders for material under this specification should \ninclude the following information: \n4.1.1 Quantity (weight or number of pieces), \n4.1.2 Name of material (hot-wrought special qual\u00ad\nity bars), \n4.1.3 Dimensions, including length, \n4.1.4 Cross section (round, square, hexagon, equal \nleg angle, etc.), \n4.1.5 Specification designation and date of issue, \n4.1.6 Grade designation (Table 1), \n4.1.7 Leaded steel, if required (6.2), \n1114 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 1,
+  "tabulaTablesPath": "tables_tabula/page-1204.json",
+  "tabulaTablesCsv": "tables_tabula/page-1204.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-1204.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 3136,
+  "bestTextAlphaRatio": 0.7366
+}

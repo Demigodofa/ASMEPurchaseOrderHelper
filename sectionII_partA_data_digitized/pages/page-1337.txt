@@ -1,0 +1,111 @@
+ASME BPVC.II.A-2025 SA-788/SA-788M 
+intended to increase and may be contained by a radially 
+oriented tapered roller. 
+3.3.6 saddening, n-term used in the open die forging 
+industry to describe the initial hot working of an ingot for 
+surface compaction and flute working surface prior to full 
+working of the ingot cross section. 
+3.3.6.1 Discussion-The term is also extended to initial hot 
+working intended to give consolidation of ingot central areas 
+prior to upsetting when making products such as turbine and 
+generator rotors and tube sheets. 
+3.3.7 slab forging, n-forging, sometimes referred to as a 
+forged plate, that is usually square or rectangular in shape, with 
+a thickness appreciably smaller than the other dimension. The 
+hot working may include upsetting. 
+3.4 billets and blooms, n-interchangeable terms represent­
+ing hot-worked semi-finished product intended as a starting 
+stock for making forgings. 
+3.4.1 Discussion-No size limitations are assumed for ei­
+ther term. Cast shapes produced by a continuous casting 
+process, without subsequent work, are considered to be ingots 
+for the purposes of this specification, and if supplied as billets 
+or blooms must carry the descriptor Cast Billet or Cast Bloom. 
+3.5 Definitions of Terms Specific to This Standard: 
+3.5.1 bottom pouring, n-steel from a single heat, or from a 
+multiple heat tapped into a common ladle (see 8.1.1 and 8.1.2), 
+introduced into ingot mold(s) such that they are filled from the 
+bottom up. One or more molds can be set up on an individual 
+plate, and more than one plate may be poured in sequence from 
+a heat. 
+3.5.2 ingot, n-the product obtained when molten steel, 
+upon being cast into a mold, is subsequently capable of being 
+wrought in conformance with 3.1. Open-ended molds, which 
+are usually cooled and used, for example, in the continuous 
+casting of steel, are considered to be included in this definition. 
+3.5.3 intercritical heat treatment, n-use of a multi-stage 
+heat treatment procedure in which the material is first austen­
+itized at a temperature above the upper critical temperature 
+(Ac3) followed by cooling below the lower critical temperature 
+(Acl). The material is then reheated to a temperature in the 
+intercritical range between the Acl and the Ac3 and again 
+cooled below the Ac 1, followed by subcritical tempering in the 
+range specified in the material specification. 
+3.5.3.1 Discussion-This procedure is generally applicable 
+to low hardenability carbon and low alloy steels that would 
+usually have a microstructure of ferrite and pearlite in the heat 
+treated section size of the component being heat treated. 
+3.5.4 precipitation deoxidation, n-steelmaking process in 
+which primary deoxidation is achieved by the addition of 
+strong deoxidizing agents, such as aluminum, early in the 
+process, and holding the steel in the molten state for sufficient 
+time for the products of deoxidation to separate from the melt 
+to the slag. 
+3.5.5 sequential or continuous strand casting, n-steel from 
+several heats poured consecutively into a cooled open-ended 
+mold to form a continuous cast product with a change from 
+heat to heat along its length (see 8.1.5). 
+3.5.6 strand casting, n-steel from one heat poured into a 
+cooled open-ended mold to form a continuous strand or 
+strands. 
+3.5.7 vacuum carbon deoxidation (VCD), n-steelmaking 
+process in which primary deoxidation occurs during vacuum 
+treatment as a result of the carbon-oxygen reaction. In order for 
+primary deoxidation to occur during vacuum treatment, deoxi­
+dizing agents such as aluminum or silicon are not to be added 
+to the melt in any significant amount prior to the vacuum 
+treatment operation. 
+4. Ordering Information 
+4.1 It shall be the responsibility of the purchaser to specify 
+all requirements that are necessary for forgings under the 
+applicable product specification. Such requirements to be 
+considered include, but are not restricted to, the following: 
+4.1.1 Quantity, 
+4.1.2 Dimensions, including tolerances and surface finishes. 
+4.1.3 Specification number with type, class, and grade as 
+applicable (including year date), and should include: 
+4.1.4 Number of copies of the material test report. 
+4.1.5 Choice of testing track from the options listed in Test 
+Methods A1058 when forgings are ordered to a suffix M 
+product standard. If the choice of test track is not made in the 
+ordering information then the default ASTM track shall be used 
+as noted in Test Methods A1058. 
+4.2 Additional information including the following may be 
+added by agreement with the supplier: 
+4.2.1 Type of heat treatment when alternative methods are 
+allowed by the product specification, 
+4.2.2 Supplementary requirements, if any, and 
+4.2.3 Additional requirements (see 1.4, 16.1.5, and 16.1.6). 
+4.2.4 Repair welding NOT permitted. 
+4.3 For dual format specifications, unless otherwise 
+specified, the inch-pound units shall be used. 
+5. Melting Process 
+5.1 Unless otherwise specified in the product specification, 
+the steel shall be produced by any of the following primary 
+processes: electric-furnace, basic oxygen, vacuum-induction 
+(VIM), or open-hearth. The primary melting may incorporate 
+separate degassing or refining and may be followed by second­
+ary melting, using electro slag remelting (ESR) or vacuum arc 
+remelting (VAR). 
+5.1.1 The steel shall be fully killed. 
+5.2 The molten steel may be vacuum-treated prior to or 
+during pouring of the ingot. 
+5.2.1 When vacuum treatment of the molten steel is re­
+quired by the product specification the following conditions 
+shall apply: 
+5.2.1.1 When the vacuum stream degassing process is used, 
+the vacuum system must be of sufficient capacity to effect a 
+blank-off pressure low enough (usually less than 1000 µm) to 
+break up the normal tight, rope-like stream of molten metal 
+into a wide-angled conical stream of relatively small droplets. 
+1275 

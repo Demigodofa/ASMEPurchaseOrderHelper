@@ -1,0 +1,102 @@
+SA-335/SA-335M (ASTM A335/A335M) ASME BPVC.II.A-2025 
+Vickers, or Rockwell hardness tests shall be made on one 
+specimen from each lot. For pipe of all other grades, a hardness 
+test is not required. 
+14.4 Flattening Test: 
+14.4.1 The flattening test of Specification A999/A999M 
+shall be made on a specimen from one end of the pipe with the 
+number of tests as specified in 14.2. Crop ends may be used. If 
+a specimen from any length fails because of lack of ductility 
+prior to satisfactory completion of the first step of the flattening 
+test requirement, that pipe shall be rejected subject to retreat­
+ment in accordance with Specification A999/ A999M and 
+satisfactory retest. If a specimen from any length of pipe fails 
+because of a lack of soundness that length shall be rejected, 
+unless subsequent retesting indicates that the remaining length 
+is sound. 
+14.5 Bend Test: 
+14.5.1 For pipe whose diameter exceeds NPS 25 and whose 
+diameter to wall thickness ratio is 7.0 or less shall be subjected 
+to the bend test instead of the flattening test. Other pipe whose 
+diameter equals or exceeds NPS 10 may be given the bend test 
+in place of the flattening test subject to the approval of the 
+purchaser. 
+14.5.2 The bend test specimens shall be bent at room 
+temperature through 180° without cracking on the outside of 
+the bent portion. The inside diameter of the bend shall be 1 in. 
+[25 mm]. 
+14.5 .3 Test specimens for the bend test shall be cut from one 
+end of the pipe with the number of tests as specified in 14.2 
+and, unless otherwise specified, shall be taken in a transverse 
+direction. One test specimen shall be taken as close to the outer 
+surface as possible and another from as close to the inner 
+surface as possible. The specimens shall be either ½ by ½ in. 
+[12.5 by 12.5 mm] in section or 1 by ½ in. [25 by 12.5 mm] in 
+section with the comers rounded to a radius not over 1/16 in. 
+[1.6 mm] and need not exceed 6 in. [150 mm] in length. The 
+side of the samples placed in tension during the bend shall be 
+the side closest to the inner and outer surface of the pipe, 
+respectively. 
+15. Certification 
+15.1 Certification and test reports, as described in Section 
+25 of Specification A999/A999M, are required. 
+15.2 In addition to the information required by Specification 
+A999/ A999M, the certification shall state whether or not the 
+pipe was hydrostatically tested. If the pipe was nondestruc­
+tively examined, the certification shall so state and shall show 
+which practice was followed and what reference discontinuities 
+were used. In addition, the test method information as given in 
+Table 9 shall be appended to the specification number and 
+grade shown on the certification. 
+16. Product Marking 
+16.1 In addition to the marking prescribed in Specification 
+A999/A999M, the marking shall include the length, an addi­
+tional symbol "S", if the pipe conforms to any of the Supple­
+mentary Requirements Sl to S6, the schedule number, if the 
+pipe is ordered to a schedule number, and the heat number or 
+manufacturer's number by which the heat can be identified. 
+Furthermore, the marking designated in Table 9 to indicate the 
+test method(s) shall be included. Marking may be by stenciling, 
+stamping, or rolling. Pipe that has been weld repaired in 
+accordance with 7.6 shall be marked "WR." 
+16.2 P91 shall be additionally marked with the appropriate 
+Type. 
+17. Government Procurement 
+17 .1 Scale Free Pipe: 
+17 .1.1 When specified in the contract or order, the following 
+requirements shall be considered in the inquiry contract or 
+order, for agencies of the U.S. Government where scale free 
+pipe is required. These requirements shall take precedence if 
+there is a conflict between these requirements and the product 
+specification. 
+17 .1.2 The requirements of Specification A999/ A999M for 
+pipe shall be applicable when pipe is ordered to this specifi­
+cation. 
+17 .1.3 Pipe shall be one of the following grades as specified 
+herein: 
+Grade 
+P11 
+P22 
+P5 
+17.1.4 Part Number: 
+UNS Designation 
+K11597 
+K21590 
+K41545 
+TABLE 9 Test Method Information for Certification and Marking 
+Ultrasonic Flux Leakage Eddy Current Hydrostatic Marking 
+NO NO NO YES TEST PRESSUREA 
+YES NO NO NO UT 
+NO YES NO NO FL 
+NO NO YES NO EC 
+YES YES NO NO UT/FL 
+YES NO YES NO UT/EC 
+NO NO NO NO NH 
+YES NO NO YES UT/TEST 
+PRESSUREA 
+NO YES NO YES FL/TEST 
+PRESSUREA 
+NO NO YES YES EC/TEST 
+PRESSUREA 
+ATest pressure is to be in psi [MPa]. 
+514 

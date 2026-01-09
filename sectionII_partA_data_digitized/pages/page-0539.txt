@@ -1,0 +1,129 @@
+ASME BPVC.11.A-2025 SA-333/SA-333M 
+TABLE 3 Impact Requirements for Grades 1, 3, 4, 6, 7, 9, 10, and 
+11 
+Minimum Average Notched Minimum Notched Bar 
+Bar Impact Value of Impact Value of One 
+Size of Each Set of Three Specimen Only of 
+Specimen, mm SpecimensA a SetA 
+ft-lb! J ft,lbf J 
+10 by 10 13 18 10 14 
+10 by 7.5 10 14 8 11 
+10 by 6.67 9 12 7 9 
+10 by 5 7 9 5 7 
+10 by 3.33 5 7 3 4 
+10 by 2.5 4 5 3 4 
+A Straight line interpolation for intermediate values is permitted. 
+TABLE 4 Impact Temperature 
+Grade 
+3 
+4 
+6 
+7 
+8 
+9 
+10 
+ii 
+Minimum Impact Test Temperature 
+°F °C 
+-50 -45 
+-150 -100 
+-150 -100 
+-50 -45 
+-100 -75 
+-320 -195 
+-100 -75 
+-75 -60 
+-320 -195 
+4.2.7.1 Each set of weld metal impact test specimens shall 
+be taken across the weld with the notch in the weld metal. Each 
+test specimen shall be oriented so that the notch is normal to 
+the surface of the material and one face of the specimen shall 
+be within 1/16 in. [1.5 mm] of the surface of the material. 
+4.2.7.2 Each set of heat affected zone impact test specimens 
+shall be taken across the weld and of sufficient length to locate, 
+after etching, the notch in the heat affected zone. The notch 
+shall be cut approximately normal to the surface of the material 
+in such a manner as to include as much heat affected zone 
+material as possible in the resulting fracture. 
+NoTE 3-The term "lot" applies to all pipe (may include more than one 
+heat of steel) within a 3/16 in. [4.7 mm] range of thickness and welded to 
+the weld procedure, and when heat treated, clone to the same heat-treating 
+procedure and in the same furnace. The maximum lot size shall be 200 
+linear ft [60 m] of pipe. 
+4.3 Heat Treatment: 
+4.3.1 All seamless and welded pipe, other than Grades 8 and 
+11, shall be treated to control their microstructure in accor­
+dance with one of the following methods: 
+4.3.l.1 Normalize by heating to a uniform temperature of 
+not less than 1500 °P [815 °C] and cool in air or in the cooling 
+chamber of an atmosphere controlled furnace. 
+4.3.l.2 Normalize as in 4.3.1.1, and, at the discretion of the 
+manufacturer, reheat to a suitable tempering temperature. 
+4.3.1.3 For the seamless process only, reheat and control hot 
+working and the temperature of the hot-finishing operation to a 
+finishing temperature range from 1550 to 1750 °P [845 to 945 
+°C] and cool in air or in a controlled atmosphere furnace from 
+an initial temperature of not less than 1550 °P [845 °C]. 
+4.3.1.4 Treat as in 4.3. l.3 and, at the discretion of the 
+manufacturer, reheat to a suitable tempering temperature. 
+4.3.1.5 Seamless pipe of Grades 1, 6, and 10 may be heat 
+treated by heating to a uniform temperature of not less than 
+1500 °P [815 °C], followed by quenching in liquid and 
+reheating to a suitable tempering temperature, in place of any 
+of the other heat treatments provided for in 4.3.1. 
+4.3.2 Grade 8 pipe shall be heat treated by the manufacturer 
+by either of the following methods: 
+4.3.2.1 Quenched and Tempered-Heat to a uniform tem­
+perature of 1475 :±: 25 °P [800 :±: 15 °C]; hold at this 
+temperature for a minimum time in the ratio of 1 h/in. [2 
+min/mm] of thickness, but in no case less than 15 min; quench 
+by immersion in circulating water. Reheat until the pipe attains 
+a unifonn temperature within the range from 1050 to 1125 °P 
+[565 to 605 °C]; hold at this temperature for a minimum time 
+in the ratio of I h/in. [2 min/mm] of thickness, but in no case 
+less than 15 min; cool in air or water quench at a rate no less 
+than 300 °P [165 °C]/h. 
+4.3.2.2 Double Normalized and Tempered-Heat to a uni­
+form temperature of 1650 :±: 25 °P [900 :±: 15 °C]; hold at this 
+temperature for a minimum time in the ratio of 1 h/in. [2 
+min/mm] of thickness, but in no case less than 15 min; cool in 
+air. Reheat until the pipe attains a unifonn temperature of 1450 
+:±: 25 °P [790 :±: 15 °C]; hold at this temperature for a 
+minimum time in the ratio of 1 h/in. [2 min/mm] of thickness, 
+but in no case less than 15 min; cool in air. Reheat to nmiform 
+temperature within the range from 1050 to 1125 °P [565 to 605 
+0 C]; hold at this temperature for a minimum time of 1 h/in. [2 
+min/mm] of thickness but in no case less than 15 min; cool in 
+air or water quench at a rate not less than 300 °P [165 °C]/h. 
+4.3.3 Whether to anneal Grade 11 pipe is per agreement 
+between purchaser and supplier. When Grade 11 pipe is 
+annealed, it shall be normalized in the range of 1400 to 1600 °P 
+[760 to 870 °C]. 
+4.3.4 Material from which test specimens are obtained shall 
+be in the same condition of heat treatment as the pipe 
+furnished. Material from which specimens are to be taken shall 
+be heat treated prior to preparation of the specimens. 
+4.3.5 When specified in the order the test specimens shall be 
+taken from full thi.ckness test pieces which have been stress 
+relieved after having been removed from the heat-treated pipe. 
+The test pieces shall be gradually and uniformly heated to the 
+prescribed temperature, held at that temperature for a period of 
+time in accordance with Table 5, and then furnace cooled at a 
+temperature not exceeding 600 °P [315 °C]. Grade 8 shall be 
+487 
+TABLE 5 Stress Relieving of Test Pieces 
+Metal TemperatureA,a Minimum Holding 
+Grades 1, 3, 6, 7, and 1 0 Grade 4c Time, 
+"F "C "F "C 
+h/in. [min/mm] 
+of Thickness 
+1100 600 1150 620 1 [2.4] 
+1050 565 1100 600 2 [4.7] 
+1000 540 1050 565 3 [7.1] 
+A For intermediate temperatures, the holding time shall be determined by straight­
+line interpolation. 
+8 Grade 8 shall be stress relieved at 1025 to 1085 °F, [550 to 585 °C], held for a 
+minimum time of 2 h for thickness up to 1.0 in. [25.4 mm], plus a minimum of 1 h 
+for each additional inch [25.4 mm] of thickness and cooled at a minimum rate of 
+300 °F [165 °C]/h in air or water to a temperature not exceeding 600 °F [315 °C]. 
+c Unless otherwise specified, Grade 4 shall be stress relieved at 1150 °F [620 °C]. 

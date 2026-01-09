@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 215,
+  "globalPageIndex": 215,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "ASME BPVC.II.A-2025 SA-105/SA\u00b7lOSM \nSPECIFICATION FOR CARBON STEEL FORGINGS FOR \nPIPING APPLICATIONS \nSA-105/SA-tOSM \n(Identical with ASTM Specification Al0S/Al0SM-21 except for addition of Footnote A call out next to vanadium com\u00ad\nposition limit in Table 1 and deletion of (mm) from the thickness variable (T) in Table 3 Note minimum elongation \nformula .. ) \n163 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0215.json",
+  "tabulaTablesCsv": "tables_tabula/page-0215.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-0215.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 365,
+  "bestTextAlphaRatio": 0.7315
+}

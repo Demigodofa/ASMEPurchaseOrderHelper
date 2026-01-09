@@ -1,0 +1,48 @@
+5/15 18,0.0524,3 100,3 100,5 240,,7 .2 Unless otherwise specified, Grade A bolts shall be hex
+% 16,0.0775,4 650,4 650,7 750,,bolts with dimensions as given in the latest issue of ASME
+7/16 14,0.1063,6 350,6 350,10 630,,
+,,,,,,B18.2.1. Unless otherwise specified, Grade B bolts shall be
+1⁄2 13,0.1419,8 500,8 500,14 190,,heavy hex bolts with dimensions as given in the latest issue of
+9/1e 12,0.182,11 000,11 000,18 200,,ASME B18.2.1.
+% 11,0.226,13 550,13 550,22 600,,
+3⁄4 10,0.334,20 050,20 050,33 400,,7.3 Unless otherwise specified, bolts and studs to be used
+7/s 9,0.462,27 700,27 700,46 200,,with nuts or tapped holes which have been tapped oversize, in
+8,0.606,36 350,36 350,60 600,,accordance with Specification A563, shall have Class 2A
+11/s 7,0.763,45 800,45 800,76 300,,threads before hot-dip or mechanically deposited zinc coating.
+11⁄4 7,0.969,58 150,58 150,96 900,,After zinc coating the maximum limit of pitch and major
+1% 6,1.155,69 300,69 300,115 500,,
+,,,,,,diameter shall not exceed the Class 2A maximum limit by more
+11⁄2 6,1.405,84 300,84 300,140 500,,than the following amounts:
+13⁄4 5,1.90,114 000,114 000,190 000,,
+2 41⁄2,2.50,150 000,150 000,250 000,,Diameter, in. Oversize Limit, in. (mmjA
+21⁄4 41⁄2,3.25,195 000,195 000,325 000,,1⁄4 0.016
+,,,,,,5/16, % 0.017
+7f1e, 1⁄2 21⁄2 4,4.00,240 000,240 000,400 000,,O.D18
+23⁄4 4,4.93,295 800,295 800,493 000,,9/10 to 3⁄4, incl 0.020
+,,,,,,7/s
+3 4,5.97,358 200,358 200,597 000,,0.022
+31⁄4 4,7.10,426 000,426 000,710 000,,1.0 to 11⁄4, incl 0.024
+,,,,,,1%,11⁄4 0.027
+31⁄2 4,8.33,499 800,499 800,833 000,,13⁄4  to 4.0, incl 0.050
+33⁄4 4,9.66,579 600,579 600,966 000,,A These values are the same as the overlapping required for zinc-coated nuts in
+4 4,11.08,664 800,664 800,108 000,,Specification A563.
+A Area calculated from the equation:,,,,,,
+,As= 0.7854 [D -,(0.9743/n)l 2,,,,
+where:,,,,,,7.4 The gaging limit for bolts and studs shall be verified
+,,,,,,during manufacture or use by assembly of a nut tapped as
+As,,stress area,,,,,nearly as practical to the amount oversize shown above. In case
+D,nominal diameter of bolt, and,,,,,
+n,,threads per inch.,,,,of dispute, a calibrated thread ring gage of that same size
+,,,,,,(Class X tolerance, gage tolerance plus) shall be used. Assem­
+8 1 lbf = 4.448 N.,,,,,,
+,,,,,,bly of the gage, or the nut described above, must be possible
+c Based on 60 ksi (414 MPa).,,,,,,
+0 with hand effort following application of light machine oil to Based on 60-100 ksi (414-690 MPa).,,,,,,
+,,,,,,prevent galling and damage to the gage. These inspections,
+,,,,,,when perfo1med to resolve disputes, shall be performed at the
+,,,,,,frequency and quality described in Table 5.
+6.4 Grades A and B bolts and studs less than three diameters,,,,,,
+in length or bolts with drilled or undersize heads are not subject,,,,,,8. Number of Tests and Retests
+to tensile tests.,,,,,,8.1 The requirements of this specification shall be met in
+6.5 In the event that bolts are tested by both full size and by,,,,,,continuous mass production for stock, and the manufacturer
+machine test specimen methods, the full-size test shall govern,,,,,,shall make sample inspections to ensure that the product

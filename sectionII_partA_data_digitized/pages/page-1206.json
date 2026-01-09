@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 408,
+  "globalPageIndex": 1206,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "SA-675/SA-675M ASME BPVC.II.A-2025 \nSUPPLEMENTARY REQUIREMENTS \nOne or more of the following supplementary requirements shall apply only when specified \nby the purchaser in the inquiry, contract, or order. Details of these supplementary require\u00ad\nments shall be agreed upon in writing by the manufacturer and purchaser. Supplementary \nrequirements shall in no way negate any requirements of the specification itself. \nSl. Grain Size \nSl.1 The steel shall conform to the coarse austenitic \ngrain size requirement, or the fine austenitic grain size \nrequirement of Specification A 29 / A 29M. \nS2. Thermal Treatment \nS2.l When required, the purchaser may specify that \nthe material be stress relieved. \nS3. Special Straightness \nS3.1 Bars may be specified to special straightness toler\u00ad\nance (refer to Specification A 29 / A 29M). \nS4. Cleaning \nS4.1 The purchaser may specify that the surface of \nbars be descaled by pickling or blast cleaning. \nSS. Coating \nSS.l The purchaser may specify oil on bars that have \nbeen descaled. \nS6. Bend Requirement \nS6.1 Bend requirements for Grade 90 [620] may be \nspecified. The bend ratio shall be as agreed upon. Bend \nrequirements for all other grades, when specified, shall be \nas specified in Table 3. \nS7. Carbon Restriction \nS7.1 On Grades 45 [310], 50 [345], 55 [380], 60 [415], \n65 [450], and 70 [485], carbon shall be 0.35% max. \n1118 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1206.json",
+  "tabulaTablesCsv": "tables_tabula/page-1206.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-1206.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1380,
+  "bestTextAlphaRatio": 0.7196
+}

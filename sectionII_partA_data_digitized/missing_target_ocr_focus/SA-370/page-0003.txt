@@ -1,0 +1,54 @@
+ASME BPVC.ILA-2025 SA-370
+— 2. Referenced Documents 3.1.1 For definitions of terms pertaining to mechanical
+| 2.1 ASTM Standards: testing of steel products not otherwise listed in this section,
+A623 Specification for Tin Mill Products, General Require- TO should be made to Terminology E6 and Terminology
+A
+ments " .
+A623M Specification for Tin Mill Products, General Re- 3.2 Definitions of Terms Specific to This Standard.
+quirements [Metric] 3.2.1 longitudinal test, n—unless specifically defined
+A833 Test Method for Indentation Hardness of Metallic  therwise, signifies that the lengthwise axis of the specimen is
+Materials by Comparison Hardness Testers parallel to the direction of the greatest extension of the steel
+A941 Terminology Relating to Steel, Stainless Steel, Related  ‘uting rolling or forging. . ——
+Alloys, and Ferroalloys 3.2.1.1 Discussion—The stress applied to a longitudinal
+A956/ A956M Test Method for Leeb Hardness Testing of tension test specimen is in the direction of the greatest
+Steel Products | extension, and the axis of the fold of a longitudinal bend test
+A1038 Test Method for Portable Hardness Testing by the specimen is at right angles to the direction of greatest extension
+Ultrasonic Contact Impedance Method (see Fig. 1, Fig. 2a, and Fig. 2b).
+a A1058 Test Methods for Mechanical Testing of Steel 3.2.2 radial test, n—unless specifically defined otherwise,
+. Products—Metric signifies that the lengthwise axis of the specimen is perpen-
+A1061/A1061M Test Methods for Testing Multi-Wire Steel dicular to the axis of the product and coincident with one of the
+Prestressing Strand radii of a circle drawn with a point on the axis of the product
+E4 Practices for Force Calibration and Verification of Test- as a center (see Fig. 2a).
+ing Machines . 3.2.3 tangential test, n—unless specifically defined
+E6 Terminology Relating to Methods of Mechanical Testing —_ otherwise, signifies that the lengthwise axis of the specimen
+E8/E8M Test Methods for Tension Testing of Metallic Ma- _ perpendicular to a plane containing the axis of the product and
+terials tangent to a circle drawn with a point on the axis of the
+E10 Test Method for Brinell Hardness of Metallic Materials productas a center (see Fig. 2a, Fig. 2b, Fig. 2c, and Fig. 2d).
+ere eet Methods for Rockwell Hardness of Metallic Ma- 3.2.4 transition temperature, n—for specification purposes,
+, the transition temperature is the temperature at which the
+ne io s for Notched Bar Impact Testing of Me- designated material test value equals or exceeds a specified
+. ; i, tou minimum test value.
+Oe ce or ing Sienine S teas in est Data to 3.2.4.1 Discussion—Some of the many definitions of tran-
+| E83 Practice for Verification and Classification of Exten- sition temperature currently being used are: (1) the lowest
+someter Systems temperature at which the specimen exhibits: 100 % fibrous
+fracture, (2) the temperature where the fracture shows a 50 %
+o hetathe Materials by Portable ee teste of crystalline and a 50 % fibrous appearance, (3) the temperature
+E190 Test Method for Guided Bend Test for Ductility of corresponding to the energy value 50 % of the difference
+Welds
+E290 Test Methods for Bend Testing of Material for Ductil-
+LSJ
+ASME Boiler and Pressure Vessel Code, Section VIII, —_ _ — ——3
+Division I, Part UG-8 on nar ee
+2.3 ISO Standard: ONT SD est
+ISO/IEC 17025 General Requirements for the Competence voerppa ee “
+oo. of Testing and Calibration Laboratories BEND TEST ga
+3. Terminology Remco Ce
+3.1 Definitions: pace Teer
+teed TRESSMEREE SPECIMEN
+| TENSION TEST
+BEND TEST Semen” LE
+transverse Cle"
+IMPACT TEST
+FIG. 1 Relation of Test Coupons and Test Specimens to Rolling
+NK Direction or Extension (Applicable to General Wrought Products)
+585

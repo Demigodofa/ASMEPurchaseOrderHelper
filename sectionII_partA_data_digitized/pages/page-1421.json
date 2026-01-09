@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 623,
+  "globalPageIndex": 1421,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "Element \nCarbon \nManganese \nPhosphorus \nSulfur \nSilicon \nNickel \nChromium \nMolybdenum \nCopper \nVanadium \nColumbium \n(NiobiumjA \nAluminum \nTitanium \nBoron \nASME BPVC.II.A-2025 \nTABLE 2 Product Analysis Tolerances \nTolerances, % \nSpecified Limit, % \nto 0.15, incl \nover 0.15 \nto 0.60, incl \nover 0.60 to 0.90, incl \nover 0.90 to 1.20, incl \nover 1.20 to 1.35, incl \nover 1.35 to 1.65, incl \nove.r 1.65 \nto 0.020, incl \nover 0.020 \nto 0.020, incl \nover 0.020 \nto 0.30, incl \nover 0.30 to 0.40, incl \nover 0.40 \nto 1.00, incl \nover 1.0 to 2.0, incl \nover 2.0 to 3.8, incl \nover 3.8 \nto 0.90, incl \nto 0.20, incl \nover 0.20 \nto 1.00, incl \nto 0.10, incl \nto 0.1 o, incl \nto 0.15, incl \nto 0.010, incl \nover 0.010 \nany \nUnder \nMinimum \nLimit \n0.02 \n0.03 \n0.05 \n0.06 \n0.08 \n0.09 \n0.09 \n0.11 \n0.02 \n0.05 \n0.06 \n0.03 \n0.05 \n0.07 \n0.08 \n0.04 \n0.01 \n0.03 \n0.03 \n0.01 \n0.01 \n0.005 \n0.002 \n0.01 \nB \nOver \nMaximum \nLimit \n0.03 \n0.04 \n0.06 \n0.08 \n0.10 \n0.11 \n0.12 \n0.14 \n0.005 \n0.010 \n0.005 \n0.010 \n0.03 \n0.05 \n0.06 \n0.03 \n0.05 \n0.07 \n0.08 \n0.04 \n0.01 \n0.03 \n0.03 \n0.01 \n0.01 \n0.01 \n0.01 \n0.01 \nB \nA Columbium and niobium are interchangeable names for the same element and \nboth names are acceptable in A01 specifications. \n8 Product analysis is not applicable for this element. \n1359 \nSA-841/SA-841M ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1421.json",
+  "tabulaTablesCsv": "tables_tabula/page-1421.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-1421.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1286,
+  "bestTextAlphaRatio": 0.4331
+}

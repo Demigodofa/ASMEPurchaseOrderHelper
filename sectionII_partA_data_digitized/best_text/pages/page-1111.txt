@@ -1,0 +1,72 @@
+ASME BPVC.Il.A-2025 SA-574 
+Number of 
+Threads per Inch 
+Less than 40 
+40, 44, and 48 
+Over 48 
+Load 
+500 gf 
+200 gf 
+Use optical evaluation in 12.3.2 
+12.3.3.1 Take measurements at minor diameter 
+(Reading No. 1) on the thread crest bisector to determine 
+base metal hardness. Take measurements (Reading No. 2) 
+on the bisector 0.75h from the minor measurement toward 
+the thread crest. Also take measurements (Reading No. 3) 
+on the thread flank at the pitch line at a depth within 0.003 
+from the surface. Reading No. 3 may be taken on the same 
+or an adjacent thread. 
+12.3.4 Interpret microhardness readings as follows: 
+12.3.4.1 A decrease of more than 30 hardness 
+points from Reading No. 1 to Reading No. 2 shall be 
+regarded as decarburization and indicates the screw does 
+not conform to specification requirements. 
+12.3.4.2 An increase of more than 30 hardness 
+points from Reading No. 1 to Reading No. 3 shall be 
+regarded as carburization and indicates that the screw does 
+not conform to specification requirements. 
+13. Inspection 
+13.l If the additional tests described in 11.3 are required 
+by the purchaser it shall be specified in the inquiry, order, 
+or contract. 
+13.2 The inspector representing the purchaser shall 
+have free entry to all parts of the manufacturer's works 
+that concern the manufacture of the material ordered. The 
+manufacturer shall afford the inspector all reasonable facili­
+ties to satisfy him that the material is being furnished in 
+accordance with this specification. All tests and inspections 
+required by the specification that are requested by the pur­
+chaser's representative shall be made before shipment, and 
+shall be conducted as not to interfere unnecessarily with 
+the operation of the works. 
+14. Responsibility 
+14.1 The party responsible for the fastener shall be the 
+organization that supplies the fastener to the purchaser. 
+15. Rejection and Rehearing 
+15.1 Rejections based on requirements herein shall be 
+reported to the manufacturer within 30 days after receipt 
+of material by the purchaser. 
+16. Packaging and Package Marking 
+16.1 Packaging: 
+16.1.1 Unless otherwise specified, packaging shall 
+be in accordance with Practice D 3951. 
+16.1.2 When special packaging requirements are 
+required, they shall be defined at the time of the inquiry 
+and order. 
+16.2 Package Marking: 
+16.2.1 Each shipping unit shall include or be plainly 
+marked with the following information: 
+16.2.1.1 ASTM designation, 
+16.2.1.2 Size, 
+16.2.1.3 Name and brand or trademark of the man-
+ufacturer, 
+16.2.1.4 Number of pieces, 
+16.2.1.5 Purchase order number, and 
+16.2.1.6 Country of origin. 
+17. Keywords 
+17.1 alloy steel; cap screws; socket head 
+FIG. 1 DEFINITION OF PARTIAL DECARBURIZATION LIMITS 
+Decarburization 
+r 
+0.1 h 5 
+1017 

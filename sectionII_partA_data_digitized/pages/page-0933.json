@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 135,
+  "globalPageIndex": 933,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "Grade \n1 \n2 \n2 \n4 \n4 \n6 \n7 \n8 \n9 \n9 \n10 \n11 \n12 \n13 \n14 \n16 \n17 \nCA15 \nCA15 \nCA15 \nCA15M \nCA6NM \nCA6NM \nClass \nA, B \nC \nA, B \nC \nA, B, E \nC, D \nA, B \nA \nA, B, C \nA, B, E \nC,D \nA,B \nA, B \nA, B \nA, B \nA \nA \nA \nA \nB \nC,D \nA \nA \nB \nASME BPVC.II.A-2025 SA-487 /SA-487M \nTABLE 4 Minimum Preheat and Post-Weld Heat Treat Requirements \nMinimum Preheat \nTemperature, 'F ['CJ \n200 [95] \n200 [95] \n200 [95] \n200 [95] \n200 [95] \n200 [95] \n300 [150] \n300 [150] \n300 [150] \n300 [150] \n300 [150] \n300 [150] \n300 [150] \n300 [150] \n400 [205] \n400 [205] \n50 [10] \n400 [205] \n400 [205] \n400 [205] \n400 [205] \n50 [10] \n50 [10] \n1100 [595]A minimum \n1150 [620jA minimum \n1100 [595jA minimum \n1150 [620]A minimum \n1100 [595jA minimum \n1150 [620jA minimum \n1100 [595jA minimum \n1100 [595jA minimum \n1250 [675]A minimum \n11 oo [595]A minimum \n1150 [620]A minimum \n1100 [595]A minimum \n1100 [595]A minimum \n1100 [595]A minimum \n1100 [595]A minimum \n1100 [595]A minimum \n1100 [595]A minimum \nNo welding \nPost-Weld Heat Treat, 'F ['CJ \n1750 [955] air cool or liquid quench below 400 [205] temper at 900 [480] minimum \n1100 [595]A minimum \n1150 [620]A minimum \n1100 [595jA minimum \nFinal temper between 1050 [565] and 1150 [620] \nIntermediate PWHT between 1225 [665] and 1275 [690] \nFinal temper PWHT 1050 [565] and 1150 [620] 8 \nA Post-weld heat treat temperature must be at or below the final tempering temperature. \n8 The intermediate and final PWHT temperatures shall be the same as the intermediate and final tempering temperatures, respectively, as the original heat treatment of \nthe castings. Cool to below 200 'F [95 'C] between the intermediate and final PWHT. \nthe weld repair by radiography when Supplementary Require\u00ad\nment S5 has been specified will not be necessary when an \napplicable surface inspection method was used to locate the \ndiscontinuity except for the following: \n9.4.1 Weld repairs on castings which have leaked on hydro\u00ad\nstatic test. \n9.4.2 Weld repairs on castings in which the depth of any \ncavity prepared for repair welding is more than 20 % of the \nwall thickness or 1 in. [25 mm], whichever is smaller. \n9.4.3 Weld repairs on castings in which any cavity prepared \nfor welding is greater than approximately 10 in.2 [65 cm 2 ]. \n10. Product Marking \n10 .1 Castings shall be marked for material identification \nwith the grade and class symbols (1-A, 4-C, CA15-A). \n11. Keywords \n11.1 alloy steel; martensitic stainless steel; pressure\u00ad\ncontaining parts; stainless steel; steel castings \nSUPPLEMENTARY REQUIREMENTS \nThe following supplementary requirements shall not apply unless specified in the purchase order. A \nlist of standardized supplementary requirements for use at the option of the purchaser is included in \nSpecifications A 703/ A 703M and A985/ A985M. Those which are ordinarily considered suitable for \nuse with this specification are given below. Others enumerated in Specifications A 703/ A 703M and \nA985/A985M may be used with this specification upon agreement between the manufacturer and \npurchaser. \n833 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0933.json",
+  "tabulaTablesCsv": "tables_tabula/page-0933.csv",
+  "tabulaTableCount": 2,
+  "bestTextPath": "best_text/pages/page-0933.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 3029,
+  "bestTextAlphaRatio": 0.587
+}

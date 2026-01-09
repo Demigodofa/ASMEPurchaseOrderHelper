@@ -1,0 +1,83 @@
+SA-832/SA-832M ASME BPVC.II.A-2025 
+SUPPLEMENTARY REQUIREMENTS 
+Supplementary requirements shall not apply unless specified in the order. 
+A list of standardized supplementary requirements for use at the option of the purchaser is included 
+in Specification A20/ A20M. Some of those considered suitable for use with this specification are listed 
+below by title. 
+S 1. Vacuum Treatment, 
+S2. Product Analysis, 
+S3. Simulated Post-Weld Heat Treatment of Mechanical 
+Test Coupons, 
+S4. Additional Tension Test, 
+S6. Drop-Weight Test (for Material 0.625 in. [16 mm] and 
+Over in Thickness), 
+S7. High-Temperature Tension Test, 
+S8. Ultrasonic Examination in accordance with Specifica­
+tion A435/A435M, 
+S9. Magnetic Particle Examination, 
+S 11. Ultrasonic Examination in accordance with Specifica­
+tion A577 / A577M, 
+Sl2. Ultrasonic Examination in accordance with Specifica­
+tion A578/ A578M, and 
+S19. Restricted Chemical Requirements. 
+ADDITIONAL SUPPLEMENTARY REQUIREMENTS 
+HIGH TEMPERATURE HYDROGEN SERVICE 
+In addition, the following supplementary requirements are suitable for this application. 
+S62. Temper Embrittlement Factor 
+S62.l The composition of the steel, based on heat analysis, 
+shall be restricted in accordance with the following equations: 
+J = (Si+Mn) X (P+Sn) X 10 4 :5 150 (Si, Mn, P and Sn in wt%) 
+Cus 0.20% 
+Ni:5 0.30% 
+S62.1.1 Lower values of J, Cu, and Ni can be specified by 
+agreement between purchaser and the supplier. 
+S62.1.2 When so specified by the purchaser, tl1e maxinmm 
+value of J shall not exceed 100. 
+S62.l.3 The values of J shall be reported. 
+S62.1.4 If the plates are repaired by welding, the composi­
+tion of the weld deposit shall be restricted in accordance with 
+the following equations: 
+X = (10P+5Sb+4Sn+As)/100 :5 15 (P, Sb, Sn and As in ppm) 
+Cu:5 0.20% 
+Ni:5 0.30% 
+S62.1.5 The values of X shall be reported. 
+S63. Impact Properties After Step Cooling 
+S63.l The Charpy V-notch impact properties shall be deter­
+mined as follows: 
+S63.l.1 A sufficient amount of Charpy V-notch test speci­
+mens shall be taken from the same location from a plate from 
+each heat of steel to construct two transition temperature 
+curves. 
+S63.1.2 The test specimens for one transition temperature 
+curve shall be given the minimum post-weld heat treatment 
+(PWHT) cycle specified by the purchaser. 
+S63.2 The test specimens for the other transition tempera­
+ture curve shall be given the PWHT cycle specified in S63.l.2 
+plus the following step cooling heat treatment: 
+Hold at 1100°F (593°C) for 1 h, then cool at 10°F (5.6°C)/h 
+to 1000°F (538°C). 
+Hold at 1000°F (538°C) for 15 h, then cool at 10°F (5.6°C)/h 
+to 975°F (524°C). 
+Hold at 975°F (524°C) for 24 h, then cool at 10°F (5.6°C)/h 
+to 925°F (496°C). 
+Hold at 925°F (496°C) for 60 h, then cool at 5°F (2.8°C)/h 
+to 875°F (468°C). 
+Hold at 875°F (468°C) for 100 h, then cool at 50°F 
+(27.8°C)/h to 600°F (315°C). 
+Cool in still air. 
+S63.3 Test the Charpy V-notch test specimens in accordance 
+with Test Methods and Definitions A370 to determine the 
+40-ft-lbs (55 J) transition temperature from each transition 
+temperature curve using a set of three test specimens at each 
+test temperature. The test temperatures shall include tests on 
+the upper and lower shelves and a minimum of four interme­
+diate temperatures. 
+S63.4 The following requirements shall be met: 
+vTr40+ 2.5 /1 vTr40 :5 50° F 
+vTr55+2.5 /1vTr55 :5 10°C 
+where: 
+vTr40 (vTR55) = the 40-ft-lbs (55 J) transition tempera­
+ture of the material subjected to the 
+minimum PWHT specified by the pur­
+chaser. 
+1342 

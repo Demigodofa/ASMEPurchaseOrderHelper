@@ -1,0 +1,118 @@
+SA-530/SA-530M ASME BPVC.II.A-2025 
+6.3 Product Analysis-Product analysis requirements and 
+options, if any, are contained in the product specification. 
+7. Mechanical Requirements 
+7.1 Method of Mechanical Tests-The specimens and the 
+mechanical tests required shall be made in accordance with 
+Annex A2 of Test Methods and Definitions A370 if inch-pound 
+units are specified, or to the requirements described in the 
+applicable track of Test Methods A1058, if SI units are 
+specified. 
+7.2 Specimens shall be tested at room temperature. 
+7.3 Small or subsize specimens as described in Test Meth­
+ods and Definitions A370 or Test Methods A1058 may be used 
+only when there is insufficient material to prepare one of the 
+standard specimens. When using small or subsize specimens, 
+the largest one possible shall be used. 
+8. Tensile Requirements 
+8.1 The material shall conform to the requirements as to 
+tensile properties prescribed in the individual specifications. 
+8.2 The yield strength corresponding to a permanent offset 
+of 0.2 % of the gage length or to a total extension of 0.5 % of 
+the gage length under load shall be determined. 
+8.3 If the percentage of elongation of any test specimen is 
+less than that specified and any part of the fracture is more than 
+¾ in. [19.0 mm] from the center of the gage length, as 
+indicated by scribe marks on the specimen before testing, a 
+retest shall be allowed. 
+9. Permissible Variation in Weight 
+9.1 The weight of any length of pipe NPS 12 [DN 300] and 
+under shall not vary more than 10 % over or 3.5 % under that 
+specified. For sizes over NPS 12 [DN 300], the weight of any 
+length of pipe shall not vary more than 10 % over or 5 % under 
+that specified. Unless otherwise specified, pipe of NPS 4 [DN 
+100] and smaller may be weighed in convenient lots; pipe in 
+sizes larger than NPS 4 [DN 100] shall be weighed separately. 
+10. Permissible Variations in Wall Thickness 
+----~ro;--1~seamless an e e no ller metal added)-The 
+minimum wall thickness at any point shall be within the 
+tolerances specified in Table 1, except that for welded pipe the 
+TABLE 1 Permissible Variations in Wall Thickness 
+NPS Designator 
+'Is to 2½, incl., all t I D A,B ratios 
+3 to 18 incl., I ID up to 5 % incl. 
+3 to 18 incl., ti D> 5% 
+20 and larger, welded, all I I D ratios 
+20 and larger, seamless, t I D up to 
+5% incl. 
+20 and larger, seamless, t I D > 5 % 
+At= Nominal wall thickness. 
+8 D = Ordered outside diameter. 
+Tolerance, % from 
+Nominal 
+Over Under 
+20.0 
+22.5 
+15.0 
+17.5 
+22.5 
+15.0 
+12.5 
+12.5 
+12.5 
+12.5 
+12.5 
+12.5 
+weld area shall not be limited by the over tolerance. The 
+minimum wall thickness on inspection for - 12.5 % is shown 
+in Table Xl.1. 
+10.2 Forged and Bored-The wall thickness shall not vary 
+over that specified by more than Vs in. [3.2 mm]. There shall be 
+no variation under the specified wall thickness. 
+10.3 Cast-The wall thickness shall not vary over that 
+specified by more than V16 in. [1.6 mm]. There shall be no 
+variation under the specified wall thickness. 
+11. Permissible Variations in Inside Diameter 
+11.1 Forged and Bored, and Cast-The inside diameter 
+shall not vary under that specified by more than V16 in. [1.6 
+mm]. There shall be no variation over the ·specified inside 
+diameter. 
+12. Permissible Variations in Outside Diameter 
+12.1 Variations in outside diameter, unless otherwise 
+specified, shall not exceed the limits prescribed in Table 2. The 
+tolerances on outside diameter include ovality except as 
+provided for in 12.2. 
+12.2 Thin-wall pipe usually develops significant ovality 
+(out-of-roundness) during final annealing, straightening, or 
+both. The diameter tolerances of Table 2 are not sufficient to 
+provide for additional ovality expected in thin-wall pipe and 
+are applicable only to the mean of the extreme (maximum and 
+minimum) outside diameter readings in any one cross-section. 
+However, for thin-wall pipe the difference in extreme outside 
+diameter readings (ovality) in any one cross-section shall not 
+exceed 1.5 % of the specified outside diameter. 
+13. Permissible Variations in Length 
+13.1 Seamless and Welded (no filler metal added)-If defi­
+nite cut lengths are ordered, no length of pipe shall be under the 
+length specified and not more than ¼ in. [6 mm] over that 
+specified. 
+13.2 Forged and Bored, Cast, and Cast Cold-Wrought-If 
+definite cut lengths are ordered, no length of pipe shall be 
+length-spec-ifi-€:d-and-ne1-mere-than-¼-in:;-[-3--nnrrJuVi~----------r~ 
+that specified. 
+896 
+13.3 For pipe ordered to random lengths, the lengths and 
+variations shall be agreed upon between the manufacturer and 
+purchaser. 
+TABLE 2 Permissible Variations in Outside Diameter 
+NPS Designator Permissible Variations In Outside Diameter 
+Over Under 
+in. mm in. mm 
+1/a to 1½, incl 1/a• (0.015) 0.4 1/a2 (0.031) 0.8 
+Over 1 ½ to 4, incl 1/a2 (0.031) 0.8 1/32 (0.031) 0.8 
+Over 4 to 8, incl 1/1a (0.062) 1.6 1/32(0.031) 0.8 
+Over 8 to 18, incl 3/32 (0.093) 2.4 1/a2 (0.031) 0.8 
+Over 18 to 26, incl 1/a (0.125) 3.2 1/02 (0.031) 0.8 
+Over 26 to 34, incl %2 (0.156) 4.0 1/32 (0.031) 0.8 
+Over34 3/ia (0.187) 4.8 1/a2 (0.031) 0.8 
+'..._____./ 

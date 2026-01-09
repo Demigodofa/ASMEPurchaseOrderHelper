@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 85,
+  "globalPageIndex": 883,
+  "width": 617.04,
+  "height": 795.6,
+  "text": "ASME BPVC.II.A-2025 SA-479/SA-479M \nTABLE 2 Continued \nTensile Yield \nElongation \nin 2 in. Reduction of Brinell \nUNS Designation Type Condition Strength, Strength/ [50mm] Area, min, Hardness, min, ksi min, ksi or4D, %B,C max [MPa] [MPa] \nmin,% \nAustenitic Grades \nS32760 ... annealed 109 [750] 80 [550] 25 . .. 310 \nS32808 ... annealed 101 [700] 72 [500] 15 . .. 310 \nS32906 ... annealed 109 [750] 80 [550] 25 . .. 310 \nS32950 ... annealed 100 [690] 70 [485] 15 . .. 297 \nS39277 ... annealed 118 [820] 85 [585] 25 50 293 \nS82441 Under 7 /10 in. [11 mm] annealed 107 [740] 78 [540] 25 ... 290 \nS82441 7/,s in. and over [11 mm] annealed 99 [680] 70 [4801 25 ... 290 \nFerrlt1c Grades \nS40500 405 annealed 60 [415] 25[170] 20 45 207 \nS43000,S43035 430,439 annealed 70 [485] 40 [275] 20H 45H 192 \nS44627 XM-27 annealed 65 [450] 40 [275] 45H 217 \nS44401 ... annealed 60 [415] 45 [310] 20 1 45 1 217 \nS44700 ... annealed 70 [485] 55 [380] 20 40 . .. \nS44800 ... annealed 70 [4851 55 [380] 20 40 . .. .. Martens1t1c Grades \nS40300, S41000 403,410 annealed 70 [485] 40 [275] 20 1 45 223 \n1 70 [485] 40 [275] 20 1 45 1 223 \n2 110 [760] 85 [585] 15 45 269 \n3 130 [895] 100 [690] 12 35 331 \nS41400 414 tempered 115 [795] 90 [620] 15 45 321 \nS41425 ... tempered 120 [825] 95 [655] 15 45 321 \nS41500 ... normalized 115 [795] 90 [620] 15 45 293 \nand tempered \nS43100 431J annealed ... ... ... . .. 277 \ntempered 115 [795] 90 [620] 15 45 321 \nS41040 XM-30 annealed 70 [485] 40 [275] 13H 45H 235 \nquenched 125 [860] 100 [690] 13 45 302 \nand tempered \nA See Section 7. \n8 Reduction of area does not apply on flat bars \"Ii\u2022 in. [4.80 mm] and under in thickness, as this determination is not generally made in this product size. \nc The material shall be capable of meeting the required reduction of area where listed, but actual measurement and reporting of the reduction of area are not required \nunless specified in the purchase order. \n\u00b0 Cold-finished shapes require only 15 %, minimum, elongation. \nE American Welding Society designation. \nFTensile strength 70 ksl [485 MPa] minimum permitted for extruded shapes. \nG For bars greater than 2 in. [51 mm], a cross section, 60 ksi [415 MPa] minimum, shall be permitted. \nH Elongation in 2 in. or 50 mm of 12 % minimum and reduction of area of 35 % minimum permitted for cold-finished bars. \n' Elongation In 2 in. of 12 % minimum and reduction of area of 35 % minimum permitted for cold-drawn or cold-rolled bars. \nJ Annealed bars shall be capable of meeting the tempered condition requirements when heat treated. \nTABLE 3 Response To Heat Treatment \nHeat Treatment Hardness TypeA Temr,erature 8 Quenchant \nOf \u00b0C), min HRC, min \n403 1750 [955] Air 35 \n410 1750 [955] Air 35 \n414 1750 [955] Oil 42 \nA Samples for testing shall be in the form of a section not exceeding 3/e in. \n[9.50 mm] in thickness. \n8 Temperature tolerance is \u00b125 \u00b0F [15 \u00b0C]. \n781 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0883.json",
+  "tabulaTablesCsv": "tables_tabula/page-0883.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0883.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2880,
+  "bestTextAlphaRatio": 0.4837
+}

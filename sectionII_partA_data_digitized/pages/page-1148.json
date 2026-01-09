@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 350,
+  "globalPageIndex": 1148,
+  "width": 613.92,
+  "height": 793.2,
+  "text": "SA-638/SA-638M ASME BPVC.II.A-2025 \nTABLE 1 \nMECHANICAL PROPERTY REQUIREMENTS \nGrade 660 Grade 662 (bars) Grade 662 (forgings)A \nHeat treatment 8 . . . . . . . . . . . . . . . . . solution + precipitation harden solution + precipitation harden solution + precipitation harden \nTensile strength, min: \npsi ......................... . \n[M Pa] ................ \u00b7 \u00b7 \u00b7 \u00b7,. \u00b7 \nYield strength (0.2% offset), min: \npsi ......................... . \n[M PaJ ...................... . \nElongation in 4D min, % ......... . \nReduction of area min, % ......... . \nBrinel I hardness ................. . \n130 000 \n[895] \n85 000 \n[585] \n15 \n18 \n248 min \n130 000 125 000 \n[895] [860] \n85 000 80 000 \n[585] [550] \n15 15 \n18 18 \n248 min 248 min \nA The elongation of tensile specimens machined tangentially from near the center of large disk forgings over 50 in. 2 [320 cm 2 J in cross sec\u00ad\ntion may be as low as 10%. The reduction of area may be as low as 12%. \n8 Refer to Table 3 of heat treatment. \nGrade \n660 \n662 \nHeat TreatmentA \nsolution + precipitation harden \nsolution + precipitation harden \nTABLE 2 \nSTRESS-RUPTURE REQUIREMENTS \nTest Temperature \nOF \n1200 \n1200 \n[650] \n[650] \npsi \n65 000 \n60 000 \nStress \nA Refer to Table 2 for details of heat treatment. \n[MPaJ \n[450] \n[415] \nMinimum \nHours 8 \n23 \n15 \nMinimum \nElongation, \n% \n3 \n3 \n8 Test specimens meeting minimum requirements may be overloaded to produce rupture in a reasonable and practical time period. \n1054 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1148.json",
+  "tabulaTablesCsv": "tables_tabula/page-1148.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-1148.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1455,
+  "bestTextAlphaRatio": 0.5285
+}

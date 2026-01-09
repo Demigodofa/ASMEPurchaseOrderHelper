@@ -1,0 +1,97 @@
+ASME BPVC.II.A-2025 SA-572/SA-572M 
+TABLE 1 Maximum Product Thickness or Size 
+Yield Point, min 
+Grade Plates and Bars 
+ksi [MPa] 
+in. [mm] 
+42 [290]A 42 [290] 6 [150] 
+50 [345jA 50 [345] 4B [100] 8 
+55 [380] 55 [380] 2½ [64] 
+60 [415jA 60 [415] 2½ C [64]c 
+65 [450] 65 [450] 2 [50] 
+Maximum Thickness or Size 
+Structural Shape 
+Flange or Leg 
+Thickness 
+in. [mm] 
+all all 
+all all 
+all all 
+2 [50] 
+2 [50] 
+Sheet Piling 
+all 
+all 
+all 
+all 
+all 
+Zees and Rolled 
+Tees 
+all 
+all 
+all 
+all 
+all 
+A In the above tabulation, Grades 42, 50, and 60 [290, 345, and 415], are the yield point levels most closely approximating a geometric progression pattern between 36 
+ksi [250 MPa], min, yield point steels covered by Specification A36/A36M and 100 ksi [690 MPa], min, yield strength steels covered by Specification A514/A514M. 
+8 Round bars up to and including 11 in. [275 mm] in diameter are permitted. 
+c Round bars up to and including 3½ in. [90 mm] in diameter are permitted. 
+TABLE 2 Chemical RequirementsA 
+(Heat Analysis) 
+Silicon 
+Plates to 1 ½ in. 
+Structural [40 mm] Thick, Plates Over 1 ½ in. Diameter, Thickness, Shape Shapes with [40 mm] Thick and or Distance Flange or Carbon, Manganese, 8 Phosphorus,' Sulfur,' Flange or Leg Shapes with Flange Between Parallel Grade max, Thickness to 3 in. 
+Faces, in. [mm] Leg max,% max,% max,% % [75 mm] inclusive, Thickness 
+Plates and Bars Thickness, Sheet Piling, Over 3 in. 
+in. [mm] Bars, Zees, and [75 mm] 
+Rolled Teesc 
+max,% range,% 
+6 [150] all 42 [290] 0.21 1.35° 0.030 0.030 0.40 0.15-0.40 
+4 [100]E all 50 [345] 0.23 1.35° 0.030 0.030 0.40 0.15-0.40 
+2½ [64]F all 55 [380] 0.25 1.35° 0.030 0.030 0.40 0.15-0.40 
+2½ [64]F $2 [50] 60 [415] 0.26 1.35° 0.030 0.030 0.40 0.15-0.40 
+>½-2 >1-2 65 [450] 0.23 1.65 0.030 0.030 0.40 0.15-0.40 
+[13-50] [25-50] 
+$½ [13]H $1 65 [450] 0.26 1.35° 0.030 0.030 0.40 G 
+A Copper when specified shall have a minimum content of 0.20 % by heat analysis (0.18 % by product analysis). 
+8 Manganese, minimum, by heat analysis of 0.80 % (0.75 % by product analysis) shall be required for all plates over% in. [10 mm] in thickness; a minimum of 0.50 % 
+(0.45 % by product analysis) shall be required for plates % in. [1 O mm] and less in thickness, and for all other products. The manganese to carbon ratio shall not be less 
+than 2 to 1. 
+c Bars over 1 ½ in. [40 mm] in diameter, thickness, or distance between parallel faces shall be made by a killed steel practice. 
+° For each reduction of 0.01 percentage point below the specified carbon maximum, an increase of 0.06 percentage point manganese above the specified maximum is 
+permitted, up to a maximum of 1.60 %. 
+E Round bars up to and including 11 in. [275 mm] in diameter are permitted. 
+F Round bars up to and including 3½ in. [90 mm] in diameter are permitted. 
+a The size and grade is not described in this specification. 
+H An alternative chemical requirement with a maximum carbon of 0.21 % and a maximum manganese of 1.65 % is permitted, with the balance of the elements as shown 
+in Table 2. 
+'A maximum phosphorus content of 0.04 % and a maximum sulfur content of 0.05 % are permitted for the following materials: 
+• Structural shapes 
+• Sheet piling 
+• Bars 
+, Plates with widths up to and including 15 in. [380 mm] 
+3. General Requirements for Delivery 
+3.1 Structural products furnished under this specification 
+shall conform to the requirements of the cmrent edition of 
+Specification A6/ A6M, for the specific structural product 
+ordered, unless a conflict exists in which case this specification 
+shall prevail. 
+3.2 Coils are excluded from qualification to this specifica­
+tion until they are processed into a finished structural product. 
+Structural products produced from coil means structural prod­
+ucts that have been cut to individual lengths from a coil. The 
+processor directly controls, or is responsible for, the operations 
+involved in the processing of a coil into a finished structural 
+product. Such operations include decoiling, leveling or 
+straightening, hot-forming or cold-forming (if applicable), 
+cutting to length, testing, inspection, conditioning, heat treat­
+ment (if applicable), packaging, marking, loading for shipment, 
+and certification. 
+NoTE 1-For structural products produced from coil and furnished 
+without heat treatment or with stress relieving only, two test results are to 
+be reported for each qualifying coil. Additional requirements regarding 
+structural products produced from coil are described in Specification 
+A6/A6M. 
+4. Materials and Manufacture 
+4.1 The steel shall be killed. 
+1011 

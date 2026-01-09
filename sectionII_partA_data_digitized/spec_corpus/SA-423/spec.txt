@@ -1,0 +1,1026 @@
+=== Page 757 ===
+
+ASME BPVC.ILA-2025 SA-423/SA-423M
+
+SPECIFICATION FOR SEAMLESS AND
+ELECTRIC-WELDED LOW-ALLOY STEEL TUBES
+
+CxS SA-423/SA-423M ah
+
+(Identical with ASTM Specification A423/A423M-19.)
+
+=== Page 758 ===
+
+SA-423 /SA-423M ASME BPVC.II.A-2025 
+Specification for 
+Seamless and Electric-Welded Low-Alloy Steel Tubes 
+1. Scope 
+1.1 This specification covers minimum-wall-thickness, 
+low-alloy steel tubes for pressure containing parts such as 
+economizers or other applications where corrosion resistance is 
+important. 
+1.2 The tubing sizes and thicknesses usually furnished to 
+this specification are ½ to 5 in. [12.7 to 127 mm] in outside 
+diameter and 0.035 to 0.500 in. [0.9 to 12.7 mm] inclusive, in 
+minimum wall thickness. Tubing having other dimensions may 
+be furnished, provided such tubes comply with all other 
+requirements of this specification. 
+1.3 Mechanical property requirements do not apply to 
+tubing smaller than ¼ in. [3.2 mm] in inside diameter or 0.015 
+in. [0.4 mm] in thickness. 
+1.4 This specification covers three grades, two types, and 
+two manufacture finishes: 
+1.4.1 Grades 1, 2, and 3 are identified in Table 1 (Chemical 
+Requirements), and Table 3 (Tensile Requirements), 
+1.4.2 Type (seamless or electric-resistance welded), 
+1.4.3 Manufacture (hot finished or cold finished). 
+1.5 Optional supplementary requirements S 1 and S2 are 
+provided and, when desired, shall be so stated in the order. 
+1.6 The values stated in either SI units or inch-pound units 
+are to be regarded separately as standard. Within the text, the 
+SI units are shown in brackets. The values stated in each 
+system may not be exact equivalents; therefore, each system 
+shall be used independently of the other. Combining values 
+from the two systems may result in non-conformance with the 
+standard. The inch-pound units shall apply unless the "M" 
+designation of this specification is specified in the order. 
+1.7 This international standard was developed in accor­
+dance with internationally recognized principles on standard­
+ization established in the Decision on Principles for the 
+Development of International Standards, Guides and Recom-
+708 
+mendations issued by the World Trade Organization Technical 
+Barriers to Trade (TBT) Committee. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+A450/ A450M Specification for General Requirements for 
+Carbon and Low Alloy Steel Tubes 
+E213 Practice for Ultrasonic Testing of Metal Pipe and 
+Tubing 
+E273 Practice for Ultrasonic Testing of the Weld Zone of 
+Welded Pipe and Tubing 
+3. Ordering Information 
+3. l Orders for material under this specification shall include 
+the following, as required, to describe the desired material 
+adequately: 
+3.1.1 Quantity (feet, metres, or number of lengths), 
+3.1.2 Type of material (seamless or electric-resistance-
+welded tubes), 
+3.1.3 Grade 1, 2, or 3 (Table 1 and Table 3), 
+3.1.4 Manufacture (hot finished or cold finished), 
+3.1.5 Size (outside diameter and minimum wall thickness), 
+3.1.6 Length (specific or random), 
+3.1.7 Required test options (hydrostatic or electric test, 
+11.7), 
+3 .1. 8 Test report required ( see Certification Section of 
+Specification A450/ A450M), 
+3.1.9 Specification designation (including year of issue), 
+and 
+3.1.10 Special requirements and any supplementary require­
+ments selected. 
+4. Manufacture 
+4.1 Tubes made by the seamless process may be hot finished 
+or cold finished. 
+S. Heat Treatment 
+5.1 All tubes shall be normalized or given such heat 
+treatment as may be necessary to conform to the requirements 
+of this specification.
+
+=== Page 759 ===
+
+ASME BPVC.II.A-2025 SA-423/SA-423M 
+TABLE 1 Chemical Requirements 
+Composition, % 
+Grade 1 Grade 2 
+Carbon, max 
+Manganese 
+Phosphorus 
+Sulfur, max 
+Silicon 
+Copper 
+Chromium 
+Nickel 
+Molybdenum 
+Antimony 
+0.15 
+0.55 max 
+0.06-0.16 
+0.060 
+0.10 min 
+0.20-0.60 
+0.24-1.31 
+0.20-0.70 
+0.15 
+0.50-1.00 
+0.04 max 
+0.05 
+0.30-1.00 
+0.40-1.10 
+0.10 min 
+TABLE 3 Tensile Requirements 
+Tensile strength, min, ksl [MPa] 
+Yield strength, min, ksi [MPa] 
+Elongation in 2 in. or 50 mm, 
+min,% 
+For longitudinal strip tests a 
+deduction for each %2 in. 
+[0.8 mm] decrease in wall 
+thickness below 5 /10 in. [8 mm] 
+from the basic minimum 
+elongation of the following 
+percentage points shall be 
+made 
+Grades 1 and 
+2 
+60 [415] 
+37 [255] 
+25 
+Grade 3 
+0.06 
+0.70-1.40 
+0.020 max 
+0.020 
+0.55 max 
+0.25-0.45 
+0.50 max 
+0.20 max 
+0.05-0.15 
+Grade 3 
+55 [380] 
+33 [230] 
+35 
+A Calculated elongation requirements shall be rounded to the nearest whole 
+number. 
+6. Chemical Composition 
+6.1 The steel shall conform to the requirements as to 
+chemical composition prescribed in Table 1. 
+7. Product Analysis 
+7.1 An analysis of either one billet, one length of flat-rolled 
+stock or one tube shall be made from each heat. The chemical 
+composition thus determined shall conform to the requirements 
+specified. 
+7 .2 If the original test for product analysis fails, retests of 
+two additional billets, lengths of flat-rolled stock, or tubes shall 
+be made. Both retests, for the elements in question shall meet 
+the requirements of the specification; otherwise all remaining 
+material in the heat or lot (Note 1) shall be rejected or, at the 
+option of the producer, each billet, length of flat-rolled stock or 
+tube may be individually tested for acceptance. Billets, lengths 
+of flat-rolled stock or tubes which do not meet the requirements 
+of the specification shall be rejected. 
+NOTE 1-For flattening, flaring, and flange requirements, the term lot 
+applies to all tubes prior to cutting of the same nominal size and wall 
+thickness that are produced from the same heat of steel. When final heat 
+treatment is in a batch-type furnace, a lot shall include only those tubes of 
+the same size and from the same heat which are heat treated in the same 
+furnace charge. When the final heat treatment is in a continuous furnace 
+the number of tubes of the same size and from the same heat in a lot shall 
+be determined from the size of the tubes as prescribed in Table 2. 
+NoTE 2-For tensile and hardness test requirements, the term lot applies 
+to all tubes prior to cutting, of the same nominal diameter and wall 
+thickness that are produced from the same heat of steel. When final heat 
+treatment is in a batch-type furnace, a lot shall include only those tubes of 
+TABLE 2 Number of Tubes In a Lot Heat Treated by the 
+Continuous Process 
+Size of Tube 
+2 in. [50.8 mm] and over in outside diameter and 
+0.200 in. [5.1 mm] and over in wall thickness 
+Less than 2 in. [50.8 mm] but over 1 in. [25.4 mm] in 
+outside diameter or over 1 in. [25.4 mm] in 
+outside diameter and under 0.200 in. [5.1 mm] 
+in wall thickness 
+1 in. [25.4 mm] or less in outside diameter 
+Size of Lot 
+not more than 50 
+tubes 
+not more than 75 
+tubes 
+not more than 125 
+tubes 
+the same size and the same heat which are heat treated in the same furnace 
+charge. When the final heat treatment is in a continuous furnace, a lot shall 
+include all tubes of the same size and heat, heat treated in the same furnace 
+at the same temperature, time at heat, and furnace speed. 
+8. Tensile Requirements 
+8.1 The material shall conform to the requirements as to 
+tensile properties prescribed in Table 3. 
+9. Hardness Requirements 
+9.1 The tubes shall have a hardness number not exceeding 
+170 HBW or 87 HRBW. 
+10. Forming Operations 
+10.1 Tubes when inserted in the boiler shall stand expanding 
+and beading without showing cracks or flaws. 
+11. Mechanical Tests Required 
+11 .1 Tension Test-One tension test shall be made on a 
+specimen for lots of not more than 50 tubes. Tension tests shall 
+be made on specimens from two tubes for lots of more than 50 
+tubes (Note 2). 
+11.2 Flattening Test-One flattening test shall be made on 
+specimens from each end of one finished tube, not the one used 
+for the flaring or flanging test, from each lot (Note 1). 
+11.3 Flaring Test (Seamless Tubes)-One flaring test shall 
+be made on specimens from each end of one finished tube, not 
+the one used for the flattening test, from each lot (Note 1). 
+11.4 Flange Test (Welded Tubes)-One flange test shall be 
+made on specimens from each end of one finished tube, not the 
+one used for the flattening test, from each lot (Note 1). 
+11.5 Hardness Test-Brinell or Rockwell hardness tests 
+shall be made on specimens from two tubes from each lot 
+(Note 2). 
+11.6 Reverse Flattening Test-For welded tubes, one re­
+verse flattening test shall be made on a specimen from each 
+1500 ft [460 m] of finished tubing. 
+709 
+11.7 Hydrostatic or Nondestructive Electric Test-Each 
+tube shall be subjected to the hydrostatic test, or, instead of this 
+test, a nondestructive electric test may be used when specified 
+by the purchaser. 
+12. General Requirements 
+12.1 Material furnished under this specification should con­
+form to the applicable requirements of the current edition of 
+Specification A450/ A450M, unless otherwise provided herein.
+
+=== Page 760 ===
+
+SA-423 /SA-4Z3M ASME BPVC.11.A-Z0ZS 
+13. Product Marking 
+13.1 In addition to the marking prescribed in Specification 
+A450/ A450M, the marking shall include whether hot finished 
+or cold finished, and whether seamless or welded. 
+14. Keywords 
+14.1 seamless steel tube; steel tube; alloy; welded steel tube 
+SUPPLEMENTARY REQUIREMENTS 
+Sl. Surface Condition 
+S 1.1 If pickling or shot blasting, or both, are required, this 
+shall be specifically stated in the order and shall be done at the 
+purchaser's expense. Pickling or shot blasting shall apply only 
+when specified by the purchaser in the inquiry, contract, or 
+order. Details of this supplementary requirement shall be 
+agreed upon by the manufacturer and the purchaser. 
+S2. Additional Testing of Welded Tubing per ASME 
+Request 
+S2.1 Each tube shall be subjected to an ultrasonic inspection 
+employing Practices E273 or E213 with the rejection criteria 
+referenced in Specification A450/ A450M. 
+S2.2 If Practice E273 is employed, a 100 % volumetric 
+inspection of the entire length of each tube shall also be 
+performed using one of the non-destructive electric tests 
+permitted by Specification A450/A450M. 
+710 
+S2.3 The test methods described in the supplement may not 
+be capable of inspecting the end portions of tubes. This 
+condition is referred to as end effect. This portion, as deter­
+mined by the manufacturer, shall be removed and discarded. 
+S2.4 In addition to the marking prescribed in Specification 
+A450/ A450M, "S2'' shall be added after the grade designation. 
+S2.5 Additional Testing of Welded Tubing shall have been 
+specified in the inquiry or invitation to bid, and purchase order 
+or contract. The requirements shall not be considered unless 
+specified in the order and the necessary tests shall be made at 
+the mill.
+
+=== Page 761 ===
+
+ASME BPVC.ILA-2025 SA-426/SA-426M
+
+SPECIFICATION FOR CENTRIFUGALLY CAST FERRITIC
+ALLOY STEEL PIPE FOR HIGH-TEMPERATURE SERVICE
+
+CxS SA-426/SA-426M day
+e corona oe
+
+(Identical with ASTM Specification A426/A426M-13,)
+
+=== Page 762 ===
+
+SA-426/SA-426M ASME BPVC.II.A-2025 
+Standard Specification for 
+Centrifugally Cast Ferritic Alloy Steel Pipe for High­
+Temperature Service 
+1. Scope 
+1.1 This specification covers centrifugally cast alloy steel 
+pipe intended for use in high-temperature, high-pressure ser­
+vice. 
+1.2 Several grades of ferritic steels are covered. Their 
+compositions are given in Table 1. 
+1.3 Supplementary Requirements Sl through S12 are 
+provided. The supplementary requirements provide for addi­
+tional tests of an optional nature and when desired shall be so 
+stated in the order (Section 4). 
+1.4 The values stated in either inch-pound units or SI units 
+are to be regarded separately as standard. The values stated in 
+each system may not be exact equivalents; therefore, each 
+system shall be used independently of the other. Combining 
+values from the two systems may result in non-conformance 
+with the standard. 
+1.4.1 Within the text, the SI units are shown in brackets. 
+l .5 This standard does not purport to address all of the 
+safety concerns, if any, associated with its use. It is the 
+responsibility of the user of this standard to establish appro­
+priate safety and health practices and determine the applica­
+bility of regulatory limitations prior to use. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+A370 Test Methods and Definitions for Mechanical Testing 
+of Steel Products 
+A609/A609M Practice for Castings, Carbon, Low-Alloy, 
+and Martensitic Stainless Steel, Ultrasonic Examination 
+Thereof 
+712 
+A941 Terminology Relating to Steel, Stainless Steel, Related 
+Alloys, and Ferroalloys 
+A999/ A999M Specification for General Requirements for 
+Alloy and Stainless Steel Pipe 
+E94 Guide for Radiographic Examination 
+E165 Practice for Liquid Penetrant Examination for General 
+Industry 
+E186 Reference Radiographs for Heavy-Walled (2 to 4½-in. 
+(50.8 to 114-mm)) Steel Castings 
+E208 Test Method for Conducting Drop-Weight Test to 
+Determine Nil-Ductility Transition Temperature of Fer­
+ritic Steels 
+E280 Reference Radiographs for Heavy-Walled (4½ to 12-
+in. (114 to 305-mm)) Steel Castings 
+E446 Reference Radiographs for Steel Castings Up to 2 in. 
+(50.8 mm) in Thickness 
+E709 Guide for Magnetic Particle Testing 
+2.2 ANSI Standard: 
+B46. l Surface Texture 
+2.3 ASME Boiler and Pressure Vessel Code: 
+Section IX Welding and Brazing Qualifications 
+3. Ordering Information 
+3.1 Orders for material under this specification shall include 
+the following, as required, to describe the desired material 
+adequately: 
+3.1.1 Quantity (feet, centimetres, or number of lengths), 
+3 .1.2 Name of material ( centrifugally cast pipe), 
+3 .1.3 Specification number, 
+3.1.4 Grade (Table 1), 
+3.1.5 Size (outside or inside diameter and minimum wall 
+thickness), 
+3.1.6 Length (specific or random) (Section on Permissible 
+Variations in Length of Specification A999/ A999M), 
+3.1.7 End finish (Section on Ends of Specification A999/ 
+A999M),
+
+=== Page 763 ===
+
+ASME BPVC.II.A-2025 SA-426/SA-426M 
+TABLE 1 Chemical RequirementsA 
+Composition, % 
+UNS Phos-
+Grade Number Carbon Manganese phorus, 
+max 
+CP1 J12521 0.25 0.30-0.80 0.030 
+max 
+CP2 J11547 0.10-0.20 0.30-0.61 0.030 
+CP5 J42045 0.20 0.30-0.70 0.030 
+max 
+CP5b J51545 0.15 0.30-0.60 0.030 
+max 
+CP9 J82090 0.20 0.30-0.65 0.030 
+max 
+CP11 J12072 0.05-0.20 0.30-0.80 0.030 
+CP12 J11562 0.05-0.15 0.30-0.61 0.030 
+CP15 J11522 0.15 0.30-0.60 0.030 
+max 
+CP21 J31545 0.05-0.15 0.30-0.60 0.030 
+CP22 J21890 0.05-0.15 0.30-0.70 0.030 
+CPCA15 J91150 0.15 1.00 0.030 
+max max 
+A Where ellipses appear in this table, there is no requirement. 
+3.l.8 Optional Requirements Sl through S12 and Section 
+14.1, 
+3.1.9 Test report required (Section on Certified Test Report 
+of Specification A999/A999M), 
+3.1.10 Service temperature if over 1000°F [540°C] (Note 1), 
+and 
+3 .1.11 Special requirements or additions to specification. 
+4. General Requirements for Delivery 
+4.1 Material furnished under this specification shall con­
+form to the applicable requirements of the current edition of 
+Specification A999/ A999M unless otherwise provided herein. 
+5. Materials and Manufacture 
+5.1 Heat-Treatment-The pipe shall be furnished in the 
+austenitized and tempered condition (Note 1) according to the 
+requirements of Table 2. 
+5.1.1 Heat treatment shall be performed after the pipe has 
+been allowed to cool below the transformation range. Defini­
+tion of heat-treatment terms shall be as given in Terminology 
+A941. 
+NOTE 1-lt is recommended that the temperature for tempedng should 
+be at least 100°F [55°C] above the intended service temperature. The 
+purchaser shall advise the manufacturer of the service temperature when 
+it is over 1000°F [540°C]. (See 3.1.10.) 
+5.2 Machining-The pipe shall be machined on the inner 
+and outer surfaces to a roughness value no greater than 250 µ 
+in. [6.35 µm] arithmetical average deviation (AA) from the 
+mean line unless otherwise specified as in ANSI B46.1. 
+6. Chemical Analysis 
+6.1 Heat Analysis-An analysis of each heat shall be made 
+by the manufacturer to determine the percentages of elements 
+specified in Table 1. The analysis shall be made on a test 
+Sulfur, Silicon Chromium Molybdenum max 
+0.025 0.10-0.50 0.44-0.65 
+0.025 0.10-0.50 0.50-0.81 0.44-0.65 
+0.025 0.75 4.00-6.50 0.45-0.65 
+max 
+0.025 1.00-2.00 4.00-6.00 0.45-0.65 
+0.025 0.25-1.00 8.00-10.00 0.90-1.20 
+0.025 0.60 1.00-1.50 0.44-0.65 
+max 
+0.025 0.50 0.80-1.25 0.44-0.65 
+max 
+0.025 1.15-1.65 0.44-0.65 
+0.025 0.50 2.65-3.35 0.80-1.06 
+max 
+0.025 0.60 2.00-2.75 0.90-1.20 
+max 
+0.025 1.50 11.5-14.0 0.50 
+max max 
+sample taken preferable during the pouring of the heat. The 
+chemical composition thus determined shall conform to the 
+requirements specified in Table 1. 
+6.2 Product Analysis-A product analysis may be made by 
+the purchaser. The sample for analysis shall be selected so as to 
+be representative of the pipe being analyzed. The chemical 
+composition thus determined shall conform to the requirements 
+of Table 1. 
+7. Tensile and Hardness Requirements 
+7 .1 Steel used for the castings shall conform to the tensile 
+and hardness requirements specified in Table 3. 
+8. Permissible Variations in Dimensions 
+8.1 Thickness-The wall thickness shall not vary over that 
+specified by more than Vs in. [3 mm]. There shall be no 
+variation under the specified wall thickness. 
+9. Number of Tests 
+9 .1 One tension and one hardness test shall be made from 
+each heat. 
+9.2 If a specimen is machined improperly or if flaws are 
+revealed by machining or during testing, the specimen may be 
+discarded and another substituted from the same heat. 
+10. Retests 
+10.1 If the results of the mechanical tests for any heat do not 
+conform . to the requirements specified, the castings may be 
+reheat-treated and retested, but may not be re-austenitized 
+more than twice. 
+11. Test Specimens 
+11.1 Test coupons from which tension test specimens are 
+prepared shall be removed from heat-treated casting prolonga­
+tions. 
+713
+
+=== Page 764 ===
+
+SA-426/SA-426M ASME BPVC.II.A-2025 
+TABLE 2 Heat Treatment Requirements 
+Tempering 
+Temperature, 
+Grade Austenitizing min, unless 
+Treatment a range is 
+shown, °F 
+[OC] 
+CP1 Normalized 1100 [595] 
+or Liquid 
+Quenched 
+CP2 Normalized 1100 [595] 
+or Liquid 
+Quenched 
+CP5 Normalized 1250 [675] 
+or Liquid 
+Quenched 
+CP5b Normalized 1250 [675] 
+or Liquid 
+Quenched 
+CP9 Normalized 1250 [675] 
+or Liquid 
+Quenched 
+CP11 Normalized 1100 [595] 
+or Liquid 
+Quenched 
+CP12 Normalized 1100 [595] 
+or Liquid 
+Quenched 
+CP15 Normalized 1100 [595] 
+or Liquid 
+Quenched 
+CP21 Normalized 1250 [675] 
+or Liquid 
+Quencl1ed 
+CP22 Normalized 1250 [675] 
+or Liquid 
+Quenched 
+CPCA15 Normalized 1250 [675] 
+or Liquid 
+Quenched 
+11.2 When agreed upon between the manufacturer and the 
+purchaser, test coupons from which test specimens are pre­
+pared shall be cast attached to separate blocks from the same 
+heat as the casting represented. The test blocks shall be heat 
+treated in the same manner as the casting represented. 
+11.3 Tension test specimens shall be machined to the form 
+and dimensions of the standard round 2-in. [50-mm] gage 
+length specimens shown in Fig. 6 of Test Methods and 
+Definitions A370. 
+12. Hydrostatic Test 
+12.1 Each length of pipe shall be hydrostatically tested in 
+accordance with Specification A999/ A999M. 
+12.2 When agreed to between the manufacturer and the 
+purchaser and so stated in the order, the hydrostatic test may be 
+defe1Ted and shall be performed later by the purchaser. Pipe 
+furnished without the hydrostatic test shall include with the 
+TABLE 3 Tensile Properties and Hardness Requirements 
+Tensile strength, min: psi [MPa] 
+Grade CP1 65 000 [450] 
+Grades CP11, CP22 70 000 [485] 
+Grades CP5, CP9, CPCA15 90 000 [620] 
+All other grades 60 000 [415] 
+Yield strength, min: psi [MPa] 
+Grade CP1 35 000 [240] 
+Grades CP11, CP22 40 000 [275] 
+Grades CP5, CP9 60 000 [415] 
+Grade CPCA 15 65 000 [450] 
+All other grades 30 000 [205] 
+Elongation, min: %A 
+Grade CP1 24 
+Grades CP11, CP22 20 
+Grades CP5, CP9, CPCA15 18 
+All other grades 22 
+Reduction of area, min: % 
+714 
+Grades CP1, CP2, CP11, CP12, CP15, 35 
+CP21, CP22, CP5, CP5b, CP7, CP9 
+Grade CPCA15 30 
+Hardness: HBW 
+Grades CP5, CP5b, CP9, CPCA15, max 225 
+All other grades, max 201 
+A Elongation in 2 in. [50 mm] using a standard round specimen, in either the 
+transverse or longitudinal direction. 
+mandatory marking the letters "NH." The manufacturer is 
+responsible for the satisfactory performance of the casting 
+when it is tested. 
+12.3 When certification is required by the purchaser and the 
+hydrostatic test has been omitted, the certification shall clearly 
+state "not hydrostatically tested." The specification number and 
+material grade shown on the certification shall be followed by 
+the letters "NH." 
+13. Visual Inspection 
+13 .1 The surface of the casting shall be free from cracks and 
+hot tears as determined by visual examination. Other surface 
+imperfections shall be judged in accordance with visual accep­
+tance criteria which may be specified in the order. 
+14. Rework and Retreatment 
+14. l Defects as defined in Section 13 shall be removed and 
+their removal verified by visual inspection of the resultant 
+cavities. Defects that are located by inspecting with supple­
+mentary requirements S6, S7, SS, or S9 shall be removed or 
+reduced to an acceptable size. 
+14.2 If removal of the defect does not infringe upon the 
+minimum wall thickness, the depression may be blended 
+uniformly into the surrounding surface. 
+14.3 If the cavity resulting from defect removal infringes 
+upon the minimum wall thickness, weld repair is permitted 
+subject to the purchaser's approval. The composition of the 
+weld rod used shall be suitable for the composition of the metal 
+being welded. 
+14.3.1 Only welders and procedures qualified in accordance 
+with ASME Boiler and Pressure Vessel Code, Section IX, shall 
+be used. All repair welds will be inspected to the same quality 
+standards used to inspect the casting. 
+14.4 Local or full heat treatment in accordance with tem­
+pering temperatures specified in 5.1 shall follow welding.
+
+=== Page 765 ===
+
+ASME BPVC.II.A-2025 SA-426/SA-426M 
+15. Rejection 
+15.1 Each length of pipe received from the manufacturer 
+may be inspected by the purchaser and, if it does not meet the 
+requirements of the specification based on the inspection and 
+test method as outlined in the specification, the pipe may be 
+rejected and the manufacturer shall be notified. Disposition of 
+rejected pipe shall be a matter of agreement between the 
+manufacturer and the purchaser. 
+16. Product Marking 
+16.1 Each length of pipe shall be legibly marked with the 
+manufacturer's name or brand, the specification number and 
+grade. In addition, heat numbers or serial numbers that are 
+traceable to heat numbers shall be marked on each length of 
+pipe. 
+17. Keywords 
+17 .1 alloy steel; centrifugal; ferritic; high-temperature ser­
+vice; pipe; stainless steel; steel castings 
+SUPPLEMENTARY REQUIREMENTS 
+Supplementary requirements shall be applied only when specified by the purchaser. Details of the 
+supplementary requirements shall be agreed upon between the manufacturer and purchaser. The 
+specified tests shall be performed by the manufacturer prior to shipment of the castings. 
+S1. Additional Tension Tests 
+Sl.1 Additional tension tests shall be made at a temperature 
+to be specified by the customer, and the properties to be met are 
+a matter of agreement between the purchaser and manufacturer. 
+S2. Flattening Test 
+S2.1 The flattening test shall be made on specimens from 
+one or both ends of each length of pipe. If the specimen from 
+any end of any length fails to conform to the requirements of 
+Specification A999/A999M, that length shall be rejected. 
+S3. Photomicrographs 
+S3.l The manufacturer shall furnish one photomicrograph at 
+100 diameters from one specimen of as-finished pipe from each 
+heat in each heat-treatment lot. Such photomicrographs shall 
+be suitable identified as to pipe size, wall thickness, and heat. 
+Such photomicrographs are for information only, to show the 
+actual metal strncture of the pipe as furnished. No photomi­
+crographs for the individual pieces purchased shall be required 
+except as specified in Section S4. 
+S4. Photomicrographs for Individual Pieces 
+S4.1 The manufacturer shall furnish photomicrographs from 
+one or both ends of each pipe. All photomicrographs required 
+shall be properly identified as to heat number, size, and wall 
+thickness of pipe from which the section was taken. Photomi­
+crographs shall be further identified to permit association of 
+each photomicrograph with the individual length of pipe it 
+represents. 
+SS. Metal Structure and Etching Tests 
+S5.l Etching tests shall be made on transverse sections from 
+the pipe and shall reveal the macrostrncture of the material. 
+Such tests are for information only. 
+S6. Radiographic Examination 
+S6.l The castings shall be examined for internal defects by 
+means of X rays or gamma rays. The inspection procedure shall 
+be in accordance with Guide E94 and the types and degrees of 
+discontinuities considered shall be judged by Reference Radio­
+graphs El86, E280, or E446. The extent of the examination 
+and the basis for acceptance shall be subject to agreement 
+between the manufacturer and the purchaser. 
+S7. Liquid Penetrant Examination 
+S7.l The castings shall be examined for surface discontinui­
+ties by means of liquid penetrant inspection. The method of 
+peiforming the liquid penetrant test shall be in accordance with 
+Practice El65. The areas to be inspected, the methods and 
+types of liquid penetrants to be used, the developing procedure, 
+and the basis for acceptance shall be as specified on the inquiry 
+or invitation to bid and on the purchase order or contract or 
+both, or as agreed upon between the manufacturer and pur­
+chaser. 
+S8. Magnetic Particle Inspection 
+S8.1 The castings shall be examined by magnetic particle 
+inspection. The inspection procedure used shall be in accor­
+dance with Practice E709. The extent of examination and the 
+basis for acceptance shall be subject to agreement between the 
+manufacturer and the purchaser. 
+715 
+S9. Ultrasonic Inspection 
+S9.l The castings shall be examined ultrasonically in accor­
+dance with Practice A609/ A609M. The extent of the examina­
+tion and the basis of acceptance shall be subject to agreement 
+between the manufacturer and the purchaser. 
+S10. Residual Elements 
+S 10.1 An analysis for the elements specified in Table S 1.1 
+shall be included in those analyses specified in Section 6. The 
+chemical composition thus determined shall conform to the 
+requirements of Table S 1.1.
+
+=== Page 766 ===
+
+SA-426/SA-426M ASME BPVC.II.A-2025 
+TABLE S1.1 Residual Elements 
+Total Contents of 
+Grade Copper, Nickel, Chromium, Tungsten, These 
+max max max max Unspecified Elements, 
+max,% 
+CP1 0.50 0.50 0.35 0.10 1.00 
+CP2 0.50 0.50 0.10 1.00 
+CPS 0.50 0.50 0.10 1.00 
+CPSb 0.50 0.50 0.10 1.00 
+CP7 0.50 0.50 0.10 1.00 
+CP9 0.50 0.50 0.10 1.00 
+CP11 0.50 0.50 0.10 1.00 
+CP12 0.50 0.50 0.10 1.00 
+CP15 0.50 0.50 0.35 0.10 1.00 
+CP21 0.50 0.50 0.10 1.00 
+CP22 0.50 0.50 0.10 1.00 
+CPCA15 0.50 1.00 0.10 1.50 
+S11. Charpy Impact Test 
+S 11.1 Charpy impact test properties shall be determined on 
+each heat from a set of three Charpy V-notch specimens. The 
+test coupons shall be taken as specified for tension specimens 
+in Section 11 and tested at a test temperature agreed upon by 
+the manufacturer and purchaser. The acceptance requirements 
+shall be either energy absorbed or lateral expansion or percent 
+shear area, and shall be that agreed upon by the manufacturer 
+and purchaser. Test specimens shall be prepared as Type A and 
+tested in accordance with Test Methods and Definitions A370. 
+Sll.2 Absorbed Energy Value, of three specimens shall not 
+be less than that agreed upon by the manufacturer and 
+purchaser, with no more than one value permitted below the 
+minimum average specified and no value permitted below the 
+minimum specified for a single specimen. 
+Sll.3 Lateral Expansion Value, shall be agreed upon by the 
+manufacturer and purchaser. 
+Sll.4 Percent Shear Area, shall be agreed upon by the 
+manufacturer and purchaser. 
+716 
+S12. Drop Weight Test 
+S12.1 Drop weight test properties shall be determined by 
+preparing and testing either Type Pl, P2, or P3 specimens in 
+accordance with Test Method E208. The test coupons shall be 
+taken as specified for tension specimens in Section 11. The 
+crack starter weld shall be deposited on the surface of the 
+specimen which was nearest to the casting surface. Each test 
+shall consist of at least two specimens tested at a temperature 
+agreed upon by the manufacturer and purchaser. Each speci­
+men shall exhibit a "no break" performance.
+
+=== Page 767 ===
+
+ASME BPVC.ILA-2025 SA-437/SA-437M
+
+SPECIFICATION FOR STAINLESS AND ALLOY-STEEL
+TURBINE-TYPE BOLTING SPECIALLY HEAT TREATED
+FOR HIGH-TEMPERATURE SERVICE
+
+CxS SA-437/SA-437M ily 1
+®
+
+(TIONAL
+‘Standards Wortewige
+
+(Identical with ASTM Specification A437/A437M-15(2021).)
+
+717
+
+=== Page 768 ===
+
+SA-437 /SA-437M ASME BPVC.II.A-2025 
+Specification for 
+Stainless and Alloy-Steel Turbine-Type Bolting Specially 
+Heat Treated for High-Temperature Service 
+1. Scope 
+1.1 This specification covers stainless and alloy-steel bolt­
+ing material and bolting components specially heat treated for 
+high-temperature service, such as steam turbine, gas turbine, 
+and similar uses. See Specification A962/A962M for the 
+definition of bolting. This material requires special processing 
+and should not be used in general-purpose applications. Bolt­
+ing furnished as bars shall be hot wrought and may be further 
+processed by centerless grinding or by cold drawing. 
+1.2 The high-temperature properties of the bolting materials 
+and components covered by this specification are dependent 
+upon special heat treatment, which is required. Although the 
+high-temperature properties are not specified, they are implied 
+by control of the chemistry, heat treatment, and room­
+temperature properties of the bolting material. 
+1.3 Three levels of bolting strength are covered, designated 
+Grades B4B, B4C, and B4D. 
+1.4 The following referenced general requirements are in­
+dispensable for application of this specification: Specification 
+A962/ A962M. 
+1.5 Supplementary requirements are provided for use at the 
+option of the purchaser. The supplementary requirements shall 
+apply only when specified individually by the purchaser in the 
+purchase order or contract. 
+1.6 This specification is expressed in both inch-pound units 
+and in SI units; however, unless the purchase order or contract 
+specifies the applicable M specification designation (SI units), 
+the inch-pound units shall apply. 
+1. 7 The values stated in either SI units or inch-pound units 
+are to be regarded separately as standard. Within the text, the 
+SI units are shown in brackets. The values stated in each 
+718 
+system may not be exact equivalents; therefore, each system 
+shall be used independently of the other. Combining values 
+from the two systems may result in non-conformance with the 
+standard. 
+1.8 This international standard was developed in accor­
+dance with internationally recognized principles on standard­
+ization established in the Decision on Principles for the 
+Development of International Standards, Guides and Recom­
+mendations issued by the World Trade Organization Technical 
+Barriers to Trade (TBT) Committee. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+A962/A962M Specification for Common Requirements for 
+Bolting Intended for Use at Any Temperature from Cryo­
+genic to the Creep Range 
+E292 Test Methods for Conducting Time-for-Rupture Notch 
+Tension Tests of Materials 
+E112 Test Methods for Determining Average Grain Size 
+3. Ordering Information 
+3.1 It shall be the responsibility of the purchaser to specify 
+all requirements necessary for product under this specification. 
+Such requirements to be considered include, but are not limited 
+to, the following: 
+3.1.1 Specification designation, grade, issue date, and revi-
+sion letter, 
+3.1.2 Quantity (weight or number of pieces), 
+3.1.3 Description (bars, bolts, nuts, etc.), 
+3.1.4 Dimensions, 
+3.1.S Finish, and 
+3.1.6 Impact testing of nuts, if required (see Section 8). 
+4. Common Requirements 
+4.1 Bolting materials and bolting components supplied to 
+this specification shall conform to the requirements of Speci­
+fication A962/ A962M. These requirements include test
+
+=== Page 769 ===
+
+ASME BPVC.II.A-2025 SA-437 /SA-437M 
+methods, finish, thread dimensions, macroetch (Grade B4D 
+only), marking, certification, optional supplementary 
+requirements, and others. Failure to comply with the require­
+ments of Specification A962/A962M constitutes nonconfor­
+mance with this specification. In case of conflict between this 
+specification and Specification A962/ A962M, this specification 
+shall prevail. 
+5. Heat Treatment 
+5.1 Grades B4B and B4C shall be heated to a temperature 
+range of 1875 to 1925 °F [1025 to 1050 °C] and liquid 
+quenched to below 600 °F [316 °C]. The material Grades B4B 
+and B4C shall then be uniformly reheated for tempering at a 
+tempering temperature at least 100 °F [55 °C] higher than the 
+proposed operating temperature but not less than 1150 °F [620 
+0 C], then air or furnace cooled to room temperature. The 
+material shall be at the tempering temperature for a minimum 
+of 2 h. Double tempering may be used to enhance properties. 
+5.2 Grade B4D shall be heated to a temperature range of 
+1700 to 1750 °F [925 to 954 °C] and oil quenched. The 
+material shall then be uniformly reheated or tempered at a 
+temperature of 1200 °F [650 °C] minimum, followed by air or 
+furnace cooling to room temperature. 
+5.3 Stress relieving treatment of the bar material is required 
+after any stretcher, roller, or rotary-straightening or cold­
+finishing operations performed after heat treatment for me­
+chanical properties. Local gagging or press straightening to 
+conect camber limitations in excess of¼ in. in any 5 ft [6 mm 
+in any 1.5 m] shall be followed by a stress relieving heat 
+treatment. The minimum stress relieving temperature shall be 
+100 °F [55 °C] below the minimum tempering temperature as 
+shown in 5.1 for Grades B4B and B4C or in 5.2 for Grade 
+B4D. 
+6. Chemical Composition 
+6.1 Bolting material shall conform to the requirements as to 
+chemical composition specified in Table 1. 
+TABLE 1 Chemical RequirementsA 
+Element 
+Carbon 
+Manganese 
+Phosphorus, max 
+Sulfur, max 
+Silicon 
+Nickel 
+Chromium 
+Molybdenum 
+Vanadium 
+Tungsten 
+Aluminum, maxc 
+Titanium, max 
+Tin, max 
+Grades B4B, B4C 8 
+Range,% Product 
+Variation, %, 
+Over or 
+Under 
+0.20-0.25 0.02 
+0.50-1.00 0.03 
+0.025 0.005 over 
+0.025 0.005 over 
+0.20-0.50 0.05 
+0.50-1.00 0.03 
+11.0-12.5 0.15 
+0.90-1.25 0.05 
+0.20-0.30 0.03 
+0.90-1.25 0.05 
+0.05 
+0.05 
+0.04 
+A Steel to which lead has been added shall not be used. 
+8 UNS S42200. 
+c Total, Soluble + Insoluble 
+Grade B4D 
+Range,% Product 
+Variation, %, 
+Over or 
+Under 
+0.36-0.44 0.02 
+0.45-0.70 0.03 
+0.04 0.005 over 
+0.04 0.005 over 
+0.20-0.35 0.02 
+0.80-1.15 0.05 
+0.50-0.65 0.03 
+0.25-0.35 0.03 
+0.015 
+7. Tensile Requirements 
+7.1 Bolting material shall conform to the requirements as to 
+tensile properties prescribed in Table 2 at room temperature 
+after heat treatment. 
+7 .2 The longitudinal axis of the test specimen shall be 
+parallel to the direction of rolling. 
+8. Impact Requirements 
+8.1 Grades B4B, B4C, and B4D shall conform to the 
+requirements as to impact properties prescribed in Table 3 at 
+room temperature after heat treatment. 
+9. Hardness Tests 
+9.1 Grades B4B, B4C, and B4D shall conform to the 
+requirements as to hardness as prescribed in Table 4 and Table 
+5 at room temperature after heat treatment. 
+10. Nuts 
+10.1 When specified by the purchaser, nuts shall be subject 
+to the impact and tension requirements of this specification. 
+The tests shall be made on test specimens taken from the bar or 
+plate used in the manufacture of the nuts. 
+11. Threads 
+11.1 All threads shall be formed after heat treatment. 
+12. Nondestructive Inspection 
+12.1 Each bar or forged blank of starting material shall be 
+subjected to NDE following final heat treatment. The method 
+used shall be either the Eddy Current (EC), the Magnetic 
+Pmiicle (MPI) (wet or dry), the Liquid Penetrant (LPI), the 
+Ultrasonic (UT), or the Visual Testing (VT), at the option of the 
+producer. For LPI or MPI, linear indications (those indications 
+longer than 1/16 in. [l.5 mm] with a length greater than three 
+times their width) are unacceptable. For UT or ET, reject levels 
+for linear indications shall be based on the alarm response from 
+a surface notch with a maximum depth of 0.012 in. [0.30 mm] 
+in a calibration bar. Product being subjected to VT shall be 
+pickled prior to inspection. VT indications longer than 1/8 in. 
+[3.2 mm] are prohibited. 
+719 
+13. Certification 
+13 .1 Certification is required. See Specification A962/ 
+A962M. 
+TABLE 2 Tensile Requirements 
+Grade Diameter, in. [mm] Tensile Yield Elongation Reduction 
+Strength, Strength in 2 in. or of Area, 
+min, ksi (0.2% 50 mm, min,% 
+[MPa] offset) min, min,% 
+ksi [MPa] 
+B4B 145 [1000] 105 [720] 13 30 
+B4C 115 [790] 85 [585] 18 50 
+B4D 2½ [65] and under 125 105 18 50 
+[860] [720] 
+over 2½ to 4 [65 to 110 95 17 45 
+100] [760] [655] 
+over 4 to 7 [100 to 100 85 16 45 
+180] [690] [585]
+
+=== Page 770 ===
+
+SA-437 /SA-437M ASME BPVC.II.A-2025 
+TABLE 3 Impact Requirements 
+Grade 
+B4B 
+B4C 
+B4DA 
+Minimum Impact Value, ft-lbf [J] 
+10 [14] 
+25 [34] 
+25 [34] 
+A For bars over 5-in. [127-mm] diameter only. 
+TABLE 4 Hardness Requirements for Bolts and Studs 
+Grade 
+B4B 
+B4C 
+B4D 
+14. Product Marking 
+Brinell Hardness Number, 
+max 
+331 
+277 
+302 
+14.1 Use the grade symbol shown in Table 4. See Specifi­
+cation A962/A962M. 
+TABLE 5 Hardness Requirements for Nuts and Washers 
+Grade Brinell Hardness Rockwell 
+Number Hardness 
+Number 
+B4B 293-341 C 31-37 
+B4C 229-277 C 21-29 
+B4D 263-311 C 27-33 
+15. Keywords 
+15.1 bolts-steel; chromium alloy steel; bolting 
+components-steel; marking on bolting components; nuts­
+steel; stainless steel; steel bars-alloy; steel bolting material; 
+temperature service applications-high; turbine materials 
+SUPPLEMENTARY REQUIREMENTS 
+One or more of the following supplementary requirements shall be applied only when specified by 
+the purchaser in the inquiry, contract, or order; in which event the specified tests shall be made before 
+shipment of the product. 
+Sl. Non-Destructive Examination 
+S 1.1 NDE is required following all machining and thread­
+ing. The acceptance criteria of 12.1 shall apply. 
+S2. Stress Rupture Testing-Grade B4B 
+S2.1 Stress rupture testing shall be conducted at 1200 °F 
+[650 °C] and 26 000 psi [180 MPa] using a combination test 
+bar in accordance with Test Methods E292. Rupture shall occur 
+in the smooth section of each test specimen. The test may be 
+720 
+discontinued after 25 h provided the certification so notes. · 
+Stress rupture testing is not required on bars less than ½ in. 
+[12.7 mm] in diameter or thickness. 
+S3. Grain Size-Grades B4B and B4C 
+S3.l The average grain size shall be 4 or finer. The 
+maximum size of individual grains, distributed at random, shall 
+be a 2. When the average grain size is 5 or finer, only the 
+average size need be reported. Grain size determination shall 
+be performed in accordance with Test Methods El12.

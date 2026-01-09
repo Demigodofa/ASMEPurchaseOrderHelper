@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 425,
+  "globalPageIndex": 425,
+  "width": 635.52,
+  "height": 871.68,
+  "text": "ASME BPVC.II.A-2025 \nSPECIFICATION FOR STAINLESS CHROMIUM \nSTEEL-CLAD PLATE \nSA-263 \n(Identical with ASTM Specification A263-12(2019).) \n373 \ncD \nINTl/iRNATIONAL \nStandards Worldwide \nSA-263 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-0425.txt",
+  "ocrTextLength": 178,
+  "ocrApplied": true,
+  "bestTextPath": "best_text\\pages\\page-0425.txt",
+  "bestTextSource": "full_ocr_highdpi",
+  "bestTextLength": 156,
+  "bestTextAlphaRatio": 0.673
+}

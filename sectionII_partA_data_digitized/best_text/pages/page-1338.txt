@@ -1,0 +1,114 @@
+SA-788/SA-788M ASME BPVC.II.A-2025 
+The capacity of the system must also be sufficiently high to 
+reduce the initial surge pressure at the start of the pour to a low 
+level within 2 min. 
+5.2.1.2 When the vacuum-lift process is utilized, the molten 
+metal shall be repeatedly drawn into the evacuated vessel to 
+give a recirculation factor (see Annex Al) of at least 2.5 to 
+ensure thorough degassing and mixing of the entire heat. The 
+evacuation system shall be capable of reducing the pressure 
+surges, which occur each time a new portion of steel is 
+admitted to the vessel to increasingly lower levels, until a 
+blank-off pressure (usually less than 1000 µm) is achieved 
+signifying the end of the degassing treatment. 
+5.2.1.3 When the ladle degassing process is used, the 
+evacuation system shall be capable of reducing the system 
+vacuum pressure to a low level (usually less than 1000 µm). 
+The molten metal shall be adequately stirred for a sufficient 
+length of time to maximize exposure to the evacuated atmo­
+sphere. 
+5.2.1.4 Other methods of vacuum treatment may be used if 
+the supplier can demonstrate adequate degassing and accept­
+able properties in the finished forging to the satisfaction of the 
+purchaser. 
+6. Forging 
+6.1 Forgings shall be made in accordance with 3.2.1. 
+6.2 Because of differences in manufacture, hot-rolled, or 
+hot-rolled and cold-finished bars (semi-finished or finished), 
+billets, or blooms are not considered to be forgings. 
+6.3 Cold worked forgings shall be made from material 
+previously hot worked by forging or rolling; however, a 
+hot-cold worked forging may be produced in one continuous 
+operation wherein the material is first hot worked and then cold 
+worked by control of the finishing temperature. 
+7. Cooling Prior to Heat Treatment 
+7.1 After forging and before reheating for heat treatment, 
+the forgings shall be allowed to cool in such a manner as to 
+prevent injury and, in the case of ferritic forgings, to permit 
+substantially complete transformation of austenite. 
+8. Chemical Composition 
+8.1 Heat Analysis: 
+8.1.1 An analysis of each heat of steel shall be made by the 
+steel producer to determine the percentages of those elements 
+specified in the product specification. This analysis shall be 
+made from a test sample preferably taken during the pouring of 
+the heat and shall conform to the requirements of the product 
+specification. 
+8.1.2 When multiple heats are tapped into a common ladle, 
+the ladle chemistry shall apply. The chemical composition thus 
+determined shall conform to the requirements of the product 
+specification. 
+8.1.3 For multiple-heat ingots, either individual heat analy­
+ses or a weighted average (see Annex A2) may be taken. The 
+results of the method used shall conform to the requirements of 
+the product specification. 
+8.1.4 With the exception of the product from multiple heats 
+sequentially cast in strand casting machines (see 8.1.5), if the 
+test sample taken for a heat analysis is lost or declared 
+inadequate for chemical determinations, the steel producer may 
+take alternative samples from appropriate locations near the 
+surface of the ingot or forging as necessary to establish the 
+analysis of the heat in question. 
+8.1.5 For multiple heats sequentially cast in strand casting 
+machines, the heat analysis shall be determined for each 
+individual heat in accordance with 8.1.1 or 8.1.2 if applicable. 
+8.1.5.1 If, for multiple heats sequentially strand cast, the test 
+sample is lost or declared inadequate for chemical analysis 
+determination, alternative samples, remote from the transition 
+zones, may be taken by the steel producer from the cast 
+material or product of that heat, as defined in 8.2 or 8.3 as 
+appropriate. 
+8.1.6 Heat Analysis for Remelted Ingots: 
+8.1.6.1 When consumable remelting processes are used, a 
+chemical analysis shall be taken from a remelted ingot ( or the 
+product of a remelted ingot) for the remelt heat analysis. 
+8.1.6.2 When more than one electrode is prepared from a 
+master or parent heat for remelting in the same facility by the 
+same process, then the heat analysis obtained from one 
+remelted ingot, or the product from that ingot, shall be taken as 
+the heat analysis for all of the remelted ingots from that master 
+heat. For analysis from each remelted ingot, see S27. 
+8.1.6.3 When electrodes from different master heats are 
+remelted sequentially, an analysis shall be made in each zone 
+of the remelted ingot corresponding to at least one electrode 
+from each master heat. The resultant chemical analysis of each 
+zone shall conform to the requirements of the product specifi­
+cation. The heat analysis of the remelted ingot shall be 
+represented by a weighted average (see Annex A2) of the 
+individual chemical analyses for each zone. 
+8.1.6.4 Limits on aluminum content in remelt ingots shall be 
+set as required in the product specification. 
+8.2 Heat Number Assignment for Sequentially Strand Cast 
+Material-When heats of the same chemical composition are 
+sequentially strand cast, the heat number assigned to the cast 
+product may remain unchanged until all of the steel in the 
+product is from the following heat, except when Supplemen­
+tary Requirement S3 is invoked. 
+8.3 Identification of Material of Different Chemical Compo­
+sition Ranges, Sequentially Strand Cast-Because of intermix­
+ing in the tun dish, separation and identification of the resultant 
+transition material is required when steels of different chemical 
+composition ranges are sequentially strand cast. The steel 
+producer shall remove the transition material by any estab­
+lished procedure that positively separates the grades. 
+8.4 Product Analysis: 
+8.4.1 An analysis may be made by the purchaser from a 
+forging representing each heat or multiple heat (see 8.1). 
+Samples for analysis may be taken from the forging or from a 
+full-size prolongation. The sampling location shall be at any 
+point from the midradius to the outer surface of disk or other 
+solid forgings or midway between the inner and outer surfaces 
+of hollow or bored forgings. The analysis may also be taken 
+from a mechanical test specimen or the mechanical test 
+location as defined in the product specification. 
+1276 

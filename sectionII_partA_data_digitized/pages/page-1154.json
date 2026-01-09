@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 356,
+  "globalPageIndex": 1154,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "SA-645/SA-645M ASME BPVC.II.A-2025 \nSUPPLEMENTARY REQUIREMENTS \nA list of standardized supplementary requirements for use at the option of the purchaser is included \nin Specification A20/ A20M. Supplementary requirements shall not apply unless specified in the order. \nThose which are considered suitable for use with this specification are listed below by title. Others \nenumerated in Specification A20/A20M may be used with this specification subject to agreement by \nthe supplier. \nS 1. Vacuum Treatment, \nS2. Product Analysis, \nS6. Drop-Weight Test (for Material 0.625 in. [16 mm] and \nover in Thickness), \nS8. Ultrasonic Examination in accordance with Specifica\u00ad\ntion A435/A435M, \nSll. Ultrasonic Examination in accordance with Specifica\u00ad\ntion A577 / A577M, \nS12. Ultrasonic Examination in accordance with Specifica\u00ad\ntion A578/A578M, and \nS 17. Vacuum Carbon-Deoxidized Steel. \nADDITIONAL SUPPLEMENTARY REQUIREMENTS \nAlso listed below are additional supplementary requirements which are considered suitable \nfor use with this specification. \nS64. Longitudinal Charpy Impact Energy Absorption Re\u00ad\nquirement \nS64.1 When required, the purchaser may specify longitudi\u00ad\nnal Charpy V-notch impact testing to energy-absorption accep\u00ad\ntance criteria. \nS64.2 Tests shall be conducted in accordance with the \ngeneral requirements of Specification A20/ A20M. \nS64.3 The longitudinal Charpy V-notch impact properties \nshall not be less than those shown in Table S 1.1. \nS64.4 The impact values obtained on subsize specimens \nshall not be less than the values listed in Table S 1. 1. \nS65. Transverse Charpy Impact Energy Absorption Re\u00ad\nquirement \nS65.1 When required, the purchaser may specify transverse \nCharpy V-notch impact testing to energy-absorption accep\u00ad\ntance criteria. \nS65.2 Tests shall be conducted in accordance with the \ngeneral requirements of Specification A20/ A20M. \nTABLE S1.1 Charpy Impact Requirements for Longitudinal \nSpecimens \nSize of Specimen, \nmm \n10 by 10 \n10 by 7.5 \n10 by 6.67 \n10by5.0 \n10 by 3.33 \n10 by 2.50 \nCharpy V-notch \nImpact Value \nRequired for \nAcceptance \n(Average of \nThree Specimens), \nft-lbf [J] \n25 [34] \n19 [26] \n17 [23] \n13 [18] \n8 [11] \n6 [8] \nMinimum \nCharpy V-notch \nImpact Value \nWithout Requiring \nRetest (One \nSpecimen Only \nof a Set), \nft-lb! [J] \n20 [27] \n16 [22] \n13 [18] \n10 [14] \n7 [10] \n5 [7] \nS65.3 The transverse Charpy V-notch impact properties \nshall not be less than those shown in Table S2.1. \nS65.4 The impact values obtained on subsize specimens \nshall not be less than the values listed in Table S2.1. \nTABLE S2.1 Charpy Impact Requirements for Transverse \nSpecimens \nSize of Specimen, \nmm \n10 by 10 \n10 by 7.5 \n10 by 6.6 \n10 by 5.0 \n10 by 3.33 \n10 by 2.50 \nCharpy V-notch \nImpact Value \nRequired for \nAcceptance \n(Average of \nThree Specimens), \nft-lbf [J] \n20 [27] \n15 [20] \n13 [18] \n10 [14] \n1060 \n7 [10] \n5 [7] \nMinimum \nCharpy V-notch \nImpact Value \nWithout Requiring \nRetest (One \nSpecimen Only \nof a Set), \n11-lbf [J] \n16 [22] \n12 [16] \n10 [14] \n8 [11] \n5 [7] \n4 [5] ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1154.json",
+  "tabulaTablesCsv": "tables_tabula/page-1154.csv",
+  "tabulaTableCount": 2,
+  "bestTextPath": "best_text/pages/page-1154.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 3035,
+  "bestTextAlphaRatio": 0.6774
+}

@@ -1,0 +1,17 @@
+ASME BPVC.II.A-2025 SA-832/SA-832M 
+~vTr40 (~vTr55) = the shift of the 40-ft-lbs (55 J) transition 
+temperature the of the step cooled ma­
+terial. (The 40-ft-lbs (55 J) transition 
+temperature the of the step cooled ma­
+terial minus that of the material sub­
+jected to the minimum PWHT only). 
+S63.5 The 40-ft-lbs (55 J) transition temperatures for the 
+two material conditions shall be reported. (Fig. S 1.1) 
+8 
+! 
+I I 
+40 (55) 
+A\11MO (Av1i'SS) 
+Temperature, °F (°C) 
+FIG. S1.1 Transition Temperature Curves Before and After Step Cool Heat Treatment 
+1343 

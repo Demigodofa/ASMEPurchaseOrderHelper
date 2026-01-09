@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 715,
+  "globalPageIndex": 715,
+  "width": 607.56,
+  "height": 850.08,
+  "text": "ASME BPVC.II.A-2025 SA-395/SA-395M \nSUPPLEMENTARY REQUIREMENTS \nThe following supplementary requirement shall not apply unless specified in the purchase \norder. \nS1. Casting \nS1.1 For Castings Grade 60-40-18, a microstructure \ntest lug is to be cast attached to the casting at the location \ndesignated on the casting drawing. The microstructure of \nthe test lug shall be essentially ferritic and contain no \nmassive carbides. \nS2. Pressure Test, Casting Grade 65-45-15 \nS2.1 A hydrostatic test at a pressure agreed upon by \nthe manufacturer and the purchaser shall be applied by the \nmanufacturer. \n665 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-0715.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 603,
+  "bestTextAlphaRatio": 0.7463
+}

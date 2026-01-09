@@ -1,0 +1,49 @@
+SA-376/SA-376M ASME BPVC.II.A-2025 
+S6. Ultrasonic Test 
+S6.1 Each piece of pipe may be ultrasonically tested to 
+determine its soundness throughout the entire length of the 
+pipe. Each piece shall be ultrasonically tested in a circumfer­
+ential direction in such a manner that the entire piece is 
+scanned by the ultrasonic beam. The calibration standard shall 
+be prepared from a section of pipe which has two notches, one 
+in the inside surface and one in the outside smface. The notches 
+shall be at least 1 ½-in. [38-mm] long and have a depth of 3 % 
+of the wall thickness, or 0.004 in. [0.102 mm], whichever is the 
+greater. Any pipe showing an ultrasonic indication of greater 
+amplitude than the amplitude of the indication from the 
+calibration standard shall be subject to rejection. 
+S7. Hot Ductility Test for Indicating Weldability 
+S7 .1 A high-temperature ductility test may be made upon 
+each heat of mate1ial supplied in heavy-wall pipe sections. An 
+appropriate specimen shall be heated to an initial temperature, 
+cooled 100 °P [50 °C], then subjected to a tension test, and 
+shall show a minimum reduction of area of 60 %. The initial 
+temperature is that temperature 50 °P [30 °C] below the 
+temperature at which material exhibits zero ductility. Rejection 
+of material shall not be based upon this test. 
+S8. Retests 
+S8.l Upon the purchaser's request, retests shall be made 
+from sections of material removed from any part of the pipe. 
+Failure to meet the requirements stated in this specification 
+shall be cause for rejection. 
+S9. Stabilization Heat Treatment 
+S9.1 Subsequent to the solution anneal required in 5.4, 
+Grades TP321, TP321H, TP347, TP347H, TP348, and TP348H 
+shall be given a stabilization heat treatment at a temperature 
+lower than that used for the initial solution annealing heat 
+treatment. The temperature of stabilization heat treatment shall 
+be at a temperature as agreed upon between the purchaser and 
+vendor. 
+S10. Intergranular Corrosion Test 
+S 10.1 When specified, material shall pass intergranular 
+corrosion tests conducted by the manufacturer in accordance 
+with Practices A262, Practice E. 
+NoTE S 10.1-Practice E requires testing on the sensitized condition for 
+low carbon or stabilized grades, and on the as-shipped condition for other 
+grades. 
+SI0.2 A stabilization heat treatment in accordance with 
+Supplementary Requirement S9 may be necessary and is 
+permitted in order to meet this requirement for the grades 
+containing titanium or columbium, particularly in their H 
+versions. 
+646 

@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 660,
+  "globalPageIndex": 660,
+  "width": 614.16,
+  "height": 855.0,
+  "text": "SA-370 ASME BPVC.II.A-2025 \n.,, \n\"\" \n\"lt \n~r, I \n1.7 \n!llU. OF MArERlJ\\L \n\u00b7---- I \n3,5 \n/l.25 \nNOTE: ~~:.:~~~~:iN SAME \n_5.;! No, 2 fffARRITT CONTACT' POINT \n\\:!~- ~ \u2022. 0611.f!YR) \nr;l\u00b7-l(J \n'~ \nv,u1c1.1.,ra1 OIi\\, 8' C'SQRE \n.31 DSEI' \n'62 \nW~ltili..l'!lhB.G.!!Q} \nNOillS: \nL) FLASH CHROME l't.ATE ITEMS 1 & 2 \n2.) \nFIG. 17 Assembly and Details for Lateral Expansion Gauge \nusing the procedures in Section 26. Record each test tempera\u00ad\nture to the nearest I \u00b0F (0.5 \u00b0C). \n27.2.1.2 Plot the individual test results (ft\u2022lbf or percent \nshear) as the ordinate versus the corresponding test temperature \nas the abscissa and construct a best-fit curve through the plotted \ndata points. \n27 .2.1.3 If transition temperature is specified as the tem\u00ad\nperature at which a test value is achieved, determine the \ntemperature at which the plotted curve intersects the specified \ntest value by graphical interpolation ( extrapolation is not \npermitted). Record this transition temperature to the nearest \n5 \u00b0F (3 \u00b0C). If the tabulated test results clearly indicate a \ntransition temperature lower than specified, it is not necessary \nto plot the data. Report the lowest test temperature for which \ntest value exceeds the specified value. \n27.2.1.4 Accept the test result if the determined transition \ntemperature is equal to or lower than the specified value. \n27.2.1.5 If the determined transition temperature is higher \nthan the specified value, but not more than 20 \u00b0F (12 \u00b0C) higher \nthan the specified value, test sufficient samples in accordance \nwith Section 26 to plot two additional curves. Accept the test \nresults if the temperatures determined from both additional \ntests are equal to or lower than the specified value. \n27.3 When subsize specimens are permitted or necessary, or \nboth, modify the specified test requirement according to Table \n9 or test temperature according to ASME Boiler and Pressure \nVessel Code, Table UG-84.2, or both. Greater energies or lower \ntest temperatures may be agreed upon by purchaser and \nsupplier. \n28. Records \n28.1 The test record should contain the following informa\u00ad\ntion as appropriate: \n28.1.1 Full description of material tested (that is, specifica\u00ad\ntion number, grade, class or type, size, heat number). \n28.1.2 Specimen orientation with respect to the material \naxis. \n28.1.3 Specimen size. \n28.1.4 Test temperature and individual test value for each \nspecimen broken, including initial tests and retests. \n28.1.5 Test results. \n28.1.6 Transition temperature and criterion for its \ndetermination, including initial tests and retests. \n608 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 1,
+  "tabulaTablesPath": "tables_tabula/page-0660.json",
+  "tabulaTablesCsv": "tables_tabula/page-0660.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0660.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2585,
+  "bestTextAlphaRatio": 0.7161
+}

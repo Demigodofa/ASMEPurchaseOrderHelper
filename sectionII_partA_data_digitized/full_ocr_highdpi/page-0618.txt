@@ -1,0 +1,58 @@
+SA-358/SA-358M ASME BPVG.ILA-2025
+Specification for —
+Electric-Fusion-Welded Austenitic Chromium-Nickel
+Stainless Steel Pipe for High-Temperature Service and
+General Applications
+1. Scope manufacturing practice are provided. Supplementary Require-
+
+1.1 This specification covers electric-fusion-welded auste- | ™ents SI through S6 are included as options to be specified a
+nitic chromium-nickel stainless steel pipe suitable for corrosive When desired.
+or high-temperature service, or both, or for general applica- 1.5 The values stated in either inch-pound units or SI units
+tions. , are to be regarded separately as standard. Within the text, the
+
+Nore 1—The dimensionless designator NPS (nominal pipe size) has SL units are shown in brackets. The values stated in each
+been substituted in this standard for such traditional terms as “nominal system may not be exact equivalents; therefore, each system
+diameter,” “size,” and “nominal size.” shall be used independently of the other. Combining values
+
+1.2 This specification covers the grades of alloy and stain- from the two systems may result in nonconformance with the |
+less steel listed in Table 1. The selection of the proper grade specification. The inch-pound units shall apply unless the “M”
+and requirements for heat treatment shall be at the discretion of | designation of this specification is specified in the order.
+the purchaser, dependent on the service conditions to be 1.6 This international standard was developed in accor-
+encountered. dance with internationally recognized principles on standard-
+
+1.3 Five classes of pipe are covered as follows: ization established in the Decision on Principles for the
+
+1.3.1 Class 1—Pipe shall be double welded by processes § Development of International Standards, Guides and Recom-
+employing filler metal in all passes and shall be completely |= mendations issued by the World Trade Organization Technical ,
+radiographed. Barriers to Trade (TBT) Committee.
+
+1.3.2 Class 2—Pipe shall be double welded by processes
+employing filler metal in all passes. No radiography is re- 2. Referenced Documents
+quired.
+
+; ; 2.1 ASTM Standards:
+
+roy 5 P P y Nickel Stainless Steel Plate, Sheet, and Strip for Pressure
+radiographed. Vessels and for General Applicatio
+
+1.3.4 Class 4—Same as Class 3 except that the weld pass ieenrenenranriniaarile : ances
+
+, i. ; A262 Practices for Detecting Susceptibility to Intergranular
+exposed to the inside pipe surface may be made without the , 7 .
+a Attack in Austenitic Stainless Steels
+addition of filler metal (see 6.2.2.1 and 6.2.2.2). ; ; .
+; A480/A480M Specification for General Requirements for
+1.3.5 Class 5—Pipe shall be double welded by processes ve
+; .; x, Flat-Rolled Stainless and Heat-Resisting Steel Plate,
+employing filler metal in all passes and shall be spot radio- h ;
+
+raphed Sheet, and Strip .
+6 A941 Terminology Relating to Steel, Stainless Steel, Related
+
+1.4 Supplementary requirements covering provisions rang- Alloys, and Ferroalloys ~~
+ing from additional testing to formalized procedures for A999/A999M Specification for General Requirements for
+
+Alloy and Stainless Steel Pipe
+E527 Practice for Numbering Metals and Alloys in the
+, Unified Numbering System (UNS)
+566

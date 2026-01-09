@@ -1,0 +1,73 @@
+ASME BPVC.II.A-2025 SA-370 
+TABLE A 1.2 Recommended Practice for Selecting Bend Test Specimens for Steel Bar Products 
+Norn I-The length of all specimens is to be not less than 6 in. (150 mm). 
+Norn 2-The edges of the specimen may be rounded to a radius not exceeding 1/16 in. (1.6 mm). 
+Flats 
+Thickness, in. (mm) Width, in. (mm) Recommended Size 
+Up to¼ (13), incl Up to¾ (19), incl Full section. 
+Over¾ (19) Full section or machine to not less than ot less than 
+¾ in. (19 mm) in width by thickness of specimen. 
+Over¼ (13) All Full section or machine to 1 by ¼ in. (25 by 13 mm) 
+specimen from midway between center and surface. 
+Rounds, Squares, Hexagons, and Octagons 
+Diameter or Distance Between Parallel Faces, in. (mm) 
+Up to 1¼ (38), incl 
+Over 1¼ (38) 
+hardness penetration. 
+Recommended Size 
+Full section. 
+Machine to 1 by ¼-in. {25 by 13 mm) specimen from midway between center 
+and surface. 
+A2. STEEL TUBULAR PRODUCTS 
+A2.1 Scope 
+A2.l.1 This annex contains testing requirements for Steel 
+Tubular Products that are specific to the product. The require­
+ments contained in this annex are supplementary to those found 
+in the general section of this specification. In the case of 
+conflict between requirements provided in this annex and those 
+found in the general section of this specification, the require­
+ments of this annex shall prevail. In the case of conflict 
+between requirements provided in this annex and requirements 
+found in product specifications, the requirements found in the 
+product specification shall prevail. 
+A2.1.2 Tubular shapes covered by this specification include, 
+round, square, rectangular, and special shapes. 
+A2.2 Tension Test 
+A2.2.1 Full-size Longitudinal Test Specimens: 
+A2.2.1.1 As an alternative to the use of longitudinal strip 
+test specimens or longitudinal round test specimens, tension 
+test specimens of full-size tubular sections are used, provided 
+that the testing equipment has sufficient capacity. Snug-fitting 
+metal plugs should be inserted far enough in the end of such 
+tubular specimens to permit the testing machine jaws to grip 
+the specimens properly without crushing. A design that may be 
+used for such plugs is shown in Fig. A2.1. The plugs shall not 
+extend into that part of the specimen on which the elongation 
+is measured (see Fig. A2.l). Care should be exercised to see 
+that insofar as practicable, the load in such cases is applied 
+axially. The length of the full-section specimen depends on the 
+gauge length prescribed for measuring the elongation. 
+A2.2.1.2 Unless otherwise required by the product 
+specification, the gauge length is 2 in. or 50 mm, except that for 
+tubing having an outside diameter of 3/s in. (9.5 mm) or less, it 
+is customary for a gauge length equal to four times the outside 
+611 
+@) 
+FIG. A2.1 Metal Plugs for Testing Tubular Specimens, Proper Lo­
+cation of Plugs in Specimen and of Specimen in Heads of Test­
+ing Machine 
+diameter to be used when elongation comparable to that 
+obtainable with larger test specimens is required. 
+A2.2.1.3 To determine the cross-sectional area of the full­
+section specimen, measurements shall be recorded as the 
+average or mean between the greatest and least measurements 
+of the outside diameter and the average or mean wall thickness, 
+to the nearest 0.001 in. (0.025 mm) and the cross-sectional area 
+is determined by the following equation: 
+A= 3.1416t (D t) (A2. l) 
+where: 
+A = sectional area, in.2 
+D = outside diameter, in., and 
+t = thickness of tube wall, in. 
+Norn A2.1-There exist other methods of cross-sectional area 
+determination, such as by weighing of the specimens, which are equally 

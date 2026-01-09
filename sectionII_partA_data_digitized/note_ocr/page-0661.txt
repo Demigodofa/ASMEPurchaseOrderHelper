@@ -1,0 +1,82 @@
+ASME BPVC.II.A-2025 SA-370
+TABLE 9 Charpy V-notch Test Acceptance Criteria for Various Sub-size Specimens*2°
+Full Size, % Size, % Size, Ye Size, 1% Size, Va Size,
+10 by 10 mm 10 by 7.5 mm 10 by 6.7 mm 10 by 5mm 10 by 3.3 mm 10 by 2.5 mm
+ftlbf (J) ft-lbf [J] ft-lb [J] ft-lbf [J] ftlbf W] ftlbf 8)]
+75 [102] 56 76) 50 68 38 52 25 [34] 19 [26]
+70 95) 53 72) 47 64] 35 48] 23 [31] 18 [24]
+65 (88) 49 67] 44 (60) 33 [45] 21 [29] 16 [22]
+60 82] 45 61 40 54 30 a1 20 [27] 15 [20]
+55 75) 4 56] 37 50] 28 38) 18 [24] 14 [19]
+50 [68] 38 52] 34 46] 25 34] 17 [23] 13 [18]
+45 61 34 (46) 30 41 23 (31 15 [20] W [15]
+40 54] 30 41 27 [37] 20 (27) 13 [18] 10 [14]
+35 48) 26 35) 23 31 18 (24) 12 [16] 9 [12]
+30 iat 22 30 20 27] 15 20) 10 (14] 8 [11]
+25 34] 19 26) 17 (23) 12 16] 8 (11) 6 [8]
+20 (27) 15 (20) 13 18] 10 14] 7 [10] 5 [7]
+16 (22) 12 16 1 15) 8 14 5 ital 4 [5]
+15 20 "1 15) 10 14 8 11 5 (71 4 (5)
+13 18] 10 14] 9 12) 6 [8] 4 [5] 3 [4]
+12 16) 9 12) 8 in 6 8] 4 (5) 3 [4]
+10 14 8 11 7 10 5 ita] 3 4] 2 13]
+7 10 5 (71 5 17] 4 (5) 2 (31 2 13]
+
+A Care must be taken when using Table 9 for the conversion of subsize specimen absorbed energy results to those values that may be expected from full size Charpy
+specimens. The use of conversion values should only be applied when both specimens types (full-size and sub-size) are in the same fracture regime (in other words. a
+lower shelf, transition, or upper shelf) at the test temperature for the material under investigation. In particular test specimens <5 mm can exhibit variable absorbed energy
+
+values (NIST Technical Note 1858). (1)
+
+5 Limit based upon presentation by Kim Wallin, VTT, “Sub-sized CVN Specimen Conversion Methodology 4, Slide #10,” which shows a common relationship for sub-sized
+
+specimens up to 75 ft-lbf (102J). (2)
+
+© Analysis of Data from NIST Note 1858 by J. A. Griffin, UAB, ASTM A01.13 Task Group meeting, San Antonio, TX 5.4.16. (1)
+
+29. Report
+
+29.1 The specification should designate the information to
+be reported.
+
+IZOD IMPACT TEST
+
+30. Procedure
+
+30.1 Testing equipment and methods are given in Test
+Methods E23.
+31. Precision and Bias
+
+31.1 The precision and bias of these test methods for
+measuring mechanical properties are essentially as specified in
+Test Methods E8/E8M, E10, E18, and E23.
+
+32. Keywords
+
+32.1 bend test; Brinell hardness; Charpy impact test; elon-
+gation; FATT (Fracture Appearance Transition Temperature);
+hardness test; Izod impact test; portable hardness; reduction of
+area; Rockwell hardness; tensile strength; tension test; yield
+strength
+
+ANNEXES
+
+(Mandatory Information)
+
+Al. STEEL BAR PRODUCTS
+
+A1.1 Scope
+
+Al1.1.1 This annex contains testing requirements for Steel
+Bar Products that are specific to the product. The requirements
+contained in this annex are supplementary to those found in the
+general section of this specification. In the case of conflict
+between requirements provided in this annex and those found
+
+609
+
+in the general section of this specification, the requirements of
+this annex shall prevail. In the case of conflict between
+requirements provided in this annex and requirements found in
+product specifications, the requirements found in the product
+specification shall prevail.

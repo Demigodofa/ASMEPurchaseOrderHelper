@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 423,
+  "globalPageIndex": 423,
+  "width": 624.0,
+  "height": 862.56,
+  "text": "ASME BPVC.II.A-2025 SA-250/SA-ZS0M \nSUPPLEMENTARY REQUIREMENTS \nThe following supplementary requirements may become a part of the specification when specified \nin the inquiry or invitation to bid, and purchase order or contract. These requirements shall not be \nconsidered, unless specified in the order and the necessary tests shall be made at the mill. \nS1. Additional Testing of Welded Tubing for 100 % Joint \nEfficiency in Certain ASME Applications \nS 1.1 Where this supplement is specified in the purchase \norder, in certain ASME applications it is permissible to use \n100 % joint efficiency for the longitudinal weld, provided the \nfollowing additional requirements are met: \nS 1.1.1 Each tube shall be subjected to an ultrasonic inspec\u00ad\ntion employing Practices E273 or E213E273E213 with the \nrejection cdteria referenced in Specification A1016/Al016M. \nSl.1.2 If Practice E273 is employed, a 100 % volumetric \ninspection of the entire length of each tube shall also be \nperfonned using one of the non-destructive electric tests \npermitted by Specification A1016/A1016M. \nS 1.1.3 The test methods described in the supplement may \nnot be capable of inspecting the end portions of tubes. This \ncondition is referred to as end effect. This portion, as deter\u00ad\nmined by the manufacturer, shall be removed an.d discarded. \nS 1.1 .4 In addition to the marking prescri.bed in Specification \nA1016/A1016M, \"Sl\" shall be added after the grade designa\u00ad\ntion. \n371 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-0423.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1460,
+  "bestTextAlphaRatio": 0.7514
+}

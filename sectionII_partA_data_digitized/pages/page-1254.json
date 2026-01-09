@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 456,
+  "globalPageIndex": 1254,
+  "width": 793.2,
+  "height": 613.92,
+  "text": ">--' \n>--' \n\u00b0' CXl \n( \nTABLE 1 \nCHEMICAL REQUIREMENTSA \nComposition, % \nUNS \nDesignation 8 Type Carbon Manganese Phosphorus Sulfur Silicon Chromium Nickel Aluminum Molybdenum \nS17400 630 0.07 1.00 0.040 0.030 1.00 15.00-17.50 3.00-5.00 \nS17700 631 0.09 1.00 0.040 0.030 l.00 16.00-18.00 6.50-7.75 0.75-1.50 \nS15700 632 0.09 1.00 0.040 0.030 1.00 14.00-16.00 6.50--7.75 0.75-1.50 2.00--3.00 \nS35500 634 0.10-0.15 0.50--1.25 0.040 0.030 0.50 15.00-16.00 4.00-5.00 2.50-3.25 \nS17600 635 0.08 1.00 0.040 0.030 1.00 16.00-17.50 6.00-7.50 0.40 \nS15500 XM-12 0.07 1.00 0.040 0.030 1.00 14.00-15.50 3.50-5.50 \nS13800 XM-13 0.05 0.20 0.010 0.008 0.10 12.25-13.25 7.50-8.50 0.90-1.35 2.00-2.50 \nS45500 XM-16 0.03 0.50 0.015 0.015 0.50 ll.00-12.50 7.50-9.50 0.50 \nS45503 0.010 0.50 0.010 0.010 0.20 11.00-12.50 7.50-9.50 0.50 \nS45000 XM-25 0.05 1.00 0.030 0.030 1.00 14.00-16.00 5.00--7.00 0.50--1.00 \nA Limits are in percent maximum unless shown as a range or stated otherwise. \n8 New designation established in accordance with Practice E 527 and SAE Jl086, Recommended Practice for Numbering Metals and alloys CUNS). \nc Columbium plus tantalum 0.15--0.45. \nD Nitrogen 0.07-0.13. \n\u00a3 Nitrogen 0.01. \nF Columbium plus tantalum 0.10-0.50. \nG Columbium 8 times carbon minimum. \nTitanium Copper \n3.00-5.00 \n0.40--1.20 \n2.50-4.50 \n0.90--1.40 l.50-2.50 \nl.00-1.35 l.50-2.50 \nl.25-1.75 \nOther \nElements \nC \n... \nD \n... \nC \n\u00a3 \nF \nF \nG \n) \n~ \n-..i c:, \nU1 ...... \n~ \n-..i c:, \nU1 \n3: \nt 3: \n!'!:I \ntl:I \n~ ... \n~ \nN \nc:, \nN \nU1 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1254.json",
+  "tabulaTablesCsv": "tables_tabula/page-1254.csv",
+  "tabulaTableCount": 2,
+  "bestTextPath": "best_text/pages/page-1254.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1508,
+  "bestTextAlphaRatio": 0.305
+}

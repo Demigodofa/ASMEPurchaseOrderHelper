@@ -1,0 +1,76 @@
+ASME BPVC.II.A-2025 SA-609 /SA-609M 
+SUPPLEMENTARY REQUIREMENTS 
+The following supplementary requirement shall be applied only when agreed upon between 
+the purchaser and the supplier to achieve an effective examination of a critical casting area 
+that cannot be effectively examined using a longitudinal beam as a result of casting design 
+or possible discontinuity orientation. 
+S1. Angle Beam Examination of Steel Castings 
+S1.1 Equipment: 
+S1.1.1 Examination Instrument- Examination shall 
+be conducted with an ultrasonic, pulsed-reflection type of 
+system generating frequencies of at least 0.4 to 5 MHz. 
+Properties of the electronic apparatus shall be the same as 
+those specified in 4.1. 
+S1.1.2 Search Units - Angle-beam search units 
+shall produce an angle beam ip. steel in the range from 30 
+to 75° inclusive, measured to the perpendicular of the entry 
+surface of the casting being examined. It is preferred that 
+search units shall have frequency of 0.4 to 5 MHz. 
+S1.1.3 Calibration Blocks - A set of blocks, as 
+shown in Fig. 4, with as cast surface equivalent to SCRATA 
+Comparator A3 and of a thickness comparable to the sec­
+tions being examined with side-drilled holes at ¼t, ½t, and 
+¾t (where t = thickness of the block) shall be used to 
+establish an amplitude reference line (ARL). 
+Sl.2 Calibration of Equipment: 
+S1.2.1 Construct the distance amplitude correction 
+curve by utilizing the responses from the side-drilled holes 
+in the basic calibration block for angle beam examination 
+as shown in Fig. 4 and Table 5. 
+S1.2.1.1 Resolve and mark the amplitudes of the 
+¼t and ½t side-drilled holes from the same surface. The 
+side-drilled hole used for the ¼t amplitude may be used 
+to establish the ¾t amplitude from the opposite surface or 
+a separate hole may be used. 
+S1.2.1.2 Connect the ¼t, ½t, and ¾t amplitudes to 
+establish the applicable DAC. 
+S1.2.2 The basic calibration blocks shall be made 
+of material that is acoustically similar to the casting being 
+examined. 
+S1.2.3 Do not use basic calibration blocks with as 
+cast surface equivalent to SCRA TA Comparator A3 to 
+examine castings with surface rougher than SCRATA 
+Comparator A3. Use a machined calibration block for 
+machined surfaces. 
+S1.2.4 The search unit and all instrument control 
+settings remain unchanged except the attenuator or cali­
+brated gain control. 
+S1.2.4.1 The attenuator or calibrated gain control 
+may be used to change the signal amplitude during exami­
+nation to permit small amplitude signals to be more readily 
+detected. Signal evaluation is made by returning the attenu­
+ator or calibrated gain control to its original setting. 
+S1.3 Data Reporting - The supplier's report of final 
+ultrasonic examination shall contain the following data: 
+S1.3.1 The total number, location, amplitude, and 
+area of all indications equal to or greater than 100% of the 
+distance amplitude curve. 
+S1.3.2 The examination frequency, type of instru­
+ment, type, and size of search units employed, couplant, 
+transfer method, examination operator, supplier's identi­
+fying numbers, purchase order number, date, and author­
+ized signature. 
+S1.3.3 A sketch showing the physical outline of the 
+casting, including dimensions of all areas not examined 
+due to geometric configuration, with the location of all 
+indications in accordance with S1.3.1. 
+S1.4 Acceptance Standards - Acceptance quality lev­
+els shall be established between the purchaser and the 
+manufacturer on the basis of one or more of the following 
+criteria: 
+S1.4.1 No indication equal to or greater than the 
+DAC over an area specified for the applicable quality level 
+of Table 2. 
+S1.4.2 Other criteria agreed upon between the pur­
+chaser and the manufacturer. 
+1045 

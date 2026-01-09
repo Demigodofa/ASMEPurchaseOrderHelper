@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 343,
+  "globalPageIndex": 1141,
+  "width": 626.4,
+  "height": 803.04,
+  "text": "ASME BPVC.II.A-2025 SA-612/SA-612M (ASTM A612/A612M) \nSPECIFICATION FOR PRESSURE VESSEL PLATES, \nCARBON STEEL, HIGH STRENGTH, FOR MODERATE \nAND LOWER TEMPERATURE SERVICE \nSA-612/SA-612M \n(Identical with ASTM Specification A612/ A612M-20.) \n1047 \ncO \nINTERNATIONAL \nStandards Warldwfd& \n(25) ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-1141.txt",
+  "ocrTextLength": 252,
+  "ocrApplied": true,
+  "bestTextPath": "best_text\\pages\\page-1141.txt",
+  "bestTextSource": "full_ocr_highdpi",
+  "bestTextLength": 282,
+  "bestTextAlphaRatio": 0.642
+}

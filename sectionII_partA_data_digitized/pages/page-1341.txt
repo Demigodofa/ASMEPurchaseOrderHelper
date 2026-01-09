@@ -1,0 +1,81 @@
+ASME BPVC.II.A-2025 SA-788/SA-788M 
+14.3 Mill inspection by the purchaser shall not interfere 
+unnecessarily with the manufacturer's operations. 
+15. Rejection 
+15.1 Any rejection based on the presence of an injurious 
+defect found subsequent to acceptance at the manufacturer's 
+works or based on the results of a product analysis made in 
+accordance with 8.4 shall be reported to the manufacturer. 
+15 .2 Disposition of forgings rejected by the purchaser under 
+15.1 shall be as agreed upon between manufacturer and the 
+purchaser. 
+16. Certification 
+16.1 The manufacturer shall furnish to the purchaser the 
+number of copies of the material test report specified in the 
+ordering information (4.1.4). The following items shall be 
+reported: 
+16.1.1 Purchase order number, 
+16.1.2 Forging identification number, 
+16.1.3 The product specification number, including the year 
+date and revision letter if any, as well as the appropriate class, 
+type, and grade, 
+16.1.3.1 Reference to Specification A788/A788M including 
+the year date together with the applicable revision letter, if any, 
+of the revision used shall be a part of the certification. 
+16.1.4 Heat number and analysis, 
+16.1.5 Results of the required acceptance tests for mechani­
+cal properties, 
+16.1.6 Results of any required nondestructive examinations, 
+16.1.7 Final heat treatment cycle including austenitizing 
+and tempering temperatures and holding times and cooling 
+methods if required by the product specification or 4.2.3, 
+16.1.8 Extent to which the forging is incomplete with 
+respect to the product specification (see 1.4 and 16.1.7), and 
+16.1.9 Results of any supplementary and additional test 
+requirements that were specified. 
+16.1.10 The material test report may be sent to the purchaser 
+in electronic form from an electronic data interchange (EDI) 
+transmission, and this shall be regarded as having the same 
+validity as a counterpart printed in the certifier's facility. The 
+content of the EDI transmitted document shall meet the 
+requirements of the invokedASTM standard(s) and conform to 
+any existing EDI agreement between the purchaser and the 
+supplier. Notwithstanding the absence of a signature, the 
+organization submitting the EDI transmission is responsible for 
+the content of the report. 
+17. Packaging and Package Marking 
+17 .1 Each forging shall be legibly identified as required by 
+the product specification and instructions from the purchaser. 
+When not otherwise defined, each forging shall be identified by 
+the manufacturer as follows: 
+17 .1.1 Manufacturer's name or symbol. 
+17 .1.2 Manufacturer's identification or heat number. 
+17 .1.3 Product specification number. 
+17 .1.4 The class, grade, and type identification as appropri-
+ate. 
+17.1.5 Purchaser's identification (4.2.3). 
+17.1.6 Location of stamping (4.2.3). 
+17.1.7 Incomplete forging (1.4). The marking shall include 
+the suffix Y immediately following the ASTM number, and 
+preceding any other suffix. This suffix shall not be removed 
+until the material specification requirements have been com­
+pleted and the material test report supplemented. 
+17 .2 Marking shall be done by impression stamping or other 
+acceptable means specified in the product specification or 
+order. Bar coding is an acceptable supplemental identification 
+method. The purchaser may specify in the order a specific bar 
+coding system to be used. The bar coding system, if applied at 
+the discretion of the supplier, should be consistent with one of 
+published industry standards for bar coding. 
+17.3 The specification year date, and revision letter are not 
+required to be marked on the forgings. 
+18. Keywords 
+18.1 general delivery requirements; steel forgings-alloy; 
+steel forgings-carbon 
+SUPPLEMENTARY REQUIREMENTS 
+(GENERAL) 
+The following supplementary general requirements are common to the forging specifications listed 
+in this specification. These and other limitations or tests may be performed by agreement between the 
+supplier and purchaser. The additional requirements shall be specified in the order, and shall be 
+completed by the supplier before the shipment of the forgings. 
+1279 

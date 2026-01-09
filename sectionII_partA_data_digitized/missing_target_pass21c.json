@@ -1,0 +1,110 @@
+{
+  "createdUtc": "2026-01-08T23:18:30.231680+00:00",
+  "summary": {
+    "items": 10,
+    "found": 10,
+    "merged": 10
+  },
+  "results": [
+    {
+      "spec": "SA-264",
+      "kind": "table",
+      "number": 19,
+      "pdf": "SA-264.pdf",
+      "approxPage": 32,
+      "status": "found",
+      "foundPage": 31,
+      "snippet": "_ TABLE 19 Permitted Variations in Length for S, M, C, MC, L, T, Z, and Bulb Angle Shapes :"
+    },
+    {
+      "spec": "SA-266",
+      "kind": "table",
+      "number": 2,
+      "pdf": "SA-266.pdf",
+      "approxPage": 4,
+      "status": "found",
+      "foundPage": 3,
+      "snippet": "4.3 The finished product shall be a hot-worked forging as properties prescribed in Table 2 when tested in accordance with"
+    },
+    {
+      "spec": "SA-370",
+      "kind": "note",
+      "number": 12,
+      "pdf": "SA-370.pdf",
+      "approxPage": 13,
+      "status": "found",
+      "foundPage": 13,
+      "snippet": "cross section of the specimen. These conditions are varied Note 12\u2014The Brinell hardness number is more conveniently secured\n. . ; : . . from standard tables such as Table 6, which show numbers corresponding\naccording to location and orientation of the test specimen and to the various indentation diameters, usually in increments of 0.05 mm."
+    },
+    {
+      "spec": "SA-370",
+      "kind": "note",
+      "number": 13,
+      "pdf": "SA-370.pdf",
+      "approxPage": 13,
+      "status": "found",
+      "foundPage": 13,
+      "snippet": "the chemical composition, tensile properties, hardness, type, Note 13\u2014In Test Method E10 the values are stated in SI units, whereas\nand quality of the steel specified. Test Methods E190 and E290 in this section kg/m units are used.\nmay be consulted for methods of performing the test. 17.1.2 The standard Brinell test using a 10 mm tungsten\n15.2 Unless otherwise specified, it shall be permissible to | carbide ball employs a 3000 kgf load for hard materials and a\nage bend test specimens. The time-temperature cycle employed 1500 or 500 kef load for thin sections or soft materials (see\nmust be such that the effects of previous processing will not be | Annex A2 on Steel Tubular Products). Other loads and differ-\nmaterially changed. It may be accomplished by aging at room = ent size indentors may be used when specified. In recording\na temperature 24 to 48 h, or in shorter time at moderately hardness values, the diameter of the ball and the load must be\nelevated temperatures by boiling in water or by heating in oil stated except when a 10 mm ball and 3000 kef load are used.\nor in an oven. , 17.1.3 A range of hardness can properly be specified only\n15.3 Bend the test specimen at room temperature to an tor quenched and temp ered or normalized and tempered\n. : material. For annealed material a maximum figure only should\ninside diameter, as designated by the applicable product b | . - ;\n, .; : ; _ e specified. For normalized material a minimum or a maxi-\nspecifications, to the extent specified. The speed of bending is hard b \u2018fied b t Ine ;\nordinarily not an important factor. THUD TAROHESS TAY DE SPOCMiee OY Bereement. in genera\u2019, no\nhardness requirements should be applied to untreated material.\nHARDNESS TEST 17.1.4 Brinell hardness may be required when tensile prop-\nerties are not specified.\n16. General 17.2 Apparatus\u2014Equipment shall meet the following re-\n16.1 A hardness test is a means of determining resistance to quirements:\npenetration and is occasionally employed to obtain a quick 17.2.1 Testing Machine\u2014A Brinell hardness testing ma-\napproximation of tensile strength. Tables 2-5 are for the chine is acceptable for use over a loading range within which\nNe conversion of hardness measurements from one scale to its load measuring device is accurate to +1 %.\n595"
+    },
+    {
+      "spec": "SA-370",
+      "kind": "note",
+      "number": 1858,
+      "pdf": "SA-370.pdf",
+      "approxPage": 27,
+      "status": "found",
+      "foundPage": 27,
+      "snippet": "values (NIST Technical Note 1858). (1)\n\u00ae Limit based upon presentation by Kim Wallin, VTT, \u201cSub-sized CVN Specimen Conversion Methodology 4, Slide #10,\u201d which shows a common relationship for sub-sized\nspecimens up to 75 ft-lbf (102J). (2) .\n\u00a2 Analysis of Data from NIST Note 1858 by J. A. Griffin, UAB, ASTM A01.13 Task Group meeting, San Antonio, TX 5.4.16. (1)\n29. Report 32. Keywords\n29.1 The specification should designate the information to 32.1 bend test; Brinell hardness; Charpy impact test; elon-\nbe reported. gation; FATT (Fracture Appearance Transition Temperature);\nhardness test; Izod impact test; portable hardness; reduction of\nIZOD IMPACT TEST area; Rockwell hardness; tensile strength; tension test; yield\nstrength\n30. Procedure\n30.1 Testing equipment and methods are given in Test\nMethods E23. |\n31. Precision and Bias |\n31.1 The precision and bias of these test methods for\nmeasuring mechanical properties are essentially as specified in\nTest Methods E8/E8M, E10, E18, and E23. .\n(Mandatory Information)\nAl. STEEL BAR PRODUCTS\nA1.1 Scope in the general section of this specification, the requirements of\nA1.1.1 This annex contains testing requirements for Steel \"ls annex shall prevail. In the case of conflict between\nBar Products that are specific to the product. The requirements \u2018quirements provided in this annex and requirements found in\ncontained in this annex are supplementary to those found in the product specifications, the requirements found in the product\ngeneral section of this specification. In the case of conflict Specification shall prevail.\nbetween requirements provided in this annex and those found\n609"
+    },
+    {
+      "spec": "SA-401",
+      "kind": "note",
+      "number": 1,
+      "pdf": "SA-401.pdf",
+      "approxPage": 3,
+      "status": "found",
+      "foundPage": 3,
+      "snippet": "SI Units Note 1\u2014A typical ordering description is as follows: 20 000-kg,\nDiameter? mm MPa. min MPa. max Reduction of quench and tempered chromium-silicon alloy steel wire, size 6.00 mm in\n, , , Area, min, %\u00b0? 150 kg coils to ASTM A401/A401M dated , or for inch-pound units,\n40 000-Ib quench and tempered chromium-silicon alloy steel spring wire,\n0.80 2080 2260 vee size 0.250 in. in 350-Ib coils to ASTM A401/A401M dated ;\n0.90 2070 2250 Les\n1.00 2060 2240 a .\n140 5040 3990 - 5. Materials and Manufacture\n150 On eo ve 5.1 The steel may be made by any commercially accepted\n460 1980 2160 ve steel making process. The steel may be either ingot cast or\n1.80 1960 2140 a strand cast.\n2.00 1940 2120 Les ; ; ; ;\n290 4920 2400 5.2 The finished wire shall be free from detrimental pipe\n2.50 1900 2080 45 and undue segregation.\n2.80 1880 2060 45 , :\n3.00 1860 2040 45 . wis\n\u2014 350 ape 3020 40 6. Chemical Composition\n| eo hie Oe 10 6.1 The steel shall conform to the requirements of Grade\n5.00 1780 4960 40 9254 for chemical composition specified in Table 2.\nan a0 to00 40 6.2 Heat Analysis\u2014Each heat of steel shall be analyzed to\n6.50 1720 1900 40 determine the percentage of elements prescribed in Table 2.\n7.00 1700 1880 40 This analysis shall be made from a test specimen preferably\n500 te60 toa0 is taken during the pouring of the heat. When requested, this shall\n10.00 1640 1820 40 be reported to the purchaser and shall conform to the require-\n11.00 1620 1800 35 ments of Table 2.\n12.0 1600 1780 35\n13.0 1580 1760 30 6.3 Product Analysis\u2014An analysis may be made by the\niso 40 ao 5 purchaser from finished wire representing each heat of steel.\n16.0 1550 4730 30 The chemical composition thus determined, as to elements\n17.0 1540 1720 30 required or restricted, shall conform to the product analysis\n, 18.0 30 ISOs requirements in Table 4 of Specification A510/A510M.\n- Inch-Pound Units .\n. 6.4 For referee purposes, Test Methods, Practices, and\nDiameter, in. ksi, min ksi, max Reduct ion of Terminology A751 shall be used.\nArea, min, %~\n0.032 300 325 a 7. Mechanical Properties\n0.041 298 323 a ;\n0.054 992 317 _ 7.1 Annealed and Cold Drawn\u2014When purchased in the\n0.062 290 315 Lae annealed and cold-drawn condition, the wire shall have been\n092 aoa Soe \u201c5 given a sufficient amount of cold working to meet the purchas-\n0.120 9075 300 45 er\u2019s coiling requirements and shall be in a suitable condition to\n0.135 270 295 40 respond properly to heat treatment. In special cases the\n0.162 265 290 40 hardness or tensile strength, if desired, shall be stated in the\n0.177 260 285 40 ;\n0.192 260 283 40 purchase order.\n0.219 255 278 40\n0.250 950 975 AO 7.2 Quench and Tempered\u2014When purchased in the quench\n0.312 245 270 40 and tempered condition, the tensile strength and minimum\nees one aoe ae percent reduction of area shall conform to the requirements\nye 0.500 230 OBE 35 prescribed in Table 1. Tensile strength of shaped wires shall\n0.562 228 253 30 conform to this table based on the conversion to equivalent\neos on oo sO round dimensions.\net 7.2.1 Number of Tests\u2014One test specimen shall be taken for\nA Tensile strength values for intermediate diameters shall be interpolated. each ten coils. or fraction thereof. in a lot. Each heat in a giv en\n\u00ae Preferred sizes. \u2019 , ,\n\u00a9 The reduction of area test is not applicable to wire under 2.34 mm [0.092 in.] in lot shall be tested. |\ndiameter. For intermediate wire diameters, the reduction of area requirement shall\nbe that of the next larger wire.\nD\u00ab _.\u201d Indicates no minimum requirement. TABLE 2 Chemical Requirements\nUNS Designation G92540 Grade No. 9254\nRanges and Limits, %\n4.2.1 Requirements for certifications, heat analysis or test Carbon Manga- Phosphorus, Sulfur, Silicon Chro-\nreports (6.2 and Section 14), \u2014\u2014_______fese mae mae mm\n4.2.2 Special packing, marking, and loading requirements 951959 060-080 _\u20140.035 0.040 1,201.60 _0.80-0.80\n\\ (Section 15), and TO\nNS\n669"
+    },
+    {
+      "spec": "SA-487",
+      "kind": "note",
+      "number": 19,
+      "pdf": "SA-487.pdf",
+      "approxPage": 63,
+      "status": "found",
+      "foundPage": 62,
+      "snippet": "specified in 9.2 shall be made on one pipe from each lot (Note 19.1 In addition to the marking prescribed in Specification\n2). The bend tests specified in 9.2.2 shall be made on one end A530/A530M, the marking shall include the hydrostatic test\nof each pipe. pressure when tested or the letters \u201cNH\u201d when not tested, the\n15.3 The flattening test specified in Section 10 shall be length and schedule number, and on pipe sizes larger than"
+    },
+    {
+      "spec": "SA-540",
+      "kind": "note",
+      "number": 3,
+      "pdf": "SA-540.pdf",
+      "approxPage": 5,
+      "status": "found",
+      "foundPage": 4,
+      "snippet": "Note 3\u2014The minimum average of 3 specimens shall not be less than 25 ft-lbf [34 J]. One specimen from a set of 3 may be less than 25 ft-lbf [34\nJ] but not less than 20 ft-Ibf [27 J]. .\nNotes 4\u2014No minimum values established. Tests shall be run for information only. /\nGrade Class Diameter Tensile Yield Elonga- Reduc- Surface Charpy ;\nStrength, Strength, tion, tion of Brinell V-Notch ;\nmin 0.2 % min, % Area, Hardness +10 \u00b0F 7\noffset, min, % \u201cmin max [~-12.2 \u00b0C]\nmin ;\nInch-Pound Units\nin. ksi ksi In 2 in. . |"
+    },
+    {
+      "spec": "SA-540",
+      "kind": "note",
+      "number": 4,
+      "pdf": "SA-540.pdf",
+      "approxPage": 5,
+      "status": "found",
+      "foundPage": 4,
+      "snippet": "B21 er) to 2, incl 120 105 15 50 241 285 Note 4 oo, :\n(Cr-Mo-V) over 2 to 6, incl 115 100 15 50 248 302 Note 4 . :\nover 6 to 8, incl 115 100 15 50 255 311 Note 4 .\n4 . to 3, incl 135 120 13 45 269 8331 Note 4 -\nover 3 to 6, incl 135 120 13 45 277. 352 Note 4 ,\n. 3 to 3, incl 145 130 12 40 293 352 - Note 4 |\n: 7 over 3 to 6, incl 145 - 130 12 40 302 375 Note 4 , |\n: 2 to 4, incl 155 140 11 40 311 401 Note 4 . |\n| 1 to 4, incl 165 150 10 35 321 429 Note 4"
+    },
+    {
+      "spec": "SA-960",
+      "kind": "note",
+      "number": 3,
+      "pdf": "SA-960.pdf",
+      "approxPage": 70,
+      "status": "found",
+      "foundPage": 62,
+      "snippet": "of each t ee Note 3) and section size is require |\ninstead of 0 a best town \u2018vech duct n lot in ich heat. 9.0 Hardness Tests: |\ntreatment hor es P \u00b0 9.6.1 When two or more parts are produced, a minimum of |\n, enalee. two pieces per batch or continuous run as defined in 9.6.2 shall |\n: Nore 3\u2014\u201cType\u201d in this case is used to describe the shape of the part | be hardness tested as specified in Specification A961/A961M |\n1463 ,"
+    }
+  ]
+}

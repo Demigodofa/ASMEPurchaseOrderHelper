@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 712,
+  "globalPageIndex": 712,
+  "width": 596.16,
+  "height": 841.8,
+  "text": "SA-395/SA-395M ASME BPVC.II.A-2025 \nFIG. 5 SECTIONING PROCEDURE FOR Y-BLOCl<S \n(a) 1 / 2 in. [13 mm] Y-block- two blanks for 0.252 in. [6.40 mm] \ndiameter tension test specimens. \n(b) 1 in. [25 mm] Y-block- two blanks for 0.50 in. [12.5 mm] \ndiameter tension test specimens. \n(c) 3 in. [75 mm] Y-block-two blanks for 0.50 in. [12.5 mm] \ndiameter tension test specimens. \n662 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-0712.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 375,
+  "bestTextAlphaRatio": 0.568
+}

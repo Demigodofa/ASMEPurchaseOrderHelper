@@ -1,0 +1,106 @@
+SA-999 /SA-999M ASME BPVC.II.A-2025 
+4.1.1 The definitions in Terminology A941, except as modi­
+fied in this specification or in its referenced product 
+specifications, are applicable to this specification. 
+5. Ordering Information 
+5.1 It is the responsibility of the purchaser to specify all 
+requirements that are necessary for products ordered under the 
+applicable product specification and this general requirements 
+specification. Such requirements to be considered include, but 
+are not limited to, the following: 
+5.1.1 ASTM product specification and year-date, 
+5.1.2 Name of product (for example, stainless steel pipe), 
+5.1.3 Quantity (feet, metres, or number of pieces), 
+5.1.4 Method of manufacture, where applicable (seamless 
+or welded), 
+5.1.5 Specific type of melting, if required (see 3.4), 
+5.1.6 Grade or UNS number, 
+5.1.7 Size (NPS and outside diameter and schedule number, 
+average (nominal) wall thickness (see 9.1 and 10.1), or 
+minimum wall thickness (see 9.2 and 10.1.l), or minimum 
+inside diameter (see 11.1)), 
+5.1.8 Length (specific or random), 
+5.1.9 End finish, 
+5.1.10 Optional requirements, 
+5.1.11 Specification designation and year of issue, and 
+5.1.12 Special requirements or any supplementary 
+requirements, or both. 
+6. Chemical Composition 
+6.1 Chemical Analysis-Samples for chemical analysis and 
+method of analysis shall be in accordance with Test Methods, 
+Practices, and Terminology A 7 51. 
+6.2 Heat Analysis-An analysis of each heat of steel shall be 
+made by the steel manufacturer to determine the percentages of 
+the specified elements. If secondary melting processes are 
+employed, the heat analysis shall be obtained from one 
+remelted ingot or the product of one remelted ingot of each 
+primary melt. The chemical composition thus determined, or 
+that determined from a product analysis made by the tubular 
+product manufacturer shall conform to the requirements speci­
+fied. 
+6.2.1 For steels ordered under product specifications refer­
+encing this specification of general requirements, the steel shall 
+not contain an unspecified element, other than nitrogen for 
+stainless steels, for the ordered grade to the extent that the steel 
+conforms to the requirements of another grade for which that 
+element is a specified element having a required minimum 
+content. For this requirement, a grade is defined as an alloy 
+described individually and identified by its own UNS designa­
+tion in a table of chemical requirements within any specifica­
+tion listed within the scope as being covered by this specifi­
+cation. 
+6.3 Product Analysis-Product analysis requirements and 
+options, if any, shall be as contained in the applicable product 
+specification. 
+7. Mechanical Properties 
+7.1 Method of Mechanical Tests-The specimens and me­
+chanical tests required shall be in accordance with Test 
+Methods and Definitions A370, especially Annex A2 thereof, 
+or Test Methods A1058. 
+7 .1.1 Unless otherwise specified in the ordering 
+requirements, Test Methods Al 058 shall apply when the metric 
+version of the product specification is specified. 
+- 7 .2 Specimens shall be tested at room temperature. 
+7.3 Small or subsize specimens as described in Test Meth­
+ods and Definitions A370 or Test Methods Al058 may be used 
+only when there is insufficient material to prepare one of the 
+standard specimens. When using small or subsize specimens, 
+the largest one possible shall be used. 
+8. Tensile Requirements 
+8.1 The material shall conform to the requirements as to 
+tensile properties in the applicable product specification. 
+8.2 The yield strength, if specified, shall be determined 
+corresponding to a permanent offset of 0.2 % of the gauge 
+length or to a total extension of 0.5 % of the gauge length under 
+load. 
+8.3 If the percentage of elongation of any test specimen is 
+less than that specified and any part of the fracture is more than 
+¾ in. [19.0 mm] from the center of the gauge length, as 
+indicated by scribe marks on the specimen before testing, a 
+retest shall be allowed. 
+9. Permissible Variation in Mass for Seamless Pipe 
+9.1 Except as allowed by 9.2, the mass of any length of 
+seamless pipe in sizes NPS 12 and smaller shall not vary more 
+than 10 % over or more than 3.5 % under that specified. For 
+pipe in sizes larger than NPS 12, the mass of any length of pipe 
+shall not vary more than 10 % over or more than 5 % under that 
+specified. Unless otherwise specified, the mass of lengths of 
+pipe in sizes NPS 4 and smaller shall be determined separately 
+or in convenient lots; the mass of lengths of pipe in sizes larger 
+than NPS 4 shall be determined separately. 
+9.2 Minimum Wall-If the wall thickness of the pipe is 
+specified as minimum wall in the purchase order, the mass of 
+any length of seamless pipe shall not vary more than 16 % over 
+that calculated in accordance with 14.3. Unless otherwise 
+specified, the mass of pipe in sizes NPS 4 and smaller shall be 
+determined separately or in convenient lots; the mass of pipe in 
+sizes larger than NPS 4 shall be determined separately. 
+9.3 The specified mass of pipe shall be detennined by 
+multiplying its specified or calculated mass per unit length (see 
+14.3) by its measured length. 
+10. Permissible Variations in Wall Thickness 
+10.1 Seamless and Welded-Except as required by 10.l.l, 
+the minimum wall thickness at any point shall not be more than 
+12.5 % under the nominal wall thickness specified. The mini­
+mum wall thickness on inspection is shown in Table Xl.1. 
+1488 

@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 171,
+  "globalPageIndex": 969,
+  "width": 621.72,
+  "height": 799.2,
+  "text": "ASME BPVC.II.A-2025 SA-515/SA-515M \nTABLE 1 Chemical Requirements \nElements \nComposition, % \nGrade 60 [Grade 415] Grade 65 [Grade 450] Grade 70 [Grade 485] \nCarbon, max:A, 8 \n1 in. [25 mm] and under 0.24 0.28 0.31 \nOver 1 to 2 in. [25 to 50 mm], incl 0.27 0.31 0.33 \nOver 2 to 4 in. [50 to 100 mm], incl 0.29 0.33 0.35 \nOver 4 to 8 in. [1 oo to 200 mm], incl 0.31 0.33 0.35 \nOver 8 in. [200 mm] 0.31 0.33 0.35 \nManganese, 8 max: \nHeat analysis 0.90 0.90 1.20 \nProduct analysis 0.98 0.98 1.30 \nPhosphorus, maxA 0.025 0.025 0.025 \nSulfur, maxA 0.025 0.025 0.025 \nSilicon: \nHeat analysis 0.15-0.40 0.15-0.40 0.15-0.40 \nProduct analysis 0.13-0.45 0.13-0.45 0.13-0.45 \nA Applies to both heat and product analyses. \n8 For each reduction of 0.01 percentage point below the specified maximum for carbon, an increase of 0.06 percentage point above the specified maximum for manganese \nis permitted, up to a maximum of 1.50 % by heat analysis and 1.60 % by product analysis. \nTABLE 2 Tensile Requirements \n60 [415] \nTensile strength, ksi [MPa] 60-80 [415-550] \nYield strength, min, ksi [MPa] 32 [220] \nElongation in 8 in. [200 mm], min, %A 21 \nElongation in 2 in. [50 mm], min, %A 25 \nA See Specification A20/A20M for elongation adjustment. \nNoIB 1-For plates produced from coil ,md fumished without heat \ntreatment or with stress relieving only, three test results are reported for \neach qualifying coil. Additional requirements regarding plate produced \nfrom coil are described in Specification A20/ A20M. \n4. Materials and Manufacture \n4.1 Steelmaking Practice--The steel shall be killed and \nmade to a coarse austenitic grain size practice. \n5. Heat Treatment \n5.1 Plates 2 in. [50 nun] and under in thickness are normally \nsupplied in the as-rolled condition. The plates may be ordered \nnormalized or stress relieved, or both. \n-5..2 J>lates__D_yer__2__in~L50 mm] in thickness shall be normal:_ \nized. \nGrade \n65 [450] \n65-85 [ 450-585] \n35 [240] \n19 \n23 \n6. Chemical Composition \n70 [485] \n70-90 [485-620] \n38 [260] \n17 \n21 \n6.1 The steel shall conform to the chemical requirements \ngiven in Table 1 unless otherwise modified in accordance with \nSupplementary Requirement S 17, Vacuum Carbon-Deoxidized \nSteel, in Specification A20/ A20M. \n7. Mechanical Properties \n7. l Tension Test-The plates, as represented by the tension \ntest specimens, shall conform to the requirements given in \nTable 2. \n8. Keywords \n8.1 carbon steel; carbon steel plate; pressure contammg \nparts; pressure vessefsteels; steel plates ror p.ressurevessels \n869 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0969.json",
+  "tabulaTablesCsv": "tables_tabula/page-0969.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0969.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2532,
+  "bestTextAlphaRatio": 0.6145
+}

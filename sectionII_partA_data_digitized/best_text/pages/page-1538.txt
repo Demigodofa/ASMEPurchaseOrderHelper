@@ -1,0 +1,93 @@
+SA-995/SA-995M ASME BPVC.II.A-2025 
+S52.4 Weld Qualifications-Repairs shall be made utilizing 
+welding procedures qualified in accordance with Section IX of 
+the ASME Boiler and Pressure Vessel Code, and repair welding 
+shall be done by welders or welding operators meeting the 
+qualification requirements of Section IX. In addition to the 
+Section IX qualification limits, the weld test plate thickness 
+shall be as agreed upon between the casting supplier and the 
+purchaser, but no less than 1.5 times the maximum weld repair 
+depth. The weld deposit thickness shall be at least 80 % of the 
+maximum repair depth. 
+S52.4.1 When the thickness of the qualification coupon is 
+less than or equal to 4 in. [100 mm], and the qualification 
+coupon is subjected to a post-weld solution heat treatment in 
+accordance with Table 1, Charpy impact testing shall be 
+performed at one of the test temperatures listed in Table S52.2. 
+TABLE S52.2 Weld Qualification Impact Testing for'Post-Weld 
+Solution-Treated Coupons 
+NOTE 1-It is recommended that test temperature selection be deter­
+mined based on the intended service temperature of the casting. 
+Test Temperature 
+OF [OC] 
+-51 [-46] 
+-105 (-76] 
+-150 [-101] 
+CharpY V-Notch Impact Requirements 
+Energy Value, ft-lbf [J], min 
+value for two specimens Energy Value, ft-lb! [J], min 
+and min average of three for single specimen 
+specimens 
+74 [100] 
+44 [60] 
+33 [45] 
+55 [75] 
+33 (45] 
+26 [35] 
+The test temperature shall be provided by the purchaser. If the 
+test temperature is not specified, the test temperature used shall 
+be-51 °F [-46 °C]. Charpy impact test locations shall be at the 
+weld cap and mid-thickness of the weld deposit. Three speci­
+mens shall be removed from each of these three locations: the 
+fusion line, fusion line + 2 mm, and fusion line + 5 mm. The 
+average value of the three specimens shall not be less than 
+specified in Table Table S52.2, with no more than one value 
+permitted below the average minimum specified and no value 
+permitted below the minimum specified for a single specimen. 
+TABLE S52.3 Weld Qualification Impact Testing for As-Welded 
+Coupons 
+Test Temperature 
+°F [°C] 
+-51 [-46] 
+-105 [-76] 
+-150 [-101] 
+Charpy V-Notch Impact Requirements 
+Energy Value, ft-lbf [J], min 
+value for two specimens Energy Value, ft-lb! [J], min 
+and min average of three for single specimen 
+specimens 
+89 [120] 
+44 [60] 
+33 [45] 
+66 [90] 
+33 [45] 
+26 (35] 
+S52.4.2 When the thickness of the qualification coupon is 
+less than or equal to 4 in. [100 mm], and the qualification 
+coupon is not subjected to a post-weld solution heat treatment, 
+Charpy impact testing shall be performed at one of the test 
+temperatures listed in Table S52.3. The test temperature shall 
+be provided by the purchaser. If the test temperature is not 
+specified, the test temperature used shall be -51, 0 P [-46 °C]. 
+Charpy impact test locations shall be at the weld cap and 
+mid-thickness of the weld deposit. Three specimens shall be 
+removed from each of these three locations: the fusion line, 
+fusion line + 2 mm, and fusion line + 5 mm. The average value 
+of the three specimens shall not be less than specified in Table 
+S52.3, with no more than one value permitted below the 
+average minimum specified and no value permitted below the 
+minimum specified for a single specimen. 
+S52.4.3 When the thickness· of the qualification coupon is 
+greater than 4 in. [100 mm], test temperature, specimen 
+location and quantity, and absorbed energy values shall be 
+agreed upon between the purchaser and the manufacturer. 
+S52.4.4 A Test Methods G48 Method A test shall be 
+performed on a sample removed from the weld qualification 
+coupon; the sample shall include approximately 50 % weld 
+material and 50 % base material. Weld test coupons subjected 
+to a post-weld solution heat treatment shall be tested at 60 °C. 
+Weld test coupons not being subjected to a post-weld solution 
+heat treatment shall be tested at 50 °C. Regardless of heat treat 
+condition, the acceptance criteria and test time shall be the 
+same as outlined in S52.3. 
+1484 

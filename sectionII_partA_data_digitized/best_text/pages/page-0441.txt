@@ -1,0 +1,66 @@
+ASME BPVC.II.A-2025 SA-265
+oo 9.3 When required by the purchaser, the shear test specimen __ sufficient cladding thickness available so that there is no
+| shall be taken near a top or bottom corner of the plate as rolled, | contamination from the adjacent base metal.
+parallel to its longitudinal axis, or other location that is 10.2 If product analysis is specified by the purchaser for the
+representative of the final product. cladding alloy, it shall be made on a sample taken from the
+
+9.4 For plates 1% in. (38 mm) and under in thickness, _ finished product or a broken test specimen. For wet chemical
+tension test specimens shall be the full thickness of the analysis, in order to avoid contamination by the base plate
+material, except as specified in 7.1.2 and 7.1.3. metal, millings of cladding samples shall be taken from the test
+
+9.5 For plates over 114 in. (38 mm) in thickness, tension COUP” by removal and discard of all the base metal plus40% ~~
+tests shall be of the form shown in Fig. 3 and shall be of all! the cladding thickness trom the bonded side, not to exceed
+base steel conforming to the requirements of the specification “ie in. (1.6 mm). The material shall be cleaned and sufficient
+for the base steel. millings taken to represent the full cross-section of the remain-
+
+der. If there is insufficient cladding thickness available to
+
+9.6 The bend test specimen used for bond strength determi- ——snectrographically expose on the center line of the cladding
+nation shall be 1’ in. 38 mm) by not more than “/4 im. (19 mm) without contamination, 50 % of the cladding shall be removed
+
+os in thickness and shall be machined to the form and dimensions ang the sample exposed on this surface.
+| shown in Fig. 2, or may be machined with both edges parallel. .
+, In reducing the thickness of the specimen, both the alloy 10.3 The results of the product analysis shall conform to the
+cladding and the base steel shall be machined so as to maintain  'quitements of standards referenced in Section 2.
+the same ratio of clad metal to base steel as is maintained in the 10.4 Methods and practices relating to chemical analysis
+plate, except that the thickness of the clad material need not be —_— required by this specification shall be in accordance with the
+reduced below '% in. (3.1 mm). The sides of the bend test | Test Methods, Practices, and Terminology of A751.
+specimen used for bond strength determination may have the 10.5 Results of the product analysis for the backing steel
+corners rounded to a radius not over 16 in. (1.6 mm) for plates, when required shall conform to the requirements of Section 7
+2 in. (50 mm) and under in thickness, and not over 78 in. (3.1 of Specification A20/A20M or A6/AG6M, as applicable.
+mm) for plates over 2 in. (5O mm) in thickness. .
+10. Product Analysis 11. Permissible Variations
+10.1. Product analvsis b ‘red for the cladding all 11.1 Permissible variations except for thickness shall be in
+-* FrOduct analysis may De required for the cladeing ay accordance with Specification A20/A20M or A6/A6M as
+. on finished product. Chemical analysis may be accomplished licable based on the backing specification
+| by wet chemical or instrumental procedures. If wet chemical “PP 8 Speen
+, procedures are used, millings may be taken only when the 11.2 Minimum thickness of the alloy cladding metal and of
+composite plate thickness is sufficient to permit obtaining the backing steel, or of the total composite plate shall be as
+: millings without danger of contamination from the adjacent required by purchase order documents when ordered to mini-
+layer. If spectrometric procedures are used, the sample shall be | mum thickness.
+exposed on the center line of the cladding when there is 11.3 Permissible variation in thickness when ordered to
+: . nominal thicknesses shall be 0.01 in. (0.3 mm) under each for
+Minimum Radius Recommended backing steel or total composite, and 0.03 in. (0.8 mm) under
++ In,, but not jess than + ‘in. for the alloy cladding.
+Permitted 11.4 Permissible variations for excess thickness of the total
+at | | composite shall be the greater of 0.125 in. (3 mm) or 10 % of
+yy Parallel Section the total composite thickness ordered and may occur in either ,
+_ —}-4]osortoort-| —x _t¢tn backing steel, cladding, or both, provided the minimum for
+! Po ON each is met.
+Me 240,005" Gage Length for 11.5 More restrictive or less restrictive permissible varia-
+Elongation after Fracture tions may be agreed upon by the purchaser and the manufac-
+Metric Equivalents turer. |
+in. mm in. mm .
+0.003 0.076 3h 9.53 12. Workmanship Finish, and Appearance
+Oot ee 03° sg 12.1 The material shall be free of injurious defects and shall
+. Ya 3.18 2M, 64.5 have a workmanlike appearance.
+
+Note 1—The gage length and fillets shall be as shown, but the ends 12.2 Unless otherwise specified, the clad surface may be
+may be of any shape to fit the holders of the testing machine in sucha way supplied as-rolled, blasted (descaled by means of sand, grit,
+that the load shall be axial. The reduced section shall have a gradual taper shot or wire followed by pickling), or 100 % conditioned.
+from the ends toward the center, with the ends 0.003 to 0.005 in. larger in
+diameter than the center. 13. Bond Quality
+
+FIG. 3 Standard Round Tension Tests Specimen with 2-in. Gage 13.1 The cladding metal shall be integrally and continu-
+No | Length ously bonded to the base metal.
+| 389

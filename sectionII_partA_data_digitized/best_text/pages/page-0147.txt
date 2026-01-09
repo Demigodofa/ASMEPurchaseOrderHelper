@@ -1,0 +1,37 @@
+ASME BPVC.II.A-2025 
+TABLE A2.11 Permissible Variations in Diameter tor Gas Cut 
+Circular Alloy Steel Plates 
+Norn 1-No permissible variations under specified diameter. 
+Variations Over Specified Diameter for Thicknesses 
+Specified Given, mm 
+Diameter, mm To 25, 25 to 50 to 100 to 150 to 200 to 
+50, 100, 150, 200, 400, excl excl excl excl excl incl 
+To 800, excl 13 13 19 19 25 25 
+800 to 2100, excl 13 16 22 25 29 32 
+2100 to 2700, excl 16 19 25 29 32 35 
+2700 to 3300, incl 22 25 29 32 35 38 
+SA-20/SA-20M 
+TABLE A2.12 Permissible Variations from Flatness for High-Strength Low-Alloy Steel and Alloy Steel Plates 
+Norn 1-Flatness Tolerances for Length-The longer dimension specified is considered the length and variations from a flat surface along the length 
+shall not exceed the tabular amount for the specified width in plates up to 4000 mm in length, or in any 4000 mm of longer plates. 
+Norn 2-Flatness Tolerances for Width-The flatness variation across the width shall not exceed the tabular amount for the specified width. 
+Norn 3-When the longer dimension is under 900 mm, the variation shall not exceed 10 mm. When the larger dimension is from 900 to 1800 mm, 
+incl, the variation shall not exceed 7 5 % of the tabular amount for the specified width. 
+Norn 4-This table and notes cover the tolerances for flatness of circular and sketch plates, based on the maximum dimensions of those plates. 
+Norn 5-Plates shall be in a horizontal position on a flat surface when flatness is measured. 
+Flatness Tolerances for Specified Widths, mm 
+Specified Thickness, To 900, 900 to 1200 to 1500 to 1800 to 2100 to 2400 to 2700 to 3000 to 3600 to 4200 and 
+mm excl 1200 1500 1800 2100 2400 2700 3000 3600 4200 over 
+To 6, excl 21 29 35 48 51 57 60 67 70 
+6 to 10, excl 19 24 29 35 44 48 51 57 60 
+10 to 12, excl 19 22 24 24 29 33 38 41 48 70 79 
+12 to 20, excl 16 19 21 22 25 29 32 35 41 57 76 
+20 to 25, excl 16 19 22 22 24 25 29 33 38 51 67 
+25 to 50, excl 14 16 19 21 22 24 25 25 25 41 57 
+50 to 100, excl 13 14 18 19 19 19 19 22 25 32 41 
+100 to 150, excl 14 18 '19 19 22 22 24 29 32 32 38 
+150 to 200, excl 16 19 19 24 25 29 32 33 38 38 38 
+200 to 250, excl 19 21 24 25 29 32 33 35 38 38 38 
+250 to 300, excl 19 24 29 32 33 35 38 38 38 38 38 
+300 to 400, incl 22 25 30 33 35 38 38 38 38 38 38 
+95 

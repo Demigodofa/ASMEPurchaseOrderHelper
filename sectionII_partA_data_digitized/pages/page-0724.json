@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 724,
+  "globalPageIndex": 724,
+  "width": 596.16,
+  "height": 841.8,
+  "text": "SA-403 /SA-403M ASME BPVC.II.A-2025 \nSpecification for \nWrought Austenitic Stainless Steel Piping Fittings \n1. Scope \n1. 1 This specification covers wrought stainless steel fittings \nfor pressure piping applications. \n1.2 Several grades of austenitic stainless steel alloys are \nincluded in this specification Grades are designated with a \nprefix, WP or CR, based on the applicable ASME or MSS \ndimensional and rating standards, respectively. \n1.3 For each of the WP stainless grades, several classes of \nfittings are covered, to indicate whether seamless or welded \nconstruction was utilized. Class designations are also utilized \nto indicate the nondestructive test method and extent of \nnondestructive examination (NDE). Table 1 is a general \nsummary of the fitting classes applicable to all WP grades of \nstainless steel covered by this specification. There are no \nclasses for the CR grades. Specific requirements are covered \nelsewhere. \n1.4 This specification is expressed in both inch-pound units \nand in SI units. However, unless the order specifies the \napplicable \"M\" specification designation (SI units), the mate\u00ad\nrial shall be furnished to inch-pound units. \n1.5 The values stated in either SI units or inch-pound units \nare to be regarded separately as standard. Within the text, the \nSI units are shown in brackets. The values stated in each \nsystem may not be exact equivalents; therefore, each system \nshall be used independently of the other. Combining values \nfrom the two systems may result in non-confonnance with the \nstandard. \n1.6 This specification does not apply to cast steel fittings. \nAustenitic stainless steel castings are covered in Specifications \nA351/A351M, A743/A743M, and A744/A744M. \n1.7 This international standard was developed in accor\u00ad\ndance with internationally recognized principles on standard-\n674 \nization established in the Decision on Principles for the \nDevelopment of International Standards, Guides and Recom\u00ad\nmendations issued by the World Trade Organization Technical \nBarriers to Trade (TBT) Committee. \n2. Referenced Documents \n2.1 ASTM Standards: \nA351/ A351M Specification for Castings, Austenitic, for \nPressure-Containing Parts \nA743/A743M Specification for Castings, Iron-Chromium, \nIron-Chromium-Nickel, Corrosion Resistant, for General \nApplication \nA744/A744M Specification for Castings, Iron-Chromium\u00ad\nNickel, Corrosion Resistant, for Severe Service \nA751 Test Methods, Practices, and Terminology for Chemi\u00ad\ncal Analysis of Steel Products \nA960/ A960M Specification for Common Requirements for \nWrought Steel Piping Fittings \nEl12 Test Methods for Determining Average Grain Size \nE165/El65M Practice for Liquid Penetrant Testing for Gen\u00ad\neral Industry \n2.2 ASME Standards: \nASME Bl6.9 Factory-Made Wrought Steel Butt-Welding \nFittings \nASME B16.ll Forged Steel Fittings, Socket-Welding and \nThreaded \n2.3 MSS Standards: \nMSS SP-25 Standard Marking System for Valves, Fittings, \nFlanges, and Unions \nMSS SP-43 Standard Practice for Light Weight Stainless \nSteel Butt-Welding Fittings \nMSS SP-79 Socket-Welding Reducer Inserts ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0724.json",
+  "tabulaTablesCsv": "tables_tabula/page-0724.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-0724.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 3091,
+  "bestTextAlphaRatio": 0.7768
+}

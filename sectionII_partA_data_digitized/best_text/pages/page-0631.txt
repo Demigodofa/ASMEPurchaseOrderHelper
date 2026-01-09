@@ -1,0 +1,125 @@
+ASME BPVC.II.A-2025 SA-369/SA-369M (ASTM A369/A369M) 
+chemical composition thus determined, or that determined 
+from a product analysis made by the tubular product 
+manufacturer, shall conform to the requirements specified. 
+7.2 In the case of large ingots poured from two or more 
+heats, the weighted average of the chemical determinations of 
+the several heats, made in accordance with 7.1, shall conform 
+to the requirements specified in Section 6. 
+8. Product Analysis 
+8.1 At the request of the purchaser, a product analysis shall 
+be made by the manufacturer on every heat. 
+8.2 The results of these analyses shall be reported to the 
+purchaser or his representative, and shall conform to the 
+requirements specified in Section 6. 
+8.3 If the analysis of one of the tests specified in Section 7 
+or Section 8 does not conform to the requirements specified in 
+Section 6 an analysis of each billet or pipe from the same heat 
+may be made, and all billets or pipes conforming to the 
+requirements shall be accepted. 
+9. Tensile Requirements 
+9 .1 The material shall conform to the requirements as to 
+tensile properties prescribed in Table 2. Tests for acceptance 
+shall be made after final heat treatment of the forging. 
+9.2 For Grade FP91 Type 1 and Type 2, when requested by 
+the purchaser, the tensile and hardness properties shall be met 
+and verified on material taken from the half-thickness location. 
+10. Mechanical Tests Required 
+10.1 Transverse or Longitudinal Tension Test-One test 
+shall be made on a specimen from one end of one length of 
+pipe representing each heat in each heat-treatment lot. 
+10.2 Flattening Test-For pipe NPS 14 or less, and diameter 
+to wall thickness ratios of more than 7 .0, a flattening test shall 
+be carried out in accordance with Specification A999/ A999M. 
+A test shall be carried out on a specimen taken from one end of 
+each length of pipe. 
+10.3 Bend Test-For pipe larger than NPS 14 or NPS where 
+diameters to wall thickness ratio is 7 .0 or less, a bend test shall 
+be carried out in accordance with Test Methods E290. Unless 
+otherwise specified, the test specimens shall be taken in a 
+transverse direction. The diameter of the pin shall be 2/3 t for 
+longitudinal specimens or 1 1/3 t for transverse specimens, 
+where t is the specimen thickness. The bend test specimens 
+shall be bent at room temperature through 180° without 
+cracking. One bend test shall be taken from one end of each 
+length of pipe. 
+11. Workmanship 
+11.1 The pipe shall conform to the sizes and shapes speci­
+fied by the purchaser. 
+12. Ends 
+12.1 Pipe ends shall be machined as specified in the 
+purchase order. 
+13. Finish 
+13.1 The finished pipe shall be reasonably straight and shall 
+have a workmanlike finish. 
+13.2 Repair of defects by welding shall be permitted only 
+subject to the approval of the purchaser. Defects shall be 
+thoroughly chipped or ground out before welding. Only quali­
+fied operators and procedures in accordance with the ASME 
+Boiler and Pressure Vessel Code, Section IX, shall be used. 
+Local or full heat treatment in accordance with 5.4 shall follow 
+welding. Local grinding following welding and retreating shall 
+be considered as meeting the requirements of 5.3. 
+14. Product Marking 
+14.1 In addition to the marking prescribed in Specification 
+A999/A999M, the marking shall include the wall thickness, 
+piece mark, length, and additional symbol "S" if the pipe 
+conforms to the supplementary requirements specified in 
+Supplementary Requirements Sl to S5, and the heat number or 
+the manufacturer's number by which the heat can be identified. 
+Indentation stamping, instead of stenciling, will be permitted 
+only with the written approval of the purchaser. 
+14.2 For FP91, additional marking shall include the appro­
+priate Type. 
+TABLE 2 Tensile Requirements 
+Grade 
+Tensile strength, min; ksi [MPa] 
+Yield strength, min; ksi [MPa] 
+Grade 
+Elongation in 2 in. or 50 mm, min, %: 
+FPA 
+48 [330] 
+30 [210] 
+Basic minimum elongation for wall 5 /1• in. [8 mm] 
+and over in thickness, strip tests, and for all small 
+sizes tested in full-section 
+When standard round 2-in. or 50-mm gage length 
+test specimen is used 
+FPB 
+60 [415] 
+35 [240] 
+Longitu-
+dinal 
+35 
+28 
+FPA 
+FP1, FP2 
+55 [380] 
+30 [210] 
+Trans-
+verse 
+25 
+20 
+579 
+FP12 
+60 [415] 
+32 [220] 
+FP91 Type 1 
+and T e 2 
+85 [585] 
+60 [415] 
+FP92 
+90 [620] 
+64 [440] 
+Elon ation Re uirements 
+FP115 
+90 [620] 
+65 [450] 
+All Others 
+60 [415] 
+30 [210] 
+FPB FP91 Type 1 and Type 2 All Others FP92 and FP115 
+Longitu- Trans- Longitu- Trans- Longitu- Trans-
+dinal verse dinal verse dinal verse 
+30 17 27 18 30 20 
+22 12 20 13 22 14 

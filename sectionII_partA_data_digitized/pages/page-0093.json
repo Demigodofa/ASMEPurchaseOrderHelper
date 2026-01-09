@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 93,
+  "globalPageIndex": 93,
+  "width": 613.92,
+  "height": 793.2,
+  "text": "ASME BPVC.II.A-2025 SA-6/SA-6M \nTABLE A1.16 Permitted Variations in Cross Section for W, HP, S, M, C, and MC Shapes \nNoTE 1-A is measured at center lines of web for S, M, W, and HP shapes; at back of web for C and MC shapes. Measurement is overall for C shapes \nunder 75 mm. B is measured parallel to flange. C is measured parallel to web. \nNOTE 2-Wbere \" ... \" appears in this table, there is no requirement. \nC \nT \nPermitted Variations in Sectional Dimensions Given, mm \nPermitted Variations Over or Un\u00ad\nC, Maximum der Theoretical Web Thickness for \nT + T \u2022A E Web Depth at any Thicknesses Given in Millimetres, A, Depth B, Flange Width \nShape \nSection \nNominal Size, \nmm \nFlanges Out- ' c Cross Section \n_________________ of-Square 8 off Center over Theoret- mm \nWand HP up to 310, incl \nover 310 \nSand M 75 to 180, incl \nover 180 to 360, incl \nover 360 to 610, incl \nC and MC 40 and under \nover 40 to 75, excl \n75 to 180, incl \nover 180 to 360, incl \nover 360 \nOver Under Over Under \nTheoretical Theoretical Theoretical Theoretical \n4 \n4 \n2 \n3 \n5 \n1 \n2 \n3 \n3 \n5 \n3 \n3 \n2 \n2 \n3 \n1 \n2 \n2 \n3 \n4 \n6 \n6 \n3 \n4 \n5 \n1 \n2 \n3 \n3 \n3 \n5 \n5 \n3 \n4 \n5 \n2 \n3 \n4 \n5 \n6 \n8 \n0.03 \n0.03 \n0.03 \n0.03 \n0.03 \n0.03 \n0.03 \n0.03 \n5 \n5 \n5 \n5 \n5 \nical Depth \n6 \n6 \n5 and \nUnder \n0.2 \n0.4 \nOver5 \n0.4 \n0.5 \nA T + T applies when flanges of channels are toed in or out. For channels 16 mm and under in depth, the permitted out-of-square is 0.05 mm/mm of depth. The permitted \nvariation shall be rounded to the nearest millimetre after calculation. \n8 Permitted variation is per millimetre of flange width for S, M, C, and MC shapes. \nc Permitted variation of 8 mm max for sections over 634 kg/m. \n41 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 1,
+  "tabulaTablesPath": "tables_tabula/page-0093.json",
+  "tabulaTablesCsv": "tables_tabula/page-0093.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0093.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1673,
+  "bestTextAlphaRatio": 0.6013
+}

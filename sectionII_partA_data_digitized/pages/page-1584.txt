@@ -1,0 +1,106 @@
+SA-1016/SA-1016M ASME BPVC.II.A-2025 
+15. Retests 
+15.1 If the results of the mechanical tests of any group or lot 
+do not conform to the requirements specified in the individual 
+specification, retests may be made on additional tubes of 
+double the original number from the same group or lot, each of 
+which shall conform to the requirements specified. 
+16. Reheat Treatment 
+16.1 If the individual tubes or the tubes selected to represent 
+any group or lot fail to conform to the test requirements, the 
+individual tubes or the group or lot represented may be reheat 
+treated and resubmitted for test. Not more than two reheat 
+treatments shall be permitted. 
+17. Test Specimens 
+17 .1 Test specimens shall be taken from the ends of finished 
+tubes prior to upsetting, swaging, expanding, or other fanning 
+operations, or being cut to length. They shall be smooth on the 
+ends and free of bmTs and flaws. 
+17 .2 If any test specimen shows flaws or defective 
+machining, it may be discarded and another specimen substi­
+tuted. 
+18. Method of Mechanical Testing 
+18. l The specimens and mechanical tests required shall be 
+made in accordance with Test Methods and Definitions A370 
+or Test Methods A1058. 
+18.1.1 Unless otherwise specified in the ordering 
+requirements, Test Methods AI058 shall apply when the metric 
+version of the product specification is specified. 
+18.2 Specimens shall be tested at room temperature. 
+18.3 Small or subsize specimens as described in Test 
+Methods and Definitions A370 or Test Methods A1058 may be 
+used only when there is insufficient material to prepare one of 
+the standard specimens. When using small or subsize 
+specimens, the largest one possible shall be used. 
+19. Flattening Test 
+19.1 A section of tube not less than 2½ in. [60 mm] in 
+length for seamless tubes and not less than 4 in. [IO0 mm] in 
+length for welded tubes and for heavily cold-worked tubes 
+shall be flattened cold between parallel plates in two steps. For 
+welded tubes, the weld shall be placed 90° from the direction 
+of the applied force (at a point of maximum bending). During 
+the first step, which is a test for ductility, no cracks or breaks, 
+except as provided for in 19.4, on the inside, outside, or end 
+smfaces shall occur in seamless tubes, or on the inside or 
+outside surfaces of welded tubes and heavily cold-worked 
+tubes, until the distance between the plates is less than the 
+value of H calculated by the following equation: 
+(1 +e)t 
+H=e+t!D (2) 
+where: 
+H = distance between flattening plates, in. [mm], 
+= specified wall thickness of the tube, in. [mm], 
+D = specified outside diameter of the tube, in. [mm], and 
+e = deformation per unit length ( constant for a given grade 
+of steel: 0.07 for medium-carbon steel (maximum 
+specified carbon 0.19 % or greater), 0.08 for ferritic 
+alloy steel, 0.09 for austenitic steel, 0.09 for duplex 
+(ferritic/austenitic) stainless steels, and 0.09 for low­
+carbon steel (maximum specified carbon 0.18 % or 
+less)). 
+During the second step, which is a test for soundness, the 
+flattening shall be continued until the specimen breaks or the 
+opposite walls of the specimen meet. Evidence of laminated or 
+unsound material, or of incomplete weld that is revealed dming 
+the entire flattening test shall be cause for rejection. 
+19.2 Surface imperfections in the test specimens before 
+flattening, but revealed during the first step of the flattening 
+test, shall be judged in accordance with the finish requirements. 
+19.3 Superficial ruptures resulting from surface imperfec­
+tions shall not be cause for rejection. 
+19.4 When low D-to-t ratio tubular products are tested, 
+because the strain imposed due to geometry is unreasonably 
+high on the inside surface at the six and twelve o'clock 
+locations, cracks at these locations shall not be cause for 
+rejection if the D-to-t ratio is less than 10. 
+20. Reverse Flattening Test 
+20.1 A section 4 in. [100 mm] in length of finished welded 
+tubing in sizes down to and including ½ in. [12.7 mm] in 
+outside diameter shall be split longitudinally 90° on each side 
+of the weld and the sample opened and flattened with the weld 
+at the point of maximum bend. There shall be no evidence of 
+cracks or lack of penetration or overlaps resulting from flash 
+removal in the weld. 
+21. Reverse Bend Test 
+21.1 A section 4 in. [100 mm] minimum in length shall be 
+split longitudinally 90° on each side of the weld. The sanlple 
+shall then be opened and bent around a mandrel with a 
+maximum thickness of four times the wall thickness, with the 
+mandrel parallel to the weld and against the original outside 
+surface of the tube. The weld shall be at the point of maximum 
+bend. There shall be no evidence of cracks or of overlaps 
+resulting from the reduction in thickness of the weld area by 
+cold working. When the geometry or size of the tubing make it 
+difficult to test the sample as a single piece, the sample may be 
+sectioned into smaller pieces provided a minimum of 4 in. of 
+weld is subjected to reverse bending. 
+21.2 The reverse bend test is not applicable when the wall is 
+10 % or more of the specified outside diameter, or the wall 
+thickness is 0.134 in. [3.4 mm] or greater, or the outside 
+diameter is less than 0.375 in. [9.5 mm]. Under these 
+conditions, the reverse flattening test shall apply. 
+22. Flaring Test 
+22.1 A section of tube approximately 4 in. [100 mm] in 
+length shall stand being flared with a tool having a 60° included 
+angle until the tube at the mouth of the flare has been expanded 
+1530 

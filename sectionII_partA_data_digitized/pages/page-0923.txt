@@ -1,0 +1,94 @@
+ASME BPVC.II.A-2025 SA-484/SA-484M 
+TABLE 14 Permitted Variaiions in Size of Hot-finished Channels 
+Size Tolerances, Over and Under, in. [mm] 
+Thickness of Web for Thickness Given Specified Size of Channel, in. [mm] Depth of SectionA Width of Flanges 
+Out-of-Square 8 of 
+--1i- 0 -o/--,-. -in-c I----- O-v-e-r 3-v,-.-- Either Flange, in.fin. 
+[mm/mm] of 
+To 1½ [38.00], incl 
+Over 1 ½ to 3 [38.00 to 75.00], excl 
+A Channel depth is measured at back of web. 
+%4 [1.20] 
+%2 [2.40] 
+%4 [1.20] 
+%2 [2.40] 
+[5.00 mm] [5.00 mm] Flange Width 
+0.015 [0.41] 0.023 [0.60] %4 [1.20] 
+0.023 [0.60] 0.030 [0.80] o/64 [1.20] 
+8 For channels o/a in. [15.50 mm] and under in depth, the out-of-square tolerance is o/64 in.fin. [2.00 mm/mm] of depth. Out-of-squareness is determined by placing a square 
+against the bottom surface of the web and measuring the amount of toe-in or toe-out of either flange. Measurements for depth of section and width of flanges are over-all. 
+TABLE 15 Permitted Variations in Size of Hot-finished Tees 
+Specified Size of Tee, 
+in. [mm]A 
+Width or Depth, in. 8 Thickness of Flange, in. [mm] Thickness of Stem, in. [mm] Stem Out-of-
+Square 0 in. Over Under Over Under Over Under [mm] 
+To 1 ½ [38.00], incl. 5/o4 [2.00] 5/54 [2.00] 0,015 [0.38] 0.015 [0.38] 0.008 [0.20] 0.030 [0.75] %4 [1.20] 
+Over 1 ½ to 2 [38.00 to 50.00], 
+incl 
+%2 [2.40] %2 [2.40] 0,018 [0.46] 0,018 [0.46] 0.Q15 [0.38] 0.030 [0.75] %2 [2.40] 
+Over 2 to 3 [50.00 to 75.00], 
+excl 
+%4 [3.60] %4 [3.60] 0.023 [0.60] 0.023 [0.60] 0.023 [0.60] 0.030 [0.75] 9/54 [3.60] 
+A The longer member of an unequal tee determines the size for tolerances. 
+8 Measurements for both width and depth are over-all. 
+0 Stem out-of-square is the variation from its true position of the center line of stem measured at the point. 
+TABLE 16 Permitted Variations in Size of Hot-extruded Shapes 
+Specified Size, in [mm] 
+Dimensions under 1 [25] 
+Dimensions 1 to 3 [25 to 75], excl 
+Dimensions 3 to 4 [75 to 100], incl 
+Over4 [100] 
+Section Tolerances, in. [mm] 
+Over Under 
+0.020 [0.50] 0.020 [0.50] 
+0.031 [0.80] 0.031 [0.80] 
+0.046 [1.20] 0.046 [1.20] 
+0.062 [1.60] 0.062 [1.60] 
+TABLE 17 Angularity Tolerance for Extruded Shapes 
+Plus and minus max 2° 
+TABLE 18 Length Tolerances for Extruded Shape LengthA,a 
+For Lengths up to 12 ft For Lengths over 12 ft 
+Specified Size --~[4_m~],_in_c_l. -----~[~4_m_j __ _ 
+Over Under Over Under 
+Up to 3 in. [75 mm], excl o/io in. [4.8 mm] 0 ¼ in. [6.5 mm] 0 
+A Multiple Lengths-Unless otherwise specified, ¼ in. [6.5 mm] is added to the 
+total length of each piece for each multiple contained. 
+8 Random Lengths-When ordered as random lengths, permissible variation is 2 ft 
+[0.6 m] over and under the specified length. When ordered as random lengths 
+subject to a minimum length requirement, permissible variation is 2 ft [0.6 m] over 
+and nothing under the specified length. 
+12.3 If any test specimen shows defective machining or 
+flaws, it is permitted to discard the specimen and to substitute 
+another specimen. 
+12.4 If the results of any test are not in conformance with 
+the requirements of this specification or the requirements of the 
+applicable product specification, it is permitted to retest a new 
+TABLE 19 Twist Tolerances 
+NOTE 1-The amount of spiraling in an extruded shape is called twist. 
+It can be measured by the height of the high comer from a flat reference 
+base (established rise). 
+Norn 2-Using the following calculation the twist tolerance must not 
+exceed what is shown in the table. 
+established risex number of ft in length 
+rise in 5 ft= 5 
+Section Width 
+½ to 1½ in. [13 to 39 mm] 
+Over 1½ to 4 in. [39 to 100 mm] 
+Over 4 in. [100 mm] 
+Rise in 5 ft 
+0.125 In. [3.00 mm] 
+0.188 In. [4.80 mm] 
+0.250 In. [6.50 mm] 
+sample of two specimens, to replace the original failed sample. 
+If one of the retest specimens fails, the lot shall be rejected. 
+13. Retreatment 
+13.1 Where the failure of a lot is attributable to inadequate 
+heat treatment, the producer may reheat treat the material and 
+submit the retreated material for test. 
+14. Test Methods 
+14.1 The properties enumerated in the applicable product 
+specification shall be tested in accordance with the following 
+ASTM methods: 
+14.1.1 Chemical Analysis-Test Methods, Practices, and 
+Terminology A751. 
+823 

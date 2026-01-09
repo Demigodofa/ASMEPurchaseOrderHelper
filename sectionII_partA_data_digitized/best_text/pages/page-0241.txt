@@ -1,0 +1,113 @@
+ASME BPVC.II.A-2025 SA-135/SA-135M (ASTM A135/A135M) 
+The examination may not detect circumferentially oriented 
+imperfections of short, deep imperfections. 
+11.3.2 The eddy-current examination referenced in this 
+specification has the capability of detecting significant 
+imperfections, especially of the short, abrupt type. 
+11.3.3 The hydrostatic test referred to in Section 10 is a test 
+method provided for in many product specifications. This test 
+has the capability of finding imperfections of a size permitting 
+the test fluid to leak through the tube wall and may be either 
+visually seen or detected by a loss of pressure. This test may 
+not detect very tight, through-the-wall imperfections or imper­
+fections that extend an appreciable distance into the wall 
+without complete penetration. 
+11.3 .4 A purchaser interested in ascertaining the nature 
+(type, size, location, and orientation) of imperfections that can 
+be detected in the specific application of these examinations 
+should discuss this with the manufacturer of the tubular 
+product. 
+11.4 In order to accommodate the various types of nonde­
+structive electric testing equipment and techniques in use, the 
+calibration pipe shall contain, at the option of the producer, any 
+one or more of the following discontinuities to establish a 
+minimum sensitivity level for rejection: 
+11.4.1 Drilled Hole-A hole not larger than 0.031-in. [0.8-
+mm] diameter shall be drilled radially and completely through 
+pipe wall, preferably in the weld area, care being taken to avoid 
+distortion of the pipe while drilling. 
+11.4.2 Transverse Tangential Notch-A notch shall be filed 
+or milled tangential to the surface and transverse to the 
+longitudinal axis of the pipe preferably in the weld area. Said 
+notch shall have a depth not exceeding 12.5 % of the nominal 
+wall thickness of the pipe or 0.004 in., [0.10 mm], whichever 
+is greater. 
+11.4.3 Longituclinal Notch-A notch 0.031 in. [0.8 mm] or 
+less in width shall be machined in a radial plane parallel to the 
+pipe axis on the outside surface of the pipe preferably in the 
+weld area, to have a depth not exceeding 12.5 % of the nominal 
+wall thickness of the pipe or 0.004 in. [0.10 mm], whichever is 
+greater. 
+11.5 Pipe producing a signal equal to or greater than the 
+calibration imperfection shall be rejected. 
+12. Dimensions, Weight (Mass), and Permissible 
+Variations 
+12.1 Weight (Mass)-The weight (mass) of any length of 
+pipe other than Schedule 10 shall not vary more than 3.5 % 
+under or 10 % over that specified, but the carload weight 
+(mass) shall be not more than 1.75 % under the nominal weight 
+(mass). The weight (mass) of pipe furnished to Schedule 10 
+shall not vary more than ± 10 % from that calculated using the 
+weight (mass) per unit length prescribed in Appendix Table 
+Xl.1. The weight (mass) of the pipe shall be calculated from 
+the relevant equation in ASME B36.10M. 
+Note 4-A system of standard pipe sizes has been approved by the 
+American National Standards Institute as American National Standard for 
+Welded and Seamless Wrought Steel Pipe (ASME B36.lOM). 
+12.2 Diameter-The outside diameter shall not vary more 
+than ± 1 % from the nominal size specified. 
+12.3 Minimum Wall Thickness-The minimum wall thick­
+ness at any point shall be not more than 12.5 % under the 
+specified wall thickness. 
+Note 5-The minimum wall thickness on inspection is shown in Table 
+Xl.2 of the Appendix. 
+12.4 Lengths: 
+12.4.1 Except as allowed in 12.4.2, pipe shall be furnished 
+in lengths averaging 38 ft [11.6 m] or over, with a minimum 
+length of 20 ft [6.1 m], but no more than 5 % may be under 32 
+ft [9.8 m]. Jointers made by welding are permissible. When 
+threaded pipe is ordered, jointers shall be made by threaded 
+connections and shall not exceed 5 % of the order. 
+12.4.2 Unless otherwise specified, Schedule 10 pipe shall be 
+between 16 and 22 ft [4.9 and 6.7 m] for a minimum of 90 % 
+of the footage furnished, with any balance being shorter 
+lengths at least 8 ft [2.4 m] long. 
+13. Workmanship, Finish, and Appearance 
+13.1 The finished pipe shall be reasonably straight and free 
+of defects. Surface imperfections in excess of 12.5 % of the 
+nominal wall thickness shall be considered defects. 
+13.2 End Finish: 
+13.2.1 Schedule JO Pipe-Pipe furnished to Schedule 10 
+shall be plain end only. All inside and outside cutting burrs 
+shall be removed. This generally involves breaking the comers. 
+13.2.2 Ends, Plain End Pipe-Unless otherwise specified, 
+plain end pipe for use with the Dresser or Dayton type coupling 
+shall be reamed both outside and inside sufficiently to remove 
+all burrs. Plain end pipe for welding shall be beveled on the 
+outside to an angle of 30° with a tolerance of+ 5° and - 0° and 
+with a width of flat at the end of the pipe of 1/16 ± ½2 in. [1.6 
+± 0.8 mm]. When material is ordered beveled to any other than 
+a 30° angle, it should be understood that the angle is to be 
+measured from a line drawn perpendicular to the axis of the 
+pipe. This means that a greater amount of material is removed 
+with a 60° angle than with a 30° angle. Pipe shall be 
+sufficiently free from indentations, projections, or roll marks 
+for a distance of 8 in. [200 mm] from the end of the pipe to 
+make a tight joint with the rubber gasket type of coupling. All 
+plain end pipe intended for Dresser or Dayton type joints or for 
+welding, sizes NPS 10 [DN 250] and smaller in outside 
+diameter specified, shall be not more than 1/32 in. [0.8 mm] 
+smaller than the outside diameter specified for a distance of 8 
+in. [200 mm] from the ends of the pipe and shall permit the 
+passing for a distance of 8 in. [200 mm] of a ring gauge that has 
+a bore 1/16 in. [1.6 mm] larger than the outside diameter 
+specified of the pipe. Sizes larger than NPS 10 [DN 250] shall 
+be not more than 1/32 in. [0.8 mm] smaller than the nominal 
+outside diameter for a distance of 8 in. [200 mm] from the end 
+of the pipe and shall permit the passing for a distance of 8 in. 
+[200 mm] of a ring gauge which has a bore 3/32 in. [2.4 mm] 
+larger than the nominal outside diameter of the pipe. 
+189 
+13.2.3 Ends, Threaded Pipe-Each end of threaded pipe 
+shall be reamed to remove all burrs. All threads shall be in 
+accordance with the American National Standard Pipe Threads 

@@ -1,0 +1,94 @@
+SA-530/SA-530M ASME BPVC.II.A-2025 
+During the second step, which is a test for soundness, the 
+flattening shall be continued untii' the specimen breaks or the 
+opposite walls of the pipe meet. 
+21.2 Welded Pipe-A section of welded pipe not less than 4 
+in. [100 mm] in length shall be flattened cold between parallel 
+plates in two steps. The weld shall be placed 90° from the 
+direction of the applied force (at the point of maximum 
+bending). During the first step, which is a test for ductility, no 
+cracks or breaks on the inside or outside surfaces, except as 
+provided for in 21.3.4, shall occur until the distance between 
+the plates is less than the value of H calculated by Eq 2. During 
+the second step, which is a test for soundness, the flattening 
+shall be continued until the specimen breaks or the opposite 
+walls of the pipe meet. 
+21.3 Seamless, Centrifugally Cast, and Welded Pipe: 
+21.3.1 Evidence of laminated or defective material or weld 
+that is revealed during the entire flattening test shall be cause 
+for rejection. 
+21.3.2 Surface imperfections not evident in the test speci­
+men before flattening, but revealed during the first step of the 
+flattening test, shall be judged in accordance with the finish 
+requirements. 
+21.3.3 Superficial ruptures resulting from surface imperfec­
+tions shall not be a cause for rejection. 
+21.3.4 When low D-to-t ratio tubular products are tested, 
+because the strain imposed due to geometry is unreasonably 
+high on the inside surface at the six and twelve o'clock 
+locations, cracks at these locations shall not be cause for 
+rejection if the D to t ratio is less than 10. 
+22. Hydrostatic Test Requirements 
+22.1 Except as provided in 22.2 and 22.3, each length of 
+pipe shall be tested by the manufacturer to a hydrostatic 
+pressure which will produce in the pipe wall a stress not less 
+than 60 % of the minimum specified yield strength for carbon 
+and ferritic alloy steel pipe, or 50 % of the specified minimum 
+yield strength for austenitic alloy steel pipe. The test pressure 
+or stress shall be determined by the following equation: 
+P = 2St/D or S = PD/2t (3) 
+22.2 Regardless of pipe-wall stress-level determined by Eq 
+3, the minimum hydrostatic test pressure required to satisfy 
+these requirements need not exceed 2500 psi [17.0 MPa] for 
+outside diameters (see Din 22.1) of 3.5 in. [88.9 mm] or less, 
+nor 2800 psi [19.0 MPa] for outside diameters over 3.5 in. 
+[88.9 mm]. This does not prohibit testing at higher pressures at 
+the manufacturer's option or as provided in 22.3. 
+22.3 With concurrence of the manufacturer, a minimum 
+hydrostatic test pressure in excess of the requirements of 22.2 
+or 22.1, or both, may be stated on the order. 
+22.4 The test pressure shall be held for a minimum of 5 s, 
+without resultant leakage through the pipe wall. For welded 
+pipe, the test pressure shall be held for a time sufficient to 
+permit the inspector to examine the entire length of the welded 
+seam. 
+22.5 The hydrostatic test may not be capable of inspecting 
+the end portion of the pipe. The length of pipe that cannot be 
+tested shall be determined by the manufacturer and, when 
+specified in the purchase order, reported to the purchaser. 
+23. Material Test Report 
+23.1 The producer or supplier shall furnish a material test 
+report certifying that the material was manufactured, sampled, 
+tested and inspected in accordance with the specification, 
+including year date, the supplementary requirements, and any 
+other requirements designated in the purchase order or 
+contract, and that the results met the requirements of that 
+specification, the supplementary requirements and the other 
+requirements. A signature or notarization is not required on the 
+material test report, but the document shall be dated and shall 
+clearly identify the organization submitting the report. Not­
+withstanding the absence of a signature or notarization, the 
+organization submitting the report is responsible for the con­
+tents of the report. 
+23.2 In addition, the material test report shall include the 
+following information and test results, when applicable: 
+23.2.1 Heat Number, 
+23.2.2 Heat Analysis, 
+23.2.3 Product Analysis, if specified or required, where: -------=-=--------------------------';ttL. ~sile-Properties, 
+P = hydrostatic test pressure in psi or MPa, 23.2.5 Width of the gage length, when longitudinal strip 
+S = pipe wall stress in psi or MPa, tension test specimens are used, 
+t = specified nominal wall thickness, nominal wall thick- 23 _2 _6 Bend Test acceptable, 
+ness corresponding to specified ANSI schedule number, 23 _2 _ 7 Flattening Test acceptable, 
+or 1.143 times the specified minimal wall thickness, in. 23.2.8 Hydrostatic Test pressure 
+[mm], and 23.2.9 Non-destructive Electric Test method, D = specified outside diameter, outside diameter correspond-
+ing to specified ANSI pipe size, or outside diameter 23 -2 .lO Impact TeS t results, and 
+calculated by adding 2t (as defined above) to the 23.2.11 Other test results or information required to be 
+specified inside diameter, in. [mm]. reported by the product specification. 
+22.1.l The hydrostatic test pressure determined by the 23.3 Test results or information required to be reported by 
+equation shall be rounded to the nearest 50 psi [0.5 MPa] for supplementary requirements, or other requirements designated 
+pressures below 1000 psi [7 MPa], and to the nearest 100 psi in the purchase order or contract shall be reported, but may be 
+[1 MPa] for pressures 1000 psi [7 MPa] and above. The reported in a separate document. 
+hydrostatic test may be performed prior to cutting to final 23.4 The material test report shall include a statement of 
+length, or prior to upsetting, swaging, expanding, bending, or explanation for the letter added to the specification number 
+other forming operations. marked on the material (see 26.5) when all of the requirements 
+898 

@@ -1,0 +1,27 @@
+Note 2—Micrometers used for measurement of thickness shall be constructed with anvils and spindles having minimum diameters of 0.188 in. :
+[4.80 mm]. The tip of the spindle shall be flat, and the tip of the anvil shall be flat or rounded with a minimum radius of curvature of 0.10 in. [2.55 mm].
+Micrometers with pointed tips are not suitable for thickness measurements. ;
+
+Note 3—The thickness of material <2 in. wide shall be measured at mid-width.
+
+Specified Ordered Thickness, in.*
+ops . . 0.027 to 0.051, Over 0.051 to 0.057, Over 0.057 to 0.071, Over 0.071 to 0.098, Over 0.098 to 0.180, 0.180 to 0.230, :
+
+Specified Width, in. incl incl incl incl excl excl :
+
+Thickness Tolerances Over, in., No Tolerance Under® ;
+
+To 20 incl 0.008 0.008 0.009 0.009 0.010 0.010 .
+
+Over 20 to 40, incl 0.008 0.008 0.009 0.010 0.010 0.012
+
+Over 40 to 48, incl 0.008 0.009 0.009 0.010 0.012 0.014
+Over 48 to 60, incl rd 0.009 0.010 0.010 0.012 0.015 ——— ;
+Over 60 to 72, incl rd 0.010 0.010 0.012 0.012 0.016 ;
+Over 72 Le rid rad 0.012 0.012 0.018
+A The specified thickness range captions apply independent of whether the ordered thickness is stated as a nominal or minimum. ;
+® The tolerances provided in the table are based on minimum thickness (tolerance over, no tolerance under). For nominal thickness, the tolerance is divided equally over
+and under. |
+© Where an ellipsis (. . .) appears in the table, the requirements have not been defined. ;
+TABLE 5 Thickness Tolerances for Hot-Rolled Sheet (High-Strength, Low-Alloy Steel)—*%-in. (Cut Edge) and 1-in. (Mill Edge) Minimum |
+: Edge Distance (Coils and Cut Lengths, Including Pickled)

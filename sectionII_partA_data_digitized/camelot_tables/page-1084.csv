@@ -1,0 +1,53 @@
+,SA-568/SA-568M (ASTM A568/A568M),,ASME  BPVC.11.A-2025,,,
+,TABLE  4 Thickness Tolerances for Hot-Rolled Sheet (Carbon  and  Structural  Steel  Only)-5/s-in. (Cut  Edge) and  1-in. (Mill  Edge),,,,,
+,,Minimum  Edge Distance (Coils and  Cut  Lengths,  Including  Pickled),,,,
+,NoTE  1-Thickness is measured  at any point across  the width not less than  5/s  in. from a cut edge and not less than  1 in. from a mill edge.  This table,,,,,
+,does  not apply to  the uncropped ends  of mill edge  coils.,,,,,
+,NoTE  2--.:Micrometers  used  for  measurement  of thickness  shall  be  constructed  with  anvils  and  spindles  having  minimum  diameters  of 0.188 in.,,,,,
+,(4.80 mm]. The tip of the spindle shall be flat,  and the tip of the  anvil shall be flat or ronnded with a minimum radius of curvature of 0.10 in.  [2.55 mm].,,,,,
+Micrometers  with pointed tips  are  not suitable  for thickness  measurements.,,,,,,
+,NoTE  3-The thickness  of material <2 in.  wide  shall be  measured  at mid-width.,,,,,
+,,,Specified  Ordered Thickness,  in.A,,,
+,0.027 to 0.051,,Over 0.051  to 0.057,,Over 0.057 to  0.071,,Over 0.071  to  0.098,,Over 0.098 to  0.180,,0.180 to 0.230,
+Specified Width,  in.,,,,,,
+,incl,incl,incl,incl,excl,excl
+,,,Thickness Tolerances  Over,  in.,  No Tolerance  Under8,,,
+To  20  incl,0.008,0.008,0.009,0.009,0.010,0.010
+Over 20 to  40,  incl,0.008,0.008,0.009,0.010,0.010,0.012
+Over 40 to 48,  incl,0.008,0.009,0.009,0.010,0.012,0.014
+,C,,,,,
+Over 48 to  60,  incl,,0.009,0.010,0.010,0.012,0.015
+,C,,,,,
+Over 60 to 72,  incl,,0.010,0.010,0.012,0.012,0.016
+,C,C,C,,,
+Over72,,,,0.012,0.012,O.D18
+,A  The specified thickness  range  captions  apply independent of  whether the  ordered  thickness  is  stated  as  a nominal  or minimum.,,,,,
+,8  The tolerances provided in the table are based on  minimum thickness  (tolerance over,  no tolerance under).  For nominal thickness, the tolerance  is divided equally over,,,,,
+and  under.,,,,,,
+,c Where an  ellipsis  ( ... ) appears  in  the  table,  the  requirements  have not been  defined.,,,,,
+,TABLE  5 Thickness Tolerances for Hot-Rolled Sheet (High-Strength,  Low-Alloy Steel)-5/s-in. (Cut  Edge) and  1-in. (Mill  Edge)  Minimum,,,,,
+,,,Edge Distance (Coils  and  Cut  Lengths,  Including  Pickled),,,
+
+,Micrometers  with pointed  tips  are  not suitable  for thickness  measurements.,,,,,,
+,NoTE  3-The thickness  of material <2 in.  wide  shall be measured  at  mid-width.,,,,,,
+,,,,Specified Ordered Thickness,  in.A,,,
+,,,,Over 0.070,Over 0.082,Over 0.098,
+,0.031  to  0.051,,Over 0.051  to,Over 0.059 to,,,,0.180 to
+Specified  Width,  in.,,,,to 0.082,,to  0.098,,to 0.180,,
+,incl,0.059,  incl,0.070,  incl,,,,0.230,  excl
+,,,,incl,incl,excl,
+,,,,Thickness Tolerances All  Over,  in.,  No Tolerance  Under8,,,
+To  15,  incl,0.008,0.009,0.009,0.009,0.009,0.010,0.010
+Over 15 to  20,  incl,0.008,0.009,0.010,0.010,0.010,0.012,0.012
+Over 20 to 32,  incl,0.009,0.009,0.010,0.010,0.010,0.012,0.014
+Over 32  to  40,  incl,0.009,0.009,0.010,0.010,0.012,0.012,0.014
+Over 40  to  48,  incl,0.009,0.010,0.010,0.010,0.012,0.015,O.D15
+,C,,,,,,
+Over 48  to  60,  incl,,0.010,0.010,0.010,0.012,O.D15,O.D15
+,C,C,,,,,
+Over 60 to 72,  incl,,,0.012,0.012,0.014,0.016,0.016
+,C,C,C,,,,
+Over 72  to  80,  incl,,,,0.012,0.014,0.018,0.018
+,,,,,,,
+__over80-,C,.. ____c;_,_Q_,_C_,0,01-5-,-O,()t8-,O.o18c;c
+A  The specified thickness range captions  apply independent of whether the  ordered thickness  is stated  as a nominal  or  minimum.,,,,,,,

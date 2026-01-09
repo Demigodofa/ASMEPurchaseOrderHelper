@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 77,
+  "globalPageIndex": 875,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "ASME BPVC.II.A-2025 SA-476/SA-476M \nAPPENDIX \n(Nonmandatory Information) \nXl. MECHANICAL PROPERTIES OF \nCASTINGS \nXl.1 The mechanical properties of iron castings are \ninfluenced by the cooling rate during and after solidifica\u00ad\ntion, by chemical composition, by heat treatment, by the \ndesign of the casting, by the design and nature of the mold, \nby the location and effectiveness of gates and risers, and \nby certain other factors. \nXl.2 The cooling rate in the mold and, therefore, the \nproperties developed in any particular section are influ\u00ad\nenced by the presence of cores, chills and chaplets, changes \nin section thickness, and the existence of bosses, projec\u00ad\ntions, and intersections, such as junctions of ribs and \nbosses. Because of the complexity of the interactions of \nthese factors, no precise quantitative relationship can be \nstated between the properties of the iron in various loca\u00ad\ntions of the same casting or between the properties of a \ncasting and those of a test specimen cast from the same \niron. When such a relationship is important and must be \nknown for a specific application, it may be more closely \nascertained by appropriate experimentation. \nXl.3 When reliable information is unavailable on the \nrelationship between properties in a casting and those in \na separately cast test specimen, and where experimentation \nwould be unfeasible, the size of the test casting should be \nso selected as to approximate the thickness of the main or \ncontrolling section of the casting. \n773 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-0875.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1512,
+  "bestTextAlphaRatio": 0.791
+}

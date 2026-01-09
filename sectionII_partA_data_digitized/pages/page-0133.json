@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 133,
+  "globalPageIndex": 133,
+  "width": 618.6,
+  "height": 796.8,
+  "text": "ASME BPVC.II.A-2025 \nS26. Low-Sulfur Steels \nS26.l The steel shall be made to 0.010 % sulfur maximum. \nLower sulfur levels and sulfide shape control practices can be \nspecified by agreement between the manufacturer or processor \nand the purchaser. \nS27. Restrictive Plate Flatness \nS27.l Carbon steel plates, as-rolled or normalized, shall \nconform to the permissible restrictive variations from flatness \ngiven in Table S27.l or Table S27.2. \nS27.2 High-strength low-alloy steel plates, as-rolled or \nnormalized, shall conform to the permissible restrictive varia\u00ad\ntions from flatness given in Table S27.3 or Table S27.4. \nS28. Heat Treatment in the Working Zone of a Surveyed \nFurnace \nS28. l Plates shall be heat treated in the working zone of a \nfurnace that has been surveyed in accordance with Test Method \nA991/A991M, provided that such working zone was estab\u00ad\nlished using a variation of 25\u00b0F [15\u00b0C] or less from the furnace \nset point. \nS28.2 The test report shall indicate that S28 applies. \nSA-20/SA-ZOM \nTABLE S27.1 Permissible Variations from Flatness for Carbon Steel Plates As-Rolled or Normalized Ordered to Restrictive Flatness \nN om I-Flatness Variations for Length-The longer dimension specified is considered the length, and variation in flatness along the length shall not \nexceed the tabular amount for the specified width in plates up to 12 ft in length, or in any 12 ft of longer plates. \nNorn 2-Flatness Variations for Width-The flatness variation across the width shall not exceed the tabular amount for the specified width. \nNorn 3-When the longer dimension is under 36 in., the variation in flatness along the length and across the width shall not exceed \u00bc in. in each \ndirection. When the longer dimension is from 36 to 72 in., inclusive, the permissible flatness vaiiation shall not exceed 75 % of the tabular amount for \nthe specified width, but in no case less than \u00bc in. \nNorn 4-The variations given in this table apply to plates that have a minimum specified tensile strength not over 60 ksi or comparable chemistry or \nhai\u00b7dness. For plates specified to a higher minimum tensile strength or compai\u00b7able chemistry or hardness, the permissible variations are I\u00bd times the \namounts shown in the table below. \nNorn 5-This table ai1d these notes cover the flatness vadations of circular and sketch plates based on the maximum dimensions of those plates. \nNorn 6-Waviness tolerances for rectangular plates, universal mill plates, and circular and sketch plates do not apply. \nNorn 7-A \"Z\" indicates that there is no published restricted value for the size. \nNorn 8-Plates shall be in a horizontal position on a flat surface when flatness is measured. \nSpecified Permissible Variations from a Flat Surface for Specified Widths, in. \nThickness, in. 48 to 60, excl 60 to 72, excl 72 to 84, excl 84 to 96, excl 96 to 108, excl 108 to 120, incl \nTo\u00bc, excl \u00be 15/15 z z z z \n\u00bcto%, excl 9/16 \u00be 7/a 15/16 1-'Aa 1-1/a \n%to\u00bd, excl 5/16 5/15 % 7/16 \u00bd 9/16 \n\u00bdto\u00be, excl 5/16 5/16 5/is % \u00bd \u00bd \n\u00be to 1, excl 5/15 5/16 5/15 5/is % 7/15 \n1 to 2, incl \u00bc 5/15 5 /ia 5/15 5/16 % \n81 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0133.json",
+  "tabulaTablesCsv": "tables_tabula/page-0133.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0133.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 3090,
+  "bestTextAlphaRatio": 0.7197
+}

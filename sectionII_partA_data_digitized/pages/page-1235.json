@@ -1,0 +1,23 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 437,
+  "globalPageIndex": 1235,
+  "width": 618.6,
+  "height": 796.8,
+  "text": "ASME BPVC.Il.A-2025 SA-696 \nTABLE 1 Chemical Requirements (Heat Analysis), % \nCarbon, maxA \nManganese, max \nPhosphorus, max \nSulfur, max \nSilicon \nLead \nGrades B and C \n0.32 \n1.04 \n0.035 8 \n0.045 8 \n0.15 to 0.35 \n8 \nA For each reduction of 0.01 % below the specified carbon maximum, an \nincrease of 0.06 % manganese above the specified maximum will be permitted up \nto a maximum of 1.35 %. \n8 Phosphorus, sulfur, or lead, or a combination thereof, shall not be added. \nTABLE 2 Tensile Requirements \nTensile strength, min, ksi (MPa) \nYield strength, min, ksi (MPa) \nElongation in 2.0 in. or 50 mm, min, % \nElongation in 8.0 in. or 200 mm, \nmin, %A \nGrade B \n60 (415) \n35 (240) \n20.0 \n17,0 \nGrade C \n70 (485) \n40 (275) \n18,0 \n15.0 \nA Applicable !o bars 1 \u00bd in. (38 mm) in diameter tested full size. \n6. Chemical Composition \n6.1 The heat analysis shall conform to the requirements for \nchemical composition specified in Table 1. \n6.2 A product analysis of the steel may be made by the \npurchaser and shall conform to the requirements of Table 1 \nsubject to the product analysis tolerances specified in Specifi\u00ad\ncation A29/ A29M. \n7. Tensile Requirements \n7. l Requirements: \n7.1. l The material, as represented by the test specimens, \nshall conform to the tensile requirements specified in Table 2. \n7.1.2 A deduction from the percentage of elongation speci\u00ad\nfied in Table 2 of 1.0 % shall be made for each LO in. \n(25.4 mm) of specified diameter over 2.0 in. (51 nun) or \nfraction thereof to a maximum of 3 %. \n7.2 Specimens: \n7.2.1 Tension test specimens shall be taken longitudinally \nfrom a position midway between the center and the surface of \nthe bar or as close as practical to this location for smaH sizes. \n7.2.2 When it is impractical to remove specimens in accor-\ndance with 7.2.l, they shall be taken in accordance with Test \nMethods and Definitions A370. \n7 .3 Number c4' Tests-One tension test shall be made from \neach lot. A lot shall consist of all bars of one size from one heat \nprocessed at one time and subjected to the same heat treatment \nwhen heat treated. \n7.4 Test Methods-Tension tests shall be made in accor\u00ad\ndance with Test Methods and Definitions A370. The yield \nstrength shall be determined by the 0.2 % offset or 0.5 % \nextension under load methods. \n8. Workmanship, Finish, and Appearance \n8.1 Descaling-When descaled bars are required, Supple\u00ad\nmentary Requirement S7 must be specified. \n8.2 The bars shall be free of visible pipe and conditioned as \nnecessary to remove injurious surface imperfections. \n9. General Requirements \n9 .1 Material furnished under this specification shall con\u00ad\nfom1 to the applicable requirements of the current edition of \nSpecification A29/ A29M unless otherwise provided herein. \n10. Certification and Test Reports \n10.1 A manufacturer's certification that the material was \nmanufactured and tested in accordance with this specification \ntogether with a repmt of the heat analysis and tension test \nresults shall be furnished at the time of shipment. The repmt \nshall include the name of the manufacturer, ASTM designation \nnumber and grade, shape, size, and finish. \n11. Packaging and Package Marking \n11. l Bars less than 2.0 in. (51 mm) in diameter or thickness \nshall be tightly banded with a sufficient number of bands of \nadequate strength to minimize bundle breakage during han\u00ad\ndling and shipping. Larger sizes shall be packaged in accor\u00ad\ndance with Specification A29/ A29M. \n11.2 For bars less than 2.0 in. (51 mm) in diameter or \nthickness, each bundle shall bear a weather-resistant tag \nshowing the purchase order number, ASTM designation num\u00ad\nber and grade, heat number, size, and name of manufacturer. \nll.3 Bars 2.0 in. (51 mm) and larger in diameter or \nthickness shall have the heat number steel stamped on one end. \n12. Keywords \n12.1 pressure piping components; special quality steel bars; \nsteel bars \n1149 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1235.json",
+  "tabulaTablesCsv": "tables_tabula/page-1235.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-1235.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 3891,
+  "bestTextAlphaRatio": 0.7158,
+  "gapOcrHighDpiPath": "gap_ocr_highdpi/page-1235.txt",
+  "gapOcrHighDpiLength": 3854,
+  "camelotTablesPath": "camelot_tables/page-1235.json",
+  "camelotTablesCsv": "camelot_tables/page-1235.csv",
+  "camelotTableCount": 2
+}

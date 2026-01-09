@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 501,
+  "globalPageIndex": 1299,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "ASME BPVC.II.A-2025 \nTABLE 3 \nTHICKNESS TOLERANCES OF HOT-ROLLED STRIPA \n(CARBON AND HIGH-STRENGTH, LOW-ALLOY STEEL) ORDERED \nTO NOMINAL THICKNESS \n(COILS AND CUT LENGTHS, INCLUDING PICKLED) \nThickness Tolerance, Over and Under, in., for Specified Nominal Thickness, in. \nSpecified Width, in. Over 0.057 Over 0.118 Over 0.187 Over 0.203 \nto 0.230, \nexcl \nThrough to 0.118, to 0.187, to 0.203, \nOver Through 0.057 incl incl incl \n3\u00bd 0.003 0.004 0.005 0.006 \n3\u00bd 6 0.003 0.005 0.005 0.006 \n6 12 0.004 0.005 0.005 0.006 0.006 \nNOTE 1 - Micrometers used for measurement of thickness shall be constructed with either flat anvils having \na minimum diameter of 0.188 in. or rounded anvils having a minimum radius of curvature of 0.100 in. \nMicrometers with pointed anvils are not suitable for thickness measurement. \nA Measurements for the above table are taken 31s in. from the edge of a strip on 1 in. or wider; and at \nany place on the strip when narrower than 1 in. The given tolerances do not include crown and therefore \nthe tolerances for crown as shown in Table 5 are in addition to tolerances in Table 3. \nTABLE 4 \nTHICKNESS TOLERANCES OF HOT-ROLLED STRIPA \n(CARBON AND HIGH-STRENGTH, LOW-ALLOY STEEL> \nORDERED TO MINIMUM THICKNESS (COILS AND CUT LENGTHS, \nINCLUDING PICKLING) \nThickness Tolerance, Over Only, in., for Specified Nominal Thickness, in. \nSpecified \nWidth, in. Over 0.057 Over 0.118 Over 0.187 Over 0.203 \nThrough to 0.118, to 0.187, to 0.203, to 0.230, \nOver Through 0.057 incl incl incl excl \n3\u00bd 0.006 0.008 0.010 0.012 \n3\u00bd 6 0.006 0.010 0.010 0.012 \n6 12 0.008 0.010 0.010 0.012 0.012 \nSA-749/SA\u00b7749M \nNOTE 1 - Micrometers used for measurement of thickness shall be constructed with either flat anvils having \na minimum diameter of 0.188 in. or rounded anvils having a minimum radius of curvature of 0.100 in. \nMicrometers with pointed anvils are not suitable for thickness measurement. \nA Measurements for the above table are taken 31s in. from the edge of a strip on 1 in. or wider; and at \nany place on the strip when narrower than 1 in. The given tolerances do not include crown and therefore \nthe tolerances for crown as shown in Table 5 are in addition to tolerances in Table 4. \n1227 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 2,
+  "tabulaTablesPath": "tables_tabula/page-1299.json",
+  "tabulaTablesCsv": "tables_tabula/page-1299.csv",
+  "tabulaTableCount": 2,
+  "bestTextPath": "best_text/pages/page-1299.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2209,
+  "bestTextAlphaRatio": 0.656
+}

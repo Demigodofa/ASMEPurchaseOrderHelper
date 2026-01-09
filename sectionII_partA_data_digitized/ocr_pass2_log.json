@@ -1,0 +1,9 @@
+{
+  "createdUtc": "2026-01-07T15:17:03.368581+00:00",
+  "lowConfidenceThreshold": {
+    "minLength": 300,
+    "minAlphaRatio": 0.2
+  },
+  "processedPages": 301,
+  "ocrAppliedPages": 301
+}

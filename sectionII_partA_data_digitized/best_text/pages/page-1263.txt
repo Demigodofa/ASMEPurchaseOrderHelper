@@ -1,0 +1,83 @@
+ASME BPVC.II.A-2025 SA-723/SA-723M 
+mm] thick; and 3/26 in. [4.8 mm] long for materials 2 in. [50 
+mm] thick and greater. A linear indication is defined as one 
+whose length is three times its width. 
+7 .2.1.2 Rounded indications with dimensions greater than 
+1/s in. [3.2 mm] for thicknesses less than 5/s in. [16 mm], and 
+greater than 3 /16 in. [4.8 mm] for thicknesses 5/s in. [16 mm] and 
+greater. 
+7.2.1.3 Four or more relevant indications in a line separated 
+by 1/16 in. [1.6 mm] or less, edge to edge. 
+7.2.1.4 Ten or more relevant indications in any 6 in.2 [3870 
+mm 2 ] of surface with the major dimension of this area not to 
+exceed 6 in. [150 mm] when it is taken in the most unfavorable 
+orientation relative to the indications being evaluated. 
+8. Rework and Retreatment 
+8.1 Repair welding shall not be permitted. For retreatment, 
+see 7.2.1. 
+9. Certification and Reports 
+9.1 In addition to the certification requirements of Specifi­
+cation A788/A788M, the manufacturer shall include the fol­
+lowing in the certification data: 
+9 .1.1 Results of the product analysis, 
+9.1.2 Method used to locate mechanical test specimens (see 
+Section 6), and 
+9.1.3 Sketches or drawings as necessary to supplement the 
+nondestructive examination report. 
+10. Packaging and Package Marking 
+10.1 Marking shall be in accordance with Specification 
+A788/A788M but stamping shall be permitted only in areas 
+designated by the purchaser. If no such suitable area is 
+available, a separate nameplate, with the required stamping, 
+shall be permanently affixed to the vessel in a manner that will 
+not be injurious to the vessel. 
+11. Keywords 
+11.1 alloy steel forgings; high pressure vessels; high 
+strength; impact tested; isostatic presses; nonweldable; 
+quenched and tempered; vacuum-treated steel 
+SUPPLEMENTARY REQUIREMENTS 
+One or more of the following supplementary requirements shall apply only when specified by the 
+purchaser in the inquiry or order. Details of these supplementary requirements shall be agreed upon 
+by the manufacturer and the purchaser. 
+Sl. Charpy V-Notch Impact Transition Curve 
+S 1.1 Sufficient impact tests shall be made from the forging 
+test material to establish a temperature-absorbed energy curve. 
+The test temperature range shall be wide enough to establish 
+the upper and lower shelf foot-pound-force energies, with 
+sufficient testing at intermediate temperatures to permit plot­
+ting a reasonably smooth curve. 
+S 1.2 Instead of plotting an impact transition curve, impact 
+requirements may be specified as 50 % fibrous fracture at a 
+specified maximum temperature. 
+S2. Additional Charpy Data 
+S2.1 The percent shear fracture and mils of lateral 
+expansion, defined in Test Methods and Definitions A370, shall 
+be reported for each Charpy specimen tested. 
+S3. Charpy Impact Tests 
+S3.l Charpy impact tests shall be made in accordance with 
+the provisions of Section 6 of this specification, except that the 
+tests shall be at a specified temperature lower than 40°F 
+[4.5°C]. These tests shall be instead of those specified in 
+Section 6, and shall meet the requirements of Table 3. 
+S4. Impact Testing 
+S4.1 For Class 2a forgings, impact tests shall be made in 
+accordance with the provisions of Section 6 of this specifica­
+tion except that the acceptance criteria shall be a minimum of 
+45 ft-lbf [61 J] and 25 mils [0.635 mm] lateral expansion at a 
+test temperature specified by the purchaser. 
+SS. Mechanical Test Location Discard 
+S5.1 Instead of the discard of¼ T x 2 /2 T required by 6.2.3, 
+a minimum discard of ¼ T x T shall be employed for Method 
+3. 
+S6. Alternate Mechanical Testing 
+S6; 1 Forgings exeeding 5000 lb [2270kg] at the time of heat 
+treatment, and not over 80 in. [2030 mm] in length, excluding 
+test material, require one set of test specimens to be taken from 
+each end of the forging. Each test specimen set shall consist of 
+one tension test and three Charpy V-notch specimens. The test 
+specimen set locations shall be spaced 180° apart, end to end. 
+When the forging length exceeds 80 in. [2030 mm] excluding 
+test material two sets of mechanical test specimens shall be 
+removed from each end of the forging, and spaced 180° apart 
+at the same end, and rotated 90° end to end. 
+1179 

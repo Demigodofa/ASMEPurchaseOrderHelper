@@ -1,0 +1,54 @@
+,,,[1107-1150],
+WPNIC,CRNIC,N08800,1800-1900,water or other rapid cool
+,,,[983-1 038] O,
+WPNIC10,CRNIC10,N08810,2100-2150,water or other rapid cool
+,,,[1147-1177] 0,
+WPNIC11,CRNIC11,N08811,2100-2150,water or other rapid cool
+,,,[1147-1177] 0,
+WP904L,CR904L,N08904,1985-2100,water or other rapid cool
+,,,[1085-1150],
+WP1925,CR1925,N08925,1800-1900,water or other rapid cool
+,,,[983-1038],
+WP1925N,CR1925N,N08926,2150 [1177],water or other rapid cool
+WP304,CR304,830400,1900 [1040],water or other rapid cool
+WP304L,CR304L,830403,1900 [1040],water or other rapid cool
+WP304H,CR304H,830409,1900 [1040],water or other rapid cool
+WP304N,CR304N,830451,1900 [1040],water or other rapid cool
+WP304LN,CR304LN,830453,1900 [1040],water or other rapid cool
+WP309,CR309,830900,1900 [1040],water or other rapid cool
+WP3108,CR3108,831008,1900 [1040],water or other rapid cool
+WP310H,CR310H,831009,1900 [1040],water or other rapid cool
+WPS31254,CR31254,831254,2100 [1150],water or other rapid cool
+WPS31266,CRS31266,831266,2100 [1150],water or other rapid cool
+WP316,CR316,831600,1900 [1040],water or other rapid cool
+WP316L,CR316L,831603,1900 [1040],water or other rapid cool
+WP316H,CR316H,831609,1900 [1040],water or other rapid cool
+WP316N,CR316N,831651,1900 [1040],water or other rapid cool
+WP316LN,CR316LN,831653,1900 [1040],water or other rapid cool
+WP317,CR317,831700,1900 [1040],water or other rapid cool
+WP317L,CR317L,831703,1900 [1040],water or other rapid cool
+WPS31725,CRS31725,831725,1900 [1040],water or other rapid cool
+WPS31726,CRS31726,831726,1900 [1040],water or other rapid cool
+WPS31727,CRS31727,831727,1975-2155,water or other rapid cool
+,,,[1080-1180],
+WPS31730,CRS31730,831730,1900 [1040],water or other rapid cool
+WPS32053,CRS32053,832053,1975-2155,water or other rapid cool
+,,,[1080-1180],
+WP321,CR321,832100,1900 [1040],water or other rapid cool
+WP321H,CR321H,832109,1925 [1050],water or other rapid cool
+WPS33228,CRS33228,833228,2050-2160,water or other rapid cool
+,,,[1120-1180],
+WPS34565,CRS34565,834565,2050-2140,water or other rapid cool
+,,,[1120-1170],
+WP347,CR347,834700,1900 [1040],water or other rapid cool
+WP347H,CR347H,834709,1925 [1050],water or other rapid cool
+WP347LN,CR347LN,834751,1900 [1040],water or other rapid cool
+WP348,CR348,834800,1900 [1040],water or other rapid cool
+WP348H,CR348H,834809,1925 [1050],water or other rapid cool
+WPS38815,CRS38815,838815,1950 [1065],water or other rapid cool
+
+WPA,CRA,,Temeerature, min 'F ['C] 8,
+WPXM-19,CRXM-19,820910,1900 [1040],water or other rapid cool
+WP20CB,CR20CB,N08020,1700-1850,water or other rapid cool
+,,,[927-1010],
+WP6XN,CR6XN,N08367,2025 [1107],water or other rapid cool

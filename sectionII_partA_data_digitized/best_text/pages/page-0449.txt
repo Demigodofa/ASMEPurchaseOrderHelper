@@ -1,0 +1,82 @@
+ASME BPVC.II.A-2025 SA-266/SA-266M 
+S4. Magnetic Particle Examination 
+S4.1 All accessible surfaces of the finished forging shall be 
+examined by a magnetic particle method. The method shall be 
+in accordance with Practice A275/A275M. Acceptance limits 
+shall be as agreed upon between the manufacturer and the 
+purchaser. 
+SS. Liquid Penetrant Examination 
+S5.1 After forgings have been heat-treated by liquid 
+quenching and tempering, all accessible surfaces shall be 
+inspected for quench cracks by the liquid penetrant method in 
+accordance with Test Method E165/El65M as an alternative to 
+magnetic particle exanrination. 
+S6. Macroetch Test 
+S6.1 A sample forging shall be sectioned and etched to 
+show ·flow lines and internal imperfections. The test shall be 
+conducted in accordance with Method E381. Details of the test 
+shall be agreed upon between the manufacturer and the 
+purchaser. 
+S7. Product Analysis 
+S7 .1 A product analysis in accordance with Section 7 shall 
+be made from one randomly selected forging representing each 
+size and shape of forging on the order. If the analysis fails to 
+comply, each forging shall be checked or the lot rejected. All 
+results shall be reported to the purchaser. 
+SS. Specimen Location on Forged Hubs 
+S8.1 Forged hubs to be butt-welded to shells shall be forged 
+in such a manner as to provide in the hub the full nrinimum 
+tensile strength and elongation specified for the material, in a 
+direction parallel to the axis of the vessel. A tension specimen 
+(subsize if necessary) shall be taken in this direction and as 
+close to the finished hub outside diameter as practical. 
+S9. Hardness 
+S9.1 The purchaser may check the Brinell hardness of the 
+forging at any location on the surface of the forging, and the 
+hardness shall be within the following limits: 
+Grade 
+1 
+2 and 4 
+3 
+SlO. Grain Size 
+Brinell Hardness Range HBW 
+121 to 170 
+137 to 197 
+156 to 207 
+S 10 .1 The austenitic grain size of the steel shall be 1 to 5 as 
+determined using Test Methods E112. 
+Sll. Restriction on Residual Elements (Applicable to Heat 
+Analysis) 
+S 11.1 Nickel, chromium, and molybdenum shall be deter­
+mined and shall not exceed the following limits: 
+Nickel 
+Chromium 
+Molybdenum 
+S12. Deleted. 
+S13. Impact Tests 
+0.25 % max 
+0.20 % max 
+0,08% max 
+S13.l Charpy impact tests shall be made. The number and 
+location of the tests, minimum properties, and test temperatures 
+shall be specified. 
+397 
+Sl3.2 The specimens shall be machined and tested in 
+accordance with Test Methods and Definitions A370. 
+Sl3.3 Retests may be conducted in accordance with Section 
+10 of Specification A 788/ A 788M. 
+S14. Individual Forging 
+Sl4.1 Forgings, whether identical or not, shall be produced 
+individually. They shall not be forged in multiples and sepa­
+rated prior to or after heat treatment. 
+Sl4.2 The shape and size of individual forgings shall be 
+agreed upon between the manufacturer and the purchaser by 
+means of a forging drawing or the purchase order. 
+SIS. Carbon Equivalancy 
+Sl5.1 The heat analysis including the residual element 
+restrictions of Sl in Specification A788/A788M shall be 
+limited such that the carbon equivalent shall not exceed 0.45 
+for Grade 1 or 0.50 for Grade 2 or 4 when calculated in 
+accordance with the following formula: 
+%Mn %Cr+%Mo+%V %Ni+%Cu 
+CE=% C+-6-+ 5 + 15 

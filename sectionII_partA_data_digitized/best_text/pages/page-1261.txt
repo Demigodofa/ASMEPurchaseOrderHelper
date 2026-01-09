@@ -1,0 +1,143 @@
+ASME BPVC.II.A-2025 SA-723/SA-723M 
+4.3 Heat Treatment: 
+4.3.1 Forgings shall be rough-machined prior to final heat 
+treatment if it is necessary to reduce the mass to ensure full 
+hardening or to meet the requirements of 6.2. The risk of 
+cracking during heat treatment with high-hardenability steels 
+of the type covered by this specification should be borne in 
+mind when deciding on the degree of surface preparation 
+before heat treatment. 
+4.3.2 Heat Treatment for Mechanical Properties-Heat 
+treatment shall consist of normalizing (which may be part of 
+the preliminary treatment), reaustenitization, liquid quenching, 
+and tempering. The forgings shall be quenched in a suitable 
+liquid medium by spraying or immersion. Quenching shall be 
+followed by tempering at a minimum temperature of 1000°F 
+[540°C]. The minimum time at tempering temperature shall be 
+½ h/in. [½ h/25 mm] of maximum section thickness, unless 
+otherwise agreed between supplier and purchaser. 
+5. Chemical Composition 
+5.1 Heat Analysis-The heat analysis obtained from sam­
+pling in accordance with Specification A788/A788M shall 
+comply with Table 1. 
+5.1.1 Temper Embrittlement Control-The purchaser's at­
+tention is drawn to Supplementary Requirement S24 in Speci­
+fication A788/A788M for application of the J Factor which 
+may be of assistance in the control of temper embrittlement in 
+forgings produced to Specification A 723/ A 723M. 
+5.2 Product Analysis-The manufacturer shall use the prod­
+uct analysis provision of Specification A788/A788M to obtain 
+a product analysis from a forging representing each heat or 
+multiple heat. The purchaser may also make this determination 
+in accordance with Specification A788/A788M. 
+6. Mechanical Properties 
+6.1 General Requirements-The forging shall conform to 
+the requirements of Table 2 and Table 3. The largest obtainable 
+tension test specimen as specified in Test Methods and Defi­
+nitions A370 (that is, standard round 0.500-in. [12.5-mm] 
+diameter specimen) shall be used. Charpy V-notch Type A 
+impact specimens, as shown in Test Methods and Definitions 
+A370, shall be used. 
+6.2 Sampling-The mid-point of the gage length of tension 
+test specimens and the area under the notch of impact speci­
+mens shall be located in accordance with one of the following 
+methods as specified by the purchaser, or suggested by the 
+Carbon, max 
+Manganese, max 
+Phosphorus, max 
+Sulfur, max 
+Silicon, max 
+Nickel 
+Chromium 
+Molybdenum 
+Vanadium, max 
+TABLE 1 Chemical Requirements 
+Grade 1 
+0.35 
+0.90 
+0.015 
+0.015 
+0.35 
+1.5 to 2.25 
+0.80 to 2.00 
+0.20 to 0.40 
+0.20 
+Composition, % 
+Grade 2 
+0.40 
+0.90 
+0.015 
+0.015 
+0.35 
+2.3 to 3.3 
+0.80 to 2.00 
+0.30 to 0.50 
+0.20 
+Grade 3 
+0.40 
+0.90 
+0.015 
+0.015 
+0.35 
+3.3 to 4.5. 
+0.80 to 2.00 
+0.40 to 0.80 
+0.20 
+supplier and approved by the purchaser. Wherever practical, all 
+testing shall be from integral prolongations of the forging. 
+6.2.1 Method I-This method shall always be used when 
+the maximum quenched thickness does not exceed 4 in. [100 
+mm]. Datum points of the specimens, as described in 6.2, shall 
+be located in the forging or test forging (6.2.4) at mid-thickness 
+and at least 1/3 T (Tis the maximum heat-treated thickness) 
+from the quenched end surface or nearest adjacent surfaces. 
+6.2.2 Method 2-t by 2t, where t is the distance from the 
+area of significant loading (3.1) to the nearest quenched 
+surface. However, the datum points of the specimens as 
+described in 6.2 shall not be nearer to one quenched surface 
+than¾ in. [20 mm] and to the second quenched surface than 1 
+½ in. [40 mm]. When this method of testing is employed, 
+forgings are usually manufactured in accordance with a 
+purchaser-approved drawing showing prequenched dimensions 
+and the location of mechanical test specimens. It is commonly 
+used for disk-type forgings such as tube sheets and covers. 
+6.2.3 Method 3-For maximum quenched thicknesses in 
+excess of 4 in. [100 mm] as heat treated. Where this method of 
+testing is employed, the datum points of the test specimen, as 
+described in 6.2, shall be removed ¼ T from the nearest 
+quenched surface and 2 /2 T from the quenched end surface or 
+nearest adjacent surface. 
+6.2.4 Method 4-Test specimens shall be taken from a 
+representative separate test forging made from the same heat of 
+steel, which shall receive substantially the same reduction and 
+type of hot working, and have a cross section not less than the 
+production forgings which it represents. It shall be heat treated 
+in the same furnace charge and under the same conditions as 
+the production forgings. The test specimen shall be removed 
+using the Method 3 procedure. 
+6.3 Thermal Buffers: 
+6.3.1 Thermal buffer rings, at least Thy Tin cross section or 
+sections of such a ring at least 3 Tin length, shall be welded to 
+the test end(s) of a forging prior to heat treatment for 
+mechanical properties. The buffer material may be any weld­
+able carbon or low-alloy steel and shall be joined to the forging 
+with a partial penetration-type weld which completely seals the 
+buffered surface. The test coupons shall be removed from the 
+forging in the region buffered by the ring or ring segments. If 
+the latter are used, the test coupons shall be removed from the 
+forging in the area under the center ½ of the buffer ring 
+segment length. In either case, the test specimens shall be 
+located at a minimum distance of ½ in. [13 mm] from the 
+buffered surface of the forging and at least ¼ T from a 
+quenched surface of the forging. Buffered weld areas must be 
+at least 1 in. [25 mm] from any finished machining surface of 
+the complete forging. 
+6.3.2 Bearing in mind the characteristics of the base mate­
+rials included in this specification, precautions should be taken, 
+such as the use of pre- and post-weld heating and austenitic 
+weld metal, to minimize the occurrence of crack-like defects. 
+6.3.3 Approval of the purchaser should be obtained for the 
+use of this method. 
+6.4 Samples shall be removed from the forgings after 
+quenching and tempering. 
+1177 

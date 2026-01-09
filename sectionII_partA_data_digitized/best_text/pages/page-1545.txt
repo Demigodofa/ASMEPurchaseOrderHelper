@@ -1,0 +1,116 @@
+ASME BPVC.II.A-2025 SA-999 /SA-999M 
+for ferritic/austenitic stainless steel pipe. The test pressure or 
+stress shall be detennined using the following equation: 
+P = 2St/D or S = PD/2t 
+where: 
+P = hydrostatic test pressure in psi [MPa], 
+S = pipe wall stress in psi or [MPa], 
+(3) 
+t = specified wall thickness, nominal wall thickness accord­
+ing to specified ANSI schedule number, or 1.143 times 
+the specified minimum wall thickness, in. [mm], and 
+D = specified outside diameter, outside diameter correspond­
+ing to specified ANSI pipe size, or outside diameter 
+calculated by adding 2t (as defined above) to the 
+specified inside diameter, in. [mm]. 
+22.2.1.1 The hydrostatic test pressure dete1mined by Eq 3 
+shall be rounded to the nearest 50 psi [0.5 MPa] for pressures 
+below 1000 psi [7 MPa], and to the nearest 100 psi [l MPa] for 
+pressures 1000 psi [7 MPa] and above. The hydrostatic test 
+may be performed prior to cutting to final length, or prior to 
+upsetting, swaging, expanding, bending, or other forming 
+operations. 
+22.2.2 Regardless of pipe-wall stress-level determined by 
+Eq 3, the minimum hydrostatic test pressure required to satisfy 
+these requirements need not exceed 2500 psi [17.0 MPa] for 
+outside diameters (see D in 22.2) of 3.5 in. [88.9 mm] or less, 
+or 2800 psi [19.0 MPa] for outside diameters over 3.5 in. [88.9 
+mm]. This does not prohibit testing at higher pressures at the 
+option of the manufacturer or as allowed by 22.2.3. 
+22.2.3 With concurrence of the manufacturer, a minimum 
+hydrostatic test pressure in excess of the requirements of 22.1 
+or 22.2, or both, may be stated in the purchase order. 
+22.2.4 The test pressure shall be held for a minimum of 5 s. 
+For welded pipe, the test pressure shall be held for a time 
+sufficient to permit the entire length of the welded seam to be 
+inspected. 
+22.2.5 The hydrostatic test may not be capable of testing the 
+end portion of the pipe. The length of pipe that cannot be tested 
+shall be determined by the manufacturer and, if specified in the 
+purchase order, reported to the purchaser. 
+22.3 Nondestructive Electric Test: 
+22.3.1 Each pipe shall be examined with a nondestructive 
+test in accordance with Practices E213, E309, E426, or E570. 
+Unless specifically called out by the purchaser, the selection of 
+the nondestructive electric test shall be at the option of the 
+manufacturer. Upon agreement between the purchaser and the 
+manufacturer, Practice E273 shall be employed in addition to 
+one of the full periphery tests. The range of pipe sizes that may 
+be examined by each method shall be subject to the limitations 
+in the scope of the respective practices. 
+22.3.2 The following information is for the benefit of the 
+user of this specification: 
+22.3.2.1 The reference discontinuities defined in 22.3.8.2 -
+22.3.8. 7 are convenient standards for the standardization of 
+nondestructive testing equipment. The dimensions of such 
+reference discontinuities should not be construed as the mini­
+mum size imperfection detectable by such equipment. 
+22.3.2.2 The ultrasonic testing (UT) can be performed to 
+detect both longitudinally and circumferentially oriented im-
+perfections. It should be recognized that different techniques 
+should be used to detect differently oriented imperfections. The 
+examination may not detect short deep imperfections. 
+22.3.2.3 The eddy-current testing (ET) referenced in this 
+specification, (see Practices E426 and E309), has the capability 
+of detecting significant imperfections, especially of the short 
+abrupt type. The sensitivity of this test decreases with wall 
+thickness over 0.250 in. (6.4 mm). 
+22.3.2.4 The flux leakage examination referred to in this 
+specification is capable of detecting the presence and location 
+of significant longitudinally or transversely oriented imperfec­
+tions; however, sensitivity of the test to various types of 
+imperfections is affected by the calibration, and different 
+techniques should be employed to detect differently oriented 
+imperfections. 
+22.3.2.5 A purchaser interested in ascertaining the nature 
+(type, size, location, and orientation) of imperfections that can 
+be detected in the specific application of these examinations 
+should discuss this with the manufacturer of the tubular 
+product. 
+22.3.3 Time of Examination: 
+22.3.3.1 Nondestructive testing for specification acceptance 
+shall be performed after all mechanical processing, heat 
+treatments, and straightening operations. This requirement 
+does not preclude additional testing at earlier stages in the 
+processing. 
+22.3.4 Su-rjace Condition: 
+22.3.4.1 All surfaces shall be free of scale, dirt, grease, 
+paint, and other foreign material that could interfere with 
+interpretation of test results. The methods used for cleaning 
+and preparing the surfaces for examination shall not be 
+detrimental to the base metal or the surface finish. 
+22.3.4.2 Excessive surface roughness or deep scratches can 
+produce signals that interfere with the test. 
+22.3.5 Extent of Examination: 
+22.3.5.1 The relative motion of the pipe and the 
+transducer(s), coil(s), or sensor(s) shall be such that the entire 
+pipe surface is scanned, except as allowed by 22.3.5.2. 
+22.3.5.2 The existence of end effects is recognized, and the 
+extent of such effects shall be detennined by the manufacturer, 
+and, if requested, shall be reported to the purchaser. Other 
+nondestructive tests may be applied to the end areas, subject to 
+agreement between the purchaser and the manufacturer. 
+22.3.6 Operator Qualifications: 
+22.3.6.1 The test unit operator shall be qualified in accor­
+dance • with SNT-TC- lA, or an equivalent recognized and 
+documented standard. 
+22.3.7 Test Conditions: 
+22.3.7.1 For eddy-current testing, the excitation coil fre­
+quency shall be chosen to ensure adequate penetration yet 
+provide a good signal-to-noise ratio. 
+22.3.7.2 The eddy-current coil frequency used shall not 
+exceed the following: 
+On specified walls up to 0.050 in. [1.3 mm] - 100 kHz 
+On specified walls up to 0.150 in. [3.8 mm] - 50 kHz 
+On specified walls equal to or greater than 0.150 in. [3.8 mm] - 10 kHz 
+1491 

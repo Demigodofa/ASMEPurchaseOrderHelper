@@ -1,0 +1,6 @@
+[
+  {
+    "reference": "**Verification method:** open the spec PDF listed, go to the **approx. spec-local page** (computed as `globalPageIndex - specRangeStart + 1`), and verify whether the referenced NOTE/TABLE exists nearby.",
+    "spec": "SA-960"
+  }
+]

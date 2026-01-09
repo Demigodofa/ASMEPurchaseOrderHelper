@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 770,
+  "globalPageIndex": 770,
+  "width": 612.6,
+  "height": 853.8,
+  "text": "SA-437 /SA-437M ASME BPVC.II.A-2025 \nTABLE 3 Impact Requirements \nGrade \nB4B \nB4C \nB4DA \nMinimum Impact Value, ft-lbf [J] \n10 [14] \n25 [34] \n25 [34] \nA For bars over 5-in. [127-mm] diameter only. \nTABLE 4 Hardness Requirements for Bolts and Studs \nGrade \nB4B \nB4C \nB4D \n14. Product Marking \nBrinell Hardness Number, \nmax \n331 \n277 \n302 \n14.1 Use the grade symbol shown in Table 4. See Specifi\u00ad\ncation A962/A962M. \nTABLE 5 Hardness Requirements for Nuts and Washers \nGrade Brinell Hardness Rockwell \nNumber Hardness \nNumber \nB4B 293-341 C 31-37 \nB4C 229-277 C 21-29 \nB4D 263-311 C 27-33 \n15. Keywords \n15.1 bolts-steel; chromium alloy steel; bolting \ncomponents-steel; marking on bolting components; nuts\u00ad\nsteel; stainless steel; steel bars-alloy; steel bolting material; \ntemperature service applications-high; turbine materials \nSUPPLEMENTARY REQUIREMENTS \nOne or more of the following supplementary requirements shall be applied only when specified by \nthe purchaser in the inquiry, contract, or order; in which event the specified tests shall be made before \nshipment of the product. \nSl. Non-Destructive Examination \nS 1.1 NDE is required following all machining and thread\u00ad\ning. The acceptance criteria of 12.1 shall apply. \nS2. Stress Rupture Testing-Grade B4B \nS2.1 Stress rupture testing shall be conducted at 1200 \u00b0F \n[650 \u00b0C] and 26 000 psi [180 MPa] using a combination test \nbar in accordance with Test Methods E292. Rupture shall occur \nin the smooth section of each test specimen. The test may be \n720 \ndiscontinued after 25 h provided the certification so notes. \u00b7 \nStress rupture testing is not required on bars less than \u00bd in. \n[12.7 mm] in diameter or thickness. \nS3. Grain Size-Grades B4B and B4C \nS3.l The average grain size shall be 4 or finer. The \nmaximum size of individual grains, distributed at random, shall \nbe a 2. When the average grain size is 5 or finer, only the \naverage size need be reported. Grain size determination shall \nbe performed in accordance with Test Methods El12. ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0770.json",
+  "tabulaTablesCsv": "tables_tabula/page-0770.csv",
+  "tabulaTableCount": 2,
+  "bestTextPath": "best_text/pages/page-0770.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2011,
+  "bestTextAlphaRatio": 0.7026
+}

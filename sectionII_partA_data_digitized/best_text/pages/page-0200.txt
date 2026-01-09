@@ -1,0 +1,102 @@
+SA-53/SA-53M ASME BPVC.II.A-2025 
+forming or installation, or both, conditions involved. Disposi­
+tion shall be a matter for agreement. 
+20. Certification 
+20.1 The manufacturer or supplier shall, upon request, 
+furnish to the purchaser a certificate of compliance stating that 
+the material has been manufactured, sampled, tested, and 
+inspected in accordance with this specification (including 
+year-date), and has been found to meet the requirements. 
+20.2 Test Report-For Types E and S, the manufacturer or 
+supplier shall furnish to the purchaser a chemical analysis 
+report for the elements given in Table 1. 
+20.3 EDI-A certificate of compliance or test report printed 
+from, or used in, electronic form from an electroni~ data 
+interchange (EDI) transmission shall be regarded as havmg the 
+same validity as a counterpart printed in the certifier's facility. 
+The use and format of the EDI document are subject to 
+agreement between the purchaser and the manufacturer or 
+supplier. 
+NoJE 7-EDI is the computer to computer exc;hange of business 
+information in a standard format such as ANSI ASC X12. 
+20.4 Notwithstanding the absence of a signature, the orga­
+nization submitting the certificate of compliance or test report 
+is responsible for its content. 
+21. Product Marking 
+21.1 Except as allowed by 21.5 and 21.6, each length of 
+pipe shall be legibly marked in the following sequence to 
+show: 
+21.1.1 Manufacturer's name or mark, 
+21.1.2 Specification number (year-date not required), 
+Norn 8-Pipe that complies with m~ltipl~ compatible spe~ifi.ca~ons 
+may be marked with the appropriate designation for each specification. 
+21.1.3 Size (NPS and weight class, schedule number, or 
+specified wall thickness; or specified outside diameter and 
+specified wall thickness), 
+21.1.4 Grade (A or B), 
+21.1.5 Type of pipe (F, E, or S), 
+21.1.6 Test pressure, seamless pipe only (if applicable, in 
+accordance with Table 4), 
+21.1.7 Nondestructive electric test, seamless pipe only (if 
+applicable, in accordance with Table 4), 
+21.2 Unless another marking format is specified in the 
+purchase order, length shall be marked in feet and tenths o~ a 
+foot or metres to two decimal places, dependent upon the umts 
+to ;hich the pipe was ordered. The location of such marking 
+shall be at the option of the manufacturer. 
+TABLE 4 Marking of Seamless Pipe 
+Hydro NOE Marking 
+Yes No Test pressure 
+No Yes NOE 
+Yes Yes Test Pressure/NOE 
+21.3 Heat number, lot number, run number, or a combina­
+tion thereof shall be marked at the option of the manufacturer, 
+unless specific marking is specified in the purchase order; The 
+location of such marking shall be at the option of the 
+manufacturer. 
+21.4 Any additional information desired by the manufac­
+turer or specified in the purchase order. 
+21.5 For pipe NPS 1 ½ [DN 40] and smaller that is bundled, 
+it shall be permissible to mark the required information on a tag 
+securely attached to each bundle. 
+21.6 If pipe sections are cut into shorter lengths by a 
+processor for resale as pipe, the processor shall transfer the 
+complete identification, including the name or brand of the 
+manufacturer, to each unmarked cut length, or to metal tags 
+securely attached to unmarked pipe bundled in accordance with 
+the requirements of 21.5. The same material designation shall 
+be included with the information transferred, and the proces­
+sor's name, trademark, or brand shall be added. 
+148 
+21.7 Bar Coding-In addition to the requirements in 21.1, 
+21.5, and 21.6, bar coding is acceptable as a supplementary 
+identification method. It is recommended that bar coding be 
+consistent with the Automotive Industry Action Group (AIAG) 
+standard prepared by the Primary Metals Subcommittee of the 
+AIAG Bar Code Project Team. 
+22. Government Procurement 
+22.1 If specified in the contract, the pipe shall be preserved, 
+packaged, and packed in accordance with the require~ents ?f 
+MIL-STD-163. The applicable levels shall be as specified m 
+the contract. Marking for shipment of such pipe shall be in 
+accordance with Fed. Std. No. 123 for civil agencies and 
+MIL-STD-129 or Fed. Std. No. 183 if continuous marking is 
+required, for military agencies. 
+22.2 Inspection-Unless otherwise specified in the contract, 
+the manufacturer is responsible for the performance of all 
+inspection and test requirements specified herein. Except as 
+otherwise specified in the contract, the manufacturer shall use 
+its own or any other suitable facilities for performing the 
+inspection and test requirements specified herein, unless oth­
+erwise disapproved by the purchaser in the contract or purchase 
+order. The purchaser shall have the right to perform any of the 
+inspections and tests set forth in this specification where 
+deemed necessary to ensure that the pipe conforms to the 
+specified requirements. 
+23. Packaging and Package Marking 
+23.1 If specified in the purchase order, packaging, marking, 
+and loading for shipment shall be in accordance with those 
+procedures recommended by Practices A700. 
+24. Keywords 
+24.1 black steel pipe; seamless steel pipe; steel pipe; welded 
+steel pipe; zinc coated steel pipe 

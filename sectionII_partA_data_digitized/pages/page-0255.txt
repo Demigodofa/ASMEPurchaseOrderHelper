@@ -1,0 +1,63 @@
+ASME BPVC.II.A-2025 SA-179/SA-179M 
+9. Product Analysis 
+9.1 When requested on the purchase order, a product analy­
+sis shall be made by the supplier from 1 tube per 250 pieces or 
+when tubes are identified by heat, one tube per heat shall be 
+analyzed. The chemical composition thus determined shall 
+conform to the requirements specified. 
+9.2 If the original test for product analysis fails, retests of 
+two additional billets or tubes shall be made. Both retests, for 
+the elements in question, shall meet the requirements of the 
+specification; otherwise all remaining material in the heat or lot 
+(Note 2) shall be rejected or, at the option of the producer, each 
+billet or tube may be individually tested for acceptance. Billets 
+or tubes which do not meet the requirements of the specifica­
+tion shall be rejected. 
+NOTE 2-A lot consists of 250 tubes. 
+10. Hardness Requirements 
+10.1 The tubes shall have a hardness number not exceeding 
+72 HRBW. 
+11. Mechanical Tests Required 
+11.1 Flattening Test-One flattening test shall be made on 
+specimens from each of two tubes from each lot (Note 2) or 
+fraction thereof. 
+11.2 Flaring Test-One flaring test shall be made on speci­
+mens from each of two tubes from each lot (Note 2) or fraction 
+thereof. 
+11.3 Flange Test-When specified as a substitute for the 
+flaring test, for tubes having a wall thickness (actual mean 
+wall) less than 10 % of the outside diameter, one test shall be 
+made on specimens from each of two tubes from each lot (Note 
+2) or fraction thereof. For tubes other than specified above, the 
+flange test shall not be required. 
+11.4 Hardness Test-Rockwell hardness tests shall be made 
+on specimens from two tubes from each lot. The te~ lot 
+applies to all tubes, prior to cutting, of the same nominal 
+diameter and wall thickness which are produced from the same 
+heat of steel. When final heat treatment is in a batch-type 
+furnace, a lot shall include only those tubes of the same size 
+and the same heat which are heat treated in the same furnace 
+charge. When the final heat treatment is in a continuous 
+furnace, a lot shall include all tubes of the same size and heat, 
+heat treated in the same furnace at the same temperature, time 
+at heat, and furnace speed. 
+11.5 Hydrostatic Test-Each tube shall be subjected to the 
+hydrostatic test, or, instead of this test, a nondestructive electric 
+test may be used when specified by the purchaser. 
+12. Product Marking 
+12.1 In addition to the marking prescribed in Specification 
+A450/ A450M, the marking shall include the name and order 
+number of the purchaser. 
+13. Keywords 
+13.1 cold drawn tube; condenser tubes; heat exchanger 
+tubes; low carbon steel; seamless tube 
+EXPLANATORY NOTES 
+Norn I-For purposes of design, the following tensile properties may 
+be assumed: -
+Tensile strength, min, ksi [MPa] 
+Yield strength, min, ksi [MPa] 
+Elongation in 2 in. or 50 mm, min, % 
+47 [325] 
+26 [180] 
+35 
+203 

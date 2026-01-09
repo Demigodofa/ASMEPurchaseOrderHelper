@@ -1,0 +1,63 @@
+SA-20/SA-20M ASME BPVC.II.A-2025 
+TABLE A2.13 Waviness Tolerances for Rectangular Plates, Universal Mill Plates, Circular Plates, and Sketch Plates 
+NOTE I-Waviness denotes the deviation of the top or bottom surface from a horizontal line, when the plate is resting on a flat surface, as measured 
+in an increment of less than 4000 mm of length. The waviness tolerance is a function of the flatness tolerance as obtained from Tables A 2.9 and A 2.12. 
+Flatness When Number of Waves in 4000 mm is: Tolerance 
+from Tables 
+A2.9 and 2 3 4 5 6 7 
+A2.12 
+8 8 6 5 3 3 2 2 
+10 10 8 5 5 3 2 2 
+11 11 8 6 5 3 3 2 
+13 13 10 8 5 5 3 2 
+14 14 11 8 6 5 3 2 
+16 16 13 10 6 5 3 2 
+17 17 13 10 8 5 5 2 
+19 19 14 11 8 6 5 2 
+21 21 16 11 8 6 5 2 
+22 22 17 13 10 6 5 2 
+24 24 17 13 10 8 6 5 
+25 25 19 14 11 8 6 5 
+29 29 22 16 13 10 6 5 
+32 32 24 17 13 10 8 6 
+35 35 27 19 14 11 8 6 
+38 38 29 22 16 13 10 6 
+41 41 32 24 17 13 10 8 
+44 44 33 25 19 14 11 8 
+48 48 37 27 21 14 11 8 
+51 51 38 29 22 16 13 10 
+54 54 41 30 22 17 13 10 
+57 57 43 32 24 17 14 10 
+60 60 46 33 25 19 14 11 
+64 64 48 37 27 21 14 11 
+67 67 51 38 29 21 16 11 
+70 70 52 40 29 22 16 13 
+73 73 56 41 30 24 17 13 
+76 76 57 43 32 24 17 14 
+79 79 60 44 33 25 19 14 
+TABLE A2.14 Visible Edge Indications Extending Approximately Parallel to Rolled Surfaces 
+Plate Specification Acceptable Remove by Grinding and Thickness 
+Depth LengthA Depth 
+Column 1 2 3 
+Other than killed, 8 to 50 mm, incl 3 mm, max any over 3 to 6 
+mm, incl 
+Killed, 0 to 150 mm, incl 2 mm, max any over 2 to 3 
+mm, incl 
+Killed, 0 over 150 mm 3 mm, max any over 3 to 13 
+mm, incl 
+A Laminar-type discontinuities 25 mm and less in length are acceptable and do not require exploration. 
+8 Specifications: A285; A433; A442 in thicknesses to 25 mm, incl; or A455. 
+0 The specifications in 1.1 of this standard, other than those listed in the above Table Footnote B. 
+96 
+LengthA 
+4 
+over25 mm 
+over25 mm 
+over 25 mm 
+Acceptable on Edges 
+Cut in Fabrication 
+Depth LengthA 
+5 6 
+6 mm max any 
+3mm max any 
+13mm max any 

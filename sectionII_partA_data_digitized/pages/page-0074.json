@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 74,
+  "globalPageIndex": 74,
+  "width": 626.4,
+  "height": 803.04,
+  "text": "SA-6/SA-6M ASME BPVC.II.A-2025 \nTABLE 15 Permitted Variations in Waviness for Standard \nFlatness Plates \nNOTE 1-Waviness denotes the maximum deviation of the surface of \nthe plate from a plane parallel to the surface of the point of measurement \nand contiguous to the surface of the plate at each of the two adjacent wave \npeaks, when the plate is resting on a flat horizontal surface, as measured \nin an increment of less than 12 ft of length. The permitted variation in \nwaviness is a function of the permitted variation from a flat surface as \nobtained from Table 13 or Table 14, whichever is applicable. \nNOTE 2-Plates must be in a horizontal position on a flat surface when \nwaviness is measured. \nPermitted \nVariation Permitted Variation in Waviness, in., When \nfrom a Number of Waves in 12 ft is \nFlat Surface \n(from Table 13 or 1 \nTable 14), in. 2 3 4 5 6 7 \n5/15 51,o \u00bc 3/15 1/a 1/o 1/10 1/10 \n3/a 3/a 5/ia '\u00bco '\u00bda \u00bc 1/16 \u00bca \n7/,5 7/15 5/15 \u00bc '\u00bds 1/a 1/a \u00bco \n\u00bd \u00bd 3/a 5/15 '\u00bds '\u00bds 1/a 1/10 \n9/15 o/10 7/,0 5/15 \u00bc '\u00bda 1/s 1/a \n5/a 5/a \u00bd 3/a \u00bc '\u00bd0 1/a 1/a \n11/,a 1 1/10 \u00bd 3/a 6/,0 o/10 '\u00bco 1/a \n% % 9/10 7/,5 o/10 \u00bc '\u00bda 1/s \n1o/,0 1o/,a 5/a 7/,5 6/ia \u00bc '\u00bda 1/a \n7/s 7/s 11f10 \u00bd 3/a \u00bc 3/ia 1/s \n151, 6 16/,o 111,o \u00bd 3/a 5/15 \u00bc '\u00bda \n1 1 % 9 /10 7/io 6/io \u00bc '\u00bda \n11/a 11/a 7/a 5/a \u00bd 3/a \u00bc '\u00bco \n1\u00bc 1\u00bc 15/15 1 1/15 \u00bd 3/a 6/io \u00bc \n13/a 1 o/a 1\u00bca % 9 /15 7/15 6/ia \u00bc \n1\u00bd 1\u00bd 1 1/a 7/a 5/a \u00bd 3/a \u00bc \n15/a 15/a 1\u00bc 1a1, 6 1 1/16 \u00bd 3/a 6/ie \n1% 1% 16/ia 1 % 9/15 7/io 5/,a \n17/s 17/s 1 7/ie 1\u00bca 13/-,5 9/15 7/15 6/io \n2 2 1\u00bd 11/s 7/s 5/a \u00bd % \n21/s 21/a 15/a 13/io 7/4, 111,e \u00bd % \n2\u00bc 2\u00bc 1 11/10 1\u00bc 16/15 1 1/10 o/16 % \n23/a 23/a 11s;;o 16/ia 1 % 9/ie 7/,e \n2\u00bd 2\u00bd 17/s F/1a 1\u00bco 1o/,e 9/15 71,o \n25/a 25/a 2 1\u00bd 11/a 13/-,e 5/a 71,o \n2% 2% 2\u00bce 1 9/1a 11/s 7/s 5/a \u00bd \n2 7/s 27/s 2 3/ie 15/a 1'\u00bde 15/,5 1 1/10 \u00bd \n3 3 2\u00bc 1 1 1/10 1\u00bc 15/,5 11/15 \u2022!ia \n31/s 31/s 23/a 1% 1 5/ia 1 % 9/15 \n22 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 2,
+  "tabulaTablesPath": "tables_tabula/page-0074.json",
+  "tabulaTablesCsv": "tables_tabula/page-0074.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0074.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1874,
+  "bestTextAlphaRatio": 0.4237
+}

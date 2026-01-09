@@ -1,0 +1,119 @@
+SA-988/SA-988M ASME BPVC.II.A-2025 
+to ensure that the parts are within the hardness limits given for 
+each grade in Table 3. When only one part is produced, it shall 
+be hardness tested as required. The purchaser is permitted to 
+verify that the requirement has been met by testing at any 
+location on any part provided such testing does not render the 
+part useless. 
+9.6.2 When the reduced number of tension tests permitted 
+by 9.5.1 is applied, additional hardness tests shall be made on 
+parts or samples as defined in 9.2 distributed throughout the 
+charge. At least eight samples shall be checked from each batch 
+load and a least one check/h shall be made from a continuous 
+run. When the furnace charge is less than eight parts, each part 
+shall be checked. If any hardness test result falls outside the 
+prescribed limits, the entire lot of parts shall be reheat treated 
+and the requirements of 9.5.1 shall apply. 
+9.7 Fatigue Tests-When specified in the order, the fatigue 
+strength of austenitic stainless steel components intended for 
+service above 1000 °F [540 °C] shall be determined in 
+accordance with Section S18. 
+10. Corrosion Testing 
+10.1 Corrosion testing is not required by this specification. 
+10.2 Austenitic stainless steels shall be capable of meeting 
+the intergranular c01rnsion test requirements described in 
+Section Sll. 
+10.3 When required by the purchaser, the stainless steels 
+shall be tested in the final heat treated condition for pitting or 
+crevice corrosion resistance according to the procedures de­
+scribed in Section S12. 
+10.4 Austenitic-ferritic stainless steels shall be capable of 
+meeting the test requirements described in Section S13. 
+11. Product Analysis 
+11.1 The purchaser is permitted to make a product analysis 
+on parts supplied to this specification. Samples for analysis 
+shall be taken from midway between the center and surface of 
+solid parts, midway between the inner and outer surfaces of 
+hollow parts, midway between the center and surface of 
+full-size prolongations, or from broken mechanical test speci­
+mens. The chemical composition thus determined shall con­
+form to Table 1 with the tolerances as stated in Table 4. 
+12. Reheat Treatment 
+12.1 If the results of the mechanical tests do not conform to 
+the requirements specified, the manufacturer is permitted to 
+reheat treat the paits and repeat the tests specified in Section 9, 
+but not more than twice. 
+13. Surface Finish, Appearance, and Corrosion 
+Protection 
+13.1 The requirements of Specification A961/A961M apply 
+to hot isostatically pressed finished parts. 
+13.2 In addition to the requirements of Specification A961/ 
+A961M, the following requirements apply: 
+13.2.1 The parts shall be free of machining burrs, and 
+machined surfaces, other than surfaces having special 
+TABLE 4 Product Analysis Tolerances for Stainless SteelsA 
+Tolerance Over 
+Limit or Maximum of the Maximum 
+Elements Specified Range, % Limit or Under 
+the Minimum 
+Limit 
+Carbon 0.030, incl 0.005 
+over 0.030 to 0.20 incl 0.01 
+Manganese to 1.00, incl 0.03 
+over 1.00 to 3.00, incl 0.04 
+over 3.00 to 6.00 0.05 
+over 6.00 to 10.00 0.06 
+Phosphorus to 0.040, incl 0.005 
+Sulfur to 0.030, incl 0.005 
+Silicon to 1.00, incl 0.05 
+over 1.00 to 5.00, incl 0.10 
+Chromium over 10.00 to 15.00, incl 0.15 
+over 15.00 to 20.00, incl 0.20 
+over 20.00 to 30.00, incl 0.25 
+Nickel to 1.00, incl 0.03 
+over 1.00 to 5.00, incl 0.07 
+over 5.00 to 10.00, incl 0.10 
+over 10.00 to 20.00, incl 0.15 
+over 20.00 to 30.00, incl 0.20 
+over 30.00 to 40,00, incl 0.25 
+Molybdenum to 0.20 incl 0.01 
+over 0.20 to 0.60, incl 0.03 
+over 0.60 to 2.00, incl 0.05 
+over 2.00 to 7.00, incl 0.10 
+Titanium all ranges 0.05 
+Columbium+tantalum all ranges 0.05 
+Tantalum to 0.1 o, incl 0.02 
+Cobalt 0.05 to 0.20, incl 0.01 8 
+Nitrogen to 0.19 incl 0.01 
+over 0.19 to 0.25 0.02 
+over 0.25 to 0.35 0.03 
+over 0.35 to 0.45 0.04 
+over 0.45 to 0.60 0.05 
+Columbium 0 0.05 to 0.20, incl 0.01 
+Aluminum to 0.05 incl 0.01 
+Vanadium to 0.10 incl 0.01 
+over 0.1 O to 0.25 incl 0.02 
+Cerium 0.03 to 0.08 -0.005 
++0.01 
+Tungsten to 1 .00, incl 0.04 
+Copper to 0.50, incl 0.03 
+Over 0.50 to 1.00, incl 0.05 
+Over 1.00 to 3.00, incl 0.10 
+Over 3.00 to 5.00, incl 0.15 
+A This table does not apply to heat analysis. 
+8 Product analysis limits for cobalt under 0.05 % have not been established and 
+the producer should be consulted for those limits. 
+°The terms Niobium (Nb) and Columbium (Cb) are alternate names for the same 
+element. 
+requirements, shall have a surface finish not to exceed Ra 250 
+microinch [6.3 micrometre] (arithmetic average) roughness 
+height. 
+14. Repair by Welding 
+14.1 Weld repairs shall be permitted (See Section S8) only 
+with prior approval of the purchaser and with the following 
+limitations and requirements: 
+14.1.1 The welding procedure and welders shall be qualified 
+in accordance with Section IX of the ASME Boiler and 
+Pressure Vessel Code. 
+1464 
+-~-

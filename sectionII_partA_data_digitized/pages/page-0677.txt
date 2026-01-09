@@ -1,0 +1,95 @@
+ASME BPVC.II.A-2025 SA-370 
+examining specimen fractures and by plotting energy value and 
+fracture appearance versus temperature from tests of notched 
+bars at a series of temperatures. When the test temperature has 
+been carried low enough to start cleavage fracture, there may 
+be an extremely sharp drop in impact value or there may be a 
+relatively gradual falling off toward the lower temperatures. 
+This drop in energy value starts when a specimen begins to 
+exhibit some crystalline appearance in the fracture. The tran­
+sition temperature at which this embrittling effect takes place 
+vaiies considerably with the size of the part or test specimen 
+and with the notch geometry. 
+AS.4.2 A problem peculiar to Charpy-type tests occurs 
+when high-strength, low-energy specimens are tested at low 
+temperatures. These specimens may not leave the machine in 
+the direction of the pendulum swing but rather in a sidewise 
+direction. To ensure that the broken halves of the specimens do 
+not rebound off some component of the machine and contact 
+the pendulum before it completes its swing, modifications may 
+be necessary in older model machines. These modifications 
+differ with machine design. Nevertheless the basic problem is 
+the same in that provisions must be made to prevent rebound­
+ing of the fractured specimens into any part of the swinging 
+pendulum. Where design permits, the broken specimens may 
+be deflected out of the sides of the machine and yet in other 
+designs it may be necessary to contain the broken specimens 
+within a certain area until the pendulum passes through the 
+anvils. Some low-energy high-strength steel specimens leave 
+impact machines at speeds in excess of 50 ft (15.3 m)/s 
+although they were struck by a pendulum traveling at speeds 
+approximately 17 ft (5.2 m)/s. If the force exerted on the 
+pendulum by the broken specimens is sufficient, the pendulum 
+will slow down and erroneously high energy values will be 
+recorded. This problem accounts for many of the inconsisten­
+cies in Charpy results reported by various investigators within 
+the 10 to 25-ft-lbf (14 to 34 J) range. The Apparatus section 
+(subsection regarding specimen clearance) of Test Methods 
+E23 discusses the two basic machine designs and a modifica­
+tion found to be satisfactory in minimizing jamming. 
+AS.5 Velocity of Straining 
+A5.5.1 Velocity of straining is likewise a variable that 
+affects the notch behavior of steel. The impact test shows 
+somewhat higher energy absorption values than the static tests 
+above the transition temperature and yet, in some instances, the 
+reverse is true below the transition temperature. 
+AS.6 Correlation With Service 
+A5.6.1 While Charpy or Izod tests may not directly predict 
+the ductile or brittle behavior of steel as commonly used in 
+large masses or as components of large structures, these tests 
+can be used as acceptance tests of identity for different lots of 
+the same steel or in choosing between different steels, when 
+cmrelation with reliable service behavior has been established. 
+It may be necessary to make the tests at properly chosen 
+temperatures other than room temperature. In this, the service 
+temperature or the transition temperature of full-scale speci­
+mens does not give the desired transition temperatures for 
+Charpy or Izod tests since the size and notch geometry may be 
+so different. Chemical analysis, tension, and hardness tests may 
+not indicate the influence of some of the important processing 
+factors that affect susceptibility to brittle fracture nor do they 
+comprehend the effect of low temperatures in inducing brittle 
+behavior. 
+A6. PROCEDURE FOR CONVERTING PERCENTAGE ELONGATION OF STANDARD ROUND TENSION TEST SPECIMEN 
+TO EQUIVALENT PERCENTAGE ELONGATION OF STANDARD FLAT SPECIMEN 
+A6.1 Scope 
+A6. l .1 This method specifies a procedure for converting 
+percentage elongation after fracture obtained in a standard 
+0.500-in. (12.7 mm) diameter by 2-in. (51 mm) gauge length 
+test specimen to standard flat test specimens ½ by 2 in. and 1 ½ 
+by 8 in. (38.1 by 203 mm). 
+A6.2 Basic Equation 
+A6.2.1 The conversion data in this method are based on an 
+equation by Bertella, and used by Oliver and others. The 
+relationship between elongations in the standard 0.500-in. 
+diameter by 2.0-in. test specimen and other standard specimens 
+can be calculated as follows: 
+e = e 0 [ 4.47 ( \IA)!L] 0 (A6.1) 
+where: 
+627 
+e = 0 percentage elongation after fracture on a standard test 
+specimen having a 2-in. gauge length and 0.500-in. 
+diameter, 
+e 
+a 
+= percentage elongation after fracture on a standard test 
+specimen having a gauge length L and a cross-sectional 
+area A, and 
+= constant characteristic of the test material. 
+A6.3 Application 
+A6.3.1 In applying the above equation the constant a is 
+characteristic of the test material. The value a = 0.4 has been 
+found to give satisfactory conversions for carbon, carbon­
+manganese, molybdenum, and chromium-molybdenum steels 
+within the tensile strength range of 40 000 to 85 000 psi (275 
+to 585 MPa) and in the hot-rolled, in the hot-rolled and 

@@ -1,0 +1,110 @@
+SA-420 /SA-4ZOM ASME BPVC.II.A-2025 
+as shown in Table 2, unless the purchaser has otherwise 
+specified in the order. 
+8. Chemical Composition 
+8 .1 The steel shall conform to requirements of chemical 
+composition for the respective material prescribed in Table 1. 
+8.2 The steel shall not contain any unspecified elements for 
+the ordered grade to the extent that it then conforms to the 
+requirements of another grade for which that element is a 
+specified element having a required minimum content. 
+8.3 The chemical composition of weld metal is not required 
+to meet the same limits of the base materials however, the 
+composition of the weld deposit shall be such that it meets the 
+minimum mechanical and impact requirements of this specifi­
+cation. In general, the alloy content shall be similar to that of 
+the base metal but shall not exceed 6 % except in the case of 
+fittings of 9 % nickel steel. 
+8.4 A product analysis is optional. 
+9. Tensile Properties 
+9 .1 The tensile properties of the fittings material shall 
+conform to the requirements for the applicable grade of 
+material as listed in Table 3. 
+9 .1.1 Longitudinal or transverse specimens cut from either 
+a fitting or from starting plate or pipe they were manufactured 
+from shall be acceptable for the tension test. For fittings made 
+from forgings, the test specimen shall meet the requirements of 
+Specification A350/ A350M for the tension test. 
+9.1.2 While Table 3 specifies elongation requirements for 
+both longitudinal and transverse specimens, it is not the intent 
+that both requirements apply simultaneously. Instead, it is 
+intended that only the elongation requirement that is appropri­
+ate for the specimen used be applicable. Unless specified by the 
+customer, tensile test orientation is at the discretion of the 
+manufacturer. 
+9.2 At least one tension test shall be made on each heat of 
+material and in the same condition of heat treatment as the 
+finished fittings it represents provided that the wall thickness of 
+the fitting and the representative sample thickness do not vary 
+more than ¼ in. [6 mm]. At least one tension test per heat of 
+weld metal shall be made after heat treatment in the same 
+manner as the base metal. Results of the tension test of the 
+weld metal need not be reported unless Supplementary Re­
+quirement S51 of Specification A960/A960M is specified. 
+TABLE 2 Post-Weld Heat Treatment 
+Grade Metal Temperature Minimum Holding Time 
+OF oc 
+WPL6 1100-1200 595-650 1 h/in. [25 mm] ¾ h min 
+WPL3 1100-1150 540-620 ¼ h/in. [25 mm] 1 h min 
+WPL8 1050-1100 565-595 ½ h/in. [25 mm] 1 h min 
+WPL9A 1025-1085 550-585 1 h/in. [25 mm] 2 h min 
+A 2 in. [51 mm] thickness and over. The cooling rate shall not be less than 300 °F 
+[150 °C] per hour down to a temperature of 600 °F [315 °C]. 
+702 
+9 .3 Records of the tension tests shall be certification that the 
+material of the fitting meets the tensile requirements of this 
+specification. 
+10. Impact Test Properties 
+10. I Properties: 
+10.1.1 The notched bar impact properties of the base metal 
+and weld metal shall conform to the requirements of Table 4 or 
+Table 5 for the applicable grade of material. 
+10.1.2 Retest-When the average value of the three speci­
+mens equals or exceeds the minimum value permitted for a 
+single specimen and the value for more than one specimen is 
+below the required average value, or when the value for one 
+specimen is below the minimum value permitted for a single 
+specimen, a retest of three additional specimens shall be made. 
+The value for each of these retest specimens shall equal or 
+exceed the required average value. When an erratic result is 
+caused by a defective specimen, or there is uncertainty in test 
+procedure, a retest shall be allowed. 
+10.2 Procedures: 
+10.2.1 All material furnished under this specification shall 
+be tested for impact resistance at the temperature for the 
+respective grade in Table 6. Exceptions to these requirements 
+are permissible when agreed upon between the purchaser and 
+producer and specified in the order, in that the impact test is 
+acceptable when made at temperatures different from those 
+shown in Table 6, provided the test temperature is at least as 
+low as the intended service temperature, and fittings are 
+suitably marked in accordance with Section 19 to identify the 
+reported test temperature. 
+10.2.2 The notched-bar impact test shall be made in accor­
+dance with the procedure for the simple-beam, Charpy-type 
+test of Test Methods and Definitions A370 if the inch-pound 
+units are specified or Test Methods Al058 if the M suffix (SI 
+units) standard is specified. Each impact test shall consist of 
+breaking three specimens. 
+10.3 Specimens: 
+10.3.1 Notched-bar impact specimens shall be simple-beam, 
+Charpy-type A with a V-notch in accordance with Test Methods 
+and Definitions A370 if the inch-pound units are specified or 
+Test Methods Al058 if the M suffix (SI Units) standard is 
+specified. Standard specimens 10 by 10 mm in cross section 
+shall be used unless the material to be tested is of insufficient 
+thickness, in which case the largest obtainable standard subsize 
+impact specimens shall be used. When the size or shape of the 
+finished fittings is insufficient to permit obtaining the smallest 
+standard subsize impact specimens, an impact test by the fitting 
+manufacturer will not be required. The material from which the 
+specimens are taken shall be heat treated with a furnace charge 
+in accordance with 10.4.2 or 10.4.3. Impact tests shall be made 
+from either the raw material from which the fittings are made 
+or from a finished fitting at the option of the manufacturer. 
+10.3.2 Test specimens shall be obtained so that the longitu­
+dinal axis of the specimen is parallel to the longitudinal axis of 
+the fitting while the axis of the "V" shall be perpendicular to 
+the surface. On wall thickness over 1 in. [25 mm] the 
+specimens shall be obtained with their longitudinal axis located 
+½ in. [13 mm] from the outer surface. 

@@ -1,0 +1,88 @@
+SA-4 79 /SA-4 79M ASME BPVC.II.A-2025 
+SUPPLEMENTARY REQUIREMENTS 
+The following may be made requirements when the purchaser specifies them to be applicable. 
+St. Materials for High-temperature Service 
+Sl.1 Unless an H grade has been ordered, this supplemen­
+tary requirement shall be specified for ASME Code applica­
+tions for service above 1000 °F [540 °C]. 
+Sl.2 The user is permitted to use an austenitic stainless steel 
+as the corresponding H grade when the material meets all 
+requirements of the H grade including chemistry, annealing 
+temperature, and grain size (see Section 6). 
+Sl.3 The user is permitted to use an L grade austenitic 
+stainless steel for service above 1000 °F [540 °C], subject to 
+the applicable allowable stress table of the ASME Code, when 
+the material meets all requirements of this specification and the 
+grain size is ASTM No. 7 or coarser as determined in 
+accordance with Test Methods El12. The grain size shall be 
+reported on a Certified Test Report. 
+S2. Corrosion Tests 
+S2.1 Intergranular corrosion tests shall be performed by the 
+manufacturer on sensitized specimens of Types 304L, 316L, 
+321, 347, and 348, and for the other austenitic grades, on 
+specimens representative of the as-shipped condition. All 
+austenitic stainless steels shall be capable of passing inter­
+granular corrosion tests in the as-shipped condition. Tests shall 
+be performed in accordance with Practice E of Practices A262. 
+S3. Product Analysis 
+S3.1 An analysis shall be made by the manufacturer on a 
+sample from one bar in each lot as defined in Specification 
+A484/A484M. The analysis shall meet the requirements of 
+Table 1. In the event of failure, the lot represented shall be 
+rejected except that, at the option of the manufacturer, each bar 
+in the lot may be tested for acceptance. Product analysis 
+tolerance provisions do not apply. 
+S4. Material for High Cycle Fatigue Service 
+S4.1 The mechanical properties of bars furnished in lengths 
+under 20 ft [6 m] shall be determined by testing one end of 
+each bar. Bars furnished in lengths of 20 ft [6 m] and over shall 
+be tested at each end. 
+S5. Material for Optimum Resistance to Stress Corrosion 
+Cracking 
+S5.1 This supplementary requirement is to be referenced 
+when austenitic stainless steels are to be purchased with 
+solution-annealing as the final operation and with no subse­
+quent cold drawing permitted. Straightening is permitted as a 
+final operation to meet the straightness requirements of Speci­
+fication A484/A484M unless specifically prohibited by the 
+purchaser. 
+S6. Demonstration of the Abse.nce of Detrimental Interme­
+tallic Phase in Austenitic and Austenitic-Ferritic (Du­
+plex) Grades 
+S6.1 This supplementary requirement is to be referenced 
+when the austenitic or duplex stainless steels are to be 
+purchased with testing to demonstrate the absence of detrimen­
+tal intermetallic phases that can have negative effects on 
+mechanical properties or corrosion resistance of the material. 
+The test method(s), reporting requirements, and acceptance 
+criteria shall be agreed upon by the manufacturer and purchaser 
+in the purchase agreement. 
+APPENDIX 
+(Nonmandatory Information) 
+Xl. RATIONALE REGARDING DE]flNITION OF SOLUTION ANNEALING 
+Xl. 1 It is generally recognized that austenitic stainless 
+steels are solution annealed by heating to a temperature that 
+dissolves (takes into solution) chromium carbides and quench­
+ing rapidly so that the chromium carbides will not precipitate 
+in the . grain boundaries, which could cause susceptibility to 
+intergranular corrosion in a critically corrosive environment. 
+Thus, solution annealing also can be accomplished for non­
+stabilized grades by taking advantage of hot rolling tempera­
+tures (which always exceed solution annealing temperature 
+requirements), maintaining hot rolling finishing temperatures 
+well above minimum solution annealing requirements, and 
+immediately quenching integral with hot rolling. Stabilized 
+grades (with columbium or titanium added) cannot be handled 
+782 
+this way, since they would become destabilized due to colum­
+bium or titanium carbide solution, without subsequent reheat­
+ing. 
+Xl.2 For Boiler Code applications involving temperatures 
+at which optimum resistance to creep is desired, the larger 
+grain size of material solution annealed by reheating is 
+generally desired. For that reason, a minimum grain size has 
+been required of the H grades ( created for optimum elevated 
+temperature properties), and a mandatory grain size test and 
+report has been added for the non- H grades so that the 
+information is available for those desiring to reclassify a non-H 
+grade to H grade. 

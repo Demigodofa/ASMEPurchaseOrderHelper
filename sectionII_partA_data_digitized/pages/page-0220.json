@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 220,
+  "globalPageIndex": 220,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "SA-105/SA-105M ASME BPVC.II.A-2025 \nSUPPLEMENTARY REQUIREMENTS \nThe following supplementary requirements shall apply only when specified by the purchaser in the \ninquiry, contract, and order. \nSl. Hardness \nS 1.1 The purchaser may check the hardness of any or all \nforgings supplied at any location on the forging and the \nhardness shall be 137 to 197 HBW. All forgings not within the \nspecified hardness range shall be rejected. \nS2. Heat Treatment \nS2.1 All forgings shall be heat treated as specified by the \npurchaser. \nS2.2 When forgings not requiring heat treatment by 6.1 are \nsupplied heat treated by purchaser request, the basis for \ndetermining conformance with Table 2 and Table 3 shall be \nhardness testing per 8.4 and either (J) tensile testing of heat \ntreated forgings per 8.2, or (2) tensile tests from as-forged \nforgings or separately forged test blanks, as agreed upon \nbetween the supplier and purchaser. \nS2.3 When test reports are required, and tensile test results \nwere obtained from as-forged forgings or as-forged test blanks, \nit shall be so indicated on the test report. \nS2.4 fu addition to the marking required by Section 15, this \nspecification shall be followed by the letter: A for annealed, N \nfor normalized, NT for normalized and tempered, or QT for \nquenched and tempered, as appropriate. \n168 \nS3. Marking Small Forgings \nS3.1 For small products where the space for marking is less \nthan 1 in. [25 mm] in any direction, test reports are mandat01y \nand marking may be restricted to only such symbols or codes \nas are necessary to identify the parts with test reports. \nS3.2 When the configuration or size does not permit mark\u00ad\ning directly on the forging, the marking method shall be a \nmatter of agreement between the manufacturer and the pur\u00ad\nchaser. \nS4. Carbon Equivalent \nS4.1 The maximum carbon equivalent, based on heat \nanalysis, shall be 0.47 for forgings with a maximum section \nthickness of 2 in. or less, and 0.48 for forgings with a \nmaximum section thickness of greater than 2 in. \nS4.2 Determine the carbon equivalent (CE) as follows: \nCE= C + Mn/6 + ( Cr+ Mo+ V)/5+ (Ni+ Cu)/15 \nS4.3 A lower maximum carbon equivalent may be agreed \nupon between the supplier and the purchaser. ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0220.json",
+  "tabulaTablesCsv": "tables_tabula/page-0220.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-0220.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2231,
+  "bestTextAlphaRatio": 0.7485
+}

@@ -1,0 +1,96 @@
+ASME BPVC.11.A-2025 SA-859/SA-859M (ASTM A859/A859M) 
+8. Repair Welding 
+8.1 Repair welding of forgings shall be permitted only with 
+the approval of the purchaser. 
+8.2 Preparation for repair welding shall include inspection 
+to ensure complete removal of the defect. 
+8.3 Repairs shall be made using welding procedures quali­
+fied in accordance with ASME Boiler and Pressure Vessel 
+Code Section IX and repair welding shall be done by welders 
+or welding operators meeting the qualification requirements of 
+that code. 
+9. Test Reports 
+9 .1 A test report shall be furnished and shall include 
+certification that the material was manufactured and tested in 
+accordance with this specification. The report shall include the 
+results of all required tests, including heat analysis, mechanical 
+test results, the type of heat treatment, and the test sampling 
+method. 
+10. Keywords 
+10.1 precipitation hardening steel; pressure containing 
+parts; pressure vessel service; steel forgings-alloy 
+SUPPLEMENTARY REQUIREMENTS 
+One or more of the following supplementary requirements shall apply only when specified by the 
+purchaser on the order. Details of these supplementary requirements shall be agreed upon by the 
+manufacturer and purchaser. 
+Sl. Simulated Post-Weld Heat Treatment of Mechanical 
+Test Coupons 
+S 1.1 All test coupons shall be subjected to single or multiple 
+heat treatments at subcritical temperatures prior to testing. 
+Such treatments are intended to simulate post-weld or other 
+thermal treatments to which the forgings will be subjected 
+during subsequent fabrication. The purchaser shall furnish the 
+manufacturer with details of the desired heat treatment for the 
+test coupons, including temperatures, times, and cooling rates. 
+S2. Ultrasonic Examination 
+S2.1 The forgings shall be ultrasonically examined in ac­
+cordance with the procedures of Practice A388/A388M. 
+S2. l.1 Longitudinal Wave Test: 
+S2. l. l.1 Unless otherwise specified, the back-reflection 
+method of tuning shall be used in accordance with 7 .2.2.1 of 
+Practice A388/A388M. 
+S2. l. l.2 In addition to the reportable conditions of Section 
+8 of Practice A388/ A388M, indications exceeding the resultant 
+back reflection shall be recorded. 
+S2. l. l.3 The following conditions are subject to rejection: 
+(a) Complete loss of back reflection accompanied by an 
+indication of a discontinuity. For this purpose, a back reflection 
+less than 5 % of full screen height shall be considered complete 
+loss of back reflection. 
+(b) An indication equal in amplitude to that of the back 
+reflection established in an indication-free portion of the 
+forging. 
+S2. l.2 Angle Beam Test: 
+S2.l.2.1 Calibration notches, calibration reference, and 
+method of scanning shall be in accordance with 7 .3 of Practice 
+A388/A388M. 
+S2. l.2.2 A forging that contains a discontinuity that results 
+in an indication exceeding the amplitude of the reference line 
+is subject to rejection. 
+S2.l.3 The report of the ultrasonic examination shall be in 
+compliance with Section 9 of Practice A388/ A388M. 
+S2.1.4 Additional nondestructive examination or trepanning 
+may be employed to resolve questions of interpretation of 
+ultrasonic indications. The manufacturer shall accept respon­
+sibility for injurious conditions that will not be removed in final 
+machining. 
+S3. Magnetic Particle Examination 
+S3.l Each forging shall be examined by magnetic particle 
+methods described in Practice A275/A275M. Acceptance stan­
+dards shall be specified by the purchaser. 
+S3.2 Alternatively the purchaser may specify that Supple­
+mentary Requirement S18 of Specification A788 shall be used 
+as the basis for the magnetic particle examination. 
+S4. Charpy V-Notch Impact Transition Curve 
+S4. l Sufficient impact test shall be made from the forging 
+test material to establish a temperature/absorbed-energy curve. 
+The test temperature range shall be wide enough to establish 
+the upper and lower shelf foot-pound-force [Joule] energies, 
+with sufficient testing at intermediate temperatures to permit 
+plotting a reasonably smooth curve. 
+S5. Additional Charpy V-Notch Test Data 
+S5.l The percent shear fracture and mils [mm] of lateral 
+expansion shall be reported for each specimen tested. 
+S6. Charpy V-Notch Test 
+S6.1 For Grade A, Class 1 or 2 forgings the specified test 
+temperature for the Charpy V-Notch tests required in Section 6 
+of this specification shall be a temperature lower than -50 °F 
+[-45 °C]. The specified test temperature shall be stated in the 
+order. 
+S6.2 The charpy impact test temperature used shall be 
+included in the forging certification and marking. 
+S7. Drop-Weight Test 
+S7.l Drop-weight tests shall be conducted in accordance 
+with Test Method E208. The fracture plane of the specimen 
+shall coincide with the location required for other mechanical 
+1369 

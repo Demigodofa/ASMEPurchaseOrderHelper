@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 253,
+  "globalPageIndex": 1051,
+  "width": 630.96,
+  "height": 806.76,
+  "text": "ASME BPVC.II.A-2025 \nTABLE 1 Chemical Requirements \nElement \nCarbon, maxA \nManganese, max \nHeat analysis \nProduct analysis \nPhosphorus, maxA \nSulfur, maxA \nSiliconA \nCopper, maxA \nTitanium, min \nA Applies to both heat and product analyses. \nTABLE 2 Tensile Requirements \nComposition, \n% \n0.12 \n1.20 \n1.30 \n0.025 \n0.025 \n0.15-0.50 \n0.15 \n4x C \nksi [MPa] \nTensile strength 55-75 (380-515] \nYield strength, min 30 (205] \nElongation in 8 in. (200 mm] min, %A 22 \nElongation in 2 in. [50 mm] min, %A 26 \nA See Specification A20/A20M for elongation adjustments. \nSUPPLEMENTARY REQUIREMENTS \nSA-562/SA-562M \nSupplementary requirements shall not apply unless specified in the order. \nA list of standardized supplementary requirements for use at the option of the purchaser are included \nin Specification A20/A20M. Those which are considered suitable for use with this specification are \nlisted below by title. \nS 1. Vacuum Treatment, \nS2. Product Analysis, \nS3. Simulated Post-Weld Heat Treatment of Mechanical \nTest Coupons, \nS4. Additional Tension Test, \nS5. Charpy V-Notch Impact Test, \nS6. Drop Weight Test (for Material 0.625 in. [16 mm] and \nover in Thickness), \nS7. High-temperature Tension Test, \nS8. Ultrasonic Examination in accordance with Specifica\u00ad\ntion A435/ A435M, \nS9. Magnetic Particle Examination, \nS 11. Ultrasonic Examination in accordance with Specifica\u00ad\ntion A577/A577M, \n951 \nS12. Ultrasonic Examination in accordance with Specifica\u00ad\ntion A578/A578M, and \nS17. Vacuum Carbon-Deoxidized Steel. ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1051.json",
+  "tabulaTablesCsv": "tables_tabula/page-1051.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-1051.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1508,
+  "bestTextAlphaRatio": 0.691
+}

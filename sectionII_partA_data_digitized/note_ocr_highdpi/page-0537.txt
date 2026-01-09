@@ -1,0 +1,137 @@
+ASME BPVC.II.A-2025
+
+SA-333/SA-333M
+
+TABLE 1 Chemical Requirements?
+Composition, %
+
+Element
+
+Grade 1 Grade 3 Grade 4- Grade 6
+Carbon, max 0.30 0.19 0.12 0.30
+Manganese 0.40-1.064 0.31-0.64 0.50—1.05 0.29--1.064
+Phosphorus, 0.025 0.025 0.025 0.025
+max
+Sulfur, max 0.025 0.025 0.025 0.025
+Silicon . 0.18-0.37 0.08-0.37 0.10 min
+Nickel 3.18-3.82 0.47-0.98 0.40 max
+Chromium we 0.44~1.01 0.30 max
+Copper 0.40-0.75 0.40 max
+Aluminum 0.04—0.30 we
+Vanadium, max ... we 0.08
+Columbium, 0.02°
+max
+Molybdenum, 0.12
+max
+Cobalt
+
+Grade 7 Grade 8 Grade 9 Grade 10 Grade 11
+0.19 0.13 0.20 0.20 0.10
+0.90 max 0.90 max 0.40-1.06 1.15~1.50 0.60 max
+0.025 0.025 0.025 0.035 0.025
+0.025 0.025 0.025 0.015 0.025
+0.13-0.32 0.13-0.32 a 0.10~0.35 0.35 max
+2.03-2.57 8.40-9.60 1.60-2.24 0.25 max 35.0-37.0
+we a we 0.15 max 0.50 max
+0.75—1.25 0.15 max we
+we 0.06 max
+0.12
+0.05
+0.05 0.50 max
+0.50 max
+
+4 For each reduction of 0.01 % carbon below 0.30 %, an increase of 0.05 % manganese above 1.06 % would be permitted to a maximum of 1.35 % manganese.
+® Where an ellipsis (...) appears in this table, there is no requirement and analysis for the element need not to be determined or reported.
+© By agreement between the manufacturer and the purchaser, the limit for columbium may be increased up to 0.05 % on heat analysis and 0.06 % on product analysis.
+
+addition of no filler metal in the welding operation. Grade 4
+shall be made by the seamless process.
+
+Note 2—For electric-fusion-welded pipe, with filler metal added,
+fabricated of pressure vessel quality plates, see Specification A671.
+
+4.2 Grade 11 pipe may be produced by welding with or
+without the addition of filler metal. The following requirements
+shall apply for Grade 11 welded with the addition of filler
+metal.
+
+4.2.1 The joints shall be full-penetration, full fusion double-
+welded or single-welded butt joints employing fusion welding
+processes as defined in “Definitions,” ASME Boiler and
+Pressure Vessel Code, Section IX. This specification makes no
+provision for any difference in weld quality requirements
+regardless of the weld joint type employed (single or double) in
+making the weld. Where backing strips are employed, the ring
+or strip material shall be the same as the plate being joined.
+Backing rings or strips shall be completely removed after
+welding, prior to any required radiography, and the exposed
+weld surface shall be examined visually for conformance to the
+requirements of 4.2.2. Welds made by procedures employing
+backing strips or rings which remain in place are prohibited.
+Welding procedures and welding operators shall be qualified in
+accordance with ASME Boiler and Pressure Vessel Code,
+Section IX.
+
+4.2.2 The weld surface on either side of the weld may be
+flush with the base plate or may have a reasonably uniform
+crown, not to exceed ¥% in. [3 mm]. Any weld reinforcement
+may be removed at the manufacturer’s option or by agreement
+between the manufacturer and purchaser. The contour of the
+reinforcement shall be reasonably smooth and free from
+irregularities. The deposited metal shall be fused uniformly
+into the plate surface. No concavity of contour is permitted
+unless the resulting thickness of weld metal is equal to or
+greater than the minimum thickness of the adjacent base metal.
+
+4.2.3 Radiographic Examination—All welded joints shall
+be fully radiographed in accordance with the requirements of
+the ASME Boiler and Pressure Vessel Code, Section VII,
+Division 1, latest edition, paragraph UW-S1.
+
+485
+
+4.2.3.1 As an alternative, the welded joints may be ultra-
+sonically examined in accordance with Appendix 12 of the
+ASME Boiler and Pressure Vessel Code, Section VII, Division
+1.
+
+4.2.4 Repair Welding—Weld metal defects shall be repaired
+by removal to sound metal and repair welding if approved by
+the purchaser.
+
+4.2.4.1 The repair shall be blended smoothly into the
+surrounding base metal surface and examined by the magnetic
+particle examination in accordance with Practice E709, or by
+the liquid penetrant method in accordance with Practice E165.
+
+4.2.4.2 Each repair weld of a cavity where the cavity, before
+repair welding, has a depth exceeding the lesser of ¥% in. [9.5
+mm] or 10.5 % of the nominal thickness shall be radiographi-
+cally examined as required for the original welds.
+
+4.2.5 Transverse Tension Test—One test shall be made to
+represent each lot (Note 3) of finished pipe. The test specimens
+shall be taken across the welded joint. The tension test results
+of the welded joints shall conform to the tensile properties for
+Grade 11 in Table 2.
+
+4.2.5.1 The test specimens shall be taken from the end of the
+finished pipe. As an alternative, the tension test specimens may
+be taken from a welded prolongation of the same material as
+the pipe, which is attached to the end of the pipe and welded as
+a prolongation of the pipe longitudinal seam.
+
+4.2.5.2 The test specimens shall be in accordance with
+Section IX, Part QW, paragraph QW-150 of the ASME Boiler
+and Pressure Vessel Code and shall be one of the types shown
+in QW-462.1 of that code. The tension test specimen may be
+flattened cold before final machining to size.
+
+4.2.6 Transverse Guided-Bend Weld Test—One transverse
+guided bend test (two specimens) shall be made to represent
+each lot (Note 3) of finished pipe.
+
+4.2.6.1 The two bend test specimens shall be taken from the
+weld at the end of the finished pipe. As an alternative, by
+agreement between the purchaser and the manufacturer, the test
+specimens may be taken from a test plate of the same material

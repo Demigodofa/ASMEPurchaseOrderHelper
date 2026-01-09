@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 260,
+  "globalPageIndex": 1058,
+  "width": 624.84,
+  "height": 801.72,
+  "text": "SA-563 ASME BPVC.II.A-2025 \nTABLE 1 \nCHEMICAL REQUIREMENTS FOR GRADES 0, A, B, C, \nD, AND DH NUTS \nComposition, % \nGrade of Manganese, Phosphorus, Sulfur, \nNut Analysis Carbon min max max \n0, A, B, C heat 0.55 max 0.12 0.15(A) \nproduct 0.58 max 0.13 (B) \nD (Cl heat 0.55 max 0.30 0.04 0.05 \nproduct 0.58 max 0.27 0.048 0.058 \nheat 0.20-0.55 0.60 0.04 0.05 \nDH (Cl product 0.18-0.58 0.57 0.048 0.058 \nNOTES: \n(Al For Grades 0, A, and Ba sulfur content of 0.23% max is acceptable \nwith the purchasers approval. \nCB) Acid bessemer steel only. \n(Cl For Grades D and DH a sulfur content of 0.05-0.15% is acceptable \nprovided the manganese is 1.35% min. \n958 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 1,
+  "tabulaTablesPath": "tables_tabula/page-1058.json",
+  "tabulaTablesCsv": "tables_tabula/page-1058.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-1058.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 653,
+  "bestTextAlphaRatio": 0.5452
+}

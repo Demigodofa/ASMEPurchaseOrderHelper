@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 411,
+  "globalPageIndex": 411,
+  "width": 859.92,
+  "height": 620.76,
+  "text": "w \nt.n \n'\u00b0 \nTABLE 1 Continued \n... N08811 0.05-0.10 1.50 0.045 0.015 1.00 19.0--23.0 30.0--35.0 . .. . .. 0.75 Al \n0.25-0.80F \n1i \n0.25-0.60F \nFe\" 39.5 \nmin \n... N08926 0.020 2.00 0.030 0.010 0.50 19,0--21.0 24.0-26.0 6.0--7.0 0.15-0.25 0.50-1.50 ... \n... N08904 0.020 2.00 0.040 0.030 1.00 19.0--23.0 23.0--28.0 4.0--5.0 0.10 1.00-2.00 ... \nA Maximum, unless otherwise indicated. \n8 New designation established in accordance with Practice E527 and SAE J1086. \nc The method of analysis for nitrogen shall be a matter of agreement between the purchaser and manufacturer. \n\u00b0 For small diameter or thin walls, or both, where many drawing passes are required, a carbon maximum of 0.040 % is necessary in Grades TP 304L and TP 316L. Small outside diameter tubes are defined as those \nless than 0.500 in. [12.7 mm] in outside diameter and light wall are those less than 0.049 in. [1.2 mm] in minimum wall thickness. \n\"Iron shall be determined arithmetically by difference of 100 minus the sum of the other specified elements. \nF(AI + Ti) = 0.85 to 1.20. \n\"The term Niobium (Nb) and Columbium (Cb) are alternate names for the same element. \n?;; \n3: \n1,:1 \nt:O \n\"0 \ng \n~ \nN \n0 \nN \nl:rl \n~ N \n\"\" '\u00b0 ~ \nN \n:t \n3: ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0411.json",
+  "tabulaTablesCsv": "tables_tabula/page-0411.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-0411.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1203,
+  "bestTextAlphaRatio": 0.5096
+}

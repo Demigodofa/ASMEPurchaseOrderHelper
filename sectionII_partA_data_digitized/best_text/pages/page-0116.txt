@@ -1,0 +1,83 @@
+SA-6/SA-6M ASME BPVC.II.A-2025 
+X2. VARIATION OF TENSILE PROPERTIES IN PLATES AND SHAPES 
+X2. l The tension testing requirements of this specification 
+are intended only to characterize the tensile properties of a heat 
+of steel for determination of conformance to the requirements 
+of the applicable product specification. Such testing procedures 
+are not intended to define the upper or lower limits of tensile 
+properties at all possible test locations within a heat of steel. It 
+is well known and documented that tensile properties will vary 
+within a heat or individual piece of steel as a function of 
+chemical composition, processing, testing procedure and other 
+factors. It is, therefore, incumbent on designers and engineers 
+to use sound engineering judgement when using tension test 
+results shown on mill test reports. The testing procedures of 
+this specification have been found to provide structural prod­
+ucts adequate for normal structural design criteria. 
+X2.2 A survey of the variation to be expected in tensile 
+properties obtained from plates and structural shapes was 
+conducted by the American Iron and Steel Institute (AISI). 
+The results of this survey are contained in a Contributions to 
+the Metallurgy of Steel entitled "The Variation of Product 
+Analysis and Tensile Properties-Carbon Steel Plates and 
+Wide Flange Shapes" (SU/18, SU/19 and SU/20), published in 
+September 197 4. The data are presented in tables of probability 
+that tensile properties at other than the official location may 
+differ from those of the reported test location. Another survey 
+sponsored by the AISI entitled "Statistical Analysis of Struc­
+tural Plate Mechanical Properties" was published in January 
+2003. That survey analyzed the results of variability testing on 
+more modem as-rolled steels that were generally of higher 
+minimum yield strength steels and also compared those results 
+statistically to the previous surveys. 
+X2.3 This specification contains no requirements applicable 
+to product tension tests; conformance to the applicable product 
+specification is determined on the basis of tests performed at 
+the place of manufacture or processing prior to shipment, 
+unless otherwise specified. 
+X2.4 A task group of ASTM Subcommittee A0l.02 has 
+determined, based on review of the earlier AISI data, that the 
+variation in tensile prope1ties of plates and structural shapes 
+can be expressed as a function of specified requirements: one 
+standard deviation equals approximately 4 % of required ten­
+sile strength, 8 % of required yield strength, and 3 percentage 
+points of required elongation. The January 2003 survey re­
+sulted in similar findings. 
+X2.5 Acceptance criteria for product testing based upon 
+these values, either below the minimum or above the maximum 
+allowed by the applicable product specification, are generally 
+acceptable to manufacturers. Such tolerances could be consid­
+ered by users of structural products as a reasonable basis for 
+acceptance of structural products that, due to their inherent 
+variability, deviate from the applicable product specification 
+requirements when subjected to product tension testing. 
+X3. WELDABILITY OF STEEL 
+X3. l Weldability is a term that usually refers to the relative 
+ease with which a metal can be welded using conventional 
+practice. Difficulties arise in steel when the cooling rates 
+associated with weld thermal cycles produce microstructures 
+(for example, martensite) that are susceptible to brittle fracture 
+or, more commonly, hydrogen-induced (or cold) cracking. 
+(Solidification or hot cracking is a relatively rare phenomenon 
+that will not be addressed here. See Randall for further 
+information.) 
+X3.2 The relative sensitivity of steels to forming cold 
+cracking microstructures is called hardenability and can be 
+measured in a number of ways. Perhaps the most popular 
+method of assessing this is by the carbon equivalent (CE) 
+formula, which attempts to equate the relative hardening 
+contributions of a steel's constituent elements (for example, 
+64 
+manganese, vanadium) to an equivalent amount of carbon, 
+which is the most significant hardening agent. The most 
+popular formula is the International Institute of Welding (IIW) 
+equation presented in S31.2, which has been found suitable for 
+predicting hardenability in a wide range of commonly used 
+carbon-manganese and low alloy steels. 
+X3.3 It should be noted, however, that for the current 
+generation oflow carbon ( <0.10 % ) low alloy steels that derive 
+strength from a combination of microalloys and thermal 
+processing methods the use of other formulae may more 
+accurately assess hardenability and cold cracking sensitivity. 
+X3.4 For a vast number of common structural applications it 
+is unnecessary to specify the use of CE limits. However, in 

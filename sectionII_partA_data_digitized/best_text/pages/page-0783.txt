@@ -1,0 +1,80 @@
+ASME BPVC.II.A-2025 SA-449 
+TABLE 2 Chemical Requirements for Type 3 FastenersA 
+Element Com osition, % 
+T e 3 FastenersA 
+A B C 0 E F 
+Carbon: 
+Heat analysis 0.33-0.40 0.38-0.48 0.15-0.25 0.15-0.25 0.20-0.25 0.20-0.25 
+Product analysis 0.31-0.42 0.36-0.50 0.14-0.25 0.14-0.25 0.18-0.27 0.19-0.25 
+Manganese: 
+Heat analysis 0.90-1.20 0.70-0.90 0.80-1.35 0.40-1.20 0.60-1.00 0.90-1.20 
+Product analysis 0.86-1.24 0.67-0.93 0.76-1.39 0.36-1.24 0.56-1.04 0.86-1.24 
+Phosphrous: 
+Heat analysis 0.035 max 0.06-0.12 0.035 max 0.035 max 0.035 max 0.035 max 
+Product analysis 0.040 max 0.06-0.125 0.040 max 0.040 max 0.040 max 0.040 max 
+Sulfur: 
+Heat analysis 0.040 max 0.040 max 0.040 max 0.040 max 0.040 max 0.040 max 
+Product analysis 0.045 max 0.045 max 0.045 max 0.045 max 0.045 max 0.045 max 
+Silicon: 
+Heat analysis 0.15-0.35 0.30-0.50 0.15-0.35 0.25-0.50 0.15-0.35 0.15-0.35 
+Product analysis 0.13-0.37 0.25-0.55 0.13-0.37 0.20-0.55 0.13-0.37 0.13-0.37 
+Copper: 
+Heat analysis 0.25-0.45 0.20-0.40 0.20-0.50 0.30-0.50 0.30-0.60 0.20-0.40 
+Product analysis 0.22-0.48 0.17-0.43 0.17-0.53 0.27-0.53 0.27-0.53 0.17-0.43 
+Nickel: 
+Heat analysis 0.25-0.45 0.50-0.80 0.25-0.50 0.50-0.80 0.30-0.60 0.20-0.40 
+Product analysis 0.22-0.48 0.47-0.83 0.22-0.53 0.47-0.83 0.27-0.63 0.17-0.43 
+Chromium: 
+Heat analysis 0.45-0.65 0.50-0.75 0.30-0.50 0.50-1.00 0.60-0.90 0.45-0.65 
+Product analysis 0.42-0.68 0.47-0.83 0.27-0.53 0.45-1.05 0.55-0.95 0.42-0.68 
+Vanadium: 
+Heat analysis B B 0.020 min B B B 
+Product analysis B B 0.010 min B B B 
+Molybdenum: 
+Heat analysis B 0.06 max B 0.10 max B B 
+Product analysis B 0.07 max B 0.11 max B B 
+Titanium: 
+Heat analysis B B B 0.05 max B B 
+Product analysis B B B 0.06 max B B 
+AA,B,C,O, E and Fare classes of material used for Type 3 fasteners. Selection of a class shall be at the option of the bolt manufacturer. 
+"These elements are not specified or required. 
+TABLE 3 Hardness Requirements for Hex Cap Screws, Bolts, and Studs 
+Brinell Rockwell C 
+Nominal Diameter, in. Length, in. 
+Min Max Min Max 
+¼ to 1, inclusive Less than 20A 253 319 25 34 
+20 and over 319 34 
+Over 1 to 1 ½ , inclusive Less than 30A 223 286 19 30 
+30 and over 286 30 
+Over 1 ½ to 3, inclusive Less than 30A 183 235 
+30 and over 235 
+A Hex cap screws and bolts larger than 1.00 in. diameter and shorter than 30 and all studs shorter than 30 are subject only to minimum and maximum hardness. 
+O = Nominal diameter or thread size 
+8.2.3 Unless otherwise specified, fasteners electroplated or 
+mechanically coated to 0.0005 in. or less, threads prior to 
+plating shall conform to ASME B 1.1 Class 2A and after plating 
+shall not exceed the Class 3A maximum limits, that is, Class 
+2A plus the allowance. 
+9. Workmanship, Finish, and Appearance 
+9 .1 Surface discontinuity limits, inspection, and evaluation 
+shall be in accordance with Specification F788/F788M. 
+10. Number of Tests and Retests 
+10.1 Testing Responsibility: 
+10.1.1 Each lot shall be tested by the manufacturer prior to 
+shipment in accordance with the lot identification control 
+quality assurance plan in 10.2-10.5. 
+733 
+10.1.2 When fasteners are furnished by a source other than 
+the manufacturer, the responsible party as defined in 15.1 shall 
+be responsible for assuring all tests have been performed and 
+the fasteners comply with the requirements of this specification 
+(see 4.3). 
+10.2 Purpose of Lot Inspection-The purpose of a lot 
+inspection program is to ensure that each lot conforms to the 
+requirements of this specification. For such a plan to be fully 
+effective, it is essential that secondary processors, distributors, 
+and purchasers maintain the identification and integrity of each 
+lot until the product is installed. 
+10.3 Lot Processing-All fasteners shall be processed in 
+accordance with a lot identification-control quality assurance 
+plan. The manufacturer, secondary processors, and distributors 

@@ -1,0 +1,51 @@
+1
+:
+SA-568/SA-568M (ASTM A568/A568M) ASME BPVCG.ILA-2025
+TABLE $1.2 Thickness Tolerances for Hot-Rolled Sheet (High-Strength, Low-Alloy Steel)—*%-in. (Cut Edge) and %-in. (Mill Edge) /
+Minimum Edge Distance (Coils and Cut Lengths, Including Pickled)
+Norte 1—Thickness is measured at any point across the width not less than % in. from a cut edge and not less than 34 in. from a mill edge. This table
+does not apply to the uncropped ends of mill edge coils.
+Note 2—Micrometers used for measurement of thickness shall be constructed with anvils and spindles having minimum diameters of 0.188 in.
+[4.80 mm]. The tip of the spindle shall be flat, and the tip of the anvil shall be flat or rounded with a minimum radius of curvature of 0.10 in. [2.55 mm].
+Micrometers with pointed tips are not suitable for thickness measurements.
+Nore 3—This table was used to construct Table 5 by multiplying the values in this table by 0.75 and rounding to 3 decimal places using standard ASTM :
+practice. :
+Note 4—The thickness of material <1 in. wide shall be measured at mid-width.
+Specified Ordered Thickness, in.4 , i
+ses : . 0.031 to 0.051, Over 0.051 Over 0.059 Over 0.070 to Over 0.082 to Over 0.098 to 0.180 to
+Specified Width, in. incl to 0.059, incl to 0.070, incl 0.082, incl 0.098, incl 0.180, excl 0.230, excl
+Thickness Tolerances, Over, in., No Tolerance Under?
+To 15, incl 0.010 0.012 0.012 0.012 0.012 0.014 0.014 -
+Over 15 to 20, incl 0.010 0.012 0.014 0.014 0.014 0.016 0.016
+Over 20 to 32, incl 0.012 0.012 0.014 0.014 0.014 0.016 0.018 i
+Over 32 to 40, incl 0.012 0.012 0.014 0.014 0.016 0.016 0.018
+Over 40 to 48, incl 0.012 0.014 0.014 0.014 0.016 0.020 0.020 :
+Over 48 to 60, incl Le 0.014 0.014 0.014 0.016 0.020 0.020
+Over 60 to 72, incl rd Wt 0.016 0.016 0.018 0.022 0.022 :
+Over 72 to 80, incl ed we Le 0.016 0.018 0.024 0.024
+Over 80 ed ad ad ad 0.020 0.024 0.024¢
+A The specified thickness range captions apply independent of whether the ordered thickness is stated as a nominal or minimum.
+® The tolerances provided in the table are based on minimum thickness (tolerance over, no tolerance under). For nominal thickness, the tolerance is divided equally over -
+and under.
+Where an ellipsis (. . .) appears in the table, the requirements have not been defined. .
+TABLE $1.3 Thickness Tolerances for Cold-Rolled Sheet (All Designations)“ —%-in. Minimum Edge Distance (Coils and Cut Lengths)
+Nore 1—Thickness is measured at any point across the width not less than % in. from a side edge.
+Nore 2—-Micrometers used for measurement of thickness shall be constructed with anvils and spindles having minimum diameters of 0.188 in.
+[4.80 mm]. The tip of the spindle shall be flat, and the tip of the anvil shall be flat or rounded with a minimum radius of curvature of 0.10 in. [2.55 mm].
+Micrometers with pointed tips are not suitable for thickness measurements.
+Note 3—This table was used to construct Table 15 by multiplying the values in this table by 0.50 and rounding to 3 decimal places using standard -
+ASTM practice. |
+Nore 4—The thickness of material <1 in. wide shall be measured at mid-width.
+. Specified Ordered Thickness, in.”
+Specified Width, in To 0.014, 0.014 to 0.019, Over 0.019" to Over 0.039 to 0.057, Over 0.057 to 0.071, Over 0.071 to 0.098, Over 0.098 to |
+P ua excl incl 0.039 incl incl incl inl 0.142, incl |
+Thickness Tolerances, Over, in., No Tolerance Under ;
+To 15, incl 0.002 0.004 0.006 0.008 0.010 0.010 0.010 |
+Over 15 to 72, incl 0.002 0.004 0.006 0.008 0.010 0.010 0.012 |
+Over 72 2 P 2. 0.006 0.008 0.010 0.012 0.014 ‘ :
+4 Minimum Thickness, 0.021 in. for high-strength, low-alloy: !
+® The specified thickness range captions apply independent of whether the ordered thickness is stated as a nominal or minimum. _- :
+© The tolerances provided in the table are based on minimum thickness (tolerance over, no tolerance under). For nominal thickness, the tolerance is divided equally over
+and under. i
+© Where an ellipsis (. . .) appears in the table, the requirements have not been defined. |
+990 :

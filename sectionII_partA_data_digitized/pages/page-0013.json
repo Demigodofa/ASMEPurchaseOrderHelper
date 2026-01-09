@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 13,
+  "globalPageIndex": 13,
+  "width": 617.04,
+  "height": 795.6,
+  "text": "neither requires nor prohibits the use of computers for the design or analysis of components constructed to the require\u00ad\nments of the Code. However, designers and engineers using computer programs for design or analysis are cautioned that \nthey are responsible for all technical assumptions inherent in the programs they use and the application of these pro\u00ad\ngrams to their design. \nThe rules established by the Committee are not to be interpreted as approving, recommending, or endorsing any pro\u00ad\nprietary or specific design, or as limiting in any way the manufacturer's freedom to choose any method of design or any \nform of construction that conforms to the Code rules. \nThe Committee meets regularly to consider revisions of the rules, new rules as dictated by technological development, \nCode cases, and requests for interpretations. Only the Committee has the authority to provide official interpretations of \nthe Code. Requests for revisions, new rules, Code cases, or interpretations shall be addressed to the staff secretary in \nwriting and shall give full particulars in order to receive consideration and action (see the Correspondence With the \nCommittee page). Proposed revisions to the Code resulting from inquiries will be presented to the Committee for appro\u00ad\npriate action. The action of the Committee becomes effective only after confirmation by ballot of the Committee and ap\u00ad\nproval by ASME. Proposed revisions to the Code approved by the Committee are submitted to the American National \nStandards Institute (ANSI) and published at http://go.asme.org/BPVCPublicReview to invite comments from all inter\u00ad\nested persons. After public review and final approval by ASME, revisions are published at regular intervals in Editions of \nthe Code. \nThe Committee does not rule on whether a component shall or shall not be constructed to the provisions of the Code. \nThe scope of each Section has been established to identify the components and parameters considered by the Committee \nin formulating the Code rules. \nQuestions or issues regarding compliance of a specific component with the Code rules are to be directed to the ASME \nCertificate Holder (Manufacturer). Inquiries concerning the interpretation of the Code are to be directed to the Commit\u00ad\ntee. ASME is to be notified should questions arise concerning improper use of the ASME Single Certification Mark. \nWhen required by context in the Code, the singular shall be interpreted as the plural, and vice versa. \nThe words \"shall;' \"should,\" and \"may'' are used in the Code as follows: \n- Shall is used to denote a requirement. \n- Should is used to denote a recommendation. \n- May is used to denote permission, neither a requirement nor a recommendation. \nxiii ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-0013.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2731,
+  "bestTextAlphaRatio": 0.8114
+}

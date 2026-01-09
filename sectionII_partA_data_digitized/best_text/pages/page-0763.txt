@@ -1,0 +1,104 @@
+ASME BPVC.II.A-2025 SA-426/SA-426M 
+TABLE 1 Chemical RequirementsA 
+Composition, % 
+UNS Phos-
+Grade Number Carbon Manganese phorus, 
+max 
+CP1 J12521 0.25 0.30-0.80 0.030 
+max 
+CP2 J11547 0.10-0.20 0.30-0.61 0.030 
+CP5 J42045 0.20 0.30-0.70 0.030 
+max 
+CP5b J51545 0.15 0.30-0.60 0.030 
+max 
+CP9 J82090 0.20 0.30-0.65 0.030 
+max 
+CP11 J12072 0.05-0.20 0.30-0.80 0.030 
+CP12 J11562 0.05-0.15 0.30-0.61 0.030 
+CP15 J11522 0.15 0.30-0.60 0.030 
+max 
+CP21 J31545 0.05-0.15 0.30-0.60 0.030 
+CP22 J21890 0.05-0.15 0.30-0.70 0.030 
+CPCA15 J91150 0.15 1.00 0.030 
+max max 
+A Where ellipses appear in this table, there is no requirement. 
+3.l.8 Optional Requirements Sl through S12 and Section 
+14.1, 
+3.1.9 Test report required (Section on Certified Test Report 
+of Specification A999/A999M), 
+3.1.10 Service temperature if over 1000°F [540°C] (Note 1), 
+and 
+3 .1.11 Special requirements or additions to specification. 
+4. General Requirements for Delivery 
+4.1 Material furnished under this specification shall con­
+form to the applicable requirements of the current edition of 
+Specification A999/ A999M unless otherwise provided herein. 
+5. Materials and Manufacture 
+5.1 Heat-Treatment-The pipe shall be furnished in the 
+austenitized and tempered condition (Note 1) according to the 
+requirements of Table 2. 
+5.1.1 Heat treatment shall be performed after the pipe has 
+been allowed to cool below the transformation range. Defini­
+tion of heat-treatment terms shall be as given in Terminology 
+A941. 
+NOTE 1-lt is recommended that the temperature for tempedng should 
+be at least 100°F [55°C] above the intended service temperature. The 
+purchaser shall advise the manufacturer of the service temperature when 
+it is over 1000°F [540°C]. (See 3.1.10.) 
+5.2 Machining-The pipe shall be machined on the inner 
+and outer surfaces to a roughness value no greater than 250 µ 
+in. [6.35 µm] arithmetical average deviation (AA) from the 
+mean line unless otherwise specified as in ANSI B46.1. 
+6. Chemical Analysis 
+6.1 Heat Analysis-An analysis of each heat shall be made 
+by the manufacturer to determine the percentages of elements 
+specified in Table 1. The analysis shall be made on a test 
+Sulfur, Silicon Chromium Molybdenum max 
+0.025 0.10-0.50 0.44-0.65 
+0.025 0.10-0.50 0.50-0.81 0.44-0.65 
+0.025 0.75 4.00-6.50 0.45-0.65 
+max 
+0.025 1.00-2.00 4.00-6.00 0.45-0.65 
+0.025 0.25-1.00 8.00-10.00 0.90-1.20 
+0.025 0.60 1.00-1.50 0.44-0.65 
+max 
+0.025 0.50 0.80-1.25 0.44-0.65 
+max 
+0.025 1.15-1.65 0.44-0.65 
+0.025 0.50 2.65-3.35 0.80-1.06 
+max 
+0.025 0.60 2.00-2.75 0.90-1.20 
+max 
+0.025 1.50 11.5-14.0 0.50 
+max max 
+sample taken preferable during the pouring of the heat. The 
+chemical composition thus determined shall conform to the 
+requirements specified in Table 1. 
+6.2 Product Analysis-A product analysis may be made by 
+the purchaser. The sample for analysis shall be selected so as to 
+be representative of the pipe being analyzed. The chemical 
+composition thus determined shall conform to the requirements 
+of Table 1. 
+7. Tensile and Hardness Requirements 
+7 .1 Steel used for the castings shall conform to the tensile 
+and hardness requirements specified in Table 3. 
+8. Permissible Variations in Dimensions 
+8.1 Thickness-The wall thickness shall not vary over that 
+specified by more than Vs in. [3 mm]. There shall be no 
+variation under the specified wall thickness. 
+9. Number of Tests 
+9 .1 One tension and one hardness test shall be made from 
+each heat. 
+9.2 If a specimen is machined improperly or if flaws are 
+revealed by machining or during testing, the specimen may be 
+discarded and another substituted from the same heat. 
+10. Retests 
+10.1 If the results of the mechanical tests for any heat do not 
+conform . to the requirements specified, the castings may be 
+reheat-treated and retested, but may not be re-austenitized 
+more than twice. 
+11. Test Specimens 
+11.1 Test coupons from which tension test specimens are 
+prepared shall be removed from heat-treated casting prolonga­
+tions. 
+713 

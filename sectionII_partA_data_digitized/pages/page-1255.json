@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 457,
+  "globalPageIndex": 1255,
+  "width": 798.0,
+  "height": 620.16,
+  "text": "( \nTABLE 2 \nSOLUTION HEAT TREATMENT \nMechanical Test Requirements in Solution Treated ConditionA \nTensile Strength, Yield Strength, \nmin min Reduction of Hardness 8 \nElongation in 2 in. Area, min Rockwell C, Brinell, \nType Condition Solution Treatment ksi [MPaJ ksi [MPa] [50 mm] or 4D, min, % % max max \n630 A 1900 \u00b1 25\u00b0F U040 \u00b1 15\u00b0CJ (cool 38 363 \nas required to below 90\u00b0F [32\u00b0CJ) \n631 A 1900 \u00b1 25\u00b0F U040 \u00b1 15\u00b0CJ Rb89 229 \n(water quench) \n632 A 1900 \u00b1 25\u00b0F [1040 \u00b1 15\u00b0C] (water RblOO 269c \nquench) \n634D A 1900 \u00b1 25\u00b0F [1040 \u00b1 15\u00b0CJ quench, 363D \nhold not less than 3 h at minus 100\u00b0F \n1--\" \nor lower 1--\" \nCl\\ \n'\u00b0 635 A 1900 \u00b1 25\u00b0F [1040 \u00b1 15\u00b0CJ (air cool) 120 [825] 75 [515] 10 45 32 302 \nXM-12 A 1900 \u00b1 25\u00b0F [1040 \u00b1 15\u00b0CJ (cool as 38 363 \nrequired to below 90\u00b0F [32\u00b0CJ) \nXM-13 A 1700 \u00b1 25\u00b0F [925 \u00b1 15\u00b0CJ (cool as 38 363 \nrequired to below 60\u00b0F U6 \u00b0CJ) \nXM-16 A 1525 \u00b1 25\u00b0F [830 \u00b1 15\u00b0CJ (cool 36 331 \nrapidly) \nS45503 A 1525 \u00b1 25\u00b0F [830 \u00b1 15\u00b0CJ (cool 36 331 \nrapidly) \nXM-25 A 1900 \u00b1 25\u00b0F [1040 \u00b1 15\u00b0CJ (cool 125\u00a3 [860] 95 [655] 10 40 33 311 \nrapidly) \nA See 6.1. \n8 Either Rockwell C hardness or Brinell is permissible. On sizes of \u00bd in. (12.70 mm) and smaller. Rockwell C is preferred. \nc 321 BH N for rounds cold drawn after solution treating. \n0 Equalization and over-tempering treatment 1425 \u00b1 50\u00b0F [775 \u00b1 30\u00b0CJ for not less than 3 h, cool to room temperature, heat to 1075 \u00b1 25\u00b0F [580 \u00b1 15\u00b0CJ for not less than 3 h. \n\u00a3 125 - 165 ksi [860 - 1140 M PaJ for sizes up to \u00bd in. [13 mmJ. \n) \n~ \n3: \n~ \n= \n~ \n~ \nN \nCl \nN \nIll \n~ ...... \nCl \nIll \n~ ...... \nCl \nIll \n3: ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1255.json",
+  "tabulaTablesCsv": "tables_tabula/page-1255.csv",
+  "tabulaTableCount": 2,
+  "bestTextPath": "best_text/pages/page-1255.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1571,
+  "bestTextAlphaRatio": 0.4685
+}

@@ -1,0 +1,116 @@
+SA-20/SA-20M ASME BPVC.II.A-2025 
+5.5.1 Plates produced from coil shall not contain splice 
+welds, unless approved by the purchaser. 
+6. Heat Treatment 
+6.1 If plates are required to be heat treated, the heat 
+treatment shall be performed by the manufacturer, the 
+processor, or the fabricator, unless otherwise specified in the 
+applicable product specification. 
+6.2 If the heat treatment required by the applicable product 
+specification is to be performed by the purchaser or the 
+purchaser's agent, and the plates are to be supplied by the 
+manufacturer or processor in a condition other than that 
+required by the applicable product specification, the order shall 
+so state. 
+6.2.1 If plates are ordered without the heat treatment re­
+quired by the applicable product specification, heat treatment 
+of the plates to confonn to the requirements of the applicable 
+product specification shall be the responsibility of the pur­
+chaser. 
+6.3 If heat treatment is to be performed, the plates shall be 
+heat treated as specified in the applicable product specification. 
+The purchaser may specify the heat treatment to be used, 
+provided it is not in conflict with the requirements of the 
+applicable product specification. 
+6.4 If normalizing is to be performed by the fabricator, the 
+plates shall be either normalized or heated uniformly for hot 
+forming, provided that the temperature to which the plates are 
+heated for hot forming does not significantly exceed the 
+normalizing temperature, 
+6.5 If no heat treatment is required, the manufacturer or 
+processor shall have the option of heat treating the plates by 
+normalizing, stress relieving, or normalizing and then stress 
+relieving to meet the requirements of the applicable product 
+specification. 
+6.6 If approved by the purchaser, cooling rates faster than 
+those obtained by cooling in air are permissible to achieve 
+specified mechanical properties, provided that the plates are 
+subsequently tempered in the temperature range from 1100 to 
+1300°F [595 to 705°C]. 
+7. Chemical Composition 
+7.1 Heat Analysis: 
+7.1.1 Sampling for chemical analysis and methods of analy­
+sis shall be in accordance with Test Methods, Practices, and 
+Terminology A751. 
+7.1.2 For each heat, the heat analysis shall include determi­
+nation of the content of carbon, manganese, phosphorus, sulfur, 
+silicon, nickel, chromium, molybdenum, copper, vanadium, 
+columbium (niobium); any other element that is specified or 
+restricted by the applicable product specification for the 
+applicable grade, class, and type; aluminum, if the aluminum 
+content is to be used in place of austenitic grain size testing of 
+the heat (see 8.3.2.1); and any other austenitic grain refining 
+element for which limits are specified in the purchase order 
+(see 8.3.2). 
+7 .1.3 Heat analyses shall conform to the heat analysis 
+requirements of the applicable product specification for the 
+72 
+applicable grade, class, and type. In addition, for elements that 
+are listed in Table 1 but are not specified or restricted in the 
+applicable product specification for the applicable grade, class, 
+and type, heat analyses shall conform to the applicable heat 
+analysis limits given in Table 1. 
+7.2 Product Analysis: 
+7.2.1 Sampling for chemical analysis and methods of analy­
+sis shall be in accordance with Test Methods, Practices, and 
+Terminology A751. 
+7 .2.2 For each plate-as-rolled, the purchaser shall have the 
+option of chemically analyzing a broken tension test specimen 
+or a sample taken from the same relative location as that from 
+which the tension test specimen was obtained. 
+7.2.3 For elements that are specified or restricted by the 
+applicable product specification for the applicable grade, class, 
+and type, product analyses shall conform to the product 
+analysis requirements of the applicable product specification 
+for the applicable grade, class, and type. 
+7.2.4 For elements that are listed in Table 1 but are not 
+specified or restricted by the applicable product specification 
+TABLE 1 Limits on Elements (see 7.1.3 and 7.2.4) 
+Copper, max %A Heat analysis 0.40 
+Product analysis 0.43 
+Nickel, max %A Heat analysis 0.40 
+Product analysis 0.43 
+Chromium, max %A,B Heat analysis 0.30 
+Product analysis 0.34 
+Molybdenum, max %A.a Heat analysis 0.12 
+Product analysis 0.13 
+Vanadium, max %c Heat analysis 0.03 
+Product analysis 0.04 
+Columbium (Niobium), 0 max %E Heat analysis 0.02 
+Product analysis 0.03 
+Titanium, max %F Heat analysis 0,03 
+Product analysis 0.04 
+Boron, max% Heat analysis 0,0010 
+Product analysis 0.0015 
+A In addition for each heat, based upon the heat analysis, the sum of copper, 
+nickel, chromium, and molybdenum shall not exceed 1.00 %, unless one or more 
+of those elements are specified or restricted by the applicable product specification 
+for the applicable grade, class, and type. 
+8 In addition for each heat, based upon the heat analysis, the sum of chromium 
+and molybdenum shall not exceed 0.32 %, unless one or both of those elements 
+are specified or restricted by the applicable product specification for the applicable 
+grade, class, and type. 
+c By agreement between the purchaser and the supplier, the heat analysis limit for 
+vanadium is permitted to be increased to a value not higher than 0.10 %, and the 
+product analysis limit for vanadium is permitted to be increased to a value not 
+higher than 0.11 %. 
+° Columbium and niobium are interchangeable names for the same element and 
+both names are acceptable for use in A01 specifications. 
+E By agreement between the purchaser and the supplier, the heat analysis limit for 
+columbium (niobium) is permitted to be increased to a value not higher that 
+0.05 %, and the product analysis limit for columbium (niobium) is permitted to be 
+increased to a value not higher than 0.06 %. 
+F By agreement between the purchaser and the supplier, the heat analysis limit for 
+titanium is permitted to be increased to a value not higher than 0.04 %, and the 
+product analysis limit for titanium is permitted to be increased to a value not higher 
+than 0.05 %. 

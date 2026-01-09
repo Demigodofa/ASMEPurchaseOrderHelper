@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 835,
+  "globalPageIndex": 1633,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "ASME BPVC.II.A-2025 SA/EN 10028\u00b74 \n(b) All surface imperfections, the removal of which \nreduce the plate thickness below the minimum thickness \npermitted, shall be cause for rejection of the plate, except \nthat, by agreement with the purchaser, the metal so \nremoved may be replaced with weld metal. \n1.7.2 Repair Welding \n(a) Repair by welding shall be permitted only with the \napproval of the purchaser \n(b J Preparation for repair welding shall include inspec\u00ad\ntion to confirm complete removal of the defect. \n(c) Repairs shall be made utilizing welding procedures \nqualified in accordance with Section IX of the ASME Code \nand repair welding shall be done by welders or welding \noperators meeting the requirements of ASME Section IX. \n( d) If Charpy impact tests of the plate are required, the \nwelding procedure qualification tests shall also include \nCharpy impact tests of the weld, heat affected zone, \nand the plate, and the test results shall be reported to \nthe purchaser. \n(e) If the plate is subjected to normalizing, quenching \nand tempering, hot forming, or post-weld heat treating, \nthe welding procedure qualification test plates and the \nweld repaired plate shall be subjected to the thermal \nheat treatment as specified by the purchaser. \n(f) In addition, repair welds shall meet the require\u00ad\nments of the construction code specified by the purchaser. \n(g) The location and size of the repaired area(s), the \nwelding procedure and welding consumables shall be \ndocumented and reported to the purchaser. \n1.8 Test Reports: \n1.8.1 The designation of this SA/EN specification \nshall include the edition year. \n1.8.2 Copies of the original manufacturer's test \nreport shall be included with any subsequent test report. \n2. National Parts \n2.1 The National Foreword and the National Annexes, if \nany, do not apply for SA/EN 10028-4. \n3. Source \n3.1 See Nonmandatory Appendix A for ordering infor\u00ad\nmation to obtain an English language copy ofEN 10028-4 \nand its references. \n1579 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-1633.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1993,
+  "bestTextAlphaRatio": 0.7667
+}

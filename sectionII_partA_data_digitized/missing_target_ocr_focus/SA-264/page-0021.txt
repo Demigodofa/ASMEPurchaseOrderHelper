@@ -1,0 +1,60 @@
+ASME BPVC.IILA-2025 SA-6/SA-6M 2
+a 12.3.3 Shapes Having One Dimension of the Cross Section 13.5 When the full-section option of 11.3.3 is used and the
+| 3 in. [75 mm] or Greater (Structural-Size Shapes)—The elongation falls below the specified requirement, the manufac-
+cross-sectional area or weight [mass] of each shape shall be __ turer or processor shall have the option of making another test
+within +2.5 % of the theoretical or specified amounts except — using a test specimen permitted in 11.5.2.
+for shapes with a nominal weight of less than 100 Ib/ft [149 ,
+kg/m], in which the variation shall be within —2.5 % to+3.0% 14. Test Reports |
+of the theoretical cross-sectional area or the specified nominal 14.1 Test reports for each heat supplied are required and ;
+| weight [mass]. they shall report the following: _
+(12.4 Sheet Piling—The weight [mass] of each steel sheet 14.1.1 The applicable product specification designation, |
+pile shall be within £2.5 % of the theoretical or specified including year-date and whichever of grade, class, and type are |
+weight [mass]. The length of each steel sheet pile shall be not gnecified in the purchase order, to which the structural product
+less than the specified length, and not more than 5 in. [125 mm] is furnished. . |
+over the specified length. 14.1.2 The heat number, heat analysis (see 7.1), and nomi-
+_ 12.5 Hot-Rolled Bars—The permitted variations in dimen- _nal sizes. ,
+a sions shall not exceed the applicable limits in Tables 26 to 31 Nom: If th «of hromi ‘ckel. molvbd
+' . : oTeE 8—If the amount of copper, chromium, nickel, molybdenum, or
+[Annex Al, Tables A1.26 to Al.31] inclusive. silicon is less than 0.02 %, the Theat analysis for that element may be
+12.6 Conversion of Permitted Variations from Fractions of _ reported as <0.02 %. If the amount of columbium (niobium) or vanadium
+an Inch to Decimals—Permitted variations in dimensions for is less than 0.008 %, the heat analysis for that element may be reported as
+products covered by this specification are generally given as <0.008 %. :
+fractions of an inch and these remain the official permitted 14.1.3 For structural products that are tested as given in |
+variations, where so stated. If the material is to be measured by Table B, two tension test results appropriate to qualify the 4
+equipment reporting dimensions as decimals, conversion of — shipment (see 11.4), except that only one tension test result
+permitted variations from fractions of an inch to decimals shall —_ need be reported if the shipment consists of a single piece or
+be made to three decimal places; using the rounding method _plate-as-rolled. ,
+prescribed in Practice E29. 14.1.3.1 In reporting elongation values, both the percentage |
+13. Retests. increase and the original gage length shall be stated.
+| ; ; a 14.1.3.2 Yield to tensile ratio when such a requirement is _
+a | 13.1 If any test specimen shows defective machining or contained in the product specification. |
+| develops flaws, the manufacturer or processor shall have the i414 F | prod h ‘red to be h
+- option of discarding it and substituting another test specimen. 1.4 For structural products that are required to be | eat .
+treated, either by the applicable product specification or by the ,
+, 13.2 If the percentage of elongation of any tension test purchase order, all heat treatments, including temperature ,
+specimen is less than that specified and any part of the fracture ranges and times at temperature, unless the purchaser and the
+is more than 7% in. [20 mm] from the center of the gage length — supplier have agreed to the supply of a heat treatment proce-
+of a 2-in, [50-mm] specimen or is outside the middle half ofthe dure in place of the actual temperatures and times.
+gage length of an 8-in. [200-mm]| Specimen, as indicated by 14.1.4.1 Subcritical heat treatment to soften thermally cut |
+scribe scratches marked on the specimen before testing, a retest edges need not be reported, except for structural products |
+shall be allowed. having a specified minimum tensile strength of 95 ksi [655 |
+13.3 Except as provided in 13.3.1, if the results from an MPa] or higher, unless such subcritical heating is accomplished |
+original tension specimen fails to meet the specified at temperatures at least 75°F [40°C] lower than the minimum
+requirements, but are within 2 ksi [14 MPa] of the required —_ tempering temperature. |
+tensile strength, within 1 ksi [7 MPa] of the required yield 14.1.5 The results of any required austenitic grain size tests |
+/ strength or yield point, or within 2 percentage points of the — (see 8.2 or 8.3, whichever is applicable). |
+a required elongation, a retest shall be permitted to replace the 14.1.6 The results of any other test required by the appli- ,
+failing test. A retest shall be performed for the failing original cable product specification, the applicable supplementary |
+test, with the specimen being randomly selected from the heat. requirements, and the purchase order. |
+If the results of the retest meet the specified requirements, the |
+heat or lot shall be approved. 14.2 The thickness of the structural product tested is not
+13.3.1 For structural products that are tested as given in Necessarily the same as an individual ordered thickness, given ;
+Table C, both tests from each coil tested to qualify a heat are that it is the heat that is tested, rather than each ordered item. :
+required to meet all mechanical property requirements. Should Tests from specified thicknesses in accordance with 11.4 and
+either test fail to do so, then that coil shall not be used to | encompassing the thicknesses in a shipment shall be sufficient
+qualify the heat; however, the portion of that individual coil for qualifying the structural product in the shipment. Such test 2
+that is bracketed by acceptable tests (see 11.4.2.3) is considered thicknesses are not required to be within previously tested and :
+to be qualified. | shipped thicknesses from the same heat. |
+13.4 Quenched and tempered steel plates shall be subject to 14.3 For structural products produced from coil that are )
+any additional retest requirements contained in the applicable supplied in the as-rolled condition or have been heat treated by |
+No product specification. stress relieving only, the test report shall state “Produced from |

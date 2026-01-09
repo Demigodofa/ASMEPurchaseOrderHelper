@@ -1,0 +1,66 @@
+SA-370 ASME BPVC.II.A-2025
+TABLE 3 Continued __
+EEE "Rockwell Superficial Hardness s—<it~sts~S
+Rockwell B aaa STE OTR
+Scale, 100 Vickers Brinell Knoop Rockwell A Rockwell F 1ST Scale, 30T Scale, 45T Scale, annroximate
+kgf Load 4e- Hardness Hardness, 300 Hardness, Scale, 60 kgf Scale, 60 kof 15 kot 30 Kat 45 kgf Tensile
+in. Number kgf Load, 10 500 gflLoad& Load, Diamond Load, Vein, b0ad, Yis- Load, Ye Load, “4s Strength ksi
+(1.588 mm) mm Ball Over Penetrator (1.588 mm) Ball in. in. In. (MPa)
+Ball (1.588 mm) (1.588 mm) (1.588 mm)
+Ball Ball Ball
+31 a _ 88 27.0 74.6 70.7 37.0 3.6 ee
+30 _ a 87 26.6 74.0 70.4 36.3 2.6 _
+4 This table gives the approximate interrelationships of hardness values and approximate tensile strength of steels. It is possible that steels of various compositions and
+processing histories will deviate in hardness-tensile strength relationship from the data presented in this table. The data in this table should not be used for austenitic
+stainless steels, but have been shown to be applicable for ferritic and martensitic stainless steels. The data in this table should not be used to establish a relationship
+between hardness values and tensile strength of hard drawn wire. Where more precise conversions are required, they should be developed specially for each steel
+composition, heat treatment, and part.
+TABLE 4 Approximate Hardness Conversion Numbers for Austenitic Steels (Rockwell C to other Hardness Numbers) —
+Rockwell Superficial Hardness
+Rockwell C Scale, 150 kgf Rockwell A Scale, 60 kgf. = --------------— ——
+Load. Diamond Penetrator Load. Diamond Penetrator 15N Scale, 15 kgf Load, SON Scale, 30 kgf Load, 45N Scale, 45 kgf Load,
+Diamond Penetrator Diamond Penetrator Diamond Penetrator
+48 74.4 84.1 66.2 52.4
+47 73.9 83.6 65.3 50.9
+46 73.4 83.1 64.5 49.8
+45 72.9 82.6 63.6 48.7
+44 72.4 82.1 62.7 47.5
+43 71.9 81.6 61.8 46.4
+42 71.4 81.0 61.0 45.2
+41 70.9 80.5 60.1 44.4
+40 70.4 80.0 59.2 43.0
+39 69.9 79.5 58.4 41.8
+38 69.3 79.0 57.5 40.7
+37 68.8 78.5 56.6 39.6
+36 68.3 78.0 55.7 38.4
+35 67.8 77.5 54.9 37.3
+34 67.3 77.0 | 54.0 36.1
+33 66.8 76.5 53.1 35.0
+32 66.3 75.9 52.3 33.9
+31 65.8 75.4 51.4 32.7
+30 65.3 74.9 50.5 31.6
+29 64.8 74.4 49.6 30.4
+28 64.3 73.9 48.8 29.3
+27 63.8 73.4 47.9 28.2
+26 63.3 72.9 47.0 27.0
+25 62.8 72.4 46.2 25.9
+24 62.3 71.9 45.3 24.8
+23 61.8 71.3 44.4 23.6
+22 61.3 70.8 43.5 22.5
+21 60.8 70.3 42.7 21.3
+20 | 60.3 69.8 | 41.8 _ 20.2
+17.3 Test Specimen—Brinell hardness tests are made on 17.4.2 Apply the load for 10 to 15 s.
+prepared areas and sufficient metal must be removed from the 17.4.3 Measure diameters of the indentation in accordance |
+surface to eliminate decarburized metal and other surface with Test Method E10. :
+irregularities. The thickness of the piece tested must be such 17.4.4 The Brinell hardness test is not recommended for
+that no bulge or other marking showing the effect of the load materials above 650 HBW.
+appears on the side of the piece opposite the indentation. 17.4.4.1 Ifa ball is used in a test of a specimen which shows
+17.4 Procedure: a Brinell hardness number greater than the limit for the ball as
+17.4.1 It is essential that:the applicable product specifica- cee in Les Nae ball shall i either ciscatted and
+tions state clearly the position at which Brinell hardness with th with a new ba mT st Method nO contormance
+indentations are to be made and the number of such indenta- _ W## the requirements of Lest Metho
+tions required. The distance of the center of the indentation 17.5 Brinell Hardness Values:
+from the edge of the specimen or edge of another indentation 17.5.1 Brinell hardness values shall not be designated by a
+must be at least two and one-half times the diameter of the number alone because it is necessary to indicate which indenter
+indentation. and which force has been employed in making the test. Brinell
+598

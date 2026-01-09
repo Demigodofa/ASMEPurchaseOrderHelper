@@ -1,0 +1,92 @@
+ASME BPVC.II.A-2025 SA-285/SA-285M 
+TABLE 1 Chemical Requirements 
+Elements 
+Carbon, maxA 
+Manganese, max: 
+Heat analysis 
+Product analysis 
+Phosphorus, maxA 
+Sulfur, maxA 
+A.Applies to both heat and product analyses. 
+Grade A 
+0.17 
+0.90 
+0.98 
+0.025 
+0.025 
+Composition, % 
+Grade B 
+0.22 
+0.90 
+0.98 
+0.025 
+0.025 
+Grade C 
+0.28 
+0.90 
+0.98 
+0.025 
+0.025 
+TABLE 2 Tensile Requirements 
+Grade A Grade B Grade C 
+ksi [MPa] ksi [MPa] ksi [MPa] 
+Tensile strength 
+Yield strength, minA 
+45-65 (310-450] 50-70 [345-485] 55-75 [380-515] 
+Elongation in 8 in. or (200 mm], min, % 8 
+Elongation in 2 in. or (50 mm], min, % 8 
+24 
+27 
+30 
+[165] 27 (185] 30 [205] 
+25 23 
+28 27 
+A Determined by either the 0.2 % offset method or the 0.5 % extension-under-load method. 
+8 See Specification A20/ A20M for elongation adjustment. 
+listed Supplementary requirements in this specification and to 
+the detailed requirements in Specification A20/ A20M. 
+3.3 Coils are excluded from qualification to this specifica­
+tion until they are processed into finished plate. Plates pro­
+duced from coil means plates that have been cut to individual 
+lengths from coil. The processor directly controls, or is 
+responsible for, the operations involved in the processing of 
+coils into finished plates. Such operations include decoiling, 
+leveling, cutting to length, testing, inspection, conditioning, 
+heat treatment (if applicable), packaging, marking, loading for 
+shipment, and certification. 
+NoTE 2-For plates produced from coil and furnished without heat 
+treatment or with stress relieving only, three test results are rep01ted for 
+each qualifying coil. Additional requirements regarding plate produced 
+from coil are described in Specification A20/A20M. 
+3 .4 If the requirements of this specification are in conflict 
+with the requirements of Specification A20/A20M, the require­
+ments of this specification shall prevail. 
+4. Heat Treatment 
+4.1 Plates are normally supplied in the as-rolled condition. 
+The plates may be ordered normalized or stress relieved, or 
+both. 
+5. Chemical Composition 
+5.1 The steel shall conform to the requirements as to 
+chemical composition as given in Table l. 
+6. Mechanical Properties 
+6. l Tension Test-The plates, as represented by the tension 
+test specimens, shall conform to the requirements given in 
+Table 2. 
+7. Keywords 
+7.1 carbon steel plate; low-and-intermediate strength steel 
+plate for pressure vessels; steel plate for pressure vessels 
+SUPPLEMENTARY REQUIREMENTS 
+Supplementary requirements shall not apply unless specified in the purchase order. 
+A list of standardized supplementary requirements for use at the option of the purchaser is included 
+in Specification A20/A20M. Those that are considered suitable for use with this specification are listed 
+below by title. 
+S3. Simulated Post-Weld Heat Treatment of Mechanical 
+Test Coupons, 
+S4. Additional Tension Test, 
+S8. Ultrasonic Examination in accordance with Specifica­
+tion A435/ A435M, 
+429 
+S 11. Ultrasonic Examination in accordance with Specifica­
+tion A577 / A577M, and 
+Sl2. Ultrasonic Examination in accordance with Specifica­
+tion A578/ A578M. 

@@ -1,0 +1,23 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 344,
+  "globalPageIndex": 344,
+  "width": 601.08,
+  "height": 845.28,
+  "text": "SA-213/SA-213M (ASTM A213/A213M) ASME BPVC.II.A-2025 \nSUPPLEMENTARY REQUIREMENTS \nThe following supplementary requirements shall apply only when specified by the purchaser in the \ninquiry, contract, or order. \nSl. Stress-Relieved Annealed Tubes \nS 1.1 For use in certain corrosives, particularly chlorides \nwhere stress corrosion may occur, tubes in Grades TP304L, \nTP316L, TP321, TP347, and TP348 may be specified in the \nstress-relieved annealed condition. \nSl.2 When stress-relieved tubes are specified, tubes shall be \ngiven a heat treatment at 1500 to 1650 \u00b0F [815 to 900 \u00b0C] after \nroll straightening. Cooling from this temperature range may be \neither in air or by slow cooling. No mechanical straightening is \npermitted after the stress-relief treatment. \nSl.3 Straightness of the tubes shall be a matter of negotia\u00ad\ntion between the purchaser and supplier. \nS2. Stabilizing Heat Treatment \nS2.1 Subsequent to the solution anneal required in Section \n6, Grades TP309HCb, TP310HCb, TP310HCbN, TP321, \nTP321H, TP347, TP347H, TP348, and TP348H shall be given \na stabilization heat treatment at a temperature lower than that \nused for the initial solution annealing heat treatment. The \ntemperature of stabilization heat treatment shall be at a \ntemperature as agreed upon between the purchaser and vendor. \nS3. Unstraightened Tubes \nS3 .1 When the purchaser specifies tubes unstraightened \nafter final heat treatment (such as coils), the minimum yield \nstrength of Table 4 shall be reduced by 5 ksi [35 MPa]. \nS3.2 On the certification, and wherever the grade designa\u00ad\ntion for unstraightened tubing appears, it shall be identified \nwith the suffix letter \"U\" (for example, 304-U, 321-U, etc.). \nS4. lntergranular Corrosion Test \nS4.1 When specified, material shall pass intergranular cor\u00ad\nrosion tests conducted by the manufacturer in accordance with \nPractices A262, Practice E. \nNorn S4.1-Practice E requires testing on the sensitized condition for \nlow carbon or stabilized grades, and on the as-shipped condition for other \ngrades. \nS4.2 A stabilization heat treatment in accordance with \nSupplementary Requirement S2 may be necessary and is \npermitted in order to meet this requirement for the grades \ncontaining titanium or columbium, particularly in their H \nversions. \nSS. Minimum Cooling Rate for Grade T91 Type 2 \nS5.l For Grade T91 Type 2 material, the heat treatment \nshall ensure that following austenitizing the rate of cooling \nfrom 1650 \u00b0F to 900 \u00b0F [900 \u00b0C to 480 \u00b0C] is no slower than \n9 \u00b0F/min [5 \u00b0C/ min]. \nSUMMARY OF CHANGES \nCommittee A0l has identified the location of selected changes to this standard since the last issue \n(A213/A213M - 22a) that may impact the use of this standard. (Approved May 1, 2023.) \n(1) Added Supplementary Requirement S5. ( 3) Revised outside diameter column in Table 6. \n(2) Corrected UNS number for Grade T9 in Table 3. \nCommittee A0l has identified the location of selected changes to this standard since the last issue \n(A213/A213M - 22) that may impact the use of this standard. (Approved Nov. 1, 2022.) \n( 1) Added Alloy UNS S35030 to Table 2, Table 3, and Table 4. \nCommittee A0l has identified the location of selected changes to this standard since the last issue \n(A213/A213M- 21b) that may impact the use of this standard. (Approved May 1, 2022.) \n( 1) Revised carbon maximum for UNS S31002 in Table 2. \n(2) Revised nitrogen from 0.18-0.22 to 0.18-0.25 for UNS \nS31254 in Table 2. \n292 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0344.json",
+  "tabulaTablesCsv": "tables_tabula/page-0344.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-0344.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 3455,
+  "bestTextAlphaRatio": 0.7192,
+  "gapOcrHighDpiPath": "gap_ocr_highdpi/page-0344.txt",
+  "gapOcrHighDpiLength": 3433,
+  "camelotTablesPath": "camelot_tables/page-0344.json",
+  "camelotTablesCsv": "camelot_tables/page-0344.csv",
+  "camelotTableCount": 1
+}

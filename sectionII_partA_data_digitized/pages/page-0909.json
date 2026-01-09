@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 111,
+  "globalPageIndex": 909,
+  "width": 618.6,
+  "height": 796.8,
+  "text": "ASME BPVC.II.A-2025 SA-480/SA-480M (ASTM A480/A480M) \nTABLE A3.27 Torch Cutting TolerancesA and Recommended \nCleanup Allowance for Rectangular Plates, Circles, Rings, and \nSketches \nTolerance, mm Cleanup \nAllowance 8 \nSpecified Thickness, mm Outside Inside Per Edge, \nDiameter Diameter mm \n51 and under +10, -0 -10, +0 \u00b16 \nOver51to76incl +13,-0 -13,+0 \u00b110 \nOver 76 to 152 incl +19, -0 -19, +0 \u00b113 \nA Tolerances to apply unless otherwise agreed. Note that for some applications \nuser may wish to specify minus rather than plus tolerance or vice versa. \n8 Recommended cleanup allowance which, unless otherwise specified, will be \napplied by supplier to purchasers ordered size. \nTABLE A3.28 Permitted Variations in Weight for Hot-rolled and \nCold-rolled Sheets \nAny item of five sheets or less, and \nestimated to weigh 100 kg or less, \nmay actually weigh 10 % over the \ntheoretical weight \nAny item of more than five sheets and \nestimated to weigh more than 100 kg, \nmay actually weigh 7\u00bd % over the \ntheoretical weight \nChromium-manganese-nickel \nChromium-nickel \nChromium \nweigh 100 kg or less \nweigh more than 100 kg \n7.82 kg/m 2 /mm thick \n8.07 kg/m 2 /mm thick \n7 .92 kg/m 2 /mm thick \nTABLE A3.29 Permitted Variations in Camber for Cold-rolled \nNarrow Coil-processed Product in Coils and Cut LengthsA \nSpecified Width, mm \nTo 40, incl \nOver 40 to 600, incl \nTolerance Per Unit Length of Any 2400 mm \n13 \n7 \nA Camber is the deviation of a side edge from a straight line and measurement is \ntaken by placing a 2400 mm straightedge on the concave side and measuring the \ngreatest distance between the strip edge and the straightedge. \nTABLE A3.30 Permitted Variations in Camber for Hot-rolled and \nCold-rolled Wide Coil-processed Product as Cut Lengths Not \nResquared and Cold-rolled Wide Coil-processed Product as \nCoilsA \nSpecified Width, mm \n600 to 900, excl \n900 and over \nTolerance per Unit Length of Any 2400 mm, mm \n4 \n3 \nA Camber is the greatest deviation of a side edge from a straight line and \nmeasurement is taken by placing an 8-ft [2438 mm] straightedge on the concave \nside and measuring the greatest distance between the sheet edge and the \nstraightedge. \n809 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0909.json",
+  "tabulaTablesCsv": "tables_tabula/page-0909.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-0909.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2177,
+  "bestTextAlphaRatio": 0.7129
+}

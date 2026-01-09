@@ -1,0 +1,49 @@
+| SA-541/SA-541M ASME BPVCG.ILA-2025
+SUPPLEMENTARY REQUIREMENTS oO !
+One or more of the following supplementary requirements shall apply only when specified |
+by the purchaser in the inquiry or order. Details of these supplementary requirements shall
+be agreed upon by the manufacturer and the purchaser. .
+S1. Simulated Post-Weld Heat Treatment of $2.1.3 The report of the ultrasonic examination shall
+Mechanical Test Samples be in compliance with the Report Section of Practice
+S1.1 All test coupons shall be subjected to single or A 388/A 388M. | |
+multiple heat treatments at subcritical temperatures prior 82.1.4 Additional nondestructive examination or tre- ; |
+to testing. Such treatments are intended to simulate post- —_ panning may be employed to resolve questions of interpre- ae
+weld or other treatments to which the forgings will be tation of ultrasonic indications. The manufacturer shall
+. subjected during subsequent fabrication. The purchaser _ accept responsibility for injurious conditions that will not
+shall furnish the manufacturer with details of the desired — be removed in final machining. |
+heat treatment for the test coupons, including temperatures, | | ,
+times, and cooling rates. ;
+S3. Magnetic Particle Examination :
+$3.1 Each forging shall be inspected by magnetic parti-
+S2. Ultrasonic Inspection cle methods described in Test Method A 275/A 275M. ,
+$2.1 Forgings shall be ultrasonically examined in Acceptance and rejection standards shall be mutually |
+accordance with the procedures of Practice agreed upon by the purchaser and manufacturer. :
+A 388/A 388M.
+$2.1.1 Longitudinal Wave Test: S4. Charpy V-Notch Impact Transition Curve
+$2.1.1.1 Unless otherwise specified, the back S4.1 Sufficient impact tests shall be made from the
+reflection method of tuning shall be used in accordance _ forging test material to establish a temperature-absorbed |
+with the Procedure Section (the paragraph regarding Back- energy curve. The test temperature range shall be wide |
+Reflection Technique) of Practice A 388/A 388M. enough to establish the upper and lower shelf foot pound , -
+S2.1.1.2. In addition to the reportable conditions energies, with sufficient testing at intermediate tempera- _
+of the Recording Section of Practice A 388/A 388M, indi- tures to permit plotting a reasonably smooth curve.
+cations exceeding the resultant back reflection shall be i
+recorded. S5. Additional Charpy Data i
+$2.1.1.3 The following conditions are subject to S5.1 The percent shear fracture and mils or millimetres iz
+____-_Tejection:____________________-___--- oF Tateral expansion, defined in Test Methods and Defini-
+(a) Complete loss of back reflection accompanied by _ tions A 370, shall be reported for each Charpy specimen |
+an indication of a discontinuity. For this purpose, a back tested. .
+reflection less than 5% of full screen height shall be consid- a
+ered complete loss of back reflection. |
+(b) An indication equal in amplitude to that of the back S86. Charpy Impact Tests !
+reflection established in an indication-free portion of the S6.1 Charpy impact tests shall be made in accordance |
+forging. with the provisions of Section 6 of this specification except
+§2.1.2 Angle Beam Test: that the test temperature shall be lower than that specified
+gs gs in Table 3. :
+§2.1.2.1 Calibration notches, calibration refer- |
+ence, and method of scanning shall be in accordance with |
+the Procedure Section (the paragraph regarding 7, Drop-Weight Test
+, AngleBeam Examination) of Practice A 388/A 388M. S7.1 Drop-weight tests shall be conducted in accor- :
+$2.1.2.2 A forging that contains a discontinuity | dance with the requirements of Test Method E 208. The , |
+that results in an indication exceeding the amplitude of the fracture plane of the specimens shall coincide with the i
+reference line is subject to rejection. location required for other mechanical test specimens as ——- /
+926 | :

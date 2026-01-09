@@ -1,0 +1,21 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 571,
+  "globalPageIndex": 571,
+  "width": 857.4,
+  "height": 617.52,
+  "text": "VI \nf-' \n'\u00b0 \nTensile \nstrength, \nksi [MPa] \nYield \nstrength, \nmin, ksi \n[MPa] \nElongation \nin 2 in. or \n50 mm, \nmin,% \nReduction \nof area, \nmin,% \nF1 F11, \nClass 2 \n70- 70-\n95 95 \n[485- [485-\n660) 660) \n40 40 \n[275) [275) \n20 20 \n40 40 \nF11, F11, F12 F5 Class 3 Class 1 \n75- 60- 70- 60-\n100 85 95 85 \n[515- [415- [485- [415-\n690) 585) 660) 585) \n45 30 40 36 \n[310) [205) [275] [250] \n18 20 20 20 \n40 45 40 40 \nTABLE 1 Tensile Requirements \nFerritic Steels \nGrade \nFSA F9 F6 F6NM F21, F21, \nClass 3 Class 1 \n80- 85- 85- 115- 75- 60-\n105 110 110 140 100 85 \n[550- [585- [585- [790- [515- [415-\n725) 760) 760) 965) 690) 585) \n50 55 55 90 45 30 \n[345) [380) [380) [620) [310] [205) \n19 20 18 15 19 20 \n35 40 35 45 40 45 \nF91, \nF22, F22, Type 1 F911 Class 3 Class 1 and \nType 2 \n75- 60- 90- 90-\n100 85 110 120 \n[515- [415- [620- [620-\n690) 585) 760) 830) \n45 30 60 64 \n[310] [205) [415] [440] \n19 20 20 20 \n40 45 40 40 \nF92 F3V \n90- 85-\n120 110 \n[620- [585-\n830) 760) \n64 60 \n[440] [415] \n20 18 \n45 45 \nF3VCb \n85-\n110 \n[585-\n760) \n60 \n[415] \n18 \n45 \nF22V \n85-\n110 \n[585-\n760) \n60 \n[415] \n18 \n45 \n~ :s \nl:!l \n0::, \n~ \n~ \nN \nQ \nN \nCJ1 \n~ w w \n\u00b0' ....... \n~ w w \n\u00b0' :s \n~ :s \n::i,. \nw w \n\u00b0' > w w \n\u00b0' _; ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-0571.txt",
+  "ocrTextLength": 381,
+  "ocrApplied": true,
+  "tabulaTablesPath": "tables_tabula/page-0571.json",
+  "tabulaTablesCsv": "tables_tabula/page-0571.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0571.txt",
+  "bestTextSource": "ocr",
+  "bestTextLength": 381,
+  "bestTextAlphaRatio": 0.4803
+}

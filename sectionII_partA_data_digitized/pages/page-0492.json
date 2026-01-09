@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 492,
+  "globalPageIndex": 492,
+  "width": 596.16,
+  "height": 841.8,
+  "text": "SA-307 ASME BPVC.II.A-2025 \nStandard Specification for \nCarbon Steel Bolts and Studs, 60 000 PSI Tensile Strength \n1. Scope \n1.1 This specification covers the chemical and mechanical \nrequirements of three grades of carbon steel bolts and studs in \nsizes \u00bc in. through 4 in. The fasteners are designated by \n\"Grade\" denoting tensile strength and intended use, as follows: \nGrade \nGrade A \nDescription \nBolts and studs having a \nminimum tensile strength of \n60 ksi and intended for \ngeneral applications, \nGrade B Bolts and studs having a \ntensile strength of 60 to 100 \nksi and intended for flanged \njoints in piping systems with \ncast iron flanges, and \nGrade C Replaced by Specification \nF1554 Gr.36 \n1.1.1 The term studs includes stud stock, sometimes re\u00ad\nferred to as threaded rod. \n1.2 This specification does not cover requirements for \nmachine screws, thread cutting/forming screws, mechanical \nexpansion anchors or similar externally threaded fasteners. \n1.3 Suitable nuts are covered in Specification A563. Unless \notherwise specified, the grade and style of nut for each grade of \nfastener, of all surface finishes, shall be as follows: \nFastener Grade and Size \nA\u00bcto 1\u00bd in. \nA over 1\u00bd to 4 in. \nB, \u00bcto 4 in. \nNut Grade and StyleA \nA, hex \nA, heavy hex \nA, heavy hex \nA Nuts of other grades and styles having specified proof load stresses (Speci\u00ad\nfication A563, Table 3) greater than the specified grade and style of nut are also \nsuitable. \n1.4 The values stated in inch-pound units are to be regarded \nas the standard. \n1.5 Supplementary Requirement S 1 of an optional nature is \nprovided, which describes additional restrictions to be applied \nwhen bolts are to be welded. It shall apply only when specified \nin the inquiry, order, and contract. \n1.6 Terms used in this specification are defined in Termi\u00ad\nnology Fl 789 unless otherwise defined herein. \n2. Referenced Documents \n2.1 ASTM Standards: \n440 \nA563 Specification for Carbon and Alloy Steel Nuts \nA706/A706M Specification for Low-Alloy Steel Deformed \nand Plain Bars for Concrete Reinforcement \nA751 Test Methods, Practices, and Terminology for Chemi\u00ad\ncal Analysis of Steel Products \nB695 Specification for Coatings of Zinc Mechanically De\u00ad\nposited on Iron and Steel \nD3951 Practice for Commercial Packaging \nF606 Test Methods for Determining the Mechanical Proper\u00ad\nties of Externally and Internally Threaded Fasteners, \nWashers, Direct Tension Indicators, and Rivets \nF1470 Practice for Fastener Sampling for Specified Me\u00ad\nchanical Properties and Performance Inspection \nFl554 Specification for Anchor Bolts, Steel, 36, 55, and \n105-ksi Yield Strength \nF1789 Terminology for F16 Mechanical Fasteners \nF2329 Specification for Zinc Coating, Hot-Dip, Require\u00ad\nments for Application to Carbon and Alloy Steel Bolts, \nScrews, Washers, Nuts, and Special Threaded Fasteners \n2.2 ASME Standards: \nB 1.1 Unified Screw Threads \nB 18.2.l Square and Hex Bolts and Screws \nB 18.24 Part Identifying Number (PIN) Code System ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0492.json",
+  "tabulaTablesCsv": "tables_tabula/page-0492.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-0492.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2984,
+  "bestTextAlphaRatio": 0.752
+}

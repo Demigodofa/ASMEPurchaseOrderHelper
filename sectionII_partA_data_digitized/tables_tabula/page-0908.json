@@ -1,0 +1,283 @@
+[
+  {
+    "rows": [
+      [
+        "",
+        "",
+        "NoTE 1-Polished sheets with Finishes No. 4 and higher are prod"
+      ],
+      [
+        "4000 ,;; L < 6000 +30, -0",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "to tolerances given in this table."
+      ],
+      [
+        "6000 ,;; L < 8000 +40, -0",
+        "",
+        ""
+      ],
+      [
+        "8000 s L < 10 000 +50, -0",
+        "",
+        "Width and Lengt"
+      ],
+      [
+        "",
+        "",
+        "Specified Dimensions, mm"
+      ],
+      [
+        "10 000,;; L < 15 000 +75,-0",
+        "",
+        "Tolerance, mm"
+      ],
+      [
+        "15 000,;; L < 20 000 +100, -0",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "Thickness Width Length Over Und"
+      ],
+      [
+        "",
+        "",
+        "Under 3.30 Up to 1200 Up to 3000 2 0"
+      ],
+      [
+        "",
+        "",
+        "1200 and over 3000 and over 3 0"
+      ],
+      [
+        "TABLE A3.20 Permitted Variations in Flatness of Plate Mill Plate",
+        "",
+        "3.30 and over All Ail 7 0"
+      ]
+    ]
+  },
+  {
+    "rows": [
+      [
+        "5.0",
+        "0.40 [10]",
+        "Cold-rolled Coll-processed Product as Sheared Circles"
+      ],
+      [
+        "10.0",
+        "%[9.5]",
+        ""
+      ],
+      [
+        "",
+        "",
+        "Tolerance Over Specified Diameter"
+      ],
+      [
+        "15.0",
+        "5/,a [7.9]",
+        "Specified"
+      ],
+      [
+        "",
+        "",
+        "(No Tolerance Under), mm"
+      ],
+      [
+        "20.0",
+        "o/1a [7.9]",
+        "Thickness,"
+      ],
+      [
+        "",
+        "",
+        "Diameters Diameters 600 Diameters"
+      ],
+      [
+        "25.0",
+        "o/1a [7.9]",
+        "mm"
+      ],
+      [
+        "",
+        "",
+        "Under 600 to 1200 incl Over 1200"
+      ],
+      [
+        "50.0",
+        "1\u20444 [6.4]",
+        ""
+      ],
+      [
+        "",
+        "",
+        "Under 1.50 2 3 5"
+      ],
+      [
+        "150.0",
+        "1\u20444[6.4]",
+        ""
+      ],
+      [
+        "",
+        "",
+        "1. 50 to 2.50 excl 3 4 6"
+      ]
+    ]
+  },
+  {
+    "rows": [
+      [
+        "",
+        "",
+        "",
+        "",
+        "1500 and under",
+        "7.0",
+        "10.0",
+        "13.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "Width Tolerance for",
+        "2100",
+        "8.0",
+        "13.0",
+        "16.0"
+      ],
+      [
+        "Specified",
+        "",
+        "",
+        "Thickness and Width Given,",
+        "2700",
+        "10.0",
+        "11.0",
+        "15.0"
+      ],
+      [
+        "",
+        "Width, mm",
+        "Thickness, mm",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Edge No.",
+        "",
+        "",
+        "mm",
+        "4500",
+        "11.0",
+        "15.0",
+        "18.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "Over Under",
+        "A No tolerance under.",
+        "",
+        "",
+        ""
+      ],
+      [
+        "1 and 5",
+        "under10",
+        "1.50 and under",
+        "0.13 0.13",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "1 and 5",
+        "10 to 20, excl",
+        "2.50 and under",
+        "0.13 0.13",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "1 and 5",
+        "20 to 100, excl",
+        "3.00 and under",
+        "0.13 0.13",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "5",
+        "100 to 300, excl",
+        "0.20 to 3.00, incl",
+        "0.25 0.25",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "5",
+        "300 to 600, excl",
+        "0.40 to 2.60, incl",
+        "0.25 0.25",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "5",
+        "600 and over",
+        "0.60 to 2.00, incl",
+        "0.40 0.40",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "rows": [
+      [
+        "tolerance is not greater than 1\u20444 in. [6.4 mm].",
+        "",
+        ""
+      ],
+      [
+        "",
+        "25 to 50, incl 4.8",
+        "4.8"
+      ],
+      [
+        "NoTE 3-For plates with specified minimum yield strengths of 35 ksi",
+        "50 to 75, incl 6.4",
+        "a4"
+      ],
+      [
+        "7S [240 MPa] or more, the permitted variations are increased to 11\u20442  times the",
+        "75 to 1o o, incl8 7S",
+        ""
+      ]
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 382,
+  "globalPageIndex": 1180,
+  "width": 613.92,
+  "height": 793.2,
+  "text": "SA-666 ASME BPVC.II.A-2025 \nTABLE 3 \nFREE BEND REQUIREMENTS \nAnnealed and \u00bd 6 and \u00bc Hard \nThickness ::; 0.050 in. Thickness > 0.050 to ::; 0.1874 in. \nType UNS Designation Included Bend Angle, 0 Bend Factor Included Bend Angle, 0 Bend Factor \n201 S20100 180 1 180 l \n201L S20103 180 l 180 1 \n201LN S20153 180 l 180 1 \n202 S20200 180 l 180 l \nS20400 180 1 180 l \n205 S20500 180 l 180 l \n301 S30100 180 l 180 l \n301L S30103 180 1 180 l \n301LN S30133 180 1 180 l \n302 S30200 180 l 180 1 \n304 S30400 180 1 180 1 \n304L S30403 180 l 180 2 \n304N S30451 180 l 180 l \n304LN S30453 180 l 180 2 \n316 S31600 180 1 180 2 \n316L S31603 180 l 180 2 \n316N S31651 180 1 180 1 \nXM-11 S21904 180 1 180 l \nXM-14 S21460 180 l 180 2 \n\u00be Hard \nThickness ::; 0.050 in. Thickness > 0.050 to ::; 0.1874 in. \nType U NS Designation Included Bend Angle, 0 Bend Factor Included Bend Angle, 0 Bend Factor \n201 S20100 180 1 90 2 \n201L S20103 180 1.5 135 1.5 \n201LN S20153 . 180 1.5 135 1.5 \n202 S20200 180 2 90 2 \nS20400 180 1 90 2 \n205 S20500 180 l 90 2 \n301 S30100 180 1 90 2 \n301L S30103 180 1.5 90 1.5 \n301LN S30153 180 1.5 90 1.5 \n302 S30200 180 l 90 2 \n304 S30400 180 l 90 2 \n304L S30403 180 2 90 3 \n304N S30451 180 l 90 2 \n304LN S30453 180 2 90 3 \n316 S31600 180 2 90 2 \n316L S31603 180 2 90 3 \n316N S31651 180 1 90 2 \nXM-11 S21904 90 2 90 2 \n1088 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1180.json",
+  "tabulaTablesCsv": "tables_tabula/page-1180.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-1180.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1321,
+  "bestTextAlphaRatio": 0.2597
+}

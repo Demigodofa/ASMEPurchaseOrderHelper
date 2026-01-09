@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 363,
+  "globalPageIndex": 363,
+  "width": 640.44,
+  "height": 875.52,
+  "text": "ASME BPVC.II.A-2025 SA-225/SA-225M \nSPECIFICATION FOR PRESSURE VESSEL PLATES, \nALLOY STEEL, MANGANESE-VANADIUM-NICKEL \nSA-225/SA-225M \n(Identical with ASTM Specification A225/A225M-17.) \n311 \ncO \nINTERNATIONAL \nStandards Worldwide ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-0363.txt",
+  "ocrTextLength": 195,
+  "ocrApplied": true,
+  "bestTextPath": "best_text\\pages\\page-0363.txt",
+  "bestTextSource": "full_ocr_highdpi",
+  "bestTextLength": 221,
+  "bestTextAlphaRatio": 0.665
+}

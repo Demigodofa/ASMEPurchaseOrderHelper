@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 679,
+  "globalPageIndex": 679,
+  "width": 602.64,
+  "height": 846.48,
+  "text": "'----' \nASME BPVC.II.A-2025 SA-370 \nspecification writing where it is desirable to show equivalent \nelongation requirements for the several standard ASTM tension \nspecimens covered in Test Methods A370, consideration must \nbe given to the metallurgical effects dependent on the thickness \nof the material as processed. \nA7. TESTING MULTI-WIRE STRAND \nThis annex has been replaced by Test Methods A1061/A1061M, and procedures for the tension testing of multi-wire \nstrand for prestressed concrete have been integrated into the relevant product specifications. \nAS. ROUNDING OF TEST DATA \nAS.1 Application \nA8.1.1 This annex shall apply to rounding test data for the \npurpose of determining conformance to product specification \nrequirements. \nA8.1.2 This annex shall apply only when rounding is not \nspecified in the product specification. \nA8.1.3 Observed or calculated test results and records \nmaintained by testing laboratories are not subject to this annex. \nAS.2 Method \nA8.2.1 Values shall be rounded in accordance with the rules \nof Practice E29 unless otherwise stated herein. \nA8.2.2 In the special case of rounding the number \"5\" when \nno additional numbers other than \"O\" follow the \"5,\" rounding \nshall be in accordance with Practice E29 except where this \nwould result in rejection of the product. \nA8.2.3 Requirements for rounding levels for determining \nproduct acceptance or rejection are given in Table A8.1. \nSpecific reported test data values shall be rounded to Table \nA8.1 for determining product acceptance or rejection. \nA8.2.4 Table A8.l values are designed to provide unifor\u00ad\nmity in determining conformance to product specification \nrequirements and should be considered when rounding require\u00ad\nments are stated in product specifications. \nA8.2.5 When rounding requirements are neither stated in \nthe product specification nor listed in Table A8.l, an observed \nor calculated value shall be rounded to the nearest unit in the \nlast right hand digit used in expressing the specification \nrequirement \n629 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0679.json",
+  "tabulaTablesCsv": "tables_tabula/page-0679.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-0679.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2029,
+  "bestTextAlphaRatio": 0.7767
+}

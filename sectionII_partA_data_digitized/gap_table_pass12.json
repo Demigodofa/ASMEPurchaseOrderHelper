@@ -1,0 +1,147 @@
+{
+  "createdUtc": "2026-01-07T17:28:29.919285+00:00",
+  "pagesProcessed": 20,
+  "tablesFound": 36,
+  "topPages": [
+    {
+      "globalPageIndex": 1015,
+      "gapCount": 53,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 217,
+      "camelotTableCount": 1
+    },
+    {
+      "globalPageIndex": 327,
+      "gapCount": 9,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 327,
+      "camelotTableCount": 2
+    },
+    {
+      "globalPageIndex": 344,
+      "gapCount": 8,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 344,
+      "camelotTableCount": 1
+    },
+    {
+      "globalPageIndex": 863,
+      "gapCount": 8,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 65,
+      "camelotTableCount": 2
+    },
+    {
+      "globalPageIndex": 1084,
+      "gapCount": 6,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 286,
+      "camelotTableCount": 2
+    },
+    {
+      "globalPageIndex": 1090,
+      "gapCount": 6,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 292,
+      "camelotTableCount": 2
+    },
+    {
+      "globalPageIndex": 1235,
+      "gapCount": 6,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 437,
+      "camelotTableCount": 2
+    },
+    {
+      "globalPageIndex": 192,
+      "gapCount": 5,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 192,
+      "camelotTableCount": 1
+    },
+    {
+      "globalPageIndex": 219,
+      "gapCount": 5,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 219,
+      "camelotTableCount": 1
+    },
+    {
+      "globalPageIndex": 250,
+      "gapCount": 5,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 250,
+      "camelotTableCount": 1
+    },
+    {
+      "globalPageIndex": 343,
+      "gapCount": 5,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 343,
+      "camelotTableCount": 2
+    },
+    {
+      "globalPageIndex": 477,
+      "gapCount": 5,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 477,
+      "camelotTableCount": 2
+    },
+    {
+      "globalPageIndex": 732,
+      "gapCount": 5,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 732,
+      "camelotTableCount": 3
+    },
+    {
+      "globalPageIndex": 989,
+      "gapCount": 5,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 191,
+      "camelotTableCount": 1
+    },
+    {
+      "globalPageIndex": 1087,
+      "gapCount": 5,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 289,
+      "camelotTableCount": 3
+    },
+    {
+      "globalPageIndex": 1120,
+      "gapCount": 5,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 322,
+      "camelotTableCount": 3
+    },
+    {
+      "globalPageIndex": 1611,
+      "gapCount": 5,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 813,
+      "camelotTableCount": 2
+    },
+    {
+      "globalPageIndex": 124,
+      "gapCount": 4,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 124,
+      "camelotTableCount": 1
+    },
+    {
+      "globalPageIndex": 349,
+      "gapCount": 4,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 349,
+      "camelotTableCount": 2
+    },
+    {
+      "globalPageIndex": 481,
+      "gapCount": 4,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 481,
+      "camelotTableCount": 2
+    }
+  ]
+}

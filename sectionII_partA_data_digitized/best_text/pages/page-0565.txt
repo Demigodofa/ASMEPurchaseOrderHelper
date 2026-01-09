@@ -1,0 +1,120 @@
+ASME BPVC.11.A-2025 SA-335/SA-335M (ASTM A335/A335M) 
+TABLE 7 Permissible Variations in Outside Diameter 
+Over Under 
+NPS [DN] Designator in. mm in. mm 
+1/s to 1 ½ [6 to 40], incl. 1/64 (0.015) 0.40 1 /54 (0.015) 0.40 
+Over 1 ½ to 4 [40 to 100], 1/32 (0.031) 0.79 1/32 (0.031) 0.79 
+incl.· 
+Over 4 to 8 [100 to 200], 1 /16 (0.062) 1.59 1/32 (0.031) 0.79 
+incl. 
+Over 8 to 12 [200 to 300], %2 (0.093) 2.38 1/32 (0.031) 0.79 
+incl. 
+Over 12 [300] ± 1 % of the 
+specified 
+outside 
+diameter 
+TABLE 8 Permitted Variations in Wall Thickness 
+NPS [DN] Designator 
+1/s to 2½ [6 to 65] incl., all t/D ratiosA 
+Above 2½ [65], t/D :5 5 %A 
+Above 2½ [65], t/D > 5 %A 
+Tolerance, % from Specified 
+Over Under 
+20.0 12.5 
+22.5 12.5 
+15.0 12.5 
+A t = Specified Wall Thickness; D = Specified Outside Diameter. 
+13. Nondestructive Examination 
+13.1 When required by 12.1.2 or 12.2 above, or when 
+specified in the purchase order in addition to the hydrostatic 
+test (12.2.3), each pipe shall be examined by a nondestructive 
+examination method in accordance with Practice E213, Prac­
+tice E309, or Practice E570. Except for Grades P91 Type 1 and 
+Type 2, P92, P93, P115, P911, Pl22, and P128, the type of 
+nondestructive examination shall be at the option of the 
+manufacturer, unless otherwise specified in the order. Grades 
+P91 Type 1 and Type 2, P92, P115, P911, P122, and P128 shall 
+be examined by an examination method in accordance with 
+Practice E213. When specified in the order, pipe of Grades P91 
+Type 1 and Type 2, P92, P93, P115, P911, P122, and P128 shall 
+be examined by an examination method in accordance with 
+Practices E309 or E570, in addition to the examination method 
+in accordance with Practice E213. The range of pipe sizes that 
+may be examined by each method shall be subject to the 
+limitations in the scope of the respective practices. 
+13.2 Following conditions apply in lieu or in addition to 
+those in Specification A999/A999M: 
+13.2.1 The width of the notch shall not exceed the depth. 
+13.2.2 If upon any standardization, the reference signal 
+amplitude has decreased by more than 25 % (2 db), the test 
+apparatus shall be considered out of standardization. The test 
+system settings may be changed, or the transducer(s), coil(s) or 
+sensor(s) adjusted, and the unit restandardized, but all pipe 
+tested since the last acceptable standardization shall be re­
+tested. 
+13.2.3 Pipes producing a signal equal to or greater than the 
+signal produced by the reference standard shall be subject to 
+one of the following four dispositions: 
+13.2.3.1 The pipes may be rejected without further 
+examination, at the discretion of the manufacturer. 
+13.2.3.2 The pipes shall be rejected if the test signal was 
+produced by imperfections which cannot be identified, or was 
+produced by cracks or crack-like imperfections. 
+13.2.3.3 The pipes may be repaired by grinding (in accor­
+dance with 7.2.1), welding (in accordance with 7.6) or section­
+ing (in accordance with 7.2.3). To be accepted, a repaired pipe 
+must pass the same nondestructive examination by which it 
+was rejected, and it must meet the remaining wall thickness 
+requirements of this specification. 
+13.2.3.4 If the test signals were produced by visual imper­
+fections such as those listed below, the pipes may be evaluated 
+in accordance with the provisions of Section 7: 
+( a) Scratches, 
+(b) Surface roughness, 
+(c) Dings, 
+( d) Straightener marks, 
+( e) Cutting chips, 
+(f) Steel die stamps, 
+( g) Stop marks, or 
+(h) Pipe reducer ripple. 
+14. Mechanical Tests Required 
+14.1 Lot-For mechanical testing, a lot is all pipe of the 
+same nominal size and wall thickness ( or schedule) which is 
+produced from the same heat of steel and subjected to the same 
+finishing treatment in a continuous furnace; when final heat 
+treatment is in a batch-type furnace, the lot shall include only 
+that pipe which is heat treated in the same furnace charge. 
+14.2 Transverse or Longitudinal Tension Test and Flatten­
+ing or Bend Test-For material heat treated in a batch-type 
+furnace, tests shall be made on 5 % of the pipe from each 
+treated lot. For small lots, at least 1 pipe shall be tested. For 
+material heat treated by the continuous process, tests shall be 
+made on a sufficient number of pipe to constitute 5 % of the lot, 
+but in no case less than 2 pipe. Unless otherwise specified, the 
+flattening test or bend test shall be chosen at the manufacturer's 
+option. 
+513 
+14.3 Hardness Test: 
+14.3.1 The Vickers hardness testing shall be made in accor­
+dance with Test Method E92. 
+14.3.2 For pipes with wall thickness 0.200 in. [5.1 mm] or 
+over, either the Brinell or Rockwell hardness test shall be used. 
+When Brinell hardness testing is used, a 10-mm ball with 3000, 
+1500, or 500-kg load shall be used at the option of the 
+manufacturer. 
+14.3.3 For pipes with wall thickness 0.065 in. [1.7 mm] or 
+over, but less than 0.200 in. [5.1 mm], the Rockwell hardness 
+test shall be used. 
+14.3.4 For pipes with wall thickness less than 0.065 in. [1.7 
+mm], the hardness test shall not be required. 
+14.3.5 The Brinell test shall be made, at the option of the 
+manufacturer, on the outside of the pipe near the end, on the 
+outside of a specimen cut from the pipe, or on the wall cross 
+section of a specimen cut from the pipe. This test shall be made 
+so that the center of the impression to the edge of the specimen 
+is at least 2.5 times the diameter of the impression. 
+14.3.6 The Rockwell hardness test shall, at the option of the 
+manufacturer, be made on the inside surface, on the wall cross 
+section, or on a flat of the outside surface. 
+14.3.7 For pipe of Grades P23, P24, P36, P91 Type 1 and 
+Type 2, P92, P93, P115, Pl22, P128, and P911, Brinell, 

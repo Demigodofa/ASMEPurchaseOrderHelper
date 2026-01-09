@@ -1,0 +1,66 @@
+ASME BPVC.II.A-2025 SA-612/SA-612M (ASTM A612/A612M) 
+TABLE 1 Chemical Requirements 
+Elements Composition, % 
+Carbon, max:A 
+Heat analysis 0.25 
+Product analysis 0.29 
+ManganeseA 
+Heat analysis 1.00-1.50 
+Product analysis 0.92-1.62 
+Phosphorus, max 8 0.025 
+Sulfur, max 8 0.025 
+Silicon 
+Heat analysis 0.15-0.50 
+Product analysis 0.13-Q.55 
+Copper, max:c 
+Heat analysis 0.35 
+Product analysis 0.38 
+Nickel, max:c 
+Heat analysis 0.25 
+Product analysis 0.28 
+Chromium, max:c 
+Heat analysis 0.25 
+Product analysis 0.29 
+Molybdenum, max:c 
+Heat analysis 0.08 
+Product analysis 0.09 
+Vanadium, max:c 
+Heat analysis 0.08 
+Product analysis 0.09 
+A For each reduction of 0.01 percentage point below the specified carbon 
+maximum, an increase of 0.06 percentage point manganese above the specified 
+maximum is permitted up to a maximum of 1.65 % for heat analysis (1.70 % for 
+product analysis). 
+8 Applies to both heat and product analyses. 
+c When analysis shows that the amount of an element is 0.02 % or lower, the 
+value may be reported as :;;0.02 %. 
+TABLE 2 Tensile Requirements 
+Thickness 
+0.5 in. [12.5 mm] and Under 
+Tensile strength, ksi [MPa] 83-105 [570-725] 
+Yield strength, min,A ksi [MPa] 50 [345] 
+Elongation in 8 in. [200 mm], min, % 8 16 
+Elongation in 2 in. [50 mm], min, % 8 22 
+A Determined by either the 0.2 % offset method or the 0.5 % extension-under-load method. 
+8 See Specification A20/A20M for elongation adjustments. 
+5. Heat Treatment 7. Mechanical Properties 
+Over 0.5 in. [Over 12.5 mm] 
+81-101 [560-695] 
+50 [345) 
+16 
+22 
+5.1 Plates are normally supplied in the as-rolled condition. 
+Plates may be ordered normalized or stress relieved, or both. 
+6. Chemical Composition 
+7 .1 Tension Test-The plates, as represented by the tension 
+test specimens, shall conform to the requirements given in 
+Table 2. 
+6.1 The steel shall conform to the requirements as to 
+chemical composition given in Table 1 unless otherwise 
+modified in accordance with Supplementary Requirement S 17, 
+Vacuum Carbon-Deoxidized Steel, in Specification A20/ 
+A20M. 
+8. Keywords 
+8.1 carbon steel; steel plates for pressure vessels; lower 
+temperature service; high strength steel plates 
+1049 

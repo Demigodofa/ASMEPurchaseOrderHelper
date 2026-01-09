@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 75,
+  "globalPageIndex": 873,
+  "width": 617.04,
+  "height": 795.6,
+  "text": "( \nL \nASME BPVC.II.A-2025 \nFIG. 4 SECTIONING PROCEDURE FOR \"Y\" BLOCKS \n(a) 1 in. [25 mmJ \"Y\" Block - Two blanks for \n0.50 in. [12.5 mm] diameter tension test specimens. \n...: \nI~ \nii~ \n(b) 3 in. [75 mml \"Y\" Block - Four blanks for \n0.50 in. [12.5 mm] diameter tension test specimens. \nTABLE 2 \nSA-476/SA\u2022476M \nTABLE 1 \nTENSILE REQUIREMENTS \nTest Coupon Section Thickness 1 in. [25 mm] 3 in. [75 mm] \nEQUIVALENT GEOMETRIC SHAPES CORRESPONDING \nTO \"Y\" BLOCKS \nTensile strength, min, ksi [M Pa] 80 [555] \nYield strength, min, ksi [M Pa] 60 [415] \nElongation in 2 in. [50mm], min, % 3.0 [3.0] \n80 [555] \n60 [415] \n1.0 [l.0] \n771 \n\"Y\" Block \nSize, \nin. [mm] \n1 [25] \n3 [75] \nInfinite Plate Round \nThickness, Diameter, Cube Edge, \nin. [mm] in. [mm] in. [mm] \n0.9 [22.5] 1.75 [44] 2.75 [44] \n1.6 [40] 3.1 [78] 4.8 [120] ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0873.json",
+  "tabulaTablesCsv": "tables_tabula/page-0873.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0873.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 813,
+  "bestTextAlphaRatio": 0.5043
+}

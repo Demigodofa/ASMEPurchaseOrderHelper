@@ -1,0 +1,202 @@
+,----_ 
+' -~ 
+ASME BPVC.II.A-2025 SA-960 /SA-960M 
+TABLE 1 Product Analysis TolerancesA When any retest specimen does not conform to the product 
+specification requirements for the characteristic in question, the 
+lot represented by that specimen shall be rejected or reworked 
+in accordance with Section 14. 
+Element Limit or Maximum of 
+Specified Range, Wt % 
+Carbon to 0.010, incl 
+over 0.01 O to 0.030, incl 
+over 0.030 to 0.20, icl 
+over 0.20 to 0.80, incl 
+Manganese to 1.00, incl 
+over 1.00 to 3.00, incl 
+over 3.00 to 6.00, incl 
+over 6.00 to 10.00, incl 
+Phosphorous to 0.040, incl 
+over 0.040 to 0.20, incl 
+Sulfur to 0.040, incl 
+over 0.040 to 0.20, incl 
+over 0.20 to 0.50, incl 
+Silicon to 1.00, incl 
+over 1.00 to 3.00, incl 
+over 3.00 to 7.00, incl 
+Chromium 0.90 and under 
+over 0.90 to 2.10, incl 
+over 2.1 o to 4.00, incl 
+over 4.00 to 10.00, incl 
+over 10.00 to 15.00, incl 
+over 15.00 to 20.00, incl 
+over 20.00 to 30.00, incl 
+Nickel to 1.00, incl 
+over 1.00 to 5.00, incl 
+over 5.00 to 10.00, incl 
+over 10.00 to 20.00, incl 
+over 20.00 to 30.00, incl 
+over 30.00 to 40.00, incl 
+Molybdenum to 0.20, incl 
+over 0.20 to 0.60, incl 
+over 0.60 to 2.00, incl 
+over 2.00 to 7.00, incl 
+Titanium to 1 .15, incl 
+Niobium (Columbium) to 0.14, incl 
+over 0.14 to 5.50 
+Tantalum to 0.10 incl 
+Copper to 0.50, incl 
+over 0.50 to 1.00, incl 
+over 1.00 to 5.00, incl 
+Cobalt 0.05 to 0.25, incl 
+0.25 to 5.00, incl 
+Nitrogen to 0.02, incl 
+over 0.02 to 0.19, incl 
+over 0.19 to 0.25 
+over 0.25 to 0.35 
+over 0.35 to 0.45 
+over 0.45 
+Aluminum to 0.15, incl 
+over 0.15 to 0.50, incl 
+over 0.50 to 0.80, incl 
+Vanadium to 0.10 incl 
+over 0.1 o to 0.25, incl 
+over 0.25 to 0.50, incl 
+minimum value specified, 
+under minimum limit only 
+Cerium to 0.20, incl 
+Selenium to 0.35, incl 
+Tungsten to 0.50, incl 
+over 0.50 to 1.00, incl 
+over 1.00 to 2.00, incl 
+over 2.00 to 4.00, incl 
+Lead to 0.35, incl 
+Zirconium to 0.01, incl 
+Boron to 0.015 incl 
+Tin to 0.01 o, incl 
+Arsenic to 0.01 o, incl 
+Antimony to 0.003, incl 
+AThis table does not apply to heat analysis. 
+Tolerance Over the 
+Maximum Limit or 
+Under the Minimum Limit 
+0.002 
+0.005 
+0.01 
+0.02 
+0.03 
+O.Q4 
+0.05 
+0.06 
+0.005 
+0.010 
+0.005 
+0.010 
+0.020 
+0.05 
+0.10 
+0.15 
+0.03 
+0.05 
+0.07 
+0.10 
+0.15 
+0.20 
+0.25 
+0.03 
+0.07 
+0.10 
+0.15 
+0.20 
+0.25 
+0.01 
+0.03 
+0.05 
+0.10 
+0.05 
+0.02 
+0.05 
+0.02 
+0.03 
+0.05 
+0.10 
+0.01 8 
+0.07 
+0.005 
+0.01 
+0.02 
+0.03 
+0.04 
+0.05 
+-0.005 
++0.01 
+0.05 
+0.07 
+0.01 
+0.02 
+0.03 
+0.01 
+0.01 
+0.001 
+0.02 
+0.03 
+0.05 
+0.06 
+0.03 
+0.005 
+0.0005 
+C 
+C 
+C 
+9.4.1 If the results of the tension test do not conform to the 
+requirements specified in the product specification, retests are 
+permitted as outlined in the test methods specified herein. If the 
+results of any tension test specimen are less than specified 
+because a flaw becomes evident in the test specimen dming 
+testing, a retest shall be allowed provided that the defect is not 
+attributable to ruptures, cracks, or flakes in the steel. 
+9.4.2 If the average impact energy value meets the product 
+specification requirements, but one energy value is below the 
+specified minimum value for individual specimens, a retest is 
+permitted. The retest shall be conducted in accordance with the 
+test methods specified herein. 
+9.5 For the purpose of determining conformance to the 
+product specification requirements, specimens shall be ob­
+tained from a finished product, or from production material that 
+is in the same condition of working and heat treatment as the 
+production material. 
+10. Hardness Requirements 
+10.1 The part shall conform to the hardness requirements 
+prescribed in the product specification. 
+10.2 Sampling for hardness testing shall conform to the 
+product specification. 
+11. Tensile Requirements 
+11.1 The part shall conform to the tensile property require­
+ments prescribed in the product specification. 
+11.2 Sampling for tensile testing shall conform to the 
+product specification. 
+11.3 When the dimensions of the material to be tested will 
+permit, the tension test specimens shall be machined to the 
+form and dimensions of the standard 2-in. gauge length tension 
+test specimens described in Test Methods and Definitions A370 
+if inch-pound units are specified or the standard 62.5 mm 
+gauge length tension test specimens described in the applicable 
+track of Test Methods Al058 if SI units are specified. 
+11.3 .1 In the case of small sections, which will not permit 
+taking the standard test specimen described in 11.3, the subsize 
+round or strip specimen shall be machined as described in the 
+test methods being used. The tension test specimen shall be as 
+large as feasible. 
+12. Impact Requirements 
+12.1 The part shall conform to the impact requirements 
+prescribed in the product specification. 
+12.2 Sampling for impact testing shall conform to the 
+product specification. 
+8 Product analysis limits for cobalt under 0.05 % have not been established and the 
+12.3 Notched-bar impact specimens shall be simple-beam, 
+Charpy-type A with a V-notch in accordance with Test Methods 
+and Definitions A370 if the inch-pound units are specified or 
+Test Methods A1058 if the M suffix (SI Units) standard is 
+specified. Standard specimens 10 by 10 mm in cross section 
+producer should be consulted for those limits. 
+cNo over tolerance allowed. 
+1393 

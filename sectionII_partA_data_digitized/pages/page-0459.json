@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 459,
+  "globalPageIndex": 459,
+  "width": 596.16,
+  "height": 841.8,
+  "text": "ASME BPVC.II.A-2025 \nSPECIFICATION FOR STAINLESS STEEL BARS AND \nSHAPES \nSA-276/SA-276M \n(Identical with ASTM Specification A276/A276M-17.) \n407 \ncO \nINTERNATIONAL \nStandards Worldwide \nSA-276 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-0459.txt",
+  "ocrTextLength": 169,
+  "ocrApplied": true,
+  "bestTextPath": "best_text\\pages\\page-0459.txt",
+  "bestTextSource": "full_ocr_highdpi",
+  "bestTextLength": 181,
+  "bestTextAlphaRatio": 0.635
+}

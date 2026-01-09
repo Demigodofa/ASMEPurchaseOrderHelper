@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 814,
+  "globalPageIndex": 1612,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "SA-1091/SA-1091M (ASTM A1091/A1091M) ASME BPVC.II.A-2025 \nTABLE 5 C91 Classification of Castings \nType of Weld \nNone \nMajor or Minor \nMinor \nMajor \nHeat Treatment \nRe-austenitized and Tempered \nTempered \nTempered \nClass \nClass 1 \nClass 1 \nClass 1 \nClass 2 \nconservative than those of Class 1 castings. Consult the applicable \nconstruction code for further guidance. \n10.3.9 Post-Weld Heat Treatment Requirements for Grade \nC933-All welds shall be heat treated in accordance with one \nof the following requirements, as applicable: \n10.3.9.1 All welds shall be heat treated within the tempera\u00ad\nture range of 1350 to 1440 \u00b0F [730 to 780 \u00b0C], for a minimum \nholding time based on the maximum thickness of the casting. \n10.3.9.2 Local post-weld heat treatment is permitted only by \nagreement between the manufacturer and purchaser. Process \nrequirements to ensure that the minimum post-weld heat \ntreatment is reached in welds and that the maximum post-weld \nheat treatment is not exceeded anywhere on the casting shall be \nas agreed upon by the manufacturer and purchaser. \n11. Rejection \n11.1 Each casting received from the producer may be \ninspected by the purchaser and, if it does not meet the \nrequirements of the specification based on the inspection and \ntest methods as outlined in the specification, the casting may be \nrejected and the producer shall be notified. Disposition of \nrejected castings shall be a matter of agreement between the \nproducer and the purchaser. \n12. Certification and Marking \n12.1 Certification and marking of castings shall meet the \ncertification and marking requirements of Specification A 703/ \nA703M, A985/A985M, or A999/A999M, as applicable, except \nthat for centrifugally cast pipe, the certification and marking \nrequirements of Specification A999/A999M are mandatory. \n12.2 In addition to the requirements of 12.1, the certification \nshall include the locations of welds as required by 10.3.6 and \n10.3.7. \n12.3 In addition to the requirements of 12.1, the class \ndesignation (see Table 5) shall be included in the certification \nand marking of the castings. \n13. Keywords \n13.1 casting; centrifugal; ferritic; high-temperature service; \ninvestment casting; martensitic; pipe; pressure containing; steel \ncastings \nSUPPLEMENTARY REQUIREMENTS \nThe following supplementary requirements shall not apply unless specified in the purchase order. \nLists of standardized supplementary requirements for use at the option of the purchaser are included \nin Specifications A 703/ A 703M and A985/ A985M. Those that are ordinarily considered suitable for \nuse with this specification are given below. Others enumerated in Specifications A703/A703M and \nA985/A985M may be used with this specification upon agreement between the manufacturer and \npurchaser. \nSl. Unspecified Elements \nS2. Destruction Tests \nS3. Bend Tests \nS4. Magnetic Particle Inspection \nSS. Radiographic Inspection \nS6. Liquid Penetrant Inspection \nS7. Ultrasonic Inspection \nSlO. Examination of Weld Preparation \nSl3. Hardness Test \nS21. Heat Treatment Furnace Record \nS22. Heat Treatment \n1558 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1612.json",
+  "tabulaTablesCsv": "tables_tabula/page-1612.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-1612.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 3093,
+  "bestTextAlphaRatio": 0.7507
+}

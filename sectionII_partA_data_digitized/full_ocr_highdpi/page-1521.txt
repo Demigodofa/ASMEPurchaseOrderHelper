@@ -1,0 +1,61 @@
+ASME BPVC,ILA-2025 SA-988 /SA-988M |
+“oo S7. Ultrasonic Testing S16. Heat Treatment of Austenitic Stainless Parts :
+, S7.1 Austenitic-Ferritic stainless steel parts made of $32505 516.1 The purchaser shall specify the heat treatment method |
+shall be 100 % ultrasonic tested with straight and angle beam _—in 7.1 that shall be employed.
+probes in accordance with Practice A745/A745M. Acceptance $16.2 The manufacturer shall provide a test report contain- .
+limits shall be agreed upon between the manufacturer and the ing the information required in 17.1 and shall include a
+purchaser. statement of the heat treatment method employed.
+S8. Repair Welding S17. Grain Size for Austenitic Stainless Steels - | |
+58.1 No repair welding shall be permitted without prior S171 Hot isostatically-pressed parts made from austenitic |
+/ , Las stainless steel grades other than H grades shall be tested for
+approval of the purchaser. If permitted, the restrictions of ; 8 ,
+, Section 14 shall apply. average grain size by Test Methods E112. Details of the test |
+shall be agreed upon between the manufacturer and the
+S9. Heat Treatment Details | purchaser. 3
+_ S9.1 The manufacturer shall furnish a detailed test report 518. Fatigue Acceptance Test , !
+— containing the information required in 17.1 and shall include $18.1 For austenitic stainless steel components intended for
+, all pertinent details of the heat treating cycle given the parts. service above 1000 °F [540 °C], a uniaxial fatigue test shall be
+a performed.
+S10. Material for Optimum Resistance to Stress-Corrosion S18.2 The fatigue test shall be performed in air at 1100 °F .
+Cracking [595 °C] at an axial strain range of 1.0 % with a one hour hold
+$10.1 Austenitic stainless steel parts shall be furnished in period at the maximum positive strain point in each cycle. Test
+the solution-annealed condition as a final operation with no | specimen location and orientation shall be as specified in :
+subsequent cold working permitted unless specifically permit- Specification A961/A961M and the applicable product speci- |
+ted by the purchaser. fications. Testing shall be conducted in accord with Practice ,
+E606/E606M. The test shall exceed 200 cycles without fracture :
+S11. Intergranular Corrosion Tests or a 20 % drop in the load range. ,
+$11.1 Intergranular corrosion tests shall be performed on $18.3 Failure to meet this requirement shall be cause for |
+- specimens of austenitic stainless steel in accordance with  TeJection of all parts from that blend. . |
+; Practices A262. $18.4 Test frequency shall be the same as for tension tests ,
+S11.2 For the austenitic stainless steels, details concerning (See 9.5). Retesting is permitted. For a retest, two additional
+, the number of specimens and their source and location are tobe | SPecimens produced from the same blend shall be tested and :
+| a matter of agreement between the manufacturer and the | both specimens must pass the cyclic life requirement. Further |
+purchaser. , retests are not permitted.
+oe ; ; S19. Powder Size ;
+S12. Pitting and Crevice Corrosion Test a.
+. $19.1 The maximum allowable powder size is 0.020 in. [0.5
+$12.1 The stainless steels in the final heat treated condition mm], and the powder shall be produced by the gas atomization
+shall be tested in accordance with Test Method G48. Test process. :
+procedures and acceptance criteria shall be a matter of agree- a
+ment between the manufacturer and purchaser. S20. Powder Shielding ;
+, $20.1 Immediately following atomization, the powder shall |
+S13. Detrimental Intermetallic Phase Test remain shielded by an inert gas until the powder is below a i
+$13.1 The austenitic-ferritic stainless steels shall be tested temperature of 105 °F [40 °C] to ensure that the detrimental
+in accordance with the test methods given in Test Methods absorption of oxygen and other deleterious contaminants is no ;
+So, A923. Acceptance criteria, if not specified in Test Methods — longer possible. Powder should be protected during storage to
+A923, shall be a matter of agreement between the manufacturer Prevent the detrimental pick-up of oxygen and other
+and the purchaser. | contaminants. |
+314. Snecial Filler Metal S21. Chemical Analysis |
+. Special Filler Meta ,
+pes ° $21.1 The chemical composition of a sample from one part :
+$14.1 In repair welded $31600, $31603, S31609, and from each lot of parts shall be determined by the manufacturer. |
+S31651 parts, the deposited weld metal shall conform to 308 The composition of the sample shall conform to the chemical |
+composition wire. Parts repair welded with E 308 weld metal requirements prescribed in Table 1. :
+shall be marked S___ W308. | :
+$22. Manufacturer’s Certification |
+S15. Hardness Test $22.1 A manufacturer’s certification shall be furnished to :
+$15.1 Each part shall be hardness tested and shall meet the | the purchaser stating that material has been manufactured, :
+requirements of Table 3. tested, and inspected in accordance with this specification, and |
+/ that the test results on representative samples meet specifica- :
+‘ tion requirements. A report of the test results shall be furnished. |
+1467 | |

@@ -1,0 +1,36 @@
+,over 0.030 to 0.20, incl,0.01,,over 2.00 to 5.00, incl,0.05
+,over 0.20 to 0.60, incl,0.02,,over 5.00 to 10.00, incl,0.10
+,over 0.60 to 1.20, incl,0.03,,over 10.00 to 15.00, incl,0.15
+,,,,over 15.00 to 22.00, incl,0.20
+Manganese,to 1.00, incl,0.03,,over 22.00 to 30.00, incl,0.25
+,over 1.00 to 3.00, incl,0.04,,,
+,over 3.00 to 6.00, incl,0.05,ColumbiumA + Tantalum,to 1.50, incl,0.05
+,over 6.00 to 10.00, incl,0.06,,over 1.50 to 5.00, incl,0.10
+,over 10.00 to 15.00, incl,0.1,,over 5.00,0.15
+,over 15.00 to 20.00, incl,0.15,,,
+,,,Tantalum,to 0.1 o, incl,0.02
+Phosphorus,to 0.040, incl,0.005,,,
+,over 0.040 to 0.20, incl,0.01,Copper,to 0.50, incl,0.03
+,,,,over 0.50 to 1.00, incl,0.05
+Sulfur,to 0.040, incl,0.005,,over 1.00 to 3.00, incl,0.10
+,over 0.040 to 0.20, incl,0.01,,over 3.00 to 5.00, incl,0.15
+,over 0.20 to 0.50, incl,0.02,,over 5.00 to 10.00, incl,0.20
+Silicon,to 1.00, incl,0.05,Aluminum,to 0.15, incl,-0.005, +
+,over 1.00 to 3.00, incl,0.1,,over 0.15 to 0.50, incl,0.05
+,over 3.00 to 7.00 incl,0.15,,over 0.50 to 2.00, incl,0.10
+,,,,over 2.00 to 5.00, incl,0.20
+Chromium,over 4.00 to 10.00, incl,0.1,,over 5.00 to 10.00, incl,0.35
+,over 10.00 to 15.00, incl,0.15,,,
+,over 15.00 to 20.00, incl,0.2,Nitrogen,to 0.02, incl,0.005
+,over 20.00 to 30.00, incl,0.25,,over 0.02 to 0.19, incl,0.01
+,,,,over 0.19 to 0.25, incl,0.02
+Nickel,to 1.00, incl,0.03,,over 0.25 to 0.35, incl,0.03
+,over 1.00 to 5.00, incl,0.07,,over 0.35 to 0.45, incl,0.04
+,over 5.00 to 10.00, incl,0.1,,over 0.45,0.05
+,over 10.00 to 20.00, incl,0.15,,,
+,over 20.00 to 30.00, incl,0.2,Tungsten,to 1.00, incl,0.03
+,over 30.00 to 40.00, incl,0.25,,over 1.00 to 2.00, incl,0.05
+
+,over 0.60 to 2.00, incl,0.05,,,
+,over 2.00 to 7.00, incl,0.1,Vanadium,to 0.50, incl,0.03
+,over 7 .00 to 15.00, incl,0.15,,over 0.50 to 1.50, incl,0.05

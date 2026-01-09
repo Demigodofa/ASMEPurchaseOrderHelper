@@ -1,0 +1,110 @@
+. '---" 
+ASME BPVC.II.A-2025 SA-263 
+edges parallel. In reducing the thickness of the specimen, both 
+the alloy cladding and the base steel shall be machined so as to 
+maintain the same ratio of clad metal to base steel as is 
+maintained in the plate, except that the thickness of the clad 
+metal need not be reduced below Vs in. (3.1 mm). The sides of 
+the bend test specimen used for bond strength determination 
+may have the corners rounded to a radius not over V16 in. (1.6 
+mm) for plates, 2 in. (50 mm) and under in thickness, and not 
+over Vs in. (3.1 mm) for plates over 2 in. (50 mm) in thickness. 
+10. Product Analysis 
+10.1 Product analysis may be required for the cladding alloy 
+on the finished product. Chemical analysis may be accom­
+plished by wet chemical or instrumental procedures. If wet 
+chemical procedures are used, millings may be taken only 
+when the composite plate thickness is sufficient to permit 
+obtaining millings without danger of contamination from the 
+adjacent layer. If spectrometric procedures are used, the sample 
+shall be exposed on the center line of the cladding when there 
+is sufficient cladding thickness available so that there is no 
+contamination from the adjacent base metal. 
+10.2 If product analysis is specified by the purchaser for the 
+cladding alloy, it shall be made from drillings or millings taken 
+from the final piece or a broken test specimen. For wet 
+chemical analysis, in order to avoid contamination by the base 
+plate metal, millings of cladding samples shall be taken from 
+the test coupon by removal and discard of all the base metal 
+plate material, plus 40 % of the cladding thickness from the 
+bonded side, not to exceed V16 in. (1.6 mm). The material shall 
+be chemically cleaned and sufficient millings shall be taken to 
+represent the full cross-section of the remainder. If there is 
+insufficient cladding thickness available to spectrographically 
+expose on the center line of the cladding without 
+contamination, 50 % of the cladding shall be removed and the 
+sample exposed on this surface. 
+10.3 Methods and practices relating to chemical analysis 
+required by this specification shall be in accordance with the 
+Test Methods, Practices, and Terminology of A751. 
+10.4 Results of the product analysis shall conform to the 
+requirements of Section 7 of Specification A480/A480M. 
+10.5 Results of the product analysis for the backing steel 
+when required shall conform to the requirements of Section 7 
+of Specification A20/A20M. 
+11. Permissible Variations 
+11.1 Permissible variations except for thickness shall be in 
+accordance with Specification A20/ A20M. 
+11.2 Minimum thickness of the alloy cladding metal and of 
+the backing steel, or of the total composite plate shall be as 
+required by purchase order documents when ordered to mini­
+mum thicknesses. 
+11.3 Permissible variation in thickness when ordered to 
+nominal thicknesses shall be 0.01 in. (0.3 mm) under each for 
+backing steel or total composite, and 0.03 in. (0.8 mm) under 
+for the alloy cladding . 
+11.4 Permissible variations for excess thickness of the total 
+composite shall be the greater of 0.125 in. (3 mm) or 10 % of 
+the total composite thickness ordered and may occur in either 
+backing steel, cladding, or both, provided the minimum for 
+each is met. 
+11.5 More restrictive or less restrictive permissible varia­
+tions may be agreed upon by the purchaser and the manufac­
+turer. 
+12. Workmanship, Finish, and Appearance 
+12.1 The material shall be free of injurious defects, shall 
+have a workmanlike appearance, and shall conform to the 
+designated finish. 
+12.2 Plate alloy surfaces shall be blasted (descaled by 
+means such as sand or stainless grit, shot or wire, or 
+equivalent), pickled, blast-cleaned and pickled, or 100 % 
+conditioned. 
+13. Bond Quality 
+13.1 The cladding metal shall be integrally and continu­
+ously bonded to the base metal. 
+13.2 Inspection: 
+13.2.1 Clad plates less than 3/s in. (10 mm) total minimum 
+composite thickness shall be visually inspected for bond 
+integrity prior to shipment. 
+13.2.2 Clad plates 3/s in. (10 mm) and thicker total minimum 
+composite thickness, and when specified by the purchaser, clad 
+plates less than 3/s in. (10 mm) total minimum composite 
+thickness, shall be ultrasonically inspected for bond integrity 
+prior to shipment in accordance with the Procedures and 
+Methods of Specification A578/A578M. 
+13.2.3 Areas of non-bond detected visually shall be ex­
+plored ultrasonically to determine the extent of the condition in 
+accordance with 13.2.2. For purposes of defining non-bond, the 
+cladding shall be interpreted to be unbonded when there is 
+complete loss of back reflection accompanied by an echo 
+indication from the plane of the interface of the clad and 
+backing steel. Areas within 1 in. (25 mm) of a cut edge on the 
+plate that contain indications exceeding 50 % of the back 
+reflection at the bond interface shall be considered to be 
+unbonded. 
+13.2.4 Extent of ultrasonic examination shall be at the 
+discretion of the manufacturer and sufficient enough to provide 
+the quality level required by the purchaser. Plates may be 
+ordered with 100 % coverage (Supplementary Requirements 
+S12). 
+13.3 Quality Levels: 
+377 
+13.3.1 Class I-No single unbonded area exceeding 1 in. 
+(25 mm) in its longest dimension with total unbonded area not 
+to exceed 1 % of the total cladded surface area. 
+13.3.2 Class 3-No single unbonded area exceeding 3 in. 
+(75 mm) in its longest dimension with total unbonded area not 
+to exceed 3 % of the total cladded surface area. 
+13.3.3 • Class 5-No single unbonded area exceeding 9 in.2 
+(58 cm 2 ) with total unbonded area not to exceed 5 % of the 
+total cladded surface area. 

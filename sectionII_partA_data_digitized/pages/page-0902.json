@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 104,
+  "globalPageIndex": 902,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "SA-480/SA-480M (ASTM A480/A480M) ASME BPVC.II.A-2025 \nTABLE A2.25 Permitted Variations in Diameter for Hot-rolled and \nCold-rolled Coil-processed Product as Sheared Circles \nSpecified Thickness, in. [mm] \nUp to 0.0567 [1.45], include \n0.0568 to 0.0971 [1.45 to 2.46], incl \n0.0972 up to 3 /18 [2.46 up to 4. 76], \nexcl \nTolerance Over Specified Diameter \n(No Tolerance Under), in. [mm] \nDiameters \nUnder 30 in. \n[762mm] \n1/,a [1.59] \n%2 [2.38] \n1/a [3.18] \nDiameters \n30 to 48 in. \n[762to \n1219 mm] \n1/a [3.18] \n%2[3.97] \n3/10 [4.76] \nDiameters \nOver48 in. \n[1219 mm] \n31,a [4.76] \n7 /32 [5.56] \n\u00bc[6.35] \nTABLE A2.26 Permitted Variations in Diameter for Hot-rolled and \nCold-rolled Coil-processed Product as Sheared Circles \nSpecified Thickness, in. [mm] \nTo 60 [1524], excl \n60 to 84 [1524 to 2134], excl \n84 to 108 [2134 to 2743], excl \n108 to 180 [2743 to 4572], excl \nA No tolerance under. \nTolerance Over Specified Diameter \n(No Tolerance Under), in. [mm] \nDiameter and Thickness? in. [mm] \nToo/sin. \n[9.52mm], \nexcl, in \nThickness \n\u00bc[6.35] \n5/10 [7.94] \n%[9.52] \n1 Aa [11.11 l \n% to 5/a in. \n[9.52 to \n15.88 mm], \nexcl, in \nThickness \n%[9.52] \n7/18 [11.11] \n\u00bd [12.70] \no/1\u2022 [14.29] \n5/a in. \n[15.88 mm] \nand Over in \nThickness 8 \n\u00bd[12.70] \n9 /,e [14.29] \n5/a [15.88] \n1 1/10 [17.46] \n8 Circular and sketch plates over 5/a in. [15.88 mm] in thickness are not commonly \nsheared but are machined or flame cut. \nTABLE A2.27 Torch Cutting TolerancesA and Recommended \nCleanup Allowance for Rectangular Plates, Circles, Rings, and \nSketches \nSpecified Tolerance, in. Cleanup \nThickness, in. Allowance 8 per Outside Dimension Inside Dimension Edge, in. \n2 and under +3/a , -0 -3/a , +0 \u00b1 \u00bc \nOver 2 to 3, incl +\u00bd , -0 -\u00bd , +0 \u00b1% \nOver 3 to 6, incl +\u00be, -0 -\u00be, +0 \u00b1\u00bd \nA Tolerances to apply unless otherwise agreed. Note that for some applications \nuser may wish to specify minus rather than plus tolerance or vice versa. \n8 Recommended cleanup allowance which, unless otherwise specified, will be \napplied by supplier to purchasers ordered size. \n802 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0902.json",
+  "tabulaTablesCsv": "tables_tabula/page-0902.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-0902.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2047,
+  "bestTextAlphaRatio": 0.5506
+}

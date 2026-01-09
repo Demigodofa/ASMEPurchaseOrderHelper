@@ -1,0 +1,113 @@
+ASME BPVC.II.A-2025 SA-703/SA-703M 
+(1) Exceeds approximately 10 in. 2 [65 cm 2 ] for castings weighing up 
+to 1 0 000 lb [4.5 tonnes]; 
+(2) Exceeds 20 in. 2 [130 cm 2 ] for castings weighing from 10 000 lb 
+to 30 000 lb [4.5 to 13.5 tonnes]; 
+(3) Exceeds approximately 30 in.2 [200 cm 2 ] for pieces weighing 
+more than 30 000 lb [13.5 tonnes]. 
+shall be documented. 
+S20.2 Weld repairs requiring documentation shall be docu­
+mented on sketches or photographs, or both. The sketches or 
+photographs shall show the location and major dimensions of 
+cavities prepared for weld repair. The weld repair documenta­
+tion shall be submitted to the purchaser at the completion of the 
+order. 
+S21. Heat Treatment Furnace Record 
+S21.1 A heat treatment chart showing time and temperature 
+shall be prepared and be available for inspection by the 
+purchaser. 
+S22. Heat Treatment 
+S22.1 Test specimens shall be heat treated together with the 
+castings they represent. Heat-treated specimens shall be tested 
+and shall meet the tensile and impact properties specified. 
+S22.2 The remaining test specimens from Supplementary 
+Requirement S22.1 representing the casting shall be treated 
+thermally after the final (foundry) heat treatment to simulate 
+heat treatments below the critical temperature that the casting 
+may receive during fabrication, and then tested for mechanical 
+properties. Time, temperature, and cooling rate shall be as 
+stated in the order. In the case of post-weld heat treatment, the 
+total time at temperature or temperatures for the test material 
+shall be at least 80 % of the total time at temperature or 
+temperatures during actual post-weld heat treatment of the 
+fabrication of which the casting or castings are a part. The total 
+time at temperature or temperatures for the test material may be 
+performed in a single cycle. When this supplementary require­
+ment is specified, the welding qualification test metal must be 
+processed in the same manner. 
+S23. Macroetch Test 
+S23.l Apply Supplementary Requirement SI for the spec­
+trographic determination and reporting of the total residual 
+aluminum content of all heats of ferritic and martensitic steels 
+subjected to this macroetch test. 
+S23.2 When the heat analysis indicates a total residual 
+aluminum content in excess of 0.08 %, the manufacturer shall 
+etch a cross section of the casting with the heaviest section for 
+which this supplementary requirement is invoked, or a coupon 
+attached to that heaviest section or an area directly under a riser 
+(Note S23.l). Cross sections, from a separately cast test block 
+from the same heat and of a thickness representative of the 
+heaviest section of castings purchased under this supplemen­
+tary requirement, may also be used for macroetch testing. The 
+etching shall be performed on the selected section after its heat 
+treatment, that is, after heat treatment as defined in the product 
+specification. 
+NoTE S23.1-High-strength martensitic castings, in particular, may be 
+damaged beyond use if the etch is applied directly to the casting. 
+S23.3 The preparation of the surface and the macroetching 
+procedure with solution No. 1 (1:1 HCl) of Table 5 in Practice 
+E340 shall be followed. The resulting etched surface shall be 
+compared and rated with the reference photographs in Fig. 
+S23.1 depicting ten levels of severity of intergranular network 
+structures indicative of the presence of aluminum nitride, or 
+other constituents prone toward precipitating at grain bound­
+aries during solidification and subsequent cooling. Table S23.1 
+relates the severity levels shown in these photographs with 
+specific delineation widths and percent of boundary outlining 
+in the etched structures. 
+S23.4 Castings represented by etched structures exhibiting a 
+network rating in excess of Severity Level 4 shall be consid­
+ered unacceptable until further evaluations are completed. The 
+acceptability of individual castings may be determined by 
+etching sections of each casting to ascertain the network 
+severity ,level. Disposition of unacceptable castings shall be a 
+matter of agreement between the manufacturer and purchaser. 
+Those castings exhibiting etched severity levels greater than 
+four may be further evaluated by any of the following 
+agreed-upon methods: 
+S23.4.1 Fracture testing to determine the amount of "rock 
+candy" structure. 
+S23.4.2 Mechanical testing (bend, tensile, and so forth) to 
+determine the ductility characteristics. 
+S23.4.3 Weld testing to determine crack susceptibility in the 
+heat-affected zone of a circular groove welded with cellulose 
+coated electrodes. 
+S23.5 Alternatively, by agreement, it is permissible to 
+subject castings from an unacceptable heat to a high­
+temperature homogenizing cycle prior to the normal produc­
+tion heat treatment and subsequently macroetch test each 
+casting. 
+S23.6 Heavy section castings (3) whose configurations are 
+amenable to the attachment of test coupons representative of 
+the section thickness involved and from which standard 0.505-
+in. [12.827-mrn] diameter tension specimens may be machined 
+are exempt from this macroetch test if the results of the tension 
+test on the coupon after heat treatment of the casting meet the 
+minimum requirements specified for the grade of steel in­
+volved. 
+NoTE S23.2-For purposes of this supplementary requirement, a heavy 
+section casting is defined as one having a wall thickness of 1 ½ in. 
+[37 mm] or greater in combination with a casting weight of at least 
+1000 lb [455 kg]. 
+S24. Specified Ferrite Content Range 
+S24.1 The chemical composition of the heat shall be con­
+trolled such that the ferrite content, as determined by the 
+chemical composition procedure of Practice A800/ A800M, 
+shall be in accordance with the specified ferrite content range. 
+S24.2 The specified ferrite content range shall be as agreed 
+upon between the manufacturer and the purchaser. The mini­
+mum specified ferrite content range shall be 10 %, with the 
+minimum ferrite content being no lower than the percent 
+necessary to achieve the minimum mechanical properties 
+required for the alloy. 
+1159 

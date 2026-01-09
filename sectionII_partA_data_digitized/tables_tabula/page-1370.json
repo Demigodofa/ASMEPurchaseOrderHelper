@@ -1,0 +1,321 @@
+[
+  {
+    "rows": [
+      [
+        "",
+        "",
+        "1\u20444 (0.250) 6.4",
+        "16",
+        "18"
+      ],
+      [
+        "10.1 Tensile Properties:",
+        "",
+        "7/32 (0.219) 5.6",
+        "15",
+        "17"
+      ],
+      [
+        "10.1.1 The material shall conform to the tensile properties",
+        "",
+        "o/,a (0.188) 4.8",
+        "14",
+        "16"
+      ],
+      [
+        "shown in Table 2.",
+        "",
+        "%2 (0.156) 4",
+        "13",
+        "15"
+      ],
+      [
+        "",
+        "",
+        "1/s(0.125) 3.2",
+        "13",
+        "14"
+      ],
+      [
+        "10.1.2 One tension test shall be made on a specimen for lots",
+        "",
+        "%2 (0.094) 2.4",
+        "12",
+        "13"
+      ],
+      [
+        "of not more than 50 tubes. Tension tests shall be made on",
+        "",
+        "1/10 (0.062) 1.6",
+        "11",
+        "12"
+      ],
+      [
+        "specimens from two tubes for lots of more than 50 tubes.",
+        "",
+        "0.062 to 0.035, excl 1.6 to 0.9",
+        "10",
+        "12"
+      ],
+      [
+        "",
+        "",
+        "0.035 to 0.022, excl 0.9 to 0.6",
+        "10",
+        "11"
+      ],
+      [
+        "10.1.3 Table 3 gives the computed minimum elongation",
+        "",
+        "0.022 to 0.D15, excl 0.6 to 0.4",
+        "10",
+        "11"
+      ],
+      [
+        "values for each 1/32 in. [0.8 mm] decrease in wall thickness.",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "A Calculation elongation shall be rounded to the nearest whole number.",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "8",
+        "",
+        ""
+      ],
+      [
+        "10.2 Hardness:",
+        "",
+        "Where the wall thickness lies between two values shown above, the min",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "elongation value shall be determined by the following equation:",
+        "",
+        ""
+      ],
+      [
+        "10 .2.1 The tubes shall have a hardness number not to exceed",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "those prescribed in Table 4. This hardness requirement is not to",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "Grade Equation",
+        "",
+        ""
+      ],
+      [
+        "apply to the bend area of U-bend tubes which are not heat",
+        "",
+        "29-4C E = 28.81 + 9.00",
+        "",
+        ""
+      ],
+      [
+        "treated after bending.",
+        "",
+        "[E = 1.131 + 9.00)",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "All other E = 321 + 10.00",
+        "",
+        ""
+      ],
+      [
+        "10.2.2 Brinell or Rockwell hardness tests shall be made on",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "[E = 1.251 + 10.00]",
+        "",
+        ""
+      ],
+      [
+        "specimens from two tubes from each lot.",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "where:",
+        "",
+        ""
+      ],
+      [
+        "10.3 Reverse Flattening Test (for Welded Product)-One",
+        "",
+        "E = elongation in 2 in. or 50 mm, %, and",
+        "",
+        ""
+      ],
+      [
+        "reverse flattening test shall be made on a specimen from each",
+        "",
+        "t = actual thickness of specimen, in. [mm].",
+        "",
+        ""
+      ],
+      [
+        "1500 ft [460 m] of finished tubing.",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "10.4 Flange Test (for Welded Product)-Flange tests shall",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "be made on specimens from each end of one finished tube, not",
+        "",
+        "TABLE 4 Hardness Requirements",
+        "",
+        ""
+      ],
+      [
+        "the one used for the flattening test, from each lot.",
+        "",
+        "Brinell Hardness,",
+        "Rockwell Hardnes",
+        ""
+      ],
+      [
+        "",
+        "",
+        "max",
+        "",
+        "B Scale,"
+      ],
+      [
+        "10.5 Flaring Test (for Seamless Tubes)-One test shall be",
+        "",
+        "Grade",
+        "",
+        "max"
+      ],
+      [
+        "made on specimens from one end of one tube from each lot of",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "finished tubes. The minimum expansion of the inside diameter",
+        "",
+        "TP409 207",
+        "",
+        "95"
+      ],
+      [
+        "",
+        "",
+        "TP439 207",
+        "",
+        "95"
+      ],
+      [
+        "shall be 10 %.",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "PXM-27 241",
+        "",
+        "100"
+      ],
+      [
+        "10.6 Pressure Test-Each straight tube, or each U-tube after",
+        "",
+        "TPXM-33 241",
+        "",
+        "100"
+      ],
+      [
+        "",
+        "",
+        "25-4-4 270",
+        "",
+        "27A"
+      ],
+      [
+        "completion of the bending and post-bending heat treatment,",
+        "",
+        "26-3-3 265",
+        "",
+        "25A"
+      ],
+      [
+        "shall be pressure-tested in accordance with one of the follow\u00ad",
+        "",
+        "29-4 241",
+        "",
+        "100"
+      ],
+      [
+        "ing paragraphs as specified by the purchaser:",
+        "",
+        "29-4-2 241",
+        "",
+        "100"
+      ],
+      [
+        "",
+        "",
+        "18-2 217",
+        "",
+        "95"
+      ],
+      [
+        "10.6.1 Hydrostatic Test-Each tube shall be given an inter\u00ad",
+        "",
+        "29-4C 241",
+        "",
+        "100"
+      ]
+    ]
+  }
+]

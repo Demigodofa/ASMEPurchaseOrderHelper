@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 227,
+  "globalPageIndex": 1025,
+  "width": 632.52,
+  "height": 808.08,
+  "text": "ASME BPVC.II.A-2025 SA-541/SA-541M \nTABLE 3 \nCHARPY V-NOTCH IMPACT REQUIREMENTS AT 40\u00b0F (4\u00b0C) (EXCEPT FOR 2A) 1 , 2 \nGrades 3V \nGrades 22 and 3VCb, \nGrade 2 Grade 2 CL 4 4N Grade 22, \nGrades 1, Class 2 Class 1, 3 Classes 1, Class 3 \nIA, and and Class 1 Grade 22 2, 3, 5 and Grade \n11 Class 4 3 Class 2 and IC Class 5 Classes 1,2 22V \nMinimum average value of set of three 15 [20] 35 [47] 4 30 [41] 25 [34] 35 [47] 40 [54] 5 \nspecimens, ft\u00b7lbf (J) 3 \nMinimum value of one specimen, ft\u00b7lbf (J) 10 [14] 30 [41] 4 25 [34] 20 [27] 30 [41] 35 [47] 5 \nNOTES: \n(1) These Charpy values are for tests made on standard 10 mm square specimens. If sub-size impact specimens are used, the required minimum ft\u00b7lbf \nvalues shall be determined by multiplying the ft\u00b7lbf values in Table 3 by 5/2, for 7.5 by 10 mm specimens, and by\u00be for 5 by 10 mm specimens. \n(2) These values apply for tests at lower temperatures if Supplementary Requirement S6 is specified in the order. \n(3) Not more than one specimen from a set may be below this value. \n(4) Tested at 70\u00b0F [21 \u00b0CJ. \n(5) Tested at 0\u00b0F [-18\u00b0CJ. \n925 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 1,
+  "tabulaTablesPath": "tables_tabula/page-1025.json",
+  "tabulaTablesCsv": "tables_tabula/page-1025.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-1025.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1086,
+  "bestTextAlphaRatio": 0.5866
+}

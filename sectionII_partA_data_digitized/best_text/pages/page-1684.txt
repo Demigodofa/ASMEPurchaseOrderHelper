@@ -1,0 +1,102 @@
+ASME BPVC.II.A-2025 
+necessary to choose different temperature intervals in or­
+der to adequately reflect the evolution of the properties. 
+In such cases, the interval between successive test tem­
+peratures shall be chosen such that rupture lives do not 
+differ by more than a factor of 10 at any given stress for 
+two adjacent temperatures. Data to be reported include 
+stress, temperature, time to rupture, and elongation. Re­
+duction of area shall also be reported, if feasible. 
+Post-test metallographic evaluation shall be performed 
+on at least three test specimens including the longest­
+duration test samples at the time of submission of test 
+samples. The assessment should be done on actual test 
+specimens that were tested at temperatures within the 
+range between the minimum time-dependent tempera­
+ture and the maximum intended use temperature. The as­
+sessment shall include macro-images to document the 
+overall appearance (oxidation, necking, intergranular 
+fracture, etc.), as well as micro-images to document the 
+extent of cavitation damage and grain size. 
+Except as provided further below, the longest rupture 
+time at each test temperature shall be in excess of 
+10,000 hr for each required heat. At least three additional 
+tests shall be conducted for each required heat at each 
+test temperature, at stresses selected to provide shorter 
+rupture times but at least 500 hr (e.g., 500 hr, 1,400 hr, 
+and 4,000 hr). For precipitation-strengthened alloys, the 
+shortest test duration considered in the allowable stress 
+analysis values is 1,000 hr. At successive temperatures, 
+two or more tests should be conducted at nearly the same 
+stress value. 
+Alternative test plans that deviate from the prior de­
+scription but achieve the overall objective may be consid­
+ered. This may, in particular, apply to solid solution alloys 
+for which the stability of strength-controlling microstruc­
+tures is certain. For precipitation-strengthened materials, 
+an emphasis shall be placed on relevant test conditions 
+suitably below the yield strength. 
+For new materials for which the expectation of reason­
+able stability of strength-controlling microstructures is 
+uncertain or suspect, and for extension of allowable 
+stresses of more familiar classes of alloys into much high­
+er temperature applications where such stability might 
+come into question, creep-rupture data with duration of 
+more than 30,000 hr is required at ±50°F (±25°C) of the 
+maximum intended use temperature. This long-term da~ 
+can be supplemented with relevant or equivalent service 
+experience. A Code Case may be approved bas.ed on short­
+er duration test data, but inclusion of the material into 
+one of the sections of the BPV Code may be deferred until 
+longer-term creep-rupture data are available or until 
+sufficient service experience is obtained to provide confi­
+dence that extrapolations from the existing database rea­
+sonably describe the long-term behavior of the material. 
+For at least two heats, strain-time plots or minimum 
+creep rate (MCR) data shall be provided for at least three 
+test stresses at each test temperature, including at least 
+one stress for each material resulting in MCR values be­
+low 3x10- 4 %/hr. Creep rate data may be obtained from 
+instrumented stress-rupture tests or may be obtained on 
+additional test specimens. 
+IV-1000 LOW-TEMPERATURE PROPERTIES 
+If use of the material below room temperature is con­
+templated, data should be provided at appropriate tem­
+peratures down to the lowest contemplated use 
+temperature. 
+IV-1100 TOUGHNESS DATA 
+Toughness data shall be provided for materials for 
+which Construction Code toughness rules would be ex­
+pected to apply. The test requirements shall be as re­
+quired by the requested Construction Code(s). The data 
+shall include test results for the intended lowest service 
+metal temperature and for the range of material thick­
+nesses desired. 
+IV-1200 STRESS-STRAIN CURVES 
+If the material is to be used in components that operate 
+under compressive loads (e.g., external pressure), stress­
+strain plots (tension or compression)shall be furnished 
+for each of the three heats of material at 100°F (50°C) in­
+tervals from room temperature up to 100°F (50°C) above 
+the maximum temperature desired. 1 Engineering stress­
+strain data (stress versus strain) shall be provided in 
+the form of stress-strain plots and digitized data, from 
+which the plots were derived, in tabular form up to 
+1.2% strain. Digitized data shall be provided at intervals 
+no greater than 0.01 % strain. In addition, the minimum 
+yield strength,2 modulus of elasticity, 3 and proportional 
+limit, for materials where a proportional limit can be 
+identified, shall be reported for each temperature. The 
+stress-strain plots (not load versus extension) shall be 
+determined using a Class B-2 or better-accuracy extens­
+ometer as defined in ASTM E83. The plots shall include 
+gridlines with the units marked on the gridlines: for 
+strain, minor gridlines at intervals of 0.01% and major 
+1 Since most materials are, in many applications, used in components that operate under compressive loads, the Committee recommends 
+that stress-strain plots as described above should always be included in the data package submitted in support of the application for any 
+new material. 
+2 The term minimum yield strength, as used here, means the yield strength values that are derived from the analysis of the tensile data re­
+quired elsewhere in these Guidelines. 
+3 Modulus of elasticity values shall be determined by dynamic methods such as ASTM Test Method E1876 (latest edition) or other interna-
+tional equivalent. • 
+1630 

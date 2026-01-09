@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 229,
+  "globalPageIndex": 1027,
+  "width": 627.84,
+  "height": 804.24,
+  "text": "ASME BPVC.II.A-2025 SA-541/SA-541M \nspecified by the purchaser in accordance with 6.2. How\u00ad\never, since the drop-weight specimen can be taken in any \norientation, the fracture plane of the specimen when tested \nto Method 2 (6.2.2) shall be a minimum distance of ]fo in. \n[11 mm] from the nearest quenched surface, and 1\u00bd in. \n[40 mm] from any second surface. The purchaser may \nspecify either duplicate no-break performance when tested \n10\u00b0 warmer than a specified temperature or request a deter\u00ad\nmination of the nil-ductility temperature. \nSS. Restrictive Chemistry for Grades 4N and 5 \nSS.1 Phosphorus and sulfur limits for Grades 4N and \n5 may be specified 0.020%, max. \nS9. Additional Vanadium \nS9.1 For Grade 5 forgings, 0.05 to 0.15% vanadium \nmay be specified. \nSl0. Special Steels \nSl0.1 Vacuum treated steel shall be specified. \nSl0.2 When Grades 2, 3, 4N, and 5 are vacuum carbon \ndeoxidized, the silicon content shall be 0.10% maximum. \nSl0.3 The test report shall indicate that the steel was \nvacuum carbon deoxidized. \nSU. Rings and Hollow Cylindrically Shaped Parts \nSU.1 Tests shall be removed in the tangential (circum\u00ad\nferential) direction regardless of direction of maximum \nworking. \nS12. Restrictive Chemistry \nS12.1 The following restricted phosphorus and copper \nlimits may be specified as follows: \nP 0.012% max heat, 0.015% max product; Cu 0.10% \nmax \nP 0.015% max heat, 0.018% max product; Cu 0.15% \nmax \nS13. Alternative Fracture Toughness Requirements \nS13.1 The fracture toughness requirements (drop\u00ad\nweight or Charpy impact tests, or both) for materials of \nthe ASME Boiler and Pressure Vessel Code, Section III, \nArticle NB-2300, NC-2300, ND-2300, NE-2300, NF-2300 \nor NG-2300, as specified, shall be used instead of the \nCharpy impact test requirements of this specification. \nS14. Alternative Test Specimen Orientation \nS14.1 The longitudinal axis of all test specimens shall \nbe oriented in a direction transverse to the direction of \nmaximum working of the forging. \nS15. Restricted Sulfur Content \nS15.1 The sulfur content shall be limited to 0.015% \nmaximum heat and 0.018% maximum product. \n927 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-1027.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2132,
+  "bestTextAlphaRatio": 0.7111
+}

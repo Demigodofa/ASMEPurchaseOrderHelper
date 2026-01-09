@@ -1,0 +1,4644 @@
+=== Page 119 ===
+
+ASME BPVC.ILA-2025 SA-20/SA-20M
+
+SPECIFICATION FOR GENERAL REQUIREMENTS FOR
+STEEL PLATES FOR PRESSURE VESSELS
+
+CxS SA-20/SA-20M
+
+(Identical with ASTM Specification A20/A20M-20 except for revision in para. 11.5.3.)
+
+67
+
+=== Page 120 ===
+
+SA·20/SA-20M ASME BPVC.II.A-2025 
+Specification for 
+General Requirements for Steel Plates for Pressure Vessels 
+1. Scope 
+1.1 This general requirements specification covers a group 
+of common requirements that, unless otherwise specified in the 
+applicable product specification, apply to rolled steel plates for 
+pressure vessels covered by each of the following product 
+specifications issued by ASTM: 
+Title of Specification 
+Pressure Vessel Plates, Alloy Steel, Nickel 
+Pressure Vessel Plates, Alloy Steel, Molybdenum 
+Pressure Vessel Plates, Alloy Steel, Manganese-
+Vanadium-Nickel 
+Stainless Chromium Steel-Clad Plate 
+Stainless Chromium-Nickel Steel-Clad Plate 
+Nickel and Nickel-Base Alloy-Clad Steel Plate 
+Pressure Vessel Plates, Carbon Steel, Low- and 
+Intermediate-Tensile Strength 
+Pressure Vessel Plates, Carbon Steel, Manganese-Silicon 
+Pressure Vessel Plates, Alloy Steel, Manganese­
+Molybdenum and Manganese-Molybdenum-Nickel 
+Pressure Vessel Plates, Alloy Steel, Double-
+Normalized and Tempered 9 % Nickel 
+Pressure Vessel Plates, Alloy Steel, Chromium­
+Molybdenum 
+Pressure Vessel Plates, Carbon Steel, High Strength 
+Manganese 
+Pressure Vessel Plates, Carbon Steel, for Intermediate­
+and Higher-Temperature Seivice 
+Pressure Vessel Plates, Carbon Steel, Moderate- and 
+Lower-Temperature Seivice 
+Pressure Vessel Plates, Alloy Steel, High-Strength, 
+Quenched and Tempered 
+Pressure Vessel Plates, Alloy Steel, Quenched and 
+Tempered, Manganese-Molybdenum and Manganese­
+Molybdenum-Nickel 
+ASTM DesignationA 
+A203/A203M 
+A204/A204M 
+A225/A225M 
+A263 
+A264 
+A265 
+A285/A285M 
+A299/A299M 
+A302/A302M 
+A353/A353M 
+A387/A387M 
+A455/A455M 
+A515/A515M 
+A516/A516M 
+A517/A517M 
+A533/A533M 
+68 
+Title of Specification 
+Pressure Vessel Plates, Heat-Treated, Carbon­
+Manganese-Silicon Steel 
+Pressure Vessel Plates, Alloy Steel, Quenched-and­
+Tempered, Chromium-Molybdenum, and Chromium­
+Molybdenum-Vanadium 
+Pressure Vessel Plates, Alloy Steel, Quenched and 
+Tempered Nickel-Chromium-Molybdenum 
+Pressure Vessel Plates, Alloy Steel, Quenched and 
+Tempered 7, 8, and 9 % Nickel 
+Pressure Vessel Plates, Carbon Steel, Manganese­
+Titanium for Glass or Diffused Metallic Coatings 
+Pressure Vessel Plates, Carbon Steel, High Strength, for 
+Moderate and Lower Temperature Seivice 
+Pressure Vessel Plates, 5 % and 5½ % Nickel Alloy 
+Steels, Specially Heat Treated 
+Pressure Vessel Plates, Carbon-Manganese-Silicon 
+Steel, for Moderate and Lower Temperature Seivlce 
+Pressure Vessel Plates, Carbon-Manganese-Silicon 
+Steel, Quenched and Tempered, for Welded Pressure 
+Vessels 
+Pressure Vessel Plates, Low-Carbon Age-Hardening 
+Nickel-Copper-Chromium-Molybdenum-Columbium 
+(Niobium) Alloy Steel 
+Pressure Vessel Plates, High-Strength Low-Alloy Steel 
+Pressure Vessel Plates, Heat-Treated, Carbon­
+Manganese-Silicon Steel, for Moderate and Lower 
+Temperature Seivice 
+Pressure Vessel Plates, Alloy Steel, Chromium­
+Molybdenum-Vanadium 
+Steel Plates for Pressure Vessels, Produced by 
+Thermo-Mechanical Control Process (TMCP) 
+Steel Plates, 9 % Nickel Alloy, for Pressure Vessels, 
+Produced by the Direct-Quenching Process 
+Pressure Vessel Plates, Alloy Steel, Chromium­
+Molybdenum-Tungsten 
+ASTM DesignationA 
+A537/A537M 
+A542/A542M 
+A543/A543M 
+A553/A553M 
+A562/A562M 
+A612/A612M 
+A645/A645M 
+A662/A662M 
+A724/A724M 
+A736/A736M 
+A737/A737M 
+A738/A738M 
+A832/A832M 
+A841/A841M 
+A844/A844M 
+A1017/A1017M 
+A These designations refer to the latest issue of the respective specification which 
+appears in the Annual Book of ASTM Standards, Vol 01.04. 
+1.1.1 This general requirements specification also covers a 
+group of supplementary requirements that are applicable to 
+several of the above product specifications as indicated therein. 
+Such requirements are provided for use if additional testing or 
+additional restrictions are required by the purchaser, and apply 
+only if specified individually in the purchase order. 
+1.2 Appendix Xl provides information on coil as a source 
+of plates for pressure vessels. 
+1.3 Appendix X2 provides information on the variability of 
+tensile properties in plates for pressure vessels. 
+1.4 Appendix X3 provides information on the variability of 
+Charpy-V-Notch impact test properties in plates for pressure 
+vessels.
+
+=== Page 121 ===
+
+ASME BPVC.II.A-2025 SA-20/SA-20M 
+1.5 Appendix X4 provides information on cold bending of 
+plates, including suggested minimum inside radii for cold 
+bending. 
+1.6 These materials are intended to be suitable for fusion 
+welding. When the steel is to be welded, it is presupposed that 
+a welding procedure suitable for the grade of steel and intended 
+use or service will be utilized. 
+1.7 In case of any conflict in requirements, the requirements 
+of the applicable product specification prevail over those of this 
+general requirements specification. 
+1.8 Additional requirements that are specified in the pur­
+chase order and accepted by the supplier are permitted, 
+provided that such requirements do not negate any of the 
+requirements of this general requirements specification or the 
+applicable product specification. 
+1.9 For purposes of determining conformance with this 
+general requirements specification and the applicable product 
+specification, values are to be rounded to the nearest unit in the 
+right-hand place of figures used in expressing the limiting 
+values in accordance with the rounding method of Practice 
+E29. 
+1. 10 The values stated in either SI units or inch-pound units 
+are to be regarded separately as standard. The values stated in 
+each system may not be exact equivalents; therefore, each 
+system shall be used independently of the other. Combining 
+values from the two systems may result in non-conformance 
+with the standard. 
+1.11 This general requirements specification and the appli­
+cable product specification are expressed in both inch-pound 
+units and SI units; unless the order specifies the applicable "M" 
+specification designation (SI units), the plates are to be 
+furnished to inch-pound units. 
+1.12 This international standard was developed in accor­
+dance with internationally recognized principles on standard­
+ization established in the Decision on Principles for the 
+Development of International Standards, Guides and Recom­
+mendations issued by the World Trade Organization Technical 
+Barriers to Trade (TBT) Committee. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+A203/A203M Specification for Pressure Vessel Plates, Alloy 
+Steel, Nickel 
+A204/A204M Specification for Pressure Vessel Plates, Alloy 
+Steel, Molybdenum 
+A225/A225M Specification for Pressure Vessel Plates, Alloy 
+Steel, Manganese-Vanadium-Nickel 
+A263 Specification for Stainless Chromium Steel-Clad Plate 
+A264 Specification for Stainless Chromium-Nickel Steel­
+Clad Plate 
+A265 Specification for Nickel and Nickel-Base Alloy-Clad 
+Steel Plate 
+69 
+A285/A285M Specification for Pressure Vessel Plates, Car­
+bon Steel, Low- and Intermediate-Tensile Strength 
+A299/A299M Specification for Pressure Vessel Plates, Car­
+bon Steel, Manganese-Silicon 
+A302/A302M Specification for Pressure Vessel Plates, Alloy 
+Steel, Manganese-Molybdenum and Manganese­
+Molybdenum-Nickel 
+A353/ A353M Specification for Pressure Vessel Plates, Alloy 
+Steel, Double-Normalized and Tempered 9 % Nickel 
+A370 Test Methods and Definitions for Mechanical Testing 
+of Steel Products 
+A387/A387M Specification for Pressure Vessel Plates, Alloy 
+Steel, Chromium-Molybdenum 
+A435/A435M Specification for Straight-Beam Ultrasonic 
+Examination of Steel Plates 
+A455/ A455M Specification for Pressure Vessel Plates, Car­
+bon Steel, High-Strength Manganese 
+A515/A515M Specification for Pressure Vessel Plates, Car­
+bon Steel, for Intermediate- and Higher-Temperature Ser­
+vice 
+A516/A516M Specification for Pressure Vessel Plates, Car­
+bon Steel, for Moderate- and Lowe.r-Temperature Service 
+AS 17 / A517M Specification for Pressure Vessel Plates, Alloy 
+Steel, High-Strength, Quenched and Tempered 
+A533/ A533M Specification for Pressure Vessel Plates, Alloy 
+Steel, Quenched and Tempered, Manganese-Molybdenum 
+and Manganese-Molybdenum-Nickel 
+A537/A537M Specification for Pressure Vessel Plates, Heat­
+Treated, Carbon-Manganese-Silicon Steel 
+A542/ A542M Specification for Pressure Vessel Plates, Alloy 
+Steel, Quenched-and-Tempered, Chromium-
+Molybdenum, and Chromium-Molybdenum-Vanadium 
+A543/A543M Specification for Pressure Vessel Plates, Alloy 
+Steel, Quenched and Tempered Nickel-Chromium­
+Molybdenum 
+A553/A553M Specification for Pressure Vessel Plates, Alloy 
+Steel, Quenched and Tempered 7, 8, and 9 % Nickel 
+A562/A562M Specification for Pressure Vessel Plates, Car­
+bon Steel, Manganese-Titanium for Glass or Diffused 
+Metallic Coatings 
+A577/A577M Specification for Ultrasonic Angle-Beam Ex­
+amination of Steel Plates 
+A578/A578M Specification for Straight-Beam Ultrasonic 
+Examination of Rolled Steel Plates for Special Applica­
+tions 
+A612/A612M Specification for Pressure Vessel Plates, Car­
+bon Steel, High Strength, for Moderate and Lower Tem­
+perature Service 
+A645/ A645M Specification for Pressure Vessel Plates, 5 % 
+and 5½ % Nickel Alloy Steels, Specially Heat Treated 
+A662/ A662M Specification for Pressure Vessel Plates, 
+Carbon-Manganese-Silicon Steel, for Moderate and 
+Lower Temperature Service 
+A 700 Guide for Packaging, Marking, and Loading Methods 
+for Steel Products for Shipment 
+A724/A724M Specification for Pressure Vessel Plates, 
+Carbon-Manganese-Silicon Steel, Quenched and 
+Tempered, for Welded Pressure Vessels
+
+=== Page 122 ===
+
+SA-20/SA-Z0M ASME BPVC.II.A-2025 
+A736/A736M Specification for Pressure Vessel Plates, Low­
+Carbon Age-Hardening Nickel-Copper-Chromium­
+Molybdenum-Columbium (Niobium) Alloy Steel 
+A 737 / A 737M Specification for Pressure Vessel Plates, High­
+Strength, Low-Alloy Steel 
+A738/A738M Specification for Pressure Vessel Plates, Heat­
+Treated, Carbon-Manganese-Silicon Steel, for Moderate 
+and Lower Temperature Service 
+A751 Test Methods, Practices, and Terminology for Chemi­
+cal Analysis of Steel Products 
+A770/A770M Specification for Through-Thickness Tension 
+Testing of Steel Plates for Special Applications 
+A832/A832M Specification for Pressure Vessel Plates, Alloy 
+Steel, Chromium-Molybdenum-Vanadium 
+A841/A841M Specification for Steel Plates for Pressure 
+Vessels, Produced by Thermo-Mechanical Control Pro­
+cess (TMCP) 
+A844/A844M Specification for Steel Plates, 9 % Nickel 
+Alloy, for Pressure Vessels, Produced by the Direct­
+Quenching Process 
+A941 Terminology Relating to Steel, Stainless Steel, Related 
+Alloys, and Ferroalloys 
+A1017/A1017M Specification for Pressure Vessel Plates, 
+Alloy Steel, Chromium-Molybdenum-Tungsten 
+E21 Test Methods for Elevated Temperature Tension Tests of 
+Metallic Materials 
+E29 Practice for Using Significant Digits in Test Data to 
+Determine Conformance with Specifications 
+E112 Test Methods for Determining Average Grain Size 
+E208 Test Method for Conducting Drop-Weight Test to 
+Determine Nil-Ductility Transition Temperature of Fer­
+ritic Steels 
+E709 Guide for Magnetic Particle Testing 
+2.2 American Society of Mechanical Engineers Code: 
+ASME Boiler and Pressure Vessel Code, Section IX 
+2.3 U.S. Federal Standard: 
+Fed. Std. No. 123 Marking for Shipment (Civil Agencies) 
+2.4 Automotive Industry Action Group Standard: 
+B 1 Bar Code Symbology Standard 
+3. Terminology 
+3.1 Definitions of Terms Specific to This Standard: 
+3.1.1 as-rolled-for plates, the condition of a plate that has 
+been hot-rolled and will not be or has not yet been heat treated. 
+3.1.1.1 Discussion-The term as-rolled by itself is not 
+meant to refer to plates that have been hot-rolled using control­
+rolling (CR), direct quench (DQT), thermo-mechanical control 
+rolling (TMCP), recrystalization control rolling (RCR), or any 
+similar methods that ate intended to produce a set of properties 
+that are not normally achievable were they not employed. The 
+term as-rolled is to be distinguished from the established term 
+70 
+plate-as-rolled that does not define the actual condition of a 
+plate, but defines the singular product of a slab or ingot that has 
+been hot-rolled 
+3.1.2 coil-hot-rolled steel in coil form for processing into 
+finished plates. 
+3.1.3 exclusive-when used in relation to ranges, as for 
+ranges of thicknesses in the tables of permissible variations in 
+dimensions, the term is intended to exclude only the greater 
+value of the range. Thus, a range from 60 to 72 in. [1500 to 
+1800 mm] exclusive includes 60 in. [1500 mm], but does not 
+include 72 in. [1800 mm]. 
+3.1.4 heat treatment terms-see 3.1.11, and Terminology 
+A941. 
+3.1.5 hot forming-a forming operation producing penna­
+nent deformation, performed after the plate has been heated to 
+the temperature required to produce grain refinement. 
+3.1.6 hot-rolled (hot rolling)-for plates, the process de­
+scribed for a plate that has been rolled from a slab or ingot 
+whose starting temperature is suitably above the recrystalliza­
+tion temperature of the metal to be rolled. 
+3.1.6.1 Discussion-Hot-rolled may be used in conjunction 
+with any rolling process to more effectively describe a specific 
+condition, for example; hot-rolled as-rolled; hot-rolled control­
+rolled, etc. 
+3.1.7 manufacturer-the organization that directly controls 
+the conversion of steel ingots or slabs, by hot rolling, into 
+plate-as-rolled or into coil; and for plates produced from 
+plate-as-rolled, the organization that directly controls, or is 
+responsible for, one or more of the operations involved in 
+finishing the plates. Such finishing operations include leveling, 
+cutting to length, testing, inspection, conditioning, heat treat­
+ment (if applicable), packaging, marking, loading for shipment, 
+and certification. 
+3.1.7.1 Discussion-The finishing operations need not be 
+done by the organization that did the hot rolling of the plate. 
+For plates produced from coil, see also 3.1.2. 
+3.1.8 mill edge-the normal edge produced by rolling be­
+tween horizontal finishing rolls. A mill edge does not conform 
+to any definite contour. Mill edge plates have two mill edges 
+and two trimmed edges. 
+3.1.8.1 Discussion-Mill edge plates may at times be side­
+trimmed on one or both sides at the discretion of the manu­
+facturer. 
+3.1.9 plate identifier-the alpha, numeric, or alphanumeric 
+designation used to identify the plate. 
+3.1.10 plates-flat hot-rolled steel, ordered to thickness or 
+weight and typically to width and length, commonly available 
+by size as follows: 
+Width, in. [mm] 
+Over 8 [200] 
+Over 48 [1200] 
+Thickness, in. [mm] 
+over 0.229 [6.0 mm and over] 
+over 0.179 [4.6 mm and over] 
+3.1.10.1 Discussion-Steel plates are available in various 
+thickness, width, and length combinations dependent upon 
+equipment and processing capabilities of various manufactur­
+ers and processors. Historic limitations of a plate based upon 
+dimensions (thickness, width, and length) do not take into
+
+=== Page 123 ===
+
+ASME BPVC.II.A-2025 SA-20/SA-20M 
+account current production and processing capabilities. To 
+qualify any plate to a particular product specification requires 
+that all appropriate and necessary tests be performed and that 
+the results meet the limits prescribed in that product specifi­
+cation. If the necessary tests required by a product specification 
+can not be conducted, the plate can not be qualified to that 
+specification. This general requirements specification contains 
+permitted variations for the commonly available sizes. Permit­
+ted variations for other sizes are subject to agreement between 
+the purchaser and the manufacturer or processor, whichever is 
+applicable. 
+3.1.11 precipitation heat treatment-a subcritical tempera­
+ture thermal treatment performed to cause precipitation of 
+submicroscopic constituents, and so forth, to result in enhance­
+ment of some desirable property. 
+3.1.12 processor-the organization that directly controls, or 
+is responsible for, operations involved in the processing of coil 
+into finished plates. Such processing operations include 
+decoiling, leveling, cutting to length, testing, inspection, 
+conditioning, heat treatment (if applicable), packaging, 
+marking, loading for shipment, and certification. 
+3.1.12.1 Discussion-The processing operations need not be 
+done by the organization that did the hot rolling of the coil. If 
+only one organization is involved in the hot rolling and 
+processing operations, that organization is termed the manu­
+facturer for the hot rolling operation and the processor for the 
+processing operations. If more than one organization is in­
+volved in the hot rolling and processing operations, the 
+organization that did the hot rolling is termed the manufacturer 
+and the organization that does one or more processing opera­
+tions is termed a processor. 
+3.2 Refer to Terminology A941 for additional terms used in 
+this standard. 
+4. Ordering Information 
+4.1 Orders should include the following information, as 
+necessary, to adequately describe the desired product. 
+4.1.1 Quantity (weight [mass] or number of plates), 
+4.1.2 Dimensions, 
+4.1.3 Name of product (for example, plates, carbon steel; 
+plates, alloy steel), 
+4.1.4 Specification designation (including type, class, and 
+grade as applicable) and year-date, 
+4.1.5 Condition (as-rolled, normalized, quenched and 
+tempered, etc. If heat treatment of plate is to be performed by 
+the fabricator, this is to be stated. Also, if purchaser specifies a 
+heat-treatment cycle, this is to be stated), 
+4.1.6 Impact test requirements, if any (see Section 12). (For 
+Charpy V-notch test, include test specimen orientation, testing 
+temperature, and acceptance criteria. For drop-weight test, give 
+testing temperature), 
+4.1.7 Exclusion of either plates produced from coil or plates 
+produced from plate-as-rolled, if applicable. (See 5.4 and 
+Appendix XL) 
+4.1.8 Limits for grain refining elements other than 
+aluminum, if applicable (see 8.3.2), 
+4.1.9 Paint marking (see 13.2.1), 
+71 
+4.1.10 Supplementary requirements, if any (test specimen 
+heat treatment, special impact test requirements, etc.), 
+4.1.11 Provisions for delivery with mill edges and any 
+special permissible variations (see 14.4), and 
+4.1.12 Additional requirements, if any. 
+5. Materials and Manufacture 
+5.1 The steel shall be made in an open-hearth, basic-oxygen, 
+or electric-arc furnace, possibly followed by additional refining 
+in a ladle metallurgy furnace (LMF), or by another method; or 
+secondary melting by vacuum-arc remelting (VAR), electro­
+slag remelting (ESR), or another method. 
+5.2 The steel may be strand cast or cast in stationary molds. 
+5.2.1 Strand Cast Slabs: 
+5.2.1.1 If heats of the same nominal chemical composition 
+are consecutively strand cast at one time, the heat number 
+assigned to the cast product (slab) may remain unchanged until 
+all of the steel in the slab is from the following heat. 
+5.2.1.2 When two consecutively strand cast heats have 
+different nominal chemical composition ranges, the manufac­
+turer shall remove the transition material by any established 
+procedure that positively separates the grades. 
+5.3 The ratio of reduction of thickness from a strand-cast 
+slab to plate shall be at least 3.0:1, except that reduction ratios 
+as low as 2.0: 1 are permitted if all of the following limitations 
+are met: 
+5.3.1 The purchaser agrees to the use of such reduction 
+ratios. 
+5.3.2 The applicable product specification is A299/A299M, 
+A515/A515M, A516/A516M, A537/A537M, A662/A662M, or 
+A737/A737M. 
+5.3.3 The specified plate thickness is 3.0 in. [75 mm] or 
+more. 
+5.3.4 One or more of the following low hydrogen practices 
+are used: vacuum degassing during steelmak:ing; controlled 
+soaking of the slabs or plates; or controlled slow cooling of the 
+slabs or plates. 
+5.3.5 The sulfur content is 0.004 % or less, based upon heat 
+analysis. 
+5.3.6 One or more of the following practices are used: 
+electromagnetic stirring during strand casting; soft reduction 
+during strand casting; heavy pass reductions or other special 
+practices during plate rolling; or combined forging and rolling 
+during plate rolling. 
+5.3.7 The plates are ultrasonically examined in accordance 
+with Specification A578/A578M, Level C based on continuous 
+scanning over 100 % of the plate surface. 
+5.3.8 The plates are through-thickness tension tested in 
+accordance with Specification A770/A770M. 
+5.4 Unless otherwise specified in the purchase order, plates 
+shall be produced from plate-as-rolled or from coil. 
+5.5 Coils are excluded from qualification to the applicable 
+product specification until they are decoiled, leveled, cut to 
+length, and tested by the processor in accordance with the 
+specified requirements (see Sections 9, 10, 11, 12, 13, 14, 15, 
+16, and 20.)
+
+=== Page 124 ===
+
+SA-20/SA-20M ASME BPVC.II.A-2025 
+5.5.1 Plates produced from coil shall not contain splice 
+welds, unless approved by the purchaser. 
+6. Heat Treatment 
+6.1 If plates are required to be heat treated, the heat 
+treatment shall be performed by the manufacturer, the 
+processor, or the fabricator, unless otherwise specified in the 
+applicable product specification. 
+6.2 If the heat treatment required by the applicable product 
+specification is to be performed by the purchaser or the 
+purchaser's agent, and the plates are to be supplied by the 
+manufacturer or processor in a condition other than that 
+required by the applicable product specification, the order shall 
+so state. 
+6.2.1 If plates are ordered without the heat treatment re­
+quired by the applicable product specification, heat treatment 
+of the plates to confonn to the requirements of the applicable 
+product specification shall be the responsibility of the pur­
+chaser. 
+6.3 If heat treatment is to be performed, the plates shall be 
+heat treated as specified in the applicable product specification. 
+The purchaser may specify the heat treatment to be used, 
+provided it is not in conflict with the requirements of the 
+applicable product specification. 
+6.4 If normalizing is to be performed by the fabricator, the 
+plates shall be either normalized or heated uniformly for hot 
+forming, provided that the temperature to which the plates are 
+heated for hot forming does not significantly exceed the 
+normalizing temperature, 
+6.5 If no heat treatment is required, the manufacturer or 
+processor shall have the option of heat treating the plates by 
+normalizing, stress relieving, or normalizing and then stress 
+relieving to meet the requirements of the applicable product 
+specification. 
+6.6 If approved by the purchaser, cooling rates faster than 
+those obtained by cooling in air are permissible to achieve 
+specified mechanical properties, provided that the plates are 
+subsequently tempered in the temperature range from 1100 to 
+1300°F [595 to 705°C]. 
+7. Chemical Composition 
+7.1 Heat Analysis: 
+7.1.1 Sampling for chemical analysis and methods of analy­
+sis shall be in accordance with Test Methods, Practices, and 
+Terminology A751. 
+7.1.2 For each heat, the heat analysis shall include determi­
+nation of the content of carbon, manganese, phosphorus, sulfur, 
+silicon, nickel, chromium, molybdenum, copper, vanadium, 
+columbium (niobium); any other element that is specified or 
+restricted by the applicable product specification for the 
+applicable grade, class, and type; aluminum, if the aluminum 
+content is to be used in place of austenitic grain size testing of 
+the heat (see 8.3.2.1); and any other austenitic grain refining 
+element for which limits are specified in the purchase order 
+(see 8.3.2). 
+7 .1.3 Heat analyses shall conform to the heat analysis 
+requirements of the applicable product specification for the 
+72 
+applicable grade, class, and type. In addition, for elements that 
+are listed in Table 1 but are not specified or restricted in the 
+applicable product specification for the applicable grade, class, 
+and type, heat analyses shall conform to the applicable heat 
+analysis limits given in Table 1. 
+7.2 Product Analysis: 
+7.2.1 Sampling for chemical analysis and methods of analy­
+sis shall be in accordance with Test Methods, Practices, and 
+Terminology A751. 
+7 .2.2 For each plate-as-rolled, the purchaser shall have the 
+option of chemically analyzing a broken tension test specimen 
+or a sample taken from the same relative location as that from 
+which the tension test specimen was obtained. 
+7.2.3 For elements that are specified or restricted by the 
+applicable product specification for the applicable grade, class, 
+and type, product analyses shall conform to the product 
+analysis requirements of the applicable product specification 
+for the applicable grade, class, and type. 
+7.2.4 For elements that are listed in Table 1 but are not 
+specified or restricted by the applicable product specification 
+TABLE 1 Limits on Elements (see 7.1.3 and 7.2.4) 
+Copper, max %A Heat analysis 0.40 
+Product analysis 0.43 
+Nickel, max %A Heat analysis 0.40 
+Product analysis 0.43 
+Chromium, max %A,B Heat analysis 0.30 
+Product analysis 0.34 
+Molybdenum, max %A.a Heat analysis 0.12 
+Product analysis 0.13 
+Vanadium, max %c Heat analysis 0.03 
+Product analysis 0.04 
+Columbium (Niobium), 0 max %E Heat analysis 0.02 
+Product analysis 0.03 
+Titanium, max %F Heat analysis 0,03 
+Product analysis 0.04 
+Boron, max% Heat analysis 0,0010 
+Product analysis 0.0015 
+A In addition for each heat, based upon the heat analysis, the sum of copper, 
+nickel, chromium, and molybdenum shall not exceed 1.00 %, unless one or more 
+of those elements are specified or restricted by the applicable product specification 
+for the applicable grade, class, and type. 
+8 In addition for each heat, based upon the heat analysis, the sum of chromium 
+and molybdenum shall not exceed 0.32 %, unless one or both of those elements 
+are specified or restricted by the applicable product specification for the applicable 
+grade, class, and type. 
+c By agreement between the purchaser and the supplier, the heat analysis limit for 
+vanadium is permitted to be increased to a value not higher than 0.10 %, and the 
+product analysis limit for vanadium is permitted to be increased to a value not 
+higher than 0.11 %. 
+° Columbium and niobium are interchangeable names for the same element and 
+both names are acceptable for use in A01 specifications. 
+E By agreement between the purchaser and the supplier, the heat analysis limit for 
+columbium (niobium) is permitted to be increased to a value not higher that 
+0.05 %, and the product analysis limit for columbium (niobium) is permitted to be 
+increased to a value not higher than 0.06 %. 
+F By agreement between the purchaser and the supplier, the heat analysis limit for 
+titanium is permitted to be increased to a value not higher than 0.04 %, and the 
+product analysis limit for titanium is permitted to be increased to a value not higher 
+than 0.05 %.
+
+=== Page 125 ===
+
+ASME BPVC.II.A-2025 SA-20/SA·20M 
+for the applicable grade, class, and type, product analyses shall 
+conform to the applicable product analysis limits given in 
+Table 1. 
+7.3 Referee Analysis-For referee purposes, Test Methods, 
+Practices, and Terminology A751 shall be used. 
+8. Metallurgical Structure 
+8.1 Where austenitic grain size testing is required, such 
+testing shall be a McQuaid Ehn test in accordance with Test 
+Methods El12 and at least 70 % of the grains in the area 
+examined shall meet the specified grain size requirement. 
+8.2 Coarse Austenitic Grain Size-Where coarse austenitic 
+grain size is specified one austenitic grain size test per heat 
+shall be made and the grain size number so determined shall be 
+in the range of 1 to 5 inclusive. 
+8.3 Fine Austenitic Grain Size: 
+8.3.1 Except as allowed in 8.3.2, and when fine austenitic 
+grain size is specified, or when the producer elects to determine 
+the grain size, one McQuaid Ehn test per heat shall be made 
+and the austenitic grain size number so determined shall be 5 
+or higher, and the chemical requirements of 8.3.2 do not apply. 
+NoTE 1-Such austenitic grain size numbers may be achieved with 
+lower contents of austenitic grain refining elements than 8.3.2 requires for 
+austenitic grain size testing to be waived. 
+8.3.2 Unless testing for fine austenitic grain size is specified 
+in the purchase order or the producer elects to test for fine 
+austenitic grain size, the austenitic grain size test need not be 
+made for any heat that has, by heat analysis, one or more of the 
+following: 
+8.3.2.1 A total aluminum content of 0.020 % or more. 
+8.3.2.2 An acid soluble aluminum content of 0.015 % or 
+more. 
+8.3.2.3 A content for an austenitic grain refining element 
+that exceeds the minimum value agreed to by the purchaser as 
+being sufficient for austenitic grain size testing to be waived. 
+8.3.2.4 Contents for the combination of two or more auste­
+nitic grain refining elements that exceed the applicable mini­
+mum values agreed to by the purchaser as being sufficient for 
+austenitic grain size testing to be waived. 
+8.3.2.5 The analysis for the elements mentioned in 8.3.2.1, 
+8.3.2.2, 8.3.2.3, or 8.3.2.4 shall be included in the test report. 
+9. Quality 
+9.1 General-Plates shall be free of injurious defects and 
+shall have a workmanlike finish. 
+9.2 Surface Impeifections: 
+9.2.1 For plates produced from plate-as-rolled, all injurious 
+surface imperfections shall be removed by the manufacturer. 
+For plates produced from coil, all injurious surface imperfec­
+tions shall be removed by the processor. 
+9.2.1.1 Shallow imperfections shall be ground to sound 
+metal; the ground area shall be well faired and the thickness of 
+the ground plate shall not be reduced below the minimum 
+thickness permitted. 
+9 .2.1.2 All surface imperfections, the removal of which will 
+reduce the plate thickness below the minimum thickness 
+permitted, shall be cause for rejection of the plate, except that, 
+73 
+by agreement with the purchaser, the metal so removed may be 
+replaced with weld metal (see 9.4). 
+9.3 Edge Impeifections: 
+9.3.1 Laminar-type discontinuities 1 in. [25 mm] and less in 
+length visible to the unaided eye on an edge of a plate as 
+prepared for shipment by the manufacturer or processor are 
+acceptable and do not require exploration. 
+9.3.2 All larger discontinuities shall be explored to deter­
+mine their depth and extent. Discontinuities shall be considered 
+continuous when located in the same plane within 5 % of the 
+plate thickness and separated by a distance less than the length 
+of the smaller of two adjacent discontinuities. 
+9.3.3 Indications visible to the unaided eye on the cut edges 
+of a plate as prepared for shipment by the manufacturer or 
+processor shall not exceed the limits given in Columns 1 and 2 
+of Table Al.14 [A2.14]. 
+9.3.4 Larger indications shall be removed by the manufac­
+turer or processor by grinding, provided that the resultant 
+cavity does not exceed the limits given in Columns 3 and 4 of 
+Table Al.14 [A2.14]. 
+9.3.5 Indications of greater magnitude shall be cause for 
+rejection of the plate, except that, by agreement with the 
+purchaser, the defects may be removed and replaced with weld 
+metal (see 9.4). 
+9.3.6 Indications on the edges of a plate cut during the 
+fabrication shall be cause for rejection of the plate at the 
+discretion of the purchaser if the magnitude exceeds the limits 
+given in Columns 5 and 6 of Table Al .14 [ A2. l 4]. The defects 
+may be removed and replaced with weld metal (see 9.4). 
+9.3.7 Fabricators should be aware that edge cracks may 
+initiate upon bending a sheared or burned edge during the 
+fabrication process. This is not considered to be a fault of the 
+steel, but is rather a function of the induced cold work or heat 
+affected zone. 
+9.4 Repair by Welding: 
+9.4.1 Repair welding shall be permitted only with the 
+approval of the purchaser. 
+9.4.2 Preparation for repair welding shall include inspection 
+to confirm complete removal of the defect. 
+9.4.3 Repairs shall be made utilizing welding procedures 
+qualified in accordance with Section IX of the 
+ASME Boiler and Pressure Vessel Code and repair welding 
+shall be done by welders or welding operators meeting the 
+qualification requirements of Section IX. 
+9.4.4 The weld metal shall have the A-number analysis 
+corresponding to the equivalent ASME P-number of the plate, 
+except that A-1 or A-2 analysis weld metal may be employed 
+for P-1 plates. Other weld metals may be employed that are 
+compatible with the plate being repaired, if so approved by the 
+purchaser. Such weld metals shall be qualified in accordance 
+with the requirements of Section IX of the 
+ASME Boiler and Pressure Vessel Code. 
+9.4.5 If Charpy impact tests of the plate are required, the 
+welding procedure qualification tests shall also include Charpy 
+impact tests of the weld, the heat-affected zone, and the plate, 
+and the test results shall be reported to the purchaser. 
+9 .4.6 If the plate is subjected to normalizing, quenching and 
+tempering, hot forming, or post-weld heat treating, the welding
+
+=== Page 126 ===
+
+SA-20/SA-Z0M ASME BPVC.II.A-2025 
+procedure qualification test plates and the weld repaired plate 
+shall be subjected to the thermal heat treatment as specified by 
+the purchaser. 
+9.4.7 In addition, repair welds shall meet the requirements 
+of the construction code specified by the purchaser. 
+10. Test Methods 
+10.1 All tests shall be conducted in accordance with Test 
+Methods and Definitions A370. 
+10.2 Yield strength shall be determined by either the 0.2 % 
+offset method or the 0.5 % extension under load method, unless 
+otherwise stated in the applicable product specification. 
+10.3 Rounding Procedures-For purposes of determining 
+conformance with the applicable product specification, a cal­
+culated value shall be rounded to the nearest 1 ksi [5 MPa] for 
+tensile and yield strengths, and to the nearest unit in the 
+right-hand place of figures used in expressing the limiting 
+value for other values, in accordance with the rounding method 
+given in Practice E29. 
+11. Tension Tests 
+11.1 Number of Test Coupons: 
+11.1.1 Plates Produced from As-Rolled Plates-For other 
+than quenched and tempered plates, one tension test coupon 
+shall be taken from each plate-as-rolled. Two tension test 
+coupons shall be taken from each quenched and tempered 
+plate, as heat treated. If plates are furnished by the manufac­
+turer or processor in accordance with 11.4.2 and qualified by 
+using test specimens taken from heat-treated test coupons 
+(including normalized, normalized and tempered, and 
+quenched and tempered), one tension test coupon shall be 
+taken from each plate-as-rolled (see Terminology A941 for the 
+definition of plate-as-rolled). 
+11.1.2 Plates Produced from Coil and Furnished without 
+Heat Treatment or with Stress Relieving Only-Except as 
+allowed by 11.1.2.1 and 11.1.4, a minimum of three tension 
+coupons shall be taken from each coil as follows: 
+11.1.2. l The first test coupon shall be taken immediately 
+prior to the first plate to be qualified to the applicable product 
+specification, the second test coupon shall be taken from the 
+approximate center lap, and the third test coupon shall be taken 
+immediately after the last plate to be qualified to the applicable 
+product specification. If, during decoiling, the amount of 
+material decoiled is less than that required to reach the next 
+standard test location, a test for qualification of that particular 
+portion of the coil shall be made from a test coupon taken from 
+a location adjacent to the innermost portion decoiled. 
+11.1.2.2 All plates between any two test locations that meet 
+the requirements of the applicable product specification are 
+acceptable. 
+11. l.2.3 All plates between a test location that fails to meet 
+the requirements of the applicable product specification and an 
+adjacent test location that meets the requirements of the 
+applicable product specification are rejectable, except that the 
+processor has the option to malce other tests after cutting back 
+the coil in either direction. 
+11.1.3 Plates Produced from Coil and Furnished Heat 
+Treated by Other than Stress Relieving-For other than 
+74 
+quenched and tempered plates, one tension test coupon shall be 
+taken from each coil. Two tension test coupons shall be taken 
+from each quenched and tempered plate, as heat treated. 
+11.1.4 Plates Produced from Coil and Qualified Using Test 
+Specimens Taken from Test Coupons Heat Treated by Other 
+than Stress Relieving-One tension test coupon shall be taken 
+from each coil. 
+11.2 Orientation of Test Specimens-The longitudinal axis 
+of the tension test specimens shall be transverse to the final 
+rolling direction of the plate. 
+11.3 Location of Test Coupons-Tension test coupons shall 
+be taken from a corner of the plate. For quenched and tempered 
+plates, the two tension test coupons shall be taken from 
+opposite ends of the plate. 
+11.4 Tests from Heat-Treated Plates: 
+11.4.1 If heat treatment is performed by the manufacturer or 
+processor, the test specimens shall be taken from the plate in 
+the heat-treated condition or from full-thickness coupons 
+simultaneously heat treated with the plate. 
+11.4.2 If heat treatment is to be performed by the fabricator, 
+the plates shall be accepted on the basis of tests made on test 
+specimens taken from full-thickness coupons heat treated in 
+accordance with the requirements specified in the applicable 
+product specification or the purchase order. If the heat­
+treatment temperatures are not specified, the manufacturer or 
+processor shall heat treat the coupons under conditions it 
+considers appropriate. The purchaser shall be informed of the 
+procedure followed in heat treating the specimens. 
+11.4.3 If approved by the purchaser, the procedures of 
+11.4.2 may be implemented on plates heat treated by the 
+manufacturer or processor, except that for plates that are 
+quenched and tempered, all testing required the specification or 
+the purchase order must be performed after plate heat 
+treatment, in accordance with 11.1.1 and 11.4.4, and the results 
+reported. 
+11.4.4 For plates that are heat treated with a cooling rate 
+faster than still-air cooling from the austenitizing temperature, 
+one of the following shall apply in addition to other require­
+ments specified herein: 
+11.4.4.1 The gage length of the tension test specimen shall 
+be talcen at least IT from any as-heat treated edge, where Tis 
+the thickness of the plate, and shall be at least ½ in. [12.5 mm] 
+from flame-cut or heat-affected-zone surfaces. 
+11.4.4.2 A steel thermal buffer pad, 1 Tby lTby at least 3T, 
+shall be joined to the plate edge by a partial penetration weld 
+completely sealing the buffered edge prior to heat treatment. 
+11.4.4.3 Thermal insulation or other thermal barriers shall 
+be used during the heat treatment adjacent to the plate edge 
+where the test specimens are to be removed. It shall be 
+demonstrated that the cooling rate of the tension test specimen 
+is no faster than, and not substantially slower than, that attained 
+by the method described in 11.4.4.2. 
+11 .4.4.4 When test coupons cut from the plate but heat 
+treated separately are used, the coupon dimensions shall be not 
+less than 3T by 3T by T and each tension test specimen cut 
+from it shall meet the requirements of 11.4.4.1.
+
+=== Page 127 ===
+
+ASME BPVC.II.A-2025 SA-20/SA-Z0M 
+11.4.4.5 If cooling rate data for the plate and cooling rate 
+control devices for the test coupons are available, the test 
+coupons may be heat treated separately in the device, provided 
+that this method is approved by the purchaser. 
+11.5 Test Specimen Preparation: 
+11.5.1 Tension test specimens for plates¾ in. [20 mm] and 
+under in thickness shall be the full thickness of the plates. The 
+test specimens shall conform to the requirements for either the 
+1 ½-in. [ 40-mm] wide or the ½-in. [12.5-mm] wide rectangular 
+tension test specimen of Test Methods and Definitions A370. 
+The 1 ½-in. [ 40-mm] wide test specimen may have both edges 
+parallel. The ½-in. [12.5-mm] wide specimen may have a 
+maximum nominal thickness of¾ in. [20 mm]. 
+11.5.2 For plates up to 4 in. [100 mm], inclusive, in 
+thickness, tension test specimens may be the full thickness of 
+the plate and conform to the requirements for the 1 ½-in. 
+[ 40-mm] wide rectangular tension test specimen of Test Meth­
+ods and Definitions A370 if adequate testing machine capacity 
+is available. 
+11.5.3 For plates over¾ in. [20 mm] in thickness, except as 
+permitted in 11.5.2, tension test specimens shall conform to the 
+requirements for the 0.500-in. [12.5-mm] diameter test speci­
+men of Test Methods and Definitions A370. For plates between 
+3/4 in. [20 mm] and 1-1/2 in. [40 mm] inclusive in thickness, the 
+axis of the test specimen shall be located at 1/2 T, the center of 
+the thickness. For plates over 1-1/2 in. [40 mm], the axis of the 
+test specimen shall be located at l/4T, midway between the center 
+of the thickness and the top or the bottom surface of the plate. 
+11.6 Elongation Requirement Adjustments: 
+11.6.1 Due to the specimen geometry effect encountered 
+when using the rectangular tension test specimen for testing 
+thin plate, adjustments in elongation requirements must be 
+provided for thicknesses under 0.312 in. [8 mm]. Accordingly, 
+the following deductions shall be made from the base elonga­
+tion requirements in the applicable product specification: 
+Elongation 
+Deduction,% Plate Nominal Thickness Range, in. [mm] 
+0.299-0.311 [7.60-7.89] 0.5 
+0.286-0.298 [7.30-7.59] 1.0 
+0.273-0.285 [7.00-7.29] 1.5 
+0.259-0.272 [6.60-6.99] 2.0 
+0.246-0.258 [6.20-6.59] 2.5 
+0.233-D.245 [5.90-6.19] 3.0 
+0.219-0.232 [5.50-5.89] 3.5 
+0.206-0.218 [5.20-5.49] 4.0 
+0.193-0.205 [4.90-5.19] 4.5 
+less than 0.193 [4.90] 5.0 
+11.6.2 Due to the inherently lower elongation that is obtain­
+able in thicker plate, adjustments in elongation requirements in 
+2-in. [50-mm] gage length shall be provided for thicknesses 
+over 3.5 in. [90 mm]. Accordingly, the following deductions 
+shall be made from the base elongation requirements in 2 in. 
+[50 mm] prescribed in the applicable product specification: 
+Elongation 
+Deduction, % Plate Nominal Thickness Range, in. [mm] 
+3.501-3.999 [90.00-102.49] 0.5 
+4.000-4.499 [102.50-114.99] 1.0 
+4.500-4.999 [115.00-127.49] 1.5 
+5.000-5.499 [127.50-139.99] 2.0 
+5.500-5.999 [140.0-152.49] 2.5 
+6.000 and thicker [152.50 and thicker] 3.0 
+11.6.3 A characteristic of certain types of alloy steels is a 
+local disproportionate increase in the degree of necking down 
+or contraction of the test specimens during the tension test, 
+resulting in a decrease in the percentage of elongation as the 
+75 
+gage length is increased. The effect is not so pronounced in 
+thicker plates. For such material, if so stated in the applicable 
+product specification for plates up to¾ in. [20 mm], inclusive, 
+in thickness, if the percentage of elongation of an 8-in. 
+[200-mm] gage length test specimen falls not more than 3 
+percentage points below the amount prescribed, the elongation 
+shall be considered satisfactory if the percentage of elongation 
+in 2 in. [50 mm] across the break is not less than 25 %. 
+11.6.4 The tensile requirements tables in many of the 
+product specifications covered by this general requirements 
+specification specify elongation requirements in both 8-in. 
+[200-mm] and 2-in. [50-mm] gage lengths. Unless otherwise 
+provided in the applicable product specification, both require­
+ments are not required to be applied simultaneously, and the 
+elongation need only be determined in the gage length appro­
+priate for the test specimen used. After selection of the 
+appropriate gage length, the elongation requirement for the 
+alternative gage length shall be deemed not applicable. 
+11. 7 This specification does not provide requirements for 
+product tension testing subsequent to shipment (see 15.1). 
+Therefore, the requirements of 11.1 through 11.6 and Section 
+16 apply only for tests conducted at the place of manufacture 
+prior to shipment. Compliance to Specification A20/20M and 
+the applicable product specification does not preclude the 
+possibility that product tension test results may vary outside 
+specified ranges. The tensile properties will vary within the 
+same plate-as-rolled or piece, be it as-rolled, control-rolled, or 
+heat-treated. The purchaser should, therefore, be aware that 
+tension testing in accordance with the requirements of Speci­
+fication A20/ A20M does not provide assurance that all prod­
+ucts of a plate-as-rolled will be identical in tensile properties 
+with the products tested; If the purchaser wishes to have more 
+confidence than that provided by Specification A20/ A20M 
+testing procedures, additional testing or requirements, such as 
+Supplementary Requirement S4, should be imposed. 
+11.8 Appendix X2 provides additional information on the 
+variability of tensile properties in plates for pressure vessels. 
+12. Notch-Toughness Tests 
+12.1 Charpy V-Notch Tests: 
+12.1.1 Number of Tests-If Charpy V-Notch tests are 
+specified, except for quenched and tempered plates, and except 
+as allowed by 12.1.1.1 and 12.1.1.2, one impact test (3 
+specimens) for each specified orientation (see 12.1.2) shall be 
+made from each plate-as-rolled. For quenched and tempered 
+plates, one impact test shall be made from each plate, as heat 
+treated. 
+12.1.1.1 Plates Ordered Without the Heat Treatment Speci­
+fied by the Applicable Product Specification-Coupons for 
+Charpy V-notch tests shall be taken in accordance with the 
+same requirements as given for tensile test coupons in 11.4.2 
+and 11.4.3. 
+12.1.1.2 Plates Produced from Coil-If Charpy V-notch 
+tests are specified, the number of impact tests required shall be 
+the same as the number specified for tension tests in 11.1.2 or 
+11.1.3, whichever is applicable. The test coupons shall be taken 
+from the material after decoiling and leveling.
+
+=== Page 128 ===
+
+SA-20/SA-Z0M ASME BPVC.II.A-2025 
+12.1.2 Orientation of Test Specimens-The long axis of the 
+test specimens shall be oriented either longitudinal (parallel to 
+the final direction of rolling) or transverse (transverse to the 
+final direction of rolling), as specified in the applicable product 
+specification or the purchase order. 
+12.1.3 Location of Test Coupons-The impact test coupons 
+shall be taken adjacent to the tension test coupons. The impact 
+test coupons shall be subject to the same requirements as those 
+specified for tension tests in 11.4, except that the provisions of 
+11.4.4.1 apply to the area under the notch of the impact test 
+specimen instead of to the gage length of the tension test 
+specimen. 
+12.1.4 Test Method-Impact testing shall be performed in 
+accordance with Test Methods and Definitions A370 using 
+Charpy V-notch (Type A) specimens as shown in Test Methods 
+and Definitions A370. Except as allowed by 12.1.4.1, full-size 
+specimens (0.394 by 0.394 in. [10 by 10 mm]) shall be used if 
+the plate thickness permits, and their central axis shall corre­
+spond as near as practical to the ¼ t plane in the plate thickness 
+t. If the plate thickness is insufficient to obtain full-size 
+specimens, the largest possible subsize specimens shall be 
+used. 
+12.1.4.1 For plates that normally have absorbed energy 
+values in excess of 180 ft-lbf [245 J] if tested using full-size 
+specimens at the specified testing temperature, subsize 0.394 
+by 0.264 in. [10 by 6.7 mm] specimens may be used in lieu of 
+full-size specimens; however, if this option is used, the 
+acceptance value shall be 75 ft-lbf [100 J] minimum for each 
+test specimen and the lateral expansion in mils [micrometres] 
+shall be reported. 
+12.1.5 Test Temperature-The test temperature shall be as 
+specified by the product specification, if applicable, or by the 
+purchaser, except that the manufacturer or processor shall have 
+the option of using a lower test temperature. The actual test 
+temperature used shall be reported with the test results. 
+12.1.6 Acceptance Criteria-The acceptance criteria shall 
+be as specified by the product specification, if applicable, or the 
+purchaser. 
+12.1.6.1 If the acceptance criteria is based upon energy 
+absorption of a full-size specimen, the acceptance criteria for 
+the various subsize specimens shall be as given in TableAl.16 
+[A2.16], except as otherwise provided in 12.1.4.1. 
+12.1.6.2 If the acceptance criterion is based upon lateral 
+expansion opposite the notch, the acceptance value shall be the 
+same for all sizes of test specimens. 
+12.1.7 Marking-The letters "LTV" shall be stenciled or 
+stamped on each plate following the class number, grade, etc. 
+12.1.8 Variability-The impact properties of steel can vary 
+within the same plate-as-rolled or piece, be it as-rolled, 
+control-rolled, or heat-treated. The purchaser should, therefore, 
+be aware that testing of one plate-as-rolled does not provide 
+assurance that all locations within a plate-as-rolled will be 
+identical in toughness with the location tested. Normalizing or 
+quenching and tempering the product will reduce the degree of 
+variation. 
+12.1.8.1 Appendix X3 provides additional information on 
+the variability of Charpy V-notch test properties in plates for 
+pressure vessels. 
+76 
+12.2 Drop-Weight Tests: 
+12.2.1 Where specified, one drop-weight test, consisting of 
+a set of two test specimens, shall be made to the same 
+frequency stated in 12.1.1 in accordance with Test Method 
+E208. 
+12.2.2 The test coupons shall be obtained adjacent to a 
+tension test coupon. For plates produced from coil, the test 
+coupon locations shall be the same as for Charpy V-notch tests. 
+(See 12.1.) The provisions of 12.1.3 shall also apply. 
+12.2.3 The testing temperature shall be as specified in the 
+applicable product specification or the purchase order. 
+12.2.4 Acceptance shall be on the basis of no-break perfor­
+mance of both test specimens at the specified testing tempera­
+ture. 
+12.2.5 The plates shall be marked as required in 12.1.7, 
+except that the letters "LTD" shall be used instead of "LTV." 
+13. Identification of Plates 
+13.1 Required Markings: 
+13.1.1 Except as allowed by 13.4, plates shall be legibly 
+marked with the following information: applicable ASTM 
+designation (see 1.1) (year of issue not required); "G" or" MT" 
+if applicable (see 13.1.2); applicable grade, type, and class; 
+heat number; plate identifier; and name, brand, or trademark of 
+the manufacturer (for plates produced in discrete cut lengths of 
+flat product) or the processor (for plates produced from coil and 
+for subdivided plates (see 13.4)). 
+13.1.2 Plates that are required to be heat treated, but have 
+not been so heat treated, shall be marked, by the manufacturer 
+or processor, with the letter "G" ( denoting green) following the 
+required ASTM designation mark, except that "G" marking is 
+not necessary if such plates are for shipment, for the purpose of 
+obtaining the required heat treatment, to an organization under 
+the manufacturer's control. Plates that are required to be heat 
+treated, and have been so heat treated, shall be marked, by the 
+party that performed the heat treatment, with the letters "MT" 
+( denoting material treated) following the required ASTM 
+designation mark. 
+Norn 2-Any stress relief of test specimens intended to simulate 
+post-weld heat treatment is not included in the above heat treatment. 
+13.2 Types of Marking: 
+13.2.1 Except as allowed by 13.4, the required markings for 
+plates over ¼ in. [6 mm] in thickness shall be by steel die 
+stamping, unless paint marking is specified in the purchase 
+order. 
+13.2.2 Except as allowed by 13.4, the required markings for 
+plates ¼ in. [6 mm] and under in thickness shall be by paint 
+marking or by steel die stamping using low-stress (either 
+round-nose or interrupted-dot) impressions. 
+13.3 Location of Markings: 
+13.3.1 Except as allowed by 13.4, the required markings for 
+plates with a maximum lengthwise or crosswise dimension 
+more than 72 in. [1800 mm] shall be in at least two places on 
+each finished plate, at least 12 in. [300 mm] from the edges of 
+the plate. 
+13.3.2 Except as allowed by 13.4, the required markings for 
+plates with a maximum lengthwise and crosswise dimension of
+
+=== Page 129 ===
+
+ASME BPVC.II.A-2025 SA-20/SA-ZOM 
+72 in. [1800 mm] or less shall be in at least one place on each 
+finished plate, approximately midway between the center and 
+an edge of the plate. 
+13.4 Subdivided Plates: 
+13.4.1 By agreement between the purchaser and the manu­
+facturer or processor, each subdivided plate (a plate separated 
+from a master plate) shall be legibly marked with the name, 
+brand, or trademark of the organization that subdivided the 
+plate plus a code traceable to the required markings, provided 
+that the information required in 13.1, cross referenced to that 
+code, is furnished with the plates. 
+13.4.2 By agreement between the purchaser and the manu­
+facturer or processor, subdivided plates that are from the same 
+master plate and placed in secured lifts shall have the infor­
+mation required in 13.1 paint marked on the top piece of each 
+lift or shown on a substantial tag attached to each lift. 
+13.5 Bar Coding-In addition to the requirements of 13.1 to 
+13.4 inclusive, the manufacturer or processor shall have the 
+option of using bar coding as a supplementary identification 
+method. 
+Norn 3-Bar coding should be consistent with AIAG Standard B 1. 
+14. Permissible Variations in Dimensions or Mass 
+14.1 One cubic foot of rolled steel shall be assumed to 
+weigh 490 lb, unless otherwise stated in the applicable product 
+specification. One cubic metre of rolled steel is assumed to 
+have a mass of 7850 kg, unless otherwise stated in the 
+applicable product specification. 
+14.2 For carbon steel plates the permissible variations for 
+dimensions shall not exceed the applicable limits stated in 
+Annex Al, Table Al.I to Table Al.9, and Table Al.13 [Annex 
+A2, Table A2.1 to Table A2.9, and Table A2.13]. 
+14.3 For alloy steel plates the permissible variations for 
+dimensions shall not exceed the applicable limits stated in 
+Annex 1, Table Al.I to Table Al.4, Table Al.8, and Table 
+Al.IO to Table Al.13 [Annex 2, Table A2.l to Table A2.4, 
+Table A2.8 and Table A2.10 to Table A2.13]. 
+14.4 Permitted vaiiations on length and width for plates 
+supplied on other than strip mills as mill edge shall be at the 
+discretion of the manufacturer unless otherwise agreed to with 
+the purchaser. For mill edge carbon steel, high-strength low­
+alloy, and alloy plates produced on strip mills, the permitted 
+variation in width shall not exceed the applicable limit stated in 
+Table Al.17 [A2.16]. For mill edge carbon steel, high-strength 
+low-alloy, and alloy plates produced on mill other than strip 
+mills the permitted variation in width stated in Table Al.17 
+[A2.16] may be specified only upon agreement between the 
+manufacturer and the purchaser. Mill edge plates as delivered 
+shall be capable of being trimmed by the purchaser to the 
+required final rectangular size ordered. 
+14.5 Conversions of Permitted Variations from Fractions of 
+an Inch to Decimals-Pennitted variations in dimensions for 
+products covered by this specification are generally given as 
+fractions of inch and these remain the official permitted 
+variations, where so stated. If the material is to be measured by 
+equipment reporting dimensions as decimals, conversion of 
+77 
+permitted variations from fractions of an inch to decimals shall 
+be made to three decimal places; using the rounding method 
+prescribed in Practice E29. 
+15. Inspection and Testing 
+15.1 The inspector representing the purchaser shall have 
+entry at all times while work on the contract of the purchaser 
+is being pe1formed, to all parts of the manufacturer's works 
+that concern the manufacture of the plate ordered. The manu­
+facturer shall afford the inspector all reasonable facilities to be 
+satisfied that the plate is being furnished in accordance with 
+this general requirements specification, the applicable product 
+specification, and the purchase order. All tests (except product 
+analysis) and inspection shall be made at the place of manu­
+facture prior to shipment, unless otherwise specified, and shall 
+be so conducted as not to inte1fere unnecessarily with the 
+operation of the manufacturer's works. 
+15.2 If plates are produced from coil, 15.1 shall apply to the 
+"processor" instead of to the "manufacturer" and the "place of 
+process" shall apply instead of the "place of manufacture." If 
+plates are produced from coil and the processor is different 
+from the manufacturer, the inspector representing the purchaser 
+shall have free entry, at all times while work on the contract of 
+the purchaser is being performed, to all parts of the manufac­
+turer's works that concern the manufacture of the plate 
+ordered. 
+16. Retests 
+16.1 Tension Test-In addition to the prov1s1ons of Test 
+Methods and Definitions A370, the following retest provisions 
+shall apply: 
+16.1.1 If any test specimen shows defective machining, or 
+develops flaws, it may be discarded and another test specimen 
+substituted. 
+16.1.2 If the percentage of elongation of any tension test 
+specimen is less than that specified, and any part of the fracture 
+is more than ¾ in. [20 mm] from the center of the gage length 
+of a 2-in. [50-mm] test specimen or is outside the middle half 
+of the gage length of an 8-in. [200-mm] test specimen as 
+indicated by scribe marks on the test specimen before testing, 
+one retest shall be allowed. 
+16.1.3 If the results from an original tension test specimen 
+fail to meet the specified requirements but are within 2 ksi [10 
+MPa] of the required tensile strength or within 1 ksi [5 MPa] 
+of the required yield strength or yield point, or within 2 
+percentage points of the required elongation or reduction of 
+area, one retest shall be pennitted to replace the failing test. 
+16.1.4 The results of the retest shall meet the specified 
+requirements. 
+16.2 Charpy V-Notch Tests: 
+16.2.1 The retest provisions of Test Methods and Defini­
+tions A370 shall apply, except that the 5 ft·lbf [7 J] absolute 
+minimum for an individual specimen shall not apply if two 
+thirds of the specified minimum average is less than 5 ft-lbf [7 
+J]. 
+16.2.2 If Charpy V-notch impact test lateral expansion 
+values are specified, if the value of one specimen falls below 
+the specified minimum value and not below 2/3 of the specified
+
+=== Page 130 ===
+
+SA-20/SA-Z0M ASME BPVC.II.A-2025 
+minimum value, and if the average of the three specimens 
+equals or exceeds the specified minimum value, a retest of 
+three additional specimens may be made. Each of the three 
+retest specimens shall equal or exceed the specified minimum 
+value. 
+16.2.3 If the required values are not obtained on Charpy 
+V-notch retests as specified in 16.2.1 and 16.2.2, or if the 
+values in the initial test are below the values required for retest, 
+no further retests are permitted unless the plate is heat treated 
+or reheat treated. After heat treatment or reheat treatment, a set 
+of three specimens shall be tested and each shall equal or 
+exceed the specified minimum value. 
+16.2.4 If the option of 12.1.4.1 is used and the test result 
+falls below the 7 5 ft- lbf [ 100 J] minimum specified, another test 
+may be made using full-size test specimens. 
+17. Retreatment 
+17 .1 If any heat-treated plate fails to meet the mechanical 
+requirements of the applicable product specification, the manu­
+facturer or processor shall have have the option of heat treating 
+the plate again. All mechanical-property tests shall be repeated 
+and the plate surface shall be reexamined for surface defects 
+when it is resubmitted for inspection. 
+18. Rejection 
+18.1 Any rejection based upon product analysis made in 
+accordance with the applicable product specification shall be 
+reported to the supplier and samples that represent the rejected 
+plate shall be preserved for 2 weeks from the date of notifica­
+tion of such rejection. In case of dissatisfaction with the results 
+of the tests, the supplier shall have the option of making claim 
+for a rehearing within that time. 
+18.2 Plates that show injurious defects subsequent to their 
+acceptance at the manufacturer's or processor's works may be 
+rejected. In such cases, the manufacturer or processor shall be 
+notified. 
+19. Test Reports 
+19.1 The manufacturer or processor shall report the results 
+of all tests required by the applicable product specification, the 
+applicable supplementary requirements, and the purchase or­
+der. The heat number, the plate identifier of the plate tested, and 
+the nominal plate thickness shall be shown on the test report. 
+The year-date of the specification to which the plates are 
+furnished shall be included in the test report. 
+19.1.1 In reporting elongation values, both the percentage 
+increase and the original gage length shall be stated. 
+19.2 For plates rolled from a strand-cast slab with a reduc­
+tion ratio in the range from 2.0: 1 to 3.0: 1, exclusive, the 
+specific practices (see 5.3.4 and 5.3.6) that were used by the 
+manufacturer shall be reported, and the test reports shall state 
+that the limitations of 5.3 have been met. 
+19.3 All heat treatment, exclusive of subcritical heating to 
+soften thermally cut edges, shall be reported, including tem­
+perature ranges and times at temperature. This exclusion does 
+not apply to those plates with specified minimum tensile 
+strengths of 95 ksi [655 MPa] or higher, unless such subcritical 
+78 
+heating is accomplished at temperatures at least 75°F [40°C] 
+below the minimum tempering temperature. The reports shall 
+state whether the plates only, the test coupons only, or both 
+plates and test coupons were heat treated. 
+19 .4 If Charpy V-notch tests are specified, the test specimen 
+size used shall be reported. 
+19.5 If so specified in the purchaser order, the manufacturer 
+shall also furnish a certificate of compliance stating that the 
+plates have been manufactured, inspected, and tested in accor­
+dance with the requirements of the applicable product specifi­
+cation. For plates produced from coil, the processor shall 
+furnish the required certification. 
+19.6 For plates produced from coil and furnished without 
+heat treatment or with stress relieving only, the results of all 
+tests required by 11.1.2 shall be reported for each qualifying 
+coil. 
+19.7 Plates that are required to be heat treated, but have not 
+been so heat treated, shall be certified by the responsible 
+manufacturer on the basis of tests made on heat treated 
+coupons and such tests shall be made and reported. For plates 
+where the heat treatment of the coupons consists of quench and 
+tempering, the manufacturer or processor responsible for the 
+heat treatment of the plate shall repeat any required mechanical 
+tests after plate heat treatment and they shall be the basis for 
+final certification of the plate. 
+19.8 A signature is not required on the test report; however, 
+the document shall clearly identify the organization submitting 
+the report. Notwithstanding the absence of a signature, the 
+organization submitting the report is responsible for the content 
+of the report. 
+19.9 Copies of the original manufacturer's test report shall 
+be included with any subsequent test report. 
+19 .10 A test report, certificate of compliance, or similar 
+document printed from or used in electronic form from an 
+electronic data interchange (EDI) transmission shall be re­
+garded as having the same validity as a counterpart printed in 
+the certifier's facility. The content of the EDI transmitted 
+document must meet the requirements of the invoked ASTM 
+standard(s) and conform to any existing EDI agreement be­
+tween the purchaser and the supplier. Notwithstanding the 
+absence of a signature, the organization submitting the EDI 
+transmission is responsible for the content of the report. 
+20. Packaging, Marking, and Loading for Shipment 
+20.1 Packaging, marking, and loading for shipment shallbe 
+in accordance with those procedures recommended by Guide 
+A700. 
+20.2 For USA Government Procurement-Marking for ship­
+ment of material for civil agencies shall be in accordance with 
+Fed. Std. No. 123. 
+21. Keywords 
+21.1 general delivery requirement; pressure containing 
+parts; pressure vessel steels; steel plates; steel plates for 
+pressure vessel applications
+
+=== Page 131 ===
+
+ASME BPVC.II.A-2025 SA-20/SA-Z0M 
+SUPPLEMENTARY REQUIREMENTS 
+The following standardized supplementary requirements are for use if desired by the purchaser, 
+Those that are considered suitable for use with a product specification are listed in the product 
+specification. Other tests may be performed by agreement between the manufacturer or processor and 
+the purchaser. These supplementary requirements shall apply only if specified in the purchase order, 
+in which event the specified tests shall be made by the manufacturer or processor before shipment of 
+the plates. 
+Sl. Vacuum Treatment 
+S 1.1 The steel shall be made by a process that includes 
+vacuum degassing while molten. Unless otherwise agreed upon 
+with the purchaser, it is the responsibility of the manufacturer 
+to select suitable process procedures. 
+S2. Product Analysis 
+S2.1 A product analysis shall be made of each plate as 
+rolled. The specimens for analysis shall be taken adjacent to or 
+from a broken tension test specimen. 
+S3. Simulated Post-Weld Heat Treatment of Mechanical 
+Test Coupons 
+S3.1 Prior to testing, the test coupons representing the plate 
+for acceptance purposes for mechanical properties shall be 
+thermally treated to simulate a post-weld heat treatment below 
+the critical temperature (Ac 3 ), using the heat treatment param­
+eters (such as temperature range, time, and cooling rates) 
+specified in the purchase order. For tests using specimens taken 
+from such heat treated test coupons, the test results shall meet 
+the requirements of the applicable product specification. Test­
+ing need only be performed and reported in the simulated 
+post-weld heat treated condition. 
+S4. Additional Tension Test 
+S4.1 Other Than Quenched-and-Tempered Plates-In addi­
+tion to the required single tension test, a second tension test 
+shall be made using a test specimen taken from a test coupon 
+taken from a corner of the plate-as-rolled on the end opposite 
+the single test specimen and in a direction parallel to the single 
+test specimen. The results obtained using this second test 
+specimen shall meet the requirements of the applicable product 
+specification. 
+S4.2 Quenched-and-Tempered Plates 2 in. [50 mm] or 
+Greater in Thickness-In addition to the required tension tests, 
+two additional test coupons shall be taken from the bottom 
+corner of the plate. One shall be taken at the center of the plate 
+thickness and the other immediately beneath the surface. 
+Mandatory conformance of these additional tests with the 
+specified properties shall be a matter of agreement between the 
+manufacturer and the purchaser. 
+SS. Charpy V-Notch Impact Test 
+S5.l Charpy V-notch impact tests shall be conducted in 
+accordance with 12.1. 
+79 
+S5.2 The orientation of the test specimens, whether longi­
+tudinal or transverse to the direction of rolling, shall be as 
+specified in the purchase order. 
+S5.3 The test temperature and the required acceptance 
+criteria, if other than those required in 12.1, shall be as 
+specified in the purchase order. 
+S5.4 The recorded results shall include test specimen 
+orientation, test specimen size, test temperature, absorbed 
+energy values, and, if specified in the purchase order for other 
+than Class VI plates, lateral expansion opposite the notch. The 
+percent shear fracture appearance shall also be recorded if 
+specified in the purchase order. 
+S6. Drop-Weight Test (for Plates 0.625 in. [16 mm] and 
+Over in Thickness) 
+S6.l Drop-weight tests shall be made in accordance with the 
+requirements of Test Method E208. The specimens shall 
+represent the plates in the final condition of heat treatment. 
+Agreement shall be reached between the purchaser and the 
+manufacturer or processor as to the number of plates to be 
+tested and whether a maximum NDT temperature is mandatory 
+or if the test results are for information only. 
+S7. High-Temperature Tension Tests 
+S7.1 A sho1i-time elevated temperature tension test shall be 
+made to represent each plate or each heat of steel as indicated 
+by the purchaser. The specimens for testing shall be obtained as 
+required for the room temperature tension tests specified in the 
+body of this general requirements specification. The high­
+temperature tests shall be made in accordance with the require­
+ments of Test Methods E21. Mandatory conformance of such 
+additional tests with the specified properties shall be a matter 
+for agreement between the manufacturer or processor and the 
+purchaser. 
+SS. Ultrasonic Examination in Accordance with A435/ 
+A435M 
+S8.1 All plates shall be ultrasonically examined in accor­
+dance with the requirements of Specification A435/ A435M. 
+S9. Magnetic Particle Examination 
+S9.l All plate edges shall be examined by magnetic par­
+ticles in accordance with the procedures covered in Guide 
+E709. The acceptability of defects revealed by this examina­
+tion shall be judged in accordance with the requirements for 
+quality in 9.3.
+
+=== Page 132 ===
+
+SA-20/SA-ZOM ASME BPVC.II.A-2025 
+SlO. Charpy V-Notch Impact Transition Curve Sl9. Restricted Chemical Requirements 
+S 10.1 Sufficient impact tests of the same specimen size shall 
+be made from the plate test material to establish a transition 
+curve. The test temperature range shall be wide enough to 
+establish the upper and lower shelf energies, with sufficient 
+testing at intermediate temperatures to permit plotting a rea­
+sonable smooth curve. A plot of the data is not required. The 
+manufacturer shall report the specimen orientation, test 
+temperature, and absorbed energy for each specimen tested. 
+Lateral expansion and percent shear shall also be reported 
+when specified in the purchase order. The number of plates 
+tested and the specimen orientation shall be the same as in 12.1 
+unless otherwise specified in the purchase order. 
+Sll. Ultrasonic Examination in Accordance with A577/ 
+A577M 
+Sll.1 All plates shall be ultrasonically examined in accor­
+dance with the requirements of Specification A577 I A577M. 
+S12. Ultrasonic Examination in Accordance with A578/ 
+A578M 
+Sl2.1 All plates shall be ultrasonically examined in accor­
+dance with the requirements of Specification A578/A578M. 
+The acceptance level shall be as specified in the RUrchase order. 
+S13. NDT Temperature Determination 
+S13.1 The NDT temperature shall be established in accor­
+dance with Test Method E208 using coupons from a single 
+plate. The number of plates to be so tested shall be subject to 
+agreement between the purchaser and the manufacturer or 
+processor. 
+Sl5. Reduction of Area Measurement 
+S 15 .1 A reduction of area measurement shall be taken while 
+making the required tension test. Reduction of area shall be 
+determined only-on the 0.500-in. [12.5-mm] round specimen as 
+shown in Fig. 5 of Test Methods and Definitions A370. The 
+minimum acceptance limit shall be 40 % . 
+S16. Thermal Stress Relief of Mechanical Test Coupons 
+S16.1 Test coupons representing the plates shall be ther­
+mally stress relieved by gradually and uniformly heating them 
+to a temperature between 1100 and 1200°F [595 and 650°C], or 
+a temperature range otherwise agreed upon between the 
+manufacturer or processor and the purchaser, holding at tem­
+perature for at least 1 h/in. [2.4 min/mm] of thickness and 
+cooling in still air to a temperature not exceeding 600°F 
+[315°C]. 
+S17. Vacuum Carbon-Deoxidized Steel 
+S 17 .1 Material shall be vacuum carbon-deoxidized, in 
+which case the silicon content at the time of vacuum deoxi­
+dizing shall be 0.12 % maximum, and the content of deoxidiz­
+ers such as aluminum, zirconium, and titanium should be kept 
+low enough to allow deoxidation by carbon. The test report 
+shall indicate that the steel was vacuum carbon-deoxidized. 
+The minimum heat analysis and product analysis requirements 
+for silicon do not apply to vacuum carbon-deoxidized steel. 
+80 
+S 19 .1 Restricted heat analysis and product analysis limits 
+are applicable, as specified in the purchase order. 
+S20. Maximum Carbon Equivalent for Weldability 
+S20.1 Plates shall be supplied with a specific maximum 
+carbon equivalent value. This value shall be based upon the 
+heat analysis. The required chemical analysis as well as the 
+carbon equivalent shall be reported. 
+S20.2 The carbon equivalent shall be calculated using the 
+following formula: 
+CE= C+Mn/6+(Cr+Mo+V)/5+(Ni+Cu)/15 
+S20.3 The maximum value of the carbon equivalent for 
+carbon steels (including C-Mn, C-Mn-Si, C-Mn-Si-Al steels), 
+are given in Table S20.1. 
+S21. Restricted Limits on Elements 
+For each heat, based upon the heat analysis, the content shall 
+not exceed 0.35 % for copper, 0.25 % for nickel, 0.25 % for 
+chromium, 0.08 % for molybdenum, or 0.70 % for the sum of 
+those four elements. 
+S22. Through-Thickness Tension Tests 
+S22.l Through-thickness tension tests shall be made in 
+accordance with the requirements of Specification A 770/ 
+A770M. (See Ordering Information in Specification A770/ 
+A770M for the additional information that may be needed.) 
+S24. Strain Age Test 
+S24.1 Test coupons shall be given a strain age treatment 
+designated by the purchaser. Charpy V-notch tests shall be 
+conducted on the strain aged specimens. Heat treatment, strain 
+aging, test temperature, and acceptance criteria shall be as 
+agreed upon between the manufacturer or processor and the 
+purchaser. 
+S25. Weldability 
+S25.l Weldability tests shall 
+be conducted. The type of test and the acceptance criteria 
+shall be as agreed upon between the manufacturer or processor 
+and the purchaser. 
+TABLE S20.1 Maximum Carbon Equivalent for Weldability 
+Specified Minimum UTS 
+ksi [MPa] 
+60,;;LJTS<70 
+[415,;; UTS < 485] 
+70,;; UTS < 80 
+[485,;; UTS < 550] 
+UTS 2: 80 
+[UTS 2: 550] 
+Maximum Carbon Equivalent Value 
+Thickness up to 2 In. Thickness over 2 in. 
+[50 mm] incl (50 mm] 
+0.45 0.46 
+0.47 
+A If simulated PWHT of the test coupons is specified (S3), the maximum carbon 
+equivalent value may be Increased up to 0.50 upon agreement between purchaser 
+and supplier. 
+8 Applicable to quenched-and-tempered material; for other conditions, maximum 
+carbon equivalent shall be by agreement between purchaser and supplier.
+
+=== Page 133 ===
+
+ASME BPVC.II.A-2025 
+S26. Low-Sulfur Steels 
+S26.l The steel shall be made to 0.010 % sulfur maximum. 
+Lower sulfur levels and sulfide shape control practices can be 
+specified by agreement between the manufacturer or processor 
+and the purchaser. 
+S27. Restrictive Plate Flatness 
+S27.l Carbon steel plates, as-rolled or normalized, shall 
+conform to the permissible restrictive variations from flatness 
+given in Table S27.l or Table S27.2. 
+S27.2 High-strength low-alloy steel plates, as-rolled or 
+normalized, shall conform to the permissible restrictive varia­
+tions from flatness given in Table S27.3 or Table S27.4. 
+S28. Heat Treatment in the Working Zone of a Surveyed 
+Furnace 
+S28. l Plates shall be heat treated in the working zone of a 
+furnace that has been surveyed in accordance with Test Method 
+A991/A991M, provided that such working zone was estab­
+lished using a variation of 25°F [15°C] or less from the furnace 
+set point. 
+S28.2 The test report shall indicate that S28 applies. 
+SA-20/SA-ZOM 
+TABLE S27.1 Permissible Variations from Flatness for Carbon Steel Plates As-Rolled or Normalized Ordered to Restrictive Flatness 
+N om I-Flatness Variations for Length-The longer dimension specified is considered the length, and variation in flatness along the length shall not 
+exceed the tabular amount for the specified width in plates up to 12 ft in length, or in any 12 ft of longer plates. 
+Norn 2-Flatness Variations for Width-The flatness variation across the width shall not exceed the tabular amount for the specified width. 
+Norn 3-When the longer dimension is under 36 in., the variation in flatness along the length and across the width shall not exceed ¼ in. in each 
+direction. When the longer dimension is from 36 to 72 in., inclusive, the permissible flatness vaiiation shall not exceed 75 % of the tabular amount for 
+the specified width, but in no case less than ¼ in. 
+Norn 4-The variations given in this table apply to plates that have a minimum specified tensile strength not over 60 ksi or comparable chemistry or 
+hai·dness. For plates specified to a higher minimum tensile strength or compai·able chemistry or hardness, the permissible variations are I½ times the 
+amounts shown in the table below. 
+Norn 5-This table ai1d these notes cover the flatness vadations of circular and sketch plates based on the maximum dimensions of those plates. 
+Norn 6-Waviness tolerances for rectangular plates, universal mill plates, and circular and sketch plates do not apply. 
+Norn 7-A "Z" indicates that there is no published restricted value for the size. 
+Norn 8-Plates shall be in a horizontal position on a flat surface when flatness is measured. 
+Specified Permissible Variations from a Flat Surface for Specified Widths, in. 
+Thickness, in. 48 to 60, excl 60 to 72, excl 72 to 84, excl 84 to 96, excl 96 to 108, excl 108 to 120, incl 
+To¼, excl ¾ 15/15 z z z z 
+¼to%, excl 9/16 ¾ 7/a 15/16 1-'Aa 1-1/a 
+%to½, excl 5/16 5/15 % 7/16 ½ 9/16 
+½to¾, excl 5/16 5/16 5/is % ½ ½ 
+¾ to 1, excl 5/15 5/16 5/15 5/is % 7/15 
+1 to 2, incl ¼ 5/15 5 /ia 5/15 5/16 % 
+81
+
+=== Page 134 ===
+
+SA-20/SA-20M ASME BPVC.II.A-2025 
+TABLE S27.2 Permissible Variations from Flatness for Carbon Steel Plates As-Rolled or Normalized Ordered to Restrictive Flatness 
+NoTE I-Flatness Variations for Length-The longer dimension specified is considered the length, and variation in flatness along the length shall not 
+exceed the tabular amount for the specified width in plates up to 3700 mm in length, or in any 3700 mm of longer plates. 
+Norn 2-Flatness Variations for Width-The flatness variation across the width shall not exceed the tabular amount for the specified width. 
+Norn 3-When the longer dimension is under 900 mm, the variation in flatness along the length and across the width shall not exceed 6 mm in each 
+direction. When the longer dimension is from 900 to 1800 mm, inclusive, the permissible flatness variation shall not exceed 75 % of the tabular amount 
+for the specified width, but in no case less than 6 mm. 
+Norn 4--The variations given in this table apply to plates that have a minimum specified tensile strength not over 415 MPa or comparable chemistry 
+or hardness. For plates specified to a higher minimum tensile strength or comparable chemistry or hardness, the permissible variations are 1 ½ times the 
+amounts shown in the table below. 
+Norn 5-This table and these notes cover the flatness variations of circular and sketch plates based on the maximum dimensions of those plates. 
+Nom 6-Waviness tolerances for rectangular plates, universal mill plates, and circular and sketch plates do not apply. 
+Norn 7-A "Z" indicates that there is no published restricted value for the size. 
+Norn 8-Plates shall be in horizontal position on a flat surface when flatness is measured. 
+Specified 
+Thickness, mm 
+To 6, excl 
+6 to 10, excl 
+10 to 12, excl 
+12 to 20, excl 
+20 to 25, excl 
+25 to 50, excl 
+1200 to 1500, excl 
+18 
+15 
+8 
+7 
+7 
+7 
+Permissible Variations from a Flat Surface for Specified Widths, mm 
+1500 to 1800, excl 1800 to 2100, excl 2100 to 2400, excl 2400 to 2700, excl 
+24 Z Z Z 
+18 22 24 27 
+8 10 11 13 
+8 8 10 13 
+8 8 8 10 
+7 7 8 8 
+2700 to 3000, incl 
+z 
+29 
+15 
+13 
+11 
+8 
+TABLE S27.3 Permissible Variations from Flatness for High-Strength Low-Alloy Steel Plates As-Rolled or Normalized Ordered to 
+Restrictive Flatness 
+Norn I-Flatness Variations for Length-The longer dimension specified is considered the length, and variation in flatness along the length shall not 
+exceed the tabular amount for the specified width in plates up to 12 ft in length, or in any 12 ft of longer plates. 
+Norn 2-Flatness Variations for Width-The flatness variation across the width shall not exceed the tabular amount for the specified width. 
+Norn 3-When the longer dimension is under 36 in., the variation in flatness along the length and across the width shall not exceed 3 /s in. in each 
+direction. When the larger dimension is from 36 to 72 in., inclusive, the permissible flatness variation shall not exceed 75 % of the tabular amount for 
+the specified width but in no case less than 3/s in. 
+Norn 4-This table and these notes cover the flatness variations of circular and sketch plates based on the maximum dimensions of those plates. 
+Norn 5-Waviness tolerances for rectangular plates, universal mill plates, and circular and sketch plates do not apply. 
+Norn 6-A "Z" indicates that there is no published restricted value for the size. 
+Norn 7-Plates shall be in h01izontal position on a flat smface when flatness is measured. 
+Specified Permissible Variations from a Flat Surface for Specified Widths, in. 
+Thickness, in. 48 to 60, excl 60 to 72, excl 72 to 84, excl 84 to 96, excl 96 to 108, excl 108to 120, incl 
+To¼, excl 11/10 17/16 z z z z 
+¼to¾, excl 7/s 11/16 1 5 /10 F/1s 1½ 1 1 1/1s 
+¾to½, excl ½ ½ 9/16 11/15 ¾ 13/15 
+½to¾, excl 7/15 7/16 ½ 9/1s % 11/16 
+¾ to 1, excl 7 /1s 7/15 ½ ½ 9f15 11/-ie 
+1 to 2, incl ¾ 7/15 7/15 ½ ½ ½ 
+82
+
+=== Page 135 ===
+
+ASME BPVC.II.A-2025 SA-20/SA-20M 
+TABLE S27.4 Permissible Variations from Flatness for High-Strength Low-Alloy Steel Plates As-Rolled or Normalized Ordered to 
+Restrictive Flatness 
+Norn I-Flatness Variations for Length-The longer dimension specified is considered the length, and variation in flatness along the length shall not 
+exceed the tabular amount for the specified width in plates up to 3700 mm in length, or in any 3700 mm of longer plates. 
+Norn 2-Flatness Variations for Width-The flatness vaiiation across the width shall not exceed the tabular amount for the specified width. 
+Norn 3-When the longer dimension is under 900 mm, the variation in flatness along the length and across the width shall not exceed 10 mm in each 
+direction. When the larger dimension is from 900 to 1800 mm, inclusive, the permissible flatness variation shall not exceed 75 % of the tabular amount 
+for the specified width, but in no case less than 10 mm. 
+Norn 4-This table and these notes cover the variations for flatness of circular and sketch plates based on the maximum dimensions of those plates. 
+Norn 5-Waviness tolerances for rectangular plates, universal mill plates, and circular and sketch plates do not apply. 
+Norn 6-A "Z" indicates that there is no published restricted value for the size. 
+Norn 7-Plates shall in a ho1izontal position on a flat surface when flatness is measured. 
+Specified 
+Thickness, mm 
+To 6, excl 
+6 to 10, excl 
+10 to 12, excl 
+12 to 20, excl 
+20 to 25, excl 
+25 to 50, excl 
+1200 to 1500, excl 
+27 
+22 
+12 
+11 
+11 
+10 
+Permissible Variations from a Flat Surface for Specified Widths, mm 
+1500 to 1800, excl 1800 to 2100, excl 2100 to 2400, excl 2400 to 2700, excl 
+36 Z Z Z 
+n ~ ~ ~ 
+12 15 17 19 
+11 13 15 16 
+11 12 13 15 
+11 11 12 13 
+ANNEXES 
+(Mandatory Information) 
+Al. PERMISSIBLE VARIATIONS IN DIMENSIONS, ETC.-INCH-POUND UNITS 
+Al.I Listed below are permissible variations in dimensions, 
+and notch toughness information, expressed in inch-pound 
+units of measurement. 
+83 
+2700 to 3000, incl 
+z 
+43 
+21 
+18 
+17 
+13
+
+=== Page 136 ===
+
+SA-20/SA-20M ASME BPVC.II.A-2025 
+TABLE A1.1 Permissible Variations In Thickness for Rectangular Plates 
+NoTE 1-Permissible variation under specified thickness, 0.01 in. When so specified, these permitted variations may be taken all over, in which case 
+the sum of these permitted variations applies. 
+NOTE 2-Thickness to be measured at 3/a to 1/4 in. from the longitudinal edge. 
+NoTE 3-For thickness measured at any location other than that specified in Note 2, the permissible maximum over-tolerance shall be increased by 
+75 %, rounded to the nearest 0.01 in. 
+Specified Tolerance Over Specified Thickness for Widths Given, in. 
+Thickness, 48 Over48 60 to 72 to 84to 96to 108 lo 120 to 132 to 144 to 168 to 182 in. and to 60, 72, 84, 96, 108, 120, 132, 144, 168, 182, and 
+under excl excl excl excl excl excl excl excl excl excl over 
+To¼, excl 0.03 0.03 0.03 0.03 0.03 0.03 0.03 0.03 0.04 
+¼ to 5/,a, excl 0.03 0.03 0.03 0.03 0.03 0.03 0.03 0.04 0.04 
+5 /10 to%, excl 0.03 0.03 0.03 0.03 0.03 0.03 0.03 0.04 0.04 0.05 
+% to 7/10, excl 0.03 0.03 0.03 0.03 0.03 0.03 0.04 0.04 0.05 0.06 0.06 
+7/10 to ½, excl 0.03 0.03 0.03 0.03 0.03 0.03 0.04 0.04 0.05 0.06 0.06 
+½lo%, excl 0.03 0.03 0.03 0.03 0.03 0.03 0.04 0.04 0.05 0.06 0.07 
+5/o to ¾, excl 0.03 0.03 0.03 0.03 0.03 0.04 0.04 0.04 0.05 0.06 0.07 0.07 
+¾to 1, excl 0.03 0.03 0.03 0.03 0.04 0.04 0.05 0.05 0.06 0.07 0.08 0.09 
+1 to 2, excl 0.06 0.06 0.06 0.06 0.06 0.07 0.08 0.10 0.10 0.11 0.13 0.16 
+2 to 3, excl 0.09 0.09 0.09 0.10 0.10 0.11 0.12 0.13 0.14 0.15 0.15 
+3 to 4, excl 0.11 0.11 0.11 0.11 0.11 0.13 0.14 0.14 0.14 0.15 0.17 
+4 to 6, excl 0.15 0.15 0.15 0.15 0.15 0.15 0.15 0.15 0.15 0.20 0.20 
+6 to 10, excl 0.23 0.24 0.24 0.24 0.24 0.24 0.24 0.24 0.24 0.27 0.28 
+10 to 12, excl 0.29 0.29 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.35 
+12 to 15, incl 0.29 0.29 0.35 0.35 0.35 0.35 0.35 0.35 0.35 0.35 0.35 
+TABLE A1.2 Permissible Variations In Width and Length tor Sheared Plates 1½ in. and Under in Thickness; Length Only for Universal 
+Mill Plates 2½ in. and Under in Thickness 
+Specified Dimensions, in. Permissible Variations over Specified Width and LengthA for Thicknesses Given in inches, in. 
+To %,excl %to%,excl % to 1, excl 1 to 2, incl 8 
+Length Width Width Length Width Length Width Length Width Length 
+To 120, excl over 8 to 60, excl % ½ 71,o % ½ ¾ % 
+60 to 84, excl 7/1a % ½ 1 1/1s % 'lo ¾ 
+84 to 108, excl ½ ¾ % 7/o ¾ 1 1 11/o 
+108 and over % 7/a ¾ 1 7/a 11/a 11/a 1¼ 
+120 to 240, excl over 8 to 60, excl % ¾ ½ 'la % 1 ¾ 11/a 
+60 to 84, excl ½ ¾ 6/a 7/a ¾ 1 7/a 1¼ 
+84 to 108, excl B/1a 7/a 1 1/15 1s11 6 13/1a 11/a 1 1% 
+108 and over 6/a 1 ¾ 11/a 7/a 1¼ 11/a 1% 
+240 to 360, excl over 8 to 60, excl % 1 ½ 11/a •la 1¼ ¾ 1½ 
+60 to 84, excl ½ 1 6/a 11/a ¾ 1¼ 7/a 1½ 
+84 to 108, excl 9/10 1 "A• 11/a 7/a 1% 1 1½ 
+108 and over '¼• 11/a 7/a 1¼ 1 1% 1¼ 1¾ 
+360 to 480, excl over 8 to 60, excl 71,o 11/a ½ 1¼ 6/a 1% ¾ 1% 
+60 to 84, excl ½ 1¼ 5/a 1% ¾ 1½ 7/a 15/a 
+84 to 108, excl B/,s 1¼ ¾ 1% 'la 1½ 1 Fla 
+108 and over ¾ 1% 'la 1½ 1 15/a 1¼ Fla 
+480 to 600, excl over 8 to 60, excl 71,s 1¼ ½ 1½ 6/a 1% ¾ Flo 
+60 to 84, excl ½ 1% 5/a 1½ ¾ 15/a 'la Fla 
+84 to 108, excl 5/a 1% ¾ 1½ 7/a 16/a 1 Fla 
+108 and over ¾ 1½ 1/a 15/a 1 1¾ 1¼ Fla 
+600 to 720, excl over 8 to 60, excl ½ 1¾ 6/a Fla ¾ Fie 7/o 2¼ 
+60 to 84, excl 5/a 1¾ ¾ Fla 7/a Fla 1 2¼ 
+84 to 108, excl 5/a 1¾ ¾ Fla 7/a Fla 11/a 2¼ 
+108 and over 7/a 1¾ 1 2 11/a 2¼ 1¼ 2½ 
+720 and over over 8 to 60, excl 9 Ao 2 ¾ 21/a 'la 2¼ 1 2¾ 
+60 to 84, excl ¾ 2 7/a 21/a 1 2¼ 11/a 2¾ 
+84 to 108, excl ¾ 2 'la 21/a 1 2¼ 1¼ 2¾ 
+108 and over 1 2 11/a 2% 1¼ 2½ 1% 3 
+A Permissible variation under specified width and length: ¼ in. By agreement, these permitted variations may be taken all over, in which case the sum of these permitted 
+variations applies. 
+0 Permissible variations in length apply also to Universal Mill plates up to 12 in. in width for thicknesses over 2 to 2½ in., incl, except for alloy steel up to 2 in. thick. 
+84
+
+=== Page 137 ===
+
+ASME BPVC.II.A-2025 
+TABLE A1.3 Permissible Variations in Rolled Width for Universal 
+Mill Carbon Steel, High-Strength Low-Alloy Steel, and Alloy-Steel 
+Plates 15 in. and under in Thickness 
+Norn I-Permissible vruiation under specified width shall be Vs in. 
+Variations Over Specified Width for 
+Thicknesses Given, in. 
+Specified Width, in. 
+To%, %to%, 5/ato1, 1 to 2, Over 2 Over 10 
+to 10, to 15, excl excl excl incl incl incl 
+Over 8 to 20, excl 1/a 1/a 3;\s ¼ 3/a ½ 
+20 to 36, excl 3/16 ¼ S;\s % 7/16 9/16 
+36 and over 5/,s 3/a 7/16 ½ 9/16 5/a 
+TABLE A1.4 Permissible Variations in Diameter for Sheared 
+Circular Carbon Steel, High-Strength Low-Alloy Steel, and Alloy 
+Steel Plates 1 in. and under in Thickness 
+Norn 1-No permissible variations under specified diameter. 
+Specified 
+Diameter, in. 
+To 32, excl 
+32 to 84, excl 
+84 to 108, excl 
+108 to 130, incl 
+Permissible Variations Over Specified Diameter 
+for Thicknesses Given, in. 
+To%, %to%, 5/ato1, 
+excl excl incl 
+¼ 3/a ½ 
+5/16 7/16 9/16 
+3/a ½ 5/a 
+7/16 9/\s 11/-ie 
+TABLE A1.5 Permissible Variations in Width and Length for 
+Rectangular Carbon Steel and High-Strength Low-Alloy Steel 
+Plates when Gas Cutting is Specified or Required 
+Norn 1-These variations may be taken all under or divided over and 
+under, if so specified. 
+Norn 2-Plates with universal rolled edges will be gas cut to length 
+only. 
+Specified Thickness, in. 
+To 2, excl 
+2 to 4, excl 
+4 to 6, excl 
+6 to 8, excl 
+8 to 15, incl 
+Variations Over for All Specified 
+Widths or Lengths, in. 
+½ 
+5/a 
+¾ 
+7/a 
+1 
+TABLE A1.6 Permissible Variations in Diameter for Gas-Cut 
+Circular Carbon Steel and High-Strength Low-Alloy Steel Plates 
+Norn 1-No permissible variations under specified diameter 
+Specified 
+Variations Over Specified Diameter for Thicknesses Given, in. 
+Diameter, in. To 1, 1 to 2, 2 to 4, 4 to 6, 6 to 8, 8 to 15, 
+excl excl excl excl excl incl 
+To 32, excl 3/a 3/a ½ ½ 5/a ¾ 
+32 to 84, excl 3/a ½ ½ 5/a ¾ 7/a 
+84 to 108, excl ½ 9/16 5/a ¾ 7/a 1 
+108 to 130, excl ½ 9/16 11/16 7/a 1 11/a 
+130 and over 5/a ¾ 7/a 1 11/a 1¼ 
+85 
+SA-20/SA-Z0M
+
+=== Page 138 ===
+
+SA-20/SA-20M ASME BPVG.ILA-2025
+TABLE A1.7 Permissible Camber for Carbon Steel Sheared or _—
+' Gas-Cut Rectangular Plates all Thicknesses |
+Norte 1—Camber, as it relates to plates, is the horizontal edge curvature ,
+in the length, measured over the entire length of the plate in the flat
+position. |
+Maximum permissible camber, in. = % in. x (number of feet of length/5)
+TABLE A1.8 Permissible Camber for Carbon Steel, High-Strength ,
+. Low-Alloy Steel, and Alloy Steel Universal Mill Plates and High-
+Strength Low-Alloy Steel and Alloy Steel Sheared or Gas-Cut
+Rectangular Plates
+Dimension, in. Camber for Thickness )
+Thickness Width and Widths Given |
+To 2, incl all Ye in. x (number of feet of length/5) a
+Over 2 to 15, incl to 30, incl 36 in. x (number of feet of length/5)
+Over 2 to 15, incl over 30 % in. x (number of feet of length/5) ,
+TABLE A1.9 Permissible Variations from Flatness for Carbon Steel Plates ,
+Norte 1—Flatness Variations for Length—The longer dimension specified is considered the length, and variation in flatness along the length shall not .
+exceed the tabular amount for the specified width in plates up to 12 ft in length, or in any 12 ft of longer plates. ;
+Note 2——Flatness Variations for Width—The flatness variation across the width shall not exceed the tabular amount for the specified width. ,
+| Nore 3—When the longer dimension is under 36 in., the variation in flatness along the length and across the width shall not exceed % in. in each
+direction. When the longer dimension is from.36 to 72 in., inclusive, the flatness variation shall not exceed 75 % of the tabular amount for the specified |
+| width, but in no case less than /% in. )
+Nots 4—The tolerances given in this table apply to plates that have a minimum specified tensile strength not over 60 ksi or comparable chemistry or
+hardness. For plates specified to a higher minimum tensile strength or comparable chemistry or hardness, the limits given in the table are increased to |
+1% times the amounts in the above table. |
+Note 5—This table and notes cover the flatness tolerances of circular and sketch plates, based on the maximum dimensions of those plates. :
+Note 6—Plates shall be in a horizontal position on a flat surface when flatness is measured. ,
+| Variations from a Flat Surface for Specified Widths, in.
+Specified | Over 8 | | | | | } |
+Thickness, in. ‘0 36 | 36 to 48, | 48 to 60, | 60 to 72, | 72to 84, | 84t0 96, | 96 to 108, ]108 to 120, 120 to 144, 1144 to 168,| 168 and
+excl } excl | excel excl excl excl excl | excl | excl excl | over ,
+To Va, excl | Ae % | %e | 1% 1% 1% 15% 1% | 1% 7 7
+V4 to ¥%, excl VW Ye ay 15/6 iv% 1% 1% Iw | 1% wee wes
+Ya to V2, excl Vp | %e Ye | Ye 4 VE 1 | 1% wm | 1% | 2% :
+Ya to Ys, excl TAS | Vp | %e 5% 7) V4 1 1 1%, 1% 2
+%, to 1, excl Ae Vp Wr Ye Ye fg 4 % 1 1% 1%
+1 to 2, excl Ye Vp Up %e We Ye Ye 5g 16 1% 1i% ) |
+2 to 4 excl : Ae Ye | 7/6 Vp | Vp Va Va %ie 3 7a | 1%
+4 to 6, excl ¥% . Ae Vp Ya %e / Re % Vy % % ) 1 :
+6 to 8, excl | TAs Vp Vp 5 Wg Va 7 a) 1 1 1 i
+8 to 10 excl Ya Vp | Ye 1"A6 Va 16 % 16 1 1 1
+10 to 12, excl V2 % Ya Ie UE) 16 1 1 1 1 1 ;
+12 to 15, incl | Ye Ya AT % 1516 1 1 | 1 | 1 1 we : . |
+86 |
+
+=== Page 139 ===
+
+ASME BPVC.II.A-2025 
+TABLE A1.10 Permissible Variations in Width and Length for 
+Rectangular Alloy Steel Plates when Gas Cutting is Specified or 
+Required 
+NoTE 1-These variations may be taken all under or divided over and 
+under, if so specified. 
+NoTE 2- Plates with universal rolled edges will be gas cut to length 
+only. 
+Specified Thickness, in. 
+To 2, excl 
+2 to 4, excl 
+4 to 6, excl 
+6 to 8, excl 
+8 to 15, incl 
+Variations Over for All Specified 
+Widths and Lengths, in. 
+¾ 
+1 
+11/s 
+15/is 
+1½ 
+TABLE A1.11 Permissible Variations in Diameter for Gas-Cut 
+Circular Alloy Steel Plates 
+NoTE 1-No permissible variations under specified diameter. 
+Variations Over Specified Diameter for Thicknesses Given, 
+in. 
+Specified To 1, 1 to 2, 2 to 4, 4 to 6 to 8 to 
+Diameter, in. excl excl excl 6, 8, 15 
+excl exci incl 
+To 32, excl ½ ¾ ¾ ¾ 
+32 to 84, excl ½ 5/e 7/a 1 11/e 1¼ 
+84 to 108, excl 5/e ¾ 1 11/s 1¼ 1% 
+108 to 130, incl 7/a 1 11/s 1¼ 1% 1½ 
+SA-20/SA-20M 
+TABLE A1.12 Permissible Variations from Flatness for High-Strength Low-Alloy Steel and Alloy Steel Plates 
+NoTE I-Flatness Tolerances for Length-The longer dimension specified is considered the length and variations from a flat surface along the length 
+shall not exceed the tabular amount for the specified width in plates up to 12 ft in length, or in any 12 ft of longer plates. 
+NOTE 2-Flatness Tolerances for Width-The flatness variation across the width shall not exceed the tabular amount for the specified width. 
+NoTE 3-When the longer dimension is under 36 in., the variation shall not exceed 3/s in. When the larger dimension is from 36 to 72 in., incl, the 
+variation shall not exceed 75 % of the tabular amount for the specified width. 
+NoTE 4-This table and notes cover the tolerances for flatness of circular and sketch plates, based on the maximum dimensions of those plates. 
+NoTE 5-Plates shall be in a horizontal position on a flat surface when flatness is measured. 
+Variations from a Fiat Surface for Specified Widths, in. 
+Specified Overs 36to 48to 60to 72 to 84to 96 to 108 to 120 to 144to 168 and Thickness, in. to 36, 48, excl 60, excl 72, excl 84, excl 96, excl 108, exci 120, excl 144, excl 168, excl Over exci 
+To¼, excl 13/,e 11/e 1% 1¼ 2 2¼ 2% 2% 2¾ ... ... 
+¼to%, exci ¾ 151,s 11/e 1% 1¾ Fis 2 2¼ 2% ... ... 
+•Is to ½, excl ¾ 7/s 15/,5 151,a 11/s 15/,a 1½ 1% Fla 2¾ 31/e 
+½to¾, excl % ¾ 13/18 7A, 1 11/e 1¼ 13/e 1% 2¼ 3 
+¾ to 1, excl 5/e ¾ 7/a 7/e 'o/10 1 11/e 15/is 1½ 2 25/e 
+1 to 2, excl 9 /16 % ¾ ''¼• 7/e 16/Je 1 1 1 15/e 2¼ 
+2 to 4, exci ½ •;,. ,y,. ¾ ¾ ¾ ¾ 7/a 1 1¼ 15/e 
+4 to 6, exci •!,a '¼• ¾ ¾ 7/e 7/e 1 o/1s 11/e 1¼ 1¼ 1½ 
+6 to 8, excl % ¾ ¾ '5/,e 1 11/e 1¼ 1o/10 1½ 1½ 1½ 
+8 to 10, excl ¾ 13/,a 1s;, 6 1 11/e 1¼ 15/ia 13/e 1½ 1½ 1½ 
+10 to 12, excl ¾ 151,e 11/e 1¼ 1o/16 1% 1½ 1½ 1½ 1½ 1½ 
+12 to 15, incl 7/s 1 13/,e 15/,a 13/e 1½ 1½ 1½ 1½ 1½ 1½ 
+87
+
+=== Page 140 ===
+
+SA-20/SA-Z0M ASME BPVC.II.A-2025 
+TABLE A1.13 Waviness Tolerances for Rectangular Plates, Universal Mill Plates, Circular Plates, and Sketch Plates 
+NoTE I-Waviness denotes the deviation of the top or bottom surface from a horizontal line, when the plate is resting on a flat surface, as measured 
+in an increment of less than 12 ft of length. The waviness tolerance is a function of the flatness tolerance as obtained from Tables Al.9 and Al.12. 
+Flatness 
+Tolerance When Number of Waves in 12 ft is: 
+from Tables 
+A1.9 and 1 2 3 4 5 6 7 
+A1.12 
+5/,5 5/16 ¼ 3 /1s 1/s 1/s 1/16 1/16 
+3/s 3/s 5/10 3 /16 3 /16 1/s 1/rn 1/16 
+7/1s 7/16 5/is ¼ 3/15 1/s 1/s 1/16 
+½ ½ 3/s 5/16 3 /16 3/15 1/s 1/i6 
+9/is 9/16 7/16 5 /16 ¼ 3 /16 1/s 1/s 
+5/s 5/s ½ 3/s ¼ 3/16 1/s 1/s 
+11/16 11/15 ½ 3/s 5 /1s 3/rn 3/15 1/s 
+¾ ¾ 9/15 7/15 5 /16 ¼ 3/15 1/s 
+13/16 13/16 % 7/15 5/15 ¼ 3/15 1/s 
+7/s 7/s 1 1/16 ½ 3/s ¼ 3/15 1/s 
+15/15 15/15 1 1/16 ½ 3/s 5/15 ¼ 3 /16 
+1 1 ¾ 9/15 7/15 5/15 ¼ 3/15 
+11/s 11/s 7/s % ½ 3/s ¼ 3/-15 
+1¼ 1¼ iS/15 11/15 ½ 3/s 5 /1e ¼ 
+13/s 13/s 11/16 ¾ 9/15 7/15 5/1s ¼ 
+1½ 1½ 11/s 7/s % ½ % ¼ 
+1% 15/s 1¼ 15/15 11/rn ½ 3/s 5/ie 
+1¾ 1¾ 1 5/15 1 ¾ 9/15 7 /15 5/15 
+F/s F/s F/16 11/16 1a11 6 9/1e 7 /i6 5/16 
+2 2 1½ 11/s 7/s 5/s ½ % 
+21/s 21/s 15/s 13/16 7/s 11/15 ½ % 
+2¼ 2¼ 1 11 /16 1¼ 15/16 1 1/1e 9/15 % 
+2% 23/s 113/15 1 5/16 1 ¾ 9 /is 7 /ia 
+2½ 2½ F/s F/1s 11/16 13/15 9/15 7/15 
+25/s 2% 2 1½ 11/s 13/15 % 7/15 
+2¾ 2¾ 21/ia 1 9Aa 11/s 7/s % ½ 
+2 7/s 2 7/s 2 3Aa 1% 13/15 15/ie 11/Js ½ 
+3 3 2¼ 1 1 1/ia 1¼ 15/is 11/16 9/,5 
+31/s 31/s 2% 1¾ 1 5/16 1 ¾ 9/15 
+TABLE A1.14 Visible Edge Indications Extending Approximately Parallel to Rolled Surfaces 
+Plate Specification 
+Acceptable Remove by Grinding 
+and Thickness LengthA Depth Depth 
+Column 1 2 3 
+Other than killed, 8 to 2 in., incl 1/s in. max any over 1/s in. to¼ in., incl 
+Killed, c to 6 in., incl 1/10 in. max any over 1/16 in. to 1/s in., incl 
+Killed, cover 6 in. 1/s in. max any over 1/s in. to ½ in., incl 
+A Laminar-type discontinuities 1 in. and less in length are acceptable and do not require exploration. 
+8 Specifications: A285; A433; A442 in thicknesses to 1 in., incl; or A455. 
+c The specification in 1 .1 of this standard, other than those listed in the above Footnote B. 
+88 
+Acceptable on Edges 
+Cut in Fabrication 
+LengthA Depth LengthA 
+4 5 6 
+over 1 in. ¼in.max any 
+over 1 in. 1/s in. max any 
+over 1 in. ½in.max any
+
+=== Page 141 ===
+
+ASME BPVC.II.A-2025 SA-20/SA-20M 
+TABLE A1.15 Generally Available Grade-Thickness-Minimum Test Temperature Combinations Meeting Charpy V-Notch Requirements 
+Indicated (Normalized or Quenched and Tempered Condition) 
+No'!E 1-The minimwn temperatures listed are for longitudinal tests. For transverse tests, the available minimum temperature may be somewhat higher. 
+Acceptance Criteria Charpy V-Notch Test Temperature, °F for Plate Thicknesses (Unless 
+Otherwise Agreed Upon) 
+Energy Absorption 
+(based on full-sized specimens) Specification and Grade 
+Minimum Average Minimum For 1 in. and Under Over 1 in. to 2 in., Over 2 in. to 3 in., Over 3 in. to 5 in., 
+For3 incl. incl. incl. 
+Specimens 1 Specimen 
+ft,lbf ft,lbf 
+13 10 A203 Grade A -90 -90 -75 
+A203 Grade D -150 -150 -125 
+A516 Grade 55 -60 -60 -50 -50 
+A516 Grade 60 -60 -50 -50 -50 
+A516 Grade 65 -60 -50 -40 -25 
+A537 Class 1 (Over 2½ -4 in.) -75 -50 
+A662 Grade A -75 -75 
+A662 Grade B -60 -60 
+15 12 A203 Grade B -90 -90 -75 
+A203 Grade E -150 -150 -125 
+A203 Grade F (4 in. max) -160 -160 
+A299 Grade A -50 -40 -30 -20 
+A299 Grade B -10 0 +10 +20 
+A516 Grade 70 -50 -40 -30 -20 
+A537 Class 1 (2½ in. max) -80 -75 -75 
+A537 Class 2 (Over 2½ -4 in.) -75 -50 
+A662 Grade C -50 -50 
+20 15 A203 Grade F -160 -160 
+A537 Class 2 (2½ in. max) -90 -90 -90 
+A612 -50 
+A724 Grade A, B, and C -50 
+TABLE A1.16 Charpy V-Notch Test Acceptance Criteria for Various Subsize SpecimensA 
+Full Size, 10 by ¾ Size, 10 by %Size, 10 by ½ Size, 10 by 5 1/sSize, 10 by ¼Size, 10 by 
+10mm 7.5mm 6.7mm mm 3.3mm 2.5mm 
+ft,lbf [J] ft-lbf [J] ft,lbf [J] ft•lbf [J] ft•lbf [J] ft•lbf [J] 
+40 [54] 30 [41] 27 [37] 20 [27] 13 [18] 10 [14] 
+35 [48] 26 [35] 23 [31] 18 [24] 12 [16] 9 [12] 
+30 [41] 22 [30] 20 [27] 15 [20] 10 [14] 8 [11] 
+25 [34] 19 [26] 17 [23] 12 [16] 8 [11] 6 [8] 
+20 [27] 15 [20] 13 [18] 10 [14] 7 [10] 5 [7] 
+16 [22] 12 [16] 11 [15] 8 [11] 5 [7] 4 [5] 
+15 [20] 11 [15] 10 [14] 8 [11] 5 [7] 4 [5] 
+13 [18] 10 [14] 9 [12] 6 [8] 4 [5] 3 [4] 
+12 [16] 9 [12] 8 [11] 6 [8] 4 [5] 3 [4] 
+10 [14] 8 [11] 7 [10] 5 [7] 3 [4] 2 [3] 
+7 [10] 5 [7] 5 [7] 4 [5] 2 [3] 2 [3] 
+A Interpolation shall be made for specimens with widths intermediate of those listed. Interpolated values shall be rounded to the nearest whole number as prescribed in 
+Practice E29. 
+89
+
+=== Page 142 ===
+
+SA-20/SA-20M ASME BPVC.II.A-2025 
+TABLE A1.17 Permissible Variations in Width for Mill Edge 
+Carbon Steel and High-Strength Low-Alloy Steel Plates Produced 
+on Strip Mills 
+NOTE I-Applies to plates produced from coil and plates produced 
+from plate-as-rolled. 
+Specified Width, in. Variations 
+over SpecifiedWidth, inA 
+To 14, excl 
+14 to 17, excl 
+17 to 19, excl 
+19 to 21, excl 
+21 to 24, excl 
+24 to 26, excl 
+26 to 28, excl 
+28 to 35, excl 
+35 to 50, excl 
+50 to 60, excl 
+60 to 65, excl 
+65 to 70, excl 
+70 to 80, excl 
+80 and over 
+A No permissible variation under specified width. 
+1/16 
+½ 
+o/1a 
+'1/ia 
+"¼a 
+15/1a 
+11/a. 
+1¼ 
+1½ 
+15/a 
+1¾ 
+Fla 
+2 
+A2. PERMISSIBLE VARIATIONS IN DIMENSIONS, ETC.-SI UNITS 
+A2.1 Listed herein are permissible variations in dimensions, 
+and notch toughness information, expressed in SI units. 
+90
+
+=== Page 143 ===
+
+ASME BPVC.II.A-2025 SA-20/SA-20M 
+/,,.--., TABLE A2.1 Permissible Variations in Thickness for Rectangular Plates 
+Norn I-Permissible variation under specified thickness, 0.3 mm. When so specified, these permitted variations may be taken all over, in which case 
+the sum of these permitted variations applies. 
+Norn 2-Thickness shall be measured 10 to 20 mm from the longitudinal edge. 
+Norn 3-For specified thicknesses other than those shown, the tolerances for the next higher thickness shall apply. 
+NOTE 4--For thickness measured at any location other than that specified in Note 2, the permissible maximum over tolerance shall be increased by 
+75 %, rounded to the nearest 0.1 mm. 
+Specified Tolerance Over Specified Thickness for Widths Given in Millimetres, mm 
+Thickness, 1200 and Over 1200 to 1500 to 1800to 2100 to 2400 to 2700 to 3000 to 3300 to 3600 to 4200 and mm Under 1500, excl 1800, 2100, 2400, 2700, 3000, 3300, 3600, 4200, Over 
+excl excl excl excl excl excl excl excl 
+5.0 0.8 0.8 0.8 0.8 0.8 0.8 0.8 0.9 1.0 
+5.5 0.8 0.8 0.8 0.8 0.8 0.8 0.8 0.9 1.0 
+6.0 0.8 0.8 0.8 0.8 0.8 0.8 0.9 1.0 1.1 
+7.0 0.8 0.8 0.8 0.8 0.8 0.8 0.9 1.0 1.2 1.4 
+8.0 0.8 0.8 0.8 0.8 0.8 0.8 0.9 1.0 1.2 1.4 
+9.0 0.8 0.8 0.8 0.8 0.8 0.8 1.0 1.0 1.3 1.5 
+10.0 0.8 0.8 0.8 0.8 0.8 0.8 1.0 1.0 1.3 1.5 1.7 
+11.0 0.8 0.8 0.8 0.8 0.8 0.8 1.0 1.0 1.3 1.5 1.7 
+12.0 0.8 0.8 0.8 0.8 0.8 0.9 1.0 1.0 1.3 1.5 1.8 
+14.0 0.8 0.8 0.8 0.8 0.9 0.9 1.0 1.1 1.3 1.5 1.8 
+16.0 0.8 0.8 0.8 0.8 0.9 0.9 1.0 1.1 1.3 1.5 1.8 
+18.0 0.8 0.8 0.8 0.8 0.9 1.0 1.1 1.2 1.4 1.6 2.0 
+20.0 0.8 0.8 0.8 0.8 0.9 1.0 1.2 1.2 1.4 1.6 2.0 
+22.0 0.8 0.9 0.9 0.9 1.0 1.1 1.3 1.3 1.5 1.8 2.0 
+25.0 0.9 0.9 1.0 1.0 1.0 1.2 1.3 1.5 1.5 1.8 2.2 
+28.0 1.0 1.0 1.1 1.1 1.1 1.3 1.4 1.8 1.8 2.0 2.2 
+30.0 1.1 1.1 1.2 1.2 1.2 1.4 1.5 1.8 1.8 2.1 2.4 
+32.0 1.2 1.2 1.3 1.3 1.3 1.5 1.6 2.0 2.0 2.3 2.6 
+35.0 1.3 1.3 1.4 1.4 1.4 1.6 1.7 2.3 2.3 2.5 2.8 
+38.0 1.4 1.4 1.5 1.5 1.5 1.7 1.8 2.3 2.3 2.7 3.0 
+40.0 1.5 1.5 1.6 1.6 1.6 1.8 2.0 2.5 2.5 2.8 3.3 
+45.0 1.6 1.6 1.7 1.8 1.8 2.0 2.3 2.8 2.8 3.0 3.5 
+50.0 1.8 1.8 1.8 2.0 2.0 2.3 2.5 3.0 3.0 3.3 3.8 
+55.0 2.0 2.0 2.0 2.2 2.2 2.5 2.8 3.3 3.3 3.5 3.8 
+60.0 2.3 2.3 2.3 2.4 2.4 2.8 3.0 3.4 3.4 3.8 4.0 
+70.0 2.5 2.5 2.5 2.6 2.6 3.0 3.3 3.5 3.6 4.0 4.0 
+80.0 2.8 2.8 2.8 2.8 2.8 3.3 3.5 3.5 3.6 4.0 4.0 
+90.0 3.0 3.0 3.0 3.0 3.0 3.5 3.5 3.5 3.6 4.0 4.4 
+100.0 3.3 3.3 3.3 3.3 3.5 3.8 3.8 3.8 3.8 4.4 4.4 
+110.0 3.5 3.5 3.5 3.5 3.5 3.8 3.8 3.8 3.8 4.4 4.4 
+120.0 3.8 3.8 3.8 3.8 3.8 3.8 3.8 3.8 3.8 4.8 4.8 
+130.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 5.2 5.2 
+140.0 4.3 4.3 4.3 4.3 4.3 4.3 4.3 4.3 4.3 5.6 5.6 
+150.0 4.5 4.5 4.5 4.5 4.5 4.5 4.5 4.5 4.5 5.6 5.6 
+160.0 4.8 4.8 4.8 4.8 4.8 4.8 4.8 4.8 4.8 5.6 5.6 
+180.0 5.4 5.4 5.4 5.4 . 5.4 5.4 5.4 5.4 5.4 6.3 6.3 
+200.0 5.8 5.8 6.0 6.0 6.0 6.0 6.0 6.0 6.0 7.0 7.0 
+250.0 7.5 7.5 7.5 7.5 7.5 7.5 7.5 7.5 7.5 7.5 8.8 
+300.0 7.5 7.5 9.0 9.0 9.0 9.0 9.0 9.0 9.0 9.0 9.0 
+91
+
+=== Page 144 ===
+
+SA-20/SA-20M ASME BPVC.II.A-2025 
+TABLE A2.2 Permissible Variations in Width and Length for Sheared Plates 40 mm and Under in Thickness; Length only for Universal 
+Mill Plates 65 mm and Under in Thickness 
+Specified Dimensions, mm Permissible Variations over Specified Width and LengthA for 
+Thicknesses Given in millimetres, mm 
+Length Width To 10, excl 10 to 16, excl 16 to 25, excl 25 to 50, incl 8 
+Width Length Width Length Width Length Width Length 
+To 3 000 excl to 1500 excl 10 13 11 16 13 19 16 25 
+1500 to 2100 excl 11 16 13 17 16 22 19 25 
+2100 to 2700 excl 13 19 16 22 19 25 25 29 
+2700 and over 16 22 19 25 22 29 29 32 
+3 000 to 6 000 excl to 1500 excl 10 19 13 22 16 25 19 29 
+1500 to 2100 excl 13 19 16 22 19 25 22 32 
+2100 to 2700 excl 14 22 17 24 21 29 25 35 
+2700 and over 16 25 19 29 22 32 29 35 
+6 000 to 9 000 excl to 1500 excl 10 25 13 29 16 32 19 38 
+1500 to 2100 excl 13 25 16 29 19 32 22 38 
+2100 to 2700 excl 14 25 17 32 22 35 25 38 
+2700 and over 17 29 22 32 25 35 32 44 
+9 ooo to 12 ooo excl to 1500 excl 11 29 13 32 16 35 19 41 
+1500 to 2100 excl 13 32 16 35 19 38 22 41 
+2100 to 2700 excl 14 32 19 35 22 38 25 48 
+2700 and over 19 35 22 38 25 41 32 48 
+12 000 to 15 000 excl to 1500 excl 11 32 13 38 16 41 19 48 
+1500 to 2100 excl 13 35 16 38 19 41 22 48 
+2100 to 2700 excl 16 35 19 38 • 22 41 25 48 
+2700 and over 19 38 22 41 25 44 32 48 
+15 000 to 18 000 excl to 1500 excl 13 44 16 48 19 48 22 57 
+1500 to 2100 excl 16 44 19 48 22 48 25 57 
+21 00 to 2700 excl 16 44 19 48 22 48 29 57 
+2700 and over 22 44 25 51 29 57 32 64 
+18 000 and over to 1500 excl 14 51 19 54 22 57 25 70 
+1500 to 2100 excl 19 51 22 54 25 57 29 70 
+21 00 to 2700 excl 19 51 22 54 25 57 32 70 
+2700 and over 25 51 29 60 32 64 35 • 76 
+A Permissible variation under specified width and length: 6 mm. By agreement, these permitted variations may be taken all over, in which case the sum of these permitted 
+variations applies. 
+8 Permissible variations in length apply also to Universal Mill plates up to 300 mm in width for thicknesses over 50 to 65 mm, incl, except for alloy steel up to 50 mm thick. 
+TABLE A2.3 Permissible Variations in Rolled Width for Universal 
+Mill Carbon Steel, High-Strength Low-Alloy Steel Plates, and 
+Alloy Steel Plates 400 mm and under in Thickness 
+NoTE 1-Pennissible variation under specified width shall be 3 mm. 
+Variations Over Specified Width for Thickness Given, mm 
+Specified Width, 10 to 16 to 25 to Over Over 
+mm To 10, 16, 25, 50, 50 to 250 to 
+excl excl excl excl 250, 400, 
+incl incl 
+Over 200 to 500, 3 3 5 6 10 13 
+excl 
+500 to 900, excl 5 6 8 10 11 14 
+900 and over 8 10 11 13 14 16 
+92 
+,...------
+
+=== Page 145 ===
+
+ASME BPVC.II.A-2025 
+TABLE A2.4 Permissible Variations in Diameter for Sheared 
+Circular Carbon Steel, High-Strength Low-Alloy Steel, and Alloy 
+Steel Plates 25 mm and under in Thickness 
+Norn 1-No permissible variations under specified diameter. 
+Specified 
+Diameters, mm 
+To 800, excl 
+800 to 2100, excl 
+2100 to 2700, excl 
+2700 to 3300, excl 
+3300 and over 
+Permissible Variations 
+Over Specified Diameter 
+for Thicknesses Given, mm 
+To 10, 10 to 16 to 25, 
+excl 16, excl incl 
+6 10 13 
+8 11 14 
+10 13 16 
+11 14 17 
+13 16 19 
+TABLE A2.5 Permissible Variations In Width and Length for 
+Rectangular Carbon Steel and High-Strength Low-Alloy Steel 
+Plates when Gas Cutting Is Specified or Required 
+NOTE 1-These variations may be taken all under or divided over and 
+under, if so specified. 
+Norn 2-Plates with universal rolled edges will be gas cut to length 
+only. 
+Specified Thickness, mm 
+To 50, excl 
+50 to 100, excl 
+100 to 150, excl 
+150 to 200, excl 
+200 to 400, incl 
+Variations Over for All Specified 
+Widths or Lengths, mm 
+13 
+16 
+19 
+22 
+25 
+TABLE A2.6 Permissible Variations in Diameter for Gas-Cut 
+Circular Carbon Steel and High-Strength Low-Alloy Steel Plates 
+Norn 1-No permissible variations under specified diameter. 
+Variations Over Specified Diameter for Thicknesses 
+Specified Given, mm 
+Diameters, To 25, 25 to 5010 100 to 150 to 200 to 
+mm 50, 100, 150, 200, 400, excl excl excl excl excl excl 
+To 800, excl 10 10 13 13 16 19 
+800 to 2100, 10 13 13 16 19 22 
+excl 
+2100 to 2700, 13 14 16 19 22 25 
+excl 
+2700 to 3300, 13 14 17 22 25 29 
+excl 
+3300 and over 16 19 22 25 29 32 
+TABLE A2.7 Permissible Camber for Carbon Steel Sheared or 
+Gas-Cut Rectangular Plates all Thicknesses 
+NOTE 1-Camber, as it relates to plates, is the horizontal edge curvature 
+in the length, measured over the entire length of the plate in the flat 
+position. 
+Maximum permissible camber, mm = length in millimetres/500 
+93 
+SA-20/SA-Z0M
+
+=== Page 146 ===
+
+SA-20/SA-20M ASME BPVC.II.A-2025 
+TABLE A2.8 Permissible Camber for Carbon Steel, High-Strength 
+Low-Alloy Steel, and Alloy Steel Universal Mill Plates and High­
+Strength Low-Alloy Steel and Alloy Steel Sheared or Gas-Cut 
+Rectangular Plates 
+Norn I-Camber, as it relates to plates, is the horizontal edge curvature 
+in the length, measured over the entire length of the plate in the flat 
+position. 
+Width, mm 
+To 750, incl 
+Over 750 to 1500 
+Camber for Width Given, mm 
+Length/300 
+Length/250 
+TABLE A2.9 Permissible Variations from Flatness for Carbon Steel Plates 
+Norn !-Flatness Variations for Length-The longer dimension specified is considered the length, and variation in flatness along the length shall not 
+exceed the tabular amount for the specified width in plates up to 4000 mm in length, or in any 4000 mm of longer plates. 
+Norn 2-Flatness Variations for Width-The flatness variation across the width shall not exceed the tabular amount for the specified width. 
+Norn 3-When the longer dimension is under 900 mm, the variation in flatness along the length and across the width shall not exceed 6 mm in each 
+direction. When the longer dimension is from 900 to 1800 mm, inclusive, the flatness variation shall not exceed 75 % of the tabular amount for the 
+specified width, but in no case less than 6 mm. 
+Norn 4--The tolerances given in this table apply to plates that have a minimum specified tensile strength not over 415 MPa or comparable chemistry 
+or hardness. For plates specified to a higher minimum tensile strength or comparable chemistry or hardness, the limits given in the table are increased 
+to 1 V2 times the amounts in the above table. 
+Norn 5-This table and notes cover the flatness tolerances of circular and sketch plates, based on the maximum dimensions of those plates. 
+Norn 6-Plates shall be in a horizontal position on a flat surface when flatness is measured. 
+Specified Thickness, Permissible Variations from a Flat Surface for Specified Widths, mm 
+mm To 900, 900 to 1200 to 1500 to 1800 to 2100 to 2400 to 2700 to 3000 to 3600 to 4200 and 
+excl 
+To 6, excl 14 
+6 to 10, excl 13 
+10 to 12, excl 13 
+12 to 20, excl 11 
+20 to 25, excl 11 
+25 to 50, excl 10 
+50 to 100, excl 8 
+100 to 150, excl 10 
+150 to 200, excl 11 
+200 to 250, excl 13 
+250 to 300, excl 13 
+300 to 400, incl 16 
+1200 1500 1800 2100 2400 2700 3000 
+19 24 32 35 38 41 44 
+16 19 24 29 32 35 38 
+14 16 16 19 22 25 29 
+13 14 16 16 19 25 25 
+13 14 16 16 16 19 22 
+13 13 14 14 16 16 16 
+10 11 13 13 13 13 14 
+11 13 13 14 14 16 19 
+13 13 16 18 19 22 22 
+13 16 18 19 21 22 24 
+16 19 21 22 24 25 25 
+19 21 22 24 25 25 25 
+TABLE A2.1 O Permissible Variations in Width and Length for 
+Rectangular Alloy Steel Plates when Gas Cutting is Specified or 
+Required 
+Norn !-These variations may be taken all under or divided over and 
+under, if so specified. 
+Norn 2-Plates with universal rolled edges will be gas cut to length 
+only. 
+Specified Thickness, mm 
+To 50, excl 
+50 to 100, excl 
+100 to 150, excl 
+150 to 200, excl 
+200 to 400, incl 
+94 
+Variations Over for All Specified 
+Widths and Lengths, mm 
+19 
+25 
+29 
+33 
+38 
+3600 4200 Over 
+48 
+41 
+32 48 54 
+29 38 51 
+25 35 44 
+18 29 38 
+16 22 29 
+22 22 25 
+25 25 25 
+25 25 25 
+25 25 25 
+25 25
+
+=== Page 147 ===
+
+ASME BPVC.II.A-2025 
+TABLE A2.11 Permissible Variations in Diameter tor Gas Cut 
+Circular Alloy Steel Plates 
+Norn 1-No permissible variations under specified diameter. 
+Variations Over Specified Diameter for Thicknesses 
+Specified Given, mm 
+Diameter, mm To 25, 25 to 50 to 100 to 150 to 200 to 
+50, 100, 150, 200, 400, excl excl excl excl excl incl 
+To 800, excl 13 13 19 19 25 25 
+800 to 2100, excl 13 16 22 25 29 32 
+2100 to 2700, excl 16 19 25 29 32 35 
+2700 to 3300, incl 22 25 29 32 35 38 
+SA-20/SA-20M 
+TABLE A2.12 Permissible Variations from Flatness for High-Strength Low-Alloy Steel and Alloy Steel Plates 
+Norn 1-Flatness Tolerances for Length-The longer dimension specified is considered the length and variations from a flat surface along the length 
+shall not exceed the tabular amount for the specified width in plates up to 4000 mm in length, or in any 4000 mm of longer plates. 
+Norn 2-Flatness Tolerances for Width-The flatness variation across the width shall not exceed the tabular amount for the specified width. 
+Norn 3-When the longer dimension is under 900 mm, the variation shall not exceed 10 mm. When the larger dimension is from 900 to 1800 mm, 
+incl, the variation shall not exceed 7 5 % of the tabular amount for the specified width. 
+Norn 4-This table and notes cover the tolerances for flatness of circular and sketch plates, based on the maximum dimensions of those plates. 
+Norn 5-Plates shall be in a horizontal position on a flat surface when flatness is measured. 
+Flatness Tolerances for Specified Widths, mm 
+Specified Thickness, To 900, 900 to 1200 to 1500 to 1800 to 2100 to 2400 to 2700 to 3000 to 3600 to 4200 and 
+mm excl 1200 1500 1800 2100 2400 2700 3000 3600 4200 over 
+To 6, excl 21 29 35 48 51 57 60 67 70 
+6 to 10, excl 19 24 29 35 44 48 51 57 60 
+10 to 12, excl 19 22 24 24 29 33 38 41 48 70 79 
+12 to 20, excl 16 19 21 22 25 29 32 35 41 57 76 
+20 to 25, excl 16 19 22 22 24 25 29 33 38 51 67 
+25 to 50, excl 14 16 19 21 22 24 25 25 25 41 57 
+50 to 100, excl 13 14 18 19 19 19 19 22 25 32 41 
+100 to 150, excl 14 18 '19 19 22 22 24 29 32 32 38 
+150 to 200, excl 16 19 19 24 25 29 32 33 38 38 38 
+200 to 250, excl 19 21 24 25 29 32 33 35 38 38 38 
+250 to 300, excl 19 24 29 32 33 35 38 38 38 38 38 
+300 to 400, incl 22 25 30 33 35 38 38 38 38 38 38 
+95
+
+=== Page 148 ===
+
+SA-20/SA-20M ASME BPVC.II.A-2025 
+TABLE A2.13 Waviness Tolerances for Rectangular Plates, Universal Mill Plates, Circular Plates, and Sketch Plates 
+NOTE I-Waviness denotes the deviation of the top or bottom surface from a horizontal line, when the plate is resting on a flat surface, as measured 
+in an increment of less than 4000 mm of length. The waviness tolerance is a function of the flatness tolerance as obtained from Tables A 2.9 and A 2.12. 
+Flatness When Number of Waves in 4000 mm is: Tolerance 
+from Tables 
+A2.9 and 2 3 4 5 6 7 
+A2.12 
+8 8 6 5 3 3 2 2 
+10 10 8 5 5 3 2 2 
+11 11 8 6 5 3 3 2 
+13 13 10 8 5 5 3 2 
+14 14 11 8 6 5 3 2 
+16 16 13 10 6 5 3 2 
+17 17 13 10 8 5 5 2 
+19 19 14 11 8 6 5 2 
+21 21 16 11 8 6 5 2 
+22 22 17 13 10 6 5 2 
+24 24 17 13 10 8 6 5 
+25 25 19 14 11 8 6 5 
+29 29 22 16 13 10 6 5 
+32 32 24 17 13 10 8 6 
+35 35 27 19 14 11 8 6 
+38 38 29 22 16 13 10 6 
+41 41 32 24 17 13 10 8 
+44 44 33 25 19 14 11 8 
+48 48 37 27 21 14 11 8 
+51 51 38 29 22 16 13 10 
+54 54 41 30 22 17 13 10 
+57 57 43 32 24 17 14 10 
+60 60 46 33 25 19 14 11 
+64 64 48 37 27 21 14 11 
+67 67 51 38 29 21 16 11 
+70 70 52 40 29 22 16 13 
+73 73 56 41 30 24 17 13 
+76 76 57 43 32 24 17 14 
+79 79 60 44 33 25 19 14 
+TABLE A2.14 Visible Edge Indications Extending Approximately Parallel to Rolled Surfaces 
+Plate Specification Acceptable Remove by Grinding and Thickness 
+Depth LengthA Depth 
+Column 1 2 3 
+Other than killed, 8 to 50 mm, incl 3 mm, max any over 3 to 6 
+mm, incl 
+Killed, 0 to 150 mm, incl 2 mm, max any over 2 to 3 
+mm, incl 
+Killed, 0 over 150 mm 3 mm, max any over 3 to 13 
+mm, incl 
+A Laminar-type discontinuities 25 mm and less in length are acceptable and do not require exploration. 
+8 Specifications: A285; A433; A442 in thicknesses to 25 mm, incl; or A455. 
+0 The specifications in 1.1 of this standard, other than those listed in the above Table Footnote B. 
+96 
+LengthA 
+4 
+over25 mm 
+over25 mm 
+over 25 mm 
+Acceptable on Edges 
+Cut in Fabrication 
+Depth LengthA 
+5 6 
+6 mm max any 
+3mm max any 
+13mm max any
+
+=== Page 149 ===
+
+ASME BPVG.II.A-2025 SA-20/SA-20M
+: TABLE A2.15 Generally Available Grade-Thickness-Minimum Test Temperature Combinations Meeting Charpy V-Notch Requirements
+a - Indicated (Normalized or Quenched and Tempered Condition)
+Note 1—The minimum temperatures listed are for longitudinal tests. For transverse tests, the available minimum temperature may be somewhat higher. |
+Acceptance Criteria Charpy V-Notch Test Temperature, °C for Plate Thicknesses
+Energy Absorption (Unless Otherwise Agreed Upon)
+(based on full-size specimens)
+Minimum Average Minimum Specification and Grade Over 25 Over 50 Over 75
+For 3 For 1 25 mm and
+Specimens, Specimen, Under mm to 50 mm to 7 mm to 125
+J rf mm, incl. mm, incl. mm, incl. ,
+18 14 A203 Grade A —68 —-68 -—60 en
+A203 Grade D -101 -101 -87 Lae |
+A516 Grade 55 -51 ~51 -46 -46
+A516 Grade 60 —51 —46 —46 -46 |
+A516 Grade 65 -51 —46 -40 ~32 |
+A537 Class 1 (Over 64-100 mm) . Lae wae ~60 -46
+A662 Grade A —60 -~60 Lae a |
+_ A662 Grade B —51 , -51 ee Lae
+. 20 16 A203 Grade B —68 —68 -60 ; _
+A203 Grade E ~101 -101 . -87 wae
+A203 Grade F (100 mm max) a Lae —107 -107
+A299 Grade A —46 —40 —40 —29 ;
+A299 Grade B —23 -18 —12 —6 :
+A516 Grade 70 —46 -40 -35 ~29
+A537 Class 1 (64 mm max) -62 ~—60 ~60 bee |
+A537 Class 2 (Over 64-100 mm) a _— —60 —46 |
+) A662 Grade C —46 ~46 a ban |
+27 20 A203 Grade F ~107 -107 Lae Lae
+A537 Class 2 (64 mm max) —68 —68 -68 . Lae
+A612 —46 Lae Las a
+A724 Grade A, B, and C —46 Lae wae wae
+TABLE A2.16 Permissible Variations in Width for Mill Edge
+- Carbon Steel and High-Strength Low-Alloy Steel Plates Produced |
+| on Strip Mills .
+Note 1—Applies to plates produced from coil and plates produced
+from plate-as-rolled. .
+«es ,; Variations Over .
+Specified Width, Specified Width,
+mm A |
+mm
+To 360, excl 11 |
+360 to 430, excl 13 :
+430 to 480, excl 14 :
+480 to 530, excl 16 '
+530 to 610, excl 17
+610 to 660, excl ; 21 .
+660 to 710; excl 24 i
+710 to 890, excl . 29
+890 to 1270, excl 32
+1270 to 1520, excl 38
+: 1520 to 1650, excl 41
+- 1650 to 1780, excl 44
+oe 1780 to 2030, excl 47
+2030 and over 51
+“No permissible variation under specified width.
+97
+
+=== Page 150 ===
+
+SA-Z0/SA-Z0M ASME BPVC.II.A-2025 
+A3. REQUIREMENTS FOR THE INTRODUCTION OF NEW MATERIALS 
+A3.l Proposals for the introduction of new plate materials 
+to be covered by the general requirements in this specification, 
+either by the addition of new grades within existing 
+specifications, or by the creation of a new specification shall be 
+subject to the following conditions: 
+A3.l.1 The application for the addition of a new grade to a 
+specification or a new specification shall be made to the chair 
+of the subcommittee. Applications for new specifications 
+remain subject to the approval of Committee A0l. Revisions to 
+existing specifications for such reasons as chemistry or thick­
+ness limitation are not subject to this annex. 
+A3.l.2 The application shall contain documentation citing 
+the requisite need for the new material and its intended use as 
+outlined in Form and Style for ASTM Standards, BS. Scope.3 
+That documentation may be in the form of a letter from a user, 
+fabricator, another standards development organization, or 
+producer stating the purpose and intended use for said new 
+mate1ial. The Subcommittee may consider other evidence of 
+need for the proposal. Additional background information as 
+may be pertinent to the introduction of tlie new material may 
+also be presented with the proposal. 
+A3.l.3 The application shall be accompanied by test data as 
+required by the applicable specification. Test data from a 
+minimum of three test lots, as defined by the specification, each 
+from a different heat, shall be furnished and shall include: 
+A3.l.3.l Chemical data reflecting a suitable representation 
+of tlie required chemistry range requested. 
+A3.l.3.2 Mechanical property data representing the pro­
+posed requirements in the delivered condition from each of the 
+heats supplied. 
+NoTE A3. l-To assist the balloting process, data from plates represent­
+ing the maximum proposed thickness should be provided recognizing that 
+in some cases the standard may be "limited only by the capacity of the 
+composition to meet the specified mechanical property requirements." 
+A3.l.3.3 Mechanical property data in the simulated Post­
+Weld Heat Treatment (PWHT) condition if the product speci­
+fication lists Supplementary Requirement S3. 
+A3.l.3.4 Evidence of weldability if the material is intended 
+for welded construction as may be referenced in the Scope 
+section of the new or existing standard. 
+NoTE A3.2-Such evidence is at the discretion of the submitter. 
+Common methodology may include but not be limited to a single ASME 
+Section IX qualification such as is referenced in 9 .4 of this specification. 
+A3.l.4 Other properties that are not specification require­
+ments that further describe the material, including physical 
+properties, are not mandatory. However, to the extent that such 
+information may assist the Subcommittee in evaluating the 
+proposal they may be included. Omission of such non-essential 
+documentation shall not be a cause for rejection of the 
+application by the subcommittee. 
+A3.l.5 The application shall state whether or not a patent 
+covers ilie new material. 
+APPENDIXES 
+(Nonmandatory Information) 
+Xl. COILED STEEL 
+Xl.1 Continuous wide hot strip rolling mills are nonnally 
+equipped with coilers. Regardless of the different types of 
+systems employed during or following the rolling operations, it 
+is common for the steel to be reeled into the coiler at 
+temperatures in the stress-relieving range. In general, such 
+temperatures are higher as the steel thickness increases. The 
+coils subsequently cool to ambient temperature with outer and 
+inner laps cooling more rapidly than central laps. The differ-
+98 
+ence in cooling rate can result in measurable differences in the 
+mechanical properties throughout a coil. Data confirm reduced 
+yield and tensile strength, and increased percent elongation, for 
+the product wiili slower cooling rates from the coiling tem­
+perature to ambient. Such differences are in addition to the 
+effects on mechanical properties caused by differences in heat 
+analysis and chemical segregation.
+
+=== Page 151 ===
+
+ASME BPVC.II.A-2025 SA-20/SA-20M 
+X2. VARIATION OF TENSILE PROPERTIES IN PLATE-AS-ROLLED 
+X2.1 The tension requirements of this general requirements 
+specification are intended only to characterize the tensile 
+properties of a plate-as-rolled for determination of confor­
+mance to the requirements of the applicable product specifica­
+tions. Such testing procedures are not intended to define the 
+upper or lower limits of tensile properties at all possible test 
+locations within a plate-as-rolled. It is well known and docu­
+mented that tensile properties vary within a plate-as-rolled or 
+individual piece of steel as a function of chemical composition, 
+processing, testing procedure, and other factors. It is, therefore, 
+incumbent on designers and engineers to use sound engineer­
+ing judgement when using tension test results shown on mill 
+test reports. The testing procedures of this general require­
+ments specification have been found to provide plate adequate 
+for normal pressure vessel design criteria. 
+X2.2 A survey of the variation to be expected in tensile 
+properties obtained from plates and strnctural shapes was 
+conducted by the American Iron and Steel Institute (AISI). 
+The results of this survey are contained in a Contributions to 
+the Metallurgy of Steel entitled "The Variation of Product 
+Analysis and Tensile Properties-Carbon Steel Plates, and 
+Wide Flange Shapes" (SU/18, SU/19, and SU/20), published in 
+September 197 4. The data are presented in tables of probability 
+that tensile properties at other than the official location may 
+differ from those of the reported test location. 
+X2.3 This general requirements specification contains no 
+requirements applicable to product tension tests; conformance 
+to the applicable product specification is determined on the 
+basis of tests performed at the place of manufacture or 
+processing prior to shipment, unless otherwise specified. 
+X2.4 A Task Group of ASTM Subcommittee AOl.11 has 
+determined, based on review of the AISI data (SU20), that the 
+variation in tensile properties within a plate-as-rolled can be 
+expressed as a function of specified requirements; one standard 
+deviation equals approximately 3 % of required tensile 
+strength, 5 % of required yield strength, and 3 percentage 
+points of required elongation. 
+X3. VARIATION IN CHARPY V-NOTCH TESTS 
+X3. l A survey of the variation to be expected in Charpy 
+V-Notch test results obtained from three common fine grain 
+plate steels was conducted by the American Iron and Steel 
+Institute (AISI). 7 The results of the survey are contained in a 
+Contributions to the Metallurgy of Steel entitled, "The Varia­
+tions of Charpy V-Notch Impact Test Properties in Steel 
+Plates," (SU/24), published January 1979. The survey data 
+consists of test values obtained from six locations in addition to 
+the locations specified in 12.1.3 of this specification. The plate 
+conditions tested involved as-rolled, normalized, and quench 
+and tempered. Sufficient full-size specimens were taken from 
+each sample so that three longitudinal and three transverse 
+specimens could be broken at three test temperatures defined 
+for each grade. The data is presented in tables of probability 
+that impact properties at other than the official location which 
+may differ from those of the reported test location. Additional 
+data of the same type, but utilizing samples from thicker plates, 
+was published by AISI as SU/27. 
+X4. RADIUS FOR COLD BENDING 
+X4. l Suggested minimum inside bend radii for cold form­
+ing are referenced to group Designations A through F as 
+defined in Table X4.1. The suggested radii listed in Table X4.2 
+should be used as minimums in typical shop fabrication. 
+Material that does not form satisfactorily when fabricated in 
+accordance with Table X4.2 may be subject to rejection 
+pending negotiation with the steel supplier. When tighter bends 
+are required, the manufacturer should be consulted. 
+X4.2 The bend radius and the radius of the male die should 
+be as liberal as the finished part will permit. The width across 
+the shoulders of the female die should be at least 8 times the 
+plate thickness. Higher strength steels require larger die open­
+ings. The surface of the dies in the area of radius should be 
+smooth. 
+99 
+X4.3 Since cracks in cold bending commonly originate 
+from the outside edges, shear burrs and gas cut edges should be 
+removed by grinding. Sharp corners on edges and on punched 
+or gas cut holes should be removed by chamfering or grinding 
+to a radius. 
+X4.4 If possible, parts should be formed such that the bend 
+line is perpendicular to the direction of final rolling. If it is 
+necessary to bend with the bend line parallel to the direction of 
+final rolling, a more generous radius is suggested (11/2 times 
+applicable value given in Table X4.2 for bend lines perpen­
+dicular to the direction of rolling). 
+X4.5 References 
+X4.5.1 Both of these references are available from Ameri­
+can Iron and Steel Institute (AISI):
+
+=== Page 152 ===
+
+SA-20/SA-20M ASME BPVC.II.A-2025 
+TABLE X4.1 Group Designations for Cold Bending 
+Specification Class Where . Group 
+Applicable Grade Where Applicable DesignationA 
+A203/A203M A, D B 
+B, E C 
+F D 
+A204/A204M A B 
+B C 
+C D 
+A225/A225M C,D D 
+A285/A285M A, B,C A 
+A299/A299M A, B D 
+A302/A302M A,C,D D 
+B E 
+A353/A353M D 
+A387/A387M 1, 2 2, 11, 12 C 
+1 5, 9, 21,21L,22, 22L E 
+2 5, 9, 21, 22, 91 E 
+A455/A455M C 
+A515/A515M 60 or 65 B 
+70 C 
+A516/A516M 55 A 
+60, 65 B 
+70 C 
+A517/A517M A, B, E, F, H, P, Q, S F 
+A533/A533M 1, 2, 3 A, B, C, D, E E 
+A537/A537M 1, 2 8 , 3 8 C 
+2c' 3c D 
+A542/A542M 0 1, 2 F 
+3, 4 D 
+4a E 
+A543/A543M 1, 2, 3 B,C F 
+A553/A553M 0 D 
+A562/A562M A 
+A612/A612M C 
+A645/A645M D 
+A662/A662M A, B B 
+C C 
+A724/A724M A, C D 
+B E 
+A736/A736M 1, 2, 3 A, C D 
+A737/A737M B, C B 
+A738/A738M A, B D 
+ca C 
+cc D 
+A832/A832M 21V, 22V, 23V E 
+A841/A841M 1, 2 A, B, C C 
+3 D F 
+A844/A844M D 
+A1017/A1017M 23,122 D 
+92, 911 E 
+A Steels in Groups A to E inclusive are grouped on the basis of similar specified 
+values for minimum elongation in 2 in. [50 mm]; Group F includes steels that have 
+a specified minimum elongation in 2 in. [50 mm] of 16 or less, and steels that have 
+a ratio of specified minimum tensile strength to specified minimum yield strength of 
+1.15 or less. 
+8 For thicknesses of 4 in. [100 mm] and less. 
+° For thicknesses over 4 in. [100 mm]. 
+° For any type. 
+TABLE X4.2 Suggested Minimum Inside Radii for Cold BendingA 
+Thickness (t), in. [mm] 
+Group 
+Up to¾ in. Over¾ in. [20 mm] Over 1 in. [25 mm] Over 2 in. Designation 8 
+[20mm] to 1 in. [25 mm], to 2 in. [50 mm], [50mm] incl incl 
+A 1.51 1.51 1.51 1.51 
+B 1.51 1.51 1.51 2.0t 
+C 1.51 1.51 2.0t 2.51 
+D 1.51 1.51 2.51 3.0t 
+E 1.51 1.51 3.0t 3.51 
+F 1.751 2.251 4.51 5.51 
+A Values are for bend lines perpendicular to the direction of final rolling. These radii 
+apply when the precautions listed in X4.2 are followed. If bend lines are parallel to 
+the direction of final rolling, multiply values by 1.5. 
+8 Steels specifications included in the group designations may not include the 
+entire thickness range shown in this table. 
+Holt, G. E., et al. "Minimum Cold Bend Radii Project - Final 
+Report," Concurrent Technologies Corporation, January 27, 
+1997. 
+100 
+Brockenbrough, R. L., "Fabrication Guidelines for Cold 
+Bending," R. L. Brockenbrough & Associates, June 28, 1998.
+
+=== Page 153 ===
+
+ASME BPVC.ILA-2025 SA-29/SA-29M
+
+SPECIFICATION FOR GENERAL REQUIREMENTS FOR
+STEEL BARS, CARBON AND ALLOY, HOT-WROUGHT
+
+xs SA-29/SA-29M Ally
+
+INTERNATIONAL
+® si vi
+
+(Identical with ASTM Specification A29/A29M-20.)
+
+101
+
+=== Page 154 ===
+
+SA-29/SA-29M ASME BPVC.II.A-2025 
+Specification for 
+General Requirements for Steel Bars, Carbon and Alloy, 
+Hot-Wrought 
+1. Scope 
+1.1 This specification covers a group of common require­
+ments which, unless otherwise specified in the purchase order 
+or in an individual specification, shall apply to carbon and alloy 
+steel bars under each of the following ASTM specifications ( or 
+under any other ASTM specification which invokes this 
+specification or portions thereof): 
+Title of Specification 
+Hot-Rolled Carbon Steel Bars: 
+Steel Bars, Carbon, Quenched and Tempered 
+Steel Bars and Shapes, Carbon Rolled from "T" Rails 
+Steel Bars, Carbon, Merchant Quality, M-Grades 
+Steel Bars, Carbon, Hot-Wrought, Special Quality 
+Steel Bars, Carbon, Merchant Quality, Mechanical 
+Properties 
+Steel Bars, Carbon, Hot-Wrought, Special Quality, Me­
+chanical Properties 
+Steel Bars for Springs, Carbon and Alloy 
+Cold-Finished Carbon Steel Bars: 
+Steel Bars, Carbon and Alloy, Cold-Finished 
+Cold-Drawn Stress-Relieved Carbon Steel Bars Sub­
+ject to Mechanical Property Requirements 
+Hot-Rolled Alloy Steel Bars: 
+Steel Bars, Alloy, Standard Grades 
+Carbon and Alloy Steel Bars Subject to End-Quench 
+Hardenability Requirements 
+Steel Bars, Alloy, Hot-Wrought or Cold-Finished, 
+Quenched and Tempered 
+Steel Bars, Alloy, Hot-Wrought, for Elevated Tempera­
+ture or Pressure-Containing Parts, or Both 
+Cold-Finished Alloy Steel Bars: 
+Steel Bars, Alloy, Hot-Rolled or Cold-Finished, 
+Quenched and Tempered 
+Steel Bars, Carbon, Hot-Wrought or Cold-Finished, 
+Special Quality, for Pressure Piping Components 
+ASTM 
+DesignationA 
+A321 
+A499 
+A575 
+A576 
+A663/A663M 
+A675/A675M 
+A689 
+A108 
+A311/A311M 
+A322 
+A304 
+A434/A434M 
+A739 
+A434/A434M 
+A696 
+A These designations refer to the latest issue of the respective specifications, 
+which appear either in the Annual Book of ASTM Standards, Vol 01.05, or as 
+reprints obtainable from ASTM. 
+102 
+1.2 In case of any conflict in requirements, the requirements 
+of the purchase order, the individual material specification, .and 
+this general specification shall prevail in the sequence named. 
+1.3 The values stated in either inch-pound units or SI units 
+are to be regarded separately as standard. The values stated in 
+each system are not necessarily exact equivalents; therefore, to 
+ensure conformance with the standard, each system shall used 
+independently of the other, and values from the two systems 
+shall not be combined. 
+1.4 For purposes of determining conformance to this speci­
+fication and the various material specifications referenced in 
+1.1, dimensional values shall be rounded to the nearest unit in 
+the right-hand place of figures used in expressing the limiting 
+values in accordance with the rounding method of Practice 
+E29. 
+NoTE I-Specification A29/A29M previously listed dimensional toler­
+ances for cold-finished bars; these are now found in Specification A108. 
+l .5 This standard does not purport to address all of the 
+safety concerns, if any, associated with its use. It is the 
+responsibility of the user of this standard to establish appro­
+priate safety, health, and environmental practices and deter­
+mine the applicability of regulatory limitations prior to use. 
+1.6 This international standard was developed in accor­
+dance with internationally recognized principles on standard­
+ization established in the Decision on Principles for the 
+Development of International Standards, Guides and Recom­
+mendations issued by the World Trade Organization Technical 
+Barriers to Trade (TBT) Committee. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+A108 Specification for Steel Bar, Carbon and Alloy, Cold­
+Finished 
+A304 Specification for Carbon and Alloy Steel Bars Subject 
+to End-Quench Hardenability Requirements
+
+=== Page 155 ===
+
+ASME BPVC.II.A-2025 SA-29/SA-29M 
+A311/A311M Specification for Cold-Drawn, Stress­
+Relieved Carbon Steel Bars Subject to Mechanical Prop­
+erty Requirements 
+A321 Specification for Steel Bars, Carbon, Quenched and 
+Tempered (Withdrawn 2007) 
+A322 Specification for Steel Bars, Alloy, Standard Grades 
+A370 Test Methods and Definitions for Mechanical Testing 
+of Steel Products 
+A434/A434M Specification for Steel Bars, Alloy, Hot­
+Wrought or Cold-Finished, Quenched and Tempered 
+A499 Specification for Steel Bars and Shapes, Carbon 
+Rolled from "T" Rails 
+A575 Specification for Steel Bars, Carbon, Merchant 
+Quality, M-Grades 
+A576 Specification for Steel Bars, Carbon, Hot-Wrought, 
+Special Quality 
+A663/A663M Specification for Steel Bars, Carbon, Mer­
+chant Quality, Mechanical Properties 
+A675/A675M Specification for Steel Bars, Carbon, Hot­
+Wrought, Special Quality, Mechanical Properties 
+A689 Specification for Carbon and Alloy Steel Bars for 
+Springs 
+A696 Specification for Steel Bars, Carbon, Hot-Wrought or 
+Cold-Finished, Special Quality, for Pressure Piping Com­
+ponents 
+A700 Guide for Packaging, Marking, and Loading Methods 
+for Steel Products for Shipment 
+A 739 Specification for Steel Bars, Alloy, Hot-Wrought, for 
+Elevated Temperature or Pressure-Containing Parts, or 
+Both 
+A751 Test Methods, Practices, and Terminology for Chemi­
+cal Analysis of Steel Products 
+E29 Practice for Using Significant Digits in Test Data to 
+Determine Conformance with Specifications 
+E112 Test Methods for Determining Average Grain Size 
+2.2 ASME Code: 
+ASME Boiler and Pressure Vessel Code 
+2.3 Federal Standards: 
+Fed. Std. No. 123 Marking for Shipment (Civil Agencies) 
+Fed. Std. No. 183 Continuous Identification Marking of Iron 
+and Steel Products 
+2.4 Military Standard: 
+MIL-STD-163 Steel Mill Products-Preparation for Ship­
+ment and Storage 
+2.5 Other Standards: 
+AIAG B-1 Bar Code Symbology Standard for 3-of-9 Bar 
+Codes 
+AIAG B-5 02.00 Primary Metals Tag Application Standard 
+3. Terminology 
+3 .1 Definitions of Terms Specific to This Standard: 
+3.1.1 cold-finished steel bars-steel bars produced by cold 
+finishing previously hot-wrought bars by means of cold 
+drawing, cold forming, turning, grinding, or polishing (singly 
+or in combination) to yield straight lengths or coils in sections 
+that are uniform throughout their length and in the following 
+sections and sizes: 
+3.1.1.1 rounds-9 in. [230 mm] and under in diameter, 
+3.1.1.2 squares-6 in. [150 mm] and under between parallel 
+surfaces, 
+3.1.1.3 hexagons-4 in. [100 mm] and under between par­
+allel surfaces, 
+3.1.1.4 fiats-Vs in. [3 mm] and over in thickness and not 
+over 12 in. [300 mm] in width, and 
+3.1.1.5 special bar sections. 
+3.1.2 hot-wrought steel bars-steel bars produced by hot 
+forming ingots, blooms, billets, or other semifinished forms to 
+yield straight lengths ( or coils, depending upon size, section, 
+and mill equipment) in sections that are uniform throughout 
+their length, and in the following sections and sizes: 
+3.1.2.1 rounds-½2 in. to 10.0 in. [5.5 mm to 250 mm], 
+inclusive; 
+3.1.2.2 squares-½2 in. to 6.0 in. [6 mm to 160 mm], 
+inclusive; 
+3.1.2.3 round-cornered squares-1/32 in. to 8.0 in. [6 mm to 
+200 mm], inclusive; 
+3.1.2.4 fiats-¼ in. to 8 in. inclusive, in width: 13 /64 in. in 
+minimum thickness up to 6 in. in width; and 0.230 in. in 
+minimum thickness for over 6 in. to 8 in. in width, inclusive 
+[ over 5 mm in thickness up to 150 mm in width; and over 6 mm 
+in thickness for over 150 mm through 200 mm in width]. 
+Maximum thickness for all widths is 4 in. [100 mm]; 
+3.1.2.5 hexagons and octagons-¼ in. to 4½6 in. [6 mm to 
+103 mm], inclusive, between parallel surfaces; 
+3.1.2.6 bar size shapes-Angles, channels, tees, zees, when 
+their greatest cross-sectional dimension is under 3 in. [75 mm]; 
+and 
+3.1.2.7 special bar sections-Half-rounds, ovals, half-ovals, 
+other special bar size sections. 
+3.1.3 lot-unless otherwise specified in the contract or 
+order, a lot shall consist of all bars submitted for inspection at 
+the same time of the same heat, condition, finish, size, or shape. 
+For bars specified in the quenched and tempered condition, 
+when heat treated in batch-type furnaces, a lot shall consist of 
+all bars from the same heat, of the same prior condition, the 
+same size, and subjected to the same heat treatment in one 
+tempering charge. For bars specified in the quenched and 
+tempered condition, when heat treated without interruption in a 
+continuous-type furnace, a lot shall consist of all bars from the 
+same heat, of the same prior condition, of the same size, and 
+subjected to the same heat treatment. 
+103
+
+=== Page 156 ===
+
+SA-29/SA-29M ASME BPVC.II.A-2025 
+4. Chemical Composition 
+4.1 Limits: 
+4.1.1 The chemical composition shall conform to the re­
+quirements specified in the purchase order or the individual 
+product specifications. For convenience, the grades commonly 
+specified for carbon steel bars are shown in Table 1 and for 
+alloy steel bars in Table 2. Bars may be ordered to these grade 
+designations and when so ordered shall conform to the speci-
+. fied limits by heat analysis. 
+4.1.2 When compositions other than those shown in Tables 
+1 and 2 are required, the composition limits shall be prepared 
+using the ranges and limits shown in Table 3 for carbon steel 
+and Table 4 for alloy steel. 
+4.2 Heat or Cast Analysis: 
+4.2.l The chemical composition of each heat or cast shall be 
+determined by the manufacturer in accordance with Test 
+Methods, Practices, and Terminology A751. 
+4.2.2 The heat or cast analysis shall conform to the require­
+ments specified in the product specification or purchase order. 
+These can be the heat chemical range and limit for a grade 
+designated in Tables 1 and 2, or another range and limit in 
+accordance with 4.1.2, or with requirements of the product 
+specification. 
+Norn 2-Heat analysis for lead is not determinable since lead is added 
+to the ladle stream while each ingot is poured. When specified as an added 
+element to a standard steel, the percentage of lead is reported as 0.15 to 
+0.35 incl, which is the range commonly specified for this element. 
+4.2.3 If requested or required, the heat analysis shall be 
+reported to the purchaser or his representative. 
+4.2.4 Reporting of significant figures and rounding shall be 
+in accordance with Test Methods, Practices, and Terminology 
+A751. 
+4.3 Product Analysis: 
+4.3.1 Merchant quality carbon bar steel is not subject to 
+rejection for product analysis unless misapplication of a heat is 
+clearly indicated. 
+4.3.2 Analyses may be made by the purchaser from finished 
+bars other than merchant quality representing each heat of 
+open-hearth, basic-oxygen, or electric-furnace steel. The 
+chemical composition thus determined shall not vary from the 
+limits specified in the applicable specification by more than the 
+amounts prescribed in Table 5 and Table 6, but the several 
+determinations of any element, excluding lead, in a heat may 
+not vary both above and below the specified range. Rimmed or 
+capped steel is characterized by a lack of homogeneity in its 
+composition, especially for the elements carbon, phosphorus, 
+and sulfur; therefore, when rimmed or capped steel is specified 
+or required, the limitations for these elements shall not be 
+applicable. Because of the degree to which phosphorus and 
+sulfur segregate, the limitations for these elements shall not be 
+applicable to rephosphorized or resulfurized steels. 
+4.3.3 Samples for product analysis shall be taken by one of 
+the following methods: 
+4.3.3.1 Applicable to small sections whose cross-sectional 
+area does not exceed 0.75 in.2 [500 mm 2 ] such as rounds, 
+squares, hexagons, and the like. Chips are taken by milling or 
+machining the full cross section of the piece. Drilling is not a 
+feasible method for sampling sizes 0.75 in. 2 and smaller. 
+4.3.3.2 Applicable to products where the width of the cross 
+section greatly exceeds the thickness, such as bar size shapes 
+and light flat bars. Chips are taken by drilling entirely through 
+the steel at a point midway between the edge and the middle of 
+the section, or by milling or machining the entire cross section. 
+4.3.3.3 Applicable to large rounds, squares semifinished, 
+etc. Chips are taken at any point midway between the outside 
+and the center of the piece by drilling parallel to the axis or by 
+milling or machining the full cross section. In cases where 
+these methods are not practicable, the piece may be drilled on 
+the side, but chips are not taken until they represent the portion 
+midway between the outside and the center. 
+4.3.3.4 When the steel is subject to tension test 
+requirements, the tension test specimen can also be used for 
+product analysis. In that case, chips for product analysis can be 
+taken by drilling entirely through the tension test specimens or 
+by the method described in 4.3.3.1. 
+4.3.4 When chips are taken by chilling, the diameter of the 
+drill used shall conform to the following: 
+Area of Sample Cross Section, Approximate Drill Diameter, 
+in. 2 [cm 2 ] in. [mm] 
+16 [1 OD] or less ½ [12.5] 
+Over 16 [100] 1 [25.0] 
+4.3.5 The minimum number of samples to be taken from 
+material representing the same heat or lot before rejection by 
+the purchaser shall be as follows: 
+104 
+Minimum Number 
+of Samples 
+15 tons [15 Mg] and under 4 
+Over 15 tons [15 Mg] 6 
+4.3.6 In case the number of pieces in a heat is less than the 
+number of samples required, one sample from each piece shall 
+be considered sufficient. 
+4.3.7 In the event that product analysis determinations are 
+outside the permissible limits as prescribed in 4.3.2, additional 
+samples shall be analyzed and the acceptability of the heat 
+negotiated between the purchaser and the producer. 
+4.4 Referee Analysis-In case a referee analysis is required 
+and agreed upon to resolve a dispute concerning the results of 
+a chemical analysis, the referee analysis shall be performed in 
+accordance with the latest issue of Test Methods, Practices, and 
+Terminology A751, unless otherwise agreed upon between the 
+manufacturer and the purchaser. 
+5. Grain Size Requirement 
+5.1 Austenitic Grain Size-All requirements for austenitic 
+grain size control in Section 5 refer to the size of the austenite 
+grain which forms during a subsequent bar reheating operation 
+at or above the recrystallization temperature. These require­
+ments do not apply to, nor do they in any way control, the p1ior 
+austenite grain size or the ferrite grain size of the bar in the 
+as-rolled condition. 
+5.1.1 When a coarse austenitic grain size is specified, the 
+steel shall have a grain size number of 1 to 5 exclusive as
+
+=== Page 157 ===
+
+ASME BPVC.1IA-2025 SA-29/SA-29M
+TABLE 1 Grade Designations and Chemical Compositions of Carbon Steel Bars
+Grade Designat Heat Chemical Ranges and Limits, %
+rade Designation Carbon Manganese Phosphorus, max Sulfur, max*
+Nonresuilfurized Carbon Steels® & © & F
+7005 0.08 max 0.95 max 0.040 0.050
+1008 0.08 max 0.25~0.40 0.040 0.050
+1008 0.10 max 0.30-0.50 0.040 0.050
+4010 0.08-0.13 0.30-0.60 0.040 0.050
+1011 0.08-0.13 0.60-0.90 0.040 0.050
+1012 0.10-0.15 0.30-0.60 0.040 0.050
+1013 0.11-0.16 0.50-0.80 0.040 0.050
+1015, 0.13-0.18 0.30-0.60 0.040 0.050
+1016 0.13-0.18 0.60-0.90 0.040 0.050
+1017 0.15-0.20 0.30-0.60 0.040 0.050
+1018 0.15-0.20 0.60-0.90 0.040 0.050
+1019 0.15-0.20 0.70-1.00 0.040 0.050
+1020 0.18-0.23 0.30-0.60 0.040 0.050
+4021 0.18-0.23 0.60-0.90 0.040 0.050
+1022 0.18-0.23 0.70-1.00 0.040 0.050
+1023 0.20-0.25 0.30-0.60 0.040 0.050
+4025 0.22-0.28 0.30-0.60 0.040 0.050
+1026 0.22-0.28 0.60-0.90 0.040 0.050
+1029 0.25-0.31 0.60-0.90 0.040 0.050
+4030 0.28-0.34 0.60-0.90 0.040 0.050
+1034 0.82-0.38 0.50-0.80 0.040 0.050
+1035 0.82-0.38 0.60-0.90 0.040 0.050
+1037 0.32-0.38 0.70-1.00 0.040 0.050
+1038 0.35-0.42 0.60-0.90 0.040 0.050
+1039 0.97-0.44 0.70-1.00 0.040 0.050
+4040 0.37-0.44 0.60-0.90 0.040 0.050
+1042 0.40-0.47 0.60-0.90 0.040 0.050
+1043 0.40-0.47 0.70-1.00 0.040 0.050
+4044 0.43-0.50 0.30-0.60 0.040 0.050
+1045 0.43-0.50 0.60-0.90 0.040 0.050
+1046 0.43-0.50 0.70-1.00 0.040 0.050
+1049 0.46-0.53 0.60-0.90 0.040 0.050
+1050 0.48-0.55 0.60-0.90 0.040 0.050
+1053 0.48-0.55 0.70-1.00 0.040 0.050
+1055 0.50-0.60 0.60-0.90 0.040 0.050
+1059 0.55-0.65 0.50-0.80 0.040 0.050
+1060 0.55-0.65 0.60-0.90 0.040, 0.050
+1064 0.60-0.70 0.50-0.80 0.040 0.050
+1065 0.60-0.70 0.60-0.90 0.040 0.050
+1069 0.65-0.75 0.40-0.70 0.040 0.050
+1070 0.65-0.75 0.60-0.90 0.040 0.050
+4071 0.65-0.70 0.75-1.05 0.040 0.050
+1074 0.70-0.80 0.50-0.80 0.040 0.050
+1075 0.70-0.80 0.40-0.70 0.040 0.050
+1078 0.72-0.85 0.30-0.60 0.040 0.050
+1080 0.75-0.88 0.60-0.90 0.040 0.050
+1084 0.80-0.93 0.60-0.90 0.040 0.050
+1086 0.80-0.93 0.30-0.50 0.040 0.050
+1090 0.85-0.98 0.60-0.90 0.040 0.050
+1095 0.90-1.03 0.30-0.50 0.040 0.050
+Resulfurized Carbon Steels= >
+7108 008-013 (0:60-0.80 0.040 0.08-0.13
+1109 0.08-0.13 0.60-0.90 0.040 0.08-0.13
+1110 0.08-0.13 0.30-0.60 0.040 0.08-0.13
+1116 0.14-0.20 1.10-1.40 0.040 0.16-0.23
+a7 0.14-0.20 1.00-1.30 0.040 0.08-0.13
+1118 0.14-0.20 1.30-1.60 0.040 0.08-0.13
+i119 0.14-0.20 1.00-1.30 0.040 0,24-0.33
+1132 0.27-0.34 1.35-1.65 0.040 0.08-0.13
+1137 0.82-0.39 1.35-1.65 0.040 0.08-0.13
+1139 0.35-0.43 1.35-1.65 0.040 0.13-0.20
+1140 0.37-0.44 0.70-1.00 0.040 0.08-0.18
+1141 0.97-0.45 1.35-1.65 0.040 0.08-0.18
+1144 0.40-0.48 1.35+4.65 0.040 0.24-0.33
+1145 0.42-0.49 0.70-1.00 0.040 0.04-0.07
+1146 0.42-0.49 0.70-1.00 0.040 0.08-0.13
+1151 0.48-0.55 0.70-1.00 0.040 0.08-0.13
+Rephosphorized and Resuifurized Carbon Steels™-~
+Grade Designation Carbon Manganese Phosphorous Sulfur Load
+1211 0.43 max 0.60-0.90 0.07-0.12 0.10-0.15
+1212 0.13 max 0.70-1.00 0.07-0.12 0.16-0.23 oo
+
+105
+
+=== Page 158 ===
+
+SA-29/SA-29M 
+Grade Designation 
+1213 
+1215 
+12L13 
+12L14 
+12L15 
+Grade Designation 
+1513 
+1518 
+1522 
+1524 
+1525 
+1526 
+1527 
+1536 
+1541 
+1547 
+1548 
+1551 
+1552 
+1561 
+1566 
+1572 
+Grade Designation 
+M 1008 
+M 1010 
+M 1012 
+M 1015 
+M 1017 
+M 1020 
+M 1023 
+M 1025 
+M 1031 
+M 1044 
+Former Designation 
+1024 
+1027 
+1036 
+1041 
+1048 
+1051 
+1052 
+1061 
+1066 
+1072 
+Carbon 
+0.10 max 
+0.07-0.14 
+0.09-0.16 
+0.12-0.19 
+0.14-0.21 
+0.17-0.24 
+0.19-0.27 
+0.20-0,30 
+0.26-0,36 
+0.40-0.50 
+A Maximum unless otherwise indicated. 
+ASME BPVC.II.A-2025 
+TABLE 1 Continued 
+Rephosphorized and Resulfurized Carbon Steels 0 ,F 
+Carbon 
+0.13 max 
+0.09 max 
+0.13 max 
+0.15 max 
+0.09 max 
+Manganese 
+0.70-1.00 
+0.75-1.05 
+0.70-1.00 
+0.85-1.15 
+0.75-1.05 
+Phosphorous 
+0.07-0.12 
+0.04-0.09 
+0.07-0.12 
+0.04-0.09 
+0.04-0.09 
+High-Manganese Carbon Steels 8 ,c,o,E,F 
+Sulfur 
+0.24-0,33 
+0.26-0,35 
+0.24-0,33 
+0.26-0,35 
+0.26-0,35 
+Carbon Manganese Phosphorous, max 
+0.10-0.16 
+0.15-0.21 
+0.18-0.24 
+0.19-0.25 
+0.23-0.29 
+0.22-0.29 
+0.22-0.29 
+0.30-0.37 
+0.36-0.44 
+0.43-0.51 
+0.44-0.52 
+0.45-0.56 
+0.47-0.55 
+0.55-0.65 
+0.60-0.71 
+0.65-0.76 
+1.10-1.40 
+1.10-1.40 
+1.10-1.40 
+1.35-1.65 
+0.80-1.10 
+1.10-1.40 
+1.20-1.50 
+1.20-1.50 
+1,35-1.65 
+1.35-1,65 
+1.10-1.40 
+0.85-1.15 
+1.20-1.50 
+0.75-1.05 
+0.85-1.15 
+1.00-1.30 
+Heat Chemical Ranges and Limits, percent 
+Merchant Quality M Series Carbon Steel Bars 
+0.040 
+0.040 
+0.040 
+0.040 
+0.040 
+0.040 
+0.040 
+0.040 
+0.040 
+0.040 
+0.040 
+0.040 
+0.040 
+0.040 
+0.040 
+0.040 
+ManganeseG Phosphorous, max 
+0.25-0.60 
+0.25-0.60 
+0.25-0.60 
+0.25-0.60 
+0.25-0.60 
+0.25-0.60 
+0.25-0.60 
+0.25-0,60 
+0.25-0.60 
+0.25-0.60 
+0.04 
+0.04 
+0.04 
+0.04 
+0.04 
+0.04 
+0.04 
+0.04 
+0.04 
+0.04 
+Lead 
+0.15-0.35 
+0.15-0.35 
+0.15-0.35 
+Sulfur, max 
+0.050 
+0.050 
+0.050 
+0.050 
+0.050 
+0.050 
+0.050 
+0.050 
+0.050 
+0.050 
+0.050 
+0.050 
+0.050 
+0.050 
+0.050 
+0.050 
+Sulfur, max 
+0.05 
+0.05 
+0.05 
+0.05 
+0.05 
+0.05 
+0.05 
+0.05 
+0.05 
+0.05 
+8 When silicon is required, the following ranges and limits are commonly specified: 0.1 0 %, max, 0.1 0 % to 0.20 %, 0.15 % to 0.35 %, 0.20 % to 0.40 %, or 0.30 % to 
+0.60%. 
+c Copper can be specified when required as 0.20 % minimum. 
+0 When lead is required as an added element to a standard steel, a range of 0.15 to 0.35 % inclusive is specified. Such a steel is identified by inserting the letter "L" between 
+the second and third numerals of the grade designation, for example, 10 L 45. A cast or heat analysis is not determinable when lead is added to the ladle stream. 
+"When boron treatment for killed steels is specified, the steels can be expected to contain 0.0005 to 0.003 % boron. If the usual titanium additive is not permitted, the 
+steels can be expected to contain up to 0.005 % boron. 
+FThe elements bismuth, calcium, selenium, or tellurium may be added as agreed upon between purchaser and supplier. 
+G Unless prohibited by the purchaser, the manganese content may exceed 0.60 % on heat analysis to a maximum of 0.75 %, provided the carbon range on heat analysis 
+has the minimum and maximum reduced by 0.01 % for each 0.05 % manganese over 0.60 %. 
+determined in accordance with Test Methods El12. Confor­
+mance to this grain size of 70 % of the grains in the area 
+examined shall constitute the basis of acceptance. One test per 
+heat shall be made. 
+5.1.2 When a fine austenitic grain size is specified, the steel 
+shall have a grain size number of 5 or higher as determined in 
+accordance with Test Methods El12. Conformance to this 
+grain size of 70 % of the area examined shall constitute the 
+basis of acceptance. One test per heat shall be made unless the 
+provisions of 5.1.2.1 or 5.1.2.2 are exercised. 
+5.1.2.1 When aluminum is used as the grain refining 
+element, the fine austenitic grain size requirement shall be 
+deemed to be fulfilled if, on heat analysis, the aluminum 
+content is not less than 0.020 % total aluminum or, alternately, 
+0.015 % acid soluble aluminum. The aluminum content shall 
+be reported. The grain size test specified in 5.1.2 shall be the 
+referee test. 
+106 
+5.1.2.2 By agreement between purchaser and supplier, co­
+lumbium or vanadium, or both, may be used for grain refining 
+instead of or with aluminum. When columbium or vanadium is 
+used as a grain refining element, the fine austenitic grain size 
+requirement shall be deemed to be fulfilled if, on heat analysis, 
+the columbium or vanadium content is as follows (the content 
+of the elements shall be reported with the heat analysis): 
+Steels having 0.25 % carbon or less: 
+Cb 0.025 min 
+V 0.05 min 
+Steels having over 0.25 % carbon: 
+Cb 0.Q15 min 
+V 0.02 min
+
+=== Page 159 ===
+
+ASME BPVG.ILA-2025 SA-29/SA-29M 7
+—. TABLE 2 Grade Designations and Chemical Compositions of Alloy Steel Bars |
+| Norte 1—Small quantities of certain elements are present in alloy steels, which are not specified or required. These elements are considered as incidental :
+and may be present to the following maximum amounts: copper, 0.35 %; nickel, 0.25 %; chromium, 0.20 % and molybdenum, 0.06 %.
+Note 2—Where minimum and maximum sulfur content is shown it is indicative of resulfurized steel. i
+Note 3—The chemical ranges and limits shown in Table 2 are produced to product analysis tolerances shown in Table 6. |
+| Norse 4—Standard alloy steels can be produced with a lead range of 0.15 to 0.35 %. Such steels are identified by inserting the letter “L” between the
+second and third numerals of the AISI number, for example, 41 L 40. A cast or heat analysis is not determinable when lead is added to the ladle stream. :
+Grade ss Ehosphorus. Sulfur ,
+| Designation Carbon Manganese One rox Silicon4 Nickel Chromium Molybdenum Vanadium
+1330 - 0.28-0.33 1.60-—1.90 0.035 0.040 0.15—-0.35 ve ba we ane |
+1335 0.33-0.38 1.60-—1.90 0.035 0.040 0.15—0.35 vee vee ve ve
+1340 0.38-0.43 1.60—1.90 0.035 0.040 0.15-0.35 wee wee we we
+1345 0.43-0.48 1.60—1.90 0:035 0.040 0.15—0.35 we
+oe 4012 0.09-0.14 0.75—1.00 0.035 0.040 0.15~0.35 we we 0.15—0.25 we |
+4023 0.20-0.25 0.70—0.90 0.035 | 0.040 0.15-0.35 ve ee 0.20-—0.30 ve |
+. 4024 0.20-0.25 0.70-0.90 0.035 —0.035-0.050 0.15-0.35 we ve 0.20—0.30 we
+4027 0.25-0.30 0.70-0.90 0.035 0.040 0.15—0.35 ve we 0.20—0.30 we :
+4028 0.25-0.30 0.70-0.90 0.035 0.035—0.050 0.15—-0.35 vee ve 0.20-0.30 wee |
+4032 0.30-0.35 0.70—0.90 0.035 0.040 0.15-0.35 we we 0.20-0.30 we
+4037 0.35-0.40 0.70-0.90 0.035 0.040 0.15—0.35 ve we 0.20—0.30 vs |
+4042 0.40-0.45 0.70-0.90 0.035 0.040 0.15-0.35 - i" 0.20-0.30 -
+4047 0.45—0.50 0.70--0.90 0.035 — 0.040 0.15—-0.35 wn on 0.20-0.30 us .
+4118 0.18—0.23 0.70—0.90 0.035 0.040 0.15—0.35 we 0.40—0.60 0.08-0.15 we
+4120 0.18-0.23 0.90—1.20 0.035 0.040 0.15-0.35 we 0.40—0.60 0.13-0.20 ve
+4121 0.18-0.23 0.75—1.00 0.035 0.040 0.15-0.35 we 0.45-0.65 ~ 0.20-0.30 we
+4130 0.28-0.33 ‘0.40—-0.60 0.035 0.040 0.15—0.35 ve 0.80—1.10 0.15-0.25 vee :
+4135 0.33-0.38 0.70--0.90 0.035 0.040 0.15—0.35 ve 0.80-—1.10 0.15—0.25 vee |
+4137 0.35-0.40 0.70-—0.90 0.035 0.040 0.15—0.35 we 0.80-~-1.10 0.15-0.25 we
+4140 0.38-0.43 0.75-1.00 0.035 0.040 0.15-—0.35 vee 0.80—1.10 0.15-0.25 ne |
+. 4142 0.40-0.45 0.75—1.00 0.035 0.040 0.15~—0.35 - 0.80-—1.10 0.15-0.25 we :
+4145 0.43-0.48 0.75—1.00 0.035 0.040 0.15—0.35 wee 0.80—1.10 0.15-0.25 we
+; 4147 0.45—0.50 0.75-—1.00 0.035 0.040 0.15—0.35 ve 0.80-—1.10 0.15-0.25 ve
+4150 0.48-0.53 0.75-—1.00 0.035 0.040 0.15—0.35 we 0.80-—1.10 0.15-0.25 we |
+: 4161 0.56—0.64 0.75—1.00 0.035 0.040 0.15—0.35 ve 0.70-0.90 — 0.25-0.35 we
+4320 0.17-0.22 0.45-0.65 0.035 0.040 0.15-0.35 1.65~2.00 0.40—0.60 0.20~0.30 on :
+4340 0.38-0.43 0.60-0.80 0.035 0.040 0.15~0.35 1.65~-2.00 0.70~—0.90 0.20-0.30 - !
+E4340 0.38-0.43 0.65-0.85 0.025 0.025 0.15-0.35 1.65~2.00 0.70—0.90 0.20-0.30 we
+4419 0.18-0.23 0.45-0.65 0.035 0.040 0.15-0.35 ve ve 0.45-0.60 we ;
+4422 0.20-0.25  . 0.70-0.90 0.035 0.040 0.15-0.35 ve ve 0.35-0.45 ve -
+4427 0.24-0.29 0.70-0.90 0.035 0.040 0.15-0.35 ve ve 0.35—-0.45 we
+4615 0.13-0.18 0.45-0.65 0.035 0.040 0.15—0.35 1.65-2.00 we 0.20—0.30 ve .
+4620 0.17-0.22 0.45-—0.65 0.035 0.040 0.15~-0.35 1.65-~2.00 vee 0.20—0.30 we .
+4621 0.18-0.23 0.70—0.90 0.035 0.040 0.15—0.35 1.65-—2.00 ve 0.20-—0.30 ve
+4626 0.24—0.29 0.45—0.65 0.035 0.040 0.15—0.35 0.70—1.00 ve 0.15—0.25 we |
+4715 0.13-0.18 0.70-—0.90 0.035 0.040 0.15-0.35 0.70-1.00 0.45—-0.65 0.45—0.60 we |
+4718 0.16—0.21 0.70-0.90 0.035 0.040 0.15—0.35 0.90-1.20 0.35-—0.55 0.30-0.40 we
+4720, 0.17-0.22 0.50-0.70 0.035 0.040 0.15-0.35 0.90~1.20 0.35-0.55 0.15~0.25 we
+ane — 4815. 0.13-0.18 0.40-0.60 0.035 0.040 0.15—0.35 3.25-3.75 we 0.20-0.30 ve
+4817 0.15—0.20 0.40—0.60 0.035 0.040 0.15—0.35 3.25-3.75 ve 0.20—0.30 wn
+4820 0.18-0.23 0.50—0.70 0.035 — 0.040 0.15—-0.35 3.25-~-3.75 we 0.20-0.30 -
+5015 (012-017 0.30-0.50 0.035 0.040 0.15-0.35 vs 0.30-0.50 ss sa
+5046 0.43-0.48 0.75—1.00 0.035 0.040 0.15-0.35 ve 0.20-0.35 wee i
+5115 0.13-0.18 0.70-0.90 0.035 0.040 0.15—-0.35 we 0.70-0.90 wes ane ;
+5120 0.17-0.22 0.70-0.90 0.035 0.040 0.15—0.35 ve 0.70-0.90 we we
+5130 0.28-0.33 0.70-—0.90 0.035 0.040 0.15-0.35 ve 0.80—1.10 wee we
+5132 0.30-0.35 0.60-—0.80 0.035 0.040 0.15-0.35 ve 0.75-1.00 ves we
+5135 0.33-0.38 0.60--0.80 0.035 0.040 0.15—0.35 ve 0.80-1.05 we ve
+5140 . 0.38-0.43 0.70—0.90 0.035 0.040 0.15~—0.35 ve 0.70-0.90 vee we
+5145 0.43-0.48 0.70—0.90 0.035 0.040 0.15-0.35 we 0.70—0.90 wee we
+5147 0.46-0.51 0.70-0.95 0.035 0.040 0.15—-0.35 ve 0.85—1.15 ve we
+5150 0.48-0.53 0.70-0.90 0.035 0.040 0.15—0.35 ve 0.70—0.90 we oa
+5155 0.51—0.59 0.70-0.90 0.035 0.040 0.15-0.35 ve 0.70--0.90 we we
+( 5160 0.56-0.64 0.75-1.00 0.035 0.040 0.15-0.35 wee 0.70-0.90 wes we
+
+=== Page 160 ===
+
+SA-29/SA-29M ASME BPVC.II.A-2025 
+TABLE 2 Continued 
+Grade 
+Heat Chemical Ranges and Limits, % 
+Designation Carbon Manganese Phosphorus, Sulfur, SiliconA Nickel Chromium Molybdenum Vanadium max max 
+E50100 0.98-1.10 0.25-0.45 0.025 0.025 0.15-0.35 0.40-0.60 
+E51100 0.98-1.10 0.25-0.45 0.025 0.025 0.15-0.35 0.90-1.15 
+E52100 0.98-1.10 0.25-0.45 0.025 0.025 0.15-0.35 1.30-1.60 
+52100 8 0.93-1.05 0.25-0.45 0.025 0.015 0.15-0.35 1.35-1.60 
+6118 0.16-0.21 0.50-0.70 0.035 0.040 0.15-0.35 0.50-0.70 0.10-0.15 
+6150 0.48-0.53 0.70-0.90 0.035 0.040 0.15-0.35 0.80-1.10 0.15 min 
+8115 0.13-0.18 0.70-0.90 0.035 0.040 0.15-0.35 0.20-0.40 0.30-0.50 0.08-0.15 
+8615 0.13-0.18 0.70-0.90 0.035 0.040 0.15-0.35 0.40-0.70 0.40-0.60 0.15-0.25 
+8617 0.15-0.20 0.70-0.90 0.035 0.040 0.15-0.35 0.40-0.70 0.40-0.60 0.15-0.25 
+8620 0.18-0.23 0.70-0.90 0.035 0.040 0.15-0.35 0.40-0.70 0.40-0.60 0.15-0.25 
+8622 0.20-0.25 0.70-0.90 0.035 0.040 0.15-0.35 0.40-0.70 0.40-0.60 0.15-0.25 
+8625 0.23-0.28 0.70-0.90 0.035 0.040 0.15-0.35 0.40-0.70 0.40-0.60 0.15-0.25 
+8627 0.25-0.30 0.70-0.90 0.035 0.040 0.15-0.35 0.40-0.70 0.40-0.60 0.15-0.25 
+8630 0.28-0.33 0.70-0.90 0.035 0.040 0.15-0.35 0.40-0.70 0.40-0.60 0.15-0.25 
+8637 0.35-0.40 0.75-1.00 0.035 0.040 0.15-0.35 0.40-0.70 0.40-0.60 0.15-0.25 
+8640 0.38-0.43 0.75-1.00 0.035 0.040 0.15-0.35 0.40-0.70 0.40-0.60 0.15-0.25 
+8642 0.40-0.45 0.75-1.00 0.035 O.D40 0.15-0.35 0.40-0.70 0.40-0.60 0.15-0.25 
+8645 0.43-0.48 0.75-1.00 0.035 0.040 0.15-0.35 0.40-0.70 0.40-0.60 0.15-0.25 
+8650 0.48-0.53 0.75-1.00 0.035 0.040 0.15-0.35 0.40-0.70 0.40-0.60 0.15-0.25 
+8655 0.51-0.59 0.75-1.00 0.035 0.040 0.15-0.35 0.40-0.70 0.40-0.60 0.15-0.25 
+8660 0.56-0.64 0.75-1.00 0.035 0.040 0.15-0.35 0.40-0.70 0.40-0.60 0.15-0.25 
+8720 0.18-0.23 0.70-0.90 0.035 0.040 0.15-0.35 0.40-0.7 0.40-0.60 0.20-0.30 
+8740 0.38-0.43 0.75-1.00 0.035 0.040 0.15-0.35 0.40-0.70 0.40-0.60 0.20-0.30 
+8822 0.20-0.25 0.75-1.00 0.035 0.040 0.15-0.35 0.40-0.70 0.40-0.60 0.30-0.40 
+9254 0.51-0.59 0.60-0.80 0.035 0.040 1.20-1.60 0.60-0.80 
+9255 0.51-0.59 0.70-0.95 0.035 0.040 1.80-2.20 
+9259 0.56-0.64 0.75-1.00 0.035 0.040 0.70-1.10 0.45-0.65 
+9260 0.56-0.64 0.75-1.00 0.035 O.D40 1.80-2.20 
+E9310 0.08-0.13 0.45-0.65 0.025 0.025 0.15-0.30 3.00-3.50 1.00-1.40 0.08-0.15 
+Standard Boron Steeis 0 
+50B44 0.43-0.48 0.75-1.00 0.035 0.040 0.15-0.35 0.20-0.60 
+50B46 0.44-0.49 0.75-1.00 O.D35 0.040 0.15-0.35 0.20-0.35 
+50B50 0.48-0.53 0.75-1.00 0.035 0.040 0.15-0.35 0.40-0.60 
+50B60 0.56-0.64 0.75-1.00 0.035 0.040 0.15-0.35 0.40-0.60 
+51B60 0.56-0.64 0.75-1.00 0.035 0.040 0.15-0.35 0.70-0.90 
+81845 0.43-0.48 0.75-1.00 0.035 0.040 0.15-0.35 0.20-0.40 0.35-0.55 0.08-0.15 
+94B17 0.15-0.20 0.75-1.00 0.035 0.040 0.15-0.35 0.30-0.60 0.30-0.50 0.08-0.15 
+94B30 0.28-0.33 0.75-1.00 0.035 0.040 0.15-0.35 0.30-0.60 0.30-0.50 0.08-0.15 
+A Silicon may be specified by the purchaser as 0.10 % maximum. The need for 0.10 % maximum generally relates to severe cold-formed parts. 
+8 The purchaser may also require the following maximums: copper 0.30 %; aluminum 0.050 %; oxygen 0.0015 %. 
+c These steels can be expected to contain 0.0005 to 0.003 % boron. If the usual titanium additive is not permitted, the steels can be expected to contain up to 0.005 % 
+boron. 
+5.1.2.3 When provisions of 5.1.2.1 or 5.1.2.2 are exercised, 
+a grain size test is not required unless specified by the 
+purchaser. Unless otherwise specified, fine austenitic grain size 
+shall be certified using the analysis of grain refining element(s). 
+5.1.2.4 Referee Test-In the event that the chemical analysis 
+of columbium 8 or vanadium does not meet the requirements of 
+108 
+5.1.2.2, the grain size test shown in 5.1.2 shall be the referee 
+test unless an alternative test method is agreed upon between 
+the manufacturer and the purchaser.
+
+=== Page 161 ===
+
+~ 
+ASME BPVC.II.A-2025 SA-29/SA-29M 
+TABLE 3 Heat Analysis Chemical Ranges and Limits of Carbon 
+Element 
+CarbonA 
+Manganese 
+Phosphorus 
+Sulfur 
+Silicone 
+Copper 
+Lead 0 
+BismuthE 
+CalciumE 
+SeleniumE 
+TelluriumE 
+Steel Bars 
+Chemical Ranges and Limits, % 
+When Maximum of Specified 
+Elements is: 
+to 0.12, incl 
+over 0.12 to 0.25, incl 
+over 0.25 to 0.40, incl 
+over 0.40 to 0.55, incl 
+over 0.55 to 0.80, incl 
+over 0.80 
+to 0.40, incl 
+over 0.40 to 0.50, incl 
+over 0.50 to 1.65, incl 
+to 0.040, Incl 
+over 0.040 to 0.08, incl 
+over 0.08 to 0.13, incl 
+to 0.050, incl 
+over 0.050 to 0.09, incl 
+over 0.09 to 0.15, incl 
+over 0.15 to 0.23, incl 
+over 0.23 to 0.50, incl 
+to 0.10, incl 
+over 0.1 0 to 0.15, incl 
+over 0.15 to 0.20, incl 
+over 0.20 to 0.30, incl 
+over 0.30 to 0.60, incl 
+When copper is required 0.20 
+min is generally used 
+When lead is required, a range 
+of 0.15 to 0.35 is specified 
+Range 
+0.05 
+0.06 
+0.07 
+0.10 
+0.13 
+0.15 
+0.20 
+0.30 
+0.03 
+0.05 
+0.03 
+0.05 
+0.07 
+0.09 
+0.08 
+0.10 
+0.15 
+0.20 
+Lowest 
+Maximum 
+0.06 
+0.35 
+0.040 8 
+0.050 8 
+0.10 
+A The carbon ranges shown in the column headed "Range" apply when the 
+specified maximum limit for manganese does not exceed 1.1 0 %. When the 
+maximum manganese limit exceeds 1.1 0 %, add 0.01 to the carbon ranges shown 
+above. 
+8 For steels produced in merchant quality the phosphorus maximum is 0.04 % and 
+the sulfur maximum is 0.05 %. 
+c It is not common practice to produce a rephosphorized and resulfurized carbon 
+steel to specified limits for silicon because of its adverse effect on machinability. 
+0 A cast or heat analysis is not determinable when lead is added to the ladle 
+stream. 
+E Element specification range as agreed upon between purchaser and supplier. 
+6. Mechanical Property Requirements 
+6.1 Test Specimens: 
+6.1.1 Selection-Test specimens shall be selected in accor­
+dance with the requirements of the applicable product specifi­
+cation or in accordance with Supplement I of the latest issue of 
+Test Methods and Definitions A370, in the sequence named. 
+6.1.2 Preparation-Unless otherwise specified in the appli­
+cable product specification, test specimens shall be prepared in 
+accordance w1th the latest issue of Test Methods and Defini­
+tions A370, and especially Supplement I thereof. 
+6.2 Methods of Mechanical Testing-All mechanical tests 
+shall be conducted in accordance with the latest issue of Test 
+Methods and Definitions A370, and especially Supplement I 
+thereof, on steel bar products. 
+6.3 Retests: 
+6.3.1 If any test specimen shows defective machining or 
+develops flaws, the specimen may be discarded and another 
+substituted. 
+6.3.2 If the percentage elongation of any tension specimen 
+is less than that specified and any part of the fracture is more 
+than ¾ in. [20 mm] from the center of a 2 in. [50 mm] 
+specimen, or is outside the middle half of the gage length of an 
+8 in. [200 mm] specimen as indicated by scribe scratches 
+marked on the specimen before testing, a retest shall be 
+allowed. 
+6.3.3 For "as-wrought" material, if the results for any 
+original tension specimen are within 2000 psi [14 MPa] of the 
+required tensile strength, within 1000 psi [7 MPa] of the 
+required yield point, or within 2 % of the required elongation, 
+retesting shall be permitted. If the original testing required only 
+one test, the retest shall consist of two random tests from the 
+heat or lot involved. If the original testing required two tests of 
+which one failed by the amounts listed in this paragraph, the 
+retest shall be made on one random test from the heat or lot. If 
+the results on the retest specimen or specimens meet the 
+specified requirements, the heat or test lot will be accepted. If 
+the results of one retest specimen do not meet the specified 
+requirements, the material is subject to rejection. 
+6.3.4 For thermally treated bars, if the results of the me­
+chanical tests do not conform to the requirements specified, 
+two more tests may be selected for each bar failing, and each 
+of these retests shall conform to the requirements of the 
+product specification. 
+6.3.5 If a bend specimen fails, due to conditions of bending 
+more severe than required by the specification, a retest shall be 
+permitted from the heat or test lot involved for which one 
+random specimen for each original specimen showing failure 
+shall be used. If the results on the retest specimen meet the 
+requirements of the specification, the heat or test lot will be 
+accepted. 
+7. Dimensions, Mass, and Permissible Variations 
+7 .1 Hot-Wrought Bars-The permissible variations for di­
+mensions of hot-wrought carbon and alloy steel bars shall not 
+exceed the applicable limits stated in Annex Al for inch-pound 
+values and Annex A2 for metric values. 
+8. Workmanship, Finish, and Appearance 
+8.1 The material shall be free of injurious defects and shall 
+have a workmanlike finish. 
+9. Rework and Retreatment 
+109 
+9.1 For thermally treated bars only, the manufacturer may 
+retreat a lot one or more times, and retests shall be made in the 
+same manner as the original tests. Each such retest shall 
+conform to the requirements specified. 
+10. Inspection 
+10.1 The inspector representing the purchaser shall have 
+entry, at all times while work on the contract of the purchaser
+
+=== Page 162 ===
+
+SA-29/SA-29M ASME BPVC.II.A-2025 
+TABLE 4 Heat Analysis Chemical Ranges and Limits of Alloy Steel Bars 
+Norn 1-Boron steels can be expected to have 0.0005 % minimum boron content. 
+Norn 2-Alloy steels can be produced with a lead range of 0.15 to 0.35 %. A cast or heat analysis is not determinable when lead is added to the ladle 
+stream. 
+Chemical Ranges and Limits, % 
+Element 
+Carbon 
+Manganese 
+Phosphorus 
+Sulfur 
+Silicon 
+Nickel 
+Chromium 
+Molybdenum 
+Tungsten 
+Vanadium 
+Aluminum 
+Copper 
+When Maximum of Specified 
+Element is: 
+To 0.55, incl 
+Over 0.55-0.70, incl 
+Over 0.70 to 0.80, incl 
+Over 0.80-0.95, incl 
+Over 0.95-1.35, incl 
+To 0.60, incl 
+Over 0.60-0.90, incl 
+Over 0.90-1.05, incl 
+Over 1.05-1.90, incl 
+Over 1.90-2.10, incl 
+Basic open-hearth or basic-
+oxygen steel 
+Acid open-hearth steel 
+Basic electric-furnace steel 
+Acid electric-furnace steel 
+To 0.050, incl 
+Over 0.050-0.07, incl 
+Over 0.07-0.10, incl 
+Over 0.10-0.14, incl 
+Basic open-hearth or basic-
+oxygen steel 
+Acid open-hearth steel 
+Basic electric-furnace steel 
+Acid electric-furnace steel 
+To 0.20, incl 
+Over 0.20-0.30, incl 
+Over 0.30-0.60, incl 
+Over 0.60-1.00, incl 
+Over 1.00-2.20, incl 
+Acid steels 8 
+To 0.50, incl 
+Over 0.50-1.50, incl 
+Over 1.50-2.00, incl 
+Over 2.00-3.00, incl 
+Over 3.00-5.30, incl 
+Over 5.30-10.00, incl 
+To 0.40, incl 
+Over 0.40-0.90, incl 
+Over 0.90-1.05, incl 
+Over 1.05-1.60, incl 
+Over 1.60-1.75, incl 
+Over 1.75-2.10, incl 
+Over 2.10-3.99, incl 
+To 0.10, incl 
+Over 0.10-0.20, incl 
+Over 0.20-0.50, incl 
+Over 0.50-0.80, incl 
+Over 0.80-1.15, incl 
+To 0.50, incl 
+Over 0.50-1.00, incl 
+Over 1.00-2.00, incl 
+Over 2.00-4.00, incl 
+To 0.25, incl 
+Over 0.25-0.50, incl 
+Up to 0.10, incl 
+Over 0.10-0.20, incl 
+Over 0.20-0.30, incl 
+Over 0.30-0.80, incl 
+Over 0.80-1.30, incl 
+Over 1.30-1.80, incl 
+To 0.60, incl 
+Over 0.60-1.50, incl 
+Over 1.50-2.00, incl 
+A Applies to only nonrephosphorized and nonresulfurized steels. 
+Open-Hearth or Basic-Oxygen 
+Steel 
+0.05 
+0.08 
+0.10 
+0.12 
+0.13 
+0.20 
+0.20 
+0.25 
+0.30 
+0.40 
+0.Q15 
+0.02 
+0.04 
+0.05 
+0.08 
+0.15 
+0.20 
+0.30 
+0.40 
+0.20 
+0.30 
+0.35 
+0.40 
+0.50 
+1.00 
+0.15 
+0.20 
+0.25 
+0.30 
+C 
+C 
+C 
+0.05 
+0.07 
+0.10 
+0.15 
+0.20 
+0.20 
+0.30 
+0.50 
+0.60 
+0.05 
+0.10 
+0.05 
+0.10 
+0.15 
+0.25 
+0.35 
+0.45 
+0.20 
+0.30 
+0.35 
+8 Minimum silicon limit for acid open-hearth or acid electric-furnace alloy steels is 0.15 %. 
+0 Not normally produced in open-hearth. 
+110 
+Electric Furnace Steel 
+0.05 
+0.07 
+0.09 
+0.11 
+0.12 
+0.15 
+0.20 
+0.25 
+0.30 
+0.35 
+0.015 
+0.02 
+0.04 
+0.05 
+0.08 
+0.15 
+0.20 
+0.30 
+0.35 
+0.20 
+0.30 
+0.35 
+0.40 
+0.50 
+1.00 
+0.15 
+0.20 
+0.25 
+0.30 
+0.35 
+0.40 
+0.50 
+0.05 
+0.07 
+0.10 
+0.15 
+0.20 
+0.20 
+0.30 
+0.50 
+0.60 
+0.05 
+0.10 
+0.05 
+0.10 
+0.15 
+0.25 
+0.35 
+0.45 
+0.20 
+0.30 
+0.35 
+Maximum Limit, %A 
+0.035 
+0.050 
+0.025 
+0.050 
+0.040 
+0.050 
+0.025 
+0.050
+
+=== Page 163 ===
+
+ASME BPVC.II.A-2025 SA-29/SA-29M 
+TABLE 5 Permissible Variations for Product Analysis of Carbon 
+Steel 
+Limit, or Maximum of Over Under 
+Element Maximum Minimum Specified Range, % Limit,% Limit,% 
+CarbonA 0.25 and under 0.02 0.02 
+over 0.25 to 0.55, incl 0.03 0.03 
+over 0.55 0.04 0.04 
+Manganese 0.90 and under 0.03 0.03 
+over 0.90 to 1.65, incl 0.06 0.06 
+PhosphorusA,a basic steels 0.008 
+acid bessemer steel 0.01 O.Q1 
+SullurA· 8 0.008 
+Silicon 0.35 and under 0.02 0.02 
+over 0.35 to 0.60, incl 0.05 0.05 
+Copper under minimum only 0.02 
+Lead 0 0.15 to 0.35, incl 0.03 0.03 
+A Rimmed and capped steels are not subject to rejection on product analysis 
+unless misapplication is clearly indicated. 
+8 Resulfurized or rephosphorized steels are not subject to rejection on product 
+analysis for these elements unless misapplication is clearly indicated. 
+0 Product analysis tolerance for lead applies both over and under to a specified 
+range of 0.15 to 0.35 %. 
+TABLE 6 Permissible Variations for Product Analysis of Alloy 
+Steel 
+Elements 
+Carbon 
+Manganese 
+Phosphorus 
+Sulfur 
+Silicon 
+Nickel 
+Chromium 
+Molybdenum 
+Vanadium 
+Tungsten 
+Aluminum 
+LeadA 
+Copper 
+Limit, or Maximum of 
+Specified Range, % 
+0.30 and under 
+over 0.30 to 0.75, incl 
+over 0.75 
+0.90 and under 
+over 0.90 to 2.10, incl 
+over maximum only 
+0.060 and under 
+0.40 and under 
+over 0.40 to 2.20, Incl 
+1.00 and under 
+over 1.00 to 2.00, incl 
+over 2.00 to 5.30, incl 
+over 5.30 to 10.00, incl 
+0.90 and under 
+over 0.90 to 2.10, incl 
+over 2.1 O to 3.99, incl 
+0.20 and under 
+over 0.20 to 0.40, incl 
+over 0.40 to 1.15, incl 
+0.1 O and under 
+over 0.10 to 0.25, incl 
+over 0.25 to 0.50, incl 
+minimum value specified, 
+under minimum limit 
+only 
+1.00 and under 
+over 1.00 to 4.00, incl 
+0.1 O and under 
+over 0.1 O to 0.20, incl 
+over 0.20 to 0.30, incl 
+over 0.30 to 0.80, incl 
+over 0.80 to 1.80, incl 
+0.15 to 0.35, incl 
+to 1.00 incl 
+over 1.00 to 2.00, incl 
+Permissible Variations 
+Over Maximum Limit or 
+Under Minimum Limit, % 
+O.D1 
+0.02 
+0.03 
+0.03 
+0.04 
+0.005 
+0.005 
+0.02 
+0.05 
+0.03 
+0.05 
+0.07 
+0.10 
+0.03 
+0.05 
+0.10 
+0.01 
+0.02 
+0.03 
+0.01 
+0.02 
+0.03 
+0.01 
+0.04 
+0.08 
+0.03 
+0.04 
+0.05 
+0.07 
+0.10 
+0.03 
+0.03 
+0.05 
+A Product analysis tolerance for lead applies both over and under to a specified 
+range of 0.15 to 0.35 %. 
+is being performed, to all parts of the manufacturer's works 
+that concern the manufacture of the material ordered. The 
+manufacturer shall afford the inspector all reasonable facilities 
+to satisfy him that the material is being furnished in accordance 
+with this specification. All tests (except product analysis) and 
+inspection shall be made at the place of manufacture prior to 
+shipment, unless otherwise specified, and shall be so conducted 
+as not to interfere unnecessarily with the operation of the 
+works. 
+10.2 All required tests and inspection shall be made by the 
+manufacturer prior to shipment. 
+11. Rejection 
+11.1 Unless otherwise specified, any rejection because of 
+noncompliance to the requirements of the specification shall be 
+reported by the purchaser to the manufacturer within 30 
+working days after receipt of samples. 
+11.2 Material that shows imperfections capable of adversely 
+affecting processibility subsequent to its acceptance at the 
+purchaser's works will be rejected, and the manufacturer shall 
+be notified. 
+12. Rehearing 
+12.1 Samples that represent rejected material shall be pre­
+served for two weeks from the date rejection is reported to the 
+manufacturer. In case of dissatisfaction with the results of the 
+tests, the manufacturer may make claim for a rehearing within 
+that time. 
+13. Product Marking 
+13.1 Civilian Procurement-Bars of all sizes, when loaded 
+for shipment, shall be properly identified with the name or 
+brand of manufacturer, purchaser's name and order number, 
+the ASTM designation (year date is not required), grade 
+number where appropriate, size and length, weight of lift, and 
+the heat number for identification. Unless otherwise specified, 
+the method of marking is at the manufacturer's option and may 
+be made by hot stamping, cold stamping, painting, or marking 
+tags attached to the lifts of bars. 
+111 
+13.1.1 Bar code marking may be used as an auxiliary 
+method of identification. Such bar-code markings shall be of 
+the 3-of-9 type and shall conform toAlAG Bl. When barcoded 
+tags are used, they shall conform to AIAG BS. 
+13.2 Government Procurement: 
+13.2.1 Marking for shipment shall be in accordance with the 
+requirements specified in the contract or order and shall be in 
+accordance with MIL-STD-163 for military agencies and in 
+accordance with Fed. Std. No. 123 for civil agencies. 
+13.2.2 For government procurement by the Defense Supply 
+Agency, the bars shall be continuously marked for identifica­
+tion in accordance with Fed. Std. No. 183. 
+14. Packaging 
+14.1 Civilian Procurement-Unless otherwise specified, the 
+bars shall be packaged and loaded in accordance with Guide 
+A700. 
+14.2 Government Procurement-MIL-STD-163 shall apply 
+when packaging is specified in the contract or order, or when 
+Level A for preservation, packaging, and packing is specified 
+for direct procurement by or direct shipment to the govern­
+ment.
+
+=== Page 164 ===
+
+SA-29/SA-29M ASME BPVC.II.A-2025 
+15. Keywords 
+15.1 alloy steel bars; carbon steel bars; cold finished steel 
+bars; general delivery requirements; hot wrought steel bars; 
+steel bars 
+SUPPLEMENTARY REQUIREMENTS 
+The following supplementary requirements shall apply only when specified by the purchaser in the 
+contract or order. 
+Sl. Flat Bar Thickness Tolerances 
+S 1.1 When flat bars are specified in metric units to a 
+thickness under tolerance of 0.3 mm, the thickness tolerance of 
+Table Sl.1 shall apply. 
+TABLE S1.1 Thickness and Width Tolerances for Hot-Wrought Square-Edge and Round-Edge Flat Bars Ordered to 0.3 mm Under 
+ToleranceA 
+Norn 1-Tolerance under specified thickness 0.3 mm. 
+Specified Width, mm 
+To 25, incl 
+Over 25 to 50, incl 
+Over 50 to 100, incl 
+Over 100 to 150, incl 
+Over 150 to 200, incl 
+Tolerances over Specified Thickness for Thickness Given, mm 
+Over 6 to 12, incl Over 12 to 25, incl Over 25 to 50, incl Over 50 to 75, incl 
+0.5 
+0.5 
+0.5 
+0.5 
+0.7 
+0.7 
+1.0 
+1.3 
+1.3 
+1.3 
+1.3 
+2,1 
+2.1 
+2.1 
+Over75 
+2.1 
+2.1 
+2.9 
+Tolerance from Specified Width, mm 
+Over Under 
+0.5 
+1.0 
+1.5 
+2.5 
+3.0 
+0.5 
+1.0 
+1.0 
+1.5 
+2.5 
+A When a square is held against a face and an edge of a square-edge flat bar, the edge shall not deviate by more than 3° or 5 % of the thickness. 
+ANNEXES 
+(Mandatory Information) 
+Al. PERMISSIBLE VARIATIONS IN DIMENSIONS, ETC.-INCH-POUND UNITS 
+Al.l Listed below are permissible variations in dimensions 
+expressed in inch-pound units of measurement. 
+112
+
+=== Page 165 ===
+
+ASME BPVC.II.A-2025 
+TABLE A 1.1 Permissible Variations in Cross Section for Hot­
+Wrought Round, Square, and Round-Cornered Square Bars of 
+Steel 
+Permissible Variation 
+Specified Size, in. from Specified Size, in.A Out-of-Round or 
+Out-of-Square, in. 8 
+Over Under 
+To 5 /\s, incl 0.005 0.005 0.008 
+Over 5 /10 to 7 /10, incl 0.006 0.006 0.009 
+Over 7 /10 to 5/a, incl 0.007 0.007 0.010 
+Over 5/a to 7 /s, incl 0.008 0.008 0.012 
+Over 7 /s to 1, incl 0.009 0.009 0.013 
+Over 1 to 11/a , incl 0.010 0.010 0.015 
+Over 11/s to 1 ¼, incl 0.011 0.011 0.016 
+Over 1 ¼ to 1 %, incl 0.012 0.012 0.018 
+Over 1 % to 1 ½, incl 0.014 0.014 0.021 
+Over 1 ½ to 2, incl 1/64 1/s4 0.023 
+Over 2 to 2½ , incl 1/32 0 0.023 
+Over 2½ to 3½, incl 3 /s4 0 0.035 
+Over 3½ to 4½, incl ¼a 0 0.046 
+Over 4½ to 5½, incl 5 /54 0 0.058 
+Over 5½ to 6½, incl 1/s 0 0.070 
+Over 6½ to 8¼, incl 5/s2 0 0.085 
+Over 8¼ to 9½, incl 3f1s 0 0.100 
+Over 9½ to 10, incl ¼ 0 0.120 
+A Steel bars are regularly cut to length by shearing or hot sawing, which can cause 
+end distortion resulting in those portions of the bar being outside the applicable 
+size tolerance. When this end condition is objectionable, a machine cut end should 
+be considered. 
+8 Out-of-round is the difference between the maximum and minimum diameters of 
+the bar, measured at the same cross section. Out-of-square is the difference in the 
+two dimensions at the same cross section of a square bar between opposite faces. 
+TABLE A1.2 Permissible Variations in Cross Section for Hot­
+Wrought Hexagonal Bars of Steel 
+Specified Sizes Between 
+Opposite Sides, in. 
+Permissible Variations Out-of-Hexagon 
+from Specified Size, in.A (Carbon Steel and 
+_________ Alloy Steel) or Out­
+Over Under of-Octagon {Alloy 
+Steel), in. 8 
+To½, incl 0.007 0.007 0.011 
+Over½ to 1, incl 0.010 0.010 0.015 
+Over 1 to 1 ½ , incl 0.021 0.013 0.025 
+Over 1 ½ to 2, incl 1/32 1/64 1/s2 
+Over 2 to 2½ , incl %4 1/s4 %4 
+Over 2½ to 3½, incl 1/10 1/s4 1/1s 
+Over 3½ to 41/10, incl %4 1/s4 %4 
+A Steel bars are regularly cut to length by shearing or hot sawing, which can cause 
+end distortion resulting in those portions of the bar being outside the applicable 
+size tolerance. When this end condition is objectionable, a machine cut end should 
+be considered. 
+8 Out-of-hexagon or out-of-octagon is the greatest difference between any two 
+dimensions at the same cross section between opposite faces. 
+SA-29/SA-29M 
+TABLE A 1.3 Permissible Variations in Thickness and Width for Hot-Wrought Square Edge and Round Edge Flat BarsA 
+Specified 
+Permissible Variations in Thickness, for Thickness Given, Over and Under, in. 8 Permissible Variations in Width, in. 
+0.203 to 0.230, 0.230 to¼, ¼to½, Over½ to Over 1 to 2, Over 2 to 3, Over 3 Over Under Width, in. 
+excl excl incl 1, incl incl incl 
+To 1, incl 0.007 0.007 0.008 0.010 1/64 1/s4 
+Over 1 to 2, incl 0.007 0.007 0.012 0.Q15 1/s2 1/32 1/s2 
+Over 2 to 4, incl 0.008 0.008 0.015 0.020 1/32 3/s4 3 /04 1/-is 1/s2 
+Over 4 to 6, incl 0.009 0.009 0.015 0.020 1/s2 %4 3 /54 3/32 1/16 
+Over 6 to 8, incl C 0.015 0.016 0.025 1/s2 3 /54 1/16 1/s 3/32 
+A When a square is held against a face and an edge of a square edge flat bar, the edge shall not deviate by more than 3° or 5 % of the thickness. 
+8 Steel bars are regularly cut to length by shearing or hot sawing, which can cause end distortion resulting in those portions of the bar being outside the applicable size 
+tolerance. When this end condition is objectionable, a machine cut end should be considered. 
+c Flats over 6 to 8 in., incl, in width, are not available as hot-wrought steel bars in thickness under 0.230 in. 
+113
+
+=== Page 166 ===
+
+SA-29/SA-29M 
+Specified Size of 
+Tee, in.A 
+To 1¼, incl 
+Over 1 ¼ to 2, incl 
+Over 2 to 3, excl 
+ASME BPVC.II.A-2025 
+TABLE A1.4 Permissible Variations In Thickness, Length, and 
+Out-of-Square for Hot-Wrought Bar Size Angles of Carbon Steel 
+Permissible Variations in Thickness, Permissible 
+Specified Length of for Thicknesses Given, Variations for 
+Over and Under, in. Length of Leg, Leg, in.A To o/10, Over 3/10 to 3/e, Over 3/e Over and 
+incl incl Under, in. 
+To 1, incl 0.008 0.010 1/32 
+Over 1 to 2, incl 0.010 0.010 0.012 3/s4 
+Over 2 to 3, excl 0.012 0.015 0.015 1/,a 
+A The longer leg of an unequal angle determines the size for tolerance. The 
+out-of-square tolerance in either direction is 1 ½ 0 • 
+TABLE A 1.5 Permissible Variations in Dimensions for Hot­
+Wrought Bar Size Channels of Carbon Steel 
+Permissible Variations in Size, Over and Under, in. Out-of-
+Specified SquareA if 
+Size of Depth of Width of Thickness of Web for Either 
+Flange, Channel, Section 8 Flanges 8 Thickness Given in.Jin. of in. To o/-te, incl Over o/1e Flan~e 
+Widt 
+To 1½, Incl 1/32 1/32 0.010 0.015 1/32 
+Over1½ 'A• 1/1• 0.015 0.020 1/32 
+to 3, excl 
+A For channels 5/e in. and under in depth, the out-of-square tolerance is%• in.An. 
+of depth. 
+8 Measurements for depth of section and width of flanges are overall. 
+TABLE A1.6 Permissible Variations In Dimensions for Hot-Wrought Bar Size Tees of Carbon Steel 
+Permissible Variations in Size, In. 
+Width or Depth 8 Thickness of Flange Thickness of Stem 
+Over Under Over Under Over Under 
+0.010 0.010 0.005 0.020 
+0.012 0.012 0.010 0.020 
+0.015 0.015 0.015 0.020 
+A The longer member of the unequal tee determines the size for tolerances. 
+8 Measurements for both width and depth are overall. 
+0 Stem out-of-square is the variation from its true position of the center line of the stem measured at the point. 
+TABLE A1.7 Permissible Variations in Dimensions for Half-
+Rounds, Ovals, Half-Ovals, and Other Special Bar Size Sections 
+Due to mill facilities, tolerances on half-rounds, ovals, half-ovals, and 
+other special bar size sections vary among the manufacturers and 
+such tolerances should be negotiated between the manufacturer and 
+the purchaser. 
+114 
+Stem out-of­
+Sguare 0
+
+=== Page 167 ===
+
+ASME BPVC.II.A-2025 SA-29/SA-29M 
+TABLE A1.8 Permissible Variations in Length for Hot-Wrought Rounds, Squares, Hexagons, Flats, and Bar Size Sections of Steel 
+Specified Size of Specified Size of Flats, in. Permissible Variations Over Specified Length, in.A 
+Rounds, Squares, 
+5 to 10 ft, excl 1 O to 20 ft, excl 20 to 30 ft, excl 30 to 40 ft, excl 40 to 60 ft, excl and Hexagons, in. Thickness Width 
+To 1, incl to 1, incl 
+Over 1 to 2, incl over 1 
+to 1, incl 
+Over 2 to 5, incl over 1 
+Over 5 to 1 o, incl 
+0.230 to 1, incl 
+over 1 to 3, incl 
+Bar Size Sections 
+To 3½, incl 1 and over 
+Over 3½ to 5, incl 
+Over 5 to 10, incl 
+A No permissible variations under. 
+8 Shorter lengths are not hot sawed. 
+Mill Shearin 
+to 3, incl ½ ¾ 1¼ 
+to 3, incl 5/a 1 1½ 
+over 3 to 6, incl 5/a 1½ 
+over 3 to 6, incl 1 1½ 1¾ 
+2 2½ 2¾ 
+over 6 to 8, incl ¾ 1¼ 1¾ 
+over 6 to 8, incl 1¼ 1¾ 2 
+5/a 1 1½ 
+Hot Sawin 
+3 and over B 1½ 1¾ 
+2 2¼ 
+B 2½ 2¾ 
+TABLE A1.9 Permissible Variations in Length for Recutting of 
+Bars Meeting Special Straightness Tolerances 
+Sizes of Rounds, Squares, 
+Hexagons, Width of Flats and 
+Maximum Dimension of Other 
+Sections, in.A 
+To 3, incl 
+Over 3 to 6, incl 
+Over 6 to 8, incl 
+Rounds over 8 to 10, incl. 
+A No tolerance under. 
+Tolerances Over Specified Length, 
+in.A 
+To 12 ft, incl Over 12 ft 
+TABLE A1.10 Permissible Variations in Straightness for Hot­
+Wrought Bars and Bar Size Sections of SteeJA 
+Standard tolerances 
+Special tolerances 
+¼ in. in any 5 ft and (¼ in. x length in ft)/5 
+1/a in. in any 5 ft and (Vs in. x length in ft)/5 
+A Because of warpage, straightness tolerances do not apply to bars if any 
+subsequent heating operation or controlled cooling has been performed. 
+A2. DIMENSIONAL TOLERANCES-SI UNITS 
+A2.1 Listed below are permissible variations in dimensions 
+expressed in SI units of measurement. 
+1¾ 
+2 
+2 
+2¼ 
+3 
+3½ 
+3½ 
+2 
+2¼ 
+25/a 
+3 
+TABLE A2.1 Tolerances in Sectional Dimensions for Round and Square Bars and Round-Cornered Square Bars 
+Size, mm 
+To 7, incl 
+Over 7 to 11, incl 
+Over 11 to 15, incl 
+Over 15 to 19, incl 
+Over 19 to 250, incl 
+Tolerance from 
+Specified Size, Over 
+and Under, mm or %A 
+0.13 mm 
+0.15 mm 
+0.18 mm 
+0.20 mm 
+1% 
+A The tolerance shall be rounded to the nearest tenth of a millimetre after calculation. 
+Out-of-Round, or 
+Out-of-Square 
+Section, 8 mm or %A 
+0.20 mm 
+0.22 mm 
+0.27 mm 
+0.30 mm 
+1.5% 
+2¼ 
+2½ 
+2½ 
+2¾ 
+3¼ 
+4 
+4 
+2½ 
+2¾ 
+3 
+3¼ 
+8 Out-of-round is the difference between the maximum and the minimum diameters of the bar, measured at the same cross section. Out-of-square is the difference in the 
+two dimensions at the same cross section of a square bar between opposite faces. 
+115
+
+=== Page 168 ===
+
+SA-29/SA-29M ASME BPVC.II.A-2025 
+TABLE A2.2 Tolerances in Cross Section for Hot-Wrought Hexagonal and Octagonal Steel Bars 
+Specified Size Between 
+Opposite Sides, mm 
+To 13, incl 
+Over 13 to 25, incl 
+Over 25 to 40, incl 
+Over 40 to 50, incl 
+Over 50 to 65, incl 
+Over 65 to 80, incl 
+Over 80 to 100, incl 
+Tolerance from Specified Size, mm 
+Over 
+0.18 
+0.25 
+0.55 
+0.8 
+1.2 
+1.6 
+2.0 
+Under 
+0.18 
+0.25 
+0.35 
+0.40 
+0.40 
+0.40 
+0.40 
+A Out of hexagon or out of octagon is the greatest difference between any two dimensions at the cross section between opposite faces. 
+Out of 
+Hexagon or 
+Out of 
+Octagon, 
+mmA 
+0.3 
+0.4 
+0.6 
+0.8 
+1.2 
+1.6 
+2.0 
+TABLE A2.3 Thickness and Width Tolerances for Hot-Wrought Square-Edge and Round-Edge Flat BarsA,a 
+Tolerances from Specified Thickness for Thickness Given Over and Under, mm Tolerances from Specified 
+Specified Width, mm Width, mm 
+Over 5 to 6, incl Over 6 to 12, Over 12, to 25, Over 25 to 50, Over 50 to 75 Over 75 Over Under incl incl incl 
+To 25, incl 0.18 0.20 0.25 0.5 0.5 
+Over 25 to 50, incl 0.18 0.30 0.40 0.8 1.0 1.0 
+Over 50 to 100, incl 0.20 0.40 0.50 0.8 1.2 1.2 1.5 1.0 
+Over 100 to 150, incl 0.25 0.40 0.50 0.8 1.2 1.2 2.5 1.5 
+Over 150 to 200, incl A 0.40 0.65 0.8 1.2 1.6 3.0 2.5 
+A When a square is held against a face and an edge of a square edge flat bar, the edge shall not deviate by more than 3° or 5 % of the thickness. 
+8 Flats over 150 to 200 mm, incl in width are not available as hot-wrought bars in thickness 6 mm and under. 
+TABLE A2.4 Thickness, Length, and Out-of-Square Tolerances for Hot-Wrought Bar Size Angles 
+Tolerances in Thickness for Thickness Given, Over and Under, mm 
+Specified Length of 
+Leg, mmA,B 
+To 5, incl Over 5 to 
+10, incl Over 10 
+To 50, incl 
+Over 50 to 75, excl 
+0.2 
+0.3 
+A The longer leg of an unequal angle determines the size for tolerance. 
+8 Out of square tolerances in either direction is 1 ½ 0 = 0.026 mm/mm. 
+0.2 
+0.4 
+0.3 
+0.4 
+TABLE A2.5 Dimensional Tolerances for Hot-Wrought Bar Size Channels 
+Tolerances in Size, Over and Under, mm 
+Specified Size of 
+Channel, mm 
+To 40, incl 
+Over 40 to 75, excl 
+Depth of SectionA Width of FlangesA 
+2 2 
+A Measurements for depth of section and width of flanges are overall. 
+8 For channels 16 mm and under in depth, out of square tolerance is 0.05 mm/mm. 
+116 
+To 5, incl 
+0.2 
+0.4 
+Thickness of Web 
+Over 5 
+0.4 
+0.5 
+Tolerances 
+for Length of 
+Leg Over 
+and Under, 
+mm 
+1 
+2 
+Out of Square of 
+Either Flange per mm 
+of Flange Width, 8 mm 
+0.03 
+0.03
+
+=== Page 169 ===
+
+ASME BPVC.II.A-2025 SA-29/SA-29M 
+TABLE A2.6 Dimensional Tolerances for Hot-Wrought Bar Size Tees 
+Tolerances in Size, mm Specified Size 
+ofTee,A mm Width or Depth, 8 
+Over Under 
+Thickness of Flange 
+Over Under 
+Thickness of Stem 
+Over Under 
+Stem Out of 
+Sguare 0 
+To 30, incl 
+Over 30 to 50, incl 
+Over 50 to 75, excl 
+1 1 0.2 0.2 
+2 2 0.3 0.3 
+2 2 0.4 0.4 
+A The longer member of the unequal tee determines the size for tolerances. 
+8 Measurements for width and depth are over all. 
+0 Stem out of square is the tolerance from its true position of the center line of the stem measured at the point. 
+0.1 
+0.2 
+0.4 
+0.5 
+0.5 
+0.5 
+1 
+2 
+2 
+TABLE A2.7 Permissible Variations in Dimensions for Half-Rounds, Ovals, Half-Ovals, and Other Special Bar Size Sections 
+Due to mill facilities, tolerances on half-rounds, ovals, and other special bar size sections vary among the manufacturers and such tolerances should be 
+negotiated between the manufacturer and the purchaser. 
+TABLE A2.8 Length Tolerances for Hot-Wrought Rounds, Squares, Hexagons, Octagons, Flats, and Bar Size Sections 
+Specified Size of Rounds, 
+Squares, Hexagons and 
+Octagons, mm 
+To 25, incl 
+Over 25 to 50, incl 
+Over 50 to 125, incl 
+Over 125 to 250, incl 
+Bar Size Sections 
+To 90, incl 
+Over 90 to 125, incl 
+Over 125 to 250, incl 
+A No tolerance under. 
+8 Shorter lengths are not hot sawed. 
+Specified Size of Flats, mm 
+Thickness Width 
+to 25, incl 
+over 25 
+to 25, incl 
+over 25 
+over 6 to 25, incl 
+over 25 to 75, incl 
+25 and over 
+Hot Shearin 
+to 75, incl 
+to 75, incl 
+over 75 to 150, incl 
+over 75 to 150, incl 
+over 150 to 200, incl 
+over 150 to 200, incl 
+Hot Sawin 
+75 and over 
+1500 
+to 
+3000, 
+excl 
+15 
+15 
+15 
+25 
+50 
+20 
+30 
+15 
+B 
+B 
+Tolerances over Specified Length, mmA 
+3000 6000 9000 
+to to to 
+6000, 9000, 12 000, 
+excl excl excl 
+20 35 45 
+25 40 50 
+25 40 50 
+40 45 60 
+65 70 75 
+30 45 90 
+45 50 90 
+25 40 50 
+40 45 60 
+50 60 65 
+65 70 75 
+TABLE A2.9 Length Tolerances for Recutting of Bars Meeting Special Straightness Tolerances 
+Sizes of Rounds, Squares, Hexagons, 
+Octagons, Widths of Flats and 
+Maximum Dimensions of Other 
+Sections, mm 
+To 75, incl 
+Over 75 to 150, incl 
+Over 150 to 200, incl 
+Rounds over 200 to 250, incl 
+A No tolerance under. 
+Tolerances over Specified Length, mmA 
+To 3700 mm, 
+incl 
+6 
+8 
+11 
+14 
+Over 3700 mm 
+8 
+11 
+14 
+18 
+TABLE A2.10 Straightness Tolerances for Hot-Wrought Bars and Bar Size SectionsA 
+Standard Tolerances 
+Special Tolerances 
+6 mm in any 1500 mm and (length in mm/250) 8 
+3 mm in any 1500 mm and {length in mm/500) 8 
+A Because of warpage, straightness tolerances do not apply to bars if any subsequent heating operation or controlled cooling has been performed. 
+8 Round to the nearest whole millimetre. 
+117 
+12 000 
+to 
+18 000, 
+excl 
+60 
+65 
+65 
+70 
+85 
+100 
+100 
+65 
+70 
+75 
+85
+
+=== Page 170 ===
+
+SA-29/SA-29M ASME BPVC.II.A-2025 
+A3. REQUIREMENTS FOR THE INTRODUCTION OF NEW MATERIALS 
+A3.1 New matelials may be proposed for inclusion in 
+specifications referencing this specification of general require­
+ments subject to the following conditions: 
+A3.1.1 Application for the addition of a new grade to a 
+specification shall be made to the chair of the subcommittee 
+that has jurisdiction over that specification. 
+A3.1.2 The application shall be accompanied by a statement 
+from at least one user indicating that there is a need for the new 
+grade to be included in the applicable specification. 
+118 
+A3.1.3 The application shall be accompanied by test data as 
+required by the applicable specification. Test data from a 
+minimum of three test lots, as defined by the specification, each 
+from a different heat, shall be furnished. 
+A3.l.4 The application shall provide recommendations for 
+all requirements appearing in the applicable specification. 
+A3.1.5 The application shall state whether or not the new 
+grade is covered by patent.

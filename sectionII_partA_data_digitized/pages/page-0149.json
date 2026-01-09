@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 149,
+  "globalPageIndex": 149,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "ASME BPVC.II.A-2025 SA-20/SA-20M \nTABLE A2.15 Generally Available Grade-Thickness-Minimum Test Temperature Combinations Meeting Charpy V-Notch Requirements \nIndicated (Normalized or Quenched and Tempered Condition) \nNoTE 1-The minimum temperatures listed are for longitudinal tests. For transverse tests, the available minimum temperature may be somewhat higher. \nAcceptance Criteria Charpy V-Notch \nEnergy Absorption \n(based on full-size specimens) \nMinimum Average \nFor 3 \nSpecimens, \nJ \n18 \n20 \n27 \nMinimum \nFor 1 \nSpecimen, \nJ \n14 \n16 \n20 \nTest Temperature, 'C for Plate Thicknesses \n(Unless Otherwise Agreed Upon) \nSpecification and Grade \nOver 25 25 mm and \nUnder mm to 50 \nmm, incl. \nA203 Grade A -68 -68 \nA203 Grade D -101 -101 \nA516 Grade 55 -51 -51 \nA516 Grade 60 -51 -46 \nA516 Grade 65 -51 -46 \nA537 Class 1 (Over 64-100 mm) \nA662 Grade A -60 -60 \nA662 Grade B -51 -51 \nA203 Grade B -68 -68 \nA203 Grade E -101 -101 \nA203 Grade F (100 mm max) \nA299 Grade A -46 --40 \nA299 Grade B -23 -18 \nA516 Grade 70 -46 -40 \nA537 Class 1 (64 mm max) -62 -60 \nA537 Class 2 (Over 64-100 mm) \nA662 Grade C -46 -46 \nA203 Grade F -107 -107 \nA537 Class 2 (64 mm max) -68 -68 \nA612 -46 \nA724 Grade A, B, and C -46 \nTABLE A2.16 Permissible Variations in Width for Mill Edge \nCarbon Steel and High-Strength Low-Alloy Steel Plates Produced \non Strip Mills \nNoTE I-Applies to plates produced from coil and plates produced \nfrom plate-as-rolled. \nSpecified Width, \nmm \nTo 360, excl \n360 to 430, excl \n430 to 480, excl \n480 to 530, excl \n530 to 610, excl \n61 O to 660, excl \n660 to 710, excl \n71 o to 890, excl \n890 to 1270, excl \n1270 to 1520, excl \n1520 to 1650, excl \n1650 to 1780, excl \n1780 to 2030, excl \n2030 and over \nVariations Over \nSpecified Width, \nmmA \n11 \n13 \n14 \n16 \n17 \n21 \n24 \n29 \n32 \n38 \n41 \n44 \n47 \n51 \nA No permissible variation under specified width. \n97 \nOver 50 \nmm to 75 \nmm, incl. \n-60 \n-87 \n-46 \n-46 \n-40 \n-60 \n-60 \n-87 \n-107 \n--40 \n-12 \n-35 \n-60 \n-60 \n-68 \nOver 75 \nmm to 125 \nmm, incl. \n-46 \n-46 \n-32 \n-46 \n-107 \n-29 \n-6 \n-29 \n-46 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0149.json",
+  "tabulaTablesCsv": "tables_tabula/page-0149.csv",
+  "tabulaTableCount": 5,
+  "bestTextPath": "best_text\\pages\\page-0149.txt",
+  "bestTextSource": "full_ocr_highdpi",
+  "bestTextLength": 2103,
+  "bestTextAlphaRatio": 0.534
+}

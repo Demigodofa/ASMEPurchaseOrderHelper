@@ -1,0 +1,120 @@
+ASME BPVC.II.A-2025 SA-350/SA-350M (ASTM A350/A350M) 
+3. Ordering Information 
+3.1 It is the purchaser's responsibility to specify in the 
+purchase order information necessary to purchase the needed 
+material. In addition to the ordering information guidelines in 
+Specification A961/A961M, orders should include the follow­
+ing information: 
+3.1.1 The number of test reports required (see Section 14). 
+3.1.2 Additional requirements (see Table 1 footnotes). 
+3.1.3 Options in the specification. See 5.4.2.1. 
+4. General Requirements 
+4.1 Product furnished to this specification shall conform to 
+the requirements of Specification A961/A961M, including any 
+supplementary requirements that are indicated in the purchase 
+order. Failure to comply with the general requirements of 
+Specification A961/A961M constitutes nonconformance with 
+this specification. In case of conflict between the requirements 
+of this specification and Specification A961/A961M, this 
+specification shall prevail. 
+5. Manufacture 
+5.1 Melting Process-The steel shall be produced by any of 
+the following primary processes: open-hearth, basic oxygen, 
+electric-furnace, or vacuum-induction melting (VIM). The 
+primary melting may incorporate separate degassing or 
+refining, and may be followed by secondary melting using 
+electroslag remelting (ESR), or vacuum-arc remelting (VAR). 
+5.1.1 The steel shall be fully killed, fine-grain practice. 
+5.1.2 The molten steel may be vacuum treated prior to or 
+during pouring of the ingot. 
+5.2 Discard-A sufficient discard shall be made to secure 
+freedom from injurious piping and undue segregation. 
+5.3 Forging Process: 
+5.3.1 Material for forgings shall consist of ingots, or forged, 
+rolled, or strandcast blooms, billets, slabs, or bars. 
+5.3.2 The finished product shall be a forging as defined in 
+the Terminology section of Specification A788/A788M. 
+5.3.3 Hollow parts may be machined from rolled bar or 
+seamless tubular materials provided the longitudinal axis of the 
+part is parallel to the longitudinal axis of the bar. Other parts, 
+up to and including NPS4, may be machined from hot-rolled or 
+forged bar provided the longitudinal axis of the part is parallel 
+to the longitudinal axis of the bar. Flanges, elbows, return 
+bends, tees, and header tees shall not be machined directly 
+from bar stock. 
+5.4 Heat Treatment: 
+5.4.1 After hot working and before reheating for heat 
+treatment, the forging shall be allowed to cool substantially 
+below the transformation range. 
+5.4.2 Forgings of grades other than Grade LF787 shall be 
+furnished in the normalized, or normalized and tempered, or 
+quenched and tempered condition. At the option of the 
+manufacturer, forgings furnished in the quenched and tempered 
+condition may be normalized prior to the austenitize/quench 
+operation. 
+5.4.2.1 Quenching shall consist of either: 
+( 1) fully austenitizing the forgings followed by quenching 
+in a suitable liquid medium, or . 
+(2) using a multiple stage procedure whereby the forging is 
+first fully austenitized and rapidly cooled, then reheated to 
+partially re-asutenitize, followed by quenching in a suitable 
+liquid medium. 
+( 3) Unless otherwise specified by the purchaser, the choice 
+of (J) or (2) shall be at the option of the manufacturer. 
+5.4.2.2 All quenched forgings shall be tempered to 5.4.2.3 
+5.4.2.3 Forgings, when tempered, shall be tempered at 
+1100 °F [590 °C], minimum, holding at temperature a mini­
+mum of 30 min/in. [30 min/25 mm] of maximum thickness, but 
+in no case less than 30 min. 
+5.4.3 Grade LF787 forgings shall be furnished in either the 
+normalized-and-precipitation heat treated condition or in the 
+quenched-and-precipitation heat treated condition. The heat 
+treatment procedures shall be as follows: 
+5.4.3.1 Normalized-and-Precipitation Heat Treated­
+Austenitize in the range from 1600 to 1725 °F [870 to 940 °C] 
+TABLE 1 Chemical Requirements 
+Element 
+Composition, wt % 
+Grade LF1 Grade LF2 Grade LF3 Grade LF5 Grade LF6 
+Carbon, max 0.30 0.30 0.20 0.30 0.22 
+Manganese 0.60-1.35 0.60-1.35 0.90 max 0.60-1.35 1.15-1.50 
+Phosphorus, 0.035 0.035 0.035 0.035 0.025 
+max 
+Sulfur, max 0.040 0.040 0.040 0.040 0.025 
+SiliconA 0.15-0.30 0.15-0.30 0.20-0.35 0.20-0.35 0.15-0.30 
+Nickel 0.40 max 8 0.40 max 8 3.3-3.7 1.0-2.0 0.40 max 8 
+·Chromium 0.30 max 8 ·c 0.30 max 8 • 0 0.30 max 0 0.30 max 0 0.30 max 8 • 0 
+Molybdenum 0.12 max 8 • 0 0.12 max 8 • 0 0.12 max 0 0.12 maxc 0.12 max 8 • 0 
+Copper 0.40 max 8 0.40 max 8 0.40 max 0.40 max 0.40 max 8 
+NiobiumE 0.02 max 0 0.02 max 0 0.02 max 0.02 max 0.02 max 
+Vanadium 0.08 max 0.08 max 0.03 max 0.03 max 0.04-Q,11 
+Nitrogen 0.01-0.030 
+A When vacuum carbon-deoxidation is required by Supplementary Requirement S4, the silicon content shall be 0.12 % maximum. 
+8 The sum of copper, nickel, chromium, vanadium and molybdenum shall not exceed 1.00 % on heat analysis. 
+0 The sum of chromium and molybdenum shall not exceed 0.32 % on heat analysis. 
+Grade LF9 
+0.20 
+0.40-1.06 
+0.035 
+0.040 
+1,60-2.24 
+0.30 max 0 
+0.12 max 0 
+0.75-1.25 
+0.02 max 
+0.03 max 
+0 By agreement, the limit for niobium (columbium) may be increased up to 0.05 % on heat analysis and 0.06 % on product analysis. 
+E Niobium and columbium are interchangeable names for the same element and both names are acceptable for use in A01.22 specifications. 
+529 
+Grade LF787 
+0.07 
+0.40-0.70 
+0.025 
+0.025 
+0.40 max 
+0.70-1.00 
+0,60-0.90 
+0.15-0,25 
+1.00-1.30 
+0.02 min 
+0.03 max 

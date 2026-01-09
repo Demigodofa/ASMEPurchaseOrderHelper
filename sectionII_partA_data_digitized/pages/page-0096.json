@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 96,
+  "globalPageIndex": 96,
+  "width": 613.92,
+  "height": 793.2,
+  "text": "SA-6/SA-6M ASME BPVC.11.A-2025 \nTABLE A1.21 Permitted Variations in Straightness for S, M, C, MC, L, T, Z, and Bulb Angle Shapes \nVariable \nCamber \nSweep \nNominal Size,A mm \nUnder 75 \n75 and over \nAll \nA Greatest cross-sectional dimension. \nt--1 \nSeam \n(Sand M) \nMBER \nC/IMl!l:R \nL, \nZee \nPositions for Measuring Camber of Shapes \n4 x number of metres of total length \n2 x number of metres of total length \nPermitted Variation, mm \nDue to the extreme variations in flexibility of these shapes, permitted variations for sweep are subject to negotiations \nbetween the manufacturer and the purchaser for the individual sections involved. \nTABLE A1.22 Permitted Variations in Length for Wand HP \nShapes \nPermitted Variations from Specified Length for Lengths Given in Metres, mmA\u00b7 8 \nOver Under \n100 0 \nA For HP and W shapes specified in the order for use as bearing piles, the \npermitted variations in length are plus 125 and minus O mm. These permitted \nvariations in length also apply to sheet piles. \n8 The permitted variations in end out-of-square for W and HP shapes shall be \n0.016 mm per millimetre of depth, or per millimetre of flange width if the flange \nwidth is larger than the depth. The permitted variations shall be rounded to the \nnearest millimetre after calculation. \n44 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0096.json",
+  "tabulaTablesCsv": "tables_tabula/page-0096.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-0096.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1286,
+  "bestTextAlphaRatio": 0.7504
+}

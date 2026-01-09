@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 861,
+  "globalPageIndex": 1659,
+  "width": 613.92,
+  "height": 793.2,
+  "text": "ASME BPVC.II.A-2025 SA/JIS G4303 \nSPECIFICATION FOR STAINLESS STEEL BARS \nSA/JIS G4303 \n(Identical with International Specification JIS G4303:2012 with these additional requirements.) \n1605 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-1659.txt",
+  "ocrTextLength": 194,
+  "ocrApplied": true,
+  "bestTextPath": "best_text/pages/page-1659.txt",
+  "bestTextSource": "ocr",
+  "bestTextLength": 194,
+  "bestTextAlphaRatio": 0.6907
+}

@@ -1,0 +1,62 @@
+Tensile strength, ksi [MPa] 
+ASME BPVC.Il.A-2025 
+TABLE 1 Chemical Requirements 
+Elements 
+Carbon, maxA,B 
+Manganese: 0 
+Heat analysis 
+Product analysis 
+Phosphorus, maxA 
+Sulfur, maxA 
+Silicon:D 
+Heat analysis 
+Product analysis 
+A Applies to both heat and product analyses. 
+Composition, % 
+0.33 
+0.85-1.20 
+0.79-1.30 
+0.025 
+0.025 
+0.10 max 
+0.13 max 
+8 When the silicon is higher than 0.10 %, the carbon maximum shall be 0.28 %. 
+° For each reduction of 0.01 percentage point below the specified maximum for 
+carbon, and increase of 0.06 percentage point above the specified maximum for 
+manganese is permitted, up to a maximum of 1.50 % by heat analysis and 1.60 % 
+by product analysis. 
+0 At the purchaser's or the producer's option, silicon may be 0.40 % max on heat 
+analysis, 0.45 % max on product analysis. 
+TABLE 2 Tensile Requirements 
+Up to 0.375 in. 
+[9.5mm] 
+Thickness 
+Over 0.375 to 0.580 in. 
+[15 mm] 
+Yield strength, min, ksi [MPa] 
+Elongation in 8 in. [200 mm], min, %A 
+Elongation in 2 in. [50 mm], min, %A 
+75-95 [515-655] 
+38 [260] 
+15 
+22 
+73-93 [505-640] 
+37 [255] 
+15 
+22 
+A See Specification A20/A20M for elongation adjustments. 
+SUPPLEMENTARY REQUIREMENTS 
+SA-455/SA-455M 
+Over 0.580 to 0.750 in. 
+[20mm] 
+70-90 [485-620] 
+35 [240] 
+15 
+22 
+Supplementary requirements shall not apply unless specified . in the purchase order. A list of 
+standardized supplementary requirements for use at the option of the purchaser is included in 
+Specification A20/ A20M. Those that are considered suitable for use with this specification are listed 
+below by title. 
+S3. Simulated Post-Weld Heat Treatment of Mechanical 
+Test Coupons. 
+765 

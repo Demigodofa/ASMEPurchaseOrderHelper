@@ -1,0 +1,611 @@
+=== Page 1276 ===
+
+SA-737 /SA-737M ASME BPVC.II.A-2025 
+Standard Specification for 
+Pressure Vessel Plates, High-Strength, Low-Alloy Steel 
+1. Scope 
+1.1 This specification covers high-strength low-alloy steel 
+plates for service in welded pressure vessels and piping 
+components. 
+1.2 This material is particularly intended for piping and 
+pressure vessel applications where high strength and improved 
+toughness are required. 
+1.3 Two grades, designated B and C, are covered by this 
+specification. Grade B provides a minimum yield strength of 
+50 ksi [345 MPa]. Grade C provides a minimum yield strength 
+of 60 ksi [415 MPa]. 
+1.4 The maximum thickness of plates is limited only by the 
+capacity of the chemical composition and heat treatment to 
+meet the specified mechanical property requirements; however, 
+current practice normally limits the maximum thickness to 4 in. 
+[100 mm] for each grade. 
+1.5 Grade C in the as-rolled condition is sensitive to 
+cracking during flame cutting, transit, and handling, particu­
+larly in thicknesses over 2 in. [50 mm]. Plates should not be 
+shipped in the as-rolled condition only except by mutual 
+agreement between the manufacturer and the purchaser. 
+1.6 The values stated in either inch-pound units or SI units 
+are to be regarded separately as standard. Within the text, the 
+SI units are shown in brackets. The values stated in each 
+system are not exact equivalents; therefore, each system must 
+be used independently of the other. Combining values from the 
+two systems may result in nonconformance with the specifi­
+cation. 
+1.7 This international standard was developed in accor­
+dance with internationally recognized principles on standard­
+ization established in the Decision on Principles for the 
+Development of International Standards, Guides and Recom­
+mendations issued by the World Trade Organization Technical 
+Barriers to Trade (TBT) Committee. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+A20/ A20M Specification for General Requirements for Steel 
+Plates for Pressure Vessels 
+A435/A435M Specification for Straight-Beam illtrasonic 
+Examination of Steel Plates 
+A577/A577M Specification for illtrasonic Angle-Beam Ex­
+amination of Steel Plates 
+A578/A578M Specification for Straight-Beam Ultrasonic 
+Examination of Rolled Steel Plates for Special Applica­
+tions 
+3. General Requirements and Ordering Information 
+3.1 Material supplied to this specification shall conform to 
+the requirements of Specification A20/ A20M. These require­
+ments outline the testing and retesting methods and procedures, 
+permitted variations in dimensions and mass, quality, repair of 
+defects, marking, loading, and ordering information. 
+3.2 In addition to the basic requirements of this 
+specification, certain supplementary requirements are available 
+when additional control, testing, or examination is required to 
+meet end use requirements. The purchaser is referred to the 
+listed supplementary requirements in this specification and to 
+the detailed requirements in Specification A20/A20M. 
+3.3 If the requirements of this specification are in conflict 
+with the requirements of Specification A20/A20M, the require­
+ments of this specification shall prevail. 
+4. Manufacture 
+4.1 Steelmaking Practice-The steel shall be killed and 
+shall conform to the fine austenitic grain size requirement of 
+Specification A20/ A20M. 
+5. Heat Treatment 
+5 .1 The material shall be normalized by heating to a suitable 
+temperature which produces an austenitic structure, but not 
+exceeding 1700°F [925°C], holding a sufficient time to attain 
+uniform heat throughout the material, and cooling in air. 
+1198
+
+=== Page 1277 ===
+
+ASME BPVC.II.A-2025 SA-737 /SA-737M 
+TABLE 1 Chemical Requirements 
+NOTE I-Where" ... " appears in this table, there is no requirement. 
+Composition, % 
+Element 
+Carbon, max 
+Manganese 
+Phosphorus, max 
+Sulfur, max 
+Silicon 
+Vanadium 
+Columbium 
+(Niobium), 8 
+max 
+Grade B 
+Heat 
+0.20 
+1.15-1.50A 
+0.025 
+0.025 
+0.15-0.50 
+0.05 
+Product 
+0.22 
+1.07-1.6~ 
+0.025 
+0.025 
+0.10-0.55 
+0.05 
+Heat 
+0.22 
+1.15-1.50 
+0.025 
+0.025 
+0.15-0.50 
+0.04-0.11 
+0.05 
+Grade C 
+Product 
+0.24 
+1.07-1.62 
+0.025 
+0.025 
+0.10-0.55 
+0.03-0.12 
+0.05 
+Nitrogen, max 0.03 0.03 
+A The maximum manganese may be increased to 1.60 % on heat analysis and 
+1. 72 % on product analysis, provided that the carbon content on heat analysis 
+does not exceed 0.18 %. 
+8 Columbium and niobium are interchangeable names for the same element and 
+both names are acceptable for use in A01 specifications. 
+TABLE 2 Tensile Requirements 
+Yield strength, min, ksi [MPa] 
+Tensile strength, ksi [MPa] 
+Elongation in 8 in. [200 mm], 
+min,%A 
+Elongation in 2 in. [50 mm], 
+min,%A 
+Grade B 
+50 [345] 
+70-90 [485-620] 
+18 
+23 
+Grade C 
+80[415] 
+80-100 [550-690] 
+18 
+23 
+A See Specification A20/A20M for elongation adjustment. 
+5.2 If approved by the purchaser, cooling rates faster than 
+air cooling are permitted for improvement of strength or 
+toughness, provided the plates are subsequently tempered in 
+the temperature range from 1100 to 1300°F [595 to 705°C]. 
+5.3 When the fabricator elects to perform the heat treatment 
+in 5.1 and 5.2, the manufacturer shall normalize plates con­
+forming to Grade C within the range from 1650 to 1850oF [900 
+to 1010oC] prior to shipment for plates exceeding 2 in. [50 
+mm] in thickness unless otherwise agreed to. 
+6. Chemical Requirements 
+6.1 The steel shall conform to the requirements as to 
+chemical composition prescribed in Table 1 unless otherwise 
+modified in accordance with Supplementary Requirement S 17, 
+Vacuum Carbon-Deoxidized Steel, in Specification A20/ 
+A20M. 
+7. Mechanical Requirements 
+7 .1 Tension Tests-The material as represented by the ten­
+sion test specimens shall conform to the requirements shown in 
+Table 2. 
+7.1.1 For nominal plate thicknesses of¾ in. [20 mm] and 
+under, when requirements for elongation in 2 in. [50 mm] are 
+to be determined, the 1 ½-in. [40-mm] wide rectangular speci­
+men may be used for the tension test, and the elongation may 
+be determined in a 2-in. [50-mm] gage length that includes the 
+fracture and that shows the greatest elongation. 
+SUPPLEMENTARY REQUIREMENTS 
+Supplementary requirements shall not apply unless specified in the purchase order. 
+A list of standardized supplementary requirements for use at the option of the purchaser is included 
+in Specification A20/ A20M. Several of those considered suitable for use with this specification are 
+listed below by title. Other tests may be performed by agreement between the supplier and the 
+purchaser. 
+S 1. Vacuum Treatment, 
+S2. Product Analysis, 
+S3. Simulated Post-Weld Heat Treatment of Mechanical 
+Test Coupons, 
+S5. Charpy V-Notch Impact Tests, 
+S8. Ultrasonic Examination in accordance with Specifica­
+tion A435/A435M, 
+S 11. Ultrasonic Examination in accordance with Specifica­
+tion A577 / A577M, 
+Sl2. Ultrasonic Examination in accordance with Specifica­
+tion A578/A578M, and 
+S 17. Vacuum Carbon-Deoxidized Steel. 
+1199
+
+=== Page 1279 ===
+
+_,,,..,,,----......._, 
+ASME BPVC.II.A-2025 SA-738/SA-738M 
+SPECIFICATION FOR PRESSURE VESSEL PLATES, 
+HEAT-TREATED, CARBON-MANGANESE-SILICON 
+STEEL, FOR MODERATE AND LOWER TEMPERATURE 
+SERVICE 
+SA-738/SA-738M 
+(Identical with ASTM Specification A738/ A738M-19.) 
+1201 
+cO 
+INT&IIRATIOIIAL 
+Standards Worldwide
+
+=== Page 1280 ===
+
+SA-738/SA-738M ASME BPVC.II.A-2025 
+Specification for 
+Pressure Vessel Plates, Heat-Treated, Carbon-Manganese­
+Silicon Steel, for Moderate and Lower Temperature Service 
+1. Scope 
+1.1 This specification covers heat-treated carbon­
+manganese-silicon steel plates intended for use in welded 
+pressure vessels at moderate and lower temperature service. 
+1.2 Material under this specification is available in four 
+strength levels, 75 ksi [515 MPa], 85 ksi [585 MPa], 80 ksi 
+[550 MPa], and 90 ksi [620 MPa] minimum ultimate tensile 
+strengths. 
+1.3 The maximum thickness of plates for Grades A, B, and 
+C is limited only by the capacity of the chemical composition 
+and heat treatment to meet the specified mechanical property 
+requirements; however, current practice normally limits the 
+maximum thickness of plates furnished under this specification 
+to 6 in. [150 mm] for Grade A, 4 in. [100 mm] for Grade B, and 
+6 in. [150 mm] for Grade C. The maximum permitted nominal 
+thickness is 1.5 in. [40 mm] for Grade D and 2 in. [50 mm] for 
+Grade E. 
+1.4 The values stated in either SI units or inch-pound units 
+are to be regarded separately as standard. The values stated in 
+each system may not be exact equivalents; therefore, each 
+system shall be used independently of the other. Combining 
+values from the two systems may result in non-conformance 
+with the standard. 
+1.5 This international standard was developed in accor­
+dance with internationally recognized principles on standard­
+ization established in the Decision on Principles for the 
+Development of International Standards, Guides and Recom­
+mendations issued by the World Trade Organization Technical 
+Barriers to Trade (TBT) Committee. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+A20/ A20M Specification for General Requirements for Steel 
+Plates for Pressure Vessels 
+3. General Requirements and Ordering Information 
+3.1 Material supplied to this material specification shall 
+conform to Specification A20/A20M. These requirements out­
+line the testing and retesting methods and procedures, permit­
+ted variations in dimensions, and mass, quality and repair of 
+defects, marking, loading, and ordering information. 
+3.2 In addition to the basic requirements of this 
+specification, certain supplementary requirements are available 
+when additional control, testing, or examination is required to 
+meet end use requirements. The purchaser is referred to the 
+listed supplementary requirements in this specification and to 
+the detailed requirements in Specification A20/ A20M. 
+3.3 If the requirements of this specification are in conflict 
+with the requirements of Specification A20/ A20M, the require­
+ments of this specification shall prevail. 
+4. Manufacture 
+4.1 Steelmaking Practice-The steel shall be killed and 
+shall conform to the fine austenitic grain size requirement of 
+Specification A20/ A20M. 
+5. Heat Treatment 
+5.1 Grade A plates 2.5 in. [65 mm] and under in thickness 
+shall be supplied in the normalized condition or in the 
+quenched and tempered condition at the option of the manu­
+facturer. 
+5.2 Grade A plates over 2.5 in. [65 mm] in thickness and 
+Grade B, Grade C, Grade D, and Grade E plates in all 
+thicknesses shall be quenched-and-tempered. 
+1202
+
+=== Page 1281 ===
+
+~-
+\ 
+'-...__..,..-
+ASME BPVC.II.A-2025 SA-738/SA-738M 
+TABLE 1 Chemical Requirements 
+NOTE I-Where" ... " appears there is no requirement. 
+Element Composition, % 
+Grade A Grade B Grade C Grade D Grade E 
+Carbon, maxA 0.24 0.20 0.20 0.10 0.12 8 
+Manganese: 
+Heat analysis 
+1.5 in. [40 mm] and under 1.50 max 0.90-1.50 1.50 max 1.00-1.60 1.10-1.60 8 
+Over 1.5 to 2.0 in. 1.50 max 0.90-1.50 1.50 max C 1.10-1.60 8 
+[40to 50 mm] 
+Over 2.0 to 2.5 in. 1.50 max 0.90-1.50 1.50 max C C 
+[50 to 65 mm], incl 
+Over 2.5 in. [65 mm] 1.60 max 0.90-1.60 1.60 max C C 
+Product analysis 
+1.5 in. [40 mm] and under 1.62 max 0.84-1.62 1.62 max 0.92-1.72 1.02-1.72 8 
+Over 1.5 to 2.0 in. 1.62 max 0.84-1.62 1.62 max C 1.02-1.72 8 
+[40 to 50 mm], incl 
+Over 2.0 to 2.5 in. 1.62 max 0.84-1.62 1.62 max C C 
+[50 to 65 mm], incl 
+Over 2.5 in. [65 mm] 1.72 max 0.84-1.72 1.72 max C C 
+Phosphorus, maxA 0.025 0.025 0.025 O.D15 O.D15 
+Sulfur, maxA 0.025 0.025 0.025 0.006 0.006 
+Silicon: 
+Heat analysis 0.15--0.50 0.15--0.55 0.15-0.50 0.15--0.50 0.15--0.50 
+Product analysis 0.13--0.55 0.13--0.60 0.13-0.55 0.13-0.55 0.13-0.55 
+Copper, max: 
+Heat analysis 0.35 0.35 0.35 0.35 0.35 
+Product analysis 0.38 0.38 0.38 0.38 0.38 
+Nickel, max: 
+Heat analysis 0.50 0.60 0.50 0.60 0.70 
+Product analysis 0.53 0.63 0.53 0.63 0.73 
+Chromium, max: 
+Heat analysis 0.25 0.30 0.25 0.25 0.30 
+Product analysis 0.29 0.34 0.29 0.29 0.34 
+Molybdenum, max: 
+Heat analysis 
+1.5 in. [40 mm] and under 0.08 0.20 0.08 0.30 0.35 
+Over 1.5 in. [40 mm] 0.08 0.30 0.08 C C 
+Product analysis 
+1.5 in. [40 mm] and under 0.09 0.21 0.09 0.33 0.38 
+Over 1.5 in. [40 mm] 0.09 0.33 0.09 C C 
+Vanadium, max: 
+Heat analysis 0.07° 0.07 0.05 0.08 0.09 
+Product analysis 0.08° 0.08 0.05 0.09 0.10 
+Columbium (niobium), G max: 
+Heat analysis 0.04° 0.04 0.05 0.05 
+Product analysis 0.05° 0.05 0.06 0.06 
+Columbium (niobium)G plus vanadium, 
+max: 
+Heat analysis 0.08° 0.08 0.11 0.12 
+Product analysis 0.10° 0.10 0.12 0.13 
+Titanium, maxA E F 
+Boron, maxA 0.0007 0.0007 
+Aluminum, minA 0.020 total or 0.020 total or 
+O.D15 acid solubleE 0.015 acid solubleF 
+A Applies to both heat and product analyses. 
+8 For each reduction of 0.01 percentage point below the specified maximum for carbon, an increase of 0.06 percentage point above the specified maximum for manganese 
+is permitted, up to a maximum of 1.85 % by heat analysis, and 1.99 % by product analysis. 
+0 Not applicable because of maximum thickness. 
+0 Vanadium and columbium (niobium)G may be added only by agreement between the manufacturer and the purchaser. 
+E By agreement between the manufacturer and the purchaser, the steel may be produced with titanium, in which case the minimum aluminum content shall not apply. If 
+this option is exercised, the titanium content, by heat analysis, shall be 0.006 % to 0.03 %, and the titanium content for the heat and product analyses shall be reported 
+on the test report. 
+F By agreement between the manufacturer and the purchaser, the steel may be produced with titanium, in which case the minimum aluminum content shall not apply. If 
+this option is exercised, the titanium content, by heat analysis, shall be 0.006 % to 0.03 % inclusive and the titanium content for the heat and product analyses shall be 
+reported on the test report. 
+G Columbium and niobium are interchangeable names for the same element and both names are acceptable for use in A01 specifications. 
+1203
+
+=== Page 1282 ===
+
+SA-738 /SA-738M ASME BPVGC.II.A-2025
+TABLE 2 Tensile Requirements — .
+Note 1—t = plate nominal thickness.
+Grade A Grade B Grade C Grade D Grade E ;
+Tensile strength, ksi [MPa]
+1.5 in. [40 mm] and under 75-95 [515-655] 85-102 [585-705] 80-100 [550-690] 85-105 [585-724] 90~110 [620-760]
+Over 1.5 to 2.0 in. 75-95 [515-655] 85-102 [585-705] 80-100 [550-690] A 90-110 [620-760]
+[40 to 50 mm], incl
+Over 2.0 to 2.5 in. 75-95 [515-655] 85~102 [585-705] 80-100 [550-690] A A
+[50 to 65 mn] |
+Over 2.5 to 4 in. 75-95 [515-655] 85-102 [585-705] 75-95 [515-655] A A
+[65 to 100 mm], incl
+Over 4 in. [100 mm] 75-95 [515-655] 85-102 [585-705] 70-90 [485-620] A A |
+Yield strength, min, ksi [MPa] ——
+1.5 in. [40 mm] and under 45 [810] 60 [415] 60 [415] 70 [485] 75 [515] | ,
+Over 1.5 to 2.0 in. 45 [310] 60 [415] 60 [415] A 75 [515] ,
+[40 to 50 mm], incl
+Over 2.0 to 2.5 in. 45 [310] 60 [415] 60 [415] A A
+[50 to 65 mm], incl |
+Over 2.5 to 4 in. 45 [310] 60 [415] 55 [380] A A
+[65 to 100 mm], incl
+Over 4 in. [100 mm] 45 [310] 60 [415] 46 [315] A A
+Elongation in 2 in. [50 mm], ,
+min, %?
+
+1.5 in. [40 mm] and under 20 20 22 20 20
+
+- Over 1.5 to 4 in. 20 20 22 A A . :
+[40 to 100 mm], incl |
+Over 4 in. [100 mm] 20 20 20 A A ,
+
+A Not applicable.
+® See Specification A20/A20M for elongation requirement adjustments.
+
+5.3 When plates are tempered, the minimum tempering 7.1.1 For nominal plate thicknesses of % in. [20 mm] and
+temperature shall be 1100°F [595°C]. under, the 1.5-in. [40-mm] wide rectangular specimen may be
+6. Chemical Requirements used for the tension test and the elongation may be determined :
+
+° qu in a 2-in. [50-mm] gage length that includes the fracture and
+
+6.1 The steel shall conform to the chemical requirements shows the greatest elongation. :
+shown in Table 1 unless otherwise modified in accordance with |
+Supplementary Requirement S17, Vacuum Carbon- g, Keywords
+Deoxidized Steel in Specification A20/A20M. _
+
+8.1 pressure-containing parts; pressure vessel steel; steel ae
+7. Mechanical Requirements plates; steel plates for pressure vessel applications ,
+
+7.1 Tension Test Requirements—The plates as represented |
+by the tension test specimens shall conform to the requirements :
+of Table 2. |
+
+1204
+
+=== Page 1283 ===
+
+ASME BPVC.II.A-2025 SA-738/SA-738M 
+SUPPLEMENTARY REQUIREMENTS 
+Supplementary requirements shall not apply unless specified in the purchase order. A list of 
+standardized supplementary requirements for use at the option of the purchaser is included in 
+Specification A20/ A20M. Several of those considered suitable for use with this specification are listed 
+by title. Other tests may be performed by agreement between the supplier and the purchaser: 
+S 1. Vacuum Treatment 
+S2. Product Analysis. 
+S3. Simulated Post-Weld Heat Treatment of Mechanical 
+Test Coupons. 
+S4. Additional Tension Test. 
+S5. Charpy V-Notch Impact Test. 
+S6. Drop Weight Test (for Material 0.625 in. [16 mm] and 
+Over in Thickness). 
+S9. Magnetic Particle Examination. 
+Sl2. Ultrasonic Examination in accordance with Specifica­
+tion A578/A578M. 
+S20. Maximum Carbon Equivalent for Weldability 
+APPENDIX 
+(Nonmandatory Information) 
+Xl. CHARPY V-NOTCH IMPACT TEST 
+Xl.1 The energy values below are shown only for informa­
+tion as to the guarantees that are generally available. Manda­
+tory conformance to any of the values listed is a matter of 
+agreement between the purchaser and the manufacturer. 
+1205 
+Xl.1.1 Longitudinal-20 ft·lbf [27 J] at -50°F [-45°C]. 
+Xl.1.2 Transverse-20 ft-lbf [27 J] at -20°F [-30°C].
+
+=== Page 1284 ===
+
+SA-739 ASME BPVCG.ILA-2025
+cn ® ———
+Standard Specification for / |
+Steel Bars, Alloy, Hot-Wrought, for Elevated Temperature or
+Pressure-Containing Parts, or Both
+1. Scope 3.1.7 Additions to the specification, and
+1.1 This specification covers hot-wrought, ferritic alloy 3.1.8 End use.
+steel bars for elevated temperature or pressure-containing parts Nore 1—A typical description is as follows: 10 000 Ib, Ferritic Alloy
+suitable for fusion welding or both. Steel Bars, Hot Wrought Normalized and Tempered, and Descaled, _
+. a ae . e _, 1.000-in. diameter by 10 ft, ASTM A739 dated___, Grade B11, Special a
+1.2 The bars are furnished in the following grades: Straightened, Special Machined Fittings.
+Grade B 11: 1.25 % chromium, 0.55 % molybdenum “oa, .
+Grade B 22: 2.25 % chromium, 1.00 % molybdenum 4. Materials and Manufacture
+1.3 The values stated in inch-pound units are to be regarded 4.1 Melting Practice—The steel shall be made by one or
+as standard. The values given in parentheses are mathematical | more of the following primary processes: open-hearth, basic-
+conversions to SI units that are provided for information only oxygen, or electric-furnace. The primary melting may incor-
+| and are not considered standard. porate separate degassing or refining and may be followed by
+| secondary melting using electroslag remelting or vacuum arc
+2. Referenced Documents remelting. Where secondary melting is employed, the heat
+21 ASTM Standards: shall be defined as all of the ingots remelted from a single
+A29/A29M Specification for Steel Bars, Carbon and Alloy, = Primary heat.
+Hot-Wrought, General Requirements for 4.2. Condition—Unless otherwise specified, bars shall be hot
+A370 Test Methods and Definitions for Mechanical Testing — wrought, heat treated, and descaled.
+of Steel Products 4.3 Heat Treatment: |
+3. Ordering Information 4.3.1 The bars shall be normalized and tempered.
+/ , a 4.3.2 Austenitizing temperature shall be within the range
+3.1 Orders for material under this specification should — fom 1700 to 1800°F (927 to 982°C).
+include the following infor mation: a 4.3.3 Cooling from the austenitizing temperature may be
+3.1.1 Quantity (weight or number of pieces), accomplished by cooling in still air or moving air, at the
+3.1.2 Name of material (ferritic alloy steel bars), producer’s option. When permitted by the purchaser, cooling |
+3. 1.3 Condition (hot wrought, normalized and tempered, —_ from the austenitizing temperature may be accelerated by spray
+machine straightened and descaled), or liquid quenching.
+3.4 4 Dimensions (cross-sectional shape, size, and length), 4.3.4 The minimum tempering temperature shall be 1200°F
+3.1.5 ASTM designation and date of issue, (649°C) for Grade B11 and 1250°F (677°C) for Grade B22.
+3.1.6 Grade (Table 1),
+5. Chemical Composition
+5.1 The heat analysis shall conform to the limits for chemi- |
+cal composition specified in Table 1 for the grade ordered.
+6. Mechanical Properties _
+6.1 Tensile Requirements—The bars as represented by the
+test specimens shall conform to the tensile requirements
+: specified in Table 2.
+6.2, Specimens—Tension test specimens shall be taken lon-
+gitudinally and machined from the locations specified in Test
+Methods and Definitions A370.
+1208
+
+=== Page 1285 ===
+
+~ 
+ASME BPVC.II.A-2025 SA-739 
+TABLE 1 Chemical Requirements 
+Element 
+Carbon, max 
+Manganese 
+Phosphorus, max 
+Sulfur, max 
+Silicon 
+Chromium 
+Molybdenum 
+Composition, % 
+Grade B 11 Grade B 22 
+0.05-0.20 0.05-0.15 
+0.40-0.65 0.30-0.60 
+0.035 0.035 
+0.040 0.040 
+0.50-0.80 0.50 max 
+1.00-1.50 2.00-2.50 
+0.45-0.65 0.90-1.10 
+TABLE 2 Tensile Requirements 
+Tensile strength, ksi (MPa) 
+Yield strength, min, ksi (MPa) 
+Elongation in 2 in. or 50 mm, 
+min,% 
+Reduction of area, min, % 
+6.3 Number of Tests: 
+Grade B 11 
+70.0-95.0 (483-655) 
+45.0 (310) 
+18 
+45 
+Grade B 22 
+75.0-95.0 (517-655) 
+45.0 (310) 
+18 
+45 
+6.3.1 Two tension tests shall be made to represent bars of 
+the same size from each heat in each heat treatment charge. For 
+continuous heat-treated material, not fewer than two tension 
+tests shall represent a lot selected on the basis of one tension 
+test from each 10 000 lb (4500 kg). 
+6.3.2 When heat treated without interruption in continuous 
+furnaces, the material in a lot shall be from the same heat, same 
+prior condition, same size, and subjected to the same heat 
+treatments. 
+6.4 Test Methods-Tension test~ shall be made in accor­
+dance with Test Methods and Definitions A370. The yield 
+strength shall be determined by the 0.2 % offset method. 
+7. Workmanship, Finish, and Appearance 
+7 .1 Wbrkmanship-The bars shall be free of pipe, cracks, 
+and flakes. Within the limits of good manufacturing and 
+inspection practices the bars shall be free of injurious seams, 
+laps, segregation, or other imperfections which, due to their 
+nature, degree or extent, will interfere with the use of the 
+material in machining or fabrication. 
+7.2 Descaling-Unless otherwise specified, the bars shall be 
+descaled. 
+8. General Requirements 
+8.1 Material furnished under this specification shall con­
+form to the applicable requirements of the current edition of 
+Specification A29/ A29M. 
+9. Certification and Test Reports 
+9.1 A manufacturer's certification that the material was 
+manufactured and tested in accordance with this specification 
+together with a report of the analysis and tensfon test results 
+shall be furnished at the time of shipment. The report shall 
+include the name of the manufacturer, ASTM designation 
+number and year date and revision letter, if any, grade, heat 
+number, and size. 
+10. Product Marking 
+10.1 The bars shall be marked in accordance with Specifi­
+cation A29/ A29M except as modified or supplemented by 10.2 
+through 10.4 of this specification. 
+10.2 When specified by the purchaser, the heat number shall 
+be permanently stamped on one end of each bar 2.50 in. and 
+larger in nominal diameter (or equivalent cross-sectional area). 
+10.3 The bars shall neither be hot nor cold stamped on the 
+sides unless approved by the purchaser on the purchase order. 
+10.4 Each lift, regardless of size, shall be tagged with the 
+information required by Specification A29/ A29M. 
+11. Keywords 
+11.1 alloy steel bars; high-temperature applications; hot­
+wrought steel bars; pressure-containing parts; steel bars; tem­
+perature service application-high 
+1209
+
+=== Page 1287 ===
+
+'--.._--
+ASME BPVC.II.A-2025 SA-747 /SA-747M 
+SPECIFICATION FOR STEEL CASTINGS, STAINLESS, 
+PRECIPITATION HARDENING 
+SA-747 /SA-747M 
+(Identical with ASTM Specification A7 4 7 / A7 4 7M-04 except for the revision of the mandatory ordering requirements of 
+para. 4.1.6 and the mandatory use of Supplementary Requirement S15 of SA-781/SA-781M.) 
+1211
+
+Resolved Notes (AI-verified)
+NOTE 1 (page 1282)
+Note 1—t = plate nominal thickness.
+Grade A Grade B Grade C Grade D Grade E ;
+Tensile strength, ksi [MPa]
+1.5 in. [40 mm] and under 75-95 [515-655] 85-102 [585-705] 80-100 [550-690] 85-105 [585-724] 90~110 [620-760]
+Over 1.5 to 2.0 in. 75-95 [515-655] 85-102 [585-705] 80-100 [550-690] A 90-110 [620-760]
+[40 to 50 mm], incl
+Over 2.0 to 2.5 in. 75-95 [515-655] 85~102 [585-705] 80-100 [550-690] A A
+[50 to 65 mn] |
+Over 2.5 to 4 in. 75-95 [515-655] 85-102 [585-705] 75-95 [515-655] A A
+[65 to 100 mm], incl
+Over 4 in. [100 mm] 75-95 [515-655] 85-102 [585-705] 70-90 [485-620] A A |
+Yield strength, min, ksi [MPa] ——
+1.5 in. [40 mm] and under 45 [810] 60 [415] 60 [415] 70 [485] 75 [515] | ,
+Over 1.5 to 2.0 in. 45 [310] 60 [415] 60 [415] A 75 [515] ,
+[40 to 50 mm], incl
+Over 2.0 to 2.5 in. 45 [310] 60 [415] 60 [415] A A
+[50 to 65 mm], incl |
+Over 2.5 to 4 in. 45 [310] 60 [415] 55 [380] A A
+[65 to 100 mm], incl
+Over 4 in. [100 mm] 45 [310] 60 [415] 46 [315] A A
+Elongation in 2 in. [50 mm], ,
+min, %?

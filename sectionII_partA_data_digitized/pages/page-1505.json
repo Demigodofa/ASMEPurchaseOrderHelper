@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 707,
+  "globalPageIndex": 1505,
+  "width": 617.04,
+  "height": 795.6,
+  "text": "ASME BPVC.II.A-2025 \nTABLE S23.l \nDESCRIPTIVE DATA APPLICABLE TO NETWORK \nSTRUCTURES SHOWN IN FIG. S23.l \nRating Delineation Width, in. Boundary Outline, % \n1 Fine-0.001 20 \n2 Fine-0.001 40 \n3 Fine-0.001 60 \n4 Fine-0.002 80 \n5 Fine-0.002 100 \n6 Medium-0.005 100 \n7 Heavy-0.010 100 \n8 0.020 100 \n9 \u00bd2 100 \n10 \u00bd.6 100 \nNOTE 1 - These ratings are based on the physical width and \ncontinuity of the precipitate pattern developed by the acid etchant \non the primary austenitic grain boundaries of the cast steel. Supple\u00ad\nmentary testing is normally conducted to determine the final dispo\u00ad\nsition of castings with ratings of 5 or greater. \n1451 \nSA-985/SA-985M ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 1,
+  "tabulaTablesPath": "tables_tabula/page-1505.json",
+  "tabulaTablesCsv": "tables_tabula/page-1505.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-1505.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 655,
+  "bestTextAlphaRatio": 0.6168
+}

@@ -1,0 +1,74 @@
+ASME BPVC.ILA-2025
+
+SA-370
+gre ‘TET
+Bl é A E,
+1 « += b= AH ®
+Ss R
+foo L
+Bal ele— A —ehebe B |
+( am )
+a 5 P= pAb Ie
+3/4-10 THD (M20 x 2,5) G—mi-R
+a
+A
+> Se
+R
+DIMENSIONS
+Specimen 1 Specimen 2 Specimen 3 Specimen 4 Specimen 5
+in. mm in. mm in. mm in. mm in. mm
+G—Gauge length 2.000+ 50.0 + 2.000 50.0 + 2.000+ 50.0 + 2.000+ 50.0 + 2.00 50.0 +
+0.005 0.10 0.005 0.10 0.005 0.10 0.005 0.10 0.005 0.10
+D—Diameter (Note 1) 0.500 + 12.54 0.500 + 12.54 0.500 + 12.5+ 0.500 + 12.5+ 0.500+ 12.54
+0.010 0.25 0.010 0.25 0.010 0.25 0.010 0.25 0.010 0.25
+R—Radius of fillet, min % 10 % 10 ve 2 % 10 % 10
+A—Length of reduced 2¥4, min 60, min 2%, min 60, min 4, ap- 100, ap- 2%, min 60, min 2%,min 60, min
+section proxi- proxi-
+mately mately
+L—Overall length, approximate 5 125 5¥% 140 5¥% 140 4% 120 Wve 240
+B—Grip section 1% , ap- 35, ap- 1, ap- 25, ap- Ye, ap- 20, ap- Ya , ap- 13, ap- 3, min 75, min
+(Note 2) proxi- proxi- proxi- proxi- proxi- proxi- proxi- proxi-
+mately mately mately mately mately mately mately mately
+C—Diameter of end section % 20 % 20 2%e0 18 % 22 % 20
+E—Length of shoulder and wee % 16 % 20 % 16
+fillet section, approximate
+F—Diameter of shoulder % 16 wee wee % 16 1%e 15
+
+Nore 1—The reduced section may have a gradual taper from the ends toward the center with the ends not more than 0.005 in. (0.10 mm) larger in
+
+diameter than the center.
+
+Nore 2—On Specimen 5 it is desirable, if possible, to make the length of the grip section great enough to allow the specimen to extend into the grips
+a distance equal to two thirds or more of the length of the grips.
+
+Nore 3—The types of ends shown are applicable for the standard 0.500-in. round tension test specimen; similar types can be used for subsize
+specimens. The use of UNF series of threads (34 by 16, 2 by 20, % by 24, and 4 by 28) is suggested for high-strength brittle materials to avoid fracture
+
+in the thread portion.
+
+FIG. 5 Suggested Types of Ends for Standard Round Tension Test Specimens
+
+mc a
+
+G
+R
+DIMENSIONS
+Specimen 1 Specimen 2 Specimen 3
+in. mm in. mm in. mm
+
+G—Length of parallel Shall be equal to or greater than diameter D
+D—Diameter 0.500 + 0.010 12.5+ 0.25 0.750 + 0.015 20.0 + 0.40 1.25 + 0.025 30.0 + 0.60
+R—Radius of fillet, min 1 25 1 25 2 50
+A—Length of reduced section, min 1% 32 1% 38 2% 60
+L—Over-all length, min 3% 95 4 100 6% 160
+B—Grip section, approximate 1 25 1 25 1% 45
+C—Diameter of end section, approximate % 20 1% 30 1% 48
+E—Length of shoulder, min Va 6 Ys 6 he 8
+F—Diameter of shoulder 5 + Vea 16.0 + 0.40 je + Yea 24.0 + 0.40 TAs + Yea 36.5 + 0.40
+
+Note 1—The reduced section and shoulders (dimensions A, D, E, F, G, and R) shall be shown, but the ends may be of any form to fit the holders of
+the testing machine in such a way that the load shall be axial. Commonly the ends are threaded and have the dimensions B and C given above.
+
+FIG. 6 Standard Tension Test Specimens for Cast Iron
+
+591

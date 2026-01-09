@@ -1,0 +1,56 @@
+ASME BPVC.ILA-2025 SA-751
+a Other Similar Medium- and High-Alloy Steels 3.2 Definitions of Terms Specific to This Standard: |
+. E353 Test Methods for Chemical Analysis of Stainless, 3.2.1 product, check, or verification analysis, n—a chemical
+Heat-Resisting, Maraging, and Other Similar Chromium- analysis of the semifinished or finished product, usually for the .
+Nickel-Iron Alloys purpose of determining conformance to the specification re- .
+E354 Test Methods for Chemical Analysis of High- quirements. ,
+Temperature, Electrical, Magnetic, and Other Similar Iron, 3.2.1.1 Discussion—The range of the specified composition
+Nickel, and Cobalt Alloys applicable to product analysis is normally greater than that
+E415 Test Method for Analysis of Carbon and Low-Alloy —_ applicable to heat analysis in order to take into account
+Steel by Spark Atomic Emission Spectrometry deviations associated with analytical reproducibility (Note 1) .
+E548 Guide for General Criteria Used for Evaluating Labo- _and the heterogeneity of the steel. .
+ratory Competence (Withdrawn 2002)
+E572 Test Method for Analysis of Stainless and Alloy Steels Note 1—All of the chemical analysis procedures referenced in these
+by Wavelength Dispersive X-Ray Fluorescence Spectrom- he sxception of Test Methods a with reproducibility data, with
+etry , , ,
+E743 Guide for Spectrochemical Laboratory Quality Assur- 3.2.2 product analy sus toler ances, n—a permissible Varia .
+a ance (Withdrawn 1998) tion over the maximum limit or under the minimum limit of a .
+E851 Practice for Evaluation of Spectrochemical Laborato- specified element and applicable only to product analyses, not ,
+: ries (Withdrawn 1998) | cast or heat analyses (Note 2). :
+E882 Guide for Accountability and Quality Control in the Nore 2—The term “analysis tolerance” is often misunderstood. It does ,
+Chemical Analysis Laboratory not apply to cast or heat analyses determined to show conformance to ,
+E1019 Test Methods for Determination of Carbon, Sulfur, Lenerpareee nos 1 applies only to product analysis and becomes |
+, : : Caningtul onry wnen the heat analysis OF a alis Close to One O
+a ety Varions Combustion ond eke ane nonalt the specified limits, For example, stainless steel UNS 30400 limits for .
+chromium are 18.00 to 20.00 %. A heat that the producer reported as |
+Techniques 18.01 % chromium may be found to show 17.80 % chromium by a user
+E1085 Test Method for Analysis of Low-Alloy Steels by _ performing a product analysis. If the product analysis tolerance for such a
+Wavelength Dispersive X-Ray Fluorescence Spectrometry  “hromium level is 0.20 %, the product analysis of 17.80% chromium .
+E1086 Test Method for Analysis of Austenitic Stainless Steel neveptable acceptable. A product analysis of 17.79 % would not be ,
+by Spark Atomic Emission Spectrometr ,
+oe £1097 Guide for Determination of Various Elements by 3.2.3 proprietary analytical method, n—a non-standard ana-
+j | Direct Current Plasma Atomic Emission Spectrometry lytical method, not published by ASTM, utilizing reference
+‘ E1184 Practice for Determination of Elements by Graphite tani y eNIST) me naan a ot Standards and
+Furnace Atomic Absorption Spectrometr echnology , when available, or other sources refer- ,
+, E1282 Guide for Specifying the Chemical Compositions and enced in Section 10.
+Selecting Sampling Practices and Quantitative Analysis 3.2.4 referee analysis, n—performed using ASTM test
+Methods for Metals, Ores, and Related Materials methods listed in 9.1.1, NIST reference standards or methods, ,
+E1329 Practice for Verification and Use of Control Chartsin and reference standards agreed upon between parties. :
+Spectrochemical Analysis (Withdrawn 2019) 3.2.4.1 Discussion—The selection of a laboratory to per-
+E1476 Guide for Metals Identification, Grade Verification, form the referee analysis shall be a matter of agreement
+and Sorting . between the supplier and the purchaser. |
+E1806 Practice for Sampling Steel and Iron for Determina- 3.2.5 certified reference material, n—a specimen of material
+tion of Chemical Composition | , ;
+22 ISO Standards: specially prepared, analyzed, and certified for chemical content :
+. ISO/IEC 17025 General Requirements for the Competence under the jurisdiction of a recognized standardizing agency or :
+of Testing and Calibration Laboratories group, such as the NIST, for use by analytical laboratories as an |
+\ accurate basis for comparison.
+—— 3. Terminology 3.2.5.1 Discussion—Reference samples should bear suffi-
+3.1 Definitions: cient resemblance to the material to be analyzed so that no
+3.1.1 For definitions of terms used in these test methods and significant differences are required m procedures or corrections
+practices, see Terminology A941. (for example, for interferences or inter-element effects). :
+3.2.6 working reference materials, n—reference materials :
+used for routine analytical control and traceable to NIST |
+standards and other recognized standards when appropriate :
+standards are available. ,
+1235 :

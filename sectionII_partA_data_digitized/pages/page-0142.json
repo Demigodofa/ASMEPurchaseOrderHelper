@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 142,
+  "globalPageIndex": 142,
+  "width": 617.04,
+  "height": 795.6,
+  "text": "SA-20/SA-20M ASME BPVC.II.A-2025 \nTABLE A1.17 Permissible Variations in Width for Mill Edge \nCarbon Steel and High-Strength Low-Alloy Steel Plates Produced \non Strip Mills \nNOTE I-Applies to plates produced from coil and plates produced \nfrom plate-as-rolled. \nSpecified Width, in. Variations \nover SpecifiedWidth, inA \nTo 14, excl \n14 to 17, excl \n17 to 19, excl \n19 to 21, excl \n21 to 24, excl \n24 to 26, excl \n26 to 28, excl \n28 to 35, excl \n35 to 50, excl \n50 to 60, excl \n60 to 65, excl \n65 to 70, excl \n70 to 80, excl \n80 and over \nA No permissible variation under specified width. \n1/16 \n\u00bd \no/1a \n'1/ia \n\"\u00bca \n15/1a \n11/a. \n1\u00bc \n1\u00bd \n15/a \n1\u00be \nFla \n2 \nA2. PERMISSIBLE VARIATIONS IN DIMENSIONS, ETC.-SI UNITS \nA2.1 Listed herein are permissible variations in dimensions, \nand notch toughness information, expressed in SI units. \n90 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 1,
+  "tabulaTablesPath": "tables_tabula/page-0142.json",
+  "tabulaTablesCsv": "tables_tabula/page-0142.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-0142.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 835,
+  "bestTextAlphaRatio": 0.6228
+}

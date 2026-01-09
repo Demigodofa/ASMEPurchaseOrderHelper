@@ -1,0 +1,12 @@
+SA-770/SA-770M ASME BPVC.II.A-2025 
+area values when below a minimum value. This minimum 
+value may be from 1.5 to 2.5, depending on the material. 
+Below this minimum value, the reduction at the failure point in 
+the reduced section is restrained by the larger cross section 
+away from the reduced section. A minimum slenderness ratio 
+of 2 was selected for the standard Type 2 specimen to allow a 
+0.500-in. (12.5-mm] diameter specimen to be used on a 1-in. 
+[25-mm] plate. A minimum slenderness ratio of 2.5 was 
+selected for the collar-button specimens (Types D, E, and F) to 
+ensure that this effect is minimized for these test specimens. 
+1250 

@@ -1,0 +1,59 @@
+SA-370 . ASME BPVC.II.A-2025
+18.3 Test Blocks—Machines should be checked to make (2) 72 HRBW/P where 72 is the hardness test result using _
+certain they are in good order by means of standardized — the Rockwell B portable test method using a tungsten carbide
+Rockwell test blocks. ball indenter.
+18.4 Detailed Procedure—For detailed requirements of this “1 230 nD na 000 exam on is the hardness test
+test, reference shall be made to the latest revision of Test ,
+Methods E18. result using the Brinell portable test method with a ball of
+10 mm diameter and with a test force of 3000 kgf (29.42 kN)
+applied for 10 to 15 s.
+19. Portable Hardness Test (2) 350 HBW/P 5/750 where 350 is the hardness test result
+19.1 Although this standard generally prefers the use of | using the Brinell portable test method with a ball of 5 mm
+fixed-location Brinell or Rockwell hardness test methods, itis diameter and with a test force of 750 kgf (7.355 KN) applied for
+not always possible to perform the hardness test using such 10 to 15s.
+equipment due to the part size, location, or other logistical CHARPY IMPACT TESTING
+reasons. In this event, hardness testing using portable equip-
+ment as described in Test Methods A956/A956M, A1038, and _
+E110 shall be used with strict compliance for reporting the test 20. Summary } ,
+results in accordance with the selected standard (see examples 20.1 A Charpy V-notch impact test is a dynamic test in
+below). which a notched specimen is struck and broken by a single
+19.1.1 Practice A833—The measured hardness number blow in a specially designed testing machine. The measured
+shall be reported in accordance with the standard methods and _ test values may be the energy absorbed, the percentage shear
+given the HBC designation followed by the comparative test fracture, the lateral expansion opposite the notch, or a combi-
+bar hardness to indicate that it was determined by a portable ation thereof.
+comparative hardness tester, as in the following example: 20.2 Testing temperatures other than room (ambient) tem-
+19.1.1.1 232 HBC/240, where 232 is the hardness test result | perature often are specified in product or general requirement
+using the portable comparative test method (HBC) and 240 is — specifications (hereinafter referred to as the specification).
+the Brinell hardness of the comparative test bar. Although the testing temperature is sometimes related to the
+19.1.2 Test Method A956/A956M: expected service temperature, the two temperatures need not be
+19.1.2.1 The measured hardness number shall be reported in identical.
+accordance with the standard methods and appended with a .
+Leeb impact device in parenthesis to indicate that it was 21. Significance and Use
+determined by a portable hardness tester, as in the following 21.1 Ductile Versus Brittle Behavior—Body-centered-cubic
+example: or ferritic alloys exhibit a significant transition in behavior
+(1) 350 HLD where 350 is the hardness test result using the |= when impact tested over a range of temperatures. At tempera-
+portable Leeb hardness test method with the HLD impact tures above transition, impact specimens fracture by a ductile
+device. (usually microvoid coalescence) mechanism, absorbing rela-
+19.1.2.2 When hardness values converted from the Leeb _ tively large amounts of energy. At lower temperatures, they
+number are reported, the portable instrument used shall be fracture in a brittle (usually cleavage) manner absorbing
+reported in parentheses, for example: appreciably less energy. Within the transition range, the frac-
+(1) 350 HB (HLD) where the original hardness test was ture will generally be a mixture of areas of ductile fracture and
+performed using the portable Leeb hardness test method with brittle fracture.
+the HLD impact device and converted to the Brinell hardness 21.2 The temperature range of the transition from one type
+value (HB). of behavior to the other varies according to the material being
+19.1.3 Test Method Al038—The measured hardness number _ tested. This transition behavior may be defined in various ways |
+shall be reported in accordance with the standard methods and _for specification purposes. oe
+appended with UCI in parenthesis to indicate that it was 21.2.1 The specification may require a minimum test result
+determined by a portable hardness tester, as in the following _for absorbed energy, fracture appearance, lateral expansion, or
+example: a combination thereof, at a specified test temperature.
+, 19.1.3.1 446 HV (UCI) 10 where 446 is the hardness test 21.2.2 The specification may require the determination of
+result using the portable UCI test method under a force of the transition temperature at which either the absorbed energy
+10 kef. , or fracture appearance attains a specified level when testing is
+19.1.4 Test Method E110—The measured hardness number Performed over a range of temperatures. Alternatively the
+shall be reported in accordance with the standard methods and Specification may require the determination of the fracture
+appended with a /P to indicate that it was determined by a  Ppearance transition temperature (FATTn) as the temperature
+portable hardness tester, as follows: at which the required minimum percentage of shear fracture (n)
+19.1.4.1 Rockwell Hardness Examples: is obtained.
+(1) 40 HRC/P where 40 is the hardness test result using the 21.3 Further information on the significance of impact
+Rockwell C portable test method. testing appears in Annex A5. 7
+602

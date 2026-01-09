@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 705,
+  "globalPageIndex": 1503,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "ASME BPVC.II.A-2025 SA-985/SA-985M \nFIG. S26.2 SEPARATELY CAST BLOCK \nI \n11 T 11 Min \n~~~--_J .x:xXx.xx\u00b7.xxxxx x )()( yy xx \nX XY XXXX Y \nXX X X ~ \nXX X \n)( \" X X '). X Y-Z:,,. \nX \n) \n> \n)( \nI \nT 11 Mln. \ni i \n1<11\u25c4--------3 11 T 11 Min.----------~ I /4\u00b0T 11 Min. \nNOTE - Longitudinal axis and gage length of test specimen must be within cross-hatched zone. \n1449 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 1,
+  "bestTextPath": "best_text/pages/page-1503.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 364,
+  "bestTextAlphaRatio": 0.4753
+}

@@ -1,0 +1,52 @@
+~-
+__ .......-----------, 
+----------
+ASME BPVC.II.A-2025 
+TABLE 2 
+REJECTION LEVEL 
+Area, in. 2 
+[cm 2 J Length, 
+Ultrasonic Testing (see 10.2.1 and max, in. 
+Quality Level 10.2.2) [mm] 
+l 0.8 [5] 1.5 [40] 
+2 1.5 [20] 2.2 [55] 
+3 3 [20] 3.0 [75] 
+4 5 [30] 3.9 [100] 
+5 8 [50] 4.8 [120] 
+6 12 [80] 6.0 [150] 
+7 16 [l00J 6.9 [175] 
+NOTE l - The areas in the table refer to the surface area on the casting over which a continuous indica­
+tion exceeding the amplitude reference line or a continuous loss of back reflection of 75% or greater is 
+maintained. 
+NOTE 2 - Areas shall be measured from the center of the search unit. 
+NOTE 3 - In certain castings, because of very long test distances or curvature of the test surface, the 
+casting surface area over which a given discontinuity is detected may be considerably larger or smaller 
+than the actual area of the discontinuity in the casting; in such cases a graphic plot that incorporates a 
+consideration of beam spread should be used for realistic evaluation of the discontinuity. 
+TABLE 3 
+ACCEPTANCE CRITERIA FOR SINGLE ISOLATED INDICATIONS 
+Quality Level Maximum Non-Linear Position of 
+Indication, Area, in. 2 [cm 2 J Indication 
+l 0 E 
+2 1[6] E 
+3 1[6] 0 
+2 [13] C 
+4 3 [19] E 
+5 3 [lg] 0 
+5 [32] C 
+6 5 [32] E 
+7 5 [32] 0 
+7 [45] C 
+8 7 [45] E 
+9 7 [45] 0 
+9 [58] C 
+10 9 [58] E 
+11 9 [58] 0 
+11 [71] C 
+NOTES: 
+Cl) The area measured by movement of the center of the transducer over the casting surface. 
+(2) 0 = outer wall ¼, or inner wall¼. 
+C = mid wall¼. 
+E = entire wall. 
+1043 
+SA-609 /SA·609M 

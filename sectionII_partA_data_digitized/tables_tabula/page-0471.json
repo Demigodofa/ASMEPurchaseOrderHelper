@@ -1,0 +1,749 @@
+[
+  {
+    "rows": [
+      [
+        "Bar",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Minimum Maximum Minimum",
+        "Maximum",
+        "",
+        "min, ksi"
+      ]
+    ]
+  },
+  {
+    "rows": [
+      [
+        "0.88 (23) 0.85 (22)",
+        "0.96 (25) 5.0 (125)",
+        "6.0 (1.50)",
+        "",
+        "",
+        "No. 25 25",
+        ""
+      ],
+      [
+        "1.20 (33) 1.14(32)",
+        "1.32 (36) 7.0 {150)",
+        "9.0 (230)",
+        "",
+        "",
+        "No. 30 30",
+        ""
+      ],
+      [
+        "2.00 (54) 1.90 (53)",
+        "2.10 (58) 6.0 (175)",
+        "10.0 (255)",
+        "",
+        "",
+        "No. 35 35",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "No. 40 40",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "No. 45 45",
+        ""
+      ],
+      [
+        "A All dimensions of Test Bar S shall be agreed upon by the manufacturer and the",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "No. 50 50",
+        ""
+      ],
+      [
+        "purchaser.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "No.55 55",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "No. 60 60",
+        ""
+      ],
+      [
+        "TABLE 2 Stress Relieving Requirements",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Class Metal Temperature, \u00b0F",
+        "Holding Time, hA",
+        "",
+        "",
+        "",
+        "TABLE 4 Tensile Requirements (SI)",
+        ""
+      ],
+      [
+        "",
+        "oc",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Class Tensile Strengt",
+        ""
+      ],
+      [
+        "40, 45, 50, 55, 60 1050 to 1200",
+        "2",
+        "12",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "min, MPa",
+        ""
+      ],
+      [
+        "(275, 300, 325, 350, (565 to 650)",
+        "(2 min)8",
+        "(12 max)8",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "380, 415)",
+        "",
+        "",
+        "",
+        "",
+        "No. 150 150",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "No. 175 175",
+        ""
+      ],
+      [
+        "A In no case shall the holding time be",
+        "less than 1 h/in. of maximum",
+        "metal",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "No.200 200",
+        ""
+      ],
+      [
+        "section, or in excess of 12 h max, dependent upon which governs.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "No.225 225",
+        ""
+      ],
+      [
+        "8 In no case shall the holding time be less than",
+        "1 h for every 25-mm metal",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "No.250 250",
+        ""
+      ],
+      [
+        "section, or in excess of 12 h max, depending upon which governs.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "No.275 275",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "No. 300 300",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "No. 325 325",
+        ""
+      ],
+      [
+        "accordance with 6.1 or they shall be cooled in the mold to",
+        "",
+        "",
+        "",
+        "",
+        "No. 350 350",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "No. 380 380",
+        ""
+      ],
+      [
+        "500\u00b0F at m1 average rate of not more than 100\u00b0F/h for castings",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "No. 415 415",
+        ""
+      ],
+      [
+        "up to 1 in. in section.",
+        "For heavier sections the",
+        "maximum",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "cooling rate in degrees",
+        "Fahrenheit per hour shall",
+        "be 100",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "divided by the maximum section thickness.",
+        "",
+        "",
+        "",
+        "represented.",
+        "The size of the test bar to be poure",
+        ""
+      ],
+      [
+        "6.2.2 Castings of Class Nos. 275, 300, 325, 350, 380, and",
+        "",
+        "",
+        "",
+        "selected by the purchaser using Table 5. In the event",
+        "",
+        ""
+      ],
+      [
+        "415, which are to be used at temperatures below 230\u00b0C, may be",
+        "",
+        "",
+        "",
+        "is made, the selection will be made by the manufac",
+        "",
+        ""
+      ],
+      [
+        "heat treated in accordance with 6.1 or they shall be cooled in",
+        "",
+        "",
+        "",
+        "9.2 Separately cast test bars shall be heat treated i",
+        "",
+        ""
+      ],
+      [
+        "the mold to 250\"C at an average rate of not more than 50\u00b0C/h",
+        "",
+        "",
+        "",
+        "furnace together with the castings represented.",
+        "",
+        ""
+      ],
+      [
+        "for castings up to 25-mm in section. For heavier sections the",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "maximum cooling rate in degrees Celsius per hour shall be",
+        "",
+        "",
+        "",
+        "9.3 At the option of the manufacturer, test coupo",
+        "",
+        ""
+      ],
+      [
+        "1250 divided by the maximum section thickness.",
+        "",
+        "",
+        "",
+        "removed from the casting at a location agreed npo",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "the manufacturer and purchaser.",
+        "",
+        ""
+      ],
+      [
+        "7. Chemical Composition",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "9.4 Castings weighing in excess of 2000 lb may",
+        "",
+        ""
+      ],
+      [
+        "7.l Carbon Equivalent:",
+        "",
+        "",
+        "",
+        "sented either by separately cast test bars (9.l) or by",
+        "",
+        ""
+      ],
+      [
+        "7.1.1 Class 40, 45, 50,",
+        "55, and 60 castings intended for",
+        "",
+        "",
+        "cast test bars having a cooling rate closely approxi",
+        "",
+        ""
+      ],
+      [
+        "service above 450\u00b0F (230\u00b0C) shall have a maximum carbon",
+        "",
+        "",
+        "",
+        "of the controlling section of the casting.",
+        "",
+        ""
+      ],
+      [
+        "equivalent of 3.8 % as calculated from the equation CE = %C",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "9.5 For castings weighing in excess of 10 000 lb",
+        "",
+        ""
+      ],
+      [
+        "+ 0.3 (%Si + %P). The",
+        "maximum phosphorus",
+        "and sulfm",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "a controlling",
+        "section greater than 2 in., test",
+        "bar"
+      ],
+      [
+        "contents shall be 0.25 % and 0.12 %, respectively.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "removed from the casting or integral projections hav",
+        "",
+        ""
+      ],
+      [
+        "7.1.2 Class 275, 300,",
+        "325, 350, 380, and 415",
+        "castings",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "section no less",
+        "than the controlling section. The",
+        ""
+      ],
+      [
+        "intended for service above",
+        "230\u00b0C shall have a",
+        "maximum",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "tensile strength",
+        "requirement for tension tests",
+        "per"
+      ],
+      [
+        "carbon equivalent of 3.8 % as calculated from the equation CE",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "either of these test bars shall be 80 % of the specif",
+        "",
+        ""
+      ],
+      [
+        "= %C + 0.3 (%Si + %P). The maximum phosphorus and sulfur",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "contents shall be 0.25 % and 0.12 %, respectively.",
+        "",
+        "",
+        "",
+        "10. Molding and Pouring Test Bars",
+        "",
+        ""
+      ],
+      [
+        "7.2 The chemical analysis for total carbon shall be made on",
+        "",
+        "",
+        "",
+        "10.1 The test bars shall be cast in dried siliceous",
+        "",
+        ""
+      ],
+      [
+        "either chilled cast pencil-type",
+        "specimens or thin wafers",
+        "ap\u00ad",
+        "",
+        "maintained",
+        "at approximately room temperature.",
+        ""
+      ],
+      [
+        "proximately 1\u204422 in. thick cut from test coupons. Drillings shall",
+        "",
+        "",
+        "",
+        "design for a mold is shown in Fig. 1.",
+        "",
+        ""
+      ],
+      [
+        "not be used because of attendant loss of graphite.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "TABLE 5 Separately Cast Test Bars for Use When a",
+        "",
+        ""
+      ],
+      [
+        "8. Tensile Requirements",
+        "",
+        "",
+        "",
+        "Correlation Has Not Been Established Between the Te",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "the Casting",
+        ""
+      ],
+      [
+        "8.1 Iron used in supplying castings to this specification shall",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "Thickness of the Wall of the Controlling",
+        "Test Bar",
+        ""
+      ],
+      [
+        "conform to the tensile requirements prescribed in Table 3 and",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "Section of the Casting, in. (rnm)",
+        "",
+        ""
+      ],
+      [
+        "Table 4.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "Under 0.25 (6)",
+        "s",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "0.25 to 0.50 (6 to 12)",
+        "A",
+        ""
+      ],
+      [
+        "9. Test Bars",
+        "",
+        "",
+        "",
+        "0.51 to 1.00 (13 to 25)",
+        "B",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "1.01 to 2 (26 to 50)",
+        "C",
+        ""
+      ]
+    ]
+  },
+  {
+    "rows": [
+      [
+        "415, which are to be used at temperatures below 230\u00b0C, may be",
+        "",
+        "is made, the selection will be made by the manufacturer."
+      ],
+      [
+        "heat treated in accordance with 6.1 or they shall be cooled in",
+        "",
+        "9.2 Separately cast test bars shall be heat treated in the same"
+      ]
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 182,
+  "globalPageIndex": 182,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "SA-47 /SA-47M ASME BPVC.II.A-2025 \nSPECIFICATION FOR FERRITIC MALLEABLE IRON \nCASTINGS \nSA-47 /SA-47M \n[Identical with ASTM Specification A47/A 47M-99(2018)'1, except for the deletion of welded repair references in 11.2 and 11.3, and mandatory \ncertification in 14.1.) \n1. Scope \n1.1 This specification covers ferritic malleable castings \nfor general engineering usage at temperatures from normal \nambient to approximately 400\u00b0C (750\u00b0F). \n1.2 No precise quantitative relationship can be stated \nbetween the properties of the iron in various locations of \nthe same casting and those of a test specimen cast from \nthe same iron (see Appendix Xl). \n1.3 The values stated in either inch-pound units or SI \nunits are to be regarded separately as standard. Within the \ntext, the SI units are shown in brackets. The values stated \nin each system are not exact equivalents; therefore, each \nsystem shall be used independently of the other. Combining \nvalues from the two systems may result in nonconfonnance \nwith the specification. \n2. Referenced Documents \n2.1 ASTM Standards: \nA 153 Specification for Zinc Coating (Hot-Dip) on Iron \nand Steel Hardware \nA 247 Test Method for Evaluating the Microstructure of \nGraphite in Iron Castings \nA 644 Terminology Relating to Iron Castings \nE 8 Test Methods for Tension Testing of Metallic Materials \nE 10 Test Method for Brinell Hardness of Metallic Mate-\nrials \nE 18 Test Methods for Rockwell Hardness and Rockwell \nSuperficial Hardness of Metallic Materials \nE 140 Hardness Conversion Tables for Metals \n2.2 Military Standard: \nMIL-STD-129 Marking for Shipment and Storage \n2.3 Federal Standard: \nFed. Std. No. 123 Marking for Domestic Shipment (Civil\u00ad\nian Agencies) \n130 \n3. Terminology \n3.1 Definitions - Definitions for many terms common \nto iron are found in Terminology A 644. \n4. Classification \n4.1 Castings ordered and produced under this specifi\u00ad\ncation are classified under the following grades based on \ntests on separately cast test bars. Separately cast test bars \nshall be poured from the same lot of iron as the castings \nthey represent and shall be heat treated with those castings \nexcept as provided in 7.2.3. \n4.1.1 Grade 32510 [Grade 22010]: \n4.1.1.1 The first three digits of the grade designa\u00ad\ntion indicate the minimum yield strength (X 100 psi [MPa]) \nand the last two digits indicate the minimum elongation \n(% in 2 in. [50 mm]). \n5. Ordering Information \n5.1 The purchase order for castings ordered under this \nspecification shall state the specification designation, the \nyear in which the specification was issued, and the grade \nof malleable iron to be supplied. Any option or special \nadditions to the basic requirements of this specification \nshall be clearly and fully stipulated. \n6. Chemical Composition \n6.1 The chemical composition of the iron shall be such \nas to produce the structural and mechanical properties \nrequired by this specification. \n7. Mechanical Properties \n7.1 Factors influencing the properties of castings and \ntheir relationship to those of test specimens and separate \ntest castings are discussed in Appendix Xl. ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0182.json",
+  "tabulaTablesCsv": "tables_tabula/page-0182.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-0182.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 3108,
+  "bestTextAlphaRatio": 0.7535
+}

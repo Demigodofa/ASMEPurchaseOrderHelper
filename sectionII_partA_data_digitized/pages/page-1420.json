@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 622,
+  "globalPageIndex": 1420,
+  "width": 793.2,
+  "height": 613.92,
+  "text": "I-'-\nw \n(.fl \nco \nTABLE 1 Chemical RequirementsA \nElement Composition, % \nGrade A Grade B Grade C Grade D \nCarbon 0.20 0.15 0.10 0.09 \nManganese \nt s 1.5 in. [40 mm] 0.70-1.35c 0.70-1.35c 0.70-1.60 1.00-2.00 \nt > 1.5 in. [40 mm] 1.00-1.60 1.00-1.60 1.00-1.60 D \nPhosphorus 0.030 0.030 0.030 0.010 \nSulfur 0.030 0.025 0.015 0.005 \nSilicon 0.15-0.50 0.15-0.50 0.15-0.50 0.05-0.25 \nCopper 0.35 0.35 0.35 0.50 \nNickel 0.25 0.60 0.25 1.0-5.0 \nChromium 0.25 0.25 0.25 0.30 \nMolybdenum 0.08 0.30 0.08 0.40 \nColumbium (Niobium)F 0.03 0.03 0.06 0.05 \nVanadium 0.06 0.06 0.06 0.02 \nTitanium G G 0.006-0.02 0.006-0.03 \nBoron 0.0005-0.002 \nAluminum, min 0.020 total or 0.020 total or \nO.Q15 acid 0.015 acid \nsolubleG solubleG \nA Values are maximums unless a minimum or a range is indicated. Where empses appear in this table, there is no requirement. \nGrade E \n0.07 \n0.70-1.60 \nD \nO.Q15 \n0.005 \n0.05-0.30 \n0.35 \n0.60 \n0.30 \n0.30 \n0.08 \n0.06 \nG \n0.0007 \n0.020 total or \n0.015 acid \nsolubleG \nGrade F \n0.10 8 \n1.1CJ....1.70 8 \nD \n0.020 \n0.008 \n0.10-0.45 \n0.40 \n0.85 \n0.30 \n0.50 \n0.10 \n0.09 \nH \n0.0007 \n0.020 total or \n0.015 acid \nsolubleH \nGrade G \n0.13 \n0.60-1.20 \n0.60-1.20 \nO.Q15 \n0.015 \n0.04--0.15E \n6.0-7.5 \n0.30-1.00 \n0.30 \nE \n0.008 acid soluble \n8 For each reduction of 0.01 percentage point below the specified maximum for carbon, an increase of 0.06 percentage points above the specified maximum for manganese is permitted, up to a maximum of 1.85 %. \nc Manganese may exceed 1.35 % on heat analysis, up to a maximum of 1.60 %, provided that the carbon equivalent on heat analysis does not exceed 0.47 %, or the value specified in Supplementary Requirement S77 \nwhen that requirement is invoked, when based on the following formula: \nCE= C+Mn/6+(Cr+Mo+ V)-!5+(Ni+Cu)l15% \nWhen this option is exercised, the manganese content on product analysis shall not exceed the heat analysis content by more than 0.12 percentage points. \n0 Not applicable. \nE Silicon may be less than 0.04 %, provided that total aluminum is 0.030 % or over, or provided acid soluble aluminum is 0.025 % or over. \nF Columbium and niobium are interchangeable names for the same element and both names are acceptable in A01 specifications. \nG By agreement, the steel may be produced with titanium, in which case the minimum aluminum content shall not apply. When this option is exercised, the titanium content, by heat analysis, shall be 0.006 % to 0.02 %, \nand the actual titanium content shall be reported on the test report. \nH By agreement, the steel may be produced with titanium, in which case the minimum aluminum content shall not apply. When this option is exercised, the titanium content, by heat analysis, shall be 0.006 % to 0.03 %, \nand the actual titanium content shall be reported on the test report. \n( ) \n~ \nCX) \n\"\" ~ \n~ \n~ \n~ \n:: \n~ :: \ntO! \n~ ;.., \n~ N c:, \nN \nU1 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1420.json",
+  "tabulaTablesCsv": "tables_tabula/page-1420.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-1420.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2845,
+  "bestTextAlphaRatio": 0.5536
+}

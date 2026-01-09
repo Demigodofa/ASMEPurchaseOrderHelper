@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 176,
+  "globalPageIndex": 974,
+  "width": 629.4,
+  "height": 805.44,
+  "text": "SA-516/SA-516M ASME BPVC.II.A-2025 \nSUPPLEMENTARY REQUIREMENTS \nSupplementary requirements shall not apply unless specified in the purchase order. \nA list of standardized supplementary requirements for use at the option of the purchaser is included \nin ASTM Specification A20/A20M. Those that are considered suitable for use with this specification \nare listed below by title. \nS 1. Vacuum Treatment, \nS2. Product Analysis, \nS3. Simulated Post-Weld Heat Treatment of Mechanical \nTest Coupons, \nS4.1 Additional Tension Test, \nSS. Charpy V-Notch Impact Test, \nS6. Drop Weight Test (for Material 0.625 in. [16 mm] and \nover in Thickness), \nS7. High-Temperature Tension Test, \nS8. Ultrasonic Examination in accordance with Specifica\u00ad\ntion A435/A435M, \nS9. Magnetic Particle Examination, \nS 11. Ultrasonic Examination in accordance with Specifica\u00ad\ntion A577 / A577M, \nS 12. Ultrasonic Examination in accordance with Specifica\u2022\u00ad\ntion A578/A578M, and \nS 17. Vacuum Carbon-Deoxidized Steel. \nADDITIONAL SUPPLEMENTARY REQUIREMENTS \nIn addition, the following supplementary requirement is suitable for this application. \nS54. Requirements for Carbon Steel Plate for Hydrofluoric \nAcid Aikylation Service \nS54.l Plates shall be provided in the normalized heat\u00ad\ntreated condition. \nS54.2 The maximum carbon equivalent (CE) shall be as \nfollows: \nPlate thickness less than or equal to 1 in. [25 mm]: \nCE maximum = 0.43 \nPlate thickness greater than 1 in. [25 mm]: \nCE maximum= 0.45 \nS54.3 Determine the CE as follows: \nCE= C+Mn/6+(Cr+Mo+V)/5+(Ni+Cu)/l5 \nMaximum niobium = 0.02 % \nMaximum vanadium plus niobium= 0.03 % \n(Note: niobium= columbium.) \nS54.5 The maximum composition based on heat analysis of \nni~kel (Ni) plus copper (Cu) shall be 0.15 %. \nS54.6 The minimum carbon (C) content based on heat \nanalysis shall be 0.18 %. The maximum C content shall be as \nspecified for the ordered grade. \nS54.7 Welding consumables for repair welds shall be of the \nlow-hydrogen type. E60XX electrodes shall not be used and \nthe resulting weld chemistry shall meet the same chemistry \nrequirements as the base metal. \nS54.4 Vanadium (V) and niobium (Nb) maximum content \nbased on heat analysis shall be: \nS54.8 In addition to the requirements for product marking in \nthe specification, an \"HF-N\" stamp or marking shall be \nprovided on each plate to identify that the plate complies with_ \n- -thinuppleinenfafyrequiremeri.t:-----~---Maximum-vanadiu-m~-{J,02---%~----\n874 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-0974.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2450,
+  "bestTextAlphaRatio": 0.7245
+}

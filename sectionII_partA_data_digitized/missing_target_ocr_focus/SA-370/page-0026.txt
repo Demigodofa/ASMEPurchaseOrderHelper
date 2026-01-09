@@ -1,0 +1,43 @@
+SA-370 ASME BPVC.ILA-2025
+sp ; ~—BILLOF MATERIAL | _~
+ee | ee OO oe
+i the if nn”: rs re
+i teed nie PAD @)
+1; f | hast | g-~ NOTE: THESE SURFACES TO BE ON SAME
+SEE DETAIL B pb” | rE ip | b PLANE ~ LAP AT ASSEMBLY
+Lesnems tees | me ‘ _rnaacreccranmnonine Ny, F STARRETT CONTACT POENT
+a | LAV rh. en, = ~* , | f/f St a
+45° f 1S ocnannsinsnsinnsionan oe an cca. See
+; va es a DETAIL BL(ENLARGED)
+ON DETAIL A (ENLARGED) gm DRILL & TAP 1/4 20 NC~ 2
+en ae SEE DETAIL AS 75 nt waensesosseee DRILL, (281) DU
+a: | pe NY: SSNVINS: Sn “\e——--(3) 1.) FLASH CHROME PLATE ITEMS 1 & 2
+Loewe beeen 2H 1 AA 2.) DIAL INDICATOR- STARRETT NO. 25-241
+EE _ nS) | RANGE .001 ~ 250
+we RETER ASS"Y, OF TTEMS 1&2, CEMENT = RELL (437) DIA, E202 page tet (0487) DIA. x31 DEEP CONTACT POINT NO.2
+RUBBER PAD (ITEM 3} TO BASE ’ i “
+FIG. 17 Assembly and Details for Lateral Expansion Gauge
+using the procedures in Section 26. Record each test tempera- 27.3 When subsize specimens are permitted or necessary, or
+. ture to the nearest 1 °F (0.5 °C). , both, modify the specified test requirement according to Table
+27.2.1.2 Plot the individual test results (ft-lbf or percent 9 or test temperature according to ASME Boiler and Pressure
+shear) as the ordinate versus the corresponding test temperature Vessel Code, Table UG-84.2, or both. Greater energies or lower
+as the abscissa and construct a best-fit curve through the plotted — test temperatures may be agreed upon by purchaser and
+data points. supplier.
+27.2.1.3 If transition temperature is specified as the tem-
+perature at which a test value is achieved, determine the 49 Records
+temperature at which the plotted curve intersects the specified
+test value by graphical interpolation (extrapolation is not 28.1 The test record should contain the following informa- |
+permitted). Record this transition temperature to the nearest | tion as appropriate: 7
+5 °F (3 °C). If the tabulated test results clearly indicate a 28.1.1 Full description of material tested (that is, specifica- 7
+transition temperature lower than specified, it is not necessary —_ tion number, grade, class or type, size, heat number).
+to plot the data. Report the lowest test temperature for which 28.1.2. Specimen orientation with respect to the material
+. test value exceeds the specified value. axis
+27.2.1.4 Accept the test result if the determined transition 38 13 Spec;
+temperature is equal to or lower than the specified value. 1.9 specimen size.
+27.2.1.5 If the determined transition temperature is higher 28.1.4 Test temperature and individual test value for each
+than the specified value, but not more than 20 °F (12 °C) higher specimen broken, including initial tests and retests.
+than the specified value, test sufficient samples in accordance 28.1.5 Test results.
+with Secon 26 to plot two seetnonal cunyes Ate oe ae 28.1.6 Transition temperature and criterion for its
+results if the temperatures determine from both additiona determination, including initial tests and retests.
+tests are equal to or lower than the specified value. ,
+608

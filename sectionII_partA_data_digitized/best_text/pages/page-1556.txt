@@ -1,0 +1,77 @@
+SA-1008/SA-1008M (ASTM A1008/A1008M) ASME BPVC.II.A-2025 
+TABLE 3 Typical Ranges of Mechanical PropertiesA (Nonmandatory) 8 for Cold Rolled Steel Sheet Designations CS, DS, DDS, and EDDS 
+(Includes Grades In Accordance With Specification A568/A568M Table X2.3) 
+Yield Strengthc Elongation in 
+Designation 2in. rm Value 0 n-ValueE 
+ksi MPa [50 mm] %c 
+CS Types A, B, and C 2D-40 [140-275] .a:30 F F 
+DS Types A and B 22-35 [150-240] .a:36 1.3-1.7 0.17-0.22 
+DDS 17-29 [115-200] .a:38 1.4-1.8 0.20-0.25 
+EDDS 15-25 [105-170] .a:40 1.7-2.1 0.23-0.27 
+A These typical mechanical properties apply to the full range of steel sheet thicknesses. The yield strength tends to increase, the elongation decreases and some of the 
+formability values tend to decrease as the sheet thickness decreases. 
+8 The typical mechanical property values presented here are nonmandatory. They are provided to assist the purchaser in specifying a suitable steel for a given application. 
+Values outside of these ranges are to be expected. 
+c Yield Strength and elongation are measured in the longitudinal direction in accordance with Test Methods and Definitions A370. 
+0 Average plastic strain ratio (rm value) as determined by Test Method E517. 
+EThe strain hardening exponent (n-value) as determined by Test Method E646. 
+F No typical properties have been established. 
+TABLE 4 Mechanical Property RequirementsA for Cold Rolled 
+Steel Sheet Designations SS, HSLAS, and HSLAS-F 
+Yield Strength, Tensile Elongation 
+in 
+Designation min Strength, min 2 in. or 
+ksi [MPa] ksi [MPa] 50mm, 
+min,% 
+SS: 
+Grade 25 [170] 25 [170] 42 [290] 26 
+Grade 30 [205] 30 [205] 45 [310] 24 
+Grade 33 [230] Types 1 and 2 33 [230] 48 [330] 22 
+Grade 40 [275] Types 1 and 2 40 [275] 52 [360] 20 
+Grade 45 [310] 45 [310] 60 [410] 20 
+Grade 50 [340] 50 [340] 65 [450] 18 
+Grade 60 [410] 60 [410] 75 [520] 12 
+Grade 70 [480] 70 [480] 85 [585] 6 
+Grade 80 [550] 80 8 [550] 82 [565] C 
+HSLAS: 
+Grade 45 [310] Class 1 45 [310] 60 [410] 22 
+Grade 45 [310] Class 2 45 [310] 55 [380] 22 
+Grade 50 [340] Class 1 50 [340] 65 [450] 20 
+Grade 50 [340] Class 2 50 [340] 60 [410] 20 
+Grade 55 [380] Class 1 55 [380] 70 [480] 18 
+Grade 55 [380] Class 2 55 [380] 65 [450] 18 
+Grade 60 [41 OJ Class 1 60 [410] 75 [520] 16 
+Grade 60 [410] Class 2 60 [410] 70 [480] 16 
+Grade 65 [450] Class 1 65 [450] 80 [550] 15 
+Grade 65 [450] Class 2 65 [450] 75 [520] 15 
+Grade 70 [480] Class 1 70 [480] 85 [585] 14 
+Grade 70 [480] Class 2 70 [480] 80 [550] 14 
+HSLAS-F: 
+Grade 50 [340] 50 [340] 60 [410] 22 
+Grade 60 [410] 60 [410] 70 [480] 18 
+Grade 70 [480] 70 [480] 80 [550] 16 
+Grade 80 [550] 80 [550] 90 [620] 14 
+A For coil products, testing by the producer is limited to the end of the coil. 
+Mechanical properties throughout the coil shall comply with the minimum values 
+specified. 
+8 On this full-hard product, the yield strength approaches the tensile strength and 
+since there is no halt in the gauge or drop in the beam, the yield point shall be 
+taken as the yield stress at 0.5 % extension under load. 
+0 There is no requirement for elongation In 2 in. for SS Grade 80. 
+8.2.3 Tension Tests: 
+8.2.3.1 Requirements-Material as represented by the test 
+specimen shall conform to the mechanical property require­
+ments specified in Table 4. These requirements do not apply to 
+the uncropped ends of unprocessed coils. 
+of finished material from each strength grade produced from a 
+single heat is less than 50 tons [45 000 kg], one test shall be 
+made. When the finished material rolled from a heat of 50 tons 
+[45 000 kg] or greater differs by more than 0.020 in. [0.51 mm] 
+in thickness, one tension test shall be made from the thickest 
+and thinnest material. When the finished material rolled from a 
+heat of less than 50 tons [45 000 kg], differs by 0.020 in. 
+[0.51 mm] or less in thickness, one test shall be made. When 
+8.2.3.2 Number of Tests-Two tension tests shall be made 
+from each strength grade of finished material produced from a 
+single heat of 50 tons [ 45 000 kg] or greater. When the amount 
+1502 

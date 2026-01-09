@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 270,
+  "globalPageIndex": 1068,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "SA-564/SA-564M ASME BPVC.II.A-2025 \ntreated as required in 5 .1. Unless otherwise specified in \nthe purchase order, the condition of hardening heat treat\u00ad\nment shall be at the option of the producer. The tests shall \nmeet the requirements of Table 4. \n8.3 When specified in the purchase order, the impact \ntest shall consist of testing three Charpy V-notch Type A \nspecimens in accordance with Methods and Definitions \nA 370. The specimens shall be heat treated in accordance \nwith 5.1. Unless otherwise specified in the purchase order, \nthe condition of hardening heat treatment shall be at the \n968 \noption of the producer and testing shall be done at 70 to \n80\u00b0F [20 to 25\u00b0C]. The tests shall meet the requirements \nof Table 4. When tested at temperatures other than 70 to \n80\u00b0F, [20 to 25\u00b0C] the impact test requirements will be as \nagreed upon by purchaser and producer. \n9. Keywords \n9.1 age-hardening stainless steel; precipitation harden\u00ad\ning stainless steel; stainless steel bars; stainless steel shapes ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1068.json",
+  "tabulaTablesCsv": "tables_tabula/page-1068.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-1068.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1013,
+  "bestTextAlphaRatio": 0.7423
+}

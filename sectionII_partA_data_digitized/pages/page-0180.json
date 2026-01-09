@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 180,
+  "globalPageIndex": 180,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "SA-36/SA-36M ASME BPVC.II.A-Z0Z5 \nTABLE 3 Chemical Requirements \nNoTE 1-Where \" ... \"appears in this table, there is no requirement. The heat analysis for manganese shall be determined and reported as described \nin the heat analysis section of Specification A6/ A6M. \nProduct ShapesA Plates> 15-in. [380 mm] Width 8 Bars; Plates :s; 15-in. [380 mm] Width 8 \nTo\u00be Over\u00be Over 1\u00bd Over 2\u00bd To\u00be Over\u00be Over 1\u00bd \nThickness, in. [mm] All [20], to 1\u00bd to 2\u00bd to 4 Over4 [20], to 1\u00bd to 4 Over4 \n[20 to 40], [40 to 65], [65 to 100], [100] [20 to 40], [100], [100] incl incl incl incl incl incl incl \nCarbon, max, % 0.26 0.25 0.25 0.26 0.27 0.29 0.26 0.27 0.28 0.29 \nManganese, % ... ... 0.80-1.20 0.80-1.20 0.85-1.20 0.85-1.20 ... 0.60-0.90 0.60-0.90 0.60-0.90 \nPhosphorus, max, % 0.04 0.030 0.030 0.030 0.030 0.030 0.04 0.04 0.04 0.04 \nSulfur, max, % 0.05 0.030 0.030 0.030 0.030 0.030 0.05 0.05 0.05 0.05 \nSilicon,% 0.40 max 0.40 max 0.40 max 0.15-0.40 0.15-0.40 0.15-0.40 0.40 max 0.40 max 0.40 max 0.40 max \nCopper, min, % when cop- 0.20 0.20 0.20 0.20 0.20 0.20 0.20 0.20 0.20 0.20 \nper steel is specified \nA Manganese content of 0.85-1.35 % and silicon content of 0.15-0.40 % is required for shapes with flange thickness over 3 in. [75 mm]. \n8 For each reduction of 0.01 percentage point below the specified carbon maximum, an increase of 0.06 percentage point manganese above the specified maximum will \nbe permitted, up to the maximum of 1.35 %. \nSUPPLEMENTARY REQUIREMENTS \nThese requirements shall not apply unless specified in the order. \nStandardized supplementary requirements for use at the option of the purchaser are listed in \nSpecification A6/A6M. Those that are considered suitable for use with this specification are listed by \ntitle: \nSS. Charpy V-Notch Impact Test \nS30. Charpy V-Notch Impact Test for Structural Shapes: \nAlternate Core Location \n128 \nS32. Single Heat Bundles \nS32.1 Bundles containing shapes or bars shall be from a \nsingle heat of steel. ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0180.json",
+  "tabulaTablesCsv": "tables_tabula/page-0180.csv",
+  "tabulaTableCount": 2,
+  "bestTextPath": "best_text/pages/page-0180.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1963,
+  "bestTextAlphaRatio": 0.5573
+}

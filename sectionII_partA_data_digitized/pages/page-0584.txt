@@ -1,0 +1,189 @@
+SA-350/SA-350M (ASTM A350/A350M) ASME BPVC.11.A-2025 
+TABLE 3 Charpy V-Notch Energy Requirements for Standard Size 
+[10 by 10 mm] Specimens 
+Grade 
+LF1 and LF9 
+LF2, Class 1 
+LF3, Class 1 
+LF5 Class 1 and 2 
+LF787 Classes 2 and 3 
+LF6, Class 1 
+LF2, Class 2 
+LF3, Class 2 
+LF6, Classes 2 and 3 
+Minimum Impact 
+Energy Required 
+for Average of 
+Each Set of Three 
+Specimens, ft,lbf 
+[J] 
+13 [18] 
+15 [20] 
+15 [20] 
+15 [20] 
+15 [20] 
+15 [20] 
+20 [27] 
+20 [27] 
+20 [27] 
+Minimum Impact 
+Energy Permitted 
+for One Specimen 
+only of a Set, ft-lbf 
+[J] 
+10 [14] 
+12 [16] 
+12 [16] 
+12 [16] 
+12 [16] 
+12 [16] 
+15 [20] 
+15 [20] 
+15 [20] 
+TABLE 4 Standard Impact Test Temperature for Standard Size [10 
+by 1 0 mm] Specimens 
+Grade 
+LF1 
+LF2 Class 1 
+LF2 Class 2 
+LF3, Classes 1 and 2 
+LF5, Classes 1 and 2 
+LF6, Classes 1 and 2 
+LF6, Class 3 
+LF9 
+LF787, Class 2 
+LF787 Class 3 
+Test Temperature, 'F ['CJ 
+-20 [-29] 
+-50 [-46] 
+-0 [-18] 
+-150 [-101] 
+-75 [-59] 
+-60 [-51] 
+0 [-18] 
+-100 [-73] 
+-75 [-59] 
+-100 [-73] 
+TABLE 5 Minimum Equivalent Absorbed Energy ft,lbf (J) for 
+Various Specimen SizesA 
+Standard 
+Size [10 by 
+10 mm] 
+15 [20] 
+13 [18] 
+12 [16] 
+10 [14] 
+¾size 
+[10 by 
+7.5 mm] 
+12 [16] 
+10 [14] 
+10 [14] 
+8 [11] 
+% size 
+[10 by 
+6.6 mm] 
+10 [14] 
+9 [12] 
+9 [12] 
+7 [10] 
+½ size 
+[10 by 
+5mm] 
+8 [11] 
+7 [10] 
+7 [10] 
+5 [7] 
+1/s size 
+[10 by 
+3.3mm] 
+5 [7] 
+5 [7] 
+4 [6] 
+3 [5] 
+A Straight-line interpolation for intermediate values is permitted. 
+¼ size 
+[10 by 
+2.5 mm] 
+4 [6] 
+4 [6] 
+3 [5] 
+3 [5] 
+test temperature is at least as low as the intended service 
+temperature, and that the forging is suitably marked to identify 
+the reported test temperature. 
+7.2.1.1 The test specimens shall be machined from material 
+obtained as in 7.1. 
+7 .2.2 Number of Tests-Three specimens shall constitute 
+one test set. There shall be the same number of test sets as 
+tension tests in 7.1.2. 
+7.2.3 Test Locations and Orientations-The test specimen 
+shall be located and oriented as described in 7.1.3. The area 
+under the notch of the impact test specimen shall be used to 
+locate the specimen with respect to the second heat-treated 
+surface. The base of the notch shall be perpendicular to the 
+nearest heat-treated surface. 
+7.2.4 Test Method-The notched bar impact test shall be 
+made in accordance with the procedure for the Charpy V-notch 
+type test as specified in Specification A961/A961M. 
+7.2.4.1 Standard size specimens shall be used for the impact 
+test. Where the material is of insufficient thickness, or the 
+shape of the forging precludes standard size, the largest 
+obtainable subsize specimen shall be used. 
+7.2.4.2 Where subsize specimens are used and represent 
+forged material with thicknesses equal to or greater than 
+0.394 in. [10 mm], and where the largest obtainable specimen 
+has a width along the notch of at least 8 mm, such specimen 
+shall be tested at the temperature in Table 4. Where the largest 
+obtainable specimen has a width along the notch less than 
+8 mm, the temperature for testing shall be lower than the 
+temperature in Table 4 by the amount shown in Table 6 for the 
+actual specimen width tested. 
+532 
+7 .2.4.3 Where subsize specimens are used and represent 
+forged material with thicknesses less than 0.394 in. [10 mm], 
+and where the largest obtainable specimen has a width along 
+the notch of at least 80 % of the forging thickness, the 
+specimen shall be tested at the temperature in Table 4. Where 
+the largest obtainable specimen has a width along the notch of 
+less than 80 % of the material thickness, the temperature for 
+testing shall be lower than the temperature in Table 4 by an 
+amount equal to the difference (referring to Table 6) between 
+the temperature reduction corresponding to the thickness of the 
+material represented, and the temperature reduction corre­
+sponding to the specimen width actually tested. 
+7.3 Hardness Test: 
+7.3.l Except when only one forging is produced, a mini­
+mum of two forgings shall be hardness tested per batch or 
+continuous run as defined in 7 .1.2.1 to ensure that hardness of 
+the forgings does not exceed 197 HBW after heat treatment for 
+mechanical properties. The hardness measurements shall be 
+made as specified in Specification A961/A961M. When only 
+one forging is produced, it shall be hardness tested to ensure 
+that it meets the 197 HB W maximum of this specification. The 
+purchaser may verify that this requirement has been met by 
+testing at any location on the forging, provided that such 
+testing does not render the forging useless. 
+8. Hydrostatic Test 
+8.1 Forgings manufactured under this specification shall be 
+capable of passing a hydrostatic test compatible with the rating 
+TABLE 6 Charpy Impact Test Temperature Reduction Below Table 
+4 Test Temperature when the Subsize Charpy Impact Width along 
+Notch is Less than 80% of the Forging Thickness 
+Thickness of the 
+Material Represented Temperature 
+Size of Bar (see 7.2.4.3), or Reduction, Charpy, I mp act 'F ['Cl Specimen Width Along 
+the NotchA , in. [mm] 
+Standard 0.394 [10] 0 [OJ 
+Standard 0.354 [9] 0 [OJ 
+Standard 0.315 [8] 0 [OJ 
+¾-size 0.295 [7.5] 5 [3] 
+¾-size 0.276 [7] 8 [5] 
+%-size 0.262 [6.67] 10 [6] 
+%-size 0.236 [6] 15 [8] 
+½-size 0.197 [5] 20 [11] 
+½-size 0.158[4] 30 [17] 
+1/s-size 0.131 [3.33] 35 [20] 
+1/s-size 0.118 [3] 40 [22] 
+¼-size 0.099 [2.5] 50 [28] 
+A Straight-line interpolation for intermediate values is permitted. 

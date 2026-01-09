@@ -1,0 +1,27 @@
+A The values in parentheses may be used for ease in calculation of stresses, in pounds per square inch, as permitted in Note 5 of Fig. 4.
+
+12.3 The type of specimen ends outside of the gauge length = set must be approximately centered in the reduced section.
+shall accommodate the shape of the product tested, and shall © These same precautions shall be observed when the test
+properly fit the holders or grips of the testing machine so that specimen is full section.
+axial loads are applied with a minimum of load eccentricity and oo. . .
+slippage. Fig. 5 shows specimens with various types of ends 14+ Determination of Tensile Properties
+that have given satisfactory results. 14.1 Yield Point—Yield point is the first stress in a material,
+
+less than the maximum obtainable stress, at which an increase
+13. Gauge Marks in strain occurs without an increase in stress. Yield point is
+
+13.1 The specimens shown in Figs. 3-6 shall be gauge — intended for application only for materials that may exhibit the
+marked with a center punch, scribe marks, multiple device, or | unique characteristic of showing an increase in strain without
+drawn with ink. The purpose of these gauge marks is to an increase in stress. The stress-strain diagram is characterized
+determine the percent elongation. Punch marks shall be light, by a sharp knee or discontinuity. Determine yield point by one
+sharp, and accurately spaced. The localization of stress at the of the following methods:
+marks makes a hard specimen susceptible to starting fracture at 14.1.1 Drop of Beam or Halt of Pointer Method—In this
+the punch marks. The gauge marks for measuring elongation | method, apply an increasing load to the specimen at a uniform
+after fracture shall be made on the flat or on the edge of the flat rate. When a lever and poise machine is used, keep the beam in
+tension test specimen and within the parallel section; for the | balance by running out the poise at approximately a steady
+8-in. gauge length specimen, Fig. 3, one or more sets of 8-in. rate. When the yield point of the material is reached, the
+gauge marks may be used, intermediate marks within the gauge — increase of the load will stop, but run the poise a trifle beyond
+length being optional. Rectangular 2-in. gauge length the balance position, and the beam of the machine will drop for
+specimens, Fig. 3, and round specimens, Fig. 4, are gauge a brief but appreciable interval of time. When a machine
+marked with a double-pointed center punch or scribe marks. equipped with a load-indicating dial is used there is a halt or
+One or more sets of gauge marks may be used; however, one _hesitation of the load-indicating pointer corresponding to the

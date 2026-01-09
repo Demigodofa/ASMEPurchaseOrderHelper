@@ -1,0 +1,114 @@
+SA-369/SA-369M (ASTM A369/A369M) ASME BPVC.II.A-2025 
+3.1.5 Length (Permissible Variations in Length Section of 
+Specification A999/ A999M), 
+3.1.6 Verification of tensile and hardness properties at 
+mid-thickness for Grade FP91 Type 1 and Type 2 (9.2), 
+3.1.7 End finish (13), 
+3.1.8 Optional requirements (Sections 8, Supplementary 
+Requirements Sl to S7; 13.2), 
+3.1.9 Test report required (Certification Section of Specifi­
+cation A999/ A999M), 
+3 .1.10 Specification designation, and 
+3.1.11 Special requirements or exceptions to this specifica­
+tion. 
+4. General Requirements 
+4.1 Material furnished under this specification shall con­
+form to the applicable requirements of the current edition of 
+Specification A999/ A999M, unless otherwise provided herein. 
+5. Materials and Manufacture 
+5.1 Discard: 
+5 .1.1 A sufficient discard shall be made from each ingot to 
+secure freedom from injurious defects. The steel shall have a 
+homogeneous structure. 
+5.2 Manufacture: 
+5.2.1 Material for forging shall consist of ingots or of 
+blooms, billets, or solid-rolled bars forged or rolled from an 
+ingot, and cut to the required length by a process that will not 
+produce injurious defects in the forging. 
+5.2.2 The material shall be forged (Note 3) by hammering or 
+pressing, and shall be brought as nearly as practicable to the 
+finished shape and size by hot working. 
+NoTE 3-The cross-sectional area of the solid forging shall have a 
+reduction by forging or by rolling and forging from that of the ingot in the 
+ratio of not less than 3 to 1. 
+5.2.3 Unless otherwise specified, the final forging operation 
+shall be followed by a treatment suitable to the grade as 
+specified in 5.4. 
+5.3 Machining: 
+5.3.1 All forgings shall have both the inner and outer 
+surfaces machined. 
+5.3.2 After heat treatment, the pipe shall be machined to a 
+finish with a roughness value no greater than 250-µin. [6.4-µm] 
+arithmetical average deviation (AA), terms as defined in ANSI 
+B 46.1-1962, unless otherwise specified. 
+5.4 Heat Treatment: 
+5.4.1 All pipe of the grades shown in Table 1 other than 
+FPA, FPB, FPl, FP2, FP12, FP91 Type 1 and Type 2, FP92, 
+and FP115 shall be reheated and furnished in the full-annealed 
+or normalized and tempered condition. If furnished in the 
+normalized and tempered condition (Note 4), the temperature 
+for tempering shall be 1250 °F [680 °C] or higher for Grades 
+FPS, FP9, FP21, and FP22, and 1200 °F [650 °C] or higher for 
+Grades FP36 and FPll. 
+NoTE 4-It is recommended that the temperature for tempering should 
+be at least 100 °P [50 °C] above the intended service temperature; 
+consequently, the purchaser should advise the manufacturer if the service 
+temperature is to be over ll00 0 P [600 °C]. 
+578 
+5.4.2 Pipe in Grades FPA and FPB as a final heat treatment 
+shall be either normalized or shall be given a stress relieving 
+treatment at 1200 to 1300 °F [650 to 705 °C]. Pipe in Grades 
+FPl, FP2, and FP12, as a final heat treatment shall be given a 
+stress-relieving treatment at 1200 to 1300 °F [650 to 705 °C). 
+NoTE 5-Certain of the ferritic steels covered by this specification tend 
+to harden if cooled rapidly from above their critical temperature. Some 
+will air harden, that is, become hardened to an undesirable degree when 
+cooled in air from high temperatures. Therefore, operations involving 
+heating such steels above their critical temperatures, such as welding, 
+hot-bending and other forming operations, should be followed by suitable 
+heat treatment. 
+5.4.3 Except when Supplementary Requirement S6 is speci­
+fied by the purchaser, Grade FP91 Type 1 and Type 2 shall be 
+normalized and tempered by reheating within the temperature 
+range from 1900 to 1975 °F [1040 to 1080 °C), followed by air 
+cooling and tempering in the temperature range of 1350 to 
+1470 °F [730 to 800 °C). 
+5.4.4 Except when Supplementary Requirement S6 is speci­
+fied by the purchaser, Grade FP92 shall be normalized and 
+tempered by reheating within the temperature range of 1900 to 
+1975 °F [1040 to 1080 °C], followed by air cooling and 
+tempering in the temperature range of 1350 to 1470 °F [730 to 
+800 °C]. 
+5.4.5 Grade FP115 shall be nonnalized and tempered by 
+reheating within the temperature range of 1920 to 2010 °F 
+[1050 to 1100 °C] and tempered in the range of 1380 to 1455 
+°F [750 to 790 °C]. The rate of cooling at mid thickness from 
+1650 to 900 °F [900 to 482 °C] shall be no slower than 9 
+°F/minute [5 °C/minute]. 
+5.5 Repair by Welding: 
+5.5.1 Weld repair shall be pennitted only subject to the 
+approval of the purchaser and in accordance with Specification 
+A999/ A999M. 
+5.5.2 All repair welds in FP91 shall be made with one of the 
+following welding processes and consumables: SMAW, A5.5/ 
+A5.5M E90XX-B9; SAW, A5.23/A5.23M EB9 + neutral flux; 
+GTAW, A5.28/A5.28M ER90S-B9; and FCAW A5.29/A5.29M 
+E91Tl-B9. In addition, the sum of the Ni+ Mn content of all 
+welding consumables used to weld repair FP91 Type 1 and 
+Type 2 shall not exceed 1.0 %. 
+5.5.3 All repair welds in FP92 shall be made using welding 
+consumables meeting the chemical requirements for the grade 
+in Table 1. 
+5.5.4 After weld repair, Grades FP91 Type 1 and Type 2 and 
+FP92 shall be heat treated at 1350-1470 °F [730-800 °C). 
+5.5.5 After weld repair, Grades FP115 shall be heat treated 
+at 1345 to 1435 °F [730 to 780 °C). 
+6. Chemical Composition 
+6.1 The steel shall conform to the requirements as to 
+chemical composition prescribed in Table 1. 
+7. Heat Analysis 
+7.1 An analysis of each heat of steel shall be made by the 
+steel manufacturer to detennine the percentages of the ele­
+ments specified. If secondary melting processes are employed, 
+the heat analysis shall be obtained from one remelted ingot or 
+the product of one remelted ingot of each primary melt. The 

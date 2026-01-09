@@ -1,0 +1,139 @@
+ASME BPVG.IIA-2025
+
+Other Similar Medium- and High-Alloy Steels
+
+E353 Test Methods for Chemical Analysis of Stainless,
+Heat-Resisting, Maraging, and Other Similar Chromium-
+Nickel-Iron Alloys
+
+E354 Test Methods for Chemical Analysis of High-
+Temperature, Electrical, Magnetic, and Other Similar Iron,
+Nickel, and Cobalt Alloys
+
+E415 Test Method for Analysis of Carbon and Low-Alloy
+Steel by Spark Atomic Emission Spectrometry
+
+E548 Guide for General Criteria Used for Evaluating Labo-
+ratory Competence (Withdrawn 2002)
+
+E572 Test Method for Analysis of Stainless and Alloy Steels
+by Wavelength Dispersive X-Ray Fluorescence Spectrom-
+etry
+
+E743 Guide for Spectrochemical Laboratory Quality Assur-
+ance (Withdrawn 1998)
+
+E851 Practice for Evaluation of Spectrochemical Laborato-
+ries (Withdrawn 1998)
+
+E882 Guide for Accountability and Quality Control in the
+Chemical Analysis Laboratory
+
+E1019 Test Methods for Determination of Carbon, Sulfur,
+Nitrogen, and Oxygen in Steel, Iron, Nickel, and Cobalt
+Alloys by Various Combustion and Inert Gas Fusion
+Techniques
+
+E1085 Test Method for Analysis of Low-Alloy Steels by
+Wavelength Dispersive X-Ray Fluorescence Spectrometry
+
+E1086 Test Method for Analysis of Austenitic Stainless Steel
+by Spark Atomic Emission Spectrometry
+
+E1097 Guide for Determination of Various Elements by
+Direct Current Plasma Atomic Emission Spectrometry
+
+E1184 Practice for Determination of Elements by Graphite
+Furnace Atomic Absorption Spectrometry
+
+E1282 Guide for Specifying the Chemical Compositions and
+Selecting Sampling Practices and Quantitative Analysis
+Methods for Metals, Ores, and Related Materials
+
+E1329 Practice for Verification and Use of Control Charts in
+Spectrochemical Analysis (Withdrawn 2019)
+
+E1476 Guide for Metals Identification, Grade Verification,
+and Sorting
+
+E1806 Practice for Sampling Steel and Iron for Determina-
+tion of Chemical Composition
+
+2.2 ISO Standards:
+
+ISO/IEC 17025 General Requirements for the Competence
+of Testing and Calibration Laboratories
+
+3. Terminology
+
+3.1 Definitions:
+3.1.1 For definitions of terms used in these test methods and
+practices, see Terminology A941.
+
+SA-751
+
+3.2 Definitions of Terms Specific to This Standard:
+
+3.2.1 product, check, or verification analysis, n—a chemical
+analysis of the semifinished or finished product, usually for the
+purpose of determining conformance to the specification re-
+quirements.
+
+3.2.1.1 Discussion—The range of the specified composition
+applicable to product analysis is normally greater than that
+applicable to heat analysis in order to take into account
+deviations associated with analytical reproducibility (Note 1)
+and the heterogeneity of the steel.
+
+Nore 1—All of the chemical analysis procedures referenced in these
+test methods include precision statements with reproducibility data, with
+the exception of Test Methods E50.
+
+3.2.2 product analysis tolerances, n—a permissible varia-
+tion over the maximum limit or under the minimum limit of a
+specified element and applicable only to product analyses, not
+cast or heat analyses (Note 2).
+
+Norte 2—The term “analysis tolerance” is often misunderstood. It does
+not apply to cast or heat analyses determined to show conformance to
+specified chemical limits. It applies only to product analysis and becomes
+meaningful only when the heat analysis of an element falls close to one of
+the specified limits. For example, stainless steel UNS 30400 limits for
+chromium are 18.00 to 20.00 %. A heat that the producer reported as
+18.01 % chromium may be found to show 17.80 % chromium by a user
+performing a product analysis. If the product analysis tolerance for such a
+chromium level is 0.20 %, the product analysis of 17.80 % chromium
+would be acceptable. A product analysis of 17.79% would not be
+acceptable.
+
+3.2.3 proprietary analytical method, n—a non-standard ana-
+lytical method, not published by ASTM, utilizing reference
+standards traceable to the National Institute of Standards and
+Technology (NIST), when available, or other sources refer-
+enced in Section 10.
+
+3.2.4 referee analysis, n—performed using ASTM test
+methods listed in 9.1.1, NIST reference standards or methods,
+and reference standards agreed upon between parties.
+
+3.2.4.1 Discussion—The selection of a laboratory to per-
+form the referee analysis shall be a matter of agreement
+between the supplier and the purchaser.
+
+3.2.5 certified reference material, n—a specimen of material
+specially prepared, analyzed, and certified for chemical content
+under the jurisdiction of a recognized standardizing agency or
+group, such as the NIST, for use by analytical laboratories as an
+accurate basis for comparison.
+
+3.2.5.1 Discussion—Reference samples should bear suffi-
+cient resemblance to the material to be analyzed so that no
+significant differences are required in procedures or corrections
+(for example, for interferences or inter-element effects).
+
+3.2.6 working reference materials, n—teference materials
+used for routine analytical control and traceable to NIST
+standards and other recognized standards when appropriate
+standards are available.
+
+1235

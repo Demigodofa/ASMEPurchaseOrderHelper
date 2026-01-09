@@ -1,0 +1,37 @@
+ments specified in Table 2. Methods and practices relating to |
+chemical analysis shall be in accordance with Test Method, 10. Hydrostatic Test |
+Practices, and Terminology A751. 10.1 Except as provided for in 10.3, each length of pipe
+shall be hydrostatically tested at the mill, without leakage
+8. Mechanical Properties Requirements through the wall, to a pressure calculated from the following
+8.1 Tensile Properties: equation: . .
+8.1.1 The material shall conform to the requirements as to’ P= 25D .
+tensile properties prescribed in Table 1. where: _
+_ 8.1.2 The yield strength shall be determined by the offset P = minimum hydrostatic test pressure, psi, [kPa]. The test
+method utilizing 0.2 % of the gauge length or by the total pressure need not exceed 2500 psi [17 200 kPa],
+extension under load method using 0.5 % of the gauge length. S = allowable fiber stress 18 000 psi [124 000 kPa] for :
+8.1.3 Longitudinal test specimens shall be full-size longitu- Grade A and 21 000 psi [145 000 kPa] for Grade B.
+dinal test specimens (see Figure A2.1 of Test Methods and This does not prohibit testing at higher pressure at the
+. Definitions A370) or longitudinal strip test specimens (see manufacturer’s option,
+Specimen No. 4 in Fig. A2.3 of Test Methods and Definitions tf = specified wall thickness, in. [mm], and
+A370). D_ = specified outside diameter, in. [mm].
+8.2 The test specimen taken across the weld shall show a en Pp ey eee n ult Ic Tenetha, mae .
+tensile strength not less than the minimum tensile strength e S P Bis. :
+specified for the grade of pipe ordered. This test will not be 10.2 The hydrostatic pressure shall be maintained for not
+required for pipe under NPS 8 [DN 200]. less than 5 s. :
+10.3 When specified in the order, pipe may be furnished
+9. Flattening Test without hydrostatic testing, and each length so furnished shall
+9.1 A specimen at least 4 in. [100 mm] in length shall be include with the mandatory marking the letters “NH.”
+flattened cold between parallel plates in three steps with the Nore 3—This provision is not intended to apply to light wall (Schedule |
+weld located either 0° or 90° from the line of direction of force 10) pipe listed in Table X1.1.
+as required in 9.2. During the first step, which is a test for 10.4 When certification is required by the purchaser and the |
+ductility of the weld, no cracks or breaks on the inside or hydrostatic test has been omitted, the certification shall clearly
+outside surfaces shall occur before the distance between the grate “Not Hydrostatically Tested.” The specification number
+: plates is less than two thirds of the original outside diameter Of and material erade, as shown on the certification, shall be
+the pipe. As a second step, the flattening shall be continued. followed by the letters “NH.” :
+During the second step, which is a test for ductility exclusive
+of the weld, no cracks or breaks on the inside or outside 11. Nondestructive Examination Requirements
+surfaces shall occur before the distance between the plates is
+less than one third of the original outside diameter of the pipe 11.1 As an alternate to the hydrostatic test, and when
+but is not less than five times the wall thickness of the pipe.  a¢cepted by the purchaser, each pipe shall be tested with a
+During the third step, which is a test for soundness, the nondestructive electric test. Except for pipe produced on a -
+flattening shall be continued until the specimen breaks or the hot-stretch reducing mill, the weld seam of each length of pipe

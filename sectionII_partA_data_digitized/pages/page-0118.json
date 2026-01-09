@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 118,
+  "globalPageIndex": 118,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "SA-6/SA-6M ASME BPVC.II.A-2025 \nTABLE X4.2 Suggested Minimum Inside Radii for Cold BendingA \nThickness (!), in. [mm] \nGroup Up to\u00be in. Over \u00be in. [20 Over 1 in. [25 . \nDesignation 8 mm] To 1 [25 mm] To 2 in. [50 Over 2 in. [50 \n[20mm] mm, incl] mm], incl mm] \nA 1.5! 1.5! 1.51 1.5! \nB 1.51 1.51 1.5! 2.0t \nC 1.5! 1.5! 2.01 2.51 \nD 1.51 1.51 2.5! 3.0t \nE 1.5! 1.51 3.ot 3.51 \nF 1.751 2.251 4.51 5.5! \nA Values are for bend lines perpendicular to the direction of final rolling. These radii \napply when the precautions listed in X4.2 are followed. If bend lines are parallel to \nthe direction of final rolling, multiply values by 1.5. \n8 Steel specifications included in the group designations may not include the entire \nthickness range shown in this table. \n66 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0118.json",
+  "tabulaTablesCsv": "tables_tabula/page-0118.csv",
+  "tabulaTableCount": 2,
+  "bestTextPath": "best_text/pages/page-0118.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 761,
+  "bestTextAlphaRatio": 0.5729
+}

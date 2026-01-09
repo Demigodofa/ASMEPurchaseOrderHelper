@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 209,
+  "globalPageIndex": 209,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "ASME BPVC.II.A-2025 \nX3. BASIC THREADING DATA \nX3.1 Fig. X3.1 is to be used with Table X3.l. Fig. X3.2 is \nto be used with Table X3.2. \nFIG. X3.1 Dimensions of Hand Tight Assembly for Use with Table X3.1 \nTABLE X3.1 Basic Threading Data for Standard-Weight Pipe, NPS 6 [DN 150] or Smaller \nNoIB 1-All dimensions in this table are nominal and subject to mill tolerances. \nNoIB 2-The taper of threads is\u00be in.tft [62.5 mm/m] on the diameter. \nPipe Threads \nNPS DN Specified Number per End of Pipe to Effective Total Pitch Diameter Specified \nDesignator Designator Outside inch Hand Tight Plane, Length, Length, in. [mm] at Hand Outside \nDiameter, in. [mm] in. [mm] Tight Plane, Diameter, \nin. [mm] in. [mm] in. [mm] \nD L, L2 L, E, w \n1/a 6- o.405[10.3] 27 0.1615 [4.1021] 0.2638 0.3924 0.37360 0.563 [14.3] \n[6.7005] [9.9670] [9.48944] \n\u00bc 8 0.540 [13.7] 18 0.2278 [5.7861] 0.4018 0.5946 0.49163 0. 719 [18.3] \n[10.2057] \u2022 [15.1028] [12.48740] \n% 10 0.675 [17.1] 18 0.240 [6.096] 0.4078 0.6006 0.62701 0.875 [22.2] \n[10.3581] [15.2552] [15.92605] \n\u00bd 15 0.840 [21.3] 14 0.320 [8.128] 0.5337 0.7815 0.77843 1.063 [27 .OJ \n[13.5560] [19.8501] [19.77212] \n\u00be 20 1.050 [26.7] 14 o.339 [8.611 l 0.5457 0.7935 0.98887 1.313 [33.4] \n[13.8608] [20.1549] [25.11730] \n25 1.315 [33.4] 11\u00bd 0.400 [10.160] 0.6828 0.9845 1.23863 1.576 [40.0] \n[17.3431] [25.0063] [31.46120] \n1\u00bc 32 1.660 [42.2] 11\u00bd 0.420 [10.668] 0.7068 1.0085 1.58338 1.900 [48.3] \n[17.9527] [25.6159] [40.21785] \n1\u00bd 40 1.900 [48.3] 11\u00bd 0.420 [10.668] 0.7235 1.0252 1.82234 2.200 [55.9] \n[18.3769] [26.0401] [46.28744] \n2 50 2.375 [60.3] 11\u00bd 0.436 [11.07 4] 0.7565 1.0582 2.29627 2.750 [69.8] \n[19.2151] [26.8783] [58.32526] \n2\u00bd 65 2.875 [73.0] 8 0.682 [17.323] 1.1376 1.5712 2.76216 3.250 [82.5] \n[28.8950] [39.9085] [70.15886] \n3 80 3.500 [88.9] 8 0. 766 [19.456] 1.2000 1.6337 3.38850 4.000 [101.6] \n[30.4800] [41.4960] [86.06790] \n3\u00bd 90 4.000 [101.6] 8 0.821 [20.853] 1.2500 1.6837 3.88881 4.625 [117.5] \n[31.7500] [42.7660] [98.77577] \n4 100 4.500 [114.3] 8 0.844 [21.438] 1.3000 1.7337 4.38713 5.000 [127.0] \n[33.0200] [44.0360] [111 .4331 OJ \n5 125 5.563 [141.3] 8 0.937 [23.800] 1.4063 1.8400 5.44929 6.296 [159.9] \n[35.7200] [46.7360] [138.41200] \n6 150 6.625 [168.3] 8 0.958 [24.333] 1.5125 1.9462 6.50597 7.390 [187.7] \n[38.4175] [49.4335] [165.25164] \n157 \nSA-53/SA-53M \nCoupling \nLength, Hand Tight \nmin., in. [mm] Stand-Off \n(Number of \nThreads) \nNL A \n\u00be[19] 4 \n11/a [29] 5\u00bd \n11/a [29] 5 \n1\u00bd[38] 5 \n19/,a [40] 5 \n11sAs [49] 5 \n2 [50] 5 \n2 [50] 5\u00bd \n21/,a [52] 5\u00bd \n31/,a [78] 5\u00bd \n3o/1e [81] 5\u00bd \n35Aa [84] 5\u00bd \n3 7 As [87] 5 \n3 11 Ao [94] 5 \n3 15 Ae [100] 6 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0209.json",
+  "tabulaTablesCsv": "tables_tabula/page-0209.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0209.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2615,
+  "bestTextAlphaRatio": 0.2256
+}

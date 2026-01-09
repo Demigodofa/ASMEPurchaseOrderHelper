@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 159,
+  "globalPageIndex": 957,
+  "width": 795.6,
+  "height": 617.04,
+  "text": "( ( \nTABLE 121 Wall Thickness Tolerances for Type 2 (A.W.C.R.) Round Tubing (SI Units) \nOutside Diameter, mm \nWall [10 to 20], Over [20 to 50], incl Over [50 to 100], Over [100 to 130], Over [130 to 150], Over [150 to 205], \nThickness incl incl incl incl incl \nmm Wall Thickness Tolerances, mmA \u00b1 \n+ - + - + - + - + - + -\n0.56 0.03 0.13 0.03 0.13 \n00 0.71 0.03 0.13 0.03 0.13 \nV1 0.89 0.05 0.13 0.03 0.13 0.03 0.13 -..J 1.07 0.05 0.15 0.03 0.15 0.03 0.15 \n1.24 0.08 0.15 0.05 0.15 0.05 0.15 \n1.65 0.13 0.18 0.10 0.18 0.10 0.18 0.10 0.18 0.10 0.18 \n2.11 0.15 0.18 0.13 0.18 0.10 0.18 0.10 0.18 0.10 0.20 0.10 0.20 \n2.41 0.15 0.18 0.13 0.18 0.10 0.18 0.10 0.18 0.10 0.20 0.10 0.20 \n2.n 0.15 0.20 0.13 0.20 0.13 0.20 0.13 0.23 0.13 0.23 \n3.05 0.18 0.20 0.15 0.20 0.13 0.20 0.13 0.23 0.13 0.23 \n3.40 0.18 0.20 0.15 0.20 0.13 0.20 0.13 0.23 0.13 0.23 \nA Where the ellipsis appears in this table, the tolerance is not add$;sed. \n--,--- \u00b71 \nOver [205 to 250], \nincl \n+ -\n0.10 0.20 \n0.10 0.20 \n0.10 0.20 \n0.13 0.23 \n0.13 0.23 \n0.13 0.23 \nOver [250 to 305], \nincl \n+ -\n0.10 0.20 \n0.10 0.20 \n0.13 0.23 \n0.13 0.23 \n0.13 0.23 \n) \n~ a: \nl'!l \n= \n~ \n~ \nN \n0 \nN \nCl1 \n~ \nCl1 ,_. \n!,,J \n~ \nCl1 ,_. \n!,,J \na: \ni \n~ ,_. \n!,,J \n\"> Cl1 ,_. \n!,,J \n.! ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0957.json",
+  "tabulaTablesCsv": "tables_tabula/page-0957.csv",
+  "tabulaTableCount": 3,
+  "bestTextPath": "best_text/pages/page-0957.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1230,
+  "bestTextAlphaRatio": 0.2203
+}

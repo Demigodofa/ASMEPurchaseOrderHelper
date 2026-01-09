@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 736,
+  "globalPageIndex": 736,
+  "width": 596.16,
+  "height": 841.8,
+  "text": "SA-409/SA-409M ASME BPVC.II.A-2025 \nSpecification for \nWelded Large Diameter Austenitic Steel Pipe for Corrosive \nor High-Temperature Service \n1. Scope \n1. 1 This specification covers straight seam or spiral seam \nelectric-fusion-welded, light-wall, austenitic chromium-nickel \nalloy steel pipe for corrosive or high-temperature service. The \nsizes covered are NPS 14 to 30 with extra light (Schedule 5S) \nand light (Schedule lOS) wall thicknesses. Table Xl.1 shows \nthe wall thickness of Schedule 5S and lOS pipe. Pipe having \nother dimensions may be furnished provided such pipe com\u00ad\nplies with all other requirements of this specification. \n1.2 Several grades of alloy steel are covered as indicated in \nTable 1. \n1.3 Optional supplementary requirements are provided. \nThese call for additional tests to be made, and when desired \nshall be stated in the order, together with the number of such \ntests required. \n1.4 The values stated in either SI units or inch-pound units \nare to be regarded separately as standard. Within the text, the \nSI units are shown in brackets. The values stated in each \nsystem may not be exact equivalents; therefore, each system \nshall be used independently of the other. Combining values \nfrom the two systems may result in non-conformance with the \nstandard. The inch-pound units shall apply unless the \"M\" \ndesignation of this specification is specified in the order. \nNorn 1-The dimensionless designator NPS (nominal pipe size) has \nbeen substituted in this standard for such traditional terms as nominal \ndiameter, size, and nominal size. \n1.5 This international standard was developed in accor\u00ad\ndance with internationally recognized principles on standard\u00ad\nization established in the Decision on Principles for the \nDevelopment of International Standards, Guides and Recom\u00ad\nmendations issued by the World Trade Organization Technical \nBarriers to Trade (TBT) Committee. \n2. Referenced Documents \n2.1 ASTM Standards: \nA262 Practices for Detecting Susceptibility to Intergranular \nAttack in Austenitic Stainless Steels \nA480/A480M Specification for General Requirements for \nFlat-Rolled Stainless and Heat-Resisting Steel Plate, \nSheet, and Strip \nA999/A999M Specification for General Requirements for \nAlloy and Stainless Steel Pipe \nE527 Practice for Numbering Metals and Alloys in the \nUnified Numbering System (UNS) \n2.2 ASME Boiler and Pressure Vessel Code: \nSection III \nSection VIII, Division 1 \nSection IX \n2.3 A WS Standards: \n686 \nA 5.22 Flux Cored Arc Welding \nA 5.30 Consumable Weld Inserts for Gas Tungsten Arc \nWelding \nA 5.4 Corrosion-Resisting Chromium and Chromium\u00ad\nNickel Steel Covered Welding Electrodes \nA 5.9 Corrosion-Resisting Chromium and Chromium\u00ad\nNickel Steel Welding Rods and Bare Electrodes \nA 5.11 Nickel and Nickel-Alloy Covered Welding Elec\u00ad\ntrodes \nA 5.14 Nickel and Nickel-Alloy Bare Welding Rods and \nElectrodes \n2.4 Other Standard: \nSAE J1086 Practice for Numbering Metals and Alloys \n(UNS) ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0736.json",
+  "tabulaTablesCsv": "tables_tabula/page-0736.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-0736.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2962,
+  "bestTextAlphaRatio": 0.7758
+}

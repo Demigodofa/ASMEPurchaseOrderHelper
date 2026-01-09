@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 505,
+  "globalPageIndex": 1303,
+  "width": 613.92,
+  "height": 793.2,
+  "text": "L \nASME BPVC.II.A-2025 SA-749/SA-749M \nTABLE Al.3 \nCROWN TOLERANCES OF HOT-ROLLED STRIP \n(CARBON AND HIGH-STRENGTH, LOW-ALLOY STEEL> \n(COILS AND CUT LENGTHS, INCLUDING PICKLED) \nSpecified \nWidth, mm \nOver Through \n100 \n200 \n100 \n200 \n300 \nCrown Tolerance, Over Only, for Specified \nMinimum Thickness, mm \nThrough \n3.0 \n0.05 \n0.10 \n0.10 \nOver 3.0 Over 4.5 Over 6.0 \nto 4.5, \nincl \n0.05 \n0.08 \n0.08 \nto 6.0, \nincl \n0.03 \n0.05 \n0.08 \nto 9.5, \nincl \n0.05 \nTABLE Al.4 \nWIDTH TOLERANCES OF HOT-ROLLED STRIP \n(CARBON AND HIGH-STRENGTH, LOW-ALLOY STEEL> \n(COILS AND CUT LENGTHS, INCLUDING PICKLED) \nWidth Tolerance, Over and Under, mm \nSpecified \nWid th , mm Mill Edge and \nCut Edge \nOver Through Square Edge Strip Through 2.5 mm Over 2.5 mm \n50 \n50 100 \n100 200 \n200 300 \n0.8 \n1.2 \n1.6 \n2.4 \n0.2 \n0.2 \n0.3 \n0.4 \n0.4 \n0.4 \n0.4 \n0.4 \nTABLE Al.5 \nLENGTH TOLERANCES OF HOT-ROLLED STRIP \n(CARBON AND HIGH-STRENGTH, LOW-ALLOY STEEL> (CUT LENGTHS, INCLUDING PICKLED) \nLength Tolerances Over Specified Length, for Widths Given, No Tolerance Under, mm \nOver 1500 Over 3000 Over 6000 Over 9000 Specified Widths, mm Through to 3000, to 6000, to 9000, to 12 000, Over \nOver Through 1500 incl incl incl incl 12 000 \n100 \n100 200 \n200 300 \n10 \n10 \n15 \nTABLE Al.6 \n10 \n15 \n20 \nCAMBER TOLERANCESA OF HOT-ROLLED STRIP \n(CARBON AND HIGH-STRENGTH LOW-ALLOY) (COILS \nAND CUT LENGTHS, INCLUDING PICKLED, \nAPPLICABLE TO MILL EDGE, SQUARE EDGE, AND \nSLIT OR CUT EDGE) \nFor strip wider than 50 mm - 5.0 mm in any 2000 mm \nFor strip 50 mm and narrower - 10.0 mm in any 2000 mm \nNOTE 1 - Camber is the deviation of a side edge from a straight line. \nThe standa1\u00b7d for measuring this deviation is based on any 2000 mm \nlength. 8 It is obtained by placing a 2000 mm straightedge on the concave \nside and measuring the maximum distance between the strip edge and \nthe straightedge. \nA When the camber tolerances shown in the above table are not \nsuitable for a particular purpose, hot-rolled strip is sometimes \nmachine straightened. \n8 For strip less than 2000 mm tolerances are to be established in \neach instance. \n15 \n15 \n25 \n20 \n20 \n30 \n25 \n25 \n40 \nTABLE Al.7 \n40 \n40 \n45 \nFLATNESS TOLERANCES OF HOT-ROLLED STRIP \n(CARBON AND HIGH-STRENGTH LOW-ALLOY) \nIt has not been practicable to formulate flatness tolerances \nfor hot-rolled strip because of the wide range of widths \nand thicknesses, and variety of chemical compositions and \nqualities, produced in coi Is and cut lengths. \n1231 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 1,
+  "tabulaTablesPath": "tables_tabula/page-1303.json",
+  "tabulaTablesCsv": "tables_tabula/page-1303.csv",
+  "tabulaTableCount": 3,
+  "bestTextPath": "best_text/pages/page-1303.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2453,
+  "bestTextAlphaRatio": 0.6372
+}

@@ -1,0 +1,116 @@
+SA-20/SA-Z0M ASME BPVC.II.A-2025 
+12.1.2 Orientation of Test Specimens-The long axis of the 
+test specimens shall be oriented either longitudinal (parallel to 
+the final direction of rolling) or transverse (transverse to the 
+final direction of rolling), as specified in the applicable product 
+specification or the purchase order. 
+12.1.3 Location of Test Coupons-The impact test coupons 
+shall be taken adjacent to the tension test coupons. The impact 
+test coupons shall be subject to the same requirements as those 
+specified for tension tests in 11.4, except that the provisions of 
+11.4.4.1 apply to the area under the notch of the impact test 
+specimen instead of to the gage length of the tension test 
+specimen. 
+12.1.4 Test Method-Impact testing shall be performed in 
+accordance with Test Methods and Definitions A370 using 
+Charpy V-notch (Type A) specimens as shown in Test Methods 
+and Definitions A370. Except as allowed by 12.1.4.1, full-size 
+specimens (0.394 by 0.394 in. [10 by 10 mm]) shall be used if 
+the plate thickness permits, and their central axis shall corre­
+spond as near as practical to the ¼ t plane in the plate thickness 
+t. If the plate thickness is insufficient to obtain full-size 
+specimens, the largest possible subsize specimens shall be 
+used. 
+12.1.4.1 For plates that normally have absorbed energy 
+values in excess of 180 ft-lbf [245 J] if tested using full-size 
+specimens at the specified testing temperature, subsize 0.394 
+by 0.264 in. [10 by 6.7 mm] specimens may be used in lieu of 
+full-size specimens; however, if this option is used, the 
+acceptance value shall be 75 ft-lbf [100 J] minimum for each 
+test specimen and the lateral expansion in mils [micrometres] 
+shall be reported. 
+12.1.5 Test Temperature-The test temperature shall be as 
+specified by the product specification, if applicable, or by the 
+purchaser, except that the manufacturer or processor shall have 
+the option of using a lower test temperature. The actual test 
+temperature used shall be reported with the test results. 
+12.1.6 Acceptance Criteria-The acceptance criteria shall 
+be as specified by the product specification, if applicable, or the 
+purchaser. 
+12.1.6.1 If the acceptance criteria is based upon energy 
+absorption of a full-size specimen, the acceptance criteria for 
+the various subsize specimens shall be as given in TableAl.16 
+[A2.16], except as otherwise provided in 12.1.4.1. 
+12.1.6.2 If the acceptance criterion is based upon lateral 
+expansion opposite the notch, the acceptance value shall be the 
+same for all sizes of test specimens. 
+12.1.7 Marking-The letters "LTV" shall be stenciled or 
+stamped on each plate following the class number, grade, etc. 
+12.1.8 Variability-The impact properties of steel can vary 
+within the same plate-as-rolled or piece, be it as-rolled, 
+control-rolled, or heat-treated. The purchaser should, therefore, 
+be aware that testing of one plate-as-rolled does not provide 
+assurance that all locations within a plate-as-rolled will be 
+identical in toughness with the location tested. Normalizing or 
+quenching and tempering the product will reduce the degree of 
+variation. 
+12.1.8.1 Appendix X3 provides additional information on 
+the variability of Charpy V-notch test properties in plates for 
+pressure vessels. 
+76 
+12.2 Drop-Weight Tests: 
+12.2.1 Where specified, one drop-weight test, consisting of 
+a set of two test specimens, shall be made to the same 
+frequency stated in 12.1.1 in accordance with Test Method 
+E208. 
+12.2.2 The test coupons shall be obtained adjacent to a 
+tension test coupon. For plates produced from coil, the test 
+coupon locations shall be the same as for Charpy V-notch tests. 
+(See 12.1.) The provisions of 12.1.3 shall also apply. 
+12.2.3 The testing temperature shall be as specified in the 
+applicable product specification or the purchase order. 
+12.2.4 Acceptance shall be on the basis of no-break perfor­
+mance of both test specimens at the specified testing tempera­
+ture. 
+12.2.5 The plates shall be marked as required in 12.1.7, 
+except that the letters "LTD" shall be used instead of "LTV." 
+13. Identification of Plates 
+13.1 Required Markings: 
+13.1.1 Except as allowed by 13.4, plates shall be legibly 
+marked with the following information: applicable ASTM 
+designation (see 1.1) (year of issue not required); "G" or" MT" 
+if applicable (see 13.1.2); applicable grade, type, and class; 
+heat number; plate identifier; and name, brand, or trademark of 
+the manufacturer (for plates produced in discrete cut lengths of 
+flat product) or the processor (for plates produced from coil and 
+for subdivided plates (see 13.4)). 
+13.1.2 Plates that are required to be heat treated, but have 
+not been so heat treated, shall be marked, by the manufacturer 
+or processor, with the letter "G" ( denoting green) following the 
+required ASTM designation mark, except that "G" marking is 
+not necessary if such plates are for shipment, for the purpose of 
+obtaining the required heat treatment, to an organization under 
+the manufacturer's control. Plates that are required to be heat 
+treated, and have been so heat treated, shall be marked, by the 
+party that performed the heat treatment, with the letters "MT" 
+( denoting material treated) following the required ASTM 
+designation mark. 
+Norn 2-Any stress relief of test specimens intended to simulate 
+post-weld heat treatment is not included in the above heat treatment. 
+13.2 Types of Marking: 
+13.2.1 Except as allowed by 13.4, the required markings for 
+plates over ¼ in. [6 mm] in thickness shall be by steel die 
+stamping, unless paint marking is specified in the purchase 
+order. 
+13.2.2 Except as allowed by 13.4, the required markings for 
+plates ¼ in. [6 mm] and under in thickness shall be by paint 
+marking or by steel die stamping using low-stress (either 
+round-nose or interrupted-dot) impressions. 
+13.3 Location of Markings: 
+13.3.1 Except as allowed by 13.4, the required markings for 
+plates with a maximum lengthwise or crosswise dimension 
+more than 72 in. [1800 mm] shall be in at least two places on 
+each finished plate, at least 12 in. [300 mm] from the edges of 
+the plate. 
+13.3.2 Except as allowed by 13.4, the required markings for 
+plates with a maximum lengthwise and crosswise dimension of 

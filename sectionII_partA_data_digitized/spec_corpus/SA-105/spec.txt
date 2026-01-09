@@ -1,0 +1,406 @@
+=== Page 216 ===
+
+SA-105 /SA-105M ASME BPVC.II.A-2025 
+Specification for 
+Carbon Steel Forgings for Piping Applications 
+1. Scope 
+1.1 This specification covers forged carbon steel piping 
+components for ambient- and higher-temperature service in 
+pressure systems. Included are flanges, fittings, valves, and 
+similar parts ordered either to dimensions specified by the 
+purchaser or to dimensional standards such as the MSS, 
+ASME, and API specifications referenced in Section 2. Forg­
+ings made to this specification are limited to a maximum 
+weight of 10 000 lb [ 4540 kg]. Larger forgings may be ordered 
+to Specification A266/A266M. Tubesheets and hollow cylin­
+drical forgings for pressure vessel shells are not included 
+within the scope of this specification. Although this specifica­
+tion covers some piping components machined from rolled bar 
+and seamless tubular products (see 5.2), it does not cover raw 
+material produced in these product forms. 
+1.2 Supplementary requirements are provided for use when 
+additional testing or inspection is desired. These shall apply 
+only when specified individually by the purchaser in the order. 
+1.3 Specification A266/ A266M covers other steel forgings 
+and Specifications A675/A675M and A696 cover other steel 
+bars. 
+1.4 This specification is expressed in both inch-pound units 
+and SI units. However, unless the order specifies the applicable 
+"M" specification designation (SI units), the material shall be 
+furnished to inch-pound units. The values stated in either SI 
+units or inch-pound units are to be regarded separately as 
+standard. Within the text, the SI units are shown in brackets. 
+The values stated in each system may not be exact equivalents; 
+therefore, each system shall be used independently of the other. 
+Combining values from the two systems may result in non­
+conformance with the standard. 
+Norn 1-Toe dimensionless designator NPS (nominal pipe size) has 
+been substituted in this standard for such traditional terms as "nominal 
+diameter," "size," and "nominal size." 
+1.5 This international standard was developed in accor­
+dance with internationally recognized principles on standard­
+ization established in the Decision on Principles for the 
+Development of International Standards, Guides and Recom­
+mendations issued by the World Trade Organization Technical 
+Barriers to Trade (TBT) Committee. 
+2. Referenced Documents 
+2.1 In addition to those reference documents listed in 
+Specification A961/A961M, the following list of standards 
+apply to this specification: 
+2.2 ASTM Standards: 
+A266/ A266M Specification for Carbon Steel Forgings for 
+Pressure Vessel Components 
+A675/A675M Specification for Steel Bars, Carbon, Hot­
+Wrought, Special Quality, Mechanical Properties 
+164 
+A696 Specification for Steel Bars, Carbon, Hot-Wrought or 
+Cold-Finished, Special Quality, for Pressure Piping Com­
+ponents 
+A788/A788M Specification for Steel Forgings, General Re-
+quirements • 
+A961/A961M Specification for. Common Requirements for 
+Steel Flanges, Forged Fittings, Valves, and Parts for 
+Piping Applications 
+2.3 MSS Standards: 
+SP 44 Standard for Steel Pipe Line Flanges
+
+=== Page 217 ===
+
+ASME BPVG.ILA-2025 SA-105/SA-105M
+~~ 2.4 ASME Standards: TABLE 1 Chemical Requiremenis ,
+B16.5 Dimensional Standards for Steel Pipe Flanges and Footnote 1—For each reduction of 0.01 % below the specified carbon
+Flanged Fittings maximum (0.35 %), an increase of 0.06 % manganese above the specified |
+B16.9 Wrought Steel Buttwelding Fittings maximum (1.05 %) will be permitted up to a maximum of 1.65 %.
+B16.10 Face-to-Face and End-to-End Dimensions of Fer- Element Composition, %
+rous Valves | Carbon 0.35 max
+B16.11 Forged Steel Fittings, Socket Weld, and Threaded Manganese 0.60-1.05
+B16.34 Valves-Flanged, Threaded and Welding End Saree _ on hax ,
+B16.47 Large Diameter Steel Flanges Silicon 0.10-0.35 ,
+2.5 ASME Boiler and Pressure Vessel Code: Copper a0 ma!
+Section IX ) Chromium 0.30 max“?
+2.6 API Standards: vo yerenum eee ai :
+APJI-600 Flanged and Butt-Welding-End Steel Gate Valves AThe sum of copper, nickel, chromium, molybdenum and vanadium shall not |
+API-602 Compact Design Carbon Steel Gate Valves for —§ oxceeq 1.00 %.
+eT Refinery Use ® The sum of chromium and molybdenum shall not exceed 0.32 %. . .
+3. Terminology
+3.1 Definitions—For definitions of other terms used in this 6.1.4 Piping components other than flanges which meet ,
+specification, refer to Specification A961/A961M. oe OO. vollowing criteria: (I) over NPS 4 and (2) above :
+ass , an
+3.2 Definitions of Terms Specific to This Standard: 6.1.5 Piping components of Special Class other than
+3.2.1 heaviest cross-section, n—maximum heat treated —_fjangeg which meet both of the following criteria: (7) over NPS :
+thickness of the production forging. 4 and (2) when the working pressure at the operating tempera- :
+. , ture exceeds the tabulated values for Special Class 300, Group
+4. Ordering Information LL
+4.1 See Specification AS61/A961M. , 6.2 Heat treatment, when required by 6.1 shall be annealing,
+4.1.1 Additional requirements (see 14.2). , normalizing, or normalizing and tempering or quenching and
+, 5. General Requirements tempering in accordance with Specification A961/A961M. ,
+/ After hot working and before reheating for heat treatment, the
+. 5.1 Product furnished to this specification shall conform to — forging shall be allowed to cool substantially below the
+the requirements of Specification A961/A961M, including any _ transformation range. |
+supplementary requirements that are indicated in the purchase 6.2.1 Quenching shall consist of either (1) fully austenitiz-
+order. Failure to comply with the requirements of Specification ing the forgings followed by quenching in a suitable liquid
+A961/A961M constitutes nonconformance with this specifica- — medium or (2) using a multiple stage procedure whereby the .
+tion. In case of a conflict between the requirements of this forgings are first fully austenitized and rapidly cooled, then
+specification and Specification A961/A961M, this specification —_ reheated to partially reaustenitize, followed by quenching in a
+shall prevail. suitable liquid medium. All quenched forgings shall be tem-
+5.2 Except as permitted by Section 6 in Specification  pered as prescribed in Specification A961/A961M.
+A961/A961M, the finished product shall be a forging as 7 Chemical C “ti |
+defined in the Terminology Section of Specification A788/ + Lmemcal -Omposiion
+A788M. 7.1 The steel shall conform to the chemical requirements ;
+. specified in Table 1. :
+i 6. Heat Treatment 7.2 Steels to which lead has been added shall not be used. ,
+oN 6.1 Heat treatment is not a mandatory requirement of this ; ;
+specification except for the following piping components: 8. Mechanical Properties .
+6.1.1 Flanges above Class 300, 8.1 The material shall conform to the mechanical property :
+6.1.2 Flanges of special design where the design pressure at requirements prescribed in Table 2 and Table 3. |
+the design temperature exceeds the pressure-temperature rat- 8.2 For normalized, normalized and tempered, or quenched F
+ings of Class 300, Group Ll, , and tempered forgings, the central axis of the test specimen :
+6.1.3 Flanges of special design where the design pressure or shall be taken at least 4 T from the nearest surface as-heat- |
+_ design temperature are not known, treated, where T is the maximum heat-treated thickness of the
+represented forging. In addition, for quenched and tempered :
+forgings, the midlength of the test specimen shall be at least 7
+from all other surfaces as-heat-treated, exclusive of the T
+dimension surfaces. When section thickness does not permit :
+165 :
+
+=== Page 218 ===
+
+SA-105/SA-10SM ASME BPVC.II.A-2025 
+TABLE 2 Mechanical RequirementsA 
+Tensile strength, min, ksi [MPa] 
+Yield strength, min, ksi [MPa] 8 
+Elongation in 2 in. or 50 mm, min, %: 
+Basic minimum elongation for walls o/,e in. [7.9 mm] 
+and over in thickness, strip tests. 
+When standard round 2-in. or 50-mm gauge length or 
+smaller proportionally sized specimen with the gauge 
+length equal to 4D is used 
+For strip tests, a deduction for each V.2 -in. [0.8-mm] 
+decrease in wall thickness below o/1e in. [7.9 mm] 
+from the basic minimum elongation 
+of the percentage points of Table 3 
+Reduction of area, min, % 0 
+Hardness, HBW, max 
+A For small forgings, see 8.3.4. 
+70 [485] 
+36 [250] 
+30 
+22 
+30 
+197 
+8 Determined by either the 0.2 % offset method or the 0.5 % extension-under-load 
+method. 
+c See Table 3 for computed minimum values. 
+° For round specimens only. 
+TABLE 3 Computed Minimum Values 
+______ W_a_ll_T_h_ic_kn_e_ss ______ Elongation in 2 in. or 50 
+in. 
+o/,e (0.312) 
+%2 (0.281) 
+¼(0.250) 
+7 /32 (0.219) 
+'½e (0.188) 
+%2(0.156) 
+1/e (0.125) 
+%2(0.094) 
+1/,e (0.062) 
+mm 
+7.9 
+7.1 
+6.4 
+5.6 
+4.8 
+4.0 
+3.2 
+2.4 
+1.6 
+mm, min,% 
+30.00 
+28.50 
+27.00 
+25.50 
+24.00 
+22.50 
+21.00 
+19.50 
+18.00 
+Note-The above table gives the computed minimum elongation values for 
+each V.2-in. [0.8-mm] decrease in wall thickness. Where the wall thickness lies 
+between two values shown above, the minimum elongation value is determined by 
+the following equation: 
+E = 48T+ 15.00 
+where: 
+E = elongation in 2 in. or 50 mm, %, and 
+T = actual thickness of specimen, in. 
+this positioning, the test specimen shall be positioned as near as 
+possible to the prescribed location. 
+8.3 Tension Tests: 
+8.3.1 One tension test shall be made for each heat of 
+as-forged components. 
+8.3.2 One tension test shall be made from each heat-treating 
+charge. If more than one heat is included in such a charge, each 
+heat shall be tested. 
+8.3.2.1 When forgings of different shapes are included in the 
+same heat-treating charge, the test specimen shall be obtained 
+from the heaviest cross-section of the thickest forging, except 
+for hubbed flanges (see 8.3.3). The test specimen shall repre­
+sent all forgings from the same heat and heat-treating charge 
+whose maximum thicknesses do not exceed the thickness of the 
+test forging. 
+8.3.2.2 When the heat-treating temperatures are the same 
+and the furnaces (either batch or continuous type), are con­
+trolled within ±25 °F [±14 °C] and equipped with recording 
+pyrometers so that complete records of heat treatment are 
+available, then one tension test from each heat is required 
+instead of one test from each heat in each heat-treatment 
+charge. The test specimen material shall be included with a 
+furnace charge. 
+8.3.3 Testing shall be performed as specified in Specifica­
+tion A961/A961M. The largest feasible round specimen shall 
+be used except when hollow cylindrically shaped parts are 
+machined from seamless tubulars, When hollow cylindrically 
+shaped parts are machined from seamless tubular materials, 
+strip tests may be used. The tension test specimen shall be 
+obtained from a production forging, or from an integral 
+prolongation representative of the hub location of a flange, or 
+the heaviest cross section of a fitting, valve, or other part within 
+the scope of this specification. 
+8.3.4 Forgings too small to permit obtaining a subsize 
+specimen of 0.250 in. [6.35 mm] diameter or larger parallel to 
+the dimension of maximum working, and produced in equip­
+ment unsuitable for the production of a separately forged test 
+bar such as an automatic or semi-automatic press, may be 
+accepted on the basis of hardness only. One percent of the 
+forgings per lot, where a lot is the product from a heat, or, if 
+heat treated, the product of a heat per furnace charge, or ten 
+forgings, whichever is the lesser number, shall be selected at 
+random, prepared, and tested using the standard Brinell test. 
+The locations of the indentations shall be at the option of the 
+manufacturer but shall be selected to be representative of the 
+forging as a whole. One indentation per forging shall be 
+required but additional indentations may be made to establish 
+the representative hardness. The hardness of all forgings so 
+tested shall be 137 to 197 HBW inclusive. 
+8.4 Hardness Tests: 
+8.4.1 Two hardness tests shall be made for each heat of 
+as-forged components. When more than one forging is pro­
+duced from each heat, a minimum of two forgings shall be 
+tested with one reading from each forging. When only one 
+forging is produced, it shall be tested in two locations. 
+8.4.2 Except when only one forging is produced, a mini­
+mum of two forgings shall be hardness tested per batch or 
+continuous run as defined in 8.3.2.2 to ensure that forgings are 
+within the hardness limits given in Table 2. When only one 
+forging is produced, it shall be hardness tested in two locations 
+to ensure it is within the hardness limits given in Table 2. 
+166 
+8.4.3 Testing shall be as specified in Specification A961/ 
+A961M. The purchaser may verify that the requirement has 
+been met by testing at any location on the forging, provided 
+such testing does not render the forging useless. 
+9. Hydrostatic Tests 
+9.1 Such tests shall be conducted by the forging manufac­
+turer only when Supplementary Requirement S57 in Specifi­
+cation A961/A961M is specified. 
+10. Retreatment 
+10.1 If the results of the mechanical tests do not conform to 
+the requirement specified, the manufacturer may heat treat or 
+reheat treat the forgings as applicable and repeat the test 
+specified in Section 8.
+
+=== Page 219 ===
+
+ASME BPVC.II.A-2025 SA-105/SA-105M 
+11. Surface Finish, Appearance, and Corrosion 
+Protection 
+11.1 The requirements of Specification A961/A961M apply 
+to forgings and finished parts. 
+12. Repair by Welding 
+12.l Repair of defects by the manufacturer is permissible 
+for forgings made to dimensional standards such as those of 
+ASME or for other parts made for stock; by the manufacturer. 
+Prior approval of the purchaser is required to repair-weld 
+special forgings made to the purchaser's requirements. 
+12.2 Weld repairs shall be made by a process that does not 
+produce undesirably high levels of hydrogen in the welded 
+areas. 
+12.3 All forgings repaired by welding shall be post-weld 
+heat treated between 1100 °F [593 °C] and the lower transfor­
+mation temperature for a minimum of ½ h/in. [½ h/25.4 mm] 
+of maximum section thickness, or alternatively annealed, 
+normalized and tempered, or quenched and tempered. If the 
+forging was not previously heat treated, the original tempering 
+temperature was exceeded, or the forging was fully heat treated 
+in the post weld cycle, then the forging shall be tested in 
+accordance with Section 8 on completion of the cycle. 
+12.4 The mechanical properties of the procedure­
+qualification weldment shall, when tested in accordance with 
+Section IX of the ASME Boiler and Pressure Vessel Code, 
+conform with the requirements listed in Table 2 for the thermal 
+condition of repair-welded forgings. 
+13. Rejection and Rehearing 
+13.1 Each forging that develops mJunous defects during 
+shop working or application shall be rejected and the manu­
+facturer notified. 
+14. Certification 
+14.1 Identification Marking-For forgings made to specified 
+dimensions, when agreed upon by the purchaser, and for 
+forgings made to dimensional standards, application of identi­
+fication marks as required in Specification A961/A961M shall 
+be the certification that the forgings have been furnished in 
+accordance with the requirements of this specification. 
+14.2 Test Reports-The manufacturer shall also provide the 
+following, where applicable: 
+14.2.1 Type heat treatment, Section 6, 
+14.2.2 Tensile property results, Section 8 (Table 2), report 
+the yield strength and tensile strength, in ksi [MPa], elongation 
+and reduction in area, in percent; and, if longitudinal strip 
+tension specimens are used, report the width of the gauge 
+length, 
+14.2.3 Chemical analysis results, Section 7 (Table 1), re­
+ported results shall be to the same number of significant figures 
+as the limits specified in Table 1 for that element. 
+14.2.4 Hardness results, Section 8 (Table 2), a minimum of 
+two readings, and 
+14.2.5 Any supplementary testing required by the purchase 
+order. 
+15. Product Marking 
+15.1 In addition to marking requirements of Specification 
+A961/A961M, the following additional marking requirements 
+shall apply: 
+15.1.1 If the forgings have been quenched and tempered, the 
+letters "QT" shall be stamped on the forgings following this 
+specification number. 
+15.1.2 Forgings repaired by welding shall be marked with 
+the letter "W" following this specification number. 
+15.1.3 Plugs and bushings furnished to ASME B16.11 
+requirements are not required to be marked. Other parts 
+ordered with no marking are by agreement between the 
+purchaser and manufacturer. 
+15.1.4 When agreed upon between the purchaser and manu­
+facturer and specified in the order, the markings shall be 
+painted or stenciled on the fitting or stamped on a metal or 
+plastic tag which shall be securely attached to the fitting. 
+15.2 Bar Coding-In addition to the requirements in 
+Specification A961/A961M, bar coding is acceptable as a 
+supplemental identification method. The purchaser may 
+specify in the order a specific bar coding system to be used. 
+The bar coding system, if applied at the discretion of the 
+supplier, should be consistent with one of the published 
+industry standards for bar coding. If used on small parts, the 
+bar code may be applied to the box or a substantially applied 
+tag. 
+167 
+16. Keywords 
+16.1 pipe fittings, steel; piping applications; pressure con­
+taining parts; steel flanges; steel forgings, carbon; steel valves; 
+temperature service applications, elevated; temperature service 
+applications, high
+
+=== Page 220 ===
+
+SA-105/SA-105M ASME BPVC.II.A-2025 
+SUPPLEMENTARY REQUIREMENTS 
+The following supplementary requirements shall apply only when specified by the purchaser in the 
+inquiry, contract, and order. 
+Sl. Hardness 
+S 1.1 The purchaser may check the hardness of any or all 
+forgings supplied at any location on the forging and the 
+hardness shall be 137 to 197 HBW. All forgings not within the 
+specified hardness range shall be rejected. 
+S2. Heat Treatment 
+S2.1 All forgings shall be heat treated as specified by the 
+purchaser. 
+S2.2 When forgings not requiring heat treatment by 6.1 are 
+supplied heat treated by purchaser request, the basis for 
+determining conformance with Table 2 and Table 3 shall be 
+hardness testing per 8.4 and either (J) tensile testing of heat 
+treated forgings per 8.2, or (2) tensile tests from as-forged 
+forgings or separately forged test blanks, as agreed upon 
+between the supplier and purchaser. 
+S2.3 When test reports are required, and tensile test results 
+were obtained from as-forged forgings or as-forged test blanks, 
+it shall be so indicated on the test report. 
+S2.4 fu addition to the marking required by Section 15, this 
+specification shall be followed by the letter: A for annealed, N 
+for normalized, NT for normalized and tempered, or QT for 
+quenched and tempered, as appropriate. 
+168 
+S3. Marking Small Forgings 
+S3.1 For small products where the space for marking is less 
+than 1 in. [25 mm] in any direction, test reports are mandat01y 
+and marking may be restricted to only such symbols or codes 
+as are necessary to identify the parts with test reports. 
+S3.2 When the configuration or size does not permit mark­
+ing directly on the forging, the marking method shall be a 
+matter of agreement between the manufacturer and the pur­
+chaser. 
+S4. Carbon Equivalent 
+S4.1 The maximum carbon equivalent, based on heat 
+analysis, shall be 0.47 for forgings with a maximum section 
+thickness of 2 in. or less, and 0.48 for forgings with a 
+maximum section thickness of greater than 2 in. 
+S4.2 Determine the carbon equivalent (CE) as follows: 
+CE= C + Mn/6 + ( Cr+ Mo+ V)/5+ (Ni+ Cu)/15 
+S4.3 A lower maximum carbon equivalent may be agreed 
+upon between the supplier and the purchaser.

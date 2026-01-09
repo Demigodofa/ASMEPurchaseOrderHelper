@@ -1,0 +1,134 @@
+,,,--, 
+,,..-- .... _ 
+ASME BPVC.II.A-2025 SA-587 
+TABLE 1 Tolerance for Outside Diameter and Wall Thickness 
+NPS Outside Diameter 
+Designator Min 
+0.8125 :!: 0.004 0.095 
+½ 0.840 :1: 0.006 0.095 
+% 1.050 :!:0.006 0.099 
+1.0625 :1: 0.006 0.099 
+1.3125 :!: 0.006 0.116 
+1.315 :1: 0.006 0.116 
+1¼ 1.660 ± 0.007 0.121 
+1.875 ± 0.008 0.127 
+1½ 1.900 ± 0.008 0.127 
+2 2.375 ± 0.010 0.135 
+3 3.500±0.015 0.189 
+4 4.500 ± 0.017 0.207 
+6 6.625 ± .030 0.245 
+8 8.625 :1: .040 0.282 
+10 10.750 ± .050 0.319 
+20.64:1: 0.10 2.41 
+½ 21.30 ± 0.15 2.41 
+% 26.70 :1: 0.15 2.51 
+26.99 :1: 0.15 2.51 
+33.34 ± 0.15 2.95 
+33.40 :1: 0.15 2.95 
+1¼ 42.16 :1: 0.18 3.07 
+47.63 ± 0.20 3.22 
+1½ 48.30 ± 0.020 3.22 
+2 60.33 ± 0.25 3.43 
+3 88.90 ± 0.38 4.80 
+4 114.30 ± 0.43 5.26 
+6 168.28 :1: 0.76 6.22 
+8 219.08 ± 1.02 7.16 
+10 273.05 :1: 1.27 8.10 
+critical temperature. Cold-drawn pipe shall be normalized after 
+the final cold-draw pass. 
+5. Chemical Composition 
+5.1 Heat Analysis-An analysis of each heat of steel shall be 
+made to determine the percentages of the elements specified. 
+The chemical composition thus determined shall conform to 
+the requirements specified in Table 2 and the chemical analysis 
+shall be in accordance with Test Methods, Practices, and 
+Terminology A751. 
+5.2 Product Analysis-When requested on the purchase 
+order, a product analysis shall be made by the supplier from 
+one pipe or coil of steel per heat. The chemical composition 
+thus determined shall be reported to the purchaser or the 
+purchaser's representative and shall conform to the require­
+ments specified in Table 2. 
+5.3 Retests-If the original test for product analysis fails, 
+retests of two additional lengths of flat-rolled stock or pipe 
+shall be made. Both retests for the elements in question shall 
+meet the requirements of the specification; otherwise, all 
+remaining material in the heat shall be rejected or, at the option 
+TABLE 2 Chemical Composition Requirements 
+Element 
+Carbon, max 
+Manganese 
+Phosphorus, max 
+Sulfur, max 
+Aluminum 
+Composition, % 
+0.15 
+0.27-0.63 
+0.035 
+0.035 
+0.02-0.100 
+Wall Thickness 
+Norn Max Min Norn Max 
+Inches 
+0.103 0.111 0.129 0.140 0.151 
+0.103 0.111 0.125 0.140 0.151 
+0.108 0.117 0.135 0.147 0.159 
+0.108 0.117 0.135 0.147 0.159 
+0.126 0.136 0.157 0.171 0.185 
+0.126 0.136 0.157 0.171 0.185 
+0.132 0.143 0.167 0.182 0.197 
+0.138 0.149 0.175 0.190 0.205 
+0.158 0.149 0.175 0.190 0.205 
+0.147 0.159 0.191 0.208 0.225 
+0.206 0.223 0.262 0.286 0.310 
+0.226 0.245 0.295 0.322 0.349 
+0.267 0.289 0.378 0.412 0.446 
+0.308 0.334 0.438 0.478 0.518 
+0.348 0.377 0.520 0.567 0.614 
+Millimetres 
+2.62 2.82 3.28 3.56 3.84 
+2.62 2.82 3.28 3.56 3.84 
+2.74 2.97 3.43 3.73 4.04 
+2.74 2.97 3.43 3.73 4.04 
+3.20 3.45 3.99 4.34 4.10 
+3.20 3.45 3.99 4.34 4.70 
+3.35 3.63 4.24 4.62 5.00 
+3.51 3.78 4.45 4.83 5.21 
+3.51 3.78 4.45 4.83 5.21 
+3.73 4.04 4.85 5.28 5.72 
+5.23 5.66 6.66 7.26 7.87 
+5.74 6.22 7.49 8.18 8.87 
+9.32 7.34 9.60 10.47 11.33 
+7.82 8.48 11.13 12.14 13.16 
+8.84 9.58 13.21 14.40 15.60 
+of the producer, each length of flat-rolled stock or pipe may be 
+individually tested for acceptance. Lengths of flat-rolled stock 
+or pipe which do not meet the requirements of the specification 
+shall be rejected. 
+5.4 Supplying an alloy grade of steel that specifically 
+requires the addition of any element other than those listed in 
+Table 2 is not permitted. 
+6. Mechanical Requirements 
+6.1 Tensile Properties: 
+6.1.1 The material shall conform to the requirements as to 
+tensile properties prescribed in Table 3. 
+6.1.2 The yield strength shall be determined by the drop of 
+the beam, by the halt in the gauge of the testing machine, by the 
+use of dividers, or by other approved methods. When a definite 
+yield point is not exhibited, the yield strength corresponding to 
+a permanent offset of 0.2 % of the gauge length of the 
+specimen, or to a total extension of 0.5 % of the gauge length 
+under load, shall be determined. 
+6.1.3 If the percentage of elongation of any test specimen is 
+less than that specified and any part of the fracture is more than 
+¾ in. ( 19 mm) from the center of the gauge length, as indicated 
+by scribe marks on the specimen before testing, a retest shall be 
+allowed. 
+1025 
+TABLE 3 Tensile Requirements 
+Tensile strength, min, psi (MPa) 
+Yield strength, min, psi (MPa) 
+Elongation in 2 in. or 50 mm, min, % 
+48 000 (331) 
+30 000 (207) 
+40 

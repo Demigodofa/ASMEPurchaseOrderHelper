@@ -1,0 +1,96 @@
+ASME BPVC.II.A-2025 SA-609 /SA-609M 
+3.2.1.5 Any requirements additional to the provi­
+sions of this practice. 
+3.3 Procedure B: Back-Wall Reflection Calibration 
+Procedure - When this procedure is to be applied to an 
+inquiry, contract, or order, the purchaser shall designate the 
+quality levels for the entire casting or applicable portions. 
+PROCEDURE A - FLAT-BOTTOMED HOLE 
+CALIBRATION PROCEDURE 
+4. Apparatus 
+4.1 Electronic Apparatus: 
+4.1.1 An ultrasonic, pulsed, reflection type of instru­
+ment that is capable of generating, receiving, and ampli­
+fying frequencies of at least 1 to 5 MHz. 
+4.1.2 The ultrasonic instrument shall provide linear 
+presentation (within ±5%) for at least 75% of the screen 
+height (sweep line to top of screen). Linearity shall be 
+determined in accordance with Practice E 317 or equivalent 
+electronic means. 
+4.1.3 The electronic apparatus shall contain a signal 
+attenuator or calibrated gain control that shall be accurate 
+over its useful range to ±10% of the nominal attenuation 
+or gain ratio to allow measurement of signals beyond the 
+linear range of the instrument. 
+4.2 Search Units: 
+4.2.1 Longitudinal Wave, internally grounded, having 
+a ½ to 1½ in. [13 to 28 mm] diameter or 1 in. [25 mm] 
+square piezo-electric elements. Based on the signals-to­
+noise ratio of the response pattern of the casting, a fre­
+quency in the range from 1 to 5 MHz shall be used. The 
+background noise shall not exceed 25% of the distance 
+amplitude correction curve (DAC). Transducers shall be 
+utilized at their rated frequencies. 
+4.2.2 Dual-Element, 5 MHz, ½, by 1 in. [13 by 
+25 mm], 12° included angle search units are recommended 
+for sections 1 in. [25 mm] and under. 
+4.2.3 Other frequencies and sizes of search units may 
+be used for evaluating and pinpointing indications. 
+4.3 Reference Blocks: 
+4.3.1 Reference blocks containing flat-bottom holes 
+shall be used to establish test sensitivity in accordance 
+with 8.2. 
+4.3.2 Reference blocks shall be made from cast steels 
+that give an acoustic response similar to the castings being 
+examined. 
+4.3.3 The design of reference blocks shall be in 
+accordance with Fig. 1, and the basic set shall consist of 
+those blocks listed in Table 1. When section thicknesses 
+over 15 in. [380 mm] are to be inspected, an additional 
+block of the maximum test thickness shall be made to 
+supplement the basic set. 
+4.3.4 Machined blocks with ¾ 2 in. [2.4 mm] diameter 
+flat-bottom holes at depths from the entry surface of ½ in. 
+[3 mm], ½ in. [13 mm], or ½t and ¾ in. [19 mm], or ¾t 
+( where t = thickness of the block) shall be used to establish 
+the DAC for the dual-element search units (see Fig. 2). 
+4.3.5 Each reference block shall be permanently 
+identified along the side of the block indicating the material 
+and the block identification. 
+4.4 Couplant - A suitable couplant having good wet­
+ting characteristics shall be used between the search unit 
+and examination surface. The same couplant shall be used 
+for calibrations and examinations. 
+5. Personnel Requirements 
+5.1 The manufacturer shall be responsible for assigning 
+qualified personnel to perform ultrasonic examination in 
+conformance with the requirements of this practice. 
+5.2 Personnel performing ultrasonic examinations in 
+accordance with this practice shall be familiar with the 
+following: 
+5.2.1 Ultrasonic terminology. 
+5.2.2 Instrument calibration. 
+5.2.3 Effect of transducer material, size, frequency, 
+and mode on test results. 
+5.2.4 Effect of material structure (grain size, cleanli-
+ness, etc.) on test results. 
+5.2.5 Effect of test distance on test results. 
+5.2.6 Effect of nonlinearity on test results. 
+5.2.7 Effect of thickness and orientation of disconti­
+nuities on test results. 
+5.2.8 Effect of surface roughness on test results. 
+5.3 A qualification record (see Note 2) of personnel 
+considered suitable by the manufacturer to perform exami­
+nations in accordance with this practice shall be available • 
+upon request. 
+NOTE 2 - SNT-TC-lA, Ultrasonic Testing Method, provides a recom­
+mended procedure for qualifying personnel. Other personnel qualification 
+requirement documents may be used when agreed upon between the 
+purchaser and the supplier. 
+6. Casting Conditions 
+6.1 Castings shall receive at least an austenitizing heat 
+treatment before being ultrasonically examined. 
+6.2 Test surfaces of castings shall be free of material 
+that will interfere with the ultrasonic examination. They 
+may be as cast, blasted, ground, or machined. 
+1035 

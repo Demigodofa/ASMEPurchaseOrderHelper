@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 597,
+  "globalPageIndex": 597,
+  "width": 620.76,
+  "height": 859.92,
+  "text": "ASME BPVC.II.A-2025 \nTABLE 3 Continued \nMaterial Grade Tensile strength, Yield strength,A Elongation in 2 in. or \nmin, ksi [MPa] min, ksi [MPa] 50 mm, 8 min, % \nHG10MnN 76 33 20 \nJ92604 [525] [225] \nHK30 65 35 10 \nJ94203 [450] [240] \nHK40 62 35 10 \nJ94204 [425] [240] \nHT30 65 28 15 \nN08030 [450] [195] \nA Determine by the 0.2 % offset method. \n8 When ICI test bars are used in tensile testing as provided for in Specification \nA985/A985M, the gauge length to reduced section diameter ratio shall be 4 to 1. \nSUPPLEMENTARY REQUIREMENTS \nSA-351/SA-351M \nThe following supplementary requirements shall not apply unless specified in the purchase order. A \nlist of standardized supplementary requirements for use at the option of the purchaser is included in \nSpecifications A703/A703M and A985/A985M. Those which are ordinarily considered suitable for \nuse with this specification are given below. Others enumerated in Specifications A 703/ A 703M and \nA985/A985M may be used with this specification upon agreement between the manufacturer and \npurchaser. \nS2. Destruction Tests \nSS. Radiographic Inspection \nS6. Liquid Penetrant Inspection \nSlO. Examination of Weld Preparation \nS33. Stabilization Heat Treatment of CFSC \nS33.l CP8C shall be stabilized at 1600 to 1650 \u00b0P [870 to \n900 \u00b0C] for a minimum time of 1 h/in. [25 mm] of thickness \nand water quenched or rapidly cooled by other means. The \ngrade designation symbol shall be followed by the symbol \n\"S33.\" \nS34. Stabilization Heat Treatment of CFlOMC \nS34.l CPl0MC shall be stabilized at 1600 to 1650 \u00b0P [870 \nto 900 \u00b0C] for a minimum time of l h/in. [25 mm] of thickness \nand water quenched or rapidly cooled by other means. The \ngrade designation symbol shall be followed by the symbol \n\"S34.\" \nSSO. Post-Weld Heat Treatment \nS50.l All austenitic castings, except Grades HK, HT, and \nCT15C, which have been subjected to weld repairs, shall be \ngiven a post-weld solution heat treatment. \nS50.2 The post-weld treatment for grades CK3MCuN and \nCN3MN shall be as specified in Table 3, except that the \nminimum soak time for castings that have already been heat \ntreated according to Table 3 may be 1 h. \n545 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0597.json",
+  "tabulaTablesCsv": "tables_tabula/page-0597.csv",
+  "tabulaTableCount": 2,
+  "bestTextPath": "best_text/pages/page-0597.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2163,
+  "bestTextAlphaRatio": 0.6847
+}

@@ -1,0 +1,111 @@
+SA-20/SA-Z0M ASME BPVC.II.A-2025 
+A736/A736M Specification for Pressure Vessel Plates, Low­
+Carbon Age-Hardening Nickel-Copper-Chromium­
+Molybdenum-Columbium (Niobium) Alloy Steel 
+A 737 / A 737M Specification for Pressure Vessel Plates, High­
+Strength, Low-Alloy Steel 
+A738/A738M Specification for Pressure Vessel Plates, Heat­
+Treated, Carbon-Manganese-Silicon Steel, for Moderate 
+and Lower Temperature Service 
+A751 Test Methods, Practices, and Terminology for Chemi­
+cal Analysis of Steel Products 
+A770/A770M Specification for Through-Thickness Tension 
+Testing of Steel Plates for Special Applications 
+A832/A832M Specification for Pressure Vessel Plates, Alloy 
+Steel, Chromium-Molybdenum-Vanadium 
+A841/A841M Specification for Steel Plates for Pressure 
+Vessels, Produced by Thermo-Mechanical Control Pro­
+cess (TMCP) 
+A844/A844M Specification for Steel Plates, 9 % Nickel 
+Alloy, for Pressure Vessels, Produced by the Direct­
+Quenching Process 
+A941 Terminology Relating to Steel, Stainless Steel, Related 
+Alloys, and Ferroalloys 
+A1017/A1017M Specification for Pressure Vessel Plates, 
+Alloy Steel, Chromium-Molybdenum-Tungsten 
+E21 Test Methods for Elevated Temperature Tension Tests of 
+Metallic Materials 
+E29 Practice for Using Significant Digits in Test Data to 
+Determine Conformance with Specifications 
+E112 Test Methods for Determining Average Grain Size 
+E208 Test Method for Conducting Drop-Weight Test to 
+Determine Nil-Ductility Transition Temperature of Fer­
+ritic Steels 
+E709 Guide for Magnetic Particle Testing 
+2.2 American Society of Mechanical Engineers Code: 
+ASME Boiler and Pressure Vessel Code, Section IX 
+2.3 U.S. Federal Standard: 
+Fed. Std. No. 123 Marking for Shipment (Civil Agencies) 
+2.4 Automotive Industry Action Group Standard: 
+B 1 Bar Code Symbology Standard 
+3. Terminology 
+3.1 Definitions of Terms Specific to This Standard: 
+3.1.1 as-rolled-for plates, the condition of a plate that has 
+been hot-rolled and will not be or has not yet been heat treated. 
+3.1.1.1 Discussion-The term as-rolled by itself is not 
+meant to refer to plates that have been hot-rolled using control­
+rolling (CR), direct quench (DQT), thermo-mechanical control 
+rolling (TMCP), recrystalization control rolling (RCR), or any 
+similar methods that ate intended to produce a set of properties 
+that are not normally achievable were they not employed. The 
+term as-rolled is to be distinguished from the established term 
+70 
+plate-as-rolled that does not define the actual condition of a 
+plate, but defines the singular product of a slab or ingot that has 
+been hot-rolled 
+3.1.2 coil-hot-rolled steel in coil form for processing into 
+finished plates. 
+3.1.3 exclusive-when used in relation to ranges, as for 
+ranges of thicknesses in the tables of permissible variations in 
+dimensions, the term is intended to exclude only the greater 
+value of the range. Thus, a range from 60 to 72 in. [1500 to 
+1800 mm] exclusive includes 60 in. [1500 mm], but does not 
+include 72 in. [1800 mm]. 
+3.1.4 heat treatment terms-see 3.1.11, and Terminology 
+A941. 
+3.1.5 hot forming-a forming operation producing penna­
+nent deformation, performed after the plate has been heated to 
+the temperature required to produce grain refinement. 
+3.1.6 hot-rolled (hot rolling)-for plates, the process de­
+scribed for a plate that has been rolled from a slab or ingot 
+whose starting temperature is suitably above the recrystalliza­
+tion temperature of the metal to be rolled. 
+3.1.6.1 Discussion-Hot-rolled may be used in conjunction 
+with any rolling process to more effectively describe a specific 
+condition, for example; hot-rolled as-rolled; hot-rolled control­
+rolled, etc. 
+3.1.7 manufacturer-the organization that directly controls 
+the conversion of steel ingots or slabs, by hot rolling, into 
+plate-as-rolled or into coil; and for plates produced from 
+plate-as-rolled, the organization that directly controls, or is 
+responsible for, one or more of the operations involved in 
+finishing the plates. Such finishing operations include leveling, 
+cutting to length, testing, inspection, conditioning, heat treat­
+ment (if applicable), packaging, marking, loading for shipment, 
+and certification. 
+3.1.7.1 Discussion-The finishing operations need not be 
+done by the organization that did the hot rolling of the plate. 
+For plates produced from coil, see also 3.1.2. 
+3.1.8 mill edge-the normal edge produced by rolling be­
+tween horizontal finishing rolls. A mill edge does not conform 
+to any definite contour. Mill edge plates have two mill edges 
+and two trimmed edges. 
+3.1.8.1 Discussion-Mill edge plates may at times be side­
+trimmed on one or both sides at the discretion of the manu­
+facturer. 
+3.1.9 plate identifier-the alpha, numeric, or alphanumeric 
+designation used to identify the plate. 
+3.1.10 plates-flat hot-rolled steel, ordered to thickness or 
+weight and typically to width and length, commonly available 
+by size as follows: 
+Width, in. [mm] 
+Over 8 [200] 
+Over 48 [1200] 
+Thickness, in. [mm] 
+over 0.229 [6.0 mm and over] 
+over 0.179 [4.6 mm and over] 
+3.1.10.1 Discussion-Steel plates are available in various 
+thickness, width, and length combinations dependent upon 
+equipment and processing capabilities of various manufactur­
+ers and processors. Historic limitations of a plate based upon 
+dimensions (thickness, width, and length) do not take into 

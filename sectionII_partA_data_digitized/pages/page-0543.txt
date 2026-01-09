@@ -1,0 +1,31 @@
+ASME BPVC.II.A-2025 SA-333/SA-333M 
+APPENDIX 
+(Nonmandatory Information) 
+Xl. DETERMINATION OF TEMPERATURE REDUCTIONS 
+Xl.l Under the circumstances stated in 14.1.2, the impact 
+test temperatures specified in Table 4 must be lowered. The 
+following examples are offered to describe the application of 
+the provisions of 14.1.2. 
+Xl.1.1 When subsize specimens are used (see 10.1) and the 
+width along the notch of the subsize specimen in 80 % or 
+greater of the actual wall thickness of the original material, the 
+provisions of 14.1.2 do not apply. 
+Xl.1.1.l For example, if the actual wall thickness of pipe 
+was 0.200 in. [5.0 mm] and the width along the notch of the 
+largest subsize specimen obtainable is 0.160 in. [4 mm] or 
+greater, no reduction in test temperature is required. 
+Xl.1.2 When the width along the subsize specimen notch is 
+less than 80 % of the actual wall thickness of the pipe, the 
+required reduction in test temperature is computed by taking 
+the difference between the temperature reduction values shown 
+in Table 6 for the actual pipe thickness and the specimen width 
+used. 
+Xl.1.2.l For example, if the pipe were 0.262 in. [6.67 mm] 
+thick and the width along the Charpy specimen notch was 3.33 
+mm (1/3 standard size), the test temperature would have to be 
+lowered by 25 °F [14 °C]. That is, the temperature reduction 
+corresponding to the subsize specimen is 35 °F [19 °C]; the 
+temperature reduction corresponding to the actual pipe thick­
+ness is 10 °F [5 °C]; the difference between these two values is 
+the required reduction in test temperature. 
+491 

@@ -1,0 +1,783 @@
+[
+  {
+    "rows": [
+      [
+        "Nickel",
+        "",
+        "",
+        "",
+        "",
+        "2.0-3.3",
+        "the manufacturer's option, the flattening test specified in 6.3.1,"
+      ],
+      [
+        "Chromium",
+        "0.80-1.15",
+        "0.40-0.65",
+        "0.40-0.65",
+        "0.80-1.15",
+        "1.00-1.80",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "or a transverse bend test in accordance with Test Methods E290"
+      ],
+      [
+        "Molybdenum",
+        "0.15-0.25",
+        "0.15-0.25",
+        "0.15-0.25",
+        "0.15-0.25",
+        "0.20-0.60",
+        ""
+      ],
+      [
+        "Vanadium",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "is required. In cases in which the Test Methods E290 method"
+      ],
+      [
+        "Boron",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "used stipulates a bend test pin or mandrel, the diameter shall be"
+      ],
+      [
+        "",
+        "",
+        "",
+        "Grade N",
+        "Grade P",
+        "Grade R",
+        ""
+      ],
+      [
+        "",
+        "",
+        "Grade M",
+        "",
+        "",
+        "",
+        "as specified in Table 4. No cracks or ruptures in the test piece"
+      ],
+      [
+        "",
+        "",
+        "",
+        "Classes",
+        "Classes",
+        "Classes 55,",
+        ""
+      ],
+      [
+        "",
+        "Grade L",
+        "Classes 85",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "100,120,",
+        "100, 120,",
+        "65, 70, 90,",
+        "are allowable when the test piece is bent through the required"
+      ],
+      [
+        "",
+        "",
+        "and 100",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "140",
+        "140",
+        "110",
+        "angle."
+      ],
+      [
+        "Carbon",
+        "0.38-0.43",
+        "0.23 max",
+        "0.35 max",
+        "0.40 max",
+        "0.35-0.50",
+        ""
+      ],
+      [
+        "Manganese",
+        "0.60-0.80",
+        "0.20-0.40",
+        "0.90 max",
+        "0.90 max",
+        "0.75-1.05",
+        "6.4 Orientation and Location of Test Specimens:"
+      ],
+      [
+        "Phosphorus,",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "0.015",
+        "0.015",
+        "0.015",
+        "0.015",
+        "0.015",
+        "6.4.1 Test specimens representing vessel bodies or shells"
+      ],
+      [
+        "max",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Sulfur, max",
+        "0.010",
+        "0.010",
+        "0.015",
+        "0.015",
+        "0.010",
+        "shall be taken from a prolongation of a forging, from test rings"
+      ],
+      [
+        "Silicon",
+        "0.15-0.35",
+        "0.30 max",
+        "0.35 max",
+        "0.35 max",
+        "0.15--0.35",
+        "that have been heat treated with the forgings they represent, or"
+      ],
+      [
+        "Nickel",
+        "1.65-2.00",
+        "2.8-3.9",
+        "1.5--2.25",
+        "2.3-3.3",
+        "",
+        "from a representative forging after heat treatment in accor\u00ad"
+      ],
+      [
+        "Chromium",
+        "0.70-0.90",
+        "1.50-2.00",
+        "0.80-2.00",
+        "0.80--2.00",
+        "0.80--1.15",
+        ""
+      ],
+      [
+        "Molybdenum",
+        "0.20-0.30",
+        "0.40-0.60",
+        "0.20-0.40",
+        "0.30-0.50",
+        "0.15-0.25",
+        "dance with 4.3."
+      ]
+    ]
+  },
+  {
+    "rows": [
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "55, 65, 70",
+        "Grade C",
+        "0.65 D"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Grade D",
+        "0.7 D"
+      ],
+      [
+        "Carbon",
+        "0.30 max",
+        "0.35 max",
+        "0.48 max",
+        "0.40-0.50",
+        "0.25-0.35",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Grades E, F, G, H, J, R (Class 55)",
+        "0.7 D"
+      ],
+      [
+        "Manganese",
+        "1.00 max",
+        "1.35 max",
+        "1.65 max",
+        "1.40-1.80",
+        "0.40-0.90",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Grades E, F, G, H, J, R (Class 65)",
+        "a.a o"
+      ],
+      [
+        "Phosphorus,",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "0.015",
+        "0.015",
+        "0.015",
+        "0.015",
+        "0.015",
+        "Grades E, F, G, H, J, R Class 70)",
+        ""
+      ],
+      [
+        "max",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "0.8 D"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "and Grades J, R (Class 90)",
+        ""
+      ],
+      [
+        "Sulfur, max",
+        "0.010",
+        "0.010",
+        "0.010",
+        "0.010",
+        "0.010",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Grades J, R (Class 110)",
+        "0.9 D"
+      ],
+      [
+        "Silicon",
+        "0.15--0.35",
+        "0.15-0.35",
+        "0.15-0.35",
+        "0.15-0.35",
+        "0.15--0.35",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Grade K",
+        "0.8 D"
+      ],
+      [
+        "Nickel",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Grade L",
+        "0.9 D"
+      ],
+      [
+        "Chromium",
+        "",
+        "",
+        "",
+        "",
+        "0.80-1.15",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Grade M (Class 85)",
+        "0.7 D"
+      ],
+      [
+        "Molybdenum",
+        "...",
+        "",
+        "",
+        "0.17-0.27",
+        "0.15-0.25",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Grade M (Class 100)",
+        "0.8 D"
+      ],
+      [
+        "Vanadium",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Grades N, P (Class 100)",
+        "0.8 D"
+      ],
+      [
+        "Boron",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Grades N, P (Classes 120, 140)",
+        "0.9 D"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "Grade J",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Grade F",
+        "Grade G",
+        "Grade H",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "Classes",
+        "",
+        "A D = outside diameter.",
+        ""
+      ],
+      [
+        "",
+        "Classes",
+        "Classes",
+        "Classes",
+        "",
+        "Grade K",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "55,",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "55,65, 70",
+        "55, 65, 70",
+        "55,65, 70",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "65, 70,110",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Carbon",
+        "0.30-0.40",
+        "0.25-0.35",
+        "0.30-0.40",
+        "0.35-0.50",
+        "0.18 max",
+        "",
+        ""
+      ],
+      [
+        "Manganese",
+        "0.70-1.00",
+        "0.70-1.00",
+        "0.75-1.05",
+        "0.75-1.05",
+        "0.10-0.40",
+        "breaks or cracks in the test ring are acceptable until the distance",
+        ""
+      ],
+      [
+        "Phosphorus,",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "0.015",
+        "0.015",
+        "0.015",
+        "0.015",
+        "0.015",
+        "between the plates is less than that shown in Table 3.",
+        ""
+      ],
+      [
+        "max",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "6.3.2 For bored or hollow forgings with outside diameters",
+        ""
+      ],
+      [
+        "Sulfur, max",
+        "0.010",
+        "0.010",
+        "0.010",
+        "0.010",
+        "0.010",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "rows": [
+      [
+        "6.2 Tension",
+        "Test-When",
+        "tested",
+        "in",
+        "accordance",
+        "with",
+        "Test",
+        "",
+        "Grade B",
+        "2T",
+        "180.0"
+      ],
+      [
+        "Methods and Definitions A370, the material shall conform to",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Grade C",
+        "3T",
+        "180.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Grade D",
+        "4T",
+        "150.0"
+      ],
+      [
+        "the requirements",
+        "of Table",
+        "2. The",
+        "yield",
+        "strength",
+        "shall",
+        "be",
+        "",
+        "Grades E, F, G, H, J, R (Class 55)",
+        "4T",
+        "150.0"
+      ],
+      [
+        "determined by the 0.2 % offset method.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Grades E, F, G, H, J, R (Class 65)",
+        "4T",
+        "150.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Grades E, F, G, H, J, R (Class 70)",
+        "",
+        ""
+      ],
+      [
+        "6.3 Bending",
+        "Properties-Depending",
+        "",
+        "",
+        "upon the",
+        "outside",
+        "",
+        "",
+        "and Grades J, R (Class 90)",
+        "4T",
+        "150.0"
+      ],
+      [
+        "diameter, D, and the",
+        "wall thickness,",
+        "",
+        "",
+        "T, of hollow or bored",
+        "",
+        "",
+        "",
+        "Grades J, R (Class 110)",
+        "6T",
+        "150.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Grade K",
+        "4T",
+        "150.0"
+      ],
+      [
+        "forgings, a bend test or flattening test will be required.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Grade L",
+        "6T",
+        "150.0"
+      ],
+      [
+        "6.3.1 For bored or hollow forgings with outside diameters of",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Grade M (Class 85)",
+        "4T",
+        "150.0"
+      ],
+      [
+        "14 in. [355 mm] or less and with a DIT ratio of more than 10.0,",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Grade M (Class 100)",
+        "4T",
+        "150.0"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Grades N, P (Class 100)",
+        "6T",
+        "150.0"
+      ],
+      [
+        "a flattening test",
+        "is required.",
+        "This",
+        "shall",
+        "be carried",
+        "out",
+        "in",
+        "",
+        "Grades N, P (Classes 120, 140)",
+        "6T",
+        "150.0"
+      ]
+    ]
+  }
+]

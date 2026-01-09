@@ -1,0 +1,115 @@
+ASME BPVC.II.A-2025 SA-264 
+4.1. 7 Mechanical properties, including shear test if required. 
+4.1.8 Finish (see Section 12). 
+4.1.9 Restrictions, if required, on repair by welding (see 
+Section 14). 
+4.1.10 Additions to the specification or special requirements 
+such as any applicable construction code rules. 
+4.1.11 Corrosion testing if applicable. 
+4.1.12 Notification when the cladding alloy is to be used for 
+inclusion in the design strength calculations for an applicable 
+construction code. 
+NoTE I-Construction codes may dictate certain fabrication require­
+ments when the cladding is used in the design calculations that may be 
+different than if the cladding is used for corrosion resistance only. This 
+may be particularly important when the alloy cladding involves the use of 
+welded components in the explosion bonded clad manufactming process. 
+It is incumbent on the purchaser to make the clad manufacturer aware of 
+any such restrictions or applications at time of order. 
+4.2 In addition to the basic requirements of this specification 
+and the backing steel specification, certain supplementary 
+requirements are available when additional control, testing, or 
+examination is required to meet end use requirements. The 
+purchaser is referred to the listed supplementary requirements 
+in this specification and to the detailed requirements in 
+Specification A20/ A20M. 
+4.3 If the requirements of this specification are in conflict 
+with the requirements of Specification A20/A20M, the require­
+ments of this specification shall prevail. 
+4.4 Special tests. 
+5. Materials and Manufacture 
+5.1 Process: 
+5.1.1 The steel shall be made by the open-hearth, electric­
+fumace, or basic-oxygen processes, or by secondary processes 
+whereby steel made from these primary processes is remelted 
+using, but not limited to electroslag remelting or vacuum-arc 
+remelting processes. 
+5.1.2 The alloy-cladding metal inay be metallurgically 
+bonded to the base metal by any method that will produce a 
+clad steel that will conform to the requirements of this 
+specification. 
+5.1.3 For explosively bonded products, the alloy cladding 
+metal may be comprised of two or more separate alloy plates 
+or sheets completely welded together to form a single fabri­
+cated component. 
+5.2 Heat Treatment: 
+5.2.1 Unless otherwise specified or agreed upon between 
+the purchaser and the manufacturer, all austenitic stainless steel 
+clad plates shall be given a heat treatment consisting of heating 
+to the proper temperature for the solution of the chromium 
+carbides in the cladding followed by individual air cooling. For 
+base metals of air-hardening low-alloy steels the above heat 
+treatment shall be followed by a tempering treatment. In the 
+case of clad plate manufactured without hot rolling, the base 
+metal and alloy cladding components may be heat treated 
+separately as appropriate prior to bonding. 
+5.2.2 Duplex stainless steel clad plates shall be provided in 
+a heat treated condition as agreed upon between the purchaser 
+and the manufacturer. 
+5.2.3 When plates are to be cold formed, or when otherwise 
+required by the base metal specification, the purchaser may 
+specify that such plates, following solution annealing, be heat 
+treated for grain refinement of the base metal by normalizing 
+and either air cooled or water quenched as appropriate. 
+6. Chemical Composition 
+6.1 The composite plate may conform to any desired com­
+bination of alloy-cladding metal and base metal as described in 
+6.2 and 6.3 and as agreed upon between the purchaser and the 
+manufacturer. 
+6.2 Alloy Cladding Metal-The alloy-cladding metal speci­
+fied shall conform to the requirements as to chemical compo­
+sition prescribed for the respective chromium-nickel or duplex 
+steel in Specification A240/A240M. 
+6.3 Base Metal-The base metal shall be carbon steel or 
+low-alloy steel conforming to the ASTM specifications for 
+steel for pressure vessels, or other, as agreed by the purchaser 
+and the manufacturer. The base metal shall conform to the 
+chemical requirements of the specification to which it is 
+ordered. 
+7. Mechanical Properties 
+7.1 Tensile Requirements: 
+7 .1.1 The tensile properties shall be determined by a 
+tension test of the composite plate for clad plates that meet all 
+of the following conditions. 
+(1) The composite gage is less than or equal to 1 ½ in. (38 
+mm). 
+(2) The specified minimum tensile strength of the base 
+steel is less than or equal to 70 000 psi ( 485 MPa) 
+381 
+( 3) The specified minimum yield strength of the base steel 
+is less than or equal to 40 000 psi (275 MPa). 
+( 4) The tensile properties thus determined shall be not less 
+than the minimum and not more than 5000 psi (35 MPa) over 
+the maximum prescribed in the specification for the base steel 
+used: All other tensile test requirements of the specification for 
+the base steel shall be met. 
+7.1.2 The tensile properties shall be determined by a 
+tension test of the base steel only for clad plates that meet one 
+of the following conditions. The properties thus determined 
+shall meet all of the tensile test requirements for the base steel. 
+( 1) The composite gage is greater than 1 ½ in. (38 mm). 
+(2) The specified minimum tensile strength of the base 
+steel is greater than 70 000 psi (485 MPa). 
+( 3) The specified minimum yield strength of the base steel 
+is greater than 40 000 psi (275 MPa). 
+7.1.3 If the cladding is for corrosion allowance only, the 
+cladding need not be included in the tensile test. The tensile 
+properties thus determined shall meet the base steel require­
+ments. 
+7 .2 Tests for strength of the bond, when required, must be 
+specified by the purchaser and shall consist of one of the 
+following. 
+7.2.1 Shear Strength-When required by the purchaser, the 
+minimum shear strength of the alloy cladding and base metals 
+shall be 20 000 psi (140 MPa). The shear test, when specified, 
+shall be made in the manner indicated in Fig. 1. The minimum 

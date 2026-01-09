@@ -1,0 +1,45 @@
+ASME BPVC.II.A-2025 
+S26. Low-Sulfur Steels 
+S26.l The steel shall be made to 0.010 % sulfur maximum. 
+Lower sulfur levels and sulfide shape control practices can be 
+specified by agreement between the manufacturer or processor 
+and the purchaser. 
+S27. Restrictive Plate Flatness 
+S27.l Carbon steel plates, as-rolled or normalized, shall 
+conform to the permissible restrictive variations from flatness 
+given in Table S27.l or Table S27.2. 
+S27.2 High-strength low-alloy steel plates, as-rolled or 
+normalized, shall conform to the permissible restrictive varia­
+tions from flatness given in Table S27.3 or Table S27.4. 
+S28. Heat Treatment in the Working Zone of a Surveyed 
+Furnace 
+S28. l Plates shall be heat treated in the working zone of a 
+furnace that has been surveyed in accordance with Test Method 
+A991/A991M, provided that such working zone was estab­
+lished using a variation of 25°F [15°C] or less from the furnace 
+set point. 
+S28.2 The test report shall indicate that S28 applies. 
+SA-20/SA-ZOM 
+TABLE S27.1 Permissible Variations from Flatness for Carbon Steel Plates As-Rolled or Normalized Ordered to Restrictive Flatness 
+N om I-Flatness Variations for Length-The longer dimension specified is considered the length, and variation in flatness along the length shall not 
+exceed the tabular amount for the specified width in plates up to 12 ft in length, or in any 12 ft of longer plates. 
+Norn 2-Flatness Variations for Width-The flatness variation across the width shall not exceed the tabular amount for the specified width. 
+Norn 3-When the longer dimension is under 36 in., the variation in flatness along the length and across the width shall not exceed ¼ in. in each 
+direction. When the longer dimension is from 36 to 72 in., inclusive, the permissible flatness vaiiation shall not exceed 75 % of the tabular amount for 
+the specified width, but in no case less than ¼ in. 
+Norn 4-The variations given in this table apply to plates that have a minimum specified tensile strength not over 60 ksi or comparable chemistry or 
+hai·dness. For plates specified to a higher minimum tensile strength or compai·able chemistry or hardness, the permissible variations are I½ times the 
+amounts shown in the table below. 
+Norn 5-This table ai1d these notes cover the flatness vadations of circular and sketch plates based on the maximum dimensions of those plates. 
+Norn 6-Waviness tolerances for rectangular plates, universal mill plates, and circular and sketch plates do not apply. 
+Norn 7-A "Z" indicates that there is no published restricted value for the size. 
+Norn 8-Plates shall be in a horizontal position on a flat surface when flatness is measured. 
+Specified Permissible Variations from a Flat Surface for Specified Widths, in. 
+Thickness, in. 48 to 60, excl 60 to 72, excl 72 to 84, excl 84 to 96, excl 96 to 108, excl 108 to 120, incl 
+To¼, excl ¾ 15/15 z z z z 
+¼to%, excl 9/16 ¾ 7/a 15/16 1-'Aa 1-1/a 
+%to½, excl 5/16 5/15 % 7/16 ½ 9/16 
+½to¾, excl 5/16 5/16 5/is % ½ ½ 
+¾ to 1, excl 5/15 5/16 5/15 5/is % 7/15 
+1 to 2, incl ¼ 5/15 5 /ia 5/15 5/16 % 
+81 

@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 769,
+  "globalPageIndex": 1567,
+  "width": 613.92,
+  "height": 793.2,
+  "text": "ASME BPVC.II.A-2025 SA-1010/SA-1010M \n4. Chemical Composition \n4.1 The steel shall conform to the requirements as \nto chemical composition specified in Table 1, and shall \nconform to applicable requirements specified in the current \nedition of Specification A 480/ A 480M. \ntempering, the steel shall be in the as-rolled, normalized \nor quenched condition. \n6. Mechanical Properties \n6.1 The material shall conform to the mechanical prop\u00ad\nerties specified in Table 2. \n5. Heat Treatment \n7. Keywords 5.1 The material shall be heat-treated by tempering to \nmeet the requirements of this specification. The tempering \ntemperature shall not exceed 1400\u00b0F [760\u00b0C]. Prior to \n7.1 architectural steel; martensitic; plate; stainless steel; \nsteel; structural steel; tempered \nTABLE 1 \nCHEMICAL COMPOSITION REQUIREMENTS, %A \nUNS Other \nDesignation 8 Type Carbon Manganese Phosphorus Sulfur Silicon Chromium Nickel Molybdenum Nitrogen Elements \nS41003 0.030 1.50 0.040 0.030 1.00 10.5-12.5 1.50 \nA Maximum, unless range or minimum is indicated. \n8 Designation established in accordance with Practice E 527 and SAE J 1086. \nTABLE 2 \nMECHANICAL TEST REQUIREMENTS \nYield Tensile \nStrength, Strength, Elongation in Brinell \nmin, ksi, min, ksi 2 in. [50 mm], Hardness, \nGrade [M Pa] [M Pa] min % max Cold Bend \n40 40 [275] 66 [455] \n50 50 [350] 70 [485] \n18 \n18 \n1513 \n223 not required \n223 not required \n0.030 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1567.json",
+  "tabulaTablesCsv": "tables_tabula/page-1567.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-1567.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1397,
+  "bestTextAlphaRatio": 0.68
+}

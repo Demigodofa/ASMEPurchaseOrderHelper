@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 263,
+  "globalPageIndex": 263,
+  "width": 599.4,
+  "height": 844.08,
+  "text": "ASME BPVC.II.A-2025 SA-182/SA-182M (ASTM A182/A182M) \nSPECIFICATION FOR FORGED OR ROLLED ALLOY AND \nSTAINLESS STEEL PIPE FLANGES, FORGED FITTINGS, \nAND VALVES AND PARTS FOR HIGH-TEMPERATURE \nSERVICE \nSA-182 /SA-182M 0 \nINTERNATIONAL \nStandards Worldwide \n(Identical with ASTM Specification A182/A182M-23 except for the inclusion of Grade F12 in para. 7.2.1, the removal of \nreduced strength levels for thicker sections of Grade F53 in Table 3, the removal of Grade F53 Classes in Table 3, the \nremoval of Note (G) in Table 3, the increase of minimum yield strength for Grade F60 in Table 3, and editorial correction in \nSupplementary Requirement S13 title. For Grade F91 Type 2, Supplementary Requirement S13 is mandatory.) \nASME SA-182/SA-182M replaces para. 7.2.1 of ASTM A182/A182M with the following: \n7.2.1 Liquid Quenching-Except as permitted in 7.2.2, for Fl, F2, F3, and F12 and when agreed to by the purchaser, liquid \nquenching followed by tempering shall be permitted provided the temperatures in Table 1 for each grade are used. \nASME SA-182/SA-182M, Table 3 replaces the three F53 lines, the F60 line, and Note G of ASTM A182/A182M, Table 3 with \nthe following: \nGDELETED \nF53 \nF60 \n116 (800) 80 (550) \n95 (655) 70 (485) \n15 \n25 \nASME SA-182/SA-182M retitles para. S13 of ASTM A182/A182M as follows: \nS13. Minimum Cooling Rate for Grade F91 Type 2 \n211 \n310 max \n45 \n(25) ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0263.json",
+  "tabulaTablesCsv": "tables_tabula/page-0263.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-0263.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1385,
+  "bestTextAlphaRatio": 0.6542
+}

@@ -1,0 +1,94 @@
+ASME BPVC.11.A-2025 SA-609 /SA·609M 
+10.2.3 Indications producing a continuous response 
+equal to or greater than the DAC with a dimension 
+exceeding the maximum length shown for the applicable 
+quality level shall be unacceptable. 
+10.2.4 Other criteria agreed upon between the pur­
+chaser and the manufacturer. 
+10.3 Other means may be used to establish the validity 
+of a rejection based on ultrasonic inspection. 
+NOTE 4 - The areas for the ultrasonic quality levels in Table 2 of 
+Practice A 609 I A 609M refer to the surface area on the casting over 
+which a continuous indication exceeding the DAC is maintained. 
+NOTE 5 - Areas are to be measured from dimensions of the movement 
+of the search unit by outlining locations where the amplitude of the 
+indication is 100% of the DAC or where the back reflection is reduced 
+by 75%, using the center of the search unit as a reference point to establish 
+the outline of the indication area. 
+NOTE 6 - In certain castings, because of very long metal path distances 
+or curvature of the examination surfaces, the surface area over which a 
+given discontinuity is detected may be considerably larger or smaller 
+than the actual area of the discontinuity in the casting; in such cases, 
+other criteria that incorporate a consideration of beam angles or beam 
+spread must be used for realistic evaluation of the discontinuity. 
+PROCEDURE B - BACK-WALL REFLECTION 
+CALIBRATION PROCEDURE 
+11. Apparatus 
+11.1 Apparatus shall be kept on a regular six month 
+maintenance cycle during which, as a minimum require­
+ment, the vertical and horizontal linearities, sensitivity, 
+and resolution shall be established in accordance with the 
+requirements of Practice E 317. 
+11.2 Search Units - Ceramic element transducers not 
+exceeding 1.25 in. [82 mm] diameter or 1 in. 2 [25 mm 2 ] 
+shall be used. 
+11.3 Search Units Facing-A soft urethane membrane 
+or neoprene sheet, approximately 0.025 in. [0.64 mm] 
+thick, may be used to improve coupling and minimize 
+transducer wear caused by casting surface roughness. 
+11.4 Calibration/Testing -The same system, includ­
+ing the urethane membrane, used for calibration shall be 
+used to inspect the casting. 
+11.5 Other Inspections - Other frequencies and type 
+search units may be used for obtaining additional informa­
+tion and pinpointing of individual indications. 
+11.6 Couplant - A suitable liquid couplant, such as 
+clean SAE 30 motor oil or similar commercial ultrasonic 
+couplant, shall be used to couple the search unit to the test 
+surface. Other couplants may be used when agreed upon 
+between the purchaser and supplier. 
+11.7 Reference Standards - Reference standards in 
+accordance with Fig. 3 shall be used to calibrate the instru­
+ment for inspecting machined and cast surfaces. Reference 
+standards shall be flaw free and machined within tolerances 
+indicated. 
+12. Ultrasonic Instrument 
+12.1 Type - Pulsed ultrasonic reflection instrument 
+capable of generating, receiving, and amplifying frequen­
+cies of 1 MHz to 5 MHz shall be used for testing. 
+12.2 Voltage - Line voltage shall be suitably regulated 
+by constant voltage equipment and metal housing must be 
+grounded to prevent electric shock. 
+12.3 Linearity - The instrument must provide a linear 
+presentation (within ±5%) of at least 1.5 in. [40 mm] sweep 
+to peak (S/P). 
+12.4 Calibrated Gain Control of Attenuator - The 
+instrument shall contain a calibrated gain control or signal 
+attenuator ( accurate within ± 10%) which will allow indica­
+tions beyond the linear range of the instrument to be mea­
+sured. 
+12.5 Time-Corrected Gain - The instrument shall be 
+equipped to compensate for signal decay with distance. A 
+method should be available to equalize signal response at 
+different depths. 
+13. Qualification 
+13.1 The requirements for pre-production qualification 
+are as follows: 
+13.1.1 Personnel - The personnel qualification 
+requirements of SNT-TC- lA are applicable. Other person­
+nel qualification requirement documents may be used when 
+agreed upon between the purchaser and the supplier. Rec­
+ords of all personnel shall be available to customers upon 
+request. 
+13.1.2 Equipment- The equipment shall be capable 
+of meeting the requirements in Section 12. 
+14. Preparation 
+14.1 Time of Inspection - The final ultrasonic accept­
+ance inspection shall be performed after at least an austeni­
+tizing heat treatment and preferably after machining. In 
+order to avoid time loss in production, acceptance inspec­
+tion of cast surfaces may be done prior to machining. 
+Machined surfaces shall be acceptance inspected as soon 
+as possible after machining. Repair welds may be inspected 
+before the postweld heat treatment. 
+1037 

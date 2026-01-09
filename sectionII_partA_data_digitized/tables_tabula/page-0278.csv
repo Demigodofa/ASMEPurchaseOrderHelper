@@ -1,0 +1,26 @@
+F 48,,,2100 [1150] + WQ
+F 49,,,2100 [1150] + WO
+F 58,E NiCrMo-10,,2100 [1150] + WQ
+F 62,E NiCrMo-3 NR,,2025 [1105] + WQ
+F 70,ERNiCr-3, or ERNiCrMo-3, or NR,,1900 [1040] + WQ
+,ERNiCrMo-4,,
+F 904L,E NiCrMo-3 NR,,1920-2100 [1050-1150]
+,Ferritic-Austenitic Stainless Steels,,
+F 50,25% Cr, 6% Ni, 1.7% Mo NR,,NR
+F 51,22 % Cr, 5.5 % Ni, 3 % Mo NR,,NR
+F 52,26 % Cr, 8 % Ni, 2 % Mo NR,,NR
+F 53,25 % Cr, 7 % Ni, 4 % Mo NR,,NR
+F 54,25 % Cr, 7 % Ni, 3 % Mo, NR,,NR
+,w,,
+F 55,25 % Cr, 7 % Ni, 3.5 % Mo NR,,NR
+F 57,25 % Cr, 7 % Ni, 3 % Mo, 1.5 % NR,,NR
+,Cu, I% W,,
+F 59,E Ni CrMo-10 NR,,NR
+F 60,22 % Cr, 5.5 % Ni, 3 % Mo NR,,NR
+F 61,26 % Cr, 9 % Ni, 3.5 % Mo NR,,NR
+F 65,29 % Cr, 6.5 % Ni, 2 % Mo NR,,NR
+F 66,22 % Cr, 2 % Ni, 0.25 % Mo NR,,NR
+F 67,NR,,NR
+F 68,NR,,NR
+F 69,NR,,NR
+F 71,27.5 Cr, 7.6 Ni, 1 Mo, 2.3 W NR,,NR

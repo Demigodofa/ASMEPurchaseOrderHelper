@@ -1,0 +1,85 @@
+ASME BPVC.II.A-2025 SA-770/SA-770M 
+0 to Yiin. 
+(0 to ""'"'1 
+D 
+---A----....t 
+TYPE 
+1 
+TYPE 
+3 
+NoTE 1-For Type 3 only one welded prolongation may be needed, 
+depending upon plate thickness. 
+FIG. 1 Standard Round Tension Test Specimens 
+TABLE 1 Schedule of Standard Test Specimens, Inches 
+[MillimetresJA 
+Plate thickness (~ 
+Diameter (D) 
+Radius, minimum (R) 
+Length of reduced section (A) 
+1 ,st ,s 1¼ 
+0.350 [8.75] 
+¼[6] 
+1¾[45] 
+Specimen Type 
+2 
+1 < t::S 2 
+0.500 [12.5] 
+%[10] 
+2¼[60] 
+3 
+2<t 
+Q.500 [12.5] 
+% [10] 
+2¼ [60] 
+A See Test Methods and Definitions A370 (Fig. 5 for further details and Fig. 6 for 
+various types of ends). 
+4.4.2.3 For plates over 1 ¼ in. to 2 in. [50 mm] inclusive in 
+thickness, use the 0.500-in. [12.5-mm] Type 2 specimen. 
+4.4.2.4 For plates greater than 2 in. [50 nun] in thickness, 
+use the Type 3 specimen. 
+4.4.3 Alternative Test Specimens-The alternative test 
+specimens in Fig. 2 and Table 2 may be used in place of the 
+standard specimens in Fig. 1 and Table 1. 
+4.4.3.1 For plates over 2 in. [50 mm] in thickness, Type A or 
+Type B specimens may be used. The Type A specimen provides 
+a reduced section length greater than the plate thickness. The 
+Type B specimen provides a reduced section length of 2¼ in. 
+[57 mm] with its center at the mid-thickness of the plate. Over 
+a minimum plate thickness determined by the specimen end 
+configuration, no welded prolongations may be needed for the 
+Type B specimen. For plates over 4¼ in. [108 mm] in 
+thickness, the Type C specimen may be used. For plates over 6 
+in. [150 mm] in thickness, a series of two or more Type A or 
+Type C specimens with reduced sections of 4 in. [100 mm] or 
+less may be used to cover the full thickness of the plate. The 
+number of tests required will depend upon the thickness of the 
+plate being tested and the reduced section length selected. 
+TYPES 
+D. E. & F 
+FIG. 2 Alternative Tension Test Specimens 
+TYPE. 
+A 
+4.4.3.2 For plates over 1 in. [25 mm] in thickness, a series 
+of button-head specimens shown in Fig. 2 and Table 2 may be 
+used. The test specimen type to be used, Type D, Type E, or 
+Type F, is determined by the nominal plate thickness as 
+described in Table 2. A series of two or more Type F specimens 
+may be used to cover the full thickness of the plate. The length 
+of the reduced section (A), as shown in Fig. 2 and specified in 
+Table 2, is the length of the reduced section excluding the 
+machined radius (R). Within the plate thickness dimension 
+specified for each test specimen type, either the button-head 
+thickness, the reduced section length, or the machined radius 
+may be varied. In all cases, the minimum length of the reduced 
+section must be as specified in Table 2 to maintain a minimum 
+length to diameter ratio (see Appendix X2.2). 
+5. Acceptance Standards 
+5.1 Each tension test shall have a minimum reduction of 
+area no less than 20 %. If the reduction of area of both tests is 
+less than 20 %, no retest shall be permitted. If the reduction of 
+area of one of the two tests from a plate is less than 20 %, one 
+retest of two additional specimens taken from a location 
+adjacent to the specimen that failed may be made, and both of 
+these additional specimens shall have a reduction of area of 
+20 % or more. 
+1247 

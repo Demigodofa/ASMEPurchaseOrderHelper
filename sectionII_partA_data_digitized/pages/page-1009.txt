@@ -1,0 +1,103 @@
+ASME BPVC.II.A-2025 SA-537 /SA-537M 
+,,----.. TABLE 1 Chemical Requirements TABLE 2 Tensile Requirements 
+-~ 
+Element Composition, % 
+Carbon, maxA 
+Manganese: 
+1 ½ in. (40 mm] and under in thickness: 8 
+Heat analysis 
+Product analysis 
+Over 1½ in. (40 mm] in thickness: 
+Heat analysis 
+Product analysis 
+Phosphorus, maxA 
+Sulfur, maxA 
+Silicon: 
+0.24 
+0.70-1.35 
+0.64-1.46 
+1.00-1.60 
+0.92-1.72 
+0.025 
+0.025 
+Heat analysis 0.15-0.50 
+Product analysis 0.13-0.55 
+Copper, max: 
+Heat analysis 0.35 
+Product analysis 0.38 
+Nickel, max: 8 
+Heat analysis 0.25 
+Product analysis 0.28 
+Chromium, max: 
+Heat analysis 0.25 
+Product analysis 0.29 
+Molybdenum, max: 
+Heat analysis 0.08 
+Product analysis 0.09 
+A Applies to both heat and product analyses. 
+8 Manganese may exceed 1.35 % on heat analysis, up to a maximum of 1.60 %, 
+and nickel may exceed 0.25 % on heat analysis, up to a maximum of 0.50 %, 
+provided the heat analysis carbon equivalent does not exceed 0.57 % when based 
+upon the following equation: 
+Mn Cr+ Mo+ V Ni+ Cu 
+CE= C+6+ 5 +-1-5-
+When this option is exercised, the manganese and nickel contents on product 
+analysis shall not exceed the heat analysis content by more than 0.12 % and 
+0.03 %, respectively. 
+3.3 If the requirements of this specification are in conflict 
+with the requirements of Specification A20/ A20M, the require­
+ments of this specification shall prevail. 
+4. Manufacture 
+4.1 Steelmaking Practice-The steel shall be killed and 
+conform to the fine austenitic grain size requirement of 
+Specification A20/ A20M. 
+Class 1 Class 2 Class 3 
+ksi [MPa] ksi [MPa] ksi [MPa] 
+Tensile strength: 
+2½ in. and under 70-90 80-100 80-100 
+[65 mm and under] [485-620] [550-690] [550-690] 
+Over 2½ to 4 in., incl 65-85 75-95 75-95 
+[Over 65 to 100 mm, incl] [450-585] [515-655] (515-655] 
+Over 4 in. 65-85 70-90 70-90 
+[Over 100 mm] [450-585] [485-620] [485-620] 
+Yield strength, min: 
+2½ in. and under 50 60 55 
+[65 mm and under] [345] [415] [380] 
+Over 2½ to 4 in., incl 45 55 50 
+[Over 65 to 100 mm, incl] [310] [380] [345] 
+Over 4 in. 45 46 40 
+[Over 100 mm] [310] [315] [275] 
+Elongation in 2 in. 
+[50 mm], min, %:A 
+4 in. [100 mm] and under 22 22 22 
+Over 4 in. [100 mm] 20 20 20 
+Elongation in 8 in. 
+[200 mm], min, %A 18 B B 
+A See Specification A20/ A20M for elongation adjustments. 
+8 There is no requirement for elongation in 8 in. 
+not be less than 1100°F [595°C] and not less than 1150°F 
+[620°C] for Class 3 plates. 
+6. Chemical Requirements 
+6.1 The steel shall conform to the chemical requirements 
+shown in Table 1 unless otherwise modified in accordance with 
+Supplementary Requirement S 17, Vacuum Carbon-Deoxidized 
+Steel, in Specification A20/A20M. 
+7. Mechanical Requirements 
+7 .1 Tension Tests: 
+7 .1.1 Requirements-The material as represented by the 
+tension-test specimens shall conform to the requirements 
+shown in Table 2. 
+7 .1.2 For Class 2 and Class 3 plates with a nominal 
+thickness of ¾ in. [20 mm] and under, the 1 ½-in. [40-mm] 
+wide rectangular specimen may be used for the tension test, 
+and the elongation may be determined in a 2-in. [50-mm] gage 
+5. Heat Treatment 
+------- ------------- ---------- -~_le11gth__that inclllCles the fracture_ and _that shows the greatest elongation. -- ----------- - -
+5.1 All plates shall be thermally treated as follows: 
+5.1.1 Class 1 plates shall be normalized. 
+5.1.2 Class 2 and Class 3 plates shall be quenched and 
+tempered. The tempering temperature for Class 2 plates shall 
+909 
+8. Keywords 
+8.1 carbon steel plate; pressure containing parts; pressure 
+vessel steels; steel plates for pressure vessel application 

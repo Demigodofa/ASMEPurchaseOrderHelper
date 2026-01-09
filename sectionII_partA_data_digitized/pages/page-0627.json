@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 627,
+  "globalPageIndex": 627,
+  "width": 612.6,
+  "height": 853.8,
+  "text": "ASME BPVC.II.A-2025 SA-369/SA-369M (ASTM A369/A369M) \nSPECIFICATION FOR CARBON AND FERRITIC ALLOY \nSTEEL FORGED AND BORED PIPE FOR \nHIGH-TEMPERATURE SERVICE \nSA-369 /SA-369M cO \nINTERNATIONAL \nStandards Worldwide \n(Identical with ASTM Specification A369/ A369M-23 except Supplementary Requirement S7 is mandatory and editorial \ncorrection to Supplementary Requirement S7.) \nASME SA-369/SA-369M replaces paras. S7 and S7.1 of ASTM A369/A369M with the following: \nS7. Minimum Cooling Rate for Grade FP91 Type 2 \nS7.1 For Grade FP91 Type 2 material, the heat treatment shall ensure that following austenitizing the rate of cooling \nfrom 1650\u00b0F to 900\u00b0F (900\u00b0C to 480\u00b0C) is no slower than 9\u00b0F/min (5\u00b0C/ min). \n575 \n(25) ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-0627.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 716,
+  "bestTextAlphaRatio": 0.6732
+}

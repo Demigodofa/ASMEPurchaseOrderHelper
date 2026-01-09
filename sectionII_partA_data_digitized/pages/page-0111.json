@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 111,
+  "globalPageIndex": 111,
+  "width": 613.92,
+  "height": 793.2,
+  "text": "ASME BPVC.II.A-2025 SA-6/SA-6M \nTABLE A2.6 Continued \nDesignation Flange Designation Flange (Nominal Web [Nominal Depth Web \nDepth in Area Depth Thick- in Millimetres Area A, Depth Thick- Thick-\nInches and A, d, Width Thick- ness t.,, and Mass in Kilo- mm 2 d, Width ness \nWeight in in.2 in. b\u2022 \nness t.,, b\u2022 in. ness t,. in.A mm \nPounds per in.A grams par mm t,, mmA \nLinear Foot) Metre] mmA \nMC 6 x 7.0 2.07 6.00 1.875 0.291 0.179 MC 150 x 10.4 1 341 152 48 7.4 4.5 \nX 6.5 1.93 6.00 1.850 0.291 0.155 X 9.7 1 250 152 47 7.4 3.9 \nMC4 x 13.8 4.02 4.00 2.500 0.500 0.500 MC 100 x 20.5 2 594 102 64 13 13 \nMC3x7.1 2.09 3.00 1.938 0.351 0.312 MC 75 x 10.6 1 348 76 49 8.9 7.9 \nA Actual flange and web thicknesses vary due to mill rolling practices; however, permitted variations for such dimensions are not addressed. \n59 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0111.json",
+  "tabulaTablesCsv": "tables_tabula/page-0111.csv",
+  "tabulaTableCount": 3,
+  "bestTextPath": "best_text/pages/page-0111.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 819,
+  "bestTextAlphaRatio": 0.4969
+}

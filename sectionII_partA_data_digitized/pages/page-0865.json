@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 67,
+  "globalPageIndex": 865,
+  "width": 617.04,
+  "height": 795.6,
+  "text": "ASME BPVC.II.A-2025 SA-455/SA-455M \nSPECIFICATION FOR PRESSURE VESSEL PLATES, \nCARBON STEEL, HIGH-STRENGTH MANGANESE \nSA-455/SA-455M cO \nINTERNATIONAL \nStandards Worldwide \n(Identical with ASTM Specification A455/A455M-12a(2017).) \n763 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-0865.txt",
+  "ocrTextLength": 230,
+  "ocrApplied": true,
+  "bestTextPath": "best_text/pages/page-0865.txt",
+  "bestTextSource": "ocr",
+  "bestTextLength": 230,
+  "bestTextAlphaRatio": 0.6435
+}

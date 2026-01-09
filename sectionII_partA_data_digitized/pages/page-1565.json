@@ -1,0 +1,21 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 767,
+  "globalPageIndex": 1565,
+  "width": 613.92,
+  "height": 793.2,
+  "text": "ASME BPVC.11.A-202S SA-1010/SA-1010M \nSPECIFICATION FOR HIGHER-STRENGTH \nMARTENSITIC STAINLESS, STEEL PLATE, SHEET, AND \nSTRIP \nSA-1010/SA-1010M \n(Identical with ASTM Specification A1010/ AlOlOM-01(2009) except for an editorial correction to a column heading in \nTable 2.) \n1511 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-1565.txt",
+  "ocrTextLength": 266,
+  "ocrApplied": true,
+  "tabulaTablesPath": "tables_tabula/page-1565.json",
+  "tabulaTablesCsv": "tables_tabula/page-1565.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-1565.txt",
+  "bestTextSource": "ocr",
+  "bestTextLength": 266,
+  "bestTextAlphaRatio": 0.6654
+}

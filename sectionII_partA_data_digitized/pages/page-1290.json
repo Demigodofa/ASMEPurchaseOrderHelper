@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 492,
+  "globalPageIndex": 1290,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "SA-747 /SA-747M ASME BPVC.II.A-2025 \ndislodged particles of molding sand, the number of cast \nidentification marks should be minimized. When further \nspecified, the heat numbers shall be marked on individual \ncastings. \nS27.2 When the castings are too small to mark individu\u00ad\nally, a symbol traceable to the lot shall be placed on the \ncastings and the required identification then placed on a \ntag affixed to the container in which these castings are \nshipped. \nTABLE S14.1 \nAlloy \nType \nCB7Cu-l \nCB7Cu-2 \nPH Heat Treatment \nH900 \nH925 \nHl025 \nHl075 \nHllOO \nH1150 \nH1150M \nH1150 DBL \nH900 \nH925 \nHl025 \nHl075 \nHllOO \nH1150 \nH1150M \nH1150 DBL \nMECHANICAL PROPERTIES \nYield Strength 0.2% \nHardness, HB Offset, min, ksi [M Pa] \n375 min 145 [1000] \n375 min 150 [1035] \n311 min 140 [965] \n277 min 115 [795] \n269 min 110 [760] \n269 min 97 [670] \n310 max \n310 max \n375 min 145 [1000] \n375 min 150 [1035] \n311 min 140 [965] \n277 min 115 [795] \n269 min 110 [760] \n269 min 97 [670] \n310 max \n310 max \nElongation in 2 in. \nTensile Strength, [51 mm], min, \nksi [MPaJ %A \n170 [1170] 5 \n175 [1205] 5 \n150 [1035] 9 \n145 [1000] 9 \n135 [930] 9 \n125 [860] 10 \n170 [1170] 5 \n175 [1205] 5 \n150 [1035] 9 \n145 [1000] 9 \n135 [930] 9 \n125 [860] 10 \nA If sub-size tension test bars are used, the gage length/gage diameter ratio must be 4 to 1 to assure elongation values comparable to those \nof the standard test specimen. \n1216 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1290.json",
+  "tabulaTablesCsv": "tables_tabula/page-1290.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-1290.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1405,
+  "bestTextAlphaRatio": 0.5082
+}

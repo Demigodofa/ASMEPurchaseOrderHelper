@@ -1,0 +1,139 @@
+ASME BPVC.II.A-2025 SA-437 /SA-437M 
+methods, finish, thread dimensions, macroetch (Grade B4D 
+only), marking, certification, optional supplementary 
+requirements, and others. Failure to comply with the require­
+ments of Specification A962/A962M constitutes nonconfor­
+mance with this specification. In case of conflict between this 
+specification and Specification A962/ A962M, this specification 
+shall prevail. 
+5. Heat Treatment 
+5.1 Grades B4B and B4C shall be heated to a temperature 
+range of 1875 to 1925 °F [1025 to 1050 °C] and liquid 
+quenched to below 600 °F [316 °C]. The material Grades B4B 
+and B4C shall then be uniformly reheated for tempering at a 
+tempering temperature at least 100 °F [55 °C] higher than the 
+proposed operating temperature but not less than 1150 °F [620 
+0 C], then air or furnace cooled to room temperature. The 
+material shall be at the tempering temperature for a minimum 
+of 2 h. Double tempering may be used to enhance properties. 
+5.2 Grade B4D shall be heated to a temperature range of 
+1700 to 1750 °F [925 to 954 °C] and oil quenched. The 
+material shall then be uniformly reheated or tempered at a 
+temperature of 1200 °F [650 °C] minimum, followed by air or 
+furnace cooling to room temperature. 
+5.3 Stress relieving treatment of the bar material is required 
+after any stretcher, roller, or rotary-straightening or cold­
+finishing operations performed after heat treatment for me­
+chanical properties. Local gagging or press straightening to 
+conect camber limitations in excess of¼ in. in any 5 ft [6 mm 
+in any 1.5 m] shall be followed by a stress relieving heat 
+treatment. The minimum stress relieving temperature shall be 
+100 °F [55 °C] below the minimum tempering temperature as 
+shown in 5.1 for Grades B4B and B4C or in 5.2 for Grade 
+B4D. 
+6. Chemical Composition 
+6.1 Bolting material shall conform to the requirements as to 
+chemical composition specified in Table 1. 
+TABLE 1 Chemical RequirementsA 
+Element 
+Carbon 
+Manganese 
+Phosphorus, max 
+Sulfur, max 
+Silicon 
+Nickel 
+Chromium 
+Molybdenum 
+Vanadium 
+Tungsten 
+Aluminum, maxc 
+Titanium, max 
+Tin, max 
+Grades B4B, B4C 8 
+Range,% Product 
+Variation, %, 
+Over or 
+Under 
+0.20-0.25 0.02 
+0.50-1.00 0.03 
+0.025 0.005 over 
+0.025 0.005 over 
+0.20-0.50 0.05 
+0.50-1.00 0.03 
+11.0-12.5 0.15 
+0.90-1.25 0.05 
+0.20-0.30 0.03 
+0.90-1.25 0.05 
+0.05 
+0.05 
+0.04 
+A Steel to which lead has been added shall not be used. 
+8 UNS S42200. 
+c Total, Soluble + Insoluble 
+Grade B4D 
+Range,% Product 
+Variation, %, 
+Over or 
+Under 
+0.36-0.44 0.02 
+0.45-0.70 0.03 
+0.04 0.005 over 
+0.04 0.005 over 
+0.20-0.35 0.02 
+0.80-1.15 0.05 
+0.50-0.65 0.03 
+0.25-0.35 0.03 
+0.015 
+7. Tensile Requirements 
+7.1 Bolting material shall conform to the requirements as to 
+tensile properties prescribed in Table 2 at room temperature 
+after heat treatment. 
+7 .2 The longitudinal axis of the test specimen shall be 
+parallel to the direction of rolling. 
+8. Impact Requirements 
+8.1 Grades B4B, B4C, and B4D shall conform to the 
+requirements as to impact properties prescribed in Table 3 at 
+room temperature after heat treatment. 
+9. Hardness Tests 
+9.1 Grades B4B, B4C, and B4D shall conform to the 
+requirements as to hardness as prescribed in Table 4 and Table 
+5 at room temperature after heat treatment. 
+10. Nuts 
+10.1 When specified by the purchaser, nuts shall be subject 
+to the impact and tension requirements of this specification. 
+The tests shall be made on test specimens taken from the bar or 
+plate used in the manufacture of the nuts. 
+11. Threads 
+11.1 All threads shall be formed after heat treatment. 
+12. Nondestructive Inspection 
+12.1 Each bar or forged blank of starting material shall be 
+subjected to NDE following final heat treatment. The method 
+used shall be either the Eddy Current (EC), the Magnetic 
+Pmiicle (MPI) (wet or dry), the Liquid Penetrant (LPI), the 
+Ultrasonic (UT), or the Visual Testing (VT), at the option of the 
+producer. For LPI or MPI, linear indications (those indications 
+longer than 1/16 in. [l.5 mm] with a length greater than three 
+times their width) are unacceptable. For UT or ET, reject levels 
+for linear indications shall be based on the alarm response from 
+a surface notch with a maximum depth of 0.012 in. [0.30 mm] 
+in a calibration bar. Product being subjected to VT shall be 
+pickled prior to inspection. VT indications longer than 1/8 in. 
+[3.2 mm] are prohibited. 
+719 
+13. Certification 
+13 .1 Certification is required. See Specification A962/ 
+A962M. 
+TABLE 2 Tensile Requirements 
+Grade Diameter, in. [mm] Tensile Yield Elongation Reduction 
+Strength, Strength in 2 in. or of Area, 
+min, ksi (0.2% 50 mm, min,% 
+[MPa] offset) min, min,% 
+ksi [MPa] 
+B4B 145 [1000] 105 [720] 13 30 
+B4C 115 [790] 85 [585] 18 50 
+B4D 2½ [65] and under 125 105 18 50 
+[860] [720] 
+over 2½ to 4 [65 to 110 95 17 45 
+100] [760] [655] 
+over 4 to 7 [100 to 100 85 16 45 
+180] [690] [585] 

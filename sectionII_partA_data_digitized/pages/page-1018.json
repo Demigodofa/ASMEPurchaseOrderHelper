@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 220,
+  "globalPageIndex": 1018,
+  "width": 627.84,
+  "height": 804.24,
+  "text": "SA-540/SA-540M ASME BPVC.II.A-2025 \nBrittle Area \nB \nA \nMeasure Dimensions A and 8 l'o the nearest \u00bd mm. \nFIG. S5.1 Calculation of Percent Fibrous Area \nTable 2. \nTABLE S6.1 Rolled BarsA -Stock Removal for Magnetic Particle \nInspection \nDiameter, in. [mm] \n1 to 1 \u00bd [25 to 38], incl \nOver 1 \u00bd to 2 [38 to 50], incl \nOver 2 to 2\u00bd [50 to 65], incl \nOver 2\u00bd to 3\u00bd [65 to 90], incl \nOver 3\u00bd to 4\u00bd [90 to 115], incl \nOver 4\u00bd to 6 [115 to 155], Incl \nOver 6 to 10 [155 to 255], incl \nMinimum Stock Removal \nPer Side \nin. \n0.075 \n0.090 \n0.125 \n0.156 \n0.187 \n0.250 \n0.312 \nmm \n1.90 \n2.29 \n3.18 \n3.96 \n4.75 \n6.35 \n7.92 \nA Consult the manufacturer on forged bars, cold-finished bars, bored bars, \nseamless tubes, and forged hollows. \n918 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1018.json",
+  "tabulaTablesCsv": "tables_tabula/page-1018.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text\\pages\\page-1018.txt",
+  "bestTextSource": "full_ocr_highdpi",
+  "bestTextLength": 898,
+  "bestTextAlphaRatio": 0.542
+}

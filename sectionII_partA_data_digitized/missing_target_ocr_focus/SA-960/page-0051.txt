@@ -1,0 +1,37 @@
+ASME BPVC.ILA-2025 SA-985 /SA-985M
+
+TABLE $23.1 7
+: DESCRIPTIVE DATA APPLICABLE TO NETWORK
+STRUCTURES SHOWN IN FIG. $23.1
+
+Rating Delineation Width, in. Boundary Outline, % .
+
+q Fine-0.001 20 |
+
+2 Fine-0.001 40
+
+3 | Fine-0.001 60
+
+4 Fine—0.002 80
+
+5 Fine-0.002 100
+
+6 Medium-0.005 100
+
+7 Heavy—0.010 100
+
+8 0.020 100
+
+9 Yn 100 .
+
+10 "Ae 100
+
+a , NOTE 1 — These ratings are based on the physical width and
+: continuity of the precipitate pattern developed by the acid etchant |
+on the primary austenitic grain boundaries of the cast steel. Supple- ;
+
+mentary testing is normally conducted to determine the final dispo- .
+
+sition of castings with ratings of 5 or greater.
+
+1451 |

@@ -1,0 +1,171 @@
+-~-
+Austenitic Tensile Strength, min 
+Stainless Steel Grades ksi [MPa] 
+F304 70 [485] 
+F304H 70 [485] 
+F304L 66 [450] 
+F304N 80 [550] 
+F309H 70 [485] 
+F310 75 [515] 
+F310H 70 [485] 
+F316 70 [485] 
+F316H 70 [485] 
+F316L 65 [450] 
+F316N 80 [550] 
+F316LN 70 [485] 
+F70 70 [485] 
+F321 70 [485] 
+F321H 70 [485] 
+F347 70 [485] 
+F347H 70 [485] 
+F347LN 70 [485] 
+F348 70 [485] 
+F348H 70 [485] 
+FXM-19 100 [690] 
+FXM-11 90 [620] 
+F20 80 [550] 
+F46 78-100 [540-690] 
+F62 95 [655] 
+F904L 71 [490] 
+F700 80 [550] 
+FNIC 65n [450] 
+FNIC10 65n [450] 
+FNIC11 65n [450] 
+F1925 87 [600] 
+F1925N 94 [650] 
+ASME BPVC.II.A-2025 
+TABLE 2 Tensile Requirements 
+Yield Strength, 
+0.2 % Offset, min 
+ksi [MPa] 
+30 [205] 
+30 [205] 
+25 [170] 
+35 [240] 
+30 [205] 
+30 [205] 
+30 [205] 
+30 [205] 
+30 [205] 
+25 [170] 
+35 [240] 
+30 [205] 
+25 [175] 
+30 [205] 
+30 [205] 
+30 [205] 
+30 [205] 
+30 [205] 
+30 [205] 
+30 [205] 
+55 [380] 
+50 [345] 
+35 [240] 
+32 [220] 
+45 [310] 
+31 [215] 
+35 [240] 
+25[170] 
+25[170] 
+25[170] 
+43 [295] 
+43 [295] 
+Elongation 
+in 2 in. or 50 mm, min % 
+30 
+30 
+30 
+25 
+30 
+30 
+30 
+30 
+30 
+30 
+25 
+30 
+35 
+30 
+30 
+30 
+30 
+30 
+30 
+30 
+30 
+40 
+30 
+40 
+30 
+35 
+30 
+30 
+30 
+30 
+30 
+35 
+SA-965 /SA-965M 
+Reduction of Area, 
+min% 
+45 
+45 
+45 
+45 
+45 
+35 
+45 
+45 
+45 
+45 
+45 
+45 
+50 
+45 
+45 
+45 
+45 
+45 
+45 
+45 
+50 
+50 
+50 
+50 
+50 
+upset disk forgings the longitudinal axis of the specimen shall 
+be in either the tangential or radial direction. 
+in accordance with Section IX of the ASME Boiler and 
+Pressure Vessel Code. 
+8 .3 .1 The location of the longitudinal axis of the tension test 
+specimen shall be located midway between the parallel sur­
+faces of the test extension, if added to the periphery of disks, 
+or midway between the center and surface of solid forgings. 
+For hollow forgings, or those heat treated after boring, the 
+specimen shall be located at midwall. For the special case of 
+forgings that are heat treated solid, but are subsequently bored, 
+the tension test specimen may be taken at the location of the 
+minimum inside diameter after boring instead of the mid-radius 
+position. 
+9. Grain Size 
+9.1 For Grades F304H, F316H, F309H, F310H, F321H, 
+F34 7H, and F348H, the grain size of the forgings shall be 
+ascertained according to Test Methods El12, after solution 
+treatment. One sample shall be examined for each tensile 
+specimen required in 8.2 and shall be taken from the tension 
+test location. The grain size shall be number 6, or coarser, over 
+at least 75 % of the surveyed area. For annealed Grades 
+FNIClO and FNICll, the grain size shall be number 5 or 
+coarser. 
+10. Repair Welding 
+10.1 Repair welding of forgings may be permitted but only 
+at the option of the purchaser. Such repair welds shall be made 
+11. Marking . 
+11.1 The marking requirements of Specification A 788/ 
+A 788M apply. 
+12. Test Reports 
+12.1 The certification requirements of Specification A788/ 
+A 788M shall apply. 
+13. Keywords 
+13.1 austenitic stainless steel forgings; high temperature 
+service; pressure containing parts; pressure vessel service 
+1429 

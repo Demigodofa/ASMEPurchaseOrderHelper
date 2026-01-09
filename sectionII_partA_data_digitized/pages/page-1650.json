@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 852,
+  "globalPageIndex": 1650,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "SA/GB 713 ASME BPVC.II.A-2025 \nSPECIFICATION FOR STEEL PLATES \nFOR BOILERS AND PRESSURE VESSELS \nSA/GB 713 \n(Identical with International Specification GB 713-2014 with these additional requirements.) \n1. Additional Requirements \n1.1 Chemical Composition: \nIn addition to the chemical composition requirements \nof this specification, the limits on elements listed in SA-20 / \nSA-20M, Table 1 shall be observed .. \n1.2 Marking: \nIn addition to the marking requirements of this spec\u00ad\nification, all products are to be identified by this SA/GB \nspecification designation. \n1.3 Controlled Rolling: \nControlled rolling shall be as defined in Figure Xl.1 of \nSA-841/SA-84 lM. \n1.4 Heat Treatment: \nFor material Grades Q245R and Q34SR, plates over 1.50 \nin. (40 mm) in thickness shall be normalized. \n1.5 Test Reports: \n1.5.1 The designation of this SA/GB specification \nshall include the edition year. \n1.5.2 The delivery state shall be indicated on the test \nreport. \n1.5.3 Copies of the original manufacturer's test \nreport shall be included with any subsequent test report. \n2. Source \n2.1 See Nonmandatory Appendix A for ordering infor\u00ad\nmation to obtain an English language copy of GB 713 and \nits references. \n1596 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1650.json",
+  "tabulaTablesCsv": "tables_tabula/page-1650.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-1650.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1214,
+  "bestTextAlphaRatio": 0.7249
+}

@@ -1,0 +1,49 @@
+type and quality level (Tables 3 and 4) of inspection as,blocks being used for calibration and confirm that the back
+judged acceptable by a qualified individual as specified in,reflection signal height is approximately 1.5 in. [40 mm]
+13.1.1.,(SIP). If it is not, obtain the best compromise between this
+14.2.3 Surface Condition - All surfaces to be,block and the largest block of the series of 3 blocks being
+inspected shall be free of scale, machining or grinding,used for calibration.
+particles, excessive paint thickness, dirt, or other foreign,15.3.6 Draw a line on the cathode ray tube screen
+matter that may interfere with the inspection.,parallel to the sweep line at 0.5 in. [13 mm] (SIP) ampli­
+14.3 Position of Casting - The casting shall be posi­,tude. This will be the reference line for reporting disconti­
+tioned such that the inspector has free access to the back,nuity amplitudes.
+wall for the purpose of verifying change in contour.,15.3.7 For tests on machined suifaces, position the
+,search unit on a machined surface of casting where the
+,walls are reasonably parallel and adjust the gain of the
+15. Calibration,instrument until the back reflection signal height is 1.5 in.
+15.1 Calibration Blocks - Determine the thickness of,[40 mm] (SIP). Increase the inspection sensitivity by a
+the material to be ultrasonically inspected. For material,factor of three times (10 dB gain) with the calibrated attenu­
+thickness of 3 in. [75 mm] or less, use the series of 3,ator. Surfaces that do not meet the requirements of 14.2.l
+blocks, 1⁄2, 2, 5 in. [13, 50, 125 mm] (Fig. 3, B dimension),shall be inspected as specified in 15.3.s:
+for calibration: For a material thickness greater than 3 in.,,
+,15.3.8 For inspections on cast suifaces, position the
+use the series of 3 blocks, 2, 5, 10 in. [50, 125, 250 mm],
+,search unit on the casting to be inspected at a location
+(Fig. 3, B dimension) for calibration.,
+,where the walls are reasonably parallel and smooth (inside
+15.2 Calibration of Search Units - For the thickness,and outside diameter) and the surface condition is represen­
+of material to be inspected, as determined in 15.1, use the,tative of the surface being inspected. Adjust the gain of
+following search units:,the instrument until the back reflection signal height is
+15.2.1 For materials 3 in. [75 mm] or less in thick­,1.5 in. [40 mm] (SIP). Increase the inspection sensitivity
+ness, use a 23⁄4 MHz, 1⁄2in . [13 mm] diameter search unit.,by a factor of six times (16 dB) by use of the calibrated
+,control or attenuator. A significant change in surface finish
+15.2.2 For material greater than 3 in. [75 mm] in,
+,requires a compensating adjustment to the gain.
+thickness, use a 23⁄4 MHz, 1 in. [25 mm] diameter search,
+unit.,15.3.8.1 Rejectable indications on as-cast surfaces
+,may be reevaluated by surface preparation to 250 μin.
+15.3 Calibration Procedure:,[6.3 μm] finish or better, and re-inspected in accordance
+15.3.1 Set the frequency selector as required. Set the,with 15.3.7 of this practice.
+reject control in the "OFF" position.,
+,15.3.8.2 It should be noted that some instruments
+15.3.2 Position the search unit on the entrant surface,are equipped with decibel calibrated gain controls, in which
+of the blockthat completely encompasses the metal thick­,case the decibel required to increase the sensitivity must
+ness to be inspected (Fig. 3) and adjust the sweep control,be added. Other instruments have decibel calibrated attenu­
+such that the back reflection signal appears approximately,,ators, in which case the required decibel must be removed.
+but not more than three-quarters along the sweep line from,Still other instruments do not have calibrated gains or
+the initial pulse signal.,attenuators. They require external attenuators.
+15.3.3 Position the search unit on the entrant surface,
+of the smallest block of the series of 3 blocks selected for,
+calibration and adjust the gain until the back reflection,16. Scanning
+signal height (amplitude) is 1.5 in. [40 mm] sweep to,16.1 Grid Pattern - The surface of the casting shall
+peak (SIP). Draw a line on the cathode-ray screen (CRT),,be laid out in a 12 by 12 in. [300 by 300 mm] or any

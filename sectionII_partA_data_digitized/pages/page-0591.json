@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 591,
+  "globalPageIndex": 591,
+  "width": 606.0,
+  "height": 848.88,
+  "text": "ASME BPVC.II.A-2025 SA-351/SA-351M \nSPECIFICATION FOR CASTINGS, AUSTENITIC, FOR \nPRESSURE-CONTAINING PARTS \nSA-351/SA-351M \n(Identical with ASTM Specification A351/A351M-18El.) \n539 \ncO \nINTERNATIONAL \nStandards Worldwide ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-0591.txt",
+  "ocrTextLength": 186,
+  "ocrApplied": true,
+  "bestTextPath": "best_text\\pages\\page-0591.txt",
+  "bestTextSource": "full_ocr_highdpi",
+  "bestTextLength": 212,
+  "bestTextAlphaRatio": 0.656
+}

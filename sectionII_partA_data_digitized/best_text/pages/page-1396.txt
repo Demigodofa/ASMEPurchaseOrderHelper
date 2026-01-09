@@ -1,0 +1,68 @@
+SA-815/SA-815M ASME BPVC.II.A-2025 
+TABLE i Chemical Requirements 
+Norn 1-Where an ellipsis ( ... ) appears in this table, there is no requirement. 
+Composition, % 
+GradeA 
+Grade Grade UNS C, Mn 8 P, S, Si, Ni 8 Cr Mo Cu 8 NB li Other WP CR max max max max 
+Ferritic Steels 
+WP27 CR27 S44627 0.010 0.75 0.020 0.020 0.40 0.50 25.0- 0.75- 0.20 O.D15 Cb 
+27.5 1.50 0.05-0.20 
+WP33 CR33 S44626 0.06 0.75 0.040 0.020 0.75 0.50 25.0- 0.75- 0.20 0.040 0.20-1.00 
+27.0 1.50 (7x(C+N)) min 
+WP429 CR429 S42900 0.12 1.0 0.040 0.030 0.75 0.50 14.0-
+16.0 
+WP430 CR430 S43000 0.12 1.00 0.040 0.030 1.00 0.50 16.0-
+18.0 
+WP430TI CR430Ti S43036 0.10 1.00 0.040 0.030 1.00 0.75 16.0- (5xC) min 0.75 
+19.5 max 
+WP446 CR446 S44600 0.20 1.50 0.040 0.030 0.75 0.50 23.0- 0.25 
+27.0 
+Ferritic/ Austenitic Steels 
+WPS31803 CRS31803 S3'1803 0.030 2.00 0.030 0.020 1.0 4.5- 21.0- 2.5- 0.08-
+6.5 23.0 3.5 0.20 
+WPS32101 CR832101 S32101 0.040 4.0- 0.040 0.030 1.00 1.35- 21.0- 0.10- 0.10- 0.20-
+6.0 1.70 22.0 0.80 0.80 0.25 
+WPS32202 CRS32202 832202 0.030 2.00 0.040 0.010 1.00 1.00- 21.5- 0.45 0.18-
+2.80 24.0 0.26 
+WPS32750 CRS32750 S32750 0.030 1.20 0.035 0.020 0.8 6.0- 24.0- 3.0- 0.5 0.24-
+8.0 26.0 5.0 0.32 
+WPS32950 CR832950 832950 0.030 2.00 0.035 0.010 0.60 3.5- 26.0- 1.00- 0.15-
+5.2 29.0 2.50 0.35 
+WPS32760 CR832760 S32760 0.030 1.00 0.030 0.010 1.00 6.0- 24.0- 3.0·- 0.50- 0.20- w 
+8.0 26.0° 4.0° 1.00 o.so 0 0.50-1.00 
+WPS39274 CRS39724 832974 0.030 1.00 0.030 0.020 0.80 6.0- 24.0- 2.50- 0.20- 0.24- w 
+8.0 26.0 3.50° 0.80 0.32 1.50-2.50 
+WP832550 CR832550 S32550 0.04 1.50 0.040 0.030 1.00 4.5- 24.0-- 2.9- 1.50- 0.10-
+6.5 27.0 3.9 2.50 0.25 
+WPS32205 CRS32205 S32205 0.030 2.00 0.030 0.020 1.00 4.5- 22.0- 3.0- 0.14·-
+6.5 23.0 3.5 0.20 
+Martensitic Steels 
+WP410 CR410 841000 0.15 1.00 0.040 0.030 
+WPS41008 CR841008 S41008 0.08 1.00 0.040 0.030 
+WPS41500 CRS41500 S41500 0.05 0.50- 0.030 0.030 
+1.00 
+A Naming system developed and applied by ASTM International. 
+8 Maximum unless otherwise indicated. 
+0 % Cr+ 3.3 x % Mo+ 16 x % N = 40 min. 
+5.13.3 All weld surfaces are liquid penetrant examined in 
+accordance with Appendix 8 of Section VIII, Division l of the 
+ASME Boiler and Pressure Vessel Code, and 
+5.13.4 Repair of areas in the weld is permitted, but 5.13.1, 
+5.13.2, and 5.13.3 must be repeated. 
+5.14 Deleted 
+1.00 0.50 11.5-
+max 13.5 
+1.00 0.60 11.5-
+13.5 
+0.60 3.5- 11.5- 0.50- w 
+5.5 14.0 1.00 0.50-1.00 
+5.15 Stub ends may be produced with the entire lap added 
+by tl1e welding of a ring, made from plate or bar of the same 
+alloy grade and composition, to the outside of a strnight section 
+of pipe, provided the weld is double welded, is a full • 
+penetration joint, satisfies the requirements of 5.10 for quali­
+fications and Section 6 for post weld heat treatment. 
+5.15.1 Class WP-W-Radiographic inspection of all welds, 
+made with the addition of filler metal is required (see 5.4). 
+1334 
+-~ 

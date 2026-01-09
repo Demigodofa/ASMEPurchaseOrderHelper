@@ -1,0 +1,125 @@
+SA-265 ASME BPVC.II.A-2025 
+(2) The specified minimum tensile strength of the base 
+steel is less than or equal to 70 000 psi (485 MPa). 
+( 3) The specified minimum yield strength of the base steel 
+is less than or equal to 40 000 psi (275 MPa). 
+( 4) The tensile properties thus determined shall not be less 
+than the minimum and not more than 5000 psi (35 MPa) over 
+the maximum prescribed in the specification for the base steel 
+used. All other tensile test requirements of the specification for 
+the base steel shall be met. 
+7.1.2 The tensile properties shall be determined by a 
+tension test of the base steel only for clad plates that meet one 
+of the following conditions. The properties thus determined 
+shall meet all of the tensile test requirements for the base steel. 
+(1) The composite gage is greater than 1 ½ in. (38 mm). 
+(2) The specified minimum tensile strength of the base 
+steel is greater than 70 000 psi (485 MPa). 
+( 3) The specified minimum yield strength of the base steel 
+is greater than 40 000 psi (275 MPa). 
+7 .1.3 If the cladding is for corrosion allowance only, the 
+cladding need not be included in the tensile test. The tensile 
+properties thus determined shall meet the base steel require­
+ments. 
+7.2 Test for strength of the bond, when required, must be 
+specified by the purchaser and shall consist of one of the 
+following. 
+7.2.1 Shear Strength-When required by the purchaser, the 
+minimum shear strength of the alloy cladding and base metals 
+shall be 20 000 psi (140 MPa). The shear test, when specified, 
+shall be made in the manner indicated in 1. The minimum 
+cladding thickness for shear testing shall be 0.075 in. (1.9 mm) 
+exclusive as ordered. Testing for shear strength for clad plates 
+with minimum cladding thickness of 0.075 in (1.9 mm) or less 
+shall be permitted upon agreement between the purchaser and 
+the manufacturer. 
+in. 
+•t· resr 
+tlcimen 
+:,, ' , 
+J i I 
+:,,, 1' 
+r j,, 
+I 
+_i 
+... t+o.oos" .. ( .. 
+0
+'Shflt;11r Blocks,' 
+t =(T·cr) min11.s (l(f ffl(l(S t On, 
+Finish Cut on Ct;11rbon Sftt/$1-«'t 
+Mint = 2W 
+a = vs' M<;rx 
+W = IYf'1t 
+Shf!C¥r Blocks sh/Jfl/ be Bo/tee! Firmly Tof!cllfher t:l'q'(l(insf 
+fl/ler Piece wh/ch Provi&ltl $p(IICl2 0.005' Wl&l~r f/1(1111 t 
+of Sprt:""men 
+Metric Equivalents 
+mm in. mm 
+0.005 
+'la 
+0.127 
+3.17 
+19.1 
+2½ 
+3 
+25.4 
+64.5 
+76.2 ¾ 
+FIG. 1 Test Specimen and Method of Making Shear Test of Clad 
+Plate 
+388 
+7 .2.2 Bond Strength-As an alternative to the shear strength 
+test provided in 7.2. l or when agreed upon by the purchaser 
+and the manufacturer, or both, three bend tests shall be made 
+with the alloy cladding in compression to determine the quality 
+of the bond. These bend tests shall be made in the manner of 
+the tension tests indicated in Fig. 2 and shall be bent through an 
+angle of 180° to the bend diameters provided for in either 
+Specification A6/ A6M or Specification A20/ A20M (Appendix 
+X4, or equivalent), as applicable. At least two of the three tests 
+shall show not more than 50 % separation on both edges of the 
+bent portion. Greater separation shall be cause for rejection. 
+7.3 Methods and practices relating to mechanical testing 
+required by this specification shall be in accordance with the 
+Test Methods and Definitions of A370. 
+8. Number of Tests and Retests 
+8.1 One or more tension tests, as required by the specifica­
+tions for the base metal and when specified, one shear test or 
+three bond bend tests shall be made, representing each plate as 
+rolled. Each specimen shall be in the final condition of heat 
+treatment required for the plate, including any SPWHT if 
+required. 
+8.2 If any test specimen shows defective machining or 
+develops flaws, it may be discarded and another specimen 
+substituted. 
+9. Test Specimens 
+9 .1 The tension test specimens shall conform to the require­
+ments prescribed in the specifications for the base metal. 
+9.2 Bend test specimens for the alternative bond strength 
+tests shall be taken at right angles to its longitudinal axis. 
+r 
+Parallel Section 
+1 
+rAboul - - nof lf!ss fhon 9_.- ,1• 1 
+Poro/le/ wilhin QOIO" • 
+I--, 0 ~-,f'tt:= • ~ 
+\ ------------ ........ , ~ ~ 
+: ro~"f,f"~~~r:ig~S~':flt,;on '-;;';,;; 
+, of'fer Frocfure 
+Appro'ximalely 2• 
+Metric Equivalents 
+in. mm in. mm 
+0.01 0.254 1½ 38.1 
+1/a 3.17 2 50.8 
+¼ 6.35 3 76.2 
+1 25.4 8 203.2 
+Norn 1-When necessary, it is permissible to use a narrower specimen, 
+but in such a case the reduced portion shall be not less than 1 in. in width. 
+Norn 2-Punch marks for measuring elongation after fracture shall be 
+made on the flat or on the edge of the specimen and within the parallel 
+section; either a set of nine punch marks 1 in. apart, or one or more sets 
+of 8-in. punch marks may be used. 
+Norn 3-The dimension t is the thickness of the test specimen as 
+provided for in the applicable material specifications. 
+FIG. 2 Standard Rectangular Test Specimens with 8-in. Gage 
+Length 

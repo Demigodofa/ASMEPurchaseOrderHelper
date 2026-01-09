@@ -1,0 +1,92 @@
+ASME BPVC.II.A-2025 SA-20/SA-Z0M 
+SUPPLEMENTARY REQUIREMENTS 
+The following standardized supplementary requirements are for use if desired by the purchaser, 
+Those that are considered suitable for use with a product specification are listed in the product 
+specification. Other tests may be performed by agreement between the manufacturer or processor and 
+the purchaser. These supplementary requirements shall apply only if specified in the purchase order, 
+in which event the specified tests shall be made by the manufacturer or processor before shipment of 
+the plates. 
+Sl. Vacuum Treatment 
+S 1.1 The steel shall be made by a process that includes 
+vacuum degassing while molten. Unless otherwise agreed upon 
+with the purchaser, it is the responsibility of the manufacturer 
+to select suitable process procedures. 
+S2. Product Analysis 
+S2.1 A product analysis shall be made of each plate as 
+rolled. The specimens for analysis shall be taken adjacent to or 
+from a broken tension test specimen. 
+S3. Simulated Post-Weld Heat Treatment of Mechanical 
+Test Coupons 
+S3.1 Prior to testing, the test coupons representing the plate 
+for acceptance purposes for mechanical properties shall be 
+thermally treated to simulate a post-weld heat treatment below 
+the critical temperature (Ac 3 ), using the heat treatment param­
+eters (such as temperature range, time, and cooling rates) 
+specified in the purchase order. For tests using specimens taken 
+from such heat treated test coupons, the test results shall meet 
+the requirements of the applicable product specification. Test­
+ing need only be performed and reported in the simulated 
+post-weld heat treated condition. 
+S4. Additional Tension Test 
+S4.1 Other Than Quenched-and-Tempered Plates-In addi­
+tion to the required single tension test, a second tension test 
+shall be made using a test specimen taken from a test coupon 
+taken from a corner of the plate-as-rolled on the end opposite 
+the single test specimen and in a direction parallel to the single 
+test specimen. The results obtained using this second test 
+specimen shall meet the requirements of the applicable product 
+specification. 
+S4.2 Quenched-and-Tempered Plates 2 in. [50 mm] or 
+Greater in Thickness-In addition to the required tension tests, 
+two additional test coupons shall be taken from the bottom 
+corner of the plate. One shall be taken at the center of the plate 
+thickness and the other immediately beneath the surface. 
+Mandatory conformance of these additional tests with the 
+specified properties shall be a matter of agreement between the 
+manufacturer and the purchaser. 
+SS. Charpy V-Notch Impact Test 
+S5.l Charpy V-notch impact tests shall be conducted in 
+accordance with 12.1. 
+79 
+S5.2 The orientation of the test specimens, whether longi­
+tudinal or transverse to the direction of rolling, shall be as 
+specified in the purchase order. 
+S5.3 The test temperature and the required acceptance 
+criteria, if other than those required in 12.1, shall be as 
+specified in the purchase order. 
+S5.4 The recorded results shall include test specimen 
+orientation, test specimen size, test temperature, absorbed 
+energy values, and, if specified in the purchase order for other 
+than Class VI plates, lateral expansion opposite the notch. The 
+percent shear fracture appearance shall also be recorded if 
+specified in the purchase order. 
+S6. Drop-Weight Test (for Plates 0.625 in. [16 mm] and 
+Over in Thickness) 
+S6.l Drop-weight tests shall be made in accordance with the 
+requirements of Test Method E208. The specimens shall 
+represent the plates in the final condition of heat treatment. 
+Agreement shall be reached between the purchaser and the 
+manufacturer or processor as to the number of plates to be 
+tested and whether a maximum NDT temperature is mandatory 
+or if the test results are for information only. 
+S7. High-Temperature Tension Tests 
+S7.1 A sho1i-time elevated temperature tension test shall be 
+made to represent each plate or each heat of steel as indicated 
+by the purchaser. The specimens for testing shall be obtained as 
+required for the room temperature tension tests specified in the 
+body of this general requirements specification. The high­
+temperature tests shall be made in accordance with the require­
+ments of Test Methods E21. Mandatory conformance of such 
+additional tests with the specified properties shall be a matter 
+for agreement between the manufacturer or processor and the 
+purchaser. 
+SS. Ultrasonic Examination in Accordance with A435/ 
+A435M 
+S8.1 All plates shall be ultrasonically examined in accor­
+dance with the requirements of Specification A435/ A435M. 
+S9. Magnetic Particle Examination 
+S9.l All plate edges shall be examined by magnetic par­
+ticles in accordance with the procedures covered in Guide 
+E709. The acceptability of defects revealed by this examina­
+tion shall be judged in accordance with the requirements for 
+quality in 9.3. 

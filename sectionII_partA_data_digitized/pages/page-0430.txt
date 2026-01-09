@@ -1,0 +1,76 @@
+SA-263 ASME BPVC.II.A-2025 
+13.3.4 The class to be supplied should be listed on the 
+purchase order. When none has been specified, plates shall be 
+furnished as Class 5 at the option of the manufacturer. 
+14. Welding 
+14.1 All welding which is a part of the delivered product, 
+including any made in the fabrication of the cladding alloy 
+component, shall be performed with a procedure and welders 
+or welding operators that are qualified in accordance with 
+Section IX of the ASME Code. 
+14.2 The material manufacturer may repair defects in clad­
+ding by welding provided the following requirements are met: 
+14.2.1 When specified in the purchase order, prior approval 
+shall be obtained from the purchaser. 
+14.2.2 The defective area shall be removed and the area 
+prepared for repair shall be examined by a magnetic particle 
+method or a liquid penetrant method to ensure all defective 
+area has been removed. Method of test and acceptance standard 
+shall be as agreed upon between the purchaser and the 
+manufacturer. 
+14.2.3 The repair weld shall be deposited in accordance 
+with a welding procedure and welding materials suitable for 
+the cladding material. The surface condition of the repaired 
+area shall be restored to a condition similar to the rest of the 
+cladding. 
+14.2.4 The repaired area shall be examined by a liquid 
+penetrant method. 
+14.2.5 The location and extent of the weld repairs together 
+with the repair procedure and examination results shall be 
+transmitted as a part of the certification. 
+14.3 All repairs in Alloy Type 410 and any repairs to Type 
+410S penetrating into the backing steel shall be stress relieved 
+to eliminate residual stresses unless otherwise agreed upon. 
+15. General Requirements for Delivery 
+15 .1 Material furnished under this specification shall con­
+form to the applicable requirements of Specification A20/ 
+A20M. 
+16. Certification 
+16.1 The chemical analysis of the base metal and the alloy 
+cladding shall be certified to the purchaser by the clad plate 
+manufacturer. 
+16.2 The results of the tests in Section 7 and any other tests 
+required by the purchase order shall be reported to the 
+purchaser. 
+16.3 Compliance with the clad quality level of 13.3 shall be 
+certified. Reports shall include the results of ultrasonic inspec­
+tion when Supplementary Requirement S12 is specified. 
+16.4 Compliance with any applicable construction code 
+shall be certified and the appropriate documentation provided 
+when appropriate in the case of explosively bonded clad 
+produced using welded alloy cladding components (see 4.1.10 
+and 4.1.11). 
+17. Product Marking 
+17.1 Except as specified in 17.2, plates shall be marked in 
+accordance with the requirements of Specification A20/ A20M 
+for the backing steel and the type number of the alloy cladding 
+metal and this specification number. 
+17 .2 For double-clad material or for material under V4 in. 
+(6.35 mm) in thickness, the marking shall be legibly stenciled 
+instead of stamped. 
+18. Keywords 
+18.1 alloy cladding; backing steel; bond strength; carbon 
+steel; clad steel plate; low-alloy steel; pressure vessel; shear 
+strength; stainless chromium steel 
+SUPPLEMENTARY REQUIREMENTS 
+Supplementary requirements shall not apply unless specified on the order. A list of standardized 
+supplementary requirements for use at the option of the purchaser are included in Specification 
+A20/ A20M. Several of those considered suitable for use with this specification are listed below by 
+title. Other tests may be performed by agreement between the supplier and the purchaser. 
+S2. Product Analysis 
+S3. Simulated Post-Weld Heat Treatment of Mechanical 
+Test Coupons 
+S5. Charpy V-Notch Impact Test 
+S12. Ultrasonic Examination in accordance with Specifica­
+tion A578/A578M 
+378 

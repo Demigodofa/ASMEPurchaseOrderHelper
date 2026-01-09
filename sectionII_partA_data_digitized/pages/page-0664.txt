@@ -1,0 +1,104 @@
+SA-370 ASME BPVC.II.A-2025 
+accurate or appropriate for the purpose. 
+A2.2.2 Longitudinal Strip Test Specimens: 
+A2.2.2.1 As an alternative to the use of full-size longitudi­
+nal test specimens or longitudinal round test specimens, 
+longitudinal strip test specimens, obtained from strips cut from 
+the tubular product as shown in Fig. A2.2 and machined to the 
+dimensions shown in Fig. A2.3 are used. For welded structural 
+tubing, such test specimens shall be from a location at least 90° 
+from the weld; for other welded tubular products, such test 
+specimens shall be from a location approximately 90° from the 
+weld. Unless otherwise required by the product specification, 
+the gauge length shall conform to dimension C in Fig. A2.3. 
+The test specimens shall be tested using grips that are flat or 
+have a surface contour corresponding to the curvature of the 
+tubular product, or the ends of the test specimens shall be 
+flattened without heating prior to the test specimens being 
+tested using flat grips. The test specimen shown as specimen 4 
+in Fig. 3 shall be used, unless the capacity of the testing 
+equipment or the dimensions and nature of the tubular product 
+to be tested makes the use of specimen nos. 1, 2, or 3 necessary. 
+Norn A2.2-An exact formula for calculating the cross-sectional area 
+of specimens of the type shown in Fig. A2.3 taken from a circular tube is 
+given in Test Methods ES/ESM. 
+A2.2.2.2 The width should be measured at each end of the 
+gauge length to determine parallelism and also at the center. 
+The thickness should be measured at the center and used with 
+the center measurement of the width to determine the cross­
+sectional area. The center width dimension should be recorded 
+to the nearest 0.005 in. (0.127 mm), and the thickness 
+measurement to the nearest 0.001 in. 
+A2.2.3 Transverse Strip Test Specimens: 
+A2.2.3.1 In general, transverse tension tests are not recom­
+mended for tubular products, in sizes smaller than 8 in. in 
+nominal diameter. When required, transverse tension test 
+specimens may be taken from rings cut from ends of tubes or 
+pipe as shown in Fig. A2.4. Flattening of the specimen may be 
+done either after separating it from the tube as in Fig. A2.4 (a), 
+or before separating it as in Fig. A2.4 (b), and may be done hot 
+or cold; but if the flattening is done cold, the specimen may 
+subsequently be normalized. Specimens from tubes or pipe for 
+which heat treatment is specified, after being flattened either 
+hot or cold, shall be given the same treatment as the tubes or 
+Norn 1-The edges of the blank for the specimen shall be cut parallel 
+to each other. 
+FIG. A2.2 Location of Longitudinal Tension-Test Specimens in 
+Rings Cut From Tubular Products 
+pipe. For tubes or pipe having a wall thickness of less than ¾ 
+in. (19 mm), the transverse test specimen shall be of the form 
+and dimensions shown in Fig. A2.5 and either or both smfaces 
+may be machined to secure uniform thickness. Specimens for 
+transverse tension tests on welded steel tubes or pipe to 
+determine strength of welds, shall be located perpendicular to 
+the welded seams with the weld at about the middle of their 
+length. 
+A2.2.3.2 The width should be measured at each end of the 
+gauge length to determine parallelism and also at the center. 
+The thickness should be measured at the center and used with 
+the center measurement of the width to determine the cross­
+sectional area. The center width dimension should be recorded 
+to the nearest 0.005 in. (0.127 mm), and the thickness 
+measurement to the nearest 0.001 in. (0.025 mm). 
+A2.2.4 Round Test Specimens: 
+A2.2.4.1 When provided for in the product specification, the 
+round test specimen shown in Fig. 4 may be used. 
+A2.2.4.2 The diameter of the round test specimen is mea­
+sured at the center of the specimen to the nearest 0.001 in. 
+(0.025 mm). 
+A2.2.4.3 Small-size specimens proportional to standard, as 
+shown in Fig. 4, may be used when it is necessary to test 
+material from which the standard specimen cannot be prepared. 
+Other sizes of small-size specimens may be used. In any such 
+small-size specimen, it is important that the gauge length for 
+measurement of elongation be four times the diameter of the 
+specimen (see Note 5, Fig. 4). The elongation requirements for 
+the round specimen 2-in. gauge length in the product specifi­
+cation shall apply to the small-size specimens. 
+A2.2.4.4 For transverse specimens, the section from which 
+the specimen is taken shall not be flattened or otherwise 
+deformed. 
+612 
+A2.2.4.5 Longitudinal test specimens are obtained from 
+strips cut from the tubular product as shown in Fig. A2.2. 
+A2.3 Determination of Transverse Yield Strength, Hydrau­
+lic Ring-expansion Method 
+A2.3.l Hardness tests are made on the outside surface, 
+inside surface, or wall cross-section depending upon product­
+specification limitation. Surface preparation may be necessary 
+to obtain accurate hardness values. 
+A2.3.2 A testing machine and method for determining the 
+transverse yield strength from an annular ring specimen, have 
+been developed and described in A2.3.3 - 9.1.2. 
+A2.3.3 A diagrammatic vertical cross-sectional sketch of 
+the testing machine is shown in Fig. A2.6. 
+A2.3.4 In determining the transverse yield strength on this 
+machine, a sh01t ring (commonly 3 in. (76 mm) in length) test 
+specimen is used. After the large circular nut is removed from 
+the machine, the wall thickness of the ring specimen is 
+determined and the specimen is telescoped over the oil resistant 
+rubber gasket. The nut is then replaced, but is not turned down 
+tight against the specimen. A slight clearance is left between 
+the nut and specimen for the purpose of permitting free radial 
+movement of the specimen as it is being tested. Oil under 
+pressure is then admitted to the interior of the rubber gasket 

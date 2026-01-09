@@ -1,0 +1,20 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 479,
+  "globalPageIndex": 1277,
+  "width": 613.92,
+  "height": 793.2,
+  "text": "ASME BPVC.II.A-2025 SA-737 /SA-737M \nTABLE 1 Chemical Requirements \nNOTE I-Where\" ... \" appears in this table, there is no requirement. \nComposition, % \nElement \nCarbon, max \nManganese \nPhosphorus, max \nSulfur, max \nSilicon \nVanadium \nColumbium \n(Niobium), 8 \nmax \nGrade B \nHeat \n0.20 \n1.15-1.50A \n0.025 \n0.025 \n0.15-0.50 \n0.05 \nProduct \n0.22 \n1.07-1.6~ \n0.025 \n0.025 \n0.10-0.55 \n0.05 \nHeat \n0.22 \n1.15-1.50 \n0.025 \n0.025 \n0.15-0.50 \n0.04-0.11 \n0.05 \nGrade C \nProduct \n0.24 \n1.07-1.62 \n0.025 \n0.025 \n0.10-0.55 \n0.03-0.12 \n0.05 \nNitrogen, max 0.03 0.03 \nA The maximum manganese may be increased to 1.60 % on heat analysis and \n1. 72 % on product analysis, provided that the carbon content on heat analysis \ndoes not exceed 0.18 %. \n8 Columbium and niobium are interchangeable names for the same element and \nboth names are acceptable for use in A01 specifications. \nTABLE 2 Tensile Requirements \nYield strength, min, ksi [MPa] \nTensile strength, ksi [MPa] \nElongation in 8 in. [200 mm], \nmin,%A \nElongation in 2 in. [50 mm], \nmin,%A \nGrade B \n50 [345] \n70-90 [485-620] \n18 \n23 \nGrade C \n80[415] \n80-100 [550-690] \n18 \n23 \nA See Specification A20/A20M for elongation adjustment. \n5.2 If approved by the purchaser, cooling rates faster than \nair cooling are permitted for improvement of strength or \ntoughness, provided the plates are subsequently tempered in \nthe temperature range from 1100 to 1300\u00b0F [595 to 705\u00b0C]. \n5.3 When the fabricator elects to perform the heat treatment \nin 5.1 and 5.2, the manufacturer shall normalize plates con\u00ad\nforming to Grade C within the range from 1650 to 1850oF [900 \nto 1010oC] prior to shipment for plates exceeding 2 in. [50 \nmm] in thickness unless otherwise agreed to. \n6. Chemical Requirements \n6.1 The steel shall conform to the requirements as to \nchemical composition prescribed in Table 1 unless otherwise \nmodified in accordance with Supplementary Requirement S 17, \nVacuum Carbon-Deoxidized Steel, in Specification A20/ \nA20M. \n7. Mechanical Requirements \n7 .1 Tension Tests-The material as represented by the ten\u00ad\nsion test specimens shall conform to the requirements shown in \nTable 2. \n7.1.1 For nominal plate thicknesses of\u00be in. [20 mm] and \nunder, when requirements for elongation in 2 in. [50 mm] are \nto be determined, the 1 \u00bd-in. [40-mm] wide rectangular speci\u00ad\nmen may be used for the tension test, and the elongation may \nbe determined in a 2-in. [50-mm] gage length that includes the \nfracture and that shows the greatest elongation. \nSUPPLEMENTARY REQUIREMENTS \nSupplementary requirements shall not apply unless specified in the purchase order. \nA list of standardized supplementary requirements for use at the option of the purchaser is included \nin Specification A20/ A20M. Several of those considered suitable for use with this specification are \nlisted below by title. Other tests may be performed by agreement between the supplier and the \npurchaser. \nS 1. Vacuum Treatment, \nS2. Product Analysis, \nS3. Simulated Post-Weld Heat Treatment of Mechanical \nTest Coupons, \nS5. Charpy V-Notch Impact Tests, \nS8. Ultrasonic Examination in accordance with Specifica\u00ad\ntion A435/A435M, \nS 11. Ultrasonic Examination in accordance with Specifica\u00ad\ntion A577 / A577M, \nSl2. Ultrasonic Examination in accordance with Specifica\u00ad\ntion A578/A578M, and \nS 17. Vacuum Carbon-Deoxidized Steel. \n1199 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 1,
+  "tabulaTablesPath": "tables_tabula/page-1277.json",
+  "tabulaTablesCsv": "tables_tabula/page-1277.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-1277.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 3343,
+  "bestTextAlphaRatio": 0.6674,
+  "gapOcrHighDpiPath": "gap_ocr_highdpi/page-1277.txt",
+  "gapOcrHighDpiLength": 3307
+}

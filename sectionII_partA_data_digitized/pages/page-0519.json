@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 519,
+  "globalPageIndex": 519,
+  "width": 845.28,
+  "height": 601.08,
+  "text": "( ) \nTABLE 1 Mechanical Requirements \nMinimum Tensile Yield Strength, Elongation Reduction \nClass and Grade, Diameter, in. [mm] Heat Treatment Tempering Strength, min, ksi in 2 in. of Area, Hardness, \nTemperature, min, ksi [MPa] (0.2% or 50 max \nOF [OC] [MPa] offset) mm, min,% mini 0 /o \nFerritic Steels \nL7, L7A, L7B, L7C, L70, L71, L72, L73 125 105 16 50 321 HBWor35 \nHRC \n2\u00bd [65] and underA quenched and tempered 1100 [860] [725] \n[593] \nL43 125 105 16 50 321 HBW or 35 \nHRC \n4 [100] and underA quenched and tempered 1100 [860] [725] \n[593] \nL7M 100 80 18 50 235 HBW 8 or \n99 HRB \n2\u00bd [65] and underA quenched and tempered 1150 [690] [550] \n[620] \nL 1 125 105 16 50 \n1 [25] and underA guenched and temeered [860] [725] \nAustenitic Steelsc \nClass 1: B8, B8C, B8M, B8P, carbide solution treated 75 30 30 50 223 HBW 0 or \nB8F, BBT, B8LN, B8MLN, all diameters [515] [205] 96 HRB > Vl \nClass 1A: BBA, BBCA, B8MA, B8PA, carbide solution treated in the 75 30 30 50 192 HBW or 90 3: \nBBFA, B8TA, BBLNA, finished condition [515] [205] HRB 1:,:1 \nBBMLNA, all diameters \n0:, \n.i,. \"t:I \nClass 2: BB, BBC, B8P, BBF, BBT: carbide solution treated and strain < \u00b0' n '-.1 hardened -\u00be [20] and under 125 100 12 35 321 HBW or 35 ~ \n[860] [690] HRC N \nover\u00be to 1 [20 to 25], incl 115 80 15 35 321 HBW or 35 0 \nN \n[795] [550] HRC c:n \nover 1 to 1 \u00bc [25 to 32], incl 105 65 20 35 321 HBW or 35 \n[725] [450] HRC \nover 1 \u00bc to 1 \u00bd [32 to 40], inclA 100 50 28 45 321 HBW or 35 \n[690] [345] HRC \nClass 2: BBM: carbide solution treated and strain \nhardened \n\u00be [20] and under 110 95 15 45 321 HBWor35 \n[760] [655] HRC \nover \u00be to 1 [20 to 25], incl 100 80 20 45 321 HBW or 35 \n[690] [550] HRC \nover 1 to 1 \u00bc [25 to 32], incl 95 65 25 45 321 HBW or 35 \n[655] [450] HRC \nover 1 \u00bc to 1 \u00bd [32 to 40], inclA 90 50 30 45 321 HBWor35 \n[620] [345] HRC \nA These upper diameter limits were established on the basis that these were the largest sizes commonly available that consistently met specification property limits. They are not intended as absolute limits beyond which \nbolting materials could no longer be certified to the specification. \n~ 8 To meet the tensile requirements, the Brinell hardness shall not be less than 200 HBW or 93 HRB. \nc Class 1 products are made from solution-treated material. Class 1 A products are solution treated in the finished condition for corrosion resistance; heat treatment is critical for enhancing this physical property and meeting w \nthe mechanical property requirements. Class 2 products are made from solution-treated material that has been strain hardened. Austenitic steels in the strain-hardened condition may not show uniform properties N \n0 \nthroughout the cross section, particularly in sizes over \u00be in. [20 mm] in diameter. \n----\nVl \n\u00b0 For sizes\u00be in. [20 mm] in diameter and smaller, a maximum hardness of 241 HBW (100 HRB) is permitted. > w \nN \n0 \n3: ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0519.json",
+  "tabulaTablesCsv": "tables_tabula/page-0519.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0519.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2871,
+  "bestTextAlphaRatio": 0.5688
+}

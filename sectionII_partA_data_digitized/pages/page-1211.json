@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 413,
+  "globalPageIndex": 1211,
+  "width": 794.4,
+  "height": 615.48,
+  "text": "(-\nTABLE 2 Tensile Requirements \n304L, 304N, 304LN, Grade 304,316 XM-29 800 316L 316N 316LN \nS30400, S30403, S24000 S30451, S30453, N08367 N08367 N08800 UNS Designation \nI-\" S31600 S31603 S31651 S31653 t < 0.187 t > 0.187 \nI-\" Tensile strength, min ksi 75 [515] 70 [485] 100 [690] 80 [550] 75 [515] 100 [690] 95 [655] 75 [520] N \nw [MPa] \nYield strength, min 30 [205] 25 [175] 55 [380] 35 [240] 30 [205] 45 [310] 45 [310] 30 [205] \nksi [MPa] \nElongation in 2 in. or 50 35 35 35 35 35 30 30 30 \nmm, min,% \n800H \nN08810 N08811 S31254 \nt < 0.187 \n65 [450] 65 [450] 94 [650] 100 [690] \n25[170] 25 [170] 43 [295] 45 [310] \n30 30 35 35 \nS31254 S32654 \nt > 0.187 \n95 [655] 120 [825] \n45 [310] 65 [450] \n35 40 \n) \n> c,, \n:s: \n!!l \n0:, \n\"ti \n~ \n~ \nN \nQ \nN \n~ \n~ \nO'I \n!XI \n!XI ....... \n~ \nO'I \n!XI \n!XI \n:s: ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1211.json",
+  "tabulaTablesCsv": "tables_tabula/page-1211.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-1211.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 799,
+  "bestTextAlphaRatio": 0.209
+}

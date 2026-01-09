@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 550,
+  "globalPageIndex": 550,
+  "width": 599.4,
+  "height": 844.08,
+  "text": "SA-334/SA-334M \nElement \nCarbon, max \nManganese \nPhosphorus, max \nSulfur, max \nSilicon \nNickel \nChromium \nCopper \nCobalt \nMolybdenum \nNOTE: \nGrade 1 \n[Note (l)J Grade 3 \n0.30 0.19 \n0.40-1.06 0.31-0.64 \n0.025 0.025 \n0.025 0.025 \n0.18-0.37 \n3.18-3.82 \nASME BPVC.II.A-2025 \nTABLE 1 \nCHEMICAL REQUIREMENTS \nComposition, % \nGrade 6 \n[Note (l)J Grade 7 \n0.30 0.19 \n0.29-1.06 0.90 max \n0.025 0.025 \n0.025 0.025 \n0.10 min 0.13-0.32 \n2.03-2.57 \nGrade 8 \n0.13 \n0.90 max \n0.025 \n0.025 \n0.13-0.32 \n8.40-9.60 \nGrade 9 \n0.20 \n0.40-1.06 \n0.025 \n0.025 \n1.60-2.24 \n0.75-1.25 \nGrade 11 \n0.10 \n0.60 max \n0.025 \n0.025 \n0.35 max \n35.0-37.0 \n0.50 max \n0.50 max \n0.50 max \n(1) For each reduction of 0.01 % carbon below 0.30%, an increase of 0.05% manganese above 1.06% will be permitted to a maximum of 1.35% \nmanganese. \nTABLE 2 \nHEAT-TREATMENT LOT \nSize of Tube Size of Lot \n2 in. [50.8 mmJ and over in outside not more than 50 tubes \ndiameter and 0.200 in. [5.1 mm] and \nover in wall thickness \nUnder 2 in. [50.8 mmJ but over 1 in. not more than 75 tubes \n[25.4 mmJ in outside diameter, or \nover 1 in. [25.4 mm] in outside diame-\nter and under 0.200 in. [5.1 mm] in \nthickness \n1 in. [25.4 mm] or under in outside not more than 125 tubes \ndiameter \n498 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 1,
+  "tabulaTablesPath": "tables_tabula/page-0550.json",
+  "tabulaTablesCsv": "tables_tabula/page-0550.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0550.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1233,
+  "bestTextAlphaRatio": 0.4631
+}

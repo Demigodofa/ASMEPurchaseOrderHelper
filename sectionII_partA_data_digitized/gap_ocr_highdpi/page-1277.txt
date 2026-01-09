@@ -1,0 +1,48 @@
+ASME BPVCILA-2025 SA-737/SA-737M :
+—~ TABLE 1 Chemical Requirements 5.2 If approved by the purchaser, cooling rates faster than
+Nore 1—Where “...” appears in this table, there is no requirement. air cooling are permitted for improvement of strength or
+TTT or Composition Se toughness, provided the plates are subsequently tempered in
+a o ° .
+Element Grade B Grade the temperature range from 1100 to 1300°F [595 to 705°C].
+Heat Product Heat Product 5.3 When the fabricator elects to perform the heat treatment
+Carbon, max 0.20 0.22 0.22 0.24 in 5.1 and 5.2, the manufacturer shall normalize plates con-
+A . . .
+Manganese 1.15-1.50% — 1.07-1.62% 1.15-1.50 1,071.62 forming to Grade C within the range from 1650 to 18500F [900
+Phosphorus, max 0.025 0.025 0.025 0.025 . ; : : .
+Sulfur, max 0.025 0.025 0.025 0.025 to 10100C] prior to shipment for plates exceeding 2 in. [50
+Silicon 0.15-0.50  0.10-0.55  0.15-0.50 —0.10-0.55 mm] in thickness unless otherwise agreed to.
+Vanadium vee ee 0.04-0.11 —-0.03-0.12
+Columbium 0.05 0.05 0.05 0.05 . .
+(Niobium),2 6. Chemical Requirements ;
+max . :
+Nitrogen, max... ee 0.03 0.03 6.1 The steel shall conform to the requirements as to
+4 The maximum manganese may be increased to 1.60 % on heat analysis and chemical composition prescribed in Table 1 unless otherwise
+i 1.72 % on product analysis, provided that the carbon content on heat analysis modified in accordance with Supplementary Requirement S17,
+a does not exceed 0.18 %. Vacuum Carbon-Deoxidized Steel, in Specification A20/
+Columbium and niobium are interchangeable names for the same element and
+both names are acceptable for use in AO1 specifications. A20M.
+7. Mechanical Requirements
+______ TABLE 2 Tensile Requirements 7.1 Tension Tests—The material as represented by the ten-
+Ce Bade © gion test specimens shall conform to the requirements shown in
+Yield strength, min, ksi [MPa] 50 [345] 60 [415] Table 2
+Tensile strength, ksi [MPa] 70-90 [485~620] 80-100 [550-690] a . . 3, +
+Elongation in 8 in. [200 mmj, 18 18 7.1.1 For nominal plate thicknesses of % in. [20 mm] and
+min, %* under, when requirements for elongation in 2 in. [50 mm] are
+Elongat in2in. [50mm], 23 23 to be determined, the 11-in. [40-mm] wide rectangular speci-
+Goo Grocficnlion ANOINDOM for dlonanlon MA men may be used for the tension test, and the elongation may
+P 9 } be determined in a 2-in. [50-mm] gage length that includes the
+fracture and that shows the greatest elongation.
+‘ SUPPLEMENTARY REQUIREMENTS :
+Supplementary requirements shall not apply unless specified in the purchase order.
+A list of standardized supplementary requirements for use at the option of the purchaser is included
+in Specification A20/A20M. Several of those considered suitable for use with this specification are
+listed below by title. Other tests may be performed by agreement between the supplier and the
+purchaser. ‘ .
+S1. Vacuum Treatment, S11. Ultrasonic Examination in accordance with Specifica-
+82. Product Analysis, tion A577/A577M,
+i S3. Simulated Post-Weld Heat Treatment of Mechanical $12. Ultrasonic Examination in accordance with Specifica-
+\ ONS Che V-Notch 1 1 tion A578/A578M, and
+Se . Charpy V-Notch Impact Tests, ; +4
+S8. Ultrasonic Examination in accordance with Specifica- $17. Vacuum Carbon-Deoxidized Steel.
+tion A435/A435M,
+1199

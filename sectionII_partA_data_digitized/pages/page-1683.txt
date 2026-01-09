@@ -1,0 +1,61 @@
+ASME BPVC.11.A-2025 
+Table IV-800-1 
+ASTM Test Methods and Units for Reporting 
+U.S. Customary Metric 
+ASTM U.S. Customary Significant Significant 
+Designation Title Property Units Figures Metric Units Figures 
+A370 Standard Test Methods and Tensile strength and ksi 3 ... ... 
+Definitions for Mechanical yield strength 
+Testing of Steel Products 
+A1058 Standard Test Methods for Tensile strength and ... ... MPa 3 
+Mechanical Testing of Steel yield strength 
+Products-Metric 
+D2766 Standard Test Method for Specific heat [Note Btu/lb-°F 3 J/kg-K 3 
+Specific Heat of Liquids and (1)] 
+Solids 
+EB Standard Test Methods for Tensile strength and ksi 3 MPa 3 
+Tension Testing of Metallic yield strength 
+Materials Density lb/in.3 3 kg/m 3 4 
+E21 Standard Test Methods for Tensile strength and ksi 3 MPa 3 
+Elevated Temperature yield strength 
+Tension Tests of Metallic 
+Materials 
+E132 Standard Test Method for Poisson's ratio ... 2 ... 2 
+Poisson's Ratio at Room 
+Temperature 
+E139 Standard Test Methods for Rupture time hr 5 h 5 
+Conducting Creep, 
+Creep-Rupture, and 
+Stress-Rupture Tests of 
+Metallic Materials 
+E228 Standard Test Method for Instantaneous (in./in./°F) x 10· 6 3 (mm/mmf°C) x 10" 6 3 
+Linear Thermal Expansion coefficient 
+of Solid Materials With a Mean linear (in./in./°F) x 10· 6 (mm/mmf°C) x 10· 6 
+Push-Rod Dilatometer coefficient 
+Linear coefficient in./100 ft mm/m 
+E289 Standard Test Method for Instantaneous in./in./°F x 10· 6 3 (mm/mm/°C) x 10· 6 3 
+Linear Thermal Expansion coefficient 
+of Rigid Solids With Mean coefficient in./in./°F x 10· 6 (mm/mm/°C) x 10· 6 
+Interferometry Linear coefficient in./100 ft mm/m 
+E831 Standard Test Method for Instantaneous (in./in./°F) x 10· 6 3 (mm/mmf°C) x 10· 6 3 
+Linear Thermal Expansion coefficient 
+of Solid Materials by Mean linear (in./in./ 0 F) x 10· 6 (mm/mm/°C) x 10· 6 
+Thermomechanical coefficient 
+Analysis Linear coefficient in./100 ft mm/m 
+E1225 Standard Test Method for Thermal conductivity Btu/hr-ft-°F 3, except 2 for W/m x °C 4, except 3 for 
+Thermal Conductivity of X < 10 X < 100 
+Solids Using the 
+Guarded-Comparative-Lo-
+ngitudinal Heat Flow 
+Technique 
+E1461 Standard Test Method for Thermal diffusivity ft 2 /hr 3 m 2 /sec x 10· 6 3 
+Thermal Diffusivity by the Thermal conductivity Btu/hr-ft-°F 3, except 2 for W/m x °C 4, except 3 for 
+Flash Method X < 10 X < 10 
+E1875 Standard Test Method for Modulus of elasticity psi X 10 6 3 MPa x 10 3 3 
+Dynamic Young's Modulus, 
+Shear Modulus, and 
+Poisson's Ratio by Sonic 
+Resonance 
+NOTE: 
+(1) Specific heat is not published but may be used to calculate thermal diffusivity from thermal conductivity. 
+1629 

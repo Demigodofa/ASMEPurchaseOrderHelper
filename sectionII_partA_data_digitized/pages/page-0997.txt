@@ -1,0 +1,102 @@
+ASME BPVC.II.A-2025 SA-530/SA-530M 
+13.4 No jointers are permitted unless otherwise agreed 
+upon. 
+14. Standard Weight 
+14.1 A system of standard pipe sizes has been approved by 
+the American National Standards Institute as ASME B36.10 
+and B36.19. These standard sizes do not prohibit the produc­
+tion and use of other sizes of pipe produced to the various 
+specifications referenced to this Specification. 
+14.2 For nonstandard sizes of pipe, the calculated weight 
+per foot, shall be determined from the following equation: 
+W=C(D-t)t (1) 
+where: 
+C = 10.69 [0.0246615], 
+W = weight, lb/ft [kg/m], 
+D = specified or calculated (from specified inside diameter 
+and wall thickness) outside diameter, in. [mm], and 
+t = specified wall thickness, in. (to 3 decimal places) [mm 
+to 2 decimal places]. 
+Nam 2-The weights given in the American National Standards and 
+the calculated weights given by Eq 1 are based on the weights for carbon 
+steel pipe. The weight of pipe made of ferritic stainless steels may be 
+about 5 % less, and that made of austenitic stainless steel about 2 % 
+greater than the values given. 
+15. Ends 
+15.1 Unless otherwise specified, the pipe shall be furnished 
+with plain ends. All burrs at the ends of the pipe shall be 
+removed. 
+16. Straightness 
+16.1 The finished pipe shall be reasonably straight. 
+18. Retests 
+18.1 If the results of the mechanical tests of any group or lot 
+do not conform to the requirements specified in the individual 
+specification, retests may be made on additional lengths of pipe 
+of double the original number from the same group or lot, each 
+of which shall conform to the requirements specified. Only one 
+retest of any group or lot will be permitted. Nonconformance 
+will be cause for the rejection of the group or lot. 
+18.2 Any individual length of pipe that meets the test 
+requirements is acceptable. Individual lengths that do not 
+. conform to the test requirements may be resubmitted for test 
+provided the reason for nonconformance is established and the 
+nonconforming portion removed. 
+19. Retreatment 
+19.1 If individual lengths of pipe selected to represent any 
+group or lot fail to conform to the test requirements, the group 
+or lot represented may be reheat treated and resubmitted for 
+test. The manufacturer may reheat treat the pipe, but not more 
+than twice, except with the approval of the purchaser on the 
+basis of satisfactory metallurgical evidence that the cause of 
+failure of the test is curable and the quality of the material is 
+satisfactory. 
+20. Test Specimens 
+20.1 Test specimens shall be taken from the ends of as-heat 
+treated finished pipe prior to any forming operations, or being 
+cut to length. They shall be smooth on the ends and free from 
+burrs and flaws, except for specimens for the flattening test 
+when made from crop ends. 
+20.2 Specimens cut either longitudinally or transversely 
+shall be acceptable for the tension test. 
+20.3 If any test specimen shows flaws or defective 
+machining, the specimen may be discarded and another sub­
+stituted. 
+21. Flattening Test Requirements 
+16.2 For metal-arc welded pipe, the maximum deviation 
+from a 10-ft [3.0-m] straightedge placed so that both ends are 
+in contact with the pipe shall be 1/s in. [3.2 mm]. For metal-arc 
+welded pipe with lengths shorter than 10 ft [3.0 m], this 
+maximum deviation shall be pro-rated with respect to the ratio 
+of the actual length to 10 ft [3.0 m]. 21.1 Seamless and Centrifugally Cast Pipe-A section of 
+pipe not less than 2½ in. [63 mm] in length shall be flattened 
+-------:1~7;;-.--;R;:;:-e-p-a~ir-;-by~W;;:e-;l-;di;--.n-g---------------rold--between .. parallel plates in two stens. During the first step, 
+which is a test for ductility, no cracks or breaks on the inside, 
+17 .1 Repair by welding of defects in seamless pipe (includ- outside, or end surfaces, except as provided for in 21.3.4, shall 
+ing centrifugally cast and forged and bored) and of plate occur until the distance between the plates is less than the value 
+defects in welded pipe and, when specifically stated by the of H calculated as follows: 
+product specification weld seam defects in welded pipe, shall 
+be permitted subject to the approval of the purchaser and with 
+the further understanding that the composition of the deposited 
+filler metal shall be suitable for the composition being welded. 
+Defects shall be thoroughly chipped or ground out before 
+welding and each repaired length shall be reheat treated or 
+stress relieved as required by the applicable specification. Each 
+length of repaired pipe shall be tested hydrostatically as 
+required by the product specification. 
+17 .2 Repair welding shall be performed using procedures 
+and welders or welding operators that have been qualified in 
+accordance with the ASME Boiler and Pressure Vessel Code, 
+Section IX. 
+897 
+H= (1 + e)tl(e + t/D) (2) 
+where: 
+H = distance between flattening plates, in. [mm], 
+t = specified wall thickness, in. [mm], 
+D = specified or calculated (from the specified inside diam­
+eter and wall thickness) outside diameter, in. [mm], and 
+e = deformation per unit length ( constant for a given grade 
+of steel; 0.07 for medium carbon steel (maximum 
+specified carbon 0.19 % or greater), 0.08 for ferritic 
+alloy steel, 0.09 for austenitic steel, and 0.09 for 
+low-carbon steel (maximum specified carbon 0.18 % or 
+less)). 

@@ -1,0 +1,109 @@
+SA-568/SA-568M (ASTM A568/A568M) ASME BPVC.II.A-2025 
+TABLE 2 Tolerances for Product Analysis 
+Tolerance 
+Element Limit, or Maximum of Under Over 
+Specified Element, % Minimum Maximum 
+Limit Limit 
+Carbon to 0.15 incl 0.02 0.03 
+over 0.15 to 0.40 incl 0.03 0.04 
+over 0.40 to 0.80 incl 0.03 0.05 
+over 0.80 0.03 0.06 
+Manganese to 0.60 incl 0.03 0.03 
+over 0.60 to 1.15 incl 0.04 0.04 
+over 1.15 to 1.65 incl 0.05 0.05 
+Phosphorus A 0.01 
+Sulfur A 0.01 
+Silicon to 0.30 incl 0.02 0.03 
+over 0.30 to 0.60 incl 0.05 0.05 
+Copper 0.02 A 
+Nickel to 1.00 incl A 0.03 
+Chromium to 0.90 incl A 0.04 
+Molybdenum to 0.20 incl A 0.01 
+Vanadium to 0.10 incl 0.01 6 o.o1s 
+Columbium (Niobium) to 0.10 incl 0.01 6 0,01s 
+Titanium to 0.15 incl 0.01A 0,01s 
+Aluminum to 0.10 incl 0.03° A 
+Nitrogen to 0.030 incl 0.005 0.005 
+A Where an ellipsis ( ... ) appears in the table, the requirements have not been 
+defined. 
+6 If the minimum of the range is 0.01 %, the under tolerance is 0.005 %. 
+0 If the minimum of the range is 0.01 %, the under tolerance is 0.005 % and if the 
+minimum of the range is 0.02 %, the under tolerance is 0.01 %. 
+the amounts in Table 2. The several determinations of any 
+element in a cast shall not vary both above and below the 
+specified range. 
+5.4 Sampling for Product Analysis: 
+5.4.1 To indicate adequately the representative composition 
+_ ou ca§!_by_groduct analysis_,_ it is_general practice. to-select-­
+samples to represent the steel, as fairly as possible, from a 
+minimum number of pieces as follows: 3 pieces for lots up to 
+15 tons incl, and 6 pieces for lots over 15 tons (see Practice 
+E59). 
+5.4.2 When the steel is subject to tension test requirements, 
+samples for product analysis may be taken either by drilling 
+entirely through the used tension test specimens themselves, or 
+as covered in 5.4.3. 
+5.4.3 When the steel is not subject to tension test 
+requirements, the samples for analysis must be taken by 
+milling or drilling entirely through the sheet in a sufficient 
+number of places so that the samples are representative of the 
+entire sheet or strip. The sampling may be facilitated by folding 
+the sheet both ways, so that several samples may be taken at 
+one drilling. Steel subjected to certain heating operations by 
+the purchaser may not give chemical analysis results that 
+properly represent its original composition. Therefore, users 
+must analyze chips taken from the steel in the condition in 
+which it is received from the steel manufacturer. 
+5.5 Specimen Preparation-Drillings or chips must be taken 
+without the application of water, oil, or other lubricant, and 
+must be free of scale, grease, dirt, or other foreign substances. 
+They must not be overheated during cutting to the extent of 
+causing decarburization. Chips must be well mixed and those 
+too coarse to pass a No. 10 sieve or too fine to remain on a 
+No. 30 sieve are not suitable for proper analysis. Sieve size 
+numbers are in accordance with Specification E 11. 
+5.6 Test Methods-In case a referee analysis is required and 
+agreed upon to resolve a dispute concerning the results of a 
+chemical analysis, the procedure of performing the referee 
+analysis must be in accordance with the latest issue of Test 
+Methods, Practices, and Terminology A751, unless otherwise 
+agreed upon between the manufacturer and the purchaser. 
+6. Mechanical Properties 
+6.1 The mechanical property requirements, number of 
+specimens, test locations, and specimen orientation shall be in 
+accordance with the applicable product specification. 
+6.2 Unless otherwise specified in the applicable product 
+specification, test specimens must be prepared in accordance 
+with Test Methods and Definitions A370. 
+6.3 Mechanical tests shall be conducted in accordance with 
+Test Methods and Definitions A370. 
+6.4 Bend tests where required shall be conducted in com­
+pliance with Test Methods E290. 
+6.5 To determine conformance with the product 
+specification, a calculated value should be rounded to the 
+nearest 1 ksi tensile strength and yield point or yield strength, 
+and to the nearest unit in the right hand place of figures used in 
+expressing the limiting value for other values in accordance 
+with the rounding off method given in Practice E29. 
+6.6 Structural sheet steels are commonly fabricated by cold 
+bending. There are many interrelated factors that affect the 
+ability of a given steel to cold form over a given radius under 
+shop conditions. These factors include thickness, strength 
+level, degree of restraint, relationship to rolling direction, _ 
+chemistry, and microstructure. Each of the appropriate product 
+specifications lists in the appendix the suggested minimum 
+inside radius for cold bending. These radii should be used as 
+minima for 90° bends. They presuppose "hard way" bending 
+(bend axis parallel to rolling direction) and reasonably good 
+shop forming practices. Where possible, the use of larger radii 
+or "easy way" bends are recommended for improved perfor­
+mance. 
+6. 7 Fabricators should be aware that cracks may initiate 
+upon bending a sheared or burned edge. This is not considered 
+to be a fault of the steel but is rather a function of the induced 
+cold-work or heat-affected zone. 
+7. General Requirements for Delivery 
+7.1 The products covered by this specification are produced 
+to inch-pound or metric decimal thickness only and the 
+appropriate thickness tolerances apply. 
+982 

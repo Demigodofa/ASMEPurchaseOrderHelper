@@ -1,0 +1,70 @@
+ASME BPVC.II.A-2025 SA-193/SA-193M 
+,,,...----..__ in a liquid medium under substantially uniform conditions for 
+each quenching charge, and tempered. The minimum temper-
+ing temperature shall be as specified in Tables 2 and 3. 
+TABLE 2 Mechanical Requirements - Inch Products 
+Minimum Tensile Yield Strength, Elongation Reduction Hardness, 
+Grade Diameter, in. Tempering Strength, min, 0.2 % in4D, of Area, max 
+Temperature, min, ksi offset, min,% min,% 
+OF ksi 
+Ferritic Steels 
+B5 
+4 to 6 % chromium up to 4, incl 1100 100 80 16 50 
+B6 
+13 % chromium up to 4, incl 1100 110 85 15 50 
+B6X 
+13 % chromium up to 4, incl 1100 90 70 16 50 26 HRC 
+B7 
+Chromium-molybdenum 2½and under 1100 125 105 16 50 321 HBWor 
+35 HRC 
+over2½to 4 1100 115 95 16 50 321 HBWor 
+35 HRC 
+over 4 to 7 1100 100 75 18 50 321 HBWor 
+35 HRC 
+B7MA Chromium-molybdenum 4 and under 1150 100 80 18 50 235 HBWor 
+99 HRB 
+over 4 to 7 1150 100 75 18 50 235 HBWor 
+99 HRB 
+B16 
+Chromium-molybdenum-vanadium 2½and under 1200 125 105 18 50 321 HBWor 
+35 HRC 
+over 2½to 4 1200 110 95 17 45 321 HBWor 
+35 HRC 
+over 4 to 8 1200 100 85 16 45 321 HBWor 
+35 HRC 
+Tensile Yield 
+Strength, Strength, Elongation Reduction Hardness, Grade, Diameter, in. Heat Treatment 8 min, ksi min, 0.2 in 4D, of Area, 
+%offset, min% min% max 
+ksi 
+Austenitic Steels 
+Classes 1 and 1 D; BB, BBM, BBP, carbide solution treated 75 30 30 50 223 HBWor 96 
+BBLN, BBMLN, BBCLN, all HRB 0 
+diameters 
+Classes 1 and 1 D; BB, carbide solution treated 75 30 35 50 223 HBWor96 
+BBCLNCuB, all diameters HRB 0 
+Classes 1 and 10: B8ML4CuN, carbide solution treated 70 25 35 50 90 HRB 
+all diameters 
+Class 1: BBC, BBT, all diameters carbide solution treated 75 30 30 50 223 HBWor 
+96HRB 0 
+Class 1A: BSA, BBCA, BBCLNA, carbide solution treated in the finished 75 30 30 50 192 HBWor90 
+BBMA, BBPA, BBTA, B8LNA, condition HRB 
+B8MLNA, B8NA, B8MNA, 
+B8MLCuNA, all diameters 
+'-----· Class 1A: B8ML4CuNA, all carbide solution treated 70 25 35 50 90 HRB 
+diameters 
+Classes 1B and 10: B8N, B8MN, carbide solution treated 80 35 30 40 223 HBWor 96 
+B8MLCuN, all diameters HRB 0 
+Classes 1C and 10: B8R, all carbide solution treated 100 55 35 55 271 HBWor28 
+diameters HRC 
+Class 1C: B8RA, all diameters carbide solution treated in the finished 100 55 35 55 271 HBWor28 
+condition HRC 
+Classes 1C and 10: B8S, all carbide solution treated 95 50 35 55 271 HBWor28 
+diameters HRC 
+Classes 1 C: B8SA, all diameters carbide solution treated in the finished 95 50 35 55 271 HBWor28 
+condition HRC 
+Class 2: BB, BBC, B8P, B8T, carbide solution treated and strain 125 100 12 35 321 HBWor35 
+B8N, "3/• and under hardened HRC 
+over % to 1, incl. 115 80 15 35 321 HBWor 35 
+HRC 
+'--'. 
+239 

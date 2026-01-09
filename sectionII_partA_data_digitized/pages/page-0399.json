@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 399,
+  "globalPageIndex": 399,
+  "width": 856.2,
+  "height": 615.84,
+  "text": "TABLE 2 Mechanical Test Requirements \nTensile Strength, min Yield Strength, 8 min Elongation Hardness, maxc in \nUNS Designation TypeA 2 in. or Brinell. Cold Bend 00 \nksi MPa ksi MPa 50mm, HBW Rockwell \nmin,% \nAustenitic (Chromium-Nickel) (Chromium-Manganese-Nickel) \nN08020 80 550 35 240 30E 217 95 HRBW not required \nN08367 \nSheet and Strip 100 690 45 310 30 100 HRBW not required \nPlate 95 655 45 310 30 241 not required \nN08700 80 550 35 240 30 192 90 HRBW not required \nN08800 800F 75 520 30G 205G 30H not required \nN08810 800HF 65 450 25G 170G 30 not required \nN08811 65 450 25 170 30 not required \nN08904 904LF 71 490 31 220 35 90 HRBW not required \nN08925 87 600 43 295 40 not required \nN08926 94 650 43 295 35 not required \n820100 201-1 1 75 515 38 260 40 217 95 HRBW \n820100 201-2 1 95 655 45 310 40 241 100 HRBW \n820103 201LF 95 655 38 260 40 217 95 HRBW not required \nS20153 201LNF 95 655 45 310 45 241 100 HRBW not required \nS20161 125 860 50 345 40 255 25 HRC not required \nS20200 202 90 620 38 260 40 241 \nS20400 95 655 48 330 35 241 100 HRBW not required > Cl> \nS20431 90 620 45 310 40 241 100 HRBW not required :s: \nS20432 75 515 30 205 40 201 92 HRBW not required ~ \nS20433 80 550 35 240 40 217 95 HRBW not required 1:1:1 \n\"Cl w <: .is- XM-19J ~ -....J 820910 \nSheet and Strip 105 725 60 415 30 241 100 HRBW not required \n~ Plate 100 690 55 380 35 241 100 HRBW not required N \nS21600 XM-17J 0 \nN \nSheet and Strip 100 690 60 415 40 241 100 HRBW not required c:n \nPlate 90 620 50 345 40 241 100 HRBW not required \n821603 XM-18J \nSheet and Strip 100 690 60 415 40 241 100 HRBW not required \nPlate 90 620 50 345 40 241 100 HRBW not required \n821640 95 650 45 310 40 not required \n821800 95 655 50 345 35 241 100 HRBW not required \n821904 XM-11J \nSheet and Strip 100 690 60 415 40 241 100 HRBW not required \nPlate 90 620 50 345 45 241 100 HRBW not required \n824000 XM-29J \nSheet and Strip 100 690 60 415 40 241 100 HRBW not required \nPlate 100 690 55 380 40 241 100 HRBW not required \nS30100 301 75 515 30 205 40 217 95 HRBW not required \nS30103 301LF 80 550 32 220 45 241 100 HRBW not required \nS30153 301LNF 80 550 35 240 45 241 100 HRBW not required \nS30200 302 75 515 30 205 40 201 92 HRBW not required \n830400 304 75 515 30 205 40 201 92 HRBW not required Cl> \n> 830403 304L 70 485 25 170 40 201 92 HRBW not required .;., \nS30409 304H 75 515 30 205 40 201 92 HRBW not required ~ \n0 \n830415 87 600 42 290 40 217 95 HRBW not required ....... \nCl> \nS30435 65 450 23 155 45 187 90 HRBW > .;., \n~ \n0 \n:s: ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0399.json",
+  "tabulaTablesCsv": "tables_tabula/page-0399.csv",
+  "tabulaTableCount": 2,
+  "bestTextPath": "best_text/pages/page-0399.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2517,
+  "bestTextAlphaRatio": 0.3683
+}

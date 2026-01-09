@@ -1,0 +1,82 @@
+ASME BPVC.II.A-2025 SA-540 /SA-540M 
+SUPPLEMENTARY REQUIREMENTS 
+These requirements shall not apply unless specified in the order, in which event the tests shall be 
+made at the mill at the purchaser's expense unless otherwise agreed upon. 
+Sl. Product Analysis 
+S 1.1 Product analysis shall be made on each bar, seamless 
+tube, bored bar, or the parent bar from which forged hollows 
+are made. Individual pieces failing to conform to Table 1 shall 
+be rejected. 
+S2. Macroetch Test 
+S2. l The material shall be macroetch tested and shall meet 
+the quality and cleanliness requirements as specified by the 
+purchaser. The macroetch examination may be made on 
+representative billets from which the material will be produced 
+or it may be made on samples cut from the ends of the bars, 
+seamless tubes, bored bars, or forged hollows. The samples 
+shall be prepared in accordance with the procedure described in 
+Method E381. 
+NoTE S2.1-The quality and cleanliness may be specified by the 
+purchaser as equal to or better than that indicated by a designated Jetter 
+and plate number of Military Standard-430 (latest revision). 
+S3. Ultrasonic Test 
+S3.l Each length shall be ultrasonically inspected in a 
+manner agreeable to the purchaser and supplier. 
+S4. Demonstration of Capability 
+S4.1 When annealed bolting material is ordered to 6.1, a 
+sample piece in length at least 3 x diameter D of a represen­
+tative bar shall be heat treated in accordance with 6.2 and 6.3. 
+Mechanical test samples taken as required by Section 15 shall 
+meet the requirements of 8.2 and 10.2. 
+S5. Fracture Transition Temperature 
+S5.1 The fracture transition temperature for a 50 % fibrous 
+(ductile shear) fracture shall be determined. The procedure for 
+determination of the fracture transition temperature shall be to 
+prepare four sets (three to a set) of Charpy V-notch specimens 
+in accordance with Section 15. One set of three specimens shall 
+be tested at approximately 70 °F [20 °C]. The absorbed energy 
+in foot-pounds shall be recorded and the percent of fibrous 
+fracture determined from Table S5.1 and Fig. S5.l. The other 
+three sets shall be tested at successively lower or higher 
+temperatures to bracket the temperature where the bolting 
+material will exhibit a 50 % fibrous fracture. The results of all 
+test data are to be reported to the purchaser. 
+S6. Magnetic Particle Inspection 
+S6.1 Bolting material may be supplied to cleanliness re­
+quirements by agreement between the purchaser and supplier. 
+The cleanliness shall be determined by the magnetic particle 
+method described in the latest issue of Practice E45. 
+NoTE S6.1-The bolting material shall have the minimum stock 
+removal specified in Table S6.1 prior to magnetic particle inspection. 
+S7. Elevated Temperature Test 
+S7.1 Three Charpy V-notch specimens shall be tested at 
+212 °F [100 °C] to determine the ''upper shelf' fracture energy 
+of the material. No specimen thus tested shall break at an 
+energy less than 30 ft-lbf [41 J]. 
+S8. Alternative Fracture Toughness Requirement 
+S8.1 The fracture toughness requirements (Charpy impact 
+test) for bolting material of the ASME Boiler and Pressure 
+Vessel Code, Section III, Subarticle NB 2300, shall be used 
+instead of the Charpy impact test requirement specified in 
+TABLE S5.1 Percent Fibrous FractureA 
+Dimension.A Width, mm 
+1.5 2.0 2.5 3.0 3.5 4.0 4.5 5.0 5.5 6.0 6.5 7.0 7.5 8.0 8.5 9.0 9.5 
+Dimension B 
+Height, mm 
+1.0 98 98 97 96 96 95 94 94 93 93 92 91 91 90 89 89 88 87 
+1.5 97 96 95 94 93 93 92 91 90 89 88 87 86 85 85 83 82 81 
+2.0 96 95 94 93 91 90 89 88 86 85 84 82 81 80 79 78 76 75 
+2.5 95 94 92 91 89 87 86 84 83 81 80 79 76 75 73 72 70 69 
+3.0 94 93 91 90 87 85 83 81 79 78 76 74 72 70 68 66 64 63 
+3.5 93 91 89 87 85 83 80 78 75 74 72 69 67 65 63 61 58 56 
+4.0 93 90 87 85 83 80 78 75 72 70 68 65 62 60 57 55 52 50 
+4.5 92 89 86 83 80 78 75 72 69 66 63 61 58 55 52 49 46 43 
+5.0 91 88 84 81 78 75 72 69 66 63 59 56 53 50 48 44 40 38 
+5.5 90 86 83 79 75 72 69 66 63 59 55 52 48 45 42 38 35 31 
+6.0 89 85 81 78 74 70 66 63 59 55 51 47 44 40 36 33 29 25 
+6.5 88 84 80 76 72 68 63 59 55 51 47 43 40 35 31 27 23 19 
+7.0 87 82 79 74 69 65 61 56 52 47 43 39 34 30 26 21 16 12 
+7.5 86 81 76 72 67 62 58 53 48 44 40 34 30 25 23 16 11 6 
+8.0 85 80 75 70 65 70 55 50 45 40 35 30 25 20 15 10 5 0 
+A See Fig. S5.1. 
+917 

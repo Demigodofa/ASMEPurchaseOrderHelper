@@ -1,0 +1,22 @@
+SA-662/SA-662M ASME BPVC.II.A-2025 
+APPENDIX 
+(Nonmandatory Information) 
+Xl. NOTCH TOUGHNESS 
+Xl.1 When Charpy V-notch testing is required, the mini- TABLE X1.1 Charpy V-Notch RequirementsA 
+mum values listed in Table XU will be guaranteed on Testing Grade A Grades B and C 
+normalized material for the temperature specified by the 
+Temperature, Longitudinal Transverse Longitudinal Transverse 
+purchaser. 
+°F [°C] Specimens, Specimens, Specimens, Specimens, 
+ft-lb/ [J] ft,lbf [J] ft•lbf [J] ft-lbf [J] 
+-75 [-60] 20 [27] 15 [20] 15 [20] 
+-60 [-50] 30 [41] 18 [24] 20 [27] 
+-50 [-45] 35 [47] 19 [26] 22 [30] 15 [20] 
+-40 [-40] 40 [54] 20 [27] 25 [34] 20 [27] 
+-25 [-32] 45 [61] 25 [34] 30 [41] 20 [27] 
+0 [18] 55 [75] 30 [41] 35 [47] 25 [34] 
+32 [OJ 70 [95] 35 [47] 40 [54] 25 [34] 
+75 [25] 75 [102] 40 [54] 50 [68] 30 [41] 
+A The above values apply to the average of three full size specimens. Values for 
+subsize specimens are denoted as listed in Specification A20/A20M. 
+1080 

@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 808,
+  "globalPageIndex": 1606,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "ASME BPVC.II.A-2025 \nANNEX \n(Mandatory Information) \nAl. ROUNDING OF TEST DATA \nAl.1 Application \nAl.1.1 This annex shall apply to rounding test data for the \npurpose of determining conformance to product specification \nrequirements. \nAl.2.3 Requirements for rounding levels for determining \nconformance to product specification requirements are given in \nTable Al. 1. Specific reported test data values shall be rounded \nto Table Al. 1 for determining conformance to product speci\u00ad\nfication requirements. Al.1.1.1 This annex shall apply only when rounding is not \nspecified in the product specifications. \nAl.1.1.2 Observed or calculated test results and records \nmaintained by testing laboratories are not subject to this annex. \nAl.2 Method \nAl.2.4 Table Al.1 values are designed to provide unifor\u00ad\nmity in determining conformance to product specification \nrequirements and should be considered when rounding require\u00ad\nments are stated in product specifications. \nAl.2.1 Values shall be rounded in accordance with the rules \nof Practice E29 unless otherwise stated herein. \nA 1.2.2 In the special case of rounding the number \"5\" when \nno additional numbers other than \"ff' follow the \"5,\" rounding \nshall be in accordance with Practice E29 except where this \nwould result in rejection of the. product. \nAl.2.5 When rounding requirements for product acceptance \nare neither stated in the product specification nor listed in Table \nAl.1, an observed or calculated value shall be rounded to the \nnearest unit in the last right hand digit used in expressing the \nspecification requirement. \nTABLE A1.1 Rounded Test Data for Determining Conformance to Specification \nTest Quantity \nYield Point, Yield Strength, Tensile Strength \nElongation \nReduction of Area \nAbsorbed Energy \nBrlnell Hardness \nRockwell Hardness \nTest Data Range \n<500 MPa, \n2:500 to <1000 MPa, \n2:1000 MPa \nOto<10%, \n2:10 % \nOto <10 %, \n2:10 % \nOto:5325J \nall values \nall values \nRounded ValueA \n1 MPa \n5 MPa \n10 MPa \n0.5% \n1% \n0.5% \n1% \n1 J \ntabular value 8 \n1 Rockwell Number \nA Round test data to the nearest integral multiple to the nearest values in this column. If the data value Is exactly midway between two rounded values, round in accordance \nwith A 1.2.2. \n8 Round the mean diameter of the Brlnell impression to the nearest 0.05 mm and report the corresponding Brinell hardness number from the table without further rounding. \n1552 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1606.json",
+  "tabulaTablesCsv": "tables_tabula/page-1606.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-1606.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2408,
+  "bestTextAlphaRatio": 0.7496
+}

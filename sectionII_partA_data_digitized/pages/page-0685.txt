@@ -1,0 +1,117 @@
+ASME BPVC.II.A-2025 SA-372/SA-372M 
+TABLE 2 Mechanical Requirements 
+Yield Elongation 
+Strength in 2 in. Hardness, 
+Tensile Strength, (0.2 % Offset), [50 mm], HB, minA 
+Type ksi [MPa] ksi [MPa], min min,% 
+Grade A 60-85 (415-585] 35 (240] 20 121 
+Grade B 75-100 [515-690] 45 (310] 18 156 
+Grade C 90-115 (620-795] 55 (380] 15 187 
+Grade D 105-130 (725-895] 65 [450] 15 217 
+Grades E, F, G, 85-110 [585t-760] 55 (380] 20 179 
+H, J, R (Class 55) 
+Grades E, F, G, 105-130 (725-895] 65 (450] 19 217 
+H, J, R (Class 65) 
+Grades E, F, G, 120-145[825-1000] 70 [485] 18 248 
+H, J, R (Class 70) 
+Grades J, R 120-145 (825-1000] 90 (620] 18 248 
+(Class 90) 
+Grades J, R 135-160 (930-1100] 110 (760] 15 277 
+(Class 110) 
+Grade K 100-125 (690-860] 80 [550] 20 207 
+Grade L 155-180 135 (930] 12 311 
+[1070-1240] 
+Grade M 105-130 (725-895] 85 [585] 18 217 
+(Class 85) 
+Grade M 120-145 [825-1000] 100 [690] 16 248 
+(Class 100} 
+Grades N and P 115-140 [795-965] 100 [690] 16 248 
+(Class 100) 
+Grades N and P 135-160 [930-1105] 120 [825] 14 277 
+(Class 120) 
+Grades N and P 155-180 140 (965] 13 311 
+(Class 140) [1070-1240] 
+tEditorially corrected. 
+A When required by 6.6. 
+2.2 ASME Standard: 
+ASME Boiler and Pressure Vessel Code 
+3. Ordering Information and General Requirements 
+3.1 In addition to the ordering information required by 
+Specification A 788/ A 788M, the purchaser shall include with 
+the inquiry and order a detailed drawing, sketch, or written 
+description of the forging and the areas of significant loading in 
+the forging when required (see 6.4.2.2). 
+3.2 Material supplied to this specification shall conform to 
+the requirements of Specification A788/A788M, which out­
+lines additional ordering information, manufacturing 
+requirements, testing and retesting methods and procedures, 
+marking, certification, product analysis variations, and addi­
+tional supplementary requirements. 
+3.3 If the requirements of this specification are in conflict 
+with the requirements of Specification A788/A788M, the 
+requirements of this specification shall prevail. 
+4. Materials and Manufacture 
+4.1 Melting Practice-The steel melting procedures of 
+Specification A 788/ A 788M shall apply except that for Grades 
+M, N, P, and Grades J and Class 110 forgings, only steel that 
+has been vacuum treated before or during the pouring of the 
+ingot, to remove objectionable gases, particularly hydrogen, 
+shall be used. 
+4.2 Production Methods-Methods for the production of gas 
+bottles and similar vessels shall include the cupping of slabs or 
+plates, the piercing of billets or plates, and the subsequent 
+drawing of cups so produced. Such semifinished forgings or 
+seamless steel pipe or tubing shall be closed by spinning, 
+swedging, or pressing. In all cases, there shall be sufficient 
+discard to ensure soundness in the completed forging. 
+4.3 Heat Treatment: 
+4. 3 .1 At the option of the manufacturer, Grades A, B, C, and 
+D and Classes 55, 65, and 70 of Grades E, F, G, H, and J 
+forgings shall be normalized, normalized and tempered, liquid 
+quenched and tempered, or normalized followed by liquid 
+quench and temper. 
+4.3.2 Grades K, L, M, N, P, and Classes 90 and 110 of 
+Grades J and R forgings shall be liquid quenched and 
+tempered, or normalized followed by liquid quench and tern-
+per. 
+4.3.3 When normalized forgings are to be tempered, or 
+when forgings have been quenched, they shall be reheated to a 
+subcritical temperature and held for at least½ h/in. [25 mm] of 
+maximum cross section. 
+4.3.3.1 Minimum tempering temperatures shall be as fol-
+lows: 
+Grades E, F, G, H, J in Classes 55, 65, 70, 90 
+Grade K 
+1100 °F [595 °C] 
+1100 °F [595 °C] 
+1000 °F [540 °C] 
+1000 °F [540 °C] 
+1100 °F [595 °C] 
+Grades L, N, P, R 
+Grade J Class 110 
+Grade M 
+4.3.3.2 If an attachment is welded onto a previously 
+quenched and tempered pressure vessel, the post-weld heat 
+treatment temperature of a weldment shall not exceed the prior 
+tempering temperature of the pressure vessel. Fabrication 
+welding of pressure shell is not permitted. Attachment welding 
+before heat treatment is not permitted. 
+4.3.4 All quenched and tempered forgings shall be subject 
+to magnetic particle examination in accordance with Section 7. 
+4.3.5 Heat treatment is to be performed after all forming 
+operations. 
+635 
+5. Chemical Composition 
+5.l Heat Analysis-The heat analysis obtained from sam­
+pling in accordance with Specification A788/A788M shall 
+comply with Table 1. 
+5.2 Product Analysis-The purchaser may use the product 
+analysis provision of Specification A 788/ A 788M to obtain a 
+product analysis from a forging representing each heat or 
+multiple heat. 
+5.3 Starting material produced to a specification that spe­
+cifically requires the addition of any element beyond those 
+listed in Table 1 for the applicable grade of material is not 
+permitted. This does not preclude use of deoxidation or 
+inclusion control additions. Supplementary Requirements Sl 
+and S2 of Specification A788/A788M shall apply. 

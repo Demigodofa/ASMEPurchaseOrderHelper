@@ -1,0 +1,123 @@
+ASME BPVC.II.A-2025 SA-450 /SA-450M 
+where: 
+P = hydrostatic test pressure, psi or MPa, 
+t = specified wall thickness, in. or mm, and 
+D = specified outside diameter, in. or mm. 
+24.1.1 The hydrostatic test pressure determined by Eq 3 
+shall be rounded to the nearest 50 psi [0.5 MPa] for pressure 
+below 1000 psi [7 MPa], and to the nearest 100 psi [1 MPa] for 
+pressures 1000 psi [7 MPa] and above. The hydrostatic test 
+may be performed prior to cutting to final length, or prior to 
+upsetting, swaging, expanding, bending or other forming 
+operations, or both. 
+24.2 Regardless of the determination made by Eq 3, the 
+minimum hydrostatic test pressure required to satisfy these 
+requirements need not exceed the values given in Table 7. This 
+does not prohibit testing at higher pressures at manufacturer's 
+option or as provided in 24.3. 
+24.3 With concurrence of the manufacturer, a minimum 
+hydrostatic test pressure in excess of the requirements of 24.2 
+or 24.1, or both, may be stated on the order. The tube wall 
+stress shall be determined by the following equation: 
+S = PD/2t (4) 
+where: 
+S = tube wall stress, psi or MPa, and all other symbols as 
+defined in 24.1.1. 
+24.4 The test pressure shall be held for a minimum of 5 s. 
+24.5 If any tube shows leaks during the hydrostatic test, it 
+shall be rejected. 
+24.6 The hydrostatic test may not be capable of testing the 
+end po11ion of the pipe. The lengths of pipe that cannot be 
+tested shall be determined by the manufacturer and, when 
+specified in the purchase order, reported to the purchaser. 
+25. Air Pressure Test 
+25.1 Air Underwater Test-When this test is employed, 
+each tube, with internal surface clean and dry, shall be 
+internally pressurized to 150 psi [1000 kPa] minimum with 
+clean and dry compressed air while being submerged in clear 
+water. The tube shall be well-lighted, preferably by underwater 
+illumination. Any evidence of air leakage of the pneumatic 
+couplings shall be corrected prior to testing. Inspection shall be 
+made of the entire external surface of the tube after holding the 
+pressure for not less than 5 s after the surface of the water has 
+become calm. If any tube shows leakage during the air 
+TABLE 7 Hydrostatic Test Pressures 
+Outside Diameter of Tube, in. [mm] 
+Under 1 [25.4] 
+1 to 1 ½ [25.4 to 38.1 ), excl 
+1 ½ to 2 [38.1 to 50.8]. excl 
+2 to 3 [50.8 to 76.2], excl 
+3 to 5 [76.2 to 127), excl 
+5 [127] and over 
+Hydrostatic Test Pressure, psi [MPa] 
+1000 [7] 
+1500 [10) 
+2000 [14) 
+2500 [17] 
+3500 [24) 
+4500 [31) 
+underwater test, it shall be rejected. Any leaking areas may be 
+cut out and the tube retested. 
+25.2 Pneumatic Leak Test-When this test is employed, 
+each tube shall be subjected to a pneumatic leak test in 
+accordance with Specification A1047/A1047M. 
+Acceptance criteria shall be as follows: 
+Tube O.D. in [mm] 
+c,;1,5 [s40] 
+>1.5S2.0 [>40:550] 
+>2.0:52,5 [>50:565] 
+>2.5:53,0 [>65:575] 
+>3.0 [>75] 
+26. Nondestructive Examination 
+Calibration Hole, max. in [mm] 
+0,003 [0.076) 
+0,004 [0.162] 
+0.005 [0.127) 
+0,006 [0, 152] 
+by agreement 
+26.1 When nondestructive examination is specified by the 
+purchaser or the product specification, each tube shall be 
+examined by a nondestructive examination method in accor­
+dance with Practice E213, Practice E309 (for ferromagnetic 
+materials), Practice E426 (for non-magnetic materials), or 
+Practice E570. Upon agreement, Practice E273 shall be em­
+ployed in addition to one of the full periphery tests. The range 
+of tube sizes that may be examined by each method shall be 
+subject to the limitations in the scope of that practice. In case 
+of conflict between these methods and practices and this 
+specification, the requirements of this specification shall pre­
+vail. 
+743 
+26.2 The following information is for the benefit of the user 
+of this specification. 
+26.2.1 Calibration standards for the nondestructive electric 
+test are convenient standards for calibration of nondestructive 
+testing equipment only. For several reasons, including shape, 
+orientation, width, etc., the correlation between the signal 
+produced in the electric test from an imperfection and from 
+calibration standards is only approximate. A purchaser inter­
+ested in ascertaining the nature (type, size, location, and 
+orientation) of discontinuities that can be detected in the 
+specific application of these examinations should discuss this 
+with the manufacturer of the tubular product. 
+26.2.2 The ultrasonic examination refe1Ted to in this speci­
+fication is intended to detect longitudinal discontinuities having 
+a reflective area similar to or larger than the calibration 
+reference notches specified in 26.4. The examination may not 
+detect circumferentially oriented impelfections or short, deep 
+defects. 
+26.2.3 The eddy current examination referenced in this 
+specification has the capability of detecting significant 
+discontinuities, especially of the sh011 abrupt type. Practices 
+E309 and E426 contain additional information regarding the 
+capabilities and limitations of eddy-current examination. 
+26.2.4 The flux leakage examination referred to in this 
+specification is capable of detecting the presence and location 
+of significant longitudinally or transversely oriented disconti­
+nuities. The provisions of this specification only provide for 
+longitudinal calibration for flux leakage. It should be recog­
+nized that different techniques should be employed to detect 
+differently oriented imperfections. 
+26.2.5 The hydrostatic test referred to in Section 23 is a test 
+method provided for in many product specifications. This test 
+has the capability of finding defects of a size permitting the test 

@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 351,
+  "globalPageIndex": 351,
+  "width": 637.2,
+  "height": 872.88,
+  "text": "ASME BPVC.II.A-2025 SA\u00b7216/SA\u00b7216M (ASTM A216/A216M) \nSPECIFICATION FOR STEEL CASTINGS, CARBON, \nSUITABLE FOR FUSION WELDING, FOR \nHIGH-TEMPERATURE SERVICE \nSA-216/SA-216M cO \nINTIIRNATIONAL \nStandards Worldwide \n(Identical with ASTM Specification A216/A216M-21 except for the addition of 2.3 and editorial differences in 2.1 and \n10.1.) \nASME SA-216/SA-216M replaces paras. 2.1 and 10.1 of ASTM A216/A216M and adds para. 2.3 as follows: \n2.1 ASTM Standards:3 \nA703/A703M Specification for Steel Castings, General Requirements, for Pressure-Containing Parts \nA985/A985M Specification for Steel Investment Castings General Requirements, for Pressure-Containing Parts \n2.3 ASME Standard: \nASME Boiler and Pressure Vessel Code (BPVC), Section IX, Welding, Brazing, and Fusing Qualifications \n10.1 Repairs shall be made using procedures and welders qualified under ASME BPVC Section IX. \n299 \n(25) ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0351.json",
+  "tabulaTablesCsv": "tables_tabula/page-0351.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-0351.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 894,
+  "bestTextAlphaRatio": 0.7013
+}

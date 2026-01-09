@@ -1,0 +1,160 @@
+ASME BPVC.II.A-2025 SA-278/SA-278M 
+TABLE 1 Diameters and Lengths of Cast Test Bars 
+Test 
+Bar 
+As-Cast Diameter, in. {mm) Length, in. {mm) 
+Minimum 
+(Bottom) 
+0.88 (23) 
+1.20 (33) 
+2.00 (54) 
+Maximum 
+(Top) 
+0.85 (22) 
+1.14(32) 
+1.90 (53) 
+Minimum Maximum 
+(Specified) (Recommended) 
+0.96 (25) 5.0 (125) 
+1.32 (36) 7.0 {150) 
+2.10 (58) 6.0 (175) 
+6.0 (1.50) 
+9.0 (230) 
+10.0 (255) 
+A All dimensions of Test Bar S shall be agreed upon by the manufacturer and the 
+purchaser. 
+TABLE 2 Stress Relieving Requirements 
+Class 
+40, 45, 50, 55, 60 
+(275, 300, 325, 350, 
+380, 415) 
+Metal Temperature, °F Holding Time, hA 
+oc 
+1050 to 1200 2 12 
+(565 to 650) (2 min) 8 (12 max) 8 
+A In no case shall the holding time be less than 1 h/in. of maximum metal 
+section, or in excess of 12 h max, dependent upon which governs. 
+8 In no case shall the holding time be less than 1 h for every 25-mm metal 
+section, or in excess of 12 h max, depending upon which governs. 
+accordance with 6.1 or they shall be cooled in the mold to 
+500°F at m1 average rate of not more than 100°F/h for castings 
+up to 1 in. in section. For heavier sections the maximum 
+cooling rate in degrees Fahrenheit per hour shall be 100 
+divided by the maximum section thickness. 
+6.2.2 Castings of Class Nos. 275, 300, 325, 350, 380, and 
+415, which are to be used at temperatures below 230°C, may be 
+heat treated in accordance with 6.1 or they shall be cooled in 
+the mold to 250"C at an average rate of not more than 50°C/h 
+for castings up to 25-mm in section. For heavier sections the 
+maximum cooling rate in degrees Celsius per hour shall be 
+1250 divided by the maximum section thickness. 
+7. Chemical Composition 
+7.l Carbon Equivalent: 
+7.1.1 Class 40, 45, 50, 55, and 60 castings intended for 
+service above 450°F (230°C) shall have a maximum carbon 
+equivalent of 3.8 % as calculated from the equation CE = %C 
++ 0.3 (%Si + %P). The maximum phosphorus and sulfm 
+contents shall be 0.25 % and 0.12 %, respectively. 
+7.1.2 Class 275, 300, 325, 350, 380, and 415 castings 
+intended for service above 230°C shall have a maximum 
+carbon equivalent of 3.8 % as calculated from the equation CE 
+= %C + 0.3 (%Si + %P). The maximum phosphorus and sulfur 
+contents shall be 0.25 % and 0.12 %, respectively. 
+7.2 The chemical analysis for total carbon shall be made on 
+either chilled cast pencil-type specimens or thin wafers ap­
+proximately ½2 in. thick cut from test coupons. Drillings shall 
+not be used because of attendant loss of graphite. 
+8. Tensile Requirements 
+8.1 Iron used in supplying castings to this specification shall 
+conform to the tensile requirements prescribed in Table 3 and 
+Table 4. 
+9. Test Bars 
+9.1 Separately cast test bars having the dimensions shown in 
+Table 1 shall be poured from the same lot as the castings 
+TABLE 3 Tensile Requirements 
+Class 
+No.20 
+No. 25 
+No. 30 
+No. 35 
+No. 40 
+No. 45 
+No. 50 
+No.55 
+No. 60 
+Tensile Strength, 
+min, ksi 
+20 
+25 
+30 
+35 
+40 
+45 
+50 
+55 
+60 
+TABLE 4 Tensile Requirements (SI) 
+Class 
+No. 150 
+No. 175 
+No.200 
+No.225 
+No.250 
+No.275 
+No. 300 
+No. 325 
+No. 350 
+No. 380 
+No. 415 
+Tensile Strength, 
+min, MPa 
+150 
+175 
+200 
+225 
+250 
+275 
+300 
+325 
+350 
+380 
+415 
+represented. The size of the test bar to be poured shall be 
+selected by the purchaser using Table 5. In the event no choice 
+is made, the selection will be made by the manufacturer. 
+9.2 Separately cast test bars shall be heat treated in the same 
+furnace together with the castings represented. 
+9.3 At the option of the manufacturer, test coupons may be 
+removed from the casting at a location agreed npon between 
+the manufacturer and purchaser. 
+419 
+9.4 Castings weighing in excess of 2000 lb may be repre­
+sented either by separately cast test bars (9.l) or by integrally 
+cast test bars having a cooling rate closely approximating that 
+of the controlling section of the casting. 
+9.5 For castings weighing in excess of 10 000 lb or having 
+a controlling section greater than 2 in., test bars may be 
+removed from the casting or integral projections having a cross 
+section no less than the controlling section. The minimum 
+tensile strength requirement for tension tests performed on 
+either of these test bars shall be 80 % of the specified class. 
+10. Molding and Pouring Test Bars 
+10.1 The test bars shall be cast in dried siliceous sand molds 
+maintained at approximately room temperature. A suitable 
+design for a mold is shown in Fig. 1. 
+TABLE 5 Separately Cast Test Bars for Use When a Specific 
+Correlation Has Not Been Established Between the Test Bar and 
+the Casting 
+Thickness of the Wall of the Controlling 
+Section of the Casting, in. (rnm) 
+Under 0.25 (6) 
+0.25 to 0.50 (6 to 12) 
+0.51 to 1.00 (13 to 25) 
+1.01 to 2 (26 to 50) 
+Over 2 (50) 
+Test Bar 
+s 
+A 
+B 
+C 
+s 

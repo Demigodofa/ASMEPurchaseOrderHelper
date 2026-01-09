@@ -1,0 +1,119 @@
+ASME BPVC.II.A-2025 SA-325 
+Washers, Direct Tension Indicators, and Rivets 
+F788/F788M Specification for Surface Discontinuities of 
+Bolts, Screws, and Studs, Inch and Metric Series 
+F959 Specification for Compressible-Washer-Type Direct 
+Tension Indicators for Use with Structural Fasteners 
+Fl136 Specification for Zinc/Aluminum Corrosion Protec­
+tive Coatings for Fasteners 
+F1470 Practice for Fastener Sampling for Specified Me­
+chanical Properties and Performance Inspection 
+F1789 Terminology for Fl6 Mechanical Fasteners 
+F2329 Specification for Zinc Coating, Hot-Dip, Require­
+ments for Application to Carbon and Alloy Steel Bolts, 
+Screws, Washers, Nuts, and Special Threaded Fasteners 
+GlOl Guide for Estimating the Atmospheric Corrosion Re-
+sistance of Low-Alloy Steels 
+2.2 ASME Standards: 
+B 1.1 Unified Screw Threads 
+B 18.2.6 Fasteners for Use in Structural Applications 
+B 18.24 Part Identification Number (PIN) Code System 
+Standard for B18 Fastener Products 
+3. Ordering Information 
+3.1 Orders for heavy hex structural bolts under this speci­
+fication shall include the following: 
+3.1.1 Quantity (number of pieces of bolts and accessories). 
+3.1.2 Size, including nominal bolt diameter, thread pitch, 
+and bolt length. 
+3.1.3 Name of product, heavy hex structural bolts. 
+3.1.4 When bolts threaded full length are required, Supple­
+mentary Requirement S 1 shall be specified. 
+3.1.5 Type of bolt: Type 1 or 3. When type is not specified, 
+either Type 1 or Type 3 shall be furuished at the supplier's 
+option. 
+3.1.6 ASTM designation and year of issue. 
+3.1.7 Other components such as nuts, washers, and com­
+pressible washer-type direct-tension indicators, if required. 
+3.1.7.1 When such other components are specified to be 
+furnished, also state "Nuts, washers, and direct tension indica­
+tors, or combination thereof, shall be furnished by lot number." 
+3.1.8 Zinc Coating-Specify the zinc coating process re­
+quired, for example, hot dip, mechanically deposited, Zinc/ 
+Aluminum Corrosion Protective Coating or no preference (see 
+4.3). 
+3.1.9 Other Finishes-Specify other protective finish, if 
+required. 
+3.1.10 Test reports, if required (see Section 13). 
+3.1.11 Supplementary or special requirements, if required. 
+3.1.12 For establishment of a part identifying system, see 
+ASME B18.24. 
+NoTE 3-A typical ordering description follows: 1000 pieces l1/s-7 
+UNC in. dia x 4 in. long heavy hex structural bolt, Type 1 ASTM A325-02, 
+each with one hardened washer, ASTM F436 Type 1, and one heavy hex 
+nut, ASTM A563 Grade DH. Each component hot-dip zinc-coated. Nuts 
+lubricated. 
+3.2 Recommended Nuts: 
+3.2.1 Nuts conforming to the requirements of Specification 
+A563 are the recommended nuts for use with Specification 
+A325 heavy hex structural bolts. The nuts shall be of the class 
+and have a surface finish for each type of bolt as follows: 
+Bolt Type and Finish 
+1, plain (noncoated) 
+1, zinc coated 
+1, coated in accordance with 
+Specification F1136, Grade 
+3 
+Nut Class and Finish 
+A563-C, C3, D, DH, DH3, 
+plain 
+A563-DH, zinc coated 
+A563-DH coated in accor­
+dance with Specification 
+F1136, Grade 5 
+3, plain A563-C3, DH3, plain 
+3.2.2 Alternatively, nuts conforming to Specification A194/ 
+Al 94M Gr. 2H are considered a suitable substitute for use with 
+Specification A325 Type 1 heavy hex structural bolts. 
+3.2.3 When Specification A194/A194M Gr. 2H zinc-coated 
+nuts are supplied, the zinc coating, overtapping, lubrication, 
+and rotational capacity testing shall be in accordance with 
+Specification A563. 
+3.3 Recommended Washers: 
+3.3.1 Washers conforming to Specification F436 are the 
+recommended washers for use with Specification A325 heavy 
+hex structural bolts. The washers shall have a surface finish for 
+each type of bolt as follows: 
+Bolt Type and Finish 
+1, plain (uncoated) 
+1, zinc coated 
+1, coated in accordance with 
+Specification F1136, Grade 3 
+3, plain 
+3.4 Other Accessories: 
+Washer Finish 
+plain (uncoated) 
+zinc coated 
+coated in accordance with Speci­
+fication F1136, Grade 3 
+weathering steel, plain 
+3.4.1 When compressible washer type direct tension indica­
+tors are specified to be used with these bolts, they shall 
+conform to Specification F959, Type 325. 
+4. Materials and Manufacture 
+4. l Heat Treatment: 
+4.1.1 Type 1 bolts produced from medium carbon steel shall 
+be quenched in a liquid medium from the austenitizing 
+temperature. Type 1 bolts produced from medium carbon steel 
+to which chromium, nickel, molybdenum, or boron were 
+intentionally added shall be quenched only in oil from the 
+austenitizing temperature. 
+4.1.2 Type 3 bolts shall be quenched only in oil from the 
+austenitizing temperature. 
+4.1.3 Type 1 bolts, regardless of the steel used, and Type 3 
+bolts shall be tempered by reheating to not less than 800°F. 
+475 
+4.2 Threading-Threads shall be cut or rolled. 
+4.3 Zinc Coatings, Hot-Dip and Mechanically Deposited, 
+Zinc/Aluminum Corrosion Protective Coating: 
+4.3.1 When zinc-coated fasteners are required, the pur­
+chaser shall specify the zinc coating process, for example, hot 

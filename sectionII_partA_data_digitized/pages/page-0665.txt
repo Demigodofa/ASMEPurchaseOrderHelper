@@ -1,0 +1,85 @@
+ASME BPVC.11.A-2025 SA-370 
+EJ 
+DIMENSIONS 
+Dimensions, in. 
+Specimen No. 
+A B C D 
+1 ½±0.D15 
+2 ¾ ± 0.031 
+111,s approximately 
+1 approximately 
+2 ± 0.005 
+2 ± 0.005 
+4 ± 0.005 
+2 ± 0.005 
+4 ± 0.005 
+2 ± 0.010 
+4 ± 0.015 
+8 ± 0.020 
+1 ± 0.003 
+2¼ min 
+2¼min 
+4½min 
+2¼min 
+4½ min 
+2¼min 
+4½min 
+3 1± 0.062 
+4 1½ ± .125 
+1 ½ approximately 
+2 approximately 
+9 min 
+5 ¼ ± .002 % approximately 1 ¼ min 
+Norn I-Cross-sectional area may be calculated by multiplying A and t. 
+Norn 2-The dimension t is the thick11ess of the test specimen as provided for in the applicable material specifications. 
+NoTE 3-The reduced section shall be parallel within 0.010 in. and may have a gradual taper in width from the ends toward the center, with the ends 
+not more than 0.010 in. wider than the center. 
+Norn 4-The ends of the specimen shall be symmetrical with the center line of the reduced section within 0.10 in. 
+Norn 5-Metric equivalent: 1 in. = 25.4 mm. 
+Norn 6-Specimens with sides parallel throughout their length are permitted, except for referee testing, provided: (a) the above tolerances are used; 
+(b) an adequate number of marks are provided for determination of elongation; and (c) when yield strength is determined, a suitable extensometer is used. 
+If the fracture occurs at a distance of less than 2A from the edge of the gripping device, the tensile properties determined may not be representative of 
+the material. If the properties meet the minimum requirements specified, no further testing is required, but if they are less than the minimum requirements, 
+discard the test and retest. 
+Norn ?-Specimen 5 is intended for testing specimens removed from an in-service product. Specimen 5 shall not be used for conformance testing of 
+new product. Acceptance criteria for elongation values obtained from 1 in. gauge length specimens shall be determined by agreement between the 
+responsible parties. 
+FIG. A2.3 Dimensions and Tolerances for Longitudinal Strip Tension Test Specimens for Tubular Products 
+A 
+FIG. A2.4 Location of Transverse Tension Test Specimens in 
+Ring Cut from Tubular Products. 
+through the pressure line under the control of a suitable valve. 
+An accurately calibrated pressure gauge serves to measure oil 
+pressure. Any air in the system is removed through the bleeder 
+line. As the oil pressure is increased, the rubber gasket expands 
+which in turn stresses the specimen circumferentially. As the 
+pressure builds up, the lips of the rubber gasket act as a seal to 
+prevent oil leakage. With continued increase in pressure, the 
+ring specimen is subjected to a tension stress and elongates 
+accordingly. The entire outside circumference of the ring 
+specimen is considered as the gauge length and the strain is 
+measured with a suitable extensometer which will be described 
+later. When the desired total strain or extension under load is 
+reached on the extensometer, the oil pressure in pounds per 
+square inch is read and by employing Barlow's formula, the 
+unit yield strength is calculated. The yield strength, thus 
+determined, is a true result since the test specimen has not been 
+613 
+3"Mln 
+Rad 1" Min 
+Norn 1-The dimension t is the thickness of the test specimen as 
+provided for in the applicable material specifications. 
+Norn 2-The reduced section shall be parallel within 0.010 in. and may 
+have a gradual taper in width from the ends toward the center, with the 
+ends not more than 0.010 in. wider than the center. 
+Norn 3-The ends of the specimen shall be symmetrical with the center 
+line of the reduced section within 0.10 in. 
+Norn 4-Metric equivalent: 1 in. = 25.6 mm. 
+FIG. A2.5 Transverse Tension Test Specimen Machined From 
+Ring Cut from Tubular Products 
+cold worked by flattening and closely approximates the same 
+condition as the tubular section from which it is cut. Further, 
+the test closely simulates service conditions in pipe lines. One 
+testing machine unit may be used for several different sizes of 
+pipe by the use of suitable rubber gaskets and adapters. 
+Norn A2.3-Barlow's formula may be stated two ways: 

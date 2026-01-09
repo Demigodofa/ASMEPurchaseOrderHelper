@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 553,
+  "globalPageIndex": 1351,
+  "width": 617.04,
+  "height": 795.6,
+  "text": "ASME BPVC.II.A-2025 SA-789/SA-789M (ASTM A789/A789M) \n~- TABLE 4 Tensile and Hardness RequirementsA \nTensile Yield Elongation Hardness, max \nUNS Designation Strength, Strength, in 2 in. or \nmin, ksi min, ksi 50mm, Brlnell Rockwell Vickers 0 \n[MPa] [MPa] min,% HBW HRC HV \nS31200 100 [690] 65 (450] 25 280 29 280 \nS31260 100 [690] 65 (450] 25 290 30 290 \nS31500 92 [630) 64 (440) 30 290 30 290 \nS31803 90 (620] 65 [450) 25 290 30 290 \nS32001 90 [620] 65 [450) 25 290 30 290 \nS32003 8 290 \nWall 0.187 in. 100 (690] 70 (485) 25 290 30 290 \n[5.00 mm] and under \nWall above 0.187 in. 95 (655] 65 [450) 25 290 30 290 \n[5.00 mm] \nS32101 \nWall 0.187 in. 101 [700) 77 (530) 30 290 30 290 \n---- [5.00 mm] and under \nWall above 0.187 in. 94 [650) 65 [450) 30 290 30 290 \n[5.00 mm] \nS32202 94 (650] 65 [450] 30 290 30 290 \nS32205 95 (655] 70 [485) 25 290 30 290 \nS32304 \nOD 1 in. [25 mm] and 100 (690] 65 (450] 25 290 \nunder \nOD above 1 in. [25 mm] 87 [600] 58 [400) 25 290 30 290 \nS32506 90 (620) 65 (450) 18 302 32 300 \nS32520 112 [770) 80 [550] 25 310 32 310 \nS32550 110 [760] 80 [550] 15 297 31 295 \nS32707 133 (920] 101 (700] 25 318 34 315 \nS32750 116 [800) 80 [550) 15 300 32 300 \nS32760 109 [750) 80 [550] 25 310 32 310 \nS32808 116 (800) 80 [550] 15 310 32 310 \nS32900 90 [620) 70 (485] 20 271 28 275 \nS32906 \nWall under 0.40 in. 116 [800) 94 [650] 25 300 32 300 \n[10mm] \nWall 0.40 in. (10 mm] 109 [750] 80 [550) 25 300 32 300 \nand above \nS32950 100 (690] 70 [480) 20 290 30 290 \nS33207 \nWall under 0.157 in. 138 [950) 112 [770] 15 336 36 330 \n[4mm] \nWall 0.157 in. 123 (850] 101 [700] 15 336 36 330 \n[4 mm] and above \nS39274 116 [800) 80 [550) 15 310 32 310 \nS39277 120 [825] 90 [620) 25 290 30 290 \nS82011 \nWall 0.187 in. 101 [700) 75 [515) 30 293 31 295 \n[5.00 mm] and under \nWall above 95 [655) 65 [450) 30 293 31 295 \n0.187 in. \n[5.00 mm] \nS82031 \nWall 0.187 in. 102 [700] 73 [500] 35 293 31 295 \n[5.00 mm] and under \nWall above 94 [650] 58 [400) 35 290 30 290 \n0.187 in. \n[5.00 mm] \nS82441 \nWall under 0.40 in. 107 [740] 78 [540] 25 290 30 290 \n[10 mm) \nWall 0.40 in. [1 O mm] 99 (680] 70 [480] 25 290 30 290 \nand above \nS83071 120 [830] 98 [680] 25 300 32 300 \nS83072 120 (830) 94 (650] 25 327 35 322 \nA For tubing smaller than \u00bd in. (12.7 mm) in outside diameter, the elongation \nvalues given for strip specimens in Table 4 shall apply. Mechanical property \nrequirements do not apply to tubing smaller than 1/a in. [3.2 mm] In outside \ndiameter or with walls thinner than O.Q15 in. [0.4 mm]. \n8 Prior to A789/A789M-04, the values for S32003 were 90 ksi tensile strength and \n65 ksi yield strength. \nc See 9.4.2 for when Vickers hardness testing is permitted. \n~--\n1289 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1351.json",
+  "tabulaTablesCsv": "tables_tabula/page-1351.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-1351.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2672,
+  "bestTextAlphaRatio": 0.2826
+}

@@ -1,0 +1,141 @@
+·~ 
+ASME BPVC.II.A-2025 SA-568/SA-568M (ASTM A568/A568M) 
+7 .2 Steel may be produced as ingot-cast or strand-cast. 
+When different grades of strand-cast steel are sequentially cast, 
+identification and separation of the transition material is 
+required. 
+8. Dimensions, Tolerances, and Allowances 
+8.1 Dimensions, tolerances, and allowances applicable to 
+products covered by this specification are contained in Tables 
+3-20 [Annex Al, Tables Al.l-Al.17]. The appropriate toler­
+ance tables shall be identified in each individual specification. 
+8.2 The appropriate thickness tolerance tables for measure­
+ments taken 3/s in. [10 mm] from the edge are found in Section 
+S 1 of the Supplementary Requirements in this specification. 
+See the appropriate product specification for instructions on 
+how to specify. 
+8.3 When thickness is measured using hand held microm­
+eters refer to Practice A1073/A1073M. 
+8.4 Flatness Tolerances: 
+8.4.1 Standard flatness tolerances are contained in Tables 13 
+and 14 for hot-rolled sheet and Table 20 for cold-rolled sheet. 
+8.4.2 Measurement techniques for flatness characteristics 
+are described in Practice A1030/Al030M. 
+8.4.3 Two alternative methods for flatness determination are 
+the use of I-units and percent steepness. A description of these 
+two alternative methods is contained in Practice A1030/ 
+A1030M, as well as Appendix X5. 
+8.4.3.1 The use of I-units or percent steepness as a flatness 
+standard is subject to negotiation between the purchaser and 
+the producer. 
+8.4.3.2 Measurement techniques for I-units, percent 
+steepness, and rejection limits are subject to negotiation 
+between the purchaser and the producer. 
+9. Finish and Condition 
+9.1 Hot-rolled sheet has a surface with an oxide or scale 
+resulting from the hot-rolling operation. The oxide or scale can 
+be removed by piclding or blast cleaning when required for 
+press-work operations or welding. Hot-rolled and hot-rolled 
+descaled sheet is not generally used for exposed parts where 
+- sutface-is-0f prime_importanc_e_._ _ _ _ _ _ 
+particular contour. They may also contain some edge 
+imperfections, the more common types of which are cracked 
+edges, thin edges (feather), and damaged edges due to handling 
+or processing and which should not extend in beyond the 
+ordered width. These edge conditions are detrimental where 
+joining of the mill edges by welding is practiced. When the 
+purchaser intends to shear or to blank, a sufficient width 
+allowance should be made when purchasing to ensure obtain­
+ing the desired contour and size of the pattern sheet. The 
+manufacturer may be consulted for guidance. Cut edges are the 
+normal edges which result from the shearing, slitting, or 
+trimming of mill-edge sheet. 
+9.1.1.1 The ends of plain hot-rolled mill-edge coils are 
+irregular in shape and are referred to as uncropped ends. Where 
+such ends are not acceptable, the purchaser's order should so 
+specify. Processed coils such as pickled or blast cleaned are 
+supplied with square-cut ends. 
+9.2 Cold-rolled carbon sheet (exposed) is intended for those 
+applications where surface appearance is of primary impor­
+tance. This class will meet requirements for controlled surface 
+texture, surface quality, and flatness. It is normally processed 
+by the manufacturer to be free of stretcher strain and fluting. 
+Subsequent user roller leveling immediately before fabrication 
+will minimize strain resulting from aging. 
+9.2.1 Cold-rolled carbon sheet, when ordered for exposed 
+applications, can be supplied in the following finishes: 
+9.2.1.1 Matte finish is a dull finish, without luster, produced 
+by rolling on rolls that have been roughened by mechanical or 
+chemical means to various degrees of surface texture depend­
+ing upon application. With some surface preparation matte 
+finish is suitable for decorative painting. It is not generally 
+recommended for bright plating. 
+9 .2.1.2 Commercial bright finish is a relatively bright finish 
+having a surface texture intermediate between that of matte and 
+luster finish. With some surface preparation commercial bright 
+finish is suitable for decorative painting or certain plating 
+applications. If sheet is deformed in fabrication the surface 
+may roughen to some degree and areas so affected will require 
+surface preparation to restore surface texture to that of the 
+undeformed areas; 
+9.1.1 Hot-rolled sheet can be supplied with mill edges or cut 
+edges as specified. Mill edges are the natural edges resulting 
+from the hot-rolling operation. They do not conform to any 
+~2.13 Luster finish 1s asmootfioright 1inisli produced by -
+rolling on ground rolls and is suitable for decorative painting or 
+plating with additional special surface preparation by the user. 
+TABLE 3 List of Tables for Dimensions, Tolerances, and Allowances 
+Dimensions 
+Camber tolerances 
+Diameter tolerances of sheared circles 
+Flatness tolerances 
+Length tolerances 
+Out-of-square tolerances 
+Restricted squareness tolerances 
+Thickness tolerances 
+Width tolerances of cut edge 
+Width tolerances of mill edge 
+CarbonA and High-Strength Low-Alloy Steel 
+Hot-Rolled Sheet 
+Inch-Pound Units 
+10 
+9 
+13, 14 
+8 
+11 
+12 
+4, 5, S1.1, S1.2 
+7 
+6 
+SI Units 
+A1.7 
+A1.6 
+A1.10, A1.11 
+A1.5 
+A1.8 
+A1.9 
+A1.1, A1.2, S1.4, S1.5 
+A1.4 
+A1.3 
+Table No. 
+A Tolerances for hot-rolled carbon sheet steel with 0.25 % maximum carbon, cast or heat analysis. 
+983 
+Cold-Rolled Sheet 
+Inch-Pound Units 
+10, 19 
+9 
+20 
+16, 17 
+11 
+12 
+15,S1.3 
+7, 18 
+SI Units 
+A1.7, A1.16 
+A1.6 
+A1.17 
+A1.13, A1.14 
+A1.8 
+A1.9 
+A1.12, S1.6 
+A1.4,A1.15 

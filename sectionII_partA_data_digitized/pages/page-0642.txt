@@ -1,0 +1,74 @@
+SA-370 ASME BPVC.II.A-2025 
+G- R 
+DIMENSIONS 
+Standard Specimen Small-size Specimens Proportional to Standard 
+Nominal Diameter in. mm in. mm in. mm in. mm in. mm 
+0.500 12.5 0.350 8.75 0.250 6.25 0.160 4.00 0.113 2.50 
+G-Gauge length 2.00± 50.0 ± 1.400± 35.0 ± 1.000± 25.0 ± 0.640± 16.0 ± 0.450± 10.0 ± 
+0.005 0.10 0.005 0.10 0.005 0.10 0.005 0.10 0.005 0.10 
+D-Diameter (Note 1) 0.500± 12.5± 0.350± 8.75 ± 0.250± 6.25 ± 0.160± 4.00 ± 0 .. 113± 2.50 ± 
+0.010 0.25 0.007 0.18 0.005 0.12 0.003 0.08 0.002 0.05 
+A-Radius of fillet, min 3/a 10 ¼ 6 3/16 5 5/32 4 3 /32 2 
+A-Length of reduced section, min 2¼ 60 1¾ 45 1¼ 32 ¾ 20 % 16 
+(Note 2) 
+Norn 1-The reduced section may have a gradual taper from the ends toward the ceuter, with the ends not more than 1 % larger in diameter than the 
+center (controlling dimension). 
+Norn 2-If desired, the length of the reduced section may be increased to accommodate an extensometer of any convenient gauge length. Reference 
+marks for the measurement of elongation should, nevertheless, be spaced at the indicated gauge length. 
+Norn 3-The gauge length and fillets shall be as shown, but the ends may be of any form to fit the holders of the testing machine in such a way that 
+the load shall be axial (see Fig. 9). If the ends are to be held in wedge grips it is desirable, if possible, to make the length of the grip section great enough 
+to allow the specimen to extend into the grips a distance equal to two thirds or more of the length of the grips. 
+Norn 4-On the round specimens in Fig. 5 and Fig. 6, the gauge lengths are equal to four times the nominal diameter. In some product specifications 
+other specimens may be provided for, but unless the 4-to-1 ratio is maintained within dimensional tolerances, the elongation values may not be comparable 
+with those obtained from the standard test specimen. 
+Norn 5-The use of specimens smaller than 0.250-in. (6.25 mm) diameter shall be restricted to cases when the material to be tested is of insufficient 
+size to obtain larger specimens or when all parties agree to their use for acceptance testing. Smaller specimens require suitable equipment and greater 
+skill in both machining and testing. 
+Norn 6-Five sizes of specimens often used have diameters of approximately 0.505, 0.357, 0.252, 0.160, and 0.113 in., the reason being to permit easy 
+calculations of stress from loads, since the corresponding cross sectional areas are equal or close to 0.200, 0.100, 0.0500, 0.0200, and 0.0100 in.2, 
+respectively. Thus, when the actual diameters agree with these values, the stresses (or strengths) may be computed using the simple multiplying factors 
+5, 10, 20, 50, and 100, respectively. (The metric equivalents of these fixed diameters do not result in correspondingly convenient cross sectional area and 
+multiplying factors.) 
+FIG. 4 Standard 0.500-in. (12.5 mm) Round Tension Test Specimen With 2-in. (50 mm) Gauge Length and Examples of Small-size Speci­
+mens Proportional to Standard Specimens 
+measured at the center of the gauge length to the nearest 
+0.001 in. (0.025 mm) (see Table 1). 
+9.6 General-Test specimens shall be either substantially 
+full size or machined, as prescribed in the product specifica­
+tions for the material being tested. 
+9.6. l It is desirable to have the cross-sectional area of the 
+specimen smallest at the center of the gauge length to ensure 
+fracture within the gauge length. This is provided for by the 
+taper in the gauge length permitted for each of the specimens 
+described in the following sections. 
+9.6.2 For brittle materials it is desirable to have fillets of 
+large radius at the ends of the gauge length. 
+10. Plate-type Specimens 
+10.1 The standard plate-type test specimens are shown in 
+Fig. 3. Such specimens are used for testing metallic materials 
+in the form of plate, strnctural and bar-size shapes, and flat 
+material having a nominal thickness of 3/16 in. (5 mm) or over. 
+When product specifications so permit, other types of speci­
+mens may be used. 
+Norn 4-When called for in the product specification, the 8-in. (200 
+590 
+mm) gauge length specimen of Fig. 3 may be used for sheet and strip 
+material. 
+11. Sheet-type Specimen 
+11.1 The standard sheet-type test specimen is shown in Fig. 
+3. This specimen is used for testing metallic materials in the 
+form of sheet, plate, flat wire, strip, band, and hoop ranging in 
+nominal thickness from 0.005 to 1 in. (0.13 to 25 mm). When 
+product specifications so permit, other types of specimens may 
+be used, as provided in Section 10 (see Note 4). 
+12. Round Specimens 
+12.1 The standard 0.500-in. (12.5 mm) diameter round test 
+specimen shown in Fig. 4 is frequently used for testing metallic 
+materials. 
+12.2 Fig. 4 also shows small size specimens proportional to 
+the standard specimen. These may be used when it is necessary 
+to test material from which the standard specimen or specimens 
+shown in Fig. 3 cannot be prepared. Other sizes of small round 
+specimens may be used. In any such small size specimen it is 
+important that the gauge length for measurement of elongation 
+be four times the diameter of the specimen (see Note 5, Fig. 4). 

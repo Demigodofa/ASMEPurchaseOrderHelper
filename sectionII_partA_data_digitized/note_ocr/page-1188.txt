@@ -1,0 +1,126 @@
+SA-671/SA-671M (ASTM A671/A671M) ASME BPVC.ILA-2025
+
+Designation: A671/A671M - 20
+i
+
+INTERNATIONAL
+Standard Specification for
+Electric-Fusion-Welded Steel Pipe for Atmospheric and
+1
+Lower Temperatu res
+This standard is issued under the fixed designation A671/A671M; the number immediately following the designation indicates the year
+of original adoption or, in the case of revision, the year of last revision. A number in parentheses indicates the year of last reapproval.
+A superscript epsilon (e) indicates an editorial change since the last revision or reapproval.
+1. Scope* 41 normalized and tempered, see 5.3.3 9 none
+: : . : : 42 normalized and tempered, see 5.3.3 9 8.3
+1.1 This specification” covers electric-fusion-welded steel 43 normalized and tempered, see 533 none 83
+pipe with filler metal added, fabricated from pressure vessel 50 quenched and tempered, see 5.3.4 none none
+quality plate of several analyses and strength levels and 5! quenched and tempered, see 5.3.4 9 none
++ : . : 52 quenched and tempered, see 5.3.4 9 8.3
+suitable for high-pressure service at atmospheric and lower 53 quenched and tempered, see 5.3.4 none 83
+temperatures. Heat treatment may or may not be required to 70 quenched and precipitation heat none none
+attain the desired properties or to comply with applicable code treated
+. prop. . Py PP . 71 quenched and precipitation heat 9 none
+requirements. Supplementary requirements are provided for treated
+use when additional testing or examination is desired. 72 quenched and precipitation heat 9 8.3
+. : . . . treated
+1.2 The specification nominally covers pipe 16 in. [400 73 quenched and precipitation heat none 8.3
+treated
+
+mum] in outside diameter or larger and of % in. [6 mm] wall
+thickness or greater. Pipe having other dimensions may be
+furnished provided it complies with all other requirements of
+this specification.
+
+1.3 Several grades and classes of pipe are provided.
+
+1.3.1 Grade designates the type of plate used as listed in 5.1.
+
+1.3.2 Class designates the type of heat treatment performed
+during manufacture of the pipe, whether the weld is radio-
+graphically examined, and whether the pipe has been pressure
+tested as listed in 1.3.3.
+
+1.3.3 Class designations are as follows (Note 1):
+
+Class Heat Treatment on Pipe Radiography, Pressure Test,
+see Section see:
+
+10 none none none
+
+"1 none 9 none
+
+12 none 9 8.3
+
+13 none none 8.3
+
+20 stress relieved, see 5.3.1 none none
+
+21 stress relieved, see 5.3.1 9 none
+
+22 stress relieved, see 5.3.1 9 8.3
+
+23 stress relieved, see 5.3.1 none 8.3
+
+30 normalized, see 5.3.2 none none
+
+31 normalized, see 5.3.2 9 none
+
+32 normalized, see 5.3.2 9 8.3
+
+33 normalized, see 5.3.2 none 8.3
+
+40 normalized and tempered, see 5.3.3 none none
+
+' This specification is under the jurisdiction of ASTM Committee A01 on Steel,
+Stainless Steel and Related Alloys and is the direct responsibility of Subcommittee
+A01.09 on Carbon Steel Tubular Products.
+
+Current edition approved March 1, 2020. Published March 2020. Originally
+approved in 1972. Last previous edition approved in 2019 as A671/A671M — 19.
+DOI: 10.1520/A067 1_A0671M-20.
+
+? For ASME Boiler and Pressure Vessel Code applications see related Specifi-
+cation SA-671 in Section II of that Code.
+
+Note 1—Selection of materials should be made with attention to
+temperature of service. For such guidance, Specification A20/A20M may
+be consulted.
+
+1.4 The values stated in either SI units or inch-pound units
+are to be regarded separately as standard. Within the text, the
+SI units are shown in brackets. The values stated in each
+system may not be exact equivalents; therefore, each system
+shall be used independently of the other. Combining values
+from the two systems may result in non-conformance with the
+standard. The inch-pound units shall apply unless the “M”
+designation of this specification is specified in the order.
+
+1.5 This international standard was developed in accor-
+dance with internationally recognized principles on standard-
+ization established in the Decision on Principles for the
+Development of International Standards, Guides and Recom-
+mendations issued by the World Trade Organization Technical
+Barriers to Trade (TBT) Committee.
+
+2. Referenced Documents
+
+2.1 ASTM Standards:?
+
+A20/A20M Specification for General Requirements for Steel
+Plates for Pressure Vessels
+
+A370 Test Methods and Definitions for Mechanical Testing
+of Steel Products
+
+A435/A435M Specification for Straight-Beam Ultrasonic
+Examination of Steel Plates
+
+3 For referenced ASTM standards, visit the ASTM website, www.astm.org, or
+contact ASTM Customer Service at service@astm.org. For Annual Book of ASTM
+Standards volume information, refer to the standard’s Document Summary page on
+the ASTM website.
+
+*A Summary of Changes section appears at the end of this standard
+
+1098

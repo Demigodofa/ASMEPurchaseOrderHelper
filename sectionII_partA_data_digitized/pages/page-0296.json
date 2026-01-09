@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 296,
+  "globalPageIndex": 296,
+  "width": 615.84,
+  "height": 856.2,
+  "text": "SA-193/SA-193M ASME BPVC.II.A-2025 \nTABLE 4 Marking of Ferritic Steels \nGrade \nB5 \nB6 \nB6X \nB7 \nB7M \nB16 \nB16+ \nSupplement S12 \n15. Product Marking \nGrade Symbol \nB5 \nB6 \nB6X \nB7 \nB7M or B7M \nB16 \nB16R \n15.1 See Specification A962/A962M. The grade symbol \nshall be as shown in Table 4 and Table 5. Grade B7M no longer \nrequires a line under the grade symbol. However, a line is \npermitted. \n16. Keywords \n16.1 alloy steel bars; alloy steel bolting; bolting compo\u00ad\nnents; bolting materials; hardness; heat treatment; stainless \nsteel bolting \nClass \nClass 1 \nClass 1A \nClass 1B \nClass 1C \nClass 10 \nClass 2 \nClass 2B \nClass 2C \n244 \nTABLE 5 Marking of Austenitic Steels \nGrade Grade Symbol \nB8 B8 \nB8C B8C \nB8M B8M \nB8P B8P \nB8T B8T \nB8LN B8F or B8LN \nB8MLN B8G or BBMLN \nB8CLN B8Yor BBCLN \nB8CLNCuB B8CLNCuB \nB8ML4CuN B8YY or BBML4CuN \nB8A B8A \nB8CA B8B or B8CA \nBBMA B8D or BBMA \nB8PA B8H or B8PA \nB8TA B8J or B8TA \nB8LNA B8Lor B8LNA \nBBMLNA B8K or B8MLNA \nB8NA B8Vor B8MA \nBBMNA B8W or B8MNA \nB8MLCuNA B9K or B8MLCuNA \nB8CLNA B8Z or B8CLNA \nB8CLNCuBA B8ZA or B8CLNCuBA \nB8ML4CuNA B8ZZ or B8MLCuNA \nB8N B8N \nB8MN BBYor B8MN \nB8MLCuN B9J or B8MLCuN \nB8R B9Aor BBR \nB8RA B9B or BBRA \nB8S B9D or BBS \nB8SA B9F or B8SA \nB8 B94 \nB8M B95 \nB8P B96 \nB8LN B97 \nB8MLN B98 \nBBN B99 \nB8MN B100 \nB8R B101 \nB8S B102 \nB8CLN B103 \nB8ML4CuN B104 \nBBCLNCuB B105 \nBB B8SH \nB8C BBCSH \nBBP BBPSH \nB8T BBTSH \nBBN BBNSH \nBBM BBMSH \nBBMN B8YSH \nBBMLCuN B8JSH \nB8M2 B9G or B8M2 \nBB B9 \nB8M3 B9H or BBM3 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0296.json",
+  "tabulaTablesCsv": "tables_tabula/page-0296.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0296.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1479,
+  "bestTextAlphaRatio": 0.6139
+}

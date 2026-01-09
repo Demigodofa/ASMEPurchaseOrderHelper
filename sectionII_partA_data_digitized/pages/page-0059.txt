@@ -1,0 +1,111 @@
+ASME BPVC.II.A-2025 SA-6/SA-6M 
+Austenitic grain refining elements include, but are not limited 
+to, aluminum, columbium (niobium), titanium, and vanadium. 
+3.1.19 structural product-a hot-rolled steel plate, shape, 
+sheet piling, or bar. 
+3.1.20 coil-hot-rolled steel in coiled form that is intended 
+to be processed into a finished structural product. 
+3.1.21 manufacturer-the organization that directly controls 
+the conversion of steel ingots, slabs, blooms, or billets, by 
+hot-rolling, into an as-rolled structural product or into coil; and 
+for structural products produced from as-rolled structural 
+products, the organization that directly controls, or is respon­
+sible for, the operations involved in finishing the structural 
+product. 
+3.1.21.1 Discussion-Such finishing operations include lev­
+eling or straightening, hot forming or cold forming (if 
+applicable), welding (if applicable), cutting to length, testing, 
+inspection, conditioning, heat treatment (if applicable), 
+packaging, marking, loading for shipment, and certification. 
+3.1.22 processor-the organization that directly controls, or 
+is responsible for, the operations involved in the processing of 
+coil into a finished structural product. Such processing opera­
+tions include decoiling, leveling or straightening, hot-forming 
+or cold-forming (if applicable), welding (if applicable), cutting 
+to length, testing, inspection, conditioning, heat treatment (if 
+applicable), packaging, marking, loading for shipment, and 
+certification. 
+3 .1.22.1 Discussion-The processing operations need not be 
+done by the organization that did the hot rolling of the coil. If 
+only one organization is involved in the hot rolling and 
+processing operations, that organization is termed the manu­
+facturer for the hot rolling operation and the processor for the 
+processing operations. If more than one organization is in­
+volved in the hot rolling and processing operations, the 
+organization that did the hot rolling is termed the manufacturer 
+and an organization that does one or more processing opera­
+tions is termed a processor. 
+3.2 Refer to Terminology A941 for additional definitions of 
+terms used in this standard. 
+4. Ordering Information 
+4.1 Information items to be considered, if appropriate, for 
+inclusion in purchase orders are as follows: 
+4.1.1 ASTM product specification designation (see 1.1) and 
+year-date; 
+4.1.2 Name of structural product (plate, shape, bar, or sheet 
+piling); 
+4.1.3 Shape designation, or size and thickness or diameter; 
+4.1.4 Grade, class, and type designation, if applicable; 
+4.1.5 Condition (see Section 6), if other than as-rolled; 
+4.1.6 Quantity (weight [mass] or number of pieces); 
+4.1.7 Length; 
+4.1.8 Exclusion of either structural product produced from 
+coil or structural product produced from an as-rolled structural 
+product (see 5.4 and Appendix Xl), if applicable; 
+4.1.9 Heat treatment requirements (see 6.2 and 6.3), if any; 
+4.1.10 Testing for fine austenitic grain size (see 8.3.2); 
+7 
+4.1.11 Mechanical property test report requirements (see 
+Section 14), if any; 
+4.1.12 Special packaging, marking, and loading for ship­
+ment requirements (see Section 19), if any; 
+4.1.13 Supplementary requirements, if any, including any 
+additional requirements called for in the supplementary re­
+quirements; 
+4.1.14 End use, if there are any end-use-specific require­
+ments (see 18.1, 11.3.4, Table 22 or Table Al.22, and Table 24 
+or Table Al.24); 
+4.1.15 Special requirements (see 1.10), if any; and 
+4.1.16 Repair welding requirements (see 9.5), if any. 
+5. Materials and Manufacture 
+5 .1 The steel shall be made in a basic-oxygen or electric-arc 
+furnace, possibly followed by additional refining in a ladle 
+metallurgy furnace (LMF) or secondary melting by vacuum­
+arc remelting (VAR) or electroslag remelting (ESR). 
+5.2 The steel shall be killed. 
+5.3 The steel shall be strand cast or cast in stationary molds. 
+5.3.1 Strand Cast: 
+5.3.1.1 When heats of the same nominal chemical compo­
+sition are consecutively strand cast at one time, the heat 
+number assigned to the cast product need not be changed until 
+all of the steel in the cast product is from the following heat. 
+5.3.1.2 When two consecutively strand cast heats have 
+different nominal chemical composition ranges, the manufac­
+turer shall remove the transition material by an established 
+procedure that positively separates the grades. 
+5.4 Structural products shall be produced from an as-rolled 
+structural product or from coil. 
+5.5 Where part of a heat is rolled into an as-rolled structural 
+product and the balance of the heat is rolled into coil, each part 
+shall be tested separately. 
+5.6 Structural products produced from coil shall not contain 
+splice welds, unless previously approved by the purchaser. 
+6. Heat Treatment 
+6.1 Where the structural product is required to be heat 
+treated, such heat treatment shall be performed by the 
+manufacturer, the processor, or the fabricator, unless otherwise 
+specified in the applicable product specification. 
+NOTE 2-When no heat treatment is required, the manufacturer or 
+processor has the option of heat treating the structural product by 
+normalizing, stress relieving, or normalizing then stress relieving to meet 
+the applicable product specification. 
+6.2 Where the heat treatment is to be performed by other 
+than the manufacturer, the order shall so state. 
+6.2.1 Where the heat treatment is to be performed by other 
+than the manufacturer, the structural products shall be accepted 
+on the basis of tests made on test specimens taken from full 
+thickness test coupons heat treated in accordance with the 
+requirements specified in the applicable product specification 
+or in the purchase order. If the heat-treatment temperatures are 
+not specified, the manufacturer or processor shall heat treat the 
+test coupons under conditions the manufacturer or processor 

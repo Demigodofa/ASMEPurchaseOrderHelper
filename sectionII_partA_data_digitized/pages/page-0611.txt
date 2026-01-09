@@ -1,0 +1,109 @@
+ASME BPVC.II.A-2025 SA-354 
+F1470 Practice for Fastener Sampling for Specified Me­
+chanical Properties and Performance Inspection 
+F1789 Terminology for F16 Mechanical Fasteners 
+F2329 Specification for Zinc Coating, Hot-Dip, Require­
+ments for Application to Carbon and Alloy Steel Bolts, 
+Screws, Washers, Nuts, and Special Threaded Fasteners 
+2.2 ASME Standards: 
+B 1.1 Unified Screw Threads 
+B18.2.1 Square and Hex Bolts and Screws, Inch Series 
+B18.24 Part Identifying Number (PIN) Code System Stan-
+dard for B 18 Fastener Products 
+3. Ordering Information 
+3.1 Orders for bolts and studs (including nuts and accesso-
+ries) under this specification shall include the following: 
+3.1.1 ASTM designation and year of issue, 
+3.1.2 Name of product (that is, bolt or stud), 
+3.1.3 Grade (that is, BC or BD), 
+3.1.4 Quantities (number of pieces by size, including nuts), 
+3.1.5 Size and length, 
+3.1.6 Washers-Specify quantity and size (separate from 
+bolts) (4.3), 
+3.1.7 Zinc Coating-When zinc-coated Grade BC fasteners 
+are required, specify the zinc-coating process required, for 
+example hot-dip, mechanically deposited, or no preference (see 
+4.4). 
+3.1.8 Other Finishes-Specify other protective finish, if 
+required. 
+3.1.9 Specify if inspection at point of manufacture is 
+required, 
+3.1.10 Specify if Certification (Section 14) is required, and 
+3.1.11 Specify additional testing (Section 9) or special 
+requirements. 
+3.1.12 For establishment of a part identifying system, see 
+ASME Bl8.24. 
+4. Materials and Manufacture 
+4.1 The steel shall be made by the open-hearth, electric­
+fumace, or basic-oxygen process. 
+4.2 All fasteners shall be heat-treated. At the option of the 
+manufacturer, heat treatment may be performed on the raw 
+material, during the manufacturing operations, or after final 
+machining. Heat treatment shall consist of quenching in a 
+liquid medium (except Grade BD sizes l ½in.and smaller shall 
+be quenched in oil) from above the transformation temperature 
+and then temperating by reheating to a temperature of not less 
+than 800°F (427°C) for Grade BC and for Grade BD. 
+4.3 When used, suitable hardened washers shall be 
+quenched and tempered (non-carburized) in accordance with 
+Specification F436. 
+4.4 Zinc Coatings, Hot-Dip and Mechanically Deposited: 
+4.4.1 When zinc-coated fasteners are required, the pur­
+chaser shall specify the zinc coating process, for example, 
+hot-dip, mechanically deposited, or no preference. 
+4.4.2 When "hot-dip" is specified, the fasteners shall be zinc 
+coated by the hot-dip process in accordance with the require­
+ments of Specification F2329. 
+4.4.3 When mechanically deposited is specified, the fasten­
+ers shall be zinc-coated by the mechanical-deposition process 
+in accordance with the requirements of Class 55 of Specifica­
+tion B695. 
+4.4.4 When no preference is specified, the supplier may 
+furnish either a hot-dip zinc coating in accordance with 
+Specification F2329, or a mechanically deposited zinc coating 
+in accordance with Specification B695, Class 55. Threaded 
+components (bolts and nuts) shall be coated by the same 
+zinc-coating process and the supplier's option is limited to one 
+process per item with no mixed processes in a lot. 
+Norn 3-When the intended application requires that assembled 
+tension exceeds 50 % of minimum bolt proof load, an anti-galling 
+lubricant may be needed. Application of such a lubricant to nuts and a test 
+of the lubricant efficiency are provided in Supplementary Requirement Sl 
+of Specification A563 and should be specified when required. 
+4.5 Zinc-coated bolts and nuts shall be shipped in the san1e 
+container unless specifically requested otherwise by the pur­
+chaser. 
+NoTE 4-Research conducted on bolts of similar material and manu­
+facture indicates that hydrogen-stress cracking or stress cracking corrosion 
+may occur on hot-dip galvanized Grade BD bolts. 
+5. Chemical Composition 
+5. I All fasteners shall be made from alloy steel conforming 
+to the chemical composition requirements in accordance with 
+Table 1. The steel shall contain sufficient alloying elements to 
+qualify it as an alloy steel. 
+559 
+NoTE 5-Steel is considered to be alloy, by the Ametican Iron and Steel 
+Institute, when the maximum of the range given for the content of alloying 
+elements exceeds one or more of the following limits: manganese, 1.65 %; 
+silicon, 0.60 %; copper, 0.60 %; or in which a definite range or a definite 
+minimum quantity of any of the following elements is specified or 
+required within the limits of the recognized field of constructional alloy 
+steels: aluminum, chromium np to 3.99 %, cobalt, columbium, 
+molybdenum, nickel, titanium, tungsten, vanadium, zirconium, or any 
+other alloying elements added to obtain a desired alloying effect. 
+5.2 Product analysis may be made by the purchaser from 
+finished material representing each lot of fasteners. The chemi­
+cal composition thus determined shall conform to the require­
+ments given in Table 1. Choice of alloy steel composition 
+necessary to ensure meeting the specified mechanical require­
+ments shall be made by the manufacturer and shall be reported 
+to the purchaser for information purposes only. 
+5.3 Application of heats of steel to which bismuth, 
+selenium, tellurium, or lead has been intentionally added shall 
+not be permitted. 
+5 .4 Chemical analyses shall be performed in accordance 
+with Test Methods, Practices, and Terminology A751. 
+6. Mechanical Properties 
+6.1 Fasteners shall not exceed the maximum hardness speci­
+fied in Table 2. Fasteners less than three diameters in length 
+and studs less than four diameters in length shall have hardness 

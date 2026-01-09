@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 708,
+  "globalPageIndex": 1506,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "SA-985/SA-985M ASME BPVC.II.A-2025 \nAPPENDIX \n(Nonmandatory Information) \nXl. ALLOY DESIGNATIONS FOR CAST \nSTAINLESS STEELS \nXl.1 Cast stainless steels usually are specified on the \nbasis of composition using the alloys designation system \nestablished by the Alloy Casting Institute (ACI). The ACI \ndesignations, for example, CF8M, have been adopted by \nASTM and are preferred for cast alloys over the designa\u00ad\ntions used by the American Iron and Steel Institute for \nsimilar wrought steels. \nXl.2 This nomenclature system has served successfully \nto accommodate changes in old alloys and to designate \nnew ones. \nX X \nService Classification J \nLetter _________ -' \nTernary Diagram Location \nLetter _________ __, \n00 X X X \nCarbon Content Number ______ __, \nIII Special Elements Letter \nXl.2.1 Service Classification Letter - The first letter \nof the cast stainless steel designation system identifies the \nintended service application of the alloy. The letter Cindi\u00ad\ncates corrosion-resistant service, and the letter H indicates \nthe heat-resistant service at and above 1200\u00b0F [650\u00b0C]. \nXl.2.2 Ternary Diagram Location Letter- The second \nletter indicates the approximate location of the nickel and \nchromium contents of the alloy grade on the FeCrNi ternary \ndiagram shown in Fig. Xl. 1. \nXl.2.3 Carbon Content Number- For C service classi\u00ad\nfications, this single or dual digit numeral represents the \nmaximum carbon content in units of 0.01 %. For H service \nclassifications, this number represents the midpoint of the \nrange of carbon content in terms of 0.01 % with a \n\u00b10.05% limit. \nXl.2.4 Special Elements Letters - Additional letters \nfollowing the numeral represents special chemical elements \nin the alloy grade, such as M for molybdenum, C for \ncolumbium, Cu for copper, and W for tungsten. There are \ntwo exceptions. The letter A indicates \"Controlled Ferrite,\" \nand the letter F indicates \"Free Machining.\" \nXl.3 In Fig. Xl.l, unlettered NiCr ranges are associ\u00ad\nated with the nearest lettered location. They may be the \nresult of differences between corrosion and heat-resistance \ntypes or because of the influence of additional elements, \nfor example, the precipitation hardening grade CB- 7 Cu. \n1452 \n~. ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-1506.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2220,
+  "bestTextAlphaRatio": 0.7568
+}

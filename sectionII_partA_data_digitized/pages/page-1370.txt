@@ -1,0 +1,182 @@
+SA-803/SA-803M ASME BPVC.II.A-2025 
+the producer, each length of flat-rolled stock or tube may be 
+individually tested for acceptance. Lengths of flat-rolled stock 
+or tubes that do not meet the requirements of this specification 
+shall be rejected. 
+10. Mechanical Requirements 
+10.1 Tensile Properties: 
+10.1.1 The material shall conform to the tensile properties 
+shown in Table 2. 
+10.1.2 One tension test shall be made on a specimen for lots 
+of not more than 50 tubes. Tension tests shall be made on 
+specimens from two tubes for lots of more than 50 tubes. 
+10.1.3 Table 3 gives the computed minimum elongation 
+values for each 1/32 in. [0.8 mm] decrease in wall thickness. 
+10.2 Hardness: 
+10 .2.1 The tubes shall have a hardness number not to exceed 
+those prescribed in Table 4. This hardness requirement is not to 
+apply to the bend area of U-bend tubes which are not heat 
+treated after bending. 
+10.2.2 Brinell or Rockwell hardness tests shall be made on 
+specimens from two tubes from each lot. 
+10.3 Reverse Flattening Test (for Welded Product)-One 
+reverse flattening test shall be made on a specimen from each 
+1500 ft [460 m] of finished tubing. 
+10.4 Flange Test (for Welded Product)-Flange tests shall 
+be made on specimens from each end of one finished tube, not 
+the one used for the flattening test, from each lot. 
+10.5 Flaring Test (for Seamless Tubes)-One test shall be 
+made on specimens from one end of one tube from each lot of 
+finished tubes. The minimum expansion of the inside diameter 
+shall be 10 % . 
+10.6 Pressure Test-Each straight tube, or each U-tube after 
+completion of the bending and post-bending heat treatment, 
+shall be pressure-tested in accordance with one of the follow­
+ing paragraphs as specified by the purchaser: 
+10.6.1 Hydrostatic Test-Each tube shall be given an inter­
+nal hydrostatic test in accordance with Specification Al016/ 
+Al016M. 
+TABLE 2 Tensile Requirements 
+Tensile Strength, Yield Strength, 
+ElongationA 
+Grade in 2 in. 
+min, ksi [MPa] min, ksi [MPa] or50 mm, 
+min,% 
+TP409 55 [380) 30 [205) 20 
+TP439 60 [415) 30 [205) 20 
+TPXM-27 65 [450) 40 [275] 20 
+TP XM-33 68 [470) 45 [310] 20 
+25-4-4 90 [620] 75 [515] 20 
+26-3-3 85 [585] 65 [450] 20 
+29-4 80 [550] 60 [415] 20 
+29-4-2 80 [550] 60 [415] 20 
+18-2 60 [415] 35 [240] 20 
+29-4C 75 [515] 60 [415] 18 
+A For longitudinal strip tests, a deduction of 0.90 % for 29-4C and 1 % for all other 
+grades shall be made from the basic minimum elongation for each 1/s2 in. [0.8 mm] 
+decrease in wall thickness below 5 /,a in. [8 mm]. Table 3 gives the computed 
+minimum values. 
+TABLE 3 Minimum Elongation ValuesA 
+Wall Thlckness 8 Elongation in 2 in. or 50 mm, 
+min,% 
+in. 
+5/,s (0.312) 
+o/02 (0.281) 
+¼ (0.250) 
+7 /32 (0.219) 
+o/,a (0.188) 
+%2 (0.156) 
+1/s(0.125) 
+%2 (0.094) 
+1/10 (0.062) 
+0.062 to 0.035, excl 
+0.035 to 0.022, excl 
+0.022 to 0.D15, excl 
+mm 
+8 
+7.2 
+6.4 
+5.6 
+4.8 
+4 
+3.2 
+2.4 
+1.6 
+1.6 to 0.9 
+0.9 to 0.6 
+0.6 to 0.4 
+29-4C 
+18 
+17 
+16 
+15 
+14 
+13 
+13 
+12 
+11 
+10 
+10 
+10 
+All Other 
+20 
+19 
+18 
+17 
+16 
+15 
+14 
+13 
+12 
+12 
+11 
+11 
+A Calculation elongation shall be rounded to the nearest whole number. 
+8 Where the wall thickness lies between two values shown above, the minimum 
+elongation value shall be determined by the following equation: 
+Grade 
+29-4C 
+All other 
+where: 
+Equation 
+E = 28.81 + 9.00 
+[E = 1.131 + 9.00) 
+E = 321 + 10.00 
+[E = 1.251 + 10.00] 
+E = elongation in 2 in. or 50 mm, %, and 
+t = actual thickness of specimen, in. [mm]. 
+TABLE 4 Hardness Requirements 
+Grade 
+Brinell Hardness, 
+max 
+Rockwell Hardness, 
+B Scale, 
+TP409 
+TP439 
+PXM-27 
+TPXM-33 
+25-4-4 
+26-3-3 
+29-4 
+29-4-2 
+18-2 
+29-4C 
+A Rockwell Hardness, C scale. 
+207 
+207 
+241 
+241 
+270 
+265 
+241 
+241 
+217 
+241 
+max 
+95 
+95 
+100 
+100 
+27A 
+25A 
+100 
+100 
+95 
+100 
+10.6.2 Pneumatic Test-Each tube shall be examined by a 
+pneumatic test (either air underwater or pneumatic leak test) in 
+accordance with Specification Al016/A1016M. 
+10.7 Lot Definitions: 
+10.7.1 For flange and flaring test requirements, the term 
+"lot" applies to 125 tube groupings, prior to cutting to length, 
+of the same nominal size and wall thickness, produced from the 
+same heat of steel and annealed in a continuous furnace. 
+10. 7 .2 For tension and hardness requirements, the term "lot" 
+applies to all tubes, prior to cutting to length, of the same 
+nominal diameter and wall thickness, produced from the same 
+heat of steel and annealed in a continuous furnace at the same 
+temperature, time at temperature, and furnace speed. 
+11. Corrosion Resisting Properties 
+11.1 One full section sample 1 in. [25 mm] long from the 
+center of a sample tube of the smallest radius bend that is heat 
+1308 

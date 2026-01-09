@@ -1,0 +1,44 @@
+SA-609 /SA-609M ASME BPVC.II.A-2025 
+TABLE 4 
+ACCEPTANCE CRITERIA FOR CLUSTERED INDICATIONS 
+Minimum Area in 
+Cumulative Area Which Indications 
+of Indications, Must be Dispersed, 
+Quality Level in. 2 [cm 2 JA, 8 in. 2 [cm 2 Jc 
+1 0 0 
+2-3 2 [13] 36 [232] 
+4-5 4 [26] 36 [232] 
+6-7 6 [39] 36 [232] 
+8-9 8 [52] 36 [232] 
+10-11 10 [64] 36 [232] 
+A Regardless of wall location, that is midwall ½, innermost½, or outermost½. 
+8 Each indication that equals or exceeds the 0.5 in. [18 mm] reference line shall be traced to the posi­
+tion where the indication is equal to b.25 in. [6 mml The area of the location, for the purpose of this 
+evaluation, shall be considered the area that is confined within the outline established by the center of 
+the transducer during tracing of the flaw as required. Whenever no discernible surface tracing is possi­
+ble, each indication which equals or exceeds the 0.5 in. reference amplitude shall be considered 
+0.15 in. 2 [l cm 2 J (three times the area of the ¾ diameter [6 mm] flat bottomed hole to compensate for 
+reflectivity degradation of natural flaw) for the cumulative area estimates. 
+c The indications within a cluster with the cumulative areas traced shall be dispersed in a minimum sur­
+face area of the casting equal to 36 in. 2 [230 cm 2 J. If the cumulative areas traced are confined with a 
+smaller area of distribution, the area shall be repair welded to the extent necessary to meet the applica­
+ble quality level. 
+TABLE 5 
+DIMENSIONS OF CALIBRATION BLOCl<S FOR ANGLE-BEAM EXAMINATION 
+Nominal Production Basic Calibration Hole Diameter 
+Material Thickness Block Thickness (dJ, in 1.002 Minimum Depth 
+<t>, in. [mmJ en, in. [mm] [mm± 0.05] (0), in. [mmJ 
+Up to 1 [25] incl 1 [25] or t %2 [2.4] 1 1/2 [40] 
+Over 1 to 2 [25-50] 2 [50] or t 1/a [3.2] 1% [40] 
+Over 2 to 4 [50-100] 4 [100] or t 3 /16 [4.8] 11/2 [40] 
+Over 4 to 6 [100-150] 6 [150] or t 1/4 [6.3] 1 1/2 [40] 
+Over 6 to 8 [150-200] 8 [200] or t 5 /16 [7.9] 1 1/2 [40] 
+Over 8 to 10 [200-250] 10 [250] or t 3ia [9.5] 1 1/2 [40] 
+Over 10 [250] t See Note 1 1 1/2 [40] 
+NOTE 1 - For each increase in thickness of 2 in. [50 mm], or a fraction thereof, the hole diameter shall 
+increase ½_ 6 in. Cl.6 mml 
+NOTE 2 - For block sizes over 3 in. [75 mm] in thickness, T, the distance from the hole to the end of the 
+block shal I be ½ T, min, to prevent coincident reflections from the hole and the corner. Block fabricated 
+with a 2 in. [50 mm] minimum dimension need not be modified if the corner and hole indications can be 
+easily resolved. 
+1044 

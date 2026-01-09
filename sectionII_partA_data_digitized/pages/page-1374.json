@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 576,
+  "globalPageIndex": 1374,
+  "width": 613.92,
+  "height": 793.2,
+  "text": "SA\u00b7803 /SA\u00b7803M ASME BPVC.11,A\u00b72025 \nTABLE S2.1 Notch Depth for Select Commercial GradeA \nOD, in. Wall,in. Depth, max Length, \nmax, Width, max [mm] [mm] in. [mm] in.[mm] \n5/ato 1 0.035 0.005 [0.12] or 10.8 % 0.375 3 times \n[15.9to [0.9mm] of specified average [9.5] notch depth \n25.4], and wall (when average \nincl heavier wall is ordered), \nor 11.8 % of \nspecified minimum wall \n(when minimum wall \nis ordered), whichever \nIs greater \n5/ato 1 less than 0.375 wall \n[15.9 to 0.035 [9.5] thickness \n25.4], [0.9mm] \nincl \nAThe tolerance of notch depth shall be \u00b1 8 % or\u00b1 0.0005 in. [0.01 mm], whichever \nis greater. Refer to Fig. S1 .1 for notch location orientation and length of calibration \nstandard. \n1312 \n,,..---..__ ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1374.json",
+  "tabulaTablesCsv": "tables_tabula/page-1374.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-1374.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 721,
+  "bestTextAlphaRatio": 0.5659
+}

@@ -1,0 +1,156 @@
+SA-217 /SA-217M (ASTM A217 /A217M} ASME BPVC.II.A-2025 
+NoTE 4-The role of alloying elements in the development of Grade 
+Cl2A has been extensively investigated. V and Nb contribute to precipi­
+tation strengthening by forming fine and coherent precipitation of M(C, 
+N)X carbo-nitrides in the ferrite matrix. V also precipitates as VN during 
+tempering or during creep. The two elements are more effective in 
+combination. Therefore, the addition of strong nitride-forming elements, 
+those with a stronger affinity for nitrogen than Nb and V, as deoxidation 
+agents, interferes with these high-temperature strengthening mechanisms. 5 
+7. Mechanical Properties 
+7 .1 Steel used for the castings shall conform to the require­
+ments as to tensile properties given in Table 2. 
+7.2 C12A castings shall be hardness tested in accordance 
+with Supplementary Requirement Sl3, and shall have a Brinell 
+hardness of 185-248 HBW. 
+8. Quality 
+8.1 The surface of the casting shall be examined visually 
+and shall be free of adhering sand, scale, cracks, and hot tears. 
+Other surface discontinuities shall meet the visual acceptance 
+standards specified in the order. Practice A802/ A802M or other 
+visual standards may be used to define acceptable surface 
+discontinuities and finish. Unacceptable visual surface discon­
+tinuities shall be removed and their removal verified by visual 
+examination of the resultant cavities. When methods involving 
+high temperatures are used in the removal of discontinuities, 
+castings shall be preheated to at least the minimum tempera­
+tures in Table 3. 
+8.2 Hollow castings of Grade C12A, larger than NPS 4 [DN 
+100], and whose internal surfaces are not accessible to the 
+visual examination in 8.1, shall be examined by the ultrasonic 
+examination prescribed in Supplementary Requirement S7. 
+Castings producing a signal equal to or greater than the lowest 
+signal produced by the referenced discontinuities shall be 
+identified and separated from the acceptable castings. The area 
+producing the signal may be re-examined. Such castings shall 
+be rejected if the test signals were produced by imperfections 
+5 Viswanathan, R. and Bakker, W. T., Materials for Ultra Supercritical Fossil 
+Power Plants, EPRI, Palo Alto, CA, 2000. TR-114750. 
+TABLE 3 Minimum Preheat Temperatures 
+Grade 
+WC1 
+WC4 
+WC5 
+WC6 
+WC9 
+WC11 
+C5 
+C12 
+C12A 
+CA15 
+Thickness, in. [mm] 
+5/a and under 
+Over % [15.9] 
+All 
+All 
+All 
+All 
+All 
+All 
+All 
+All 
+All 
+Minimum 
+Preheat 
+Temperature, 
+OF [OC] 
+50 [10] 
+250 [120] 
+300 [150] 
+300 [150] 
+300 [150] 
+400 [200] 
+300 [150] 
+400 [200] 
+400 [200] 
+400 [200] 
+400 [200] 
+that cannot be identified or were produced by cracks or 
+crack-like imperfections. Such castings may be repaired. To be 
+accepted, a repaired casting shall pass the ultrasonic examina­
+tion and shall meet the minimum wall thickness requirements 
+of the purchase order. 
+8.3 When additional inspection is desired, Supplementary 
+Requirements S4, S5, and SlO may be ordered. 
+8.4 The castings shall not be peened, plugged, or impreg­
+nated to stop leaks. 
+9. Repair by Welding 
+9.1 Repairs shall be made using procedures and welders 
+qualified under Practice A488/ A488M. 
+9.2 All repair welds in Cl2A castings shall be made with 
+one of the following welding processes and consumables: 
+SMAW, A5.5/A5.5M E90:XX-B9; SAW, A5.23/A5.23M EB9 + 
+Neutral Flux; GTAW, A5.28/A5.28M ER90S-B9; and FCAW, 
+A5.29/A5.29M E91Tl-B9. In addition, the sum of the Ni+ Mn 
+content in all welding consumables used to weld repair Cl2A 
+castings shall not exceed 1.0 %. Weld-repaired Grade Cl2A 
+castings shall be post-weld heat treated at 1350 to 1470 °F [730 
+to 800 °C]. 
+9.3 Weld repairs shall be inspected to the same quality 
+standards that are used to inspect the castings. When castings 
+TABLE 2 Tensile RequirementsA are produced with Supplementary Requirement S4 specified, _____________ _,_ __________ _ 
+Tensile 
+Strength, Yield 
+Grade Strength, ksi ksi [MPa] 8 
+[MPa] 
+Elonga-
+lion in 
+2 in. 
+[50mm], 
+%c 
+Reduc-
+lion of 
+Area, 
+% 
+weld repairs shall be inspected by magnetic particle examina­
+tion to the same standards that are used to inspect the castings. 
+When castings are produced with Supplementary Requirement 
+S5 specified, weld repairs on castings that have leaked on 
+------------------------ hydrostatic test, or on castings in which the depth of any cavity WC1 65-90 35 [240] 24 35 
+[450-620] 
+WC4, WC5, WC6, WC9 70-95 
+[485-655] 
+WC11 80-105 
+[550-725} 
+C5, C12 90-115 
+[620-795] 
+C12A 85-110 
+[585-760] 
+CA15 90-115 
+40 [275] 20 
+50 [345] 18 
+60 [415] 18 
+60 [415] 18 
+65 [450] 18 
+35 
+45 
+35 
+45 
+30 
+prepared for repair welding exceeds 20 % of the wall thickness 
+or 1 in. [25 mm], whichever is smaller, or on castings in which 
+any cavity prepared for welding is greater than approximately 
+10 in.2 [65 cm 2 ], shall be radiographed to the same standards 
+that are used to inspect the castings. 
+9.4 Weld repairs shall be considered major in the case of a 
+casting that has leaked on hydrostatic test, or when the depth of 
+[620-795] ________ _;_ __ ,.;,_ ____________ the cavity prepared for welding exceeds 20 % of the wall 
+A All values are minimums unless a range is provided. 
+8 Determine by either 0.2 % offset method or 0.5 % extension-under-load method. 
+c When !Cl test bars are used in tensile testing as provided for in Specification 
+A703/A703M, the gage length to reduced section diameter ratio shall be 4 to 1. 
+308 
+thickness or 1 in. [25 mm], whichever is smaller, or when the 
+extent of the cavity exceeds approximately 10 in.2 [65 cm 2 ]. 
+All castings with major repair welds shall be thermally stress 
+relieved or completely reheat treated. This mandatory stress 

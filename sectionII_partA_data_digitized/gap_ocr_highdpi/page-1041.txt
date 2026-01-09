@@ -1,0 +1,70 @@
+ASME BPVC.ILA-2025 SA-553/SA-553M i
+— TABLE 1 Chemical Requirements
+7 Element Composition, %
+Type | Type Il Type Ill 5
+Carbon, max’ 0.13 0.13 0.13
+Manganese, max:
+Heat analysis 0.90 0.90 0.90 i
+Product analysis 0.98 0.98 0.98 :
+Phosphorus, max4 0.015 0.015 0.010 :
+Sulfur, max4 0.015 0.015 0.010
+Silicon:
+Heat analysis 0.15-0.408 0.15-0.408 0.05-0.304 :
+Product analysis 0.13-0.45° 0.13-0.45°
+Nickel: i
+Heat analysis 8.50-9.50 7.50-8.50 6.50-7.504
+Product analysis 8.40-9.60 7.40-8.60 i
+Molybdenum te we 0.10-0.30 ‘
+Columbium (Niobium),? max? i vee 0.03
+4 Applies to both heat and product analyses.
+—- 5 Silicon may be less than 0.15 %, provided total aluminum is 0.030 % or over, or provided acid soluble aluminum is 0.025 % or over.
+© Silicon may be less than 0.13 %, provided total aluminum is 0.030 % or over, or provided acid soluble aluminum is 0.025 % or over.
+. © Golumbium and niobium are interchangeable names for the same element and both names are acceptable for use in AO1 specifications.
+TABLE 2 Tensile Requirements 5.2.2.1 Prior to the tempering treatment, the plates may be
+Tensile strength, ksi [MPa] 100 to 120 [690-825] subjected to an intermediate heat treatment consisting of .
+rere Strength (02 (60 ment tn sea [MPa] 8 el heating to a temperature in the range from 1165 to 1290°F [630
+eee —— to 700°C] for Type I, or 1185 to 1310°F [640 to 710°C] for
+4 See Specification A20/A20M for elongation adjustment. Type II, or 1205 to 1330°F [650 to 720°C] for Type II; holding
+at that temperature for a suitable time, but in no case less than ;
+15 min, and then water-quenching to below 300°F [150°C] in
+4. Manufacture the case of plate thicknesses of more than % in. [16 mm] or
+4.1 Steelmaking Practice—The steel shall be killed and cooling ot ok te water quenching to peew 300°F pee C] "
+/ shall conform to the fine austenitic grain size requirement of © case of plate thicknesses of % in. [16 mm] and under.
+( Specification A20/A20M. Nore 1—The intermediate heat treatment is for the purpose of
+enhancing elongation and notch-toughness and for reducing susceptibility :
+5, Heat Treatment to strain-aging embrittlement and temper embrittlement. It may be
+. . performed at the option of the material manufacturer or may be specified
+5.1 All plates shall be heat treated in accordance with 5.2. by the purchaser.
+
+Shell plates and other parts, including heads and reinforcing ; .
+pads, which are heated for forming, shall be heat treated after 6. Chemical Requirements |
+forming in accordance with 5.2. 6.1 The steel shall conform to the chemical requirements
+
+5.2 Heat Treatment Procedure—Heat treat all plates by shown in Table 1 unless otherwise modified in accordance with |
+heating to a suitable temperature within the range from 1475 to | Supplementary Requirement S17, Vacuum Carbon-Deoxidized
+1700°F [800 to 925°C], holding for a sufficient time to obtain Steel, in Specification A20/A20M. |
+
+ee uniform temperature throughout the plate thickness and then 7 Mechanical Requirements |
+quenching in water. Subsequently, temper the-plates-within- the =», ;
+/ range from 1050 to 1175°F [565 to 635°C] for Type I and Type 7A Tension Test cequirements he material as represented
+: Il, or from 1000 to 1125°F [540 to 615°C] for Type IIL, holding by tension-test specimens shall conform to the requirements
+Ne at this temperature for a minimum of 30 min/in. [1.2 min/mm]  8Pecified in Table 2.
+of thickness but not less than 15 min, and cool in air or water 7.1.1 Upon agreement between the purchaser and the
+quench at a rate not less than 300°E/h [165°C/h]. manufacturer, yield strength may be determined by the exten-
+
+5.2.1 Hardening—The plates shall be heated to a tempera- S10 under load method, using 0.005 in.fn. [mm/mm] total
+ture within the range from 1475 to 1700°F [800 to 925°C], held ©Xtension. vy:
+at that temperature for a sufficient time to obtain uniform 712 For nominal plate thicknesses of % in. [20 mm] and
+temperature throughout the plate thickness, and then quenched under, the 1% in. [40 mm] wide rectangular specimen may be
+in a liquid media. used for the tension test and the elongation may be determined
+
+5.2.2 Tempering—The plates shall be tempered at a tem- 14 2 in. [50 mm] gage length that includes the fracture and
+perature within the range from 1050 to 1175°F [565 to 635°C] _ Shows the greatest elongation.
+for Type I and Type II, or from 1000 to 1125°F [540 to 615°C] 7.2 Impact Test Requirements:
+for Type I; being held at that temperature for a minimum of 7.2.1 Charpy V-notch impact tests shall be made in accor-
+
+30 min/in. [1.2 min/mm] of thickness, but in no case less than dance with Specification A20/A20M.
+/ 15 min, and then cooled in air or liquid-quenched at a rate not 7.2.2 The longitudinal axis of the test specimens shall be
+' less than 300°F/h [165°C/h]. transverse to the final rolling direction of the plate.
+NL
+941

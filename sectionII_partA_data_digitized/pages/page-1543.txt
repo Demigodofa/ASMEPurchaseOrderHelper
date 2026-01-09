@@ -1,0 +1,119 @@
+ASME BPVC.II.A-2025 SA-999 /SA-999M 
+10.1.1 Minimum Wall-If the wall thickness of the pipe is 
+specified as minimum wall in the purchase order, there shall be 
+no variation under the specified wall thickness. 
+10.2 Forged and Bored-The wall thickness shall not vary 
+over that specified by more than Vs in. [3.2 mm]. There shall be 
+no variation under the specified wall thickness. 
+10.3 Cast-The wall thickness shall not vary over that 
+specified by more than V16 in. [1.6 mm]. There shall be no 
+variation under the specified wall thickness. 
+11. Permissible Variations in Inside Diameter 
+11.1 Forged and Bored, and Cast-The inside diameter 
+shall not vary under that specified by more than V16 in. [1.6 
+mm]. There shall be no variation over the specified inside 
+diameter. 
+12. Permissible Variation in Outside Diameter 
+12.1 Variations in outside diameter, unless otherwise agreed 
+upon, shall not exceed the limits given in Table I. The 
+tolerances for outside diameter include ovality, except as 
+provided for in 12.2 and 12.2.1. (See Note 2.) 
+12.2 For thin-wall pipe, defined as pipe having a wall 
+thickness of 3 % or less of the specified outside diameter, the 
+diameter tolerance of Table 1 is applicable only to the mean of 
+the extreme (maximum and minimum) outside diameter read­
+ings in any one cross-section. 
+12.2.1 For thin-wall pipe, the difference in extreme outside 
+readings (ovality) in any one cross-section shall not exceed 
+1.5 % of the specified outside diameter. 
+Norn 2-Thin-wall pipe usually develops significant ovality (out-of­
+roundness) during final annealing, straightening, or both. The diameter 
+tolerances given in Table 1 are usually not sufficient to provide for 
+additional ovality expected in thin-wall pipe. 
+13. Permissible Variations in Length 
+13.1 Seamless and Welded (No Filler Metal Added)-If 
+specific cut lengths of 24 ft [7.3 m] or less are ordered, no 
+length of pipe shall be under the length specified or more than 
+¼ in. [6 mm] over that specified. 
+13.1.1 Permissible variations in length for lengths greater 
+than 24 ft [7.3 m] shall be subject to agreement between the 
+manufacturer and purchaser. 
+13.2 Forged and Bored, Cast, and Cast Cold-Wrought-If 
+specific cut lengths are ordered, no length of pipe shall be 
+under the length specified or more than 1/s in. [3 mm] over that 
+specified. 
+13.3 For pipe ordered to random lengths, the lengths and 
+variations shall be agreed upon between the manufacturer and 
+purchaser. 
+13.4 No girth welds are permitted unless agreed upon by the 
+manufacturer and purchaser. 
+14. Mass per Unit Length 
+14.1 A system of standard pipe sizes has been approved by 
+the American National Standards Institute as ANSI B36.10 and 
+B36.19. The standard sizes do not prohibit the production and 
+use of other sizes of pipe produced to the various product 
+specifications referenced in 1.1. (See Note 3.) 
+14.2 For nonstandard sizes of pipe, the calculated mass per 
+unit length shall be determined using the following equation: 
+M= C(D - t)t (1) 
+where: 
+C = 10.69 [0.0246615], 
+M = mass per unit length, lbm/ft [kg/m], 
+D = specified or calculated (from specified inside diameter 
+and wall thickness) outside diameter, in. [mm], and 
+t = specified wall thickness, in. (to 3 decimal places) [mm 
+to 2 decimal places]. 
+14.3 When minimum wall thickness is specified in the 
+purchase order, the calculated mass per unit length shall be 
+determined using Eq 1, obtaining from Table Xl.l the nominal 
+wall thickness, t, corresponding to that minimum wall. 
+Norn 3-The mass per unit length values given in the American 
+National Standards and the calculated masses per unit length determined 
+using Eq 1 are based upon carbon steel pipe. The mass per unit length of 
+pipe made of ferritic stainless steels may be up to about 5 % less, and that 
+made of austeilitic stainless steel up to about 2 % greater, than the values 
+given. 
+15. Ends 
+15.1 Unless otherwise specified, the pipe shall be furnished 
+with plain ends. All burrs at the ends of the pipe shall be 
+removed. 
+16. Straightness 
+16.1 The finished pipe shall be reasonably straight. 
+16.2 For metal-arc welded pipe, the maximum deviation 
+from a 10-ft [3.0-m] straightedge placed so that both ends are 
+in contact with the pipe shall be Vs in. [3.2 mm]. For metal-arc 
+welded pipe with lengths shorter than 10 ft [3.0 m], this 
+maximum deviation shall be prorated with respect to the ratio 
+of the actual length to 10 ft [3.0 m]. 
+TABLE 1 Permissible Variations in Outside Diameter 
+NPS 
+Desi nator 
+1/s -1 ½, incl 
+Over 1 ½ to 4, incl 
+Over 4 to 8, incl 
+Over 8 to 18, incl 
+Over 18 to 26, incl 
+Over 26 to 34, incl 
+Over 34 to 48, incl 
+Permissible Variations in Outside Diameter 
+Over Under 
+in. in. 
+1/s• (0.015) 1/32 (0.031) 
+1/s2 (0.031) 1/32 (0.031) 
+1Ae (0.062) 1/s2 (0.031) 
+o/32 (0.093) 1/s2 (0.031) 
+1/s (0.125) 1/s2 (0.031) 
+o/32 (0.156) 1/s2 (0.031) 
+o/16 (0.187) 1/s2 (0.031) 
+1489 
+DN Designator Permissible Variations in Outside 
+Diameter 
+Over Under 
+mm mm 
+[6--40], incl [0.4] [0.8] 
+Over [40 to 100] [0.8] [0.8] 
+Over [100 to 200] [1.6] [0.8] 
+Over [200 to 450] [2.4] [0.8] 
+Over [450 to 650] [3.2] [0.8] 
+Over [650 to 850] [4.0] [0.8] 
+Over [850 to 1200] [4.8] [0.8] 

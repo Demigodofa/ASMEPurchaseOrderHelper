@@ -1,0 +1,151 @@
+ASME BPVC.II.A-2025 SA-423/SA-423M 
+TABLE 1 Chemical Requirements 
+Composition, % 
+Grade 1 Grade 2 
+Carbon, max 
+Manganese 
+Phosphorus 
+Sulfur, max 
+Silicon 
+Copper 
+Chromium 
+Nickel 
+Molybdenum 
+Antimony 
+0.15 
+0.55 max 
+0.06-0.16 
+0.060 
+0.10 min 
+0.20-0.60 
+0.24-1.31 
+0.20-0.70 
+0.15 
+0.50-1.00 
+0.04 max 
+0.05 
+0.30-1.00 
+0.40-1.10 
+0.10 min 
+TABLE 3 Tensile Requirements 
+Tensile strength, min, ksl [MPa] 
+Yield strength, min, ksi [MPa] 
+Elongation in 2 in. or 50 mm, 
+min,% 
+For longitudinal strip tests a 
+deduction for each %2 in. 
+[0.8 mm] decrease in wall 
+thickness below 5 /10 in. [8 mm] 
+from the basic minimum 
+elongation of the following 
+percentage points shall be 
+made 
+Grades 1 and 
+2 
+60 [415] 
+37 [255] 
+25 
+Grade 3 
+0.06 
+0.70-1.40 
+0.020 max 
+0.020 
+0.55 max 
+0.25-0.45 
+0.50 max 
+0.20 max 
+0.05-0.15 
+Grade 3 
+55 [380] 
+33 [230] 
+35 
+A Calculated elongation requirements shall be rounded to the nearest whole 
+number. 
+6. Chemical Composition 
+6.1 The steel shall conform to the requirements as to 
+chemical composition prescribed in Table 1. 
+7. Product Analysis 
+7.1 An analysis of either one billet, one length of flat-rolled 
+stock or one tube shall be made from each heat. The chemical 
+composition thus determined shall conform to the requirements 
+specified. 
+7 .2 If the original test for product analysis fails, retests of 
+two additional billets, lengths of flat-rolled stock, or tubes shall 
+be made. Both retests, for the elements in question shall meet 
+the requirements of the specification; otherwise all remaining 
+material in the heat or lot (Note 1) shall be rejected or, at the 
+option of the producer, each billet, length of flat-rolled stock or 
+tube may be individually tested for acceptance. Billets, lengths 
+of flat-rolled stock or tubes which do not meet the requirements 
+of the specification shall be rejected. 
+NOTE 1-For flattening, flaring, and flange requirements, the term lot 
+applies to all tubes prior to cutting of the same nominal size and wall 
+thickness that are produced from the same heat of steel. When final heat 
+treatment is in a batch-type furnace, a lot shall include only those tubes of 
+the same size and from the same heat which are heat treated in the same 
+furnace charge. When the final heat treatment is in a continuous furnace 
+the number of tubes of the same size and from the same heat in a lot shall 
+be determined from the size of the tubes as prescribed in Table 2. 
+NoTE 2-For tensile and hardness test requirements, the term lot applies 
+to all tubes prior to cutting, of the same nominal diameter and wall 
+thickness that are produced from the same heat of steel. When final heat 
+treatment is in a batch-type furnace, a lot shall include only those tubes of 
+TABLE 2 Number of Tubes In a Lot Heat Treated by the 
+Continuous Process 
+Size of Tube 
+2 in. [50.8 mm] and over in outside diameter and 
+0.200 in. [5.1 mm] and over in wall thickness 
+Less than 2 in. [50.8 mm] but over 1 in. [25.4 mm] in 
+outside diameter or over 1 in. [25.4 mm] in 
+outside diameter and under 0.200 in. [5.1 mm] 
+in wall thickness 
+1 in. [25.4 mm] or less in outside diameter 
+Size of Lot 
+not more than 50 
+tubes 
+not more than 75 
+tubes 
+not more than 125 
+tubes 
+the same size and the same heat which are heat treated in the same furnace 
+charge. When the final heat treatment is in a continuous furnace, a lot shall 
+include all tubes of the same size and heat, heat treated in the same furnace 
+at the same temperature, time at heat, and furnace speed. 
+8. Tensile Requirements 
+8.1 The material shall conform to the requirements as to 
+tensile properties prescribed in Table 3. 
+9. Hardness Requirements 
+9.1 The tubes shall have a hardness number not exceeding 
+170 HBW or 87 HRBW. 
+10. Forming Operations 
+10.1 Tubes when inserted in the boiler shall stand expanding 
+and beading without showing cracks or flaws. 
+11. Mechanical Tests Required 
+11 .1 Tension Test-One tension test shall be made on a 
+specimen for lots of not more than 50 tubes. Tension tests shall 
+be made on specimens from two tubes for lots of more than 50 
+tubes (Note 2). 
+11.2 Flattening Test-One flattening test shall be made on 
+specimens from each end of one finished tube, not the one used 
+for the flaring or flanging test, from each lot (Note 1). 
+11.3 Flaring Test (Seamless Tubes)-One flaring test shall 
+be made on specimens from each end of one finished tube, not 
+the one used for the flattening test, from each lot (Note 1). 
+11.4 Flange Test (Welded Tubes)-One flange test shall be 
+made on specimens from each end of one finished tube, not the 
+one used for the flattening test, from each lot (Note 1). 
+11.5 Hardness Test-Brinell or Rockwell hardness tests 
+shall be made on specimens from two tubes from each lot 
+(Note 2). 
+11.6 Reverse Flattening Test-For welded tubes, one re­
+verse flattening test shall be made on a specimen from each 
+1500 ft [460 m] of finished tubing. 
+709 
+11.7 Hydrostatic or Nondestructive Electric Test-Each 
+tube shall be subjected to the hydrostatic test, or, instead of this 
+test, a nondestructive electric test may be used when specified 
+by the purchaser. 
+12. General Requirements 
+12.1 Material furnished under this specification should con­
+form to the applicable requirements of the current edition of 
+Specification A450/ A450M, unless otherwise provided herein. 

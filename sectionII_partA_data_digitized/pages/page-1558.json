@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 760,
+  "globalPageIndex": 1558,
+  "width": 613.92,
+  "height": 793.2,
+  "text": "SA-1008/SA-1008M (ASTM A1008/A1008M) ASME BPVC.II.A-2025 \n11. Product Marking \n11.1 In addition to the requirements of Specification A568/ \nA568M, each lift or coil shall be marked with the designation \nshown on the order (CS (Type A, B, or C), DS (Type A or B), \nDDS, EDDS, SFS (Grade, Carbon or Manganese or both), SS, \nHSLAS, HSLAS-F, RHS, FHS, SHS, or BHS). The designa\u00ad\ntion shall be legibly stenciled on the top of each lift or shown \non a tag attached to each coil or shipping unit. \n12. Keywords \n12.1 bake hardenable steel; bake hardening index; carbon \nsteel sheet; cold-rolled steel sheet; commercial steel; deep \ndrawing steel; drawing steel; extra deep drawing steel; full hard \nsteel; high-strength low-alloy steel; high-strength low-alloy \nsteel with improved formability; required hardness steel; solu\u00ad\ntion hardened steel; special forming steel; steel sheet; structural \nsteel \nTABLE 6 Hardness Requirements for Cold Rolled Steel Sheet \nDesignations and Grades RHS and FHS \nNorn I-Hardness shall be measured using the appropriate hardness \nscale as stated in Test Methods El8, Figure A5.2, based on the steel \nthickness and hardness. \nNoTE 2-References to HRB are directly associated with references to \nHRBW as specified in Test Methods E18 and A370 subsection 18.2, in \nwhich the suffix letter W refers to the tungsten carbide ball indenter. \nNOTE 3-Rockwell Hardness provides a measure of resistance to \npenetration by a ball indenter under a fixed load, which is typically \nassociated with a measure of abrasion resistance. Test Methods A370 \nprovides an approximate correlation to tensile strength, however hardness \nvalues are not as accurate a measure of ductility or strength, as compared \nto tensile test results and are not recommended as a substitute. \nDesignation/Grade \nRHS \nHRB 35-50 \nHRB 4()-55 \nHRB 45-60 \nHRB 50-65 \nHRB 55-70 \nHRB 60-75 \nHRB 65-80 \nHRB 70-85 \nFHS 8 \nHRBW ReguirementsA \n35 min / 50 max \n40 min / 55 max \n45 min / 60 max \n50 min / 65 max \n55 min / 70 max \n60 min / 75 max \n65 min / 80 max \n70 min / 85 max \n84 min\u00b0 \nA Rockwell Hardness values apply at the time of shipment. Due to potential aging, \nhardness may be greater when tested at a later date. \n8 If conversion to cold-rolled annealed sheet or hot-dip metallic-coated sheet is \nintended, then ordering to Specification A1092 may be considered. \nc If tensile properties are required, SS Grade 80 may be considered. \n1504 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 1,
+  "tabulaTablesPath": "tables_tabula/page-1558.json",
+  "tabulaTablesCsv": "tables_tabula/page-1558.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-1558.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2428,
+  "bestTextAlphaRatio": 0.7162
+}

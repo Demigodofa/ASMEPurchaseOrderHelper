@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 135,
+  "globalPageIndex": 135,
+  "width": 618.6,
+  "height": 796.8,
+  "text": "ASME BPVC.II.A-2025 SA-20/SA-20M \nTABLE S27.4 Permissible Variations from Flatness for High-Strength Low-Alloy Steel Plates As-Rolled or Normalized Ordered to \nRestrictive Flatness \nNorn I-Flatness Variations for Length-The longer dimension specified is considered the length, and variation in flatness along the length shall not \nexceed the tabular amount for the specified width in plates up to 3700 mm in length, or in any 3700 mm of longer plates. \nNorn 2-Flatness Variations for Width-The flatness vaiiation across the width shall not exceed the tabular amount for the specified width. \nNorn 3-When the longer dimension is under 900 mm, the variation in flatness along the length and across the width shall not exceed 10 mm in each \ndirection. When the larger dimension is from 900 to 1800 mm, inclusive, the permissible flatness variation shall not exceed 75 % of the tabular amount \nfor the specified width, but in no case less than 10 mm. \nNorn 4-This table and these notes cover the variations for flatness of circular and sketch plates based on the maximum dimensions of those plates. \nNorn 5-Waviness tolerances for rectangular plates, universal mill plates, and circular and sketch plates do not apply. \nNorn 6-A \"Z\" indicates that there is no published restricted value for the size. \nNorn 7-Plates shall in a ho1izontal position on a flat surface when flatness is measured. \nSpecified \nThickness, mm \nTo 6, excl \n6 to 10, excl \n10 to 12, excl \n12 to 20, excl \n20 to 25, excl \n25 to 50, excl \n1200 to 1500, excl \n27 \n22 \n12 \n11 \n11 \n10 \nPermissible Variations from a Flat Surface for Specified Widths, mm \n1500 to 1800, excl 1800 to 2100, excl 2100 to 2400, excl 2400 to 2700, excl \n36 Z Z Z \nn ~ ~ ~ \n12 15 17 19 \n11 13 15 16 \n11 12 13 15 \n11 11 12 13 \nANNEXES \n(Mandatory Information) \nAl. PERMISSIBLE VARIATIONS IN DIMENSIONS, ETC.-INCH-POUND UNITS \nAl.I Listed below are permissible variations in dimensions, \nand notch toughness information, expressed in inch-pound \nunits of measurement. \n83 \n2700 to 3000, incl \nz \n43 \n21 \n18 \n17 \n13 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0135.json",
+  "tabulaTablesCsv": "tables_tabula/page-0135.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0135.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2054,
+  "bestTextAlphaRatio": 0.6938
+}

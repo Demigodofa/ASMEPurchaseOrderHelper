@@ -1,0 +1,54 @@
+ASME BPVC.II.A-2025 
+TABLE 7 Test Specimen Dimensions 
+NoTE 1- Surfaces marked 8 , finish to 8 µin. [0.2 µm] rms or better. 
+NoTE 2-The difference between dimensions F and D shall not exceed 
+0.0005 in. [0.01 mm] for specimens 1 or 2. The difference shall not exceed 
+0.001 in. [0.02 mm] for specimens 3, 4, 5, or 6. 
+NoTE 3-Taper the gage length G to the center so that the diameter D 
+at the ends of the gage length exceeds the diameter at the center of the 
+gage length by not less than 0.0005 in. [0.01 mm] nor more than 0.0015 
+in. [0.04 mm]. 
+NoTE 4-All sections shall be concentric about the specimen axis 
+within 0.001 in. [0.02 mm]. 
+NoTE 5-Thread size T shall be equal to or greater than diameter H. 
+NoTE 6-Dimensions A and B are not specified. 
+NoTE 7-Length of shoulder C- 1/s + 1112 -0 in. [3.2 + 0.8 mm]. 
+NoTE 8-Length of shoulder E-3/s + 1/32 -0 in. [10.0 + 0.8 mm]. 
+Mid-length 
+Gage Dia 0 Gage Shoulder 
+Specimen and Notch-Root Length, Diameter, Notch-Root 
+Type Dia F G H Radius 
+Inches 
+0.125 0.5 0.177 0.005 
+2 0.160 0.65 0.226 0.005 
+3 0.178 0.75 0.250 0.005 
+4 0.252 1.0 0.375 0.007 
+5 0.357 1.5 0.500 0.010 
+6 0.505 2.0 0.750 0.015 
+Tolerance ±0.001 ±0.05 ±0.003 ±0.0005 
+Millimetres 
+7 3.17 12.0 4.5 0.13 
+8 4.06 17.0 5.5 0.13 
+9 4.52 20.0 6.5 0.13 
+10 6.40 25.0 9.5 0.18 
+11 9.07 40.0 12.0 0.25 
+12 12.8 50.0 19.0 0.38 
+Tolerance ±0.025 ±1.3 ±0.1 ±0.01 
+TABLE 8 Permissible Variations in Size of Cold-Finished Bars 
+Specified Size, in. [mm] 
+Over ½ to 1 [13 to 25], excl 
+1 to 1 ½ [25 to 38], excl 
+1 ½ to 4 [38 to 100], incl 8 
+Permissible Variations from Specified 
+Size, in. [mm]A 
+Over Under 
+0.002 [0.05] 0.002 [0.05] 
+0.0025 [0.06] 0.0025 [0.06] 
+0.003 [0.08] 0.003 [0.08] 
+A When it is necessary to heat treat or heat treat and pickle after cold finishing, 
+because of special hardness or mechanical property requirements, the permissible 
+variations are generally double those shown in the table. 
+8 For size tolerances of sizes over 4 in. [100 mm], the manufacturer should be 
+consulted. 
+761 
+SA-453 /SA-453M 

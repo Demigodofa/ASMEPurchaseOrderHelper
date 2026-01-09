@@ -1,0 +1,537 @@
+=== Page 437 ===
+
+SPECIFICATION FOR NICKEL AND NICKEL-BASE
+ALLOY-CLAD STEEL PLATE
+| CxS SA-265 | ily
+® Standards Worldwide
+(Identical with ASTM Specification A205-12(2019))
+385
+
+=== Page 438 ===
+
+SA-265 ASME BPVC.II.A-2025 
+Standard Specification for 
+Nickel and Nickel-Base Alloy-Clad Steel Plate 
+1. Scope 
+1. 1 This specification covers plate of a carbon steel or 
+low-alloy steel base to which is integrally and continuously 
+bonded on one or both sides a layer of nickel or nickel-base 
+alloy. The material is generally intended for pressure vessel use 
+but may be used in other structural applications where corro­
+sion resistance of the alloy is of prime importance. 
+1.2 The values stated in inch-pound units are to be regarded 
+as standard. The values given in parentheses are mathematical 
+conversions to SI units that are provided for information only 
+and are not considered standard. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+A6/ A6M Specification for General Requirements for Rolled 
+Structural Steel Bars, Plates, Shapes, and Sheet Piling 
+A20/ A20M Specification for General Requirements for Steel 
+Plates for Pressure Vessels 
+A370 Test Methods and Definitions for Mechanical Testing 
+of Steel Products 
+A578/A578M Specification for Straight-Bean, Ultrasonic 
+Examination of Rolled Steel Plates for Special Applica­
+tions 
+A751 Test Methods, Practices, and Terminology for Chemi­
+cal Analysis of Steel Products 
+B127 Specification for Nickel-Copper Alloy (UNS N04400) 
+Plate, Sheet, and Strip 
+Bl62 Specification for Nickel Plate, Sheet, and Strip 
+B 168 Specification for Nickel-Chromium- Iron Alloys (UNS 
+N06600, N06601, N06603, N06690, N06693, N06025, 
+N06045, and N06696), Nickel-Chromium-Cobalt-
+386 
+Molybdenum Alloy (UNS N06617), and Nickel-Iron­
+Chromium-Tungsten Alloy (UNS N06674) Plate, Sheet, 
+and Strip 
+B333 Specification for Nickel-Molybdenum Alloy Plate, 
+Sheet, and Strip 
+B409 Specification for Nickel-Iron-Chromium Alloy Plate, 
+Sheet, and Strip 
+B424 Specification for Ni-Fe-Cr-Mo-Cu Alloy (UNS 
+N08825, UNS N08221, and UNS N06845) Plate, Sheet, 
+and Strip 
+B443 Specification for Nickel-Chromium-Molybdenum­
+Columbium Alloy(UNS N06625) and Nickel-Chromium­
+Molybdenum-SiliconAlloy (UNS N06219) Plate, Sheet, 
+and Strip 
+B463 Specification for UNS N08020 Alloy Plate, Sheet, and 
+Strip 
+B575 Specification for Low-Carbon Nickel-Chromium­
+Molybdenum, Low-Carbon Nickel-Chromium­
+Molybdenum-Copper, Low-Carbon Nickel-Chromium­
+Molybdenum-Tantalum, and Low-Carbon Nickel­
+Chromium-Molybdenum-Tungsten Alloy Plate, Sheet, 
+and Strip 
+B582 Specification for Nickel-Chromium-Iron-
+Molybdenum-Copper Alloy Plate, Sheet, and Strip 
+B625 Specification for UNS N08925, UNS N08031, UNS 
+N08932, UNS N08926, UNS N08354, and UNS R20033 
+Plate, Sheet, and Strip 
+2.2 Other Standards: 
+ASME Code Boiler and Pressure Vessel Code, Section IX, 
+Welding Qualifications 
+3. Terminology 
+3.1 Definitions of Terms Spec(fic to This Standard: 
+3.1.l This material is considered as single-clad or double­
+clad nickel or nickel-base alloy clad steel plate, depending on 
+whether one or both sides are covered. 
+3.1.2 The term plate as used in this specification applies to 
+material 3/16 in. (2.73 mm) and over in thickness, and over 10 
+in. (254 mm) in width.
+
+=== Page 439 ===
+
+ASME BPVC.II.A-2025 SA-265 
+3.1.3 alloy cladding-the nickel or nickel-base alloy com­
+ponent of the composite plate. 
+3.1.4 base metal (backing steel)-component to which the 
+alloy cladding is applied, usually the greater percentage of the 
+composite plate and usually consisting of carbon or low-alloy 
+steel. 
+3.1.5 integrally and continuously bonded-the process by 
+which the alloy cladding and base metal are brought together to 
+form a metallurgical bond at essentially the entire interface of 
+the two metals by means other than those processes that do not 
+produce a homogeneous composite plate. 
+4. Ordering Information 
+4.1 It is the responsibility of the purchaser to specify all 
+requirements that are necessary for material ordered under this 
+specification. Such requirements may include, but are not 
+limited to the following: 
+4.1.1 Quantity (weight or number of pieces). 
+4.1.2 Heat treatment, if required (see Section 5). 
+4.1.3 Dimensions, including the thickness of the cladding 
+alloy and the backing steel, or of the total composite plate and 
+if more or less restrictive thickness tolerances apply. 
+4.1.4 Cladding alloy specification (see Section 6). 
+4.1.5 Base metal specification (see Section 6). 
+4.1.6 Product analysis, if required. Specify whether appli­
+cable to the cladding alloy, backing steel, or both (see Section 
+10). 
+4.1.7 Mechanical Properties (see Sections 7, 13, and 14). 
+4.1.8 Restrictions, if required, on repair by welding (see 
+Section 14). 
+4.1.9 Additions to the specification or special requirements 
+such as applicable constmction code rules. 
+4.1.10 Corrosions tests, if required. 
+4.1.11 Notification when the cladding alloy is to be used for 
+inclusion in the design strength calculations for an applicable 
+construction code. 
+N OTB I-Construction codes may dictate certain fabrication require­
+ments when the cladding is used in the design calculations that may be 
+different than if the cladding is used for corrosion resistance only. This 
+may be particularly important when the alloy cladding involves the use of 
+welded components in the explosion bonded clad manufacturing process. 
+It is incumbent on the purchaser to make the clad manufacturer aware of 
+any such restrictions or applications at time of order. 
+4.2 In addition to the basic requirements of this specification 
+and the backing steel specification, certain supplementary 
+requirements are available when additional control, testing, or 
+examination is required to meet end use requirements. The 
+purchaser is referred to the listed supplementary requirements 
+in this specification and to the detailed requirements in 
+Specification A20/ A20M. 
+4.2.1 Nondestructive examination, 
+4.2.2 Impact testing, and 
+4.2.3 Simulated Post-Weld Heat Treatment of Mechanical 
+Test Coupons (SPWHT). 
+4.3 If the requirements of this specification are in conflict 
+with the requirements of Specification A20/A20M, the require­
+ments of this specification shall prevail. 
+4.4 Special tests. 
+5. Materials and Manufacture 
+5.1 Process: 
+5.1.1 The steel shall be made by the open-hearth, electric­
+furnace (with separate degassing and refining optional), or 
+basic-oxygen processes, or by secondary processes whereby 
+steel made from these primary processes is remelted using, but 
+not limited to electroslag remelting or vacuum arc remelting 
+processes. 
+5.1.2 The cladding metal may be metallurgically bonded to 
+the base metal by any method that will produce a clad steel that 
+will conform to the requirements of this specification. 
+5.1.3 For explosively bonded products, the alloy cladding 
+metal may be comprised of two or more separnte alloy plates 
+or sheets completely welded together to form a single fabri­
+cated component. 
+5.2 Heat Treatment-Unless a specific heat treatment is 
+required by the cladding matelial or base steel specification, or 
+unless otherwise agreed upon by the purchaser and 
+manufacturer, the clad plate shall be furnished in a condition 
+that is appropriate for the cladding alloy, base metal, or both. 
+6. Chemical Composition 
+6.1 The composite plate may conform to any desired com­
+bination cladding metal and base metal as described in 6.2 and 
+6.3, and as agreed upon between the purchaser and the 
+manufacturer. 
+6.2 Cladding Metal-The nickel or nickel-base alloy clad­
+ding metal specified shall conform to the requirements as to 
+chemical composition prescribed for the respective metal in 
+Specifications B127, Bl 62, Bl 68, B333, B409, B424, B443, 
+B463, B575, B582, and B625, or other nickel-base alloy as 
+agreed upon by the purchaser and manufacturer. 
+6.3 Base Metal-The base metal shall be carbon steel or 
+low-alloy steel conforming to the ASTM specifications for 
+steels for either pressure vessels or general structural 
+applications, or other, as agreed upon by the purchaser and 
+manufacturer. The base metal shall conform to the chemical 
+requirements of the specification to which it is ordered. 
+387 
+7. Mechanical Properties 
+7.l Tensile Requirements: 
+7 .1.1 The tensile properties shall be determined by a tension 
+test of the composite plate for clad plates that meet all of the 
+following conditions. 
+( 1) The nominal composite gage is less than or equal to 1 ½ 
+in (38 mm). 
+TABLE 1 Weights for Component Materials 
+Steel 
+Nickel 
+Nickel-copper alloy 
+Nickel-chromium-iron 
+alloy 
+Density 
+lb/in. 3 g/cm 3 
+0.283 
+0.321 
+0.319 
+0.307 
+7.83 
+8.88 
+8.83 
+8.49 
+Weight per Square 
+Foot for Material 
+1 in. (25.4 mm) 
+in Thickness, lb 
+40.80 
+46.22 
+45.94 
+44.21
+
+=== Page 440 ===
+
+SA-265 ASME BPVC.II.A-2025 
+(2) The specified minimum tensile strength of the base 
+steel is less than or equal to 70 000 psi (485 MPa). 
+( 3) The specified minimum yield strength of the base steel 
+is less than or equal to 40 000 psi (275 MPa). 
+( 4) The tensile properties thus determined shall not be less 
+than the minimum and not more than 5000 psi (35 MPa) over 
+the maximum prescribed in the specification for the base steel 
+used. All other tensile test requirements of the specification for 
+the base steel shall be met. 
+7.1.2 The tensile properties shall be determined by a 
+tension test of the base steel only for clad plates that meet one 
+of the following conditions. The properties thus determined 
+shall meet all of the tensile test requirements for the base steel. 
+(1) The composite gage is greater than 1 ½ in. (38 mm). 
+(2) The specified minimum tensile strength of the base 
+steel is greater than 70 000 psi (485 MPa). 
+( 3) The specified minimum yield strength of the base steel 
+is greater than 40 000 psi (275 MPa). 
+7 .1.3 If the cladding is for corrosion allowance only, the 
+cladding need not be included in the tensile test. The tensile 
+properties thus determined shall meet the base steel require­
+ments. 
+7.2 Test for strength of the bond, when required, must be 
+specified by the purchaser and shall consist of one of the 
+following. 
+7.2.1 Shear Strength-When required by the purchaser, the 
+minimum shear strength of the alloy cladding and base metals 
+shall be 20 000 psi (140 MPa). The shear test, when specified, 
+shall be made in the manner indicated in 1. The minimum 
+cladding thickness for shear testing shall be 0.075 in. (1.9 mm) 
+exclusive as ordered. Testing for shear strength for clad plates 
+with minimum cladding thickness of 0.075 in (1.9 mm) or less 
+shall be permitted upon agreement between the purchaser and 
+the manufacturer. 
+in. 
+•t· resr 
+tlcimen 
+:,, ' , 
+J i I 
+:,,, 1' 
+r j,, 
+I 
+_i 
+... t+o.oos" .. ( .. 
+0
+'Shflt;11r Blocks,' 
+t =(T·cr) min11.s (l(f ffl(l(S t On, 
+Finish Cut on Ct;11rbon Sftt/$1-«'t 
+Mint = 2W 
+a = vs' M<;rx 
+W = IYf'1t 
+Shf!C¥r Blocks sh/Jfl/ be Bo/tee! Firmly Tof!cllfher t:l'q'(l(insf 
+fl/ler Piece wh/ch Provi&ltl $p(IICl2 0.005' Wl&l~r f/1(1111 t 
+of Sprt:""men 
+Metric Equivalents 
+mm in. mm 
+0.005 
+'la 
+0.127 
+3.17 
+19.1 
+2½ 
+3 
+25.4 
+64.5 
+76.2 ¾ 
+FIG. 1 Test Specimen and Method of Making Shear Test of Clad 
+Plate 
+388 
+7 .2.2 Bond Strength-As an alternative to the shear strength 
+test provided in 7.2. l or when agreed upon by the purchaser 
+and the manufacturer, or both, three bend tests shall be made 
+with the alloy cladding in compression to determine the quality 
+of the bond. These bend tests shall be made in the manner of 
+the tension tests indicated in Fig. 2 and shall be bent through an 
+angle of 180° to the bend diameters provided for in either 
+Specification A6/ A6M or Specification A20/ A20M (Appendix 
+X4, or equivalent), as applicable. At least two of the three tests 
+shall show not more than 50 % separation on both edges of the 
+bent portion. Greater separation shall be cause for rejection. 
+7.3 Methods and practices relating to mechanical testing 
+required by this specification shall be in accordance with the 
+Test Methods and Definitions of A370. 
+8. Number of Tests and Retests 
+8.1 One or more tension tests, as required by the specifica­
+tions for the base metal and when specified, one shear test or 
+three bond bend tests shall be made, representing each plate as 
+rolled. Each specimen shall be in the final condition of heat 
+treatment required for the plate, including any SPWHT if 
+required. 
+8.2 If any test specimen shows defective machining or 
+develops flaws, it may be discarded and another specimen 
+substituted. 
+9. Test Specimens 
+9 .1 The tension test specimens shall conform to the require­
+ments prescribed in the specifications for the base metal. 
+9.2 Bend test specimens for the alternative bond strength 
+tests shall be taken at right angles to its longitudinal axis. 
+r 
+Parallel Section 
+1 
+rAboul - - nof lf!ss fhon 9_.- ,1• 1 
+Poro/le/ wilhin QOIO" • 
+I--, 0 ~-,f'tt:= • ~ 
+\ ------------ ........ , ~ ~ 
+: ro~"f,f"~~~r:ig~S~':flt,;on '-;;';,;; 
+, of'fer Frocfure 
+Appro'ximalely 2• 
+Metric Equivalents 
+in. mm in. mm 
+0.01 0.254 1½ 38.1 
+1/a 3.17 2 50.8 
+¼ 6.35 3 76.2 
+1 25.4 8 203.2 
+Norn 1-When necessary, it is permissible to use a narrower specimen, 
+but in such a case the reduced portion shall be not less than 1 in. in width. 
+Norn 2-Punch marks for measuring elongation after fracture shall be 
+made on the flat or on the edge of the specimen and within the parallel 
+section; either a set of nine punch marks 1 in. apart, or one or more sets 
+of 8-in. punch marks may be used. 
+Norn 3-The dimension t is the thickness of the test specimen as 
+provided for in the applicable material specifications. 
+FIG. 2 Standard Rectangular Test Specimens with 8-in. Gage 
+Length
+
+=== Page 441 ===
+
+ASME BPVC.II.A-2025 SA-265
+oo 9.3 When required by the purchaser, the shear test specimen __ sufficient cladding thickness available so that there is no
+| shall be taken near a top or bottom corner of the plate as rolled, | contamination from the adjacent base metal.
+parallel to its longitudinal axis, or other location that is 10.2 If product analysis is specified by the purchaser for the
+representative of the final product. cladding alloy, it shall be made on a sample taken from the
+
+9.4 For plates 1% in. (38 mm) and under in thickness, _ finished product or a broken test specimen. For wet chemical
+tension test specimens shall be the full thickness of the analysis, in order to avoid contamination by the base plate
+material, except as specified in 7.1.2 and 7.1.3. metal, millings of cladding samples shall be taken from the test
+
+9.5 For plates over 114 in. (38 mm) in thickness, tension COUP” by removal and discard of all the base metal plus40% ~~
+tests shall be of the form shown in Fig. 3 and shall be of all! the cladding thickness trom the bonded side, not to exceed
+base steel conforming to the requirements of the specification “ie in. (1.6 mm). The material shall be cleaned and sufficient
+for the base steel. millings taken to represent the full cross-section of the remain-
+
+der. If there is insufficient cladding thickness available to
+
+9.6 The bend test specimen used for bond strength determi- ——snectrographically expose on the center line of the cladding
+nation shall be 1’ in. 38 mm) by not more than “/4 im. (19 mm) without contamination, 50 % of the cladding shall be removed
+
+os in thickness and shall be machined to the form and dimensions ang the sample exposed on this surface.
+| shown in Fig. 2, or may be machined with both edges parallel. .
+, In reducing the thickness of the specimen, both the alloy 10.3 The results of the product analysis shall conform to the
+cladding and the base steel shall be machined so as to maintain  'quitements of standards referenced in Section 2.
+the same ratio of clad metal to base steel as is maintained in the 10.4 Methods and practices relating to chemical analysis
+plate, except that the thickness of the clad material need not be —_— required by this specification shall be in accordance with the
+reduced below '% in. (3.1 mm). The sides of the bend test | Test Methods, Practices, and Terminology of A751.
+specimen used for bond strength determination may have the 10.5 Results of the product analysis for the backing steel
+corners rounded to a radius not over 16 in. (1.6 mm) for plates, when required shall conform to the requirements of Section 7
+2 in. (50 mm) and under in thickness, and not over 78 in. (3.1 of Specification A20/A20M or A6/AG6M, as applicable.
+mm) for plates over 2 in. (5O mm) in thickness. .
+10. Product Analysis 11. Permissible Variations
+10.1. Product analvsis b ‘red for the cladding all 11.1 Permissible variations except for thickness shall be in
+-* FrOduct analysis may De required for the cladeing ay accordance with Specification A20/A20M or A6/A6M as
+. on finished product. Chemical analysis may be accomplished licable based on the backing specification
+| by wet chemical or instrumental procedures. If wet chemical “PP 8 Speen
+, procedures are used, millings may be taken only when the 11.2 Minimum thickness of the alloy cladding metal and of
+composite plate thickness is sufficient to permit obtaining the backing steel, or of the total composite plate shall be as
+: millings without danger of contamination from the adjacent required by purchase order documents when ordered to mini-
+layer. If spectrometric procedures are used, the sample shall be | mum thickness.
+exposed on the center line of the cladding when there is 11.3 Permissible variation in thickness when ordered to
+: . nominal thicknesses shall be 0.01 in. (0.3 mm) under each for
+Minimum Radius Recommended backing steel or total composite, and 0.03 in. (0.8 mm) under
++ In,, but not jess than + ‘in. for the alloy cladding.
+Permitted 11.4 Permissible variations for excess thickness of the total
+at | | composite shall be the greater of 0.125 in. (3 mm) or 10 % of
+yy Parallel Section the total composite thickness ordered and may occur in either ,
+_ —}-4]osortoort-| —x _t¢tn backing steel, cladding, or both, provided the minimum for
+! Po ON each is met.
+Me 240,005" Gage Length for 11.5 More restrictive or less restrictive permissible varia-
+Elongation after Fracture tions may be agreed upon by the purchaser and the manufac-
+Metric Equivalents turer. |
+in. mm in. mm .
+0.003 0.076 3h 9.53 12. Workmanship Finish, and Appearance
+Oot ee 03° sg 12.1 The material shall be free of injurious defects and shall
+. Ya 3.18 2M, 64.5 have a workmanlike appearance.
+
+Note 1—The gage length and fillets shall be as shown, but the ends 12.2 Unless otherwise specified, the clad surface may be
+may be of any shape to fit the holders of the testing machine in sucha way supplied as-rolled, blasted (descaled by means of sand, grit,
+that the load shall be axial. The reduced section shall have a gradual taper shot or wire followed by pickling), or 100 % conditioned.
+from the ends toward the center, with the ends 0.003 to 0.005 in. larger in
+diameter than the center. 13. Bond Quality
+
+FIG. 3 Standard Round Tension Tests Specimen with 2-in. Gage 13.1 The cladding metal shall be integrally and continu-
+No | Length ously bonded to the base metal.
+| 389
+
+=== Page 442 ===
+
+SA-265 ASME BPVC.II.A-2025 
+13.2 Inspection: 
+13.2.1 Clad plates less than% in. (10 mm) total minimum 
+composite thickness shall be visually inspected for bond 
+integrity p1ior to shipment. 
+13.2.2 Clad plates 3/s in. (10 mm) and thicker total minimum 
+composite thickness, and when specified by the purchaser, clad 
+plates less than 3/s in. (10 mm) total minimum composite 
+thickness, shall be ultrasonically inspected for bond integrity 
+prior to shipment in accordance with the Procedures and 
+Methods of Specification A578/A578M. 
+13.2.3 Areas of non-bond detected visually shall be ex­
+plored ultrasonically to determine the extent of the condition in 
+accordance with 13.2.2. For purposes of defining non-bond, the 
+cladding shall be interpreted to be unbonded when there is 
+complete loss of back reflection accompanied by an echo 
+indication from the plane of the interface of the clad and 
+backing steel. Areas within 1 in. (25 mm) of a cut edge on the 
+plate that contain indications exceeding 50 % of the back 
+reflection at the bond interface shall be considered to be 
+unbonded. 
+13.2.4 Extent of ultrasonic examination shall be at the 
+discretion of the manufacturer and sufficient enough to provide 
+the quality level required by the purchaser. Plates may be 
+ordered with 100 % coverage (see Supplementary Requirement 
+Sl2). 
+13.3 Quality Levels: 
+13.3.1 Class I-No single unbonded area exceeding 1 in. 
+(25 mm) in its longest dimension with total unbonded area not 
+to exceed 1 % of the total cladded surface area. 
+13.3.2 Class 3-No single unbonded area exceeding 3 in. 
+(75 mm) in its longest dimension with total unbonded area not 
+to exceed 3 % of the total cladded surface area. 
+13.3.3 Class 5-No single unbonded area exceeding 9 in.2 
+(58 cm 2 ) with total unbonded area not to exceed 5 % of the 
+total cladded surface area. 
+13.3.4 The class to be supplied shall be listed on the 
+purchase order. When none has been specified, plates shall be 
+furnished as Class 5 at the option of the manufacturer. 
+14. Welding 
+14.1 All welding which is a part of the delivered product, 
+including any made in the fabrication of the cladding alloy 
+component, shall be performed with a procedure and welders 
+or welding operators that are qualified in accordance with 
+Section IX of the ASME Code. 
+14.2 The material manufacturer may repair defects in clad­
+ding by welding provided the following requirements are met: 
+14.2.1 When specified in the purchase order, prior approval 
+shall be obtained from the purchaser. 
+14.2.2 The defective area shall be removed and the area 
+prepared for repair shall be examined by a liquid penetrant 
+method to ensure all defective area has been removed. Method 
+of test and acceptance standard shall be as agreed upon 
+between the purchaser and the manufacturer. 
+14.2.3 The repair weld shall be deposited in accordance 
+with a welding procedure and welding materials suitable for 
+the cladding material. The surface condition of the repaired 
+area shall be restored to a condition similar to the rest of the 
+cladding. 
+14.2.4 The repaired area shall be examined by a liquid 
+penetrant method in accordance with 14.2.2. 
+14.2.5 The location and extent of the weld repairs together 
+with the repair procedure and examination results shall be 
+transmitted as a part of the certification. 
+15. General Requirements for Delivery 
+15.1 Material furnished under this specification shall con­
+form to the applicable requirements of Specification A6/A6M 
+or A20/ A20M as appropriate for the backing metal. 
+15.2 In the event of conflicts between this specification and 
+the general delivery requirement specification for the backing 
+steel, this specification shall apply. 
+16. Certification 
+16.l The chemical analysis of the base metal and the alloy 
+cladding shall be certified to the purchaser by the clad plate 
+manufacturer. 
+16.2 The results of the tests in Section 7 and any other tests 
+required by the purchase order shall be reported to the 
+purchaser. 
+390 
+16.3 Compliance with the clad quality level of 13.3 shall be 
+certified. Reports shall include the results of ultrasonic inspec­
+tion when Supplementary Requirement S12 is specified. 
+16.4 Compliance with any applicable construction code 
+shall be certified and the appropriate documentation provided 
+when appropriate in the case of explosively bonded clad 
+produced using welded alloy cladding components (see 4.1.9 
+and 4.1.11). 
+17. Product Marking 
+17 .1 Except as specified in plates shall be marked in 
+accordance with the requirements of Specification A6/ A6M or 
+A20/A20M for the backing steel as applicable, the cladding 
+alloy designation, and this specification number. 
+17 .2 For double-clad material or for material under % in. 
+(6.35 mm) nominal in thickness or for clad plates provided 
+with conditioned surfaces, the marking specified in 17. l shall 
+be legibly stenciled instead of stamped when the material is 
+shipped with the alloy smface up. 
+18. Keywords 
+18.1 alloy cladding; bond strength; carbon steel; clad steel 
+plate; low-alloy steel; nickel; nickel-base alloy
+
+=== Page 443 ===
+
+ASME BPVC.II.A-2025 SA-265 
+SUPPLEMENTARY REQUIREMENTS 
+Supplementary requirements shall not apply unless specified on the order. A list of standardized 
+supplementary requirements for use at the option of the purchaser are included in Specification 
+A20/ A20M. Several of those considered suitable for use with this specification are listed below by 
+title. Other tests may be performed by agreement between the supplier and the purchaser. 
+S2. Product Analysis 
+S3. Simulated Post-Weld Heat Treatment of Mechanical 
+Test Coupons 
+S5. Charpy V-Notch Impact Test 
+S12. Ultrasonic Examination in accordance with Specifica­
+tion A578/A578M 
+391
+
+Resolved Notes (AI-verified)
+NOTE 1 (page 441)
+Note 1—The gage length and fillets shall be as shown, but the ends 12.2 Unless otherwise specified, the clad surface may be
+may be of any shape to fit the holders of the testing machine in sucha way supplied as-rolled, blasted (descaled by means of sand, grit,
+that the load shall be axial. The reduced section shall have a gradual taper shot or wire followed by pickling), or 100 % conditioned.
+from the ends toward the center, with the ends 0.003 to 0.005 in. larger in
+diameter than the center. 13. Bond Quality

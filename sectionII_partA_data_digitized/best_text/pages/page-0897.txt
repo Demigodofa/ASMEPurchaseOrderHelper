@@ -1,0 +1,145 @@
+L 
+ASME BPVC.II.A-2025 
+TABLE A1.2 Heat Treatment Requirements 
+Designationrrype TemperatureA 
+Austenitic (Chromium-Nickel) (Chromium-Nickel-Manganese) 
+All Cr-Ni steels except as listed below 
+302,308,309,309Cb,310,310Cb,S21640,S30215,S30452, 
+S30615, S31740, S32615,S33228, S33425, S35140,S38100, 
+S38815 
+304H,309H,310H,316H 
+309HCb, 310HCb, 321H, 347H, 348H 
+Cold Worked 
+Hot Finished 
+N08020 
+N08367 
+N08700, N08904, S35115 
+N08810, S31277 
+N08811,N08925,S31025,S31254,S31266,S32050,S32654 
+N08926,S35315 
+S20161 
+S20431,S20432,S20433,S30530 
+S30600, S30601 
+S30616 
+S31060 
+S31727, S32053 
+S33228 
+S33426 
+S33550 
+S34565 
+S34752 
+S31200,S31803,S32001,S32550 
+S31260 
+S32003, S82011 
+S32101 
+S32202 
+S32205 
+S32304 
+S32506 
+S32520 
+S32750£ 
+S32760 
+S32808, S39274 
+S32900 
+S32906 
+S32950 
+S44537 
+S81921 
+S82012,S82031,S82441 
+S82013, S82121 
+S82122 
+A Minimum, unless otherwise indicated. 
+1900 °F [1040 °CJ 
+1900 °F [1040 °CJ 
+1900 °F [1040 °CJ 
+2000 °F [1095 °CJ 
+1925 °F [1050 °CJ 
+1700 to 1850 °F [925 to 1010 °CJ 
+2025 °F [1105 °CJ 
+2000 °F [1095 °C] 
+2050 'F [1120 °CJ 
+2100 °F [1150 °CJ 
+2010 °F [1100 °CJ 
+1900 to 2000 °F [1040 to 1095 °C) 
+1900 to 2010 °F [1040 to 1100 °CJ 
+2010 to 2140 'F [1100 to 1170 °CJ 
+1920 to 2100 'F [1050 to 1150 °CJ 
+1975 to 2160 °F [1080 to 1180 °CJ 
+1975 to 2155 °F [1080 to 1180 °CJ 
+2050 to 2160 °F [1120 to 1180 °CJ 
+1925 to 2100 °F (1050 to 1150 °CJ 
+2065 to 2155 °F (1130 to 1180 °CJ 
+2050 to 2140 °F (1120 to 1170 'CJ 
+1940 to 2140 °F [1060 to 1170 °CJ 
+Duplex (Austenitic-Ferritic) 
+1900 °F (1040 °CJ 
+1870 to 2010 °F [1020 to 1100 °CJ 
+1850 °F [1010 °CJ 
+1870 °F [1020 °CJ 
+1800 to 1975 °F (980 to 1080 °CJ 
+1900 °F (1040 °CJ 
+1800 'F [980 °CJ 
+1870 to 2050 °F (1020 to 1120 °CJ 
+1975 to 2050 °F (1080 to 1120 °CJ 
+1880 to 2060 °F (1025 to 1125 °CJ 
+2010 °F [1100 °CJ 
+1925 to 2100 °F (1050 to 1150 °CJ 
+1750 ± 25 'F [955 ± 15 °CJ 
+1900 to 2100 °F [1040 to 1150 °CJ 
+1850 ± 25 'F [1010 ± 15 °CJ 
+1922 °F (1050 °CJ 
+1760 to 201 o °F [960 to 1100 'CJ 
+1830 °F [1000 °CJ 
+1830 to 2010 'F [1000 to 1100 °CJ 
+1725 °F (940 °CJ 
+SA-480/SA-480M (ASTM A480/A480M) 
+Cooling/Testing Requirements 
+B 
+C 
+C 
+C 
+C 
+C 
+C 
+C 
+C 
+C 
+C 
+C 
+C 
+C 
+C 
+C 
+C 
+C 
+C 
+C 
+C 
+C 
+C 
+C 
+C 
+C 
+C 
+D 
+C 
+C 
+C 
+C 
+C 
+C 
+C 
+C 
+C 
+C 
+C 
+C 
+C 
+C 
+8 Quenched in water or rapidly cooled by other means at a rate sufficient to prevent reprecipitation of carbides, as demonstrable by the capability of passing the test for 
+resistance to intergranular corrosion specified in 18.2. 
+c Quenched in water or rapidly cooled by other means. 
+0 Quenched in water, except that coiled product heat treated in a continuous annealing line shall be water quenched or rapidly cooled by other means. 
+E Temperatures above 2060 °F are permissible if the resulting microstructure provides the properties required by this specification or any additional requirements of the 
+purchase order. 
+795 

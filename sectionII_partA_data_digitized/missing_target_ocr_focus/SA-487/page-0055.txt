@@ -1,0 +1,52 @@
+. SA-522 /SA-522M ASME BPVC.II.A-2025
+11. Method of Impact Testing including the impact test temperature, and test coupon “
+11.1 The impact test shall be made in accordance with Stress relief details if applicable, :
+the simple beam, Charpy type of test described in the latest 14.1.4 Results of any additional or supplementary
+issue of Test Methods and Definitions A 370. requirements specified by the purchaser, and
+11.2 Precaution shall be taken so that when broken, 14.1.5 The year date and revision letter, if any, of
+the test specimens shall be within + 3°F [1.7°C] of the the specification. Note, this information is not required to ,
+specified test temperature. be marked on the forgings. |
+12. Inspection 15. Product Marking |
+12.1 The inspector representing the purchaser shall 15.1 Each forging shall be legibly stamped by the man-
+have free entry, at all times while work on the contract | ufacturer with the heat number or his heat identification,
+of the purchaser is being performed, to all parts of the | the manufacturer’s name (see Note 1) or trademark, and — .
+manufacturer’s works that concern the manufacture of the __ this specification number, A 522 or A 522M as applicable, |
+material ordered. The manufacturer shall afford the inspec-  8NI, or 9NI, and QT or NNT as applicable.
+tor all reasonable facilities to satisfy the inspector that oe, .
+as . . . . . NOTE 1 — For purposes of identification marking, the manufacturer |
+the material is being furnished in accordance with this is considered the organization that certifies the piping component was :
+specification. All tests (except product analysis) and manufactured, sampled, and tested in accordance with this specification
+inspection shall be made at the place of manufacture prior and the results have been determined to meet the requirements of this
+to shipment, unless otherwise specified, and shall be con- _ specification. -
+cuciet ee ks. interfere unnecessarily with the opera- 15.2 Forgings impact tested at a temperature other than
+that specified in Table 3, by the use of Supplementary |
+12.2 The manufacturer shall report to the purchaser or |§ Requirement S82, shall be marked with the letters LTV .
+the purchaser’s representative the heat treatments applied — following the specification number, as well as the tempera- ,
+to the material and to the test blocks and the results of the — ture scale used. For forgings to A 522, these letters shall
+chemical analysis and mechanical tests made in accordance — be followed by the impact test temperature in degrees
+with this specification and the heat number or his heat Fahrenheit. A prefix 0 to the test temperature indicates a
+identification. temperature below O°F, for example A 522 Type 1
+LTV0300F indicates —300°F. For forgings to A 522M, the ;
+letters LTV shall be followed by the impact test tempera- -
+13. Rejection ture in degrees Celsius. A prefix 0 to the test temperature :
+13.1 Unless otherwise specified, any rejection based indicates a temperature below 0°C, for example A 522M |
+on tests made in accordance with Section 5 and7 shallbe Type 1 LT'VOI50C indicates —150°C. :
+reported to the manufacturer within 60 days from the 15.3. The purchaser may specify additional identifica- !
+receipt of samples or test reports by the purchaser. tion marking and the location of all stamping. The type of |
+13.2. Each forging in which injurious metal defects-are—Stamps shall be- round or “interrupted-dot" die stamps hav- !
+~ exposed during subsequent machining shall be rejected and 198 4 radius of % in. [0.8 mm]. :
+the manufacturer notified. 15.4 Bar Coding — In addition to the requirements in , ;
+- 15.1, 15.2, and 15.3, bar coding is acceptable as a supple- a |
+| mental identification method. The purchaser may specify |
+14. Certification in the order a specific bar coding system to be used. The
+14.1 Test reports, when required, shall include certifi- | bar coding system, if applied at the discretion of the sup- :
+cation that all requirements of this specification have been _ plier, should be consistent with one of the published indus- |
+met. The manufacturer shall provide the following where — try standards for bar coding. If used on small parts, the ,
+applicable: bar code may be applied to the box or a substantially
+14.1.1 Whether Type 1 or Type 11 material has been applied tag. :
+supplied and the chemical analysis results in accordance |
+with Section 5, 16. Keywords |
+14.1.2 ‘Type of heat treatment used, 16.1 low temperature applications; nickel alloy steel; :
+14.1.3 Results of tension and Charpy impact tests __ pipe fittings; steel; piping applications; pressure containing |
+(together with absorbed energy and % shear fracture) _ parts; steel flanges; steel forgings; alloy; steel valves Ne |
+882 |

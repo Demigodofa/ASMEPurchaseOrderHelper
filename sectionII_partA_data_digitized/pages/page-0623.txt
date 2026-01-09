@@ -1,0 +1,110 @@
+ASME BPVC.II.A-2025 SA-358/SA-358M 
+8.1.4 Thickness-The minimum wall thickness at any point 
+in the pipe shall not be more than 0.01 in. [0.3 mm] under the 
+nominal thickness. 
+9. Workmanship, Finish, and Appearance 
+9.1 The finished pipe shall have a workmanlike finish. 
+9.2 Repair of Plate Defects by Machining or Grinding-It is 
+permitted to repair pipes showing slivers, or other smface 
+defects, by machining or grounding inside or outside to a depth 
+that ensures the removal of all included scale and slivers, 
+provided that the wall thickness is not reduced below the 
+specified minimum wall thickness. Machining or grinding shall 
+follow inspection of the pipe as rolled, and shall be followed by 
+supplementary visual inspection. 
+9.3 Repair of Plate Defects by Welding-It is permitted to 
+repair by welding defects that violate minimum wall thickness, 
+but only with the approval of the purchaser. Areas shall be 
+suitably prepared for welding with tightly closed defects 
+removed by grinding. Open, clean defects, such as pits or 
+impressions, may require no preparation. All welders, welding 
+operators, and weld procedures shall be qualified to the ASME 
+Boiler and Pressure Vessel Code, Section IX. Unless the 
+purchaser specifies otherwise, pipe required to be heat treated 
+under the provisions of 6.3, shall be heat treated or reheat 
+treated following repair welding. Repaired lengths, where 
+repair depth is greater than ¼ of the thickness, shall be pressure 
+tested or repressure tested after repair and heat treatment (if 
+any). Repair welds shall also be examined by suitable non­
+destmctive examination techniques, including any techniques 
+specifically required of the primary weld. 
+9 .4 The pipe shall be free of scale and contaminating iron 
+particles. Pickling, blasting, or surface finishing is not manda­
+tory when pipe is bright annealed. The purchaser is permitted 
+to request that a passivating treatment be applied. 
+10. Heat Analysis 
+10.1 An analysis of each heat of steel shall be made by the 
+plate manufacturer to determine the percentages of the ele­
+ments prescribed in Specification A240/A240M. The chemical 
+composition thus determined shall confonn to the requirements 
+prescribed in Specification A240/A240M. 
+11. Product Analysis 
+11.1 For each lot of 500 ft [150 m] of pipe or fraction 
+thereof, analysis shall be made by the manufacturer from the 
+finished pipe of the plate and of the weld deposit. Dtillings for 
+analysis may be taken from the mechanical test specimens. The 
+results of these analyses shall be reported to the purchaser or 
+the purchaser's representative, and shall conform to the re­
+quirements of Section 7, subject to the product analysis 
+tolerances of Table 1 in Specification A480/ A480M. 
+11.2 If the analysis of one of the tests specified in 9.1 does 
+not conform to the requirements specified in Section 7, 
+analyses shall be made on additional pipe of double the original 
+number from the same lot, each of which shall conform to the 
+requirements specified. 
+12. Tensile Requirements 
+12.1 The plate used in making the pipe shall conform to the 
+requirements as to tensile properties of the applicable specifi­
+cations listed in Table 1. Tension tests made by the plate 
+manufacturer shall qualify the plate material. 
+12.2 The transverse tension test taken across the welded 
+joint specimen shall have a tensile strength not less than the 
+specified minimum tensile strength of the plate. 
+13. Transverse Guided-Bend Weld Tests 
+13.1 Two bend test specimens shall be taken transversely 
+from the pipe. Except as provided in 13.2, one shall be subject 
+to a face guided-bend test and the second to a root guided-bend 
+test. One specimen shall be bent with the inside smface of the 
+pipe against the plunger, and the other with the outside surface 
+against the plunger. 
+13.2 For wall thicknesses over 3/s in. [9.5 mm] but less than 
+¾ in. [19 mm] side-bend tests may be made instead of the face 
+and root-bend tests. For specified wall thicknesses ¾ in. [19 
+mm] and over, both specimens shall be subjected to the 
+side-bend tests. Side-bend specimens shall be bent so that one 
+of the side surfaces becomes the convex surface of the bend 
+specimen. 
+13.3 The bend test shall be acceptable if no cracks or other 
+defects exceeding 1h in. [3 mm] in any direction is present in 
+the weld metal or between the weld and the pipe metal after 
+bending. Cracks that originate along the edges of the specimen 
+during testing, and that are less than¼ in. [6.5 mm] measured 
+in any direction shall not be considered. 
+14. Test Specimens and Methods of Testing 
+14.1 Transverse tension and bend test specimens shall be 
+taken from the end of the finished pipe; the transverse tension 
+and bend test specimens shall be flattened cold before final 
+machining to size. 
+14.2 As an alternative to the requirements of 14.1, it is 
+permitted to take the test specimens from a test plate of the 
+same material as the pipe that is attached to the end of the 
+cylinder and welded as a prolongation of the pipe longitudinal 
+seam. 
+14.3 Tension test specimens shall be made in accordance 
+with Section IX, Part QW, Paragraph QW-150 of the ASME 
+Boiler and Pressure Vessel Code and shall be one of the types 
+shown in QW-462.1 of that code. 
+14.3.1 Reduced-section specimens conforming to the re­
+quirements given in QW-462.1 (b) may be used for tension tests 
+on all thicknesses of pipe having outside diameter greater than 
+3 in. [76 mm]. 
+14.3.2 Turned specimens conforming to the requirements of 
+QW-462.l(d) may be used for tension tests. 
+571 
+14.3.2.1 If turned specimens are used as given in 14.3.2.2 
+and 14.3.2.3, one complete set shall be made for each required 
+tension test. 
+14.3.2.2 For thicknesses to and including 1 ¼ in. [32 mm], it 
+is permitted to use a single turned specimen. 
+14.3.2.3 For thicknesses over 1 ¼ in. [32 mm], multiple 
+specimens shall be cut through the full thickness of the weld 

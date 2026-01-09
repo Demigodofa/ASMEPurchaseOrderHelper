@@ -1,0 +1,75 @@
+SA-542/SA-542M ASME BPVC.II.A-2025 
+TABLE 2 Tensile Requirements 
+Class 1 Class 2 Class 3 Class 4 Class 4a 
+Tensile strength, ksi [MPa] 105-125 [725-860] 
+Yield strength, min, ksi [MPa] 85 [585] 
+115-135 [795-930] 
+100 [690] 
+95-115 [655-795] 
+75 [515] 
+85-110 [585-760] 
+55 [380] 
+85-11 0 [585-760] 
+60 (415] 
+Elongation in 2 in. (50 mm], min, %A 14 13 
+A See Specification A20/A20M for elongation adjustment. 
+annealed condition. Minimum stress relieving temperature 
+shall be 1050°F [565°C] except for 'fype E which shall be 
+1200°F [650°C]. 
+6. Chemical Composition 
+6.1 The steel shall conform to the chemical requirements 
+shown in Table 1. 
+7. Mechanical Properties 
+7.1 Tension Test Requirements: 
+7.1.1 The material as represented by the tension-test speci­
+mens shall conform to the requirements shown in Table 2. 
+7.1.2 For nominal plate thicknesses of¾ in. [20 mm] and 
+under, the 1 ½-in. [40-mm] wide rectangular specimen may be 
+used for the tension test, and the elongation may be determined 
+20 20 18 
+in a 2-in. [50-mm] gage length that includes the fracture and 
+that shows the greatest elongation. 
+7.2 Notch Toughness Requirements-Classes 4 and 4a: 
+7.2.1 A transverse Charpy V-notch test from each plate-as­
+heat-treated shall have a minimum energy absorption value of 
+40 ft-lbf [54 J] average of three specimens and 35 ft•lbf [48 J] 
+for one specimen only in the set. 
+7.2.2 For Class 4, the impact test temperature shall be as 
+specified on the order. 
+7 .2.3 For Class 4a, the impact test temperature shall be 0°F 
+[-18°C]. 
+8. Keywords 
+8.1 alloy steel; alloy steel plate; pressure containing parts; 
+pressure vessel steels; steel plates for pressure vessels 
+SUPPLEMENTARY REQUIREMENTS 
+Supplementary requirements shall not apply unless specified in the order. 
+A list of standardized supplementary requirements for use at the option of the purchaser are included 
+in Specification A20/A20M. Several of those considered suitable for use with this specification are 
+listed in this section by title. Other tests may be performed by agreement between the supplier and the 
+purchaser. 
+Sl. Vacuum Treatment, 
+S2. Product Analysis, 
+S3. Simulated Post-Weld Heat Treatment of Mechanical 
+Test Coupons, 
+S4.2 Additional Tension Test, 
+S5. Charpy V-Notch Impact Test, 
+S6. Drop Weight Test (for Material 0.625 in. [16 mm] and 
+~~~~ov=e~r~in.Thicknes 
+S7. High-Temperature Tension Test, 
+S8. Ultrasonic Examination in accordance with Specifica­
+tion A435/A435M, 
+S9. Magnetic Particle Examination, 
+S 11. Ultrasonic Examination in accordance with Specifica­
+tion A577 I A577M, 
+Sl2. Ultrasonic Examination in accordance with Specifica­
+tion A578/A578M, 
+S17. Vacuum Carbon-Deoxidized Steel. 
+932 
+40 (55) 
+JivTr40 {AvTrSS) 
+Temperature, °F ( 0 C) 
+Minimum PWHT 
+and step age 
+heat treatment 
+FIG. S1 .1 Transition Temperature Curves Before and After Step 
+Cool Heat Treatment 

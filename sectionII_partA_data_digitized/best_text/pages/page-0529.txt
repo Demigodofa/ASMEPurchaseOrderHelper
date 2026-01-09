@@ -1,0 +1,87 @@
+/~--
+ASME BPVC.II.A-2025 SA-325 
+TABLE 2 Chemical Requirements for Type 3 Heavy Hex Structural BoltsA 
+Composition, % 
+Type 3 BoltsA 
+Element A B C D E F 
+Carbon: 
+Heat analysis 0.33-0.40 0.38-0.48 0.15-0.25 0.15-0.25 0.20-0.25 0.20-0.25 
+Product analysis 0.31-0.42 0.36-0.50 0.14-0.26 0.14-0.26 0.18-0.27 0.19-0.26 
+Manganese: 
+Heat analysis 0.90-1.20 0.70-0.90 0.80-1.35 0.40-1.20 0.60-1.00 0.90-1.20 
+Product analysis 0.86-1.24 0.67-0.93 0.76-1.39 0.36-1.24 0.56-1.04 0.86-1.24 
+Phosphorus: 
+Heat analysis 0.035 max 0.06-0.12 0.035 max 0.035 max 0.035 max 0.035 max 
+Product analysis 0.040 max 0.06-0.125 0.040 max 0.040 max 0.040 max 0.040 max 
+Sulfur: 
+Heat analysis 0.040 max 0.040 max 0.040 max 0.040 max 0.040 max 0.040 max 
+Product analysis 0.045 max 0.045 max 0.045 max 0.045 max 0.045 max 0.045 max 
+Silicon: 
+Heat analysis 0.15-0.35 0.30-0.50 0.15-0.35 0.25-0.50 0.15-0.35 0.15-0.35 
+Product analysis 0.13-0.37 0.25-0.55 0.13-0.37 0.20-0.55 0.13-0.37 0.13-0.37 
+Copper: 
+Heat analysis 0.25-0.45 0.20-0.40 0.20-0.50 0.30-0.50 0.30-0.60 0.20-0.40 
+Product analysis 0.22-0.48 0.17-0.43 0.17-0.53 0.27-0.53 0.27-0.63 0.17-0.43 
+Nickel: 
+Heat analysis 0.25-0.45 0.50-0.80 0.25-0.50 0.50-0.80 0.30-0.60 0.20-0.40 
+Product analysis 0.22-0.48 0.47-0.83 0.22-0.53 0.47-0.83 0.27-0.63 0.17-0.43 
+Chromium: 
+Heat analysis 0.45-0.65 0.50-0.75 0.30-0.50 0.50-1.00 0.60-0.90 0.45-0.65 
+Product analysis 0.42-0.68 0.47-0.83 0.27-0.53 0.45-1.05 0.55-0.95 0.42-0.68 
+Vanadium: 
+Heat analysis B B 0.020 min B B B 
+Product analysis B B 
+0.010 min B B B 
+Molybdenum: 
+Heat analysis B 0.06 max B 0.10 max B B 
+Product analysis 
+B 
+0.07 max 
+B 
+0.11 max 
+B B 
+Titanium: 
+Heat analysis B B B 0.05 max B B 
+Product analysis B B B 
+0.06 max 
+B B 
+A A, B, C, D, E, and F are classes of material used for Type 3 bolts. Selection of a class shall be at the option of the bolt manufacturer. 
+8 These elements are not specified or required. 
+TABLE 3 Hardness Requirements for Bolts 
+Bolt Nominal 
+Size Length 
+in. in. Brinell Rockwell C 
+Min Max Min Max 
+½ to 1, incl Less than 253 319 25 34 
+20 
+2Oand 319 34 
+over 
+11/a to 1½, Less than 223 286 19 30 
+incl 30 
+3Oand 286 30 
+over 
+D = Nominal diameter or thread size. 
+in. having a nominal length of 3D and longer, shall be wedge 
+tested full size and shall conform to the minimum wedge 
+tensile load and proof load or alternative proof load specified in 
+Table 4. The load achieved during proof load testing shall be 
+equal to or greater than the specified proof load. 
+477 
+6.2.1.1 When the length of the bolt makes full-size testing 
+impractical, machined specimens shall be tested and shall 
+conform to the requirements specified in Table 5. When bolts 
+are tested by both full-size and machined specimen methods, 
+the full-size test shall take precedence. 
+6.2.1.2 Sizes 1.00 in. and smaller having a nominal length 
+shorter than 2¼D down to 2D, inclusive, that cannot be wedge 
+tensile tested shall be axially tension tested full size and shall 
+conform to the minimum tensile load and proof load or 
+alternate proof load specified in Table 4. Sizes 1.00 in. and 
+smaller having a nominal length shorter than 2D and sizes 
+larger than 1.00 in. with nominal lengths shorter than 3D that 
+cannot be axially tensile tested shall be qualified on the basis of 
+hardness. 
+6.2.2 For bolts on which both hardness and tension tests are 
+performed, acceptance based on tensile requirements shall take 
+precedence in the event of low hardness readings. 
+6.3 Rotational Capacity Test: 

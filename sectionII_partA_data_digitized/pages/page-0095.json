@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 95,
+  "globalPageIndex": 95,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "ASME BPVC.II.A-2025 \nTABLE A1.19 Permitted Variations in Length for S, M, C, MC, L, T, Z, and Bulb Angle Shapes \nNoTE I-Where\" ... \" appears in this table, there is no requirement. \nNominal \nSize,A mm \nUnder75 \n75 and over \n1.5 to 3, excl \nOver Under \n16 0 \n25 0 \nA Greatest cross-sectional dimension. \nPermitted Variations From Specified Length for Lengths Given in Metres, mm \n3 to 6, excl 6 to 9, incl Over 9 to 12, incl Over 12 to 15, incl Over 15 to 20, incl \nOver Under Over Under Over Under Over Under Over Under \n25 0 38 0 51 0 64 0 64 0 \n38 0 45 0 57 0 70 0 70 0 \nTABLE A1.20 Permitted Variations in End Out-of-Square for S, M, \nC, MC, L, T, Z, Bulb Angle, and Flat Bar Shapes \nShapes \nS, M, C, and MC \nLA \nBulb angles \nRolled teesA \nZees \nFlat Bars 8 \nPermitted Variation \n0.017 mm per millimetre of depth \n0.026 mm per millimetre of leg length or 1 \u00bd ' \n0.026 mm per millimetre of depth or 1 \u00bd ' \n0.017 mm per millimetre of flange or stem \n0.026 mm per millimetre of sum of both flange \nlengths \n0.017 mm per millimetre of width but not less \nthan 2 mm \nA Permitted variations in ends out-of-square are determined on the longer mem\u00ad\nbers of the shape. \n8 For flat bars, permitted variations in end out-of-square are determined on the \nwidth of the bar. \n43 \nSA-6/SA-6M \nOver 20 m \nOver Under ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0095.json",
+  "tabulaTablesCsv": "tables_tabula/page-0095.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-0095.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1303,
+  "bestTextAlphaRatio": 0.6462
+}

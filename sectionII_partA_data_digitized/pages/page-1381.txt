@@ -1,0 +1,120 @@
+ASME BPVC.II.A-2025 SA-813/SA-813M 
+13.3.1.1 The reference standards defined in 13.9.1 - 13.9.4 
+are convenient standards for calibration of nondestructive 
+testing equipment. The dimensions of these standards should 
+not be construed as the minimum size imperfection detectable 
+by such equipment. 
+13.3.1.2 The ultrasonic testing (UT) can be performed to 
+detect both longitudinally and circumferentially oriented de­
+fects. It should be recognized that different techniques should 
+be employed to detect differently oriented imperfections. The 
+examination may not detect short, deep, defects. 
+13.3.1.3 The eddy-current testing (ET) referenced in this 
+specification, (Practice E426), has the capability of detecting 
+significant discontinuities, especially the short abrupt type. 
+13.3.1.4 A purchaser interested in ascertaining the nature 
+(type, size, location, and orientation) of discontinuities that can 
+be detected in the specific application of these examinations 
+should discuss this with the manufacturer of the tubular 
+product. 
+13.4 Time of Examination: 
+13.4.1 Nondestructive testing for specification acceptance 
+shall be performed after all mechanical processing, heat 
+treatments, and straightening operations. This requirement 
+does not preclude additional testing at earlier stages in the 
+processing. 
+13.5 Surface Condition: 
+13.5.1 All surfaces shall be free of scale, dirt, grease, paint, 
+or other foreign material that could interfere with interpretation 
+of test results. The methods used for cleaning and preparing the 
+surfaces for examination shall not be detrimental to the base 
+metal or the surface finish. 
+13.5.2 Excessive surface roughness or deep scratches can 
+produce signals that interfere with the test. 
+13.6 Extent of Examination: 
+13.6.1 The relative motion of the pipe and the transducer(s), 
+coil(s), or sensor(s) shall be such that the entire pipe surface is 
+scanned, except as in 13.5.2. 
+13.6.2 The existence of end effects is recognized, and the 
+extent of such effects shall be determined by the manufacturer, 
+and, if requested, shall be reported to the purchaser. Other 
+nondestructive tests may be applied to the end areas, subject to 
+agreement between the purchaser and the manufacturer. 
+13.7 Operator Qualifications: 
+13. 7 .1 The test unit operator shall be certified in accordance 
+with SNT-TC-lA, or an equivalent recognized and documented 
+standard. 
+13.8 Test Conditions: 
+13.8.1 For eddy-current testing, the excitation coil fre­
+quency shall be chosen to ensure adequate penetration yet 
+provide good signal-to-noise ratio. 
+13.8.2 The maximum eddy-current coil frequency used 
+shall be as follows: 
+On specified walls up to 0.050 in.-100 KHz max 
+On specified walls up to 0.150 in.-50 KHz max 
+On specified walls above 0.150 in.-10 KHz max 
+13.8.3 Ultrasonic-For examination by the ultrasonic 
+method, the minimum nominal transducer frequency shall be 
+2.00 MHz and the maximum nominal transducer size shall be 
+1.5 in. 
+( 1) H the equipment contains a reject notice filter setting, 
+this shall remain off during calibration and testing unless 
+linearity can be demonstrated at that setting. 
+13.9 Reference Standards: 
+13.9.1 Reference standards of convenient length shall be 
+prepared from a length of pipe of the same grade, size (NPS, or 
+outside diameter and schedule or wall thickness), surface finish 
+and heat treatment condition as the pipe to be examined. 
+13.9.2 For Ultrasonic Testing, the reference ID and OD 
+notches shall be any one of the three common notch shapes 
+shown in Practice E213, at the option of the manufacturer. The 
+depth of each notch shall not exceed 12½ % of the specified 
+nominal wall thickness of the pipe or 0.004 in., whichever is 
+greater. The width of the notch shall not exceed twice the 
+depth. Notches shall be placed on both the OD and ID surfaces. 
+13.9.3 For Eddy-Current Testing, the reference standard 
+shall contain, at the option of the manufacturer, any one of the 
+following discontinuities: 
+( 1) Drilled Hole-The reference standard shall contain 
+three or more holes, equally spaced circumferentially around 
+the pipe and longitudinally separated by a sufficient distance to 
+allow distinct identification of the signal from each hole. The 
+holes shall be drilled radially and completely through the pipe 
+wall, with care being taken to avoid distortion of the pipe while 
+drilling. One hole shall be drilled in the weld, if visible. 
+Alternately, the producer of welded pipe may choose to drill 
+one hole in the weld and run the calibration standard through 
+the test coils three times with the weld turned at 120° on each 
+pass. The hole diameter shall vary with NPS as follows: 
+NPS Designator 
+½ 
+above½ to 1¼ 
+above 1¼to 2 
+above 2 to 5 
+above 5 
+Hole Diameter 
+0.039 in. [1 mm] 
+0.055 in. [1.4 mm] 
+0.071 in. [1.8 mm] 
+0.087 in. [2.2 mm] 
+0.106 in. [2.7 mm] 
+(2) Transverse Tangential Notch-Using a round tool or 
+file with a ¼ in. [6.4 mm] diameter, a notch shall be filed or 
+milled tangential to the surface and transverse to the longitu­
+dinal axis of the pipe. Said notch shall have a depth not 
+exceeding 12½ % of the specified nominal wall thickness of 
+the pipe or 0.004 in. (0.102 mm), whichever is greater. 
+( 3) Longitudinal Notch-A notch 0.031 in. or less in width 
+shall be machined in a radial plane parallel to the tube axis on 
+the outside surface of the pipe, to have a depth not exceeding 
+12½ % of the specified wall thickness of the pipe or 0.004 in., 
+whichever is greater. The length of the notch shall be compat­
+ible with the testing method. 
+13.9.4 More or smaller reference discontinuities, or both, 
+may be used by agreement between the purchaser and the 
+manufacturer. 
+13.10 Standardization Procedure: 
+13.10.1 The test apparatus shall be standardized at the 
+beginning and end of each series of pipes of the same size 
+(NPS or diameter and schedule or wall thickness), Grade and 
+1319 

@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 317,
+  "globalPageIndex": 1115,
+  "width": 617.04,
+  "height": 795.6,
+  "text": "( \nASME BPVC.II.A-2025 \nSUPPLEMENTARY REQUIREMENTS \nThe following Supplementary Requirement shall apply only when specified by the purchaser \nin the contract or purchase order .. Supplementary requirements shall in no way negate any \nrequirement of the specification itself. \nSA-574 \nSl. Specific Grade Chemical Compositions \nSl.1 When Supplementary Requirement S 1 is specified \non the order, the chemical composition shall conform to \none of the compositions in Table S 1.1 at the option of the \nsupplier, unless a specific composition (Grade) has been \nspecified on the purchase order. \nGrade Designation 4037 4042 4137 \nUNS Number G40370 G40420 G41370 \nCarbon: \nHeat analysis 0.35-0.40 0.40-0.45 0.35-0.40 \nProduct analysis 0.33-0.42 0.38-0.47 0.33-0.42 \nManganese: \nHeat analysis 0.70-0.90 0.70-0.90 0.70-0.90 \nProduct analysis 0.67-0.93 0.67-0.93 0.67-0.93 \nPhosphorus, max.: \nHeat analysis 0.035 0.035 0.035 \nProduct analysis 0.040 0.040 0.040 \nSulfur, max.: \nHeat analysis 0.040 0.040 0.040 \nProduct analysis 0.045 0.045 0.045 \nSilicon: \nHeat analysis 0.15-0.35 0.15-0.35 0.15-0.35 \nProduct analysis 0.13-0.37 0.13-0.37 0.13-0.37 \nNickel: \nHeat analysis A A A \nProduct analysis . . . . . . ... \nChromium: \nHeat analysis A A 0.80-1.10 \nProduct analysis ... . .. 0.75-1.15 \nMolybdenum: \nHeat analysis 0.20-0.30 0.20-0.30 0.15-0.25 \nProduct analysis 0.18-0.32 0.18-0.32 0.13-0.27 \nBoron: \nHeat analysis A A A \nProduct analysis . . . . . . . . . \nNOTES: \nTABLE S1.1 \nCHEMICAL COMPOSITION \n4140 4142 4145 \nG41400 G41420 G41450 \n0.38-0.43 0.40-0.45 0.43-0.48 \n0.36-0.45 0.38-0.47 0.41-0.50 \n0.75-1.00 0.75-1.00 0.75-1.00 \n0.71-1.04 0.71-1.04 0.71-1.04 \n0.035 0.035 0.035 \n0.040 0.040 0.040 \n0.040 0.040 0.040 \n0.045 0.045 0.045 \n0.15-0.35 0.15-0.35 0.15-0.35 \n0.13-0.37 0.13-0.37 0.13-0.37 \nA A A \n. . . . . . . . . \n0.80-1.10 0.80-1.10 0.80-1.10 \n0.75-1.15 0.75-1.15 0.75-1.15 \n0.15-0.25 0.15-0.25 0.15-0.25 \n0.13-0.27 0.13-0.27 0.13-0.27 \nA A A \n. . . . . . . .. \nA Elements shown with an \"A\" are not applicable to that grade designation. \n8 Boron is not subject to product analysis. \n1021 \n4340 8740 5137M 51B37M \nG43400 G87400 .. . ... \n0.38-0.43 0.38-0.43 0.35-0.40 0.33-0.40 \n0.36-0.45 0.36-0.45 0.33-0.42 0.31-0.42 \n0.60-0.80 0.75-1.00 0.30-0.50 0.30-0.50 \n0.57-0.83 0.71-1.04 0.27-0.53 0.27-0.53 \n0.035 0.035 0.035 0.035 \n0.040 0.040 0.040 0.040 \n0.040 0.040 0.040 0.040 \n0.045 0.045 0.045 0.045 \n0.15-0.35 0.15-0.35 0.15-0.35 0.15-0.35 \n0.13-0.37 0.13-0.37 0.13-0.37 0.13-0.37 \n1.65-2.00 0.40-0.70 A A \n1.60-2.05 0.37-0.73 . . . . .. \n0.70-0.90 0.40-0.60 0.90-1.20 0.95-1.25 \n0.67-0.93 0.37-0.63 0.85-1.25 0.90-1.30 \n0.20-0.30 0.20-0.30 A A \n0.18-0.32 0.18-0.32 . . . ... \nA A A 0.0005-0.003 \nB . . . . . . ... ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 1,
+  "tabulaTablesPath": "tables_tabula/page-1115.json",
+  "tabulaTablesCsv": "tables_tabula/page-1115.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-1115.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2722,
+  "bestTextAlphaRatio": 0.353
+}

@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 757,
+  "globalPageIndex": 757,
+  "width": 604.32,
+  "height": 847.68,
+  "text": "ASME BPVC.II.A-2025 \nSPECIFICATION FOR SEAMLESS AND \nELECTRIC-WELDED LOW-ALLOY STEEL TUBES \nSA-423 /SA-423M \n(Identical with ASTM Specification A423/ A423M-19.) \n707 \n0 \nINTERNATIONAL \nStandards Worldwide \nSA-423/SA-423M ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-0757.txt",
+  "ocrTextLength": 179,
+  "ocrApplied": true,
+  "bestTextPath": "best_text/pages/page-0757.txt",
+  "bestTextSource": "ocr",
+  "bestTextLength": 179,
+  "bestTextAlphaRatio": 0.6592
+}

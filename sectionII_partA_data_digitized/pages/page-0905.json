@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 107,
+  "globalPageIndex": 905,
+  "width": 618.6,
+  "height": 796.8,
+  "text": "ASME BPVC.II.A-2025 SA-480/SA-480M (ASTM A480/A480M) \nTABLE A3.2 Permitted Variations in Width of Cold 0 rolled, Narrow, \nCoil-processed Product in Coils and Cut Lengths for Edge No. 3A \nSpecified \nThickness, \n8 mm \n0.25 \n0.50 \n1.00 \n1.50 \n2.50 \n3.00 \n4.00 \n4.99 \nW:S 40 \n0.085 \n0.10 \n0.125 \n0.125 \nWidth Tolerance, Over and Under, \nfor Thickness and Width Given, mm \n40 < W:S 125 125 < W:S 250 250 < W:S 600 \n0.10 0.125 0.50 \n0.125 0.15 0.50 \n0.125 0.20 0.50 \n0.15 0.25 0.50 \n0.20 0.30 0.50 \n0.25 0.30 0.60 \n0.25 0.40 0.60 \n0.40 0.50 0.60 \nA For tolerances applicable to narrow product with Edge No. 1 or No. 5, see Table \nA3.22. \n8 For specified thickness other than those shown, the tolerances for the next \nhigher thickness shall apply. \nTABLE A3.3 Permitted Variations in Length of Cold-rolled, \nNarrow, Coil-processed Products as Cut Lengths \nSpecified Length, mm \n:S1500 \n> 1500, :S4000 \n>4000, :S6000 \nTolerances, mm \n+3, -0 \n+5, -0 \n+8,-0 \nTABLE A3.4 Permitted Variations in Flatness of Cold-rolled, \nNarrow, Coil-processed Product as Cut Lengths \nTolerances for variations of flatness cold-rolled products, narrow, coil\u00ad\nprocessed product as cut lengths shall be identical to the tolerances for cold\u00ad\nrolled, wide, coil-processed product as listed in Table A3.8, unless otherwise \nagreed upon by seller and purchaser and specified in the purchase order. \nTABLE A3.5 Permitted Variations in Thickness of Cold-rolled, \nWide, Coil-processed Product as Coil and Cut Lengths \nNoTE 1-Thickness measurements are taken at least 15 mm from the \nedge of the product in the case of slit edges and at least 25 mm from the \nedge of the product in the case of mill edges. \nNoTE 2-Cold-rolled sheets in cut lengths and coils are produced in \nsome type numbers and some widths and thiclmess to tolerances less than \nthose shown in the table. \nNorn 3-For specified thicknesses other than those shown, the toler\u00ad\nances for the next higher thickness shall apply. \nSpecified Permitted Variation, Over and Under, mm, \nThickness, mm for Seecified Width (w ), win mm \nW:S 1000 1000 < W:S 1300 1300 < w :S 2100 \n0.30 0.03 \n0.40 0.04 0.04 \n0.50 0.045 0.05 \n0.60 0.05 0.05 \n0.80 0.05 0.05 \n1.00 0.055 0.06 0.07 \n1.20 0.08 0.08 0.08 \n1.50 0.08 0.08 0.10 \n2.00 0.10 0.10 0.11 \n2.50 0.10 0.11 0.13 \n3.00 0.13 0.13 0.15 \n4.00 0.17 0.17 0.17 \n5.00 0.17 0.17 0.19 \n6.00 0.17 0.20 0.23 \n8.00 0.17 0.22 0.25 \n805 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0905.json",
+  "tabulaTablesCsv": "tables_tabula/page-0905.csv",
+  "tabulaTableCount": 2,
+  "bestTextPath": "best_text/pages/page-0905.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2389,
+  "bestTextAlphaRatio": 0.5617
+}

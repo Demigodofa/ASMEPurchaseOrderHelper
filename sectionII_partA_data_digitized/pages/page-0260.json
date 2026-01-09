@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 260,
+  "globalPageIndex": 260,
+  "width": 612.6,
+  "height": 853.8,
+  "text": "SA-181/SA-181M ASME BPVC.II.A-2025 \nTABLE 1 \nCHEMICAL REQUIREMENTS \nElement \nComposition, % \nClasses 60 and 70 \nCarbon, max. \nManganese, max. \nPhosphorus, max. \nSilicon \nSulfur, max. \n0.35 \nl.lOA \n0.05 \n0.10-0.35 \n0.05 \nA Manganese may be increased to 1.35% max. provided the car\u00ad\nbon is reduced 0.01 % for each 0.06% increase in manganese over \nthe limit shown in the table. \nTABLE 2 \nTENSILE REQUIREMENTS \nTensile strength, min., ksi [MPaJ \nYield strength/ min., ksi [IVI PaJ \nElongation in 2 in. [SO mm], min., % \nReduction of area, min., % \nClass 60 \n60 [415] \n30 [205] \n22 \n35 \nClass 70 \n70 [485] \n36 [250] \n18 \n24 \nA Determined by either the 0.2% offset method or the 0.5% \nextension-under-load method. \n208 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0260.json",
+  "tabulaTablesCsv": "tables_tabula/page-0260.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text\\pages\\page-0260.txt",
+  "bestTextSource": "full_ocr_highdpi",
+  "bestTextLength": 690,
+  "bestTextAlphaRatio": 0.591
+}

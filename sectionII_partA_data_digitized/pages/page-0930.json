@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 132,
+  "globalPageIndex": 930,
+  "width": 792.0,
+  "height": 612.48,
+  "text": "TABLE 2 Chemical Composition RequirementsA,a \n~ \nGrade \n\"\" Class Element,% 00 ...... \nType Carbon Manganese Phosphorus \n........ \n(UNS Number) Sulfur Silicon Nickel Chromium Molybdenum Copper Vanadium Boron Tungsten \nt 1 0.30 1.00 0.035 0.035 0.80 0.50D 0.35\u00b0 c.o 0.50D 0.04-0.12 C,D \n00 \nABC ...... \nV :s: \n(J13002) \n2 0.30 1.00-1.40 0.035 0.035 0.80 0.50D 0.35D 0.10-0.30 0.50D 0.03D 0.10D \nABC \nMn-Mo \n(J13005) \n4 0.30 1.00 0.035 0.035 0.80 0.40-0.80 0.40-0.80 0.15-0.30 0.50\" 0.03\" 0.1QE \nABCDE \nNi-Cr-Mo \n(J13047) \n6 0.05-0.38 1.30-1.70 0.035 0.035 0.80 0.40-0.80 0.40-0.80 0.30-0.40 0.50\" 0.03\" 0.10\" \nAB \nMn-Ni-Cr-Mo \n(J13855) \n7 0.05-0.20 0.60-1.00 0.035 0.035 0.80 0.70-1.00 0.40-0.80 0.40-0.60 0.15-0.50 0.03--0.10 0.002-0.006 0.10 > Cl.I \nA :s: \nNi-Cr-Mo-VF \nt,:I \n(J13084) = \nCX) ~ w \n0 8 0.05-0.20 0.50-0.90 0.035 0.035 0.80 2.00-2.75 0.90-1.10 0.50\" 0.03\" 0.10\" C \nABC ~ Cr-Mo N \n(J22091) Q \nN \n~ \n9 0.05-0.33 0.60-1.00 0.035 0.035 0.80 0.50D 0.75-1.10 0.15-0.30 0.50D 0.03D 0.10D \nABCDE \nCr-Mo \n(J13345) \n10 0.30 0.60-1.00 0.035 0.035 0.80 1.40-2.00 0.55-0.90 0.20-0.40 0.50\" 0.03\" 0.1QE \nAB \nNi-Cr-Mo \n(J23015) \n11 0.05-0.20 0.50-0.80 0.035 0.035 0.60 0.70-1.10 0.50-0.80 0.45-0.65 0.50G 0.03G 0.10G \nAB \nNi-Cr-Mo \n(J12082) \n12 0.05-0.20 0.40-0.70 0.035 0.035 0.60 0.60-1.00 0.50-0.90 0.90-1.20 0.50G 0.03G 0.1QG \nAB \nNi-Cr-Mo \n(J22000) \n13 0.30 0.80-1.10 0.035 0.035 0.60 1.40-1.75 0.40H 0.20-0.30 0.50H 0.03H 0.1QH \nAB \nNi-Mo \n(J13080) \n( ) ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0930.json",
+  "tabulaTablesCsv": "tables_tabula/page-0930.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0930.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1459,
+  "bestTextAlphaRatio": 0.2063
+}

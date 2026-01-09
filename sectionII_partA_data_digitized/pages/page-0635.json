@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 635,
+  "globalPageIndex": 635,
+  "width": 622.44,
+  "height": 861.36,
+  "text": "ASME BPVC.II.A-2025 \nTEST METHODS AND DEFINITIONS FOR MECHANICAL \nTESTING OF STEEL PRODUCTS \nSA-370 ~ \nINTERNATIONAL \nStandards Worldwide \n(Identical with ASTM Specification A370-21.) \n583 \nSA-370 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-0635.txt",
+  "ocrTextLength": 164,
+  "ocrApplied": true,
+  "bestTextPath": "best_text\\pages\\page-0635.txt",
+  "bestTextSource": "full_ocr_highdpi",
+  "bestTextLength": 137,
+  "bestTextAlphaRatio": 0.737
+}

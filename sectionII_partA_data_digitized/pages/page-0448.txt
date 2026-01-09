@@ -1,0 +1,95 @@
+SA-266/SA-266M ASME BPVC.II.A-2025 
+and tempered forgings for which tests are required at both ends 
+by 8.2.2.3 and 8.2.2.4, separately forged test blocks are not 
+allowed. 
+NoTE 3-In using separately forged test blocks, attention is drawn to the 
+effect of mass differences between the production forgings and the test 
+blocks. 
+8.2 Specific Requirements-The number and location of 
+tests are based on forging length, weight, and heat treatment, 
+and shall be as prescribed below. The length and weight to be 
+used for this purpose shall be the shipped length and weight of 
+forgings produced individually or the aggregate shipped length 
+and weight of all pieces cut from a multiple forging. 
+8.2.1 Annealed, Normalized, or Normalized and Tempered 
+Steel Forgings: 
+8.2.1.1 For forgings weighing 5000 lb [2250 kg] or less at 
+the time of heat treatment, one tension test shall be taken from 
+one forging per heat in each heat treatment charge. When heat 
+treatment is performed in continuous-type furnaces with suit­
+able temperature controls and equipped with recording pyrom­
+eters so that complete heat treatment records are available, a 
+tempe1ing charge may be considered as any continuous run not 
+exceeding an 8 h period. 
+8.2.1.2 For forgings weighing over 5000 lb [2250 kg] at the 
+time of heat treatment, one tension test shall be taken from 
+each forging. , 
+8.2.2 Quenched and Tempered Forgings: 
+8.2.2.1 For quenched and tempered forgings weighing 
+5000 lb [2250 kg] or less at the time of heat treatment, but not 
+exceeding 12 ft [3.7 m] in length, one tension test shall be 
+taken from one forging per heat in each heat treatment charge. 
+When heat treatment is performed in continuous-type furnaces 
+with suitable temperature controls and equipped with recording 
+pyrometers so that complete heat treatment records are 
+available, a tempering charge may be considered as any 
+continuous run not exceeding an 8 h period. 
+8.2.2.2 For quenched and tempered forgings weighing over 
+5000 lb [2250 kg] to 10 000 lb [ 4500 kg] at the time of heat 
+treatment, but not exceeding 12 ft [3.7 m] in length, one 
+tension test shall be taken from each forging. 
+8.2.2.3 For quenched and tempered forgings that exceed 
+12 ft [3.7 m] in length, one tension test shall be taken from 
+each end of each forging. 
+8.2.2.4 For quenched and tempered forgings weighing more 
+than 10 000 lb [ 4500 kg] at the time of heat treatment, two 
+tension test specimens shall be taken from each forging. These 
+shall be offset 180° from each other except that if the length of 
+the forging, excluding test prolongations, exceeds 12 ft [3.7 m], 
+then one specimen shall be taken from each end of the forging. 
+9. Repair Welding 
+9.1 Repair welding of forgings is permissible only at the 
+option of the purchaser. If repair welding is performed, welders 
+and weld procedures shall be qualified in accordance with 
+Section IX of the ASME Boiler and Pressure Vessel Code. 
+10. Certification 
+10.1 In addition to the mandatory certification requirements 
+of Specification A 788/ A 788M, the heat treatment cycle data 
+shall be included. 
+11. Product Marking 
+11.1 Each forging shall be identified in accordance with the 
+Marking Section of Specification A 788/ A 788M. In addition, 
+the forging shall be marked following the grade designation by 
+the letter "A" for annealed, "N" for nmmalized, "NT" for 
+normalized and tempered, and "S" for liquid quenched and 
+tempered, as applicable. 
+12. Keywords 
+12.1 pressure vessel service; steel forgings-carbon 
+SUPPLEMENTARY REQUIREMENTS 
+One or more of the following supplementary requirements shall apply only when specified by the 
+purchaser in the inquiry, contract, or order. Details of these supplementary requirements shall be 
+agreed upon between the manufacturer and the purchaser. 
+Sl. Rough Turning and Boring 
+S 1.1 The position of the rough turning and boring in the 
+sequence of manufacturing operations shall be as specified by 
+the purchaser. 
+S2. Alternative Tension Test Orientation 
+S2.1 In lieu of the requirements of Section 8, the longitu­
+dinal axis of the test specimens shall be transverse to the 
+direction of major working of the forging. The results shall 
+396 
+conform with requirements of Table 2, with the exception of 
+the ductility limits that shall be as follows: 
+Grade 1 
+Elongation in 2 in. [62.5 mm], min,% 20 [18] 
+Reduction of area, min, % 30 
+S3. Hydrostatic Test 
+2 and 4 
+19 [17] 
+25 
+3 
+18 [16] 
+25 
+S3.1 A hydrostatic pressure test shall be applied. The details 
+of the test, including its position in the sequence of manufac­
+turing operations, shall be specified. 

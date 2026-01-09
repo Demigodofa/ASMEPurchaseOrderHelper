@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 526,
+  "globalPageIndex": 1324,
+  "width": 613.92,
+  "height": 793.2,
+  "text": "SA-781/SA-781M ASME BPVC.II.A-2025 \nTABLE 1 \nPRODUCT ANALYSIS TOLERANCES \nTolerancesa,c Over Maximum or \nElement Range, %A Under Minimum Limit, % \nC up to 0.65 0.03 X % CL + 0.02 \nabove 0.65 0.04 \nMn up to 1 0.08 X % MnL + 0.01 \nabove 1 0.09 \nSi up to 0.60 0.22 X % SiL - 0.01 \nabove 0.60 0.15 \np all 0.13 X % PL+ 0.005 \ns all 0.36 X % SL+ 0.001 \nNi up to 2 0.10 X % NiL + 0.03 \nabove 2 0.25 \nCr up to 2 0.07 x % CrL + 0.04 \nabove 2 0.18 \nMo up to 0.6 0.04 X % MoL + 0.03 \nabove 0.6 0.06 \nV up to 0.25 0.23 X % VL + 0.004 \nabove 0.25 0.06 \nw up to 0.10 0.08 X % WL + 0.02 \nabove 0.10 0.02 \nCu up to 0.15 0.18 x % CuL + 0.02 \nabove 0.15 0.05 \nAl up to 0.10 0.08 X % AIL+ 0.02 \nabove 0.10 0.03 \nA The range denotes the composition limits up to which tolerances are computed by the equation, and \nabove which the tolerances are given by a constant. \n8 The subscript L for the elements in each equation indicates that the limits of the element specified by \nthe applicable specification are to be inserted into the equation to calculate the tolerance for the upper \nlimit and the lower limit (if applicable), respectively. Examples of computing tolerances are presented in \nfootnote C. \nc To illustrate the computation of the tolerance, consider the manganese maximum of 0.70 for an 0.30 \ncarbon grade 65-35 in Specification A 27/A 27M. The maximum permissible deviation is (0.08 x 0.70 + \n0.01) = 0.066 .. Therefore, the highest acceptable product analysis is 0.766. Similarly, for a 0.20 carbon \ngrade 70-40 in\u00b7 Specification A 27/A 27M, the maximum manganese content is 1.40; thus, the highest \nacceptable product analysis is (1.40 + 0.09) = 1.49. \n1258 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1324.json",
+  "tabulaTablesCsv": "tables_tabula/page-1324.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-1324.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1653,
+  "bestTextAlphaRatio": 0.5747
+}

@@ -1,0 +1,3104 @@
+=== Page 1108 ===
+
+SA-574 ASME BPVC.II.A-2025 
+SPECIFICATION FOR ALLOY STEEL 
+SOCKET-HEAD CAP SCREWS 
+SA-574 
+(Identical with ASTM Specification A 574-04e 1 except that Table 1 on chemical requirements has been deleted and Supplementary Requirement Sl 
+is now mandatory. Paragraphs 6.1 and 6.2 have been revised to refer to Table S 1. 1 and para. 6.3 has been deleted.) 
+1. Scope 
+1.1 This specification covers the requirements for 
+quenched and tempered alloy steel hexagon socket-head 
+cap screws, 0.060 through 4 in. in diameter where high 
+strength is required. 
+NOTE 1 - A complete metric companion to Specification A 574 has 
+been developed-A 574M; therefore no metric equivalents are presented 
+in this specification. 
+1.2 The following hazard caveat pertains only to the 
+test method portion, Section 12, of this specification. This 
+standard does not purport to address all of the safety 
+concerns, if any, associated with its use. It is the responsi­
+bility of the user of this standard to establish appropriate 
+safety and health practices and determine the applicability 
+of regulatory limitations prior to use. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+A 751 Test Methods, Practices, and Terminology for 
+Chemical Analysis of Steel Products 
+D 3951 Practice for Commercial Packaging 
+E 3 Guide for Preparation of Metallographic Specimens 
+E 112 Test Methods for Determining Average Grain Size 
+E 384 Test Method for Microindentation Hardness of 
+Materials 
+F 606 Test Methods for Determining the Mechanical Prop­
+erties of Externally and Internally Threaded Fasteners, 
+Washers, Direct Tension Indicators, and Rivets 
+F 788 /F 788M Specification for Surface Discontinuities of 
+Bolts, Screws, and Studs, Inch and Metric Series 
+2.2 ASME Standards: 
+B 1.1 Unified Screw Threads 
+B18.3 Socket Cap, Shoulder, and Set Screws 
+B18.24 Paii Identifying Number (PIN) Code System Stan­
+dard for B 18 Fastener Products 
+2.3 Federal Standard: 
+H-28 Handbook of Thread Dimensions 
+3. Terminology 
+3.1 Definitions: 
+3.1.1 Definitions of discontinuities covered by 10.2 
+follow: 
+3.1.2 crack- clean crystalline break passing through 
+the grain or grain boundary without inclusion of foreign 
+elements. 
+3.1.3 inclusions - particles of nonmetallic impuri­
+ties, usually oxides, sulfides, silicates, and such, which are 
+mechanically held in the steel during solidification. 
+3.1.4 nicks or pits - depressions or indentations in 
+the surface of the metal. 
+3.1.5 seam or lap - noncrystalline break through the 
+metal which is inherently in the raw material. 
+4. Ordering Information 
+4.1 Orders for socket head cap screws under this speci-
+fication shall include the following: 
+4.1.1 ASTM designation and year of issue. 
+4.1.2 Quantities (number of pieces by size). 
+4.1.3 Size and length. 
+4.2 Orders for socket head cap screws may include the 
+following optional requirements: 
+4.2.1 Inspection at point of manufacture. 
+4.2.2 Coating, if a protective finish other than black 
+oxide (thermal or chemical) is required, it must be spec­
+ified. 
+4.2.3 Certified test reports (see 11.2). 
+4.2.4 Additional testing (see 11.3). 
+4.2.5 Special packaging (see 16.1.2). 
+4.2.6 Supplementary requirements (see Sl). 
+4.2.7 Special requirements. 
+1014
+
+=== Page 1109 ===
+
+ASME BPVC.II.A-2025 SA-574 
+4.2.8 For establishment of a part identifying system, 
+see ASME B 18.24 
+5. Materials and Manufacture 
+5.1 The screws shall be fabricated from a steel which 
+has been made by the open-hearth, basic-oxygen, or elec­
+tric-furnace process. 
+5.2 The screws shall be fabricated from alloy steel 
+made to a fine grain practice. In the event of controversy 
+over grain size, referee tests on finished screws conducted 
+in accordance with Test Methods E 112 shall prevail. 
+5.3 Unless otherwise specified, the heads of screws 
+through 1.500 in. diameter shall be fabricated by hot or 
+cold forging. Over 1.500 in. diameter, the heads may be 
+fabricated by hot or cold forging or by machining. Sockets 
+may be forged or machined. 
+5.4 Unless otherwise specified, threads of screws shall 
+be rolled for diameters through 0.625 in. and for screw 
+lengths through 4 in. For diameters and lengths other than 
+this, threads may be rolled, cut, or ground. 
+5.5 The screws shall be heat treated by oil quenching 
+from above the transformation temperature and then tem­
+pering at a temperature not lower than 650°F. 
+5.6 Standard Finishes - Unless otherwise specified, 
+the screws shall be furnished with one of the following 
+"standard surfaces as manufactured" at the option of the 
+manufacturer: ( 1) bright uncoated, (2) thermal black oxide, 
+or (3) chemical black oxide. Hydrogen embrittlement tests 
+shall not be required for screws furnished in these condi­
+tions. 
+5.1 Protective Coatings: 
+5. 7 .1 When a protective finish other than as specified 
+in 5.6 is required, it shall be specified on the purchase 
+order with the applicable finish specification. 
+5.7.2 When protective or decorative coatings are 
+applied to the screws, precautions specified by the coating 
+requirements to minimize embrittlement shall be exercised. 
+6. Chemical Composition 
+6.1 The analysis of the screw material shall conform 
+to the chemical composition specified in Table S 1.1. 
+6.2 Product analyses may be made by the purchaser 
+from finished material representing each lot. The chemical 
+composition, thus determined, shall conform to the require­
+ments prescribed for product analysis in Table S 1.1. 
+6.3 DELETED 
+6.4 Application of heats of steel to which bismuth, 
+selenium, tellurium, or lead has been intentionally added 
+shall not be permitted. 
+6.5 Chemical analyses shall be performed in accor­
+dance with Test Methods, Practices, and Terminology 
+A 751. 
+7. Mechanical Properties 
+7.1 The hardness of finished screws shall be 39 to 
+45 HRC for 0.500 in. and smaller and 37 to 45 HRC for 
+0.625 in. and larger. This shall be only the mechanical 
+requirements for screws that are shorter than three times 
+the diameter or that have insufficient threads for tension 
+testing. 
+7.2 Screws, other than those exempted in 7.1 and 7.3, 
+shall meet the proof load and tensile requirements in Table 
+2 and Table 3. The screws shall be tension tested with a 
+wedge of the angle specified in Table 4 under the head. 
+To meet the requirements of the wedge test, there must be 
+a tensile failure in the body or thread section. For the. 
+purpose of this test, failure means separation into two 
+pieces. Screws threaded to the head shall pass the require­
+ments for this test if the fracture that caused failure origi­
+nated in the thread area, even though it may have 
+propagated into the fillet area or the head before separation. 
+7 .3 Screws having a diameter larger than 1.500 in. 
+shall be preferably tested in full size and shall meet the 
+requirements of Table 2 and Table 3. When equipment of 
+sufficient capacity is not readily available, screws shall 
+meet 170 ksi, min, tensile strength, 153 ksi, min, yield 
+strength at 0.2% offset, and 10% elongation on specimens 
+machined in accordance with Test Methods F 606. 
+8. Metallurgical Requirement 
+8.1 Carburization or Decarburization: 
+8.1.1 There shall be no evidence of carburization or 
+total decarburization on the surfaces of the heat-treated 
+screws when measured in accordance with 12.3. 
+8.1.2 The depth of partial decarburization shall be 
+limited to the values in Table 5 when measured as shown 
+in Fig. 1 and in accordance with 12.3. 
+9. Dimensions 
+9.1 Unless otherwise specified, the product shall con­
+form to the requirements of Bl8.3. 
+9.2 Unless otherwise specified, threads shall be Unified 
+standard: Class 3A, UNRC and UNRF series for screw 
+sizes 0.060 through 1 in. inclusive; Class 2A, UNRC and 
+UNRF series for sizes over 1 in. to 1.500 in. inclusive; 
+and Class 2A UNRC series for sizes larger than 1.500 in. 
+in accordance with B 1. 1. 
+1015
+
+=== Page 1110 ===
+
+SA-574 ASME BPVC.11.A-2025 
+10. Workmanship, Finish, and Appearance 
+10.1 Discontinuities - The surface discontinuities for 
+these products shall conform to Specification 
+F 788/F 788M and the additional limitations specified 
+herein. 
+10.2 Socket Discontinuities: 
+10.2.1 Depth of discontinuities in the socket area 
+will be permissible within the limits of Condition 1 pro­
+vided they do not affect the usability and performance of 
+the screw. Discontinuities exceeding these limits are not 
+acceptable. 
+10.2.2 Longitudinal discontinuities must not exceed 
+0.25T in length. Permissible and nonpermissible disconti­
+nuities are shown in Fig. 2. 
+NOTE 2 - T = actual key engagement. 
+10.3 Permissible Head and Body Discontinuities- Dis­
+continuities as defined above are permitted in the locations 
+illustrated in Fig. 3 to the depths shown in 10.4. These 
+discontinuities are permitted, provided they do not affect 
+the usability and performance of the screw. All discontinu­
+ities are to be measured perpendicular to indicated surfaces. 
+10.4 Conditions for Permissible Discontinuity Depths: 
+10.4.1 Condition 1 - For bearing area, fillet, and 
+other surfaces, max depth = 0.03D or 0.005 in. (whichever 
+is greater). 
+NOTE 3 - D = nominal diameter of screw. 
+10.4.2 Condition 2 - For peripheral discontinuities, 
+max depth = 0.06D, but not to exceed 0.064. 
+10.5 Thread Discontinuities - Threads shall have no 
+laps at the root or on the flanks located below the pitch 
+line. Laps are permissible at the thread crest to a depth of 
+25% of the basic thread height and on the thread flanks 
+beyond the pitch diameter. Longitudinal seams in the 
+threads are acceptable within the limits of Condition 1 
+(10.4.1). 
+11. Number of Tests and Retests 
+11.1 The requirements of this specification shall be met 
+in continuous mass production for stock, and the manufac­
+turer shall make sample inspections to ensure that the prod­
+uct conforms to the specified requirements. Additional tests 
+of individual shipments of material are not ordinalily con­
+templated. A record of individual heats of steel in each 
+test lot shall be maintained. The container shall be coded 
+to permit identification of the lot. 
+11.2 When specified in the order, the manufacturer 
+shall furnish a test report certified to be the last complete 
+set of mechanical tests for each stock size in each shipment. 
+11.3 When additional tests are specified on the purchase 
+order, a lot, for purposes of selecting test samples, shall 
+consist of all screws offered for inspection at one time of 
+one diameter and length. From each lot, the number of 
+samples for each requirement shall be as follows: 
+Number of Pieces in Lot 
+800 and less 
+Over 800 to 8 000, incl. 
+Over 8 000 to 22 000, incl. 
+Over 22 000 
+Number of Samples 
+1 
+2 
+3 
+5 
+11.4 Should any sample fail to meet the requirements 
+of a specified test, double the number of samples from the 
+same lot shall be retested for the requirement(s) in which 
+it failed. All of the additional samples shall conform to 
+the specification or the lot shall be rejected. 
+12. Test Methods 
+12.1 Test the finished screws and specimens, as applica­
+ble, for mechanical properties and hardness requirements 
+of Section 7. Testing shall be in accordance with Test 
+Methods F 606 at room temperature. The minimum 
+required length for tension testing shall be 3D. The angle 
+used in wedge tests shall be as specified in Table 4. 
+12.2 The speed of testing, as determined with a free 
+running crosshead, shall be a maximum of 1 in./min for 
+the tension tests of screws. 
+12.3 Decarburization and carburization tests shall be 
+conducted as follows: 
+12.3.1 Section the thread area of the bolt longitudi­
+nally through the axis, mount, and polish it in accordance 
+with Practice E 3. Take measurements (1) at the minor 
+diameter in the center of the thread ridge, and (2) 0.75h 
+toward the thread crest on the perpendicular bisector of 
+the thread ridge. Take a measurement ( 3) on the thread 
+flank approximately at the pitch line at a depth of 0.003 in. 
+Use one of the two methods for carburization/decarburiza­
+tion evaluation either optical or microhardness measure­
+ments. The microhardness measurement shall constitute a 
+referee method in case of dispute. 
+12.3.2 For optical measurement, etch the section in 
+2 to 4% nital. Examine the surface of the etched samples 
+under a microscope at IO0x using a measuring eyepiece 
+graduated in 0.001-in. increments. The width of any light 
+etching band normally defines the decarburization depth. A 
+dark etching band indicates the possibility of carburization. 
+12.3.3 Measure microhardness in accordance with 
+Test Method E 384 on unetched specimens using a DPH 
+136° indenter or a Knoop indenter using the following load 
+application: 
+1016
+
+=== Page 1111 ===
+
+ASME BPVC.Il.A-2025 SA-574 
+Number of 
+Threads per Inch 
+Less than 40 
+40, 44, and 48 
+Over 48 
+Load 
+500 gf 
+200 gf 
+Use optical evaluation in 12.3.2 
+12.3.3.1 Take measurements at minor diameter 
+(Reading No. 1) on the thread crest bisector to determine 
+base metal hardness. Take measurements (Reading No. 2) 
+on the bisector 0.75h from the minor measurement toward 
+the thread crest. Also take measurements (Reading No. 3) 
+on the thread flank at the pitch line at a depth within 0.003 
+from the surface. Reading No. 3 may be taken on the same 
+or an adjacent thread. 
+12.3.4 Interpret microhardness readings as follows: 
+12.3.4.1 A decrease of more than 30 hardness 
+points from Reading No. 1 to Reading No. 2 shall be 
+regarded as decarburization and indicates the screw does 
+not conform to specification requirements. 
+12.3.4.2 An increase of more than 30 hardness 
+points from Reading No. 1 to Reading No. 3 shall be 
+regarded as carburization and indicates that the screw does 
+not conform to specification requirements. 
+13. Inspection 
+13.l If the additional tests described in 11.3 are required 
+by the purchaser it shall be specified in the inquiry, order, 
+or contract. 
+13.2 The inspector representing the purchaser shall 
+have free entry to all parts of the manufacturer's works 
+that concern the manufacture of the material ordered. The 
+manufacturer shall afford the inspector all reasonable facili­
+ties to satisfy him that the material is being furnished in 
+accordance with this specification. All tests and inspections 
+required by the specification that are requested by the pur­
+chaser's representative shall be made before shipment, and 
+shall be conducted as not to interfere unnecessarily with 
+the operation of the works. 
+14. Responsibility 
+14.1 The party responsible for the fastener shall be the 
+organization that supplies the fastener to the purchaser. 
+15. Rejection and Rehearing 
+15.1 Rejections based on requirements herein shall be 
+reported to the manufacturer within 30 days after receipt 
+of material by the purchaser. 
+16. Packaging and Package Marking 
+16.1 Packaging: 
+16.1.1 Unless otherwise specified, packaging shall 
+be in accordance with Practice D 3951. 
+16.1.2 When special packaging requirements are 
+required, they shall be defined at the time of the inquiry 
+and order. 
+16.2 Package Marking: 
+16.2.1 Each shipping unit shall include or be plainly 
+marked with the following information: 
+16.2.1.1 ASTM designation, 
+16.2.1.2 Size, 
+16.2.1.3 Name and brand or trademark of the man-
+ufacturer, 
+16.2.1.4 Number of pieces, 
+16.2.1.5 Purchase order number, and 
+16.2.1.6 Country of origin. 
+17. Keywords 
+17.1 alloy steel; cap screws; socket head 
+FIG. 1 DEFINITION OF PARTIAL DECARBURIZATION LIMITS 
+Decarburization 
+r 
+0.1 h 5 
+1017
+
+=== Page 1112 ===
+
+SA-574 ASME BPVC.II.A-2025 
+FIG. 2 SOCl<ET DISCONTINUITY LOCATION AND LIMITS 
+Permissible if not in excess 
+of 0.25 Tin length and not 
+within 0.10Tfrom bottom 
+of socket. 
+Permissible - not in area of 
+key engagement. 
+(bottom of socket). 
+0.107- No cracks 
+permitted in this area. 
+Not permissible - bottom of 
+socket or within 0.10Tof 
+bottom of socket. 
+FIG. 3 HEAD AND BODY DISCONTINUITY LOCATION AND LIMITS 
+Permissible 
+(condition 2) 
+Permissible (condition 1) 
+Not permissible - potential 
+intersecting discontinuities. 
+Permissible - does not extend more than 
+half the distance between the periphery 
+of the head and the socket. 
+Not permissible -
+connects socket 
+and edge of head. 
+Permissible 
+(condition 2 
+max. depth) 7 r Permissible (condition 1 max. depth) 
+L_ bearing area, body, and threads, 
+:!===::i::=:,-:;m (longitudinal direction only). 
+1018
+
+=== Page 1113 ===
+
+ASME BPVC.II.A-2025 SA-574 
+TABLE 1 DELETED 
+TABLE 2 
+TENSILE REQUIREMENTS 
+FOR COARSE THREAD SCREWS TABLE 3 
+Proof Load TENSILE REQUIREMENTS 
+(Length FOR FINE THREAD SCREWS 
+Screw Tensile Measurement Proof Load 
+Dia Threads/ Load, Stress Method), (Length 
+(0), in. in. Min., lbfA Area, in. 28 Min., lbfc Screw Tensile Measurement 
+Dia Threads/ Load, min, Stress Method), 
+0.073 64 473 0.00263 368 (D), in. in. Min., lbfA Area, in. 28 Min., lbfc 
+,✓---._ 
+0.086 56 666 0.00370 518 
+0.099 48 877 0.00487 682 0.060 80 324 0.00180 252 
+0.112 40 1,090 0.00604 846 0.073 72 500 0.00278 389 
+0.125 40 1,430 0.00796 1,110 0.086 64 709 0.00394 552 
+0.138 32 1,640 0.00909 1,270 0.099 56 941 0.00523 732 
+0.164 32 2,520 0.0140 1,960 0.112 48 1,190 0.00661 925 
+0.190 24 3,150 0.0175 2,450 0.125 44 1,490 0.00830 1,160 
+0.250 20 5,730 0.0318 4,450 0.138 40 1,830 0.01015 1,420 
+0.3125 18 9,440 0.0524 7,340 0.164 36 2,650 0.01474 2,060 
+0.375 16 13,900 0.0775 10,800 0.190 32 3,600 0.0200 2,800 
+0.4375 14 19,100 0.1063 14,900 0.250 28 6,500 0.0364 5,100 
+0.500 13 25,500 0.1419 19,900 0.3125 24 10,400 0.0580 8,120 
+0.375 24 15,800 0.0878 12,300 0.625 11 38,400 0.226 30,500 0.4375 20 21,400 0.1187 16,600 0.750 10 56,800 0.334 45,100 0.500 20 28,800 0.1599 22,400 
+0.875 9 78,500 0.462 62,400 0.625 18 43,500 0.256 34,600 
+1.000 8 103,000 0.606 81,800 0.750 16 63,400 0.373 50,400 
+1.125 7 129,000 0.763 103,000 0.875 14 86,500 0.509 68,700 
+1.250 7 165,000 0.969 131,000 1.000 12 113,000 0.663 89,500 
+1.375 6 196,000 1.155 156,000 1.125 12 146,000 0.856 116,000 
+1.500 6 239,000 1.405 190,000 1.250 12 182,000 1.073 145,000 
+1.750 5 323,000 1.90 256,000 1.375 12 224,000 1.315 178,000 
+2.000 4 1 /2 425,000 2.50 338,000 1.500 12 269,000 1.581 213,000 
+2.250 4 1 /2 552,000 3.25 439,000 
+2.500 4 680,000 4.00 540,000 NOTES: 
+2.750 4 838,000 4.93 666,000 A Values based on 180 ksi for 0.500 and smaller and 170 ksi for sizes 
+3.000 4 1,010,000 5.97 806,000 larger than 0.500 in. and stress area in accordance with Footnote 8. 
+3.250 4 1,210,000 7.10 958,000 8 Stress areas based on H-28 as follows: 
+3.500 4 1,420,000 8.33 1,120,000 
+3.750 4 1,640,000 9.66 1,300,000 
+As = 0.7854 [D - (0.9743/n)J 2 
+4.000 4 1,880,000 11.08 1,500,000 
+NOTES: where: 
+A Values based on 180 ksi for 0.500 and smaller and 170 ksi for As = stress area, 
+sizes larger than 0.500 in. and stress area in accordance with Foot- D = nominal screw size, and 
+note 8. n = threads/in. 
+8 Stress areas based on Handbook H-28 (U.S. Department of Com- c Values based on 140 ksi for 0.500 and smaller and 135 ksi for sizes 
+mercel as follows: larger than 0.500 in. and stress area in accordance with Footnote 8. 
+As= 0.7854 [D - (0.9743/n)J 2 
+where: 
+As = stress area, 
+D = nominal screw size, and 
+n = threads/in. 
+c Values based on 140 ksi for 0.500 and smaller and 135 ksi for sizes 
+larger than 0.500 in. and stress area in accordance with Footnote 8. 
+~ 
+1019
+
+=== Page 1114 ===
+
+SA-574 ASME BPVC.II.A-2025 
+TABLE 4 
+WEDGE TEST ANGLES 
+Wedge Angle, Deg 
+Body Lengths 
+2D or Less or Body Lengths 
+Screw Size, Threaded to Greater Than 
+D, in. the Head 2D 
+0.112 to 0.500, incl. 6 10 
+0.625 to 0. 750, incl. 6 8 
+0.875 to 1.500, incl. 4 6 
+TABLE 5 
+DECARBURIZATION LIMITS 
+0.75 h 5 from 0.1 h 5 at 
+Thread Root to Root, 
+Threads/in. Height, hs Crest, Min. Max. 
+48 0.013 0.010 0.001 
+44 0.014 0.011 0.001 
+40 0.015 0.011 0.002 
+36 0.017 0.013 0.002 
+32 0.019 0.014 0.002 
+28 0.022 0.017 0.002 
+24 0.026 0.020 0.003 
+20 0.031 0.023 0.003 
+18 0.034 0.026 0.003 
+16 0.038 0.029 0.004 
+14 0.044 0.033 0.004 
+13 0.047 0.035 0.005 
+12 0.051 0.038 0.005 
+11 0.056 0.042 0.006 
+10 0.061 0.046 0.006 
+9 0.068 0.051 0.007 
+8 0.077 0.058 0.008 
+7 0.088 0.066 0.009 
+6 0.102 0.077 0.010 
+5 0.123 0.092 0.012 
+4.5 0.136 0.102 0.014 
+4 0.153 0.115 0.015 
+1020 
+---"
+
+=== Page 1115 ===
+
+( 
+ASME BPVC.II.A-2025 
+SUPPLEMENTARY REQUIREMENTS 
+The following Supplementary Requirement shall apply only when specified by the purchaser 
+in the contract or purchase order .. Supplementary requirements shall in no way negate any 
+requirement of the specification itself. 
+SA-574 
+Sl. Specific Grade Chemical Compositions 
+Sl.1 When Supplementary Requirement S 1 is specified 
+on the order, the chemical composition shall conform to 
+one of the compositions in Table S 1.1 at the option of the 
+supplier, unless a specific composition (Grade) has been 
+specified on the purchase order. 
+Grade Designation 4037 4042 4137 
+UNS Number G40370 G40420 G41370 
+Carbon: 
+Heat analysis 0.35-0.40 0.40-0.45 0.35-0.40 
+Product analysis 0.33-0.42 0.38-0.47 0.33-0.42 
+Manganese: 
+Heat analysis 0.70-0.90 0.70-0.90 0.70-0.90 
+Product analysis 0.67-0.93 0.67-0.93 0.67-0.93 
+Phosphorus, max.: 
+Heat analysis 0.035 0.035 0.035 
+Product analysis 0.040 0.040 0.040 
+Sulfur, max.: 
+Heat analysis 0.040 0.040 0.040 
+Product analysis 0.045 0.045 0.045 
+Silicon: 
+Heat analysis 0.15-0.35 0.15-0.35 0.15-0.35 
+Product analysis 0.13-0.37 0.13-0.37 0.13-0.37 
+Nickel: 
+Heat analysis A A A 
+Product analysis . . . . . . ... 
+Chromium: 
+Heat analysis A A 0.80-1.10 
+Product analysis ... . .. 0.75-1.15 
+Molybdenum: 
+Heat analysis 0.20-0.30 0.20-0.30 0.15-0.25 
+Product analysis 0.18-0.32 0.18-0.32 0.13-0.27 
+Boron: 
+Heat analysis A A A 
+Product analysis . . . . . . . . . 
+NOTES: 
+TABLE S1.1 
+CHEMICAL COMPOSITION 
+4140 4142 4145 
+G41400 G41420 G41450 
+0.38-0.43 0.40-0.45 0.43-0.48 
+0.36-0.45 0.38-0.47 0.41-0.50 
+0.75-1.00 0.75-1.00 0.75-1.00 
+0.71-1.04 0.71-1.04 0.71-1.04 
+0.035 0.035 0.035 
+0.040 0.040 0.040 
+0.040 0.040 0.040 
+0.045 0.045 0.045 
+0.15-0.35 0.15-0.35 0.15-0.35 
+0.13-0.37 0.13-0.37 0.13-0.37 
+A A A 
+. . . . . . . . . 
+0.80-1.10 0.80-1.10 0.80-1.10 
+0.75-1.15 0.75-1.15 0.75-1.15 
+0.15-0.25 0.15-0.25 0.15-0.25 
+0.13-0.27 0.13-0.27 0.13-0.27 
+A A A 
+. . . . . . . .. 
+A Elements shown with an "A" are not applicable to that grade designation. 
+8 Boron is not subject to product analysis. 
+1021 
+4340 8740 5137M 51B37M 
+G43400 G87400 .. . ... 
+0.38-0.43 0.38-0.43 0.35-0.40 0.33-0.40 
+0.36-0.45 0.36-0.45 0.33-0.42 0.31-0.42 
+0.60-0.80 0.75-1.00 0.30-0.50 0.30-0.50 
+0.57-0.83 0.71-1.04 0.27-0.53 0.27-0.53 
+0.035 0.035 0.035 0.035 
+0.040 0.040 0.040 0.040 
+0.040 0.040 0.040 0.040 
+0.045 0.045 0.045 0.045 
+0.15-0.35 0.15-0.35 0.15-0.35 0.15-0.35 
+0.13-0.37 0.13-0.37 0.13-0.37 0.13-0.37 
+1.65-2.00 0.40-0.70 A A 
+1.60-2.05 0.37-0.73 . . . . .. 
+0.70-0.90 0.40-0.60 0.90-1.20 0.95-1.25 
+0.67-0.93 0.37-0.63 0.85-1.25 0.90-1.30 
+0.20-0.30 0.20-0.30 A A 
+0.18-0.32 0.18-0.32 . . . ... 
+A A A 0.0005-0.003 
+B . . . . . . ...
+
+=== Page 1117 ===
+
+| SPECIFICATION FOR ELECTRIC-RESISTANCE-WELDED
+LOW-CARBON STEEL PIPE FOR THE CHEMICAL |
+
+INDUSTRY |
+
+CxS SA-587 7
+
+(Identical with ASTM Specification A587-96(2005) except for the deletion of 1.5.)
+
+1023
+
+=== Page 1118 ===
+
+SA-587 ASME BPVC.II.A-2025 
+Standard Specification for 
+Electric-Resistance-Welded Low-Carbon Steel Pipe for the 
+Chemical Industry 
+1. Scope 
+1.1 This specification covers electric-resistance-welded 
+low-carbon steel pipe intended for use as process lines. 
+1.2 Pipe ordered under this specification shall be suitable for 
+severe forming operations involving flanging in all sizes and 
+bending to close radii up to and including NPS 4. 
+1.3 This specification covers NPS ½ through 10, plus 
+additional sizes. The corresponding outside diameters and wall 
+thicknesses for NPS ½ through 10 are listed in Table 1, as are 
+the dimensions for the additional sizes. 
+Norn 1-The dimensionless designator NPS (nominal pipe size) has 
+been substituted in this standard for such traditional terms as "nominal 
+diameter," "size," and "nominal size." 
+1.4 The values stated in inch-pound units are to be regarded 
+as standard. The values given in parentheses are mathematical 
+conversions to SI units that are provided for information only 
+and are not considered standard. 
+1.5 DELETED 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+A53/A53M Specification for Pipe, Steel, Black and Hot­
+Dipped, Zinc-Coated, Welded and Seamless 
+A370 Test Methods and Definitions for Mechanical Testing 
+of Steel Products 
+A530/A530M Specification for General Requirements for 
+Specialized Carbon and Alloy Steel Pipe 
+A751 Test Methods, Practices, and Terminology for Chemi­
+cal Analysis of Steel Products 
+E213 Practice for Ultrasonic Testing of Metal Pipe and 
+Tubing 
+E273 Practice for Ultrasonic Testing of the Weld Zone of 
+Welded Pipe and Tubing 
+E309 Practice for Eddy-Current Examination of Steel Tubu­
+lar Products Using Magnetic Saturation 
+E570 Practice for Flux Leakage Examination of Ferromag­
+netic Steel Tubular Products 
+3. Ordering Information 
+3.1 Orders for material under this specification should 
+include the following as required to describe the desired 
+material adequately: 
+3.1.1 Quantity (feet or number of pieces), 
+3.1.2 Name of material (electric-resistance-welded steel 
+pipe), 
+3.1.3 Size (NPS or outside diameter and wall thickness), 
+3.1.4 Length (definite cut length or random), 
+3.1.5 Test report required (see 14.2), 
+3.1.6 Specification number, and 
+3.1.7 Special requirements. 
+4. Materials and Manufacture 
+4.1 Process-The steel shall be aluminum killed steel made 
+by one or more of the following processes: open-hearth, 
+basic-oxygen, or electric-furnace. 
+4.2 Steel may be cast in ingots or may be strand cast. When 
+steels of different grades are sequentially strand cast, identifi­
+cation of the resultant transition material is required. The 
+producer shall remove the transition material by any estab­
+lished procedure that positively separates the grades. 
+4.3 Manufacture-The pipe shall be made by electric resis­
+tance welding. 
+4.4 Heat Treatment-Pipe furnished in the as-welded con­
+dition shall be normalized at a temperature above the upper 
+1024 
+, ~ ,
+
+=== Page 1119 ===
+
+,,,--, 
+,,..-- .... _ 
+ASME BPVC.II.A-2025 SA-587 
+TABLE 1 Tolerance for Outside Diameter and Wall Thickness 
+NPS Outside Diameter 
+Designator Min 
+0.8125 :!: 0.004 0.095 
+½ 0.840 :1: 0.006 0.095 
+% 1.050 :!:0.006 0.099 
+1.0625 :1: 0.006 0.099 
+1.3125 :!: 0.006 0.116 
+1.315 :1: 0.006 0.116 
+1¼ 1.660 ± 0.007 0.121 
+1.875 ± 0.008 0.127 
+1½ 1.900 ± 0.008 0.127 
+2 2.375 ± 0.010 0.135 
+3 3.500±0.015 0.189 
+4 4.500 ± 0.017 0.207 
+6 6.625 ± .030 0.245 
+8 8.625 :1: .040 0.282 
+10 10.750 ± .050 0.319 
+20.64:1: 0.10 2.41 
+½ 21.30 ± 0.15 2.41 
+% 26.70 :1: 0.15 2.51 
+26.99 :1: 0.15 2.51 
+33.34 ± 0.15 2.95 
+33.40 :1: 0.15 2.95 
+1¼ 42.16 :1: 0.18 3.07 
+47.63 ± 0.20 3.22 
+1½ 48.30 ± 0.020 3.22 
+2 60.33 ± 0.25 3.43 
+3 88.90 ± 0.38 4.80 
+4 114.30 ± 0.43 5.26 
+6 168.28 :1: 0.76 6.22 
+8 219.08 ± 1.02 7.16 
+10 273.05 :1: 1.27 8.10 
+critical temperature. Cold-drawn pipe shall be normalized after 
+the final cold-draw pass. 
+5. Chemical Composition 
+5.1 Heat Analysis-An analysis of each heat of steel shall be 
+made to determine the percentages of the elements specified. 
+The chemical composition thus determined shall conform to 
+the requirements specified in Table 2 and the chemical analysis 
+shall be in accordance with Test Methods, Practices, and 
+Terminology A751. 
+5.2 Product Analysis-When requested on the purchase 
+order, a product analysis shall be made by the supplier from 
+one pipe or coil of steel per heat. The chemical composition 
+thus determined shall be reported to the purchaser or the 
+purchaser's representative and shall conform to the require­
+ments specified in Table 2. 
+5.3 Retests-If the original test for product analysis fails, 
+retests of two additional lengths of flat-rolled stock or pipe 
+shall be made. Both retests for the elements in question shall 
+meet the requirements of the specification; otherwise, all 
+remaining material in the heat shall be rejected or, at the option 
+TABLE 2 Chemical Composition Requirements 
+Element 
+Carbon, max 
+Manganese 
+Phosphorus, max 
+Sulfur, max 
+Aluminum 
+Composition, % 
+0.15 
+0.27-0.63 
+0.035 
+0.035 
+0.02-0.100 
+Wall Thickness 
+Norn Max Min Norn Max 
+Inches 
+0.103 0.111 0.129 0.140 0.151 
+0.103 0.111 0.125 0.140 0.151 
+0.108 0.117 0.135 0.147 0.159 
+0.108 0.117 0.135 0.147 0.159 
+0.126 0.136 0.157 0.171 0.185 
+0.126 0.136 0.157 0.171 0.185 
+0.132 0.143 0.167 0.182 0.197 
+0.138 0.149 0.175 0.190 0.205 
+0.158 0.149 0.175 0.190 0.205 
+0.147 0.159 0.191 0.208 0.225 
+0.206 0.223 0.262 0.286 0.310 
+0.226 0.245 0.295 0.322 0.349 
+0.267 0.289 0.378 0.412 0.446 
+0.308 0.334 0.438 0.478 0.518 
+0.348 0.377 0.520 0.567 0.614 
+Millimetres 
+2.62 2.82 3.28 3.56 3.84 
+2.62 2.82 3.28 3.56 3.84 
+2.74 2.97 3.43 3.73 4.04 
+2.74 2.97 3.43 3.73 4.04 
+3.20 3.45 3.99 4.34 4.10 
+3.20 3.45 3.99 4.34 4.70 
+3.35 3.63 4.24 4.62 5.00 
+3.51 3.78 4.45 4.83 5.21 
+3.51 3.78 4.45 4.83 5.21 
+3.73 4.04 4.85 5.28 5.72 
+5.23 5.66 6.66 7.26 7.87 
+5.74 6.22 7.49 8.18 8.87 
+9.32 7.34 9.60 10.47 11.33 
+7.82 8.48 11.13 12.14 13.16 
+8.84 9.58 13.21 14.40 15.60 
+of the producer, each length of flat-rolled stock or pipe may be 
+individually tested for acceptance. Lengths of flat-rolled stock 
+or pipe which do not meet the requirements of the specification 
+shall be rejected. 
+5.4 Supplying an alloy grade of steel that specifically 
+requires the addition of any element other than those listed in 
+Table 2 is not permitted. 
+6. Mechanical Requirements 
+6.1 Tensile Properties: 
+6.1.1 The material shall conform to the requirements as to 
+tensile properties prescribed in Table 3. 
+6.1.2 The yield strength shall be determined by the drop of 
+the beam, by the halt in the gauge of the testing machine, by the 
+use of dividers, or by other approved methods. When a definite 
+yield point is not exhibited, the yield strength corresponding to 
+a permanent offset of 0.2 % of the gauge length of the 
+specimen, or to a total extension of 0.5 % of the gauge length 
+under load, shall be determined. 
+6.1.3 If the percentage of elongation of any test specimen is 
+less than that specified and any part of the fracture is more than 
+¾ in. ( 19 mm) from the center of the gauge length, as indicated 
+by scribe marks on the specimen before testing, a retest shall be 
+allowed. 
+1025 
+TABLE 3 Tensile Requirements 
+Tensile strength, min, psi (MPa) 
+Yield strength, min, psi (MPa) 
+Elongation in 2 in. or 50 mm, min, % 
+48 000 (331) 
+30 000 (207) 
+40
+
+=== Page 1120 ===
+
+SA-587 ASME BPVC.II.A-2025 
+6.2 Flattening Test: 
+6.2.1 A section of pipe not less than 4 in. (102 mm) in length 
+shall be flattened cold between parallel plates in two steps. The 
+weld shall be placed 90° from the direction of the applied 
+force. During the first step, which is a test for ductility, no 
+cracks or breaks, except as provided for in 6.2.5, shall occur on 
+the inside or outside surfaces until the distance between the 
+plates is less than the value of H, calculated by the following 
+equation: 
+H = [(1 +e)t]l[e+t!D] (1) 
+where: 
+H = distance between flattening plates, in., 
+t = specified wall thickness of the pipe, in., 
+D = specified outside diameter of the pipe, in., and 
+e = deformation per unit length (0.09 for low-carbon steel). 
+6.2.2 During the second step, which is a test for soundness, 
+the flattening shall be continued until the specimen breaks or 
+the opposite walls of the pipe meet. Evidence of laminated or 
+unsound material, or of incomplete weld that is revealed during 
+the entire flattening test shall be cause for rejection. 
+6.2.3 Surface imperfections in the test specimens before 
+flattening, but revealed during the first step of the flattening 
+test, shall be judged in accordance with the finish requirements. 
+6.2.4 Superficial ruptures resulting from surface imperfec­
+tions shall not be cause for rejection. 
+6.2.5 When low D-to- t ratio tubulars are tested, because the 
+strain imposed due to geometry is unreasonably high on the 
+inside surface at the 6 and 12 o'clock locations, cracks at these 
+locations shall not be cause for rejection if the D-to-t ratio is 
+less than 10. 
+6.3 Reverse Flattening Test-A section 4 in. ( 102 mm) in 
+length of pipe in sizes down to and including 13 /16 in. (20.6 mm) 
+in outside diameter shall be split longitudinally 90° on each 
+side of the weld and the sample opened and flattened with the 
+weld at the point of maximum bend. There shall be no evidence 
+of cracks or lack of penetration or overlaps resulting from flash 
+removal in the weld. 
+6.4 Flange Test-A section of pipe not less than 4 in. (102 
+mm) in length shall be capable of having a flange turned over 
+at a right angle to the body of the pipe without cracking or 
+showing flaws. This flange, as measured from the outside of the 
+pipe, shall be not less than Vs in. (3.2 mm) nor more than½ in. 
+(12.7 mm). Within these limits, the width of the flange shall be 
+not less than the percentages specified in Table 4. 
+7. Dimensions and Permissible Variations 
+7.1 Permissible Variations in Outside Diameter and Wall 
+Thickness-The outside diameter and wall thickness variations 
+shall not exceed the limits prescribed in Table 1. 
+TABLE 4 Flange Requirements 
+Outside Diameter of Pipe, in. 
+Over ¾ to 2½, Incl 
+Over 2½ to 3¾, incl 
+Over 3¾ to 4½, incl 
+Over 4½ to 6%, incl 
+over6% 
+Width of Flange, % of OD 
+15 
+12½ 
+10 
+7½ 
+5 
+7 .2 Permissible Variations in Straightness-Bach pipe shall 
+be straight within 0.030 in. (0.76 mm) maximum deflection in 
+any 3 ft (0.91 m) length to 8 NPS. For 8 NPS and above, pipe 
+shall be straight within 0.060 in. (1.52 mm) maximum deflec­
+tion in any 3 ft (0.91 m) length. Galvanized pipe shall be 
+reasonably straight. 
+7.3 Lengths: 
+7.3.1 Pipe may be ordered in definite cut lengths or in 
+random lengths as provided herein. 
+7.3.2 When ordered in definite cut lengths, the variation in 
+length shall not exceed the amounts prescribed in Table 5. 
+7.3.3 If definite lengths are not required, pipe may be 
+ordered in single random lengths of 16 to 22 ft (4.9 to 6.7 m) 
+with 5 % 12 to 16 ft (3.7 to 4.9 m), or in double random lengths 
+with a minimum average of 35 ft (10.7 m) and a minimum 
+length of 22 ft (6.7 m) with 5 % 16 to 22 ft (4.9 to 6.7 m). 
+8. Workmanship, Finish, and Appearance 
+8.1 The finished pipe shall be free of injurious defects and 
+shall have a workman-like finish. Minor defects may be 
+removed by grinding, provided the wall thickness is not 
+reduced to less than the minimum thickness permitted for the 
+ordered nominal wall thickness. 
+8.2 The pipe shall have smooth ends free of burrs and free 
+of scale except that the pipe may have a superficial "blue" 
+oxide film on the surfaces. 
+8.3 For NPS ½ to 1 ½ inclusive, the inside diameter welding 
+flash shall be removed so that the remaining flash does not 
+exceed 0.006 in. (0.15 mm). For NPS over 1 ½, the remaining 
+inside diameter welding flash shall not exceed 0.010 in. (0.25 
+mm). 
+8.4 For all nominal sizes, the outside diameter welding flash 
+shall be removed flush with the outside diameter contour. 
+8.5 Undercut flash must be smoothly blended into the pipe 
+wall. 
+8.6 The intent of the flash conditions as prescribed in 8.3, 
+8.4, and 8.5 is to obtain a surface contour suitable for flanging. 
+9. Number of Tests 
+9.1 Two tensile tests as specified in 6.1 shall be made from 
+each heat. 
+9 .2 The flattening test as specified in 6.2 shall be made on 
+two lengths of pipe from each lot of 250 lengths or fraction 
+thereof. 
+TABLE 5 Permissible Variations in LengthA 
+Outside Diameter, in. 
+Under2 
+2 and over 
+Cut Length, in. (mm) 
+Over 
+1/e (3.2) 
+o/10 (4.8) 
+Under 
+0 
+0 
+A These permissible variations In length apply to pipe before bending. They 
+apply to cut lengths up to and including 24 ft (7.3 m). For lengths over 24 ft, an 
+additional over-tolerance of 1/a in. for each 1 O ft (3.0 m) or fraction thereof shall be 
+permissible, up to a maximum of½ in. (12.7 mm). 
+1026
+
+=== Page 1121 ===
+
+ASME BPVC.II.A-2025 SA-587 
+9.3 The reverse flattening test specified in 6.3 shall be made 
+on 1 length of pipe from each lot of 250 lengths or fraction 
+thereof. 
+9.4 The flange test as specified in 6.4 shall be made on 
+specimens from 2 lengths of pipe from each lot of 250 lengths 
+or fraction thereof. 
+10. Retests 
+10.1 If the results of the mechanical tests of any heat or lot 
+do not conform to the requirements specified, retests may be 
+made on additional pipe of double the original number from the 
+same heat or lot, each of which shall conform to the require­
+ments specified. 
+11. Retreatment 
+11.1 If a heat or lot fails to conform to the test requirements, 
+that heat or lot may be reheat treated and resubmitted for tests. 
+Not more than one reheat treatment shall be permitted. 
+12. Test Specimens and Methods of Testing 
+12.1 The test specimens and the tests required by this 
+specification shall conform to those described in Test Methods 
+and Definitions A370. 
+12.2 Test specimens shall be taken from the ends of finished 
+pipe prior to upsetting, swaging, expanding, or other forming 
+operations, or being cut to length. They shall be smooth on the 
+ends and free from burrs and flaws. 
+12.3 If any test specimen shows flaws or defective machin­
+ing, it may be discarded and another specimen substituted. 
+13. Nondestructive Test 
+13.1 The nondestructive test shall be made instead of the 
+hydrostatic test. 
+13.1.1 The test shall provide a 360° inspection for sizes up 
+to and including 3½ in. (88.9 mm) outside diameter. 
+13.1.2 For pipe larger than 3½ in. (88.9 mm) outside 
+diameter, nondestructive inspection of the weld and heat 
+affected zone is required. 
+13.2 Each pipe shall be tested with a nondestructive test in 
+accordance with Practices E213, E273, E309, or E570. Except 
+as provided in 13.6.2, it is the intent of this test to reject pipe 
+with imperfections that produce test signals equal to or greater 
+than that of the calibration standard. In order to accommodate 
+the various types of nondestructive testing equipment and 
+techniques in use, and manufacturing practices employed, any 
+one of the following calibration standards may be used, at the 
+option of the producer, to establish a minimum sensitivity level 
+for rejection: 
+13.3 For eddy-current testing, the calibration pipe shall 
+contain, at the option of the producer, any one of the following 
+discontinuities to establish a minimum sensitivity level for 
+rejection. For welded pipe, they shall be placed in the weld if 
+visible. 
+13.3.1 Drilled Hole-A hole not larger than 0.031 in. (0.79 
+mm) in diameter shall be drilled radially and completely 
+through the pipe wall, taking care to avoid distortion of the 
+pipe while drilling. 
+13.3.2 Transverse Tangential Notch-Using a round tool or 
+file with a ¼-in. 6.4 mm diameter, a notch shall be filed or 
+milled tangential to the surface and transverse to the longitu­
+dinal axis of the pipe, preferably in the weld area. Said notch 
+shall have a depth not exceeding 12½ % of the specified wall 
+thickness of the pipe or 0.004 in. (0.10 mm), whichever is 
+greater. 
+13.3.3 Longitudinal Notch-A notch 0.031 in. (0.79 mm) or 
+less in width shall be machined in a radial plane parallel to the 
+pipe axis on the outside surface of the pipe, to a depth not 
+exceeding 121/2 % of the specified wall thickness of the pipe or 
+0.004 in. (0.102 mm), whichever is greater. The length of the 
+notch shall be compatible with the testing method. 
+13.4 For ultrasonic testing, the longitudinal calibration ref­
+erence notches shall be at the option of the producer, any one 
+of the three common notch shapes shown in Practices E213 or 
+E273. The depth of the notch shall not exceed 12½ % of the 
+specified wall thickness of the pipe or 0.004 in. (0.102 mm), 
+whichever is greater. For welded pipe, the notch shall be placed 
+in the weld, if visible. 
+13.5 For flux leakage testing, each of the longitudinal 
+calibration notches shall be a straight-sided notch not over 12½ 
+% of the wall thickness in depth and not over 1.0 in. (25 mm) 
+in length. Both outside diameter and inside diameter notches 
+shall be placed in the tube located sufficiently apart to enable 
+separation and identification of the signals. 
+13.6 Pipe producing a signal equal to or greater than the 
+calibration defect shall be subject to rejection. The area 
+producing the signal may be examined. 
+13.6.1 Test signals produced by imperfections that cannot 
+be identified, or produced by cracks or crack-like defects shall 
+result in rejection of the pipe subject to rework and retest. 
+13.6.2 Test signals produced by imperfections such as those 
+listed below may be judged as injurious or noninjurious 
+depending on visual observation or their severity or the type of 
+signal they produce on the testing equipment used, or both: 
+13.6.2.1 Dinges, 
+13.6.2.2 Straightener marks, 
+13.6.2.3 Loose inside diameter bead and cutting chips, 
+13.6.2.4 Scratches, 
+13.6.2.5 Steel die stamps, 
+13.6.2.6 Chattered flash him, 
+13.6.2.7 Stop marks, or 
+13.6.2.8 Tube reducer ripple. 
+13.6.3 Any imperfection of the above type exceeding 
+0.004 in. (0.102 mm) or 12½ % of the specified wall thickness 
+(whichever is greater) in depth shall be considered injurious. 
+13.6.3.1 If the imperfection is judged as injurious, the pipe 
+shall be rejected but may be reconditioned and retested 
+providing the dimensional requirements are met. 
+13.6.3.2 If the imperfection is explored to the extent that it 
+can be identified as noninjurious, the pipe may be accepted 
+without further test providing the imperfection does not en­
+croach on the minimum wall thickness. 
+14. Inspection 
+14.1 The inspector shall have entry at all times while work 
+on an order is being done to all parts of the manufacturer's 
+1027
+
+=== Page 1122 ===
+
+SA-587 ASME BPVC.II.A-2025 
+works that concern the manufacture of the pipe ordered. The 
+manufacturer shall afford the inspector, without charge, all 
+reasonable facilities to satisfy the inspector that the material is 
+being furnished in accordance with this specification. All tests 
+and inspection shall be made prior to shipment. 
+14.2 When inspection at the place of manufacture has been 
+waived by customer, the manufacturer shall furnish a statement 
+that the material has been tested and has met all the require­
+ments of this specification. A certificate or report shall be made 
+available to customer when all the requirements of this 
+specification have been met. When Supplementary Require­
+ment S 1 is furnished, certificates or reports furnished shall bear 
+the notation "S-1." 
+15. Rejection 
+15.1 Each length of pipe received from the manufacturer 
+may be inspected by the purchaser and, if it does not meet the 
+requirements of this specification based on the inspection and 
+test method as outlined in the specification, the length may be 
+rejected and the manufacturer shall be notified. Disposition of 
+rejected pipe shall be a matter of agreement between the 
+manufacturer and the purchaser. 
+15.2 Pipe found in fabrication or in installation to be 
+unsuitable for the intended use, under the scope and require­
+ments of this specification, may be set aside and the manufac­
+turer notified. Such pipe shall be subject to mutual investiga­
+tion as to the nature and severity of the deficiency and the 
+forming or installation, or both, conditions involved. Disposi­
+tion shall be a matter for agreement. 
+16. Product Marking 
+16.1 Each length of pipe NPS 1 ½ and larger shall be legibly 
+marked by either stenciling or stenciling and light die marking. 
+The die marking shall include the manufacturer's logo or 
+symbol and the stenciling shall include the name or brand of 
+the manufacturer, size, heat number, and the specification 
+number. Such marking shall be applied starting within 8 in. 
+(203 mm) of the end of each length. 
+16.2 For NPS under 1 ½ the markings prescribed in 16.1 
+may be applied to tags and securely attached to the bundle, 
+bale, or other unit, prepared for shipment. 
+16.3 A tag shall be securely attached to each bundle of pipe 
+shipped indicating the name of the manufacturer, size, wall 
+thickness, length, and specification. 
+16.4 Bar Coding-In addition to the requirements in 16.1, 
+16.2, and 16.3, bar coding is acceptable as a supplemental 
+identification method. The purchaser may specify in the order 
+a specific bar coding system to be used. 
+17. Packaging 
+17 .1 The manufacturer, at his option, will box, crate, carton, 
+or package in secured lifts, or bundle to ensure safe delivery. 
+Special packaging requiring extra operations other than those 
+normally used by the manufacturer must be specified on the 
+order. 
+SUPPLEMENTARY REQUIREMENTS 
+One or more of the supplementary requirements described below may be included in the purchaser's 
+order or contract. When so included, a supplementary requirement shall have the same force as if it 
+were in the body of the specification. Supplementary requirements details not fully described shall be 
+agreed upon between the purchaser and the supplier, but shall not negate any of the requirements in 
+the body of the specification. 
+Sl. Hydrostatic Testing 
+S1.1 Hydrostatic testing shall be in accordance with Speci­
+fication A530/A530M. When this supplement is furnished the 
+pipe shall be marked "S-1." 
+S2. Galvanizing 
+S2.1 Galvanizing shall be in accordance with Specification 
+A53/A53M, except that the rate of application shall be 1.3 
+minimum to 1.7 maximum oz per f. 
+S3. Surface Coatings 
+S3.1 All surfaces shall be coated, the exterior with a hard 
+drying lacquer, and the interior with a suitable rust inhibitor. 
+1028
+
+=== Page 1123 ===
+
+ASME BPVC.ILA-2025 SA-592/SA-592M
+
+SPECIFICATION FOR HIGH-STRENGTH QUENCHED AND
+TEMPERED LOW-ALLOY STEEL FORGED FITTINGS AND
+PARTS FOR PRESSURE VESSELS
+
+CxS SA-592/SA-592M ily
+® ence Honor
+
+(Identical with ASTM Specification A592/A592M-04(2009).)
+
+1029
+
+=== Page 1124 ===
+
+SA-592/SA-592M ASME BPVC.II.A-2025 
+SPECIFICATION FOR HIGH-STRENGTH QUENCHED 
+AND TEMPERED LOW-ALLOY STEEL FORGED 
+FITTINGS AND PARTS FOR PRESSURE VESSELS 
+SA-592/SA-592M 0 
+INTERNATIONAL 
+Standards Worldwide 
+[Identical with ASTM Specification A 592/ A 592M-04(2009).] 
+1. Scope 
+1.1 This specification covers high-strength quenched 
+and tempered low-alloy steel forged fittings and parts for 
+pressure vessels. The maximum thickness of forgings under 
+this specification shall be 1½ in. [38 mm] for Grade A, 
+and 4 in. [100 mm] for Grades E and F. 
+NOTE 1- These grades are similar to corresponding grades in Specifica­
+tion A 517 /A 517M. 
+1.2 Although no provision is made for supplementary 
+requirements in this standard, the supplementary require­
+ments in Specification A 788 may be considered by the 
+purchaser. 
+1.3 Welding technique is of fundamental importance 
+and it is presupposed that welding procedures will be in 
+accordance with approved methods for the class of mate­
+rial used. 
+1.4 The values stated in either inch-pound units or SI 
+(metric) units are to be regarded separately as the standard; 
+within the text and tables, the SI units are shown in [brack­
+ets]. The values stated in each system are not exact equiva­
+lents; therefore, each system must be used independently 
+of the other. Combining values from the two systems may 
+result in nonconformance with the specification. 
+1.5 Unless the order specifies the applicable "M" speci­
+fication designation, the material shall be furnished to the 
+inch-pound units. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+A 370 Test Methods and Definitions for Mechanical Test­
+ing of Steel Products 
+A 517 / A 517M Specification for Pressure Vessel Plates, 
+Alloy Steel, High-Strength, Quenched and Tempered 
+A 788 Specification for Steel Forgings, General Require­
+ments 
+E 112 Test Methods for Determining the Average Grain 
+Size 
+3. Ordering Information and General 
+Requirements 
+3.1 In addition to the ordering information required by 
+Specification A 788, the purchaser shall include with the 
+inquiry and order the following information: 
+3.1.1 A detailed drawing, a sketch, or written descrip­
+tion of the forging. 
+3.1.2 The charpy impact test temperature if a test 
+temperature lower than 32°F [0°C) is required. 
+3.1.3 Additional heat treatment cycles to be applied 
+to the mechanical test specimens following removal from 
+the heat-treated forging or special forged test block. 
+3.1.4 Required supplementary requirement(s) from 
+specification A 788. 
+3.2 Material supplied to this specification shall conform 
+to the requirements of Specification A 788, which outlines 
+additional ordering information, manufacturing require­
+ments, testing and retesting methods and procedures, mark­
+ing, certification, product analysis variations, and 
+additional supplementary requirements. Failure to comply 
+with the requirements of Specification A 788 constitutes 
+non-conformance with this specification. 
+3.3 If the requirements of this specification are in con­
+flict with the requirements of Specification A 788, the 
+requirements of this specification shall prevail. 
+1030
+
+=== Page 1125 ===
+
+ASME BPVC.II.A-2025 SA-592/SA-592M 
+4. Materials and Manufacture 
+4.1 Melting Process -The steel shall be made in accor­
+dance with the Melting Process Section of Specification 
+A 788. 
+4.2 Grain Size - The steel shall be fully killed, fine 
+grained (ASTM No. 5 or finer), as determined in accor­
+dance with Test Methods E 112, Plate IV. 
+4.3 Discard - Sufficient discard shall be made from 
+each ingot to ensure freedom from piping and excessive 
+segregation. 
+4.4 The finished product shall be a hot-worked forging 
+as defined by Specification A 788, and shall be forged as 
+close as practicable to the finished shape and size. 
+5. Heat Treatment 
+5.1 After forging and before reheating, the forgings 
+shall be cooled to provide substantially complete transfor­
+mation of austenite. Heat treatment for properties shall 
+consist of heating the forgings to not less than 1650°F 
+[900°C], quenching in a liquid medium, and tempering at 
+1150°F [620°C] minimum, with a holding time of 1 h/in. 
+[l h/25 mm] minimum, but in no case less than½ h. 
+6. Chemical Requirements 
+6.1 Heat Analysis - The heat analysis obtained from 
+sampling in accordance with Specification A 788 shall 
+comply with Table 1. 
+6.2 Product Analysis - The purchaser may use the 
+product analysis provision of Specification A 788 to obtain 
+a product analysis from a forging representing each heat 
+or multiple heat. 
+7. Mechanical Requirements 
+7.1 The forgings as represented by tension tests shall 
+conform to the requirements prescribed in Table 2, and to 
+Table 3 for lateral expansion opposite the notch in Charpy 
+V-notch impact tests. In addition, for the Charpy impact 
+test, the values of energy absorption in foot-pounds [or 
+joules] and the fracture appearance in percent shear shall 
+be recorded and reported for information. 
+7.2 Sampling: 
+7.2.1 Samples for mechanical test specimens shall be 
+removed after the quenching and tempering heat treatment. 
+The purchaser shall specify any additional thermal treat­
+ments that shall be given to the heat treated test specimens. 
+(This is intended to simulate subsequent thermal treatments 
+which may be perfonned by the fabricator.) 
+7 .2.2 Samples shall be removed so that the test speci­
+mens will have their major axes parallel to the direction 
+of major working of the forging. 
+7.2.3 Test specimens may be machined from a pro­
+duction forging, or prolongation thereof, or from special 
+forged blocks suitably worked and heat treated with the 
+production forgings. Such special blocks shall be obtained 
+from an ingot, slab, or billet from the same heat as the 
+forgings they represent and shall be reduced by forging in 
+a manner similar to that for the products to be represented. 
+The forging reduction for a special test block shall not 
+exceed the minimum forging reduction of the forgings 
+represented, and its thickness shall not be less than the 
+maximum thickness of the forgings represented. If a forg­
+ing is tested, the tests must represent the maximum section 
+thickness in the lot. All test specimens shall be located at 
+the mid-plane of the thickness and, the mid length position 
+of the gauge length ffoor tension test specimens, or the 
+notch of the Charpy V-notch impact test specimens shall 
+be at least T from any second surface of the production 
+forging or test block, where T equals the maximum heat 
+treated thickness of the forging. 
+7.3 Number of Tests and Retests: 
+7.3.1 Number of Tests, and Test Temperature: 
+7.3.1.1 One room-temperature tension test and one 
+set of three Charpy V-notch specimens shall be made to 
+represent the maximum section from each heat in each 
+heat-treatment charge. Impact tests shall be conducted at 
+the temperature specified on the order, but no higher than 
+32°F [0°C]. 
+7 .3.1.2 One grain size test shall be made from 
+each heat. 
+7 .3.2 Retests of Tension Specimens - If the results of 
+tension tests do not conform to the requirements specified, 
+retests are permitted, as outlined in Test Method A 370 
+and Specification A 788. 
+7.3.3 Retests of Impact Specimens: 
+7.3.3.1 If the lateral expansion value for one speci­
+men is below 0.015 in. [0.38 mm] but not below 0.010 in. 
+[0.25 mm] and the average equals or exceeds 0,015 in. 
+[0.38 mm], a retest of three additional specimens may be 
+made. Each of the three retest specimens must equal or 
+exceed the specified minimum value of 0.015 in. 
+[0.38 mm]. 
+7.4 Test Methods - Tension and impact tests shall be 
+made in accordance with the latest issue of Test Methods 
+and Definitions A 370. 
+1031
+
+=== Page 1126 ===
+
+SA-592/SA-592M ASME BPVC.II.A-2025 
+8. Repair Welding 10. Product Marking 
+8.1 Repair welding of forgings may be permitted but 
+onlyat the option of the purchaser. Such repair welds shall 
+be made in accordance with Section IX of the ASME 
+Boiler and Pressure Vessel Code. 
+10.1 Each forging shall be identified in accordance 
+with the Marking Section of Specification A 788. 
+11. Keywords 
+9. Test Reports 
+9.1 The certification requirements of Specification 
+A 788 shall apply. 
+11.1 high-strength low-alloy steel; fittings-steel; pres­
+sure vessel service; quenched and tempered steel; steel 
+forgings-alloy 
+TABLE 1 
+CHEMICAL REQUIREMENTS 
+Composition, % 
+Element Grade AA Grade EA 
+Carbon 0.15-0.21 0.12-0.20 
+Manganese 0.80-1.10 0.40-0.70 
+Phosphorus, max 0.025 0.025 
+Sulfur, max 0.025 0.025 
+Silicon 0.40-0.80 0.20-0.35 
+Nickel 
+Chromium 0.50-0.80 1.40-2.00 
+Molybdenum 0.18-0.28 0.40-0.60 
+Vanadium 8 
+Titanium 0.04-0.10 
+Zirconium 0.05-0.15 
+Copper 0.20-0.40 
+Boron 0.0025 max 0.0015-0.005 
+A Similar to Specification A 517/A 517M Grades A, E, and F, respectively. 
+8 May be substituted for part or all of titanium content on a one-for-one basis. 
+TABLE 2 
+TENSILE REQUIREMENTS 
+Tensile strength, psi CM Pal 
+Yield strength (0.2% offset), min, 
+psi [MPaJ 
+Elongation in 2 in. [50 mmJ, min, % 
+Reduction of area, min, % 
+Up to 2½ in. 
+[65 mm], incl 
+115 000 to 135 ooo 
+[795 to 930] 
+100 000 [690] 
+18 
+45 
+TABLE 3 
+CHARPY IMPACT TEST REQUIREMENTS 
+Grade FA 
+0.10-0.20 
+0.60-1.00 
+0.025 
+0.025 
+0.15-0.35 
+0.70-1.00 
+0.40-0.65 
+0.40-0.60 
+0.03-0.08 
+0.15-0.50 
+0.002-0.006 
+Over 2½ in. to 4 in. 
+[65 to 100 mm], 
+incl 
+105 000 to 135 000 
+[725 to 930] 
+90 000 [620] 
+17 
+40 
+All Grades and Thicknesses 15 mils (0.015 in.l [0.38 mmJA 
+A Minimum value for each of three specimens. See 7 .3.3. 
+1032
+
+=== Page 1127 ===
+
+ASME BPVC.ILA-2025 SA-609/SA-609M
+
+SPECIFICATION FOR CASTINGS, CARBON, LOW-ALLOY,
+AND MARTENSITIC STAINLESS STEEL, ULTRASONIC
+EXAMINATION THEREOF
+
+Cx SA-609/SA-609M ily
+® Stancards Wortwice
+
+(Identical with ASTM Specification A609/A609M-91(2007),)
+
+1033
+
+=== Page 1128 ===
+
+SA-609 /SA-609M ASME BPVC.II.A-2025 
+SPECIFICATION FOR CASTINGS, CARBON, LOW­
+ALLOY, AND MARTENSITIC STAINLESS STEEL, 
+ULTRASONIC EXAMINATION THEREOF 
+SA-609 /SA-609M cO 
+INT&RNATIONAL 
+Standards Worldwide 
+[Identical with ASTM Specification A 609/ A 609M-91(2007).] 
+1. Scope 
+1.1 This practice covers the standards and procedures 
+for the pulse-echo ultrasonic examination of heat-treated 
+carbon, low-alloy, and martensitic stainless steel castings 
+by the longitudinal-beam technique. 
+1.2 This practice is to be used whenever the inquiry, 
+contract, order, or specification states that castings are to 
+be subjected to ultrasonic examination in accordance with 
+Practice A 609 / A 609M. 
+1.3 This practice contains two procedures for ultrasonic 
+inspection of carbon, low-alloy, and martensitic stainless 
+steel castings, that is, Procedure A and Procedure B. Proce­
+dure A is the original A 609 / A 609M practice and requires 
+calibration using a series of test blocks containing flat 
+bottomed holes. It also provides supplementary require­
+ments for angle beam testing. Procedure B requires calibra­
+tion using a back wall reflection from a series of solid 
+calibration blocks. 
+NOTE 1 - illtrasonic examination and radiography are not directly 
+comparable. This examination technique is intended to complement Guide 
+E 94 in the detection of discontinuities. 
+1.4 The values stated in either inch-pound units or SI 
+units are to be regarded separately as standard. Within the 
+text, the SI units are shown in brackets. The values stated 
+in each system are not exact equivalents; therefore, each 
+system must be used independently of the other. Combining 
+values from the two systems may result in nonconformance 
+with this practice. . 
+1.5 This standard does not purport to address all of 
+the safety problems, if any, associated with its use. It is 
+the responsibility of the user of this standard to establish 
+appropriate safety and health practices and determine the 
+applicability of regulatory limitations prior to use. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+A 217 / A 217M Specification for Steel Castings, Marten­
+sitic Stainless and Alloy, for Pressure-Containing Parts, 
+Suitable for High-Temperature Service 
+E 94 Guide for Radiographic Testing 
+E 317 Practice for Evaluating Performance Characteristics 
+of Ultrasonic; Pulse-Echo Testing Systems Without the 
+Use of Electronic Measurement Instruments 
+2.2 Other Document: 
+SNT-TC-lA Recommended Practice for Nondestructive 
+Testing Personnel Qualification and Certification 
+3. Ordering Information 
+3.1 The inquiry and order should specify which proce­
+dure is to be used. If a procedure is not specified, Procedure 
+A shall be used. 
+3.2 Procedure A - Flat-Bottomed Hole Calibration 
+Procedure: 
+3.2.1 When this practice is to be applied to an inquiry, 
+contract, or order, the purchaser shall furnish the following 
+information: 
+3.2.1.1 Quality levels for the entire casting or 
+portions thereof. 
+3.2.1.2 Sections of castings requiring longitudinal­
+beam examination. 
+3.2.1.3 Sections of castings requiring dual element 
+examination. 
+3.2.1.4 Sections of castings requiring supplemen­
+tary examination, using the angle-beam procedure 
+described in Supplementary Requirement S 1 in order to 
+achieve more complete examination. 
+1034
+
+=== Page 1129 ===
+
+ASME BPVC.II.A-2025 SA-609 /SA-609M 
+3.2.1.5 Any requirements additional to the provi­
+sions of this practice. 
+3.3 Procedure B: Back-Wall Reflection Calibration 
+Procedure - When this procedure is to be applied to an 
+inquiry, contract, or order, the purchaser shall designate the 
+quality levels for the entire casting or applicable portions. 
+PROCEDURE A - FLAT-BOTTOMED HOLE 
+CALIBRATION PROCEDURE 
+4. Apparatus 
+4.1 Electronic Apparatus: 
+4.1.1 An ultrasonic, pulsed, reflection type of instru­
+ment that is capable of generating, receiving, and ampli­
+fying frequencies of at least 1 to 5 MHz. 
+4.1.2 The ultrasonic instrument shall provide linear 
+presentation (within ±5%) for at least 75% of the screen 
+height (sweep line to top of screen). Linearity shall be 
+determined in accordance with Practice E 317 or equivalent 
+electronic means. 
+4.1.3 The electronic apparatus shall contain a signal 
+attenuator or calibrated gain control that shall be accurate 
+over its useful range to ±10% of the nominal attenuation 
+or gain ratio to allow measurement of signals beyond the 
+linear range of the instrument. 
+4.2 Search Units: 
+4.2.1 Longitudinal Wave, internally grounded, having 
+a ½ to 1½ in. [13 to 28 mm] diameter or 1 in. [25 mm] 
+square piezo-electric elements. Based on the signals-to­
+noise ratio of the response pattern of the casting, a fre­
+quency in the range from 1 to 5 MHz shall be used. The 
+background noise shall not exceed 25% of the distance 
+amplitude correction curve (DAC). Transducers shall be 
+utilized at their rated frequencies. 
+4.2.2 Dual-Element, 5 MHz, ½, by 1 in. [13 by 
+25 mm], 12° included angle search units are recommended 
+for sections 1 in. [25 mm] and under. 
+4.2.3 Other frequencies and sizes of search units may 
+be used for evaluating and pinpointing indications. 
+4.3 Reference Blocks: 
+4.3.1 Reference blocks containing flat-bottom holes 
+shall be used to establish test sensitivity in accordance 
+with 8.2. 
+4.3.2 Reference blocks shall be made from cast steels 
+that give an acoustic response similar to the castings being 
+examined. 
+4.3.3 The design of reference blocks shall be in 
+accordance with Fig. 1, and the basic set shall consist of 
+those blocks listed in Table 1. When section thicknesses 
+over 15 in. [380 mm] are to be inspected, an additional 
+block of the maximum test thickness shall be made to 
+supplement the basic set. 
+4.3.4 Machined blocks with ¾ 2 in. [2.4 mm] diameter 
+flat-bottom holes at depths from the entry surface of ½ in. 
+[3 mm], ½ in. [13 mm], or ½t and ¾ in. [19 mm], or ¾t 
+( where t = thickness of the block) shall be used to establish 
+the DAC for the dual-element search units (see Fig. 2). 
+4.3.5 Each reference block shall be permanently 
+identified along the side of the block indicating the material 
+and the block identification. 
+4.4 Couplant - A suitable couplant having good wet­
+ting characteristics shall be used between the search unit 
+and examination surface. The same couplant shall be used 
+for calibrations and examinations. 
+5. Personnel Requirements 
+5.1 The manufacturer shall be responsible for assigning 
+qualified personnel to perform ultrasonic examination in 
+conformance with the requirements of this practice. 
+5.2 Personnel performing ultrasonic examinations in 
+accordance with this practice shall be familiar with the 
+following: 
+5.2.1 Ultrasonic terminology. 
+5.2.2 Instrument calibration. 
+5.2.3 Effect of transducer material, size, frequency, 
+and mode on test results. 
+5.2.4 Effect of material structure (grain size, cleanli-
+ness, etc.) on test results. 
+5.2.5 Effect of test distance on test results. 
+5.2.6 Effect of nonlinearity on test results. 
+5.2.7 Effect of thickness and orientation of disconti­
+nuities on test results. 
+5.2.8 Effect of surface roughness on test results. 
+5.3 A qualification record (see Note 2) of personnel 
+considered suitable by the manufacturer to perform exami­
+nations in accordance with this practice shall be available • 
+upon request. 
+NOTE 2 - SNT-TC-lA, Ultrasonic Testing Method, provides a recom­
+mended procedure for qualifying personnel. Other personnel qualification 
+requirement documents may be used when agreed upon between the 
+purchaser and the supplier. 
+6. Casting Conditions 
+6.1 Castings shall receive at least an austenitizing heat 
+treatment before being ultrasonically examined. 
+6.2 Test surfaces of castings shall be free of material 
+that will interfere with the ultrasonic examination. They 
+may be as cast, blasted, ground, or machined. 
+1035
+
+=== Page 1130 ===
+
+SA-609 /SA-609M ASME BPVC.II.A-2025 
+6.3 The ultrasonic examination shall be conducted prior 
+to machining that prevents an effective examination of the 
+casting. 
+7. Test Conditions 
+7.1 To assure complete coverage of the specified cast­
+ing section, each pass of the search unit shall overlap by 
+at least 10% of the width of the transducer. 
+7.2 The rate of scanning shall not exceed 6 in.ls 
+(150 mm/s). 
+7.3 The ultrasonic beam shall be introduced perpendic­
+ular to the examination surface. 
+8. Procedure 
+8.1 Adjust the instrument controls to position the first 
+back reflection for the thickness to be tested at least one 
+half of the distance across the cathode ray tube. 
+8.2 Using the set of reference blocks spanning the 
+thickness of the casting being inspected, mark the flat­
+bottom hole indication height for each of the applicable 
+blocks on the cathode ray tube shield. Draw a curve through 
+these marks on the screen or on suitable graph paper. The 
+maximum signal amplitude for the test blocks used shall 
+peak at approximately three-fomths of the screen height 
+above the sweep by use of the attenuator. This curve shall 
+be referred to as the 100% distance amplitude correction 
+(DAC) curve. If the attenuation of ultrasound in the casting 
+thickness being examined is such that the system's dynamic 
+range is exceeded, segmented DAC curves are permitted. 
+8.3 The casting examination surface will normally be 
+rougher than that of the test blocks; consequently, employ 
+a transfer mechanism to provide approximate compensa­
+tion. In order to accomplish this, first select a region of 
+the casting that has parallel walls and a surface condition 
+representative of the rest of the casting as a transfer point. 
+Next, select the test block whose overall length, C (Fig. 
+1), most closely matches the reflection amplitude through 
+the block length. Place the search unit on the casting at 
+tl1e transfer point and adjust the instrument gain until the 
+back reflection amplitude through the casting matches that 
+through the test block. Using this transfer technique, the 
+examination sensitivity in the casting may be expected to 
+be within ±30% or less of that given by the test blocks. 
+8.4 Do not change those instrument controls and the 
+test frequency set during calibration, except the attenuator, 
+or calibrated gain control, during acceptance examination 
+of a given thickness of the casting. Make a periodic calibra­
+tion during the inspection by checking the amplitude of 
+response from the¼ in. (6.4 mm) diameter flat-bottom hole 
+in the test block utilized for the transfer. 
+NOTE 3 - The attenuator or calibrated gain control may be used to 
+change the signal amplitude during examination to permit small amplitude 
+signals to be more readily detected. Signal evaluation is made by returning 
+the attenuator or calibrated gain control to its original setting. 
+8.5 During examination of areas of the casting having 
+parallel walls, recheck areas showing 75% or greater loss 
+of back reflection to determine whether loss of back reflec­
+tion is due to poor contact, insufficient couplant, misori­
+ented discontinuity, etc. If the reason for loss of back 
+reflection is not evident, consider the area questionable 
+and further investigate. 
+9. Report 
+9.1 The manufacturer's report of final ultrasonic exami­
+nation shall contain the following data and shall be fur­
+nished to the purchaser: 
+9.1.1 The total number, location, amplitude, and area 
+when possible to delineate boundaries by monitoring the 
+movement of the center of the search unit of all indications 
+equal to or greater than 100% of the DAC. 
+9.1.2 Questionable areas from 8.5 that, upon fmther 
+investigation, are determined to be caused by discontinu­
+ities. 
+9.1.3 The examination frequency, type of instrument, 
+types of search units employed, couplant, manufacturer's 
+identifying numbers, purchaser's order number, and data 
+and authorized signature. 
+9.1.4 A sketch showing the physical outline of the 
+casting, including dimensions of all areas not inspected 
+due to geometric configuration, with the location and sizes 
+of all indications in accordance with 9.1.1 and 9.1.2. 
+10. Acceptance Standards 
+10.1 This practice is intended for application to castings 
+with a wide variety of sizes, shapes, compositions, melting 
+processes, foundry practices, and applications. Therefore, 
+it is impractical to specify an ultrasonic quality level that 
+would be universally applicable to such a diversity of prod­
+ucts. Ultrasonic acceptance or rejection criteria for individ­
+ual castings should be based on a realistic appraisal of 
+service requirements and the quality that can normally be 
+obtained in production of the particular type of casting. 
+10.2 Acceptance quality levels shall be established 
+between the purchaser and the manufacturer on the basis 
+of one or more of the following criteria: 
+10.2.1 No indication equal to or greater than the 
+DAC over an area specified for the applicable quality level 
+of Table 2. 
+10.2.2 No reduction of back reflection of 75% or 
+greater that has been determined to be caused by a disconti­
+nuity over an area specified for the applicable quality level 
+of Table 2. 
+1036
+
+=== Page 1131 ===
+
+ASME BPVC.11.A-2025 SA-609 /SA·609M 
+10.2.3 Indications producing a continuous response 
+equal to or greater than the DAC with a dimension 
+exceeding the maximum length shown for the applicable 
+quality level shall be unacceptable. 
+10.2.4 Other criteria agreed upon between the pur­
+chaser and the manufacturer. 
+10.3 Other means may be used to establish the validity 
+of a rejection based on ultrasonic inspection. 
+NOTE 4 - The areas for the ultrasonic quality levels in Table 2 of 
+Practice A 609 I A 609M refer to the surface area on the casting over 
+which a continuous indication exceeding the DAC is maintained. 
+NOTE 5 - Areas are to be measured from dimensions of the movement 
+of the search unit by outlining locations where the amplitude of the 
+indication is 100% of the DAC or where the back reflection is reduced 
+by 75%, using the center of the search unit as a reference point to establish 
+the outline of the indication area. 
+NOTE 6 - In certain castings, because of very long metal path distances 
+or curvature of the examination surfaces, the surface area over which a 
+given discontinuity is detected may be considerably larger or smaller 
+than the actual area of the discontinuity in the casting; in such cases, 
+other criteria that incorporate a consideration of beam angles or beam 
+spread must be used for realistic evaluation of the discontinuity. 
+PROCEDURE B - BACK-WALL REFLECTION 
+CALIBRATION PROCEDURE 
+11. Apparatus 
+11.1 Apparatus shall be kept on a regular six month 
+maintenance cycle during which, as a minimum require­
+ment, the vertical and horizontal linearities, sensitivity, 
+and resolution shall be established in accordance with the 
+requirements of Practice E 317. 
+11.2 Search Units - Ceramic element transducers not 
+exceeding 1.25 in. [82 mm] diameter or 1 in. 2 [25 mm 2 ] 
+shall be used. 
+11.3 Search Units Facing-A soft urethane membrane 
+or neoprene sheet, approximately 0.025 in. [0.64 mm] 
+thick, may be used to improve coupling and minimize 
+transducer wear caused by casting surface roughness. 
+11.4 Calibration/Testing -The same system, includ­
+ing the urethane membrane, used for calibration shall be 
+used to inspect the casting. 
+11.5 Other Inspections - Other frequencies and type 
+search units may be used for obtaining additional informa­
+tion and pinpointing of individual indications. 
+11.6 Couplant - A suitable liquid couplant, such as 
+clean SAE 30 motor oil or similar commercial ultrasonic 
+couplant, shall be used to couple the search unit to the test 
+surface. Other couplants may be used when agreed upon 
+between the purchaser and supplier. 
+11.7 Reference Standards - Reference standards in 
+accordance with Fig. 3 shall be used to calibrate the instru­
+ment for inspecting machined and cast surfaces. Reference 
+standards shall be flaw free and machined within tolerances 
+indicated. 
+12. Ultrasonic Instrument 
+12.1 Type - Pulsed ultrasonic reflection instrument 
+capable of generating, receiving, and amplifying frequen­
+cies of 1 MHz to 5 MHz shall be used for testing. 
+12.2 Voltage - Line voltage shall be suitably regulated 
+by constant voltage equipment and metal housing must be 
+grounded to prevent electric shock. 
+12.3 Linearity - The instrument must provide a linear 
+presentation (within ±5%) of at least 1.5 in. [40 mm] sweep 
+to peak (S/P). 
+12.4 Calibrated Gain Control of Attenuator - The 
+instrument shall contain a calibrated gain control or signal 
+attenuator ( accurate within ± 10%) which will allow indica­
+tions beyond the linear range of the instrument to be mea­
+sured. 
+12.5 Time-Corrected Gain - The instrument shall be 
+equipped to compensate for signal decay with distance. A 
+method should be available to equalize signal response at 
+different depths. 
+13. Qualification 
+13.1 The requirements for pre-production qualification 
+are as follows: 
+13.1.1 Personnel - The personnel qualification 
+requirements of SNT-TC- lA are applicable. Other person­
+nel qualification requirement documents may be used when 
+agreed upon between the purchaser and the supplier. Rec­
+ords of all personnel shall be available to customers upon 
+request. 
+13.1.2 Equipment- The equipment shall be capable 
+of meeting the requirements in Section 12. 
+14. Preparation 
+14.1 Time of Inspection - The final ultrasonic accept­
+ance inspection shall be performed after at least an austeni­
+tizing heat treatment and preferably after machining. In 
+order to avoid time loss in production, acceptance inspec­
+tion of cast surfaces may be done prior to machining. 
+Machined surfaces shall be acceptance inspected as soon 
+as possible after machining. Repair welds may be inspected 
+before the postweld heat treatment. 
+1037
+
+=== Page 1132 ===
+
+SA-609 /SA-609M ASME BPVC.II.A-2025 
+14.2 Suiface Finish: 
+14.2.1 Machined Suifaces - Machined surfaces sub­
+ject to ultrasonic inspection shall have a finish that will 
+produce an ultrasonic response equivalent to that obtained 
+from a 250 µin. (6.3 µm) surface. The surface finish shall 
+also permit adequate movement pf search units along the 
+surface. 
+14.2.2 Casting Suifaces - Casting surfaces to be 
+ultrasonically inspected shall be suitable for the intended 
+type and quality level (Tables 3 and 4) of inspection as 
+judged acceptable by a qualified individual as specified in 
+13.1.1. 
+14.2.3 Surface Condition - All surfaces to be 
+inspected shall be free of scale, machining or grinding 
+particles, excessive paint thickness, dirt, or other foreign 
+matter that may interfere with the inspection. 
+14.3 Position of Casting - The casting shall be posi­
+tioned such that the inspector has free access to the back 
+wall for the purpose of verifying change in contour. 
+15. Calibration 
+15.1 Calibration Blocks - Determine the thickness of 
+the material to be ultrasonically inspected. For material 
+thickness of 3 in. [75 mm] or less, use the series of 3 
+blocks, ½, 2, 5 in. [13, 50, 125 mm] (Fig. 3, B dimension) 
+for calibration: For a material thickness greater than 3 in., 
+use the series of 3 blocks, 2, 5, 10 in. [50, 125, 250 mm] 
+(Fig. 3, B dimension) for calibration. 
+15.2 Calibration of Search Units - For the thickness 
+of material to be inspected, as determined in 15.1, use the 
+following search units: 
+15.2.1 For materials 3 in. [75 mm] or less in thick­
+ness, use a 2¾ MHz, ½ in. [13 mm] diameter search unit. 
+15.2.2 For material greater than 3 in. [75 mm] in 
+thickness, use a 2¾ MHz, 1 in. [25 mm] diameter search 
+unit. 
+15.3 Calibration Procedure: 
+15.3.1 Set the frequency selector as required. Set the 
+reject control in the "OFF" position. 
+15.3.2 Position the search unit on the entrant surface 
+of the blockthat completely encompasses the metal thick­
+ness to be inspected (Fig. 3) and adjust the sweep control 
+such that the back reflection signal appears approximately, 
+but not more than three-quarters along the sweep line from 
+the initial pulse signal. 
+15.3.3 Position the search unit on the entrant surface 
+of the smallest block of the series of 3 blocks selected for 
+calibration and adjust the gain until the back reflection 
+signal height (amplitude) is 1.5 in. [40 mm] sweep to 
+peak (SIP). Draw a line on the cathode-ray screen (CRT), 
+parallel to the sweep line, through the peak of the 1.5 in. 
+(SIP) amplitude. 
+15.3.4 Position the search unit on the entrant surface 
+of the largest block of the series of 3 blocks selected for 
+calibration, and adjust the distance amplitude control to 
+provide a back reflection signal height of 1.5 in. [40 mm] 
+(SIP). 
+15.3.5 Position the search unit on the entrant surface 
+of the intermediate calibration block of the series of 3 
+blocks being used for calibration and confirm that the back 
+reflection signal height is approximately 1.5 in. [40 mm] 
+(SIP). If it is not, obtain the best compromise between this 
+block and the largest block of the series of 3 blocks being 
+used for calibration. 
+15.3.6 Draw a line on the cathode ray tube screen 
+parallel to the sweep line at 0.5 in. [13 mm] (SIP) ampli­
+tude. This will be the reference line for reporting disconti­
+nuity amplitudes. 
+15.3.7 For tests on machined suifaces, position the 
+search unit on a machined surface of casting where the 
+walls are reasonably parallel and adjust the gain of the 
+instrument until the back reflection signal height is 1.5 in. 
+[40 mm] (SIP). Increase the inspection sensitivity by a 
+factor of three times (10 dB gain) with the calibrated attenu­
+ator. Surfaces that do not meet the requirements of 14.2.l 
+shall be inspected as specified in 15.3.s: 
+15.3.8 For inspections on cast suifaces, position the 
+search unit on the casting to be inspected at a location 
+where the walls are reasonably parallel and smooth (inside 
+and outside diameter) and the surface condition is represen­
+tative of the surface being inspected. Adjust the gain of 
+the instrument until the back reflection signal height is 
+1.5 in. [40 mm] (SIP). Increase the inspection sensitivity 
+by a factor of six times (16 dB) by use of the calibrated 
+control or attenuator. A significant change in surface finish 
+requires a compensating adjustment to the gain. 
+15.3.8.1 Rejectable indications on as-cast surfaces 
+may be reevaluated by surface preparation to 250 µin. 
+[6.3 µm] finish or better, and re-inspected in accordance 
+with 15.3.7 of this practice. 
+15.3.8.2 It should be noted that some instruments 
+are equipped with decibel calibrated gain controls, in which 
+case the decibel required to increase the sensitivity must 
+be added. Other instruments have decibel calibrated attenu­
+ators, in which case the required decibel must be removed. 
+Still other instruments do not have calibrated gains or 
+attenuators. They require external attenuators. 
+16. Scanning 
+16.1 Grid Pattern - The surface of the casting shall 
+be laid out in a 12 by 12 in. [300 by 300 mm] or any 
+1038
+
+=== Page 1133 ===
+
+ASME BPVC.ILA-2025 SA-609/SA-609M .
+yo similar grid pattern for guidance in scanning. Grid numbers 18.3. Non-Linear Indications:
+shall be stenciled on the casting for record purposes and 18.3.1 Isolated Indications — Isolated indications |
+for grid area identity. The stenciled grid number shall _ shall not exceed the limits of the quality level designated
+appear in the upper right hand corner of the grid. When _ by the customer’s purchase order listed in Table 3. An |
+grids are laid out on the casting surface andthey encompass _ isolated indication may be defined as one for which the
+different quality levels, each specific area shall beevaluated — distance between it and an adjacent indication is greater
+in accordance with the requirements of the specific quality —_ than the longest dimension of the larger of the adjacent
+level designated for that area. indications.
+16.2 Overlap — Scan over the surface allowing 10% 18.3.2 Clustered Indications —- Clustered indica-
+minimum overlap of the working diameters of the tions shall be defined as two or more indications that are
+search unit. . confined in a 1 in. [25 mm] cube. Clustered indications
+16.3. Inspection Requirements — All surfaces specified shall not exceed the limits of the quality level designated
+; both sides, whenever both sides are accessible. The same on of the 1 t indication in the croup. the cluster shall .
+. search unit used for calibration shall be used to inspect the hes OF NS TATE ESE TDCI AOD TEENS BEOUPs Bae CONSE Sa .
+casting. e repair welded. |
+18.3.3 The distance between two clusters must be
+greater than the lowest dimension of the largest indication |
+17. Additional Transducer Evaluation in either cluster. if they are not, the cluster having the
+17.1 Additional information regarding any ultrasonic largest single indication shall be removed.
+indication may be obtained through the use of other fre- 18.3.4 All indications, regardless of their surface
+quency, type, and size search unit. areas as indicated by transducer movement on the casting
+surface and regardless of the quality level required, shall
+not have a through wall distance greater than ’47, where
+| 18. Acceptance Criteria Tis the wall thickness in the area containing the indication.
+’ 18.1 Rejectable Conditions — The locations of all indi- 18.3.5 Repair welding of cluster-type indications
+cations having amplitudes greater than the 0.5 in. [13 mm] need only be the extent necessary to meet the applicable |
+line given in 15.3.6, when amplitude three times (machined quality level for that particular area. All other types of
+surfaces) or six times (cast surfaces) shall be marked on rejectable indications shall be completely removed. |
+the casting surface. The boundary limits of the indication 18.3.6 Repair welds of castings shall meet the quality
+nee be ermine by mann a een number level designated for that particular area of the casting. :
+marks on the casting surfaces where the ultrasonic signa ; '
+equals one half the veference amplitude, 0.25 in. [6 mn]. 18.3.7 Any location that has a 75% or greater loss |
+To completelv delineate the indication. draw aline around 2 back reflection and exceeds the area of the applicable ,
+pletely delineate the , , rar -
+, a the outer boundary of the center of the number of marks quality level, and whose indication amplitudes May OF May
+to form the indication area. Draw a rectangle or other not exceed the 0.5 in. [15 mm] rejection line, shall be |
+| regular shape through the indication in order to form a rejected unless the reason for the loss in back reflection ,
+polygon from which the area may be easily computed. van be resolved as not being caused by an indication. It
+Me It is not necessary that the ultrasonic signal exceed the Bain 1s added and back echo 8 achieve d without indication
+amplitude reference line over the entire area. At some percent amplitude exceeding the 0.5 in. [13 mm] rejection ,
+locations within the limits of the indication, the signal may line, the area should be accepted. /
+be less than the reference line, but nevertheless still present
+such that it may be judged as a continuous, signal indica- :
+tion. Rejectable conditions are as follows and when any 19. Records , ;
+of the conditions listed below are found, the indications 19.1 Stenciling — Each casting shall be permanently
+shall be removed and repair welded to the applicable pro- _— stenciled to locate inspection zones or grid pattern for
+cess specification. | ease in locating areas where rejectable indications were :
+18.2 Linear Indications — A linear indication is defined observed.
+as one having a length equal to or greater than three times 19.2 Sketch — A report showing the exact depth and
+its width. An amplitude of '4 in. [13 mm], such as would surface location in relation to the stencil numbers shall
+J result from tears or stringer type slag inclusion, shall be | be made for each rejectable indicator found during each ,
+Ne removed. inspection.
+1039
+
+=== Page 1134 ===
+
+SA-609 /SA-609M ASME BPVC.II.A-2025 
+19.2.1 The sketch shall also include, but not be lim- 19.2.1.4 Name of inspector. 
+19.2.1.5 Date of inspection. ited to, the following: 
+19.2.1.1 Part identification numbers. 
+19.2.1.2 Purchase order numbers. 
+20. Product Marking 
+20.1 Any rejectable areas (those indications exceeding 
+the limits of Section 19) shall be marked on the casting 
+as the inspection progresses. The point of marking shall 
+be the center of the search unit. 
+19.2.1.3 Type and size of supplemental transduc­
+ers used. 
+FIG. 1 ULTRASONIC STANDARD REFERENCE BLOCK 
+! -o 
+Non 1-0ppeslte ends Of reterence block shall be flat and parallel within 
+0.001 in. (Q.()25 mm]. 
+Nore 2-Bottom of flat-bottom hole shall be flat within 0.002-ln. [0,051 mm} 
+and the finished diameter shall be 1/• + 0,002 in. [6.4 + 0.050 mm]. 
+Nore 3-Hole shall be straight and perpendicular to entry surface within o•, 30 
+min and located within 1/rui 1n. [0.80 mm] of longitudlnal axis, 
+Nore 4-Counter bore shall be ½ In. [15.0 mmJ diameter by Vs In. [5 mm] 
+deep. 
+1040
+
+=== Page 1135 ===
+
+,,.---------·-
+ASME BPVC.II.A-2025 SA-609 /SA-609M 
+FIG. 2 ULTRASONIC STANDARD REFERENCE BLOCK FOR DUAL-SEARCH UNIT CALIBRATION 
+T 
+.l 
+l.______.._...~~"'"""'1----t-___,_~ 
+l:IOU! DISTANCE l/ 4 1/t J/4 1 1/4 
+HI.OW SUFIFACE (3.0Jl!ffll {6.0 01 mJ !llmm1 !19mml !25mml flluunl [.l8,lmml (45nim I 
+Non 1.-entrant surface $1lall. lie 250 µJn. [U µmJ or finer. . . . 
+No'tl 2- The 3/u-irt (2A tnm] flat.f:1$tom.1:1Qle ~ be flat within 0,002 In. fQ.05 mm}. Diameter must be·witllln +0.005Jn. [0,13 mmJ ot the re~1,1ited ~lametar, Hole 
+llKlS must be ~lilulal' to!he bklllk a,nd.Wllhln JI\. angle of o•;ao min. • 
+Nore ~Hole $lillH be ))lugge4 ll:!!Jowlng chec;kin9 tor 1,11trason10 resPQtl&e. 
+ltl. [mmJ in, fmll'IJ 
+FIG. 3 CALIBRATION BLOCKS 
+ormensions, in. {mmJ 
+2 [50] 
+2 (50] 
+3(15) 
+6 (1501 
+Va [13) 
+2 [50] 
+5 [12G] 
+10 [250] 
+TOl$1'9.!1C8 
+Material 
+Speofflcatlon A 217 /A 217M, 
+Grade WCI! or acousilcatly sim­
+ilar within :t20 :% or 2 dB. 
+AH sides to be flat within 0,0002 In. [0.01 mm] and parallel with 0.001 . In. [0.03 
+mm]. 
+1041
+
+=== Page 1136 ===
+
+SA-609/SA-609M ASME BPVC.ILA-2025
+FIG.4 BASIC CALIBRATION BLOCK FOR ANGLE BEAM EXAMINATION : 7 .
+1¥% in. [40 mm] MIN (SEE NOTE 2, TABLE 3) —
+—  SESAWACT Grade SIS-4 Ce gntiet surface tor Vt Qn
+a“ CONTACT SURFACE DETERMINED | |
+FROM THE TABLE BELOW |
+| BASIC CALIBRATION HOLE fo | |
+OF DIAMETER SIDES PARALLEL | |
+| | WITHIN £0,015 IK./FT _ —— |T |
+“ Grade SIS—4
+L = length of block determined by the angle of search unit and the vee-path used, |
+T = thickness of basic calibration block (see Table 5), .
+D = depth of side-drilled hole (sea Table 5), |
+ad = diameter of sida-drilled hole (see Table 5),
+t = nominal production material thickness,
+, TABLE 1 :
+DIMENSIONS AND IDENTIFICATION OF REFERENCE BLOCKS IN THE BASIC SET a
+(SEE FIG. 1) :
+Width or . :
+Metal Overall Diameter :
+; Hole Diameter Distance Length (D), Block |
+in Y%aths, in. (B), in.7 (C), in min, in. Identification |
+[mm] [Imm] [mm] [mm] Number a |
+16 [0.70] 1 £25] 1*/, [45] 2 [50] 16-0100 ;
+16 £0.70] 2 [50] 2*/, [701 2 [50] 16-0200 ;
+16 [0.70] 3 £75] 3%, [95] 2 [50] 16-0300 |
+16 [0.70] 6 £150] 6%, [170] 3 [75] 16-0600 ,
+16 [0.70] 10 [255] 10°%% [275] 4100] 16-1000 |
+16 [0.70] B B+% 5 [125] 16-B00" |
+[B + 20] :
+“Tolerance + % in. [3 mmi.
+® Additional supplemental blocks for testing thickness greater than 10 in. [250 mm], see 4.3.3. :
+1042 ,
+
+=== Page 1137 ===
+
+~-
+__ .......-----------, 
+----------
+ASME BPVC.II.A-2025 
+TABLE 2 
+REJECTION LEVEL 
+Area, in. 2 
+[cm 2 J Length, 
+Ultrasonic Testing (see 10.2.1 and max, in. 
+Quality Level 10.2.2) [mm] 
+l 0.8 [5] 1.5 [40] 
+2 1.5 [20] 2.2 [55] 
+3 3 [20] 3.0 [75] 
+4 5 [30] 3.9 [100] 
+5 8 [50] 4.8 [120] 
+6 12 [80] 6.0 [150] 
+7 16 [l00J 6.9 [175] 
+NOTE l - The areas in the table refer to the surface area on the casting over which a continuous indica­
+tion exceeding the amplitude reference line or a continuous loss of back reflection of 75% or greater is 
+maintained. 
+NOTE 2 - Areas shall be measured from the center of the search unit. 
+NOTE 3 - In certain castings, because of very long test distances or curvature of the test surface, the 
+casting surface area over which a given discontinuity is detected may be considerably larger or smaller 
+than the actual area of the discontinuity in the casting; in such cases a graphic plot that incorporates a 
+consideration of beam spread should be used for realistic evaluation of the discontinuity. 
+TABLE 3 
+ACCEPTANCE CRITERIA FOR SINGLE ISOLATED INDICATIONS 
+Quality Level Maximum Non-Linear Position of 
+Indication, Area, in. 2 [cm 2 J Indication 
+l 0 E 
+2 1[6] E 
+3 1[6] 0 
+2 [13] C 
+4 3 [19] E 
+5 3 [lg] 0 
+5 [32] C 
+6 5 [32] E 
+7 5 [32] 0 
+7 [45] C 
+8 7 [45] E 
+9 7 [45] 0 
+9 [58] C 
+10 9 [58] E 
+11 9 [58] 0 
+11 [71] C 
+NOTES: 
+Cl) The area measured by movement of the center of the transducer over the casting surface. 
+(2) 0 = outer wall ¼, or inner wall¼. 
+C = mid wall¼. 
+E = entire wall. 
+1043 
+SA-609 /SA·609M
+
+=== Page 1138 ===
+
+SA-609 /SA-609M ASME BPVC.II.A-2025 
+TABLE 4 
+ACCEPTANCE CRITERIA FOR CLUSTERED INDICATIONS 
+Minimum Area in 
+Cumulative Area Which Indications 
+of Indications, Must be Dispersed, 
+Quality Level in. 2 [cm 2 JA, 8 in. 2 [cm 2 Jc 
+1 0 0 
+2-3 2 [13] 36 [232] 
+4-5 4 [26] 36 [232] 
+6-7 6 [39] 36 [232] 
+8-9 8 [52] 36 [232] 
+10-11 10 [64] 36 [232] 
+A Regardless of wall location, that is midwall ½, innermost½, or outermost½. 
+8 Each indication that equals or exceeds the 0.5 in. [18 mm] reference line shall be traced to the posi­
+tion where the indication is equal to b.25 in. [6 mml The area of the location, for the purpose of this 
+evaluation, shall be considered the area that is confined within the outline established by the center of 
+the transducer during tracing of the flaw as required. Whenever no discernible surface tracing is possi­
+ble, each indication which equals or exceeds the 0.5 in. reference amplitude shall be considered 
+0.15 in. 2 [l cm 2 J (three times the area of the ¾ diameter [6 mm] flat bottomed hole to compensate for 
+reflectivity degradation of natural flaw) for the cumulative area estimates. 
+c The indications within a cluster with the cumulative areas traced shall be dispersed in a minimum sur­
+face area of the casting equal to 36 in. 2 [230 cm 2 J. If the cumulative areas traced are confined with a 
+smaller area of distribution, the area shall be repair welded to the extent necessary to meet the applica­
+ble quality level. 
+TABLE 5 
+DIMENSIONS OF CALIBRATION BLOCl<S FOR ANGLE-BEAM EXAMINATION 
+Nominal Production Basic Calibration Hole Diameter 
+Material Thickness Block Thickness (dJ, in 1.002 Minimum Depth 
+<t>, in. [mmJ en, in. [mm] [mm± 0.05] (0), in. [mmJ 
+Up to 1 [25] incl 1 [25] or t %2 [2.4] 1 1/2 [40] 
+Over 1 to 2 [25-50] 2 [50] or t 1/a [3.2] 1% [40] 
+Over 2 to 4 [50-100] 4 [100] or t 3 /16 [4.8] 11/2 [40] 
+Over 4 to 6 [100-150] 6 [150] or t 1/4 [6.3] 1 1/2 [40] 
+Over 6 to 8 [150-200] 8 [200] or t 5 /16 [7.9] 1 1/2 [40] 
+Over 8 to 10 [200-250] 10 [250] or t 3ia [9.5] 1 1/2 [40] 
+Over 10 [250] t See Note 1 1 1/2 [40] 
+NOTE 1 - For each increase in thickness of 2 in. [50 mm], or a fraction thereof, the hole diameter shall 
+increase ½_ 6 in. Cl.6 mml 
+NOTE 2 - For block sizes over 3 in. [75 mm] in thickness, T, the distance from the hole to the end of the 
+block shal I be ½ T, min, to prevent coincident reflections from the hole and the corner. Block fabricated 
+with a 2 in. [50 mm] minimum dimension need not be modified if the corner and hole indications can be 
+easily resolved. 
+1044
+
+=== Page 1139 ===
+
+ASME BPVC.II.A-2025 SA-609 /SA-609M 
+SUPPLEMENTARY REQUIREMENTS 
+The following supplementary requirement shall be applied only when agreed upon between 
+the purchaser and the supplier to achieve an effective examination of a critical casting area 
+that cannot be effectively examined using a longitudinal beam as a result of casting design 
+or possible discontinuity orientation. 
+S1. Angle Beam Examination of Steel Castings 
+S1.1 Equipment: 
+S1.1.1 Examination Instrument- Examination shall 
+be conducted with an ultrasonic, pulsed-reflection type of 
+system generating frequencies of at least 0.4 to 5 MHz. 
+Properties of the electronic apparatus shall be the same as 
+those specified in 4.1. 
+S1.1.2 Search Units - Angle-beam search units 
+shall produce an angle beam ip. steel in the range from 30 
+to 75° inclusive, measured to the perpendicular of the entry 
+surface of the casting being examined. It is preferred that 
+search units shall have frequency of 0.4 to 5 MHz. 
+S1.1.3 Calibration Blocks - A set of blocks, as 
+shown in Fig. 4, with as cast surface equivalent to SCRATA 
+Comparator A3 and of a thickness comparable to the sec­
+tions being examined with side-drilled holes at ¼t, ½t, and 
+¾t (where t = thickness of the block) shall be used to 
+establish an amplitude reference line (ARL). 
+Sl.2 Calibration of Equipment: 
+S1.2.1 Construct the distance amplitude correction 
+curve by utilizing the responses from the side-drilled holes 
+in the basic calibration block for angle beam examination 
+as shown in Fig. 4 and Table 5. 
+S1.2.1.1 Resolve and mark the amplitudes of the 
+¼t and ½t side-drilled holes from the same surface. The 
+side-drilled hole used for the ¼t amplitude may be used 
+to establish the ¾t amplitude from the opposite surface or 
+a separate hole may be used. 
+S1.2.1.2 Connect the ¼t, ½t, and ¾t amplitudes to 
+establish the applicable DAC. 
+S1.2.2 The basic calibration blocks shall be made 
+of material that is acoustically similar to the casting being 
+examined. 
+S1.2.3 Do not use basic calibration blocks with as 
+cast surface equivalent to SCRA TA Comparator A3 to 
+examine castings with surface rougher than SCRATA 
+Comparator A3. Use a machined calibration block for 
+machined surfaces. 
+S1.2.4 The search unit and all instrument control 
+settings remain unchanged except the attenuator or cali­
+brated gain control. 
+S1.2.4.1 The attenuator or calibrated gain control 
+may be used to change the signal amplitude during exami­
+nation to permit small amplitude signals to be more readily 
+detected. Signal evaluation is made by returning the attenu­
+ator or calibrated gain control to its original setting. 
+S1.3 Data Reporting - The supplier's report of final 
+ultrasonic examination shall contain the following data: 
+S1.3.1 The total number, location, amplitude, and 
+area of all indications equal to or greater than 100% of the 
+distance amplitude curve. 
+S1.3.2 The examination frequency, type of instru­
+ment, type, and size of search units employed, couplant, 
+transfer method, examination operator, supplier's identi­
+fying numbers, purchase order number, date, and author­
+ized signature. 
+S1.3.3 A sketch showing the physical outline of the 
+casting, including dimensions of all areas not examined 
+due to geometric configuration, with the location of all 
+indications in accordance with S1.3.1. 
+S1.4 Acceptance Standards - Acceptance quality lev­
+els shall be established between the purchaser and the 
+manufacturer on the basis of one or more of the following 
+criteria: 
+S1.4.1 No indication equal to or greater than the 
+DAC over an area specified for the applicable quality level 
+of Table 2. 
+S1.4.2 Other criteria agreed upon between the pur­
+chaser and the manufacturer. 
+1045
+
+=== Page 1141 ===
+
+ASME BPVG.ILA-2025 SA-612 /SA-612M (ASTM A612 /A612M) :
+SPECIFICATION FOR PRESSURE VESSEL PLATES,
+CARBON STEEL, HIGH STRENGTH, FOR MODERATE |
+AND LOWER TEMPERATURE SERVICE
+CxS SA-612/SA-612M ily 0s)
+
+| ® Standards Wordwide
+(Identical with ASTM Specification A612/A612M-20.) |
+
+1047
+
+=== Page 1142 ===
+
+SA-612/SA-612M (ASTM A612/A612M) ASME BPVC.II.A-2025 
+cd.filtf Designation: A612/A612M - 20 
+~u1I 
+INTERNATIONAi. 
+Standard Specification for 
+Pressure Vessel Plates, Carbon Steel, High Strength, for 
+Moderate and Lower Temperature Service 1 
+This standard is issued under the fixed designationA612/A612M; the number immediately following the designation indicates the year 
+of original adoption or, in the case of revision, the year of last revision. A number in parentheses indicates the year of last reapproval. 
+A superscript epsilon (s) indicates an editorial change since the last revision or reapproval. 
+1. Scope* 
+1.1 This specification 2 covers killed carbon-manganese­
+silicon steel plates intended for welded pressure vessels in 
+service at moderate and lower temperatures. 
+1.2 The maximum thiclrness of plates is limited only by the 
+capacity of the material to meet the specified mechanical 
+property requirements. 
+1.3 For plates produced from coil and furnished without 
+heat treatment or with stress relieving only, the additional 
+requirements, including additional testing requirements and the 
+reporting of additional test results, of Specification A20/ A20M 
+apply. 
+1.4 The values stated in either inch-pound units or SI units 
+are to be regarded separately as standard. Within the text, the 
+SI units are shown in brackets. The values stated in each 
+system are not exact equivalents; therefore, each system must 
+be used independently of the other. Combining values from the 
+two systems may result in nonconformance with the specifi­
+cation. 
+1.5 This international standard was developed in accor­
+dance with internationally recognized principles on standard­
+ization established in the Decision on Principles for the 
+Development of International Standards, Guides and Recom­
+mendations issued by the World Trade Organization Technical 
+Barriers to Trade (TBT) Committee. 
+2. Referenced Documents 
+2.1 ASTM Standards: 3 
+A20/A20M Specification for General Requirements for Steel 
+Plates for Pressure Vessels 
+1 This specification is under the jurisdiction of ASTM Committee AO 1 on Steel, 
+Stainless Steel and Related Alloys and is the direct responsibility of Subcommittee 
+A0l.11 on Steel Plates for Boilers and Pressure Vessels. 
+Current edition approved May 1, 2020. Published May 2020. Originally 
+approved in 1970. Last previous edition approved in 2019 as A612/A612M-12 
+(2019). DOI: 10.1520/A0612_A0612M-20. 
+2 For ASME Boiler a11d Pressure Vessel Code applications see related Specifi­
+cation SA-612/SA-612M in Section II of that Code. 
+3 For referenced ASTM standards, visit the ASTM website, www.astm.org, or 
+contact ASTM Customer Service at service@astm.org. For Annual Book of ASTM 
+Standards volume i11formation, refer to the standard's Document Summary page on 
+the ASTM website. 
+A435/A435M Specification for Straight-Beam illtrasonic 
+Examination of Steel Plates 
+A577/A577M Specification for illtrasonic Angle-Beam Ex­
+amination of Steel Plates 
+A578/A578M Specification for Straight-Beam Ultrasonic 
+Examination of Rolled Steel Plates for Special Applica­
+tions 
+3. General Requirements and Ordering Information 
+3.1 Material supplied to this product specification shall 
+conform to Specification A20/A20M. These requirements out­
+line the testing and retesting methods and procedures, permit­
+ted variations in dimensions and mass, quality and repair of 
+defects, marking, loading, and ordering information. 
+3 .2 In addition to the basic requirements of this 
+specification, certain supplementary requirements are available 
+where additional control, testing, or examination is required to 
+meet end use requirements. The purchaser is referred to the 
+listed supplementary requirements in this specification and to 
+the detailed requirements in Specification A20/ A20M. 
+3.3 Coils are excluded from qualification to this specifica­
+tion until they are processed into finished plates. Plates 
+produced from coil means plates that have been cut to 
+individual lengths from coil. The processor directly controls, or 
+is responsible for, the operations involved in the processing of 
+coils into finished plates. Such operations include decoiling, 
+leveling, cutting to length, testing, inspection, conditioning, 
+heat treatment (if applicable), packaging, marking, loading for 
+shipment, and certification. 
+Now 1-For plates produced from coil and furnished without heat 
+treatment or with stress relieving only, three test results are reported for 
+each qualifying coil. Additional requirements regarding plates from coil 
+are described in Specification A20/A20M. 
+3 .4 If the requirements of this specification are in conflict 
+with the requirements of Specification A20/ A20M, the require­
+ments of this specification shall prevail. 
+4. Materials and Mannfacture 
+4.1 Steelmaking Practice-The steel shall be killed and 
+shall conform to the fine austenitic grain size requirement of 
+Specification A20/A20M. 
+* A Summary of Changes section appears at the end of this standard 
+1048
+
+=== Page 1143 ===
+
+ASME BPVC.II.A-2025 SA-612/SA-612M (ASTM A612/A612M) 
+TABLE 1 Chemical Requirements 
+Elements Composition, % 
+Carbon, max:A 
+Heat analysis 0.25 
+Product analysis 0.29 
+ManganeseA 
+Heat analysis 1.00-1.50 
+Product analysis 0.92-1.62 
+Phosphorus, max 8 0.025 
+Sulfur, max 8 0.025 
+Silicon 
+Heat analysis 0.15-0.50 
+Product analysis 0.13-Q.55 
+Copper, max:c 
+Heat analysis 0.35 
+Product analysis 0.38 
+Nickel, max:c 
+Heat analysis 0.25 
+Product analysis 0.28 
+Chromium, max:c 
+Heat analysis 0.25 
+Product analysis 0.29 
+Molybdenum, max:c 
+Heat analysis 0.08 
+Product analysis 0.09 
+Vanadium, max:c 
+Heat analysis 0.08 
+Product analysis 0.09 
+A For each reduction of 0.01 percentage point below the specified carbon 
+maximum, an increase of 0.06 percentage point manganese above the specified 
+maximum is permitted up to a maximum of 1.65 % for heat analysis (1.70 % for 
+product analysis). 
+8 Applies to both heat and product analyses. 
+c When analysis shows that the amount of an element is 0.02 % or lower, the 
+value may be reported as :;;0.02 %. 
+TABLE 2 Tensile Requirements 
+Thickness 
+0.5 in. [12.5 mm] and Under 
+Tensile strength, ksi [MPa] 83-105 [570-725] 
+Yield strength, min,A ksi [MPa] 50 [345] 
+Elongation in 8 in. [200 mm], min, % 8 16 
+Elongation in 2 in. [50 mm], min, % 8 22 
+A Determined by either the 0.2 % offset method or the 0.5 % extension-under-load method. 
+8 See Specification A20/A20M for elongation adjustments. 
+5. Heat Treatment 7. Mechanical Properties 
+Over 0.5 in. [Over 12.5 mm] 
+81-101 [560-695] 
+50 [345) 
+16 
+22 
+5.1 Plates are normally supplied in the as-rolled condition. 
+Plates may be ordered normalized or stress relieved, or both. 
+6. Chemical Composition 
+7 .1 Tension Test-The plates, as represented by the tension 
+test specimens, shall conform to the requirements given in 
+Table 2. 
+6.1 The steel shall conform to the requirements as to 
+chemical composition given in Table 1 unless otherwise 
+modified in accordance with Supplementary Requirement S 17, 
+Vacuum Carbon-Deoxidized Steel, in Specification A20/ 
+A20M. 
+8. Keywords 
+8.1 carbon steel; steel plates for pressure vessels; lower 
+temperature service; high strength steel plates 
+1049
+
+=== Page 1144 ===
+
+SA-612/SA-612M (ASTM A612/A612M) ASME BPVC.II.A-2025 
+SUPPLEMENTARY REQUIREMENTS 
+Supplementary requirements shall not apply unless specified in the purchase order. 
+A list of standardized supplementary requirements for use at the option of the purchaser are included 
+in Specification A20/ A20M. Those that are considered suitable for use with this specification are listed 
+by title. 
+S 1. Vacuum Treatment, 
+S2. Product Analysis, 
+S8. Ultrasonic Examination in accordance with Specifica­
+tion A435/A435M, 
+S3. Simulated Post-Weld Heat Treatment of Test Coupons, 
+S4. l Additional Tension Test, 
+S9. Magnetic Particle Examination, 
+S 11. Ultrasonic Examination in accordance with Specifica­
+tion A577 / A577M, S5. Charpy V-Notch Impact Test, 
+S6. Drop Weight Test (for Material 0.625 in. [16 mm] and 
+over in Thickness), 
+S12. Ultrasonic Examination in accordance with Specifica­
+tion A578/A578M, and 
+S7. High Temperature Tension Test, S 17. Vacuum Carbon-Deoxidized Steel. 
+SUMMARY OF CHANGES 
+Committee AO I has identified the location of selected changes to this standard since the last issue 
+(A612/A612M-12 (2019)) that may impact the use of this standard. (Approved May 1, 2020.) 
+( 1) Revised 1.2 to delete maximum thickness of 1 in. [25 mm]. 
+(2) Revised Table 2 to delete maximum thickness of l in. 
+[25 mm]. 
+ASTM International takes no position respecting the validity of any patent rights asserted in connection with any item mentioned 
+in this standard. Users of this standard are expressly advised that determination of the validity of any such patent rights, and the risk 
+of infringement of such rights, are entirely their own responsibility. 
+This standard is subject to revision at any time by the responsible technical committee and must be reviewed eve,y five years and 
+if not revised, either reapproved or withdrawn. Your comments are invited either for revision of this standard or for additional standards 
+and should be addressed to ASTM International Headquarters. Your comments will receive careful consideration at a meeting of the 
+responsible technical committee, which you may attend. If you feel that your comments have not received a fair hearing you should 
+make your views known to the ASTM Committee on Standards, at the address shown below. 
+This standard is copyrighted by ASTM International, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428-2959, 
+United States. Individual reprints (single or multiple copies) of this standard may be obtained by contacting ASTM at the above 
+address or at 610-832-9585 (phone), 610-832-9555 (tax), or service@astm.org (e-mail); or through the ASTM website 
+(www.astm.org). Permission rights to photocopy the standard may also be secured from the Copyright Clearance Center, 222 
+Rosewood Drive, Danvers, MA 01923, Tel: (978) 646-2600; http://www.copyright.com/ 
+1050 
+~
+
+=== Page 1145 ===
+
+ASME BPVC.ILA-2025 SA-638/SA-638M
+
+SPECIFICATION FOR PRECIPITATION HARDENING
+IRON BASE SUPERALLOY BARS, FORGINGS, AND
+FORGING STOCK FOR HIGH-TEMPERATURE SERVICE
+
+Ox SA-638/SA-638M
+
+(Identical with ASTM Specification A638/A638M-00(2004) except for an editorial correction in 6.2.)
+
+1051
+
+=== Page 1146 ===
+
+SA-638/SA-638M ASME BPVC.II.A-2025 
+SPECIFICATION FOR PRECIPITATION HARDENING 
+IRON BASE SUPERALLOY BARS, FORGINGS, AND 
+FORGING STOCK FOR HIGH-TEMPERATURE SERVICE 
+SA-638/SA-638M 
+[Identical with ASTM Specification A 638/ A 638M-00(2004) except for an editorial correction in 6.2.] 
+1. Scope 
+1.1 This specification covers hot-finished or cold-fin­
+ished precipitation hardening iron base superalloy bars, 
+forgings, and forging stock for high-temperature service. 
+The mechanical properties of these alloys are developed 
+by suitable solution treating and precipitation hardening 
+treatments. 
+1.2 Two grades of iron base alloy are covered. Selection 
+will depend upon design, service conditions, mechanical 
+properties, and elevated temperature characteristics. 
+1.3 The values stated in either inch-pound units or SI 
+(metric) units are to be regarded separately as standards; 
+within the text and tables, the SI units are shown in [brack­
+ets]. The values stated in each system are not exact equiva­
+lents; therefore, each system must be used independent of 
+the other. Combining values from the two systems may 
+result in nonconformance with the specification. 
+1.4 Unless the order specifies an "M" designation, the 
+material shall be furnished to inch-pound units. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+A 484/ A 484M Specification for General Requirements 
+for Stainless Steel Bars, Billets, and Forgings 
+A 751 Test Methods, Practices, and Terminology for 
+Chemical Analysis of Steel Products 
+E 30 Test Methods for Chemical Analysis of Steel, Cast 
+Iron, Open-Hearth Iron, and Wrought Iron 
+3. Ordering Information 
+3.1 It is the responsibility of the purchaser to specify 
+all requirements that are necessary for material ordered 
+under this specification. Such requirements may include, 
+but are not limited to, the following: 
+3.1.1 . Quantity (weight or number of pieces). 
+3.1.2 Name of material (precipitation hardening iron 
+base superalloy). 
+3.1.3 Form (bars, forgings, and forging stock). 
+3.1.4 Dimensions (in the case of rough or finished 
+forgings the order shall be accompanied by a print or 
+drawing or otherwise adequately described as to the shape 
+and dimension). 
+3.1.5 Grade designation (Table 1). 
+3.1.6 Condition (Section 5). 
+3.1.7 Finish (Section 3). 
+3.1.8 Mechanical requirements (Section 8). 
+3.1.9 ASTM designation. 
+3.1.10 Special requirements. 
+4. General Requirements 
+4.1 In addition to the requirements of this specification, 
+all requirements of the current edition of Specification 
+A 484/A 484M shall apply. Failure to comply with the 
+general requirements of Specification A 484 / A 484M con­
+stitutes nonconformance with this specification. 
+5. Condition 
+5.1 The product forms covered in this specification 
+may be furnished in one of the following conditions: 
+5.1.1 Hot-finished. 
+5.1.2 Solution treated (Grade 660 only - Type 1 
+or Type 2 solution treatment as specified). 
+1052
+
+=== Page 1147 ===
+
+ASME BPVC.II.A-2025 SA-638/SA-638M 
+5.1.3 Solution and precipitation treated (Grade 660 
+only-Type 1 or Type 2 solution treatment as specified), or 
+5.1.4 Other as specified. 
+6. Heat Treatment 
+6.1 Samples cut from bars, forgings, or a sample forged 
+from the forging stock shall conform to the mechanical 
+properties of Tables 1 and 2 when heat treated as prescribed 
+in Table 3. 
+6.2 When a sample cut from the forging stock and heat 
+treated as prescribed in Table 3 conforms to the properties 
+in Tables 1 and 2, it shall be accepted as equivalent to a 
+forged coupon. 
+7. Chemical Composition 
+7 .1 The steel shall conform to the requirements for 
+chemical composition specified in Table 4. 
+7 .2 Methods and practices relating to chemical analysis 
+required by this specification shall be in accordance with 
+Test Methods, Practices, and Terminology A 751, except 
+that for remelt material, product analysis tolerances may 
+be used to determine conformance to this specification. 
+7 .3 For referee purposes, Test Methods E 30 shall be 
+used. 
+7 .4 Methods and practices relating to chemical analysis 
+required by this specification shall be in accordance with 
+Test Methods, Practices, and Definitions A 7 51, except that 
+for remelt material, product analysis tolerances may be 
+used to determine conformance to this specification. 
+8. Mechanical Properties 
+8.1 The material shall conform to the mechanical prop­
+erty requirements specified in Table 1 after heat treatment 
+as described in Table 3. 
+8.2 The material shall meet the requirements as to 
+stress-rupture properties specified in Table 2 at the test 
+temperature indicated after heat treatment as described in 
+Table 3. 
+8.3 When specified in the ordering information (3.1.8), 
+material may be ordered without stress-rupture testing. 
+Material not stress-rupture tested shall be permanently 
+stamped NR (See Section 10). 
+9. Metallurgical Properties 
+9.1 When specified, the grain size shall be 1 or finer. 
+10. Product Marking 
+10.1 Unless otherwise specified on the purchase order, 
+each bundle shall be properly tagged with metal tags show­
+ing the purchase order number, heat number, name of alloy 
+( or grade), "NR" when material has not been stress-rupture 
+tested, specification number, and size. 
+10.1.1 Bars 1 in. [25 mm] and over in diameter, or 
+1 in. [25 mm] and over in thiclmess between parallel sides, 
+shall be stamped with the heat number, and if not stress­
+rupture tested, with the letters "NR" within approximately 
+2 in. [50 mm] of one end. Smaller sizes shall be boxed or 
+bundled and identified with metal tags as described in 10.1. 
+10.1.2 Forgings shall be identified as agreed upon 
+between the seller and the purchaser. 
+11. Keywords 
+11.1 precipitation hardening superalloy steel; super­
+alloy steel bars; superalloy steel billets; superalloy steel 
+forgings; temperature service applications - high 
+1053
+
+=== Page 1148 ===
+
+SA-638/SA-638M ASME BPVC.II.A-2025 
+TABLE 1 
+MECHANICAL PROPERTY REQUIREMENTS 
+Grade 660 Grade 662 (bars) Grade 662 (forgings)A 
+Heat treatment 8 . . . . . . . . . . . . . . . . . solution + precipitation harden solution + precipitation harden solution + precipitation harden 
+Tensile strength, min: 
+psi ......................... . 
+[M Pa] ................ · · · ·,. · 
+Yield strength (0.2% offset), min: 
+psi ......................... . 
+[M PaJ ...................... . 
+Elongation in 4D min, % ......... . 
+Reduction of area min, % ......... . 
+Brinel I hardness ................. . 
+130 000 
+[895] 
+85 000 
+[585] 
+15 
+18 
+248 min 
+130 000 125 000 
+[895] [860] 
+85 000 80 000 
+[585] [550] 
+15 15 
+18 18 
+248 min 248 min 
+A The elongation of tensile specimens machined tangentially from near the center of large disk forgings over 50 in. 2 [320 cm 2 J in cross sec­
+tion may be as low as 10%. The reduction of area may be as low as 12%. 
+8 Refer to Table 3 of heat treatment. 
+Grade 
+660 
+662 
+Heat TreatmentA 
+solution + precipitation harden 
+solution + precipitation harden 
+TABLE 2 
+STRESS-RUPTURE REQUIREMENTS 
+Test Temperature 
+OF 
+1200 
+1200 
+[650] 
+[650] 
+psi 
+65 000 
+60 000 
+Stress 
+A Refer to Table 2 for details of heat treatment. 
+[MPaJ 
+[450] 
+[415] 
+Minimum 
+Hours 8 
+23 
+15 
+Minimum 
+Elongation, 
+% 
+3 
+3 
+8 Test specimens meeting minimum requirements may be overloaded to produce rupture in a reasonable and practical time period. 
+1054
+
+=== Page 1149 ===
+
+Carbon 
+Manganese 
+Silicon 
+Phosphorus 
+Sulfur 
+Chromium 
+Nickel 
+Molybdenum 
+Titanium 
+Copper 
+Aluminum 
+Vanadium 
+Boron 
+Grade 
+660 
+660 
+662 
+ASME BPVC.II.A-2025 
+TABLE 3 
+HEAT TREATMENT 
+Solution Treatment 
+Type 1 
+1650 ± 25°F [900 ± 15°CJ, hold 2 h, oil or 
+water quench 
+Type 2 
+1800 ± 25°F [980 ± 15°CJ, hold 1 h, oil or 
+water quench 
+1750 to l 900°F [955 to 1040°CJ, hold 1 h, 
+min, oil or water quench 
+Precipitation Hardening 
+TreatmentA 
+1300 to 1400°F [705 to 760°CJ, hold 16 h, 
+air cool or furnace cool 
+1300 to 1400°F [705 to 760°CJ, hold 16 h, 
+air cool or furnace cool 
+1250 to 1400°F [675 to 760°C], hold 5 h, 
+min, slow cooling in 5 h, min to 1200 ± 
+15°F [650 ± 10°CJ, hold 20 h, min, air 
+cool or furnace cool 
+SA·638/SA·638M 
+A Times refer to the minimum time material is required to be at temperature. 
+TABLE 4 
+CHEMICAL REQUIREMENTS 
+Grade 660 <UNS S66286)A 
+Ladle Analysis Check Analysis Over 
+Range,% or Under 
+0.08 max 0.01 over 
+2.00 max 0.04 over 
+1.00 max 0.05 over 
+0.040 max 0.005 over 
+0.030 max 0.005 over 
+13.50-16.00 0.20 
+24.00-27.00 0.20 
+1.00-1.50 0.05 
+1.90-2.35 0.05 
+0.35 max 0.05 over 
+0.10-0.50 0.03 
+0.0010-0.010 0.0004 under 
+0.001 over 
+Grade 662 (UNS S66220lA 
+Ladle Analysis Check Analysis Over 
+Range,% or Under 
+0.08 max 0.01 over 
+1.50 max 0.04 
+1.00 max 0.05 
+0.040 max 0.005 over 
+0.030 max 0.005 over 
+12.00-15.00 0.15 
+24.00-28.00 0.20 
+2.50-3.50 0.10 
+1.55-2.00 0.05 
+0.50 max 0.03 over 
+0.35 max 0.05 over 
+0.0010-0.010 0.0004 under 
+0.001 over 
+A New designation established in accordance with Practice E 527 and SAE Jl086. 
+1055
+
+=== Page 1151 ===
+
+ASME BPVC.ILA-2025, SA-645/SA-645M
+
+SPECIFICATION FOR PRESSURE VESSEL PLATES, 5%
+AND 57% NICKEL ALLOY STEELS, SPECIALLY HEAT
+TREATED
+
+Oe SA-645/SA-645M iy HW?
+Sanco Hoe
+
+(Identical with ASTM Specification A645/A645M-10(2016),)
+
+1057
+
+=== Page 1152 ===
+
+SA-645/SA-645M ASME BPVC.II.A-2025 
+Standard Specification for 
+Pressure Vessel Plates, 5 % and 5½ % Nickel Alloy Steels, 
+Specially Heat Treated 
+1. Scope 
+1.1 This specification covers specially heat treated 5 % and 
+5 ½ % nickel alloy steel plates intended primarily for welded 
+pressure vessels for service at low or cryogenic temperatures. 
+1.2 The maximum thickness of plates which can be supplied 
+under this specification is limited only by the capacity of the 
+material to meet the specified requirements. 
+1.3 This material is susceptible to magnetization. Use of 
+magnets in handling after heat treatment should be avoided if 
+residual magnetism would be detrimental to subsequent fabri­
+cation or service. 
+1.4 The values stated in either inch-pound units or SI units 
+are to be regarded separately as standard. Within the text, the 
+SI units are shown in brackets. The values stated in each 
+system are not exact equivalents; therefore, each system must 
+be used independently of the other. Combining values from the 
+two systems may result in nonconformance with the specifi­
+cation. 
+1.5 This standard does not purport to address all of the 
+safety concerns, if any, associated with its use. It is the 
+responsibility of the user of this standard to establish appro­
+priate safety and health practices and determine the applica­
+bility of regulatory limitations prior to use. 
+2. Referenced Docwnents 
+2.1 ASTM Standards: 
+A20/ A20M Specification for General Requirements for Steel 
+Plates for Pressure Vessels 
+A435/A435M Specification for Straight-Beam Ultrasonic 
+Examination of Steel Plates 
+A577/A577M Specification for Ultrasonic Angle-Beam Ex­
+amination of Steel Plates 
+A578/A578M Specification for Straight-Beam Ultrasonic 
+Examination of Rolled Steel Plates for Special Applica­
+tions 
+3. General Requirements and Ordering Information 
+3.1 Plates supplied to this material specification shall con­
+form to Specification A20/ A20M. These requirements outline 
+the testing and retesting methods and procedures, permitted 
+variations in dimensions and mass, quality and repair of 
+defects, marking, loading, and ordering information. 
+3.2 In addition to the basic requirements of this 
+specification, certain supplementary requirements are available 
+when additional control, testing, or examination is required to 
+meet end use requirements. The purchaser is referred to the 
+listed supplementary requirements in this specification and to 
+the detailed requirements in Specification A20/ A20M. 
+3.3 If the requirements of this specification are in conflict 
+with the requirements of Specification A20/ A20M, the require­
+ments of this specification shall prevail. 
+4. Materials and Manufacture 
+4.1 Steelmaking Practice-The steel shall be killed and 
+shall conform to the fine austenitic grain size requirements of 
+Specification A20/ A20M. 
+5. Heat Treatment 
+5.1 Grade A plates shall be heat treated in accordance with 
+5.2. Grade B plates shall be heat treated in accordance with 5.3. 
+Shell plates and other parts, including heads and reinforcing 
+pads that are heated above 1125°F [605°C] for forming, shall 
+be heat treated after forming, 
+5.2 Grade A, Procedure and Sequence: 
+5.2.1 Hardening-The plates shall be heated to a tempera­
+ture within the range from 1575 to 1675°F [855 to 915°C], held 
+within that temperature range for a minimum of 1 h/in. [2.4 
+min/mm] of thickness, but in no case less than 15 min, and then 
+water-quenched to below 300°F [150°C]. 
+5.2.2 Intermediate Heat Treatment-The plates shall be 
+reheated to a temperature within the range from 1275 to 
+1058
+
+=== Page 1153 ===
+
+ASME BPVC.II.A-2025 SA-645/SA-645M 
+1400°F [690 to 760°C], held within that temperature range for 
+a minimum of 1 h/in. [2.4 min/mm] of thickness, but in no case 
+less than 15 min, and then water-quenched to below 300°F 
+[150°C]. 
+5.2.3 Tempering-The plates shall be reheated to a tempera­
+ture within the range from 1150 to 1225°F [620 to 665°C], held 
+within that temperature range for a minimum of 1 h/in. [2.4 
+min/mm] of thickness, but in no case less than 15 min, and then 
+water-quenched or air cooled to below 300°F [150°C]. 
+5.3 Grade B, Procedure and Sequence: 
+5.3.1 Hardening-The plates shall be heated to a tempera­
+ture within the range from 1470 to 1600°F [800 to 870°C], held 
+within that temperature range for a sufficient time to obtain 
+uniform temperature throughout the plate thickness, and then 
+quenched in a liquid medium. 
+5.3.2 Intermediate Heat Treatment-The plates shall be 
+reheated to a temperature within the range from 1200 to 
+1330°F [650 to 720°C], held within that temperature range for 
+a minimum of 1 h/in. [2.4 min/mm] of thickness, but in no case 
+less than 15 min, and then water-quenched to below 300°F 
+[150°C] for nominal plate thicknesses over 5/s in. [16 mm], or 
+cooled in air or water-quenched to below 300°F [150°C] for 
+nominal plate thicknesses of 5 /s in. [16 mm] and under. 
+5.3.3 Tempering-The plates shall be reheated to a tempera­
+ture within the range from 1020 to ll50°F [550 to 620°C], held 
+within that temperature range for a minimum of 30 min/in. [1.2 
+min/mm] of thickness, but in no case less than 15 min, and then 
+water-quenched to below 300°F [150°C]. 
+6. Chemical Requirements 
+6.1 The steel shall conform to the chemical requirements 
+given in Table 1 unless otherwise modified in accordance with 
+Supplementary Requirement Sl7, Vacuum Carbon-Deoxidized 
+Steel, in Specification A20/ A20M. 
+7. Mechanical Requirements 
+7 .1 Tension Tests-The plates as represented by the tension 
+test specimens shall confonn to the requirements given in 
+Table 2. 
+7.1.1 For nominal plate thicknesses of¾ in. [20 mm] and 
+under, the 1 ½ in. [ 40 mm] wide rectangular specimen may be 
+used for the tension test, and the elongation may be detennined 
+in a 2 in. [50 mm] gage length that includes the fracture and 
+that shows the greatest elongation. 
+7.2 Impact Tests: 
+7 .2.1 Charpy V-notch tests shall be made in accordance with 
+the general requirements of Specification A20/ A20M. 
+7 .2.2 The longitudinal axis of the test specimens shall be 
+transverse to the final direction of rolling of the plate. 
+7.2.3 Unless otherwise agreed, the plates shall be impact 
+tested at the following temperatures: 
+TABLE 1 Chemical Requirements 
+Element 
+Composition, % 
+Carbon, max 
+Heat Analysis 
+Produce Analysis 
+Manganese 
+Heat Analysis 
+Product Analysis 
+Phosphorus, max 
+Heat Analysis 
+Product Analysis 
+Sulfur, max 
+Heat Analysis 
+Product Analysis 
+Silicon 
+Heat Analysis 
+Product Analysis 
+Nickel 
+Heat Analysis 
+Product Analysis 
+Chromium 
+Heat Analysis 
+Product Analysis 
+Molybdenum 
+Heat Analysis 
+Product Analysis 
+Aluminum, total 
+Heat Analysis 
+Product Analysis 
+Nitrogen, max 
+Heat Analysis 
+Product Analysis 
+Grade A 
+0.13 
+0.15 
+0.30-0.60 
+0.25-0.66 
+0.025 
+0.025 
+0.025 
+0.025 
+0.20-0.40 
+0.18-0.45 
+4.8-5.2 
+4.7-5.3 
+0.20-0.35 
+0.17-0.38 
+0.02-0.12 
+0.01-0.16 
+0.020 
+0.025 
+Grade B 
+0.13 
+0.15 
+0.90-1.50 
+0.84-1.59 
+0.020 
+0.025 
+0.010 
+0.015 
+0.15-0.30A 
+0.13-0.33A 
+5.0-6.0 
+4.9-6.1 
+0.10-1.00 
+0.06-1.05 
+0.10-0.30 
+0.09-0.33 
+0.02-0.05 
+0.015-0.06 
+0.010 
+0.010 
+A The specified minimum limit does not apply if the total aluminum is 0.030 % or 
+more, ore if the acid soluble aluminum content is 0.025 % or more. 
+TABLE 2 Tensile Requirements 
+Yield strength, min, ksi [MPa]A 
+Tensile strength, ksi [MPa] 
+Elongation in 2 in. [50 mm], 
+min 1 % 8 
+Grade A 
+65 [450) 
+95-115 [655 to 
+795] 
+20.0 
+Grade B 
+85 [590) 
+100-120 
+[690-830] 
+20 
+A At 0.2 % offset, or, if agreed between the purchaser and the manufacturer, at 0.5 
+% extension under load. 
+8 See Specification A20/A20M for elongation adjustment. 
+7.2.3.1 Grade A: -220°F [-140°C]. 
+7.2.3.2 Grade B: -320°F [-195°C]. 
+7 .2.4 Each specimen shall have a lateral expansion opposite 
+the notch of not less than 0.015 in. [0.38 mm]. 
+7.2.5 The values of energy absorption in foot-pounds-force 
+[joules] and the fracture appearance in percent shear shall be 
+recorded and reported for information. 
+8. Keywords 
+8.1 alloy steel; alloy steel plate; pressure containing parts; 
+pressure vessel steels; steel plates; steel plates for pressure 
+vessel applications 
+1059
+
+=== Page 1154 ===
+
+SA-645/SA-645M ASME BPVC.II.A-2025 
+SUPPLEMENTARY REQUIREMENTS 
+A list of standardized supplementary requirements for use at the option of the purchaser is included 
+in Specification A20/ A20M. Supplementary requirements shall not apply unless specified in the order. 
+Those which are considered suitable for use with this specification are listed below by title. Others 
+enumerated in Specification A20/A20M may be used with this specification subject to agreement by 
+the supplier. 
+S 1. Vacuum Treatment, 
+S2. Product Analysis, 
+S6. Drop-Weight Test (for Material 0.625 in. [16 mm] and 
+over in Thickness), 
+S8. Ultrasonic Examination in accordance with Specifica­
+tion A435/A435M, 
+Sll. Ultrasonic Examination in accordance with Specifica­
+tion A577 / A577M, 
+S12. Ultrasonic Examination in accordance with Specifica­
+tion A578/A578M, and 
+S 17. Vacuum Carbon-Deoxidized Steel. 
+ADDITIONAL SUPPLEMENTARY REQUIREMENTS 
+Also listed below are additional supplementary requirements which are considered suitable 
+for use with this specification. 
+S64. Longitudinal Charpy Impact Energy Absorption Re­
+quirement 
+S64.1 When required, the purchaser may specify longitudi­
+nal Charpy V-notch impact testing to energy-absorption accep­
+tance criteria. 
+S64.2 Tests shall be conducted in accordance with the 
+general requirements of Specification A20/ A20M. 
+S64.3 The longitudinal Charpy V-notch impact properties 
+shall not be less than those shown in Table S 1.1. 
+S64.4 The impact values obtained on subsize specimens 
+shall not be less than the values listed in Table S 1. 1. 
+S65. Transverse Charpy Impact Energy Absorption Re­
+quirement 
+S65.1 When required, the purchaser may specify transverse 
+Charpy V-notch impact testing to energy-absorption accep­
+tance criteria. 
+S65.2 Tests shall be conducted in accordance with the 
+general requirements of Specification A20/ A20M. 
+TABLE S1.1 Charpy Impact Requirements for Longitudinal 
+Specimens 
+Size of Specimen, 
+mm 
+10 by 10 
+10 by 7.5 
+10 by 6.67 
+10by5.0 
+10 by 3.33 
+10 by 2.50 
+Charpy V-notch 
+Impact Value 
+Required for 
+Acceptance 
+(Average of 
+Three Specimens), 
+ft-lbf [J] 
+25 [34] 
+19 [26] 
+17 [23] 
+13 [18] 
+8 [11] 
+6 [8] 
+Minimum 
+Charpy V-notch 
+Impact Value 
+Without Requiring 
+Retest (One 
+Specimen Only 
+of a Set), 
+ft-lb! [J] 
+20 [27] 
+16 [22] 
+13 [18] 
+10 [14] 
+7 [10] 
+5 [7] 
+S65.3 The transverse Charpy V-notch impact properties 
+shall not be less than those shown in Table S2.1. 
+S65.4 The impact values obtained on subsize specimens 
+shall not be less than the values listed in Table S2.1. 
+TABLE S2.1 Charpy Impact Requirements for Transverse 
+Specimens 
+Size of Specimen, 
+mm 
+10 by 10 
+10 by 7.5 
+10 by 6.6 
+10 by 5.0 
+10 by 3.33 
+10 by 2.50 
+Charpy V-notch 
+Impact Value 
+Required for 
+Acceptance 
+(Average of 
+Three Specimens), 
+ft-lbf [J] 
+20 [27] 
+15 [20] 
+13 [18] 
+10 [14] 
+1060 
+7 [10] 
+5 [7] 
+Minimum 
+Charpy V-notch 
+Impact Value 
+Without Requiring 
+Retest (One 
+Specimen Only 
+of a Set), 
+11-lbf [J] 
+16 [22] 
+12 [16] 
+10 [14] 
+8 [11] 
+5 [7] 
+4 [5]
+
+=== Page 1155 ===
+
+ASME BPVC.Il.A-2025 SA-649/SA-649M (ASTM A649/A649M) 
+SPECIFICATION FOR FORGED STEEL ROLLS USED FOR 
+CORRUGATING PAPER MACHINERY 
+SA-649 /SA-649M cO 
+INTERNATIONAL 
+Standards Worldwide 
+(Identical with ASTM Specification A649/A649M-10 (2020) except for deletion of 3.4.) 
+ASME SA-649/SA-649M replaces para. 3.4 of ASTM A649/A649M with the following: 
+3.4 DELETED 
+1061 
+(25)
+
+Resolved Notes (AI-verified)
+NOTE 2 (page 1137)
+NOTE 2 - Areas shall be measured from the center of the search unit.

@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 554,
+  "globalPageIndex": 1352,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "SA-789/SA-789M (ASTM A789/A789M) ASME BPVC.II.A-2025 \n12. Permissible Variations in Dimensions \n12.1 Variations in outside diameter, wall thickness, and \nlength from those specified shall not exceed the amounts \nprescribed in Table 5. \n12.2 The permissible variations in outside diameter given in \nTable 5 are not sufficient to provide for ovality in thin-walled \ntubes, as defined in the table. In such tubes, the maximum and \nminimum diameters at any cross section shall deviate from the \nnominal diameter by no more than twice the permissible \nvariation in outside diameter given in Table 5; however, the \nmean diameter at that cross section must still be within the \ngiven permissible variation. \n13. Surface Condition \n13.1 All tubes shall be free of excessive mill scale, suitable \nfor inspection. A slight amount of oxidation will not be \nconsidered as scale. Any special finish requirements shall be \nsubject to agreement between the manufacturer and the pur\u00ad\nchaser. \n14. Product Marking \n14.1 In addition to the marking prescribed in Specification \nA1016/A1016M, the marking shall indicate whether the tubing \nis seamless or welded and the wall designation (average wall or \nminimum wall). \n15. Keywords \n15.1 duplex stainless steel; ferritic/austenitic stainless steel; \nseamless steel tube; stainless steel tube; steel tube; welded steel \ntube \n1290 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1352.json",
+  "tabulaTablesCsv": "tables_tabula/page-1352.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-1352.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1362,
+  "bestTextAlphaRatio": 0.7592
+}

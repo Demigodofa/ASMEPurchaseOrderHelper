@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 234,
+  "globalPageIndex": 1032,
+  "width": 626.4,
+  "height": 803.04,
+  "text": "SA-542/SA-542M ASME BPVC.II.A-2025 \nTABLE 2 Tensile Requirements \nClass 1 Class 2 Class 3 Class 4 Class 4a \nTensile strength, ksi [MPa] 105-125 [725-860] \nYield strength, min, ksi [MPa] 85 [585] \n115-135 [795-930] \n100 [690] \n95-115 [655-795] \n75 [515] \n85-110 [585-760] \n55 [380] \n85-11 0 [585-760] \n60 (415] \nElongation in 2 in. (50 mm], min, %A 14 13 \nA See Specification A20/A20M for elongation adjustment. \nannealed condition. Minimum stress relieving temperature \nshall be 1050\u00b0F [565\u00b0C] except for 'fype E which shall be \n1200\u00b0F [650\u00b0C]. \n6. Chemical Composition \n6.1 The steel shall conform to the chemical requirements \nshown in Table 1. \n7. Mechanical Properties \n7.1 Tension Test Requirements: \n7.1.1 The material as represented by the tension-test speci\u00ad\nmens shall conform to the requirements shown in Table 2. \n7.1.2 For nominal plate thicknesses of\u00be in. [20 mm] and \nunder, the 1 \u00bd-in. [40-mm] wide rectangular specimen may be \nused for the tension test, and the elongation may be determined \n20 20 18 \nin a 2-in. [50-mm] gage length that includes the fracture and \nthat shows the greatest elongation. \n7.2 Notch Toughness Requirements-Classes 4 and 4a: \n7.2.1 A transverse Charpy V-notch test from each plate-as\u00ad\nheat-treated shall have a minimum energy absorption value of \n40 ft-lbf [54 J] average of three specimens and 35 ft\u2022lbf [48 J] \nfor one specimen only in the set. \n7.2.2 For Class 4, the impact test temperature shall be as \nspecified on the order. \n7 .2.3 For Class 4a, the impact test temperature shall be 0\u00b0F \n[-18\u00b0C]. \n8. Keywords \n8.1 alloy steel; alloy steel plate; pressure containing parts; \npressure vessel steels; steel plates for pressure vessels \nSUPPLEMENTARY REQUIREMENTS \nSupplementary requirements shall not apply unless specified in the order. \nA list of standardized supplementary requirements for use at the option of the purchaser are included \nin Specification A20/A20M. Several of those considered suitable for use with this specification are \nlisted in this section by title. Other tests may be performed by agreement between the supplier and the \npurchaser. \nSl. Vacuum Treatment, \nS2. Product Analysis, \nS3. Simulated Post-Weld Heat Treatment of Mechanical \nTest Coupons, \nS4.2 Additional Tension Test, \nS5. Charpy V-Notch Impact Test, \nS6. Drop Weight Test (for Material 0.625 in. [16 mm] and \n~~~~ov=e~r~in.Thicknes \nS7. High-Temperature Tension Test, \nS8. Ultrasonic Examination in accordance with Specifica\u00ad\ntion A435/A435M, \nS9. Magnetic Particle Examination, \nS 11. Ultrasonic Examination in accordance with Specifica\u00ad\ntion A577 I A577M, \nSl2. Ultrasonic Examination in accordance with Specifica\u00ad\ntion A578/A578M, \nS17. Vacuum Carbon-Deoxidized Steel. \n932 \n40 (55) \nJivTr40 {AvTrSS) \nTemperature, \u00b0F ( 0 C) \nMinimum PWHT \nand step age \nheat treatment \nFIG. S1 .1 Transition Temperature Curves Before and After Step \nCool Heat Treatment ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1032.json",
+  "tabulaTablesCsv": "tables_tabula/page-1032.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-1032.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2895,
+  "bestTextAlphaRatio": 0.6794
+}

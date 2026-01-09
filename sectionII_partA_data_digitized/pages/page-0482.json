@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 482,
+  "globalPageIndex": 482,
+  "width": 599.4,
+  "height": 844.08,
+  "text": "SA-285/SA-285M ASME BPVC.II.A-2025 \nADDITIONAL SUPPLEMENTARY REQUIREMENTS \nAlso listed below are additional optional supplementary requirements suitable for this specification: \nS57. Copper-Bearing \nS57 .1 The copper content, by heat analysis shall be \n0.20-0.35 % and by product analysis 0.18-0.37 %. \nS58. Restricted Copper \nS58.1 The maximum incidental copper content by heat \nanalysis shall not exceed 0.25 %. \n430 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-0482.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 419,
+  "bestTextAlphaRatio": 0.6945
+}

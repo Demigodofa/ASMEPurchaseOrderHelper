@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 328,
+  "globalPageIndex": 1126,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "SA-592/SA-592M ASME BPVC.II.A-2025 \n8. Repair Welding 10. Product Marking \n8.1 Repair welding of forgings may be permitted but \nonlyat the option of the purchaser. Such repair welds shall \nbe made in accordance with Section IX of the ASME \nBoiler and Pressure Vessel Code. \n10.1 Each forging shall be identified in accordance \nwith the Marking Section of Specification A 788. \n11. Keywords \n9. Test Reports \n9.1 The certification requirements of Specification \nA 788 shall apply. \n11.1 high-strength low-alloy steel; fittings-steel; pres\u00ad\nsure vessel service; quenched and tempered steel; steel \nforgings-alloy \nTABLE 1 \nCHEMICAL REQUIREMENTS \nComposition, % \nElement Grade AA Grade EA \nCarbon 0.15-0.21 0.12-0.20 \nManganese 0.80-1.10 0.40-0.70 \nPhosphorus, max 0.025 0.025 \nSulfur, max 0.025 0.025 \nSilicon 0.40-0.80 0.20-0.35 \nNickel \nChromium 0.50-0.80 1.40-2.00 \nMolybdenum 0.18-0.28 0.40-0.60 \nVanadium 8 \nTitanium 0.04-0.10 \nZirconium 0.05-0.15 \nCopper 0.20-0.40 \nBoron 0.0025 max 0.0015-0.005 \nA Similar to Specification A 517/A 517M Grades A, E, and F, respectively. \n8 May be substituted for part or all of titanium content on a one-for-one basis. \nTABLE 2 \nTENSILE REQUIREMENTS \nTensile strength, psi CM Pal \nYield strength (0.2% offset), min, \npsi [MPaJ \nElongation in 2 in. [50 mmJ, min, % \nReduction of area, min, % \nUp to 2\u00bd in. \n[65 mm], incl \n115 000 to 135 ooo \n[795 to 930] \n100 000 [690] \n18 \n45 \nTABLE 3 \nCHARPY IMPACT TEST REQUIREMENTS \nGrade FA \n0.10-0.20 \n0.60-1.00 \n0.025 \n0.025 \n0.15-0.35 \n0.70-1.00 \n0.40-0.65 \n0.40-0.60 \n0.03-0.08 \n0.15-0.50 \n0.002-0.006 \nOver 2\u00bd in. to 4 in. \n[65 to 100 mm], \nincl \n105 000 to 135 000 \n[725 to 930] \n90 000 [620] \n17 \n40 \nAll Grades and Thicknesses 15 mils (0.015 in.l [0.38 mmJA \nA Minimum value for each of three specimens. See 7 .3.3. \n1032 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1126.json",
+  "tabulaTablesCsv": "tables_tabula/page-1126.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-1126.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1806,
+  "bestTextAlphaRatio": 0.5504
+}

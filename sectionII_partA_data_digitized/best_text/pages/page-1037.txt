@@ -1,0 +1,49 @@
+ASME BPVC.ILA-2025 SA-543/SA-543M :
+/ ; 4. Manufacture 6. Chemical Requirements
+. 4.1 Steelmaking Practice — The steel shall be killed 6.1 The steel shall conform to the chemical require- ,
+and shall conform to the fine austenitic grain size require- ments shownin Table 1 unless otherwise modified in accor-
+ment of Specification A 20/A 20M. dance with Supplementary Requirement $17, Vacuum ,
+Carbon-Deoxidized Steel, in Specification A 20/A 20M.
+5. Heat Treatment
+5.1 All plates shall be heat treated by heating to 4 7. Mechanical Requirements
+suitable austenitizing temperature, holding for a sufficient , , :
+; ; aor ; 7.1 Tension Test Requirements:
+time period to attain uniform temperature through the thick-
+ness and quenching in a suitable liquid medium by spraying 7.1.1 The material as represented by the tension-test
+or immersion. The plates shall then be tempered to produce = specimens shall conform to the requirements shown in
+the required properties by heating to a suitable temperature Table 2. |
+ae he ow or pa MI yy > n> C] Noa h poking ne of hee 7.1.2 For nominal plate thicknesses of ¥, in. [20 mm] ,
+\ ‘hes Vb 2 hin. [1.2 min/mm] of thickness but not less and under, the 1% in. [40 mm] wide rectangular specimen |
+an 2 may be used for the tension test and the elongation may .
+5.2 Plates over 4 in. [100 mm] in thickness shall receive be determined in a 2 in. [50 mm] gage length that includes :
+a prior treatment of normalizing at, or water quenching the fracture and shows the greatest elongation.
+from a temperature within the range from 1650 to 1850°F |
+[900 to 1010°C] before the heat treatment specified in 5.1. .
+5.3. When the fabricator elects to perform the heat 8 Keywords
+treatment in 5.1 and 5.2, the manufacturer shall normalize 8.1 alloy steel; alloy steel plate; pressure containing
+the plates at an appropriate temperature prior to shipment parts; pressure vessel steels; steel plates; steel plates for :
+unless otherwise agreed to. pressure vessels !
+V , TABLE 1 TABLE 2
+CHEMICAL REQUIREMENTS TENSILE REQUIREMENTS
+Composition, % Class 1 Class 2 Class 3 ,
+) Element Type B Type C Tensile strength, ksi [MPa] 105-125 115-135 90-115
+' J [725-8601 [795-930] [620-795] L
+Carbon, max” 0.20 0.18 Yield strength, min, ksi 85585]  100[6901 70 [485] :
+Manganese, max 0.40 0.40 c[MPal :
+A |
+| Phosphorus, max a cae Elongation, 2 in. [50 mm], 14 14 16 |
+Sulfur, max 0.020 0.020 min, %4 8 !
+Silicon: ie ES |
+Heat analysis (015-040 0.15-0.40 A See 7.1.2. |
+Product analysis 0.13-0.45 0.13=0-45 ~~~ 8 See Specification-A 20/A-20M-for-elongation adjustment.
+/ Nickel:
+; Heat analysis 2.25-4.00 2.00-3.50
+Me Product analysis 2.18-4.07 1.93-3.57
+Chromium:
+Heat analysis 1.00—1.90 1.00—1.90
+Product analysis 0.94—-1.96 0.94-1.96
+Molybdenum:
+Heat analysis 0.20—-0.65 0.20-0.65
+Product analysis 0.16-0.69 0.16-0.69
+A Applies to both heat and product analyses.
+937

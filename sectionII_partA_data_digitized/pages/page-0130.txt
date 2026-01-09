@@ -1,0 +1,109 @@
+SA-20/SA-Z0M ASME BPVC.II.A-2025 
+minimum value, and if the average of the three specimens 
+equals or exceeds the specified minimum value, a retest of 
+three additional specimens may be made. Each of the three 
+retest specimens shall equal or exceed the specified minimum 
+value. 
+16.2.3 If the required values are not obtained on Charpy 
+V-notch retests as specified in 16.2.1 and 16.2.2, or if the 
+values in the initial test are below the values required for retest, 
+no further retests are permitted unless the plate is heat treated 
+or reheat treated. After heat treatment or reheat treatment, a set 
+of three specimens shall be tested and each shall equal or 
+exceed the specified minimum value. 
+16.2.4 If the option of 12.1.4.1 is used and the test result 
+falls below the 7 5 ft- lbf [ 100 J] minimum specified, another test 
+may be made using full-size test specimens. 
+17. Retreatment 
+17 .1 If any heat-treated plate fails to meet the mechanical 
+requirements of the applicable product specification, the manu­
+facturer or processor shall have have the option of heat treating 
+the plate again. All mechanical-property tests shall be repeated 
+and the plate surface shall be reexamined for surface defects 
+when it is resubmitted for inspection. 
+18. Rejection 
+18.1 Any rejection based upon product analysis made in 
+accordance with the applicable product specification shall be 
+reported to the supplier and samples that represent the rejected 
+plate shall be preserved for 2 weeks from the date of notifica­
+tion of such rejection. In case of dissatisfaction with the results 
+of the tests, the supplier shall have the option of making claim 
+for a rehearing within that time. 
+18.2 Plates that show injurious defects subsequent to their 
+acceptance at the manufacturer's or processor's works may be 
+rejected. In such cases, the manufacturer or processor shall be 
+notified. 
+19. Test Reports 
+19.1 The manufacturer or processor shall report the results 
+of all tests required by the applicable product specification, the 
+applicable supplementary requirements, and the purchase or­
+der. The heat number, the plate identifier of the plate tested, and 
+the nominal plate thickness shall be shown on the test report. 
+The year-date of the specification to which the plates are 
+furnished shall be included in the test report. 
+19.1.1 In reporting elongation values, both the percentage 
+increase and the original gage length shall be stated. 
+19.2 For plates rolled from a strand-cast slab with a reduc­
+tion ratio in the range from 2.0: 1 to 3.0: 1, exclusive, the 
+specific practices (see 5.3.4 and 5.3.6) that were used by the 
+manufacturer shall be reported, and the test reports shall state 
+that the limitations of 5.3 have been met. 
+19.3 All heat treatment, exclusive of subcritical heating to 
+soften thermally cut edges, shall be reported, including tem­
+perature ranges and times at temperature. This exclusion does 
+not apply to those plates with specified minimum tensile 
+strengths of 95 ksi [655 MPa] or higher, unless such subcritical 
+78 
+heating is accomplished at temperatures at least 75°F [40°C] 
+below the minimum tempering temperature. The reports shall 
+state whether the plates only, the test coupons only, or both 
+plates and test coupons were heat treated. 
+19 .4 If Charpy V-notch tests are specified, the test specimen 
+size used shall be reported. 
+19.5 If so specified in the purchaser order, the manufacturer 
+shall also furnish a certificate of compliance stating that the 
+plates have been manufactured, inspected, and tested in accor­
+dance with the requirements of the applicable product specifi­
+cation. For plates produced from coil, the processor shall 
+furnish the required certification. 
+19.6 For plates produced from coil and furnished without 
+heat treatment or with stress relieving only, the results of all 
+tests required by 11.1.2 shall be reported for each qualifying 
+coil. 
+19.7 Plates that are required to be heat treated, but have not 
+been so heat treated, shall be certified by the responsible 
+manufacturer on the basis of tests made on heat treated 
+coupons and such tests shall be made and reported. For plates 
+where the heat treatment of the coupons consists of quench and 
+tempering, the manufacturer or processor responsible for the 
+heat treatment of the plate shall repeat any required mechanical 
+tests after plate heat treatment and they shall be the basis for 
+final certification of the plate. 
+19.8 A signature is not required on the test report; however, 
+the document shall clearly identify the organization submitting 
+the report. Notwithstanding the absence of a signature, the 
+organization submitting the report is responsible for the content 
+of the report. 
+19.9 Copies of the original manufacturer's test report shall 
+be included with any subsequent test report. 
+19 .10 A test report, certificate of compliance, or similar 
+document printed from or used in electronic form from an 
+electronic data interchange (EDI) transmission shall be re­
+garded as having the same validity as a counterpart printed in 
+the certifier's facility. The content of the EDI transmitted 
+document must meet the requirements of the invoked ASTM 
+standard(s) and conform to any existing EDI agreement be­
+tween the purchaser and the supplier. Notwithstanding the 
+absence of a signature, the organization submitting the EDI 
+transmission is responsible for the content of the report. 
+20. Packaging, Marking, and Loading for Shipment 
+20.1 Packaging, marking, and loading for shipment shallbe 
+in accordance with those procedures recommended by Guide 
+A700. 
+20.2 For USA Government Procurement-Marking for ship­
+ment of material for civil agencies shall be in accordance with 
+Fed. Std. No. 123. 
+21. Keywords 
+21.1 general delivery requirement; pressure containing 
+parts; pressure vessel steels; steel plates; steel plates for 
+pressure vessel applications 

@@ -1,0 +1,136 @@
+SA-182/SA-182M (ASTM A182/A182M)
+
+ASME BPVC.II.A-2025
+
+TABLE 3 Continued
+
+Grade Symbol Tensile Strength, Yield Strength, min, Elongation in 2 in. Reduction of Brinell Hardness
+min, ksi [MPa] ksi [MPa]? [50 mm] or 4D, Area, min, % Number, HBW,
+min, % unless otherwise
+
+indicated
+
+F44 94 [650] 44 [300] 35 50
+
+F 45 87 [600] 45 [310] 40 50
+
+F46 78 [540] 35 [240] 40 50
+
+F 47 75 [525] 30 [205] 40 50
+
+F438 80 [550] 35 [240] 40 50
+
+F 49 115 [795] 60 [415] 35 40
+
+F56 73 [500] 27 [185] 30 35
+
+F58 109 [750] 61 [420] 35 50
+
+F 62 95 [655] 45 [310] 30 50 wee
+
+F 63 80 [550] 32 [220] 25 wee 192 max
+
+F 64 90 [620] 40 [275] 35 50 217 max
+
+F70 70 [480] 25 [175] 35 ee HRB 90 max
+
+F 904L. 71 [490] 31 [215] 35 wee Lee
+
+F700 80 [550] 35 [240] 30 see 192
+
+FNIC 65 [450] 25 [170] 30 :
+
+FNIC10 65 [450] 25 [170] 30
+
+FNICI1 65 [450] 25 [170] 30
+
+F1925 87 [600] 43 [295] 30
+
+F1925N 94 [650] 43 [295] 35
+
+F35030. 80 [550] 34 [235] 30.
+
+Ferritic-Austenitic Stainless Steels
+F 50 100-130 65 [450] 25 50
+[690-900]
+
+F51 90 [620] 65 [450] 25 45
+
+F52 100 [690] 70 [485] 15 ee wee
+
+F 53 = 2in. 114 [785] 76 [525] 30 wee 310 max
+
+[50 mm]?
+
+Class 1
+F 53 =2in. 116 [800] 80 [550] 15 wee 310 max
+[50 mm]?
+Class 2
+
+F 53> 2in. 106 [730] 75 [515] 15 te 310 max
+
+[50 mm]?
+
+F54 116 [800] 80 [550] 15 30 310 max
+
+F55 109-130 80 [550] 25 45
+
+[750-895]
+
+F57 118 [820] 85 [585] 25 50
+
+F59 112 [770] 80 [550] 25 40
+
+F 60 95 [655] 65 [450] 25 45
+
+F 61 109 [750] 80 [550] 25 50
+
+F65 109 [750] 80 [550] 25 ee ae
+
+F 66 94 [650] 65 [450] 30 we 290 max
+
+F 67 90 [620] 65 [450] 18 aoe 302
+
+F68 87 [600] 58 [400] 25 290 max
+
+F 69 94 [650] 65 [450] 30 we
+
+F71 101 [700] 72 [500] 15 321
+
+4 Where ellipses appear in this table, there is no requirement and the test for the value need neither be performed nor a value reported.
+® Determined by the 0.2 % offset method. For ferritic steels only, the 0.5 % extension-under-load method may also be used.
+
+For sections over 5 in. [130 mm] in thickness, the minimum tensile strength shall be 70 ksi [485 MPa].
+
+For sections over 5 in. [130 mm] in thickness, the minimum tensile strength shall be 65 ksi [450 MPa].
+
+= Longitudinal. The transverse elongation shall be 25 % in 2 in. or 50 mm, min.
+¥ Longitudinal. The transverse reduction of area shall be 45 % min.
+© Maximum section thickness at the time of heat treatment; see 7.4.
+
+may verify that the requirement has been met by testing at any
+location on the forging provided such testing does not render
+the forging useless.
+
+9.6.2 When the reduced number of tension tests permitted
+by 9.5.1.1 is applied, additional hardness tests shall be made on
+forgings or samples, as defined in 9.2, scattered throughout the
+load (see Note 2). At least eight samples shall be checked from
+each batch load, and at least one check per hour shall be made
+from a continuous run. When the furnace batch is less than
+eight forgings, each forging shall be checked. If any check falls
+
+222
+
+outside the prescribed limits, the entire lot of forgings shall be
+reheat treated and the requirements of 9.5.1 shall apply.
+
+Note 2—The tension test required in 9.5.1 is used to determine material
+capability and conformance in addition to verifying the adequacy of the
+heat-treatment cycle. Additional hardness tests in accordance with 9.6.2
+are required when 9.5.1.1 is applied to ensure the prescribed heat-treating
+cycle and uniformity throughout the load.
+
+9.6.3 When the alternative to the Ti/N ratio limit for F 23 is
+applied, (see Note P in Table 2), a minimum of two pieces per
+batch or continuous run as defined in 9.6.2 shall be hardness

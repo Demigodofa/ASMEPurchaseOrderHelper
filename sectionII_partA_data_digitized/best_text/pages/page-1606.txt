@@ -1,0 +1,66 @@
+ASME BPVC.II.A-2025 
+ANNEX 
+(Mandatory Information) 
+Al. ROUNDING OF TEST DATA 
+Al.1 Application 
+Al.1.1 This annex shall apply to rounding test data for the 
+purpose of determining conformance to product specification 
+requirements. 
+Al.2.3 Requirements for rounding levels for determining 
+conformance to product specification requirements are given in 
+Table Al. 1. Specific reported test data values shall be rounded 
+to Table Al. 1 for determining conformance to product speci­
+fication requirements. Al.1.1.1 This annex shall apply only when rounding is not 
+specified in the product specifications. 
+Al.1.1.2 Observed or calculated test results and records 
+maintained by testing laboratories are not subject to this annex. 
+Al.2 Method 
+Al.2.4 Table Al.1 values are designed to provide unifor­
+mity in determining conformance to product specification 
+requirements and should be considered when rounding require­
+ments are stated in product specifications. 
+Al.2.1 Values shall be rounded in accordance with the rules 
+of Practice E29 unless otherwise stated herein. 
+A 1.2.2 In the special case of rounding the number "5" when 
+no additional numbers other than "ff' follow the "5," rounding 
+shall be in accordance with Practice E29 except where this 
+would result in rejection of the. product. 
+Al.2.5 When rounding requirements for product acceptance 
+are neither stated in the product specification nor listed in Table 
+Al.1, an observed or calculated value shall be rounded to the 
+nearest unit in the last right hand digit used in expressing the 
+specification requirement. 
+TABLE A1.1 Rounded Test Data for Determining Conformance to Specification 
+Test Quantity 
+Yield Point, Yield Strength, Tensile Strength 
+Elongation 
+Reduction of Area 
+Absorbed Energy 
+Brlnell Hardness 
+Rockwell Hardness 
+Test Data Range 
+<500 MPa, 
+2:500 to <1000 MPa, 
+2:1000 MPa 
+Oto<10%, 
+2:10 % 
+Oto <10 %, 
+2:10 % 
+Oto:5325J 
+all values 
+all values 
+Rounded ValueA 
+1 MPa 
+5 MPa 
+10 MPa 
+0.5% 
+1% 
+0.5% 
+1% 
+1 J 
+tabular value 8 
+1 Rockwell Number 
+A Round test data to the nearest integral multiple to the nearest values in this column. If the data value Is exactly midway between two rounded values, round in accordance 
+with A 1.2.2. 
+8 Round the mean diameter of the Brlnell impression to the nearest 0.05 mm and report the corresponding Brinell hardness number from the table without further rounding. 
+1552 

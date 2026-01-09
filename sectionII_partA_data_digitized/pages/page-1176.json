@@ -1,0 +1,21 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 378,
+  "globalPageIndex": 1176,
+  "width": 613.92,
+  "height": 793.2,
+  "text": "SA-666 ASME BPVC.II.A-2025 \nTABLE 1 ,,------__ \nCHEMICAL COMPOSITION REQUIREMENTSCA> \nComposition, %' 6 ' \nUNS Other \nType Designation Carbon Manganese Phosphorus Sulfur Silicon Chromium Nickel Elements \n201 S20100 0.15 5.5-7.5 0.060 0.030 0.75 16.0-18.0 3.5-5.5 N 0.25 \n201L S20103 0.03 5.5-7.5 0.045 0.030 0.75 16.0-18.0 3.5-5.5 N 0.25 \n201LN S20153 0.03 6.4-7.5 0.045 0.015 0.75 16.0-17.5 4.0-5.0 N 0.10-0.25 \nCu 1.00 \n202 S20200 0.15 7.5-10.0 0.060 0.030 0.75 17.0-19.0 4.0-6.0 N 0.25 \nS20400 0.030 7.0-9.0 0.040 0.030 1.00 15.0-17.0 1.50-3.00 N 0.15-0.30 \n205 S20500 0.12-0.25 14.0-15.0 0.060 0.030 0.75 16.5-18.0 1.00-1.75 N 0.32-0.40 \n301 S30100 0.15 2.00 0.045 0.030 1.00 16.0-18.0 6.0-8.0 N 0.10 \n301L S30103 0.03 2.00 0.045 0.030 1.00 16.0-18.0 6.0-8.0 N 0.20 \n301LN S30153 0.03 2.00 0.045 0.030 1.00 16.0-18.0 6.0-8.0 N 0.07-0.20 \n302 S30200 0.15 2.00 0.045 0.030 0.75 17.0-19.0 8.0-10.0 \n304 S30400 0.08 2.00 0.045 0.030 0.75 18.0-20.0 8.0-10.5 N 0.10 \n304L S30403 0.030 2.00 0.045 0.030 0.75 18.0-20.0 8.0-12.0 N 0.10 \n304N S30451 0.08 2.00 0.045 0.030 0.75 18.0-20.0 8.0-10.5 N 0.10-0.16 \n304LN S30453 0.030 2.00 0.045 0.030 0.75 18.0-20.0 8.0-12.0 N 0.10-0.16 \n316 S31600 0.08 2.00 0.045 0.030 0.75 16.0-18.0 10.0-14.0 Mo 2.00-3.00 \n316L S31603 0.030 2.00 0.045 0.030 0.75 16.0-18.0 10.0-14.0 Mo 2.00-3.00 \n316N S31651 0.08 2.00 0.045 0.030 0.75 16.0-18.0 10.0-14.0 Mo 2.00-3.00 \nN 0.10-0.16 \nXM-11 S21904 0.04 8.0-10.0 0.060 0.030 0.75 19.0-21.5 5.5-7.5 N 0.15-0.40 \nXM-14 S21460 0.12 14.0-16.0 0.060 0.030 0.75 17.0-19.0 5.0-6.0 N 0.35-0.50 \nNOTES: \n(A) Types XM-10 and XM-19, which appeared in Specification A 412, do not appear as XM-10 is no longer produced and XM-19 is covered in \nSpecification A 240/A 240M. \n(Bl Maximum unless otherwise indicated. \n1084 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 1,
+  "ocrTextPath": "ocr/page-1176.txt",
+  "ocrTextLength": 1740,
+  "ocrApplied": true,
+  "tabulaTablesPath": "tables_tabula/page-1176.json",
+  "tabulaTablesCsv": "tables_tabula/page-1176.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-1176.txt",
+  "bestTextSource": "ocr",
+  "bestTextLength": 1740,
+  "bestTextAlphaRatio": 0.1897
+}

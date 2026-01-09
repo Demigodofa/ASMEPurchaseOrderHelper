@@ -1,0 +1,108 @@
+ASME BPVC.II.A-2025 SA-479/SA-479M 
+A484M shall apply. Failure to comply with the general 
+requirements of Specification A484/A484M constitutes non­
+conformance with this specification. 
+5. Chemical Composition 
+5.1 Chemical composition shall be reported to the 
+purchaser, or his representative, and shall conform to the 
+requirements specified in Table 1. 
+5 .2 When a product analysis is performed or requested by 
+the purchaser, the tolerance limits as described in Specification 
+A484/A484M apply unless Supplementary Requirement S3 is 
+invoked. 
+5.3 Methods and practices relating to chemical analysis 
+required by this specification shall be in accordance with Test 
+Methods, Practices, and Terminology A751. 
+6. Grain Size for Austenitic Grades 
+6.1 All austenitic grades shall be tested for average grain 
+size by Test Methods Ell2. 
+6.2 The H grades shall conform to an average grain size as 
+follows: 
+6.2.1 ASTM No. 6 or coarser for Types 304H, 309H, 310H, 
+and 316H, and 
+6.2.2 ASTM No. 7 or coarser for Types 321H, 347H, and 
+348H. 
+6.3 For S32615, the grain size as determined in accordance 
+with Test Methods Ell2, comparison method, Plate 11, shall be 
+No. 3 or finer. 
+6.4 For N08810 and N08811, the average grain size as 
+determined in accordance with Test Methods Ell2 shall be 
+No. 5 or coarser. 
+6.5 Supplementary Requirement Sl shall be invoked when 
+non-H grade austenitic stainless steels are ordered for ASME 
+Code applications for service above 1000 °F [540 °C]. 
+7. Mechanical Properties Requirements 
+7 .1 The material shall conform to the mechanical property 
+requirements specified in Table 2 for the grade ordered. At least 
+one room-temperature test shall be performed by the manufac­
+turer on a sample from at least one bar or shape from each lot 
+of material. 
+7 .2 The yield strength shall be determined by the offset 
+(0.2 % ) method as prescribed in Test Methods and Definitions 
+A370. 
+7 .3 Martensitic material supplied in the annealed condition 
+shall be capable of meeting the hardened and tempered 
+mechanical properties when heat treated. 
+7.4 Hardness measurements, when required, shall be made 
+at a location midway between the surface and the center of the 
+cross section. 
+7 .5 Martensitic grades shall be capable of meeting the 
+hardness requirements after heat treating as specified in Table 
+3. 
+8. Testing for Intermetallic Compounds 
+8.1 When specified by the purchaser in the purchase order, 
+the manufacturer shall test the austenitic or austenitic-ferritic 
+(duplex) stainless steel material in its final condition in 
+accordance with supplementary test requirements S6. 
+NoTB 2-Many, if not all, duplex stainless steels and some austenitic 
+stainless steels will form intermetallic phases or compounds such as 
+sigma, chi, and laves phases when exposed to temperatures below the 
+specified annealing temperature or cooled slowly from a higher tempera­
+ture during casting, welding, or annealing. These phases can have a 
+negative effect on mechanical properties and co1Tosion resistance. These 
+phases can typically be removed by correct annealing and cooling 
+practices. The presence of these phases can be demonstrated by tests, 
+typically involving metallography, impact toughness, or corrosion 
+resistance, although the testing requirements may be different for different 
+alloy grades. Such testing may or may not be routinely performed by the 
+manufacturer. 
+9. Certification 
+9.1 The material manufacturer's certificate of compliance 
+certifying that the material was manufactured and tested in 
+accordance with this specification, together with a report of the 
+results required by this specification and the purchase order, 
+shall be furnished at the time of shipment. The certification 
+shall be positively relatable to the lot of material represented. 
+10. Product Marking 
+10.1 In addition· to the marking requirements of Specifica­
+tion A484/A484M, materials that have been heat treated or 
+have been strain hardened shall be identified by placement of 
+the following symbols after the grade designation: 
+10.1.1 Austenitic Grades: 
+10.1.1.1 All grades in the annealed condition-A, 
+10.1.1.2 Strain hardened Type 316, Level 1--Sl, 
+10.1.1.3 Strain hardened Type 316, Level 2-S2, 
+10.1.1.4 Hot-rolled Type XM-19-H, 
+10.1.1.5 Strain hardened Type XM-19-S, and 
+10.1.1.6 Material meeting Supplementary Requirement 
+Sl-ELT (unnecessary for H grades). 
+10.1.1.7 In addition to all other marking requirements of 
+this specification, when S 1 is invoked, all grades in the direct 
+quenched condition shall be marked "D." 
+10.1.2 Austenitic-Ferritic Grades-All grades in the an­
+nealed condition-A. 
+10.1.3 Ferritic Grades-All grades in the annealed 
+condition-A. 
+10.1 .4 Martensitic Grades: 
+777 
+10.1.4.1 All grades in the annealed condition-A. 
+10.1.4.2 Types403 and410-COND 1, COND 2, orCOND 
+3 as appropriate for the tempering temperature employed. 
+10.1.4.3 Type 414, S41500, and Type XM-30 tempered 
+materials-T. 
+11. Keywords 
+11.1 austenitic stainless steel; austenitic-ferritic duplex 
+stainless steel; ferritic stainless steel; high temperature service 
+applications; martensitic stainless steel; pressure vessel ser­
+vice; pressure-containing parts; stainless steel bars; stainless 
+steel shapes 

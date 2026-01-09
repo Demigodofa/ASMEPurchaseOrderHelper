@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 374,
+  "globalPageIndex": 1172,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "SA-662/SA-662M ASME BPVC.II.A-2025 \nAPPENDIX \n(Nonmandatory Information) \nXl. NOTCH TOUGHNESS \nXl.1 When Charpy V-notch testing is required, the mini- TABLE X1.1 Charpy V-Notch RequirementsA \nmum values listed in Table XU will be guaranteed on Testing Grade A Grades B and C \nnormalized material for the temperature specified by the \nTemperature, Longitudinal Transverse Longitudinal Transverse \npurchaser. \n\u00b0F [\u00b0C] Specimens, Specimens, Specimens, Specimens, \nft-lb/ [J] ft,lbf [J] ft\u2022lbf [J] ft-lbf [J] \n-75 [-60] 20 [27] 15 [20] 15 [20] \n-60 [-50] 30 [41] 18 [24] 20 [27] \n-50 [-45] 35 [47] 19 [26] 22 [30] 15 [20] \n-40 [-40] 40 [54] 20 [27] 25 [34] 20 [27] \n-25 [-32] 45 [61] 25 [34] 30 [41] 20 [27] \n0 [18] 55 [75] 30 [41] 35 [47] 25 [34] \n32 [OJ 70 [95] 35 [47] 40 [54] 25 [34] \n75 [25] 75 [102] 40 [54] 50 [68] 30 [41] \nA The above values apply to the average of three full size specimens. Values for \nsubsize specimens are denoted as listed in Specification A20/A20M. \n1080 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1172.json",
+  "tabulaTablesCsv": "tables_tabula/page-1172.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-1172.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 982,
+  "bestTextAlphaRatio": 0.5041
+}

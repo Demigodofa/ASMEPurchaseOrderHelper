@@ -1,0 +1,52 @@
+ASME BPVC.II.A-2025 SA-941 
+time quenching, n-interrupted quenching in which the 
+duration of holding in the quenching medium is controlled. 
+transformation ranges, n-those ranges of temperature within 
+which austenite forms during heating and transforms during 
+cooling. 
+DrscussroN-The two ranges are distinct, sometimes overlapping but 
+never coinciding. The limiting temperatures of the ranges are depen­
+dent upon the steel composition and the rate of change of temperature, 
+particularly during cooling. 
+transformation temperature, n-the temperature at which a 
+change in phase occurs, with the limiting temperatures of the 
+transformation ranges designated using the following sym­
+bols: 
+Acc 01 -the temperature at which the solution of cementite 
+in austenite is completed during heating. 
+Ac 1 -the temperature at which austenite begins to form 
+during heating. 
+Ac 3 -the temperature at which transformation of ferrite to 
+austenite is completed dming heating. 
+Ac 4 -the temperature at which austenite transforms to 
+delta ferrite during heating. 
+Ae 1 , Ae 3 , Aecm• Ae 4 -the temperatures of phase change at 
+equilibrium. 
+Arcn 1 -the temperature at which precipitation of cementite 
+starts during cooling. 
+Ar 1 -the temperature at which transformation of austenite 
+to ferrite or to ferrite plus cementite is completed during 
+cooling. 
+Ar 3 -the temperature at which austenite begins to trans­
+form to ferrite during cooling. 
+Ar 4 -the temperature at which delta ferrite transforms to 
+austenite during cooling. 
+Mr-the temperature at which transformation of austenite 
+to martensite is substantially completed during cooling. 
+M 8 -the temperature at which transformation of austenite 
+to martensite starts during cooling. 
+DrscussroN-All of the above changes, except the formation of 
+martensite, occur at lower temperatures dming cooling than during 
+heating, and are dependent upon the rate of change of temperature. 
+unspecified element, n-in steel, an element not controlled to 
+a specified minimum, maximum, or range, in accordance 
+with the requirements of the applicable product specifica­
+tion. 
+wrought product, n-item of steel which has been subject to 
+deformation by rolling, drawing, forging, or some other 
+method, for example, a bar, plate, strip, tube, or wire. 
+1387 
+DrscussroN-The extent of deformation needed to transform an 
+as-cast material to one that exhibits the microstructure and properties 
+expected for wrought products is impractical to define because it may 
+vary among different deformation practices and product application. 

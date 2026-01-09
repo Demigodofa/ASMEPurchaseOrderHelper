@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 309,
+  "globalPageIndex": 1107,
+  "width": 618.6,
+  "height": 796.8,
+  "text": "ASME BPVC.II.A-2025 \nSPECIFICATION FOR ALLOY STEEL SOCKET-HEAD CAP \nSCREWS \nSA-574 \n(Identical with ASTM Specification A574-04E1 except that Table 1 on chemical requirements has been deleted and \nSupplementary Requirement Sl is now mandatory. Paragraphs 6.1 and 6.2 have been revised to refer to Table Sl.1 and \npara. 6.3 has been deleted.) \n1013 \nSA-574 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1107.json",
+  "tabulaTablesCsv": "tables_tabula/page-1107.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-1107.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 355,
+  "bestTextAlphaRatio": 0.707
+}

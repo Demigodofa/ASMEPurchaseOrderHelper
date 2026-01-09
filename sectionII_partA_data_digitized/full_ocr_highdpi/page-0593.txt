@@ -1,0 +1,64 @@
+ASME BPVC.II:A-2025 SA-351/SA-351M
+_ 3. General Conditions for Delivery TABLE 1 Heat-Treatment Requirements
+( 3.1 Other Than Investment Castings—Material furnished to Grade , temperature, min
+this specification shall conform to the requirements of Speci- 9.
+fication A703/A703M, including any supplementary require- Obs crea ore Geen. ta nN one ins
+ments that are indicated in the purchase order. Failure to — cFama, CF8M, CF3MN, CG3M, CF10,
+comply with the general requirements of Specification A703/ =. CF10M, CG8M
+A703M constitutes nonconformance with this specification. In CR, oMeMtoN CFIOMC seco ie0
+case of conflict between the requirements of this specification CH8, CH10, CH20, CK20 2100 4150
+and Specification A703/A703M, this specification shall pre- CK3MCuN, CN3MN*? 2200 1200
+vail CE20N4 2225 1220
+; . ; ; . 4 Grade shall be quenched in water or the castings may be furnace cooled to
+3.2 Investment Castings—Material furnished to this specifi- 2050 °F [1120 °C] minimum, held for 15 min minimum, and then quenched in water
+cation shall conform to the requirements of Specification oF prey conte by other means. ne held at th fed .
+: : : astings of these grades shall be held at the specified temperature for a
+A985/A985M, including any supplementary requirements that mot 4h. :
+are indicated in the purchase order. Failure to comply with the
+a general requirements of Specification A985/A985M_ consti-
+tutes nonconformance with this specification. In case of con- 9. Qualit
+flict between the requirements of this specification and Speci- - y . . ,
+fication A985/A985M, Specification A985/A985M_ shall 9.1 The surface of the casting shall be examined visually
+prevail. and shall be free of adhering sand, scale, cracks, and hot tears.
+33 The vost-weld heat treatment requirements of Supple- Other surface discontinuities shall meet the visual acceptance
+men tar Re. nirement SSO mav be s a fied when aus nee tic standards specified in the order. Visual Method SP-55 or other
+castin - ther than HK. HT io CTI 3c are to be subjected to visual standards may be used to define acceptable surface
+sovore corrosive service , | J discontinuities and finish. Unacceptable visual surface discon-
+tinuities shall be removed and their removal verified by visual
+4. Ordering Information examination of the resultant cavities.
+4.1 The inquiry and order should include or indicate the 9.2 When additional inspection is desired, Supplementary
+| following: Requirements $5, S6, and S10 may be ordered.
+4.11 A description of the casting by pattern number or 9.3 The castings shall not be peened, plugged, or impreg-
+drawing (dimensional tolerances shall be included on the pated to stop leaks.
+a casting drawing),
+4.1.2 Grade of steel, 10. Repair by Welding
+4.1.3 Options in the specification, and . 10.1 Repairs shall be made using procedures and welders
+4. de eee cmentary requirements desired, including the qualified under Practice A488/A488M.
+standards of acceptance. ;
+P 10.2 Weld repairs shall be inspected to the same quality
+5. Process standards that are used to inspect the castings. When castings
+5.1 The steel shall be made by the electric furnace process are produced with Supplementary Requirement 85 specified,
+with or without separate refining such as argon-oxygen decar- weld repairs on castings that have leaked on hydrostatic test, or
+burization (AOD) on castings in which the depth of any cavity prepared for repair
+welding exceeds 20 % of the wall thickness or 1 in. [25 mm],
+6. Heat Treatment , whichever is smaller, or on castings in which any cavity
+. . . ‘ - 2
+6.1 All castings shall receive a heat treatment at the tem- PIP ared for welding is greater than approximately 10 in.
+| perature specified in Table 1, followed by a quench in water or [65 cm'], shall be radiographed to the same standards that are
+. rapid cool by other means except as noted. used to inspect the castings. When castings are produced with
+a Supplementary Requirement S6 specified, weld repairs shall be
+ore 2—Proper heat ed of these alloys is usually ee bang ‘ inspected by liquid penetrant examination to the same stan-
+enhance corrosion resistance and, in some cases, to meet mechanic . :
+properties. Minimum heat-treat temperatures are specified; however, it is dards that are used to inspect the castings.
+sometimes necessary to heat treat at higher temperatures, hold for some 10.3 For Grade HGIOMnoN, the filler metal to be used shall
+minimum time at temperature, and then rapidly cool the castings in order be established by mutual agreement between the manufacturer
+to enhance the corrosion resistance and meet mechanical properties. ;
+and the purchaser.
+7. Chemical Composition Notre 3—When austenitic steel castings are to be used in services where
+they will be subject to stress corrosion, the purchaser should so indicate in
+7.1 The steel shall conform to the requirements as to his order and such castings should be solution heat treated following all
+chemical composition prescribed in Table 2. weld repairs.
+8. Tensile Properties 11. Keywords
+8.1 Steel used for the castings shall conform to the require- 11.1 austenitic stainless steel; pressure containing parts;
+ments as to tensile properties prescribed in Table 3. stainless steel; steel castings
+541

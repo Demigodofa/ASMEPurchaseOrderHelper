@@ -1,0 +1,19 @@
+To 13 incl,0.18,0.18,0.3
+Over 13 to 25 incl,0.25,0.25,0.4
+Over 25 to 40 incl,0.55,0.35,0.6
+Over 40 to 50 incl,0.8,0.4,0.8
+Over 50 to 65 incl,1.2,0.4,1.2
+Over 65 to 80 incl,1.6,1.6,
+
+mm,Thickness,Width,3, excl,6, excl,9, excl,12, excl,18, incl
+
+Over 25 to 50, incl,over 25,to 75, incl,15,25.0,40.0,50.0,65.0
+,to 25, incl,over 75 to 150, incl,15,25.0,40.0,50.0,65.0
+Over 50 to 125, incl,over 25,over 75 to 150, incl,25,40.0,45.0,60.0,70.0
+Over 125 to 250, incl,,,50,65.0,70.0,75.0,85.0
+,over 6 to 25, incl,over 150 to 200, incl,20,30.0,45.0,90.0,100.0
+,over 25 to 75, incl,over 150 to 200, incl,30,45.0,50.0,90.0,100.0
+Bar size sections,,,15,25.0,40.0,50.0,65.0
+,,,Hot Sawin,,,,
+50 to 125, incl,25 and over,75 and over,B,40.0,45.0,60.0,70.0
+Over 125 to 250, incl,,,B,65.0,70.0,75.0,85.0

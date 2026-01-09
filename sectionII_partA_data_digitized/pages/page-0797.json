@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 797,
+  "globalPageIndex": 797,
+  "width": 665.16,
+  "height": 896.52,
+  "text": "ASME BPVC.II.A-2025 SA-450/SA-450M \n32.1.10 Tube shall be straight to within the tolerances \nspecified in Table 8: \n32.1.11 When specified, each tube shall be ultrasonically \nexamined in accordance with NAVSEA T9074-AS-GIB-010/ \n271, except that the notch depth in the calibration standard \nshall be 5 % of the wall thickness or 0.005 in., whichever is \ngreater. Any tube which produces an indication equal to or \ngreater than 100 % of the indication from the calibration \nstandard shall be rejected. \nTABLE 8 Straightness Tolerances \nSpecified Wall Maximum Maximum \nSpecified OD (in.) Curvature in Any 3 Curvature in Total Thickness (in.) ft (in.) Length (in.) \nUp to 5.0, incl Over 3 % OD to 0.030 0.010 x length, ft \n0.5, incl \nOver 5.0 to 8.0, Over4 % OD to 0.045 0.015 x length, ft \nincl 0.75, incl \nOver 8.0 to 12.75, Over4% OD to 0.060 0.020 x length, ft \nincl. 1.0, incl \n32.1.12 The tube shall be free from repair welds, welded \njoints, laps, laminations, seams, visible cracks, tears, grooves, \nslivers, pits, and other imperfections detrimental to the tube as \ndetermined by visual and ultrasonic examination, or alternate \ntests, as specified. \n32.1.13 Tube shall be uniform in quality and condition and \nhave a finish confonning to the best practice for standard \nquality tubing. Surface imperfections such as handling marks, \nstraightening marks, light mandrel and die marks, shallow pits, \nand scale pattern will not be considered injurious if the \nimperfections are removable within the tolerances specified for \nwall thickness or 0.005 in., whichever is greater. The bottom of \nimperfections shall be visible and the profile shall be rounded \nand faired-in. \n32.1.14 No weld repair by the manufacturer is permitted. \n32.1.15 Packaging, marking, and loading shall be in accor\u00ad\ndance with Practices A700 or Practice D3951. \n33. Keywords \n33.1 alloy steel tube; austenitic stainless steel; carbon steel \ntube; general delivery; stainless steel tube; steel tube \n747 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0797.json",
+  "tabulaTablesCsv": "tables_tabula/page-0797.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0797.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1980,
+  "bestTextAlphaRatio": 0.7066
+}

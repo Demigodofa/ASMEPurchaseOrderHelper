@@ -1,0 +1,109 @@
+SA-941 ASME BPVC.II.A-2025 
+cold working, n-mechanical deformation of a metal at 
+temperatures below its recrystallization temperature. 
+cold treatment, n-exposing a steel object to temperatures 
+below room temperature for the purpose of obtaining desired 
+conditions or properties, such as dimensional or structural 
+stability. 
+conditioning heat treatment, n-a preliminary heat treat­
+ment used to prepare a steel object for a desired reaction to 
+a subsequent heat treatment. 
+continuous-conveyance furnace, n-a heating device through 
+which steel objects are intentionally moved at a constant rate 
+during the thermal processing cycle. 
+controlled cooling, n-cooling a steel object from an elevated 
+temperature in a predetermined manner to avoid hardening, 
+cracking, or intema1 damage, or to produce a desired 
+microstructure or mechanical properties. 
+controlling cross section thickness (Tc), n-diameter of the 
+largest theoretical sphere that can be inscribed within the 
+volume of the component. 
+Drscuss10N-The controlling cross section thickness (Tc) is used to 
+determine the size of prolongations, test blocks, or representative test 
+pieces. It is calculated based on the dimensions of the component at the 
+time of heat treatment. Where components are heat treated with internal 
+diameters the calculation is made based on the wall thickness. 
+core, n-in case hardening, the interior portion of unaltered 
+composition or microstructure, or both, of a case hardened 
+steel object. 
+core, n-in clad products, the central portion of a multilayer 
+composite metallic material. 
+critical cooling rate, n-the slowest rate of continuous cooling 
+at which austenite can be cooled from above the transfor­
+mation range to prevent its transformation above M •. 
+cycle annealing, n-annealing employing a predetermined 
+and closely controlled time-temperature cycle to produce 
+specific properties or a specific microstructure. 
+decarburization, n-the loss of carbon from the surface of a 
+steel object as a result of its being heated in a medium that 
+reacts with the carbon. 
+defect, n-an imperfection of sufficient magnitude to warrant 
+rejection based on the specified requirements. 
+differential heating, n-heating that intentionally produces a 
+temperature gradient within a steel object such that, after 
+cooling, a desired stress distribution or variation in proper­
+ties is present within the object. 
+diffusion coating, n-any process whereby a base metal is 
+either coated with another metal and heated to a sufficient 
+temperature in a suitable environment, or exposed to a 
+gaseous or liquid medium containing the other metal, 
+thereby causing diffusion of the coating or other metal into 
+the base metal, with a resultant change in the composition 
+and properties of its surface. 
+direct quenching, n-in thermochemical processing, quench­
+ing immediately following the thermochemical treatment. 
+direct quenching, n-in thermomechanical processing, 
+quenching immediately following the final hot deformation. 
+document, n-a written, printed, or electronic record that 
+provides information, evidence, or official statements. 
+double aging, n-employment of two different aging 
+treatments, in sequence, to control the type of precipitate 
+formed from a supersaturated alloy matrix in order to obtain 
+the desired properties. 
+Drscuss10N-The first aging treatment, sometimes referred to as 
+intermediate or stabilizing, is usually carried out at a higher tempera­
+ture than the second. 
+double tempering, n-a treatment in which a quench­
+hardened steel object is given two complete tempering 
+cycles at substantially the same temperature for the purpose 
+of ensuring completion of the tempering reaction and pro­
+moting stability of the resultant microstructure. 
+electronic data interchange, n-the computer to computer 
+exchange of business information in a standardized format. 
+ellipsis, n-in a tabular entry, three periods ( ... ) that indicate 
+that there is no requirement. 
+ferritizing anneal, n-a heat treatment that produces a 
+predominantly ferritic matrix in a steel object. 
+ferroalloy, n-an alloy of iron and one or more other metals, 
+for use as an addition to the molten metal during the 
+manufacture of steels, nickel alloys, or cobalt alloys. 
+ferrous material, n-metals and alloys that contain iron as the 
+principal component. 
+D1scussmN-The iron content is not always stated in the specification 
+and is not always determined by chemical analysis. The iron content 
+may be taken to be 100 % minus the sum of the mean values permitted 
+by the specification for all other elements having a specified range or a 
+specified maximum. For conformance purposes, the mean value for 
+iron, whether specified or calculated, is compared on an individual 
+basis to the mean values permitted by the specification for each of the 
+other elements having a specified range or a specified maximum. If an 
+element other than iron is not specified, but is listed as remainder or 
+balance, then, for conformance purposes the mean value for iron is 
+compared to the calculated value for that other element. 
+fine grain practice, n-a steelmaking practice for other than 
+stainless steel that is intended to produce a killed steel that 
+is capable of meeting the requirements specified for fine 
+austenitic grain size when and if the as-rolled or as-forged 
+product is reheated to a temperature at or above the 
+transformation temperature, Ac 3 . 
+D1scuss10N-When stated as a requirement, fine grain practice 
+normally involves the addition of one or more austenitic grain refining 
+elements in amounts that have been established by the steel producer as 
+being sufficient. Austenitic grain refining elements include, but are not 
+limited to, aluminum, niobium (columbium), titanium, and vanadium. 
+A fine grain practice requirement ( 1) does not specify a minimum 
+austenitic grain refining element addition; (2) does not require prior 
+austenite grain size testing or measurement, or both; ( 3) if tested, does 
+not require meeting any prior austenite grain size requirement; and ( 4) 
+does not apply to, nor in any way control, the p1ior austenite grain size 
+1382 

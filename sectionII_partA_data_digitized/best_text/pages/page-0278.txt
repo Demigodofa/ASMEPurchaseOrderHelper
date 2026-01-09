@@ -1,0 +1,85 @@
+SA-182/SA-182M (ASTM A182/A182M) ASME BPVC.II.A-2025 
+TABLE 4 Continued 
+Grade Symbol ElectrodesA Recommended Preheat and Post Weld Heat-Treatment 
+lnterpass Temperature Temperature, Minimum or 
+Range, °F [0 C] Range, °F [0 C] 
+F 45 8 
+F 46 
+F 47 ... J 2100 [1150] + WQ 
+F 48 2100 [1150] + WQ 
+F 49 2100 [1150] + WO 
+F 58 E NiCrMo-10 2100 [1150] + WQ 
+F 62 E NiCrMo-3 NR 2025 [1105] + WQ 
+F 70 ERNiCr-3, or ERNiCrMo-3, or NR 1900 [1040] + WQ 
+ERNiCrMo-4 
+F 904L E NiCrMo-3 NR 1920-2100 [1050-1150] + WQ 
+Ferritic-Austenitic Stainless Steels 
+F 50 25% Cr, 6% Ni, 1.7% Mo NR NR 
+F 51 22 % Cr, 5.5 % Ni, 3 % Mo NR NR 
+F 52 26 % Cr, 8 % Ni, 2 % Mo NR NR 
+F 53 25 % Cr, 7 % Ni, 4 % Mo NR NR 
+F 54 25 % Cr, 7 % Ni, 3 % Mo, NR NR 
+w 
+F 55 25 % Cr, 7 % Ni, 3.5 % Mo NR NR 
+F 57 25 % Cr, 7 % Ni, 3 % Mo, 1.5 % NR NR 
+Cu, I% W 
+F 59 E Ni CrMo-10 NR NR 
+F 60 22 % Cr, 5.5 % Ni, 3 % Mo NR NR 
+F 61 26 % Cr, 9 % Ni, 3.5 % Mo NR NR 
+F 65 29 % Cr, 6.5 % Ni, 2 % Mo NR NR 
+F 66 22 % Cr, 2 % Ni, 0.25 % Mo NR NR 
+F 67 NR NR 
+F 68 NR NR 
+F 69 NR NR 
+F 71 27.5 Cr, 7.6 Ni, 1 Mo, 2.3 W NR NR 
+A Except for Grades F 91 Types 1 and 2, F 92, F 93, F 115, F 911, F 122, F 47, F 48, and F 49, electrodes shall comply with AWS Specifications A5.4/A5.4M, A5.5/A5.5M, 
+A5.9/A5.9M, A5.11/A5.11M, A5.14/A5.14M, A5.23/A5.23M, or A5.28/A5.28M. 
+8 Purchaser approval required. 
+c All repairs in F 91 Types 1 and 2 shall be made with one of the following welding processes and consumables: SMAW, A5.5/A5.5M E90XX-B9; SAW, A5.23/A5.23M EB9 
++ flux; GTAW, A5.28/A5.28M ER90S-B9; and FCAW, A5.29/A5.29M E91T1-B9. In addition, the sum of the Ni+Mn content of all welding consumables shall not exceed 
+1.0%. 
+0 All repairs in F 92, F 93, F 115, F 911, and F 122, shall be made using welding consumables meeting the chemical requirements for the grade in Table 2. 
+E Preheat and PWHT are not required for this grade for forgings whose section thickness does not exceed 0.500 in. [12. 7 mm]. 
+P NR = not required. 
+0 WQ = water quench. 
+H Filler metal shall additionally have 0.04 % minimum carbon. 
+1 Matching filler metal is available. 
+J Match filler metal is available. Fabricators have also used AWS A5.14/A5.14M, Classification ERNiCrMo-3 and AWS A5.11/A5.11 M, Class E, ENiCrMo-3 filler metals. 
+18.2.4 Chemical analysis results, Section 8 (Table 2), re­
+ported results shall be to the same number of significant figures 
+as the limits specified in Table 2 for that element, 
+18.2.5 Hardness results, Section 9 (Table 3, and for F 23, 
+Tables 2 and 3), 
+18.2.6 Grain size results, Section 10, and 
+18.2.7 Any supplementary testing required by the purchase 
+order. 
+19. Product Marking 
+19.1 In addition to the marking requirements of Specifica­
+tion A961/A961M, the following additional marking require­
+ments shall apply: 
+19.1.1 Quenched and tempered low alloy or martensitic 
+stainless forgings shall be stamped with the letters QT follow­
+ing the specification designation. 
+19.1.2 Forgings repaired by welding shall be marked with 
+the letter "W" following the Specification designation. When 
+repair 0 welded austenitic stainless steel forgings have not been 
+postweld heat treated in accordance with Table 4, the letters 
+"WNS" shall be marked following the specification designa­
+tion. 
+19.1.3 Parts meeting all requirements for more than one 
+class or grade may be marked with more than one class or 
+grade designation such as F 304/F 304H, F 304/F 304L, and the 
+like. 
+19.1.4 Plugs and bushings furnished to ASME B16.11 
+requirements are not required to be marked. 
+19.1.5 When agreed upon between the purchaser and 
+manufacturer, and specified in the order, the markings shall be 
+painted or stenciled on the fitting or stamped on a metal or 
+plastic tag which shall be securely attached to the fitting. 
+226 
+19.1.6 Grade F 91 shall be additionally marked with the 
+appropriate Type. 
+19.2 Bar Coding-In addition to the requirements in 19.1, 
+bar coding is acceptable as a supplemental identification 
+method. The purchaser may specify in the order a specific bar 
+coding system to be used. The bar coding system, if applied at 

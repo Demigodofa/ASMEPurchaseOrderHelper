@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 504,
+  "globalPageIndex": 1302,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "SA-749/SA-749M ASME BPVC.II.A-2025 \nANNEX \n(Mandatory Information) \nAl. PERMISSIBLE VARIATIONS IN \nDIMENSIONS AND MASS IN SI UNITS \nAl.1 Listed in Tables Al.1 through Al.7 are permissi\u00ad\nble variations in dimensions and mass expressed in the \nInternational System of Units (SI) terminology. \nTABLE Al.l \nTHICKNESS TOLERANCES OF HOT-ROLLED STRIPA (CARBON AND HIGH-STRENGTH, LOW-ALLOY STEEL) \nORDERED TO NOMINAL THICKNESS (COILS AND CUT LENGTHS, INCLUDING PICKLED) \nSpecified Width, mm \nOver Through \n100 \n200 \n100 \n200 \n300 \nThickness Tolerance, Over and Under, mm, for Specified Nominal Thickness, mm \nOver 1.5 to 3.0, Over 3.0 to 4.5, Over 4.5 to 5.0, Over 5.0 to 6.0, \nThrough 1.5 incl incl incl excl \n0.08 \n0.08 \n0.10 \n0.10 \n0.13 \n0.13 \n0.13 \n0.13 \n0.13 \n0.15 \n0.15 \n0.15 0.15 \nNOTE 1 - Micrometers used for measurement of thickness shall be constructed with either flat anvils having a minimum diameter of 4.80 mm \nor rounded anvils having a minimum radius of curvature of 2.55 mm. Micrometers with pointed anvils are not suitable for thickness measurement. \nA Measurements for the above table are taken 10 mm from the edge of a strip on 25 mm or wider; and at any place on the strip when nar\u00ad\nrower than 25 mm. The given tolerances do not include crown and therefore the tolerances for crown as shown in Table AL3 are in addition \nto tolerances in Table ALL \nTABLE Al.2 \nTHICKNESS TOLERANCES OF HOT-ROLLED STRIPA (CARBON AND HIGH-STRENGTH, LOW-ALLOY STEEL) \nORDERED TO MINIMUM THICKNESS (COILS AND CUT LENGTHS, INCLUDING PICKLING) \nSpecified Width, mm \nOver Through \n100 \n200 \n100 \n200 \n300 \nThrough 1.5 \n0.15 \n0.15 \n0.20 \nThickness Tolerance, Over Only, for Specified Minimum Thickness, mm \nOver 1.5 to 3.0, Over 3.0 to 4.5, \u2022 Over 4.5 to 5.0, \nincl incl incl \n0.20 \n0.25 \n0.25 \n0.25 \n0.25 \n0.25 \n0.30 \n0.30 \n0.30 \nOver 5.0 to 6.0, \nexcl \n0.30 \nNOTE l - Micrometers used for measurement of thickness shall be constructed with either flat anvils having a minimum diameter of 4.80 mm \nor rounded anvils having a minimum radius of curvature of 2.55 mm. Micrometers with pointed anvils are not suitable for thickness measurement. \nA Measurements for the above table are taken 10 mm from the edge of a strip on 25 mm or wider; and at any place on the strip when nar\u00ad\nrower than 25 mm. The given tolerances do not include crown and therefore the tolerances for crown as shown in Table A L3 are in addition \nto tolerances in Table A 1.2. \n1230 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 2,
+  "tabulaTablesPath": "tables_tabula/page-1302.json",
+  "tabulaTablesCsv": "tables_tabula/page-1302.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-1302.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2442,
+  "bestTextAlphaRatio": 0.679
+}

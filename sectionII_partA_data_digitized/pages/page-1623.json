@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 825,
+  "globalPageIndex": 1623,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "ASME BPVC.II.A-2025 \n3. Source \n3.1 See Nonmandatory Appendix A for ordering infor\u00ad\nmation to obtain an English language copy of EN 10025-2 \nand its references. \n1569 \nSA/EN 10025-2 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-1623.txt",
+  "ocrTextLength": 179,
+  "ocrApplied": true,
+  "bestTextPath": "best_text/pages/page-1623.txt",
+  "bestTextSource": "ocr",
+  "bestTextLength": 179,
+  "bestTextAlphaRatio": 0.648
+}

@@ -1,0 +1,144 @@
+SA-53/SA-53M 
+NPS DN 
+Designator Designator 
+24 600 
+26 650 
+Specified 
+Outside 
+Diameter, 
+in.[mm] 
+24.000 [61 OJ 
+26.000 [660] 
+Specified 
+Wall Thickness, 
+in. [mm] 
+0.500 [12.70] 
+0.594 [15.09] 
+0.812 [20.62] 
+1.031 [26.19] 
+1.281 [32.54] 
+1.500 [38.10] 
+1.750 [44.45] 
+1.969 [50.01 l 
+0.250 [6.35] 
+0.281 [7.14] 
+0.312 [7.92] 
+0.344 [8.74] 
+0.375 [9.52] 
+0.406 [10.31] 
+0.438 [11.13] 
+o.469 [11.91 l 
+0.500 [12.70] 
+0.562 [14.27] 
+0.688 [17.48] 
+0.938 [23.83] 
+0.969 [24.61] 
+1.219 [30.96] 
+1.531 [38.89] 
+1.812 [46.02] 
+2.062 [52.37] 
+2.344 [59.54] 
+0.250 [6.35] 
+0.281 [7.14] 
+0.312 [7.92] 
+0.344 [8.74] 
+0.375 [9.52] 
+0.406 [10.31] 
+0.438 [11.13] 
+0.469 [11.91 J 
+0.500 [12.70] 
+0.562 [14.27] 
+ASME BPVC.II.A-2025 
+TABLEX2.2 Continued 
+Nominal Weight (Mass) 
+per Unit Length, Plain Weight Class 
+End, lb/ft [kg/m] 
+104.23 [155.12] XS 
+123.23 [183.42] 
+166.56 [247.83] 
+209.06 [311.17] 
+256.34 [381.53] 
+296.65 [441.49] 
+341.41 [508.11] 
+379.53 [564.81] 
+63.4 7 [94.46] 
+71.25 [106.08] 
+79.01 [117.51] 
+86.99 [129.50] 
+94. 71 [140.88] STD 
+102.40 [152.37] 
+110.32 [164.26] 
+117.98 [175.54] 
+125.61 [186.94] XS 
+140.81 [209.50] 
+171.45 [255.24] 
+231.25 [344.23] 
+238.57 [355.02] 
+296.86 [441.78] 
+367.74 [547.33] 
+429.79 [639.58] 
+483.57 [719.63] 
+542.64 [807.63] 
+68.82 [102.42] 
+77.26 [115.02] 
+85.68 [127.43] 
+94.35 [140.45] 
+102. 72 [152.80] STD 
+111.08 [165.28] 
+119.69 [178.20] 
+128.00 [190.46] 
+136.30 [202.85] XS 
+152.83 [227.37] 
+Schedule No. Test Pressure,A psi [kPa] 
+Grade A Grade B 
+30 900 [6200] 1050 [7200] 
+40 1170 [8100] 1250 [8600] 
+60 1460 [10 100] 1710 [11 800] 
+80 1860 [12 800] 2170 [15 000] 
+100 2310 [15 900] 2690 [18 500] 
+120 2700 [18 600] 2800 [19 300] 
+140 2800 [ 19 300] 2800 [19 300] 
+160 2800 [19 300] 2800 [19 300] 
+10 380 [2600] 440 [3000] 
+420(2900] 490 [3400] 
+470 [3200] 550 [3800] 
+520 [3600] 600 [4100] 
+20 560 [3900] 660 [4500] 
+610 [4200] 710 [4900] 
+660 [4500] 770 [5300] 
+700 [4800] 820 [5700] 
+750 [5200] 880 [6100] 
+30 840 [5800] 980 [6800] 
+40 1030 [7100] 1200 [8300] 
+1410 [9700] 1640 [11 300] 
+60 1450 [10 000] 1700[11 700] 
+80 1830 [12 600] 2130 [14 700] 
+100 2300 [15 900] 2680 [18 500] 
+120 2720 [18 800] 2800 [19 300] 
+140 2800 [19 300] 2800 [19 300] 
+160 2800 [19 300] 2800 [19 300] 
+350 [2400] 400 [2800] 
+390 [2700] 450 [3100] 
+10 430 [3000] 500 [3400] 
+480 [3300] 560 [3900] 
+520 [3600] 610 [4200] 
+560 [3900] 660 [4500] 
+610 [4200] 710 [4900] 
+650 [4500] 760 [5200] 
+20 690 [4800] 810 [5600] 
+780(5400] 910 [6300] 
+A The minimum test pressure for outside diameters and wall thicknesses not listed shall be computed by the formula given below. The computed test pressure shall be 
+used in all cases, except as follows: 
+( 1) For specified wall thicknesses greater than the heaviest specified wall thickness listed in this table for the applicable specified outside diameter, the test pressure 
+shall be the highest value listed for the applicable specified outside diameter and grade. 
+(2) For pipe smaller than NPS 2 [DN 50] with a specified wall thickness less than the lightest specified wall thickness listed in this table for the applicable specified outside 
+diameter and grade. 
+(3) For all sizes of Grade A and B pipe smaller than NPS 2 [DN 50], the test pressures were assigned arbitrarily. Test pressures for intermediate specified outside 
+diameters need not exceed those given in this table for the next larger listed size. 
+P=2St!D 
+where: 
+P minimum hydrostatic test pressure, psi [kPa], 
+S 0.60 times the specified minimum yield strength, psi [kPa], 
+t specified wall thickness, in. [mm], and 
+D specified outside diameter, in. [mm]. 
+154 

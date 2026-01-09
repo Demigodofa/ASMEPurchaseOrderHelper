@@ -1,0 +1,94 @@
+ASME BPVC.II.A-2025 SA-841/SA-841M 
+SUPPLEMENTARY REQUIREMENTS 
+Supplementary requirements shall not apply unless specified in the order. 
+A list of standardized supplementary requirements for use at the option of the purchaser are included 
+in Specification A20/A20M. Several of those that are considered suitable for use with this 
+specification are listed in this section by title. Other tests may be performed by agreement between the 
+supplier and the purchaser. 
+S 1. Vacuum Treatment, 
+S2. Product Analysis, 
+S3. Simulated Post-Weld Heat Treatment of Mechanical 
+Test Coupons, 
+S5. Charpy V-Notch Impact Test, 
+S6. Drop Weight Test (for Material 0.625 in. [16 mm] and 
+Over in Thickness), 
+S7. High-Temperature Tension Test, 
+S8. Ultrasonic Examination in accordance with Specifica­
+tion A435/A435M, 
+S9. Magnetic Particle Examination, 
+S 10. Charpy V-Notch Test Curve, 
+S 11. Ultrasonic Examination in accordance with Specifica­
+tion A577/A577M, 
+S12. Ultrasonic Examination in accordance with Specifica-
+tion A578/A578M, 
+S13. NDT Temperature Determination, 
+S17. Vacuum Carbon-Deoxidized Steel, 
+S18. Unspecified Elements, and 
+S19. Restricted Chemical Requirements. 
+ADDITIONAL SUPPLEMENTARY REQUIREMENTS 
+Also listed are additional supplementary requirements suitable for use with this specification. 
+S55. Longitudinal Charpy Impact Energy Absorption Re­
+quirement 
+S55.1 Longitudinal Charpy V-notch tests shall be made in 
+accordance with Specification A20/A20M. Unless the test 
+temperature is specified in the purchase order, the tests shall be 
+conducted at -320°F [-195°C] and the average absorbed 
+energy for each set of three full size specimens shall be 25 ft-lb 
+[34 JJ or more, and the individual test value of not more than 
+one specimen may be below 25 ft-lb [34 J], but in no case 
+below 20 ft-lb [27 J]. 
+S56. Transverse Charpy Impact Energy Absorption Re­
+quirement 
+S56.1 Transverse Charpy V-notch tests shall be made in 
+accordance with Specification A20/A20M. Unless the test 
+temperature is specified in the purchase order, the tests shall be 
+conducted at -320°F [-195°CJ and the average absorbed 
+energy for each set of three full size specimens shall be 20 ft-lb 
+[27 J] or more, and th.e individual test value of not more than 
+one specimen may be below 20 ft-lb [27 J], but in no case 
+below 15 ft-lb [20 JJ. 
+S64. Heat Treatment Parameters for Grad G 
+S64.1 Except for the TMR-I-T process, the plates shall be 
+cooled directly after rolling without being allowed to cool 
+below 1025°F [550°CJ. Quenching hardening shall be initiated 
+from a temperature within the range from 1025 to 1490°F [550 
+to 810°C]. 
+S64.2 Subsequent to quenching, the plates shall be tem­
+pered within the range from 1030 to 1155°F [555 to 625°C], 
+holding at that temperature for a minimum of 30 min/in. [1.2 
+min/mm] of thickness but for not less than 15 min, and then 
+cooling at a rate of not less than 300°F/h [165°C/h], either in 
+air or by quenching in water, to ambient temperature. 
+S64.3 Prior to the tempering treatment, the plates may be 
+subjected to an intermediate heat treatment (Note S64.1) 
+consisting of heating to a temperature in the range from 1185 
+to 1310°F [640 to 710°C], holding at that temperature for a 
+minimum of 1 hr/in. [2.4 min/mm] of thickness, but in no case 
+less than 15 min, and then water-quenching to below 300°F 
+[150°C] in the case of plate thicknesses of more than 5/s in. [16 
+mm]; or cooling in air or water-quenching in the case of plate 
+thickness of 5/s in. [16 mm] and under. 
+NOTE S64.1-The intermediate heat treatment is for the purpose of 
+enhancing elongation and notch-toughness and for reducing susceptibility 
+to strain-aging embrittlement and temper embrittlement. It may be 
+performed at the option of the material manufacturer or may be specified 
+by the purchaser. 
+S64.4 Heat treatment temperatures and times shall be re­
+ported in accordance with Section 19 of Specification A20/ 
+A20M. 
+S77. Carbon Equivalent Limit 
+S77.1 The carbon equivalent, on heat analysis, shall not 
+exceed the limits listed in this section when based on the 
+following equation: 
+CE= C+Mn/6+(Cr+Mo+V)l5+(Cu+Ni)l15% 
+[Grade A] 
+t = 2 in. [50 mm] and under in thickness 
+t > 2 in. [50 mm] in thickness 
+[Grade BJ 
+t = 2 in. [50 mm] and under in thickness 
+t > 2 in. [50 mm] In thickness 
+1361 
+0.40% 
+0.45% 
+0.45 % 
+0.50% 

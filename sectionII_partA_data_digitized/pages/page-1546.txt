@@ -1,0 +1,119 @@
+SA-999 /SA-999M ASME BPVC.II.A-2025 
+22.3.7.3 Ultrasonic-For examination by the ultrasonic 
+method, the nominal transducer frequency shall be 2.00 MHz 
+or more and the nominal transducer size shall be 1.5 in. [38 
+mm] or less. 
+22.3.7.4 If the equipment contains a reject notice filter 
+setting, this shall remain off during calibration and testing 
+unless linearity can be demonstrated at the setting. 
+22.3.8 Reference Standards: 
+22.3.8.1 Reference standards of convenient length shall be 
+prepared from a length of pipe of the same grade, size (NPS, or 
+outside diameter and schedule or wall thickness), surface 
+finish, and heat treatment conditions as the pipe to be exam­
+ined. 
+22.3.8.2 For Ultrasonic Testing, the reference ID and OD 
+notches shall be any one of the three common notch shapes 
+shown in Practice E213, at the option of the manufacturer. The 
+depth of each notch shall not exceed 12.5 % of the specified 
+wall thickness of the pipe or 0.004 in. [0.1 mm], whichever is 
+the greater. The width of the notch shall not exceed twice the 
+depth. Notches shall be placed on both the OD and ID surfaces. 
+22.3.8.3 For Eddy-Current Testing, the reference standard 
+shall contain, at the option of the manufacturer, any one of the 
+following reference discontinuities: 
+22.3.8.4 Drilled Hole-The reference standard shall contain 
+three or more holes, equally spaced circumferentially around 
+the pipe and longitudinally separated by a sufficient distance to 
+allow distinct identification of the signal from each hole. The 
+holes shall be drilled radially and completely through the pipe 
+wall, with care being taken to avoid distortion of the pipe while 
+drilling. One hole shall be drilled in the weld, if visible. 
+Alternatively, the manufacturer of welded pipe is permitted to 
+drill one hole in the weld and run the calibration standard 
+through the test coils three times, with the weld turned at 120° 
+on each pass. The hole diameter shall not exceed the following: 
+NPS Designator Hole Diameter 
+½ 0.039 in. [1.0 mm] 
+above ½ to 1 ¼ 0.055 in. [1.4 mm] 
+above 1 ¼ to 2 0.071 in. [1.8 mm] 
+above 2 to 5 0.087 in. [2.2 mm] 
+above 5 0.106 In. [2.7 mm] 
+22.3.8.5 Transverse Tangential Notch-Using a round tool 
+or a file with a ¼-in. [6.4-mm] diameter, a notch shall be filed 
+or milled tangential to the surface and transverse to the 
+longitudinal axis of the pipe. Such a notch shall have a depth 
+not exceeding 12.5 % of the specified wall thickness of the 
+pipe or 0.004 in. [0.10 mm], whichever is the greater. 
+22.3.8.6 Longitudinal Notch-A notch of 0.031 in. [0.8 mm] 
+or less in width shall be machined in a radial plane parallel to 
+the pipe axis on the outside surface of the pipe, to have a depth 
+not exceeding 12.5 % of the specified wall thickness of the pipe 
+or 0.004 in. [0.10 mm], whichever is the greater. 
+22.3.8.7 More or smaller reference discontinuities, or both, 
+may be used by agreement between the purchaser and the 
+manufacturer. 
+22.3.9 Standardization Procedure: 
+22.3.9.1 The test apparatus shall be standardized at the 
+beginning and end of each series of pipes of the same size 
+(NPS or diameter and schedule or wall thickness), grade and 
+heat treatment condition, and at intervals not exceeding 4 h. 
+More frequent standardization may be performed at the manu­
+facturer's option and may be required upon agreement between 
+the purchaser and the manufacturer. 
+22.3.9.2 The test apparatus shall also be standardized after 
+any change in test system settings, change of operator, equip­
+ment repair, or interruption due to power loss, process 
+shutdown, or when a problem is suspected. 
+22.3.9.3 The reference standard shall be passed through the 
+test apparatus at the same speed and test system settings as the 
+pipe to be tested. 
+22.3.9.4 The signal-to-noise ratio for the reference standard 
+shall be 2½ to 1 or greater. Extraneous signals caused by 
+identifiable causes such as dings, scratches, dents, straightener 
+marks, etc., shall not be considered noise. The rejection 
+amplitude shall be adjusted to be at least 50 % of full scale of 
+the readout display. 
+22.3.9.5 If upon any standardization, the rejection ampli­
+tude has decreased by at least 29 % (3 dB) of peak height from 
+the last standardization, the pipe tested since the last calibration 
+shall be rejected or retested for acceptance after the test 
+apparatus settings have been changed, or the transducer(s), 
+coil(s), or sensor(s) have been adjusted, and the test apparatus 
+has been restandardized. 
+22.3.10 Evaluation of Imperfections: 
+22.3.10.1 Pipes producing a signal equal to or greater than 
+the lowest signal produced by the reference discontinuities 
+shall be identified and separated from the acceptable pipes. The 
+area producing the signal may be reexamined. 
+22.3.10.2 Such pipes shall be rejected if the test signals 
+were produced by imperfections that cannot be identified or 
+were produced by cracks or crack-like imperfections. Such 
+pipes may be repaired if such repair is permitted by the 
+applicable product specification. To be accepted, a repaired 
+pipe shall pass the same nondestructive test by which it was 
+rejected, and it shall meet the minimum wall thickness require­
+ments of the applicable product specification. 
+22.3.10.3 If the test signals were produced by visual imper­
+fections such as scratches, surface roughness, dings, straight­
+ener marks, cutting chips, steel die stamps, stop marks, or pipe 
+reducer ripple, the pipe is permitted to be accepted based upon 
+visual examination provided that the depth of the imperfection 
+is less than 0.004 in. [0.1 mm] or 12.5 % of the specified wall 
+thickness, whichever is the greater. 
+22.3.10.4 Rejected pipe may be reconditioned and retested, 
+provided that the wall thickness is not decreased to less than 
+that required by the applicable product specification. The 
+outside diameter at the point of grinding may be reduced by the 
+amount so removed. To be accepted, retested pipe shall meet 
+the test requirement. 
+22.3 .10.5 If the imperfection is explored to the extent that it 
+can be identified as non-rejectable, the pipe may be accepted 
+without further test provided that the imperfection does not 
+encroach on the minimum required wall thickness. 
+23. Inspection 
+23.1 The inspector representing the purchaser shall have 
+entry at all times work on the contract of the purchaser is being 
+performed, to all parts of the manufacturer's facilities that 
+1492 
+,.'~ 

@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 308,
+  "globalPageIndex": 308,
+  "width": 612.6,
+  "height": 853.8,
+  "text": "SA-194/SA-194M ASME BPVC.II.A-2025 \nTABLE 6 Proof Stress Using 120\u00b0 Hardened Steel Cone - Metric \nProof Stress - MPa, Minimum \nType Grade 1 Grades 2, Grades 2H \n2HM, 6, 3, 7, 43, & 16 \n6F & 7M \nHex 825 930 1035 \nHeavy Hex 895 1035 1205 \nTABLE 7 Marking of NutsA \nNuts Hot- Nuts Machined Nuts Manu-\nGrade and Forged or from Bar factured in \nType Cold- Stock Accordance \nPunched with 6.6 \n1 1 1B \n2 2 2B \n2H 8 2H 2HB \n2HM 8 \u2022 0 2HM 2HMB \n3 3 3B \n6 6 6B \n6F 6F 6FB \n7 7 7B \n?Lo 7L ?BL \n7MB,C 7M 7MB \n7ML 8 \u2022 0 ?ML 7MLB \n43 43 43B \n43L 0 43L 43LB \n8 8 BB BA \nBC BC 8CB SCA \n8CLNCuB 8CLNCuB 8CLNCuBB 8CLNCuBA \n8CLN 8CLN BCLNB BCLNA \nBM BM 8MB 8MA \u2022 \nBT BT 8TB STA \nBF BF 8FB 8FA \nBP BP 8PB SPA \n8N 8N 8NB 8NA \n8MN 8MN 8MNB BMNA \nBR BR 8RB BRA \nBS BS 8SB BSA \n8LN 8LN 8LNB BLNA \n8MLN 8MLN 8MLNB 8MLNA \n8MLCuN BMLCuN 8MLCuNB 8MLCuNA \n8ML4CuN 8ML4CuN 8ML4CuNB 8ML4CuNA \n9C 9C 9CB 9CA \n16 16 16B \nAWhere ellipses { ... ) appear in this table there is no requirement \n8The letters H and M indicate heat-treated nuts {see Section 6). \n0 An underline as a marking requirement for grades 2HM and 7M has been \nremoved but is permitted. \n0 see Supplementary Requirement S3. \nSUPPLEMENTARY REQUIREMENTS \nOne or more of the following supplementary requirements shall be applied only when specified by \nthe purchaser in the inquiry, contract, or order. Details of these supplementary requirements shall be \nagreed upon in writing by the manufacturer and purchaser. Supplementary requirements shall in no \nway negate any requirement of the specification itself. \nSl. Strain-Hardened Austenitic Steel Nuts \nSl.1 Strain hardened Grades 8, SC, ST, SM, SF, SP, SN, or \n8MN nuts may be specified. When Supplementary Require\u00ad\nment S 1 is invoked in the order, nuts shall be machined from \ncold drawn bars or shall be cold forged to shape. No subse\u00ad\nquent heat treatment shallbe performed on the nuts. Nuts made \n256 \nin accordance with this requirement shall be proof load tested \nin accordance with 8.2.2.1 and shall withstand the proof load \nspecified in Table S 1.1 and Table S 1.2. Testing nuts requiring \nproof loads over 160 000 lbf or 705 kN is only required when \nSupplementary Requirement S4 is invoked. The hardness \nlimits of Table 2 do not apply to strain hardened nuts. Nuts ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0308.json",
+  "tabulaTablesCsv": "tables_tabula/page-0308.csv",
+  "tabulaTableCount": 2,
+  "bestTextPath": "best_text/pages/page-0308.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2263,
+  "bestTextAlphaRatio": 0.6765
+}

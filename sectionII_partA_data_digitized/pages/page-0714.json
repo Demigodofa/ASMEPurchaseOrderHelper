@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 714,
+  "globalPageIndex": 714,
+  "width": 597.72,
+  "height": 842.88,
+  "text": "SA-395/SA-395M ASME BPVC.II.A-2025 \nTABLE 1 \nMECHANICAL PROPERTY REQUIREMENTS \nGrade Grade \nProperty 60-40-18 65-45-15 \nTensile Strength Minimum, 60 000 [415] 65 000 [450] \npsi [M Pa] \nYield Strength Minimum, 40 000 [275] 45 000 [310] \npsi [M PaJ \nElongation in 2 in. 18 15 \nMinimum,% \nHardness H B, 3000 kgf 143-187 156-201 \nLoad \nNOTE: If a grade is not specified in the ordering information, grade \n60-40-18 will be supplied. \nTABLE 2 \nMINIMUM THICKNESS OF REPAIRED SECTIONS \nIron Pipe Size \nPlug, in. \nMinimum Thickness Repaired \nSection, in. [mm] \n1\u00bd2 [8] \n7/26 [10] \n\u00bd [13] \n2 \u00bd2 [17] \n\u00be [19] \nL\u00bd_6 [21] \n7 /s [23] \n15/J.6 [24] \n1 [26] \n664 \nTABLE 3 \nMINIMUM RADIUS OF REPAIRED SECTIONS \nIron Pipe Size \nPlug, in. \nMinimum Radius of Cylinder \nor Cone, in. [mm] \nTABLE 4 \n'\u00bd6 [15] \n1 \u00bd6 [18] \n1 \u00bd6 [28] \n1 \u00be [32] \n2 [52] \n2\u00bd [64] \n4 [104] \n5\u00be D36J \n8\u00be [208J \nMINIMUM LIGAMENT BETWEEN PLUGsA,B \nNominal Plug Minimum Ligament Between Plugs, in. [mm] \nDiameter, in. \u00be,\u00be,\u00be \u00bd,\u00be 1, l\u00be 11/2, 2 \n\u00be,\u00be,% 2\u00be [67] 4\u00be D05J 6\u00be [169] 9\u00bd [242] \n1/2, \u00be 4 1/s [105] 4\u00be [105] 6\u00be [169] 9\u00bd [242] \n1, 1\u00be 6\u00be [169] 6\u00be [169] 6\u00be [169] 9\u00bd [242] \n1\u00bd, 2 9\u00bd [242] 9\u00bd [242] 9\u00bd [242] 9\u00bd [242] \nA Based on efficiency of 80%. \n8 Example: Assume three plugs are required for repair, one \u00be in., \none % in., and one 1 \u00bd in. The minimum distance permitted is as \nfollows: \nLigament distance between\u00be and% in. plugs is 2\u00be in. [67 mmJ \nLigament distance between \u00be and 1 \u00bd in. plugs is 9\u00bd in. \n[242 mmJ \nLigament distance between % and 1 \u00bd in. plugs is 9\u00bd in. \n[242 mm] ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 1,
+  "tabulaTablesPath": "tables_tabula/page-0714.json",
+  "tabulaTablesCsv": "tables_tabula/page-0714.csv",
+  "tabulaTableCount": 2,
+  "bestTextPath": "best_text/pages/page-0714.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1534,
+  "bestTextAlphaRatio": 0.485
+}

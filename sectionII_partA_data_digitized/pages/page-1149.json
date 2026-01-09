@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 351,
+  "globalPageIndex": 1149,
+  "width": 613.92,
+  "height": 793.2,
+  "text": "Carbon \nManganese \nSilicon \nPhosphorus \nSulfur \nChromium \nNickel \nMolybdenum \nTitanium \nCopper \nAluminum \nVanadium \nBoron \nGrade \n660 \n660 \n662 \nASME BPVC.II.A-2025 \nTABLE 3 \nHEAT TREATMENT \nSolution Treatment \nType 1 \n1650 \u00b1 25\u00b0F [900 \u00b1 15\u00b0CJ, hold 2 h, oil or \nwater quench \nType 2 \n1800 \u00b1 25\u00b0F [980 \u00b1 15\u00b0CJ, hold 1 h, oil or \nwater quench \n1750 to l 900\u00b0F [955 to 1040\u00b0CJ, hold 1 h, \nmin, oil or water quench \nPrecipitation Hardening \nTreatmentA \n1300 to 1400\u00b0F [705 to 760\u00b0CJ, hold 16 h, \nair cool or furnace cool \n1300 to 1400\u00b0F [705 to 760\u00b0CJ, hold 16 h, \nair cool or furnace cool \n1250 to 1400\u00b0F [675 to 760\u00b0C], hold 5 h, \nmin, slow cooling in 5 h, min to 1200 \u00b1 \n15\u00b0F [650 \u00b1 10\u00b0CJ, hold 20 h, min, air \ncool or furnace cool \nSA\u00b7638/SA\u00b7638M \nA Times refer to the minimum time material is required to be at temperature. \nTABLE 4 \nCHEMICAL REQUIREMENTS \nGrade 660 <UNS S66286)A \nLadle Analysis Check Analysis Over \nRange,% or Under \n0.08 max 0.01 over \n2.00 max 0.04 over \n1.00 max 0.05 over \n0.040 max 0.005 over \n0.030 max 0.005 over \n13.50-16.00 0.20 \n24.00-27.00 0.20 \n1.00-1.50 0.05 \n1.90-2.35 0.05 \n0.35 max 0.05 over \n0.10-0.50 0.03 \n0.0010-0.010 0.0004 under \n0.001 over \nGrade 662 (UNS S66220lA \nLadle Analysis Check Analysis Over \nRange,% or Under \n0.08 max 0.01 over \n1.50 max 0.04 \n1.00 max 0.05 \n0.040 max 0.005 over \n0.030 max 0.005 over \n12.00-15.00 0.15 \n24.00-28.00 0.20 \n2.50-3.50 0.10 \n1.55-2.00 0.05 \n0.50 max 0.03 over \n0.35 max 0.05 over \n0.0010-0.010 0.0004 under \n0.001 over \nA New designation established in accordance with Practice E 527 and SAE Jl086. \n1055 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1149.json",
+  "tabulaTablesCsv": "tables_tabula/page-1149.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-1149.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1590,
+  "bestTextAlphaRatio": 0.4736
+}

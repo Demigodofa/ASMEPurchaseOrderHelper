@@ -1,0 +1,36 @@
+ASME BPVC.II.A-2025 SA-666 
+~ .. TABLE 4 
+V-BLOCI< BEND REQUIREMENTS (CONT'D) 
+½ Hard 
+Thickness s; 0.050 in. Thickness > 0.050 to s; 0.1874 in. 
+Type UNS Designation Included Bend Angle, 0 Bend Factor Included Bend Angle, 0 Bend Factor 
+201 S20100 135 4 135 4 
+201L S20103 135 4 135 4 
+201LN S20153 135 4 135 4 
+205 S20500 135 4 135 4 
+301 S30100 135 4 135 4 
+301L S30103 135 4 135 4 
+301LN S30153 135 4 135 4 
+302 S30200 135 4 135 4 
+304 S30400 135 4 135 4 
+304L S30403 135 7 135 8 
+304N S30451 135 5 135 6 
+304LN S30453 135 6 135 7 
+316 S31600 135 7 135 8 
+316L S31603 135 8 135 9 
+316N S31651 135 7 135 8 
+¾ Hard 
+Thickness s; 0.050 in. Thickness> 0.050 to s; 0.1874 in. 
+Type UN S Designation Included Bend Angle, 0 Bend Factor Included Bend Angle, 0 Bend Factor 
+201 S20100 135 6 135 7 
+205 S20500 135 6 135 7 
+301 S30100 135 6 135 7 
+302 S30200 135 8 135 9 
+Full Hard 
+Thickness s; 0.050 in. Thickness > 0.050 to s; 0.1874 in. 
+Type UNS Designation Included Bend Angle, 0 Bend Factor Included Bend Angle, 0 Bend Factor 
+201 S20100 135 6 135 8 
+205 S20500 135 6 135 8 
+301 S30100 135 6 135 8 
+302 S30200 135 8 135 10 
+1091 

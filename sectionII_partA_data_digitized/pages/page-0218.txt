@@ -1,0 +1,142 @@
+SA-105/SA-10SM ASME BPVC.II.A-2025 
+TABLE 2 Mechanical RequirementsA 
+Tensile strength, min, ksi [MPa] 
+Yield strength, min, ksi [MPa] 8 
+Elongation in 2 in. or 50 mm, min, %: 
+Basic minimum elongation for walls o/,e in. [7.9 mm] 
+and over in thickness, strip tests. 
+When standard round 2-in. or 50-mm gauge length or 
+smaller proportionally sized specimen with the gauge 
+length equal to 4D is used 
+For strip tests, a deduction for each V.2 -in. [0.8-mm] 
+decrease in wall thickness below o/1e in. [7.9 mm] 
+from the basic minimum elongation 
+of the percentage points of Table 3 
+Reduction of area, min, % 0 
+Hardness, HBW, max 
+A For small forgings, see 8.3.4. 
+70 [485] 
+36 [250] 
+30 
+22 
+30 
+197 
+8 Determined by either the 0.2 % offset method or the 0.5 % extension-under-load 
+method. 
+c See Table 3 for computed minimum values. 
+° For round specimens only. 
+TABLE 3 Computed Minimum Values 
+______ W_a_ll_T_h_ic_kn_e_ss ______ Elongation in 2 in. or 50 
+in. 
+o/,e (0.312) 
+%2 (0.281) 
+¼(0.250) 
+7 /32 (0.219) 
+'½e (0.188) 
+%2(0.156) 
+1/e (0.125) 
+%2(0.094) 
+1/,e (0.062) 
+mm 
+7.9 
+7.1 
+6.4 
+5.6 
+4.8 
+4.0 
+3.2 
+2.4 
+1.6 
+mm, min,% 
+30.00 
+28.50 
+27.00 
+25.50 
+24.00 
+22.50 
+21.00 
+19.50 
+18.00 
+Note-The above table gives the computed minimum elongation values for 
+each V.2-in. [0.8-mm] decrease in wall thickness. Where the wall thickness lies 
+between two values shown above, the minimum elongation value is determined by 
+the following equation: 
+E = 48T+ 15.00 
+where: 
+E = elongation in 2 in. or 50 mm, %, and 
+T = actual thickness of specimen, in. 
+this positioning, the test specimen shall be positioned as near as 
+possible to the prescribed location. 
+8.3 Tension Tests: 
+8.3.1 One tension test shall be made for each heat of 
+as-forged components. 
+8.3.2 One tension test shall be made from each heat-treating 
+charge. If more than one heat is included in such a charge, each 
+heat shall be tested. 
+8.3.2.1 When forgings of different shapes are included in the 
+same heat-treating charge, the test specimen shall be obtained 
+from the heaviest cross-section of the thickest forging, except 
+for hubbed flanges (see 8.3.3). The test specimen shall repre­
+sent all forgings from the same heat and heat-treating charge 
+whose maximum thicknesses do not exceed the thickness of the 
+test forging. 
+8.3.2.2 When the heat-treating temperatures are the same 
+and the furnaces (either batch or continuous type), are con­
+trolled within ±25 °F [±14 °C] and equipped with recording 
+pyrometers so that complete records of heat treatment are 
+available, then one tension test from each heat is required 
+instead of one test from each heat in each heat-treatment 
+charge. The test specimen material shall be included with a 
+furnace charge. 
+8.3.3 Testing shall be performed as specified in Specifica­
+tion A961/A961M. The largest feasible round specimen shall 
+be used except when hollow cylindrically shaped parts are 
+machined from seamless tubulars, When hollow cylindrically 
+shaped parts are machined from seamless tubular materials, 
+strip tests may be used. The tension test specimen shall be 
+obtained from a production forging, or from an integral 
+prolongation representative of the hub location of a flange, or 
+the heaviest cross section of a fitting, valve, or other part within 
+the scope of this specification. 
+8.3.4 Forgings too small to permit obtaining a subsize 
+specimen of 0.250 in. [6.35 mm] diameter or larger parallel to 
+the dimension of maximum working, and produced in equip­
+ment unsuitable for the production of a separately forged test 
+bar such as an automatic or semi-automatic press, may be 
+accepted on the basis of hardness only. One percent of the 
+forgings per lot, where a lot is the product from a heat, or, if 
+heat treated, the product of a heat per furnace charge, or ten 
+forgings, whichever is the lesser number, shall be selected at 
+random, prepared, and tested using the standard Brinell test. 
+The locations of the indentations shall be at the option of the 
+manufacturer but shall be selected to be representative of the 
+forging as a whole. One indentation per forging shall be 
+required but additional indentations may be made to establish 
+the representative hardness. The hardness of all forgings so 
+tested shall be 137 to 197 HBW inclusive. 
+8.4 Hardness Tests: 
+8.4.1 Two hardness tests shall be made for each heat of 
+as-forged components. When more than one forging is pro­
+duced from each heat, a minimum of two forgings shall be 
+tested with one reading from each forging. When only one 
+forging is produced, it shall be tested in two locations. 
+8.4.2 Except when only one forging is produced, a mini­
+mum of two forgings shall be hardness tested per batch or 
+continuous run as defined in 8.3.2.2 to ensure that forgings are 
+within the hardness limits given in Table 2. When only one 
+forging is produced, it shall be hardness tested in two locations 
+to ensure it is within the hardness limits given in Table 2. 
+166 
+8.4.3 Testing shall be as specified in Specification A961/ 
+A961M. The purchaser may verify that the requirement has 
+been met by testing at any location on the forging, provided 
+such testing does not render the forging useless. 
+9. Hydrostatic Tests 
+9.1 Such tests shall be conducted by the forging manufac­
+turer only when Supplementary Requirement S57 in Specifi­
+cation A961/A961M is specified. 
+10. Retreatment 
+10.1 If the results of the mechanical tests do not conform to 
+the requirement specified, the manufacturer may heat treat or 
+reheat treat the forgings as applicable and repeat the test 
+specified in Section 8. 

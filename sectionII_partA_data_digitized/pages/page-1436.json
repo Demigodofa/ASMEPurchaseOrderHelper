@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 638,
+  "globalPageIndex": 1436,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "SA-874/SA-874M ASME BPVC.11.A-2025 \nSUPPLEMENTARY REQUIREMENTS \nSupplementary requirements shall be applied only when specified by the purchaser. Details of the \nsupplementary requirements shall be agreed upon by the manufacturer and purchaser. The specified \ntests shall be performed by the manufacturer prior to shipment of the castings. \nS1. Magnetic Particle Examination \nS1.1 Castings shall be examined for surface discontinuities \nby magnetic particle examination. The examination shall be in \naccordance with Guide E 709. The extent of examination and \nthe basis for acceptance shall be agreed upon between the \nmanufacturer and purchaser. \nS2. Ultrasonic Examination \nS2.1 Castings shall be examined for internal defects by \nultrasonic examination. The examination procedures and ac\u00ad\nceptance criteria shall be agreed upon between the manufac\u00ad\nturer and purchaser. \nS3. Liquid Penetrant Examination \nS3.l Castings shall be examined for surface discontinuities \nby means of liquid penetrant examination. The examination \nshall be in accordance with Test Method E 165. Areas to be \ninspected, methods and types of liquid penetrants to be used, \ndeveloping procedure, and basis for acceptance shall be agreed \nupon between the manufacturer and purchaser. \nS4. Radiographic Examination \nS4.1 Castings shall be examined for internal defects by \nmeans of X rays or gamma rays. The procedure shall be in \naccordance with Guide E 94, and types and degrees of discon\u00ad\ntinuities considered shall be judged by Reference Radiographs \nE 689. The extent of examination and basis for acceptance \nshall be agreed upon between the manufacturer and purchaser. \nS5. :Fracture Toughness \nS5.1 Fracture toughness testing shall be performed on \nsamples removed from the casting. The method of fracture \ntoughness testing, the location from which the samples are \nremoved, the number of tests performed, and the acceptance \nrequirements shall be agreed upon between the manufacturer \nand purchaser. \nS6. Nodule Count \nS6.1 The nodule count per unit area shall be determined by \nexamining 100 X micrographs [see Note (I)]. The samples for the \nrnicrographs shall be removed from the casting at locations agreed \nupon. The inspection method and the acceptance requirements \nshall be agreed upon between the manufacturer and purchaser. \nTest Method E 562 may be used for guidance. \nNOTE !:_Electric Power Research Institute Project 2813-1, \"Relationships \nBetween Ductile Iron Fracture Toughness and Microstructure,\" December 1986, \nprovides background information. \n1374 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 1,
+  "bestTextPath": "best_text/pages/page-1436.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2554,
+  "bestTextAlphaRatio": 0.7905
+}

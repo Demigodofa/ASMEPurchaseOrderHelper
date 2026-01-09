@@ -1,0 +1,71 @@
+ASME BPVC.II.A-2025 SA-350/SA-350M (ASTM A350/A350M) 
+"T DIMENSION SURFACES" 
+2 2 in. [SO mm] 
+2 2 in. [50 mm] 
+NoTE 1-For clarity, only the Charpy V-notch specimen is shown in Figs. 1-4. The tension test specimen shall be located such that its orientation and 
+the mid-length location meet the same requirements as that for the Charpy V-notch test specimen shown in Figure 1. 
+FIG. 1 Separately Forged Test Bar for Forgings with T ,,; 2 in. [50 mm] 
+(1) Except as stated in 7.1.3.2 (2) and 7.1.3.2 (3), the 
+central axis of the test specimen shall be taken at least ¼ T 
+from the nearest heat-treated surface and its mid-length shall be 
+at least 2 in. [50 mm] from all other heat treated surfaces, 
+exclusive of the T dimension surfaces. See Fig. 2 for test 
+specimen location in separately forged test blanks. 
+(2) For quenched-and-tempered or for quenched-and­
+precipitation-heat-treated forgings, the central axis of the test 
+specimen shall be taken at least ¼ T from the nearest heat­
+treated surface, and the mid- length of the test specimen shall be 
+at least T from all other heat treated surfaces, exclusive of the 
+T dimension surfaces. See Fig. 3 for test specimen location in 
+separately forged test blanks. 
+(3) For quenched-and-tempered or for quenched-and­
+precipitation-heat-treated forgings that have a W/T ratio < 2, 
+the central axis of the test specimen shall be taken at least ¼ T 
+from the nearest heat-treated surface, and at mid-width of the 
+forging, where Wis the width of the forging. The test specimen 
+mid-length shall be at least T from the ends of the forging or 
+test blank. See Fig. 4 for test specimen location in separately 
+forged test blank. 
+7.1.3.3 Metal Buffers-The required distances from heat 
+treated surfaces for the test locations described in 7.1.3.1 and 
+7.1.3.2 may be obtained with metal buffers instead of integral 
+expansions. Buffer material may be carbon or low alloy steel, 
+and shall be joined to the forging with a partial penetration 
+weld that seals the buffered surface. Specimens shall be located 
+at½ in. [13 mm] minimum from the buffered surface of the 
+forging. Buffers shall be removed after heat treatment and the 
+welded areas subjected to magnetic particle test to assure 
+freedom from cracks unless the welded areas are completely 
+removed by subsequent machining. 
+7.1.3.4 The test specimen shall have its longitudinal axis 
+located parallel to the direction of major working of the forging 
+or test blank. 
+7.1.3.5 With prior purchaser approval, tests may be taken at 
+a depth (t) corresponding to the distance from the area of 
+significant loading to the nearest heat treated surface and at 
+least twice this distance (2t) from any second surface. 
+However, the test depth shall not be nearer to one treated 
+surface than¾ in. [19 mm] and to the second treated surface 
+than 1 ½ in. [38 mm]. This method of test location would 
+normally apply to contour-forged parts, or parts with thick 
+cross-sectional areas where ¼ T x T testing (7.1.3.2) is not 
+practical. Sketches showing the exact test locations shall be 
+approved by the purchaser when this method is used. 
+7 .1.4 Test Method-Testing shall be performed as specified 
+in Specification A961/A961M. The test specimen shall be as 
+large as is practicable and shall be machined to the form and 
+dimensions in Specification A961/A961M. When seamless 
+tubular materials are used, testing shall be performed on 
+longitudinal specimens as specified in Specification A961/ 
+A961M. 
+531 
+1.2 Impact Test: 
+7 .2.1 Requirements-The material shall conform to the 
+requirements for impact properties in Table 3 when tested at 
+the applicable standard temperature in Table 4 within the limits 
+of 7.2.4.2 and 7.2.4.3. When subsize specimens are used, the 
+impact energy values obtained shall conform to Table 5 at 
+energy values proportional to standard size. Exceptions to this 
+requirement are permissible when Supplementary Requirement 
+S 1 is specified by the purchaser. Impact tests may be made at 
+temperatures different from those in Table 4, provided that the 

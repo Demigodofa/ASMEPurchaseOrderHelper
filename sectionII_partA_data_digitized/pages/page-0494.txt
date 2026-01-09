@@ -1,0 +1,131 @@
+SA-307 ASME BPVC.II.A-2025 
+TABLE 2 Hardness Requirements for Bolts and Studs 
+Grade Length, in. HardnessA 
+Brinell Rockwell B 
+A 
+B 
+Less than 3 x dia 8 
+3 x dia and longer 
+Less than 3 x dia 8 
+3 x dia and longer 
+min 
+121 
+121 
+max 
+241 
+241 
+212 
+212 
+min max 
+69 100 
+100 
+69 95 
+95 
+A As measured anywhere on the surface or through the cross section. 
+8 Also bolts with drilled or undersize heads. These sizes and bolts with modified 
+heads shall meet the minimum and maximum hardness as hardness is the only 
+requirement. 
+TABLE 3 Tensile Requirements for Full-Size Bolts and Studs 
+Bolt Threads Stress Tensile Strength, lbf 8 
+Size, per inch Area,A Grade Grade B in. in. 2 
+A, min c min° max 0 
+¼ 20 0.0318 1 900 1 900 3 180 
+5/15 18 0.0524 3 100 3 100 5 240 
+% 16 0.0775 4 650 4 650 7 750 
+7/16 14 0.1063 6 350 6 350 10 630 
+½ 13 0.1419 8 500 8 500 14 190 
+9/1e 12 0.182 11 000 11 000 18 200 
+% 11 0.226 13 550 13 550 22 600 
+¾ 10 0.334 20 050 20 050 33 400 
+7/s 9 0.462 27 700 27 700 46 200 
+8 0.606 36 350 36 350 60 600 
+11/s 7 0.763 45 800 45 800 76 300 
+1¼ 7 0.969 58 150 58 150 96 900 
+1% 6 1.155 69 300 69 300 115 500 
+1½ 6 1.405 84 300 84 300 140 500 
+1¾ 5 1.90 114 000 114 000 190 000 
+2 4½ 2.50 150 000 150 000 250 000 
+2¼ 4½ 3.25 195 000 195 000 325 000 
+2½ 4 4.00 240 000 240 000 400 000 
+2¾ 4 4.93 295 800 295 800 493 000 
+3 4 5.97 358 200 358 200 597 000 
+3¼ 4 7.10 426 000 426 000 710 000 
+3½ 4 8.33 499 800 499 800 833 000 
+3¾ 4 9.66 579 600 579 600 966 000 
+4 4 11.08 664 800 664 800 108 000 
+A Area calculated from the equation: 
+As= 0.7854 [D - (0.9743/n)l 2 
+where: 
+As stress area, 
+D nominal diameter of bolt, and 
+n threads per inch. 
+8 1 lbf = 4.448 N. 
+c Based on 60 ksi (414 MPa). 
+0 Based on 60-100 ksi (414-690 MPa). 
+6.4 Grades A and B bolts and studs less than three diameters 
+in length or bolts with drilled or undersize heads are not subject 
+to tensile tests. 
+6.5 In the event that bolts are tested by both full size and by 
+machine test specimen methods, the full-size test shall govern 
+if a controversy between the two methods exists. 
+442 
+TABLE 4 Tensile Requirements for Machined Specimens 
+Grade A Grade B 
+Tensile strength, ksi 60 min 60-100 
+Yield point, min ksi 
+Elongation in 2 in., 18 18 
+min,% 
+6.6 For bolts and studs on which both hardness and tension 
+tests are performed, acceptance based on tensile requirements 
+shall take precedence in the event that there is controversy over 
+low readings of hardness tests. 
+7. Dimensions 
+7.1 Unless otherwise specified, threads shall be the Coarse 
+Thread Series as specified in the latest issue of ASME B 1. 1, 
+and shall have a Class 2A tolerance. 
+7 .2 Unless otherwise specified, Grade A bolts shall be hex 
+bolts with dimensions as given in the latest issue of ASME 
+B18.2.1. Unless otherwise specified, Grade B bolts shall be 
+heavy hex bolts with dimensions as given in the latest issue of 
+ASME B18.2.1. 
+7.3 Unless otherwise specified, bolts and studs to be used 
+with nuts or tapped holes which have been tapped oversize, in 
+accordance with Specification A563, shall have Class 2A 
+threads before hot-dip or mechanically deposited zinc coating. 
+After zinc coating the maximum limit of pitch and major 
+diameter shall not exceed the Class 2A maximum limit by more 
+than the following amounts: 
+¼ 
+5/16, % 
+7f1e, ½ 
+9/10 to ¾, incl 
+7/s 
+1.0 to 1¼, incl 
+1%,1¼ 
+1 ¾ to 4.0, incl 
+Diameter, in. Oversize Limit, in. (mmjA 
+0.016 
+0.017 
+O.D18 
+0.020 
+0.022 
+0.024 
+0.027 
+0.050 
+A These values are the same as the overlapping required for zinc-coated nuts in 
+Specification A563. 
+7.4 The gaging limit for bolts and studs shall be verified 
+during manufacture or use by assembly of a nut tapped as 
+nearly as practical to the amount oversize shown above. In case 
+of dispute, a calibrated thread ring gage of that same size 
+(Class X tolerance, gage tolerance plus) shall be used. Assem­
+bly of the gage, or the nut described above, must be possible 
+with hand effort following application of light machine oil to 
+prevent galling and damage to the gage. These inspections, 
+when perfo1med to resolve disputes, shall be performed at the 
+frequency and quality described in Table 5. 
+8. Number of Tests and Retests 
+8.1 The requirements of this specification shall be met in 
+continuous mass production for stock, and the manufacturer 
+shall make sample inspections to ensure that the product 
+conforms to the specified requirements. Additional tests of 

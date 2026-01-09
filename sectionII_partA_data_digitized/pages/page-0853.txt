@@ -1,0 +1,132 @@
+.....---- .. 
+ASME BPVC.II.A-2025 SA-451/SA-451M 
+TABLE 1 Chemical Requirements 
+Composition, % 
+Car- Man- Phos- Sul-
+Grade bon, ga- pho- fur, 
+max nese, rusl max 
+max max 
+CPF3 0.03 1.50 0.040 0.040 
+CPF3A 0.03 1.50 0.040 0.040 
+CPF8 0.08 1.50 0.040 0.040 
+CPF8A 0.08 1.50 0.040 0.040 
+CPF3M 0.03 1.50 0.040 0.040 
+CPF8M 0.08 1.50 0.040 0.040 
+CPF10MCA 0.10 1.50 0.040 0.040 
+CPFBCA 0.08 1.50 0.040 0.040 
+CPFBC(Ta max) 8 0.08 1.50 0.040 0.040 
+CPH8 0.08 1.50 0.040 0.040 
+CPH20 or CPH10 0.20° 1.50 0.040 0.040 
+CPK20 0.20 1.50 0.040 0.040 
+CPE20N 0.20 1.50 0.040 0.040 
+Sili-
+con, 
+max Nickel Chromium 
+2.00 8.0-12.0 17.0-21.0 
+2.00 8.0-12.0 17.0-21.0 
+2.00 8.0-11.0 18.0-21.0 
+2.00 8.0-11.0 18.0-21.0 
+1.50 9.0-13.0 17.0-21.0 
+1.50 9.0-12.0 18.0-21.0 
+1.50 13.0-16.0 15.0-18.0 
+2.00 9.0-12.0 18.0--21.0 
+2.00 9.0-12.0 18.0-21.0 
+1.50 12.0-15.0 22.0-26.0 
+2.00 12.0-15.0 22.0-26.0 
+1.75 19.0-22.0 23.0-27.0 
+1.50 8.0-11.0 23.0-26.0 
+Molybde-
+num 
+2.0-3.0 
+2.0-3.0 
+1.75-2.25 
+Columbium 
+1.2 max, 10 x C min 
+1 max, 8 x C min 
+Tan­
+ta­
+lum, 
+max 
+1 max, 8 x C min 0.10 
+Nitrogen 
+0.08-0.20 
+A Grades CPF1 OMC and CPF8C may have a columbium plus tantalum content maximum of 1.35 %. 
+8 No designation as yet assigned by ASTM International or Steel Founders' Society of America. 
+c By agreement between the manufacturer and the purchaser, the carbon content of Grade CPH20 may be restricted to o. 1 O % max. When so agreed, the grade 
+designation shall be CPH10. 
+TABLE 2 Heat-Treatment Requirements 
+Temperature, min Hold Time, 
+Grade OF oc h/in. of 
+Thickness 
+CPF3, CPF3A, CPF8, CPFSA, CPF3M, 1900 1040 
+CPFSM 
+CPF10MC, CPF8C, CPF8C (Ta max) 1950 1065 2 
+CPH8, CPH10, CPH20, CPK20 2100 1150 1 
+CPE20N 2225 1220 1 
+5. Chemical Analysis 
+5.1 Heat Analysis-An analysis of each heat shall be made 
+by the manufacturer to detem1ine the percentages of elements 
+specified in Table 1. The analysis shall be made on a test 
+sample taken preferably during the pmning of the heat. The 
+chemical composition thus determined shall conform to the 
+requirements specified in Table 1. 
+5.2 Product Analysis•-A product analysis may be made by 
+the purchaser. The sample for analysis shall be selected so as to 
+be thoroughly representative of the pipe being analyzed. The 
+chemical composition thus determined shall conform to the 
+requirements specified in Table 1. 
+5.3 To determine conformance with the chemical analysis 
+requirements, an observed value or calculated value shall be 
+rounded in accordance with Practice E29 to the nearest unit in 
+the last tight-hand place of values listed in Table 1. 
+6. Tensile Requirements 
+6.1 Test Specimens: 
+6.1.1 Test specimens shall be prepared in accordance with 
+Test Methods and Definitions A370. Test bars shall be poured 
+in special blocks from the same heat as the castings repre­
+sented. Test bars shall be supplied in sufficient number to 
+famish all specimens required in 6.2 and 6.3 (see Table 3). 
+6.1.2 Test specimens may be cut from heat-treated castings 
+instead of from test bars when agreed upon between the 
+manufacturer. and the purchaser. 
+TABLE 3 Tensile Requirements 
+Tensile Yield Elongation 
+Grade Strength, Strength, in 2 in. 
+min, ksi [MPa] min, ksi or 50 mm, 
+[MPa] min 
+CPF3 70 [485] 30 [205] 35 
+CPF3AA 77 [535] 35 [240] 35 
+CPF3M 70 [485] 30 [205] 30 
+CPF8 70 [485] 30 [205] 35 
+CPF8AA 77 [535] 35 [240] 35 
+CPF8M 70 [485] 30 [205] 30 
+CPF10MC 70 [485] 30 [205] 20 
+CPH10 70 [485] 30 [205] 30 
+CPF8C (Ta max), CPF8C 70 [485] 30 [205] 30 
+CPH8 65 [448] 28 [195] 30 
+CPK20 65 [448] 28 [195] 30 
+CPH20 70 [485] 30 [205] 30 
+CPE20N 80 [550] 40 [275] 30 
+A The properties shown are obtained by adjusting the composition within the 
+limits shown in Table 1 to obtain a !errite-austenite ratio that will result in the higher 
+ultimate and yield strengths indicated. A lowering of impact values may develop in 
+these materials when exposed to service temperature above 800°F [425°C]. 
+751 
+6.1.3 Tension test specimens shall be machined to the form 
+and dimensions of the standard round 2-in. [50-mm] gage 
+length specimens shown in Fig. 6 of Test Methods and 
+Definitions A370. 
+6.2 Number of Tests: 
+6.2. l One tension test shall be made from each heat. The bar 
+from which the test specimen is taken shall be heat-treated in 
+the same manner as the castings represented. 
+6.2.2 If a specimen is machined improperly or flaws are 
+revealed by machining or during testing, the specimen may be 
+discarded and another substituted from the same heat. 
+6.3 Retests-If the results of the mechanical tests for any 
+heat do not conform to the requirements specified, the castings 
+may be reheat-treated and retested, but may not be solution­
+treated more than twice. 
+7. Hydrostatic Test 
+7 .1 Each length of pipe shall be hydrostatically tested in 
+accordance with Specification A999/ A999M. 

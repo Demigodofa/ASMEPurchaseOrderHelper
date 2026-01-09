@@ -1,0 +1,60 @@
+{
+  "createdUtc": "2026-01-09T00:14:01.476997+00:00",
+  "spec": "SA-105",
+  "rangeStart": 216,
+  "rangeEnd": 220,
+  "pages": [
+    {
+      "globalPageIndex": 216,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 216,
+      "textPath": "best_text\\pages\\page-0216.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 217,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 217,
+      "textPath": "best_text\\pages\\page-0217.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0217.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0217.csv",
+        "noteTargetFiles": [
+          "note_target_ocr\\page-0217-note-01.txt"
+        ]
+      }
+    },
+    {
+      "globalPageIndex": 218,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 218,
+      "textPath": "best_text\\pages\\page-0218.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0218.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0218.csv"
+      }
+    },
+    {
+      "globalPageIndex": 219,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 219,
+      "textPath": "best_text\\pages\\page-0219.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0219.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0219.csv",
+        "camelotTablesJson": "camelot_tables\\page-0219.json",
+        "camelotTablesCsv": "camelot_tables\\page-0219.csv"
+      }
+    },
+    {
+      "globalPageIndex": 220,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 220,
+      "textPath": "best_text\\pages\\page-0220.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0220.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0220.csv"
+      }
+    }
+  ]
+}

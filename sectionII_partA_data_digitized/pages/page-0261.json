@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 261,
+  "globalPageIndex": 261,
+  "width": 602.64,
+  "height": 846.48,
+  "text": "( \nASME BPVC.II.A-2025 SA-181/SA-181M \nSUPPLEMENTARY REQUIREMENTS \nS1. Carbon Equivalent \nS1.1 The maximum carbon equivalent based on heat \nanalysis shall be as follows: \nMaximum Carbon Equivalent Value \nMaximum Section Thickness Maximum Section Thickness \nClass Less Than or Equal to 2 in. \n60 0.45 \n70 0.47 \nGreater Than 2 in. \n0.46 \n0.48 \nS1.2 Determine the carbon equivalent (CE) as follows: \nCE = C + Mn/6 + (Cr + Mo + V)/5 + (Ni + Cu)/15 \nS1.3 A lower maximum carbon equivalent may be \nagreed upon between the supplier and the purchaser. \nS1.4 When this Supplementary Requirement is \ninvoked, all elements in the carbon equivalent fonnula \nshall be analyzed and the amounts reported. \n209 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-0261.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 695,
+  "bestTextAlphaRatio": 0.6906
+}

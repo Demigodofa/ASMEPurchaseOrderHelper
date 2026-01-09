@@ -1,0 +1,60 @@
+SA-6/SA-6M ASME BPVC.ILA-2025 .
+considers appropriate, provided that the purchaser is informed |= and methods of analysis shall be in accordance with Test —
+of the procedure followed in heat treating the test coupons. Methods, Practices, and Terminology A751. The product ,
+6.3 Where the heat treatment is to be performed by the analyses so determined shall conform to the heat analysis
+manufacturer or the processor, the structural product shall be  '4uitements of the applicable product specification for the
+heat treated as specified in the applicable product specification, applicable grade, class, and type, subject to the permitted ,
+or as specified in the purchase order, provided that the heat  V@tlations in product analysis given in Table A. If a range is
+treatment specified by the purchaser is not in conflict with the specified, the determinations of any element in a heat shall not
+requirements of the applicable product specification. vary both above and below the specified range. Rimmed or |
+ae capped steel is characterized by a lack of homogeneity in its
+6.4 Where normalizing is to be performed by the fabricator, — ¢gmposition, especially for the elements carbon, phosphorus,
+the structural product shall be either normalized or heated and sulfur. Therefore, the limitations for these elements shall |
+uniformly for hot forming, provided that the temperature to not be applicable unless misapplication is clearly indicated. :
+which the structural product is heated for hot forming does not ,
+significantly exceed the normalizing temperature. 7.3 Referee Analysis—For referee purposes, Test Methods,
+Practices, and Terminology A751 shall be used.
+6.5 The use of cooling rates that are faster than those : — :
+obtained by cooling in air to improve the toughness shall be 7.4 Grade Substitution—Alloy steel grades that meet the ,
+subject to approval by the purchaser, and structural products so  Cbemical requirements of Table 1 of Specification A829/
+treated shall be tempered subsequently in the range from 1100  *829M shall not be substituted for carbon steel grades.
+to 1300°F [595 to 705°C]. 8. Metallurgical Structure ,
+7, Chemical Analysis | 8.1 Where austenitic grain size testing is required, such oe
+7.1 Heat Analysis: testing shall be in accordance with Test Methods E112 and at :
+7.1.1 Sampling for chemical analysis and methods of analy- _— least 70 % of the grains in the area examined shall meet the
+sis shall be in accordance with Test Methods, Practices, and Specified grain size requirement. |
+Terminology A751. 8.1.1 Discussion—Austenitic Grain Size—All requirements
+7.1.2 For each heat, the heat analysis shall include determi- | for austenitic grain size control in Section 8, Metallurgical ,
+nation of the content of carbon, manganese, phosphorus, sulfur, Structure, refer to a size of austenite grains that form when and
+silicon, nickel, chromium, molybdenum, copper, vanadium, if the structural product is reheated to a temperature at or above
+columbium (niobium); any other element that is specified or | the transformation temperature, Ac3, after the product has a ,
+restricted by the applicable product specification for the | ¢Xperienced the complete rolling operation and has cooled to 7
+applicable grade, class, and type; and any austenitic grain ambient temperature. The requirements for austenitic grain size .
+refining element whose content is to be used in place of control in Section 8, including the results of the referenced
+austenitic grain size testing of the heat (see 8.3.2). Boron shall testing methods, do not measure or control the prior austenitic
+be reported if intentionally added. grain size or the ferritic grain size of the structural product in |
+the as-rolled condition. .
+Note 3-——For steels that do not have intentional boron additions for
+hardenability, the boron content will not normally exceed 0.0008 %. 8.2 Coarse Austenitic Grain Size—Where coarse austenitic
+7.1.3 Except as allowed by 7.1.4 for primary heats, heat grain size is specified, one austenitic grain size test per heat :
+analyses shall conform to the heat analysis requirements of the  Sball be made and the austenitic grain size number so deter- .
+applicable product specification for the applicable grade, class,  ™med shall be in the range of 1 to 5 inclusive. .
+and type. 8.3 Fine Austenitic Grain Size: |
+7.1.4 Where vacuum-arc remelting or electroslag remelting 8.3.1 Where fine austenitic grain size is specified, except as ,
+is used, a remelted heat is defined as all ingots remelted from allowed in 8.3.2, one austenitic grain size test per heat shall be !
+a single primary heat. If the heat analysis of the primary heat made and the austenitic grain size number so determined shall . .
+conforms to the heat analysis requirements of the applicable —_ be 5 or higher. :
+product specific ation for the applicable grade, class, and type, Note 4—Such austenitic grain size numbers may be achieved with .
+the heat analysis for the remelted heat shall be determined from —_jower contents of austenitic grain refining elements than 8.3.2 requires for .
+one test sample taken from one remelted ingot, or the product _ austenitic grain size testing to be waived. |
+of one remelted ingot, from the primary heat. If the heat 8.3.2 Unless testing for fine austenitic grain size is specified |
+analysis of the primary heat does not conform to the heat in the purchase order, an austenitic grain size test need not be |
+analysis requirements of the applicable product specification —_ nade for any heat that has, by heat analysis, one or more of the |
+for the applicable grade, type, and class, the heat analysis for following:
+the remelted heat shall be determined from one test sample 8.3.2.1 A total aluminum content of 0.020 % or more.
+taken from each remelted ingot, or the product of each 8.3.2.2 An acid soluble aluminum content of 0.015 % or
+remelted ingot, from the primary heat. more.
+; 7.2 Product Analysis—For each heat, the purchaser shall 8.3.2.3 A content for an austenitic grain refining element
+have the option of analyzing representative samples taken from that exceeds the minimum value agreed to by the purchaser as
+the finished structural product. Sampling for chemical analysis being sufficient for austenitic grain size testing to be waived, or
+8

@@ -1,0 +1,114 @@
+SA-941 ASME BPVC.II.A-2025 
+DrscussION-This result is accomplished by a proper balance be­
+tween section size, hardenability, and severity of quench. 
+slack quenching, n-the incomplete hardening of a steel 
+object due to quenching from the austenitizing temperature 
+at a rate slower than the critical cooling rate for the 
+particular steel composition, resulting in the formation of 
+one or more transformation products in addition to marten­
+site. 
+snap temper, n-a precautionary interim stress-relieving treat­
+ment applied to a high-hardenability steel immediately after 
+quenching to prevent cracking because of delay in temper­
+ing it at the prescribed higher temperature. 
+soaking, n-prolonged holding at a selected temperature. 
+solution heat treatment, n-heating a steel object to a suitable 
+temperature, holding it at that temperature long enough to 
+cause one or more constituents to enter into solid solution, 
+and then cooling it rapidly enough to hold such constituents 
+in solution. 
+specified element, n-in steel, an element controlled to a 
+specified minimum, maximum, or range, in accordance with 
+the requirements of the applicable product specification. 
+spheroidizing, n-heating and cooling a steel object to pro­
+duce a spheroidal or globular form of carbide in its micro­
+structure. 
+D1scussION-Spheroidizing methods commonly used are the follow­
+ing: (1) prolonged holding at a temperature just below Ae 1 ; (2) heating 
+and cooling alternately between temperatures that are just above, and 
+just below, Ae 1 ; (3) heating to a temperature above Ae 1 or Ae 3 and then 
+cooling very slowly in the furnace or holding at a temperature just 
+below Ae 1 ; (4) cooling, from the minimum temperature at which all 
+carbide is dissolved, at a rate suitable to prevent the reformation of a 
+carbide network, and then reheating in accordance with Method (1) or 
+(2) above. (Applicable to hypereutectoid steels containing a carbide 
+network.) 
+spray quenching, n-quenching in a spray of liquid. 
+stabilized stainless steel, n-a stainless steel that conforms to 
+a specification that prescribes limits (minimum or range) for 
+niobium (columbium), tantalum, titanium, or a combination 
+thereof. 
+D1scussION-Such limits are sometimes expressed as a function of 
+the carbon and nitrogen contents. In an appropriately annealed 
+condition, a stabilized stainless steel will resist sensitization to 
+intergranular corrosion associated with the precipitation of chromium 
+carbide at grain boundaries as a result of thermal exposure, such as 
+annealing, stress relieving, welding, or high temperature service. 
+Resistance to sensitization to intergranular corrosion is dependent upon 
+the corrosivity of the environment. The condition of being stabilized 
+with respect to sensitization is frequently demonstrated by passing one 
+or more standard corrosion tests for sensitization. 
+stabilizing treatment, n-any treatment intended to stabilize 
+the microstructure or dimensions of a steel object. 
+stainless steel, n-a steel that conforms to a specification that 
+requires, by mass percent, a minimum chromium content of 
+10.5 or more, and a maximum carbon content of less than 
+1.20. 
+steel, n-a material that conforms to a specification that 
+requires, by mass percent, more iron than any other element 
+and a maximum carbon content of generally less than 2. 
+DIScuss10N-The iron content requirement is not normally stated in 
+the specification and is not normally determined by chemical analysis, 
+but is taken to be 100 % minus the sum of the mean values permitted 
+by the specification for all other elements having a specified range or a 
+specified maximum. For conformance purposes, this calculated value 
+for iron is compared on an individual basis to the mean values 
+permitted by the specification for each of the other elements having a 
+specified range or a specified maximum. Some chromium-containing 
+steels may contain more than 2 % carbon; however, 2 % carbon is 
+generally considered to be the demarcation between steel and cast iron. 
+strain aging, n-aging induced by cold working. 
+strain hardening, n-an increase in hardness and strength of a 
+metal caused by plastic deformation at temperatures below 
+its recrystallization temperature. (Syn. work hardening) 
+stress relieving, n-heating a steel object to a suitable 
+temperature, holding it long enough to reduce residual 
+stresses, and then cooling it slowly enough to minimize the 
+development of new residual stresses. 
+subcritical annealing, n-annealing at a temperature slightly 
+below Ac 1 . 
+surface hardening, n-a generic term covering any of several 
+processes that, by quench hardening only, produce in a 
+steel object a surface layer that is harder or more wear 
+resistant than the core. 
+DIScussION-There is no significant alteration of the chemical 
+composition of the surface layer. Where applicable, it is preferred that 
+the following more specific terms be used: induction hardening, flame 
+hardening, and shell hardening. 
+temper brittleness, n-brittleness that results when certain 
+steels are held within, or are cooled slowly through, a certain 
+range of temperature below the transformation range. 
+tempering, n-reheating a quench hardened or normalized 
+steel object to a temperature below Ac 1 , and then cooling it 
+at any desired rate. 
+test record, n-a document or electronic record that contains 
+the observations and derived data obtained by applying a 
+given test method. 
+test report, n-a document that presents the applicable quali­
+tative or quantitative results obtained by applying one or 
+more given test methods. 
+DIScussION-A single document, containing test report information 
+and certificate of compliance information, may be used. 
+Thermal-Mechanical Control Process (TMCP), n-a rolling 
+process that produces a fine-grained ferritic steel by a 
+particular combination of controls on the manufacturing 
+process, from slab reheating to post-rolling cooling, thereby 
+achieving enhanced mechanical properties. 
+D1scuss10N-(TMCP) requires appropriate selection of chemical 
+composition and accurate control of steel temperature and rolling 
+reduction. 
+thermochemical treatment, n-a heat treatment carried out 
+in a medium suitably chosen to produce a change in the 
+chemical composition of the steel object by exchange with 
+the medium. 
+1386 

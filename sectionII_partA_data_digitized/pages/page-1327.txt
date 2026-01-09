@@ -1,0 +1,35 @@
+Tensile 
+specimen 
+ASME BPVC.II.A-2025 
+FIG. Sl5.l SPECIMEN FROM CASTING 
+Thickness added 
+due to taper 
+' 
+Gage 
+length 
+T 
+"Cl 
+(I) 
+"Cl 
+"Cl 
+"' 
+SA-781/SA-781M 
+1_------------. 
+T "T"~ II:: ..- Thickness added due to taper 'I' 
+~-++'7",i,t,...,_"'7'1+-~ Height= T + N + D + l/Viot 1_ : 
+• "T" min. I 
+~ 1 h "T" ~in . .J'-+-~-➔-L-,-h--+"-T'-' m-in _______ _. 
+Minimum length of the base-Specimen gage length+ 2xT + 2x the 
+thickness due to the taper. 
+Minimum width of the base-T + 2x the thickness added due to the taper. 
+Minimum height-T + Nx D+ Wtot 
+The taper is to be selected by the producer for ease of drawing the 
+pattern from the mold. 
+where: 
+N = number of specimens to be cut from one side of the coupon, 
+D = diameter of the specimens, and 
+(bl Cylinder 
+Wiot = the total width of metal required to remove the coupon from the casting, 
+and to machine specimens from the coupon. 
+GENERAL NOTE: Longitudinal axis and gage length of test specimen must be within shaded zone. 
+1263 

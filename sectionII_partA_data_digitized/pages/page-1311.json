@@ -1,0 +1,21 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 513,
+  "globalPageIndex": 1311,
+  "width": 613.92,
+  "height": 793.2,
+  "text": "ASME BPVC.II.A-2025 SA-770/SA-770M \nSPECIFICATION FOR THROUGH-THICKNESS TENSION \nTESTING OF STEEL PLATES FOR SPECIAL \nAPPLICATIONS \nSA-770/SA-770M \n(Identical with ASTM Specification A770/A770M-03(2018) except for editorial correction to Table 2.) \n1245 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-1311.txt",
+  "ocrTextLength": 253,
+  "ocrApplied": true,
+  "tabulaTablesPath": "tables_tabula/page-1311.json",
+  "tabulaTablesCsv": "tables_tabula/page-1311.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-1311.txt",
+  "bestTextSource": "ocr",
+  "bestTextLength": 253,
+  "bestTextAlphaRatio": 0.6798
+}

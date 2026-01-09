@@ -1,0 +1,120 @@
+_,,..-----, 
+( 
+~, 
+UNS 
+Designation 
+S17400 
+S17700 
+S15700 
+S35000 
+S35500 
+S17600 
+S36200 
+S15500 
+S13800 
+S45500 
+S45000 
+S46500 
+S46910c 
+Type 
+630 
+631 
+632 
+633 
+634 8 
+635 
+XM-9 
+XM-12 
+XM-13 
+XM-16 
+XM-25 
+ASME BPVC.II.A-2025 SA-693 (ASTM A693} 
+TABLE 3 Heat Treatment, °C 
+Solution Treatment 
+1050 ± 25 'C (cool as required) 
+1065 ± 15 'C (water quench} 
+Alternative Treatment 
+760 ± 15 'C, hold 90 min, cool to 15 ± 3 'C within 1 h. 
+Hold not less than 30 min, heat to 566 ± 6 'C, hold for 
+90 min, air cool. 
+1038 ± 15 'C (water quench) 
+1038 ± 25 'C (quench} 
+1038 ± 15 °C (quench}. 
+1038 ± 15 'C (air cool) 
+843 ± 15 'C (air cool} 
+1038 ± 15 'C (cool as required) 
+927 ± 15 °C (cool as required to below 60'C) 
+829 ± 15 'C (water quench) 
+1038 ± 15 'C (cool rapidly) 
+1024 ± 15 °C, (cool rapidly to room temperature) 
+followed by subzero cooling within 24 h after solution 
+treatment; -73 ± 6 °C; hold not less than 8 h; 
+warm in air to room temperature 
+Precipitation Hardening TreatmentA 
+482 ± 8 'C, 1 h, air cool. 
+496 ± 8 °C, 4 h, air cool. 
+552 ± 8 °c, 4 h, air cool. 
+579 ± 8 'C, 4 h, air cool. 
+593 ± 8 'C, 4 h, air cool. 
+621 ± 8 'C, 4 h, air cool. 
+(760 ± 8 'C, 2 h, air cool + 621 ± 8 'C, 4 h, air cool). 
+954 ± 8 'C, hold 10 min, cool rapidly to room temperature. Cool within 
+24 h to -73 'C ± 6 'C, hold not less than 8 h. Warm in air to room 
+temperature. Heat to 510 ± 6 "C, hold 1 h, air cool. 
+Same as Type 631 
+930 ± 15 °C for not less than 1 0 min, but not more than 1 h, quench. 
+Cool to not higher than -73 'C, hold for not less than 3 h. 
+Temper at 455 ± 8 'C, 3 h, air cool, or 
+540 ± 8 °C, 3 h, air cool. 
+954 ± 6 °C for not less than 1 0 min, but not more than 1 h, quench. 
+Cool to not higher than -73 °C, hold for not less than 3 h. 
+Temper at 538 ± 15 °c, holding for not less than 3 h. 
+510 ± 8 °c, 30 min, air cool. 
+538 ± 8 'C, 30 min, air cool. 
+566 ± 8 °C, 30 min, air cool. 
+482 ± 8 °C, 8 h, air cool. 
+Same as Type 630 
+510 ± 6 'C, 4 h, air cool. 
+538 ± 6 'C, 4 h, air cool. 
+482 ± 6 °C, 4 h, air cool. or 510 ± 6 'C, 4 h, air cool. 
+482 ± 8 °C, 4 h, air cool. 
+538 ± 8 °C, 4 h, air cool. 
+621 ± 8 °C, 4 h, air cool. 
+482 ± 6 °C, 4 h, air cool 
+510 ± 8 °C, 4 h, air cool 
+538 ± 8 'C, 4 h, air cool 
+566 ± 8 °C, 4 h, air cool 
+593 ± 8 °c, 4 h, air cool 
+475 + 8 °C, 4 h, air cool 
+A limes refer to time material is at temperature. 
+8 Equalization and over-tempering treatment: 774 ± 25 °C for not less than 3 h, cool to room temperature, heat to 579 ± 15 °c for not less than 3 h. 
+c Furnished in cold-worked condition. 
+TABLE 4 Mechanical Test Requirements in Solution-Treated Condition 
+Tensile Strength, max Yield Strength, max Elongation in Hardness, max 
+Type 
+ksi MPa ksi MPa 
+2 in. or 50 mm, 
+Rockwell Brinell 
+min,% 
+630 0.D15 to 4.0 in. (0.38 to 102 mm) C38 363 
+631 0.010 in. (0.25 mm) and under 150 1035 65 450 
+Over 0.01 0 to 4.0 in. (0.25 to 102 mm) 150 1035 55 380 20 B92 
+632 0.0015 to 4.0 in. (0.038 to 102 mm) 150 1035 65 450 25 B100 
+633 0.001 to 0.0015 in. (0.03 to 0.038 mm), excl 200 1380 90 620 8 C30 
+0.0015 to 0.002 in. (0.03 to 0.05 mm}, excl 200 1380 88 605 8 C30 
+0.002 to 0.005 in. (0.05 to 0.13 mm), excl 200 1380 86 595 8 C30 
+0.005 to 0.010 in. (0.13 to 0.25 mm), excl 200 1380 85 585 8 C30 
+Over 0.01 0 in. (0.254 mm) 200 1380 85 585 12 C30 
+534A Plate C40 
+635 0.030 in. (0.76 mm) and under 120 825 75 515 3 C32 
+Over 0.030 to 0.060 in. (0. 76 to 1.52 mm) 120 825 75 515 4 C32 
+Over 0.060 in. (1.52 mm) 120 825 75 515 5 C32 
+XM-9 Over 0.010 in. (0.25 mm) 150 1035 125 860 4 C28 
+XM-12 0.0015 to 4.00 in. (0.038 to 101.6 mm) C38 363 
+XM-13 0.0015 to 4.00 in. (0.038 to 101.6 mm) C38 363 
+XM-16 0.010 in. (0.25 mm) and greater 175 1205 160 1105 3 C36 331 
+XM-25 8 0.010 in. (0.25 mm) and greater 165 1205 150 1035 4 C33 311 
+S46500 0.140 in. (3.56 mm) and under 160 1105 150 1035 4 C33 
+A Solution-treated, equalized, and over-tempered plate only. 
+8 XM-25 also furnished to the following minimum properties: 130 895 90 620 4 C25 255 
+1141 

@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 212,
+  "globalPageIndex": 1010,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "SA-537 /SA-537M ASME BPVC.II.A-2025 \nSUPPLEMENTARY REQUIREMENTS \nSupplementary requirements shall not apply unless specified in the order. \nA list of standardized supplementary requirements for use at the option of the purchaser are included \nin Specification A20/ A20M. Several of those considered suitable for use with this specification are \nlisted by title. Other tests may be performed by agreement between the supplier and the purchaser. \nS 1. Vacuum Treatment, \nS2. Product Analysis, \nS3. Simulated Post-Weld Heat Treatment of Mechanical \nTest Coupons, \nS4.l Additional Tension Test, \nS5. Charpy V-Notch Impact Test, \nS6. Drop Weight Test (for Material 0.625 in. [16 mm] and \nover in Thickness), \nS7. High-Temperature Tension Test, \n910 \nS8. Ultrasonic Examination in accordance with Specifica\u00ad\ntion A435/A435M, \nS9. Magnetic Particle Examination, \nS 11. Ultrasonic Examination in accordance with Specifica\u00ad\ntion A577 / A577M, \nSl2. Ultrasonic Examination in accordance with Specifica\u00ad\ntion A578/ A578M, and \nS 17. \u2022 Vacuum Carbon-Deoxidized Steel. ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-1010.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1056,
+  "bestTextAlphaRatio": 0.7386
+}

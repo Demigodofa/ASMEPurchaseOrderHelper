@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 237,
+  "globalPageIndex": 1035,
+  "width": 624.84,
+  "height": 801.72,
+  "text": "ASME BPVC.ll.A-2025 SA-543 /SA-543M \nSPECIFICATION FOR PRESSURE VESSEL PLATES, \nALLOY STEEL, QUENCHED AND TEMPERED, NICKEL\u00ad\nCHROMIUM-MOL YBDENUM \nSA-543/SA-543M cO \nINTERNATIONAL \nStandards Worldwide \n(Identical with ASTM Specification A543/A543M-09(2014).) \n935 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-1035.txt",
+  "ocrTextLength": 231,
+  "ocrApplied": true,
+  "bestTextPath": "best_text\\pages\\page-1035.txt",
+  "bestTextSource": "full_ocr_highdpi",
+  "bestTextLength": 257,
+  "bestTextAlphaRatio": 0.654
+}

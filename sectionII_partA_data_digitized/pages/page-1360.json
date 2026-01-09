@@ -1,0 +1,21 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 562,
+  "globalPageIndex": 1360,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "SA-790/SA-790M (ASTM A790/A790M) ASME BPVC.11.A-2025 \n-TABLE 3 Tensile and Hardness Requirements \nTensile Yield Elongation Hardness, max UNS TypeA Strength, Strength, in 2 in. or \nDesignation min, ksi min, 50mm, \n[MPa] ksi [MPa] min,% HBW HRC \nS31200 100 [690] 65 [450] 25 280 \nS31260 100 [690] 65 [450] 25 \nS31500 92 [630] 64 [440] 30 290 30 \nS31803 90 [620] 65 [450] 25 290 30 \nS32003 \nts 100 [690] 70 [485] 25 290 30 \n0.187 in. \n[5.00 mm] \nt> 95 [655] 65 [450] 25 290 30 \n0.187 in. \n[5.00 mm] \nS32101 \nt:,; 101 [700] 77 [530] 30 290 \n0.187 in. \n[5.00 mm] \nt> 94 [650] 65 [450] 30 290 \n0.187 in. \n[5.00 mm] \nS32202 94 [650] 65 [450] 30 290 30 \nS32205 2205 95 [655] 65 [450] 25 290 30 \nS32304 2304 87 [600] 58 [400] 25 290 30 \nS32506 90 [620] 65 [450] 18 302 32 \nS32520 112 [770] 80 [550] 25 310 \nS32550 255 110 [760] 80 [550] 15 297 31 \nS32707 133 [920] 101 [700] 25 318 34 \nS32750 2507 116 [800] 80 [550] 15 300 32 \nS32760 8 109 [750] 80 [550] 25 310 32 \nS32808 \nt < 116 [800] 80 [550] 15 310 32 \n0.40 in. \n[10mm] \nt;;,, 101 [700] 72 [500] 15 310 32 \n0.40 in. \n[10mm] \nS32900 329 90 [620] 70 [485] 20 271 28 \nS32906 \nt< 116 [800] 94 [650] 25 300 32 \n0.40in. \n[10mm] \nt;;,, 109 [750] 80 [550] 25 300 32 \n0.40 in. \n[10 mm] \nS32950 100 [690] 70 [480] 20 290 30 \nS33207 \nt< 138 [950] 112 [770] 15 336 36 \n0.157 in. \n[4mm] \nt;;,, 123 [850] 101 [700] 15 336 36 \n0.157 in. \n[4mm] \nS39274 116 [800] 80 [550] 15 310 32 \nS39277 120 [825] 90 [620] 25 290 30 \nS81921 90 [620] 65 [450] 25 290 30 \nS82011 \nt< 101 [700] 75 [515] 30 293 31 \n0.187 in. \n[5.00 mm] \nt;;,, 95 [655] 65 [450] 30 293 31 \n0.187 in. \n[5.00 mm] \nS82121 94 [650] 65 [450] 25 286 30 \nS82441 \nt < 107 [740] 78 [540] 25 290 \n0.4 in. \n[10mm] \nt;;,, 99 [680] 70 [480] 25 290 \n0.4 in. \n[10mm] \nS83071 120 [830] 98 [680] 25 300 32 \nS83072 120 [830] 94 [650] 25 327 35 \nA Common name, not a trademark, widely used, not associated with any one producer. 329 is an AISI number. \n8 Prior to A790/A790M-04, the tensile strength value for UNS 32760 was 109-130 ksi [750-S95 MPa]. \n\u00b7~ \n1298 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-1360.txt",
+  "ocrTextLength": 1941,
+  "ocrApplied": true,
+  "tabulaTablesPath": "tables_tabula/page-1360.json",
+  "tabulaTablesCsv": "tables_tabula/page-1360.csv",
+  "tabulaTableCount": 2,
+  "bestTextPath": "best_text/pages/page-1360.txt",
+  "bestTextSource": "ocr",
+  "bestTextLength": 1941,
+  "bestTextAlphaRatio": 0.188
+}

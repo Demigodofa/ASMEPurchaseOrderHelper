@@ -1,0 +1,97 @@
+ASME BPVC.II.A-2025 SA-568/SA-568M (ASTM A568/A568M) 
+and the second lead is attached to the etch pad. Although the 
+current may be turned on at this time, caution should be taken 
+not to lay the pad on the sheet blank as it will arc. It is 
+advisable to refrain from touching the metal of the etch pad and 
+the grounded sheet blank. 
+X4.3.7 The stencil is placed with the plastic coating against 
+the sheet surface in the area to be etched. Wetting the stencil 
+with a minimum amount of electrolyte will assist in smoothing 
+out the wrinkles and gives a more uniform etch. The etch pad 
+is now positioned on the stencil and the current turned on, if it 
+is not already on. Apply suitable pressure to the pad. Only the 
+minimum time necessary to produce a clear etched pattern 
+should be used. The etching time will vary with the amperage 
+available from the power source and the stencil area, as well as 
+the pad area in contact with the stencil. Rocker-type etch pads 
+give good prints and require less amperage than flat-surfaced 
+pads. Excessive current causes stencil damage. 
+X4.3.8 The etching solution activates the surface of the 
+metal and may cause rusting unless it is inhibited. After the 
+desired area has been etched, the blank should be wiped or 
+rinsed, dried, and neutralized. 
+X4.3.9 The etched blank is now ready for forming. The 
+lubricants and press conditions should simulate production 
+situations. If a sequence of operations is used in forming a part, 
+it is desirable to etch sufficient blanks so that each operation 
+can be studied. 
+X4.4 Measurement of Strain After Forming 
+X4.4.1 After forming, the circles are generally distorted into 
+elliptical shapes (Fig. X4.2). These ellipses have major and 
+minor strain axes. The major strain (e 1 ) is always defined to be 
+the direction in which the greatest positive strain has occurred 
+without regard to original blank edges or the sheet rolling 
+direction. The minor strain (e 2 ) is defined to be 90° to the major 
+strain direction. 
+X4.4.2 There are several methods for determining the major 
+and minor strains of the formed panel. Typical tools are a pair 
+of dividers and a scale ruled in 0.5 mm. For sharp radii, a thin 
+plastic scale that can follow the contour of the stamping can be 
+used to determine the dimensions of the ellipses. (Scales are 
+available to read the percent strain directly.) 
+MINOR 
+srAAtlll 
+TliNSlON • COMPRIISSU)N 
+, ' I \ 
+I 1 
+: / \ , 
+\ I 
+""'_..,...,.,,"' 
+MINOR 
+$TAAIN 
+~ 
+, 
+TSNSION • TI!NSION 
+FIG. X4.2 Major and Minor Strain Axes 
+X4.5 Evaluation of Strain Measurements 
+X4.5.1 The e 1 strain is always positive while the e 2 strain 
+may be zero, positive, or negative, as indicated on the forming 
+limit curve chart (Fig. X4.1). The maximum e 1 and associated 
+e 2 values measured in critical areas on the formed part are 
+plotted on the graph paper containing the forming limit curve 
+by locating the point of intersections of the e 1 , e 2 strains. 
+X4.5.2 If this point is on or below the "safety band" of the 
+forming limit curve, the strain should not cause breakage. 
+Points further below the curve indicate that a less ductile 
+material of a lower grade may be applied. Points above the 
+"safety band" show that fabrication has induced strains that 
+could result in breakage. Therefore, in evaluation on stampings 
+exhibiting these strains, efforts should be made to provide an 
+e 1 , e 2 strain combination that would lie on or below the "safety 
+band" of the forming limit curve. A different e 1 , e 2 strain 
+combination can be obtained through changes of one or more 
+of the forming variables such as die conditions, · lubricants, 
+blank size, thickness, or material grade. It should be noted at 
+this time that these conclusions are derived from a reference 
+base being the steel "quality" used to fabricate the grid 
+stamping. 
+X4.5.3 When attempting to change the relationship of e 1 
+and e 2 strains, it should be noted that on the forming limit curve 
+the most severe condition for a given e 1 strain is at O % e 2 
+strain. This means the metal works best when it is allowed to 
+deform in two dimensions, e 1 and e 2 , rather than being 
+restricted in one dimension. A change in e 2 to decrease the 
+severity can be made by changing one of the previously 
+mentioned forming variables of the die design, for example, 
+improving lubrication on the tension-tension side will increase 
+e 2 and decrease the severity. 
+X4.5.4 In addition to the forming limit curve, the e 1 e 2 strain 
+measurements may be used to evaluate the material require­
+ments on the basis of strain gradients, as illustrated in Fig. 
+X4.3, or by plotting contours of equivalent strain levels on the 
+1003 
+(l)@im: APPROXIMATE LOCATION 
+Of ETCHED ClRO.l:!S 
+CftOSSSt!Cm>N OF l!TCHED PANEL 
+FIG. X4.3 Graph of Major Strains and Critical Major Strains and 
+Cross Section of Etched Panel 

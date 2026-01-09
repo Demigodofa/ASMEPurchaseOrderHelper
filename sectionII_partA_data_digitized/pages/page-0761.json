@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 761,
+  "globalPageIndex": 761,
+  "width": 604.32,
+  "height": 847.68,
+  "text": "ASME BPVC.II.A-2025 SA-426/SA-426M \nSPECIFICATION FOR CENTRIFUGALLY CAST FERRITIC \nALLOY STEEL PIPE FOR HIGH-TEMPERATURE SERVICE \n~ \n~ \nSA-426/SA-426M \n(Identical with ASTM Specification A426/ A426M-13.) \n711 \n0 \nINTII/RNATIONAL \nStandards Worldwide ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-0761.txt",
+  "ocrTextLength": 215,
+  "ocrApplied": true,
+  "bestTextPath": "best_text/pages/page-0761.txt",
+  "bestTextSource": "ocr",
+  "bestTextLength": 215,
+  "bestTextAlphaRatio": 0.693
+}

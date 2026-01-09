@@ -1,0 +1,112 @@
+SA-420 /SA-420M ASME BPVC.II.A-2025 
+TABLE 6 Impact Test Temperature 
+WPL6 
+WPL9 
+WPL3 
+WPLB 
+Grade Impact Test Temperature, 
+OF [OC] 
+-50 [-45] 
+-100 [-75] 
+-150 [-100] 
+-320 [-195] 
+10.4.1 A notched-bar impact test, consisting of breaking 
+three specimens shall be made. Each test shall represent only 
+such fittings from a heat that do not vary from the thickness of 
+the material from which the test specimens are taken by more 
+than ¼ in. [6 mm]. 
+10.4.2 When heat treatment is performed in furnaces not 
+equipped with calibrated recording pyrometers, one impact test 
+shall be made for each heat in each heat-treatment load. Test 
+specimens shall be included with each furnace charge. If this 
+heat treatment is conducted in continuous-type furnaces not 
+equipped with calibrated recording pyrometers, then one test 
+per heat shall be conducted for each 5000 lb or 2550 kg (or 
+less) of product. 
+10.4.3 When heat treatment is performed in furnaces con­
+trolled within a 50 °F [28 °C] range and equipped with 
+calibrated recording pyrometers so that records of heat treat­
+ment are available, then one impact test from each heat is 
+required, provided that all other heat treatments are conducted 
+at the same temperatures and within the same 50 °F [28 °C] 
+range as the furnace charge that contained the test specimens. 
+10.4.4 On fittings of welded construction, additional impact 
+tests of the same number as required in 10.4.1 or 10.4.2 shall 
+be made to test the weld metal. 
+10.4.5 Specimens showing defects while being machined or 
+prior to testing shall be discarded, and replacements shall be 
+considered as original specimens. 
+10.5 Retreatment: 
+10.5.1 If the results of impact tests conducted in accordance 
+with 10.4.2 and 10.4.3 fail to conform to the test requirements 
+specified in 10.1, that group of fittings shall be retreated and 
+submitted for test. No group of fittings shall be retreated more 
+than twice. 
+11. Hydrostatic Tests 
+11.1 Hydrostatic testing of fittings is not required by this 
+specification. 
+11.2 All fittings shall be capable of withstanding without 
+failure, leakage, or impairment of their serviceability, a hydro­
+static test pressure equal to that prescribed for the specified 
+matching pipe of equivalent material. 
+12. Dimensions 
+12.1 Butt-welding fittings and butt-welding short-radius 
+elbows and returns purchased in accordance with this specifi­
+cation shall confonn to the dimensions and tolerances given in 
+the latest revision of ASME Bl6.9 or MSS SP-95. Steel 
+socket-welding and threaded fittings purchased in accordance 
+with this specification shall conform to the sizes, shapes, 
+dimensions, and tolerances specified in the latest revision of 
+ASME B16.ll, MSS SP-79, or MSS SP-83. Swage(d) Nipples, 
+Bull Plugs, and Integrally Reinforced Forged Branch Outlet 
+Fittings purchased in accordance with this specification shall 
+conform to the sizes, shapes, dimensions, and tolerances 
+specified in the latest revision of MSS SP-95 or MSS SP-97. 
+12.2 Fittings of size or shape differing from these standards, 
+but meeting all other requirements of the specification, shall be 
+furnished in accordance with Supplementary Requirement S58 
+of Specification A960/ A960M only by agreement with the 
+purchaser. 
+13. Surface Finish, Appearance, and Corrosion 
+Protection 
+13.1 The requirements of Specification A960/ A960M apply. 
+14. Repair by Welding 
+14.1 The requirements of Specification A960/A960M apply 
+except as follows: 
+14.l.1 Repair welding, by the manufacturer, is permissible 
+for parts made to dimensional standards such as those of 
+ASME or equivalent standards. 
+14.1.2 Prior approval of the purchaser shall be required to 
+weld repair special parts made to the purchaser's dimensional 
+requirements. 
+14.1.3 Welding shall be accomplished with a weld proce­
+dure designed to produce low hydrogen in the weldment. Short 
+circuit gas metal arc welding is permissible only with the 
+approval of the purchaser. 
+704 
+14.1.4 The weld repair shall be permanently identified with 
+the welder's stamp or symbol in accordance with Section IX of 
+the ASME Boiler and Pressure Vessel Code. 
+14.1.5 After weld repair, material shall be heat treated in 
+accordance with 7.1. 
+14.1.6 Tension and impact testing of representative depos­
+ited weld metal for each heat shall meet the requirements of 9 .2 
+and 10.1. 
+15. Radiographic Examination 
+15.1 All fusion-welded butt joints shall be radiographically 
+examined throughout the entire length in accordance with 
+Paragraph UW-51 of Section VIII, Division 1, of the ASME 
+Boiler and Pressure Vessel Code. Instead of radiographic 
+examination, welds made by the manufacturer may be ultra­
+sonically examined in accordance with Appendix 12 of Section 
+VIII, Division 1, of the ASME Boiler and Pressure Vessel 
+Code. In general, radiography or ultrasonic examination shall 
+be performed after all forming operations have been com­
+pleted. Fittings made from fusion-welded pipe need not be 
+radiographed if the pipe has been radiographed, provided the 
+fitting forming process does not materially affect the weld. 
+16. Inspection 
+16.l All tests and inspections shall be made at the place of 
+manufacture, unless otherwise agreed to. 
+16.2 Other tests, when required by agreement shall be made 
+from materials of the lots covered in the order. 

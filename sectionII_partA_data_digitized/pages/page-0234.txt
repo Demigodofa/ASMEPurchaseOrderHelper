@@ -1,0 +1,109 @@
+SA-134/SA-134M ASME BPVC.II.A-2025 
+metal after bending. Cracks that originate along the edges of 
+the specimens during testing and that are less than ¼ in. [6 
+mm] in any direction, shall not be considered. 
+10. Tensile Properties of Production Welds 
+10.1 Reduced-section tension test specimens required in 
+Section 8, taken perpendicularly across the weld with the weld 
+reinforcement removed, shall show a tensile strength not less 
+than 95 % of the specified minimum strength of the steel. At 
+the manufacturer's option, the test may be made without 
+removing the weld reinforcement, in which case the tensile 
+strength shall be not less than the specified minimum tensile 
+strength for the grade of steel used. 
+11. Hydrostatic.Test (Note 5) 
+11.1 Each length of pipe shall be tested by the manufacturer 
+to a hydrostatic pressure that will produce in the pipe wall a 
+stress of 60 % of the specified minimum yield point of the steel 
+used at room temperature. The pressure shall be determined by 
+the following equation: 
+P = 2St/D 
+where: 
+P = minimum hydrostatic test pressure, psi (Note 6) (not to 
+exceed 2800 psi [19 MPa]), 
+S = 0.60 times the minimum specified yield point of the 
+steel used, psi [MPa], 
+t = specified wall thickness, in. [mm], and 
+D = specified outside diameter, in. [mm]. 
+NoTE 5-A hydrostatic sizing operation is not to be considered a 
+hydrostatic test or a substitute for it. 
+NoTE 6-When the diameter and wall thickness of pipe are such that the 
+capacity limits of testing equipment are exceeded by these requirements, 
+the test pressures may be reduced by agreement between the purchaser and 
+the manufacturer. 
+11.2 Test pressure shall be held for not less than 5 s, or for 
+a longer time as agreed upon between the purchaser and the 
+manufacturer. 
+NoTE 7-When agreed upon between the purchaser and the manufac­
+turer and so stated on the order, pipe may be tested to one and one half 
+times the specified working pressure, except that the maximum test 
+pressure shall not exceed 2800 psi [19 MPa] nor shall the maximum fiber 
+stress exceed 85 % of specified minimum yield point of steel or to a fiber 
+stress that does not exceed 85 % of the specified minimum yield point of 
+the steel or 2800-psi [19-MPa] test pressure. 
+11.3 When specified in the order, pipe may be furnished 
+without hydrostatic testing and each length so furnished shall 
+include the mandatory marking of the letters "NH." 
+Additionally, the certification, when required, shall state "Not 
+Hydrostatically Tested" and the specification number and 
+material grade, as shown on the certification, shall be followed 
+by the letters "NH." 
+12. Permissible Variations in Weights and Dimensions 
+12.1 Thickness and Weight-The wall thickness and weight 
+for welded pipe under this specification shall be governed by 
+the requirements of the specifications to which the steel was 
+ordered. 
+182 
+12.2 Circumference-The outside circumference of the pipe 
+shall not vary more than ±0.5 % from the nominal outside 
+circumference based upon the diameter specified, except that 
+the circumference at ends shall be sized, if necessary, to meet 
+the requirements of Section 14. 
+12.3 Straightness-Finished pipe shall be commercially 
+straight. When specific straightness requirements are desired, 
+the order should so state, and the tolerances shall be a matter of 
+agreement between the purchaser and the manufacturer. 
+12.4 Ovality-Out-of-roundness-The difference between 
+major and minor outside diameter shall not exceed 1 %. Closer 
+tolerances may be established by agreement between the 
+manufacturer and the purchaser. Where the D/I' ( outside 
+diameter/wall thickness) is over 120, internal bracing should be 
+utilized to achieve sizing of ends and ovality shall be by 
+agreement between the manufacturer and purchaser. 
+13. Lengths 
+13.1 Pipe lengths shall be supplied in accordance with the 
+following regular practice: 
+13.1.1 The lengths shall be as specified on the order with a 
+tolerance of±½ in. [13 mm], except that the shorter lengths 
+from which test coupons have been cut may also be shipped. 
+13.1.2 When random lengths are specified, pipe shall be 
+furnished in lengths having a minimum average of 29 ft [9 m] 
+with a minimum length of 20 ft [6 m], but not more than 5 % 
+may be under 25 ft [8 m]. 
+13.2 Pipe lengths containing circumferentially welded joints 
+(Note 8) shall be permitted by agreement between the manu­
+facturer and the purchaser. Tests of these welded joints shall be 
+made in accordance with the procedure tests specified in 
+Section 9 and the production weld tests specified in Section 10. 
+The number of production weld tests shall be one per each lot 
+of 100 joints or fraction thereof, but not less than one for each 
+welder or welding operator. 
+NoTE 8-Joints are defined for the purpose of this specification as a 
+circumferential welded seam lying in one plane, used to join lengths of 
+straight pipe. 
+14. Ends 
+14.1 Pipe shall be furnished with a plain right-angle cut or 
+with bevel ends as specified. All burrs at the ends of pipe shall 
+be removed. 
+14.1.1 Unless otherwise specified, pipe with beveled ends 
+shall meet the requirements of ANSI B 16.25. 
+14.2 Unless otherwise specified, the outside circumference 
+of pipe ends for a distance of not less than 4 in. [100 mm] shall 
+not vary more than ± 60 % of the nominal wall thickness of the 
+pipe from the nominal outside circumference based on the 
+diameter specified, except that the tolerance shall not be less 
+than ± 3/16 in. [5 mm]. 
+14.3 By agreement between the manufacturer and the pur­
+chaser the ends of the pipe may be sized within agreed-upon 
+tolerances if necessary to meet the requirements of special 
+installations. 

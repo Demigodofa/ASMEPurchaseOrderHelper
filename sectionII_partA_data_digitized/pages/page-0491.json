@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 491,
+  "globalPageIndex": 491,
+  "width": 599.4,
+  "height": 844.08,
+  "text": "ASME BPVC.II.A-2025 \nSPECIFICATION FOR CARBON STEEL BOLTS AND \nSTUDS, 60 000 PSI TENSILE STRENGTH \nSA-307 \n(Identical with ASTM Specification A307-10 except for the deletion of\"private label distributor\" and \"as appropriate\"in \npara. 13.1.1.) \n439 \nSA-307 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-0491.txt",
+  "ocrTextLength": 261,
+  "ocrApplied": true,
+  "bestTextPath": "best_text\\pages\\page-0491.txt",
+  "bestTextSource": "full_ocr_highdpi",
+  "bestTextLength": 235,
+  "bestTextAlphaRatio": 0.685
+}

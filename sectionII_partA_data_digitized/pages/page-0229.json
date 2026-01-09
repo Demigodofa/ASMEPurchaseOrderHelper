@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 229,
+  "globalPageIndex": 229,
+  "width": 613.92,
+  "height": 793.2,
+  "text": "ASME BPVC.II.A-2025 SA-106/SA-106M \nand reasonably uniform material free from injurious \nlaminations, cracks, and similar objectionable defects. If this \nsupplementary requirement is specified, the number of tests per \npipe required shall also be specified. If a specimen from any \nlength shows objectionable defects, the length shall be rejected, \nsubject to removal of the defective end and subsequent retests \nindicating the remainder of the length to be sound and \nreasonably uniform material. \nS6. Carbon Equivalent \nS6.1 The steel shall conform to a carbon equivalent (CE) of \n0.50 maximum as determined by the following formula: \n%Mn %Cr+%Mo+%V %Ni+%Cu \nCE= o/oC+-6-+ 5 + 15 \nS6.2 A lower CE maximum may be agreed upon between \nthe purchaser and the producer. \nS6.3 The CE shall be reported on the test report. \nS7. Heat Treated Test Specimens \nS7 .1 At the request of the purchaser, one tensile test shall be \nperformed by the manufacturer on a test specimen from each \nheat of steel furnished which has been either stress relieved at \n1250\u00b0F or normalized at 1650\u00b0F, as specified by the purchaser. \nOther stress relief or annealing temperatures, as appropriate to \nthe analysis, may be specified by agreement between the \npurchaser and the manufacturer. The results of this test shall \nmeet the requirements of Table 1. \nS8. Internal Cleanliness-Government Orders \nS8.1 The internal surface of hot finished ferritic steel pipe \nand tube shall be manufactured to a free of scale condition \nequivalent to the visual standard listed in SSPC-SP6. Cleaning \nshall be performed in accordance with a written procedure that \nhas been shown to be effective. This procedure shall be \navailable for audit. \nS9. Requirements for Carbon Steel Pipe for Hydrofluoric \nAcid Alkylation Service \nS9.1 The carbon equivalent (CE), based upon heat analysis, \nshall not exceed 0.43 % if the specified wall thickness is equal \nto or less than 1 in. [25.4 mm] or 0.45 % if the specified wall \nthickness is greater than 1 in. [25.4 mm]. \nS9.2 The carbon equivalent (CE) shall be determined using \nthe following formula: \nCE = C + Mn/6 + (Cr+ Mo + V)/5 + (Ni + Cu)/15 \nS9.3 Based upon heat analysis in mass percent, the vana\u00ad\ndium content shall not exceed 0.02 %, the niobium content \nshall not exceed 0.02 %, and the sum of the vanadium and \nniobium contents shall not exceed 0.03 %. \nS9.4 Based upon heat analysis in mass percent, the sum of \nthe nickel and copper contents shall not exceed 0.15 %. \nS9.5 Based upon heat analysis in mass percent, the carbon \ncontent shall not be less than 0.18 %. \nS9.6 Welding consumables of repair welds shall be of low \nhydrogen type. E60:XX electrodes shall not be used and the \nresultant weld chemical composition shall meet the chemical \ncomposition requirements specified for the pipe. \nS9.7 The designation \"HF\" shall be stamped or marked on \neach pipe to signify that the pipe complies with this supple\u00ad\nmentary requirement. \n177 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0229.json",
+  "tabulaTablesCsv": "tables_tabula/page-0229.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0229.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2958,
+  "bestTextAlphaRatio": 0.7444
+}

@@ -1,0 +1,123 @@
+ASME BPVC.II.A-2025 SA-20/SA-Z0M 
+11.4.4.5 If cooling rate data for the plate and cooling rate 
+control devices for the test coupons are available, the test 
+coupons may be heat treated separately in the device, provided 
+that this method is approved by the purchaser. 
+11.5 Test Specimen Preparation: 
+11.5.1 Tension test specimens for plates¾ in. [20 mm] and 
+under in thickness shall be the full thickness of the plates. The 
+test specimens shall conform to the requirements for either the 
+1 ½-in. [ 40-mm] wide or the ½-in. [12.5-mm] wide rectangular 
+tension test specimen of Test Methods and Definitions A370. 
+The 1 ½-in. [ 40-mm] wide test specimen may have both edges 
+parallel. The ½-in. [12.5-mm] wide specimen may have a 
+maximum nominal thickness of¾ in. [20 mm]. 
+11.5.2 For plates up to 4 in. [100 mm], inclusive, in 
+thickness, tension test specimens may be the full thickness of 
+the plate and conform to the requirements for the 1 ½-in. 
+[ 40-mm] wide rectangular tension test specimen of Test Meth­
+ods and Definitions A370 if adequate testing machine capacity 
+is available. 
+11.5.3 For plates over¾ in. [20 mm] in thickness, except as 
+permitted in 11.5.2, tension test specimens shall conform to the 
+requirements for the 0.500-in. [12.5-mm] diameter test speci­
+men of Test Methods and Definitions A370. For plates between 
+3/4 in. [20 mm] and 1-1/2 in. [40 mm] inclusive in thickness, the 
+axis of the test specimen shall be located at 1/2 T, the center of 
+the thickness. For plates over 1-1/2 in. [40 mm], the axis of the 
+test specimen shall be located at l/4T, midway between the center 
+of the thickness and the top or the bottom surface of the plate. 
+11.6 Elongation Requirement Adjustments: 
+11.6.1 Due to the specimen geometry effect encountered 
+when using the rectangular tension test specimen for testing 
+thin plate, adjustments in elongation requirements must be 
+provided for thicknesses under 0.312 in. [8 mm]. Accordingly, 
+the following deductions shall be made from the base elonga­
+tion requirements in the applicable product specification: 
+Elongation 
+Deduction,% Plate Nominal Thickness Range, in. [mm] 
+0.299-0.311 [7.60-7.89] 0.5 
+0.286-0.298 [7.30-7.59] 1.0 
+0.273-0.285 [7.00-7.29] 1.5 
+0.259-0.272 [6.60-6.99] 2.0 
+0.246-0.258 [6.20-6.59] 2.5 
+0.233-D.245 [5.90-6.19] 3.0 
+0.219-0.232 [5.50-5.89] 3.5 
+0.206-0.218 [5.20-5.49] 4.0 
+0.193-0.205 [4.90-5.19] 4.5 
+less than 0.193 [4.90] 5.0 
+11.6.2 Due to the inherently lower elongation that is obtain­
+able in thicker plate, adjustments in elongation requirements in 
+2-in. [50-mm] gage length shall be provided for thicknesses 
+over 3.5 in. [90 mm]. Accordingly, the following deductions 
+shall be made from the base elongation requirements in 2 in. 
+[50 mm] prescribed in the applicable product specification: 
+Elongation 
+Deduction, % Plate Nominal Thickness Range, in. [mm] 
+3.501-3.999 [90.00-102.49] 0.5 
+4.000-4.499 [102.50-114.99] 1.0 
+4.500-4.999 [115.00-127.49] 1.5 
+5.000-5.499 [127.50-139.99] 2.0 
+5.500-5.999 [140.0-152.49] 2.5 
+6.000 and thicker [152.50 and thicker] 3.0 
+11.6.3 A characteristic of certain types of alloy steels is a 
+local disproportionate increase in the degree of necking down 
+or contraction of the test specimens during the tension test, 
+resulting in a decrease in the percentage of elongation as the 
+75 
+gage length is increased. The effect is not so pronounced in 
+thicker plates. For such material, if so stated in the applicable 
+product specification for plates up to¾ in. [20 mm], inclusive, 
+in thickness, if the percentage of elongation of an 8-in. 
+[200-mm] gage length test specimen falls not more than 3 
+percentage points below the amount prescribed, the elongation 
+shall be considered satisfactory if the percentage of elongation 
+in 2 in. [50 mm] across the break is not less than 25 %. 
+11.6.4 The tensile requirements tables in many of the 
+product specifications covered by this general requirements 
+specification specify elongation requirements in both 8-in. 
+[200-mm] and 2-in. [50-mm] gage lengths. Unless otherwise 
+provided in the applicable product specification, both require­
+ments are not required to be applied simultaneously, and the 
+elongation need only be determined in the gage length appro­
+priate for the test specimen used. After selection of the 
+appropriate gage length, the elongation requirement for the 
+alternative gage length shall be deemed not applicable. 
+11. 7 This specification does not provide requirements for 
+product tension testing subsequent to shipment (see 15.1). 
+Therefore, the requirements of 11.1 through 11.6 and Section 
+16 apply only for tests conducted at the place of manufacture 
+prior to shipment. Compliance to Specification A20/20M and 
+the applicable product specification does not preclude the 
+possibility that product tension test results may vary outside 
+specified ranges. The tensile properties will vary within the 
+same plate-as-rolled or piece, be it as-rolled, control-rolled, or 
+heat-treated. The purchaser should, therefore, be aware that 
+tension testing in accordance with the requirements of Speci­
+fication A20/ A20M does not provide assurance that all prod­
+ucts of a plate-as-rolled will be identical in tensile properties 
+with the products tested; If the purchaser wishes to have more 
+confidence than that provided by Specification A20/ A20M 
+testing procedures, additional testing or requirements, such as 
+Supplementary Requirement S4, should be imposed. 
+11.8 Appendix X2 provides additional information on the 
+variability of tensile properties in plates for pressure vessels. 
+12. Notch-Toughness Tests 
+12.1 Charpy V-Notch Tests: 
+12.1.1 Number of Tests-If Charpy V-Notch tests are 
+specified, except for quenched and tempered plates, and except 
+as allowed by 12.1.1.1 and 12.1.1.2, one impact test (3 
+specimens) for each specified orientation (see 12.1.2) shall be 
+made from each plate-as-rolled. For quenched and tempered 
+plates, one impact test shall be made from each plate, as heat 
+treated. 
+12.1.1.1 Plates Ordered Without the Heat Treatment Speci­
+fied by the Applicable Product Specification-Coupons for 
+Charpy V-notch tests shall be taken in accordance with the 
+same requirements as given for tensile test coupons in 11.4.2 
+and 11.4.3. 
+12.1.1.2 Plates Produced from Coil-If Charpy V-notch 
+tests are specified, the number of impact tests required shall be 
+the same as the number specified for tension tests in 11.1.2 or 
+11.1.3, whichever is applicable. The test coupons shall be taken 
+from the material after decoiling and leveling. 

@@ -1,0 +1,41 @@
+SA-135/SA-135M (ASTM A135/A135M) ASME BPVC.II.A-2025 
+APPENDIX 
+(Nonmandatory Infonnation) 
+Xl. ADDITIONAL DATA 
+Xl.1 Additional data on dimensions nominal weights 
+(masses) and test pressures is provided in Table Xl.l. 
+Xl.2 Additional data on wall thicknesses are provided in 
+Table Xl.2. 
+TABLE X1.1 Dimensions, Nominal Weights (Masses), and Test Pressures for Light Wall Steel Pipe 
+Schedule 10 Test Pressure, psi [MPa]A 
+DN Outside Specified Weight 
+NPS Diameter, in. Wall (Mass) Per Grade A Grade B [mm] ThicknessA Unit Length 
+in.[mm] lb/ft [kg/m] 
+% 20 1.050 [26.7] 0.083 [2.11] 0.86 [1.28] 2500 2500 
+[17 200] [17 200] 
+25 1.315 [33.4] 0.109 [2.77] 1.41 [2.09] 2500 2500 
+[17 200] [17 200] 
+1¼ 32 1.660 [42.2] 0.109 [2.77] 1.81 [2.69] 2400 2500 
+[16 500] [17 200] 
+1½ 40 1.900 [48.3] 0.109 [2.77] 2.09 [3.11] 2100 2400 
+[14 500] [16 500] 
+2 50 2.375 [60.3] 0.109 [2.77] 2.64 [3.93] 1700 1900 
+[11 700] [13 100] 
+2½ 65 2.875 [73.0] 0.120 [3.05] 3.53 [5.26] 1500 1700 
+[10 300] [11 700] 
+3 80 3.500 [88.9] 0.120 [3.05] 4.34 [6.46] 1200 1400 
+[8 200] [9 600] 
+3½ 90 4.000 [101.6] 0.120 [3.05] 4.98 [7.41] 1000 1200 
+[6 900] [8 200] 
+4 100 4.500 [114.3] 0.120 [3.05] 5.62 [8.37] 900 [6 200] 1100 
+[7 600] 
+5 125 5.563 [141.3] 0.134 [3.40] 7.78 [11.58] 850 [5 900] 1000 
+[6 900] 
+A The test pressures are calculated by the following equation (but need not exceed 2500 psi or [17 200 KPal): 
+P= 2St/D 
+where: 
+P pressure, psi [kPa], 
+S fiber stress 60 % of the specified minimum yield strength, psi [kPa], 
+t specified wall thickness, in. [mm], and 
+D specified outside diameter, in. [mm]. 
+192 

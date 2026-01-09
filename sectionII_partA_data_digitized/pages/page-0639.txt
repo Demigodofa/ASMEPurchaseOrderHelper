@@ -1,0 +1,111 @@
+ASME BPVC.II.A-2025 SA-370 
+3.3 Definition of Terms Specific to the Procedure for Use 
+and Control of Heat-cycle Simulation (See Annex A9): 
+3.3.1 master chart, n-a record of the heat treatment re­
+ceived from a forging essentially identical to the production 
+forgings that it will represent. 
+3.3.1.1 Discussion-It is a chart of time and temperature 
+showing the output from thermocouples imbedded in the 
+forging at the designated test immersion and test location or 
+locations. 
+3.3.2 program chart, n-the metallized sheet used to pro­
+gram the simulator unit. 
+3.3.2.1 Discussion-Time-temperature data from the master 
+chart are manually transferred to the program chart. 
+3.3.3 simulator chart, n-a record of the heat treatment that 
+a test specimen had received in the simulator unit. 
+3.3.3.1 Discussion-It is a chart of time and temperature 
+and can be compared directly to the master chart for accuracy 
+of duplication. 
+3.3.4 simulator cycle, n-one continuous heat treatment of a 
+set of specimens in the simulator nnit. 
+3.3.4.l Discussion-The cycle includes heating from 
+ambient, holding at temperature, and cooling. For example, a 
+simulated austenitize and quench of a set of specimens would 
+be one cycle; a simulated temper of the same specimens would 
+be another cycle. 
+4. Significance and Use 
+4.1 The primary use of these test methods is testing to 
+determine the specified mechanical properties of steel, stainless 
+steel, and related alloy products for the evaluation of confor­
+mance of such products to a material specification under the 
+jurisdiction of ASTM Committee AOl and its subcommittees as 
+designated by a purchaser in a purchase order or contract. 
+4.1.1 These test methods may be and are used by other 
+ASTM Committees and other standards writing bodies for the 
+purpose of conformance testing. 
+4.1.2 The material condition at the time of testing, sampling 
+frequency, specimen location and orientation, reporting 
+requirements, and other test parameters are contained in the 
+pertinent material specification or in a general requirement 
+specification for the particular product form. 
+4.1.3 Some material specifications require the use of addi­
+tional test methods not described herein; in such cases, the 
+required test method is described in that material specification 
+or by reference to another appropriate test method standard. 
+4.2 These test methods are also suitable to be used for 
+testing of steel, stainless steel and related alloy materials for 
+other purposes, such as incoming material acceptance testing 
+by the purchaser or evaluation of components after service 
+exposure. 
+4.2.1 As with any mechanical testing, deviations from either 
+specification limits or expected as-manufactured properties can 
+occur for valid reasons besides deficiency of the original 
+as-fabricated product. These reasons include, but are not 
+limited to: subsequent service degradation from environmental 
+exposure (for example, temperature, corrosion); static or cyclic 
+service stress effects, mechanically-induced damage, material 
+inhomogeneity, anisotropic structure, natural aging of select 
+alloys, further processing not included in the specification, 
+sampling limitations, and measuring equipment calibration 
+uncertainty. There is statistical variation in all aspects of 
+mechanical testing and variations in test results from prior tests 
+are expected. An understanding of possible reasons for devia­
+tion from specified or expected test values should be applied in 
+interpretation of test results. 
+5. General Precautions 
+5 .1 Certain methods of fabrication, such as bending, 
+forming, and welding, or operations involving heating, may 
+affect the properties of the material under test. Therefore, the 
+product specifications cover the stage of manufacture at which 
+mechanical testing is to be performed. The properties shown by 
+testing p1ior to fabrication may not necessarily be representa­
+tive of the product after it has been completely fabricated. 
+5.2 Improperly machined specimens should be discarded 
+and other specimens substituted. 
+5.3 Flaws in the specimen may also affect results. If any test 
+specimen develops flaws, the retest provision of the applicable 
+product specification shall govern. 
+5.4 If any test specimen fails because of mechanical reasons 
+such as failure of testing equipment or improper specimen 
+preparation, it may be discarded and another specimen taken. 
+6. Orientation of Test Specimens 
+6.1 The terms "longitudinal test" and "transverse test" are 
+used only in material specifications for wrought products and 
+are not applicable to castings. When such reference is made to 
+a test coupon or test specimen, see Section 3 for terms and 
+definitions. 
+TENSION TEST 
+7. Description 
+7 .1 The tension test related to the mechanical testing of steel 
+products subjects a machined or full-section specimen of the 
+material under examination to a measured load sufficient to 
+cause rupture. The resulting properties sought are defined in 
+Terminology E6. 
+587 
+7.2 In general, the testing equipment and methods are given 
+in Test Methods E8/E8M. However, there are certain excep­
+tions to Test Methods E8/E8M practices in the testing of steel, 
+and these are covered in these test methods. 
+8. Testing Apparatus and Operations 
+8.1 Loading Systems-There are two general types of load­
+ing systems, mechanical (screw power) and hydraulic. These 
+differ chiefly in the vaiiability of the rate of load application. 
+The older screw power machines are limited to a small number 
+of fixed free running crosshead speeds. Some modern screw 
+power machines, and all hydraulic machines permit stepless 
+variation throughout the range of speeds. 
+8.2 The tension testing machine shall be maintained in good 
+operating condition, used only in the proper loading range, and 
+calibrated periodically in accordance with the latest revision of 
+Practices E4. 

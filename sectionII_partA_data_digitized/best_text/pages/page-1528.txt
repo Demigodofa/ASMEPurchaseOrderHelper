@@ -1,0 +1,124 @@
+SA-989 /SA-989M ASME BPVC.II.A-2025 
+parts or samples as defined in 9 .2 distributed throughout the 
+charge. At least eight samples shall be checked from each batch 
+load and a least one check/h shall be made from a continuous 
+run. When the furnace batch charge is less than eight parts, 
+each part shall be checked. If any hardness test result falls 
+outside the prescribed limits, the entire lot of parts shall be 
+reheat treated and the requirements of 9.5.1 shall apply. 
+9.7 Fatigue Tests-When specified in the order, the fatigue 
+strength of alloy steel, except UNS K90901, components 
+intended for service above 800 °F [425 °C] and for UNS 
+K90901 components intended for service above 1000 °F 
+[540 °C] shall be tested in accordance with the requirements of 
+Supplementary Requirement S13. 
+10. Product Analysis 
+10.1 The purchaser is permitted to make a product analysis 
+on parts supplied to this specification. The chemical composi-
+tion of a sample from one part from each lot of parts shall be 
+determined by the manufacturer. Samples for analysis shall be 
+taken from midway between the center and surface of solid 
+parts, midway between the inner and outer surfaces of hollow 
+parts, midway between the center and surface of full-size 
+prolongations, or from broken mechanical test specimens. The 
+chemical composition thus determined shall conform to Table 
+1 with the tolerances as stated in Table 4 or Table 5. 
+TABLE 4 Product Analysis Tolerances for Alloy Steels with a 
+Maximum Chromium Limit 4 % or MoreA 
+Tolerance Over the 
+Elements Limit or Maximum of Specified Maximum Limit or 
+Range,% Under the Minimum 
+Limit 
+Carbon 0.030, incl 0.005 
+over 0.030 to 0.20 incl 0.01 
+Manganese to 1.00, incl 0.03 
+over 1.00 to 3.00, incl 0.04 
+Phosphorus to 0.040, incl 0.005 
+Sulfur to 0.030, incl 0.005 
+Silicon to 1.00, incl 0.05 
+Chromium over 4.00 to 10.00, incl 0.10 
+over 10.00 to 15.00, incl 0.15 
+Nickel to 1.00, incl 0.03 
+over 1.00 to 5.00, incl 0.07 
+Molybdenum to 0.20 incl 0.01 
+over 0.20 to 0.60, incl 0.03 
+over 0.60 to 2.00, incl 0.05 
+Titanium all ranges 0.05 
+Niobium all ranges 0.05 
+(columbium) 
++ tantalum 
+Tantalum to 0.10, incl 0.02 
+Cobalt 0.05 to 0.20, incl 0,01B 
+Nitrogen to 0.19 incl 0.01 
+Niobium 0.05 to 0.20, incl 0.01 
+(columbium) 
+Aluminum to 0.05 incl 0.01 
+Vanadium to 0.10 incl 0.01 
+over 0.1 O to 0.25 incl 0.02 
+Cerium 0.03 to 0.08 -0.005 
++0.01 
+Tungsten to 1.00, incl 0.04 
+Copper to 1.00, incl 0.03 
+A This table does not apply to heat analysis. 
+8 Product analysis limits for cobalt under 0.05 % have not been established and 
+the producer should be consulted for those limits. 
+TABLE 5 Product Analysis Tolerances for Alloy Steels with 
+Maximum Chromium Limit Less than 4 % 
+Tolerance Over Maximum Limit or Under 
+Minimum Limit for Size Ranges Shown, 
+OfoA 
+Over Over 
+100 200 
+100 in.2 to 200 to 400 Limit or Maximum [6.45x in. 2 in. 2 Over 
+Element 8 of Specified 10 4 mm"] [1,290 [2.581 400 
+Ranges,% or less X 10 5 X 10 6 in.2 
+mm 2 ], mm 2 ], 
+incl incl 
+Manganese to 0.90 incl 0.03 0.04 0.05 0.06 
+over 0.90 to 1.00 incl 0.04 0.05 0.06 0.07 
+Phosphorus to 0.045 incl 0.005 0.010 0.010 0.010 
+Sulfur to 0.045 Incl 0.005 0.010 0.010 0.010 
+Silicon to 0.40 incl 0.02 0.02 0.03 0.04 
+over 0.40 to 1.00 incl 0.05 0.06 0.06 0.07 
+Nickel to 0.50 0.03 0.03 0.03 0.03 
+Chromium to 0.90 incl 0.03 0.04 0.04 0.05 
+over 0.90 to 2.1 O incl 0.05 0.06 0.06 0.07 
+over 2.10 to 3.99 incl 0.10 0.10 0.12 0.14 
+Molybdenum to 0.20 incl 0.01 0.01 0.02 0.03 
+over 0.20 to 0.40 incl 0.02 0.03 0.03 0.04 
+over 0.40 to 1.15 incl 0.03 0.04 0.05 0.06 
+Copper to 1.00 incl 0.03 0.03 0.03 0.03 
+over 1.00 to 2.00 incl 0.05 0.05 0.05 0.05 
+Titanium to 0.10 0.01 0.01 0.01 0.01 
+Vanadium to 0.10 incl 0.01 0.01 0.01 0.01 
+0.11 to 0.25 incl 0.02 0.02 0.02 0.02 
+0.26 to 0.50 incl 0.03 0.03 0.03 0.03 
+A Cross-sectional area. 
+8 Product analysis for carbon, boron, niobium (columbium), and calcium shall 
+conform to Table 1. 
+11. Reheat Treatment 
+11.1 If the results of the mechanical tests do not conform to 
+the requirements specified, the manufacturer is permitted to 
+reheat treat the parts and repeat the tests specified in Section 9, 
+but not more than twice. 
+12. Surface Finish, Appearance, and Corrosion 
+Protection 
+12.1 The requirements of Specification A961/A961M apply 
+to hot isostatically pressed finished parts. 
+12.2 In addition to the requirements of Specification A961/ 
+A961M, the following requirements apply: 
+12.2.1 The parts shall be free of machining burrs and 
+machined surfaces, other than surfaces having special 
+requirements, shall have a surface finish not to exceed Ra 250 
+microinch [6.3 micrometre] (arithmetic average) roughness 
+height. 
+13. Repair by Welding 
+13.1 Weld repairs shall be permitted (see Supplementary 
+Requirement S9) only with prior approval of the purchaser and 
+with the following limitations and requirements: 
+13.1.1 The welding procedure and welders shall be qualified 
+in accordance with Section IX of the ASME Boiler and 
+Pressure Vessel Code. 
+13.1.2 The weld metal shall be deposited using the elec­
+trodes specified in Table 6. The electrodes shall be purchased 
+1474 

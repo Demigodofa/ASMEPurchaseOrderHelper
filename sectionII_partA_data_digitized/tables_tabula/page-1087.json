@@ -1,0 +1,85 @@
+[
+  {
+    "rows": [
+      [
+        "Specified Width, in.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "excl",
+        "incl",
+        "0.039, incl incl",
+        "incl",
+        "",
+        "incl",
+        "incl"
+      ],
+      [
+        "",
+        "",
+        "",
+        "Thickness Tolerances, Over, in., No Tolerance Underc",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "To 15, incl",
+        "0.001",
+        "0.002",
+        "0.003 0,004",
+        "0.005",
+        "",
+        "0.005",
+        "0.005"
+      ],
+      [
+        "Over 15 to 72, incl",
+        "0.001",
+        "0,002",
+        "0.003 0.004",
+        "0.005",
+        "",
+        "0.005",
+        "0.006"
+      ]
+    ]
+  },
+  {
+    "rows": [
+      [
+        "Over 12 to 30, incl",
+        "1/a",
+        "sheet."
+      ],
+      [
+        "Over 30 to 60, incl",
+        "1\u20444",
+        "Width, in. Camber Tolerance"
+      ],
+      [
+        "Over 60 to 96, incl",
+        "1\u20442",
+        ""
+      ],
+      [
+        "",
+        "",
+        "To 12, incl 1\u20444 in. in any 8 ft"
+      ],
+      [
+        "Over 96 to 120, incl",
+        "3\u20444",
+        ""
+      ]
+    ]
+  }
+]

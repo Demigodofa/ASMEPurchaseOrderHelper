@@ -1,0 +1,2849 @@
+{
+  "createdUtc": "2026-01-07T22:17:34.511084+00:00",
+  "summary": {
+    "pagesEvaluated": 355,
+    "pagesUpdated": 0
+  },
+  "pages": [
+    {
+      "globalPageIndex": 55,
+      "updated": false,
+      "fullLength": 218,
+      "fullAlphaRatio": 0.683,
+      "bestLengthBefore": 205,
+      "bestAlphaBefore": 0.727
+    },
+    {
+      "globalPageIndex": 60,
+      "updated": false,
+      "fullLength": 6305,
+      "fullAlphaRatio": 0.778,
+      "bestLengthBefore": 6307,
+      "bestAlphaBefore": 0.779
+    },
+    {
+      "globalPageIndex": 61,
+      "updated": false,
+      "fullLength": 3825,
+      "fullAlphaRatio": 0.563,
+      "bestLengthBefore": 3825,
+      "bestAlphaBefore": 0.563
+    },
+    {
+      "globalPageIndex": 62,
+      "updated": false,
+      "fullLength": 6504,
+      "fullAlphaRatio": 0.742,
+      "bestLengthBefore": 6773,
+      "bestAlphaBefore": 0.746
+    },
+    {
+      "globalPageIndex": 65,
+      "updated": false,
+      "fullLength": 5458,
+      "fullAlphaRatio": 0.706,
+      "bestLengthBefore": 5467,
+      "bestAlphaBefore": 0.708
+    },
+    {
+      "globalPageIndex": 68,
+      "updated": false,
+      "fullLength": 6297,
+      "fullAlphaRatio": 0.772,
+      "bestLengthBefore": 6201,
+      "bestAlphaBefore": 0.78
+    },
+    {
+      "globalPageIndex": 69,
+      "updated": false,
+      "fullLength": 5027,
+      "fullAlphaRatio": 0.766,
+      "bestLengthBefore": 5007,
+      "bestAlphaBefore": 0.768
+    },
+    {
+      "globalPageIndex": 72,
+      "updated": false,
+      "fullLength": 3511,
+      "fullAlphaRatio": 0.673,
+      "bestLengthBefore": 3511,
+      "bestAlphaBefore": 0.673
+    },
+    {
+      "globalPageIndex": 77,
+      "updated": false,
+      "fullLength": 1253,
+      "fullAlphaRatio": 0.654,
+      "bestLengthBefore": 1253,
+      "bestAlphaBefore": 0.654
+    },
+    {
+      "globalPageIndex": 80,
+      "updated": false,
+      "fullLength": 2800,
+      "fullAlphaRatio": 0.577,
+      "bestLengthBefore": 2800,
+      "bestAlphaBefore": 0.577
+    },
+    {
+      "globalPageIndex": 89,
+      "updated": false,
+      "fullLength": 2094,
+      "fullAlphaRatio": 0.619,
+      "bestLengthBefore": 2094,
+      "bestAlphaBefore": 0.619
+    },
+    {
+      "globalPageIndex": 92,
+      "updated": false,
+      "fullLength": 1577,
+      "fullAlphaRatio": 0.42,
+      "bestLengthBefore": 1547,
+      "bestAlphaBefore": 0.427
+    },
+    {
+      "globalPageIndex": 98,
+      "updated": false,
+      "fullLength": 2613,
+      "fullAlphaRatio": 0.646,
+      "bestLengthBefore": 2547,
+      "bestAlphaBefore": 0.653
+    },
+    {
+      "globalPageIndex": 99,
+      "updated": false,
+      "fullLength": 2788,
+      "fullAlphaRatio": 0.624,
+      "bestLengthBefore": 2759,
+      "bestAlphaBefore": 0.628
+    },
+    {
+      "globalPageIndex": 100,
+      "updated": false,
+      "fullLength": 3732,
+      "fullAlphaRatio": 0.184,
+      "bestLengthBefore": 2715,
+      "bestAlphaBefore": 0.257
+    },
+    {
+      "globalPageIndex": 101,
+      "updated": false,
+      "fullLength": 4935,
+      "fullAlphaRatio": 0.079,
+      "bestLengthBefore": 4935,
+      "bestAlphaBefore": 0.079
+    },
+    {
+      "globalPageIndex": 102,
+      "updated": false,
+      "fullLength": 4787,
+      "fullAlphaRatio": 0.08,
+      "bestLengthBefore": 3067,
+      "bestAlphaBefore": 0.124
+    },
+    {
+      "globalPageIndex": 103,
+      "updated": false,
+      "fullLength": 4409,
+      "fullAlphaRatio": 0.088,
+      "bestLengthBefore": 4580,
+      "bestAlphaBefore": 0.102
+    },
+    {
+      "globalPageIndex": 104,
+      "updated": false,
+      "fullLength": 4360,
+      "fullAlphaRatio": 0.089,
+      "bestLengthBefore": 4042,
+      "bestAlphaBefore": 0.134
+    },
+    {
+      "globalPageIndex": 106,
+      "updated": false,
+      "fullLength": 2605,
+      "fullAlphaRatio": 0.174,
+      "bestLengthBefore": 2250,
+      "bestAlphaBefore": 0.189
+    },
+    {
+      "globalPageIndex": 109,
+      "updated": false,
+      "fullLength": 2812,
+      "fullAlphaRatio": 0.177,
+      "bestLengthBefore": 2484,
+      "bestAlphaBefore": 0.194
+    },
+    {
+      "globalPageIndex": 110,
+      "updated": false,
+      "fullLength": 3111,
+      "fullAlphaRatio": 0.124,
+      "bestLengthBefore": 2569,
+      "bestAlphaBefore": 0.147
+    },
+    {
+      "globalPageIndex": 112,
+      "updated": false,
+      "fullLength": 2670,
+      "fullAlphaRatio": 0.169,
+      "bestLengthBefore": 2568,
+      "bestAlphaBefore": 0.173
+    },
+    {
+      "globalPageIndex": 114,
+      "updated": false,
+      "fullLength": 2394,
+      "fullAlphaRatio": 0.173,
+      "bestLengthBefore": 2394,
+      "bestAlphaBefore": 0.173
+    },
+    {
+      "globalPageIndex": 119,
+      "updated": false,
+      "fullLength": 230,
+      "fullAlphaRatio": 0.643,
+      "bestLengthBefore": 218,
+      "bestAlphaBefore": 0.674
+    },
+    {
+      "globalPageIndex": 125,
+      "updated": false,
+      "fullLength": 6154,
+      "fullAlphaRatio": 0.753,
+      "bestLengthBefore": 6133,
+      "bestAlphaBefore": 0.755
+    },
+    {
+      "globalPageIndex": 138,
+      "updated": false,
+      "fullLength": 3167,
+      "fullAlphaRatio": 0.647,
+      "bestLengthBefore": 3167,
+      "bestAlphaBefore": 0.647
+    },
+    {
+      "globalPageIndex": 144,
+      "updated": false,
+      "fullLength": 2650,
+      "fullAlphaRatio": 0.434,
+      "bestLengthBefore": 2646,
+      "bestAlphaBefore": 0.437
+    },
+    {
+      "globalPageIndex": 149,
+      "updated": false,
+      "fullLength": 2103,
+      "fullAlphaRatio": 0.534,
+      "bestLengthBefore": 2103,
+      "bestAlphaBefore": 0.534
+    },
+    {
+      "globalPageIndex": 153,
+      "updated": false,
+      "fullLength": 236,
+      "fullAlphaRatio": 0.623,
+      "bestLengthBefore": 218,
+      "bestAlphaBefore": 0.679
+    },
+    {
+      "globalPageIndex": 157,
+      "updated": false,
+      "fullLength": 3159,
+      "fullAlphaRatio": 0.107,
+      "bestLengthBefore": 2995,
+      "bestAlphaBefore": 0.113
+    },
+    {
+      "globalPageIndex": 159,
+      "updated": false,
+      "fullLength": 4929,
+      "fullAlphaRatio": 0.213,
+      "bestLengthBefore": 4929,
+      "bestAlphaBefore": 0.213
+    },
+    {
+      "globalPageIndex": 171,
+      "updated": false,
+      "fullLength": 269,
+      "fullAlphaRatio": 0.673,
+      "bestLengthBefore": 269,
+      "bestAlphaBefore": 0.691
+    },
+    {
+      "globalPageIndex": 177,
+      "updated": false,
+      "fullLength": 171,
+      "fullAlphaRatio": 0.626,
+      "bestLengthBefore": 147,
+      "bestAlphaBefore": 0.639
+    },
+    {
+      "globalPageIndex": 179,
+      "updated": false,
+      "fullLength": 5136,
+      "fullAlphaRatio": 0.732,
+      "bestLengthBefore": 5136,
+      "bestAlphaBefore": 0.732
+    },
+    {
+      "globalPageIndex": 180,
+      "updated": false,
+      "fullLength": 1974,
+      "fullAlphaRatio": 0.555,
+      "bestLengthBefore": 1963,
+      "bestAlphaBefore": 0.557
+    },
+    {
+      "globalPageIndex": 181,
+      "updated": false,
+      "fullLength": 292,
+      "fullAlphaRatio": 0.603,
+      "bestLengthBefore": 269,
+      "bestAlphaBefore": 0.658
+    },
+    {
+      "globalPageIndex": 191,
+      "updated": false,
+      "fullLength": 232,
+      "fullAlphaRatio": 0.634,
+      "bestLengthBefore": 191,
+      "bestAlphaBefore": 0.66
+    },
+    {
+      "globalPageIndex": 192,
+      "updated": false,
+      "fullLength": 3607,
+      "fullAlphaRatio": 0.766,
+      "bestLengthBefore": 3593,
+      "bestAlphaBefore": 0.768
+    },
+    {
+      "globalPageIndex": 195,
+      "updated": false,
+      "fullLength": 6149,
+      "fullAlphaRatio": 0.747,
+      "bestLengthBefore": 6689,
+      "bestAlphaBefore": 0.761
+    },
+    {
+      "globalPageIndex": 202,
+      "updated": false,
+      "fullLength": 2038,
+      "fullAlphaRatio": 0.158,
+      "bestLengthBefore": 2038,
+      "bestAlphaBefore": 0.158
+    },
+    {
+      "globalPageIndex": 203,
+      "updated": false,
+      "fullLength": 4104,
+      "fullAlphaRatio": 0.106,
+      "bestLengthBefore": 4104,
+      "bestAlphaBefore": 0.106
+    },
+    {
+      "globalPageIndex": 204,
+      "updated": false,
+      "fullLength": 4432,
+      "fullAlphaRatio": 0.092,
+      "bestLengthBefore": 4432,
+      "bestAlphaBefore": 0.092
+    },
+    {
+      "globalPageIndex": 205,
+      "updated": false,
+      "fullLength": 4499,
+      "fullAlphaRatio": 0.093,
+      "bestLengthBefore": 4499,
+      "bestAlphaBefore": 0.093
+    },
+    {
+      "globalPageIndex": 207,
+      "updated": false,
+      "fullLength": 3842,
+      "fullAlphaRatio": 0.113,
+      "bestLengthBefore": 3842,
+      "bestAlphaBefore": 0.113
+    },
+    {
+      "globalPageIndex": 208,
+      "updated": false,
+      "fullLength": 3802,
+      "fullAlphaRatio": 0.225,
+      "bestLengthBefore": 3799,
+      "bestAlphaBefore": 0.229
+    },
+    {
+      "globalPageIndex": 210,
+      "updated": false,
+      "fullLength": 152,
+      "fullAlphaRatio": 0.632,
+      "bestLengthBefore": 152,
+      "bestAlphaBefore": 0.632
+    },
+    {
+      "globalPageIndex": 211,
+      "updated": false,
+      "fullLength": 3185,
+      "fullAlphaRatio": 0.141,
+      "bestLengthBefore": 3185,
+      "bestAlphaBefore": 0.141
+    },
+    {
+      "globalPageIndex": 212,
+      "updated": false,
+      "fullLength": 3410,
+      "fullAlphaRatio": 0.096,
+      "bestLengthBefore": 3284,
+      "bestAlphaBefore": 0.099
+    },
+    {
+      "globalPageIndex": 213,
+      "updated": false,
+      "fullLength": 2676,
+      "fullAlphaRatio": 0.184,
+      "bestLengthBefore": 2149,
+      "bestAlphaBefore": 0.221
+    },
+    {
+      "globalPageIndex": 217,
+      "updated": false,
+      "fullLength": 4509,
+      "fullAlphaRatio": 0.738,
+      "bestLengthBefore": 4509,
+      "bestAlphaBefore": 0.738
+    },
+    {
+      "globalPageIndex": 220,
+      "updated": false,
+      "fullLength": 2245,
+      "fullAlphaRatio": 0.743,
+      "bestLengthBefore": 2231,
+      "bestAlphaBefore": 0.749
+    },
+    {
+      "globalPageIndex": 221,
+      "updated": false,
+      "fullLength": 234,
+      "fullAlphaRatio": 0.611,
+      "bestLengthBefore": 185,
+      "bestAlphaBefore": 0.659
+    },
+    {
+      "globalPageIndex": 232,
+      "updated": false,
+      "fullLength": 3692,
+      "fullAlphaRatio": 0.77,
+      "bestLengthBefore": 3663,
+      "bestAlphaBefore": 0.78
+    },
+    {
+      "globalPageIndex": 240,
+      "updated": false,
+      "fullLength": 5601,
+      "fullAlphaRatio": 0.75,
+      "bestLengthBefore": 5645,
+      "bestAlphaBefore": 0.753
+    },
+    {
+      "globalPageIndex": 241,
+      "updated": false,
+      "fullLength": 6241,
+      "fullAlphaRatio": 0.72,
+      "bestLengthBefore": 6315,
+      "bestAlphaBefore": 0.729
+    },
+    {
+      "globalPageIndex": 245,
+      "updated": false,
+      "fullLength": 4242,
+      "fullAlphaRatio": 0.281,
+      "bestLengthBefore": 4202,
+      "bestAlphaBefore": 0.286
+    },
+    {
+      "globalPageIndex": 247,
+      "updated": false,
+      "fullLength": 268,
+      "fullAlphaRatio": 0.619,
+      "bestLengthBefore": 276,
+      "bestAlphaBefore": 0.659
+    },
+    {
+      "globalPageIndex": 250,
+      "updated": false,
+      "fullLength": 4239,
+      "fullAlphaRatio": 0.743,
+      "bestLengthBefore": 4263,
+      "bestAlphaBefore": 0.743
+    },
+    {
+      "globalPageIndex": 251,
+      "updated": false,
+      "fullLength": 2009,
+      "fullAlphaRatio": 0.751,
+      "bestLengthBefore": 2009,
+      "bestAlphaBefore": 0.751
+    },
+    {
+      "globalPageIndex": 253,
+      "updated": false,
+      "fullLength": 244,
+      "fullAlphaRatio": 0.635,
+      "bestLengthBefore": 204,
+      "bestAlphaBefore": 0.667
+    },
+    {
+      "globalPageIndex": 257,
+      "updated": false,
+      "fullLength": 219,
+      "fullAlphaRatio": 0.607,
+      "bestLengthBefore": 221,
+      "bestAlphaBefore": 0.674
+    },
+    {
+      "globalPageIndex": 260,
+      "updated": false,
+      "fullLength": 690,
+      "fullAlphaRatio": 0.591,
+      "bestLengthBefore": 690,
+      "bestAlphaBefore": 0.591
+    },
+    {
+      "globalPageIndex": 269,
+      "updated": false,
+      "fullLength": 2291,
+      "fullAlphaRatio": 0.2,
+      "bestLengthBefore": 2291,
+      "bestAlphaBefore": 0.2
+    },
+    {
+      "globalPageIndex": 270,
+      "updated": false,
+      "fullLength": 4213,
+      "fullAlphaRatio": 0.166,
+      "bestLengthBefore": 4213,
+      "bestAlphaBefore": 0.166
+    },
+    {
+      "globalPageIndex": 271,
+      "updated": false,
+      "fullLength": 4082,
+      "fullAlphaRatio": 0.147,
+      "bestLengthBefore": 4082,
+      "bestAlphaBefore": 0.147
+    },
+    {
+      "globalPageIndex": 273,
+      "updated": false,
+      "fullLength": 3006,
+      "fullAlphaRatio": 0.192,
+      "bestLengthBefore": 2860,
+      "bestAlphaBefore": 0.195
+    },
+    {
+      "globalPageIndex": 279,
+      "updated": false,
+      "fullLength": 4632,
+      "fullAlphaRatio": 0.752,
+      "bestLengthBefore": 4671,
+      "bestAlphaBefore": 0.752
+    },
+    {
+      "globalPageIndex": 281,
+      "updated": false,
+      "fullLength": 203,
+      "fullAlphaRatio": 0.631,
+      "bestLengthBefore": 215,
+      "bestAlphaBefore": 0.66
+    },
+    {
+      "globalPageIndex": 285,
+      "updated": false,
+      "fullLength": 269,
+      "fullAlphaRatio": 0.688,
+      "bestLengthBefore": 259,
+      "bestAlphaBefore": 0.695
+    },
+    {
+      "globalPageIndex": 299,
+      "updated": false,
+      "fullLength": 261,
+      "fullAlphaRatio": 0.655,
+      "bestLengthBefore": 229,
+      "bestAlphaBefore": 0.659
+    },
+    {
+      "globalPageIndex": 302,
+      "updated": false,
+      "fullLength": 2642,
+      "fullAlphaRatio": 0.28,
+      "bestLengthBefore": 2642,
+      "bestAlphaBefore": 0.28
+    },
+    {
+      "globalPageIndex": 307,
+      "updated": false,
+      "fullLength": 3197,
+      "fullAlphaRatio": 0.711,
+      "bestLengthBefore": 3197,
+      "bestAlphaBefore": 0.711
+    },
+    {
+      "globalPageIndex": 313,
+      "updated": false,
+      "fullLength": 206,
+      "fullAlphaRatio": 0.626,
+      "bestLengthBefore": 171,
+      "bestAlphaBefore": 0.632
+    },
+    {
+      "globalPageIndex": 317,
+      "updated": false,
+      "fullLength": 211,
+      "fullAlphaRatio": 0.64,
+      "bestLengthBefore": 211,
+      "bestAlphaBefore": 0.64
+    },
+    {
+      "globalPageIndex": 321,
+      "updated": false,
+      "fullLength": 232,
+      "fullAlphaRatio": 0.664,
+      "bestLengthBefore": 242,
+      "bestAlphaBefore": 0.669
+    },
+    {
+      "globalPageIndex": 325,
+      "updated": false,
+      "fullLength": 240,
+      "fullAlphaRatio": 0.629,
+      "bestLengthBefore": 240,
+      "bestAlphaBefore": 0.629
+    },
+    {
+      "globalPageIndex": 326,
+      "updated": false,
+      "fullLength": 4608,
+      "fullAlphaRatio": 0.741,
+      "bestLengthBefore": 4568,
+      "bestAlphaBefore": 0.742
+    },
+    {
+      "globalPageIndex": 328,
+      "updated": false,
+      "fullLength": 3347,
+      "fullAlphaRatio": 0.714,
+      "bestLengthBefore": 3347,
+      "bestAlphaBefore": 0.714
+    },
+    {
+      "globalPageIndex": 331,
+      "updated": false,
+      "fullLength": 2657,
+      "fullAlphaRatio": 0.194,
+      "bestLengthBefore": 2657,
+      "bestAlphaBefore": 0.194
+    },
+    {
+      "globalPageIndex": 333,
+      "updated": false,
+      "fullLength": 3335,
+      "fullAlphaRatio": 0.172,
+      "bestLengthBefore": 3335,
+      "bestAlphaBefore": 0.172
+    },
+    {
+      "globalPageIndex": 334,
+      "updated": false,
+      "fullLength": 3514,
+      "fullAlphaRatio": 0.142,
+      "bestLengthBefore": 3514,
+      "bestAlphaBefore": 0.142
+    },
+    {
+      "globalPageIndex": 347,
+      "updated": false,
+      "fullLength": 222,
+      "fullAlphaRatio": 0.68,
+      "bestLengthBefore": 228,
+      "bestAlphaBefore": 0.684
+    },
+    {
+      "globalPageIndex": 349,
+      "updated": false,
+      "fullLength": 3520,
+      "fullAlphaRatio": 0.75,
+      "bestLengthBefore": 3520,
+      "bestAlphaBefore": 0.75
+    },
+    {
+      "globalPageIndex": 359,
+      "updated": false,
+      "fullLength": 4588,
+      "fullAlphaRatio": 0.597,
+      "bestLengthBefore": 4588,
+      "bestAlphaBefore": 0.597
+    },
+    {
+      "globalPageIndex": 360,
+      "updated": false,
+      "fullLength": 5564,
+      "fullAlphaRatio": 0.71,
+      "bestLengthBefore": 5564,
+      "bestAlphaBefore": 0.71
+    },
+    {
+      "globalPageIndex": 363,
+      "updated": false,
+      "fullLength": 221,
+      "fullAlphaRatio": 0.665,
+      "bestLengthBefore": 221,
+      "bestAlphaBefore": 0.665
+    },
+    {
+      "globalPageIndex": 367,
+      "updated": false,
+      "fullLength": 246,
+      "fullAlphaRatio": 0.646,
+      "bestLengthBefore": 239,
+      "bestAlphaBefore": 0.674
+    },
+    {
+      "globalPageIndex": 368,
+      "updated": false,
+      "fullLength": 2886,
+      "fullAlphaRatio": 0.722,
+      "bestLengthBefore": 2959,
+      "bestAlphaBefore": 0.73
+    },
+    {
+      "globalPageIndex": 372,
+      "updated": false,
+      "fullLength": 879,
+      "fullAlphaRatio": 0.604,
+      "bestLengthBefore": 879,
+      "bestAlphaBefore": 0.604
+    },
+    {
+      "globalPageIndex": 373,
+      "updated": false,
+      "fullLength": 211,
+      "fullAlphaRatio": 0.673,
+      "bestLengthBefore": 211,
+      "bestAlphaBefore": 0.673
+    },
+    {
+      "globalPageIndex": 374,
+      "updated": false,
+      "fullLength": 3075,
+      "fullAlphaRatio": 0.723,
+      "bestLengthBefore": 3094,
+      "bestAlphaBefore": 0.731
+    },
+    {
+      "globalPageIndex": 382,
+      "updated": false,
+      "fullLength": 2783,
+      "fullAlphaRatio": 0.36,
+      "bestLengthBefore": 2745,
+      "bestAlphaBefore": 0.37
+    },
+    {
+      "globalPageIndex": 389,
+      "updated": false,
+      "fullLength": 2151,
+      "fullAlphaRatio": 0.743,
+      "bestLengthBefore": 2151,
+      "bestAlphaBefore": 0.743
+    },
+    {
+      "globalPageIndex": 391,
+      "updated": false,
+      "fullLength": 282,
+      "fullAlphaRatio": 0.663,
+      "bestLengthBefore": 277,
+      "bestAlphaBefore": 0.697
+    },
+    {
+      "globalPageIndex": 394,
+      "updated": false,
+      "fullLength": 4400,
+      "fullAlphaRatio": 0.143,
+      "bestLengthBefore": 4400,
+      "bestAlphaBefore": 0.143
+    },
+    {
+      "globalPageIndex": 395,
+      "updated": false,
+      "fullLength": 3812,
+      "fullAlphaRatio": 0.14,
+      "bestLengthBefore": 3812,
+      "bestAlphaBefore": 0.14
+    },
+    {
+      "globalPageIndex": 396,
+      "updated": false,
+      "fullLength": 4144,
+      "fullAlphaRatio": 0.117,
+      "bestLengthBefore": 4144,
+      "bestAlphaBefore": 0.117
+    },
+    {
+      "globalPageIndex": 397,
+      "updated": false,
+      "fullLength": 2937,
+      "fullAlphaRatio": 0.208,
+      "bestLengthBefore": 2937,
+      "bestAlphaBefore": 0.208
+    },
+    {
+      "globalPageIndex": 409,
+      "updated": false,
+      "fullLength": 3644,
+      "fullAlphaRatio": 0.152,
+      "bestLengthBefore": 3122,
+      "bestAlphaBefore": 0.154
+    },
+    {
+      "globalPageIndex": 410,
+      "updated": false,
+      "fullLength": 1864,
+      "fullAlphaRatio": 0.092,
+      "bestLengthBefore": 1864,
+      "bestAlphaBefore": 0.092
+    },
+    {
+      "globalPageIndex": 415,
+      "updated": false,
+      "fullLength": 4244,
+      "fullAlphaRatio": 0.726,
+      "bestLengthBefore": 4244,
+      "bestAlphaBefore": 0.726
+    },
+    {
+      "globalPageIndex": 425,
+      "updated": false,
+      "fullLength": 156,
+      "fullAlphaRatio": 0.673,
+      "bestLengthBefore": 156,
+      "bestAlphaBefore": 0.673
+    },
+    {
+      "globalPageIndex": 428,
+      "updated": false,
+      "fullLength": 4062,
+      "fullAlphaRatio": 0.699,
+      "bestLengthBefore": 4062,
+      "bestAlphaBefore": 0.699
+    },
+    {
+      "globalPageIndex": 431,
+      "updated": false,
+      "fullLength": 157,
+      "fullAlphaRatio": 0.701,
+      "bestLengthBefore": 157,
+      "bestAlphaBefore": 0.701
+    },
+    {
+      "globalPageIndex": 434,
+      "updated": false,
+      "fullLength": 4971,
+      "fullAlphaRatio": 0.733,
+      "bestLengthBefore": 4971,
+      "bestAlphaBefore": 0.733
+    },
+    {
+      "globalPageIndex": 435,
+      "updated": false,
+      "fullLength": 5217,
+      "fullAlphaRatio": 0.749,
+      "bestLengthBefore": 5217,
+      "bestAlphaBefore": 0.749
+    },
+    {
+      "globalPageIndex": 437,
+      "updated": false,
+      "fullLength": 159,
+      "fullAlphaRatio": 0.698,
+      "bestLengthBefore": 159,
+      "bestAlphaBefore": 0.698
+    },
+    {
+      "globalPageIndex": 441,
+      "updated": false,
+      "fullLength": 5426,
+      "fullAlphaRatio": 0.747,
+      "bestLengthBefore": 5426,
+      "bestAlphaBefore": 0.747
+    },
+    {
+      "globalPageIndex": 445,
+      "updated": false,
+      "fullLength": 219,
+      "fullAlphaRatio": 0.644,
+      "bestLengthBefore": 207,
+      "bestAlphaBefore": 0.671
+    },
+    {
+      "globalPageIndex": 446,
+      "updated": false,
+      "fullLength": 3146,
+      "fullAlphaRatio": 0.78,
+      "bestLengthBefore": 3146,
+      "bestAlphaBefore": 0.78
+    },
+    {
+      "globalPageIndex": 447,
+      "updated": false,
+      "fullLength": 5645,
+      "fullAlphaRatio": 0.761,
+      "bestLengthBefore": 5645,
+      "bestAlphaBefore": 0.761
+    },
+    {
+      "globalPageIndex": 448,
+      "updated": false,
+      "fullLength": 4602,
+      "fullAlphaRatio": 0.751,
+      "bestLengthBefore": 4602,
+      "bestAlphaBefore": 0.751
+    },
+    {
+      "globalPageIndex": 451,
+      "updated": false,
+      "fullLength": 243,
+      "fullAlphaRatio": 0.7,
+      "bestLengthBefore": 243,
+      "bestAlphaBefore": 0.7
+    },
+    {
+      "globalPageIndex": 453,
+      "updated": false,
+      "fullLength": 939,
+      "fullAlphaRatio": 0.272,
+      "bestLengthBefore": 939,
+      "bestAlphaBefore": 0.272
+    },
+    {
+      "globalPageIndex": 455,
+      "updated": false,
+      "fullLength": 5032,
+      "fullAlphaRatio": 0.739,
+      "bestLengthBefore": 5032,
+      "bestAlphaBefore": 0.739
+    },
+    {
+      "globalPageIndex": 459,
+      "updated": false,
+      "fullLength": 181,
+      "fullAlphaRatio": 0.635,
+      "bestLengthBefore": 181,
+      "bestAlphaBefore": 0.635
+    },
+    {
+      "globalPageIndex": 461,
+      "updated": false,
+      "fullLength": 4400,
+      "fullAlphaRatio": 0.097,
+      "bestLengthBefore": 4400,
+      "bestAlphaBefore": 0.097
+    },
+    {
+      "globalPageIndex": 462,
+      "updated": false,
+      "fullLength": 5000,
+      "fullAlphaRatio": 0.199,
+      "bestLengthBefore": 4697,
+      "bestAlphaBefore": 0.206
+    },
+    {
+      "globalPageIndex": 472,
+      "updated": false,
+      "fullLength": 3711,
+      "fullAlphaRatio": 0.743,
+      "bestLengthBefore": 3711,
+      "bestAlphaBefore": 0.743
+    },
+    {
+      "globalPageIndex": 475,
+      "updated": false,
+      "fullLength": 245,
+      "fullAlphaRatio": 0.616,
+      "bestLengthBefore": 252,
+      "bestAlphaBefore": 0.643
+    },
+    {
+      "globalPageIndex": 476,
+      "updated": false,
+      "fullLength": 4448,
+      "fullAlphaRatio": 0.773,
+      "bestLengthBefore": 4448,
+      "bestAlphaBefore": 0.773
+    },
+    {
+      "globalPageIndex": 478,
+      "updated": false,
+      "fullLength": 1973,
+      "fullAlphaRatio": 0.744,
+      "bestLengthBefore": 1973,
+      "bestAlphaBefore": 0.744
+    },
+    {
+      "globalPageIndex": 479,
+      "updated": false,
+      "fullLength": 243,
+      "fullAlphaRatio": 0.663,
+      "bestLengthBefore": 244,
+      "bestAlphaBefore": 0.676
+    },
+    {
+      "globalPageIndex": 480,
+      "updated": false,
+      "fullLength": 3386,
+      "fullAlphaRatio": 0.778,
+      "bestLengthBefore": 3386,
+      "bestAlphaBefore": 0.778
+    },
+    {
+      "globalPageIndex": 481,
+      "updated": false,
+      "fullLength": 3118,
+      "fullAlphaRatio": 0.725,
+      "bestLengthBefore": 3118,
+      "bestAlphaBefore": 0.725
+    },
+    {
+      "globalPageIndex": 483,
+      "updated": false,
+      "fullLength": 221,
+      "fullAlphaRatio": 0.638,
+      "bestLengthBefore": 194,
+      "bestAlphaBefore": 0.66
+    },
+    {
+      "globalPageIndex": 484,
+      "updated": false,
+      "fullLength": 3814,
+      "fullAlphaRatio": 0.789,
+      "bestLengthBefore": 3778,
+      "bestAlphaBefore": 0.791
+    },
+    {
+      "globalPageIndex": 487,
+      "updated": false,
+      "fullLength": 235,
+      "fullAlphaRatio": 0.681,
+      "bestLengthBefore": 224,
+      "bestAlphaBefore": 0.683
+    },
+    {
+      "globalPageIndex": 491,
+      "updated": false,
+      "fullLength": 235,
+      "fullAlphaRatio": 0.685,
+      "bestLengthBefore": 235,
+      "bestAlphaBefore": 0.685
+    },
+    {
+      "globalPageIndex": 497,
+      "updated": false,
+      "fullLength": 369,
+      "fullAlphaRatio": 0.68,
+      "bestLengthBefore": 369,
+      "bestAlphaBefore": 0.68
+    },
+    {
+      "globalPageIndex": 506,
+      "updated": false,
+      "fullLength": 2495,
+      "fullAlphaRatio": 0.273,
+      "bestLengthBefore": 2495,
+      "bestAlphaBefore": 0.273
+    },
+    {
+      "globalPageIndex": 507,
+      "updated": false,
+      "fullLength": 2177,
+      "fullAlphaRatio": 0.15,
+      "bestLengthBefore": 1595,
+      "bestAlphaBefore": 0.156
+    },
+    {
+      "globalPageIndex": 508,
+      "updated": false,
+      "fullLength": 2477,
+      "fullAlphaRatio": 0.102,
+      "bestLengthBefore": 2347,
+      "bestAlphaBefore": 0.117
+    },
+    {
+      "globalPageIndex": 517,
+      "updated": false,
+      "fullLength": 227,
+      "fullAlphaRatio": 0.648,
+      "bestLengthBefore": 197,
+      "bestAlphaBefore": 0.66
+    },
+    {
+      "globalPageIndex": 518,
+      "updated": false,
+      "fullLength": 3742,
+      "fullAlphaRatio": 0.794,
+      "bestLengthBefore": 3742,
+      "bestAlphaBefore": 0.794
+    },
+    {
+      "globalPageIndex": 521,
+      "updated": false,
+      "fullLength": 6205,
+      "fullAlphaRatio": 0.724,
+      "bestLengthBefore": 6215,
+      "bestAlphaBefore": 0.726
+    },
+    {
+      "globalPageIndex": 523,
+      "updated": false,
+      "fullLength": 5193,
+      "fullAlphaRatio": 0.697,
+      "bestLengthBefore": 5193,
+      "bestAlphaBefore": 0.697
+    },
+    {
+      "globalPageIndex": 525,
+      "updated": false,
+      "fullLength": 248,
+      "fullAlphaRatio": 0.673,
+      "bestLengthBefore": 258,
+      "bestAlphaBefore": 0.69
+    },
+    {
+      "globalPageIndex": 526,
+      "updated": false,
+      "fullLength": 3135,
+      "fullAlphaRatio": 0.767,
+      "bestLengthBefore": 3135,
+      "bestAlphaBefore": 0.767
+    },
+    {
+      "globalPageIndex": 527,
+      "updated": false,
+      "fullLength": 4952,
+      "fullAlphaRatio": 0.742,
+      "bestLengthBefore": 4952,
+      "bestAlphaBefore": 0.742
+    },
+    {
+      "globalPageIndex": 530,
+      "updated": false,
+      "fullLength": 5040,
+      "fullAlphaRatio": 0.689,
+      "bestLengthBefore": 5040,
+      "bestAlphaBefore": 0.689
+    },
+    {
+      "globalPageIndex": 531,
+      "updated": false,
+      "fullLength": 5087,
+      "fullAlphaRatio": 0.762,
+      "bestLengthBefore": 5087,
+      "bestAlphaBefore": 0.762
+    },
+    {
+      "globalPageIndex": 535,
+      "updated": false,
+      "fullLength": 272,
+      "fullAlphaRatio": 0.699,
+      "bestLengthBefore": 272,
+      "bestAlphaBefore": 0.699
+    },
+    {
+      "globalPageIndex": 536,
+      "updated": false,
+      "fullLength": 3134,
+      "fullAlphaRatio": 0.762,
+      "bestLengthBefore": 3134,
+      "bestAlphaBefore": 0.762
+    },
+    {
+      "globalPageIndex": 539,
+      "updated": false,
+      "fullLength": 5741,
+      "fullAlphaRatio": 0.674,
+      "bestLengthBefore": 5741,
+      "bestAlphaBefore": 0.674
+    },
+    {
+      "globalPageIndex": 543,
+      "updated": false,
+      "fullLength": 1585,
+      "fullAlphaRatio": 0.72,
+      "bestLengthBefore": 1590,
+      "bestAlphaBefore": 0.721
+    },
+    {
+      "globalPageIndex": 545,
+      "updated": false,
+      "fullLength": 238,
+      "fullAlphaRatio": 0.672,
+      "bestLengthBefore": 238,
+      "bestAlphaBefore": 0.672
+    },
+    {
+      "globalPageIndex": 555,
+      "updated": false,
+      "fullLength": 1569,
+      "fullAlphaRatio": 0.725,
+      "bestLengthBefore": 1580,
+      "bestAlphaBefore": 0.725
+    },
+    {
+      "globalPageIndex": 558,
+      "updated": false,
+      "fullLength": 4458,
+      "fullAlphaRatio": 0.766,
+      "bestLengthBefore": 4458,
+      "bestAlphaBefore": 0.766
+    },
+    {
+      "globalPageIndex": 559,
+      "updated": false,
+      "fullLength": 2299,
+      "fullAlphaRatio": 0.205,
+      "bestLengthBefore": 2299,
+      "bestAlphaBefore": 0.205
+    },
+    {
+      "globalPageIndex": 571,
+      "updated": false,
+      "fullLength": 1140,
+      "fullAlphaRatio": 0.218,
+      "bestLengthBefore": 381,
+      "bestAlphaBefore": 0.48
+    },
+    {
+      "globalPageIndex": 574,
+      "updated": false,
+      "fullLength": 6632,
+      "fullAlphaRatio": 0.767,
+      "bestLengthBefore": 6632,
+      "bestAlphaBefore": 0.767
+    },
+    {
+      "globalPageIndex": 583,
+      "updated": false,
+      "fullLength": 4120,
+      "fullAlphaRatio": 0.749,
+      "bestLengthBefore": 4085,
+      "bestAlphaBefore": 0.749
+    },
+    {
+      "globalPageIndex": 591,
+      "updated": false,
+      "fullLength": 212,
+      "fullAlphaRatio": 0.656,
+      "bestLengthBefore": 212,
+      "bestAlphaBefore": 0.656
+    },
+    {
+      "globalPageIndex": 593,
+      "updated": false,
+      "fullLength": 5266,
+      "fullAlphaRatio": 0.761,
+      "bestLengthBefore": 5266,
+      "bestAlphaBefore": 0.761
+    },
+    {
+      "globalPageIndex": 599,
+      "updated": false,
+      "fullLength": 275,
+      "fullAlphaRatio": 0.68,
+      "bestLengthBefore": 275,
+      "bestAlphaBefore": 0.68
+    },
+    {
+      "globalPageIndex": 605,
+      "updated": false,
+      "fullLength": 248,
+      "fullAlphaRatio": 0.645,
+      "bestLengthBefore": 211,
+      "bestAlphaBefore": 0.654
+    },
+    {
+      "globalPageIndex": 609,
+      "updated": false,
+      "fullLength": 257,
+      "fullAlphaRatio": 0.712,
+      "bestLengthBefore": 257,
+      "bestAlphaBefore": 0.712
+    },
+    {
+      "globalPageIndex": 611,
+      "updated": false,
+      "fullLength": 5647,
+      "fullAlphaRatio": 0.761,
+      "bestLengthBefore": 5647,
+      "bestAlphaBefore": 0.761
+    },
+    {
+      "globalPageIndex": 613,
+      "updated": false,
+      "fullLength": 4236,
+      "fullAlphaRatio": 0.172,
+      "bestLengthBefore": 4236,
+      "bestAlphaBefore": 0.172
+    },
+    {
+      "globalPageIndex": 618,
+      "updated": false,
+      "fullLength": 3234,
+      "fullAlphaRatio": 0.776,
+      "bestLengthBefore": 3344,
+      "bestAlphaBefore": 0.778
+    },
+    {
+      "globalPageIndex": 624,
+      "updated": false,
+      "fullLength": 4930,
+      "fullAlphaRatio": 0.766,
+      "bestLengthBefore": 4930,
+      "bestAlphaBefore": 0.766
+    },
+    {
+      "globalPageIndex": 635,
+      "updated": false,
+      "fullLength": 137,
+      "fullAlphaRatio": 0.737,
+      "bestLengthBefore": 137,
+      "bestAlphaBefore": 0.737
+    },
+    {
+      "globalPageIndex": 644,
+      "updated": false,
+      "fullLength": 4252,
+      "fullAlphaRatio": 0.584,
+      "bestLengthBefore": 4117,
+      "bestAlphaBefore": 0.585
+    },
+    {
+      "globalPageIndex": 647,
+      "updated": false,
+      "fullLength": 4807,
+      "fullAlphaRatio": 0.756,
+      "bestLengthBefore": 4807,
+      "bestAlphaBefore": 0.756
+    },
+    {
+      "globalPageIndex": 649,
+      "updated": false,
+      "fullLength": 3798,
+      "fullAlphaRatio": 0.183,
+      "bestLengthBefore": 3798,
+      "bestAlphaBefore": 0.183
+    },
+    {
+      "globalPageIndex": 652,
+      "updated": false,
+      "fullLength": 5652,
+      "fullAlphaRatio": 0.046,
+      "bestLengthBefore": 5683,
+      "bestAlphaBefore": 0.06
+    },
+    {
+      "globalPageIndex": 653,
+      "updated": false,
+      "fullLength": 4702,
+      "fullAlphaRatio": 0.074,
+      "bestLengthBefore": 4224,
+      "bestAlphaBefore": 0.087
+    },
+    {
+      "globalPageIndex": 655,
+      "updated": false,
+      "fullLength": 4934,
+      "fullAlphaRatio": 0.727,
+      "bestLengthBefore": 4776,
+      "bestAlphaBefore": 0.729
+    },
+    {
+      "globalPageIndex": 659,
+      "updated": false,
+      "fullLength": 3175,
+      "fullAlphaRatio": 0.676,
+      "bestLengthBefore": 213,
+      "bestAlphaBefore": 0.723
+    },
+    {
+      "globalPageIndex": 661,
+      "updated": false,
+      "fullLength": 3277,
+      "fullAlphaRatio": 0.556,
+      "bestLengthBefore": 3277,
+      "bestAlphaBefore": 0.556
+    },
+    {
+      "globalPageIndex": 665,
+      "updated": false,
+      "fullLength": 4242,
+      "fullAlphaRatio": 0.735,
+      "bestLengthBefore": 4078,
+      "bestAlphaBefore": 0.74
+    },
+    {
+      "globalPageIndex": 683,
+      "updated": false,
+      "fullLength": 226,
+      "fullAlphaRatio": 0.664,
+      "bestLengthBefore": 214,
+      "bestAlphaBefore": 0.673
+    },
+    {
+      "globalPageIndex": 684,
+      "updated": false,
+      "fullLength": 3066,
+      "fullAlphaRatio": 0.736,
+      "bestLengthBefore": 3024,
+      "bestAlphaBefore": 0.742
+    },
+    {
+      "globalPageIndex": 697,
+      "updated": false,
+      "fullLength": 217,
+      "fullAlphaRatio": 0.664,
+      "bestLengthBefore": 217,
+      "bestAlphaBefore": 0.664
+    },
+    {
+      "globalPageIndex": 703,
+      "updated": false,
+      "fullLength": 245,
+      "fullAlphaRatio": 0.678,
+      "bestLengthBefore": 245,
+      "bestAlphaBefore": 0.678
+    },
+    {
+      "globalPageIndex": 709,
+      "updated": false,
+      "fullLength": 3640,
+      "fullAlphaRatio": 0.715,
+      "bestLengthBefore": 3640,
+      "bestAlphaBefore": 0.715
+    },
+    {
+      "globalPageIndex": 717,
+      "updated": false,
+      "fullLength": 214,
+      "fullAlphaRatio": 0.579,
+      "bestLengthBefore": 199,
+      "bestAlphaBefore": 0.638
+    },
+    {
+      "globalPageIndex": 719,
+      "updated": false,
+      "fullLength": 4027,
+      "fullAlphaRatio": 0.621,
+      "bestLengthBefore": 4027,
+      "bestAlphaBefore": 0.621
+    },
+    {
+      "globalPageIndex": 726,
+      "updated": false,
+      "fullLength": 3823,
+      "fullAlphaRatio": 0.212,
+      "bestLengthBefore": 3823,
+      "bestAlphaBefore": 0.212
+    },
+    {
+      "globalPageIndex": 738,
+      "updated": false,
+      "fullLength": 5831,
+      "fullAlphaRatio": 0.752,
+      "bestLengthBefore": 5831,
+      "bestAlphaBefore": 0.752
+    },
+    {
+      "globalPageIndex": 743,
+      "updated": false,
+      "fullLength": 233,
+      "fullAlphaRatio": 0.652,
+      "bestLengthBefore": 233,
+      "bestAlphaBefore": 0.652
+    },
+    {
+      "globalPageIndex": 751,
+      "updated": false,
+      "fullLength": 4990,
+      "fullAlphaRatio": 0.74,
+      "bestLengthBefore": 4990,
+      "bestAlphaBefore": 0.74
+    },
+    {
+      "globalPageIndex": 757,
+      "updated": false,
+      "fullLength": 211,
+      "fullAlphaRatio": 0.654,
+      "bestLengthBefore": 179,
+      "bestAlphaBefore": 0.659
+    },
+    {
+      "globalPageIndex": 761,
+      "updated": false,
+      "fullLength": 237,
+      "fullAlphaRatio": 0.667,
+      "bestLengthBefore": 215,
+      "bestAlphaBefore": 0.693
+    },
+    {
+      "globalPageIndex": 767,
+      "updated": false,
+      "fullLength": 272,
+      "fullAlphaRatio": 0.669,
+      "bestLengthBefore": 273,
+      "bestAlphaBefore": 0.678
+    },
+    {
+      "globalPageIndex": 771,
+      "updated": false,
+      "fullLength": 256,
+      "fullAlphaRatio": 0.691,
+      "bestLengthBefore": 258,
+      "bestAlphaBefore": 0.694
+    },
+    {
+      "globalPageIndex": 776,
+      "updated": false,
+      "fullLength": 582,
+      "fullAlphaRatio": 0.689,
+      "bestLengthBefore": 582,
+      "bestAlphaBefore": 0.689
+    },
+    {
+      "globalPageIndex": 787,
+      "updated": false,
+      "fullLength": 222,
+      "fullAlphaRatio": 0.649,
+      "bestLengthBefore": 211,
+      "bestAlphaBefore": 0.659
+    },
+    {
+      "globalPageIndex": 791,
+      "updated": false,
+      "fullLength": 5161,
+      "fullAlphaRatio": 0.746,
+      "bestLengthBefore": 5161,
+      "bestAlphaBefore": 0.746
+    },
+    {
+      "globalPageIndex": 793,
+      "updated": false,
+      "fullLength": 5475,
+      "fullAlphaRatio": 0.75,
+      "bestLengthBefore": 5475,
+      "bestAlphaBefore": 0.75
+    },
+    {
+      "globalPageIndex": 851,
+      "updated": false,
+      "fullLength": 258,
+      "fullAlphaRatio": 0.64,
+      "bestLengthBefore": 247,
+      "bestAlphaBefore": 0.668
+    },
+    {
+      "globalPageIndex": 857,
+      "updated": false,
+      "fullLength": 243,
+      "fullAlphaRatio": 0.658,
+      "bestLengthBefore": 252,
+      "bestAlphaBefore": 0.702
+    },
+    {
+      "globalPageIndex": 863,
+      "updated": false,
+      "fullLength": 2067,
+      "fullAlphaRatio": 0.514,
+      "bestLengthBefore": 2046,
+      "bestAlphaBefore": 0.523
+    },
+    {
+      "globalPageIndex": 865,
+      "updated": false,
+      "fullLength": 239,
+      "fullAlphaRatio": 0.607,
+      "bestLengthBefore": 230,
+      "bestAlphaBefore": 0.643
+    },
+    {
+      "globalPageIndex": 866,
+      "updated": false,
+      "fullLength": 3615,
+      "fullAlphaRatio": 0.767,
+      "bestLengthBefore": 3522,
+      "bestAlphaBefore": 0.784
+    },
+    {
+      "globalPageIndex": 869,
+      "updated": false,
+      "fullLength": 273,
+      "fullAlphaRatio": 0.619,
+      "bestLengthBefore": 264,
+      "bestAlphaBefore": 0.648
+    },
+    {
+      "globalPageIndex": 877,
+      "updated": false,
+      "fullLength": 243,
+      "fullAlphaRatio": 0.654,
+      "bestLengthBefore": 236,
+      "bestAlphaBefore": 0.674
+    },
+    {
+      "globalPageIndex": 880,
+      "updated": false,
+      "fullLength": 5326,
+      "fullAlphaRatio": 0.094,
+      "bestLengthBefore": 5326,
+      "bestAlphaBefore": 0.094
+    },
+    {
+      "globalPageIndex": 885,
+      "updated": false,
+      "fullLength": 278,
+      "fullAlphaRatio": 0.73,
+      "bestLengthBefore": 264,
+      "bestAlphaBefore": 0.765
+    },
+    {
+      "globalPageIndex": 887,
+      "updated": false,
+      "fullLength": 281,
+      "fullAlphaRatio": 0.651,
+      "bestLengthBefore": 279,
+      "bestAlphaBefore": 0.67
+    },
+    {
+      "globalPageIndex": 901,
+      "updated": false,
+      "fullLength": 3399,
+      "fullAlphaRatio": 0.528,
+      "bestLengthBefore": 3399,
+      "bestAlphaBefore": 0.528
+    },
+    {
+      "globalPageIndex": 905,
+      "updated": false,
+      "fullLength": 2513,
+      "fullAlphaRatio": 0.538,
+      "bestLengthBefore": 2389,
+      "bestAlphaBefore": 0.562
+    },
+    {
+      "globalPageIndex": 910,
+      "updated": false,
+      "fullLength": 3093,
+      "fullAlphaRatio": 0.739,
+      "bestLengthBefore": 3084,
+      "bestAlphaBefore": 0.744
+    },
+    {
+      "globalPageIndex": 913,
+      "updated": false,
+      "fullLength": 209,
+      "fullAlphaRatio": 0.632,
+      "bestLengthBefore": 203,
+      "bestAlphaBefore": 0.66
+    },
+    {
+      "globalPageIndex": 916,
+      "updated": false,
+      "fullLength": 5814,
+      "fullAlphaRatio": 0.771,
+      "bestLengthBefore": 5814,
+      "bestAlphaBefore": 0.771
+    },
+    {
+      "globalPageIndex": 924,
+      "updated": false,
+      "fullLength": 5523,
+      "fullAlphaRatio": 0.764,
+      "bestLengthBefore": 5331,
+      "bestAlphaBefore": 0.773
+    },
+    {
+      "globalPageIndex": 927,
+      "updated": false,
+      "fullLength": 229,
+      "fullAlphaRatio": 0.62,
+      "bestLengthBefore": 222,
+      "bestAlphaBefore": 0.64
+    },
+    {
+      "globalPageIndex": 935,
+      "updated": false,
+      "fullLength": 264,
+      "fullAlphaRatio": 0.663,
+      "bestLengthBefore": 222,
+      "bestAlphaBefore": 0.676
+    },
+    {
+      "globalPageIndex": 940,
+      "updated": false,
+      "fullLength": 6197,
+      "fullAlphaRatio": 0.719,
+      "bestLengthBefore": 6230,
+      "bestAlphaBefore": 0.722
+    },
+    {
+      "globalPageIndex": 943,
+      "updated": false,
+      "fullLength": 3903,
+      "fullAlphaRatio": 0.711,
+      "bestLengthBefore": 3897,
+      "bestAlphaBefore": 0.723
+    },
+    {
+      "globalPageIndex": 952,
+      "updated": false,
+      "fullLength": 3205,
+      "fullAlphaRatio": 0.153,
+      "bestLengthBefore": 3205,
+      "bestAlphaBefore": 0.153
+    },
+    {
+      "globalPageIndex": 953,
+      "updated": false,
+      "fullLength": 2811,
+      "fullAlphaRatio": 0.184,
+      "bestLengthBefore": 671,
+      "bestAlphaBefore": 0.465
+    },
+    {
+      "globalPageIndex": 965,
+      "updated": false,
+      "fullLength": 3219,
+      "fullAlphaRatio": 0.708,
+      "bestLengthBefore": 3169,
+      "bestAlphaBefore": 0.722
+    },
+    {
+      "globalPageIndex": 967,
+      "updated": false,
+      "fullLength": 227,
+      "fullAlphaRatio": 0.643,
+      "bestLengthBefore": 218,
+      "bestAlphaBefore": 0.665
+    },
+    {
+      "globalPageIndex": 971,
+      "updated": false,
+      "fullLength": 222,
+      "fullAlphaRatio": 0.644,
+      "bestLengthBefore": 225,
+      "bestAlphaBefore": 0.68
+    },
+    {
+      "globalPageIndex": 975,
+      "updated": false,
+      "fullLength": 277,
+      "fullAlphaRatio": 0.653,
+      "bestLengthBefore": 261,
+      "bestAlphaBefore": 0.682
+    },
+    {
+      "globalPageIndex": 978,
+      "updated": false,
+      "fullLength": 2847,
+      "fullAlphaRatio": 0.671,
+      "bestLengthBefore": 2847,
+      "bestAlphaBefore": 0.671
+    },
+    {
+      "globalPageIndex": 979,
+      "updated": false,
+      "fullLength": 280,
+      "fullAlphaRatio": 0.643,
+      "bestLengthBefore": 240,
+      "bestAlphaBefore": 0.667
+    },
+    {
+      "globalPageIndex": 985,
+      "updated": false,
+      "fullLength": 308,
+      "fullAlphaRatio": 0.675,
+      "bestLengthBefore": 304,
+      "bestAlphaBefore": 0.704
+    },
+    {
+      "globalPageIndex": 986,
+      "updated": false,
+      "fullLength": 3645,
+      "fullAlphaRatio": 0.743,
+      "bestLengthBefore": 3645,
+      "bestAlphaBefore": 0.743
+    },
+    {
+      "globalPageIndex": 989,
+      "updated": false,
+      "fullLength": 5615,
+      "fullAlphaRatio": 0.731,
+      "bestLengthBefore": 5615,
+      "bestAlphaBefore": 0.731
+    },
+    {
+      "globalPageIndex": 991,
+      "updated": false,
+      "fullLength": 4000,
+      "fullAlphaRatio": 0.122,
+      "bestLengthBefore": 4000,
+      "bestAlphaBefore": 0.122
+    },
+    {
+      "globalPageIndex": 992,
+      "updated": false,
+      "fullLength": 3477,
+      "fullAlphaRatio": 0.042,
+      "bestLengthBefore": 3477,
+      "bestAlphaBefore": 0.042
+    },
+    {
+      "globalPageIndex": 993,
+      "updated": false,
+      "fullLength": 202,
+      "fullAlphaRatio": 0.634,
+      "bestLengthBefore": 223,
+      "bestAlphaBefore": 0.664
+    },
+    {
+      "globalPageIndex": 1001,
+      "updated": false,
+      "fullLength": 3380,
+      "fullAlphaRatio": 0.235,
+      "bestLengthBefore": 3293,
+      "bestAlphaBefore": 0.241
+    },
+    {
+      "globalPageIndex": 1003,
+      "updated": false,
+      "fullLength": 287,
+      "fullAlphaRatio": 0.662,
+      "bestLengthBefore": 241,
+      "bestAlphaBefore": 0.701
+    },
+    {
+      "globalPageIndex": 1005,
+      "updated": false,
+      "fullLength": 4497,
+      "fullAlphaRatio": 0.637,
+      "bestLengthBefore": 4532,
+      "bestAlphaBefore": 0.637
+    },
+    {
+      "globalPageIndex": 1007,
+      "updated": false,
+      "fullLength": 243,
+      "fullAlphaRatio": 0.63,
+      "bestLengthBefore": 223,
+      "bestAlphaBefore": 0.659
+    },
+    {
+      "globalPageIndex": 1011,
+      "updated": false,
+      "fullLength": 210,
+      "fullAlphaRatio": 0.619,
+      "bestLengthBefore": 179,
+      "bestAlphaBefore": 0.637
+    },
+    {
+      "globalPageIndex": 1015,
+      "updated": false,
+      "fullLength": 3343,
+      "fullAlphaRatio": 0.307,
+      "bestLengthBefore": 3354,
+      "bestAlphaBefore": 0.308
+    },
+    {
+      "globalPageIndex": 1018,
+      "updated": false,
+      "fullLength": 898,
+      "fullAlphaRatio": 0.542,
+      "bestLengthBefore": 898,
+      "bestAlphaBefore": 0.542
+    },
+    {
+      "globalPageIndex": 1019,
+      "updated": false,
+      "fullLength": 277,
+      "fullAlphaRatio": 0.606,
+      "bestLengthBefore": 224,
+      "bestAlphaBefore": 0.661
+    },
+    {
+      "globalPageIndex": 1026,
+      "updated": false,
+      "fullLength": 3920,
+      "fullAlphaRatio": 0.762,
+      "bestLengthBefore": 3885,
+      "bestAlphaBefore": 0.768
+    },
+    {
+      "globalPageIndex": 1029,
+      "updated": false,
+      "fullLength": 274,
+      "fullAlphaRatio": 0.642,
+      "bestLengthBefore": 239,
+      "bestAlphaBefore": 0.703
+    },
+    {
+      "globalPageIndex": 1032,
+      "updated": false,
+      "fullLength": 2970,
+      "fullAlphaRatio": 0.663,
+      "bestLengthBefore": 2895,
+      "bestAlphaBefore": 0.679
+    },
+    {
+      "globalPageIndex": 1035,
+      "updated": false,
+      "fullLength": 257,
+      "fullAlphaRatio": 0.654,
+      "bestLengthBefore": 257,
+      "bestAlphaBefore": 0.654
+    },
+    {
+      "globalPageIndex": 1037,
+      "updated": false,
+      "fullLength": 2882,
+      "fullAlphaRatio": 0.656,
+      "bestLengthBefore": 2882,
+      "bestAlphaBefore": 0.656
+    },
+    {
+      "globalPageIndex": 1039,
+      "updated": false,
+      "fullLength": 252,
+      "fullAlphaRatio": 0.611,
+      "bestLengthBefore": 236,
+      "bestAlphaBefore": 0.648
+    },
+    {
+      "globalPageIndex": 1041,
+      "updated": false,
+      "fullLength": 4931,
+      "fullAlphaRatio": 0.668,
+      "bestLengthBefore": 4931,
+      "bestAlphaBefore": 0.668
+    },
+    {
+      "globalPageIndex": 1043,
+      "updated": false,
+      "fullLength": 222,
+      "fullAlphaRatio": 0.59,
+      "bestLengthBefore": 207,
+      "bestAlphaBefore": 0.647
+    },
+    {
+      "globalPageIndex": 1046,
+      "updated": false,
+      "fullLength": 2975,
+      "fullAlphaRatio": 0.677,
+      "bestLengthBefore": 2609,
+      "bestAlphaBefore": 0.707
+    },
+    {
+      "globalPageIndex": 1049,
+      "updated": false,
+      "fullLength": 281,
+      "fullAlphaRatio": 0.637,
+      "bestLengthBefore": 250,
+      "bestAlphaBefore": 0.704
+    },
+    {
+      "globalPageIndex": 1051,
+      "updated": false,
+      "fullLength": 1537,
+      "fullAlphaRatio": 0.671,
+      "bestLengthBefore": 1508,
+      "bestAlphaBefore": 0.691
+    },
+    {
+      "globalPageIndex": 1053,
+      "updated": false,
+      "fullLength": 270,
+      "fullAlphaRatio": 0.648,
+      "bestLengthBefore": 252,
+      "bestAlphaBefore": 0.687
+    },
+    {
+      "globalPageIndex": 1055,
+      "updated": false,
+      "fullLength": 4285,
+      "fullAlphaRatio": 0.737,
+      "bestLengthBefore": 4265,
+      "bestAlphaBefore": 0.741
+    },
+    {
+      "globalPageIndex": 1063,
+      "updated": false,
+      "fullLength": 185,
+      "fullAlphaRatio": 0.692,
+      "bestLengthBefore": 178,
+      "bestAlphaBefore": 0.719
+    },
+    {
+      "globalPageIndex": 1065,
+      "updated": false,
+      "fullLength": 243,
+      "fullAlphaRatio": 0.654,
+      "bestLengthBefore": 243,
+      "bestAlphaBefore": 0.654
+    },
+    {
+      "globalPageIndex": 1078,
+      "updated": false,
+      "fullLength": 4975,
+      "fullAlphaRatio": 0.73,
+      "bestLengthBefore": 4897,
+      "bestAlphaBefore": 0.746
+    },
+    {
+      "globalPageIndex": 1079,
+      "updated": false,
+      "fullLength": 5633,
+      "fullAlphaRatio": 0.725,
+      "bestLengthBefore": 5659,
+      "bestAlphaBefore": 0.74
+    },
+    {
+      "globalPageIndex": 1084,
+      "updated": false,
+      "fullLength": 4964,
+      "fullAlphaRatio": 0.634,
+      "bestLengthBefore": 4936,
+      "bestAlphaBefore": 0.637
+    },
+    {
+      "globalPageIndex": 1085,
+      "updated": false,
+      "fullLength": 4693,
+      "fullAlphaRatio": 0.677,
+      "bestLengthBefore": 4693,
+      "bestAlphaBefore": 0.677
+    },
+    {
+      "globalPageIndex": 1087,
+      "updated": false,
+      "fullLength": 4868,
+      "fullAlphaRatio": 0.665,
+      "bestLengthBefore": 4819,
+      "bestAlphaBefore": 0.672
+    },
+    {
+      "globalPageIndex": 1088,
+      "updated": false,
+      "fullLength": 5901,
+      "fullAlphaRatio": 0.781,
+      "bestLengthBefore": 5960,
+      "bestAlphaBefore": 0.788
+    },
+    {
+      "globalPageIndex": 1089,
+      "updated": false,
+      "fullLength": 3668,
+      "fullAlphaRatio": 0.683,
+      "bestLengthBefore": 3636,
+      "bestAlphaBefore": 0.695
+    },
+    {
+      "globalPageIndex": 1090,
+      "updated": false,
+      "fullLength": 4129,
+      "fullAlphaRatio": 0.616,
+      "bestLengthBefore": 4042,
+      "bestAlphaBefore": 0.618
+    },
+    {
+      "globalPageIndex": 1102,
+      "updated": false,
+      "fullLength": 1228,
+      "fullAlphaRatio": 0.19,
+      "bestLengthBefore": 1228,
+      "bestAlphaBefore": 0.19
+    },
+    {
+      "globalPageIndex": 1105,
+      "updated": false,
+      "fullLength": 4682,
+      "fullAlphaRatio": 0.628,
+      "bestLengthBefore": 4591,
+      "bestAlphaBefore": 0.649
+    },
+    {
+      "globalPageIndex": 1110,
+      "updated": false,
+      "fullLength": 4816,
+      "fullAlphaRatio": 0.747,
+      "bestLengthBefore": 4799,
+      "bestAlphaBefore": 0.75
+    },
+    {
+      "globalPageIndex": 1117,
+      "updated": false,
+      "fullLength": 203,
+      "fullAlphaRatio": 0.68,
+      "bestLengthBefore": 203,
+      "bestAlphaBefore": 0.68
+    },
+    {
+      "globalPageIndex": 1123,
+      "updated": false,
+      "fullLength": 290,
+      "fullAlphaRatio": 0.617,
+      "bestLengthBefore": 253,
+      "bestAlphaBefore": 0.668
+    },
+    {
+      "globalPageIndex": 1127,
+      "updated": false,
+      "fullLength": 261,
+      "fullAlphaRatio": 0.632,
+      "bestLengthBefore": 254,
+      "bestAlphaBefore": 0.669
+    },
+    {
+      "globalPageIndex": 1133,
+      "updated": false,
+      "fullLength": 4978,
+      "fullAlphaRatio": 0.773,
+      "bestLengthBefore": 4978,
+      "bestAlphaBefore": 0.773
+    },
+    {
+      "globalPageIndex": 1136,
+      "updated": false,
+      "fullLength": 1315,
+      "fullAlphaRatio": 0.526,
+      "bestLengthBefore": 1315,
+      "bestAlphaBefore": 0.526
+    },
+    {
+      "globalPageIndex": 1141,
+      "updated": false,
+      "fullLength": 282,
+      "fullAlphaRatio": 0.642,
+      "bestLengthBefore": 282,
+      "bestAlphaBefore": 0.642
+    },
+    {
+      "globalPageIndex": 1143,
+      "updated": false,
+      "fullLength": 2143,
+      "fullAlphaRatio": 0.661,
+      "bestLengthBefore": 2190,
+      "bestAlphaBefore": 0.662
+    },
+    {
+      "globalPageIndex": 1145,
+      "updated": false,
+      "fullLength": 294,
+      "fullAlphaRatio": 0.673,
+      "bestLengthBefore": 286,
+      "bestAlphaBefore": 0.685
+    },
+    {
+      "globalPageIndex": 1149,
+      "updated": false,
+      "fullLength": 1598,
+      "fullAlphaRatio": 0.47,
+      "bestLengthBefore": 1590,
+      "bestAlphaBefore": 0.474
+    },
+    {
+      "globalPageIndex": 1151,
+      "updated": false,
+      "fullLength": 228,
+      "fullAlphaRatio": 0.596,
+      "bestLengthBefore": 233,
+      "bestAlphaBefore": 0.618
+    },
+    {
+      "globalPageIndex": 1159,
+      "updated": false,
+      "fullLength": 232,
+      "fullAlphaRatio": 0.638,
+      "bestLengthBefore": 242,
+      "bestAlphaBefore": 0.682
+    },
+    {
+      "globalPageIndex": 1163,
+      "updated": false,
+      "fullLength": 195,
+      "fullAlphaRatio": 0.677,
+      "bestLengthBefore": 184,
+      "bestAlphaBefore": 0.679
+    },
+    {
+      "globalPageIndex": 1164,
+      "updated": false,
+      "fullLength": 2952,
+      "fullAlphaRatio": 0.713,
+      "bestLengthBefore": 2952,
+      "bestAlphaBefore": 0.713
+    },
+    {
+      "globalPageIndex": 1165,
+      "updated": false,
+      "fullLength": 5105,
+      "fullAlphaRatio": 0.756,
+      "bestLengthBefore": 5105,
+      "bestAlphaBefore": 0.756
+    },
+    {
+      "globalPageIndex": 1169,
+      "updated": false,
+      "fullLength": 272,
+      "fullAlphaRatio": 0.647,
+      "bestLengthBefore": 252,
+      "bestAlphaBefore": 0.687
+    },
+    {
+      "globalPageIndex": 1173,
+      "updated": false,
+      "fullLength": 174,
+      "fullAlphaRatio": 0.713,
+      "bestLengthBefore": 174,
+      "bestAlphaBefore": 0.713
+    },
+    {
+      "globalPageIndex": 1176,
+      "updated": false,
+      "fullLength": 1786,
+      "fullAlphaRatio": 0.188,
+      "bestLengthBefore": 1740,
+      "bestAlphaBefore": 0.19
+    },
+    {
+      "globalPageIndex": 1177,
+      "updated": false,
+      "fullLength": 2230,
+      "fullAlphaRatio": 0.162,
+      "bestLengthBefore": 2093,
+      "bestAlphaBefore": 0.169
+    },
+    {
+      "globalPageIndex": 1178,
+      "updated": false,
+      "fullLength": 2580,
+      "fullAlphaRatio": 0.154,
+      "bestLengthBefore": 2481,
+      "bestAlphaBefore": 0.154
+    },
+    {
+      "globalPageIndex": 1206,
+      "updated": false,
+      "fullLength": 1350,
+      "fullAlphaRatio": 0.713,
+      "bestLengthBefore": 1380,
+      "bestAlphaBefore": 0.72
+    },
+    {
+      "globalPageIndex": 1207,
+      "updated": false,
+      "fullLength": 236,
+      "fullAlphaRatio": 0.627,
+      "bestLengthBefore": 203,
+      "bestAlphaBefore": 0.655
+    },
+    {
+      "globalPageIndex": 1220,
+      "updated": false,
+      "fullLength": 4815,
+      "fullAlphaRatio": 0.746,
+      "bestLengthBefore": 4796,
+      "bestAlphaBefore": 0.752
+    },
+    {
+      "globalPageIndex": 1223,
+      "updated": false,
+      "fullLength": 242,
+      "fullAlphaRatio": 0.665,
+      "bestLengthBefore": 212,
+      "bestAlphaBefore": 0.67
+    },
+    {
+      "globalPageIndex": 1228,
+      "updated": false,
+      "fullLength": 2874,
+      "fullAlphaRatio": 0.229,
+      "bestLengthBefore": 2874,
+      "bestAlphaBefore": 0.229
+    },
+    {
+      "globalPageIndex": 1229,
+      "updated": false,
+      "fullLength": 2898,
+      "fullAlphaRatio": 0.274,
+      "bestLengthBefore": 2898,
+      "bestAlphaBefore": 0.274
+    },
+    {
+      "globalPageIndex": 1233,
+      "updated": false,
+      "fullLength": 199,
+      "fullAlphaRatio": 0.683,
+      "bestLengthBefore": 199,
+      "bestAlphaBefore": 0.683
+    },
+    {
+      "globalPageIndex": 1234,
+      "updated": false,
+      "fullLength": 3428,
+      "fullAlphaRatio": 0.708,
+      "bestLengthBefore": 3333,
+      "bestAlphaBefore": 0.719
+    },
+    {
+      "globalPageIndex": 1237,
+      "updated": false,
+      "fullLength": 215,
+      "fullAlphaRatio": 0.619,
+      "bestLengthBefore": 204,
+      "bestAlphaBefore": 0.647
+    },
+    {
+      "globalPageIndex": 1242,
+      "updated": false,
+      "fullLength": 5877,
+      "fullAlphaRatio": 0.778,
+      "bestLengthBefore": 5843,
+      "bestAlphaBefore": 0.782
+    },
+    {
+      "globalPageIndex": 1251,
+      "updated": false,
+      "fullLength": 184,
+      "fullAlphaRatio": 0.582,
+      "bestLengthBefore": 193,
+      "bestAlphaBefore": 0.611
+    },
+    {
+      "globalPageIndex": 1265,
+      "updated": false,
+      "fullLength": 282,
+      "fullAlphaRatio": 0.642,
+      "bestLengthBefore": 274,
+      "bestAlphaBefore": 0.675
+    },
+    {
+      "globalPageIndex": 1267,
+      "updated": false,
+      "fullLength": 227,
+      "fullAlphaRatio": 0.63,
+      "bestLengthBefore": 233,
+      "bestAlphaBefore": 0.639
+    },
+    {
+      "globalPageIndex": 1269,
+      "updated": false,
+      "fullLength": 5011,
+      "fullAlphaRatio": 0.715,
+      "bestLengthBefore": 4796,
+      "bestAlphaBefore": 0.737
+    },
+    {
+      "globalPageIndex": 1273,
+      "updated": false,
+      "fullLength": 3247,
+      "fullAlphaRatio": 0.644,
+      "bestLengthBefore": 3247,
+      "bestAlphaBefore": 0.644
+    },
+    {
+      "globalPageIndex": 1275,
+      "updated": false,
+      "fullLength": 222,
+      "fullAlphaRatio": 0.626,
+      "bestLengthBefore": 208,
+      "bestAlphaBefore": 0.649
+    },
+    {
+      "globalPageIndex": 1277,
+      "updated": false,
+      "fullLength": 3356,
+      "fullAlphaRatio": 0.664,
+      "bestLengthBefore": 3343,
+      "bestAlphaBefore": 0.667
+    },
+    {
+      "globalPageIndex": 1282,
+      "updated": false,
+      "fullLength": 2216,
+      "fullAlphaRatio": 0.491,
+      "bestLengthBefore": 2216,
+      "bestAlphaBefore": 0.491
+    },
+    {
+      "globalPageIndex": 1284,
+      "updated": false,
+      "fullLength": 3245,
+      "fullAlphaRatio": 0.738,
+      "bestLengthBefore": 3245,
+      "bestAlphaBefore": 0.738
+    },
+    {
+      "globalPageIndex": 1285,
+      "updated": false,
+      "fullLength": 3257,
+      "fullAlphaRatio": 0.69,
+      "bestLengthBefore": 3095,
+      "bestAlphaBefore": 0.697
+    },
+    {
+      "globalPageIndex": 1289,
+      "updated": false,
+      "fullLength": 2827,
+      "fullAlphaRatio": 0.712,
+      "bestLengthBefore": 2803,
+      "bestAlphaBefore": 0.721
+    },
+    {
+      "globalPageIndex": 1291,
+      "updated": false,
+      "fullLength": 262,
+      "fullAlphaRatio": 0.641,
+      "bestLengthBefore": 262,
+      "bestAlphaBefore": 0.641
+    },
+    {
+      "globalPageIndex": 1305,
+      "updated": false,
+      "fullLength": 5008,
+      "fullAlphaRatio": 0.77,
+      "bestLengthBefore": 5157,
+      "bestAlphaBefore": 0.776
+    },
+    {
+      "globalPageIndex": 1311,
+      "updated": false,
+      "fullLength": 266,
+      "fullAlphaRatio": 0.639,
+      "bestLengthBefore": 253,
+      "bestAlphaBefore": 0.68
+    },
+    {
+      "globalPageIndex": 1312,
+      "updated": false,
+      "fullLength": 3689,
+      "fullAlphaRatio": 0.746,
+      "bestLengthBefore": 3550,
+      "bestAlphaBefore": 0.752
+    },
+    {
+      "globalPageIndex": 1313,
+      "updated": false,
+      "fullLength": 3399,
+      "fullAlphaRatio": 0.684,
+      "bestLengthBefore": 3283,
+      "bestAlphaBefore": 0.69
+    },
+    {
+      "globalPageIndex": 1317,
+      "updated": false,
+      "fullLength": 246,
+      "fullAlphaRatio": 0.63,
+      "bestLengthBefore": 223,
+      "bestAlphaBefore": 0.659
+    },
+    {
+      "globalPageIndex": 1320,
+      "updated": false,
+      "fullLength": 5094,
+      "fullAlphaRatio": 0.775,
+      "bestLengthBefore": 5100,
+      "bestAlphaBefore": 0.778
+    },
+    {
+      "globalPageIndex": 1333,
+      "updated": false,
+      "fullLength": 199,
+      "fullAlphaRatio": 0.628,
+      "bestLengthBefore": 199,
+      "bestAlphaBefore": 0.628
+    },
+    {
+      "globalPageIndex": 1347,
+      "updated": false,
+      "fullLength": 272,
+      "fullAlphaRatio": 0.621,
+      "bestLengthBefore": 251,
+      "bestAlphaBefore": 0.637
+    },
+    {
+      "globalPageIndex": 1350,
+      "updated": false,
+      "fullLength": 3991,
+      "fullAlphaRatio": 0.586,
+      "bestLengthBefore": 3927,
+      "bestAlphaBefore": 0.595
+    },
+    {
+      "globalPageIndex": 1355,
+      "updated": false,
+      "fullLength": 249,
+      "fullAlphaRatio": 0.627,
+      "bestLengthBefore": 249,
+      "bestAlphaBefore": 0.627
+    },
+    {
+      "globalPageIndex": 1360,
+      "updated": false,
+      "fullLength": 2174,
+      "fullAlphaRatio": 0.177,
+      "bestLengthBefore": 1941,
+      "bestAlphaBefore": 0.188
+    },
+    {
+      "globalPageIndex": 1367,
+      "updated": false,
+      "fullLength": 235,
+      "fullAlphaRatio": 0.613,
+      "bestLengthBefore": 234,
+      "bestAlphaBefore": 0.671
+    },
+    {
+      "globalPageIndex": 1371,
+      "updated": false,
+      "fullLength": 4733,
+      "fullAlphaRatio": 0.692,
+      "bestLengthBefore": 4513,
+      "bestAlphaBefore": 0.703
+    },
+    {
+      "globalPageIndex": 1377,
+      "updated": false,
+      "fullLength": 4277,
+      "fullAlphaRatio": 0.478,
+      "bestLengthBefore": 4126,
+      "bestAlphaBefore": 0.495
+    },
+    {
+      "globalPageIndex": 1385,
+      "updated": false,
+      "fullLength": 231,
+      "fullAlphaRatio": 0.597,
+      "bestLengthBefore": 192,
+      "bestAlphaBefore": 0.625
+    },
+    {
+      "globalPageIndex": 1386,
+      "updated": false,
+      "fullLength": 3840,
+      "fullAlphaRatio": 0.751,
+      "bestLengthBefore": 3807,
+      "bestAlphaBefore": 0.759
+    },
+    {
+      "globalPageIndex": 1388,
+      "updated": false,
+      "fullLength": 4425,
+      "fullAlphaRatio": 0.232,
+      "bestLengthBefore": 4425,
+      "bestAlphaBefore": 0.232
+    },
+    {
+      "globalPageIndex": 1393,
+      "updated": false,
+      "fullLength": 297,
+      "fullAlphaRatio": 0.636,
+      "bestLengthBefore": 290,
+      "bestAlphaBefore": 0.648
+    },
+    {
+      "globalPageIndex": 1399,
+      "updated": false,
+      "fullLength": 4500,
+      "fullAlphaRatio": 0.752,
+      "bestLengthBefore": 4487,
+      "bestAlphaBefore": 0.76
+    },
+    {
+      "globalPageIndex": 1401,
+      "updated": false,
+      "fullLength": 212,
+      "fullAlphaRatio": 0.623,
+      "bestLengthBefore": 224,
+      "bestAlphaBefore": 0.67
+    },
+    {
+      "globalPageIndex": 1407,
+      "updated": false,
+      "fullLength": 197,
+      "fullAlphaRatio": 0.624,
+      "bestLengthBefore": 180,
+      "bestAlphaBefore": 0.689
+    },
+    {
+      "globalPageIndex": 1413,
+      "updated": false,
+      "fullLength": 268,
+      "fullAlphaRatio": 0.642,
+      "bestLengthBefore": 232,
+      "bestAlphaBefore": 0.659
+    },
+    {
+      "globalPageIndex": 1414,
+      "updated": false,
+      "fullLength": 3583,
+      "fullAlphaRatio": 0.772,
+      "bestLengthBefore": 3539,
+      "bestAlphaBefore": 0.78
+    },
+    {
+      "globalPageIndex": 1415,
+      "updated": false,
+      "fullLength": 3914,
+      "fullAlphaRatio": 0.731,
+      "bestLengthBefore": 3851,
+      "bestAlphaBefore": 0.742
+    },
+    {
+      "globalPageIndex": 1417,
+      "updated": false,
+      "fullLength": 250,
+      "fullAlphaRatio": 0.628,
+      "bestLengthBefore": 219,
+      "bestAlphaBefore": 0.662
+    },
+    {
+      "globalPageIndex": 1427,
+      "updated": false,
+      "fullLength": 267,
+      "fullAlphaRatio": 0.596,
+      "bestLengthBefore": 233,
+      "bestAlphaBefore": 0.609
+    },
+    {
+      "globalPageIndex": 1433,
+      "updated": false,
+      "fullLength": 220,
+      "fullAlphaRatio": 0.591,
+      "bestLengthBefore": 209,
+      "bestAlphaBefore": 0.627
+    },
+    {
+      "globalPageIndex": 1440,
+      "updated": false,
+      "fullLength": 3984,
+      "fullAlphaRatio": 0.693,
+      "bestLengthBefore": 3900,
+      "bestAlphaBefore": 0.704
+    },
+    {
+      "globalPageIndex": 1441,
+      "updated": false,
+      "fullLength": 160,
+      "fullAlphaRatio": 0.669,
+      "bestLengthBefore": 174,
+      "bestAlphaBefore": 0.695
+    },
+    {
+      "globalPageIndex": 1451,
+      "updated": false,
+      "fullLength": 193,
+      "fullAlphaRatio": 0.627,
+      "bestLengthBefore": 184,
+      "bestAlphaBefore": 0.647
+    },
+    {
+      "globalPageIndex": 1459,
+      "updated": false,
+      "fullLength": 271,
+      "fullAlphaRatio": 0.661,
+      "bestLengthBefore": 261,
+      "bestAlphaBefore": 0.678
+    },
+    {
+      "globalPageIndex": 1469,
+      "updated": false,
+      "fullLength": 257,
+      "fullAlphaRatio": 0.658,
+      "bestLengthBefore": 236,
+      "bestAlphaBefore": 0.674
+    },
+    {
+      "globalPageIndex": 1483,
+      "updated": false,
+      "fullLength": 226,
+      "fullAlphaRatio": 0.602,
+      "bestLengthBefore": 232,
+      "bestAlphaBefore": 0.668
+    },
+    {
+      "globalPageIndex": 1491,
+      "updated": false,
+      "fullLength": 226,
+      "fullAlphaRatio": 0.65,
+      "bestLengthBefore": 238,
+      "bestAlphaBefore": 0.681
+    },
+    {
+      "globalPageIndex": 1494,
+      "updated": false,
+      "fullLength": 5279,
+      "fullAlphaRatio": 0.754,
+      "bestLengthBefore": 5158,
+      "bestAlphaBefore": 0.771
+    },
+    {
+      "globalPageIndex": 1511,
+      "updated": false,
+      "fullLength": 5292,
+      "fullAlphaRatio": 0.757,
+      "bestLengthBefore": 5294,
+      "bestAlphaBefore": 0.757
+    },
+    {
+      "globalPageIndex": 1520,
+      "updated": false,
+      "fullLength": 4531,
+      "fullAlphaRatio": 0.759,
+      "bestLengthBefore": 4753,
+      "bestAlphaBefore": 0.764
+    },
+    {
+      "globalPageIndex": 1521,
+      "updated": false,
+      "fullLength": 5152,
+      "fullAlphaRatio": 0.745,
+      "bestLengthBefore": 5059,
+      "bestAlphaBefore": 0.76
+    },
+    {
+      "globalPageIndex": 1530,
+      "updated": false,
+      "fullLength": 5015,
+      "fullAlphaRatio": 0.756,
+      "bestLengthBefore": 5022,
+      "bestAlphaBefore": 0.758
+    },
+    {
+      "globalPageIndex": 1533,
+      "updated": false,
+      "fullLength": 245,
+      "fullAlphaRatio": 0.669,
+      "bestLengthBefore": 254,
+      "bestAlphaBefore": 0.689
+    },
+    {
+      "globalPageIndex": 1539,
+      "updated": false,
+      "fullLength": 232,
+      "fullAlphaRatio": 0.612,
+      "bestLengthBefore": 196,
+      "bestAlphaBefore": 0.633
+    },
+    {
+      "globalPageIndex": 1540,
+      "updated": false,
+      "fullLength": 4273,
+      "fullAlphaRatio": 0.769,
+      "bestLengthBefore": 4097,
+      "bestAlphaBefore": 0.78
+    },
+    {
+      "globalPageIndex": 1543,
+      "updated": false,
+      "fullLength": 5374,
+      "fullAlphaRatio": 0.684,
+      "bestLengthBefore": 5235,
+      "bestAlphaBefore": 0.684
+    },
+    {
+      "globalPageIndex": 1550,
+      "updated": false,
+      "fullLength": 3802,
+      "fullAlphaRatio": 0.261,
+      "bestLengthBefore": 3750,
+      "bestAlphaBefore": 0.264
+    },
+    {
+      "globalPageIndex": 1561,
+      "updated": false,
+      "fullLength": 1373,
+      "fullAlphaRatio": 0.5,
+      "bestLengthBefore": 1373,
+      "bestAlphaBefore": 0.5
+    },
+    {
+      "globalPageIndex": 1565,
+      "updated": false,
+      "fullLength": 336,
+      "fullAlphaRatio": 0.548,
+      "bestLengthBefore": 266,
+      "bestAlphaBefore": 0.665
+    },
+    {
+      "globalPageIndex": 1572,
+      "updated": false,
+      "fullLength": 5758,
+      "fullAlphaRatio": 0.697,
+      "bestLengthBefore": 5930,
+      "bestAlphaBefore": 0.698
+    },
+    {
+      "globalPageIndex": 1577,
+      "updated": false,
+      "fullLength": 3002,
+      "fullAlphaRatio": 0.74,
+      "bestLengthBefore": 2941,
+      "bestAlphaBefore": 0.756
+    },
+    {
+      "globalPageIndex": 1579,
+      "updated": false,
+      "fullLength": 277,
+      "fullAlphaRatio": 0.639,
+      "bestLengthBefore": 260,
+      "bestAlphaBefore": 0.669
+    },
+    {
+      "globalPageIndex": 1582,
+      "updated": false,
+      "fullLength": 5543,
+      "fullAlphaRatio": 0.738,
+      "bestLengthBefore": 5441,
+      "bestAlphaBefore": 0.741
+    },
+    {
+      "globalPageIndex": 1583,
+      "updated": false,
+      "fullLength": 5973,
+      "fullAlphaRatio": 0.66,
+      "bestLengthBefore": 5948,
+      "bestAlphaBefore": 0.66
+    },
+    {
+      "globalPageIndex": 1586,
+      "updated": false,
+      "fullLength": 6503,
+      "fullAlphaRatio": 0.729,
+      "bestLengthBefore": 6397,
+      "bestAlphaBefore": 0.738
+    },
+    {
+      "globalPageIndex": 1589,
+      "updated": false,
+      "fullLength": 5868,
+      "fullAlphaRatio": 0.746,
+      "bestLengthBefore": 5915,
+      "bestAlphaBefore": 0.747
+    },
+    {
+      "globalPageIndex": 1591,
+      "updated": false,
+      "fullLength": 230,
+      "fullAlphaRatio": 0.587,
+      "bestLengthBefore": 220,
+      "bestAlphaBefore": 0.609
+    }
+  ]
+}

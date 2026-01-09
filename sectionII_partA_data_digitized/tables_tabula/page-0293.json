@@ -1,0 +1,404 @@
+[
+  {
+    "rows": [
+      [
+        "B8MLN, B8CLN, all diameters",
+        "",
+        "",
+        "",
+        "",
+        "HRB0"
+      ],
+      [
+        "Classes 1,1A,1D, 88CLNCuB, all carbide solution treated",
+        "515.0",
+        "205.0",
+        "30.0",
+        "50.0",
+        "223 HBW or 96"
+      ],
+      [
+        "diameters 1",
+        "",
+        "",
+        "",
+        "",
+        "HRB0"
+      ],
+      [
+        "Classes 1 and 1 D: B8ML4CuN, all carbide solution treated",
+        "480.0",
+        "175.0",
+        "35.0",
+        "50.0",
+        "90 HRS"
+      ],
+      [
+        "diameters",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Class 1: BBC, BBT, all diameters carbide solution treated",
+        "515.0",
+        "205.0",
+        "30.0",
+        "50.0",
+        "223 HBW or"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "96HRB 0"
+      ],
+      [
+        "Class 1A: BSA, BBCA, 88CLNA, BBMA, carbide solution treated in the finished",
+        "515.0",
+        "205.0",
+        "30.0",
+        "50.0",
+        "192 HBW or 90"
+      ],
+      [
+        "B8PA, B8TA, 88LNA, BBMLNA, BBNA, condition",
+        "",
+        "",
+        "",
+        "",
+        "HRS"
+      ],
+      [
+        "BBMNA, BBMLCuNA, all diameters",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Class 1A : B8ML4CuNA, all diameters carbide solution treated",
+        "480.0",
+        "175.0",
+        "35.0",
+        "50.0",
+        "90 HRS"
+      ]
+    ]
+  },
+  {
+    "rows": [
+      [
+        "BBMLCuN, all diameters",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "HRB0"
+      ],
+      [
+        "Classes 1C  and 1 D: BBR, all diameters",
+        "carbide solution treated",
+        "690.0",
+        "380.0",
+        "35.0",
+        "55.0",
+        "271 HBW or 28"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "HRC"
+      ],
+      [
+        "Class 1C : 88RA, all diameters",
+        "carbide solution treated in the finished",
+        "690.0",
+        "380.0",
+        "35.0",
+        "55.0",
+        "271 HBW or 28"
+      ],
+      [
+        "",
+        "condition",
+        "",
+        "",
+        "",
+        "",
+        "HRC"
+      ],
+      [
+        "Classes 1C  and 1 D: BBS, all diameters",
+        "carbide solution treated",
+        "655.0",
+        "345.0",
+        "35.0",
+        "55.0",
+        "271 HBW or 28"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "HRC"
+      ],
+      [
+        "Classes 1C : BBSA, all diameters",
+        "carbide solution treated in the finished",
+        "655.0",
+        "345.0",
+        "35.0",
+        "55.0",
+        "271 HBW or 28"
+      ],
+      [
+        "",
+        "condition",
+        "",
+        "",
+        "",
+        "",
+        "HRC"
+      ],
+      [
+        "Class 2: BB, BBC, BBP, BBT, BBN, 0",
+        "carbide solution treated and strain",
+        "860.0",
+        "690.0",
+        "12.0",
+        "35.0",
+        "321 HBWor 35"
+      ],
+      [
+        "M20 and under",
+        "hardened",
+        "",
+        "",
+        "",
+        "",
+        "HRC"
+      ],
+      [
+        "over M20 to M24, incl",
+        "",
+        "795.0",
+        "550.0",
+        "15.0",
+        "35.0",
+        "321 HBW or 35"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "HRC"
+      ],
+      [
+        "over M24 to M30, incl",
+        "",
+        "725.0",
+        "450.0",
+        "20.0",
+        "35.0",
+        "321 HBW or 35"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "HRC"
+      ],
+      [
+        "over M30 to M36, incl",
+        "",
+        "690.0",
+        "345.0",
+        "28.0",
+        "45.0",
+        "321 HBW or 35"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "HRC"
+      ],
+      [
+        "Class 2: BBM, BBMN, BBMLCuN, 0",
+        "carbide solution treated and strain",
+        "760.0",
+        "655.0",
+        "15.0",
+        "45.0",
+        "321 HBW or 35"
+      ],
+      [
+        "M20 and under",
+        "hardened",
+        "",
+        "",
+        "",
+        "",
+        "HRC"
+      ],
+      [
+        "over M20 to M24, incl",
+        "",
+        "690.0",
+        "550.0",
+        "20.0",
+        "45.0",
+        "321 HBW or 35"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "HRC"
+      ],
+      [
+        "over M24 to M30, incl",
+        "",
+        "655.0",
+        "450.0",
+        "25.0",
+        "45.0",
+        "321 HBW or 35"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "HRC"
+      ],
+      [
+        "over M30 to M36, incl",
+        "",
+        "620.0",
+        "345.0",
+        "30.0",
+        "45.0",
+        "321 HBW or 35"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "HRC"
+      ],
+      [
+        "Class 28: 88, BBM2, 0",
+        "carbide solution treated and strain",
+        "655.0",
+        "515.0",
+        "25.0",
+        "40.0",
+        "321 HBW or 35"
+      ],
+      [
+        "M48 and under",
+        "hardened",
+        "",
+        "",
+        "",
+        "",
+        "HRC"
+      ],
+      [
+        "over M48 to M64, incl",
+        "",
+        "620.0",
+        "450.0",
+        "30.0",
+        "40.0",
+        "321 HBW or 35"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "HRC"
+      ],
+      [
+        "over M64 to M72, incl",
+        "",
+        "550.0",
+        "380.0",
+        "30.0",
+        "40.0",
+        "321 HBW or 35"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "HRC"
+      ],
+      [
+        "Class 2C: B8M3, 0",
+        "carbide solution treated and strain",
+        "585.0",
+        "450.0",
+        "30.0",
+        "60.0",
+        "321 HBW or 35"
+      ],
+      [
+        "M48 and under",
+        "hardened",
+        "",
+        "",
+        "",
+        "",
+        "HRC"
+      ],
+      [
+        "over M48",
+        "",
+        "585.0",
+        "415.0",
+        "30.0",
+        "60.0",
+        "321 HBW or 35"
+      ]
+    ]
+  }
+]

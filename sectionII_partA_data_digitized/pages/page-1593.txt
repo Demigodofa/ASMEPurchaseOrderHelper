@@ -1,0 +1,158 @@
+ASME BPVC.II.A-2025 SA-1017 /SA-1017M 
+TABLE 1 Chemical Requirements 
+Nora I-Where" ... " appears in this table there is no requirement. 
+Element Composition % 
+Grade 23 Grade 911 Grade 122 Grade 92 
+Carbon 
+Heat Analysis 0.04--0.10 0.09--0.13 0.07-0.14 0.07-0.13 
+Product Analysis 0.03-0.1 O 0.08-0.14 0.05-Q.17 0.05-Q.16 
+Manganese 
+Heat Analysis 0.10-0.60 0.30-0.60 
+Product Analysis 0.09-0.66 0.25-0.66 
+Phosphorus, max. 
+Heat Analysis 
+Product Analysis 
+Sulfur, max. 
+0.030 
+0.030 
+0.020 
+0.025 
+0.70 max 
+0.77 max 
+0.020 
+0.025 
+0.30-0.60 
+0.25-Q.66 
+0.020 
+0.025 
+Heat Analysis 0.010 0.010 0.010 0.010 
+Product Analysis 0.012 0.012 0.012 0.012 
+Silicon 
+Heat Analysis 0.50 max 0.10-0.50 0.50 max 0.50 max 
+Product Analysis 0.50 max 0.08-0.56 0.56 max 0.50 max 
+Chromium 
+Heat Analysis 1.90-2.60 8.5-9.5 10.0-11.5 8.5-9.5 
+Product Analysis 1.78-2.72 8.4-9.7 9.9--11.6 8.4-9.6 
+Molybdenum 
+HeatAnalysis 0.05-0.30 0.90-1.10 0.25-0.60 0.30-0.60 
+Product Analysis 0.04--0.35 0.85-1.15 0.20-0.65 0.25-D.65 
+Nickel, max. 
+Heat Analysis 0.40 0.40 0.50 0.40 
+Product Analysis 0.40 0.43 0.54 0.40 
+Vanadium 
+HeatAnalysis 0.20-0.30 0.18-0.25 0.15-0.30 0.15-0.25 
+Product Analysis 0.18-0.33 0.16-0.27 0.13-Q.32 0.13-0.27 
+Columbium (Nio­
+bium)A 
+Heat Analysis 0.02-0.08 0.06-Q.1 O 
+Product Analysis 0.02-0.10 0.05-D.11 
+Boron 
+Heat Analysis 0.0010-0.006 0.0003-0.006 
+Product Analysis 0.0009-0.007 0.0002-0.007 
+Nitrogen 
+Heat Analysis 0.015 
+0.04-Q.10 0.04--0.09 
+0.03-0.11 0.03-0.10 
+0.005 max 0.001-0.006 
+0.006 max 0.0009-0.007 
+max 8 
+0.015 
+max 8 
+0.04-0.09 0.04-0.10 0.030-0.070 
+Product Analysis 
+0.035-0.095 0.03-0.11 0.025-Q.075 
+Aluminum, max. 
+Heat Analysis 0.03c 0.02 0.02 0.02 
+Product Analysis 0.04 c 0.02 0.02 0.02 
+Tungsten 
+HeatAnalysis 1.45-1.75 0.90-1.10 1.50-2.50 1.50-2.00 
+Product Analysis 1.40-1.80 0.85-1.15 1.40-2.60 1.40-2.0 
+Copper 
+Heat Analysis 0.30-1.70 
+Product Analysis 0.20-1.80 
+Titanium, max 
+Heat Analysis 0.005-0.060 8 
+Product Analysis 0.005-0.060 8 
+Zirconium, max 
+Heat Analysis 
+Product Analysis 
+0,01 
+O.o1 
+0,01 
+0,01 
+0,01 
+0.01 
+0.01 
+0,01 
+0.01 
+0,01 
+0.01 
+O.o1 
+A Columbium and niobium are interchangeable names for the same element and 
+both names are acceptable for use in A01 specifications. 
+8 The Ti/N ratio of Grade 23 shall be greater than or equal to 3.5. 
+c Acid Soluble Aluminum. 
+TABLE 2 Tensile Requirements 
+Tensile Strength, ksi 
+[MPa] 
+Yield Strength ksi 
+[MPa], min 
+Elongation in 2 in. 
+or 
+50mm, % min 
+Grade 23 Grade 911 
+74 to 100 90 to 120 
+[510 to 690] [620 to 840] 
+58 
+[400] 
+20 
+64 
+[440] 
+18 
+Grade 122 
+90 
+[620] min 
+58 
+[400] 
+20 
+Grade 92 
+90 to 120 
+[620 to 840] 
+64 
+[440] 
+20 
+5.2 If pennitted by the purchaser, plates for Grades 23, 92, 
+and 122 may be austenitized at 1900 to 1975°F [1040 to 
+1080°C], subjected to accelerated cooling from the austenitiz­
+ing temperature by air blasting or liquid quenching, and then 
+tempered at 1350 to 1470°F [730 to 800°C]. 
+5.3 Plates ordered without the heat treatment required by 
+either 5.1 or 5.2 shall be furnished in either the stress-relieved 
+or annealed condition, and the purchaser shall be responsible 
+for the heat treatment of such plates to conform to either 5.1 or 
+5.2. 
+6. Chemical Composition 
+6.1 The steel shall conform to the requirements for chemical 
+composition given in Table 1. 
+7. Mechanical Properties 
+7 .1 Tension Test: 
+7.1.1 The material as represented by the tension test speci­
+mens shall conform to the applicable requirements given in 
+Table 2. 
+7 .2 Hardness Test: 
+7 .2.1 Grade 23 plates shall have a hardness not exceeding 
+220 HB [97HRB]. 
+7.2.2 Grade 122 plates shall have a hardness not exceeding 
+250 HB [25HRC]. 
+8. Marking 
+8.1 In addition to the marking required in Specification 
+A20/ A20M, each plate shall be legibly stamped or stenciled, 
+dependent upon the ordered thickness, with the letter "N" for 
+normalized and tempered, "Q" for accelerated cooled and 
+tempered, "S" for stress relieved, or "A" for annealed, which­
+ever is applicable. 
+9. Keywords 
+9.1 alloy steel; alloy steel plate; pressure containing parts; 
+pressure vessel steels; steel plates; steel plates for pressure 
+vessels 
+1539 

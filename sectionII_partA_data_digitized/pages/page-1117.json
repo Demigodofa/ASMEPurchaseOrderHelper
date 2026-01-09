@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 319,
+  "globalPageIndex": 1117,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "ASME BPVC.II.A-2025 \nSPECIFICATION FOR ELECTRIC-RESISTANCE-WELDED \nLOW-CARBON STEEL PIPE FOR THE CHEMICAL \nINDUSTRY \nSA-587 \n(Identical with ASTM Specification A587-96(2005) except for the deletion of 1.5.) \n1023 \nSA-587 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-1117.txt",
+  "ocrTextLength": 221,
+  "ocrApplied": true,
+  "bestTextPath": "best_text\\pages\\page-1117.txt",
+  "bestTextSource": "full_ocr_highdpi",
+  "bestTextLength": 203,
+  "bestTextAlphaRatio": 0.68
+}

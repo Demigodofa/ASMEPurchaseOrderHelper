@@ -1,0 +1,426 @@
+[
+  {
+    "rows": [
+      [
+        "Phosphorus, max 0.040",
+        "0.048",
+        "",
+        ""
+      ],
+      [
+        "Sulfur, max 0.050",
+        "0.058",
+        "",
+        "to the minimum tensile load and proof load or alternate proof"
+      ],
+      [
+        "Silicon 0.15-0.30",
+        "0.13-0.32",
+        "",
+        "load specified in Tables 4 and 5. Sizes 1.00 in. and smaller"
+      ],
+      [
+        "Boron Steel",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Element",
+        "",
+        "",
+        "having a length shorter than 2D which cannot be axially tensile"
+      ],
+      [
+        "Heat Analysis Product Analysis",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Carbon 0.30-0.52",
+        "0.28-0.55",
+        "",
+        "tested shall be qualified on the basis of hardness."
+      ],
+      [
+        "Manganese, min 0.60",
+        "0.57",
+        "",
+        "7.2.4 Studs 3D and longer shall be axially tension tested full"
+      ],
+      [
+        "Phosphorus, max 0.040",
+        "0.048",
+        "",
+        "size and shall conform to the tensile and proof load or alternate"
+      ],
+      [
+        "Sulfur, max 0.050",
+        "0.058",
+        "",
+        ""
+      ],
+      [
+        "Silicon 0.10-0.30",
+        "0.08-0.32",
+        "",
+        "proof load specified in Table 4 and Table 5, as applicable."
+      ],
+      [
+        "Boron 0.0005-0.003 0.0005-0.003",
+        "",
+        "",
+        "When equipment for full size testing is not available, or when"
+      ],
+      [
+        "Alloy Steel",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Element",
+        "",
+        "",
+        "the studs are too long for full size testing, machined specimens"
+      ],
+      [
+        "Heat Analysis Product Analysis",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Carbon 0.30-0.52",
+        "0.28-0.55",
+        "",
+        "shall be tested and shall conform to the tensile requirements in"
+      ],
+      [
+        "Manganese, min 0.60",
+        "0.57",
+        "",
+        "Table 6."
+      ],
+      [
+        "Phosphorus, max 0.035",
+        "0.040",
+        "",
+        "7 .2.5 If fasteners are subjected to both hardness and tensile"
+      ],
+      [
+        "Sulfur, max 0.040",
+        "0.045",
+        "",
+        ""
+      ],
+      [
+        "Silicon 0.15-0.35",
+        "0.13-0.37",
+        "",
+        "tests, the tensile test results shall take precedence in the event"
+      ],
+      [
+        "Alloying Elements A",
+        "A",
+        "",
+        "of low hardness test results."
+      ],
+      [
+        "Alloy Boron Steel",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Element",
+        "",
+        "",
+        "7.2.6 If fasteners are subjected to both full size and ma\u00ad"
+      ],
+      [
+        "Heat Analysis Product Analysis",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Carbon 0.30-0.52",
+        "0.28-0.55",
+        "",
+        "chined specimen tests, the full size test results shall take"
+      ],
+      [
+        "Manganese, min 0.60",
+        "0.57",
+        "",
+        "precedence if the results of the two methods differ."
+      ],
+      [
+        "Phosphorus, max 0.035",
+        "0.040",
+        "",
+        ""
+      ],
+      [
+        "Sulfur, max 0.040",
+        "0.045",
+        "",
+        "8. Dimensions"
+      ],
+      [
+        "Silicon 0.15-0.35",
+        "0.13-0.37",
+        "",
+        ""
+      ],
+      [
+        "Boron 0.0005-0.003 0.0005-0.003",
+        "",
+        "",
+        "8.1 Head and Body:"
+      ],
+      [
+        "Alloying Elements A",
+        "A",
+        "",
+        "8.1.1 Hex Cap Screws-Unless otherwise specified, hex cap"
+      ],
+      [
+        "A Steel, as defined by the American Iron and Steel Institute, shall be considered to",
+        "",
+        "",
+        "screws shall be furnished with dimensions conforming to"
+      ],
+      [
+        "be alloy when the maximum of the range given for the content of alloying elements",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "ASME Bl8.2.l."
+      ],
+      [
+        "exceeds one or more of the following limits: manganese, 1.65 %; silicon, 0.60 %;",
+        "",
+        "",
+        ""
+      ],
+      [
+        "copper, 0.60 % or in which a definite range or a definite minimum quantity of any",
+        "",
+        "",
+        "8.1.2 Bolts-When styles other than specified in 8.1.1 are"
+      ],
+      [
+        "of the following elements is specified or required within the limits of the recognized",
+        "",
+        "",
+        "required, they shall have dimensions conforming to those"
+      ],
+      [
+        "field of constructional alloy steels: aluminum, chromium up to 3.99 %,",
+        "cobalt,",
+        "",
+        ""
+      ],
+      [
+        "specified by the purchaser. columbium, molybdenum, nickel, titanium, tungsten, vanadium, zirconium, or any",
+        "",
+        "",
+        ""
+      ],
+      [
+        "other alloying elements added to obtain a desired alloying effect.",
+        "",
+        "",
+        "8.1.3 Studs-Studs shall have dimensions conforming to"
+      ],
+      [
+        "",
+        "",
+        "",
+        "those specified by the purchaser."
+      ],
+      [
+        "",
+        "",
+        "",
+        "8.2 Threads:"
+      ],
+      [
+        "7. Mechanical Properties",
+        "",
+        "",
+        "8.2.1 Uncoated-Unless otherwise specified, uncoated"
+      ],
+      [
+        "7.1 Hardness-The fasteners shall conform to the hardness",
+        "",
+        "",
+        "threads shall be the Unified Coarse Thread Series as specified"
+      ],
+      [
+        "specified in Table 3. See Table 3, Note A.",
+        "",
+        "",
+        "in the latest issue of ASME Bl.I, and shall have Class 2A"
+      ],
+      [
+        "",
+        "",
+        "",
+        "tolerances."
+      ],
+      [
+        "7.2 Tensile Properties:",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "8.2.2 Coated-Unless otherwise specified, zinc-coated"
+      ],
+      [
+        "7.2.1 Except as permitted in 7.2.2 for long fasteners and",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "bolts, to be used with zinc-coated nuts or tapped holes, which"
+      ],
+      [
+        "7.2.3 for short fasteners, hex cap screws and hex and square",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "are tapped oversize in accordance with Specification A563,"
+      ],
+      [
+        "head bolts in sizes 1.00 in. and smaller having a length of 21\u20444",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "shall have UNC Class 2A threads before hot-dip or mechani\u00ad"
+      ],
+      [
+        "D and longer and sizes 11/s to 11\u20442  in. inclusive having a length",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "cally deposited zinc-coating. After zinc coating, the pitch"
+      ],
+      [
+        "of 3D and longer shall be wedge tested full size. Bolts with",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "diameter and major diameter shall not exceed the Class 2A"
+      ],
+      [
+        "heads other than hex or square shall be axially tested.",
+        "Both",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "limits by more than the following amounts:"
+      ],
+      [
+        "wedge and axially tested hex cap screws and",
+        "bolts shall",
+        "",
+        ""
+      ],
+      [
+        "Oversize Limit, in.A conform to the proof load or alternative proof load,",
+        "and",
+        "",
+        "Nominal Diameter, in."
+      ],
+      [
+        "",
+        "",
+        "",
+        "Hot-Dip Zinc Mechanical Zinc"
+      ],
+      [
+        "minimum wedge tensile load in Tables 4 and 5, as applicable.",
+        "",
+        "",
+        "1\u20444 0.016 0.012"
+      ],
+      [
+        "The load applied during proof load testing shall be equal to or",
+        "",
+        "",
+        "S/15, 3/s 0.017 0.012"
+      ],
+      [
+        "0.012 greater than the proof load in Table 4 or Table 5 as applicable.",
+        "",
+        "",
+        "7/16, 1\u20442 0.018"
+      ],
+      [
+        "",
+        "",
+        "",
+        "9/16, 5/a,3\u20444 0.020 0.013"
+      ],
+      [
+        "7.2.2 Hex cap screws and square head bolts larger than 11\u20442",
+        "",
+        "",
+        "7/a 0.022 0.015"
+      ],
+      [
+        "in. diameter, other than those excepted in 7 .2.3, shall preferably",
+        "",
+        "",
+        "1.0to 11\u20444 0.024 0.016"
+      ],
+      [
+        "",
+        "",
+        "",
+        "1%,11\u20442 0.027 0.018"
+      ]
+    ]
+  }
+]

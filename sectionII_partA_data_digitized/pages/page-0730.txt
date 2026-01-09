@@ -1,0 +1,163 @@
+SA-403/SA-403M ASME BPVC.II.A-2025 
+(pipe, tube, plate, bar, and forgings) normally used in the 
+manufacturing of fittings to this specification. Methods and 
+practices relating to chemical analyses required by this speci­
+fication shall be in accordance with Test Methods, Practices, 
+and Terminology A751. Product analysis tolerances in accor­
+dance with Specification A960/A960M are applicable. 
+7 .2 The steel shall not contain any unspecified elements for 
+the ordered grade to the extent that it conforms to the 
+requirements of another grade for which that element is a 
+specified element having a required minimum content. 
+7.3 In fittings of welded construction, the alloy content 
+(carbon, chromium, nickel, molybdenum, niobium 
+(columbium), and tantalum) of the deposited weld metal shall 
+conform to that required of the base metal or for equivalent 
+weld metal as given in the AWS filler metal specification A 5.4 
+or A 5.9 (Type 348 weld metal is listed in AWS A 5.9 but not 
+in AWS A 5.4). Exceptions are when welding on Types 304L 
+and 304 base metals, the deposited weld metal shall 
+correspond, respectively, to AWS E308L (ER308L) and E308 
+(ER308). When welding 3 lOS or 310H, the weld metal shall 
+correspond to A WS ER310 unless otherwise advised by the 
+purchaser at the time of placement on the purchase order. When 
+welding on Type 321 base metal, the weld metal shall 
+correspond to AWS Type E347 (ER347 or ER321); and, when 
+welding on S31725, S31726, S31254, S31266, or S33228 
+deposited weld metal shall correspond either to the alloy 
+content of the base metal or to AWS AS .11 E NiCrMo-3 (UNS 
+W86112) (AWS AS.14 Ni Cr Mo-3 (UNS N06625)), and when 
+welding on S3 l 730, deposited weld metal and filler metal used 
+shall cmTespond either to the alloy content of the base metal or 
+to AWS AS.14 ERNiCr-3 (UNS N06082), or ERNiCrMo-3 
+(UNS N06625), or ERNiCrMo-4 (UNS N10276). On S38815 
+base metals, the deposited weld metal and filler metal used 
+shall be agreed upon between purchaser and manufacturer. In 
+fittings of welded construction made from predominantly 
+fe1rnus alloys N08020, N08367, N08700, N08800, N08810, 
+N08811, N08904, N08925 & N08926, the alloy content of the 
+deposited weld metal shall conform to that required of the base 
+metal or for the equivalent weld metal given in the AWS Filler 
+Metal Specification AS.11 and AS.14. However, it is possible 
+that weld deposit chemistry will not meet the limits of either 
+the base metal or the filler metal for some elements. The weld 
+deposit chemistry shall meet the lowest minimum and highest 
+maximum values for each specification element in either of the 
+base metal or filler metal specification. Dilution of the base and 
+filler metal must be considered when determining weld deposit 
+criteria for over-alloyed filler metals. 
+7.3.1 Supplementary Requirement SI may be specified 
+where 16-8-2 filler metal is required for joining thick sections 
+of Types 316, 321, or 347 and has adequate corrosion resis­
+tance for the intended service. 
+8. Tensile Properties 
+8.1 The tensile properties of the fitting material shall con­
+form to the requirements of Table 5. The testing and reporting 
+shall be performed in accordance with Specification A960/ 
+A960M. 
+TABLE 5 Tensile Requirements 
+All WP and CR Grades Yield Strength, min, 
+ksi [MPa] 
+304, 304LN, 304H, 309, 
+310S,310H, 316,316LN, 
+316H, 
+317, 317L, 321, 321H, 
+347, 347H, 347LN, 348, 
+348H 
+S31266 
+S31725 
+S31727 
+S31730 
+S32053 
+304L, 316L 
+304N, 316N, S31726 
+XM-19 
+N08020 
+N08367 
+N08700 
+N08800 
+N08810 
+N08811 
+N08904 
+N08925 
+N08926 
+S31254 
+S33228 
+S34565 
+S38815 
+30 [205] 
+61 [420] 
+36 [245] 
+25 [175] 
+43 [295] 
+25 [170] 
+35 [240] 
+55 [380] 
+35 [240] 
+45 [310] 
+35[240] 
+25 [205] 
+25 [170] 
+25 [170] 
+31 [220] 
+43[295] 
+43 [295] 
+44 [300] 
+27 [185] 
+60 [415] 
+37 [255] 
+Elongation Requirements 
+Standard round specimen, or small 
+proportional specimen, or 
+strip-type specimen, minimum % 
+in 4 fY' 
+A S38815 Elongation in 2 in. - 30 % min. 
+Longitudinal 
+28 
+Tensile Strength, min, 
+ksi [MPa] 
+75 [515] 
+109 [750] 
+80 [550] 
+70 [480] 
+93 [640] 
+70 [485] 
+80 [550] 
+100 [690] 
+80 [550] 
+95 [655] 
+80[550] 
+65 [520] 
+65 [450] 
+65 [450] 
+71 [490] 
+87 [600] 
+94 [650] 
+94 [650] to 119 [820] 
+73 [500] 
+115 [795] 
+78 [540] 
+Transverse 
+20 
+8.1.1 Specimens cut either longitudinally or transversely 
+shall be acceptable for the tensile test. 
+8.1.2 While Table 5 specifies elongation requirements for 
+both longitudinal and transverse specimens, it is not the intent 
+that both requirements apply simultaneously. Instead, it is 
+intended that only the elongation requirement that is appropri­
+ate for tl1e specimen used be applicable. 
+8.2 Records of the tension test made on the starting material 
+shall be certification that the material of the fitting meets the 
+requirements of this specification provided that heat treatments 
+are the same. 
+8.3 If the raw material was not tested, or if the heat 
+treatment of the raw material was different than the heat 
+treatment of the fitting, the fitting manufacturer shall perform 
+at least one tension test per heat on material representative of 
+the fitting, and in the same condition of heat treatment as the 
+fitting it represents. Qualification of welding procedures shall 
+be in accordance with 5.8. 
+8.4 If a tension test through the weld is desired, Supplemen­
+tary Requirement S51 in Specification A960/A960M should be 
+specified. 
+680 

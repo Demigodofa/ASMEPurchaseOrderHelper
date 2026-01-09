@@ -1,0 +1,110 @@
+SA-788/SA-788M ASME BPVC.II.A-2025 
+8.5 Residual and Unspecified Elements-Provisions for the 
+limitation of certain residual and unspecified elements have 
+been made in Supplementary Requirements Sl and S2, respec­
+tively. 
+8.6 Grade substitution is not permitted. 
+8.7 Method of Analysis-Methods included in Test 
+Methods, Practices, and Terminology A751 shall be used for 
+referee purposes. 
+9. Heat Treatment 
+9.1 Heat treatment shall be performed as specified in the 
+product specification. Supplementary Requirement S4 con­
+cerns a specialized heat treat process (see 3.5.3) whose 
+application will be controlled in the product specification. 
+Unless otherwise specified during a heat treating hold cycle, 
+the recorded furnace temperature shall be within ±25°F 
+[± 15°C) of the controlling set point temperature. Material 
+shall be heat treated in the working zone of a furnace that has 
+been surveyed in accordance with Test Method A991/A991M 
+provided that the working zone was established using a 
+variation of ±25°F [± 15°C] or less from the furnace set point. 
+10. Mechanical Testing 
+10.1 Test Methods-Except as specified in 4.1.5 or 10.2.1 
+and 10.2.2, all tests shall be conducted in accordance with Test 
+Methods and Definitions A37O. When forgings are ordered to 
+SI requirements (M suffix standard) Test Methods A1058 shall 
+be used (see 4.1.5). 
+10.1.1 In addition to the hardness testing provisions of Test 
+Methods and Definitions A37O or, when required, Test Meth­
+ods Al058, comparison hardness testing in accordance with 
+Practice A833 may be used in determining the hardness of 
+forgings. 
+10.2 Fracture Appearance Transition Temperature 
+( FAIT ,J-For a product specification (including M suffix SI 
+specifications) that requires the determination of the fracture 
+appearance transition temperature (FATT 0 ) where n is the 
+required minimum percentage of shear fracture as measured on 
+the fracture surface of a Charpy V-notch sample by one of the 
+methods described in Test Methods and Definitions A37O, the 
+Charpy test specimen location and orientation shall be as 
+specified in the product standard. 
+10.2.1 When the actual fracture appearance transition tem­
+perature is required, break at least four specimens that have 
+been taken from a comparable location. Test each specimen at 
+a different temperature such that the percentage of shear 
+fracture will be both above and below the value of n, but within 
+a range of ±0.60 times that of the specified value of n. It is 
+desirable that two of the specimens will have values of 
+cleavage fracture above the value of n, and two will have 
+values below this level. Plot the percentage shear fracture 
+against test temperature and determine the transition tempera­
+ture by interpolation (extrapolation is not permitted). 
+10.2.2 When rather than calling for an actual FATTn as 
+described in 10.2.1, the product specification requires a mini­
+mum PATT n at a given temperature then, unless otherwise 
+specified, a single test run at the required temperature satisfies 
+the requirement provided that the fracture appearance value is 
+at least n. For example, a single test run at 10O°F [38°C] with 
+a fracture appearance of 55 % shear fracture satisfies a require­
+ment of FATT 50 at 10O°F [38°C]. 
+10.3 Retests-If the results of the tests do not conform to the 
+requirements specified, retests are permitted as outlined in Test 
+Methods and Definitions A37O or as follows: 
+10.3.1 If the percentage of elongation or reduction of area of 
+any tension test specimen is less than specified because a flaw 
+becomes evident in the test specimen during testing, a retest 
+shall be allowed provided that the defect was not attributable to 
+ruptures, cracks, or flakes in the steel. 
+10.3.2 If the average impact energy value meets the speci­
+fication requirements, but the energy value for one specimen is 
+below the specified minimum value for individual specimens 
+prescribed in the material specification, a retest is permitted. 
+This shall consist of two impact specimens from a location 
+adjacent to and on either side of the specimen that failed. Each 
+of the retested specimens must exhibit an energy value equal to 
+or greater than the minimum average value required by the 
+product specification. 
+11. Reheat Treatment 
+11.1 If the results of the initial mechanical tests do not 
+conform to the specified requirements, the forgings may be 
+heat treated (if initially tested in the as-forged condition) or 
+reheat treated (if heat treated prior to initial testing). 
+12. Repair Welding 
+12.1 Repair welding of forgings is not permitted unless 
+specifically allowed by the product specification (see also 
+4.2.4). 
+13. Dimensions and Finish 
+13.1 The forgings shall conform to the dimensions, 
+tolerances, and finishes required by the ordering information 
+(4.1.2). Supplementary Requirements S5 or S6, concerning 
+straightening of forgings, may be used. 
+13.2 When surface finish, roughness, or texture is specified 
+in a steel forging product standard, unless otherwise required 
+by the purchaser, the roughness average (Ra), as defined in 
+ANSI/ASME B46.1, shall be used (see 4.1.2). 
+14. Inspection 
+14.1 The manufacturer is responsible for the performance of 
+all inspection and test requirements specified. The absence of 
+any inspection requirements in the specification shall not 
+relieve the contractor of the responsibility for ensuring that all 
+products comply with all requirements of the contract. The 
+manufacturer may use his own or any other suitable facilities 
+for the performance of the inspection and test requirements 
+unless disapproved by the purchaser at the time the order is 
+placed. 
+14.2 The manufacturer shall afford the purchaser's inspector 
+all reasonable facilities necessary to satisfy him that the 
+material is being produced and furnished in accordance with 
+the material specification. 
+1278 

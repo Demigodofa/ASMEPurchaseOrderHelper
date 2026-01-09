@@ -1,0 +1,104 @@
+ASME BPVC.II.A-2025 
+100°F (50°C) above the maximum intended service tem­
+perature for which allowable stresses for the base mate­
+rial are requested. 
+(-c) at a minimum of four stresses calculated to 
+produce rupture times of at least 1,000 hr and with one 
+test exceeding 10,000 hr. 
+(-d) the test temperature; stress; rupture time; 
+specimen size and configuration, including weld location; 
+and failure location (base metal, weld metal, or heat af­
+fected zone), for all test samples. 
+(-e] the creep-rupture data shall be compared to 
+the scatter bands of data for the base metal. For the eva­
+luation of creep strength enhanced ferritic (CSEF) steels, a 
+preference shall be placed on cross-weld test specimens 
+with large cross-sectional area or vessel tests or other 
+feature-type tests. The extent of testing described in 
+IV-1500 may be reduced in lieu of feature-type tests. 
+(-f] post-test metallographic evaluation shall be 
+performed on at least three actual test specimens includ­
+ing the longest-duration test samples at the time of sub­
+mission. The assessment shall be limited to a test 
+temperature not higher than the maximum intended use 
+temperature and not lower than the temperature transi­
+tion to time-dependent behavior. The assessment shall in­
+clude macro-images to document the overall appearance 
+(oxidation, necking, intergranular fracture, etc.), as well 
+as micro-images to document the nature and extent of ca­
+vitation damage. 
+IV-1600 LONG-TERM PROPERTIES 
+STABILITY 
+For new materials, and particularly for those whose 
+creep-rupture properties are affected by heat treatment 
+or deformation processes or a combination of these, it 
+is important to know the structural stability characteris­
+tics and the degree of retention of properties with long­
+term exposure at temperature. Where particular tem­
+perature ranges of service exposure or fabrication heat 
+treatment, cooling rates, and combination of mechanical 
+working and thermal treatments cause significant 
+changes in the microstructure on which the 
+creep-rupture properties depend, these shall be brought 
+to the attention of the BPV Committee. 
+IV-1700 REQUESTS FOR ADDITIONAL DATA 
+The Committee may request additional data, including 
+data on properties or material behavior not explicitly 
+treated in the Construction Code for which approval is 
+desired. 
+IV-1800 NEW MATERIALS CHECKLIST 
+To assist inquirers desiring Code coverage for new ma­
+terials, or extending coverage of existing materials, the 
+Committee has developed the following checklist of items 
+that ought to be addressed in each inquiry. While taking 
+into account the intended application of the product, the 
+Committee may require specific information from the 
+inquirer, as shown above for certain material 
+characteristics. 
+(a) Has a qualified inquirer request been provided? 
+(b J Has a request either for revision to existing Code re­
+quirements or for a Code Case been defined? 
+(c) Has a letter to ASTM or AWS been submitted re­
+questing coverage of the new material in a specification? 
+Alternatively, is this material already covered by a speci­
+fication issued by a recognized national or international 
+organization and has an English language version been 
+provided? 
+( d} Has the Construction Code and, if applicable, a Divi­
+sion, Subsection, or Part been identified? 
+(e] Have product forms, size range, and the applicable 
+specification( s) been defined? 
+(f) Has the range (maximum/minimum) of tempera­
+ture application been defined? 
+(g) Has the chemistry been submitted and the related 
+requirements been addressed? 
+(h) Have the metallurgical structure and heat treatment 
+requirements been submitted? 
+(i) Have mechanical property data been submitted (ul­
+timate tensile strength, yield strength, reduction of area, 
+and elongation at 100°F (50°C) intervals, from room tem­
+perature to 100°F (50°C) above the maximum intended 
+use temperature, for three heats of appropriate product 
+forms and sizes? 
+(j) if requested temperatures of coverage are above 
+those at which time-dependent properties begin to gov­
+ern design values, have appropriate time-dependent 
+property data for base metal and weldments been 
+submitted? 
+(k) if higher allowable stresses for material to be used 
+below room temperature are requested, have appropriate 
+mechanical property data below room temperature been 
+submitted? 
+(I) Have toughness considerations required by the 
+Construction Code been defined and have appropriate 
+data been submitted? 
+(m) Have stress-strain curves been submitted for the 
+establishment of External Pressure Charts? 
+(n) if cyclic service considerations are required by the 
+requested Construction Code application, have appropri­
+ate fatigue data been submitted? 
+( o) Have physical properties data ( coefficient of ther­
+mal expansion, thermal conductivity and diffusivity, mod­
+ulus of elasticity, Poisson's ratio, and density) been 
+submitted? 
+1633 

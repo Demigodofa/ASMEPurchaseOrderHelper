@@ -1,0 +1,146 @@
+{
+  "createdUtc": "2026-01-07T17:51:54.009299+00:00",
+  "pagesProcessed": 20,
+  "topPages": [
+    {
+      "globalPageIndex": 1015,
+      "gapCount": 53,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 217,
+      "gapOcrHighDpiPath": "gap_ocr_highdpi/page-1015.txt"
+    },
+    {
+      "globalPageIndex": 863,
+      "gapCount": 8,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 65,
+      "gapOcrHighDpiPath": "gap_ocr_highdpi/page-0863.txt"
+    },
+    {
+      "globalPageIndex": 1084,
+      "gapCount": 6,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 286,
+      "gapOcrHighDpiPath": "gap_ocr_highdpi/page-1084.txt"
+    },
+    {
+      "globalPageIndex": 1090,
+      "gapCount": 6,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 292,
+      "gapOcrHighDpiPath": "gap_ocr_highdpi/page-1090.txt"
+    },
+    {
+      "globalPageIndex": 192,
+      "gapCount": 5,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 192,
+      "gapOcrHighDpiPath": "gap_ocr_highdpi/page-0192.txt"
+    },
+    {
+      "globalPageIndex": 250,
+      "gapCount": 5,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 250,
+      "gapOcrHighDpiPath": "gap_ocr_highdpi/page-0250.txt"
+    },
+    {
+      "globalPageIndex": 989,
+      "gapCount": 5,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 191,
+      "gapOcrHighDpiPath": "gap_ocr_highdpi/page-0989.txt"
+    },
+    {
+      "globalPageIndex": 1087,
+      "gapCount": 5,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 289,
+      "gapOcrHighDpiPath": "gap_ocr_highdpi/page-1087.txt"
+    },
+    {
+      "globalPageIndex": 349,
+      "gapCount": 4,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 349,
+      "gapOcrHighDpiPath": "gap_ocr_highdpi/page-0349.txt"
+    },
+    {
+      "globalPageIndex": 523,
+      "gapCount": 4,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 523,
+      "gapOcrHighDpiPath": "gap_ocr_highdpi/page-0523.txt"
+    },
+    {
+      "globalPageIndex": 1037,
+      "gapCount": 4,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 239,
+      "gapOcrHighDpiPath": "gap_ocr_highdpi/page-1037.txt"
+    },
+    {
+      "globalPageIndex": 1041,
+      "gapCount": 4,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 243,
+      "gapOcrHighDpiPath": "gap_ocr_highdpi/page-1041.txt"
+    },
+    {
+      "globalPageIndex": 1046,
+      "gapCount": 4,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 248,
+      "gapOcrHighDpiPath": "gap_ocr_highdpi/page-1046.txt"
+    },
+    {
+      "globalPageIndex": 1143,
+      "gapCount": 4,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 345,
+      "gapOcrHighDpiPath": "gap_ocr_highdpi/page-1143.txt"
+    },
+    {
+      "globalPageIndex": 1165,
+      "gapCount": 4,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 367,
+      "gapOcrHighDpiPath": "gap_ocr_highdpi/page-1165.txt"
+    },
+    {
+      "globalPageIndex": 1273,
+      "gapCount": 4,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 475,
+      "gapOcrHighDpiPath": "gap_ocr_highdpi/page-1273.txt"
+    },
+    {
+      "globalPageIndex": 1277,
+      "gapCount": 4,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 479,
+      "gapOcrHighDpiPath": "gap_ocr_highdpi/page-1277.txt"
+    },
+    {
+      "globalPageIndex": 1305,
+      "gapCount": 4,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 507,
+      "gapOcrHighDpiPath": "gap_ocr_highdpi/page-1305.txt"
+    },
+    {
+      "globalPageIndex": 1415,
+      "gapCount": 4,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 617,
+      "gapOcrHighDpiPath": "gap_ocr_highdpi/page-1415.txt"
+    },
+    {
+      "globalPageIndex": 1610,
+      "gapCount": 4,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 812,
+      "gapOcrHighDpiPath": "gap_ocr_highdpi/page-1610.txt"
+    }
+  ]
+}

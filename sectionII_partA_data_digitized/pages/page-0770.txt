@@ -1,0 +1,58 @@
+SA-437 /SA-437M ASME BPVC.II.A-2025 
+TABLE 3 Impact Requirements 
+Grade 
+B4B 
+B4C 
+B4DA 
+Minimum Impact Value, ft-lbf [J] 
+10 [14] 
+25 [34] 
+25 [34] 
+A For bars over 5-in. [127-mm] diameter only. 
+TABLE 4 Hardness Requirements for Bolts and Studs 
+Grade 
+B4B 
+B4C 
+B4D 
+14. Product Marking 
+Brinell Hardness Number, 
+max 
+331 
+277 
+302 
+14.1 Use the grade symbol shown in Table 4. See Specifi­
+cation A962/A962M. 
+TABLE 5 Hardness Requirements for Nuts and Washers 
+Grade Brinell Hardness Rockwell 
+Number Hardness 
+Number 
+B4B 293-341 C 31-37 
+B4C 229-277 C 21-29 
+B4D 263-311 C 27-33 
+15. Keywords 
+15.1 bolts-steel; chromium alloy steel; bolting 
+components-steel; marking on bolting components; nuts­
+steel; stainless steel; steel bars-alloy; steel bolting material; 
+temperature service applications-high; turbine materials 
+SUPPLEMENTARY REQUIREMENTS 
+One or more of the following supplementary requirements shall be applied only when specified by 
+the purchaser in the inquiry, contract, or order; in which event the specified tests shall be made before 
+shipment of the product. 
+Sl. Non-Destructive Examination 
+S 1.1 NDE is required following all machining and thread­
+ing. The acceptance criteria of 12.1 shall apply. 
+S2. Stress Rupture Testing-Grade B4B 
+S2.1 Stress rupture testing shall be conducted at 1200 °F 
+[650 °C] and 26 000 psi [180 MPa] using a combination test 
+bar in accordance with Test Methods E292. Rupture shall occur 
+in the smooth section of each test specimen. The test may be 
+720 
+discontinued after 25 h provided the certification so notes. · 
+Stress rupture testing is not required on bars less than ½ in. 
+[12.7 mm] in diameter or thickness. 
+S3. Grain Size-Grades B4B and B4C 
+S3.l The average grain size shall be 4 or finer. The 
+maximum size of individual grains, distributed at random, shall 
+be a 2. When the average grain size is 5 or finer, only the 
+average size need be reported. Grain size determination shall 
+be performed in accordance with Test Methods El12. 

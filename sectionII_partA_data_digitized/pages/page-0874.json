@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 76,
+  "globalPageIndex": 874,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "SA-476/SA-476M ASME BPVC.II.A-2O25 \nTABLE 3 TABLE 4 \nMINIMUM THICKNESS OF REPAIRED SECTIONS MINIMUM RADIUS OF REPAIRED SECTIONS \nIron Pipe Size Plug, in. \n[ISO Pipe Plug Size] \nMinimum Section \nThickness; in. [mm] \nIron Pipe Size Plug, in. \n[ISO Pipe Plug Size] \nMinimum Radius of Curvature, \nin. [mm] \n1/srn1/sJ \n1 /4 [R1/4] \n3/s[R3/sJ \n\u00bd [Rl/2) \n%rn%J \n1 [Rl) \n1 1/4 [Rl 1 /4) \n1 1/2 [Rl 1 /2J \n2 [R2J \nAdjacent Plug Diameters, in. \n[ISO Pipe Plug Size] \n1/s [R1/sJ, \u00bc [R 1 /4], 3/s [R3/s] \n\u00bd rn\u00bdJ, % rn%J \n1 [Rl], 1 1/4 [Rl 1/4] \n1 1 /2 [Rl 1 /2J, 2 [R2] \n1 \u00bd2 [8] \n7 /16 [l0J \n\u00bd[13) \n21/32 [17] \n% [19) \n13 /16 [21) \n7/a [23) \n15;16 [24) \n1 [26) \nTABLE 5 \n11s rn1/aJ \n\u00bcrn\u00bcJ \n%rn%J \n\u00bd [Rl/2) \n%rn%J \n1 [Rl] \n1\u00bc rn1\u00bcJ \n1\u00bd [Rll/2) \n2 [R2] \nMINIMUM DISTANCE BETWEEN PLUG CENTERS \n(Based on Ligament Efficiency of 80%)A \n2% [67) \n41/s [105) \n65/a [169) \n9 1/2 [242) \nMinimum Distance Between Plug Centers, in. [mm] \n41/s [105) \n41/a [105) \n65/a [169) \n9 1 /2 [242) \n65/a [169) \n65/a [169) \n65/a [169) \n9\u00bd [242) \n9 /16 [15) \n11 /16 [18) \n1 1 /16 [28) \n1 1/4 [32) \n2 [52) \n2 1 /2 [64) \n4 [104) \n5\u00bc n36J \n81/s [208) \n9\u00bd [242) \n9 1/2 [242) \n9 1 /2 [242) \n9\u00bd [242) \nA Example - Assume three plugs are required for repair, one \u00bd in. rn\u00bdJ, one\u00be in. rn\u00beJ, and one 1 \u00bd in. The minimum distance permitted \nis as follows. \nLigament distance between \u00bd rn\u00bdJ and\u00be in. rn\u00beJ plugs = 25/a in. [67 mmJ \nLigament distance between \u00bd [R\u00bdJ and 1 \u00bd in. [Rl \u00bdJ plugs = 9\u00bd in. [242 mmJ \nLigament distance between \u00be rn\u00beJ and 1 \u00bd in. [Rl \u00bdJ plugs = 9\u00bd in. [242 mmJ \n772 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0874.json",
+  "tabulaTablesCsv": "tables_tabula/page-0874.csv",
+  "tabulaTableCount": 2,
+  "bestTextPath": "best_text/pages/page-0874.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1542,
+  "bestTextAlphaRatio": 0.439
+}

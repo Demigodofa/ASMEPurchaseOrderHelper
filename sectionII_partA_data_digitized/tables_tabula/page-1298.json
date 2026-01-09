@@ -1,0 +1,132 @@
+[
+  {
+    "rows": [
+      [
+        "",
+        "of Specified",
+        "Minimum",
+        "Maximum",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Element",
+        "Element,%",
+        "Limit",
+        "Limit",
+        "Camber tolerances",
+        "8",
+        "Al.6"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "Crown tolerances",
+        "5",
+        "Al.3"
+      ],
+      [
+        "Carbon",
+        "to 0.15, incl",
+        "0.02",
+        "0.03",
+        "Flatness tolerances",
+        "9",
+        "Al.7"
+      ],
+      [
+        "",
+        "over 0.15 to 0.40, incl",
+        "0.03",
+        "0.04",
+        "Length tolerances",
+        "7",
+        "Al.5"
+      ],
+      [
+        "",
+        "over 0.40 to 0.80, incl",
+        "0.03",
+        "0.05",
+        "Thickness tolerances",
+        "3, 4",
+        "Al.I, Al.2"
+      ],
+      [
+        "",
+        "over 0.80",
+        "0.03",
+        "0.06",
+        "Width tolerances",
+        "6",
+        "Al.4"
+      ],
+      [
+        "Manganese",
+        "to 0.60, incl",
+        "0.03",
+        "0.03",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "over 0.60 to 1.15, incl",
+        "0.04",
+        "0.04",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "over 1.15 to 1.65, incl",
+        "0.05",
+        "0.05",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Phosphorus",
+        "",
+        "",
+        "0.01",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Sulfur",
+        "",
+        "",
+        "0.01",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Silicon",
+        "to 0.30, incl",
+        "0.02",
+        "0.03",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "over 0.30 to 0.60, incl",
+        "0.05",
+        "0.05",
+        "",
+        "",
+        ""
+      ]
+    ]
+  }
+]

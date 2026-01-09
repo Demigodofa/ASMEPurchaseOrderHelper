@@ -1,0 +1,74 @@
+SA-540/SA-540M ASME BPVC.II.A-2025 
+TABLE 2 Mechanical Property Requirements 
+/---~-
+Norn 1-The minimum average of 3 specimens shall not be less than 35 ft-lbf [47 J]. One specimen from a set of 3 may be less than 35 ft-lbf [47 
+J] but not less than 30 ft-lbf [41 J]. 
+NOTE 2-The minimum average of 3 specimens shall not be less than 30 ft-lbf [41 J]. One specimen from a set of 3 may be less than 30 ft-lbf [41 
+J] but not less than 25 ft-lbf [34 J]. 
+Norn 3-The minimum average of 3 specimens shall not be less than 25 ft-lbf [34 J]. One specimen from a set of 3 may be less than 25 ft-lbf [34 
+J] but not less than 20 ft-lbf [27 J]. 
+Norn 4-No minimum values established. Tests shall be run for information only. 
+Grade Class Diameter Tensile Yield Elonga- Reduc- Surface Charpy 
+Strength, Strength, !ion, tion of 8rinell V-Notch 
+min 0.2% mini% Area, Hardness +10 °F 
+offset, min,% 
+min min max [-12.2 °c1 
+Inch-Pound Units 
+in. ksi ksi In 2 in. 
+B21 5 to 2, incl 120 105 15 50 241 285 Note4 
+(Cr-Mo-V) over 2 to 6, incl 115 100 15 50 248 302 Note4 
+over 6 to 8, incl 115 100 15 50 255 311 Note4 
+4 to 3, incl 135 120 13 45 269 331 Note4 
+over 3 to 6, incl 135 120 13 45 277 352 Note4 
+3 to 3, incl 145 130 12 40 293 352 Note 4 
+over 3 to 6, incl 145 130 12 40 302 375 Note 4 
+2 to 4, Incl 155 140 11 40 311 401 Note4 
+1 to 4, Incl 165 150 10 35 321 429 Note 4 
+822 5 to 2, incl 120 105 15 50 248 293 Note 1 
+(4142-H) over 2 to 4, incl 115 100 15 50 255 302 Note4 
+4 to 1, Incl 135 120 13 45 269 341 Note 1 
+over 1 to 4, Incl 135 120 13 45 277 363 Note4 
+3 to 2, incl 145 130 12 40 293 363 Note 4 
+over 2 to 4, incl 145 130 12 40 302 375 Note4 
+2 to 3, incl 155 140 11 40 311 401 Note4 
+1 to 1½, incl 165 150 10 35 321 401 Note4 
+823 5 to 6, incl 120 105 15 50 248 311 Note 1 
+(E-4340-H) over 6 to 8, incl 115 100 15 50 255 321 Note 1 
+over 8 to 91/2, Incl 115 100 15 50 262 321 Note4 
+4 to 3, incl 135 120 13 45 269 341 Note 1 
+over 3 to 6, incl 135 120 13 45 277 352 Note 1 
+over 6 to 9½, incl 135 120 13 45 285 363 Note4 
+3 to 3, incl 145 130 12 40 293 363 Note2 
+over 3 to 6, incl 145 130 12 40 302 375 Note2 
+over 6 to 91/2, incl 145 130 12 40 311 388 Note4 
+2 to 3, incl 155 140 11 40 311 388 Note 4 
+over 3 to 6, incl 155 140 11 40 311 401 Note 4 
+over 6 to 9½, incl 155 140 11 40 321 415 Note4 
+to 3, incl 165 150 10 35 321 415 Note4 
+over 3 to 6, Incl 165 150 10 35 331 429 Note4 
+over 6 to 8, incl 165 150 10 35 341 444 Note4 
+824 5 to 6, incl 120 105 15 50 248 311 Note 1 
+(4340 Mod.) .el'.-6--t0-8,im;I 15 100 15 50 255 321 Note 1 
+over 8 to 9½, incl 115 100 15 50 262 321 Note 1 
+4 to 3, incl 135 120 13 45 269 341 Note 1 
+over 3 to 6, incl 135 120 13 45 277 352 Note 1 
+over 6 to 8, incl 135 120 13 45 285 363 Note 1 
+over 8 to 9½, incl 135 120 13 45 293 363 Note4 
+3 to 3, incl 145 130 12 40 293 363 Note2 
+over 3 to 8, incl 145 130 12 40 302 388 Note2 
+over 8 to 9½, incl 145 130 12 40 311 388 Note4 
+2 to 7, incl 155 140 11 40 311 401 Note2 
+over 7 to 9½, incl 155 140 11 40 321 415 Note4 
+to 6, Incl 165 150 10 35 321 415 Note3 
+over 6 to 8, incl 165 150 10 35 331 429 Note4 
+824V 3 to 4, Incl 145 130 12 40 293 363 Note 1 
+{4340V Mod.) over 4 to 8, incl 145 130 12 40 302 375 Note2 
+over 8 to 11, incl 145 130 12 40 311 388 Note3 
+2 to 4, Incl 155 140 11 40 311 388 Note2 
+over 4 to 8, incl 155 140 11 40 311 401 Note 3 
+over 8 to 11 , incl 155 140 11 40 321 415 Note 4 
+to 4, incl 165 150 10 35 321 415 Note3 
+over 4 to 8, incl 165 150 10 35 331 429 Note4 
+over 8 to 11, incl 165 150 10 35 331 444 Note4 
+' ·.._____/ 
+914 

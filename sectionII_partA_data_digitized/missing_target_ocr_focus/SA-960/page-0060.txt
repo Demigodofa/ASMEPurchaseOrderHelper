@@ -1,0 +1,61 @@
+ASME BPVCG.ILA-2025 SA-988 /SA-988M
+— 6.1.2 When required by the purchaser, the chemical com- —_ 0.29 Ib/in.° [8.0 g/cm?] for austenitic grades, or to the density
+: position of a sample from one part from each lot of parts shall § of a wrought reference sample of the same grade heat treated
+be determined by the manufacturer. The composition of the in accordance with the requirements of Table 2 (See Note 2).
+sample shall conform to the chemical requirements prescribed Note 2—The actual density of stainless steel varies slightly with
+in Table 1. composition and heat treatment. For this reason, small differences in the |
+6.2 Addition of lead, selenium, or other unspecified ele- measured density from the typical density for a class of grades may be the .
+compact shall not be permitted. a class of grades, it is appropriate to examine the sample for microporosity :
+
+6.3 The steel shall not contain an unspecified element other by the more specific metallographic examination procedures.
+than nitrogen, for the ordered grade, to the extent that the steel 8.1.2 Microstructural Examination:
+conforms to the requirements of another grade for which that 8.1.2.1 The microstructure shall be examined at 20-50x,
+element is a specified element having a required minimum —_—1(0-200x, and 1000-2000x and shall be reasonably uniform .
+content. and shall be free of voids, laps, cracks, and porosity.
+
+— 8.1.2.2 One sample from each production lot shall be
+/ , 7, Heat Treatment examined. The sample shall be taken after hot-isostatic press-
+7.1 Except as provided in 7.2, the final heat treatment of all —_ing or after final heat treatment. The sample shall be taken from |
+, parts shall be in compliance with the requirements of Table 2. the component, stem, protrusion, or test part made from a
+After hot isostatic-pressing and prior to final heat treatment, the — single powder blend consolidated in the same hot isostatic |
+compacts are permitted to be annealed, at the option of the _ press using the same pressure, temperature, and time param- ,
+producer, either as a part of the consolidation process or as a _ eters and heat-treated in the same final heat-treatment charge. .
+separate operation. The microstructure shall meet the requirements of 8.1.2.1. :
+7.2 When agreed upon by the purchaser, liquid quenching 8.1.2.3 If the sample fails to meet the requirements for :
+may be applied to the martensitic stainless steels in place of the | acceptance, each part in the lot is permitted to be retested and :
+furnace cool or air cool specified in Table 2, provided that such those that pass shall be accepted. ,
+quenching is followed by tempering in the temperature ranges 8.2 Hydrostatic Tests—After they have been machined,
+as required in Table 2. Martensitic parts that are liquid — pressure-containing parts shall be tested to the hydrostatic shell ,
+7 quenched and tempered shall be marked “QT.” test pressures prescribed in ASME B16.5 for the applicable |
+‘ 7.3 The final heat treatment shall be performed before or steel rating for which the part is designed and shall show no
+: after machining at the option of the producer. leaks. Parts ordered under these specifications for working =:
+, 7.4 See Section S16 if a particular heat treatment method is Pf€ssures other than those listed in the ASME B16.5 ratings
+specified by the purchaser in the purchase order. shall be tested to such pressures as may be agreed upon |
+between the manufacturer and purchaser.
+
+8. Structural Integrity Requirements 8.2.1 No hydrostatic test is required for weld neck or other |
+8.1 Microporosity—The parts shall be free of microporosity flanges. :
+as demonstrated by measurement of density as provided in 8.2.2 The compact manufacturer is not required to perform
+: 8.1.1 or by microstructural examination as provided in 8.1.2. pressure tests on rough parts that are to be finish machined by :
+8.1.1 Density Measurement: others. The fabricator of the finished part is not required to /
+8.1.1.1 The density measurement shall be used for accep- Pressure test parts that are designed to be pressure containing ;
+tance of material but not for rejection of material. The My after assembly by welding into a larger structure. The
+measured density for each production lot shall exceed 99 % of | ™anufacturer of the compacts, however, shall be responsible,
+; the density typical of that grade when wrought and in the same 28 Tequired in 16.1 for the satisfactory performance of the parts |
+\ heat treated condition as the sample. A production lot that fails Under the final test required in 8.2. |
+——— to meet this acceptance criterion is permitted to be tested at the 8.3 Ultrasonic Tests—When specified in the order, ,
+option of the producer, for microporosity in accordance with —_austenitic-ferritic stainless steel parts made from S32505 shall
+the microstructural examination as provided in 8.1.2. be ultrasonic tested according to the procedures described in ;
+8.1.1.2 Density shall be determined for one sample from Section S7. |
+each production lot by measuring the difference in mass of the \
+sample when weighed in air and when weighed in water and 9, Mechanical Properties
+multiplying this difference by the density of water (Archi- , , ;
+mede’s principle). The equipment used shall be capable of 7.1 The material shall conform to the requirements for ;
+determining density within +0.004 Ib/in.2 [0.10 g/cm*]. mechanical properties prescribed in Table 3 at room tempera-
+Alternatively, at the option of the producer, it is permitted to ture.
+use Test Method B311 to determine the density. 9.2 Sample shall be from the component, stem, protrusion, :
+8.1.1.3 At the option of the producer, the density shall be or test part made from a single powder blend consolidated in |
+compared to the room temperature density typical of wrought the same hot isostatic press using the same pressure, :
+/ steels of the same class of grades, 0.28 Ib/in.* [7.8 g/cm*] for temperature, and time parameters and heat-treated in the same :
+\ age-hardening, martensitic, and austenitic-ferritic grades, and _final heat-treatment charge. If repair welding is required (See :
+1461 :

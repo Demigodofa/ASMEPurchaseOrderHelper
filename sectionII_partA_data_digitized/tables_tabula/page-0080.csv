@@ -1,0 +1,25 @@
+0.230,,,,,to 2,,to 3,,Over3,Over,Under
+,1⁄4, excl,incl,1, incl,,,,,
+excl,,,,incl,incl,,,
+
+Over 1 to 2, incl 0.007,,0.007,0.012,0.o15,1/s2,,,1/02,1/02
+Over 2 to 4, incl 0.008,,0.008,0.015,0.020,1/s2,o/84,%4,1/15,v..
+Over 4 to 6, incl 0.009,,0.009,0.015,0.020,1/s2,o/84,%4,%2,1/10
+A Over 6 to 8, incl,,0.015,0.016,0.025,1/32,%4,1/,e,1/a 8,o/02 B
+
+Over 5/1s to 7/\s, incl,0.006,0.006,0.009
+Over 7/\e to 5/e, incl,0.007,0.007,0.010
+over 5/e to %, incl,0.008,0.008,0.012
+Over 7/e to 1, incl,0.009,0.009,0.013
+Over 1 to 11/e , incl,0.010,0.010,0.015
+Over 11/s to 11⁄4 , incl,0.011,0.011,0.016
+Over 1 1⁄4 to 1%, incl,0.012,0.012,0.o18
+over 1% to 11⁄2, incl,0.014,0.014,0.021
+Over 1 1⁄2 to 2, incl,1/e4,1/e4,0.023
+Over 2 to 21⁄2 , incl,1/32,0,0.023
+Over 21⁄2 to 31⁄2, incl,%4,0,0.035
+Over 31⁄2 to 41⁄2, incl,1/\e,0,0.046
+over 41⁄2 to 51⁄2, incl,o/84,0,0.058
+Over 51⁄2 to 61⁄2, incl,'I•,0,0.070
+Over 61⁄2 to 81⁄4, incl,%2,0,0.085
+Over 81⁄4 to 91⁄2, incl,•A•,0,0.100

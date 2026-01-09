@@ -1,0 +1,142 @@
+SA-354 ASME BPVC.II.A-2025 
+TABLE 1 Chemical Requirements 
+Alloy Steel 
+Element Heat Analysis, % 
+Carbon: 
+For sizes through 0.30 to 0.53 
+1½ in. 
+For sizes larger than 0.35 to 0.53 
+1½ in. 
+Manganese, min 0.60 
+Phosphorus, max 0.035 
+Sulfur, max 0.040 
+Alloying Elements A 
+Alloy Steel with Boron Addition 
+Element Heat 
+Analysis,% 
+Carbon 
+For sizes through 0.30-0.48 
+1 ½in. 
+For sizes larger than 0.35-0.53 
+1 ½ in. 
+Manganese, min 0.60 
+Phosphorus, max 0.040 
+Sulfur, max 0.040 
+Boron 0.0005-0.003 
+Alloying Elements A 
+Product 
+Analysis,% 
+0.28 to 0.55 
+0.33 to 0.55 
+0.57 
+0.040 
+0.045 
+A 
+Product 
+Analysis,% 
+0.28-0.50 
+0.35-0.55 
+0.57 
+0.045 
+0.045 
+0.0005-0.003 
+A 
+Asteel, as defined by the American Iron and Steel Institute, shall be considered to 
+be alloy when the maximum of the range given for the content of alloying elements 
+exceeds one or more of the following limits: Manganese, 1.65 %; silicon, 0.60 %; 
+copper, 0.60 % or in which a definite range or a definite minimum quantity of any 
+of the following elements is specified or required within the limits of the recognized 
+field of constructional alloy steels: aluminum, chromium up to 3.99 %, cobalt, 
+columbium, molybdenum, nickel, titanium, tungsten, vanadium, zirconium, or any 
+other alloying elements added to obtain a desired alloying effect. 
+TABLE 2 Hardness Requirements for Full-Size Fasteners 
+Hardness 
+Size, in. Grade Brinell Rockwell C 
+Minimum Maximum Minimum Maximum 
+¼to2¼ BC 255 331 26 36 
+Over 2½ BC 235 311 22 33 
+¼to2¼ BD 311 363 33 39 
+Over 2½ BD 293 363 31 39 
+values not less than the minimum nor more than the maximum 
+hardness limits required in Table 2, as hardness is the only 
+requirement. 
+6.2 Fasteners 1 3/s in. in diameter or less for Grade BC and 
+1 ¼ in. in diameter or less for Grade BD, other than those 
+excepted in 6.1, shall be tested full size and shall conform to 
+the tensile strength and either the proof load or the yield 
+strength requirements in accordance with Table 3. 
+6.3 Fasteners larger than 1 3/s in. in diameter for Grade BC 
+and fasteners larger than 1 ¼ in. in diameter for Grade BD, 
+other than those excepted in 6.1, shall preferably be tested full 
+size and when so tested, shall conform to the tensile strength 
+and either the proof load or yield strength requirements in 
+accordance with Table 3. When equipment of sufficient capac­
+ity for full-size testing is not available, or when the length of 
+the fastener makes full-size testing impractical, machined 
+specimens shall be tested and shall conform to the require­
+ments in accordance with Table 4. In the event that fasteners 
+are tested by both full-size and by the machined test specimen 
+methods, the full-size test shall govern if a controversy 
+between the two methods exists. 
+6.4 For fasteners on which both hardness and tension tests 
+are performed, acceptance based on tensile requirements shall 
+take precedence in the event that there is controversy over low 
+readings of hardness tests. 
+7. Dimensions 
+7.1 Bolts-Unless otherwise specified, the bolts shall be 
+Hex Head with dimensions conforming to the latest issue of 
+ASME Bl8.2.l. 
+560 
+7 .2 Studs-Studs shall have dimensions conforming to those 
+specified by the purchaser. 
+7.3 Threads: 
+7.3.1 Unless otherwise specified, threads shall be the Uni­
+fied National Coarse Thread Series as specified in Bl.I, and 
+shall have Class 2 A tolerances. 
+7.3.2 When specified, threads shall be the Unified National 
+Fine Thread Series, 8-Pitch Thread Series for sizes over 1 in. or 
+14-Pitch UNS on 1 in. size as specified in ANSI B 1.1 and shall 
+have Class 2A tolerances. 
+7.3.3 Unless otherwise specified, bolts and studs to be used 
+with nuts or tapped holes that have been tapped oversize, in 
+accordance with Specification A563, shall have Class 2A 
+threads before hot dip or mechanically deposited zinc coating. 
+After zinc coating, the maximum limit of pitch and major 
+diameter may exceed the Class 2A limit by the following 
+amount: 
+¼ 
+5/rn, 3/s 
+7 /16, ½ 
+Diameter, in. 
+9/16 to ¾, incl 
+7/a 
+1.0 to 1¼, incl 
+1%, 1½ 
+1¾ to 4.0, incl 
+Oversize Limit, in. (mm)A 
+0.016 
+0.017 
+0.018 
+0.020 
+0.022 
+0.024 
+0.027 
+0.050 
+A These values are the same as the overlapping required for zinc-coated nuts in 
+Specification A563. 
+8. Workmanship 
+8.1 Surface discontinuity limits shall be in accordance with 
+Specification F788/F788M. 
+9. Number of Tests 
+9.1 Testing Responsibility: 
+9.1.1 Each lot shall be tested by the manufacturer prior to 
+shipment in accordance with the lot identification control 
+quality assurance plan in 9.2 through 9.6. 
+9.1.2 When fasteners are furnished by a source other than 
+the manufacturer, the responsible party as defined in 12.1 shall 
+be responsible for ensuring that all tests have been performed 
+and the fasteners comply with the requirements of this speci­
+fication. 
+9.2 Purpose of Lot Inspection-The purpose of a lot inspec­
+tion program is to ensure that each lot conforms to the 
+requirements of this specification. For such a plan to be fully 

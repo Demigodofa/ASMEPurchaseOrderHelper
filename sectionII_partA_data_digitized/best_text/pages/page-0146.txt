@@ -1,0 +1,88 @@
+SA-20/SA-20M ASME BPVC.II.A-2025 
+TABLE A2.8 Permissible Camber for Carbon Steel, High-Strength 
+Low-Alloy Steel, and Alloy Steel Universal Mill Plates and High­
+Strength Low-Alloy Steel and Alloy Steel Sheared or Gas-Cut 
+Rectangular Plates 
+Norn I-Camber, as it relates to plates, is the horizontal edge curvature 
+in the length, measured over the entire length of the plate in the flat 
+position. 
+Width, mm 
+To 750, incl 
+Over 750 to 1500 
+Camber for Width Given, mm 
+Length/300 
+Length/250 
+TABLE A2.9 Permissible Variations from Flatness for Carbon Steel Plates 
+Norn !-Flatness Variations for Length-The longer dimension specified is considered the length, and variation in flatness along the length shall not 
+exceed the tabular amount for the specified width in plates up to 4000 mm in length, or in any 4000 mm of longer plates. 
+Norn 2-Flatness Variations for Width-The flatness variation across the width shall not exceed the tabular amount for the specified width. 
+Norn 3-When the longer dimension is under 900 mm, the variation in flatness along the length and across the width shall not exceed 6 mm in each 
+direction. When the longer dimension is from 900 to 1800 mm, inclusive, the flatness variation shall not exceed 75 % of the tabular amount for the 
+specified width, but in no case less than 6 mm. 
+Norn 4--The tolerances given in this table apply to plates that have a minimum specified tensile strength not over 415 MPa or comparable chemistry 
+or hardness. For plates specified to a higher minimum tensile strength or comparable chemistry or hardness, the limits given in the table are increased 
+to 1 V2 times the amounts in the above table. 
+Norn 5-This table and notes cover the flatness tolerances of circular and sketch plates, based on the maximum dimensions of those plates. 
+Norn 6-Plates shall be in a horizontal position on a flat surface when flatness is measured. 
+Specified Thickness, Permissible Variations from a Flat Surface for Specified Widths, mm 
+mm To 900, 900 to 1200 to 1500 to 1800 to 2100 to 2400 to 2700 to 3000 to 3600 to 4200 and 
+excl 
+To 6, excl 14 
+6 to 10, excl 13 
+10 to 12, excl 13 
+12 to 20, excl 11 
+20 to 25, excl 11 
+25 to 50, excl 10 
+50 to 100, excl 8 
+100 to 150, excl 10 
+150 to 200, excl 11 
+200 to 250, excl 13 
+250 to 300, excl 13 
+300 to 400, incl 16 
+1200 1500 1800 2100 2400 2700 3000 
+19 24 32 35 38 41 44 
+16 19 24 29 32 35 38 
+14 16 16 19 22 25 29 
+13 14 16 16 19 25 25 
+13 14 16 16 16 19 22 
+13 13 14 14 16 16 16 
+10 11 13 13 13 13 14 
+11 13 13 14 14 16 19 
+13 13 16 18 19 22 22 
+13 16 18 19 21 22 24 
+16 19 21 22 24 25 25 
+19 21 22 24 25 25 25 
+TABLE A2.1 O Permissible Variations in Width and Length for 
+Rectangular Alloy Steel Plates when Gas Cutting is Specified or 
+Required 
+Norn !-These variations may be taken all under or divided over and 
+under, if so specified. 
+Norn 2-Plates with universal rolled edges will be gas cut to length 
+only. 
+Specified Thickness, mm 
+To 50, excl 
+50 to 100, excl 
+100 to 150, excl 
+150 to 200, excl 
+200 to 400, incl 
+94 
+Variations Over for All Specified 
+Widths and Lengths, mm 
+19 
+25 
+29 
+33 
+38 
+3600 4200 Over 
+48 
+41 
+32 48 54 
+29 38 51 
+25 35 44 
+18 29 38 
+16 22 29 
+22 22 25 
+25 25 25 
+25 25 25 
+25 25 25 
+25 25 

@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 651,
+  "globalPageIndex": 1449,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "ASME BPVC.II.A-2025 SA-941 \ntime quenching, n-interrupted quenching in which the \nduration of holding in the quenching medium is controlled. \ntransformation ranges, n-those ranges of temperature within \nwhich austenite forms during heating and transforms during \ncooling. \nDrscussroN-The two ranges are distinct, sometimes overlapping but \nnever coinciding. The limiting temperatures of the ranges are depen\u00ad\ndent upon the steel composition and the rate of change of temperature, \nparticularly during cooling. \ntransformation temperature, n-the temperature at which a \nchange in phase occurs, with the limiting temperatures of the \ntransformation ranges designated using the following sym\u00ad\nbols: \nAcc 01 -the temperature at which the solution of cementite \nin austenite is completed during heating. \nAc 1 -the temperature at which austenite begins to form \nduring heating. \nAc 3 -the temperature at which transformation of ferrite to \naustenite is completed dming heating. \nAc 4 -the temperature at which austenite transforms to \ndelta ferrite during heating. \nAe 1 , Ae 3 , Aecm\u2022 Ae 4 -the temperatures of phase change at \nequilibrium. \nArcn 1 -the temperature at which precipitation of cementite \nstarts during cooling. \nAr 1 -the temperature at which transformation of austenite \nto ferrite or to ferrite plus cementite is completed during \ncooling. \nAr 3 -the temperature at which austenite begins to trans\u00ad\nform to ferrite during cooling. \nAr 4 -the temperature at which delta ferrite transforms to \naustenite during cooling. \nMr-the temperature at which transformation of austenite \nto martensite is substantially completed during cooling. \nM 8 -the temperature at which transformation of austenite \nto martensite starts during cooling. \nDrscussroN-All of the above changes, except the formation of \nmartensite, occur at lower temperatures dming cooling than during \nheating, and are dependent upon the rate of change of temperature. \nunspecified element, n-in steel, an element not controlled to \na specified minimum, maximum, or range, in accordance \nwith the requirements of the applicable product specifica\u00ad\ntion. \nwrought product, n-item of steel which has been subject to \ndeformation by rolling, drawing, forging, or some other \nmethod, for example, a bar, plate, strip, tube, or wire. \n1387 \nDrscussroN-The extent of deformation needed to transform an \nas-cast material to one that exhibits the microstructure and properties \nexpected for wrought products is impractical to define because it may \nvary among different deformation practices and product application. ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-1449.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2579,
+  "bestTextAlphaRatio": 0.7984
+}

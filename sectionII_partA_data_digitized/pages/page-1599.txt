@@ -1,0 +1,112 @@
+ASME BPVC.II.A-2025 SA-1058 
+cross-sectional area, the diameter shall be measured at the 
+center of the gauge length to the nearest 0.025 mm. 
+7.6 General-Test specimens shall be either substantially 
+full size or machined, as prescribed in the product specifica­
+tions for the material being tested. 
+7.6.1 It is desirable to have the cross-sectional area of the 
+specimen smallest at the center of the gauge length to ensure 
+fracture within the gauge length. This is provided for by the 
+taper in the gauge length permitted for each of the specimens 
+described in the following sections. 
+7 .6.2 For low ductility materials it is desirable to have fillets 
+of large radius at the ends of the gauge length. 
+• 8. Plate-Type Specimen 
+8.1 The standard plate-type test specimen is shown in Test 
+Methods E8/E8M, ISO 6892-1, or JIS Z 2241. This specimen 
+is used for testing metallic materials in the form of plate, 
+structural and bar-size shapes, and flat material having a 
+nominal thickness of 5 mm or over. When product specifica­
+tions so permit, other types of specimens may be used. 
+9. Sheet-Type Specimen 
+9.1 The standard sheet-type test specimen is shown in Test 
+Methods E8/E8M, ISO 6892-1, or JIS Z 2241. This specimen 
+is used for testing metallic materials in the form of sheet, plate, 
+flat wire, strip, band, and hoop ranging in nominal thickness 
+from 0.13 to 19 mm. When product specifications so permit, 
+other types of specimens may be used, as specified in Test 
+Methods E8/E8M. 
+10. Round Specimens 
+10.1 The standard diameter round test specimen as shown in 
+Test Methods E8/E8M, ISO 6892-1, or JIS Z 2241 is frequently 
+used for testing metallic materials. 
+10.2 Small size specimens proportional to standard speci­
+mens may be used when it is necessary to test material from 
+which the standard specimens cannot be prepared. When small 
+size specimens are used, the gauge length for measurement of 
+elongation shall be five times the diameter of the specimen. 
+10.3 The type of specimen ends outside of the gauge length 
+shall accommodate the shape of the product tested, and shall 
+properly fit the holders or grips of the testing machine so that 
+axial loads are applied with a minimum of load eccentricity and 
+slippage. 
+11. Gauge Marks 
+11.1 Test specimens shall be marked in accordance with the 
+requirements of the relevant standards. 
+12. Determination of Tensile Properties 
+12.1 The determination and description of the tensile prop­
+erties shall be in accordance with the requirements of the 
+relevant standards. 
+12.2 Elongation values may be converted from (i) 4d gauge 
+length to a 5d gauge length, or (ii) 5d gage length to a 4d gage 
+length by use of the multiplication factors shown in Table 2. If 
+this conversion is used, the supplier must show the calculation 
+on the certification. 
+TABLE 2 Conversion Factors for 4d and 5d Gauge Lengths (ISO 
+2566-1 and ISO 2566-2) 
+Conversion from 
+Carbon and low alloy steels 
+Austenitic steels 
+4d to 5d 
+0.916 
+0.972 
+5d to 4d 
+1.093 
+1.029 
+12.2.1 Example I-Conversion of Carbon and low alloy 
+steel elongation derived from 4d gauge length to a 5d gauge 
+length elongation value: 
+23 % X 0.916 = 21 % 
+12.2.2 Example 2-Conversion of Austenitic steel elonga­
+tion derived from 5d gauge length to a 4d gauge length 
+elongation value: 
+23 % X l.029 = 24 % 
+12.3 Reduction of Area-Fit the ends of the fractured 
+specimen together and measure the mean diameter or the width 
+and thickness at the smallest cross section to the same accuracy 
+as the original dimensions. The difference between the area 
+thus found and the area of the original cross section expressed 
+as a percentage of the original area is the reduction of area. 
+BEND TEST 
+13. Description 
+13.1 The bend test is one method for evaluating ductility, 
+but it cannot be considered as a quantitative means of predict­
+ing service performance in all bending operations. The severity 
+of the bend test is primarily a function of the angle of bend and 
+inside diameter to which the specimen is bent, and of the cross 
+section of the specimen. These conditions are varied according 
+to location and orientation of the test specimen and the 
+chemical composition, tensile properties, hardness, type, and 
+quality of the steel specified. Test Method E190, Test Methods 
+E290, EN ISO 7438, EN 10232 (tube), ISO 7438, or ISO 8491 
+(tube) and JIS Z 2248 may be consulted for methods of 
+performing the test. 
+13.2 Unless otherwise specified, it shall be pennissible to 
+age bend test specimens. The time-temperature cycle employed 
+must be such that the effects of previous processing will not be 
+materially changed. It may be accomplished by aging at room 
+temperature 24 to 48 h, or in shorter time at moderately 
+elevated temperatures by boiling in water or by heating in oil 
+or in an oven. 
+13.3 Bend the test specimen at room temperature to an 
+inside diameter, as designated by the applicable product 
+specifications, to the extent specified. The speed of bending is 
+ordinarily not an important factor. 
+HARDNESS TEST 
+14. General 
+14.1 A hardness test is a means of determining resistance to 
+penetration and is occasionally employed to obtain a quick 
+approximation of tensile strength. Table 3, Table 4, Table 5, 
+and Table 6 are for the conversion of hardness measurements 
+from one scale to another or to approximate tensile strength. 
+1545 

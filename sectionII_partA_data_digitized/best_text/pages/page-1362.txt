@@ -1,0 +1,115 @@
+SA-790/SA-790M (ASTM A790/A790M) ASME BPVC.II.A-2025 
+greater. The width of the notch shall not exceed twice the 
+depth. Notches shall be placed on both the OD and ID surfaces. 
+14.9.2 For Eddy-Current Testing, the reference standard 
+shall contain, at the option of the manufacturer, any one of the 
+following discontinuities: 
+14.9.2.1 Drilled Hole-The reference standard shall contain 
+three or more holes equally spaced circumferentially around 
+the pipe and longitudinally separated by a sufficient distance to 
+allow distinct identification of the signal from each hole. The 
+holes shall be drilled radially and completely through the pipe 
+wall, with care being taken to avoid distortion of the pipe while 
+drilling. One hole shall be drilled in the weld, if visible. 
+Alternately, the producer of welded pipe may choose to drill 
+one hole in the weld and run the calibration standard through 
+the test coils three times with the weld turned at 120° on each 
+pass. The hole diameter shall vary with NPS as follows: 
+NPS Designator Hole Diameter 
+0.039 in. [1 mm] 
+above ½ to 1 ¼ 0.055 in. [1.4 mm] 
+above 1 ¼ to 2 0.071 in. [1.8 mm] 
+above 2 to 5 0.087 In. [2.2 mm] 
+above 5 0.106 in. [2.7 mm] 
+14.9.2.2 Transverse Tangential Notch-Using a round tool 
+or file with a ¼-in. [6.4-mm] diameter, a notch shall be filed or 
+milled tangential to the surface and transverse to the longitu­
+dinal axis of the pipe. Said notch shall have a depth not 
+exceeding 12 ½ % of the specified nominal wall thickness of 
+the pipe or 0.004 in. [0.102 mm], whichever is greater. 
+14.9.2.3 Longitudinal Notch-A notch 0.031 in. or less in 
+width shall be machined in a radial plane parallel to the tube 
+axis on the outside surface of the pipe to have a depth not 
+exceeding 12 ½ % of the specified wall thickness of the pipe or 
+0.004 in., whichever is greater. The length of the notch shall be 
+compatible with the testing method. 
+More or smaller reference discontinuities, or both, may be 
+used by agreement between the purchaser and the manufac­
+turer. 
+14.10 Standardization Procedure: 
+14.10.1 The test apparatus shall be standardized at the 
+beginning and end of each series of pipes of the same size 
+(NPS or diameter and schedule or wall thickness, grade, and 
+heat treatment condition), and at intervals not exceeding 4 h. 
+More frequent standardization may be performed at the manu­
+facturer's option or may be required upon agreement between 
+the purchaser and the manufacturer. 
+14.10.2 The test apparatus shall also be standardized after 
+any change in test system settings, change of operator, equip­
+ment repair, or interruption due to power loss, process shut­
+down, or when a problem is suspected. 
+14.10.3 The reference standard shall be passed through the 
+test apparatus at the same speed and test system settings as the 
+pipe to be tested. 
+14.10.4 The signal-to-noise ratio for the reference standard 
+shall be 2 ½ to 1 or greater. Extraneous signals caused by 
+identifiable causes such as dings, scratches, dents, straightener 
+marks, and so forth shall not be considered noise. The rejection 
+amplitude shall be adjusted to be at least 50 % of full scale of 
+the readout display. 
+14.10.5 If upon any standardization, the rejection amplitude 
+has decreased by 29 % (3 dB) of peak height from the last 
+standardization, the pipe since the last calibration shall be 
+rejected. The test system settings may be changed or the 
+transducer(s), coil(s), or sensor(s) adjusted and the unit restan­
+dardized. But all pipe tested since the last acceptable standard­
+ization must be retested for acceptance. 
+14.11 Evaluation of Impeifections: 
+14.11.1 Pipes producing a signal equal to or greater than the 
+lowest signal produced by the reference standard(s) shall be 
+identified and separated from the acceptable pipes. The area 
+producing the signal may be reexamined. 
+14.11.2 Such pipes shall be rejected if the test signal was 
+produced by imperfections that cannot be identified or was 
+produced by cracks or crack-like imperfections. These pipes 
+may be repaired per Sections 12 and 13. To be accepted, a 
+repaired pipe must pass the same non-destructive test by which 
+it was rejected, and it must meet the minimum wall thickness 
+requirements of this specification. 
+14.11.3 If the test signals were produced by visual imper­
+fections such as: (1) scratches, (2) surface roughness, (3) dings, 
+(4) straightener marks, (5) cutting chips, (6) steel die stamps, 
+(7) stop marks, or (8) pipe reducer ripple. The pipe may be 
+accepted based on visual examination, provided the imperfec­
+tion is less than 0.004 in. [0.1 mm] or 12 ½%of the specified 
+wall thickness (whichever is greater). 
+14.11.4 Rejected pipe may be reconditioned and retested 
+providing the wall thickness is not decreased to less than that 
+required by this or the product specification. The outside 
+diameter at the point of grinding may be reduced by the amount 
+so removed. To be accepted, retested pipe shall meet the test 
+requirement. 
+14.11.5 If the imperfection is explored to the extent that it 
+can be identified as non-rejectable, the pipe may be accepted 
+without further test providing the imperfection does not en­
+croach on the minimum wall thickness. 
+15. Repair by Welding 
+15.1 For welded pipe of size NPS 6 or larger with a 
+specified wall thickness of 0.188 in. [4.8 mm] or more, weld 
+repairs made with the addition of compatible filler metal may 
+be made to the weld seam with the same procedures specified 
+for plate defects in the section on Repair by Welding of 
+Specification A999/ A999M. 
+15.2 Weld repairs of the weld seam shall not exceed 20 % of 
+the seam length. 
+15.3 Except as allowed by 15.3.1, weld repairs shall be 
+made only with the gas tungsten-arc welding process using the 
+same classification of bare filter rod qualified to the most 
+current AWS Specification A5.9 as the grade of pipe being 
+repaired as given in Table 4. 
+15.3.1 Subject to approval by the purchaser, it shall be 
+permissible for weld repairs to be made with the gas tungsten­
+arc welding process using a filler metal more highly alloyed 
+than the base metal, if needed for corrosion resistance or other 
+properties. 
+1300 

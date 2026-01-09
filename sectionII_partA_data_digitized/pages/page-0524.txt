@@ -1,0 +1,61 @@
+SA-320 /SA-320M ASME BPVC.II.A-2025 
+starting material; steel bars-alloy; steel bolting; steel flanges; 
+steel valves; temperature service applications-low 
+SUPPLEMENTARY REQUIREMENTS 
+The following supplementary requirements shall apply only when specified by the purchaser in the 
+inquiry, contract, and order. 
+Sl. Impact Properties 
+S 1.1 When impact properties are desired for austenitic steel 
+grades exempt from testing under 6.2.1, test shall be made as 
+agreed between the manufacturer and the purchaser. 
+S2. Lateral Expansion 
+S2. l When lateral expansion measurements for ferritic 
+steels are required in addition to the energy absorption require­
+ments of 6.2.1.1, the minimum value for each specimen of a set 
+must be .015 in. [0.38 mm]. The test temperature shall be 
+specified by the purchaser and agreed upon by the producer. 
+Norn S2.1-Grades 17, 17A, 17B will generally have diffi.culty 
+meeting the minimum value at -150 °F [-101 °C]. Grade 143 may be 
+preferred. 
+S3. Hardness Testing of Class 2 Bolting Components for 
+ASME Applications 
+S3.l The maximum hardness shall be Rockwell C35 imme­
+diately under the thread roots. The hardness shall be taken on 
+a flat area at least Vs in. [3 mm] across, prepared by removing 
+threads. No more material than necessary shall be removed to 
+prepare the flat area. Hardness determinations shall be made at 
+the same frequency as tensile tests. 
+S4. Restriction to Use Only Ingot Cast Steel 
+S4.1 The starting material must be ingot cast. Use of 
+continuous cast material is not permitted. 
+APPENDIX 
+(Nonmandatory Information) 
+Xl. STRAIN HARDENING OF AUSTENITIC STEELS 
+Xl.1 Strain hardening is the increase in strength and hard­
+ness that results from plastic deformation below the recrystal­
+lization temperature (cold work). This effect is produced in 
+austenitic stainless steels by reducing oversized bars or wire to 
+the desired final size by cold drawing or other process. The 
+degree of strain hardening achievable in any alloy is limited by 
+its strain hardening characteristics. In addition, the amount of 
+strain hardening that can be produced is further limited by the 
+variables of the process, such as the total amount of cross­
+section reduction, die angle, and bar size. In large diameter 
+bars, for example, plastic deformation will occur principally in 
+the outer regions of the bar, so that the increased strength and 
+hardness due to strain hardening is achieved predominantly 
+near the surface of the bar. That is, the smaller the bar, the 
+472 
+greater the penetration of strain hardening. 
+Xl.2 Thus, the mechanical properties of a given strain 
+hardened bolting components, such as a bolt, screw, or stud, are 
+dependent not just on the alloy, but also on the size of bar from 
+which it is machined. The minimum bar size that can be used, 
+however, is established by the configuration of the component, 
+so that the configuration can affect the strength of the compo­
+nent. 
+Xl.3 For example, a stud of a particular alloy and size may 
+be machined from a smaller diameter bar than a bolt of the 
+san1e alloy and size because a larger diameter bar is required to 
+accommodate the head of the bolt. The stud, therefore, is likely 
+to be stronger than the same size bolt in a given alloy. 

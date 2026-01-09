@@ -1,0 +1,158 @@
+ASME BPVC.II.A-2025
+
+3.1.1 can, n—the container used to encapsulate the powder
+during the pressure consolidation process that is removed
+partially or fully from the final part.
+
+3.1.2 compact, n—the consolidated powder from one can
+that may be used to make one or more parts.
+
+3.1.3 consolidation, n—the bonding of adjacent powder
+particles in a compact under pressure by heating to a tempera-
+ture below the melting point of the powder.
+
+3.1.4 fill stem, n—the part of the compact used to fill the can
+that is not usually integral to the part produced.
+
+3.1.5 hot isostatic-pressing, n—a process for simultaneously
+heating and forming a compact in which the powder is
+contained in a sealed formable enclosure, usually made from
+metal, and the so-contained powder is subjected to equal
+pressure from all directions at a temperature high enough to
+permit plastic deformation and consolidation of the powder
+particles to take place.
+
+3.1.6 lot, n—a number of parts produced from a single
+powder blend following the same manufacturing conditions.
+
+3.1.7 part, n—a single item coming from a compact, either
+prior to or after machining.
+
+3.1.8 powder blend, n—a homogeneous mixture of powder
+from one or more heats of the same grade.
+
+3.1.9 rough part, n—the part prior to final machining.
+
+4. Ordering Information
+
+4.1 It is the responsibility of the purchaser to specify in the
+purchase order all requirements that are necessary for material
+ordered under this specification. Such requirements may
+include, but are not limited to, the following:
+
+4.1.1 Quantity (weight or number of parts).
+
+4.1.2 Name of material or UNS number.
+
+4.1.3 ASTM designation and year of issue.
+
+4.1.4 Dimensions (tolerances and surface finishes).
+
+4.1.5 Microstructure examination, if required (5.1.5).
+
+4.1.6 Inspection (14.1).
+
+4.1.7 Whether rough part or finished machined part (8.2.2).
+
+4.1.8 Supplementary requirements, if any.
+
+4.1.9 Additional requirements (see 7.2.1 and 16.1).
+
+4.1.10 Requirement, if any, that the manufacturer shall
+submit drawings for approval showing the shape of the rough
+part before machining and the exact location of test specimen
+material (see 9.3.1).
+
+5. Materials and Manufacture
+
+5.1 Manufacturing Practice:
+
+5.1.1 Powder should be protected during storage to prevent
+the detrimental pick-up of oxygen and other contaminants.
+
+5.1.2 Compacts shall be manufactured by placing a single
+powder blend into a can, evacuating the can, and sealing it. The
+can material shall be selected to ensure that it has no deleteri-
+ous effect on the final product. The entire assembly shall be
+heated and placed under sufficient pressure for a sufficient
+period of time to ensure that the final consolidated part meets
+the density requirements of 8.1.2.1. One or more parts shall be
+machined from a single compact.
+
+SA-989/SA-989M
+
+5.1.3 The powder shall be prealloyed and made by a melting
+method capable of producing the specified chemical
+composition, such as but not limited to air or vacuum induction
+melting, followed by gas atomization.
+
+5.1.4 When powder from more than one heat is used to
+make a blend, the heats shall be mixed thoroughly to ensure
+homogeneity.
+
+5.1.5 The compact shall be sectioned and the microstructure
+examined to check for porosity and other internal imperfec-
+tions and shall meet the requirements of 8.1.3. The sample shall
+be taken from the fill stem or from a location in a part as agreed
+upon by the manufacturer and purchaser.
+
+5.1.6 Unless otherwise specified in the purchase order, the
+manufacturer shall remove the can material from the surfaces
+of the consolidated compacts by chemical or mechanical
+methods, such as by pickling or machining. This removal shall
+be done before or after heat treatment at the option of the
+manufacturer (see Note 1).
+
+Note 1—Often, it is advantageous to leave the can material in place
+until after heat treatment or further thermal processing of the consolidated
+compact.
+
+5.1.7 Supplementary Requirements $2, S4, $5, and S14 are
+mandatory.
+
+6. Chemical Composition
+
+6.1 The steel both as a blend and as a part shall conform to
+the requirements for chemical composition prescribed in Table
+1. Test Methods, Practices, and Terminology A751 shall apply.
+
+6.1.1 A representative sample of each blend of powder shall
+be analyzed by the manufacturer to determine the percentage of
+elements prescribed in Table 1. The blend shall conform to the
+chemical composition requirements prescribed in Table 1.
+
+6.1.2 When required by the purchaser, the chemical com-
+position of a sample from one part from each lot of parts shall
+be determined by the manufacturer. The composition of the
+sample shall conform to the chemical composition require-
+ments prescribed in Table 1.
+
+6.2 Addition of lead, selenium, or other unspecified ele-
+ments for the purpose of improving the machinability of the
+compact shall not be permitted.
+
+6.3 The steel shall not contain an unspecified element, for
+the ordered grade, to the extent that the steel conforms to the
+requirements of another grade for which that element is a
+specified element having a required minimum content.
+
+7. Heat Treatment
+
+7.1 After hot isostatic-pressing, the compacts shall be an-
+nealed prior to heat treating in accordance with the require-
+ments of Table 2. At the option of the producer, this anneal
+shall be a separate operation following powder consolidation or
+shall be a part of the consolidation process.
+
+7.2. The alloy steels shall be heat treated in accordance with
+the requirements of 7.1 and Table 2.
+
+7.2.1 Liquid Quenching—When agreed to by the purchaser,
+liquid quenching followed by tempering shall be permitted
+provided the temperatures in Table 2 for each grade are
+utilized.
+
+7.2.1.1 Marking—Parts that are liquid quenched and tem-
+pered shall be marked “QT”.
+
+1471

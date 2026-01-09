@@ -1,0 +1,125 @@
+ASME BPVC.II.A-2025 SA-370 
+TABLE 5 Approximate Hardness Conversion Numbers for Austenitic Steels (Rockwell B to other Hardness Numbers) 
+Rockwell Superficial Hardness 
+Rockwell B 
+Scale, 100 kgf Load, Brinell Indentation Brinell Hardness, Rockwell A Scale, 
+15T Scale, 30T Scale, 45T Scale, 
+V1s- Diameter, mm 3000 kg! Load, 60 kgf Load, 
+15 kgf Load, 30 kgf Load, 45 kg! Load, 
+in. (1.588 mm) Ball 10 mm Ball Diamond Penetrator 1/win. (1.588 mm) 1/15-in. (1.588 mm) Ball 
+100 3.79 256 61.5 
+99 3.85 248 60.9 
+98 3.91 240 60.3 
+97 3.96 233 59.7 
+96 4.02 226 59.1 
+95 4.08 219 58.5 
+94 4.14 213 58.0 
+93 4.20 207 57.4 
+92 4.24 202 56.8 
+91 4.30 197 56.2 
+90 4.35 192 55.6 
+89 4.40 187 55.0 
+88 4.45 183 54.5 
+87 4.51 178 53.9 
+86 4.55 174 53.3 
+85 4.60 170 52.7 
+84 4.65 167 52.1 
+83 4.70 163 51.5 
+82 4.74 160 50.9 
+81 4.79 156 50.4 
+80 4.84 153 49.8 
+hardness numbers shall be followed by the symbol HBW, and 
+be supplemented by an index indicating the test conditions in 
+the following order: 
+17.5 .1.1 Diameter of the ball, mm, 
+17.5.1.2 A value representing the applied load, kgf, and, 
+17.5.1.3 The applied force dwell time, s, if other than 10 to 
+15 s. 
+17 .5 .1.4 The only exception to the above requirement is for 
+the HBW 10/3000 scale when a 10 to 15 s dwell time is used. 
+Only in the case of this one Brinell hardness scale may the 
+designation be reported simply as HBW. 
+17.5.1.5 Examples: 220 HBW = Brinell hardness of 220 
+determined with a ball of 10 mm diameter and with a test force 
+of 3000 kgf applied for 10 to 15 s; 350 HBW 5/1500 = Brinell 
+hardness of 350 determined with a ball of 5 mm diameter and 
+with a test force of 1500 kgf applied for 10 to 15 s. 
+17.6 Detailed Procedure-For detailed requirements of this 
+test, reference shall be made to the latest revision of Test 
+Method El0. 
+18. Rockwell Test 
+18.1 Description: 
+18.1.1 In this test a hardness value is obtained by determin­
+ing the depth of penetration of a diamond point or a tungsten 
+carbide ball into the specimen under certain arbitrarily fixed 
+conditions. A minor load of 10 kgf is first applied which causes 
+an initial penetration, sets the penetrator on the material and 
+holds it in position. A major load which depends on the scale 
+being used is applied increasing the depth of indentation. The 
+major load is removed and, with the minor load still acting, the 
+Rockwell number, which is proportional to the difference in 
+penetration between the major and minor loads is determined; 
+this is usually done by the machine and shows on a dial, digital 
+1/15-in. (1.588 mm) Ball Ball 
+91.5 80.4 70.2 
+91.2 79.7 69.2 
+90.8 79.0 68.2 
+90.4 78.3 67.2 
+90.1 77.7 66.1 
+89.7 77.0 65.1 
+89.3 76.3 64.1 
+88.9 75.6 63.1 
+88.6 74.9 62.1 
+88.2 74.2 61.1 
+87.8 73.5 60.1 
+87.5 72.8 59.0 
+87.1 72.1 58.0 
+86.7 71.4 57.0 
+86.4 70.7 56.0 
+86.0 70.0 55.0 
+85.6 69.3 54.0 
+85.2 68.6 52.9 
+84.9 67.9 51.9 
+84.5 67.2 50.9 
+84.1 66.5 49.9 
+display, printer, or other device. This is an arbitrary number 
+which increases with increasing hardness. The scales most 
+frequently used are as follows: 
+B 
+C 
+Penetrator 
+1/15-in. tungsten carbide ball 
+Diamond brale 
+Maior 
+Load, kg! 
+100 
+150 
+10 
+10 
+18 .1.2 Rockwell superficial hardness machines are used for 
+the testing of very thin steel or thin surface layers. Loads of 15, 
+30, or 45 kgf are applied on a tungsten carbide ( or a hardened 
+steel) ball or diamond penetrator, to cover the same range of 
+hardness values as for the heavier loads. Use of a hardened 
+steel ball is permitted only for testing thin sheet tin mill 
+products as found in Specifications A623 and A623M using 
+HR15T and HR30T scales with a diamond spot anvil. (Testing 
+of this product using a tungsten carbide indenter may give 
+significantly different results as compared to historical test data 
+obtained using a hardened steel ball.) The superficial hardness 
+scales are as follows: 
+Scale Maior Minor 
+Symbol Penetrator Load, kgf Load, kg! 
+15T 1/1B·in. tungsten carbide or steel ball 15 3 
+30T 1/1a-in. tungsten carbide or steel ball 30 3 
+45T 1/1s-in. tungsten carbide ball 45 3 
+15N Diamond brale 15 3 
+30N Diamond brale 30 3 
+45N Diamond brale 45 3 
+18.2 Reporting Hardness-In recording hardness values, the 
+hardness number shall always precede the scale symbol, for 
+example: 96 HRBW, 40 HRC, 75 HR15N, 56 HR30TS, or 77 
+HR30TW. The suffix W indicates use of a tungsten carbide ball. 
+The suffix S indicates use of a hardened steel ball as permitted 
+in 18.1.2. 
+599 

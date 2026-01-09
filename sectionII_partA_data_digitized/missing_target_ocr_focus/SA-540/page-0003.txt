@@ -1,0 +1,61 @@
+ASME BPVC.ILA-2025 SA-540/SA-540M :
+. 35. Manufacture 9. Hardness Requirements ,
+5.1 Bolting material shall be supplied hot-rolled or hot- 9.1 The hardness shall be determined on the surface of the
+forged or cold-finished at the option of the producer. However, material after removal of decarburization.
+if desired by the purchaser, cold finishing may be specified. 9.2 The hardness of bolting material in the annealed condi- .
+tion shall not be greater than 235 HBW.
+6. Heat Treatment 5 a
+. . 9.3 The hardness of bolting material in the quenched and
+6.1 Bolting material ordered . the annealed condition shall tempered or quenched, tempered and stress-relieved condition
+have a structure suitable for machining. Such annealed material —_ shai} be within the limits in Table 2 for the specified class.
+is not intended to be used without subsequent quenching and |
+tempering as specified in 6.2. 10. Impact Requirements
+6.2 Bolting material ordered in the liquid-quenched and 10.1 Annealed bolting material after proper heat treatment
+tempered condition shall be uniformly reheated from a tem- — Shall be capable of meeting the impact requirements in Table 2
+perature below the cooling transformation range to the proper OF of Supplementary Requirement S8, if so specified (see :
+a austenitizing temperature, quenched in a liquid medium under Supplementary Requirement S4). |
+| substantially uniform conditions, and then uniformly reheated 10.2 Bolting material in the quenched and tempered or .
+for tempering. The minimum tempering temperature shall be — quenched, tempered, and stress-relieved condition shall con- ,
+850 °F [455 °C]. form to the impact requirements in Table 2, or of Supplemen-
+6.3 Bolting material that has been straightened after quench- tary Requirement S8 if so specified.
+ing and tempering shall be stress relieved by reheating to a 10.3 The percent of shear (ductility or fibrous) fracture shall i
+temperature not lower than 100 °F [55 °C] under the tempering be computed. The computed value shall be recorded for all :
+temperature. impact specimens.
+. eye 10.4 The amount of lateral expansion shall be measured.
+7. Chemical Composition :
+a The measured value shall be recorded for all impact specimens.
+non Sees used or poling matenas* han conform to the 10.5 The percent shear and the amount of lateral expansion
+chemical requiven PREscr} me faple * shall be reported for information purposes (see 16.1).
+8. Tensile Requirements 11. Workmanship, Finish, and Appearance |
+f 8.1 Bolting material furnished in the annealed condition 11.1 Bolting material shall be uniform in quality and free of |
+- shall be capable of meeting the specified tensile properties for defects that would be detrimental to the intended service. If
+the class as specified in Table 2 when heat treated in accor- magnetic particle inspection for such defects is desired,
+dance with 6.2 and 6.3 (see Supplementary Requirement S4). Supplementary Requirement S6 should be specified. ,
+8.2 Bolting material in the quenched and tempered or 11.2 Surface Quality—Bolting material shall be free of |
+quenched, tempered and stress-relieved condition shall con- seams, laps, cracks, or other defects that are not removable
+form to properties shown in Table 2 for the specified class. within the machining cleanup allowance specified in Table 3. ,
+TABLE 1 Chemical Requirements“
+Grade B21 B22 B23 B24 B24V |
+nn SMO CreMoeV) (4142-H) (E-4340-H) (4340 Mod.) (4340V Mod.)
+, Chromium- Chromium- Chromium-Nickel- Chromium-Nickel- — Chromiurn=Nickel- —-—-_____
+Molybdenum- Molybdenum Molybdenum Molybdenum Molybdenum-
+a Vanadium Vanadium
+ee Range, % Product Range, % Product Range, % Product Range, % Product Product
+Variation, Variation, Variation, Variation, Variation,
+Over or Over or Over or Over or Over or
+Under,? % Under,? % Under,? % Under,? % Under,? %
+Carbon 0.36-0.44 0.02 0.39-0.46 0.02 0.37-0.44 0.02 0.37-0.44 0.02 0.37-0.44 0.02
+Manganese 0.45~-0.70 0.03 0.65-1.10 0.04 0.60-0.95 0.04 0.70-0.90 0.04 0.60-0.95 0.04
+Phosphorus, max  0.025° 0.005 0.025° 0.005 0.025° 0.005. —0.025° 0.005 0.025° 0.005
+Sulfur, max 0.025° 0.005 0.025° 0.005 0.025¢ 0.005 0.025° 0.005 0.025° 0.005
+Silicon 0.15-0.35 0.02 0.15-0.35 0.02 0.15-0.35 0.02 0.15~-0.35 0.02 0.15-0.35° 0.02
+Chromium 0.80-1.15 0.05 0.75-1.20 0.05 0.65-0.95 0.05 0.70-0.95 0.05 0.60-0.95 0.05
+Nickel Lee a -_ Le 1.55-2.00 0.05 1.65~2.00 0.05 1.55-2.00 0.05
+Molybdenum 0.50-0.65 0.03 0.15-0.25 0.02 0.20-0.30 0.02 0.30-~0.40 0.02 0.40-0.60 0.03
+Vanadium 0.25-0.35 0.03 _ _ a Le _ Le 0.04-0.10 0.01
+A The intentional addition of Bi, Se, Te, and Pb is not permitted.
+® Unless otherwise specified, separate determinations may vary from the specified ranges, except that elements in any heat must not vary both above and below the
+specified range.
+/ . © Phosphorus and sulfur content is 0.04 % max when open-hearth steel is specified.
+? Silicon content is 0.35 % max if vacuum-carbon deoxidized. .
+, 913

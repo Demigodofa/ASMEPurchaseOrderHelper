@@ -1,0 +1,27 @@
+{
+  "createdUtc": "2026-01-08T15:15:23.109101+00:00",
+  "orderMismatches": [
+    {
+      "spec": "SA-134",
+      "startGlobalPage": 231,
+      "previousSpec": "SA-522",
+      "previousStartGlobalPage": 979
+    },
+    {
+      "spec": "SA-20",
+      "startGlobalPage": 119,
+      "previousSpec": "SA-134",
+      "previousStartGlobalPage": 231
+    },
+    {
+      "spec": "SA-264",
+      "startGlobalPage": 46,
+      "previousSpec": "SA-263",
+      "previousStartGlobalPage": 425
+    }
+  ],
+  "summary": {
+    "entries": 45,
+    "orderMismatches": 3
+  }
+}

@@ -1,0 +1,130 @@
+Grade 
+1 
+2 
+2 
+4 
+4 
+6 
+7 
+8 
+9 
+9 
+10 
+11 
+12 
+13 
+14 
+16 
+17 
+CA15 
+CA15 
+CA15 
+CA15M 
+CA6NM 
+CA6NM 
+Class 
+A, B 
+C 
+A, B 
+C 
+A, B, E 
+C, D 
+A, B 
+A 
+A, B, C 
+A, B, E 
+C,D 
+A,B 
+A, B 
+A, B 
+A, B 
+A 
+A 
+A 
+A 
+B 
+C,D 
+A 
+A 
+B 
+ASME BPVC.II.A-2025 SA-487 /SA-487M 
+TABLE 4 Minimum Preheat and Post-Weld Heat Treat Requirements 
+Minimum Preheat 
+Temperature, 'F ['CJ 
+200 [95] 
+200 [95] 
+200 [95] 
+200 [95] 
+200 [95] 
+200 [95] 
+300 [150] 
+300 [150] 
+300 [150] 
+300 [150] 
+300 [150] 
+300 [150] 
+300 [150] 
+300 [150] 
+400 [205] 
+400 [205] 
+50 [10] 
+400 [205] 
+400 [205] 
+400 [205] 
+400 [205] 
+50 [10] 
+50 [10] 
+1100 [595]A minimum 
+1150 [620jA minimum 
+1100 [595jA minimum 
+1150 [620]A minimum 
+1100 [595jA minimum 
+1150 [620jA minimum 
+1100 [595jA minimum 
+1100 [595jA minimum 
+1250 [675]A minimum 
+11 oo [595]A minimum 
+1150 [620]A minimum 
+1100 [595]A minimum 
+1100 [595]A minimum 
+1100 [595]A minimum 
+1100 [595]A minimum 
+1100 [595]A minimum 
+1100 [595]A minimum 
+No welding 
+Post-Weld Heat Treat, 'F ['CJ 
+1750 [955] air cool or liquid quench below 400 [205] temper at 900 [480] minimum 
+1100 [595]A minimum 
+1150 [620]A minimum 
+1100 [595jA minimum 
+Final temper between 1050 [565] and 1150 [620] 
+Intermediate PWHT between 1225 [665] and 1275 [690] 
+Final temper PWHT 1050 [565] and 1150 [620] 8 
+A Post-weld heat treat temperature must be at or below the final tempering temperature. 
+8 The intermediate and final PWHT temperatures shall be the same as the intermediate and final tempering temperatures, respectively, as the original heat treatment of 
+the castings. Cool to below 200 'F [95 'C] between the intermediate and final PWHT. 
+the weld repair by radiography when Supplementary Require­
+ment S5 has been specified will not be necessary when an 
+applicable surface inspection method was used to locate the 
+discontinuity except for the following: 
+9.4.1 Weld repairs on castings which have leaked on hydro­
+static test. 
+9.4.2 Weld repairs on castings in which the depth of any 
+cavity prepared for repair welding is more than 20 % of the 
+wall thickness or 1 in. [25 mm], whichever is smaller. 
+9.4.3 Weld repairs on castings in which any cavity prepared 
+for welding is greater than approximately 10 in.2 [65 cm 2 ]. 
+10. Product Marking 
+10 .1 Castings shall be marked for material identification 
+with the grade and class symbols (1-A, 4-C, CA15-A). 
+11. Keywords 
+11.1 alloy steel; martensitic stainless steel; pressure­
+containing parts; stainless steel; steel castings 
+SUPPLEMENTARY REQUIREMENTS 
+The following supplementary requirements shall not apply unless specified in the purchase order. A 
+list of standardized supplementary requirements for use at the option of the purchaser is included in 
+Specifications A 703/ A 703M and A985/ A985M. Those which are ordinarily considered suitable for 
+use with this specification are given below. Others enumerated in Specifications A 703/ A 703M and 
+A985/A985M may be used with this specification upon agreement between the manufacturer and 
+purchaser. 
+833 

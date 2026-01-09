@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 295,
+  "globalPageIndex": 1093,
+  "width": 620.16,
+  "height": 798.0,
+  "text": "ASME BPVC.II.A-2025 SA-568/SA-568M (ASTM A568/A568M) \nTABLE A1.2 Thickness Tolerances of Hot-Rolled Sheet (High\u00ad\nStrength, Low-Alloy Steel)-15-mm (Cut Edge) and 25-mm (Mill \nEdge) Minimum Edge Distance (Coils and Cut Lengths, Including \nPickled) \nNOTE I-Thickness is measured at any point across the width not less \nthan 15 mm from a cut edge and not less than 25 mm from a mill edge. \nThis table does not apply to the uncropped ends of mill edge coils. \nNOTE 2-Micrometers used for measurement of thickness shall be \nconstructed with anvils and spindles having minimum diameters of \n0.188 in. [4.80 mm]. The tip of the spindle shall be flat, and the tip of the \nanvil shall be flat or rounded with a minimum radius of curvature of 0.10 \nin. [2.55 mm]. Micrometers with pointed tips are not suitable for thickness \nmeasurements. \nNoTE 3-This table was constructed by multiplying the values in the \nstandard table by 0.75 and rounding to 2 decimal places using standard \nASTM practice. \nNoTE 4--The thickness of material <50 mm wide shall be measured at \nmid-width. \nSpecified Width, mm \nTo 600, incl \nOver 600 to 1200, incl \nOver 1200 to 1500, incl \nOver 1500 to 1800, incl \nOver 1800 to 2000, incl \nOver2000 \nSpecified Ordered Thickness, mmA \nThrough Over 2.0 to Over 2.5 4.5 to \n2.0 2.5, incl to 6.0, excl \n4.5, excl \nThickness Tolerances Over, mm, No Tolerance Un\u00ad\nder 8 \n0.22 0.26 0.30 0.30 \n0.26 0.30 0.34 0.38 \n0.26 0.30 0.38 0.38 \n0.30 0.34 0.41 0.42 \n0.30 0.34 0.45 0.45 \nC 0.38 0.45 0.45\u00b0 \nA The specified thickness range captions apply independent of whether the \nordered thickness is stated as a nominal or minimum. \n8 The tolerances provided in the table are based on minimum thickness (tolerance \nover, not tolerance under). For nominal thickness, the tolerance is divided equally \nover and under. \n0 Where an ellipsis ( ... ) appears in the table, the requirements have not been \ndefined. \nTABLE A 1.3 Width TolerancesA of Hot-Rolled Mill Edge Sheet (All \nDesignations) \n(Coils and Cut Lengths, Including Pickled) \nSpecified Width, mm Width Tolerance, Over Only, mm \nTABLE A1.4 Width Tolerances of Hot-Rolled Cut Edge Sheet (All \nWidths) and Cold-Rolled Sheet (Widths Over 300 mm)-(AII \nDesignationst \n(Coils and Cut Lengths, Including Pickled) \n--------------A\u00b7veI Thraug~rl'IOA HSb~A====---========S~p~ec~lf~ie~d:::!W=:l~dt~h:!::' m~m~=====--';W~id ... th,_1i~o~le,,,ra,..n..,.ce 5 , _____ _J_ \n300 600 16 16 Over Through Over Only, mm \n600 1200 26 28 600A 3 \n1200 1500 32 38 600 1200 5 \n1500 1800 35 45 1200 1500 6 \n1800 48 50 1500 1800 8 \nA The above tolerances do not apply to the uncropped ends of mill edge coils 1800 10 \n(9.1.1.1). A Cold Rolled widths 300 mm and less, refer to Table A1.15. \n993 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 2,
+  "tabulaTablesPath": "tables_tabula/page-1093.json",
+  "tabulaTablesCsv": "tables_tabula/page-1093.csv",
+  "tabulaTableCount": 2,
+  "bestTextPath": "best_text/pages/page-1093.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2719,
+  "bestTextAlphaRatio": 0.626
+}

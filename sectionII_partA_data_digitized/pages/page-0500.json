@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 500,
+  "globalPageIndex": 500,
+  "width": 599.4,
+  "height": 844.08,
+  "text": "SA-311/SA-311M ASME BPVC.II.A-2025 \n9.4 Workmanship - The bars shall be free of pipe, \ncracks, and flakes. Within the limits of good manufacturing \nand inspection practices, the bars shall be free of injurious \nseams, laps, segregation, or other imperfections that, due \nto their nature, degree, or extent, will interfere with the use \nof the material in machining or fabrication of suitable parts. \n11. Certification and Test Reports \n11.1 A manufacturer's certification that the material \nwas manufactured and tested in accordance with this speci\u00ad\nfication together with a report of the heat analysis and \ntension test results shall be furnished at the time of ship\u00ad\nment. The report shall include the name of the manufac\u00ad\nturer, ASTM designation and year date and revision letter, \nif any, class and grade, heat number, size, and grain size \n(if requested). \n10. General Requirements \n12. Keywords \n10.1 Material furnished under this specification shall \nconform to the requirements of the current edition of Speci\u00ad\nfication A 29 / A 29M and/or Specification A 108 unless \notherwise stated. \n12.1 carbon steel bars; cold finished steel bars; steel \nbars \nUNS \nDesignation Grade \nGl0180 1018 \nGl0350 1035 \nGl0450 1045 \nGl0500 1050 \nGl5410 1541 \nGlll70 1117 \nGll370 1137 \nG 11410 1141 \nGll440 1144 \nTABLE 1 \nCHEMICAL REQUIREMENTS \n(CAST OR HEAT ANAL YSIS)A \nCarbon,% Manganese, % Phosphorus, max % \n0.15-0.20 0.60-0.90 0.040 \n0.32-0.38 0.60-0.90 0.040 \n0.43-0.50 0.60-0.90 0.040 \n0.48-0.55 0.60-0.90 0.040 \n0.36-0.44 1.35-1.65 0.040 \n0.14-0.20 1.00-1.30 0.040 \n0.32-0.39 1.35-1.65 0.040 \n0.37-0.45 1.35-1.65 0.040 \n0.40-0.48 1.35-1.65 0.040 \nA The intentional addition of Bi, Se, Te, and Pb is not pNmitted. \n448 \nSulfur, % \n0.050 max \n0.050 max \n0.050 max \n0.050 max \n0.050 max \n0.08-0.13 \n0.08-0.13 \n0.08-0.13 \n0.24-0.33 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0500.json",
+  "tabulaTablesCsv": "tables_tabula/page-0500.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0500.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1824,
+  "bestTextAlphaRatio": 0.5811
+}

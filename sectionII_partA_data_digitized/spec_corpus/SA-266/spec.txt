@@ -1,0 +1,773 @@
+=== Page 445 ===
+
+ASME BPVC.ILA-2025 SA-266/SA-266M
+
+SPECIFICATION FOR CARBON STEEL FORGINGS FOR
+PRESSURE VESSEL COMPONENTS
+
+xs SA-266/SA-266M ily HW?
+
+® ‘Standards Worwide
+
+(Identical with ASTM Specification A266/A266M-21.)
+
+=== Page 446 ===
+
+SA-266/SA-266M ASME BPVC.IILA-2025
+Specification for —
+Carbon Steel Forgings for Pressure Vessel Components
+1. Scope A275/A275M Practice for Magnetic Particle Examination of
+
+1.1 This specification covers four grades of carbon steel Steel Forgings i
+forgings for boilers, pressure vessels, and associated equip- A370 Test Methods and Definitions for Mechanical Testing
+ment. of Steel Products
+
+A788/A788M Specification for Steel Forgings, General Re-
+Note 1—Designations have been changed as follows: quirements a
+Current Formerly A1058 Test Methods for Mechanical Testing of Steel
+arece { Class 1 Products—Metric
+rade 2 Class 2 Lk . .
+Grade 3 Class 3 E112 Test Methods for Determining Average Grain Size
+| Grade 4 Class 4 E165/E165M Practice for Liquid Penetrant Testing for Gen-
+
+1.2 Supplementary requirements are provided for use when eral Industry
+additional testing or inspection is desired. These shall apply E381 Method of Macroetch Testing Steel Bars, Billets,
+only when specified individually by the purchaser in the order. Blooms, and Forgings
+
+1.3 The values stated in either SI units or inch-pound units ene wan ar i Vessel Code. Section IX
+are to be regarded separately as standard. The values stated in oller and Pressure Vessei Code, section
+each system are not necessarily exact equivalents; therefore, to 3. Ordering Information and General Requirements
+ensure conformance vane the andar. - i tem . all be 3.1 In addition to the ordering information required by
+used independently o “hi - er, and values from the two Specification A788/A788M, the purchaser shall include with
+systems shall not be combined. the inquiry and order a detailed drawing, sketch, or written
+
+1.4 Unless the order specifies the applicable “M” specifica- description of the forging.
+tion designation, the material shall be furnished to the inch- 3.2 Material supplied to this specification shall conform to
+
+, pound units. the requirements of Specification A788/A788M, which out-
+
+1.5 This international standard was developed in accor- lines additional ordering information, manufacturing
+dance with internationally recognized principles on standard- requirements, testing and retesting methods and procedures,
+ization established in the Decision on Principles for the marking, certification, product analysis variations, and addi-
+Development of International Standards, Guides and Recom- __ tional supplementary requirements.
+mendations issued by the World Trade Organization Technical 3.3 If the requirements of this specification are in conflict
+Barriers to Trade (IBT) Committee. with the requirements of Specification A788/A788M, the
+2. Referenced Documents requirements of this specification shall prevail.
+
+2.1 ASTM Standards: 3.4 For hubbed flat heads and tube sheets ordered for ASME
+
+Boiler and Pressure Vessel Code application,. Supplementary
+
+| , Requirement $12 of Specification A788/A788M shall be
+
+specified in addition to Supplementary Requirement S8 of this
+
+: specification. .
+
+4. Materials and Manufacture
+
+4.1 The steel shall be made in accordance with the Melting
+
+Process Section of Specification A788/A788M. A sufficient
+
+394 |
+
+=== Page 447 ===
+
+ASME BPVC.II.A-2025 SA-266/SA-266M
+—_ discard shall be made to secure freedom from injurious pipe § 8. Mechanical Properties
+( and undue segregation. | 8.1 General Requirements—Except when otherwise speci-
+4,2 The material shall be forged as close as practical to the fied in accordance with Supplementary Requirement S2, the
+specified shape and size. material shall conform to the requirements for mechanical
+4.3 The finished product shall be a hot-worked forging as properties prescribed in Table 2 when tested in accordance with
+defined by Specification A788/A788M. the latest issue of Test Methods and Definitions A370 or Test
+Methods A1058 when the M suffix standard has been specified.
+5. Machining The largest obtainable tension test specimen as specified in Test
+5.1 Surfaces shall be machined as designated by the pur- Methods and Definitions A370 or Test Methods A1058, as
+,; applicable, shall be used.
+chaser. Unmachined surfaces shall be sufficiently free of scale ; ; ; ;
+to permit inspection. 8.1.1 Except when otherwise specified in accordance with
+Supplementary Requirement $2, the longitudinal axis of the
+5.2 Machining may be performed either prior to or afterheat specimens shall be parallel to the direction of major working of
+treatment at the option of the manufacturer unless specified in _ the forging. For upset-disc forgings, the longitudinal axis of the
+a accordance with Supplementary Requirement S1. test specimen shall be in the tangential direction.
+8.1.1.1 The longitudinal axis of the specimen shall be
+6. Heat Treatment located midway between the parallel surfaces of the test
+6.1 After forging and before reheating for heat treatment, extension if added to the periphery of disks or midway between
+the forgings shall be cooled in such a manner as to prevent the center and surface of solid forgings. For hollow forgings, or
+injury and to accomplish transformation. those heat-treated after boring, the specimen shall be located at
+6.2 All forgings shall be annealed, normalized, or normal-  ™idwall. For the special case of forgings that are heat-treated
+ized and tempered, but alternatively may be liquid quenched solid, but are subsequently bored, the tension test specimen
+and tempered when mutually agreed upon between the manu- may be taken at the location of the minimum inside diameter
+facturer and the purchaser. When tempering is performed, it er boring instead of the mid-radius position. When sepa-
+shall be at a subcritical temperature, but no less than 1100°F _—‘Tately forged test blocks are employed as defined in 8.1.3, the
+[595 °C], tension test specimens shall be taken from a location that
+. represents the midwall of the heaviest section of the production
+6.3 A multiple stage austenitizing procedure may be used forgings. When specimens are required from opposite ends,
+whereby the forging is first fully austenitized and liquid they shall be taken from the diagonal corners of an axial plane.
+| quenched, followed by reheating within the intercritical tem- 8.1.2 Except as specified herein, tests for acceptance shall
+. perature range to partially reaustenitize, and again liquid he made after heat treatment has been completed. When the
+quenched. On completion of the austenitizing/quenching — ends of the cylindrical forgings are closed in by reforging, the
+cycles, tempering at a temperature between 1100 °F [595 °C] cyiindrical forgings may be annealed, normalized, or normal-
+and the lower critical temperature shall follow. ized and tempered and tested prior to reforging. After
+Note 2—Although liquid quenching from the austenitizing tempera- reforging, the entire forging shall be reheat-treated in the same
+tures is more effective in enhancing impact properties, air cooling from the manner and at the same temperature range as employed when
+austenitizing temperatures is also beneficial and may be used instead of the forging was heat-treated prior to certification testing.
+the normalizing procedure in 6.2. 8.1.3 When mutually agreed upon between manufacturer
+7. Chemical Composition , and purchaser, test specimens may be machined from a
+, specially forged block suitably worked and heat-treated with
+Tl Heat Analysis—The heat analysis obtained from sam- jp, production forgings. Such a special block shall be obtained
+pling in accordance with Specification AT88/ A788M_ shall from an ingot, slab, or billet from the same heat used to make
+comply with Table | except that the additional features of the forgings it represents. This block shall receive essentially
+Supplementary Requirements sil and S12 shall also apply as the same type of hot working and forging reduction as the
+— individually specified in the ordering information. production forgings; however, a longitudinally forged bar with
+7.2 Product Analysis—The purchaser may use the product — dimensions not less than T by T by 37 may be used to represent
+analysis provision of Specification A788/A788M to obtain a a ring forging. The dimension T shall be representative of the
+product analysis from a forging representing each heat or heaviest effective cross section of the forging. For quenched
+multiple heat.
+) TABLE 2 Tensile Requirements
+TABLE 1 Chemical Requirements Grade 4 lane Grade 3
+Composition, % eee
+—_— SN OOOO Tensile strength, min, ksi [MPa] 60-85 70-95 75-100
+Grades 1 and 2 Grade 3 Grade 4 [415-585] [485-655] [515-690]
+Carbon, max 0.30 0.35 0.30 Yield strength (0.2 % offset), 30 [205] 36 [250] 37.5 [260]
+Manganese 0.40—-1.05 0.80—1.35 0.80—-1.35 min, ksi [MPa]
+Phosphorus, max 0.025 0.025 0.025 Elongation in 2 in. [62.5 mm], 23 [21] 20 [18] 19 [17]
+Sulfur, max 0.025 0.025 0.025 min, %
+395
+
+=== Page 448 ===
+
+SA-266/SA-266M ASME BPVC.II.A-2025
+and tempered forgings for which tests are required at both ends 8.2.2.2 For quenched and tempered forgings weighing over —
+by 8.2.2.3 and 8.2.2.4, separately forged test blocks are not 5000 Ib [2250 kg] to 10 000 Ib [4500 kg] at the time of heat
+allowed. | treatment, but not exceeding 12 ft [3.7 m] in length, one
+Nore 3—In using separately forged test blocks, attention is drawn to the tension test shall be taken from each forging.
+effect of mass differences between the production forgings and the test 8.2.2.3 For quenched and tempered forgings that exceed
+blocks. 12 ft [3.7 m] in length, one tension test shall be taken from
+8.2 Specific Requirements—The number and location of each end of each forging. a .
+tests are based on forging length, weight, and heat treatment, 8.2.2.4 For quenched and tempered forgings weighing more
+and shall be as prescribed below. The length and weight to be than 10 000 Ib [4500 kg] at the time of heat treatment, two
+used for this purpose shall be the shipped length and weight of tension test specimens shall be taken from each forging. These
+forgings produced individually or the aggregate shipped length shall be offset 180 | from each other except that if the length of
+and weight of all pieces cut from a multiple forging. the forging, excluding test prolongations, exceeds 12 ft [3.7 ml],
+8.2.1 Annealed, Normalized, or Normalized and Tempered then one specimen shall be taken from each end of the forging.
+Steel Forgings: , 9. Repair Weldin
+8.2.1.1 For forgings weighing 5000 Ib [2250 kg] or less at smepan . me _ —
+the time of heat treatment, one tension test shall be taken from 9.1 Repair welding of forgings is permissible only at the
+one forging per heat in each heat treatment charge. When heat option of the purchaser. If repair welding is performed, welders
+treatment is performed in continuous-type furnaces with suit- and weld procedures shall be qualified in accordance with
+able temperature controls and equipped with recording pyrom- ‘Section IX of the ASME Boiler and Pressure Vessel Code.
+eters so that complete heat treatment records are available, a . .
+. . ; 10. Certification
+tempering charge may be considered as any continuous run not
+exceeding an 8h period. , 10.1 In addition to the mandatory certification requirements
+8.2.1.2 For forgings weighing over 5000 Ib [2250 kg] at the Of Specification A788/A788M, the heat treatment cycle data
+time of heat treatment, one tension test shall be taken from shall be included.
+each forging. .
+8.2.2 Quenched and Tempered Forgings: Ii. Product Marking
+8.2.2.1 For quenched and tempered forgings weighing 11.1 Each forging shall be identified in accordance with the
+5000 Ib [2250 kg] or less at the time of heat treatment, but not © Marking Section of Specification A788/A788M. In addition,
+exceeding 12 ft [3.7 m] in length, one tension test shall be the forging shall be marked following the grade designation by
+taken from one forging per heat in each heat treatment charge. the letter “A” for annealed, “N” for normalized, “NT” for
+When heat treatment is performed in continuous-type furnaces § normalized and tempered, and “S” for liquid quenched and
+with suitable temperature controls and equipped with recording tempered, as applicable.
+pyrometers so that complete heat treatment records are
+available, a tempering charge may be considered as any 12. Keywords
+| continuous run not exceeding an 8 h period. 12.1 pressure vessel service; steel forgings—carbon
+SUPPLEMENTARY REQUIREMENTS |
+One or more of the following supplementary requirements shall apply only when specified by the
+purchaser in the inquiry, contract, or order. Details of these supplementary requirements shall be
+agreed upon between the manufacturer and the purchaser. |
+S1. Rough Turning and Boring conform with requirements of Table 2, with the exception of 7
+S1.1 The position of the rough turning and boring in the he ductility limits that shall be as follows:
+sequence of manufacturing operations shall be as specified by cloncation | yin (62 5 mm}, min, % 20 118} ; oT] tert 6
+ongation in <4 In. 5 mm], min, %
+the purchaser. Reduction of area, min, % 30 25 25
+$2. Alternative Tension Test Orientation S3. Hydrostatic Test
+$2.1 In lieu of the requirements of Section 8, the longitu- 53.1 A hydrostatic pressure test shall be applied. The details
+dinal axis of the test specimens shall be transverse to the of the test, including its position in the sequence of manufac-
+direction of major working of the forging. The results shall —_ turing operations, shall be specified.
+396
+
+=== Page 449 ===
+
+ASME BPVC.II.A-2025 SA-266/SA-266M 
+S4. Magnetic Particle Examination 
+S4.1 All accessible surfaces of the finished forging shall be 
+examined by a magnetic particle method. The method shall be 
+in accordance with Practice A275/A275M. Acceptance limits 
+shall be as agreed upon between the manufacturer and the 
+purchaser. 
+SS. Liquid Penetrant Examination 
+S5.1 After forgings have been heat-treated by liquid 
+quenching and tempering, all accessible surfaces shall be 
+inspected for quench cracks by the liquid penetrant method in 
+accordance with Test Method E165/El65M as an alternative to 
+magnetic particle exanrination. 
+S6. Macroetch Test 
+S6.1 A sample forging shall be sectioned and etched to 
+show ·flow lines and internal imperfections. The test shall be 
+conducted in accordance with Method E381. Details of the test 
+shall be agreed upon between the manufacturer and the 
+purchaser. 
+S7. Product Analysis 
+S7 .1 A product analysis in accordance with Section 7 shall 
+be made from one randomly selected forging representing each 
+size and shape of forging on the order. If the analysis fails to 
+comply, each forging shall be checked or the lot rejected. All 
+results shall be reported to the purchaser. 
+SS. Specimen Location on Forged Hubs 
+S8.1 Forged hubs to be butt-welded to shells shall be forged 
+in such a manner as to provide in the hub the full nrinimum 
+tensile strength and elongation specified for the material, in a 
+direction parallel to the axis of the vessel. A tension specimen 
+(subsize if necessary) shall be taken in this direction and as 
+close to the finished hub outside diameter as practical. 
+S9. Hardness 
+S9.1 The purchaser may check the Brinell hardness of the 
+forging at any location on the surface of the forging, and the 
+hardness shall be within the following limits: 
+Grade 
+1 
+2 and 4 
+3 
+SlO. Grain Size 
+Brinell Hardness Range HBW 
+121 to 170 
+137 to 197 
+156 to 207 
+S 10 .1 The austenitic grain size of the steel shall be 1 to 5 as 
+determined using Test Methods E112. 
+Sll. Restriction on Residual Elements (Applicable to Heat 
+Analysis) 
+S 11.1 Nickel, chromium, and molybdenum shall be deter­
+mined and shall not exceed the following limits: 
+Nickel 
+Chromium 
+Molybdenum 
+S12. Deleted. 
+S13. Impact Tests 
+0.25 % max 
+0.20 % max 
+0,08% max 
+S13.l Charpy impact tests shall be made. The number and 
+location of the tests, minimum properties, and test temperatures 
+shall be specified. 
+397 
+Sl3.2 The specimens shall be machined and tested in 
+accordance with Test Methods and Definitions A370. 
+Sl3.3 Retests may be conducted in accordance with Section 
+10 of Specification A 788/ A 788M. 
+S14. Individual Forging 
+Sl4.1 Forgings, whether identical or not, shall be produced 
+individually. They shall not be forged in multiples and sepa­
+rated prior to or after heat treatment. 
+Sl4.2 The shape and size of individual forgings shall be 
+agreed upon between the manufacturer and the purchaser by 
+means of a forging drawing or the purchase order. 
+SIS. Carbon Equivalancy 
+Sl5.1 The heat analysis including the residual element 
+restrictions of Sl in Specification A788/A788M shall be 
+limited such that the carbon equivalent shall not exceed 0.45 
+for Grade 1 or 0.50 for Grade 2 or 4 when calculated in 
+accordance with the following formula: 
+%Mn %Cr+%Mo+%V %Ni+%Cu 
+CE=% C+-6-+ 5 + 15
+
+=== Page 451 ===
+
+ASME BPVG.ILA-2025 SA-268/SA-268M
+SPECIFICATION FOR SEAMLESS AND WELDED
+FERRITIC AND MARTENSITIC STAINLESS STEEL
+TUBING FOR GENERAL SERVICE
+CxS SA-268 /SA-268M ily
+® Standards Worldwide
+(Identical with ASTM Specification A268/A268M-20.)
+399 ,
+
+=== Page 452 ===
+
+SA-268/SA-268M ASME BPVC.II.A-2025 
+Specification for 
+Seamless and Welded Ferritic and Martensitic Stainless 
+Steel Tubing for General Service 
+1. Scope 
+1.1 This specification covers a number of grades of 
+nominal-wall-thickness, stainless steel tubing for general 
+corrosion-resisting and high-temperature service. Most of these 
+grades are commonly known as the "straight-chromium" types 
+and are characterized by being ferromagnetic. Two of these 
+grades, TP410 and UNS S 41500 (Table 1), are amenable to 
+hardening by heat treatment, and the high-chromium, ferritic 
+alloys are sensitive to notch-brittleness on slow cooling to 
+ordinary temperatures. These features should be recognized in 
+the use of these materials. 
+1.2 An optional supplementary requirement is provided, and 
+when desired, shall be so stated in the order. 
+1.3 The values stated in either inch-pound units or SI units 
+are to be regarded separately as standard. Within the text, the 
+SI units are shown in brackets. The values stated in each 
+system may not be exact equivalents; therefore, each system 
+shall be used independently of the other. Combining values 
+from the two systems may result in non-conformance with the 
+standard. The inch-pound units shall apply unless the "M" 
+designation of this specification is specified in the order. 
+1.4 This international standard was developed in accor­
+dance with internationally recognized principles on standard­
+ization established in the Decision on Principles for the 
+Development of International Standards, Guides and Recom­
+mendations issued by the World Trade Organization Technical 
+Barriers to Trade (TBT) Committee. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+400 
+A480/A480M Specification for General Requirements for 
+Flat-Rolled Stainless and Heat-Resisting Steel Plate, 
+Sheet, and Strip 
+A763 Practices for Detecting Susceptibility to Intergranular 
+Attack in Ferritic Stainless Steels 
+Al016/A1016M Specification for General Requirements for 
+Ferritic Alloy Steel, Austenitic Alloy Steel, and Stainless 
+Steel Tubes 
+E213 Practice for Ultrasonic Testing of Metal Pipe and 
+Tubing 
+E273 Practice for Ultrasonic Testing of the Weld Zone of 
+Welded Pipe and Tubing 
+3. Terminology 
+3.l Lot Definitions: 
+3.1.1 For flange and flaring requirements, the term lot 
+applies to all tubes, prior to cutting, of the same nominal size 
+and wall thickness that are produced from the same heat of 
+steel. If final heat treatment is in a batch-type furnace, a lot 
+shall include only those tubes of the same size and from the 
+same heat that are heat treated in the same furnace charge. If 
+the final heat treatment is in a continuous furnace, the number 
+of tubes of the same size and from the same heat in a lot shall 
+be determined from the size of the tubes as given in Table 2. 
+3 .1.2 For tensile and hardness test requirements, the term lot 
+applies to all tubes, prior to cutting, of the same nominal 
+diameter and wall thickness that are produced from the same 
+heat of steel. If final heat treatment is in a batch-type furnace, 
+a lot shall include only those tubes of the same size and the 
+same heat that are heat treated in the same furnace charge. If 
+the final heat treatment is in a continuous furnace, a lot shall
+
+=== Page 453 ===
+
+TABLE 1 Chemical Requirements |
+Grade TP405_ TP410 TP429 ~ TP430 TP443 TP446-1 TP446-24 fp eee TP409
+UNS | |
+Designation : S40500 S41000 | $42900 S43000 S44300 S44600 S44600 S40800 S40900
+Element Composition, % >
+C, max 0.08 0.15 0.12 0.12 0.20 0.20 0.12 . 0.08 0.08 =
+Min, max 1.00 1.00 1.00 1.00 1.00 1.50 1.50 1.00 1.00 a
+b P/max — 0.040 0.040 0.040 | 0.040 0.040 0.040 0.040 . 0.045 0.045 a]
+oO S, max 0.030 0.030 0.030 0.030 0.030 0.030 0.030 0.045 0.030 ss
+a Si, max 1.00 1.00 1.00 | 1.00 1.00 1.00 1.00 1.00 1.00 =
+Ni 0.50 max Lae Lae tee 0.75 max 0.75 max 0.50 max 0.80 max 0.50 max >
+Cr 11.5-14.5 11.5-13.5 14.0-16.0 16.0-18.0 18.0-23.0 23.0-27.0 23.0—27.0 11.5—13.0 ~ 40.5-11.7 N
+Mo tae Lae wee tas a wae Lae Lae tae N
+Al 0.10-0.30 _ _ _ _ _ _ _ ; _ bd
+Cu ae a Lae a | 0.90-1.25 ae | ae _ ae
+N ae a — _— eb 0.25 0.25 _ ae
+Ti ae a Lae Lae Lae a wae 12 x C min; 6 x C min;
+1.10 max 0.75 max
+7p)
+: >
+NO
+CN
+oe)
+, P
+: >
+NO
+, CO
+. | 4
+
+=== Page 454 ===
+
+.i:,. 
+0 
+N 
+TABLE 1 Continued 
+TP TP 18Cr-
+Grade TP439 . . . . .. TP430 Ti XM-27 XM-33A 2Mo 29-4 29-4-2 26-3-3 25-4-4 ... . .. . .. . .. . .. TP468 
+UNS 
+Designa-
+lion S43035 S43932 S41500 8 S43036 S44627 S44626 S44400 S44700 S44800 S44660 S44635 S44735 S32803 S40977 S43940 S42035 S46800 
+Element Composition, % 
+C, max 0.07 0.030 0.05 0.10 0.01A 0.06 0.025 0.010 0.010 0.030 0.025 0.030 0.015'--' 0.03 0.03 0.08 0.030 
+Mn, max 1.00 1.00 0.5-1.0 1.00 0.40 0.75 1.00 0.30 0.30 1.00 1.00 1.00 0.5 1.50 1.00 1.00 1.00 
+P, max 0.040 0.040 0.03 0.040 0.02 0.040 0.040 0.025 0.025 0.040 0.040 0.040 0.020 0.040 0.040 0.045 0.040 
+S, max 0.030 0.030 0.03 0.030 0.02 0.020 0.030 0.020 0.020 0.030 0.030 0.030 0.005 0.D15 0.015 0.030 0.030 
+Si, max 1.00 1.00 0.60 1.00 0.40 0.75 1.00 0.20 0.20 1.00 0.75 1.00 0.50 1.00 1.00 1.00 1.00 
+Ni 0.50 max 0.50 3.5-5.5 0.75 max 0.5°max 0.50 max 1.00 max 0.15 max 2.0-2.5 1.Q-3.50 3.5-4.5 1.00 max 3.0-4.0 0.30-1.00 ... 1.0-2.5 0.50 
+Cr 17.00- 17.0-19.0 11.5-14.0 16.00- 25.0-27.5 25.0-27.0 17.5-19.5 28.0-30.0 28.0-30.0 25.0-28.0 24.5-26.0 28.00- 28.0- 10.50- 17.50- 13.5- 18.00-
+29.0 12.50 18.50 15.5 20.00 
+19.00 19.50 30.00 
+Mo ... ... 0.5-1.0 ... 0.75-1.50 0.75-1.50 1.75-2.50 3.5-4.2 3.5-4.2 3.0-4.0 3.5-4.5 3.60-4.20 1.8-2.5 . . . . . . 0.2-1.2 ... 
+Al, max 0.15 0.15 . . . . .. ... . .. ... . .. ... . .. . .. ... ... . .. . .. . .. . .. 
+Cu, max ... ... . .. ... 0.2 0.20 ... 0.15 0.15 ... . .. . .. . . . . .. . . . ... . .. 
+N, max 0.04 0.030 (Ti . . . . .. 0.D15 0.040 0.035 0.020E 0.020E 0.040 0.035 0.045 0.020 0.030 ... . .. 0.030 
++ Cb) 
+{0.20 + 4 
+(C + N)l 
+min.; 
+0.75 max 
+Ti 0.20 + 4 . . . 5xC ... 7 x (C + (Ti+ Cb) ... ... (Ti+ Cb) (Ti+ Cb) (Ti+ Cb) . . . ... 0.10-0.60 0.30-0.50 0.07-0.30 
+(C min; N) = = = 
++ N) 0.75 put no less 0.20 + 4 0.20-1.00 0.20 + 4 0.20-1.00 
+min; max 
+1.10 than (C+N) and 6 x (C + N) and 6 x 
+max 0.20 
+min; min; (C + N) min to (C+N) 
+1.00 0.80 
+max max min 0.80 min 
+max 
+Cb ... . . . ... 0.05-0.20 ... ... . .. ... ... . .. ... 0.15- . . . (3 x %C ... 0.10-0.60 
+o.50F + 0.30) 
+min 
+(Ti+ Cb) 
+= 
+0.20 
++4(C+N) 
+min;0.80 
+max 
+A For small diameter or thin walls, or both, tubing, where many drawing passes are required, a carbon maximum of 0.015 % is necessary. Small outside diameter tubes are defined as those less than 0.500 in. [12.7 mm] 
+in outside diameter and light wall tubes as those less than 0.049 in. [1.2 mm] in average wall thickness (0.040 in. [1 mm] in minimum wall thickness). 
+8 Plate version of CA6NM. 
+c Carbon plus nitrogen= 0.30 max. 
+0 Nickel plus copper. 
+E Carbon plus nitrogen = 0.025 % max. 
+F Cb;{C + N) = 12 min. 
+~ 
+N a, 
+0:) 
+........ 
+~ 
+r::.i a, 
+0:) 
+3: 
+~ 3: 
+!!l 
+to 
+~ 5: 
+r::.i 
+0 
+N 
+r.n
+
+=== Page 455 ===
+
+ASME BPVC.II.A-2025 SA-268/SA-268M
+— TABLE 2 Number of Tubes in a Lot Heat Treated by the 9, Product Analysis
+i Continuous Process
+\ a a 9.1 An analysis of either one billet or one length of flatrolled
+Size of Lot .
+Size of Tube stock or one tube shall be made from each heat. The chemical
+2 in. [50.8 mm] and over in outside diameter and —_— not more than 50 tubes composition thus determined shall conform to the requirements
+0.200 in. [5.1 mm] and over in wall thickness specified.
+Less than 2 in. [50.8 mm] but over 1 in. [25.4 mm] not more than 75 tubes .
+in outside diameter or over 1 in. [25.4 mm] in 9.2 The product analysis tolerance of the Chemical Require-
+outside diameter and under 0.200 in. [5.1 mm] in ments Table of A480/A480M shall apply. The product analysis
+wall thickness . . PP'y P ys
+1 in. [25.4 mm] or less in outside diameter not more than 125 tubes tolerance is not applicable to the carbon content for material
+WIth a specified maximum carbon of 0.04 % or less.
+9.3 If the original test for product analysis fails, retests of
+two additional billets, lengths of flat-rolled stock or tubes shall
+be made. Both retests for the elements in question shall meet
+include all tubes of the same size and heat, heat treated in the —_the requirements of the specification; otherwise all remaining
+— same furnace at the same temperature, time at heat, and furnace —_ material in the heat or lot shall be rejected or, at the option of
+speed. | the producer, each billet or tube may be individually tested for
+Pp y y
+acceptance. Billets, lengths of flat-rolled stock or tubes which
+4. Ordering Information do not meet the requirements of the specification shall be
+4.1 It is the responsibility of the purchaser to specify all rejected. ,
+requirements that are necessary for material ordered under this
+specification. Such requirements may include, but are not 10. Tensile Requirements ,
+limited to, the following: 10.1 The material shall conform to the tensile properties
+4.1.1 Quantity (feet, metres, or number of lengths), prescribed in Tables 3 and 4.
+4.1.2 Name of material (seamless or welded tubes),
+4.1.3 Grade (Table 1), 11. Hardness Requirements ,
+4.1.4 Size (outside diameter and nominal wall thickness),
+( ; ) 11.1 The tubes shall have a hardness number not to exceed
+4.1.5 Length (specific or random), ; ;
+; . 7 ; those prescribed in Table 5.
+4.1.6 Optional requirements (hydrostatic or nondestructive
+electric test, Section 16)
+‘ gs ; ; 12. Permissible Variations in Dimensions
+7 4.1.7 Test report required (Certification Section of Specifi-
+cation A1016/A1016M), 12.1 Variations in outside diameter, wall thickness, and
+4.1.8 Specification designation, length from those specified shall not exceed the amounts
+_ 4.1.9 Intergranular corrosion test, and prescribed in Table 6.
+4.1.10 Special requirements. , 12.2 The permissible variations in outside diameter given in
+Table 6 are not sufficient to provide for ovality in thin-walled
+5. General Requirements tubes, as defined in the Table. In such tubes, the maximum and
+5.1 Material furnished under this specification shall con- | Minimum diameters at any cross section shall deviate from the
+form to the applicable requirements of Specification A1016/ | nominal diameter by no more than twice the permissible
+A1016M unless otherwise provided herein. | variation in outside diameter given in Table 6; however, the
+mean diameter at that cross section must still be within the
+6. Manufacture given permissible variation.
+| 6.1 The tubes shall be made by the seamless or welded 12.3 When the specified wall is 2 % or less of the specified
+7 process with no filler metal added. outside diameter, the method of measurement is in accordance
+~ , with the agreement between the purchaser and the manufac-
+7. Heat Treatment turer (see Note 1).
+7.1 As a final heat treatment, tubes shall be reheated to a Note 1—Very thin wall tubing may not be stiff enough for the outside
+temperature of 1200 °F [650 °C] or higher and cooled (as diameter to be accurately measured with a point contact test method, such
+mer for th d h , £ thi as with the use of a micrometer or caliper. When very thin walls are
+appropriate or the grade) to meet the requirements of this specified, “go”—“no go” ring gages are commonly used to measure
+specification. diameters of 12 in. [38.1 mm] or less. A 0.002-in. [0.05-mm] additional
+, | ws tolerance is usually added on the “go” ring gage to allow clearance for
+7.2 The martensitic grade UNS S 41500 shall be reheated to sliding. On larger diameters, measurement is commonly performed with a
+a temperature of 950 °F [510 C] or higher and cooled aS pi tape. Other test methods such as optical test methods may also be
+appropriate to meet the requirements of this specification. considered.
+8. Chemical Composition 13. Surface Condition 7 ,
+8.1 The steel shall conform to the chemical requirements 13.1 All tubes shall be free of excessive mill scale, suitable
+prescribed in Table 1. for inspection. A slight amount of oxidation will not be
+403
+
+=== Page 456 ===
+
+SA-268/SA-268M ASME BPVC.II.A-2025 
+TABLE 3 Tensile Requirements 
+Tensile Yield ElongationA,a strength, strength, in 2 in. or 
+min, min, 50 mm, 
+Grade and UNS Designation ksi [MPa] ksi [MPa] min,% 
+TP405 60 [415] 30 [205] 20 S40500 
+S40800 55 [380] 30 [205] 20 
+TP410 60 [415] 30 [205] 20 S41000 
+TP429, TP430, and TP430 Ti 60 [415] 35 [240] 20 S429000, S 43000, and S 43036 
+TP443 70 [485] 40 [275] 20 S44300 
+TP446-1 70 [485] 40 [275] 18 S44600 
+TP446-2 65 [450] 40 [275] 20 S44600 
+TP409 55 [380] 25 [170] 20 S40900 
+TP439 60 [415] 30 [205] 20 S43035 
+S43932 60 [415] 30 [205] 20 
+S41500 115 [795] 90 [620] 15 
+TPXM-27 65 [450] 40 [275] 20 S44627 
+TPXM-33 68 [470] 45 [310] 20 S44626 
+18Cr-2Mo 60[415] 40 [275] 20 S44400 
+29-4 and 29-4-2 80 [550] 60 [415] 20 S44700 and S44800 
+26-3-3 85 [585] 65 [450] 20 S44660 
+25-4-4 90 [620] 75 [515] 20 S44635 
+S44735 75 [515] 60 [415] 18 
+28-2-3.5 
+S32803 87 [600] 72 [500] 16 
+S40977 65 [450] 41 [280] 18 
+S43940 62 [430] 36 [250] 18 
+S42035 80 [550] 55 [380] 16 
+TP468 60 [415] 30 [205] 22 S46800 
+A For tubing smaller than ½ in. [12.7 mm] in outside diameter, the elongation 
+values given for strip specimens in Table 2 shall apply. Mechanical property 
+requirements do not apply to tubing smaller than 1/a in. [3.2 mm] in outside 
+diameter or with walls thinner than 0.Q15 in. [0.4 mm]. 
+8 For longitudinal strip tests a deduction of 0.90 % for TP446-1 and S44735 and 
+1.00 % for all other grades shall be made from the basic minimum elongation for 
+each 1/s2 in. [0.8 mm] decrease in wall thickness below 5/16 in. [8 mm]. The 
+following table gives the computed minimum values: 
+considered as scale. Any special finish requirements shall be 
+subject to agreement between the manufacturer and the pur­
+chaser. 
+14. Mechanical Tests Required 
+14.1 Tension Tests-One tension test shall be made on a 
+specimen for lots of not more than 50 tubes. Tension tests shall 
+be made on specimens from two tubes for lots of more than 50 
+tubes. 
+14.2 Flaring Test (for Seamless Tubes)-One test shall be 
+made on specimens from one end of one tube from each lot of 
+finished tubes. The minimum expansion of the inside diameter 
+shall be 10 %. For tubes over 8 in. [203.2 mm] in outside 
+diameter, or tubes with wall thickness 3/s in. [9.52 mm] and 
+TABLE 4 Minimum Elongation Values 
+ElongationA in 2 in. 
+Wall Thickness or 50 mm, min, % 
+TP446-1 
+and All Other 
+in. mm S44735 S41500 Grades 
+5/16 [0.312] 8 18 15 20 
+%2 [0.281] 7.2 17 14 19 
+¼ [0.250] 6.4 16 14 18 
+7 /32 [0.219] 5.6 15 13 17 
+3/is [0.188] 4.8 14 12 16 
+%2 [0.156] 4 13 11 15 
+1/a [0.125] 3.2 13 11 14 
+%2 [0.094] 2.4 12 10 13 
+1/16 [0.062] 1.6 11 9 12 
+0.062--0.035, excl 1.6-0.9 10 8 12 
+0.035-0.022, excl 0.9-0.6 10 8 11 
+0.022-0.015, incl 0.6-0.4 10 8 11 
+ACalculated elongation requirements shall be rounded to the nearest whole 
+number. 
+Note-The above table gives the computed minimum values for each 1/s2 in. [0.8 
+mm] decrease in wall thickness. Where the wall thickness lies between two values 
+shown above, the minimum elongation value shall be determined by the following 
+equation: 
+Equation Grade 
+TP446-1 and S44735 
+S41500 
+E = 28.81 + 9.00 [E = 1.131 + 9.00] 
+E = 241 + 7.5 
+All other grades E = 321 + 10.00 [E = 1.251 + 10.00] 
+where: 
+E = elongation in 2 in. or 50 mm, %. 
+t = actual thickness of specimen, in. [mm]. 
+TABLE 5 Hardness Requirements. 
+Brinell Rockwell 
+Hardness, Hardness, 
+Grade UNS Designation max B Scale, max 
+TP405 S40500 207 95 
+S40800 207 95 
+TP410 S41000 207 95 
+TP429, TP430, and S42900, S 43000, 190 90 
+TP430TI and S 43036 
+TP443 S44300 207 95 
+TP446-1 and S44600 207 95 
+TP446-2 
+TP409 S40900 207 95 
+TP439 S43035A 190 90 
+S43932 190 90 
+S41500 295 8 32 
+TPXM-33 and S44626 and 241 100 
+TPXM-27 S44627 
+18CR-2Mo S44400 217 95 
+29-4 and 29-4-2 S44700 and 207 100 
+S44800 
+26-3-3 S44660 265 25 8 
+25-4-4 S44635 270 27 8 
+S44735 100 
+28-2-3.5 S32803 240 100 
+S40977 180 88 
+S43940 180 88 
+S42035 180 88 
+A Editorially corrected October 2000. 
+8 Rockwell hardness, C scale. 
+over, the flattening test may be performed instead of the flaring 
+test unless the flaring test is specified in the purchase order. 
+14.3 Flange Test (for Welded Tubes)-One test shall be 
+made on specimens from one end of one tube from each lot of 
+404
+
+=== Page 457 ===
+
+ASME BPVC.II.A-2025 SA-268/SA-268M 
+TABLE 6 Permissible Variations in Dimensions 
+Permissible Vari- Permissible Variations in Cut Size, Outside ations in Outside Permissible 
+Diameter, in. Diameter, Variations in Wall Length, in. 8 [mm] 
+Group [mm] in. [mm] Thickness/ % Over Under Thin-Walled Tubes 0 
+1 Up to ½ [12. 7], excl ±0.005 [0.13] ±15 1/a [3] 0 
+2 ½ to 1½ [12.7 to 38.1), excl ±0.005 [0.13) ±10 1/a [3] 0 less than 0.065 in. [1.6 mm] 
+nominal 
+3 1 ½ to 3½ [38.1 to 88.9), ±0.010 [0.25] ±10 3 /16 [5] 0 less than 0.095 in. [2.4 mm] excl 
+nominal 
+4 3½ to 5½ [88.9 to 139.7), ±0.015 [0.38) ±10 3/16 [5] 0 less than 0.150 in. [3.8 mm] excl 
+nominal 
+5 5½ to 8 [139.7 to 203.2), ±0.030 [0.76) ±10 3/16 [5] 0 less than 0.150 in. [3.8 mm] incl 
+nominal 
+AWhen tubes as ordered require wall thicknesses¾ in. [19 mm] or over, or an inside diameter 60 % or less of the outside diameter, a wider variation in wall thickness is 
+required. On such sizes a variation in wall thickness of 12.5 % over or under will be permitted. 
+For tubes less than½ in. [12.7 mm] in inside diameter which cannot be successfully drawn over a mandrel, the wall thickness may vary ±15 % from that specified. 
+8 These tolerances apply to cut lengths up to and including 24 ft [7.3 m]. For lengths greater than 24 ft [7.3 m], the above over tolerances shall be increased by 1/a in. [3 
+mm] for each 10 ft [3 m] or fraction thereof over 24 ft, or½ in. [13 mm), whichever is lesser. 
+c Ovality provisions of 12.2 apply. 
+finished tubes. For tubes over 8 in. [203.2 mm] in outside 
+diameter, or tubes with wall thickness 3/s in. [9.52 mm] and 
+over, the flattening test may be performed instead of the flange 
+test unless the flange test is specified in the purchase order. 
+14.4 Hardness Test-Brinell or Rockwell hardness tests 
+shall be made on specimens from two tubes from each lot. 
+14.5 When more than one heat is involved, the tension, 
+flaring, flanging, and hardness test requirements shall apply to 
+each heat. 
+14.6 Reverse Flattening Test-For welded tubes, one re­
+verse flattening test shall be made on a specimen from each 
+1500 ft [450 m] of finished tubing. 
+15. Intergranular Corrosion Test 
+15.1 If intergranular corrosion testing is specified in the 
+purchase order, the test shall be made in accordance with 
+Practices A763, using samples prepared as agreed upon be­
+tween the seller and the purchaser. 
+16. Hydrostatic or Nondestructive Electric Test 
+16.1 Each tube, seamless or welded, shall be subjected to 
+the nondestructive electric test or the hydrostatic test. The type 
+of test to be used shall be at the option of the manufacturer, 
+unless otherwise specified in the purchase order. 
+17. Product Marking 
+17 .1 In addition to the marking desc1ibed in Specification 
+A1016/A1016M, the marking shall indicate whether the tubing 
+is seamless or welded. 
+18. Keywords 
+18.1 ferritic stainless steel; seamless steel tube; stainless 
+steel tube; steel tube; welded steel tube 
+405
+
+=== Page 458 ===
+
+SA-268/SA-268M ASME BPVC.II.A-2025 
+SUPPLEMENTARY REQUIREMENTS 
+The following supplementary requirements shall apply only when specified by the purchaser in the 
+inquiry, contract, or order. 
+S1. Pneumatic Test 
+S 1.1 The tubing shall be examined by a pneumatic test 
+(either air under water or pneumatic leak test) in accordance 
+with Specification A1016/A1016M. 
+S2. Additional Testing of Welded Tubing for 100 % Joint 
+Efficiency in Certain ASME Applications (see Note 
+S2.1) 
+NoTE S2.1-When specified, the special testing in this supplement is 
+intended for special ASME applications. It is not mandatory for all ASME 
+applications. 
+S2.1 Where this supplement is specified in the purchase 
+order, in certain ASME applications it is permissible to use 
+100 % joint efficiency for the longitudinal weld, provided the 
+following additional requirements are met: 
+406 
+S2.l.1 Each tube shall be subjected to an ultrasonic inspec­
+tion employing Practices E273 or E213 with the rejection 
+criteria referenced in Specification A1016/A1016M. 
+S2. l.2 If Practice E273 is employed, a 100 % volumetric 
+inspection of the entire length of each tube shall also be 
+performed using one of the non-destructive electric tests 
+permitted by Specification A1016/A1016M. 
+S2. l .3 The test methods described in the supplement may 
+not be capable of inspecting the end portions of tubes. This 
+condition is referred to as end effect. This portion, as deter­
+mined by the manufacturer, shall be removed and discarded. 
+S2. l.4 In addition to the marking prescribed in Specification 
+A1016/A1016M," S2" shall be added after the grade designa­
+tion.
+
+Resolved Notes (AI-verified)
+NOTE 1 (page 446)
+Note 1—Designations have been changed as follows: quirements a
+Current Formerly A1058 Test Methods for Mechanical Testing of Steel
+arece { Class 1 Products—Metric
+rade 2 Class 2 Lk . .
+Grade 3 Class 3 E112 Test Methods for Determining Average Grain Size
+| Grade 4 Class 4 E165/E165M Practice for Liquid Penetrant Testing for Gen-
+
+NOTE 2 (page 447)
+Note 2—Although liquid quenching from the austenitizing tempera- reforging, the entire forging shall be reheat-treated in the same
+tures is more effective in enhancing impact properties, air cooling from the manner and at the same temperature range as employed when
+austenitizing temperatures is also beneficial and may be used instead of the forging was heat-treated prior to certification testing.
+the normalizing procedure in 6.2. 8.1.3 When mutually agreed upon between manufacturer
+7. Chemical Composition , and purchaser, test specimens may be machined from a
+, specially forged block suitably worked and heat-treated with
+Tl Heat Analysis—The heat analysis obtained from sam- jp, production forgings. Such a special block shall be obtained
+pling in accordance with Specification AT88/ A788M_ shall from an ingot, slab, or billet from the same heat used to make
+comply with Table | except that the additional features of the forgings it represents. This block shall receive essentially
+Supplementary Requirements sil and S12 shall also apply as the same type of hot working and forging reduction as the
+— individually specified in the ordering information. production forgings; however, a longitudinally forged bar with
+7.2 Product Analysis—The purchaser may use the product — dimensions not less than T by T by 37 may be used to represent
+analysis provision of Specification A788/A788M to obtain a a ring forging. The dimension T shall be representative of the
+product analysis from a forging representing each heat or heaviest effective cross section of the forging. For quenched
+multiple heat.
+) TABLE 2 Tensile Requirements
+TABLE 1 Chemical Requirements Grade 4 lane Grade 3
+Composition, % eee
+—_— SN OOOO Tensile strength, min, ksi [MPa] 60-85 70-95 75-100
+Grades 1 and 2 Grade 3 Grade 4 [415-585] [485-655] [515-690]
+Carbon, max 0.30 0.35 0.30 Yield strength (0.2 % offset), 30 [205] 36 [250] 37.5 [260]
+Manganese 0.40—-1.05 0.80—1.35 0.80—-1.35 min, ksi [MPa]
+Phosphorus, max 0.025 0.025 0.025 Elongation in 2 in. [62.5 mm], 23 [21] 20 [18] 19 [17]
+Sulfur, max 0.025 0.025 0.025 min, %
+395

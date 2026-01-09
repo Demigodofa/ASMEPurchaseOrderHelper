@@ -1,0 +1,23 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 481,
+  "globalPageIndex": 481,
+  "width": 601.08,
+  "height": 845.28,
+  "text": "ASME BPVC.II.A-2025 SA-285/SA-285M \nTABLE 1 Chemical Requirements \nElements \nCarbon, maxA \nManganese, max: \nHeat analysis \nProduct analysis \nPhosphorus, maxA \nSulfur, maxA \nA.Applies to both heat and product analyses. \nGrade A \n0.17 \n0.90 \n0.98 \n0.025 \n0.025 \nComposition, % \nGrade B \n0.22 \n0.90 \n0.98 \n0.025 \n0.025 \nGrade C \n0.28 \n0.90 \n0.98 \n0.025 \n0.025 \nTABLE 2 Tensile Requirements \nGrade A Grade B Grade C \nksi [MPa] ksi [MPa] ksi [MPa] \nTensile strength \nYield strength, minA \n45-65 (310-450] 50-70 [345-485] 55-75 [380-515] \nElongation in 8 in. or (200 mm], min, % 8 \nElongation in 2 in. or (50 mm], min, % 8 \n24 \n27 \n30 \n[165] 27 (185] 30 [205] \n25 23 \n28 27 \nA Determined by either the 0.2 % offset method or the 0.5 % extension-under-load method. \n8 See Specification A20/ A20M for elongation adjustment. \nlisted Supplementary requirements in this specification and to \nthe detailed requirements in Specification A20/ A20M. \n3.3 Coils are excluded from qualification to this specifica\u00ad\ntion until they are processed into finished plate. Plates pro\u00ad\nduced from coil means plates that have been cut to individual \nlengths from coil. The processor directly controls, or is \nresponsible for, the operations involved in the processing of \ncoils into finished plates. Such operations include decoiling, \nleveling, cutting to length, testing, inspection, conditioning, \nheat treatment (if applicable), packaging, marking, loading for \nshipment, and certification. \nNoTE 2-For plates produced from coil and furnished without heat \ntreatment or with stress relieving only, three test results are rep01ted for \neach qualifying coil. Additional requirements regarding plate produced \nfrom coil are described in Specification A20/A20M. \n3 .4 If the requirements of this specification are in conflict \nwith the requirements of Specification A20/A20M, the require\u00ad\nments of this specification shall prevail. \n4. Heat Treatment \n4.1 Plates are normally supplied in the as-rolled condition. \nThe plates may be ordered normalized or stress relieved, or \nboth. \n5. Chemical Composition \n5.1 The steel shall conform to the requirements as to \nchemical composition as given in Table l. \n6. Mechanical Properties \n6. l Tension Test-The plates, as represented by the tension \ntest specimens, shall conform to the requirements given in \nTable 2. \n7. Keywords \n7.1 carbon steel plate; low-and-intermediate strength steel \nplate for pressure vessels; steel plate for pressure vessels \nSUPPLEMENTARY REQUIREMENTS \nSupplementary requirements shall not apply unless specified in the purchase order. \nA list of standardized supplementary requirements for use at the option of the purchaser is included \nin Specification A20/A20M. Those that are considered suitable for use with this specification are listed \nbelow by title. \nS3. Simulated Post-Weld Heat Treatment of Mechanical \nTest Coupons, \nS4. Additional Tension Test, \nS8. Ultrasonic Examination in accordance with Specifica\u00ad\ntion A435/ A435M, \n429 \nS 11. Ultrasonic Examination in accordance with Specifica\u00ad\ntion A577 / A577M, and \nSl2. Ultrasonic Examination in accordance with Specifica\u00ad\ntion A578/ A578M. ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0481.json",
+  "tabulaTablesCsv": "tables_tabula/page-0481.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text\\pages\\page-0481.txt",
+  "bestTextSource": "full_ocr_highdpi",
+  "bestTextLength": 3118,
+  "bestTextAlphaRatio": 0.725,
+  "gapOcrHighDpiPath": "gap_ocr_highdpi/page-0481.txt",
+  "gapOcrHighDpiLength": 3090,
+  "camelotTablesPath": "camelot_tables/page-0481.json",
+  "camelotTablesCsv": "camelot_tables/page-0481.csv",
+  "camelotTableCount": 2
+}

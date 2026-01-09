@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 85,
+  "globalPageIndex": 85,
+  "width": 620.16,
+  "height": 798.0,
+  "text": "ASME BPVC.II.A-2025 SA-6/SA-6M \ntaken from a location representing the top of an ingot or part of \nan ingot used to produce the product represented by such \nspecimens. \nS31. Maximum Carbon Equivalent for Weldability \nS31.1 Plates and shapes shall be supplied with a specific \nmaximum carbon equivalent value as specified by the pur\u00ad\nchaser. This value shall be based upon heat analysis. The \nrequired chemical analysis as well as the carbon equivalent \nshall be reported. \nS31.2 The carbon equivalent shall be calculated using the \nfollowing formula: \nCE= C+Mn/6+(Cr+Mo+V)/5+(Ni+Cu)/15 \nS31.3 For additional information on the weldability of steel, \nsee Appendix X3. \nS32. Single Heat Bundles \nS32.1 Bundles containing shapes or bars shall be from a \nsingle heat of steel. \nANNEXES \n(Mandatory Information) \nAl. PERMITTED VARIATIONS IN DIMENSIONS AND MASS IN SI UNITS \nAl.I Tables Al.l-Al.31 inclusive contain permitted varia\u00ad\ntions in dimensions and mass stated in SI Units. \n33 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0085.json",
+  "tabulaTablesCsv": "tables_tabula/page-0085.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-0085.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 980,
+  "bestTextAlphaRatio": 0.752
+}

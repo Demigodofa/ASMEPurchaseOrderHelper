@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 69,
+  "globalPageIndex": 867,
+  "width": 617.04,
+  "height": 795.6,
+  "text": "Tensile strength, ksi [MPa] \nASME BPVC.Il.A-2025 \nTABLE 1 Chemical Requirements \nElements \nCarbon, maxA,B \nManganese: 0 \nHeat analysis \nProduct analysis \nPhosphorus, maxA \nSulfur, maxA \nSilicon:D \nHeat analysis \nProduct analysis \nA Applies to both heat and product analyses. \nComposition, % \n0.33 \n0.85-1.20 \n0.79-1.30 \n0.025 \n0.025 \n0.10 max \n0.13 max \n8 When the silicon is higher than 0.10 %, the carbon maximum shall be 0.28 %. \n\u00b0 For each reduction of 0.01 percentage point below the specified maximum for \ncarbon, and increase of 0.06 percentage point above the specified maximum for \nmanganese is permitted, up to a maximum of 1.50 % by heat analysis and 1.60 % \nby product analysis. \n0 At the purchaser's or the producer's option, silicon may be 0.40 % max on heat \nanalysis, 0.45 % max on product analysis. \nTABLE 2 Tensile Requirements \nUp to 0.375 in. \n[9.5mm] \nThickness \nOver 0.375 to 0.580 in. \n[15 mm] \nYield strength, min, ksi [MPa] \nElongation in 8 in. [200 mm], min, %A \nElongation in 2 in. [50 mm], min, %A \n75-95 [515-655] \n38 [260] \n15 \n22 \n73-93 [505-640] \n37 [255] \n15 \n22 \nA See Specification A20/A20M for elongation adjustments. \nSUPPLEMENTARY REQUIREMENTS \nSA-455/SA-455M \nOver 0.580 to 0.750 in. \n[20mm] \n70-90 [485-620] \n35 [240] \n15 \n22 \nSupplementary requirements shall not apply unless specified . in the purchase order. A list of \nstandardized supplementary requirements for use at the option of the purchaser is included in \nSpecification A20/ A20M. Those that are considered suitable for use with this specification are listed \nbelow by title. \nS3. Simulated Post-Weld Heat Treatment of Mechanical \nTest Coupons. \n765 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0867.json",
+  "tabulaTablesCsv": "tables_tabula/page-0867.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0867.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1652,
+  "bestTextAlphaRatio": 0.635
+}

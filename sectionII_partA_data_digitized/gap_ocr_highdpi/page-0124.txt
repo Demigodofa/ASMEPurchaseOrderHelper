@@ -1,0 +1,68 @@
+SA-20/SA-20M ASME BPVCG.II.A-2025
+5.5.1 Plates produced from coil shall not contain splice applicable grade, class, and type. In addition, for elements that ~~ :
+welds, unless approved by the purchaser. are listed in Table 1 but are not specified or restricted in the
+applicable product specification for the applicable grade, class,
+6. Heat Treatment and type, heat analyses shall conform to the applicable heat
+6.1 If plates are required to be heat treated, the heat analysis limits given in Table 1.
+treatment shall be performed by the manufacturer, the 7.2. Product Analysis:
+processor, or the fabricator, unless otherwise specified in the 7.2.1 Sampling for chemical analysis and methods of analy-
+applicable product specification. sis shall be in accordance with Test Methods, Practices, and
+6.2 If the heat treatment required by the applicable product | Terminology A751. ;
+specification is to be performed by the purchaser or the 7.2.2 For each plate-as-rolled, the purchaser shall have the ;
+purchaser’s agent, and the plates are to be supplied by the — option of chemically analyzing a broken tension test specimen
+manufacturer or processor in a condition other than that | or a sample taken from the same relative location as that from
+required by the applicable product specification, the order shall | which the tension test specimen was obtained.
+so state. 7.2.3 For elements that are specified or restricted by the
+6.2.1 If plates are ordered without the heat treatment re- applicable product specification for the applica’ grade, class, -
+quired by the applicable product specification, heat treatment | and type, product analyses shall conform to the product
+of the plates to conform to the requirements of the applicable analysis requirements of the applicable product specification
+product specification shall be the responsibility of the pur- for the applicable grade, class, and type. :
+chaser. 7.2.4 For elements that are listed in Table 1 but are not
+6.3 If heat treatment is to be performed, the plates shall be specified or restricted by the applicable product specification .
+heat treated as specified in the applicable product specification.
+The purchaser may specify the heat treatment to be used,
+provided it is not in conflict with the requirements of the TABLE 1 Limits on Elements (see 7.1.3 and 7.2.4)
+applicable product specification. Copper max%* SSC analysis.
+6.4 If normalizing is to be performed by the fabricator, the Product analysis 0.43
+plates shall be either normalized or heated uniformly for hot iickel, max %4 Heat analysis 0.40
+forming, provided that the temperature to which the plates are Product analysis 0.43
+heated for hot forming does not significantly exceed the Chromium, max 962 iHest analyels 0.80
+normalizing temperature. Product analysis 0.34
+6.5 If no heat treatment is required, the manufacturer or Molybdenum, max %42 Heat analysis 0.12
+processor shall have the option of heat treating the plates by Product analysis 043
+normalizing, stress relieving, or normalizing and then stress Vanadi 4c Heat anal 0.08
+eats D ‘ : fanadium, max % eat analysis . :
+relieving to meet the requirements of the applicable product Product analysis 0.04
+specification. :
+. Columbium (Niobium),? max %= — Heat analysi 0.02 :
+6.6 If approved by the purchaser, cooling rates faster than olumbium (Niobiur)," max Product analysis 0.03 :
+those obtained by cooling in air are permissible to achieve _ - t
+specified mechanical properties, provided that the plates are —‘Tanium, max % Heat analysis _ 0.03
+. Product analysis 0.04
+subsequently tempered in the temperature range from 1100 to :
+1300°F [595 to 705°C]. Boron, max % Heat analysis 0.0010 .
+Product analysis 0.0015
+7. Chemical Composition An addition for each heat, based upon the heat analysis, the sum of copper, :
+. nickel, chromium, and molybdenum shall not exceed 1.00 %, unless one or more
+7.1 Heat Analysis: of those elements are specified or restricted by the applicable product specification
+7.1.1 Sampling for chemical analysis and methods of analy- for the applicable grade, class, and type. 7
+sis shall be in accordance with Test Methods, Practices, and In addition for each heat, based upon the heat analysis, the sum of chromium
+. and molybdenum shall not exceed 0.32 %, unless one or both of those elements :
+Terminology A751. are specified or restricted by the applicable product specification for the applicable
+7.1.2 For each heat, the heat analysis shall include determi- _grade, class, and type. :
+‘ By agreement between the purchaser and the supplier, the heat analysis limit for
+na tion of the content of carbon, manganese, phosp: horus, sulfur, vanadium is permitted to be increased to a value not higher than 0.10 %, and the
+silicon, nickel, chromium, molybdenum, copper, vanadium, product analysis limit for vanadium is permitted to be increased to a value not
+columbium (niobium); any other element that is specified or higher than oe bi interch bl ‘orth lement and
+. : : : olumbium ana niobium are intercnangeable names tor the same element an .
+restricted by the applicable product . specification for the both names are acceptable for use in A01 specifications. :
+applicable grade, class, and type; aluminum, if the aluminum = By agreement between the purchaser and the supplier, the heat analysis limit for :
+content is to be used in place of austenitic grain size testing of  columbium (niobium) is permitted to be increased to a value not higher that
+the heat ( 8.3.2.1); and any other austenitic grain refinin 0.05 %, and the product analysis limit for columbium (niobium) is permitted to be .
+€ heat (see reese’ y . : gt 2 increased to a value not higher than 0.06 %. |
+element for which limits are specified in the purchase order F By agreement between the purchaser and the supplier, the heat analysis limit for
+(see 8.3.2). . titanium is permitted to be increased to a value not higher than 0.04 %, and the
+. duct analysis limit for titanium i itted to be i d to a value not high:
+713 Heat analyses shall conform to the heat analysis than 0.05% Imit tor tilanium Is permitted to be Increased to a value not higner |
+requirements of the applicable product specification for the _
+) 72 . |

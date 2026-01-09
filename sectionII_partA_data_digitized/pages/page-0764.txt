@@ -1,0 +1,117 @@
+SA-426/SA-426M ASME BPVC.II.A-2025 
+TABLE 2 Heat Treatment Requirements 
+Tempering 
+Temperature, 
+Grade Austenitizing min, unless 
+Treatment a range is 
+shown, °F 
+[OC] 
+CP1 Normalized 1100 [595] 
+or Liquid 
+Quenched 
+CP2 Normalized 1100 [595] 
+or Liquid 
+Quenched 
+CP5 Normalized 1250 [675] 
+or Liquid 
+Quenched 
+CP5b Normalized 1250 [675] 
+or Liquid 
+Quenched 
+CP9 Normalized 1250 [675] 
+or Liquid 
+Quenched 
+CP11 Normalized 1100 [595] 
+or Liquid 
+Quenched 
+CP12 Normalized 1100 [595] 
+or Liquid 
+Quenched 
+CP15 Normalized 1100 [595] 
+or Liquid 
+Quenched 
+CP21 Normalized 1250 [675] 
+or Liquid 
+Quencl1ed 
+CP22 Normalized 1250 [675] 
+or Liquid 
+Quenched 
+CPCA15 Normalized 1250 [675] 
+or Liquid 
+Quenched 
+11.2 When agreed upon between the manufacturer and the 
+purchaser, test coupons from which test specimens are pre­
+pared shall be cast attached to separate blocks from the same 
+heat as the casting represented. The test blocks shall be heat 
+treated in the same manner as the casting represented. 
+11.3 Tension test specimens shall be machined to the form 
+and dimensions of the standard round 2-in. [50-mm] gage 
+length specimens shown in Fig. 6 of Test Methods and 
+Definitions A370. 
+12. Hydrostatic Test 
+12.1 Each length of pipe shall be hydrostatically tested in 
+accordance with Specification A999/ A999M. 
+12.2 When agreed to between the manufacturer and the 
+purchaser and so stated in the order, the hydrostatic test may be 
+defe1Ted and shall be performed later by the purchaser. Pipe 
+furnished without the hydrostatic test shall include with the 
+TABLE 3 Tensile Properties and Hardness Requirements 
+Tensile strength, min: psi [MPa] 
+Grade CP1 65 000 [450] 
+Grades CP11, CP22 70 000 [485] 
+Grades CP5, CP9, CPCA15 90 000 [620] 
+All other grades 60 000 [415] 
+Yield strength, min: psi [MPa] 
+Grade CP1 35 000 [240] 
+Grades CP11, CP22 40 000 [275] 
+Grades CP5, CP9 60 000 [415] 
+Grade CPCA 15 65 000 [450] 
+All other grades 30 000 [205] 
+Elongation, min: %A 
+Grade CP1 24 
+Grades CP11, CP22 20 
+Grades CP5, CP9, CPCA15 18 
+All other grades 22 
+Reduction of area, min: % 
+714 
+Grades CP1, CP2, CP11, CP12, CP15, 35 
+CP21, CP22, CP5, CP5b, CP7, CP9 
+Grade CPCA15 30 
+Hardness: HBW 
+Grades CP5, CP5b, CP9, CPCA15, max 225 
+All other grades, max 201 
+A Elongation in 2 in. [50 mm] using a standard round specimen, in either the 
+transverse or longitudinal direction. 
+mandatory marking the letters "NH." The manufacturer is 
+responsible for the satisfactory performance of the casting 
+when it is tested. 
+12.3 When certification is required by the purchaser and the 
+hydrostatic test has been omitted, the certification shall clearly 
+state "not hydrostatically tested." The specification number and 
+material grade shown on the certification shall be followed by 
+the letters "NH." 
+13. Visual Inspection 
+13 .1 The surface of the casting shall be free from cracks and 
+hot tears as determined by visual examination. Other surface 
+imperfections shall be judged in accordance with visual accep­
+tance criteria which may be specified in the order. 
+14. Rework and Retreatment 
+14. l Defects as defined in Section 13 shall be removed and 
+their removal verified by visual inspection of the resultant 
+cavities. Defects that are located by inspecting with supple­
+mentary requirements S6, S7, SS, or S9 shall be removed or 
+reduced to an acceptable size. 
+14.2 If removal of the defect does not infringe upon the 
+minimum wall thickness, the depression may be blended 
+uniformly into the surrounding surface. 
+14.3 If the cavity resulting from defect removal infringes 
+upon the minimum wall thickness, weld repair is permitted 
+subject to the purchaser's approval. The composition of the 
+weld rod used shall be suitable for the composition of the metal 
+being welded. 
+14.3.1 Only welders and procedures qualified in accordance 
+with ASME Boiler and Pressure Vessel Code, Section IX, shall 
+be used. All repair welds will be inspected to the same quality 
+standards used to inspect the casting. 
+14.4 Local or full heat treatment in accordance with tem­
+pering temperatures specified in 5.1 shall follow welding. 

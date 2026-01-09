@@ -1,0 +1,122 @@
+SA-370 ASME BPVC.II.A-2025 
+machine foundation bolts are not securely fastened, tests on 
+ductile materials in the range of 80 ft•lbf (108 J) may actually 
+indicate values in excess of 90 to 100 ft•lbf (122 to 136 J). 
+AS.2 Notch Effect 
+A5.2.1 The notch results in a combination of multiaxial 
+stresses associated with restraints to deformation in directions 
+perpendicular to the major stress, and a stress concentration at 
+the base of the notch. A severely notched condition is generally 
+not desirable, and it becomes of real concern in those cases in 
+which it initiates a sudden and complete failure of the brittle 
+type. Some metals can be deformed in a ductile manner even 
+down to the low temperatures of liquid air, while others may 
+crack. This difference in behavior can be best understood by 
+considering the cohesive strength of a material (or the property 
+that holds it together) and its relation to the yield point. In cases 
+of brittle fracture, the cohesive strength is exceeded before 
+significant plastic defonnation occurs and the fracture appears 
+crystalline. In cases of the ductile or shear type of failure, 
+considerable deformation precedes the final fracture and the 
+broken surface appears fibrous instead of crystalline. In inter­
+mediate cases the fracture comes after a moderate amount of 
+deformation and is part crystalline and part fibrous in appear­
+ance. 
+AS.2.2 When a notched bar is loaded, there is a normal 
+stress across the base of the notch which tends to initiate 
+fracture. The property that keeps it from cleaving, or holds it 
+together, is the "cohesive strength." The bar fractures when the 
+normal stress exceeds the cohesive strength. When this occurs 
+without the bar deforming it is the condition for brittle fracture. 
+A5.2.3 In testing, though not in service because of side 
+effects, it happens more commonly that plastic deformation 
+precedes fracture. In addition to the normal stress, the applied 
+load also sets up shear stresses which are about 45° to the 
+normal stress. The elastic behavior terminates as soon as the 
+shear stress exceeds the shear strength of the material and 
+deformation or plastic yielding sets in. This is the condition for 
+ductile failure. 
+A5.2.4 This behavior, whether brittle or ductile, depends on 
+whether the normal stress exceeds the cohesive strength before 
+the shear stress exceeds the shear strength. Several important 
+facts of notch behavior follow from this. If the notch is made 
+sharper or more drastic, the normal stress at the root of the 
+notch will be increased in relation to the shear stress and the 
+bar will be more prone to brittle fracture ( see Table AS .1 ). Also, 
+as the speed of deformation increases, the shear strength 
+increases and the likelihood of brittle fracture increases. On the 
+other hand, by raising the temperature, leaving the notch and 
+the speed of deformation the same, the shear strength is 
+lowered and ductile behavior is promoted, leading to shear 
+failure. 
+A5.2.5 Variations in notch dimensions will seriously affect 
+the results of the tests. Tests on B4340 s_teel specimens have 
+shown the effect of dimensional variations on Charpy results 
+(see Table A5.l). 
+AS.3 Size Effect 
+A5.3.l Increasing either the width or the depth of the 
+specimen tends to increase the volume of metal subject to 
+distortion, and by this factor tends to increase the energy 
+absorption when breaking the specimen. However, any in­
+crease in size, particularly in width, also tends to increase the 
+degree of restraint and by tending to induce brittle fracture, 
+may decrease the amount of energy absorbed. Where a 
+standard-size specimen is on the verge of brittle fracture, this is 
+particularly true, and a double-width specimen may actually 
+require less energy for rupture than one of standard width. 
+AS.3.2 In studies of such effects where the size of the 
+material precludes the use of the standard specimen, as for 
+example when the material is ¼-in. plate, subsize specimens 
+are necessarily used. Such specimens (see Fig. 6 of Test 
+Methods E23) are based on the Type A specimen of Fig. 4 of 
+Test Methods E23. 
+AS.3.3 General correlation between the energy values ob­
+tained with specimens of different size or shape is not feasible, 
+but limited correlations may be established for specification 
+purposes on the basis of special studies of particular materials 
+and particular specimens. On the other hand, in a study of the 
+relative effect of process variations, evaluation by use of some 
+arbitrarily selected specimen with some chosen notch will in 
+most instances place the methods in their proper order. 
+AS.4 Effects of Testing Conditions 
+AS.4.1 The testing conditions also affect the notch behavior. 
+So pronounced is the effect of temperature on the behavior of 
+steel when notched that comparisons are frequently made by 
+TABLE A5.1 Effect of Varying Notch Dimensions on Standard Specimens 
+Specimen with standard dimensions 
+Depth of notch, 0.084 in. (2.13 mmjA 
+Depth of notch, 0.0805 in.· (2.04 mm)A 
+Depth of notch, 0.0775 in. (1.77 mm)A 
+Depth of notch, 0.074 in. (1.57 mmjA 
+Radius at base of notch, 0.005 in. (0.127 mm) 8 
+Radius at base of notch, 0.015 in. (0.381 mm) 8 
+A Standard 0.079 ± 0.002 in. (2.00 ± 0.05 mm). 
+8 Standard 0.010 ± 0.001 in. (0.25 ± 0.025 mm). 
+High-energy 
+Specimens, ft,lbf (J) 
+76.0 ± 3.8 (103.0 ± 5.2) 
+72.2 (97.9) 
+75.1 (101.8) 
+76.8 (104.1) 
+79.6 (107.9) 
+72.3 (98.0) 
+80.0 (108.5) 
+626 
+Medium-energy 
+Specimens, fl•lbf (J) 
+44.5 ± 2.2 (60.3 ± 3.0) 
+41.3 (56.0) 
+42.2 (57.2) 
+45.3 (61.4) 
+46.0 (62.4) 
+41.7 (56.5) 
+47.4 (64.3) 
+Low-energy 
+Specimens, ft•lbf (J) 
+12.5 ± 1.0 (16.9 ± 1.4) 
+11.4 (15.5) 
+12.4 (16.8) 
+12.7 (17.2) 
+12.8 (17.3) 
+10.8 (14.6) 
+15.8 (21.4) 

@@ -1,0 +1,77 @@
+| ASME BPVCII.A-2025 SA-370
+} og ali ad
+DIMENSIONS
+. Standard Specimens Subsize Specimen
+Plate-type,
+1%%-in. (40 mm) Wide
+8-in. (200 mm) 2-in. (60 mm) Sheet-type, #2 | ,
+Gauge Length Gauge Length in. (12.5 mm) Wide Yin. (6 mm) Wide
+| in. mm in. mm in. mm in. mm
+G—Gauge length 8.00+0.01 200+0.25 2.000+0.005 50.0+0.10 2.000+0.005 50.0+0.10 1.000+0.003 25.00.08
+. (Notes 1 and 2)
+. W—Width e+ % 40+3 1te+% 40+3 0.500+0.010 12.5+0.25 0.250 + 0.002 6.25 + 0.05
+(Notes 3, 5, and 6) . —~Y% —6 —~ V4 —6
+T—Thickness , ,
+(Note 7) Thickness of Material
+A—Radius of fillet, min Vp 13 Vp 13 Vp 13 V4 6
+
+(Note 4)
+
+L—Overall length, min 18 450 8 200 8 200 4 100
+
+(Notes 2 and 8)
+
+A—Length of 9 225 2% 60 24 60 1% 32
+reduced section, min
+B—Length of grip section, min 3 75 2 50 2 50 1% 32
+(Note 9)
+C—Width of grip section, approxi- 2 50 2 50 Ya, 20 ¥e 10
+mate .
+(Note 4, Note 10, and Note 11)
+Note 1—For the 1'4-in. (40 mm) wide specimens, punch marks for measuring elongation after fracture shall be made on the flat or on the edge of
+| the specimen and within the reduced section. For the 8-in. (200 mm) gauge length specimen, a set of nine or more punch marks | in. (25 mm) apart,
+or one or more pairs of punch marks 8 in. (200 mm) apart may be used. For the 2-in. (50 mm) gauge length specimen, a set of three or more punch marks
+1 in. (25 mm) apart, or one or more pairs of punch marks 2 in. (50 mm) apart may be used.
+
+Nots 2—For the 2-in. (12.5 mm) wide specimen, punch marks for measuring the elongation after fracture shall be made on the flat or on the edge
+of the specimen and within the reduced section. Either a set of three or more punch marks 1 in. (25 mm) apart or one or more pairs of punch marks 2 in.
+(SO mm) apart may be used.
+
+Nots 3——-For the four sizes of specimens, the ends of the reduced section shall not differ in width by more than 0.004, 0.004, 0.002, or 0.001 in. (0.10,
+0.10, 0.05, or 0.025 mm), respectively. Also, there may be a gradual decrease in width from the ends to the center, but the width at either end shall not
+be more than 0.015 in., 0.015 in., 0.005 in., or 0.003 in. (0.40, 0.40, 0.10, or 0.08 mm), respectively, larger than the width at the center.
+
+Notre 4—For each specimen type, the radii of all fillets shall be equal to each other with a tolerance of 0.05 in. (1.25 mm), and the centers of curvature
+of the two fillets at a particular end shall be located across from each other (on a line perpendicular to the centerline) within a tolerance of 0.10 in.
+(2.5 mm).
+
+Nore 5——For each of the four sizes of specimens, narrower widths (W and C) may be used when necessary. In such cases, the width of the reduced
+section should be as large as the width of the material being tested permits; however, unless stated specifically, the requirements for elongation in a product
+specification shall not apply when these narrower specimens are used. If the width of the material is less than W, the sides may be parallel throughout
+the length of the specimen.
+
+Note 6—The specimen may be modified by making the sides parallel throughout the length of the specimen, the width and tolerances being the same
+as those specified above. When necessary, a narrower specimen may be used, in which case the width should be as great as the width of the material being
+- tested permits. If the width is 11% in. (88 mm) or less, the sides may be parallel throughout the length of the specimen.
+
+Note 7—The dimension T is the thickness of the test specimen as provided for in the applicable product specification. Minimum nominal thickness
+of 1 to 144-in. (40 mm) wide specimens shall be 7/6 in. (5 mm), except as permitted by the product specification. Maximum nominal thickness of 1-in.
+(12.5 mm) and 4-in. (6 mm) wide specimens shall be 1 in. (25 mm) and % in. (6 mm), respectively.
+
+Note 8—To aid in obtaining axial loading during testing of /4-in. (6 mm) wide specimens, the overall length should be as large as the material will
+permit.
+
+Nore 9—It is desirable, if possible, to make the length of the grip section large enough to allow the specimen to extend into the grips a distance equal
+to two thirds or more of the length of the grips. If the thickness of /2-in. (13 mm) wide specimens is over ¥ in. (10 mm), longer grips and correspondingly
+longer grip sections of the specimen may be necessary to prevent failure in the grip section.
+
+Note 10—For standard sheet-type specimens and subsize specimens, the ends of the specimen shall be symmetrical with the center line of the reduced
+section within 0.01 and 0.005 in. (0.25 and 0.13 mm), respectively, except that for steel if the ends of the /2-in. (12.5 mm) wide specimen are symmetrical
+within 0.05 in. (1.0 mm), a specimen may be considered satisfactory for all but referee testing.
+
+Nore 11—For standard plate-type specimens, the ends of the specimen shall be symmetrical with the center line of the reduced section within 0.25 in.
+(6.35 mm), except for referee testing in which case the ends of the specimen shall be symmetrical with the center line of the reduced section within 0.10 in.
+
+| (2.5 mm).
+FIG. 3 Rectangular Tension Test Specimens.
+589

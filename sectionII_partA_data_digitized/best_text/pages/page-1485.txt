@@ -1,0 +1,116 @@
+ASME BPVC.II.A-2025 SA-965 /SA-965M 
+marking, certification, product analysis variations, and addi­
+tional supplementary requirements. 
+3.3 If the requirements of this specification are in conflict 
+with the requirements of Specification A788/A788M, the 
+requirements of this specification shall prevail. 
+3.4 If the forgings are intended for use under the ASME 
+Boiler and Pressure Vessel Code at temperatures exceeding 
+1000 °F [540 °C], then use Supplementary Requirement S7. 
+Grain size requirements for service exceeding 1000 °F 
+[540 °C] should be specified unless the required grade has the 
+suffix "H." 
+4. Melting and Forging 
+4.1 In addition to the melting and forging requirements of 
+Specification A 788/ A 788M, which may include Supplemen­
+tary Requirement S8, the following condition applies: 
+4.1.1 A sufficient discard shall be made to secure freedom 
+from injurious pipe and undue segregation. 
+5. Machining 
+5.1 Forged pressure vessels for steam power service shall 
+have the inner surface machined or ground. Unfired pressure 
+vessels shall have the inner surfaces sufficiently free of scale to 
+permit inspection. 
+5.2 When rough machining is pe1formed, it may be done 
+either before or after heat treatment. 
+6. Heat Treatment 
+6.1 Forgings shall be furnished in the solution treated 
+condition. On completion of forging operations, the forgings 
+shall be solution annealed and quenched in water, oil, or a 
+polymer water solution. Direct quenching after completion of 
+forging without subsequent reheating to the temperatures 
+prescribed in 6.2 - 6.12 is not permissible. 
+6.2 For Grades F304H, F309H, F310H, F316H, F321H, 
+F347H, and F348H, the minimum solution annealing tempera­
+ture shall be 1925 °F [1050 °C]. 
+6.3 Grade FXM-11 shall be solution annealed at a minimum 
+of 1950 °F [1065 °C]. 
+6.4 Grade F20 shall be solution annealed in the temperature 
+range of 1700 °F to 1850 °F [925 °C to 1010 °C]. 
+6.5 Grade F46 shall be solution annealed in the temperature 
+range of 2010 °F to 2140 °F [1100 °C to 1170 °C]. 
+6.6 Grade F62 shall be solution annealed at a minimum of 
+2025 °F [1107 °C]. 
+6.7 Grade F904L shall be solution annealed in the tempera­
+ture range of 1920 °F to 2100 °F [1050 °C to 1150 °C]. 
+6.8 Grade F700 shall be solution annealed in the tempera­
+ture range of 2025 °F to 2100 °F [1107 °C to 1150 °C]. 
+6.9 Grades FNIC and Fl925 shall be solution annealed in 
+the temperature range of 1800 °F to 1900 °F [985 °C to 
+1040 °C]. 
+6.10 Grades FNIClO and FNICll shall be solution annealed 
+in the temperature range of 2100 °F to 2150 °F [1150 °C to 
+1180 °C]. 
+6.11 Grade Fl925N shall be solution annealed at a mini­
+mum of 2150 °F [1180 °C]. 
+6.12 The remaining grades in Table 1 shall be solution 
+annealed at a minimum temperature of 1900 °F [1040 °C]. 
+7. Chemical Composition 
+7 .1 Heat Analysis-The heat analysis obtained from sam­
+pling in accordance with Specification A788/A788M shall 
+comply with Table 1. 
+7 .2 Product Analysis-The manufacturer shall use the prod­
+uct analysis provision of Specification A 788/ A 788M to obtain 
+a product analysis from a forging representing each heat or 
+multiple heat. The product analysis tolerances for carbon shall 
+not apply, and the carbon requirements shall conform to Table 
+1. 
+7.3 Types (common names) and UNS designations follow: 
+Grade Type UNS Designation 
+F304 304 S30400 
+F304H 304H S30409 
+F304L 304L S30403 
+F304N 304N S30451 
+F304LN 304LN S30453 
+F309H 309H S30909 
+F310 310 S31000 
+F310H 310H S31009 
+F316 316 S31600 
+F316H 316H S31609 
+F316L 316L S31603 
+F316N 316N S31651 
+F316LN 316LN S31653 
+F70 S31730 
+F321 321 S32100 
+F321H 321H S32109 
+F347 347 S34700 
+F347H 347H S34709 
+F347LN 347LN S34751 
+F348 348 S34800 
+F348H 348H S34809 
+FXM-19 XM19 S20910 
+FXM-11 XM11 S21904 
+F20 Alloy 20 N08020 
+F46 S30600 
+F62 N08367 
+F904L 904L N08904 
+F700 N08700 
+FNIC NIC NOBBOO 
+FNIC10 NIC10 N08810 
+FNIC11 NIC11 N08811 
+F1925 1925 N08925 
+F1925N 1925N N08926 
+8. Mechanical Properties 
+8.1 Requirements-The material shall conform to the re­
+quirements for mechanical properties prescribed in Table 2 or, 
+if applicable, Supplementary Requirement S2. The largest 
+obtainable tension test specimen as specified in Test Methods 
+and Definitions A370 or Test Methods A1058 shall be used. 
+8.2 Number of Tests-The number and location of tests are 
+based on the heat-treated weight of the forging(s) from the 
+same heat, solution annealed in the same furnace charge. 
+8.2.1 For forgings weighing less than 5000 lb [2250 kg] as 
+heat treated, one tension test shall be required on the basis of 
+one test per heat in each heat treatment load. This test shall be 
+taken from a prolongation of one of the forgings. Use of a 
+1427 

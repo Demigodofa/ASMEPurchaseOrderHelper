@@ -1,0 +1,148 @@
+SA-1016/SA-1016M
+
+very tight, through-the-wall defects or defects that extend an
+appreciable distance into the wall without complete penetra-
+tion.
+
+25.2.6 A purchaser interested in ascertaining the nature
+(type, size, location, and orientation) of discontinuities that can
+be detected in the specific application of these examinations
+should discuss this with the manufacturer of the tubular
+products.
+
+25.3 Time of Examination—Nondestructive examination for
+specification acceptance shall be performed after all deforma-
+tion processing, heat treating, welding, and straightening op-
+erations. This requirement does not preclude additional testing
+at earlier stages in the processing.
+
+25.4 Surface Condition:
+
+25.4.1 All surfaces shall be free of scale, dirt, grease, paint,
+or other foreign material that could interfere with interpretation
+of test results. The methods used for cleaning and preparing the
+surfaces for examination shall not be detrimental to the base
+metal or the surface finish.
+
+25.4.2 Excessive surface roughness or deep scratches can
+produce signals that interfere with the test.
+
+25.5 Extent of Examination:
+
+25.5.1 The relative motion of the tube and the transducer(s),
+coil(s), or sensor(s) shall be such that the entire tube surface is
+scanned, except for end effects as noted in 25.5.2.
+
+25.5.2 The existence of end effects is recognized, and the
+extent of such effects shall be determined by the manufacturer,
+and, if requested, shall be reported to the purchaser. Other
+nondestructive tests may be applied to the end areas, subject to
+agreement between the purchaser and the manufacturer.
+
+25.6 Operator Qualifications:
+
+25.6.1 The test unit operator shall be certified in accordance
+with SNT-TC-1A, or an equivalent documented standard
+agreeable to both purchaser and manufacturer.
+
+25.7 Test Conditions:
+
+25.7.1 For examination by the ultrasonic method, the mini-
+mum nominal transducer frequency shall be 2.0 MHz, and the
+maximum transducer size shall be 1.5 in. [38 mm].
+
+25.7.2 For eddy current testing, the excitation coil fre-
+quency shall be chosen to ensure adequate penetration, yet
+provide good signal-to-noise ratio.
+
+25.7.2.1 The maximum coil frequency shall be:
+
+Specified Wall Thickness, in. [mm] Maximum Frequency, kHz
+
+<0.050 in. [1.25] 100
+0.050 to 0.150 [1.25 to 3.80] 50
+>0.150 [3.80] 10
+
+25.8 Reference Standards:
+
+25.8.1 Reference standards of convenient length shall be
+prepared from a length of tube of the same grade, specified size
+(outside diameter and wall thickness), surface finish, and heat
+treatment condition as the tubing to be examined.
+
+25.8.2 For eddy current testing, the reference standard shall
+contain, at the option of the manufacturer, any one of the
+following discontinuities:
+
+25.8.2.1 Drilled Hole—The reference standard shall contain
+three or more holes, equally spaced circumferentially around
+
+ASME BPVCG.ILA-2025
+
+the tube and longitudinally separated by a sufficient distance to
+allow distinct identification of the signal from each hole. The
+holes shall be drilled radially and completely through the tube
+wall, with care being taken to avoid distortion of the tube while
+drilling. The holes shall not be larger than 0.031 in. [0.8 mm]
+in diameter. As an alternative, the producer may choose to drill
+one hole and run the calibration standard through the test coil
+three times, rotating the tube approximately 120° each time.
+More passes with smaller angular increments may be used,
+provided testing of the full 360° of the coil is obtained. For
+welded tubing, if the weld is visible, one of the multiple holes
+or the single hole shall be drilled in the weld.
+
+25.8.2.2 Transverse Tangential Notch—Using a round tool
+or file with a % in. [6.4 mm] diameter, a notch shall be milled
+or filed tangential to the surface and transverse to the longitu-
+dinal axis of the tube. Said notch shall have a depth not
+exceeding 12.5 % of the specified wall thickness of the tube or
+0.004 in. [0.1 mm], whichever is greater.
+
+25.8.2.3 Longitudinal Notch—A notch 0.031 in. (0.8 mm) or
+less in width shall be machined in a radial plane parallel to the
+tube axis on the outside surface of the tube, to have a depth not
+exceeding 12.5 % of the specified wall thickness of the tube or
+0.004 in. (0.1. mm), whichever is greater. The length of the
+notch shall be compatible with the testing method.
+
+25.8.2.4 When minimum wall tubing is specified, the notch
+depth shall be based on the calculated average wall thickness
+from Table 2 (see Note 3).
+
+25.8.3 For ultrasonic testing, the reference ID and OD
+notches shall be any one of the three common notch shapes
+shown in Practice E213, at the option of the manufacturer. The
+depth of the notches shall not exceed 12.5 % of the specified
+average wall thickness of the tube or 0.004 in. [0.1 mm],
+whichever is greater. When minimum tubing is specified, the
+notch depth shall be based on the calculated average wall
+thickness from Table 2 (see Note 3). The width of the notch
+shall not exceed two times the depth. For welded tubing, the
+notches shall be placed in the weld, if the weld is visible. When
+the notch is placed in the weld, the notch depth shall be
+measured from the surface of the weld.
+
+Notre 3—To calculate the average wall thickness when minimum wall
+tubing is specified, the calculated average wall shall be the specified
+minimum wall plus % of the Permitted Maximum Variation in Wall
+Thickness cited in Table 2. For example, when a cold finished, 1 by 0.083
+in. [25 by 2 mm] minimum wall seamless tube is specified, the calculated
+average thickness will be 0.091 in. (0.083 in. + % (20 %)) [2.2 mm (2 mm
++ Y (20 %))].
+
+25.8.4 For flux leakage testing, the longitudinal reference
+notches shall be straight-sided notches machined in a radial
+plane parallel to the tube axis on the inside and outside surfaces
+of the tube. Notch depth shall not exceed 12.5% of the
+specified wall thickness or 0.004 in. [0.1 mm], whichever is
+greater. Notch length shall not exceed 1 in. [25.4 mm], and the
+width shall not exceed the depth. Outside and inside notches
+shall have sufficient separation to allow distinct identification
+of the signal from each notch.
+
+25.8.5 When minimum wall tubing is specified, the notch
+depth shall be based on the calculated average wall thickness
+from Table 2 (see Note 3).
+
+1532

@@ -1,0 +1,48 @@
+ASME BPVC.II.A-2025 
+TABLE 3 Continued 
+Material Grade Tensile strength, Yield strength,A Elongation in 2 in. or 
+min, ksi [MPa] min, ksi [MPa] 50 mm, 8 min, % 
+HG10MnN 76 33 20 
+J92604 [525] [225] 
+HK30 65 35 10 
+J94203 [450] [240] 
+HK40 62 35 10 
+J94204 [425] [240] 
+HT30 65 28 15 
+N08030 [450] [195] 
+A Determine by the 0.2 % offset method. 
+8 When ICI test bars are used in tensile testing as provided for in Specification 
+A985/A985M, the gauge length to reduced section diameter ratio shall be 4 to 1. 
+SUPPLEMENTARY REQUIREMENTS 
+SA-351/SA-351M 
+The following supplementary requirements shall not apply unless specified in the purchase order. A 
+list of standardized supplementary requirements for use at the option of the purchaser is included in 
+Specifications A703/A703M and A985/A985M. Those which are ordinarily considered suitable for 
+use with this specification are given below. Others enumerated in Specifications A 703/ A 703M and 
+A985/A985M may be used with this specification upon agreement between the manufacturer and 
+purchaser. 
+S2. Destruction Tests 
+SS. Radiographic Inspection 
+S6. Liquid Penetrant Inspection 
+SlO. Examination of Weld Preparation 
+S33. Stabilization Heat Treatment of CFSC 
+S33.l CP8C shall be stabilized at 1600 to 1650 °P [870 to 
+900 °C] for a minimum time of 1 h/in. [25 mm] of thickness 
+and water quenched or rapidly cooled by other means. The 
+grade designation symbol shall be followed by the symbol 
+"S33." 
+S34. Stabilization Heat Treatment of CFlOMC 
+S34.l CPl0MC shall be stabilized at 1600 to 1650 °P [870 
+to 900 °C] for a minimum time of l h/in. [25 mm] of thickness 
+and water quenched or rapidly cooled by other means. The 
+grade designation symbol shall be followed by the symbol 
+"S34." 
+SSO. Post-Weld Heat Treatment 
+S50.l All austenitic castings, except Grades HK, HT, and 
+CT15C, which have been subjected to weld repairs, shall be 
+given a post-weld solution heat treatment. 
+S50.2 The post-weld treatment for grades CK3MCuN and 
+CN3MN shall be as specified in Table 3, except that the 
+minimum soak time for castings that have already been heat 
+treated according to Table 3 may be 1 h. 
+545 

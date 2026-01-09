@@ -1,0 +1,4117 @@
+=== Page 257 ===
+
+ASME BPVC.ILA-2025 SA-181/SA-181M
+
+SPECIFICATION FOR CARBON STEEL FORGINGS, FOR
+GENERAL-PURPOSE PIPING
+
+INTERNATIONAL
+® Standares Woranioe
+
+CxS SA-181/SA-181M Ally
+
+(Identical with ASTM Specification A181/A181M-06.)
+
+205
+
+=== Page 258 ===
+
+SA-181/SA-181M ASME BPVC.11.A-2025 
+SPECIFICATION FOR CARBON STEEL FORGINGS, FOR 
+GENERAL-PURPOSE PIPING 
+SA-181/SA-lSlM cO 
+INTERNATIONAL 
+Standards Worldwide 
+(Identical with ASTM Specification A 181/A 181M-06) 
+1. Scope 
+1.1 This specification covers nonstandard as-forged :fit­
+tings, valve components, and parts for general service. 
+Forgings made to this specification are limited to a maxi­
+mum weight of 10 000 lb [ 4540 kg]. Larger forgings may 
+be ordered to Specification A 266/ A 266M. 
+1.2 Two classes of material are covered, designated 
+as Classes 60 and 70, respectively, and are classified in 
+accordance with their mechanical properties as specified 
+in 6.1. 
+1.3 This specification is expressed in both inch-pound 
+units and SI units. However, unless the order specifies the 
+applicable "M" specification designation (SI units), the 
+material shall be furnished to inch-pound units. 
+1.4 The values stated in either inch-pound units or SI 
+units are to be regarded separately as standard. Within the 
+text, the SI units are shown in brackets. The values stated 
+in each system are not exact equivalents; therefore, each 
+system must be used independently of the other. Combining 
+values from the two systems may result in nonconformance 
+with the specification. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+A 266/A 266M Specification for Carbon Steel Forgings 
+for Pressure Vessel Components 
+A 788 / A 788M Specification for Steel Forgings, General 
+Requirements 
+A 961/A 961M Specification for Common Requirements 
+for Steel Flanges, Forged Fittings, Valves, and Parts for 
+Piping Applications 
+3. General Requirements and Ordering 
+Information 
+3.1 Product furnished to this specification shall conform 
+to the requirements of Specification A 961/ A 96 lM, 
+206 
+including any supplementary requirements that are indi­
+cated in the purchase order. Failure to comply with the 
+requirements of Specification A 961 / A 961 M constitutes 
+non-conformance with this specification. 
+3.2 It is the purchaser's responsibility to specify in 
+the purchase order all ordering information necessary to 
+purchase the needed material. Examples of such informa­
+tion include but are not limited to the ordering information 
+in Specification A 961/ A 96 lM and the following: 
+3.2.1 Supplementary requirements, and 
+3.2.2 Additional requirements (See 4.3, 9.1, 10.2, 
+12.1, and 12.2). 
+3.3 If the requirements of this specification are in con­
+flict with the requirements of Specification A 961 / A 961M, 
+the requirements of this specification shall prevail. 
+4. Materials and Manufacture 
+4.1 Except for flanges of all types, hollow, cylindrically 
+shaped parts may be machined from hot-rolled or forged 
+bar, provided that the axial length of the part is approxi­
+mately parallel to the metal flow lines of the stock. Other 
+parts, excluding flanges of all types, up to and including 
+NPS 4 may be machined from hot-rolled or forged bar. 
+Elbows, return bends, tees, and header tees shall not be 
+machined directly from bar stock. 
+4.2 Except as permitted in 4.1, the finished product 
+shall be a forging as defined in the Terminology section 
+(exclusively) of Specification A 788/ A 788M. 
+4.3 When specified in the order, the manufacturer shall 
+submit for approval of the purchaser a sketch showing the 
+shape of the rough forging before machining. 
+4.4 Forgings shall be protected against sudden or too 
+rapid cooling from the rolling or forging while passing 
+through the critical range.
+
+=== Page 259 ===
+
+ASME BPVC.II.A-2025 SA-181/SA-181M 
+4.5 Heat treatment is neither required nor prohibited, 
+but when applied, heat treatment shall consist of tempering, 
+annealing, normalizing, or normalizing and tempering. 
+5. Chemical Composition 
+5.1 An analysis of each heat shall be made by the 
+manufacturer to determine the percentages of the elements 
+specified in Table 1. The chemical composition thus deter­
+mined shall conform to the requirements in Table 1. 
+6. Mechanical Properties 
+6.1 The material shall conform to the requirements as 
+to tensile properties prescribed in Table 2. 
+7. Number of Tests 
+7 .1 One tension test shall be made from each heat. 
+7.2 If any test specimen is defectively machined, it 
+may be discarded and another specimen substituted. 
+8. Retests 
+8.1 When one or more representative 'test specimens 
+do not conform to specification requirements for the tested 
+characteristic, only a single retest for each nonconforming 
+characteristic may be performed to establish product 
+acceptability. Retests shall be performed on twice the num­
+ber of representative specimens that were originally non­
+conforming. When any retest specimen does not conform 
+to specification requirements for the characteristic in ques­
+tion, the lot represented by that specimen shall be rejected, 
+heat-treated or reheat-treated in accordance with 4.5, and 
+tested in accordance with Sections 6 and 7. 
+9. Reports of Testing 
+9.1 Upon request of the purchaser in the contract or 
+order, a report of the test results and chemical analyses 
+shall be furnished. The specification designation included 
+on reports of testing shall include year of issue and revision 
+letter, if any. 
+10. Repair by Welding 
+10.1 Repair welding, by the manufacturer, is permissi­
+ble for parts made to dimensional standards such as those 
+of ANSI or equivalent standards. 
+207 
+10.2 Prior approval of the purchaser shall be required 
+to weld repair special parts made to the purchaser's require­
+ments. 
+10.3 The composition of the weld deposits shall be 
+similar to the base metal and in accordance with the proce­
+dure qualification for the applicable material. Welding shall 
+be accomplished with a weld procedure designed to pro­
+duce low hydrogen in the weldment. Short-circuit gas metal 
+arc welding is permissible only with the approval of the 
+purchaser. 
+11. Marking of Forgings 
+11.1 Identification marks consisting of the manufactur­
+er's symbol or name, designation of service rating, Speci­
+fication number, class, and size shall be legibly forged or 
+stamped on each forging, and in such a position as not to 
+injure the usefulness of the forgings. 
+11.2 Bar Coding - In addition to the requirements in 
+11.1, bar coding is acceptable as a supplementary identifi­
+cation method. The purchaser may specify in the order a 
+specific bar coding system to be used. The bar coding 
+system, if applied at the discretion of the supplier, should 
+be consistent with one of the published industry standards 
+for bar coding. If used on small parts the bar code may be 
+applied to the box or a substantially applied tag. 
+12. Certificate of Compliance 
+12.1 When specified in the purchase order or contract, 
+a producer's or supplier's certification shall be furnished to 
+the purchaser that the material was manufactured, sampled, 
+tested, and inspected in accordance with this specification 
+and has been found to meet the requirements. The specifi­
+cation designation included on certificates of compliance 
+shall include year of issue and revision letter, if any. 
+12.2 When specified in the purchase order or contract, 
+a rep01t of the test results shall be furnished. 
+13. Keywords 
+13.1 pipe fittings, steel; piping applications; pressure 
+containing parts; steel forgings, carbon; steel valves
+
+=== Page 260 ===
+
+SA-181/SA-181M ASME BPVC.II.A-2025
+TABLE 1 _
+CHEMICAL REQUIREMENTS
+Composition, %
+. Element Classes 60 and 70
+| Carbon, max. 0.35 |
+Manganese, max. 1.104
+Phosphorus, max. 0.05
+Silicon 0.10—-0.35
+Sulfur, max. 0.05
+A Manganese may be increased to 1.35% max. provided the car- |
+bon is reduced 0.01% for each 0.06% increase in manganese over
+the limit shown in the table. .
+TABLE 2
+TENSILE REQUIREMENTS
+Class 60 Class 70
+Tensile strength, min., ksi [MPa] 60 [415] 70 [485]
+Yield strength,4 min., ksi [MPa] 30 [205] 36 [250]
+Elongation in 2 in. [50 mmJ, min., % 22 18
+Reduction of area, min., % 35 24
+A Determined by either the 0.2% offset method or the 0.5%
+| extension-under-load method.
+208
+
+=== Page 261 ===
+
+( 
+ASME BPVC.II.A-2025 SA-181/SA-181M 
+SUPPLEMENTARY REQUIREMENTS 
+S1. Carbon Equivalent 
+S1.1 The maximum carbon equivalent based on heat 
+analysis shall be as follows: 
+Maximum Carbon Equivalent Value 
+Maximum Section Thickness Maximum Section Thickness 
+Class Less Than or Equal to 2 in. 
+60 0.45 
+70 0.47 
+Greater Than 2 in. 
+0.46 
+0.48 
+S1.2 Determine the carbon equivalent (CE) as follows: 
+CE = C + Mn/6 + (Cr + Mo + V)/5 + (Ni + Cu)/15 
+S1.3 A lower maximum carbon equivalent may be 
+agreed upon between the supplier and the purchaser. 
+S1.4 When this Supplementary Requirement is 
+invoked, all elements in the carbon equivalent fonnula 
+shall be analyzed and the amounts reported. 
+209
+
+=== Page 263 ===
+
+ASME BPVC.II.A-2025 SA-182/SA-182M (ASTM A182/A182M) 
+SPECIFICATION FOR FORGED OR ROLLED ALLOY AND 
+STAINLESS STEEL PIPE FLANGES, FORGED FITTINGS, 
+AND VALVES AND PARTS FOR HIGH-TEMPERATURE 
+SERVICE 
+SA-182 /SA-182M 0 
+INTERNATIONAL 
+Standards Worldwide 
+(Identical with ASTM Specification A182/A182M-23 except for the inclusion of Grade F12 in para. 7.2.1, the removal of 
+reduced strength levels for thicker sections of Grade F53 in Table 3, the removal of Grade F53 Classes in Table 3, the 
+removal of Note (G) in Table 3, the increase of minimum yield strength for Grade F60 in Table 3, and editorial correction in 
+Supplementary Requirement S13 title. For Grade F91 Type 2, Supplementary Requirement S13 is mandatory.) 
+ASME SA-182/SA-182M replaces para. 7.2.1 of ASTM A182/A182M with the following: 
+7.2.1 Liquid Quenching-Except as permitted in 7.2.2, for Fl, F2, F3, and F12 and when agreed to by the purchaser, liquid 
+quenching followed by tempering shall be permitted provided the temperatures in Table 1 for each grade are used. 
+ASME SA-182/SA-182M, Table 3 replaces the three F53 lines, the F60 line, and Note G of ASTM A182/A182M, Table 3 with 
+the following: 
+GDELETED 
+F53 
+F60 
+116 (800) 80 (550) 
+95 (655) 70 (485) 
+15 
+25 
+ASME SA-182/SA-182M retitles para. S13 of ASTM A182/A182M as follows: 
+S13. Minimum Cooling Rate for Grade F91 Type 2 
+211 
+310 max 
+45 
+(25)
+
+=== Page 264 ===
+
+SA-182/SA-182M (ASTM A182/A182M) ASME BPVC.II.A-2025 
+~ Designation: A182/A182M - 23 
+~u 11 
+INTERNATIONAL 
+Standard Specification for 
+Forged or Rolled Alloy and Stainless Steel Pipe Flanges, 
+Forged Fittings, and Valves and Parts for High-Temperature 
+Service 1 
+This standard is issued under the fixed designation Al82/Al82M; the number immediately following the designation indicates the year 
+of original adoption or, in the case of revision, the year of last revision. A number in parentheses indicates the year of last reapproval. 
+A superscript epsilon ( e) indicates an editorial change since the last revision or reapproval. 
+This standard has been approved for use by agencies of the U.S. Department of Defense. 
+1. Scope* 
+1.1 This specification 2 covers forged low alloy and stainless 
+steel piping components for use in pressure systems. Included 
+are flanges, fittings, valves, and similar parts to specified 
+dimensions or to dimensional standards, such as the ASME 
+specifications that are referenced in Section 2. 
+1.2 For bars and products machined directly from bar or 
+hollow bar (other than those directly addressed by this speci­
+fication; see 6.4), refer to Specifications A479/A479M, A739, 
+or A511/ A511M for the similar grades available in those 
+specifications. 
+1.3 Products made to this specification are limited to a 
+maximum weight of 10 000 lb [4540 kg]. For larger products 
+and products for other applications, refer to Specifications 
+A336/A336M and A965/A965M for the similar ferritic and 
+austenitic grades, respectively, available in those specifica­
+tions. 
+1.4 Several grades of low alloy steels and ferritic, 
+martensitic, austenitic, and ferritic-austenitic stainless steels 
+are included in this specification. Selection will depend upon 
+design and service requirements. Several of the ferritic/ 
+austenitic ( duplex) grades are also found in Specification 
+A1049/ A1049M. 
+1.5 Supplementary requirements are provided for use when 
+additional testing or inspection is desired. These shall apply 
+only when specified individually by the purchaser in the order. 
+1.6 This specification is expressed in both inch-pound units 
+and in SI units. However, unless the order specifies the 
+1 This specification is under the jurisdiction of ASTM Committee AO! on Steel, 
+Stainless Steel and Related Alloys and is the direct responsibility of Subcommittee 
+A0l.22 on Steel Forgings and Wrought Fittings for Piping Applications and Bolting 
+Materials for Piping and Special Purpose Applications. 
+Current edition approved May I, 2023. Published May 2023. Originally 
+approved in 1935. Last previous edition approved in 2022 as Al82/Al82M-22a. 
+DOI: 10.1520/A0182_A0182M-23. 
+2 For ASME Boiler and Pressure Vessel Code applications see related Specifi­
+cation SA-182 in Section JI of that Code. 
+applicable "M" specification designation (SI units), the mate­
+rial shall be furnished to inch-pound units. 
+1.7 The values stated in either SI units or inch-pound units 
+are to be regarded separately as the standard. Within the text, 
+the SI units are shown in brackets. The values stated in each 
+system may not be exact equivalents; therefore, each system 
+shall be used independently of the other. Combining values 
+from the two systems may result in non-conformance with the 
+standard. 
+1.8 This international standard was developed in accor­
+dance with internationally recognized principles on standard­
+ization established in the Decision on Principles for the 
+Development of International Standards, Guides and Recom­
+mendations issued by the World Trade Organization Technical 
+Barriers to Trade (TBT) Committee. 
+2. Referenced Documents 
+2.1 In addition to the referenced documents listed in Speci­
+fication A961/A961M, the following list of standards apply to 
+this specification. 
+2.2 ASTM Standards: 3 
+A262 Practices for Detecting Susceptibility to Intergranular 
+Attack in Austenitic Stainless Steels 
+A275/A275M Practice for Magnetic Particle Examination of 
+Steel Forgings 
+A336/A336M Specification for Alloy Steel Forgings for 
+Pressure and High-Temperature Parts 
+A388/A388M Practice for Ultrasonic Examination of Steel 
+Forgings 
+A479/A479M Specification for Stainless Steel Bars and 
+Shapes for Use in Boilers and Other Pressure Vessels 
+A484/A484M Specification for General Requirements for 
+Stainless Steel Bars, Billets, and Forgings 
+3 For referenced ASTM standards, visit the ASTM website, www.astm.org, or 
+contact ASTM Customer Service at service@astm.org. For Annual Book of ASTM 
+Standards volume information, refer to the standard's Document Summary page on 
+the ASTM website. 
+* A Summary of Changes section appears at the end of this standard 
+212
+
+=== Page 265 ===
+
+ASME BPVC.ll.A-2025 SA-182/SA-182M {ASTM A182/A182M) 
+A511/ A511M Specification for Seamless Stainless Steel Me­
+chanical Tubing and Hollow Bar 
+A 739 Specification for Steel Bars, Alloy, Hot- Wrought, for 
+Elevated Temperature or Pressure-Containing Parts, or 
+Both 
+A 763 Practices for Detecting Susceptibility to Intergranular 
+Attack in Ferritic Stainless Steels 
+A788/A788M Specification for Steel Forgings, General Re­
+quirements 
+A923 Test Methods for Detecting Detrimental Intermetallic 
+Phase in Duplex Austenitic/Ferritic Stainless Steels 
+A961/A961M Specification for Common Requirements for 
+Steel Flanges, Forged Fittings, Valves, and Parts for 
+Piping Applications 
+A965/ A965M Specification for Steel Forgings, Austenitic, 
+for Pressure and High Temperature Parts 
+A1049/A1049M Specification for Stainless Steel Forgings, 
+Ferritic/ Austenitic (Duplex), for Pressure Vessels and 
+Related Components 
+A1084 Test Method for Detecting Detrimental Phases in 
+Lean Duplex Austenitic/Ferritic Stainless Steels 
+E92 Test Methods for Vickers Hardness and Knoop Hard­
+ness of Metallic Materials 
+El12 Test Methods for Determining Average Grain Size 
+E165/El65M Practice for Liquid Penetrant Testing for Gen-
+eral Industry 
+E340 Practice for Macroetching Metals and Alloys 
+2.3 ASME Standards . .4 
+B 16.11 Forged Steel Fittings, Socket Welding, and Threaded 
+2.4 ASME Boiler and Pressure Vessel Code: 4 
+Section IX 
+2.5 A WS Specifications 5 
+A5.4/A5.4M Specification for Stainless Steel Electrodes for 
+Shielded Metal Arc Welding 
+A5.5/A5.5M Specification for Low-Alloy Steel Electrodes 
+for Shielded Metal Arc Welding 
+A5.9/A5.9M Specification for Bare Stainless Steel Welding 
+Electrodes and Rods 
+A5.ll/A5.11M Specification for Nickel and Nickel-Alloy 
+Welding Electrodes for Shielded Metal Arc Welding 
+A5.14/A5.14M Specification for Nickel and Nickel-Alloy 
+Bare Welding Electrodes and Rods 
+A5.23/A5.23M Specification for Low-Alloy Steel Elec­
+trodes and Fluxes for Submerged Arc Welding 
+A5.28/A5.28M Specification for Low-Alloy Steel Elec­
+trodes for Gas Shielded Arc Welding 
+A5.29/A5.29M Low-Alloy Steel Electrodes for Flux Cored 
+Arc Welding 
+3. Terminology 
+3.1 Definitions-For definitions of terms used in this 
+specification, refer to Specification A961/A961M. 
+4 Available from American Society of Mechanical _Engineers (ASME), ASME 
+International Headquarters, Two Park Ave., New York, NY 10016-5990, http:// 
+www.asme.org. 
+5 Available from American Welding Society (AWS), 550 NW LeJeune Rd., 
+Miami, FL 33126, http://www.aws.org. 
+3.2 Definitions of Terms Specific to This Standard: 
+3.2.l hardened condition, n-for F 23, the metallurgical 
+condition achieved after normalizing and cooling to room 
+temperature but prior to tempering. 
+4. Ordering Information 
+4.1 It is the purchaser's responsibility to specify in the 
+purchase order information necessary to purchase the needed 
+material. In addition to the ordering information guidelines in 
+Specification A961/A961M, orders should include the follow­
+ing information: 
+4.1.1 Additional requirements (see 7.2.1, Table 2 footnotes, 
+9.3, and 19.2), and 
+4.1.2 Requirement, if any, that manufacturer shall submit 
+drawings for approval showing the shape of the rough forging 
+before machining and the exact location of test specimen 
+material (see 9.3.1). 
+5. General Requirements 
+5 .1 Product furnished to this specification shall conform to 
+the requirements of Specification A961/A961M, including any 
+supplementary requirements that are indicated in the purchase 
+order. Failure to comply with the general requirements of 
+Specification A961/A961M constitutes nonconformance with 
+this specification. In case of conflict between the requirements 
+of this specification and Specification A961/A961M, this 
+specification shall prevail. 
+6. Manufacture 
+6.1 The low-alloy ferritic steels shall be made by the 
+open-hearth, electric-furnace, or basic-oxygen process with the 
+option of separate degassing and refining processes in each 
+case. 
+6.2 The stainless steels shall be melted by one of the 
+following processes: ( a) electric-furnace (with the option of 
+separate degassing and refining processes); (b) vacuum­
+fumace; or ( c) one of the former followed by vacuum or 
+electroslag-consumable remelting. Grade F XM-27Cb may be 
+produced by electron-beam melting. 
+6.3 A sufficient discard shall be made to secure freedom 
+from injurious piping and undue segregation. 
+6.4 Except as permitted in 6.4.2 and 6.4.3, the material shall 
+be forged as close as practicable to the specified shape and size. 
+6.4.1 Flanges, elbows, return bends, tees, and header tees 
+shall not be machined directly from bar stock. Other parts 
+whose longitudinal axis is not parallel to the longitudinal axis 
+of the hollow bar or forged or rolled bar shall not be machined 
+directly from bar. 
+6.4.2 Parts may be machined from hollow bar or forged or 
+rolled solution-annealed austenitic stainless steel bar without 
+additional hot working provided the longitudinal axis of the 
+part is parallel to the longitudinal axis of the bar. 
+6.4.3 Low alloy, martensitic stainless, ferritic stainless, and 
+ferritic-austenitic stainless steel parts, NPS-4 [DN 100] and 
+under, may be machined from hollow bar or forged or rolled 
+bar, without additional hot working provided the longitudinal 
+axis of the part is parallel to the longitudinal axis of the bar. 
+213
+
+=== Page 266 ===
+
+SA-182/SA-182M (ASTM A182/A182M) ASME BPVC.11.A-2025 
+6.5 Except as provided for in 6.4, the finished product shall 
+be a forging as defined in the Terminology section of Specifi­
+cation A788/A788M. 
+7. Heat Treatment 6 
+7 .1 After hot working, forgings shall be cooled to a tem­
+perature below 1000 °F [538 °C] prior to heat treating in 
+accordance with the requirements of Table 1. 
+7.2 £ow Alloy Steels and Ferritic and Martensitic Stainless 
+Steels-The low alloy steels and ferritic and martensitic 
+stainless steels shall be heat treated in accordance with the 
+requirements of 7 .1 and Table 1. When more than one heat 
+treatment option is listed for a Grade in Table 1, any one of the 
+heat treatments listed shall be performed. The selection of the 
+heat treatment shall be at the manufacturer's option, unless 
+otherwise stated in the purchase order. 
+7.2.1 Liquid Quenching-Except as permitted in 7.2.2, for 
+F 1, F 2, and F 3, and when agreed to by the purchaser, liquid 
+quenching followed by tempering shall be permitted provided 
+the temperatures in Table 1 for each grade are used. 
+7.2.1.1 Marking-Parts that are liquid quenched and tem­
+pered shall be marked "QT." 
+7.2.2 Alternatively, Grade F 1, F 2, and F 12, Classes 1 and 
+2 may be given a heat treatment of 1200 °F [650 °C] minimum 
+after final hot or cold forming. 
+7.3 Austenitic and Ferritic-Austenitic Stainless Steels­
+Except as permitted by 7 .5, the austenitic and ferritic-austenitic 
+stainless steels shall be heat treated and liquid-quenched in 
+accordance with the requirements of 7 .1 and Table 1. 
+7.3.1 Alternatively, immediately following hot working, 
+while the temperature of the forging is not less than the 
+minimum solution annealing temperature specified in Table 1, 
+forgings made from austenitic grades (except grades F 304H, F 
+309H, F 310, F 310H, F 316H, F 316Ti, F 321, F 321H, F 347, 
+F 347H, F 348, F 348H, F 45, F35030, and F 56) may be 
+individually rapidly quenched in accordance with the require­
+ments of Table 1. Ferritic-austenitic grades may be solution 
+annealed without cooling below 1000 °F by being re-heated to 
+the solution annealing temperature required in Table 1, held for 
+a time sufficient to dissolve phases and precipitates which may 
+cause a reduction in corrosion or mechanical properties, and 
+quenched in accordance with Table 1. 
+7.3.2 See Supplementary Requirement S8 if a particular 
+heat treatment method is to be employed. 
+7.4 Time of Heat Treatment-Heat treatment of forgings 
+may be performed before machining. 
+7.5 Forged or Rolled Bar-Forged or rolled austenitic 
+stainless bar from which cylindrically shaped parts are to be 
+machined, as permitted by 6.4, and the parts machined from 
+such bar, without heat treatment after machining, shall be 
+furnished to the annealing and quenching or rapid-cooling 
+6 A solution annealing temperature above 1950 °F [1065 °C] may impair the 
+resistance to intergranular corrosion after subsequent exposure to sensitizing 
+conditions in F 321, F 321H, F 347, F 347H, F 348, and F 348H. When specified 
+by the purchaser, a lower temperature stabilizing treatment or a second solution 
+annealing shall be used subsequent to the initial high temperature solution anneal 
+(see Supplementary Requirement S10). 
+requirements of Specification A484/A484M or this 
+specification, with subsequent light cold drawing and straight­
+ening permitted (see Supplementary Requirement S3 if anneal­
+ing must be the final operation). 
+7.6 Hollow Bar-Austenitic stainless hollow bar from 
+which cylindrically shaped parts are to b~ machined, as 
+permitted by 6.4, and the parts machined from such hollow bar, 
+without heat treatment after machining, shall be furnished to 
+the annealing and quenching or rapid-cooling requirements of 
+Specification A511/ A511M, or this specification, with subse­
+quent light cold drawing and straightening permitted (see 
+Supplementary Requirement S3 if annealing must be the final 
+operation). 
+8. Chemical Composition 
+8.1 A chemical heat analysis in accordance with Specifica­
+tion A961/A961M shall be made and conform to the chemical 
+composition prescribed in Table 2. 
+8.2 Grades to which lead, selenium, or other elements are 
+added for the purpose of rendering the material free-machining 
+shall not be used. 
+8 .3 Starting material produced to a specification that spe­
+cifically requires the. addition of any element beyond those 
+listed in Table 2 for the applicable grade of material is not 
+perrni tted. 
+8.4 Steel grades covered in this specification shall not 
+contain an unspecified element, other than nitrogen in stainless 
+steels, for the ordered grade to the extent that the steel 
+conforms to the requirements of another grade for which that 
+element is a specified element having a required minimum 
+content. For this requirement, a grade is defined as an alloy 
+described individually and identified by its own UNS designa­
+tion or Grade designation and identification symbol in Table 2. 
+8.5 Product Analysis-The purchaser may make a product 
+analysis on products supplied to this specification in accor­
+dance with Specification A961/A961M. 
+9. Mechanical Properties 
+9.1 The material shall conform to the requirements as to 
+mechanical properties for the grade ordered as listed in Table 3. 
+9.2 Mechanical test specimens shall be obtained from pro­
+duction forgings, or from separately forged test blanks pre­
+pared from the stock used to make the finished product. In 
+eithet case, mechanical test specimens shall not be removed 
+until after all heat treatment is complete. If repair welding is 
+required, test specimens shall not be removed until after 
+post-weld heat treatment is complete, except for ferritic grades 
+when the post-weld heat treatment is conducted at least 50 °F 
+[30 °C] below the actual tempering temperature. When test 
+blanks are used, they shall receive approximately the same 
+working as the finished product. The test blanks shall be heat 
+treated with the finished product and shall approximate the 
+maximum cross section of the forgings they represent. 
+9.3 For normalized and tempered, or quenched and tem­
+pered forgings, the central axis of the test specimen shall be 
+taken at least ¼ T from the nearest surface as-heat-treated, 
+214
+
+=== Page 267 ===
+
+ASME BPVC.II.A-2025 SA-182/SA-182M (ASTM A182/A182M) 
+TABLE 1 Heat Treating Requirements 
+Grade Heat Treat Type Austenitizing/Solutioning Cooling Quenching Cool Tempering Temperature, 
+Temperature, Minimum Media Below °F [0 C] Minimum or 
+or Range, °F [0 C]A Range, °F [°C] 
+Low Alie Steels 
+F 1 anneal 1650 [900] furnace cool B B 
+normalize and temper 1650 [900] air cool B 1150 [620] 
+F2 anneal 1650 [900] furnace cool B B 
+normalize and temper 1650 [900] air cool B 1150 [620] 
+F 5, F Sa anneal 1750 [955] furnace cool B B 
+normalize and temper 1750 [955] air cool B 1250 [675] 
+F9 anneal 1750 [955] furnace cool B B 
+normalize and temper 1750 [955] air cool B 1250 [675] 
+F 10 solution treat and quench 1900 [1040] liquid 500 [260] B 
+F 91 Types 1 and 2 normalize and temper or 1900-1975 [1040-1080] air cool, accelerated air B 1350-14 70 [730-800] 
+quench and temper cool, or liquid 
+F 92 normalize and temper 1900-1975 [1040-1080] air cool B 1350-14 70 [730-800] 
+F 93 normalize and temper 1960-2140 [1070-1170] air cool 385 [200] 1380-1455 [750-790] 
+F 115 normalize and temper 1920-2010 [1050-1100] air cool, accelerated air B 1380-1455 [750-790] 
+cool, or liquid 
+F 122 normalize and temper 1900-1975 [1040-1080] air cool B 1350-1470 [730-800] 
+F 911 normalize and temper 1900-1975 [1040-1080] air cool or liquid B 1365-1435 [740-780] 
+F 11, Class 1, 2, 3 anneal 1650 [900] furnace cool B B 
+normalize and temper 1650 [900] air cool B 1150 [620] 
+F, 12, Class 1, 2 anneal 1650 [900] furnace cool B B 
+normalize and temper 1650 [900] air cool B 1150 [620] 
+F 21, F 3V, and F anneal 1750 [955] fu mace cool B B 
+3VCb 
+normalize and temper 1750 [955] air cool B 1250 [675] 
+F 22, Class 1, 3 anneal 1650 [900] furnace cool B B 
+normalize and temper 1650 [900] air cool B 1250 [675] 
+F 22V normalize and temper or 1650 [900] air cool or liquid B 1250 [675] 
+quench and temper 
+F 23 normalize and temper 1900-1975 [1040-1080] air cool B 1350-14 70 [730-800] 
+accelerated cool 
+F 24 normalize and temper 1800-1975 [980-1 080] air cool B 1350-1470 [730-800] 
+or liquid 
+FR anneal 1750 [955] furnace cool B B 
+normalize 1750 [955] air cool B B 
+normalize and temper 1750 [955] air cool B 1250 [675] 
+F 36, Class 1 normalize and temper 1650 [900] air cool B 1100 [595] 
+F 36, Class 2 normalize and temper or 1650 [900] air cool, B 1100 [595] 
+quench and temper 1650 [900] accelerated air cool, 1100 [595] 
+or Ii uid 
+Martensitic Stainless Steels 
+F 6a Class 1 anneal not specified furnace cool B B 
+normalize and temper not specified air cool 400 [205] 1325 [725] 
+temper not required B B 1325 [725] 
+F 6a Class 2 anneal not specified furnace cool B B 
+normalize and temper not specified air cool 400 [205] 1250 [675] 
+temper not required B B 1250 [675] 
+F 6a Class 3 anneal not specified furnace cool B B 
+normalize and temper not specified air cool 400 [205] 1100 [595] 
+F 6a Class 4 anneal not specified furnace cool B B 
+normalize and temper not specified air cool 400 [205] 1000 [540] 
+F 6b anneal 1750 [955] furnace cool B B 
+normalize and temper 1750 [955] air cool 400 [205] 1150 [620] 
+F6NM normalize and temeer 1850 [1010J air cool 200 [95] 1040-1120 [560-600] 
+Ferritic Stainless Steels 
+F XM-27 Cb anneal 1850 [1010] furnace cool B B 
+F 429 anneal 1850 [1010] furnace cool B B 
+F 430 anneal not seecified furnace cool B B 
+Austenitic Stainless Steels 
+F 304 solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 304H solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 304L solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 304N solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 304LN solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 309H solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 310 solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 310H solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 310MoLN solution treat and quench 1900-2010 [1050-1100] liquidE 500 [260] B 
+F 316 solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 316H solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 316L solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 316N solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 316LN solution treat and quench 1900 [1040] liquidE 500 [260] B 
+215
+
+=== Page 268 ===
+
+SA-18Z/SA-18ZM (ASTM A18Z/A18ZM) ASME BPVC.II.A•Z0Z5 
+TABLE 1 Continued 
+Grade Heat Treat Type Austenitizing/Solutioning Cooling Quenching Cool Tempering Temperature, 
+Temperature, Minimum Media Below °F [°C] Minimum or 
+or Range, °F [°CjA Range, °F [°C] 
+F 316Ti solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 317 solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 317L solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F317LNCb solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 72 solution treat and quench 1975-2155 [1080-1180] liquidE 500 [260] B 
+F 73 solution treat and quench 1975-2155 [1080-1180] liquidE 500 [260] B 
+F 347 solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 347H solution treat and quench 2000 [1095] liquidE 500 [260] B 
+F 347LN solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 347LNCuB solution treat and quench 1940-2140 liquidE 500 [260] B 
+[1060-1170] 
+F 348 solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 348H solution treat and quench 2000 [1095] liquidE 500 [260] B 
+F 321 solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 321H solution treat and quench 2000 [1095] liquidE 500 [260] B 
+F XM-11 solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F XM-19 solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 20 solution treat and quench 1700-1850 [925-101 OJ liquidE 500 [260] B 
+F 44 solution treat and quench 2100 [1150] liquidE 500 [260] B 
+F 45 solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 46 solution treat and quench 2010-2140 [1100-1140] liquidE 500 [260] B 
+F 47 solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 48 solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 49 solution treat and quench 2050 [1120] liquidE 500 [260] B 
+F 56 solution treat and quench 2050-2160 [1120-1180] liquidE 500 [260] B 
+F 58 solution treat and quench 2085 [1140] liquidE 500 [260] B 
+F 62 solution treat and quench 2025 [1105] liquidE 500 [260] B 
+F 63 solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 64 solution treat and quench 2010-2140 [1100-1170] liquidE 500 [260] B 
+F 904L solution treat and quench 1920-2100 [1050-1150] liquidE 500 [260] B 
+F 70 solution treat and quench 1900 [1040] liquid 0 500 [260] B 
+F700 solution treat and quench 2025-2100 [1107 -1149] liquid/rapid cool 500 [260] B 
+FNIC solution treat and quench 1800-1900 [983-1 038] liquid/rapid cool 500 [260] B 
+FNIC10 solution treat and quench 2100-2150 [1149-1177] liquid/rapid cool 500 [260] B 
+FNIC11 solution treat and quench 2100-2150 [1149-1177] liquid/rapid cool 500 [260] B 
+F1925 solution treat and quench 1800-1900 [983-1 038] liquid/rapid cool 500 [260] B 
+F1925N solution treat and quench 2150 [1177] liquid/rapid cool 500 [260] B 
+F35030 solution treat and guench 1900 [1040] liguid 500 [260] B 
+Ferritic-Austenitic Stainless Steels 
+F 50 solution treat and quench 
+F 51 solution treat and quench 
+F 52c 
+F 53 solution treat and quench 
+F 54 solution treat and quench 
+F 55 solution treat and quench 
+F 57 solution treat and quench 
+F 59 solution treat and quench 
+F 60 solution treat and quench 
+F 61 solution treat and quench 
+F 65 solution treat and quench 
+F 66 solution treat and quench 
+F 67 solution treat and quench 
+F 68 solution treat and quench 
+F 69 solution treat and quench 
+F 71 solution treat and quench 
+A Minimum unless temperature range is listed. 
+8 Not applicable. 
+1925 [1050] 
+1870 [1020] 
+1880 [1025] 
+1920-2060 [1050-1125] 
+2010-2085 [1100-1140] 
+1940 [1060] 
+1975-2050 [1080-1120] 
+1870 [1020] 
+1920-2060 [1050-1125] 
+1830-2100 [1000-1150] 
+1870-1975 [1020-1080] 
+1870-2050 [1020-1120] 
+1700-1920 [925-1 050] 
+1870 [1020] 
+1925-2100 [1050-1150] 
+liquid 500 [260] B 
+liquid 500 [260] B 
+liquid 500 [260] B 
+liquid 500 [260] B 
+liquid 500 [260] B 
+liquid 500 [260] B 
+liquid 175 [80] B 
+liquid 500 [260] B 
+liquid 500 [260] B 
+liquid 500 [260] B 
+liquid 0 500 [260] B 
+liquid 500 [260] B 
+liquid 500 [260] B 
+liquid 500 [260] B 
+liquid 500 [260] B 
+liquid 500 [260] B 
+c Grade F 52 shall be solution treated at 1825 to 1875 °F [995 to 1025 °C] 30 min/in. of thickness and water quenched. 
+0 The cooling media for Grades F 65 and F 70 shall be quenching in water or rapidly cooling by other means. 
+E Forged or rolled bar meeting the requirements of 7.5 shall be liquid quenched or rapid-cooled by other means in accordance with Specification A484/A484M. 
+where Tis the maximum heat-treated thickness of the repre­
+sented forging. In addition, for quenched and tempered 
+forgings, the mid-length of the test specimen shall be at least T 
+from all other surfaces as-heat-treated, exclusive of the T 
+dimension surfaces. When the section thickness does not 
+permit this positioning, the test specimen shall be positioned as 
+near as possible to the prescribed location, as agreed to by the 
+purchaser and the supplier. 
+216 
+9.3.1 With prior purchase approval, the test specimen for 
+ferritic steel forgings may be taken at a depth (t) corresponding 
+to the distance from the area of significant stress to the nearest 
+heat-treated surface and at least twice this distance (2 t) from 
+any second surface. However, the test depth shall not be nearer 
+to one treated surface than¾ in. [19 mm] and to the second 
+treated surface than 1 ½ in. [38 mm]. This method of test 
+specimen location would normally apply to contour-forged
+
+=== Page 269 ===
+
+ASME BPVC.ILA-2025 SA-182 /SA-182M (ASTM A182 /A182M)
+TABLE 2 Chemical Requirements“
+Grade/Identifi- UNS Composition, %
+cation Desig- Carbon Manga- Phos- Sulfur Silicon Nickel | Chromium Molybde- Niobium? — Titan- Other
+Symbol nation nese _ phorus num ium Elements
+Low Alloy Steels -
+F'4 K12822 0.28 0.60-0.90 0.045 0.045 0.15-0.35 ve we 0.44—0.65 was we ve
+F 2° Ki2122 0.05-0.21 0.30-0.80 0.040 0.040 0.10—0.60 wes 0.50-0.81 0.44—0.65 wee ve eee
+F 5° K41545 0.15 0.30-0.60 0.030 0.030 0.50 0.50 4.0-6.0 0.44-0.65 ves wes wee
+F 5a? K42544 0.25 0.60 0.040 0.030 0.50 0.50 4.0-6.0 0.44—0.65 ve wee ve
+FQ K90941 0.15 0.30-0.60 0.030 0.030 0.50—1.00 wee 8.0—10.0 0.90—1.10 we ws wee
+a F 10 $33100 0.10-0.20 0.50-0.80 0.040 0.030 1.00-1.40 19.0—22.0 7.0-9.0 we wee we we
+- F 91 Type 1 K90901 0.08-0.12 0.30-0.60 0.020 0.010 0.20—0.50 0.40 8.0-9.5 0.85—1.05 0.06-—0.10 ees N 0.03—0.07
+\ | Al 0.025
+: V 0.18-0.25
+Ti 0.018
+; Zr 0.015
+F 91 Type 2 K90901 0.08-0.12 0.30-0.50* 0.020 0.005 0.20-0.40 0.20* 8.0-9.5* 0.85-1.05 0.06-0.10 0.01 N 0,085-0.970°
+N/AI ratio, min
+4.0
+V 0.18-0.25
+Zr 0.015
+B 0.001£
+Cu 0.10£
+W 0.05=
+Sn 0.010*
+As 0.010&
+, Sb 0.003*
+F 92 K92460 0.07-0.13 0.30-0.60 0.020 0,010 0.50 0.40 8.50—9.50 0.30—0.60 0.04—0.09 vee V 0.15—0.25
+N
+0.030-—0.070
+Al 0.02£
+Ww 1002.00
+0.001-0.006
+j Ti 0.015
+{ Zr 0,01£
+7 F 93 K91350 0.05-0.10 0.20-0.70 0.020 0.008 0.05-—0.50 0.20 8.50—9.50 vee vee we V 0.15-0.30
+B 0.007—0.015
+| Al 0.030
+W 2.5-3.5
+; : Co 2.5-3.5
+N 0.005-0.015
+Nb 0.05-0.12
+Nd 0.010—0.06
+O 0.0050
+F115 K91060 0.08-0.13 0.20-0.50 0.020 0.005 0.15-0.45 0.25 10.0-11.0 0.40-0.60 0.02-—0.06 0.01 V 0.18-0.25
+B 0.001
+Cu 0.10
+Al 0.02
+W 0.05
+; N 0.030—0.070
+Zr 0.01
+As 0.010
+| Sn 0.010
+: Sb 0.003
+N/AI ratio 4.0
+: min
+ae CNB” 10.5
+F 122 K91271 0.07-0.14 0.70 0.020 0.010 0.50 0.50 10.00-—11.50 0.25-0.60 0.04— vee V0.15-0.30 —
+0.10 B 0.005
+N 0.040-0.100
+Al 0.02£
+Cu 0.30-1.70
+W 1.50-2.50
+Ti 0.015 |
+Zr 0.01"
+) F 911 ~ K91061 0.09-0.13 0.30-0.60 0.020 0.010 0.10-0.50 0.40 8.5-9.5 0.90—1.10 0.060-0.10... W 0.90-1.10
+Al 0.02
+N 0.04—0.09
+V 0.18-0.25
+| B 0.0003-
+0.006
+, Ti 0.01©
+Zr 0.015
+F 11 K11597 0.05-0.15 0.30—-0.60 0.030 0.030 0.50-1.00 vee 1.00—1.50 0.44—0.65 wee we ve
+Class 1
+F 11 K11572 0.10-0.20 0.30-0.80 0.040 0.040 0.50-1.00 vee 1.00~—1.50 0.44—0.65 aes wee we )
+Class 2 -
+217
+
+=== Page 270 ===
+
+SA-182/SA-182M (ASTM A182 /A182M) ASME BPVC.ILA-2025
+. TABLE 2 Continued
+Grade/ldentifi- UNS Composition, %
+cation Desig- Carbon Manga- Phos- Sulfur Silicon Nickel | Chromium Molybde- Niobium? — Titan- Other
+Symbol nation nese phorus num ium Elements
+. F 11 K11572 0.10-0.20 0.30-0.80 0.040 0.040 0.50-1.00 we 1.00-—1.50 0.44—0.65 ve ve we
+Class 3
+F 12 K11562 0.05-0.15 0.30-0.60 0.045 0.045 0.50 max wee 0.80-1.25 0.44-0.65 vee ve ve
+Class 1
+F 12 K11564 0.10-0.20 0.30-0.80 0.040 0.040 0.10-—0.60 we 0.80—1.25 0.44—0.65 ves we we
+Class 2
+F 21 K31545  0.05-0.15 0.30-0.60 0.040 0.040 0.50 max wee 2.7-3.3 0.80-—1.06 we ve vee
+F 3V K31830 0.05-0.18 0.30-0.60 0.020 0.020 0.10 wes 2.8-3.2 0.90-1.10 vee 0.015— V 0.20-—0.30
+, 0.035 B .
+. 0.001—0.003
+F 3VCb K31390 0.10-0.15 0.30-0.60 0.020 0.010 0.10 0.25 2.7-3.3 0.90—1.10 0.015-0.0700.015 V 0.20-0.30
+Cu 0.25
+Ca 0.0005—
+0.0150
+F 22 K21590 0.05-0.15 0.30-0.60 0.040 0.040 0.50 we 2.00-2.50 0.87—1.13 ve we ve
+Class 1 wee
+F 22 K21590 0.05-0.15 0.30-0.60 0.040 0.040 0.50 we 2.00-2.50 0.87-1.13 we wee we
+Class 3
+F 22V K31835 0.11-0.15 0.30-0.60 0.015 0.010 0.10 0.25 2.00-2.50 0.90-1.10 0.07 0.030 Cu 0.20
+V 0.25-0.35
+B 0.002
+. Ca 0.015"
+F 23 K40712 0.04-0.10 0.10-0.60 0.030 0.010 0.50 0.40 1.90-2.60 0.05—0.30 0.02— 0.005— V 0.20-0.30
+0.08 0.0604 B 0.0010—
+0.006
+N 0.015¢
+Al 0.030
+W 1.45-1.75
+F 24 K30736 0.05-0.10 0.30-0.70 0.020 0.010 0.15-0.45 we 2.20-2.60 0.90-1.10 ve 0.06-0.10 V0.20-0.30
+N 0.12
+Al! 0.020
+B 0.0015-
+0.0070 :
+FR K22035 0.20 0.40-1.06 0.045 0.050 ve 1.60-2.24 we ve vee ve Cu 0.75—1.25
+F 36 K21001 0.10-0.17 0.80-1.20 0.030 0.025 0.25-0.50 1.00-1.30 0.30 0.25—-0.50 0.015-0.045 N 0.020
+: Al 0.050
+Cu 0.50—0.80
+V 0.02
+Martensitic Stainless Steels
+F 6a $41000 0.15 1.00 0.040 0.030 1.00 0.50 11.5-13.5 ve wee ve ve
+F 6b $41026 0.15 1.00 0.020 0.020 1.00 1.00-2.00 11.5-13.5 0.40-—0.60 ve vee Cu 0.50
+F 6NM $41500 0.05 0.50-1.00 0.030 0.030 0.60 3.5-5.5 11.5-14.0 0.50—-1.00 ve was ves
+Ferritic Stainless Steels
+F XM- $44627 0.010” 0.40 0.020 0.020 0.40 0.507 25.0-27.5 0.75—1.50 0.05-0.20_—... N 0.01577
+27Cb Cu 0.20”
+F 429 $42900 0.12 1.00 0.040 0.030 0.75 0.50 14.0-16.0 wee we ve ve
+F 430 $43000 0.12 1.00 0.040 0.030 0.75 0.50 16.0—18.0 ve ve ve ves
+Austenitic Stainless Steels
+F 304 $30400 0.08 2.00 0.045 0.030 1.00 8.0-11.0 18.0-20.0 eee we wee N 0.10
+F 304H $30409 0.04~0.10 2.00 0.045 0.030 1.00 8.0—11.0 18.0-20.0 wee ve wee ve
+F 304L . $30403 0.030 2.00 0.045 0.030 1.00 8.0—13.0 18.0-20.0 ve ve ve N 0.10
+F 304N $30451 0.08 2.00 0.045 0.030 1.00 8.0—10.5 18.0—20.0 ve ve ve N 0.10—0.16
+F 304LN $30453 0.030 2.00 0.045 0.030 1.00 8.0-10.5 18.0-20.0 ve ve ve N 0.10-0.16
+F 309H $30909 0.04—0.10 2.00 0.045 0.030 1.00 12.0-15.0  22.0-24.0 ve wes ee ves a
+F 310 $31000 0.25 2.00 0.045 0.030 1.00 19.0-22.0 24.0-26.0 ve ves ve wee
+F 310H $31009 0.04—-0.10 2.00 0.045 0.030 1.00 19.0-22.0 24.0-26.0 wee ve ve ve
+F 310MoLN $31050 0.030 2.00 0.030 0.015 0.40 21.0-23.0 24.0-26.0 2.00-3.00 ve vee N 0.10-0.16
+F 316 $31600 0.08 2.00 0.045 0.030 1.00 10.0-14.0  16.0-18.0 2.00-3.00 wee ves N 0.10
+F 316H $31609 0.04—0.10 2.00 0.045 0.030 1.00 10.0-14.0 16.0-18.0 2.00-3.00 ves ve ve
+F 316L $31603 0.030 2.00 0.045 0.030 1.00 10.0-15.0  16.0-18.0 ~ 2,00-3.00 ves we N 0.10
+F 316N $31651 0.08 2.00 0.045 0.030 1.00 11.0-14.0  16.0-—18.0 2.00-3.00 ve ve N 0.10-0.16
+F 316LN $31653 0.030 2.00 0.045 0.030 1.00 11.0-14.0  16.0-—18.0 2.00-3.00 ae ve N 0.10-0.16
+F 316Ti $31635 0.08 2.00 0.045 0.030 1.00 10.0-14.0 16.0-18.0 2.00-3.00 we ! N 0.10 max
+F 317 $31700 0.08 2.00 0.045 0.030 1.00 11.0-15.0  18.0-20.0 3.0-4.0 ves ve we
+F 317L $31703 0.030 2.00 0.045 0.030 1.00 11.0-15.0  18.0—20.0 . 3.0—4.0 ve wee we
+F317LNCb © S31740 0.005-0.020 2.00 0.045 0.030 1.00 11.0-15.0  17.0—19.0 3.0-4.5 0.20-0.50% ve we
+F 72 $31727 0.030 1.00 0.030 0.030 1.00 14.5-16.5 17.5-19.0 3.8-4.5 ee ves Cu 2.8—4.0
+N 0.15-0.21
+F 70 . $31730 0.030 2.00 0.040 0.010 1.00 15-16.5 17.0-19.0 3.0-4.0 aes ve Cu 4.0-5.0
+N 0.045
+F73 ..- $32053 0.030 1.00 0.030 0.010 1.00 24.0-28.0 22.0—24.0 5.0-6.0 ve ve N 0.17—0.22
+F 321 . $32100 0.08 2.00 0.045 0.030 4.00 9.0-12.0 17.0-19.0 ve we J ve
+F 321H $32109 - 0.04-0.10 = 2.00 0.045 0.030 1.00 9.0-12.0 17.0—19.0 ve ves K wes .
+218
+
+=== Page 271 ===
+
+ASME BPVC.II.A-2025 SA-182,/SA-182M (ASTM A182 /A182M)
+|
+TABLE 2 Continued
+Grade/Identifi- UNS Composition, %
+cation Desig- Carbon Manga- Phos- Sulfur Silicon Nickel | Chromium Molybde- Niobium? — Titan- Other
+Symbol nation nese _ phorus num ium Elements
+F 347 $34700 0.08 2.00 0.045 0.030 1.00 9.0-13.0 17.0-20.0 vee L aes we
+F 347H $34709 0.04-0.10 2.00 0.045 0.030 1.00 9.0-13.0 17.0-20.0 we M vee we
+F347LN $34751 0.005—0.020 2.00 0.045 0.030 1.00 9.0—13.0 17.0-—19.0 vee 0.20-0.50% we N 0.06—0.10
+F347LNCuB $34752 0.005-0.020 2.00 0.035 - 0.010 0.60 10.0-13.0 17.0-19.0 0.20-1.20 0.20-0.50” wes Cu 2.50-3.50
+B 0.001-0.005
+N 0.06-0.12
+F 348 $34800 0.08 2.00 0.045 0.030 1.00 9.0-13.0 17.0-—20.0 wes L we Co 0.20
+Ta 0.10
+F 348H . $34809 0.04—0.10 2.00 0.045 0.030 1.00 9.0-13.0 17.0—20.0 ans M vee Co 0.20
+oo Ta 0.10
+F XM-11 $21904 0.040 8.0-10.0 0.060 0.030 1.00 5.5-7.5 19.0-21.5 ves ve vee N 0.15-—0.40
+. F XM-19 $20910 0.06 4.0-6.0 0.040 0.030 1.00 11.5-13.5  20.5-23.5 1.50-3.00 0.10— vee N 0.20-0.40
+0.30 V 0.10-0.30
+F 20 N08020 .07 2.00 0.045 0.035 1.00 32.0-38.0  19.0-21.0 2.00-—3.00 8xCmin vee Cu 3.0-4.0
+. —1.00 ,
+F 44 $31254 0.020 1.00 0.0380 0.010 0.80 17.5-18.5 19.5-20.5 6.0-6.5 wes wes Cu 0.50-1.00
+N 0.18~0.25
+F 45 $30815 0.05-0.10 0.80 0.040 0.0380 1.40-2.00 10.0-12.0 20.0-22.0 vee ae wes N 0.14-0.20 .
+, | | | Ce 0.03-0.08
+F 46 $S30600 0.018 2.00 0.020 0.020 3.7-4.3  14.0-15.5 17.0-18.5 0.20 wn vee Cu 0.50
+F 47— $31725 0.030 2.00 0.045 0.030 0.75 13.0-17.5  18.0—20.0 4.0—5.0 vee wes N 0.10 ,
+F 48 $31726 0.030 2.00 0.045 0.030 0.75 13.5-17.5  17.0—20.0 4.0-5.0 wee vee N 0.10—0.20
+F 49 $34565 0.030 5.0-7.0 0.030 0.010 1.00 16.0-18.0  23.0-—25.0 4.0-—5.0 0.10 vee N 0.40-0.60
+F 56 — $33228 0.04—0.08 1.00 0.020 0.015 0.30 31.0-33.0  26.0—28.0 wes 0.6-—1.0 wes Ce 0.05-0.10
+- AL 0.025
+F 58 $31266 0.030 2.0-4.0 0.035 0.020 1.00 21.0-24.0 23.0-25.0 5.2-6.2 wee we N 0.35-0.60
+; Cu 1.00—2.50
+, . W 1.50-2.50
+-- F 62 N08367 0.030 2.00 0.040 0.030 1.00 23.5-25.5  20.0—22.0 6.0-—7.0 we wee N 0.18-0.25
+Cu 0.75
+| F 63 $32615 0.07 2.00 0.045 0.030 4.8-6.0 19.0-22.0 16.5-19.5 0.30—1.50 wes wee Cu 1.50-2.50
+. F64 . $30601 0.015 0.50-0.80 0.030 0.013 5.0-5.6 17.0-18.0 17.0-18.0 0.20 aes was Cu 0.35, N 0.05
+F 904L N08904 © 0.020 2.0 0.040 0.030 1.00 23.0-28.0 19.0-23.0 4.0-5.0 wes vee Cu 1.00-2.00
+* NO.10
+F700 N08700 0.04 2.00 0.040 0.030 1.00 24.0-26.0 19.0-23.0 4.3-5.0 8XC wn Cu 0.50
+Min
+0.40
+Max 7
+FNIC NO088s00 0.10 1.50 0.045 0.015 1.00 30.0-35.0 19.0-23.0 vs oe 0.15-0.60 Al 0.15-0.60
+. . Cu 0.75
+. Fe 39.5 min
+FNIC10 N08810 0.05-0.10 1.50 0.045 0.015 1.00 30.0-35.0 19.0-23.0 vs wo 0.15-0.60 Al 0.15-0.60
+Cu 0.75
+Fe 39.5 min
+FNIC11 N08811 0.06-0.10 1.50 0.040 0.015 1.00 30.0-35.0 19.0-23.0 vs vn 0.25- Cu0.75
+| 0.602 Al 0.25-0.60°
+Fe 39.5 min
+F1925 N08925 0.020 1.00 0.045 0.030 0.50  24.0-26.0 19.0-21.0 6.0-7.0 vo N, 0.10-0.207 .
+Cu 0.80-1.50
+F1925N NO08926 0.020 2.00 0.030 0.010 0.50 24.0-26.0 19.0-21.0 6.0-7.0 ws i” N, 0.15-0,25"
+| | Cu 0.50-1.50
+: F35030 $35030 — 0.05-0.10 1.50 0.030 0.015 0.50-2.0 22.5-27.5 18.5-22.5 vs 0.25- - N: 0.05-0.15
+rn ; 0.75 __ Cu: 2.50-3.50
+— Ferritic-Austenitic Stainless Steels
+F 50 $31200 0.030 2.00 0.045 0.030 1.00 5.5-6.5 24.0-26.0 1.20-—2.00 ves we N 0.14-0.20
+F 51 $31803 0.030 2.00 0.030 0.020 1.00 4.5-6.5 21.0-23.0 2.5-3.5 wes ve N 0.08-0.20
+F 69 $32101 0.040 4.00-6.00 0.040 0.030 1.00 1.385-1.70  21.0-22.0 0.10-—0.80 we ves N 0.20-0.25
+7 Cu 0.10-—0.80
+F 52 $32950 0.030 2.00 0.0385 0.010 0.60 3.5—-5.2 26.0-29.0 1.00-2.50 we oe N 0.15—0.35 —
+F 53 $32750 0.030 1.20 0.035 0.020 0.80 6.0-—8.0 24.0-26.0 3.0-5.0 wes ve N 0.24-—0.32
+Cu 0.50
+F 54 $39274 0.030 1.00 0.030 0.020 0.80 6.0-8.0 24.0—26.0 2.5-3.5 ves vee N 0.24-0.32 |
+, _ Cu 0.20-0.80
+W 1.50-2.50
+F 55 $32760 0.030 1.00 0.030 0.010 1.00 6.0-8.0 24.0-—26.0 3.0—4.0 vee aes N 0.20-0.30
+| | Cu 0.50—1.00
+W 0.50-1.00° ~
+F 57 $39277 0.025 0.80 0.025 0.002 0.80 6.5-8.0 24.0—26.0 3.0-4.0 vee aes Cu 1.20-2.00
+~W 0.80-1.20
+| N 0.23-0.33
+F 59 $32520 0.030 1.50 0.035 0.020 0.80 5.5-8.0 24.0-26.0 _ 3.0-—5.0 aa . vee N 0.20-0.35 —
+7 ~~ Cu 0.50-3.00
+219
+
+=== Page 272 ===
+
+SA-182/SA-182M (ASTM A182/A182M) ASME BPVC.11.A-2025 
+TABLE2 Continued 
+Grade/ldentifi- UNS Composition, % 
+cation Desig- Carbon Manga- Phos- Sulfur Silicon Nickel Chromium Molybde- Niobium 8 1itan- Other Symbol nation nese phorus num ium Elements 
+F 60 832205 0.030 2.00 0.030 0.020 1.00 4.5-6.5 22.0-23.0 3.0-3.5 N 0.14-0.20 
+F 61 832550 0.040 1.50 0.040 0.030 1.00 4.5-6.5 24.0-27.0 2.9-3.9 Cu 1.50-2.50 
+N 0.10-0.25 
+F 65 832906 0.030 0.80-1.50 0.030 0.030 0.80 5.8-7.5 28.0-30.0 1.5-2.6 Cu 0.80 
+N 0.30-0.40 
+F 66 832202 0.030 2.00 0.040 0.010 1.00 1.00-2.80 21.5-24.0 0.45 N 0.18-0.26 
+F 67 832506 0.030 1.00 0.040 0.015 0.90 5.5-7.2 24.0-26.0 3.0-3.5 N 0.08-0.20 
+W 0.05-0.30 
+F 68 832304 0.030 2.50 0.040 0.030 1.00 3.0-5.5 21.5-24.5 0.05-0.60 N 0.05-0.20 
+Cu 0.05-0.60 
+F 71 832808 0.030 1.10 0.030 0.010 0.50 7.0-8.2 27.0-27.9 0.80-1.2 N 0.30-0.40 
+W 2.10-2.50 
+A All values are maximum unless otherwise stated. Where ellipses( ... ) appear in this table, there is no requirement and analysis for the element need not be determined 
+or reported. 
+8 Niobium and columbium are interchangeable names for the same element and both names are acceptable for use in A01.22 specifications. 
+c Grade F 2 was formerly assigned to the 1 % chromium, 0.5 % molybdenum grade which is now Grade F 12. • 
+0 The present grade F 5a (0.25 max carbon) previous to 1955 was assigned the identification symbol F 5. Identification symbol F 5 in 1955 was assigned to the 0.15 max 
+carbon grade to be consistent with ASTM specifications for other products such as pipe, tubing, bolting, welding fittings, and the like. 
+"Applies to both heat and product analyses. 
+F For Grade F 22V, rare earth metals (REM) may be added in place of calcium, subject to agreement between the producer and the purchaser. In that case the total amount 
+of REM shall be determined and reported. 
+0 The ratio of Titanium to Nitrogen shall be ee 3.5. Alternatively, in lieu of this ratio limit, Grade F 23 shall have a minimum hardness of 275 HV (26 HRC, 258 HBW) in 
+the hardened condition (see 3.2.1). Hardness testing shall be performed in accordance with 9.6.3, and the hardness testing results shall be reported on the material test 
+report (see 18.2.5). 
+H Grade F XM-27Cb shall have a nickel plus copper content of 0.50 max%. Product analysis tolerance over the maximum specified limit for carbon and nitrogen shall be 
+0.002 %. 
+'Grade F 316Ti shall have a titanium content not less than five times the carbon plus nitrogen content and not more than 0.70 %. 
+J Grade F 321 shall have a titanium content of not less than five times the carbon plus nitrogen content and not more than 0.70 %. 
+KGrade F 321H shall have a titanium content of not less than four times the carbon plus nitrogen content and not more than 0.70 %. 
+L Grades F 347 and F 348 shall have a niobium (columbium) content of not less than ten times the carbon content and not more than 1.1 O %. 
+MGrades F 347H and F 348H shall have a niobium (columbium) content of not less than eight times the carbon content and not more than 1.10 %. 
+N Grade F 347LN, Grade F 347LNCuB, and Grade F 317LNCb shall have a niobium (columbium) content of not less than 15 times the carbon content. 
+0 % Cr+ 3.3 x % (Mo+½ W) + 16 x % N = 41 min. 
+PChromium Nickel Balance is defined as CNB = (Cr+6Si+4Mo+1.5W+11V+5Nb+9Ti+12AI)- (40C+30N+4Ni+2Mn+1Cu). 
+0 Al + Ti shall be 0.85 % min: 1.20 % max. 
+R The method of analysis for nitrogen shall be a matter of agreement between purchaser and manufacturer. 
+parts, or parts with thick cross-sectional areas where ¼ T x T 
+testing (see 9.3) is not practical. Sketches showing the exact 
+test locations shall be approved by the purchaser when this 
+method is used. 
+9.3.2 Metal Buffers-The required distances from heat­
+treated surfaces may be obtained with metal buffers instead of 
+integral extensions. Buffer material may be carbon or low-alloy 
+steel, and shall be joined to the forging with a partial 
+penetration weld that seals the buffered surface. Specimens 
+shall be located at V2-in. [13-mm] minimum from the buffered 
+surface of the forging. Buffers shall be removed and the welded 
+areas subjected to magnetic particle test to ensure freedom 
+from cracks unless the welded areas are completely removed 
+by subsequent machining. 
+9 .4 For annealed low alloy steels, ferritic stainless steels, 
+and martensitic stainless steels, and also for austenitic and 
+ferritic-austenitic stainless steels, the test specimen may be 
+taken from any convenient location. 
+9.5 Tension Tests: 
+9.5.l Low Alloy Steels and Ferritic and Martensitic Stain­
+less Steels-One tension test shall be made for each heat in 
+each heat treatment charge. 
+9.5.1.1 When the heat-treating cycles are the same and the 
+furnaces (either batch or continuous type) are controlled within 
+±25 °F [ ± 14 °C] and equipped with recording pyrometers so 
+that complete records of heat treatment are available, then only 
+one tension test from each heat of each forging type (see Note 
+1) and section size is required, instead of one test from each 
+heat in each heat-treatment charge. 
+NoTE !-"Type" in this case is used to describe the forging shape such 
+as a flange, ell, tee, and the like. 
+9.5.2 Austenitic and Ferritic-Austenitic Stainless Steel 
+Grades-One tension test shall be made for each heat. 
+9.5.2.1 When heat treated in accordance with 7.1, the test 
+blank or forging used to provide the test specimen shall be heat 
+treated with a finished forged product. 
+9.5.2.2 When the alternative method in 7.3.1 is used, the test 
+blank or forging used to provide the test specimen shall be 
+forged and quenched under the same processing conditions as 
+the forgings they represent. 
+220 
+9.5.3 Testing shall be performed as specified in Specifica­
+tion A961/A961M using the largest feasible of the round 
+specimens. 
+9.6 Hardness Tests: 
+9.6.1 Except when only one forging is produced, a m1m­
+mum of two pieces per batch or continuous run as defined in 
+9.6.2 shall be hardness tested as specified in Specification 
+A961/A961M to ensure that the forgings are within the 
+hardness limits given for each grade in Table 3. The purchaser
+
+=== Page 273 ===
+
+ASME BPVC.ILA-2025 SA-182/SA-182M (ASTM A182/A182M)
+
+TABLE 3 Tensile and Hardness Requirements*
+
+Grade Symbol Tensile Strength, Yield Strength, min, Elongation in 2 in. Reduction of Brinell Hardness
+min, ksi [MPa] ksi [MPa]? [60 mm] or 4D, ‘Area, min, % Number, HBW,
+min, % unless otherwise
+indicated
+Low Alloy Steels
+Ft 70 (485) 40 (275) 20 30 143-192
+F2 70 (485) 40 [275] 20 30 443-192
+F5 70 [485} 40 [275] 20 95 143-217
+Fa 90 [620] 65 [450] 22 50 167-248
+F9 85 [585] 55 [980] 20 40 179-217
+F 10 80 (550) 80 [205] 30 50 :
+F 91 Types 1 and 2 90 [620] 60 [415] 20 40 190-248
+Fee 90 [620] 64 [440] 20 45 269 max
+F 93 90 [620] 64 [440] 19 40 250 max
+F115 90 [620] 65 [450] 20 40 190-248
+F 122 90 [620] 58 [400] 20 40 250 max
+Foi 90 (620) 64 [440] 18 40 187-248
+F 11 Class 1 60 [415] 30 [205] 20 45 121-174
+F 11 Class 2 70 (485) 40 [275] 20 30 143-207
+F 11 Class 3 75 [515] 45 [310] 20 30 158-207
+F 12 Class 1 60 [415] 32 [220], 20 45 121-174
+F 12 Class 2 70 [485] 40 [275] 20 30 143-207
+Fat 75 [515] 45 [310] 20 30 156-207
+FV, and F aVCb 85-110 [585-760] 60 (415), 18 45 174-237
+F 22 Class 1 60 [415] 30 [205] 20 35 4170 max
+F 22 Cass 3 75 (515) 45 [310], 20 30 186-207
+F2av 85-110 [585-780] 60 [415] 18 45 174-237
+F23 74 (510) 58 [400], 20 40 220 max
+F 24 85 [585] 60 (418), 20 40 248 max
+FR 663 [435] 46 [915], 25 38 197 max
+F 36, Class 1 90 [620] 64 (440), 15 252 max
+F 96, Class 2 96.5 (660]_ 66.5 [460] 15 252 max
+Martensitic Stainless Steels
+F 6a Gass 7 70 1485] 40 (275) 6 Ea 145-207
+F 6a Class 2 85 [585] 5 [980] 8 35 167-229
+F 6a Class 3 110 (760) 85 [585] 15 35 235-302
+F 6a Class 4 130 [895] 110 [760] 2 95 263-921
+Feb 110-135 [760-990] 90 [620] 16 45 235-285
+FeNM 115 [790] 90 [620] 15 45 295 max
+Ferric Stainiess Steels
+F XM-27Cb 60 (415) [240] 20 % 790 max
+F 429 60 [415] 95 [240], 20 45 4190 max
+F430 60 [415] 35 [240] 20 45 190 max
+‘Austenitic Stainless Steels
+F 304 75 [Ste 30 [205] 3 50
+F 304H 75 (515]° 30 (205), 30 50
+F 304L 70 [485)° 25 [170] 30 50
+F 304N 20 [550] 35 [240] 30° 50F
+F 304LN 75 [515]° 80 [205] 30 50
+F 900 75 [515]° 30 [205], 30 50
+F310 75 [515° 30 [205] 30 50
+F 310MoLN 78 (540) 87 [255] 25 40
+F 310H 75 [515° 30 [205] 30 50
+F3I6 75 [515)° 80 (205) 30 50
+F3t6H 75 (515]° 80 [205] 30 60
+F 3t6L 70 (485)? 25 [170] 30 50
+F Sten 80 [550] 35 [240] 308 50"
+F S16LN 75 [515]° 80 [205] 30 50
+F316n 75 (515) ‘80 [205] 30 40
+F317 75 (516)° 30 [205] 30 60
+FSt7L 70 (485)? 25 [170] 30 50
+F S17LNCb 75 [515] 30 [205 35 50 oe
+F72 80 [550] 36 [245] 35 50 217
+F73 93 [640] 43 [295] 40 50 217
+F a7 75 (518)? 80 (205), 30 50 :
+FO47H 75 (516)° 30 [205], 30 50
+F347LN 75 (518) 30 [205], 20 50
+F S47LNCUB 75 [515] 30 [205} 30 50
+Fae 75 [515]° 80 [205] 30 50
+F 348H 75 (515]° 80 [205] 30 50
+F321 75 (515)° 30 [205] 30 50
+F 2th 75 [515]° 30 [205] 30 50
+FXM-t1 90 [620 50 [345] 45 60
+FXM-19 100 [690] 5 [980] 35 55
+F 20 80 [550] 35 (240) 30 50
+
+221
+
+=== Page 274 ===
+
+SA-182/SA-182M (ASTM A182/A182M) ASME BPVC.II.A-2025 
+TABLE3 Continued 
+Grade Symbol Tensile Strength, Yield Strength, min, Elongation in 2 in. Reduction of Brinell Hardness 
+min, ksi [MPa] ksi [MPa] 8 [50 mm] or 4D, Area, min,% Number, HBW, 
+min,% unless otherwise 
+indicated 
+F 44 94 [650] 44 [300] 35 50 
+F 45 87 [600] 45 [310] 40 50 
+F 46 78 [540] 35 [240] 40 50 
+F 47 75 [525] 30 [205] 40 50 
+F 48 80 [550] 35 [240] 40 50 
+F 49 115 [795] 60 [415] 35 40 
+F 56 73 [500] 27 [185] 30 35 
+F 58 109 [750] 61 [420] 35 50 
+F 62 95 [655] 45 [310] 30 50 
+F 63 80 [550] 32 [220] 25 192 max 
+F 64 90 [620] 40 [275] 35 50 217 max 
+F70 70 [480] 25 [175] 35 HRB 90 max 
+F 904L 71 [490] 31 [215] 35 
+F700 80 [550] 35 [240] 30 192 
+FNIC 65 [450] 25 [170] 30 
+FNIC10 65 [450] 25 [170] 30 
+FNIC11 65 [450] 25 [170] 30 
+F1925 87 [600] 43 [295] 30 
+F1925N 94 [650] 43 [295] 35 
+F35030 80 [550] 34 [235] 30 
+Ferritic-Austenitic Stainless Steels 
+F 50 100-130 65 [450] 25 50 
+[690-900] 
+F 51 90 [620] 65 [450] 25 45 
+F 52 100 [690] 70 [485] 15 
+F 53,;; 2 in. 114 [785] 76 [525] 30 310 max 
+[50 mm]G 
+Class 1 
+F 53,;; 2 in. 116 [800] 80 [550] 15 310 max 
+[50 mm]G 
+Class 2 
+F 53 > 2 in. 106 [730] 75 [515] 15 310 max 
+[50 mm]G 
+F 54 116 [BOO] 80 [550] 15 30 310 max 
+F 55 109-130 80 [550] 25 45 
+[750-895] 
+F 57 118 [820] 85 [585] 25 50 
+F 59 112 [770] 80 [550] 25 40 
+F 60 95 [655] 65 [450] 25 45 
+F 61 109 [750] 80 [550] 25 50 
+F 65 109 [750] 80 [550] 25 
+F 66 94 [650] 65 [450] 30 290 max 
+F 67 90 [620] 65 [450] 18 302 
+F 68 87 [600] 58 [400] 25 290 max 
+F 69 94 [650] 65 [450] 30 
+F 71 101 [700] 72 [500] 15 321 
+A Where ellipses appear in this table, there is no requirement and the test for the value need neither be performed nor a value reported. 
+8 Determined by the 0.2 % offset method. For ferritic steels only, the 0.5 % extension-under-load method may also be used. 
+c For sections over 5 in. [130 mm] in thickness, the minimum tensile strength shall be 70 ksi [485 MPa]. 
+° For sections over 5 in. [130 mm] in thickness, the minimum tensile strength shall be 65 ksi [450 MPa]. 
+"Longitudinal. The transverse elongation shall be 25 % in 2 in. or 50 mm, min. 
+F Longitudinal. The transverse reduction of area shall be 45 % min. 
+G Maximum section thickness at the time of heat treatment; see 7.4. 
+may verify that the requirement has been met by testing at any 
+location on the forging provided such testing does not render 
+the forging useless. 
+9.6.2 When the reduced number of tension tests permitted 
+by 9 .5 .1.1 is applied, additional hardness tests shall be made on 
+forgings or samples, as defined in 9.2, scattered throughout the 
+load (see Note 2). At least eight samples shall be checked from 
+each batch load, and at least one check per hour shall be made 
+from a continuous run. When the furnace batch is less than 
+eight forgings, each forging shall be checked. If any check falls 
+222 
+outside the prescribed limits, the entire lot of forgings shall be 
+reheat treated and the requirements of 9.5.1 shall apply. 
+NoTE 2-The tension test required in 9.5.1 is used to determine material 
+capability and conformance in addition to verifying the adequacy of the 
+heat-treatment cycle. Additional hardness tests in accordance with 9.6.2 
+are required when 9.5.1.1 is applied to ensure the prescribed heat-treating 
+cycle and uniformity throughout the load. 
+9.6.3 When the alternative to the Ti/N ratio limit for F 23 is 
+applied, (see Note Pin Table 2), a minimum of two pieces per 
+batch or continuous run as defined in 9.6.2 shall be hardness
+
+=== Page 275 ===
+
+ASME BPVC.II.A-2025 SA-182/SA-182M (ASTM A182/A182M) 
+tested, in the hardened condition (see 3.2.1), to ensure that the 
+forgings are within the hardness limit given for F 23 in Note P 
+of Table 2. The test samples shall be taken at the mid thickness 
+of the thickest section of the product. Testing shall be per­
+formed in accordance with the Test Method E92 or as specified 
+in Specification A961/A961M. 
+9.7 Notch Toughness Requirements-Grades F 3V, F 3VCb, 
+and F22V. 
+9.7.1 Impact test specimens shall be Charpy V-notch Type. 
+The usage of subsize specimens due to material limitations 
+must have prior purchaser approval. 
+9.7.2 The Charpy V-notch test specimens shall be obtained 
+as required for tension tests in 9.2, 9.3, and 9.5. One set of three 
+Charpy V-notch specimens shall be taken from each tensile 
+specimen location. 
+9.7.3 The longitudinal axis and mid-length of impact speci­
+men shall be located similarly to the longitudinal axis of the 
+tension test specimens. The axis of the notch shall be normal to 
+the nearest heat-treated surface of the forging. 
+9.7.4 The Charpy V-notch tests shall meet a minimum 
+energy absorption value of 40 ft-lbf [54 J] average of three 
+specimens. One specimen only in one set may be below 40 
+ft-lbf [54 J], and it shall meet a minimum value of 35 ft-lbf [48 
+J]. 
+9.7.5 The impact test temperature shall be O °F [-18 °C]. 
+10. Grain Size for Austenitic Grades 
+10.1 All H grades and grade F 63 shall be tested for average 
+grain size by Test Methods El 12. 
+10.1.1 Grades F 304H, F 309H, F 310H, and F 316H shall 
+have a grain size of ASTM No. 6 or coarser. 
+10.1.2 Grades F 321H, F 347H, and F 348H shall have a 
+grain size of ASTM No. 7 or coarser. 
+10.1.3 Grade F 63 shall have a grain size of ASTM No. 3 or 
+finer. 
+10.1.4 Annealed Alloys UNS N08810 and UNS N08811 
+shall conform to an average grain size of ASTM No. 5 or 
+coarser. 
+11. Corrosion Testing for Austenitic Grades and 
+Detrimental Phase Detection in Austenitic/Ferritic 
+Stainless Grades 
+11.1 Corrosion testing is not required by this specification 
+nor is detrimental phase detection. 
+11.2 Austenitic grades shall be capable of meeting the 
+intergranular corrosion test requirements described in Supple­
+mentary Requirement S4. 
+11.3 Austenitic/Ferritic Stainless grades shall be capable of 
+meeting the requirements described in Supplementary Require­
+ment S 12 if the subject grade is included in the specifications 
+listed in Supplementary Requirement Sl2. 
+12. Retreatment 
+12.1 If the results of the mechanical tests do not conform to 
+the requirements specified, the manufacturer may reheat treat 
+the forgings and repeat the tests specified in Section 9. 
+13. Nondestructive Test Requirements 
+13.1 Hollow forgings of Grades F 91 Types 1 and 2, F 92, 
+F 115, F 122, and F 911, NPS 4 [DIN 100] and larger, whose 
+finished internal surfaces are not accessible to magnetic par­
+ticle or liquid penetrant examination, shall be examined by an 
+ultrasonic test in accordance with Practice A388/A388M, after 
+all forging, mechanical processing, and heat treatment opera­
+tions have been completed. 
+13.2 Hollow forgings of Grades F 91 Types 1 and 2, F 92, 
+F 115, F 122, and F 911, NPS 4 [DIN 100] and larger, whose 
+finished internal surfaces are accessible to magnetic particle or 
+liquid penetrant examination, shall be examined on their 
+internal surfaces by either a magnetic particle test in accor­
+dance with Practice A275/A275M, or by a liquid penetrant 
+examination in accordance with Test Method E165/El65M, as 
+applicable, after all heat treatment, machining, and other 
+mechanical processing operations are completed. 
+13.3 Time of Examination-Examination by one of the 
+methods in 13 .1 or 13 .2, for specification acceptance, shall be 
+performed as specified in 13.1 or 13.2. This requirement does 
+not preclude additional testing at earlier stages in the process­
+ing. 
+13.4 Evaluation of Impe,fections Found by Ultrasonic' Ex­
+amination: 
+13 .4.1 Forgings producing a signal equal to or greater than 
+the lowest signal produced by the reference discontinuities 
+shall be identified and separated from the acceptable forgings. 
+The area producing the signal may be reexamined. 
+13.4.2 Such forgings shall be rejected if the test signals were 
+produced by impetfections that cannot be identified or were 
+produced by cracks or crack-like imperfections. Such forgings 
+may be repaired. To be accepted, a repaired forging shall pass 
+the same nondestructive test by which it was rejected, and it 
+shall meet the minimum wall thickness requirements of this 
+specification and the purchase order. 
+13.4.3 If the test signals were produced by visual imperfec­
+tions such as scratches, surface roughness, dings, tooling 
+marks, cutting chips, steel die stamps, or stop marks, the 
+forging is permitted to be accepted based upon visual exami­
+nation provided that the depth of the imperfection is less than 
+0.004 in. [0.1 mm] or 12.5 % of the specified wall thickness, 
+whichever is the greater. 
+13.5 Treatment of Impe,fections Found by Magnetic Par­
+ticle or Liquid Penetrant Examination: 
+13.5.1 Defects shall be completely removed prior to weld 
+repair by chipping or grinding to sound metal. Removal of 
+these defects shall be verified by magnetic particle inspection 
+in accordance with Test Method A275/A275M or by liquid 
+penetrant inspection in accordance with Test Method E165/ 
+E165M. 
+13.5.2 Rejected forgings may be reconditioned and retested, 
+provided that the wall thickness is not decreased to less than 
+that required by this specification and the purchase order. The 
+outside diameter at the point of grinding may be reduced by the 
+amount so removed. To be accepted, retested forgings shall 
+meet the test requirement. 
+223
+
+=== Page 276 ===
+
+SA-182/SA-182M (ASTM A182/A182M) ASME BPVC.II.A-2025 
+13.5.3 If the imperfection is explored to the extent that it can 
+be identified as non-rejectable, the forging may be accepted 
+without further test provided that the imperfection does not 
+encroach on the minimum required wall thickness. 
+14. Surface Finish, Appearance, and Corrosion 
+Protection 
+14.1 Forgings and finished parts shall conform to the 
+requirements of Specification A961/A961M. 
+14.2 The forgings and finished parts shall be free of scale, 
+machining burrs which might hinder fit-up, and other injurious 
+imperfections as defined herein. The forgings and finished parts 
+shall have a workmanlike finish, and machined surfaces ( other 
+than surfaces having special requirements) shall have a surface 
+finish not to exceed 250 AA (arithmetic average) roughness 
+height. 
+15. Repair by Welding 
+15.1 Weld repairs shall be permitted (see Supplementary 
+Requirement S58 of Specification A961/A961M) at the discre­
+tion of the manufacturer with the following limitations and 
+requirements: 
+15 .1.1 The welding procedure and welders shall be qualified 
+in accordance with Section IX of the ASME Boiler and 
+Pressure Vessel Code. 
+15.1..2 The weld metal shall be deposited using the elec­
+trodes specified in Table 4 except as otherwise provided in 
+Supplementary Requirement S5. The electrodes shall be pur­
+chased in accordance with AWS Specifications A5.4/A5.4M, 
+A5.5/A5.5M, A5.9/A5.9M, A5.ll/A5.11M, A5.14/A5.14M, 
+A5.23/A5.23M, A5.28/A5.28M, or A5.29/A5.29M. The sub­
+merged arc process with neutral flux, the gas metal-arc process, 
+the gas tungsten-arc process, and gas shielded processes using 
+flux-core consumables, may be used. For weld deposits made 
+on S20910, the deposited weld metal shall correspond to either 
+the alloy content of the base metal or AWS A5.4 E209 or A5.9 
+ER209. For weld deposits made on N08367, N08700, N08925 
+or N08926, the deposited weld metal shall correspond to either 
+the alloy content of the base metal or one of the following filler 
+metals in AWS A5.ll ENiCrMo-3 or A5.14 ERNiCrMo-3, 
+A5.ll ENiCrMo-4 or A5.14 ERNiCrMo-4, or A5.11 
+ENiCrMo-10 or A5.14 ERNiCrMo-10. For weld deposits made 
+on N08020, the deposited weld metal shall correspond to either 
+the alloy content of the base metal or AWS A5.4 E320/E320LR 
+or A5.9 ER320/320LR. For weld deposits made on N08800, 
+N08810 and N08811, the deposited weld metal shall corre­
+spond to either the alloy content of the base metal or A WS 
+A5.ll ENiCr-3 or A5.14 ERNiCr-3. However, the fillers used 
+on these alloys (as well as other listed above) may be 
+dependent on the end service use and service temperature and 
+shall be agreed upon between purchaser and manufacturer. 
+15.1.2.1 Weld deposits made on S20910, N08020, N08367, 
+N08700, N08800, N08810, N08811, N08925, N08926, and 
+F35030 (UNS S35030) shall be made using filler metal with a 
+composition conforming to the base material or the equivalent 
+classification in the AWS Filler Metal Specification A5.11 and 
+A5.14. It is possible that weld deposit chemistry will not meet 
+the limits· of either the base metal or the filler metal for some 
+elements. The weld deposit chemistry shall meet the lowest 
+minimum and highest maximum values for each specification 
+element in either of the base metal or filler metal specification. 
+Dilution of the base metal and filler metal must be considered 
+when determining weld deposit criteria for over-alloyed filler 
+metals. In either case, the weld deposit chemistry shall be 
+tested and recorded on the Procedure Qualification Record. 
+15.1.3 Defects shall be completely removed prior to weld­
+ing by chipping or grinding to sound metal as verified by 
+magnetic-particle inspection in accordance with Test Method 
+A275/A275M for the low alloy steels and ferritic, martensitic, 
+or ferritic-austenitic stainless steels, or by liquid-penetrant 
+inspection in accordance with Test Method E165/E165M for 
+all grades. 
+15 .1.4 After repair welding, the welded area shall be ground 
+smooth to the original contour and shall be completely free of 
+defects as verified by magnetic-particle or liquid-penetrant 
+inspection, as applicable. 
+15.1.5 The preheat, interpass temperature, and post-weld 
+heat treatment requirements given in Table 4 shall be met. 
+Austenitic stainless steel forgings may be repair-welded with­
+out the post-weld heat treatment of Table 4, provided purchaser 
+approval is obtained prior to repair. 
+15.1.6 Repair by welding shall not exceed 10 % of the 
+surface area of the forging nor 331/3 % of the wall thickness of 
+the finished forging or 3/s in. [9.5 mm], whichever is less, 
+without prior approval of the purchaser. 
+15.1.7 When approval of the purchaser is obtained, the 
+limitations set forth in 15.1.6 may be exceeded, but all other 
+requirements of Section 15 shall apply. 
+15.1.8 No weld repairs are permitted for F 6a Classes 3 and 
+4. 
+15.1.9 Post-weld heat treatment times for F 36 are: for Class 
+• 1, up to 2 in. [50 mm] in thickness, 1 h per in. [25 nun], 15 
+minutes minimum, and over 2 in. [50 mm], 15 minutes for each 
+additional in. of thickness or fraction thereof; for Class 2, 1 h 
+per in. [25 mm], ½ h minimum. 
+224 
+16. Inspection 
+16.1 Inspection provisions of Specification A961/A961M 
+apply. 
+17. Rejection and Rehearing 
+17 .1 The purchaser shall comply with the provisions of 
+Specification A961/A961M. 
+18. Certification 
+18.1 In addition to the certification requirements of Speci­
+fication A961/A961M, test reports shall be furnished to the 
+purchaser or his representative. 
+18.2 Test reports shall provide the following where appli­
+cable: 
+18.2.1 Type heat treatment, Section 7, 
+18.2.2 Product analysis results, Section 8 of Specification 
+A961/A961M, 
+18.2.3 Tensile property results, Section 9 (Table 3), report 
+the yield strength and tensile strength, in ksi [MPa], elongation 
+and reduction in area, in percent,
+
+=== Page 277 ===
+
+ASME BPVC.II.A-2025 SA-182/SA-182M (ASTM A182/A182M} 
+TABLE 4 Repair Welding Requirements 
+Grade Symbol ElectrodesA Recommended Preheat and Post Weld Heat-Treatment 
+lnterpass Temperature Temperature, Minimum or 
+Range, 'F ['CJ Range, 'F ['C] 
+Low Alla Steels 
+F 1 E 7018-A 1 200-400 [95-205J 1150 [620J 
+F2 E 8018-B 1 300-600 [150-315J 1150 [620J 
+F5 E80XX-B6, where XX can be 400-700 [205-370J 1250 [675J 
+15, 16, or 18 
+F 5a E80XX-B6, where XX can be 400-700 [205-370J 1250 [675J 
+15, 16, or 18 
+F9 E80XX-B8, where XX can be 400-700 [205-370J 1250 [675J 
+15, 16, or 18 
+F 10 8 
+F 91 Types 1 and 2 C 400-700 [205-370J 1350-1470 [730-800J 
+F 92 D 400-700 [205-370J 1350-1470 [730-800J 
+F 93 D 400-700 [205-370J 1350-1455 [730-790J 
+F 115 D 400-700 [205-370J 1345--1435 [730-780J 
+F 122 D 400-700 [205-370J 1350-14 70 [730-800J 
+F 911 D 400-700 [205-370J 1365--1435 [740-780J 
+F 11, Class 1, 2, E 8018-B 2 300-600 [150-315J 1150 [620J 
+and 3 
+F 12, Class 1 and 2 E 8018-B 2 300-600 [150-315J 1150 [620J 
+F 21 E 9018-B 3 300-600 [150-315J 1250 [675J 
+F 3V, and F 3VCb 3 % Cr, 1 % Mo, ¼ % V-Ti 300-600 [150-315J 1250 [675J 
+F 22 Class 1 E 9018-B 3 300-600 [150-315J 1250 [675J 
+F 22 Class 3 E 9018-B 3 300-600 [150-315J 1250 [675J 
+F 22V 2.25 % Cr, 1 % Mo, 0.25 % 300-600 [150-315J 1250 [675J 
+V-Cb 
+F 23 2.25 % Cr, 1.6 % W, 0.25 % 300-600 [150-315J 1350-14 70 [730-800J 
+V-Mo-Cb-8 
+F 24 2.25 % Cr, 1 % Mo, 0.25 % V 2QQ--4QQ [95-2Q5JE 1350-1470 [730-800JE 
+F 36, Class 1 1.15 Ni, 0.65 Cu, Mo, Cb 400-700 [205-370J 1100-1200 [595-650J 
+F 36, Class 2 1.15 Ni, 0.65 Cu, Mo, Cb 400-700 [205-370] 1000-1150 [540-620] 
+Martensitic Stainless Steels 
+F 6a, Class 1 E 410-15 or 16 400-700 [205--370J 1250 [675J 
+F 6a, Class 2 E 410-15 or 16 400-700 [205--370J 1250 [675J 
+F 6b 13 % Cr, 1 ½ % Ni, ½ % Mo 400-700 [205-370J 1150 [620J 
+F6NM 13% Cr, 4% Ni 300-700 [150-370] 1050 [565J 
+Ferritic Stainless Steels 
+F XM-27Cb 26%Cr,1%Mo NRF NR 
+F 429 E 430-16 400-700 [205-370J 1400 [760J 
+F 430 E 430-16 NR 1400 [760J 
+FR E 8018-C2 NR NR 
+Austenitic Stainless Steels 
+F 304 E 308-15 or 16 NR 1900 [1040J + WQG 
+F 304L E 308L-15 or 16 NR 1900 [1040J + WQ 
+F 304H E 308-15 or 16H or E308H-XX NR 1900 [1040J + WQ 
+F 304N E 308-15 or 16 NR 1900 [1040J + WQ 
+F 304LN E 308L-15 or 16 NR 1900 [1040J + WQ 
+F 309H E 309-15 or 16H or E309H-XX NR 1900 [1040J + WQ 
+F 310 E 310-15 or 16 NR 1900 [1040J + WQ 
+F 310H E 310-15 or 15H NR 1900 [1040J +WQ 
+F 310MoLN E 310Mo-15 or 16 NR 1920-201 a [1050-11 OOJ + WQ 
+F 316 E 316-15 or 16 NR 1900 [1040J + WQ 
+F 316L E 316L-15 or 16 NR 1900 [1040J + WQ 
+F 316H E 316-15 or 15H or E316H-XX NR 1900 [1040J + WQ 
+F 316N E 316-15 or 16 NR 1900 [1040J + WQ 
+F 316LN E 316L-15 or 16 NR 1900 [1040J + WQ 
+F 316Ti E 316-15 or 16 NR 1900 [1040J + WQ 
+F 317 E 317-15 or 16 NR 1900 [1040J + WQ 
+F 317L E 317L-15 or 16 NR 1900 [1040J + WQ 
+F 317LNCb E NiCrCoMo-1 or E NiCrMo-3 NR 1900 [1040J + WQ 
+F 72 NR 
+F 73 NR 
+F 321 8 E 347-15 or 16 NR 1900 [1040J + WQ 
+F 321 H 8 E 347-15 or 16H NR 1925 [1050J + WQ 
+F 347 E 347-15 or 16 NR 1900 [1040J + WQ 
+F 347H E 347-15 or 16H NR 1925 [1050J + WQ 
+F 347LN 1 E 347-15 or 16 NR 
+F 347LNCuB 1 E 347-15 or 16 NR 
+E 348 E 347-15 or 16 NR 1900 [1040J + WQ 
+F 348H E 347-15 or 15H NR 1925 [1050J + WQ 
+FXM-11 XM-10W NR NR 
+F XM-19 XM-19W NR NR 
+F 20 E/ER-320, 320LR NR 1700-1850 [925-101 OJ + WQ 
+F 44 E NiCrMo-3 NR 2100 [1150J + WQ 
+225
+
+=== Page 278 ===
+
+SA-182/SA-182M (ASTM A182/A182M) ASME BPVC.II.A-2025 
+TABLE 4 Continued 
+Grade Symbol ElectrodesA Recommended Preheat and Post Weld Heat-Treatment 
+lnterpass Temperature Temperature, Minimum or 
+Range, °F [0 C] Range, °F [0 C] 
+F 45 8 
+F 46 
+F 47 ... J 2100 [1150] + WQ 
+F 48 2100 [1150] + WQ 
+F 49 2100 [1150] + WO 
+F 58 E NiCrMo-10 2100 [1150] + WQ 
+F 62 E NiCrMo-3 NR 2025 [1105] + WQ 
+F 70 ERNiCr-3, or ERNiCrMo-3, or NR 1900 [1040] + WQ 
+ERNiCrMo-4 
+F 904L E NiCrMo-3 NR 1920-2100 [1050-1150] + WQ 
+Ferritic-Austenitic Stainless Steels 
+F 50 25% Cr, 6% Ni, 1.7% Mo NR NR 
+F 51 22 % Cr, 5.5 % Ni, 3 % Mo NR NR 
+F 52 26 % Cr, 8 % Ni, 2 % Mo NR NR 
+F 53 25 % Cr, 7 % Ni, 4 % Mo NR NR 
+F 54 25 % Cr, 7 % Ni, 3 % Mo, NR NR 
+w 
+F 55 25 % Cr, 7 % Ni, 3.5 % Mo NR NR 
+F 57 25 % Cr, 7 % Ni, 3 % Mo, 1.5 % NR NR 
+Cu, I% W 
+F 59 E Ni CrMo-10 NR NR 
+F 60 22 % Cr, 5.5 % Ni, 3 % Mo NR NR 
+F 61 26 % Cr, 9 % Ni, 3.5 % Mo NR NR 
+F 65 29 % Cr, 6.5 % Ni, 2 % Mo NR NR 
+F 66 22 % Cr, 2 % Ni, 0.25 % Mo NR NR 
+F 67 NR NR 
+F 68 NR NR 
+F 69 NR NR 
+F 71 27.5 Cr, 7.6 Ni, 1 Mo, 2.3 W NR NR 
+A Except for Grades F 91 Types 1 and 2, F 92, F 93, F 115, F 911, F 122, F 47, F 48, and F 49, electrodes shall comply with AWS Specifications A5.4/A5.4M, A5.5/A5.5M, 
+A5.9/A5.9M, A5.11/A5.11M, A5.14/A5.14M, A5.23/A5.23M, or A5.28/A5.28M. 
+8 Purchaser approval required. 
+c All repairs in F 91 Types 1 and 2 shall be made with one of the following welding processes and consumables: SMAW, A5.5/A5.5M E90XX-B9; SAW, A5.23/A5.23M EB9 
++ flux; GTAW, A5.28/A5.28M ER90S-B9; and FCAW, A5.29/A5.29M E91T1-B9. In addition, the sum of the Ni+Mn content of all welding consumables shall not exceed 
+1.0%. 
+0 All repairs in F 92, F 93, F 115, F 911, and F 122, shall be made using welding consumables meeting the chemical requirements for the grade in Table 2. 
+E Preheat and PWHT are not required for this grade for forgings whose section thickness does not exceed 0.500 in. [12. 7 mm]. 
+P NR = not required. 
+0 WQ = water quench. 
+H Filler metal shall additionally have 0.04 % minimum carbon. 
+1 Matching filler metal is available. 
+J Match filler metal is available. Fabricators have also used AWS A5.14/A5.14M, Classification ERNiCrMo-3 and AWS A5.11/A5.11 M, Class E, ENiCrMo-3 filler metals. 
+18.2.4 Chemical analysis results, Section 8 (Table 2), re­
+ported results shall be to the same number of significant figures 
+as the limits specified in Table 2 for that element, 
+18.2.5 Hardness results, Section 9 (Table 3, and for F 23, 
+Tables 2 and 3), 
+18.2.6 Grain size results, Section 10, and 
+18.2.7 Any supplementary testing required by the purchase 
+order. 
+19. Product Marking 
+19.1 In addition to the marking requirements of Specifica­
+tion A961/A961M, the following additional marking require­
+ments shall apply: 
+19.1.1 Quenched and tempered low alloy or martensitic 
+stainless forgings shall be stamped with the letters QT follow­
+ing the specification designation. 
+19.1.2 Forgings repaired by welding shall be marked with 
+the letter "W" following the Specification designation. When 
+repair 0 welded austenitic stainless steel forgings have not been 
+postweld heat treated in accordance with Table 4, the letters 
+"WNS" shall be marked following the specification designa­
+tion. 
+19.1.3 Parts meeting all requirements for more than one 
+class or grade may be marked with more than one class or 
+grade designation such as F 304/F 304H, F 304/F 304L, and the 
+like. 
+19.1.4 Plugs and bushings furnished to ASME B16.11 
+requirements are not required to be marked. 
+19.1.5 When agreed upon between the purchaser and 
+manufacturer, and specified in the order, the markings shall be 
+painted or stenciled on the fitting or stamped on a metal or 
+plastic tag which shall be securely attached to the fitting. 
+226 
+19.1.6 Grade F 91 shall be additionally marked with the 
+appropriate Type. 
+19.2 Bar Coding-In addition to the requirements in 19.1, 
+bar coding is acceptable as a supplemental identification 
+method. The purchaser may specify in the order a specific bar 
+coding system to be used. The bar coding system, if applied at
+
+=== Page 279 ===
+
+ASME BPVC.II.A-2025 SA-182/SA-182M (ASTM A182/A182M) 
+the discretion of the supplier, should be consistent with one of 
+the published industry standards for bar coding. If used on 
+small parts, the bar code may be applied to the box or a 
+substantially applied tag. 
+20. Keywords 
+20.1 austenitic stainless steel; chromium alloy steel; 
+chromium-molybdenum steel; ferritic/austenitic stainless steel; 
+ferritic stainless steel; martensitic stainless steel; nickel alloy 
+steel; notch toughness requirements; pipe fittings; piping ap­
+plications; pressure containing parts; stainless steel fittings; 
+stainless steel forgings; steel; steel flanges; steel forgings, 
+alloy; steel valves; temperature service applications, elevated; 
+temperature service applications, high; wrought material 
+SUPPLEMENTARY REQUIREMENTS 
+In addition to any of the supplementary requirements of Specification A961/A961M, the following 
+supplementary requirements shall apply only when specified by the purchaser in the order. 
+Sl. Macroetch Test 
+S 1.1 A sample forging shall be sectioned and etched to 
+show flow lines and internal imperfections. The test shall be 
+conducted according to Test Method E340. Details of the test 
+shall be agreed upon between the manufacturer and the 
+purchaser. 
+S2. Heat Treatment Details 
+S2. l The manufacturer shall furnish a detailed test report 
+containing the information required in 18.2 and shall include 
+all pertinent details of the heat-treating cycle given the forg­
+ings. 
+S3. Material for Optimum Resistance to Stress-Corrosion 
+Cracking 
+S3 .1 Austenitic stainless steel shall be furnished in the 
+solution-annealed condition as a final operation with no sub­
+sequent cold working permitted, except, unless specifically 
+prohibited by the purchaser, straightening of bars from which 
+parts are machined is permitted to meet the requirements of 
+Specification A484/A484M. 
+S4. Corrosion Tests 
+S4. l All austenitic stainless steels shall pass intergranular 
+corrosion tests performed in accordance with Practice E of 
+Practices A262. 
+S4.2 Intergranular corrosion tests shall be performed on 
+specimens of ferritic stainless steels as described in Practices 
+A763. 
+S4.3 For both the austenitic and ferritic stainless steels, 
+details concerning the number of specimens and their source 
+and location are to be a matter of agreement between the 
+manufacturer and the purchaser. 
+S5. Special Filler Metal 
+S5.1 In repair-welded F 316, F 316L, F 316H, and F 316N 
+forgings, the deposited weld metal shall conform to E 308 
+composition wire. Forgings repair welded with E 308 weld 
+metal shall be marked F W 308. 
+S6. Hardness Test 
+S6. l Each forging shall be hardness tested and shall meet 
+the requirements of Table 3. 
+SS. Heat Treatment of Austenitic Forgings 
+S8.l The purchaser shall specify the heat-treatment method 
+(in 7.1 or in 7.3.1) that shall be employed. 
+S8.2 The manufacturer shall provide a test report containing 
+the information required in 18.2 and shall include a statement 
+of the heat-treatment method employed. 
+S9. Grain Size for Austenitic Grades 
+S9.1 Forgings made from austenitic grades other than H 
+grades shall be tested for average grain size by Test Method 
+El12. Details of the test shall be agreed upon between the 
+manufacturer and the purchaser. 
+SlO. Stabilizing Treatment 
+SlO.l Subsequent to the solution anneal for Grades F 321, F 
+321H, F 347, F 347H, F 348, and F 348H, these grades shall be 
+given a stabilizing treatment at 1500 to 1600 °F [815 to 870 
+0 C] for a minimum of 2 h/in. [4.7 min/mm] of thickness and 
+then cooling in the furnace or in air. In addition to the marking 
+required in Section 19, the grade designation symbol shall be 
+followed by the symbol "SlO." 
+Sll. Grain Size Requirements for Non-H-Grade Austenitic 
+Steels Used Above 1000 °F [540 °C] 
+Sll.1 Non-H grades of austenitic stainless steels shall have 
+a grain size of No. 7 or coarser as determined in accordance 
+with Test Methods El 12. The grain size so determined shall be 
+on a certified test report. 
+S12. Detection of Detrimental Phases in Austenitic/Ferritic 
+Stainless Steels 
+S 12.1 All austenitic/ferritic stainless steels that are included 
+in Test Methods A923 shall meet the requirements of those test 
+methods. 
+S 12.2 All austenitic/ferritic stainless steels that are included 
+in Test Method A1084 shall meet the requirements of that test 
+method. 
+S13. Minimum Cooling Rate for Grade T91 Type 2 
+S13.1 For Grade P91 Type 2 material, the heat treatment 
+shall ensure that following austenitizing the rate of cooling 
+from 1650 °F to 900 °F [900 °C to 480 °C] is no slower than 
+9 °F/min [5 °C/ min]. 
+227
+
+=== Page 280 ===
+
+SA-182/SA-182M (ASTM A182/A182M) ASME BPVC.11.A-2025 
+SUMMARY OF CHANGES 
+Committee AO 1 has identified the location of selected changes to this standard since the last issue 
+(A182/A182M- 22a) that may impact the use of this standard. (Approved May 1, 2023.) 
+( 1) Added Supplementary Requirement S 13. 
+Committee AOl has identified the location of selected changes to this standard since the last issue 
+(A182/A182M - 22) that may impact the use of this standard. (Approved Nov. 15, 2022.) 
+( 1) Tables 1-3 revised to add Grade F35030 (UNS S35030). 
+(2) Revised 7.3.1 to add F 316Ti to grades for which direct 
+quench is prohibited. 
+Committee AO 1 has identified the location of selected changes to this standard since the last issue 
+(A182/A182M - 21) that may impact the use of this standard. (Approved Sept. 1, 2022.) 
+(1) Revised 6.4 to clarify what parts may be machined from 
+hollow bar or bar. 
+ASTM International takes no position respecting the validity of any patent rights asserted in connection with any item mentioned 
+in this standard. Users of this standard are expressly advised that determination of the validity of any such patent rights, and the risk 
+of infringement of such rights, are entirely their own responsibility. 
+This standard is subject to revision at any time by the responsible technical committee and must be reviewed evel)I five years and 
+if not revised, either reapproved or withdrawn. Your comments are invited either for revision of this standard or for additional standards 
+and should be addressed to ASTM International Headquarters. Your comments will receive careful consideration at a meeting of the 
+responsible technical committee, which you may attend. If you feel that your comments have not received a fair hearing you should 
+make your views known to the ASTM Committee on Standards, at the address shown below. 
+This standard is copyrighted by ASTM International, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA 19428-2959, 
+United States. Individual reprints (single or multiple copies) of this standard may be obtained by contacting ASTM at the above 
+address or at 610-832-9585 (phone), 610-832-9555 (fax), or service@astm.org (e-mail); or through the ASTM website 
+(www.astm.org). Permission rights to photocopy the standard may also be secured from the Copyright Clearance Center, 222 
+Rosewood Drive, Danvers, MA 01923, Tel: (978) 646-2600; http://www.copyright.com/ 
+228
+
+=== Page 281 ===
+
+ASME BPVC.ILA-2025 SA-192/SA-192M
+
+SPECIFICATION FOR SEAMLESS CARBON STEEL
+BOILER TUBES FOR HIGH-PRESSURE SERVICE
+
+xs SA-192/SA-192M ily
+
+® ‘Stance Worldwide
+
+(Identical with ASTM Specification A192/A192M-17,)
+
+229
+
+=== Page 282 ===
+
+SA-192/SA-192M ASME BPVC.II.A-2025 
+Specification for 
+Seamless Carbon Steel Boiler Tubes for High-Pressure 
+Service 
+1. Scope 
+1. 1 This specification covers minimum-wall-thickness, 
+seamless carbon steel boiler and superheater tubes for high­
+pressure service. 
+1.2 The tubing sizes and thicknesses usually furnished to 
+this specification are½ in. to 7 in. [12.7 to 177.8 mm] outside 
+diameter and 0.085 to 1.000 in. [2.2 to 25.4 mm], inclusive, in 
+minimum wall thickness. Tubing having other dimensions may 
+be furnished, provided such tubes comply with all other 
+requirements of this specification. 
+1.3 Mechanical property requirements do not apply to 
+tubing smaller than 1/s in. [3.2 mm] inside diameter or 0.015 in. 
+[0.4 mm] thickness. 
+1.4 The values stated in either inch-pound units or SI units 
+are to be regarded separately as standard. Within the text, the 
+SI units are shown in brackets. The values stated in each 
+system are not exact equivalents; therefore, each system must 
+be used independently of the other. Combining values from the 
+two systems may result in nonconformance with the specifi­
+cation. The inch-pound units shall apply unless the "M" 
+designation of this specification is specified in the order. 
+1.5 This international standard was developed in accor­
+dance with internationally recognized principles on standard­
+ization established in the Decision on Principles for the 
+Development of International Standards, Guides and Recom­
+mendations issued by the World Trade Organization Technical 
+Barriers to Trade (TBT) Committee. 
+230 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+A450/A450M Specification for General Requirements for 
+Carbon and Low Alloy Steel Tubes 
+3. Ordering Inforination 
+3 .1 Orders for material under this specification should 
+include the following, as required, to describe the desired 
+material adequately: 
+3.1.1 Quantity (feet, metres, or number of lengths), 
+3.1.2 Name of material (seamless tubes), 
+3.1.3 Manufacture (hot-finished or cold-finished), 
+3.1.4 Size (outside diameter and minimum wall thickness), 
+3.1.5 Length (specific or random), 
+3.1.6 Optional requirements (Sections 8.1 and 10.4), 
+3.1.7 Test report required (see section on Certification of 
+Specification A450/ A450M), 
+3.1.8 Specification designation, and 
+3 .1.9 Special requirements. 
+4. General Requirements 
+4.1 Material furnished under this specification shall con­
+form to the applicable requirements of the current edition of 
+Specification A450/A450M, unless otherwise provided herein. 
+S. Manufacture 
+5 .1 Tubes shall be made by the seamless process and shall 
+be either hot-finished or cold-finished, as specified. 
+6. Heat Treatment 
+6.1 Hot-finished tubes need not be heat treated. Cold­
+finished tubes shall be heat treated after the final cold-finishing 
+at a temperature of 1200°F [650°C] or higher.
+
+=== Page 283 ===
+
+~ 
+ASME BPVC.II.A-2025 SA-192/SA-192M 
+7. Chemical Composition 
+7 .1 The steel shall conform to the following requirements as 
+to chemical composition: 
+Carbon, % 0.06-0.18 
+Manganese, % 0.27-0.63 
+Phosphorus, max, % 0.035 
+Sulfur, max, % 0.035 
+Silicon, max, % 0.25 
+7 .2 Supplying an alloy grade of steel that specifically 
+requires the addition of any element other than those listed in 
+7.1 is not permitted. 
+8. Product Analysis 
+8.1 When requested on the purchase order, a product analy­
+sis shall be made by the supplier from one tube per 100 pieces 
+for sizes over 3 in. [76.2 mm] and one tube per 250 pieces for 
+sizes 3 in. [76.2 mm] and under; or when tubes are identified 
+by heat, one tube per heat shaU be analyzed. The chemical 
+composition thus determined shall conform to the requirements 
+specified. 
+8.2 If the original test for product analysis fails, retests of 
+two additional billets or tubes shall be made. Both retests, for 
+the elements in question, shall meet the requirements of the 
+specification; otherwise all remaining material in the heat or lot 
+(see Note 1) shall be rejected or, at the option of the producer, 
+each billet or tube may be individually tested for acceptance. 
+Billets or tubes which do not meet the requirements of the 
+specification shall be rejected. 
+Nom l-A lot consists of 250 tubes for sizes 3 in. [76.2 mm] and under 
+and of 100 tubes for sizes over 3 in. [76.2 mm), prior to cutting to length. 
+9. Hardness Requirements 
+9.1 The tubes shall have a hardness number not exceeding 
+the following: 
+Brinell Hardness Number (Tubes 
+0.200 in. [5.1 mm] and over in 
+wall thickness) 
+137 HBW 
+Rockwell Hardness Number 
+(Tubes less than 0.200 in. 
+[5.1 mm] in wall thickness) 
+77 HRBW 
+10. Mechanical Tests Required 
+10.1 Flattening Test-One flattening test shall be made on 
+specimens from each end of two tubes selected from each lot 
+(see Note 1) or fraction thereof. 
+10.2 Flaring Test-One flaring test shall be made on speci­
+mens from each end of two tubes selected from each lot (see 
+Note 1) or fraction thereof. These tubes shall be selected apart 
+from those used for the flattening test. 
+10.3 Hardness Test-Brinell or Rockwell hardness tests 
+shall be made on specimens from two tubes from each lot. The 
+term lot applies to all tubes prior to cutting, of the same 
+nominal diameter and wall thickness which are produced from 
+the same heat of steel. When final heat treatment is in a 
+batch-type furnace, a lot shall include only those tubes of the 
+same size and the same heat which are heat treated in the same 
+furnace charge. When the final heat treatment is in a continuous 
+furnace, a lot shall include all tubes of the same size and heat, 
+heat treated in the same furnace at the same temperature, time 
+at heat, and furnace speed. 
+10.4 Hydrostatic Test-Each tube shall be subjected to the 
+hydrostatic pressure test, or instead of this test, a nondestruc­
+tive test may be used when specified by the purchaser. 
+11. Forming Operations 
+11.1 Tubes when inserted in the boiler shall stand expanding 
+and beading without showing cracks or flaws. Superheater 
+tubes when properly manipulated shall stand all forging, 
+welding, and bending operations necessary for application 
+without developing defects. 
+12. Product Marking 
+12.1 In addition to the marking prescribed in Specification 
+A450/A450M, the marking shall indicate whether the tube is 
+hot finished or cold finished. 
+13. Keywords 
+13.1 boiler tubes; seamless steel tube; steel tube-carbon 
+EXPLANATORY NOTES 
+Nom 1-For purposes of design, the following tensile properties may 
+be assumed: 
+Tensile strength, min, ksi [MPa] 
+Yield strength, min, ksi [MPa] 
+Elongation in 2 in. or 50 mm, min, % 
+47 [325] 
+26 [180] 
+35 
+231
+
+=== Page 285 ===
+
+ASME BPVCILA-2025 SA-193/SA-193M
+
+SPECIFICATION FOR ALLOY-STEEL AND STAINLESS
+
+STEEL BOLTING FOR HIGH-TEMPERATURE OR HIGH
+
+PRESSURE SERVICE AND OTHER SPECIAL PURPOSE
+APPLICATIONS
+
+CxS SA-193/SA-193M
+
+®
+
+(Identical with ASTM Specification A193/A193M-20.)
+
+233
+
+=== Page 286 ===
+
+SA-193/SA-193M ASME BPVC.II.A-2025 
+Specification for 
+Alloy-Steel and Stainless Steel Bolting for High Temperature 
+or High Pressure Service and Other Special Purpose 
+Applications 
+1. Scope 
+1.1 This specification covers alloy and stainless steel bolt­
+ing materials and bolting components for pressure vessels, 
+valves, flanges, and fittings for high temperature or high 
+pressure service, or other special purpose applications. See 
+Specification A962/A962M for the definition of bolting. Bars 
+and wire shall be hot-wrought and may be further processed by 
+centerless grinding or by cold drawing. Austenitic stainless 
+steel may be carbide solution treated or carbide solution treated 
+and strain-hardened. When strain hardened austenitic stainless 
+steel is ordered, the purchaser should take special care to 
+ensure that Appendix XI is thoroughly understood. 
+1.2 Several grades are covered, including ferritic steels and 
+austenitic stainless steels designated B5, BS, and so forth. 
+Selection will depend upon design, service conditions, me­
+chanical properties, and high temperature characteristics. 
+1.3 The following referenced general requirements are in­
+dispensable for application of this specification: Specification 
+A962/A962M. 
+Norn 1-The committee formulating this specification has included 
+several steel types that have been rather extensively used for the present 
+purpose. Other compositions will be considered for inclusion by the 
+committee from time to time as the need becomes apparent. 
+Norn 2-For grades of alloy-steel bolting suitable for use at the lower 
+range of high temperature applications, reference should be made to 
+Specification A354. 
+Norn 3-For grades of alloy-steel bolting suitable for use in low 
+temperature applications, reference should be made to Specification 
+A320/A320M. 
+1.4 Nuts for use with bolting are covered in Section 13. 
+1.5 Supplementary Requirements are provided for use at the 
+option of the purchaser. The supplementary requirements shall 
+apply only when specified in the purchase order or contract. 
+1.6 This specification is expressed in both inch-pound units 
+and in SI units; however, unless the purchase order or contract 
+specifies the applicable M specification designation (SI units), 
+the inch-pound units shall apply. 
+1.7 The values stated in either SI units or inch-pound units 
+are to be regarded separately as standard. Within the text, the 
+SI units are shown in brackets. The values stated in each 
+system may not be exact equivalents; therefore, each system 
+shall be used independently of the other. Combining values 
+from the two systems may result in non-conformance with the 
+standard. 
+1.8 This international standard was developed in accor­
+dance with internationally recognized principles on standard­
+ization established in the Decision on Principles for the 
+Development of International Standards, Guides and Recom­
+mendations issued by the World Trade Organization Technical 
+Barriers to Trade (TBT) Committee. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+234 
+Al53/Al53M Specification for Zinc Coating (Hot-Dip) on 
+Iron and Steel Hardware 
+A194/A194M Specification for Carbon Steel, Alloy Steel, 
+and Stainless Steel Nuts for Bolts for High Pressure or 
+High Temperature Service, or Both 
+A320/A320M Specification for Alloy-Steel and Stainless 
+Steel Bolting for Low-Temperature Service 
+A354 Specification for Quenched and Tempered Alloy Steel 
+Bolts, Studs, and Other Externally Threaded Fasteners 
+A788/A788M Specification for Steel Forgings, General Re­
+quirements
+
+=== Page 287 ===
+
+ASME BPVC.II.A-2025 SA-193/SA-193M 
+A962/A962M Specification for Common Requirements for 
+Bolting Intended for Use at Any Temperature from Cryo­
+genic to the Creep Range 
+B633 Specification for Electrodeposited Coatings of Zinc on 
+Iron and Steel 
+B695 Specification for Coatings of Zinc Mechanically De­
+posited on Iron and Steel 
+B696 Specification for Coatings of Cadmium Mechanically 
+Deposited 
+B766 Specification for Electrodeposited Coatings of Cad­
+mium 
+E18 Test Methods for Rockwell Hardness of Metallic Ma­
+terials 
+E21 Test Methods for Elevated Temperature Tension Tests of 
+Metallic Materials 
+El12 Test Methods for Determining Average Grain Size 
+El39 Test Methods for Conducting Creep, Creep-Rupture, 
+and Stress-Rupture Tests of Metallic Materials 
+El50 Recommended Practice for Conducting Creep and 
+Creep-Rupture Tension Tests of Metallic Materials Under 
+Conditions of Rapid Heating and Short Times (Withdrawn 
+1984) 
+E151 Recommended Practice for Tension Tests of Metallic 
+Materials at Elevated Temperatures with Rapid Heating 
+and Conventional or Rapid Strain Rates (Withdrawn 
+1984) 
+E292 Test Methods for Conducting Time-for-Rupture Notch 
+Tension Tests of Materials 
+E328 Test Methods for Stress Relaxation for Materials and 
+Structures 
+E566 Practice for Electromagnetic (Eddy Current/Magnetic 
+Induction) Sorting of Ferrous Metals 
+E709 Guide for Magnetic Particle Testing 
+F606/F606M Test Methods for Determining the Mechanical 
+Properties of Externally and Internally Threaded 
+Fasteners, Washers, Direct Tension Indicators, and Rivets 
+F1940 Test Method for Process Control Verification to 
+Prevent Hydrogen Embrittlement in Plated or Coated 
+Fasteners 
+F1941/F1941M Specification for Electrodeposited Coatings 
+on Mechanical Fasteners, Inch and Metric 
+F2329/F2329M Specification for Zinc Coating, Hot-Dip, 
+Requirements for Application to Carbon and Alloy Steel 
+Bolts, Screws, Washers,· Nuts, and Special Threaded 
+Fasteners 
+2.2 ASME Standards: 
+Bl8.2.1 Square and Hex Bolts and Screws 
+B18.2.3.3M Metric Heavy Hex Screws 
+B18.3 Hexagon Socket and Spline Socket Screws 
+Bl8.3.1M Metric Socket Head Cap Screws 
+2.3 AIAG Standard: 
+AIAG B-5 02.00 Primary Metals Identification Tag Applica­
+tion Standard 
+3. General Requirements and Ordering Information 
+3.1 The inquiry and orders shall include the following, as 
+required, to describe the desired bolting material or bolting 
+components adequately: 
+3.1.1 Heat-treated condition (that is carbide solution treated 
+(Class 1), carbide solution treated after finishing (Class lA), 
+and carbide solution treated and strain-hardened (Classes 2, 2B 
+and 2C), for the austenitic stainless steels; Classes 1B and lC 
+apply to the carbide solution-treated nitrogen-bearing stainless 
+steels; Class lD applies to bolting material that is carbide 
+solution treated by cooling rapidly from the rolling 
+temperature), 
+3.1.2 Description of items required (that is, bars, bolts, 
+screws, or studs), 
+3.1.3 Nuts, if required by purchaser, in accordance with 
+13.1, 
+3.1.4 Supplementary requirements, if any, and 
+3.1.5 Special requirements, in accordance with 6.1.5.1, 
+6.2.6, 8.1, and 13.1. 
+3.2 Coatings-Coatings are prohibited unless specified by 
+the purchaser (See Supplementary Requirements S13 and Sl4). 
+When coated bolting components are ordered the purchaser 
+should take special care to ensure that Appendix X2 is 
+thoroughly understood. 
+4. Common Requirements 
+4.1 Bolting materials and bolting components supplied to 
+this specification shall conform to the requirements of Speci­
+fication A962/ A962M. These requirements include test 
+methods, finish, thread dimensions, macroetch (alloy steels 
+only), marking, certification, optional supplementary 
+requirements, and others. Failure to comply with the require­
+ments of Specification A962/ A962M constitutes nonconfor­
+mance with this specification. In case of conflict between this 
+specification and Specification A962/A962M, this specification 
+shall prevail. 
+5. Manufacture (Process) 
+5.1 Melting-See Specification A962/A962M for require­
+ments. 
+5.2 Quality-See Specification A962/A962M for require­
+ments. 
+6. Heat Treatment 
+6.1 Ferritic Steels: 
+6.1.1 Ferritic steels shall be allowed to cool to a temperature 
+• below the cooling transformation range immediately after 
+rolling or forging. Bolting materials shall then be uniformly 
+reheated to the proper temperature to refine the grain (a group 
+thus reheated being lmown as a quenching charge), quenched 
+235
+
+=== Page 288 ===
+
+TABLE 1 Chemical Requirements (Composition, percentt ti> 
+Ferritic Steels ~ 
+""' Description 
+It) 
+w 
+and UNS ....... 
+Grade Desi11nation Class Carbon Man11anese Phosphorus Sulfur Silicon Chromium Nickel Molybdenum Cooper NiobiumF Titanium Vanadium Aluminum Nitro11en ~ 
+B5 5 % Chromium 0.10 min 1.00 0.040 0.030 1.00 4.0-6.0 0.40-0.65 ""' It) 
+w 
+Product :s: 
+Analysis 0.01 0.03 0.005 0.005 0.05 0.10 0.05 
+Varialion 8 
+B6, 12% 
+B6X Chromium 0.08-0.15 1.00 0.040 0.030 1.00 11.5-13.5 (410), 
+S41000 
+Product 
+Analysis 0.01 over 0.03 0.005 0.005 0.05 0.15 
+Variations 
+B7, Chromium- 0.38-Q.48D 0.75-1.00 0.035 0.040 0.15-0.35 0.80-1.10 0.15-0.25 B7M Molybdenum 0 
+Product 
+Analysis 0.02 0.04 0.005 0.005 0.02 0.05 0.02 
+Variations > ti> 
+:s: 
+B16 Chromium- ~ 
+Molybdenum- 0.36-0.47 0.45-0.70 0.035 0.040 0.15-0.35 0.80-1.15 0.50-0.65 0.25-0.35 0.015E 0::, .,, 
+N Vanadium < w 
+C °' Product ~ Analysis 0.02 0.03 0.005 0.005 0.02 0.05 0.03 0.03 N 
+Variations 0 
+N 
+Austenilic Steels Vt 
+Grade Description 
+and UNS Classes Carbon Manganese Phosphorous Sulfur Silicon Chromium Nickel Molybdenum Copper NiobiumF Titanium Vanadium Aluminum Nitrogen 
+Designation 
+B8, 304,S30400 1, 1A, 1D, 0.08 2.00 0.045 0.030 1.00 18.0-20.0 8.0-11.0 B8A 2 
+Product 
+Analysis 0.01 0.04 0.010 0.005 0.05 0.20 0.15 
+Variations 
+B8C, 347, 1, 1A, 1D, 0.08 2.00 0.045 0.030 1.00 17.0-19.0 9.0-12.0 10 x C 
+B8CA S34700 2 to 1.10 
+Product 0.05 Analysis 0.01 0.04 0.010 0.005 0.05 0.20 0.15 under Variations 
+B8M, 
+B8MA, 316, 1, 1A, 1D, 0.08 2.00 0.045 0.030 1.00 16.0-18.0 10.0-14.0 2.00-3.00 B8M2, S31600 2 
+B8M3 
+Product 
+Analysis 0.01 0.04 0.010 0.005 0.05 0.20 0.15 0.10 
+Variations
+
+=== Page 289 ===
+
+( 
+TABLE 1 Continued 
+B8P, S30500 1, 1A, 1D, 0.12 2.00 0.045 0.030 1.00 17.0-19.0 11.0-13.0 B8PA 2 
+Product 
+Analysis 0.01 0.04 0.010 0.005 0.05 0.20 0.15 
+Variation 8 
+B8N, 304N, 1A, 1B, 1D, 0.08 2.00 0.045 0.030 1.00 18.0-20.0 8.0-11.0 0.10-0.16 BBNA S30451 2 
+Product 
+Analysis 0.01 0.04 0.010 0.005 0.05 0.20 0.15 0.01 
+Variation 8 
+B8MN, 316N, 1A, 18, 1D, 0.08 2.00 0.045 0.030 1.00 16.0-18.0 10.0-13.0 2.00-3.00 0.10-0.16 B8MNA S31651 2 
+Product 
+Analysis 0.01 0.04 0.010 0.005 0.05 0.20 0.15 0.10 0.01 
+Variation 8 
+BBMLCuN, S31254 1A, 1B, 1D, 0.020 1.00 0.030 0.010 0.80 19.5-20.5 17.5-18.5 6.0-6.5 0.50-1.00 0.18-0.25 
+B8MLCuNA 2 > Cll 
+Product :s: 
+~ 
+Analysis 0.005 0.03 0.005 0.002 0.05 0.20 0.15 0.10 0.02 t:ll 
+N Variations '"Cl 
+w < 
+-....:i C"l 
+B8T, 5x = B8TA 321, 1, 1A, 2 0.08 2.00 0.045 0.030 1.00 17.0-19.0 9.0-12.0 (C + N) 0.10 ~ S32100 to 0.70 N 
+0 
+N 
+Product 
+CJ1 
+Analysis 0.01 0.04 0.010 0.005 0.05 0.20 0.15 0.05 
+Variations under 
+B8R, S20910 1C,1D 0.06 4.Q-6.0 0.045 0.030 B8RA 1.00 20.5-23.5 11.5-13.5 1.50-3.00 0.10-0.30 0.10-0.30 0.20-0.40 
+Product 
+Analysis 0.01 0.05 0.005 0.005 0.05 0.25 0.15 0.10 0.05 0.02 0.02 
+Variations 
+BBS, S21800 1C,1D 0.10 7.0-9.0 0.060 0.030 3.5-4.5 16.0-18.0 8.0-9.0 0.08-0.18 
+BBSA 
+Product 
+Analysis 0.01 0.06 0.005 0.005 0.15 0.20 0.10 0.01 
+Variation 8 
+Cll 
+BBLN, S30453 1, 1A, 1D 0.030 2.00 0.045 0.030 1.00 18.0-20.0 8.0-11.0 0.10-0.16 ~ 
+B8LNA ""' ~ 
+w ....... 
+Product Cll 
+Analysis 0.005 0.04 0.010 0.005 0.05 0.20 0.15 0.01 ~ 
+Variations ""' ~ 
+w 
+:s:
+
+=== Page 290 ===
+
+N 
+t,J 
+co 
+B8MLN, 
+BBMLNA 
+Product 
+Analysis 
+Variations 
+B8CLN, 
+BBCLNA 
+Product 
+Analysis 
+Variations 
+B8CLNCu 
+B 
+BBCLNCu 
+BA 
+Product 
+Analysis 
+Variation 
+B8ML4CuN, 
+B8ML4CuNA 
+Product 
+Analysis 
+Variations 
+S31653 
+347LN, 
+S34751 
+S34752° 
+S31730 
+1, 1A, 1D 
+1, 1A, 1D 
+1,1A,1D 
+1, 1A, 1D 
+0.030 
+0.005 
+0.005-
+0.020 
+0.002 
+under, 
+0.005 
+over 
+0.005-
+0.02 
+0.002 
+under, 
+0.005 
+over 
+0.030 
+0.005 
+2.00 0.045 
+0.04 0.010 
+2.00 0.045 
+0.04 0.D1 
+2.00 0.035 
+0.04 0.D1 
+2.00 0.040 
+0.04 0.005 
+TABLE 1 Continued 
+0.030 1.00 16.0-18.0 10.0-13.0 2.00-3.00 
+0.005 0.05 0.20 0.15 0.10 
+0.030 1.00 17.0-19.0 9.0-13.0 
+0.005 0.05 0.20 0.15 
+0.010 0.60 17.0-19.0 10.0-13.0 0.20-1.20 
+0.005 0.05 0.20 0.15 
+0.010 1.00 17.0-19.0 15.0-16.5 3.0-4.0 
+0.002 0.05 0.20 0.15 0.10 
+2.50-3.50 
+0.15 
+4.o-5.0 
+0.15 
+0.20-0.50; 
+15 X 
+carbon 
+content, 
+min 
+0.05 
+0.20-0.50; 
+15 X 
+carbon 
+content, 
+min 
+0.05 
+0.10-0.16 
+0.D1 
+0.06-0.10 
+0.01 
+0.06-0.12 
+0.D1 
+0.045 
+O.o1 
+AValues are maximums unless a range or a minimum is indicated. Where ellipses appear in this table, there is no requirement and the element need not be detennined or reported. The intentional addition of Bi, Se, 
+Te, and Pb is not permitted. 
+sProduct Analysis-Individual detenninations sometimes vary from the specified limits as shown in the tables. The several determinations of any individual element in a heat may not vary both above and below the 
+specified range. Product variation limits are over for maximums, over or under for ranges, and under for minimums, unless otherwise indicated. 
+°Typical steel compositions used for this grade include 4140, 4142, 4145, 4140H, 4142H, and 4145H. 
+°For bar sizes over 3½ in. (90 mm], inclusive, the carbon content may be 0.50 % max. For the B7M grade, a minimum carbon of 0.28 % is pennitted, provided that the required tensile properties are met in the section 
+sizes involved, the use of AISI 4130 or 4130H is allowed. 
+9"otal of soluble and insoluble. 
+FColumbium and Niobium are alternate names for element 41 in the Periodic Table of the Elements. 
+~or S34752 - Boron content shall be 0.001-0.005 for both heat and product analysis. 
+~ 
+~ 
+ID 
+w 
+~ ... 
+ID w ;s: 
+i = 
+~ 
+~ 
+N 
+0 
+N 
+1:11
+
+=== Page 291 ===
+
+ASME BPVC.II.A-2025 SA-193/SA-193M 
+,,,...----..__ in a liquid medium under substantially uniform conditions for 
+each quenching charge, and tempered. The minimum temper-
+ing temperature shall be as specified in Tables 2 and 3. 
+TABLE 2 Mechanical Requirements - Inch Products 
+Minimum Tensile Yield Strength, Elongation Reduction Hardness, 
+Grade Diameter, in. Tempering Strength, min, 0.2 % in4D, of Area, max 
+Temperature, min, ksi offset, min,% min,% 
+OF ksi 
+Ferritic Steels 
+B5 
+4 to 6 % chromium up to 4, incl 1100 100 80 16 50 
+B6 
+13 % chromium up to 4, incl 1100 110 85 15 50 
+B6X 
+13 % chromium up to 4, incl 1100 90 70 16 50 26 HRC 
+B7 
+Chromium-molybdenum 2½and under 1100 125 105 16 50 321 HBWor 
+35 HRC 
+over2½to 4 1100 115 95 16 50 321 HBWor 
+35 HRC 
+over 4 to 7 1100 100 75 18 50 321 HBWor 
+35 HRC 
+B7MA Chromium-molybdenum 4 and under 1150 100 80 18 50 235 HBWor 
+99 HRB 
+over 4 to 7 1150 100 75 18 50 235 HBWor 
+99 HRB 
+B16 
+Chromium-molybdenum-vanadium 2½and under 1200 125 105 18 50 321 HBWor 
+35 HRC 
+over 2½to 4 1200 110 95 17 45 321 HBWor 
+35 HRC 
+over 4 to 8 1200 100 85 16 45 321 HBWor 
+35 HRC 
+Tensile Yield 
+Strength, Strength, Elongation Reduction Hardness, Grade, Diameter, in. Heat Treatment 8 min, ksi min, 0.2 in 4D, of Area, 
+%offset, min% min% max 
+ksi 
+Austenitic Steels 
+Classes 1 and 1 D; BB, BBM, BBP, carbide solution treated 75 30 30 50 223 HBWor 96 
+BBLN, BBMLN, BBCLN, all HRB 0 
+diameters 
+Classes 1 and 1 D; BB, carbide solution treated 75 30 35 50 223 HBWor96 
+BBCLNCuB, all diameters HRB 0 
+Classes 1 and 10: B8ML4CuN, carbide solution treated 70 25 35 50 90 HRB 
+all diameters 
+Class 1: BBC, BBT, all diameters carbide solution treated 75 30 30 50 223 HBWor 
+96HRB 0 
+Class 1A: BSA, BBCA, BBCLNA, carbide solution treated in the finished 75 30 30 50 192 HBWor90 
+BBMA, BBPA, BBTA, B8LNA, condition HRB 
+B8MLNA, B8NA, B8MNA, 
+B8MLCuNA, all diameters 
+'-----· Class 1A: B8ML4CuNA, all carbide solution treated 70 25 35 50 90 HRB 
+diameters 
+Classes 1B and 10: B8N, B8MN, carbide solution treated 80 35 30 40 223 HBWor 96 
+B8MLCuN, all diameters HRB 0 
+Classes 1C and 10: B8R, all carbide solution treated 100 55 35 55 271 HBWor28 
+diameters HRC 
+Class 1C: B8RA, all diameters carbide solution treated in the finished 100 55 35 55 271 HBWor28 
+condition HRC 
+Classes 1C and 10: B8S, all carbide solution treated 95 50 35 55 271 HBWor28 
+diameters HRC 
+Classes 1 C: B8SA, all diameters carbide solution treated in the finished 95 50 35 55 271 HBWor28 
+condition HRC 
+Class 2: BB, BBC, B8P, B8T, carbide solution treated and strain 125 100 12 35 321 HBWor35 
+B8N, "3/• and under hardened HRC 
+over % to 1, incl. 115 80 15 35 321 HBWor 35 
+HRC 
+'--'. 
+239
+
+=== Page 292 ===
+
+SA-193/SA-193M ASME BPVC.II.A-2025 
+TABLE 2 Continued 
+Tensile Yield 
+Strength, Strength, Elongation Reduction Hardness, Grade, Diameter, in. Heat Treatment 8 min, ksi min, 0.2 in 4 D, of Area, 
+% offset, min% min% max 
+ksi 
+Austenitic Steels 
+over 1 to 1 ¼, incl 105 65 20 35 321 HBW or 35 
+HRC 
+over 1 ¼ to 1 ½, incl 100 50 28 45 321 HBW or 35 
+HRC 
+Class 2: BBM, BBMN, carbide solution treated and strain 110 95 15 45 321 HBW or 35 
+BBMLCuN°¾ and under hardened HRC 
+over ¾ to 1 incl 100 80 20 45 321 HBW or 35 
+HRC 
+Over 1 to 1 ¼, incl 95 65 25 45 321 HBW or 35 
+HRC 
+over 1 ¼ to 1 ½, incl 90 50 30 45 321 HBW or 35 
+HRC 
+Class 2B: BB, BBM2° carbide solution treated and strain 95 75 25 40 321 HBW or 35 
+2 and under hardened HRC 
+over 2 to 2½ incl 90 65 30 40 321 HBW or 35 
+HRC 
+over 2½ to 3 incl 80 55 30 40 321 HBW or 35 
+HRC 
+Class 2C: B8M3° carbide solution treated and strain 85 65 30 60 321 HBW or 35 
+2 and under hardened HRC 
+over 2 85 60 30 60 321 HBW or 35 
+HRC 
+A To meet the tensile requirements, the Brinell hardness shall be over 200 HBW (93 HRB). 
+8 Class 1 is solution treated. Class 1 A is solution treated in the finished condition for corrosion resistance; heat treatment is critical due to physical property requirement. 
+Class 2 is solution treated and strain hardened. Austenitic steels in the strain-hardened condition may not show uniform properties throughout the section particularly in 
+sizes over ¾ in. in diameter. 
+c For sizes¾ in. in diameter and smaller, a maximum hardness of 241 HBW (100 HRB) is permitted. 
+° For diameters 1 ½ and over, center (core) properties may be lower than indicated by test reports which are based on values determined at ½ radius. 
+TABLE 3 Mechanical Requirements-Metric Products 
+Minimum Tensile Yield Strength, Elongation Reduction Hardness, 
+Class Diameter, [mm] Tempering Strength, min, 0.2 % in 4D, of Area, max 
+Temperature, min, offset, min,% min,% 
+oc MPa MPa 
+Ferritic Steels 
+B5 
+4 to 6 % chromium up to M100, incl 593 690 550 16 50 
+B6 
+13 % chromium up to M100, incl 593 760 585 15 50 
+B6X 
+13 % chromium up to M100, incl 593 620 485 16 50 26 HRC 
+B7 
+Chromium-molybdenum M64 and under 593 860 720 16 50 321 HBW or 
+35 HRC 
+over M64 to M100 593 795 655 16 50 321 HBWor 
+35 HRC 
+over M100 to M180 593 690 515 18 50 321 HBW or 
+35 HRC 
+B7MA Chromium-molybdenum M100 and under 620 690 550 18 50 235 HBWor 
+99 HRB 
+over M100 to M180 620 690 515 18 50 235 HBW or 
+99 HRB 
+B16 
+Chromium-molybdenum-vanadium M64 and under 650 860 725 18 50 321 HBW or 
+35 HRC 
+over M64 to M 100 650 760 655 17 45 321 HBW or 
+35 HRC 
+over M100 to M200 650 690 585 16 45 321 HBW or 
+35 HRC 
+240
+
+=== Page 293 ===
+
+ASME BPVC.II.A-2025 SA-193/SA-193M 
+TABLE 3 Continued 
+Tensile Yield 
+Strength, Strength, Elongation Reduction Hardness, Class Diameter, mm Heat Treatment 8 min, min, 0.2 in 4 D, of Area, 
+MPa % offset, min% min% max 
+MPa 
+Austenitic Steels 
+Classes 1 and 1 D; 88, 88M, 88P, 88LN, carbide solution treated 515 205 30 50 223 HBW or 96 
+B8MLN, B8CLN, all diameters HRB 0 
+Classes 1,1A,1D, 88CLNCuB, all carbide solution treated 515 205 30 50 223 HBW or 96 
+diameters 1 HRB 0 
+Classes 1 and 1 D: B8ML4CuN, all carbide solution treated 480 175 35 50 90 HRS 
+diameters 
+Class 1: BBC, BBT, all diameters carbide solution treated 515 205 30 50 223 HBW or 
+96HRB 0 
+Class 1A: BSA, BBCA, 88CLNA, BBMA, carbide solution treated in the finished 515 205 30 50 192 HBW or 90 
+B8PA, B8TA, 88LNA, BBMLNA, BBNA, condition HRS 
+BBMNA, BBMLCuNA, all diameters 
+Class 1 A: B8ML4CuNA, all diameters carbide solution treated 480 175 35 50 90 HRS 
+Classes 1 B and 10: 88N, BBMN, carbide solution treated 550 240 30 40 223 HBW or 96 
+BBMLCuN, all diameters HRB 0 
+Classes 1 C and 1 D: BBR, all diameters carbide solution treated 690 380 35 55 271 HBW or 28 
+HRC 
+Class 1 C: 88RA, all diameters carbide solution treated in the finished 690 380 35 55 271 HBW or 28 
+condition HRC 
+Classes 1 C and 1 D: BBS, all diameters carbide solution treated 655 345 35 55 271 HBW or 28 
+HRC 
+Classes 1 C: BBSA, all diameters carbide solution treated in the finished 655 345 35 55 271 HBW or 28 
+condition HRC 
+Class 2: BB, BBC, BBP, BBT, BBN, 0 carbide solution treated and strain 860 690 12 35 321 HBWor 35 
+M20 and under hardened HRC 
+over M20 to M24, incl 795 550 15 35 321 HBW or 35 
+HRC 
+over M24 to M30, incl 725 450 20 35 321 HBW or 35 
+HRC 
+over M30 to M36, incl 690 345 28 45 321 HBW or 35 
+HRC 
+Class 2: BBM, BBMN, BBMLCuN, 0 carbide solution treated and strain 760 655 15 45 321 HBW or 35 
+M20 and under hardened HRC 
+over M20 to M24, incl 690 550 20 45 321 HBW or 35 
+HRC 
+over M24 to M30, incl 655 450 25 45 321 HBW or 35 
+HRC 
+over M30 to M36, incl 620 345 30 45 321 HBW or 35 
+HRC 
+Class 28: 88, BBM2, 0 carbide solution treated and strain 655 515 25 40 321 HBW or 35 
+M48 and under hardened HRC 
+over M48 to M64, incl 620 450 30 40 321 HBW or 35 
+HRC 
+over M64 to M72, incl 550 380 30 40 321 HBW or 35 
+HRC 
+Class 2C: B8M3, 0 carbide solution treated and strain 585 450 30 60 321 HBW or 35 
+M48 and under hardened HRC 
+over M48 585 415 30 60 321 HBW or 35 
+HRC 
+A To meet the tensile requirements, the Brinell hardness shall be over 200 HBW (93 HRS). 
+8 Class 1 is solution treated. Class 1 A is solution treated in the finished condition for corrosion resistance; heat treatment is critical due to physical property requirement. 
+Class 2 is solution treated and strain hardened. Austenitic steels in the strain-hardened condition may not show uniform properties throughout the section particularly in 
+sizes over M20 mm in diameter. 
+c For sizes M20 mm in diameter and smaller, a maximum hardness of 241 HBW (100 HRS) is permitted. 
+° For diameters M38 and over, center (core) properties may be lower than indicated by test reports which are based on values determined at½ radius. 
+241
+
+=== Page 294 ===
+
+SA-193/SA·193M ASME BPVC.II.A-2025 
+6.1.2 Use of water quenching is prohibited for any ferritic 
+grade when heat treatment is performed after heading or 
+threading. 
+6.1.3 Except as permitted below for B6X; bolting material 
+that is subsequently cold drawn for dimensional control shall 
+be stress-relieved after cold drawing. The minimum stress­
+relief temperature shall be within not more than 100 °F [55 °C] 
+below the tempering temperature. Tests for mechanical prop­
+erties shall be performed after stress relieving. 
+6.1.4 B6 and B6X shall be held at the tempering tempera­
+ture for a minimum time of 1 h. B6X bolting material may be 
+furnished in the as-rolled-and-tempered condition. Cold works 
+ing after heat treatment is permitted for B6X material provided 
+the final hardness meets the requirements of Tables 2 and· 3. 
+6.1.5 B7 and B7M shall be heat treated by quenching in a 
+liquid medium and tempering. For B7M bolting components, 
+such as bolts, studs, or screws, the final heat treatment, which 
+may be the tempering operation if conducted at 1150 °F [620 
+0 C] minimum, shall be done after all machining and forming 
+operations, including thread rolling and any type of cutting. 
+Surface preparation for hardness testing, nondestructive 
+evaluation, or ultrasonic bolt tensioning is permitted. 
+6.1.5.1 Unless otherwise specified, bolting material for 
+Grade B7 may be heat treated by the Furnace, the Induction or 
+the Electrical Resistance method. 
+Norn 4--Stress-relaxation properties may vary from heat lot to heat lot 
+or these properties may vary from one heat-treating method to another. 
+The purchaser may specify Supplementary Requirement S8, when stress­
+relaxation testing is desired. 
+6.1.6 Bolting material Grade B16 shall be heated to a 
+temperature range from 1700 to 1750 °F [925 to 955 °C] and 
+oil quenched. The minimum tempering temperature shall be as 
+specified in Tables 2 and 3. 
+6.2 Austenitic Stainless Steels: 
+6.2.1 All austenitic stainless steels shall receive a carbide 
+solution treatment (see 6.2.2 - 6.2.5 for specific requirements 
+for each class). Classes 1, lB, IC (Grades B8R and B8S only), 
+2, 2B, and 2C can apply to bar, wire, and finished bolting 
+components. Class lA (all grades) and Class IC (grades B8RA 
+and B8SA only) can apply to finished bolting components. 
+Class ID applies only to bar and wire and finished bolting 
+components that are machined directly from Class ID bar or 
+wire without any subsequent hot or cold working. 
+6.2.2 Classes I and JB, and Class JC Grades B8R and 
+BBS-After rolling of the bar, forging, or heading, whether 
+done hot or cold, bolting material shall be heated from ambient 
+temperature and held a sufficient time at a temperature at which 
+the chromium carbide will go into solution and then shall be 
+cooled at a rate sufficient to prevent the precipitation of the 
+carbide. 
+6.2.3 Class JD-Rolled or forged Grades B8, B8M, B8P, 
+B8LN, B8MLN, B8CLNCuB, B8N, B8MN, B8R, and B8S bar 
+shall be cooled rapidly immediately following hot working 
+while the temperature is above 1750 °F [955 °C] so that grain 
+boundary carbides remain in solution. Class ID shall be 
+restricted to applications at temperatures less than 850 °F [455 
+oq, 
+6.2.4 Class IA and Class IC Grades B8RA and BBSA­
+Finished bolting components shall be carbide solution treated 
+after all rolling, forging, heading, and threading operations are 
+complete. This designation does not apply to starting material 
+such as bar. Components shall be heated from ambient tem­
+perature and held a sufficient time at a temperature at which the 
+chromium carbide will go into solution and then shall be 
+cooled at a rate sufficient to prevent the precipitation of the 
+carbide. 
+6.2.5 Classes 2, 2B, and 2C-Bolting material shall be 
+carbide solution treated by heating from ambient temperature 
+and holding a sufficient time at a temperature at which the 
+chromium carbide will go into solution and then cooling at a 
+rate sufficient to prevent the precipitation of the carbide. 
+Following this treatment the bolting material shall then be 
+strain hardened to achieve the required properties. 
+Norn 5-Heat treatment follqwing operations performed on a limited 
+portion of the product, such as heading, may result in non-uniform grain 
+size and mechanical properties through the section affected. 
+242 
+6.2.6 If a scale-free bright finish is required; this shall be 
+specified in the purchase order. 
+7. Chemical Composition 
+7 .1 Each alloy shall conform to the chemical composition 
+requirements prescribed in Table 1. 
+8. Heat Analysis 
+8.1 An analysis of each heat of steel shall be made by the 
+manufacturer to determine the percentages of the elements 
+specified in Section 7. The chemical composition thus deter­
+mined shall be reported to the purchaser or the purchaser's 
+representative, and shall conform to the requirements specified 
+in Section 7. Should the purchaser deem it necessary· to have 
+the transition zone of two heats sequentially cast discarded, the 
+purchaser shall invoke Supplementary Requirement S3 of 
+Specification A 788/ A 788M. 
+9. Mechanical Properties 
+9.1 Tensile Properties: 
+9.1.1 Requirements-Bolting material as represented by the 
+tension specimens shall conform to the requirements pre­
+scribed in Tables 2 and 3 at room temperature after heat 
+treatment. Stainless strain hardened bolting components (Class 
+2, 2B, and 2C) shall be tested full size after strain hardening to 
+determine tensile strength and yield strength and shall conform 
+to the requirements prescribed in Tables 2 and 3. In cases 
+where tensile testing equipment of sufficient capacity is not 
+available, stainless strain hardened bolting components greater 
+than 1.500 in. diameter may be tested using machined speci­
+men. Should the results of full size tests conflict with results of 
+tension specimen tests, full size test results shall prevail. 
+9.1.2 Full Size Bolting Components, Wedge Tensile 
+Testing-When applicable, see 12.1.3, headed components 
+shall be wedge tested full size. The minimum full size load 
+applied (lbf or kN) for individual sizes shall be as follows: 
+W=T,XA, ( 1)
+
+=== Page 295 ===
+
+ASME BPVC.II.A-Z0Z5 SA-193/SA-193M 
+where: 
+w = 
+Ts = 
+At = 
+minimum wedge tensile load without fracture, 
+tensile strength specified in ksi or MPa in Tables 2 and 
+3, and 
+stress area of the thread section, square inches or square 
+millimetres, as shown in the Cone Proof Load Tables in 
+Specification A962/A962M. 
+9.2 Hardness Requirements: 
+9.2.1 The hardness shall conform to the requirements pre­
+scribed in Tables 2 and 3. Hardness testing shall be performed 
+in accordance with either Specification A962/ A962M or with 
+Test Methods F606/F606M. 
+9.2.2 Grade B7M-The maximum hardness of the grade 
+shall be 235 HBW or 99 HRB. The minimum hardness shall 
+not be less than 200 HBW or 93 HRB. Conformance to this 
+hardness shall be ensured by testing the hardness of each stud 
+or bolt by Brinell or Rockwell B methods in accordance with 
+9 .2.1. The use of 100 % electromagnetic testing for hardness as 
+an alternative to 100 % indentation hardness testing is permis­
+sible when qualified by sampling using indentation hardness 
+testing. Each lot tested for hardness electromagnetically shall 
+be 100 % examined in accordance with Practice E566. Follow­
+ing electromagnetic testing for hardness, a random sample of a 
+minimum of 100 pieces of each heat of steel in each lot (as 
+defined in 12.1.1) shall be tested by indentation hardness 
+methods. All samples must meet hardness requirements to 
+permit acceptance of the lot. If any one sample is outside of the 
+specified maximum or minimum hardness, the lot shall be 
+rejected and either reprocessed and resampled or tested 100 % 
+by indentation hardness methods. 
+9.2.2.l Surface preparation for indentation hardness testing 
+shall be in accordance with Test Methods E18. Hardness tests 
+shall be performed on the end of the bolt or stud. When this is 
+impractical, the hardness test shall be performed elsewhere. 
+10. Workmanship, Finish, and Appearance 
+10.1 Bolts, screws, studs, and stud bolts shall be pointed and 
+shall have a workmanlike finish. Points shall be flat and 
+chamfered or rounded at option of the manufacturer. Length of 
+point on studs and stud bolts shall be not less than one nor more 
+than two complete threads as measured from the extreme end 
+parallel to the axis. Length of studs and stud bolts shall be 
+measured from first thread to first thread. 
+10.2 Unless otherwise specified in the purchase order, bolt 
+heads shall be in accordance with the dimensions of ASME 
+Bl8.2.1 or ASME B18.2.3.3M. Unless otherwise specified in 
+the purchase order, the Heavy Hex Screws Series should be 
+used for nominal body diameters of l ¼ in. [30 mm] and less. 
+For larger sizes, the Heavy Hex Screw Series should be used, 
+except the maximum body diameter and radius of fillet may be 
+the same as for the Heavy Hex Bolt Series. The body diameter 
+and head fillet radius for sizes of Heavy Hex Cap Screws and 
+Bolts that are not shown in their respective tables in ASME 
+B18.2.l or ASME B18.2.3.3M may be that shown in the 
+corresponding Hex Cap Screw and Bolt Tables respectively. 
+Socket head screws or bolts shall be in accordance with ASME 
+B18.3 or ASME B18.3.1M. 
+11. Retests 
+11.1 If the results of the mechanical tests of any test lot do 
+not conform to the requirements specified, the manufacturer 
+may retreat such lot not more than twice, in which case two 
+additional tension tests shall be made from such lot, all of 
+which shall conform to the requirements specified. 
+12. Test Specimens 
+12.1 Number of Tests-For heat-treated bars, one tension 
+test shall be made for each diameter of each heat represented in 
+each tempering charge. When heat treated without interruption 
+in continuous furnaces, the material in a lot shall be the same 
+heat, same prior condition, same size, and subjected to the 
+same heat treatment. Not fewer than two tension tests are 
+required for each lot containing 20 000 lb [9000 kg] or less. 
+Every additional 10 000 lb [4500 kg] or fraction thereof 
+requires one additional test. 
+12. l.1 For studs, bolts, screws, and so forth, one tension test 
+shall be made for each diameter of each heat involved in the 
+lot. Each lot shall consist of the following: 
+Diameter, in. [mm] 
+11/s [30] and under 
+Over 11/s (30] to 1¾ (42], incl 
+Over 1¾ (42] to 2½ (64], incl 
+Over 2½ (64] 
+Lot Size 
+1500 lb (680 kg] or fraction thereof 
+4500 lb [2000 kg] or fraction thereof 
+6000 lb [2700 kg] or fraction thereof 
+100 pieces or fraction thereof 
+12.1.2 Tension tests are not required to be made on bolts, 
+screws, studs, or stud bolts that are fabricated from heat-treated 
+bars furnished in accordance with the requirements of this 
+specification and tested in accordance with 12.1, provided they 
+are not given a subsequent heat treatment. 
+243 
+12.1.3 Full Size Specimens, Headed Bolting COmponents­
+Headed bolts or screws 1 ½ in. in body diameter and smaller, 
+with body length three times the diameter or longer, and that 
+are produced by upsetting or forging (hot or cold) shall be 
+subjected to full size testing in accordance with 9.1.2. This 
+testing shall be in addition to tensile testing as specified in 
+9.1.1. Wedge tensile testing shall be limited to product with 
+socket head cap screw, hexagon, square, hex flange, or twelve 
+point flange heads. The lot size shall be as shown in 12.1.1. 
+Failure shall occur in the body or threaded section with no 
+failure, or indications of failure, such as cracks, at the junction 
+of the head and shank. Wedge tensile testing is not required for 
+flat countersunk head or socket button products. 
+13. Nuts 
+13.1 Bolts, studs, and stud bolts shall be furnished with 
+nuts, when specified in the purchase order. Nuts shall conform 
+to Specification A194/Al94M. 
+14. Certification 
+14.1 Certification is required. In addition to the require­
+ments of Specification A962/ A962M the rep01i shall include 
+results of the chemical analysis, macroetch examination (Car­
+bon and Alloy Steels Only), and mechanical tests, and state the 
+method of heat treatment employed.
+
+=== Page 296 ===
+
+SA-193/SA-193M ASME BPVC.II.A-2025 
+TABLE 4 Marking of Ferritic Steels 
+Grade 
+B5 
+B6 
+B6X 
+B7 
+B7M 
+B16 
+B16+ 
+Supplement S12 
+15. Product Marking 
+Grade Symbol 
+B5 
+B6 
+B6X 
+B7 
+B7M or B7M 
+B16 
+B16R 
+15.1 See Specification A962/A962M. The grade symbol 
+shall be as shown in Table 4 and Table 5. Grade B7M no longer 
+requires a line under the grade symbol. However, a line is 
+permitted. 
+16. Keywords 
+16.1 alloy steel bars; alloy steel bolting; bolting compo­
+nents; bolting materials; hardness; heat treatment; stainless 
+steel bolting 
+Class 
+Class 1 
+Class 1A 
+Class 1B 
+Class 1C 
+Class 10 
+Class 2 
+Class 2B 
+Class 2C 
+244 
+TABLE 5 Marking of Austenitic Steels 
+Grade Grade Symbol 
+B8 B8 
+B8C B8C 
+B8M B8M 
+B8P B8P 
+B8T B8T 
+B8LN B8F or B8LN 
+B8MLN B8G or BBMLN 
+B8CLN B8Yor BBCLN 
+B8CLNCuB B8CLNCuB 
+B8ML4CuN B8YY or BBML4CuN 
+B8A B8A 
+B8CA B8B or B8CA 
+BBMA B8D or BBMA 
+B8PA B8H or B8PA 
+B8TA B8J or B8TA 
+B8LNA B8Lor B8LNA 
+BBMLNA B8K or B8MLNA 
+B8NA B8Vor B8MA 
+BBMNA B8W or B8MNA 
+B8MLCuNA B9K or B8MLCuNA 
+B8CLNA B8Z or B8CLNA 
+B8CLNCuBA B8ZA or B8CLNCuBA 
+B8ML4CuNA B8ZZ or B8MLCuNA 
+B8N B8N 
+B8MN BBYor B8MN 
+B8MLCuN B9J or B8MLCuN 
+B8R B9Aor BBR 
+B8RA B9B or BBRA 
+B8S B9D or BBS 
+B8SA B9F or B8SA 
+B8 B94 
+B8M B95 
+B8P B96 
+B8LN B97 
+B8MLN B98 
+BBN B99 
+B8MN B100 
+B8R B101 
+B8S B102 
+B8CLN B103 
+B8ML4CuN B104 
+BBCLNCuB B105 
+BB B8SH 
+B8C BBCSH 
+BBP BBPSH 
+B8T BBTSH 
+BBN BBNSH 
+BBM BBMSH 
+BBMN B8YSH 
+BBMLCuN B8JSH 
+B8M2 B9G or B8M2 
+BB B9 
+B8M3 B9H or BBM3
+
+=== Page 297 ===
+
+ASME BPVC.II.A-2025 SA-193/SA-193M 
+SUPPLEMENTARY REQUIREMENTS 
+These requirements shall not apply unless specified in the order and in the Ordering Information, 
+in which event the specified tests shall be made before shipment of the product. 
+Sl. High Temperature Tests 
+S 1. 1 Tests to determine high temperature properties shall be 
+made in accordance with Test Methods E21, E139, and E292, 
+and Practices E150 and E151. 
+S2. Charpy Impact Tests 
+S2.1 Charpy impact tests based on the requirements of 
+Specification A320/ A320M, Sections 6 and 7, shall be made as 
+agreed between the manufacturer and the purchaser. When 
+testing temperatures are as low as those specified in Specifi­
+cation A320/A320M, bolting should be ordered to that speci­
+fication in preference to this specification. 
+S3. 100 % Hardness Testing of Grade B7M 
+S3.1 Each Grade B7M bolt or stud shall be tested for 
+hardness by indentation method and shall meet the require­
+ments specified in Tables 2 and 3. 
+S4. Hardness Testing of Grade B16 
+S4.1 For bolts or studs 2½ in. [65 mm] or smaller, the 
+hardness for Grade B 16 shall be measured on or near the end 
+of each bolt or stud using one of the methods prescribed in 
+9.2.1 for the Brinell or Rockwell C test. The hardness shall be 
+in the range 253-319 HBW or 25-34 HRC. 
+SS. Product Marking 
+S5.1 Grade and manufacturer's identification symbols shall 
+be applied to one end of studs and to the heads of bolts and 
+screws of all sizes. (If the available area is inadequate, the 
+grade symbol may be marked on one end and the manufactur­
+er's identification symbol marked on the other end.) For bolts 
+and screws smaller than¼ in. [6 mm] in diameter and studs 
+smaller than 3/s in. [10 mm] in diameter and for ¼ in. [6 mm] 
+in diameter studs requiring more than a total of three symbols, 
+the marking shall be a matter of agreement between the 
+purchaser and the manufacturer. 
+S6. Stress Relieving 
+S6.1 A stress-relieving operation shall follow straightening 
+after heat treatment. 
+S6.2 The minimum stress-relieving temperature shall be 
+100 °F [55 °C] below the tempering temperature. Tests for 
+mechanical properties shall be performed after stress relieving. 
+S7. Magnetic Particle Inspection 
+S7.1 Bars shall be magnetic particle examined in accor­
+dance with Guide E709. Bars with indications of cracks or 
+seams are subject to rejection if the indications extend more 
+than 3 % of the diameter into the bar. 
+SS. Stress-Relaxation Testing 
+S8.1 Stress-Relaxation Testing, when required, shall be 
+done in accordance with Test Methods E328. The test shall be 
+performed at 850 °F [ 454 °C] for a period of 100 h. The initial 
+stress shall be 50 M psi [345 MPa]. The residual stress at 100 
+h shall be 17 M psi [117 MPa] minimum. 
+S9. Grain Size Requirements for Non H Grade Austenitic 
+Steels Used Above 1000 °F 
+S9.1 For design metal temperatures above 1000 °F [540 
+0 C], the material shall have a grain size of No. 7 or coarser as 
+determined in accordance with Test Methods Ell2. The grain 
+size so determined shall be reported on the Certificate of Test. 
+SlO. Hardness Testing of Class 2 Bolting for ASME 
+Applications 
+S 10.1 The maximum hardness shall be Rockwell C35 im­
+mediately under the thread roots. The hardness shall be taken 
+on a flat area at least 1/s in. [3 mm] across, prepared by 
+removing threads, and no more material than necessary shall be 
+removed to prepare the flat areas. Hardness determinations 
+shall be made at the same frequency as tensile tests. 
+Sll. Thread Forming 
+Sll.1 Threads shall be formed after heat treatment. Appli­
+cation of this supplemental requirement to grade B7M or the 
+grades listed in 6.2.4 is prohibited. 
+245 
+S12. Stress Rupture Testing of Grade B16 
+S12.l One test shall be made for each heat treat lot. Testing 
+shall be conducted using a combination test bar in accordance 
+with Test Methods E292. Rupture shall occur in the smooth 
+section of each test specimen. The test shall be conducted at 
+1100 °F [595 °C] and 20 ksi [140 MPa]. The test shall be 
+continued until the sample ruptures. Rupture life shall be 25 h 
+minimum. Testing is not required on material less than ½ in. 
+[12 mm] thick. 
+Sl2.2 When a purchase order for bolting components in­
+vokes S12, the grade symbol applied shall be "B16R." 
+S13. Coatings on Bolting Components 
+S13.1 It is the purchaser's responsibility to specify in the 
+purchase order all information required by the coating facility. 
+Examples of such information may include but are not limited 
+to the following: 
+S 13 .1.1 Reference to the appropriate coating specification 
+and type, thickness, location, modification to dimensions, and 
+hydrogen embrittlement relief. 
+Sl3.l.2 Reference to Specifications A153/A153M, B633, 
+B695, B696, B766, orF1941/F1941M, F2329/F2329M, or Test 
+Method F1940, or other standards.
+
+=== Page 298 ===
+
+SA-193/SA-193M ASME BPVC.II.A-2025 
+S14. Marking Coated Bolting Components 
+S14.1 Bolting components coated with zinc shall have ZN 
+marked after the grade symbol. Bolting components coated 
+with cadmium shall have CD marked after the grade symbol. 
+Norn S14.1-As an example, the marking for zinc-coated B7 will now 
+be B7ZN rather than B7*. 
+SIS. Requirements for Service Temperature Exceeding 
+1000°F 
+S15.1 For bolting of Class 1 Grades B8, B8C, B8M, and 
+B8T, to be used in service at temperatures exceeding 1000°F, 
+the following shall apply: 
+S15.1.1 The minimum carbon content shall be 0.04 %. 
+S15.1.2 Carbide solution treatment shall be between 1900°F 
+and 1950°F followed by quenching in water or rapid cooling 
+by other means. 
+APPENDIXES 
+(Nonmandatory Information) 
+Xl. STRAIN HARDENING OF AUSTENITIC STEELS 
+Xl.1 Strain hardening is the increase in strength and hard­
+ness that results from plastic deformation below the recrystal-. 
+lization temperature (cold work). This effect is produced in 
+austenitic stainless steels by reducing oversized bars or wire to 
+the desired final size by cold drawing or other process. The 
+degree of strain hardening achievable in any alloy is limited by 
+its strain hardening characteristics. In addition, the amount of 
+strain hardening that can be produced is further limited by the 
+variables of the process, such as the total amount of cross­
+section reduction, die angle, and bar size. In large diameter 
+bars, for example, plastic deformation will occur principally in 
+the outer regions of the bar so that the increased strength and 
+hardness due to strain hardening is achieved predominantly 
+near the surface of the bar. That is, the smaller the bar, the 
+greater the penetration of strain hardening. 
+Xl .2 Thus, the mechanical properties of a given strain 
+hardened bolting component are dependent not just on the 
+alloy, but also on the size of bar from which it is machined. The 
+minimum bar size that can be used, however, is established by 
+the configuration of the component so that the configuration 
+can affect the strength of the componoent. 
+Xl.3 For example, a stud of a particular alloy and size may 
+be machined from a smaller diameter bar than a bolt of the 
+same alloy and size because a larger diameter bar is required to 
+accommodate the head of the bolt. The stud, therefore, is likely 
+to be stronger than the same size bolt in a given alloy. 
+X2. COATINGS AND APPLICATION LIMITS 
+X2.1 Use of coated bolting components at temperatures 
+above approximately one-half the melting point (Fahrenheit or 
+Celsius) of the coating is not recommended unless consider­
+ation is given to the potential for liquid and solid metal 
+embrittlement, or both. The melting point of elemental zinc is 
+approximately 780 °F [415 °C]. Therefore, application of 
+246 
+zinc-coated bolting components should be limited to tempera­
+tures less than 390 °F [210 °C]. The melting point of cadmium 
+is approximately 600 °F [320 °C]. Therefore, application of 
+cadmium-coated bolting components should be limited to 
+temperatures less than 300 °F [160 °C].
+
+=== Page 299 ===
+
+ASME BPVC.ILA-2025 SA-194/SA-194M
+
+SPECIFICATION FOR CARBON AND ALLOY STEEL NUTS
+FOR BOLTS FOR HIGH PRESSURE OR HIGH
+TEMPERATURE SERVICE, OR BOTH
+
+CxS SA-194/SA-194M au
+® =
+
+(Identical with ASTM Specification A194/A194M-22)
+
+247
+
+=== Page 300 ===
+
+SA-194/SA-194M ASME BPVC.11.A-2025 
+Specification for 
+Carbon Steel, Alloy Steel, and Stainless Steel Nuts for Bolts 
+for High Pressure or High Temperature Service, or Both 
+1. Scope 
+1.1 This specification covers a variety of carbon, alloy, and 
+martensitic stainless steel nuts in the size range ¼ through 4 in. 
+and metric M12 through MlO0 nominal. It also covers auste­
+nitic stainless steel nuts in the size range ¼ in. and Ml2 
+nominal and above. These nuts are intended for high-pressure 
+or high-temperature service, or both. Grade substitutions with­
+out the purchaser's permission are not allowed. 
+1.2 Bars from which the nuts are made shall be hot-wrought. 
+The material may be further processed by centerless grinding 
+or by cold drawing. Austenitic stainless steel may be solution 
+annealed or annealed and strain-hardened. When annealed and 
+strain hardened austenitic stainless steel is ordered in accor­
+dance with Supplementary Requirement S 1, the purchaser 
+should take special care to ensure that 8.2.2, Supplementary 
+Requirement Sl, and Appendix Xl are thoroughly understood. 
+1.3 Supplementary requirements of an optional nature are 
+provided. These shall apply only when specified in the inquiry, 
+contract, and order. 
+1.4 This specification is expressed in both inch-pound units 
+and in SI units. However, unless the order specifies the 
+applicable "M" specification designation (SI units), the mate­
+rial shall be furnished to inch-pound units. 
+1.5 The values stated in either inch-pound units or SI units 
+are to be regarded separately as standard. The values stated in 
+each system may not be exact equivalents; therefore, each 
+system shall be used independently of the other. Combining 
+values from the two systems may result in non-conformance 
+with the standard. Within the text, the SI units are shown in 
+brackets. 
+248 
+1.6 This international standard was developed in accor­
+dance with internationally recognized principles on standard­
+ization established in the Decision on Principles for the 
+Development of International Standards, Guides and Recom­
+mendations issued by the World Trade Organization Technical 
+Barriers to Trade (TBT) Committee. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+A153/A153M Specification for Zinc Coating (Hot-Dip) on 
+Iron and Steel Hardware 
+A276/A276M Specification for Stainless Steel Bars and 
+Shapes 
+A320/A320M Specification for Alloy-Steel and Stainless 
+Steel Bolting for Low-Temperature Service 
+A370 Test Methods and Definitions for Mechanical Testing 
+of Steel Products 
+A962/ A962M Specification for Common Requirements for 
+Bolting Intended for Use at Any Temperature from Cryo­
+genic to the Creep Range 
+B633 Specification for Electrodeposited Coatings of Zinc on 
+Iron and Steel 
+B695 Specification for Coatings of Zinc Mechanically De­
+posited on Iron and Steel 
+B696 Specification for Coatings of Cadmium Mechanically 
+Deposited 
+B766 Specification for Electrodeposited Coatings of Cad­
+mium 
+E112 Test Methods for Determining Average Grain Size 
+E566 Practice for Electromagnetic (Eddy Current/Magnetic 
+Induction) Sorting of Ferrous Metals 
+F606/F606M Test Methods for Determining the Mechanical 
+Properties of Externally and Internally Threaded 
+Fasteners, Washers, Direct Tension Indicators, and Rivets
+
+=== Page 301 ===
+
+ASME BPVC.II.A-2025 SA-194/SA-194M 
+F1940 Test Method for Process Control Verification to 
+Prevent Hydrogen Embrittlement in Plated or Coated 
+Fasteners 
+F1941/F1941M Specification for Electrodeposited Coatings 
+on Mechanical Fasteners, Inch and Metric 
+F2329/F2329M Specification for Zinc Coating, Hot-Dip, 
+Requirements for Application to Carbon and Alloy Steel 
+Bolts, Screws, Washers, Nuts, and Special Threaded 
+Fasteners 
+2.2 ASME Standards: 
+B 1.1 Unified Screw Threads 
+B 1.2 Gages and Gaging for Unified Inch Screw Threads 
+B 1.13M Metric Screw Threads 
+B 18.2.2 Square and Hex Nuts 
+B 18.2.4.6M Metric Heavy Hex Nuts 
+3. Terminology 
+3.1 Definitions of Terms Specific to This Standard: 
+3.1.1 Austenitic Grades-All grades with a prefix of "8" or 
+"9." 
+3.1.2 Ferritic Grades-Grades 1, 2, 2H, 2HM, 3, 6, 6F, 7, 
+7M, 43, and 16. 
+3.1.3 Lot-Unless otherwise specified (see Discussion 
+below), a lot is the quantity of nuts of a single nominal size and 
+grade produced by the same manufacturing process. 
+3.1.3.1 Discussion-When Supplementary Requirement S5 
+is invoked on the purchase order, the following definitions of a 
+lot shall apply: 
+3.1.3.2 For Grade 8 Nuts-The quantity of all the nuts of a 
+single nominal diameter and grade made from the same heat of 
+steel and made by the same manufacturing process. 
+3.1.3.3 For All Other Grade Nuts-(see 8.2 and 
+8.1.2.1)-All the nuts of a single nominal diameter and grade 
+made from the same heat number and heat treated in the same 
+batch if batch-type heat treating equipment is used or heat 
+treated in the same continuous run of not more than 8 h under 
+the same conditions if continuous-type heat treating equipment 
+is used. 
+3.1.4 Type: 
+3.1.4.1 For Grade 8 Nuts-Variations within the grade 
+designated by a letter and differentiated by chemistry and by 
+manufacturing process. 
+3.1.4.2 For Grade 6 Nuts-Variations within the grade 
+designated by the letter F as differentiated by chemical addi­
+tions made for machineability. 
+3.1.5 Series-The dimensional relationship and geometry of 
+the nuts as described in ASME B 18.2.2 for inch nuts or ASME 
+B 18.2.4.6M for metric nuts. 
+4. Ordering Information 
+4.1 The inquiry and order for bolting material and bolting 
+components under this specification shall include the following 
+as required to describe the items adequately: 
+4.1.1 Specification designation, year date, ·and grade, issue 
+date and revision letter, 
+4.1.2 Quantity, number of pieces, 
+4.1.3 Dimensions (see Section 9), 
+4.1.4 Options in accordance with 8.2.2.1, 9.1, 9.2, 10.3, and 
+12, and 
+4.1.5 Supplementary Requirements, if any. 
+4.2 Coatings-Coatings are prohibited unless specified by 
+the purchaser (see Supplementary Requirements S7 and S8). 
+When coated nuts are ordered, the purchaser should take 
+special care to ensure that Appendix X2 is thoroughly under­
+stood. 
+4.3 See Supplementary Requirement S3 for nuts to be used 
+in low temperature applications (Specification A320/A320M). 
+4.4 Proof Load Testing-See Supplementary Requirement 
+S9 for proof load testing of nuts manufactured to dimensions 
+and configurations other than those covered in Tables 3 and 4. 
+5. Common Requirements 
+5.1 Bolting material and bolting components supplied to 
+this specification shall conform to the requirements of Speci­
+fication A962/ A962M, of which nuts are considered bolting 
+components, as are bolts, studs, screws, and washers intended 
+for use in special service applications. These requirements 
+include test methods, finish, thread dimensions, marking, 
+certification, optional supplementary requirements, and others. 
+Failure to comply with the requirements of Specification 
+A962/A962M constitutes nonconformance with this specifica­
+tion. In case of conflict between the requirements of this 
+specification and Specification A962/ A962M, this specification 
+shall prevail. 
+6. Manufacture (Process) 
+6.1 Stainless steels for all types of Grade 6 and 8 nuts shall 
+be made by one of the following processes: 
+6.1.1 Electric- furnace ( with separate degassing and refining 
+optional), 
+6.1.2 Vacuum induction furnace, or 
+6.1.3 Either of the above followed by electroslag remelting, 
+or consumable-arc remelting. 
+6.2 The steel producer shall exercise adequate control to 
+eliminate excessive unhomogeneity, nonmetallics, pipe, 
+porosity, and other defects. 
+6.3 Grades 1 and 2 nuts shall be hot or cold forged, or shall 
+be machined from hot-forged, hot-rolled, or cold-drawn bars. 
+6.3.1 All Grade 1 and 2 nuts shall be stress-relieved at a 
+temperature of at least 1000 °F [538 °C] after forming or 
+machining from bar with the following exceptions: 
+6.3.1.1 Nuts made by hot forging. 
+249 
+6.3.1.2 Nuts machined from hot-forged or hot-rolled bar. 
+6.3.1.3 Nuts machined from hot-forged/hot-rolled and cold-
+finished (max 10 % reduction in area) bar. 
+6.3.1.4 Nuts machined from cold-drawn and annealed (min 
+1000 °F [538 °C]) bar. 
+6.3.2 Grade 1 and 2 nuts made by hot forging or by 
+machining from hot-forged or hot-rolled bars need not be stress 
+relieved.
+
+=== Page 302 ===
+
+TABLE 1 Chemical Requirements (Composition, percent)*#2°>/ is
+="
+Description lou Phosph ) i
+Grade and UNS Carbon anger OsPNO- | Suifur= Silicon Chromium Nickel! Molyb- Tita- Niobium” | Nitrogen Copper | Selenium |: Vanadium | Aluminum P77
+Designation nese rus denum nium >
+pod
+| Oo
+1 carbon 0.15 min | 1.00 0.040 0.050 0.40 Lae wee an tae wae tae Lae an Lae ae =
+2, 2HM, and | carbon 0.40 min [1.00 0.040 0.050 0.40 Lae Lae tae a _ wee a Lae wae wae
+. 2H .
+3 (501) 0.10 min 1.00 0.040 0.030 1.00 4.0-6.0 wae 0.40-0.65]... wae wae tae Lae tae wae
+$50100
+6 : (410) 0.08-0.15 | 1.00 0.040 0.030 1.00 }11.5-13.5 |... wee tae tee wae Lae re ae ae
+— | S41000
+| 6F | (416) 0.15 1.25 0.060 0.15 min | 1.00 12.0-14.0 }... an Lae wae Lae Lae a Lae wae
+aa $41600 ’ |
+6F (416Se) 0.15 1.25 0.060 0.060 1.00 12.0-14.0 |... wee ae ae ae wee 0.15 min |... Lae
+: $41623
+72, 7™MG Chromium- 0.38-0.48 |0.75-1.0 | 0.035 0.04 0.15-0.35 | 0.80-1.10 |... 0.15-0.25]... ae wae a a ae wae
+Molybdenum@ .
+- 43 Nickel- 0.38-0.43 | 0.60—-0.85 | 0.035 0.04 0.15-0.35 | 0.70-0.90 | 1.65-2.0 |0.20-0.30]... Lae J... tae wae a tae
+Chromium
+Molybdenum ~
+. 8, 8A (304) 0.08 2.00 0.045 0.030 | 1.00 18.0-20.0 |8.0-11.0 |... Lae ae Lae _ ee ae ae >
+$30400 Za)
+8C, 8CA (347) 0.08 2.00 0.045 0.030 1.00 17.0-19.0 |9.0-12.0 |... Lae 10 x tee ae Lae wae ae =
+$34700 | carbon | el
+nh | content, =
+a min 1.10 ie)
+8CLN, (347LN) ~  10.005- 2.00 0.045 0.030 1.00 17.0-19.0 |9.0-13.0 |... Lae 0.20-0.50, | 0.06—-0.10 ]... Lae an Lae =
+8CLNA S34751 0.020 15x >
+carbon S
+content, | es
+: min
+8CLNCuB, | S34752/ 0.005- 2.00 0.035 0.010 0.60 17.0-19.0 | 10.0-13.0 | 0.20-1.20]... 0.20-0.50, | 0.06-0.12 |} 2.50-3.50 |... Lae ae
+8CLNCuBA 0.020 15x
+| carbon
+content,
+. min |
+8M, 8MA (316) 1 0.08 2.00 0.045 0.030 1.00 16.0-18.0 | 10.0—14.0 | 2.00-3.00]... Lae Las tae ae wae ae
+$31600 | .
+8T, 8TA (321) 0.08 2.00 0.045 0.030 1.00 17.0-19.0 |9.0-12.0 |... 5 x ae 0.10 Lee ae a wee
+| S32100 ) (C+N)
+min - oe
+: 0.70 .
+max
+8F, 8FA (303) 0.15 2.00 0.20 0.15 min | 1.00 17.0-19.0 |8.0-10.0 |... f... ae ae Lae ae ae ae
+$30300
+8F, 8FA (303Se) 0.15 2.00 | 0.20 | 0.06 1.00 17.0-19.0 |8.0-10.0 |... Lae wee an 0.15 min |]... ae
+$30323
+8P, BPA (305) 0.12 }2.00 = {0.045 0.030 1.00 17.0-19.0 | 11.0-13.0 |]... wae Lae ae a Lae wae =
+$30500
+8N, 8NA (304N) 0.08 2.00 0.045 0.030 11.00 18.0-20.0 {8.0-11.0 |... wee ae 0.10-0.16 |... Lae Lae tae
+$30451 : :
+8LN, 8LNA_ | (804LN) 0.030 2.00 0.045 0.030 | 1.00 1 18.0-20.0 |8.0-11.0 |... ae Lae 0.10-0.16 |... wae tas Lae
+§30453 : |
+8MN, 8MNA | (816N) 0.08 2.00 0.045 0.030 | 1.00 16.0-18.0 | 10.0—13.0 | 2.00-3.00]... wee 10.10-0.16 |... of... Lae ae
+1S31651 | :
+
+=== Page 303 ===
+
+N 
+U1 
+...... 
+( 
+TABLE 1 Continued 
+Description Manga- Phospho- Molyb- Tita-Grade and UNS Carbon SulfurE Silicon Chromium Nickel 
+Designation nese rus denum nium 
+8MLN, (316LN) 0.030 2.00 0.045 0.030 1.00 16.0-18.0 10.0-13.0 2.00--3.00 ... 
+8MLNA S31653 
+8R,8RAF (XM19) 0.06 4.0-6.0 0.045 0.030 1.00 20.5-23.5 11.5-13.5 1.50-3.00 ... 
+S20910 
+BS, SSA (Nitronic 60) 0.10 7.0-9.0 0.060 0.030 3.5-4.5 16.0-18.0 8.0-9.0 . . . ... 
+S21800 
+8MLCuN, (254) 0.020 1.00 0.030 0.010 0.80 19.5-20.5 17.5-18.5 6.0-6.5 ... 
+8MLCuNA S31254 
+B8ML4CuN (317) 0.030 2.00 0.040 0.010 1.00 17.0-19.0 15.0-16.5 3.0-4.0 ... 
+S31730 
+9C, 9CA (AL-6XN) 0.030 2.00 0.040 0.030 1.00 20.0-22.0 23.5- 25.5 6.0-7.0 ... 
+N08367 
+16 Chromium 0.36-0.47 0.45-0.70 0.035 0.040 0.15-0.35 0.80-1.15 . . . 0.50-0.65 ... 
+Molyb-
+denum 
+Vanadium 
+A The intentional addition of Bi, Se, Te, and Pb is not permitted except for Grades 6F, BF, and 8FA, in which Se is specified and required. 
+8 Total aluminum, soluble and insoluble. 
+c Maximum, unless minimum or range is indicated. 
+0 Where ellipses ( ... ) appear in this table there is no requirement and the element need not be determined or reported. 
+E Because of the degree to which sulfur segregates, product analysis for sulfur over 0.060 % max is not technologically appropriate. 
+F As described in Specification A276/A276M. 
+0 Typical steel compositions used for this grade include 4140, 4142, 4145, 4140H, 4142H, and 4145H. 
+H Niobium (Nb) and Ccilumbium (Cb) are alternate names for element 41 in the Periodic Table of the Elements. 
+NiobiumH Nitrogen Copper Selenium Vanadium Aluminum 
+. . . 0.10-0.16 ... . .. . .. . .. 
+0.10-0.30 0.20-0.40 0.10-0.30 
+. .. 0.08-0.18 . .. . .. . .. . .. 
+. .. 0.18-0.22 0.50-1.00 . . . . .. . .. 
+. .. 0.045 4.0-5.0 . .. . .. . .. 
+. .. 0.18-0.25 0.75 . .. . . . . .. 
+. .. ... . .. . .. 0.25-0.35 0.15 8 
+'Product Analysis-Individual determinations sometimes vary from the specified limits as shown in the tables. The several determinations of any individual element in a heat may not vary both above and below the specified 
+range. Product variation limits are over for maximums, over or under for ranges, and under for minimums, unless otherwise indicated. 
+J Boron content shall be in the range 0.001-0.005. 
+> 
+"' :s: 
+!fl 
+C0 
+~ 
+~ 
+N 
+0 
+N 
+1:11 
+~ 
+I-' 
+'° -:t 
+~ 
+I-' 
+'° .i,. 
+:s:
+
+=== Page 304 ===
+
+SA-194/SA-194M ASME BPVC.II.A-2025 
+TABLE 2 Hardness RequirementsA 
+Completed Nuts Sample Nut after Treatment as in 8.1.5 
+Grade and Type Brinell 
+Hardness 
+Rockwell Hardness Brinell Rockwell 
+1 
+2 
+2H to 1 ½ in. or M36, incl 
+2H over 1 ½ in. or M36 
+2HM and 7M 
+3, 7, 16,43 
+6 and BF 
+8,8C,8CLN,8CLNCuB,8M, 
+ST, 8F, SP, SN, 
+8MN, 8LN, 8MLN, 
+8MLCuN, 8ML4CuN, 
+and9C 
+BA, SCA, 8CLNA, 
+8CLNCuBA, 8MA, STA, 
+8FA, SPA, 8NA, 8MNA, 
+8LNA, 8MLNA, 
+8MLCuNA, 
+8ML4CuNA, 
+and 9CA 
+BR, BRA, BS, and SSA 
+121 min 
+159 to 352 
+248 to 327 
+212 to 327 
+159 to 235 
+248 to 327 
+228 to 271 
+126 to 300 
+126 to .192 
+183 to 271 
+C Scale 
+24 to 35 
+35 max 
+24 to 35 
+20 to 28 
+32 max 
+25 max 
+A Where ellipses ( ... ) appear in this table there is no requirement. 
+6.4 Grades 2H, 2HM, 3, 6, 6F, 7, 7M, 43, and 16 nuts shall 
+be hot- or cold-forged or shall be machined from hot-forged, 
+hot-rolled, or cold-drawn bars and shall be heat treated to meet 
+the required mechanical properties. These grades shall be 
+uniformly reheated to the proper austenitizing temperature (a 
+group thus reheated being known as a quenching charge) and 
+quenched under substantially uniform conditions for each 
+quenching charge and tempered as shown below. Grades 2H, 
+, 2HM, 3, 7, and 7M shall be liquid quenched. Grades 6 and 6F 
+shall be quenched in liquid or inert gas. Grade 16 shall be 
+heated to a temperature range from 1700 to 1750 °F (925 to 
+955 °C) and oil quenched. 
+Minimum Tempering Temperature, °F 
+Grade [ 0 C] 
+2H 850 [455] 
+2HM 1150 [620] 
+3 1050 [565] 
+6 and 6F 1100 [595] 
+7 1100 [595] 
+7M 1150 [620] 
+43 1100 [595] 
+16 1200 [650] 
+Nuts machined from bar heat treated in accordance with this 
+specification need not be reheat-treated. For Grade 2HM and 
+7M nuts, a final stress relief shall be done at or above the 
+minimum tempering temperature after all forming, machining, 
+and tapping operations. This final stress relief may be the 
+tempering operation. 
+6.4.1 Grade 6 and 6F nuts shall be tempered for a minimum 
+of 1 h at the temperature. 
+6.5 Grades 8, 8C, 8CLN, 8CLNCuB, 8M, 8T, 8F, 8P, 8N, 
+8MN, 8R, 8S, 8LN, 8MLN, 8MLCuN, 8ML4CuN, and 9C nuts 
+shall be hot or cold forged, or shall be machined from 
+hot-forged, hot-rolled or cold-drawn bars. 
+6.6 Grades 8A, SCA, 8CLNA, 8CLNCuBA, 8MA, STA, 
+8FA, 8PA, 8NA, 8MNA, 8RA, 8SA, 8LNA, 8MLNA, 
+8MLCuNA, 8ML4CuNA, and 9CA nuts shall be hot- or 
+252 
+Hardness, Hardness B 
+B Scale min Scale, min 
+70 min 121 70 
+84min 159 84 
+179 89 
+95 min 147 79 
+84 to 99 159 84 
+201 94 
+60 min 
+60 to 90 
+88 min 
+cold-forged or shall be machined from hot-forged, hot-rolled, 
+or cold-drawn bars and the nuts shall subsequently be carbide­
+solution treated by heating them for a sufficient time at a 
+temperature to dissolve chromium carbides followed by cool­
+ing at a rate sufficient to prevent reprecipitation of the carbides. 
+7. Chemical Composition 
+7 .1 Each alloy shall conform to the chemical composition 
+requirements prescribed in Table 1. 
+8. Mechanical Requirements 
+8.1 Hardness Test: 
+8.1.1 Requirements: 
+8.1.1.1 All nuts shall meet the hardness requirements speci­
+fied in Table 2. 
+8.1.1.2 Sample nuts of Grades 1, 2, 2H, 2HM, 3, 7, 7M, 43, 
+and 16 which have been given the treatment described in 8.1.5 
+shall meet the minimum hardness specified in Table 2. 
+8.1.2 Number of Tests-(Grades 1, 2, 2H, 3, 7, 43, and 16 
+and all types of Grade 6): 
+8.1.2.1 Tests on the number of sample nuts in accordance 
+with the following table shall be performed by the manufac­
+turer following all production heat treatments: 
+Lot Size Samples 
+~~~ 1 
+801 to 8000 2 
+8001 to 22 000 3 
+Over22 000 5 
+8.1.2.2 In addition, a hardness test shall be performed by the 
+manufacturer in accordance with 8.1.5 on one sample nut 
+selected from each nominal diameter and series from each 
+grade and heat number following completion of all production 
+heat treatments. 
+8.1.3 Number of Tests, Grades 2HM and 7M: 
+8.1.3.1 Each nut shall be tested in accordance with either 
+Specification A962/A962M or with Test Methods F606/F606M
+
+=== Page 305 ===
+
+ASME BPVC.II.A-2025 SA-194/SA-194M 
+TABLE 3 Proof Load Using Threaded Mandrel - Inch Series 
+NoTE I-Proof loads are not design loads. 
+Nominal Threads Stress Area 
+Size, in. per Inch in. 2 Grade 1 
+Heavy Hex 8 Hexc 
+¼ 20 0.0316 4 130 3 820 
+5/-16 18 0.0524 6 810 6 290 
+% 16 0.0774 10 080 9 300 
+7 /1a 14 0.1063 13 820 12 760 
+½ 13 0.1419 18 450 17 030 
+9/15 12 0.182 23 660 21 840 
+% 11 0.226 29 380 27 120 
+3/4 10 0.334 43 420 40 080 
+7/a 9 0.462 60 060 55 440 
+1 8 0.606 78 780 72 720 
+11/a 8 0.790 102 700 94 800 
+1¼ 8 1.000 130 000 120 000 
+1% 8 1.233 160 200 148 000 
+1½ 8 1.492 194 000 170 040 
+¼ 20 0.0316 
+5/15 18 0,0524 
+% 16 0.0774 
+7/16 14 0.1063 
+½ 13 0.1419 
+9/15 12 0.182 
+5/a 11 0.226 
+3/4 10 0.334 
+7/s 9 0.462 
+1 8 0.606 
+11/a 8 0.790 
+1¼ 8 1.000 
+1% 8 1.233 
+1½ 8 1.492 
+Proof Load, lbfA 
+Grades 2, 2HM, 6, 6F, 7M 
+Heavy Hex 0 HexE 
+4 770 4 300 
+7 860 7 070 
+11 620 10 460 
+15 940 14 350 
+21 280 19 160 
+27 300 24 570 
+33 900 30 510 
+50 100 45 090 
+69 300 62 370 
+90 900 81 810 
+118 500 106 700 
+150 000 135 000 
+185 000 166 500 
+223 800 201 400 
+All Tyees of Grade 8, Grades 9C and 9CA 
+Hea HexH Hex' 
+2 540 2 380 
+4 190 3 930 
+6 200 5 810 
+8 500 7 970 
+11 350 10 640 
+14 560 13 650 
+18 080 16 950 
+26 720 25 050 
+36 960 34 650 
+48 480 45 450 
+63 200 59 250 
+80 000 75 000 
+98 640 92 450 
+119 360 111 900 
+Grades 2H, 3, 7, 16, 43 
+Heavy HexF 
+5 570 
+9 170 
+13 560 
+18 600 
+24 830 
+31 850 
+39 550 
+58 450 
+80 850 
+106 000 
+138 200 
+175 000 
+215 800 
+261 100 
+Hex"' 
+4 770 
+7 860 
+11 620 
+15 940 
+21 280 
+27 300 
+33 900 
+50 100 
+69 300 
+90 900 
+118 500 
+150 000 
+185 000 
+223 800 
+A See limit for proof load test in 8.2.2.1. The proof load for jam nuts shall be 46 % of the tabulated load. 
+8 Based on proof stress of 130 000 psi. 
+c Based on proof stress of 120 000 psi. 
+0 Based on proof stress of 150 000 psi. 
+E Based on proof stress of 135 000 psi. 
+F Based on proof stress of 175 000 psi. 
+0 Based on proof stress of 150 000 psi. 
+H Based on proof stress of 80 000 psi. 
+' Based on proof stress of 75 000 psi. 
+to ensure product conformance. The use of 100 % electromag­
+netic testing for hardness as an alternative to 100 % indentation 
+hardness testing is permissible when qualified by sampling 
+using indentation hardness testing. Each lot tested for hardness 
+electromagnetically shall be 100 % examined in accordance 
+with Practice E566. Following electromagnetic testing for 
+hardness, a random sample of a minimum of 100 pieces in each 
+purchase lot (as defined in 3.1.3) shall be tested by indentation 
+hardness methods. All samples must meet hardness require­
+ments to permit acceptance of the lot. If any one sample is 
+outside of the specified maximum or minimum hardness, the 
+lot shall be rejected and either reprocessed and resampled, or 
+tested 100 % by indentation hardness methods. 
+8.1.3.2 In addition, 8.1.2.2 shall be met. 
+8.1.4 Number of Tests, All Types of Grade 8-Tests on the 
+number of sample nuts in accordance with 8.1.2.1 shall be 
+performed by the manufacturer. 
+8.1.5 Test 2-In addition to the testing required by 8.1.2.1 
+the manufacturer shall also perform hardness tests on sample 
+nuts after the following test heat treatment. After completion of 
+253
+
+=== Page 306 ===
+
+SA-194/SA-194M ASME BPVC.II.A-2025 
+TABLE 4 Proof Load Using Threaded Mandrel - Metric 
+Norn I-Proof loads are not design loads. 
+Nominal Threads Stress Area Proof Load, kNA 
+Size, Pitch mm 2 Grade 1 Grades 2, 2HM, 6, 6F, 7M Grades 2H, 3, 7, 16, 43 
+mm Heavy Hex 8 Hex 0 Heavy Hex 0 HexE Heavy HexF Hex 0 
+M12 1.75 84.3 75.5 69.5 87.3 78.4 101.6 87.3 
+M14 2.0 115.0 102.9 94.9 119.0 107.0 138.6 119.0 
+M16 2.0 157.0 140.5 129.5 162.5 146.0 189.2 162.5 
+M20 2.5 245.0 219.3 202.1 253.6 227.8 295.2 253.6 
+M22 2.5 303.0 271.2 249.9 313.6 281.8 365.1 313.6 
+M24 3.0 353.0 315.9 291.2 365.4 328.3 425.4 365.4 
+M27 3.0 459.0 411.0 378.7 475.1 426.9 553.4 475.1 
+M30 3.5 561.0 502.1 462.8 580.6 521.7 676.0 580.6 
+M36 4.0 817.0 731.2 674.0 845.6 759.8 984.5 845.6 
+All Types of Grade 8, and 
+Grades 9C and 9CA 
+Nominal Size, mm Thread Pitch Stress Heavy HexH Hex' 
+Area, 
+mm 2 
+M12 1.75 84.3 46.4 43.4 
+M14 2.0 115.0 63.3 59.2 
+M16 2.0 157.0 86.4 80.9 
+M20 2.5 245.0 134.8 126.2 
+M22 2.5 303.0 166.7 156.0 
+M24 3.0 353.0 194.2 181.8 
+M27 3.0 459.0 252.5 236.4 
+M30 3.5 561.0 308.6 288.9 
+M36 4.0 817.0 449.4 420.8 
+A See limit for proof load test in 8.2.2.1 . The proof load for jam nuts shall be 46 % of the tabulated load. 
+8 Based on proof stress of 895 MPa. 
+c Based on proof stress of 825 MPa. 
+0 Based on proof stress of 1035 MPa. 
+E Based on proof stress of 930 MPa. 
+F Based on proof stress of 1205 M Pa. 
+0 Based on proof stress of 1035 MPa. 
+H Based on proof stress of 550 MPa. 
+1 Based on proof stress of 515 MPa. 
+all production heat treatments heat the specimen nuts to the 
+temperatures indicated below for 24 h, then slow cool. Test at 
+room temperature. 
+GradeA 
+1 
+2, 2H, 2HM 
+3, 7, 7M, 43 
+16 
+Temperature, 
+'F ['CJ 
+850 [455] 
+1000 [540] 
+1100 [590] 
+1200 [650] 
+ANuts intended to be coated with zinc or cadmium (marked in accordance with the 
+requirements of Supplementary Requirement SB) are not subjected to the require• 
+ments of 8.1.5 (See Appendix X2). 
+8.1.5.1 Special Requirement, Grades 2HM and 7M­
+Preparation of Grades 2HM and 7M nuts for hardness test and 
+the hardness test itself shall be performed with consideration to 
+(1) protect legibility of markings; (2) minimize exterior dimen­
+sional changes; and (3) maintain thread fit. 
+8.2 Proof Load Test: 
+8.2.l Requirements-The nuts listed in Tables 3 and 4 shall 
+be capable of withstanding the proof loads specified therein. 
+Proof load testing of nuts manufactured to dimensions and 
+configurations other than those covered in Table 3 or Table 4 is 
+only required when S9 is specified in the order or inquiry 
+otherwise the nuts shall be cross-sectional hardness tested per 
+Annex A3 of Test Methods and Definitions A370. Nuts that 
+would require a proof load in excess of 160 000 lbf or 705 kN 
+shall, unless Supplementary Requirements S 1 or S4 are in­
+voked in the purchase order or contract, be proof load tested 
+per Section 8, or cross sectional hardness tested per Annex A3 
+of Test Methods and Definitions A370. 
+8.2.2 Number of Tests: 
+8.2.2.l The manufacturer shall test the number of nuts 
+specified in 8.1.2.1 following all production heat treatments. 
+Proof Load tests prevail over hardness tests in the event a 
+conflict exists relative to minimum strength. 
+8.2.3 Test Method-The test shall be run using. a threaded 
+mandrel or a test bolt in accordance with Specification A962/ 
+A962M. 
+254 
+8.3 Cone Proof Load Test: 
+8.3.l Requirements-This test shall be performed only 
+when visible surface discontinuities become a matter of issue 
+between the manufacturer and the purchaser. Nuts in the size 
+range¼ to 1 ½in.inclusive and M12 to M36 inclusive shall be 
+proof load tested. Nuts not in this size range and all types of 
+Grade 8 nuts are not subject to this test. Nuts manufactured to 
+dimensions and configurations other than those covered by 
+Specification A962/A962M, ASME B 1.1, ASME B 1.13M, 
+ASME B 18.2.2, or ASME B 18.2.4.6M are not subject to the 
+cone proof load test. The cone proof load applied shall be 
+determined in accordance with the Cone Proof Load require­
+ments in Specification A962/A962M (tables or formulae or
+
+=== Page 307 ===
+
+ASME BPVC.ILA-2025 SA-194/SA-194M
+oo both) based upon the proof stresses shown in Table 5 and Table 10.2 If visible surface imperfections in size % through
+6 of Specification A194/A194M. 144in. and M12 through M36 and in any grade other than
+8.3.2 Number of Tests—The manufacturer shall sample and Grade 8 become a matter of issue between the manufacturer
+test the number of nuts specified in 8.1.2.1. The lot shall be and the purchaser, the cone proof load test described in 8.3
+considered acceptable if the sample nut(s) withstand(s) appli- shall be employed.
+cation of the cone proof load without failure.
+10.3 If a scale-free bright finish is required, this shall be
+9. Dimensions specified on the purchase order.
+9.1 Nuts shall be hexagonal in shape, and in accordance
+with the dimensions for the hex or heavy hex series, as . Retests
+ISD LOM (for met B its). Unless oth nus) OF are 11.1 Provisions for retests by the purchaser and his repre-
+2A, etric nuts). Unless otherwise specified, tat ‘Ged j 1 ; .
+American National Standard Heavy Hex Series shall be used °°"@#IVe ate specified in Supplementary Requirement S2
+and nuts shall be either double chamfered or have a machined 12. Certification
+a or forged washer face, at the option of the manufacturer, and, °
+conform to the angularity requirements of ASME B 18.2.2 (for 12.1 In addition to the requirements of Specification A962/
+inch nuts) or ASME B 18.2.4.6M (for metric nuts). A962M, the certification shall include the results of the
+9.2 Unless otherwise specified, threads shall be in accor- | Chemical analysis, macroetch examination (Carbon and Alloy
+dance with ASME B 1.1 or ASME B 1.13M, and shall be Steels Only), mechanical tests, and the minimum tempering
+gauged in accordance with ASME B 1.2 and ASME B 1.13M __ temperature for nuts of Grades 2H, 2HM, 3, 6, 6F, 7, 7M, and
+as described in 9.2.1 and 9.2.2. — 43.
+9.2.1 Nuts up to and including 1 in. nominal size shall be , |
+UNC Series Class 2B fit. Metric nuts up to and including M24 ~=13. Product Marking |
+nominal size shall be coarse thread series tolerance 6H. , ,
+9.2.2 Nuts over 1 in. nominal size shall be either UNC 13.1 In addition to the requirements of Specification A962/
+Series Class 2B fit or 8 UN Series Class 2B fit. Unless A962M, nuts shall be legibly marked on one face with marking
+otherwise specified, the 8 UN series shall be furnished. Metric | TePtesenting the grade, type, and applicable manufacturing
+nuts over M24 nominal size shall be coarse thread series | Process shown in Table 7. Marking of wrench flats or bearing
+| tolerance 6H. surfaces is not permitted unless agreed upon between manu-
+| facturer and purchaser.
+Note 1—Modification of thread dimensions may result in loss of load
+carrying ability.
+14. Keywords
+10. Workmanship, Finish, and Appearance 14.1 bolting; chemical analysis; coated; marking on bolting
+10.1 Nuts shall be free of defects and shall be good components; nuts; plated
+commercial finish.
+TABLE 5 Proof Stress Using 120° Hardened Steel Cone — Inch
+Proof Stress — psi, Minimum
+. Type Grade 1 Grades 2, Grades 2H
+2HM, 6, 3, 7, 43, & 16
+_ 6F & 7M
+Hex : 120 000 135 000 150 000
+, Heavy Hex | 130 000 | 150 000 175 000
+255
+
+=== Page 308 ===
+
+SA-194/SA-194M ASME BPVC.II.A-2025 
+TABLE 6 Proof Stress Using 120° Hardened Steel Cone - Metric 
+Proof Stress - MPa, Minimum 
+Type Grade 1 Grades 2, Grades 2H 
+2HM, 6, 3, 7, 43, & 16 
+6F & 7M 
+Hex 825 930 1035 
+Heavy Hex 895 1035 1205 
+TABLE 7 Marking of NutsA 
+Nuts Hot- Nuts Machined Nuts Manu-
+Grade and Forged or from Bar factured in 
+Type Cold- Stock Accordance 
+Punched with 6.6 
+1 1 1B 
+2 2 2B 
+2H 8 2H 2HB 
+2HM 8 • 0 2HM 2HMB 
+3 3 3B 
+6 6 6B 
+6F 6F 6FB 
+7 7 7B 
+?Lo 7L ?BL 
+7MB,C 7M 7MB 
+7ML 8 • 0 ?ML 7MLB 
+43 43 43B 
+43L 0 43L 43LB 
+8 8 BB BA 
+BC BC 8CB SCA 
+8CLNCuB 8CLNCuB 8CLNCuBB 8CLNCuBA 
+8CLN 8CLN BCLNB BCLNA 
+BM BM 8MB 8MA • 
+BT BT 8TB STA 
+BF BF 8FB 8FA 
+BP BP 8PB SPA 
+8N 8N 8NB 8NA 
+8MN 8MN 8MNB BMNA 
+BR BR 8RB BRA 
+BS BS 8SB BSA 
+8LN 8LN 8LNB BLNA 
+8MLN 8MLN 8MLNB 8MLNA 
+8MLCuN BMLCuN 8MLCuNB 8MLCuNA 
+8ML4CuN 8ML4CuN 8ML4CuNB 8ML4CuNA 
+9C 9C 9CB 9CA 
+16 16 16B 
+AWhere ellipses { ... ) appear in this table there is no requirement 
+8The letters H and M indicate heat-treated nuts {see Section 6). 
+0 An underline as a marking requirement for grades 2HM and 7M has been 
+removed but is permitted. 
+0 see Supplementary Requirement S3. 
+SUPPLEMENTARY REQUIREMENTS 
+One or more of the following supplementary requirements shall be applied only when specified by 
+the purchaser in the inquiry, contract, or order. Details of these supplementary requirements shall be 
+agreed upon in writing by the manufacturer and purchaser. Supplementary requirements shall in no 
+way negate any requirement of the specification itself. 
+Sl. Strain-Hardened Austenitic Steel Nuts 
+Sl.1 Strain hardened Grades 8, SC, ST, SM, SF, SP, SN, or 
+8MN nuts may be specified. When Supplementary Require­
+ment S 1 is invoked in the order, nuts shall be machined from 
+cold drawn bars or shall be cold forged to shape. No subse­
+quent heat treatment shallbe performed on the nuts. Nuts made 
+256 
+in accordance with this requirement shall be proof load tested 
+in accordance with 8.2.2.1 and shall withstand the proof load 
+specified in Table S 1.1 and Table S 1.2. Testing nuts requiring 
+proof loads over 160 000 lbf or 705 kN is only required when 
+Supplementary Requirement S4 is invoked. The hardness 
+limits of Table 2 do not apply to strain hardened nuts. Nuts
+
+=== Page 309 ===
+
+ASME BPVC.II.A-2025 SA-194/SA-194M 
+TABLE S1 .1 Proof Load Testing of Strain Hardened Nuts Using Threaded Mandrel - Inch Series 
+Norn 1-Proof loads are not design loads. 
+Proof Load, lbfA 
+Nominal Threads Stress Area, All Types All Types 
+Size, in. per in. in. 2 of Grade 8 of Grade 8 
+(strain hardened) (strain hardened) 
+Hea Hex 0 Hex 8 
+¼ 20 0.0316 3 950 3 480 
+5/15 18 0.0523 6 550 5 760 
+3/a 16 0.0774 9 675 8 510 
+7/15 14 0.1063 13 290 11 690 
+½ 13 0.1419 17 740 15 610 
+9/is 12 0.182 22 750 20 020 
+5/a 11 0.226 28 250 24 860 
+¾ 10 0.334 41 750 36 740 
+7/s 9 0.462 53 130 46 200 
+1 8 0.606 69 690 60 600 
+11/a 8 0.790 82 950 75 050 
+1¼ 8 1.000 105 000 95 000 
+1% 8 1.233 123 300 110 970 
+1½ 8 1.492 149 200 134 280 
+A The proof load for jam nuts shall be 46 % of the tabulated value. 
+8 Based on proof stress of 110 000 psi up to¾ in.; 100 000 psi 7 /a to 1 in.; 95 000 psi 11/a to 1¼ in.; 90 000 psi 1% to 1½ in. 
+c Based on proof stress of 125 000 psi upto¾in.; 115 000 ps\7/ato 1 in.; 105 000 psi 11/ato 1¼in.; 100000 psi 1% to 1½in. 
+TABLE S1 .2 Proof Load Testing of Strain Hardened Nuts Using Threaded Mandrel-Metric 
+Norn I-Proof loads are not design loads. 
+Proof Load, kNA 
+Nominal Thread Stress Area, All Types All Types 
+Size, mm Pitch mm 2 of Grade 8 of Grade 8 
+(strain hardened) (strain hardened) 
+Heav Hex 0 Hex 8 
+M12 1.75 84.3 72.5 64.1 
+M14 2.0 115.0 98.9 87.4 
+M16 2.0 157.0 135.0 119.3 
+M20 2.5 245.0 210.9 186.2 
+M22 2.5 303.0 240.9 209.0 
+M24 3.0 353.0 280.6 243.5 
+M27 3.0 459.0 332.7 300.6 
+M30 3.5 561.0 406.7 367.5 
+M36 4.0 817.0 563.7 506.5 
+A The proof load for jam nuts shall be 46 % of the tabulated value. 
+8 Based on proof stress of 760 MPa up to M20 mm; 690 MPa M22 to M24 mm; 655 MPa M27 to M30; and 620 MPa for M36. 
+c Based on proof stress of 860 MPa up to M20 mm; 795 MPa M22 to M24 mm; 725 MPa M27 to M30 mm; and 690 MPa for M36. 
+made in accordance with this requirement shall be marked with 
+the Grade symbol underlined. 
+S2. Retests by Purchaser's Representative 
+S2.1 The purchaser's representative may select two nuts per 
+keg (200-lb unit [90-kg]) for sizes 5/s in. and M16 and smaller, 
+one nut per keg for sizes over 5/s in. and Ml6 up to and 
+including 1 ½ in. and M36, and one nut per every two kegs for 
+sizes larger than 1 ½ in. and M36, which shall be subjected to 
+the tests specified in Section 8. 
+S3. Low-Temperature Requirements for Grade 7, Grade 
+7M, and Grade 43 Nuts 
+S3.l When low-temperature requirements are specified for 
+Grade 7 nuts, the Charpy test procedures and requirements as 
+defined in Specification A320/A320M for Grade L7 shall 
+apply. When low-temperature requirements are specified for 
+Grade 7M nuts, the Charpy test procedures and requirements as 
+257 
+defined in Specification A320/A320M for Grade L7M shall 
+apply. When low-temperature requirements are specified for 
+Grade 43 nuts, the Charpy test procedures and requirements as 
+defined in Specification A320/A320M for Grade L43 shall 
+apply. Charpy specimens may be taken from a sample nut, nut 
+blank, or may be taken from separate test samples of the same 
+heat processed through heat treatment with the nuts for which 
+the test is to apply. Impact testing is not required when the bar 
+stock or nut is smaller than 5/s in. [16 mm] in diameter. 
+S3.2 An "L" shall be added to the marking, as shown in 
+Table 7, for nuts so tested. 
+S4. Proof Load Tests of Large Nuts 
+S4.1 Proof load testing of nuts requiling proof loads of over 
+160 000 lbf or 705 kN is required. Testing shall be performed 
+in accordance with 8.2 to the loads required in Table S4.1 and 
+Table S4.2. The maximum load will be based entirely on the 
+equipment available.
+
+=== Page 310 ===
+
+SA-194/SA-194M ASME BPVC.II.A-2025 
+TABLE S4.1 Proof Load for Large Heavy Hex Nuts - lnchA 
+Nominal 
+Size, in. 
+1% 
+1¾ 
+Fla 
+2 
+2¼ 
+2½ 
+2¾ 
+Threads 
+per in. 
+8 
+8 
+8 
+8 
+8 
+8 
+8 
+Stress Area, 
+in. 2 
+1.78 
+2.08 
+2.41 
+2,77 
+3,56 
+4.44 
+5.43 
+Grade 1 Heavy Hex 
+231 400 
+270 400 
+313 300 
+360 100 
+462 800 
+577 200 
+705 900 
+Proof Load, lbf 8 
+Grades 2, 2HM, 6, 6F, 7M 
+Heav Hex 
+267 000 
+312 000 
+361 500 
+415 500 
+534 000 
+666 000 
+814 500 
+Grades 2H, 3, 7, 43, 16 
+Heav Hex 
+311 500 
+364 000 
+421 800 
+484 800 
+623 000 
+777 000 
+950 250 
+A ASME B18.2.2 in the size range over 1 ½ in. provides dimensions only for heavy hex nuts. Refer to 8.3.1. 
+8 Proof loads for nuts of larger dimensions or other thread series may be calculated by multiplying the thread stress area times the proof stress in the notes to Table 3 
+or Table S1, 1, The proof load for jam nuts shall be 46 % of the tabulated load. 
+TABLE S4.2 Proof Load for Large Heavy Hex Nuts - MetricA 
+Nominal Thread Stress Area, Proof Load, kN 8 
+Size, Pitch mm 2 Grade 1 Heavy Hex Grades 2, 2HM, 6, 6F, 7M Grades 2H, 3, 7, 43, 16 
+mm Heav Hex Heav Hex 
+M42 4.5 1120 1002.4 1159.2 1349,6 
+M48 5 1470 1315,7 1521.4 1771.4 
+M56 5,5 2030 1816,9 2101.0 2446,2 
+M64 6 2680 2398,6 2773,8 3229.4 
+M72 6 3460 3096,7 3581, 1 4169,3 
+A ASME B 18.2.4.6M in the size range over M36 provides dimensions only for heavy hex nuts. Refer to 7.3.1. 
+8 Proof loads for nuts of larger dimensions or other thread series may be calculated by multiplying the thread stress area times the proof stress in the notes to Table 4 
+or Table S1 .2. The proof load for jam nuts shall be 46 % of the tabulated load. 
+SS. Control of Product by Heat Number 
+S5.1 When control of nuts by actual heat analysis is 
+required and this supplementary requirement is specified, the 
+manufacturer shall identify the completed nuts in each ship­
+ment by the actual heat number. When this supplementary 
+requirement is specified, a certificate including the results of 
+the actual production tests of each test lot together with the heat 
+chemical analysis shall be furnished by the manufacturer. 
+S6. Grain Size Requirements for Non H Grade Austenitic 
+Steels Used Above 1000 °F 
+S6.l For design metal temperatures above 1000 °F [540 
+°C], the material shall have a grain size of No. 7 or coarser as 
+determined in accordance with Test Methods Ell2. The grain 
+size so determined shall be reported on the Certificate of Test. 
+S7. Coating on Nuts 
+S7.1 It is the purchaser's responsibility to specify in the 
+purchase order all information required by the coating facility. 
+Examples of such information may include but are not limited 
+to the following: 
+S7.l.1 Reference to the appropriate coating specification 
+and type, thickness, location, modification to dimensions, and 
+hydrogen embrittlement relief. 
+258 
+Norn S7.1-Modification of thread dimensions may result in loss of 
+load carrying ability. 
+S7.l.2 Reference to Specifications A153/A153M, B633, 
+B695, B696, B766, F1941/F1941M, F2329/F2329M, or Test 
+Method F1940, or other standards. 
+S8. Marking Coated Nuts 
+S8.1 Nuts coated with zinc shall have ZN marked after the 
+grade symbol. Nuts coated with cadmium shall have CD 
+marked after the grade symbol. 
+Norn SS.1-As an example, tbe marking for zinc-coated 2H bolting 
+components will now be 2HZN rather than 2H*. 
+S9. Proof Load Testing 
+S9.1 Proof load tests of nuts made to dimensions, thread 
+pitch, and configurations other than those covered in Table 3 or 
+Table 4 shall be made using loads agreed upon between the 
+manufacturer and the purchaser. 
+S10. 100 % Hardness Testing of Grade 2HM and 7M 
+S 10.1 Each nut shall be tested for hardness by indentation 
+method and shall meet the requirements specified in Table 2.
+
+=== Page 311 ===
+
+ASME BPVC.II.A-2025 SA-194/SA-194M 
+APPENDIXES 
+(Nonmandatory Information) 
+Xl. STRAIN HARDENING OF AUSTENITIC STEELS 
+Xl.1 Strain hardening is the increase in strength and hard­
+ness that results from plastic deformation below the recrystal­
+lization temperature (cold work). This effect is produced in 
+austenitic stainless steels by reducing oversized bars to the 
+desired final size by cold drawing or other process. The degree 
+of strain hardening achievable in any alloy is limited by its 
+strain hardening characteristics. In addition, the amount of 
+strain hardening that can be produced is further limited by the 
+variables of the process, such as the total amount of cross-
+section reduction, die angle and bar size. In large diameter bars, 
+for example, plastic deformation will occur principally in the 
+outer regions of the bar, so that the increased strength and 
+hardness due to strain hardening is achieved predominantly 
+near the surface of the bar. That is, the smaller the bar, the 
+greater the penetration of strain hardening. Thus, the mechani­
+cal properties of a given strain hardened bolting component are 
+dependent not just on the alloy, but also on the size of bar from 
+which it is machined. 
+X2. COATINGS AND APPLICATION LIMITS 
+X2.l Use of coated bolting components at temperatures 
+above approximately one-half the melting point (Fahrenheit or 
+Celsius) of the coating is not recommended unless consider­
+ation is given to the potential for liquid and solid metal 
+embrittlement, or both. The melting point of elemental zinc is 
+approximately 780 °F [415 °C]. Therefore, application of zinc 
+coated bolting components should be limited to temperatures 
+less than 390 °F [210 °C]. The melting point of cadmium is 
+approximately 600 °F [320 °C]. Therefore, application of 
+cadmium coated bolting components should be limited to 
+temperatures less than 300 °F [160 °C]. 
+259

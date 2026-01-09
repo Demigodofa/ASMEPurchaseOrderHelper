@@ -1,0 +1,119 @@
+ASME BPVC.II.A-2025 SA-453/SA-453M 
+TABLE 1 Continuous Heat-Treatment Charge Sizes 
+Diameter, in. [mm] 
+To 1%[44] 
+Over 1% [44] to 2½ [63] 
+Over 2½ [63] 
+TABLE 2 Lot Sizes 
+Weight, lb [kg] 
+3000 [1400] 
+6000 [2700] 
+12000 [5400] 
+Diameter, in. [mm] Maximum Lot Size, lb [kg] 
+1 ½ [38] and under 
+Over 1½ [38] to 1% [44], incl 
+Over 1% [44] to 2½ [63], incl 
+Over 2½ [63] 
+4.1.10 Test location option, if any, 
+4.1.11 Rejection option, if any, and 
+200 [90] 
+300 [140] 
+600 [270] 
+20 pieces 
+4.1.12 If stress-rupture testing is not required, except for 
+Grade 660 Class D and Grade 668 (see 8.2.1). 
+5. Common Requirements 
+5.1 Bolting materials and bolting components supplied to 
+this specification shall conform to the requirements of Speci­
+fication A962/ A962M. These requirements include test 
+methods, finish, thread dimensions, marking, certification, 
+optional supplementary requirements, and others. Failure to 
+comply with the requirements of Specification A962/A9.62M 
+constitutes nonconformance with this specification. In case of 
+conflict between the requirements of this specification and 
+Specification A962/ A962M, this specification shall prevail. 
+6. Materials and Manufacture 
+6.1 Finishing Process: 
+6.1.1 Threads may be formed by machining or rolling. 
+Threads may be formed after precipitation heat treatment or 
+after solution anneal but prior to precipitation heat treatment. 
+Type designations are as follows: 
+Type Ml-threads formed by machining after precipitation 
+heat treatment. 
+Type M2-threads formed by machining after solution 
+anneal but prior to precipitation heat treatment. 
+Type RI-threads formed by rolling after precipitation heat 
+treatment. 
+Type R2-threads formed by rolling after solution anneal 
+but prior to precipitation heat treatment. 
+When not specified by the purchaser, the type supplied shall 
+be the option of the manufacturer. 
+6.2 Heat Treatment-Each grade and class shall be heat 
+treated as prescribed in Table 4. 
+7. Chemical Composition 
+7 .1 Each alloy shall conform to the chemical composition 
+requirements prescribed in Table 3. 
+8. Mechanical Properties 
+8.1 Tension Test: 
+8.1.1 Requirements-Bolting material in each heat­
+treatment charge shall conform to the room-temperature tensile 
+requirements in Table 5. 
+8.1.2 Number of Specimens: 
+8.1.2.1 Heat-Treated Bars-When not more than two sizes 
+of bars are heat treated in the same load, one tension test shall 
+be made from each size in each heat of material in the 
+heat-treatment charge (see 3.1.1). When more than two sizes of 
+bars are treated in the same charge, one tension test shall be 
+made from one bar of each of the two largest diameters from 
+each heat of material in the heat-treating charge. 
+8.1.2.2 Finished Bolting Components-One tension test 
+shall be made if the lot consists of parts of the same nominal 
+diameter. If the lot consists of components of more than one 
+nominal diameter, one tension test shall be made from each 
+nominal diameter of each heat involved in the lot (see Section 
+3). 
+8.2 Stress-Rupture Test: 
+8.2.1 Requirements-Bolting material shall conform: to the 
+stress-rupture requirements prescribed in Table 6 for design 
+temperatures above 800 °F [427 °C]. Bolting material not 
+stress-rupture tested shall be permanently stamped NR. Grade 
+660 Class D and Grade 668 do not require stress-rupture and 
+shall be stamped NR. 
+8.2.2 The number of specimens shall be the same as the 
+required number of tension test specimens. 
+8.2.3 The test location and orientation shall be the same as 
+that required for the tension test specimens. 
+8.2.4 Test Method: 
+8.2.4.1 The rupture test shall be performed in accordance 
+with Practice El39. 
+NOTE 1-Fig. 1 is taken from Test Method E292. This is to facilitate 
+detection of notch sensitivity. The specimen found in Practice El39 does 
+not include a notch. The specimen in Fig. 1 is to be used only to determine 
+if the material is notch sensitive. Actual testing is to Practice E139, not 
+Test Method E292, so the additional test data required by Test Method 
+E292 is not to be determined or reported. 
+8.2.4.2 A combination smooth and notched test specimen, 
+machined to the dimensions prescribed in Fig. 1 and Table 7, 
+shall be tested in accordance with the stress-rupture require­
+ments prescribed in Table 6. The test shall be continued to 
+rupture. The rupture shall occur in the smooth section of the 
+bar. 
+8.2.4.3 As an alternative procedure and, when specifically 
+approved by the purchaser, separate smooth and notched test 
+specimens, machined from adjacent sections of the same piece, 
+with gage sections conforming to the respective dimensions of 
+Table 7, may be tested under the above conditions. The notched 
+specimen need not be tested to rupture but shall not rupture in 
+less time than the companion smooth specimen. 
+8.2.4.4 When the minimum specified time to rupture in 
+Table 6 has been achieved, incremental loading may be used to 
+accelerate the time to rupture. At intervals of 8 to 16 h, 
+preferably 8 to 10 h, the stress shall be increased in increments 
+of 5000 psi [34.5 MPa]. Rupture location, and elongation 
+requirements shall be as prescribed in Table 6, 8.2.4.2, and 
+8.2.4.3. 
+8.3 Hardness Test: 
+757 
+8.3.1 Requirements-Bolting material shall conform to the 
+room temperature hardness requirements prescribed in Table 5. 
+8.3.2 Number of Tests: 

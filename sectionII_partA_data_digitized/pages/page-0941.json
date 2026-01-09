@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 143,
+  "globalPageIndex": 941,
+  "width": 796.8,
+  "height": 618.6,
+  "text": "co \n.is, \nJ-', \n( ( \nMinimum average value of set of three specimens, ft-lb! [J]A \nMinimum value of one specimen, ft lbf [J] \nGrades 1 and 1 a \nat +40 \u00b0F \n[4.4 \u00b0C] \n15 [20] \n10 [14] \nA Not more than one specimen from a set may be below this value. \nTABLE 3 Charpy Impact Requirements \nGrades 2 Class 1 \nand 3 Class 1 \nat +40 \u00b0F \n[4.4 \u00b0C] \n30 [41] \n25 [34] \nGrades 2 Class 2 \nand 3 Class 2 \nat +70 \u00b0F \n[21 \u00b0C] \n35 [48] \n30 [41] \nGrades 4N \n{all classes) \nand 5 {all classes) \nat -20 \u00b0F \n[-29 \u00b0C] \n35 [48] \n30 [41] \nGrade 22, \nClass 3, \nand Grades 3V \nand 3VCb \nat 0 \u00b0F \n[-18 \u00b0C] \n40 [54] \n35 [50] \nGrade 6 \nClasses 1, 2, 3, \nand 4 \nat -75 \u00b0F \n[-59 \u00b0C] \n20 [27] \n15 [20] \nGrade 22 \nClasses 4, 5, 6, \nand 7 \nat -75 \u00b0F \n[-60 \u00b0C] \n40 [55] \n35 [50] \n') \ne; \na: \n~ \n0:, \n~ \n~ \nN c::, \nN \n1:11 \n~ \n1:11 c::, \n!XI ....... \n~ \n1:11 c::, \n!XI \na: ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0941.json",
+  "tabulaTablesCsv": "tables_tabula/page-0941.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0941.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 836,
+  "bestTextAlphaRatio": 0.4007
+}

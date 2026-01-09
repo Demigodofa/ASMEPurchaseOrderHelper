@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 92,
+  "globalPageIndex": 92,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "SA-6/SA-6M ASME BPVC.II.A-2025 \nTABLE A1.15 Permitted Variations in Waviness for Standard \nFlatness Plates \nNoTE !-Waviness denotes the maximum deviation of the surface of \nthe plate from a plane parallel to the surface of the point of measurement \nand contiguous to the surface of the place at each of the two adjacent wave \npeaks, when the plate is resting on a flat horizontal surface, as measured \nin an increment of less than 4000 mm of length. The permitted variation \nin waviness is a function of the permitted variation from a flat surface as \nobtained from Table Al.13 or Table Al.14, whichever is applicable. \nNoTE 2-Plates must be in a horizontal position on a flat surface when \nwaviness is measured. \nPermitted Variation Permitted Variations in Waviness, mm, When Number of from Waves a Flat Surface in 4000 mm is (from Table \nTableA1.13 or 2 3 4 5 6 7 TableA1.14), mm \n8 8 6 5 3 3 2 2 \n10 10 8 5 5 3 2 2 \n11 11 8 6 5 3 3 2 \n13 13 10 8 5 5 3 2\u00b7 \n14 14 11 8 6 5 3 2 \n16 16 13 10 6 5 3 2 \n17 17 13 10 8 5 5 2 \n19 19 14 11 8 6 5 2 \n21 21 16 11 8 6 5 2 \n22 22 17 13 10 6 5 2 \n24 24 17 13 10 8 6 5 \n25 25 19 14 11 8 6 5 \n29 29 22 16 13 10 6 5 \n32 32 24 17 13 10 8 6 \n35 35 27 19 14 11 8 6 \n38 38 29 22 16 13 10 6 \n41 41 32 24 17 13 10 8 \n44 44 33 25 19 14 11 8 \n48 48 37 27 21 14 11 8 \n51 51 38 29 22 16 13 10 \n54 54 41 30 22 17 13 10 \n57 57 43 32 24 17 14 10 \n60 60 46 33 25 19 14 11 \n64 64 48 37 27 21 14 11 \n67 67 51 38 29 21 16 11 \n70 70 52 40 29 22 16 13 \n73 73 56 41 30 24 17 13 \n76 76 57 43 32 24 17 14 \n79 79 60 44 33 25 19 14 \n40 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0092.json",
+  "tabulaTablesCsv": "tables_tabula/page-0092.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0092.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1547,
+  "bestTextAlphaRatio": 0.4273
+}

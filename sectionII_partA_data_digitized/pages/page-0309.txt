@@ -1,0 +1,78 @@
+ASME BPVC.II.A-2025 SA-194/SA-194M 
+TABLE S1 .1 Proof Load Testing of Strain Hardened Nuts Using Threaded Mandrel - Inch Series 
+Norn 1-Proof loads are not design loads. 
+Proof Load, lbfA 
+Nominal Threads Stress Area, All Types All Types 
+Size, in. per in. in. 2 of Grade 8 of Grade 8 
+(strain hardened) (strain hardened) 
+Hea Hex 0 Hex 8 
+¼ 20 0.0316 3 950 3 480 
+5/15 18 0.0523 6 550 5 760 
+3/a 16 0.0774 9 675 8 510 
+7/15 14 0.1063 13 290 11 690 
+½ 13 0.1419 17 740 15 610 
+9/is 12 0.182 22 750 20 020 
+5/a 11 0.226 28 250 24 860 
+¾ 10 0.334 41 750 36 740 
+7/s 9 0.462 53 130 46 200 
+1 8 0.606 69 690 60 600 
+11/a 8 0.790 82 950 75 050 
+1¼ 8 1.000 105 000 95 000 
+1% 8 1.233 123 300 110 970 
+1½ 8 1.492 149 200 134 280 
+A The proof load for jam nuts shall be 46 % of the tabulated value. 
+8 Based on proof stress of 110 000 psi up to¾ in.; 100 000 psi 7 /a to 1 in.; 95 000 psi 11/a to 1¼ in.; 90 000 psi 1% to 1½ in. 
+c Based on proof stress of 125 000 psi upto¾in.; 115 000 ps\7/ato 1 in.; 105 000 psi 11/ato 1¼in.; 100000 psi 1% to 1½in. 
+TABLE S1 .2 Proof Load Testing of Strain Hardened Nuts Using Threaded Mandrel-Metric 
+Norn I-Proof loads are not design loads. 
+Proof Load, kNA 
+Nominal Thread Stress Area, All Types All Types 
+Size, mm Pitch mm 2 of Grade 8 of Grade 8 
+(strain hardened) (strain hardened) 
+Heav Hex 0 Hex 8 
+M12 1.75 84.3 72.5 64.1 
+M14 2.0 115.0 98.9 87.4 
+M16 2.0 157.0 135.0 119.3 
+M20 2.5 245.0 210.9 186.2 
+M22 2.5 303.0 240.9 209.0 
+M24 3.0 353.0 280.6 243.5 
+M27 3.0 459.0 332.7 300.6 
+M30 3.5 561.0 406.7 367.5 
+M36 4.0 817.0 563.7 506.5 
+A The proof load for jam nuts shall be 46 % of the tabulated value. 
+8 Based on proof stress of 760 MPa up to M20 mm; 690 MPa M22 to M24 mm; 655 MPa M27 to M30; and 620 MPa for M36. 
+c Based on proof stress of 860 MPa up to M20 mm; 795 MPa M22 to M24 mm; 725 MPa M27 to M30 mm; and 690 MPa for M36. 
+made in accordance with this requirement shall be marked with 
+the Grade symbol underlined. 
+S2. Retests by Purchaser's Representative 
+S2.1 The purchaser's representative may select two nuts per 
+keg (200-lb unit [90-kg]) for sizes 5/s in. and M16 and smaller, 
+one nut per keg for sizes over 5/s in. and Ml6 up to and 
+including 1 ½ in. and M36, and one nut per every two kegs for 
+sizes larger than 1 ½ in. and M36, which shall be subjected to 
+the tests specified in Section 8. 
+S3. Low-Temperature Requirements for Grade 7, Grade 
+7M, and Grade 43 Nuts 
+S3.l When low-temperature requirements are specified for 
+Grade 7 nuts, the Charpy test procedures and requirements as 
+defined in Specification A320/A320M for Grade L7 shall 
+apply. When low-temperature requirements are specified for 
+Grade 7M nuts, the Charpy test procedures and requirements as 
+257 
+defined in Specification A320/A320M for Grade L7M shall 
+apply. When low-temperature requirements are specified for 
+Grade 43 nuts, the Charpy test procedures and requirements as 
+defined in Specification A320/A320M for Grade L43 shall 
+apply. Charpy specimens may be taken from a sample nut, nut 
+blank, or may be taken from separate test samples of the same 
+heat processed through heat treatment with the nuts for which 
+the test is to apply. Impact testing is not required when the bar 
+stock or nut is smaller than 5/s in. [16 mm] in diameter. 
+S3.2 An "L" shall be added to the marking, as shown in 
+Table 7, for nuts so tested. 
+S4. Proof Load Tests of Large Nuts 
+S4.1 Proof load testing of nuts requiling proof loads of over 
+160 000 lbf or 705 kN is required. Testing shall be performed 
+in accordance with 8.2 to the loads required in Table S4.1 and 
+Table S4.2. The maximum load will be based entirely on the 
+equipment available. 

@@ -1,0 +1,72 @@
+ASME BPVC.II.A-2025 SA-556/SA-556M (ASTM A556/A556M) 
+SUPPLEMENTARY REQUIREMENTS 
+The following supplementary requirement or requirements may become a part of the specification 
+when specified in the inquiry or invitation to bid, and purchase order or contract. These requirements 
+shall not be considered, unless specified in the order, in which even the necessary tests shall be made 
+by the manufacturer prior to the bending or shipment of the tubing. 
+Sl. Nondestructive Ultrasonic Test-Round Tubing (Com­
+mercial Grade) 
+S 1. 1 The manufactuer shall test the tubing by an ultrasonic 
+nondestructive test for detection of harmful faults and sound­
+ness. 
+Sl.1.1 Ultrasonic testing shall be performed using pulse­
+echo shear wave techniques to locate longitudinal or circum­
+ferential defects, or both. 
+Sl.1.2 Tubes being tested shall be reasonably straight for 
+proper rotation. The outside and inside diameter surfaces of the 
+tubes shall be free of dirt, grit, grease, oil, loose scale, or other 
+materials which tend to attenuate, scatter, or reflect ultrasonic 
+signals. 
+S 1.1.3 Tubing shall be inspected by feeding spirally past a 
+suitable transducer with rotation of material to be toward the 
+transducer. 
+Sl.1.4 Suitable ultrasonic instrumentation shall be used to 
+Sl.1.6.4 The recording equipment, if agreed upon, shall be 
+adjusted to clearly indicate the reference notch or notches and 
+also whether or not any reflected signals actuate the alarm 
+system. 
+Sl.1.7 A reference standard of an appropriate length (suffi­
+cient to allow in-line feeding) shall be prepared from a 
+randomly selected tube of the same size, grade, and physical 
+condition as the material to be tested. 
+S 1.1.8 The reference standard shall contain machined 
+notches as follows: Notch to be 10 % of wall thickness in depth 
+but not less than 0.004 in. [0.10 mm]. Tolerance on depth 
++0.0000 in. or -0.001 in. [0.03 mm]. 
+S 1.1.8.1 Notch Locations and Orientation-Notches shall 
+be located on outside or inside diameter, or both, and shall be 
+oriented to lie in a longitudinal direction for radial inspection 
+or circumferentially, or both, for transverse inspection. The 
+notch or notches shall be located in the reference tube in such 
+a manner that no physical or acoustical interference exists 
+between notches or end of reference tube. These various 
+clearly distinguish the artificial defects (hereafter called refer- locations and orientations will be classified as follows: 
+ence notches) described later. Automatic electronic monitoring Type A-Longitudinal outside diameter for radial inspection, 
+of the reflected ultrasonic signals shall be provided in such Type B-Longitudinal inside diameter for radial inspection, 
+manner that any naturally occurring defects which present an Type C-Circumferential outside diameter for transverse 
+ultrasonic reflection equal to or greater than the reference inspection, and 
+standard(s) shall trigger audible and visible alarms. Type D-Circumferential inside diameter for transverse in-
+Sl.1.5 Instrument calibration as described herein shall be spection. 
+accomplished with the reference standard being rotated and fed Sl.1.8.2 Standard Nomenclature-The size, location, and 
+orientation of the reference notches, which become a part of a past th.e transducer at the same approximate rate at which the particular order covered under this specification, shall be tubing under test will be tested. specified. 
+Sl.1.6 The following factors will be adjusted so as to Sl.1.9 The basic procedure will be to rotary feed all the 
+achieve optimum instrument distinction between the reference tubes in the order past the search unit (transducer) with the feed 
+_nC>t:cl~es) and plain portion of tubing when calibrating equip- helix less than the scanning width of the search unit. As the 
+ment to 7:he reference standard:··-·-·- - - - - - --- - - - -tubes-are fed-past the-transducer,-the alarm _system shall b~ _ 
+S 1.1.6.1 Search unit position shall be such that shear waves observed for indications of defects equal to or greater than the 
+are propagated within the tube being tested. If both outside and reference standard. Tubes which show such indications shall be 
+inside diameter reference notches are used, the optimum angle rejected. 
+shall be used which will indicate both notches as close to equal S 1.1.10 Standard procedure will be to test the material in 
+size as possible. one direction of helical feed only. Testing in both directions 
+Sl.1.6.2 The test frequency to be used shall be chosen to may be done if so specified by customer. 
+S 1.1.11 Any tubes that do not show indications above the yield the best distinction between reference notches and plain level determined by the reference standard shall be held in a lot 
+areas of tubing. In general, 2 -25 or 5 .o MHz will be used. until the reference standard is run and instrument calibration is 
+Sl.1.6.3 Instrument sensitivity shall be adjusted to allow proved by triggering alarm system on the reference notch or 
+reference notch or notches to present a pip or pips on the scope notches. After calibration is proved to have been correct, this 
+screen at 50 % to 70 % of instrument saturation level. The lot of tubes shall be considered tested and accepted as to 
+Automatic Defect Monitoring System shall be adjusted to maximum defect size corresponding to the reference standard 
+monitor by means of electronic gates, the portion of the screen used. 
+where the reference notch is presented. The sensitivity of the Sl.1.12 Rejected tubing may be salvaged by polishing or 
+alarm system shall be adjusted to indicate audibly and visibly other suitable means when practical and retested after the 
+when the reference notch is fed past the search unit. elimination of the cause of rejection. Such material that meets 
+947 

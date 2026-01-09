@@ -1,0 +1,124 @@
+ASME BPVC.II.A-2025 SA-542/SA-542M 
+TABLE 1 Chemical Requirements 
+Norn 1-Where " ... " appears there is no requirement. Values are maximum unless minimum or a range is indicated. 
+Element Type A Type B 
+Carbon: 
+Heat analysis 0.15 0.11-0.15 
+Product analysis 0.18 0.09-0.18 
+Manganese: 
+Heat analysis 0.30-0.60 0.30-0.60 
+Product analysis 0.25-0.66 0.25-0.66 
+Phosphorus: 
+Heat analysis 0.025 0.015 
+Product analysis 0.025 0.015 
+Sulfur: 
+Heat analysis 0.025 0.015 
+Product analysis 0.025 0.015 
+Silicon: 
+Heat analysis 0.50 0.50 
+Product analysis 0.50 0.50 
+Chromium: 
+Heat analysis 2.00-2.50 2.00-2.50 
+Product analysis 1.88-2.62 1.88-2.62 
+Molybdenum: 
+Heat analysis 0.90-1.10 0.90-1.10 
+Product analysis 0.85-1.15 0.85-1.15 
+Copper: 
+Heat analysis 0.40 0.25 
+Product analysis 0.43 0.28 
+Nickel: 
+Heat analysis 0.40 0.25 
+Product analysis 0.43 0.28 
+Vanadium: 
+Heat analysis 0.03 0.02 
+Product analysis 0.04 0.03 
+Titanium: 
+Heat analysis 
+Product analysis 
+Boron: 
+Heat analysis 
+Product analysis 
+Columbium (niobium):A 
+Heat analysis 
+Product analysis 
+Composition, % 
+Type C Type D 
+0.10-0.15 0.11-0.15 
+0.08-0.18 0.09-0.18 
+0.30-0.60 0.30-0.60 
+0.25-0.66 0.25-0.66 
+0.025 0.015 
+0.025 0.020 
+0.025 0.010 
+0.025 0.015 
+0.13 0.10 
+0.13 0.13 
+2.75-3.25 2.00-2.50 
+2.63-3.37 1.88-2.62 
+0.90-1.10 0.90-1.10 
+0.85-1.15 0.85-1.15 
+0.25 0.20 
+0.28 0.23 
+0.25 0.25 
+0.28 0.28 
+0.20-0.30 0.25-0.35 
+0.18-0.33 0.23-0.37 
+0.015-0.035 0.030 
+0.005-0.045 0.035 
+0.001-0.003 0.0020 
+0.07 
+0.08 
+Type E 
+0.10-0.15 
+0.08-0.18 
+0.30-0.60 
+0.25-0.66 
+0.025 
+0.025 
+0.010 
+0.010 
+0.15 
+0.15 
+2.75-3.25 
+2.63-3.37 
+0.90-1.10 
+0.85-1.15 
+0.25 
+0.28 
+0.25 
+0.28 
+0.20-0.30 
+0.18-0.33 
+0.015-0.070 
+0.010-0.075 
+A Columbium and niobium are interchangeable names for the same element and both names are acceptable for use in A01 specifications. 
+when additional control, testing, or examination is required to temperature shall.be 1650°F [900°C]. For Type E material, the 
+meet end use requirements. The purchaser is referred to the minimum austenitizing temperature shall be 1850°F [1010°C). 
+listed supplementary requirements in this specification and to 5 _2 After quenching, the plates shall be tempered to produce 
+_!h~<i_e~il~d _i:e~uirements in Specification_ A__ 20/ A 2 0M. the specified tensile requirements by heating to a suitable 
+3.3 If the requirements of this specification are 1n conflict - temperature-ana-110Iding--for a-period-of-time-0f-n0t-l~ss-that---30 
+with the requirements of Specification A20/A20M, the require- min/in. (1.2 min/mm] of thickness but not less than ½ h. The 
+ments of this specification shall prevail. minimum tempering temperature shall be as follows: 
+4. Manufacture 
+4.1 Steelmaking Practice-The steel shall be killed and 
+shall conform to the fine austenitic grain size requirement of 
+Specification A20/ A20M. 
+5. Heat Treatment 
+5.1 All plates shall be heat treated by heating to a suitable 
+austenitizing temperature, holding for a sufficient period of 
+time to attain unifo1m temperature throughout the thickness, 
+and quenching in a suitable liquid medium by spraying or 
+immersion. For Type D material, the minimum austenitizing 
+931 
+Type Class Temperature, °F (°C) 
+A, B, C 1, 2, 3 1050 [565] 
+A, B, C 4 1200 [650] 
+A, B, C, D 4a 1250 [675] 
+5.3 Plates over 4 in. (100 mm] in thickness shall receive a 
+prior heat treatment of normalizing at, or water quenching 
+from, a temperature within the range from 1650 to 1850°F [900 
+to 1010°C] for Types A, B, C, and D and 1850 to 2050°F [1010 
+to 1120°C] for Type E before the heat treatment specified in 
+5.1. 
+5.4 Plates ordered without the heat treatment required by 
+5.1 - 5.3 shall be furnished in either the stress-relieved or the 

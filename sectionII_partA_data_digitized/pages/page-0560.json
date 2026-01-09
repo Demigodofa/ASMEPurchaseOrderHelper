@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 560,
+  "globalPageIndex": 560,
+  "width": 597.72,
+  "height": 842.88,
+  "text": "SA-335/SA-335M (ASTM A335/A335M) ASME BPVC.II.A-2025 \nTABLE 1 Continued \nUNS Composition, % \nGrade \nDesigna- Phos- Molybde-tionA Man- Sulfur, Carbon phorus, Silicon Chromium num Others ganese max max \nP93 K91350 0.05-0.10 0.20-0.70 0.020 0.008 0.05-0.50 8.50-9.50 V 0.15-0.30 \nW 2.5-3.5 \nCo 2.5-3.5 \nNi 0.20 max \nNbF + Ta \n0.05-0.12 \nNd 0.010-0.060 \nB 0.007-0.015 \nAl 0.030 max \nN 0.005-0.015 \nO 0.0050 max \nP115 K91060 \nHeat 0.08-0.13 0.20-0.50 0.020 0.005 0.15-0.45 10.0-11.0 0.40-0.60 V 0.18-0.25 \nN 0.030-0.070 \nNi 0.25 max \nAl 0.02 max \nNb 0.02-0.06 \nW 0.05 max \nB 0.001 max \nTi 0.01 max \nZr 0.01 max \nCu 0.10 max \nAs 0.010 max \nSn 0.010 max \nSb 0.003 max \nN/AI ratio min 4.0 \nCNBE , max 10.5 \nProduct 0.07-0.14 0.20-0.50 0.020 0.005 0.15-0.45 10.0-11.0 0.37-0.63 V 0.16-0.27 \nN 0.030-0.070 \nNi 0.25 max \nAl 0.02 max \nNb 0.02-0.07 \nW 0.05 max \nB 0.001 max \nTi 0.01 max \nZr 0.01 max \nCu 0.10 max \nAs 0.010 max \nSn 0.010 max \nSb 0.003 max \nP122 K92930 0.07-0.14 0.70 max 0.020 0.010 0.50 max 10.00-11.50 0.25-0.60 V 0.15-0.30 \nW 1.50-2.50 \nCu 0.30-1.70 \nNbF 0.04-0.10 \nB 0.0005-0.005 \nN 0.040-0.100 \nNi 0.50 max \nAl 0.020 max \nTi 0.01 max \nZr 0.01 max \nP128 K91421 0.12-0.17 0.30- 0.80 0.02 0.01 0.20-0.60 10.50- 0.20- 0.60 V 0.15 - 0.30 \n12.00 Ni 0.10 - 0.40 \nB 0.008 - 0.015 \nN 0.002 - 0.020 \nCo 1.50 - 2.20 \nAl 0.02 max \nCu 0.15 max \nW 1.50- 2.20 \nNb 0.02 - 0.06 \nP911 K91061 0.09-0.13 0.30-0.60 0.020 max 0.010 max 0.10-0.50 8.5-9.5 0.90-1.10 V 0.18-0.25 \nNi 0.40 max \nNbF 0.060-0.10 \nB 0.0003-0.006 \nN 0.04-0.09 \nAl 0.02 max \nW 0.90-1.10 \nTi 0.01 max \nZr 0.01 max \nP921 K91201 0.08-0.12 0.5-0.7 0.03 0.02 1.6-2.2 8.0-9.5 0.8-1.1 Ni 0.8-1.4 \nN 0.02-0.05 \nAl 0.04 max \nCu 0.8-1.4 \nA New designation established in accordance with Practice E527 and SAE J1086, Practice for Numbering Metals and Alloys (UNS). \n8 Grade P5c shall have a titanium content of not less than 4 times the carbon content and not more than 0.70 %; or a niobium content of 8 to 10 times the carbon content. \n508 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0560.json",
+  "tabulaTablesCsv": "tables_tabula/page-0560.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0560.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1989,
+  "bestTextAlphaRatio": 0.3137
+}

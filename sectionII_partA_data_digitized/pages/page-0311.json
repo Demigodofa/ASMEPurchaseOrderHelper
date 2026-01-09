@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 311,
+  "globalPageIndex": 311,
+  "width": 614.16,
+  "height": 855.0,
+  "text": "ASME BPVC.II.A-2025 SA-194/SA-194M \nAPPENDIXES \n(Nonmandatory Information) \nXl. STRAIN HARDENING OF AUSTENITIC STEELS \nXl.1 Strain hardening is the increase in strength and hard\u00ad\nness that results from plastic deformation below the recrystal\u00ad\nlization temperature (cold work). This effect is produced in \naustenitic stainless steels by reducing oversized bars to the \ndesired final size by cold drawing or other process. The degree \nof strain hardening achievable in any alloy is limited by its \nstrain hardening characteristics. In addition, the amount of \nstrain hardening that can be produced is further limited by the \nvariables of the process, such as the total amount of cross-\nsection reduction, die angle and bar size. In large diameter bars, \nfor example, plastic deformation will occur principally in the \nouter regions of the bar, so that the increased strength and \nhardness due to strain hardening is achieved predominantly \nnear the surface of the bar. That is, the smaller the bar, the \ngreater the penetration of strain hardening. Thus, the mechani\u00ad\ncal properties of a given strain hardened bolting component are \ndependent not just on the alloy, but also on the size of bar from \nwhich it is machined. \nX2. COATINGS AND APPLICATION LIMITS \nX2.l Use of coated bolting components at temperatures \nabove approximately one-half the melting point (Fahrenheit or \nCelsius) of the coating is not recommended unless consider\u00ad\nation is given to the potential for liquid and solid metal \nembrittlement, or both. The melting point of elemental zinc is \napproximately 780 \u00b0F [415 \u00b0C]. Therefore, application of zinc \ncoated bolting components should be limited to temperatures \nless than 390 \u00b0F [210 \u00b0C]. The melting point of cadmium is \napproximately 600 \u00b0F [320 \u00b0C]. Therefore, application of \ncadmium coated bolting components should be limited to \ntemperatures less than 300 \u00b0F [160 \u00b0C]. \n259 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-0311.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1903,
+  "bestTextAlphaRatio": 0.7761
+}

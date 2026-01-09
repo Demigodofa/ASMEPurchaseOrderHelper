@@ -1,0 +1,103 @@
+ASME BPVC.II.A-2025 SA-988/SA-988M 
+S7. Ultrasonic Testing 
+S7.1 Austenitic-Ferritic stainless steel parts made of S32505 
+shall be 100 % ultrasonic tested with straight and angle beam 
+probes in accordance with Practice A745/A745M. Acceptance 
+limits shall be agreed upon between the manufacturer and the 
+purchaser. 
+S8. Repair Welding 
+S8.1 No repair welding shall be permitted without prior 
+approval of the purchaser. If permitted, the restrictions of 
+Section 14 shall apply. 
+S9. Heat Treatment Details 
+S9.1 The manufacturer shall furnish a detailed test report 
+containing the information required in 17 .1 and shall include 
+all pertinent details of the heat treating cycle given the parts. 
+S10. Material for Optimum Resistance to Stress-Corrosion 
+Cracking 
+SlO.l Austenitic stainless steel parts shall be furnished in 
+the solution-annealed condition as a final operation with no 
+subsequent cold working permitted unless specifically permit­
+ted by the purchaser. 
+Sll. Intergranular Corrosion Tests 
+Sll.1 Intergranular corrosion tests shall be performed on 
+specimens of austenitic stainless steel in accordance with 
+Practices A262. 
+Sll.2 For the austenitic stainless steels, details concerning 
+the number of specimens and their source and location are to be 
+a matter of agreement between the manufacturer and the 
+purchaser. 
+S12. Pitting and Crevice Corrosion Test 
+Sl2.1 The stainless steels in the final heat treated condition 
+shall be tested in accordance with Test Method G4S. Test 
+procedures and acceptance criteria shall be a matter of agree­
+ment between the manufacturer and purchaser. 
+S13. Detrimental Intermetallic Phase Test 
+Sl3.l The austenitic-ferritic stainless steels shall be tested 
+in accordance with the test methods given in Test Methods 
+A923. Acceptance criteria, if not specified in Test Methods 
+A923, shall be a matter of agreement between the manufacturer 
+and the purchaser. 
+S14. Special Filler Metal 
+S14.1 In repair welded S31600, S31603, S31609, and 
+S31651 parts, the deposited weld metal shall conform to E 308 
+composition wire. Parts repair welded with E 308 weld metal 
+shall be marked S_W308. 
+SIS. Hardness Test 
+S 15 .1 Each part shall be hardness tested and shall meet the 
+requirements of Table 3. 
+S16. Heat Treatment of Austenitic Stainless Parts 
+S 16.1 The purchaser shall specify the heat treatment method 
+in 7 .1 that shall be employed. 
+S16.2 The manufacturer shall provide a test report contain­
+ing the information required in 17 .1 and shall include a 
+statement of the heat treatment method employed. 
+S17. Grain Size for Austenitic Stainless Steels 
+S 17 .1 Hot isostatically-pressed parts made from austenitic 
+stainless steel grades other than H grades shall be tested for 
+average grain size by Test Methods El12. Details of the test 
+shall be agreed upon between the manufacturer and the 
+purchaser. 
+S18. Fatigue Acceptance Test 
+S 18 .1 For austenitic stainless steel components intended for 
+service above 1000 °F [540 °C], a uniaxial fatigue test shall be 
+performed. 
+Sl8.2 The fatigue test shall be performed in air at 1100 °F 
+[595 °C] at an axial strain range of 1.0 % with a one hour hold 
+period at the maximum positive strain point in each cycle. Test 
+specimen location and orientation shall be as specified in 
+Specification A961/A961M and the applicable product speci­
+fications. Testing shall be conducted in accord with Practice 
+E606/E606M. The test shall exceed 200 cycles without fracture 
+or a 20 % drop in the load range. 
+S18.3 Failure to meet this requirement shall be cause for 
+rejection of all parts from that blend. 
+S18.4 Test frequency shall be the same as for tension tests 
+(See 9.5). Retesting is permitted. For a retest, two additional 
+specimens produced from the same blend shall be tested and 
+both specimens must pass the cyclic life requirement. Further 
+retests are not permitted. 
+S19. Powder Size 
+S19.l The maximum allowable powder size is 0.020 in. [0.5 
+mm], and the powder shall be produced by the gas atomization 
+process. 
+S20. Powder Shielding 
+S20. l Immediately following atomization, the powder shall 
+remain shielded by an inert gas until the powder is below a 
+temperature of 105 °F [ 40 °C] to ensure that the detrimental 
+absorption of oxygen and other deleterious contaminants is no 
+longer possible. Powder should be protected during storage to 
+prevent the detrimental pick-up of oxygen and other 
+contaminants. 
+S21. Chemical Analysis 
+S21.1 The chemical composition of a sample from one part 
+from each lot of parts shall be determined by the manufacturer. 
+The composition of the sample shall conform to the chemical 
+requirements prescribed in Table 1. 
+S22. Manufacturer's Certification 
+S22.1 A manufacturer's certification shall be furnished to 
+the purchaser stating that material has been manufactured, 
+tested, and inspected in accordance with this specification, and 
+that the test results on representative samples meet specifica­
+tion requirements. A report of the test results shall be furnished. 
+1467 

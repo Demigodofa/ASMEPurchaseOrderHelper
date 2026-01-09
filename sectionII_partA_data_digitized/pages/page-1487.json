@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 689,
+  "globalPageIndex": 1487,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "-~-\nAustenitic Tensile Strength, min \nStainless Steel Grades ksi [MPa] \nF304 70 [485] \nF304H 70 [485] \nF304L 66 [450] \nF304N 80 [550] \nF309H 70 [485] \nF310 75 [515] \nF310H 70 [485] \nF316 70 [485] \nF316H 70 [485] \nF316L 65 [450] \nF316N 80 [550] \nF316LN 70 [485] \nF70 70 [485] \nF321 70 [485] \nF321H 70 [485] \nF347 70 [485] \nF347H 70 [485] \nF347LN 70 [485] \nF348 70 [485] \nF348H 70 [485] \nFXM-19 100 [690] \nFXM-11 90 [620] \nF20 80 [550] \nF46 78-100 [540-690] \nF62 95 [655] \nF904L 71 [490] \nF700 80 [550] \nFNIC 65n [450] \nFNIC10 65n [450] \nFNIC11 65n [450] \nF1925 87 [600] \nF1925N 94 [650] \nASME BPVC.II.A-2025 \nTABLE 2 Tensile Requirements \nYield Strength, \n0.2 % Offset, min \nksi [MPa] \n30 [205] \n30 [205] \n25 [170] \n35 [240] \n30 [205] \n30 [205] \n30 [205] \n30 [205] \n30 [205] \n25 [170] \n35 [240] \n30 [205] \n25 [175] \n30 [205] \n30 [205] \n30 [205] \n30 [205] \n30 [205] \n30 [205] \n30 [205] \n55 [380] \n50 [345] \n35 [240] \n32 [220] \n45 [310] \n31 [215] \n35 [240] \n25[170] \n25[170] \n25[170] \n43 [295] \n43 [295] \nElongation \nin 2 in. or 50 mm, min % \n30 \n30 \n30 \n25 \n30 \n30 \n30 \n30 \n30 \n30 \n25 \n30 \n35 \n30 \n30 \n30 \n30 \n30 \n30 \n30 \n30 \n40 \n30 \n40 \n30 \n35 \n30 \n30 \n30 \n30 \n30 \n35 \nSA-965 /SA-965M \nReduction of Area, \nmin% \n45 \n45 \n45 \n45 \n45 \n35 \n45 \n45 \n45 \n45 \n45 \n45 \n50 \n45 \n45 \n45 \n45 \n45 \n45 \n45 \n50 \n50 \n50 \n50 \n50 \nupset disk forgings the longitudinal axis of the specimen shall \nbe in either the tangential or radial direction. \nin accordance with Section IX of the ASME Boiler and \nPressure Vessel Code. \n8 .3 .1 The location of the longitudinal axis of the tension test \nspecimen shall be located midway between the parallel sur\u00ad\nfaces of the test extension, if added to the periphery of disks, \nor midway between the center and surface of solid forgings. \nFor hollow forgings, or those heat treated after boring, the \nspecimen shall be located at midwall. For the special case of \nforgings that are heat treated solid, but are subsequently bored, \nthe tension test specimen may be taken at the location of the \nminimum inside diameter after boring instead of the mid-radius \nposition. \n9. Grain Size \n9.1 For Grades F304H, F316H, F309H, F310H, F321H, \nF34 7H, and F348H, the grain size of the forgings shall be \nascertained according to Test Methods El12, after solution \ntreatment. One sample shall be examined for each tensile \nspecimen required in 8.2 and shall be taken from the tension \ntest location. The grain size shall be number 6, or coarser, over \nat least 75 % of the surveyed area. For annealed Grades \nFNIClO and FNICll, the grain size shall be number 5 or \ncoarser. \n10. Repair Welding \n10.1 Repair welding of forgings may be permitted but only \nat the option of the purchaser. Such repair welds shall be made \n11. Marking . \n11.1 The marking requirements of Specification A 788/ \nA 788M apply. \n12. Test Reports \n12.1 The certification requirements of Specification A788/ \nA 788M shall apply. \n13. Keywords \n13.1 austenitic stainless steel forgings; high temperature \nservice; pressure containing parts; pressure vessel service \n1429 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1487.json",
+  "tabulaTablesCsv": "tables_tabula/page-1487.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-1487.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 3050,
+  "bestTextAlphaRatio": 0.4997
+}

@@ -1,0 +1,86 @@
+~ 
+ASME BPVC.II.A-2025 SA-192/SA-192M 
+7. Chemical Composition 
+7 .1 The steel shall conform to the following requirements as 
+to chemical composition: 
+Carbon, % 0.06-0.18 
+Manganese, % 0.27-0.63 
+Phosphorus, max, % 0.035 
+Sulfur, max, % 0.035 
+Silicon, max, % 0.25 
+7 .2 Supplying an alloy grade of steel that specifically 
+requires the addition of any element other than those listed in 
+7.1 is not permitted. 
+8. Product Analysis 
+8.1 When requested on the purchase order, a product analy­
+sis shall be made by the supplier from one tube per 100 pieces 
+for sizes over 3 in. [76.2 mm] and one tube per 250 pieces for 
+sizes 3 in. [76.2 mm] and under; or when tubes are identified 
+by heat, one tube per heat shaU be analyzed. The chemical 
+composition thus determined shall conform to the requirements 
+specified. 
+8.2 If the original test for product analysis fails, retests of 
+two additional billets or tubes shall be made. Both retests, for 
+the elements in question, shall meet the requirements of the 
+specification; otherwise all remaining material in the heat or lot 
+(see Note 1) shall be rejected or, at the option of the producer, 
+each billet or tube may be individually tested for acceptance. 
+Billets or tubes which do not meet the requirements of the 
+specification shall be rejected. 
+Nom l-A lot consists of 250 tubes for sizes 3 in. [76.2 mm] and under 
+and of 100 tubes for sizes over 3 in. [76.2 mm), prior to cutting to length. 
+9. Hardness Requirements 
+9.1 The tubes shall have a hardness number not exceeding 
+the following: 
+Brinell Hardness Number (Tubes 
+0.200 in. [5.1 mm] and over in 
+wall thickness) 
+137 HBW 
+Rockwell Hardness Number 
+(Tubes less than 0.200 in. 
+[5.1 mm] in wall thickness) 
+77 HRBW 
+10. Mechanical Tests Required 
+10.1 Flattening Test-One flattening test shall be made on 
+specimens from each end of two tubes selected from each lot 
+(see Note 1) or fraction thereof. 
+10.2 Flaring Test-One flaring test shall be made on speci­
+mens from each end of two tubes selected from each lot (see 
+Note 1) or fraction thereof. These tubes shall be selected apart 
+from those used for the flattening test. 
+10.3 Hardness Test-Brinell or Rockwell hardness tests 
+shall be made on specimens from two tubes from each lot. The 
+term lot applies to all tubes prior to cutting, of the same 
+nominal diameter and wall thickness which are produced from 
+the same heat of steel. When final heat treatment is in a 
+batch-type furnace, a lot shall include only those tubes of the 
+same size and the same heat which are heat treated in the same 
+furnace charge. When the final heat treatment is in a continuous 
+furnace, a lot shall include all tubes of the same size and heat, 
+heat treated in the same furnace at the same temperature, time 
+at heat, and furnace speed. 
+10.4 Hydrostatic Test-Each tube shall be subjected to the 
+hydrostatic pressure test, or instead of this test, a nondestruc­
+tive test may be used when specified by the purchaser. 
+11. Forming Operations 
+11.1 Tubes when inserted in the boiler shall stand expanding 
+and beading without showing cracks or flaws. Superheater 
+tubes when properly manipulated shall stand all forging, 
+welding, and bending operations necessary for application 
+without developing defects. 
+12. Product Marking 
+12.1 In addition to the marking prescribed in Specification 
+A450/A450M, the marking shall indicate whether the tube is 
+hot finished or cold finished. 
+13. Keywords 
+13.1 boiler tubes; seamless steel tube; steel tube-carbon 
+EXPLANATORY NOTES 
+Nom 1-For purposes of design, the following tensile properties may 
+be assumed: 
+Tensile strength, min, ksi [MPa] 
+Yield strength, min, ksi [MPa] 
+Elongation in 2 in. or 50 mm, min, % 
+47 [325] 
+26 [180] 
+35 
+231 

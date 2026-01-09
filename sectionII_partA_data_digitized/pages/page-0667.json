@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 667,
+  "globalPageIndex": 667,
+  "width": 599.4,
+  "height": 844.08,
+  "text": "ASME BPVC.II.A-2025 SA-370 \n\",$\"\"\"'\\ \n' \u00b7~ . ' \u2022 -\nt;.\u00b7-,iil \nFIG. A2.8 Roller Chain Type Extensometer, Clamped \nRockwell hardness test. When a comparison is made between \nRockwell determinations made on the outside surface and \ndeterminations made on the inside surface, adjustment of the \nreadings will be required to compensate for the effect of \ncurvature. The Rockwell B scale is used on all materials having \nan expected hardness range of BO to B 100. The Rockwell C \nscale is used on material having an expected hardness range of \nC20 to C68. \nA2.4.4 Superficial Rockwell hardness tests are normally \nperformed on the outside surface whenever possible and \nwhenever excessive sp1ing back is not encountered. Otherwise, \nthe tests may be perfonned on the inside. Superficial Rockwell \nhardness tests shall not be performed on tubes with an inside \ndiameter of less than \u00bc in. (6.4 mm). The wall thickness \nlimitations for the Superficial Rockwell hardness test are given \nin Tables A2.1 and A2.2. \nA2.4.5 When the outside diameter, inside diameter, or wall \nthickness precludes the obtaining of accurate hardness values, \ntubular products shall be specified to tensile properties and so \ntested. \nA2.5 Manipulating Tests \nA2.5.1 The following tests are made to prove ductility of \ncertain tubular products: \nA2.5.l.1 Flattening Test-The flattening test as commonly \nmade on specimens cut from tubular products is conducted by \nsubjecting rings from the tube or pipe to a presc1ibed degree of \nflattening between parallel plates (see Fig. A2.4). The severity \nof the flattening test is measured by the distance between the \nparallel plates and is varied according to the dimensions of the \ntube or pipe. The flattening test specimen should not be less \nthan 2\u00bd in. (63.5 mm) in length and should be flattened cold to \nthe extent required by the applicable material specifications. \nA2.5 .1.2 Reverse Flattening Test-The reverse flattening \ntest is designed primarily for application to electric-welded \ntubing for the detection of lack of penetration or overlaps \nresulting from flash removal in the weld. The specimen \nconsists of a length of tubing approximately 4 in. (102 mm) \nlong which is split longitudinally 90\u00b0 on each side of the weld. \nThe sample is then opened and flattened with the weld at the \npoint of maximum bend (see Fig. A2.9). \nTABLE A2.1 Wall Thickness Limitations of Superficial Hardness Test on Annealed or Ductile Materials \nfor Steel Tubular ProductsA \nWall Thickness, in. (mm) \nOver 0.050 (1.27) \nOver 0.035 (0.89) \n0.020 and over (0.51) \n(''T\" Scale (1/1e-in. Ball)) \nA The heaviest load recommended for a given wall thickness is generally used. \n615 \nLoad, kgf \n45 \n30 \n15 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0667.json",
+  "tabulaTablesCsv": "tables_tabula/page-0667.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-0667.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2707,
+  "bestTextAlphaRatio": 0.7451
+}

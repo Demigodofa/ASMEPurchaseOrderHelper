@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 244,
+  "globalPageIndex": 244,
+  "width": 613.92,
+  "height": 793.2,
+  "text": "SA-135/SA-135M (ASTM A135/A135M) ASME BPVC.II.A-2025 \nAPPENDIX \n(Nonmandatory Infonnation) \nXl. ADDITIONAL DATA \nXl.1 Additional data on dimensions nominal weights \n(masses) and test pressures is provided in Table Xl.l. \nXl.2 Additional data on wall thicknesses are provided in \nTable Xl.2. \nTABLE X1.1 Dimensions, Nominal Weights (Masses), and Test Pressures for Light Wall Steel Pipe \nSchedule 10 Test Pressure, psi [MPa]A \nDN Outside Specified Weight \nNPS Diameter, in. Wall (Mass) Per Grade A Grade B [mm] ThicknessA Unit Length \nin.[mm] lb/ft [kg/m] \n% 20 1.050 [26.7] 0.083 [2.11] 0.86 [1.28] 2500 2500 \n[17 200] [17 200] \n25 1.315 [33.4] 0.109 [2.77] 1.41 [2.09] 2500 2500 \n[17 200] [17 200] \n1\u00bc 32 1.660 [42.2] 0.109 [2.77] 1.81 [2.69] 2400 2500 \n[16 500] [17 200] \n1\u00bd 40 1.900 [48.3] 0.109 [2.77] 2.09 [3.11] 2100 2400 \n[14 500] [16 500] \n2 50 2.375 [60.3] 0.109 [2.77] 2.64 [3.93] 1700 1900 \n[11 700] [13 100] \n2\u00bd 65 2.875 [73.0] 0.120 [3.05] 3.53 [5.26] 1500 1700 \n[10 300] [11 700] \n3 80 3.500 [88.9] 0.120 [3.05] 4.34 [6.46] 1200 1400 \n[8 200] [9 600] \n3\u00bd 90 4.000 [101.6] 0.120 [3.05] 4.98 [7.41] 1000 1200 \n[6 900] [8 200] \n4 100 4.500 [114.3] 0.120 [3.05] 5.62 [8.37] 900 [6 200] 1100 \n[7 600] \n5 125 5.563 [141.3] 0.134 [3.40] 7.78 [11.58] 850 [5 900] 1000 \n[6 900] \nA The test pressures are calculated by the following equation (but need not exceed 2500 psi or [17 200 KPal): \nP= 2St/D \nwhere: \nP pressure, psi [kPa], \nS fiber stress 60 % of the specified minimum yield strength, psi [kPa], \nt specified wall thickness, in. [mm], and \nD specified outside diameter, in. [mm]. \n192 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0244.json",
+  "tabulaTablesCsv": "tables_tabula/page-0244.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0244.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1598,
+  "bestTextAlphaRatio": 0.383
+}

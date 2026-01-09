@@ -1,0 +1,78 @@
+SA-6/SA-6M ASME BPVC.II.A-2025 
+TABLE A1.17 Permitted Variations in Cross Section for Angles (L Shapes), Bulb Angles, and Zees 
+Nora 1-Where " ... " appears in this table, there is no requirement. 
+Angles Bulb angles Zees 
+Permitted Variations in Sectional Dimensions Given, mm 
+B, Flange Width, or Permitted Variations Over or Under 
+A, Depth Length of Leg T, Out-of- Theoretical Thickness for Thick-
+Section Nominal Size, mm Square per nesses Given In Millimetres, mm 
+Over Under Over Under Millimetre of B 
+Theoretical Theoretical Theoretical Theoretical 
+AnglesA (L shapes) 25 and under 1 1 0.026 8 
+Over 25 to 51, incl 1 1 0.026 8 
+Over 51 to 64, incl 2 2 0.026 8 
+Over 64 to 102, incl 3 2 0.026 8 
+Over 102 to 152, incl 3 3 0.026 8 
+Over 152 to 203, incl 5 3 0.026 8 
+Over 203 to 254, incl 6 6 0.026 8 
+Over 254 6 10 0.026 8 
+Bulb angles (depth) 76 to 102, incl 3 2 4 2 0.026 8 
+Over 102 to 155, incl 3 2 4 3 0.026 8 
+Over 152 3 2 5 3 0.026 8 
+Zees 76 to 102, incl 3 2 4 2 0.026 8 
+Over 102 to 152, incl 3 2 4 3 0.026 8 
+A For unequal leg angles, longer leg determines classification. 
+8 0.026 mm/mm = 1 ½ 0 • The permitted variation shall be rounded to the nearest millimetre after calculation. 
+TABLE A1.18 Permitted Variations in Sectional Dimensions for Rolled Tees 
+Nora 1-*Back of square and center line of stem are to be parallel when measuring "out-of-square." 
+Nora 2-Where " ... " appears in this table, there is no requirement. 
+Tees 
+Permitted Variations in Sectional Dimensions Given, mm 
+5 and 
+Under 
+0.2 
+0.2 
+0.3 
+A, Depth 8 B, Width 8 T, Out-of- E, Web Stem Thickness of Flange 
+Over5 
+to 10 Over 10 
+0.2 
+0.2 0.3 
+0.4 0.4 
+Thickness of Stem 
+Nominal SizeA --------------- Square per Off-Cen- Out-of- ---------------
+30 and under 
+Over 30 to 50, incl 
+Over 50 to 75, excl 
+75 to 125, incl 
+Over 125 to 180, incl 
+Over 
+1 
+2 
+2 
+2 
+2 
+Under 
+1 
+2 
+2 
+2 
+2 
+Over Under Millimetre of B ter, max Squarec Over Under 
+1 1 1 0.2 0.2 
+2 2 2 0.3 0.3 
+2 2 2 0.4 0.4 
+3 3 0.03 2 
+3 3 0.03 3 
+A The longer member of an unequal tee determines the size for permitted variations. 
+8 Measurements for both depth and width are overall. 
+c Stem out-of-square is the permitted variation from its true position of the center line of stem, measured at the point. 
+42 
+Over 
+0.1 
+0.2 
+0.4 
+Under 
+0.5 
+0.5 
+0.5 

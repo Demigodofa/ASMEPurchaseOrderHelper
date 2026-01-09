@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 464,
+  "globalPageIndex": 464,
+  "width": 597.72,
+  "height": 842.88,
+  "text": "SA-276 ASME BPVC.ll.A-2025 \nTABLE 2 Mechanical Requirements \nBrinell \nTensile Yield Strength/ Hard-\nStrength, Elonga- Reduc- ness, min lion in 2 Diameter or Thickness, min lion of HBW Type Condition Finish in. [mm] in. [50 mm] 8 \nArea, c. 0 unless or4D \nmin% min, % otherwise \nksi MPa ksi MPa indicated, E \nmax \nAustenitic Grades \nN08020 SA hot-finished or all 80 [550] 35 [240] 30 50 \ncold-finished \nN08367 A hot-finished or all 95 655 45 310 30 50 \ncold-finished \nN08700 A hot-finished or all 80 550 35 240 30 50 \ncold-finished \nN08800 800 A hot-finished or all 75 515 30 205 30 192 \ncold-finished \nN08810 800H A hot-finished or all 65 450 25 170 30 192 \ncold-finished \nN08811 A hot-finished or all 65 450 25 170 30 192 \ncold-finished \nN08904 904L A hot-finished or all 71 490 31 220 35 \ncold-finished \nN08925 A hot-finished or all 87 600 43 295 40 217 \ncold-finished \nN08926 A hot-finished or all 94 650 43 295 35 256 \ncold-finished \n201,202 A hot-finished or all 75 515 40 275 40 45 \ncold-finished \nS20161 A hot-finished all 125 860 50 345 40 40 255 \ncold-finished all 125 860 50 345 40 40 311 \nS20162 A hot-finished or all 100 690 50 345 50 60 \ncold finished \n205 A hot-finished or all 100 690 60 414 40 50 \ncold-finished \nXM-19 A hot-finished or all 100 690 55 380 35 55 \ncold-finished \nAs hot-finished or up to 2 [50.8], incl 135 930 105 725 20 50 \nhot- cold-finished \nrolled \nover 2 to 3 [50.8 to 76.2], 115 795 75 515 25 50 \nincl \nover 3 to 8 [76.2 to 203.2], 100 690 60 415 30 50 \nincl \nS21800 A hot-finished or all 95 655 50 345 35 55 241 \ncold-finished \nXM-10, XM-11 A hot-finished or all 90 620 50 345 45 60 \ncold-finished \nXM-29 A hot-finished or all 100 690 55 380 30 50 \ncold-finished \nXM-28 A hot-finished or all 100 690 55 380 30 50 \ncold-finished \nS24565 A hot-finished or all 115 795 60 415 35 40 \ncold-finished \nS28200 A hot-finished or all 110 760 60 410 35 55 \ncold finished \n302,302B, 304,304LN, A hot-finished all 75F 515 30F 205 40G 50 \n305,308,309, 309S, cold-finished up to\u00bd [12.70] incl 90 620 45 310 30 40 \n309Gb, 310, 310S, over \u00bd [12. 70] 75F 515 30F 205 30 40 \n310Gb, 314, 316, \n316LN, 316Gb, 316TI, \n317, 321, 347, \n348 \n304L, 316L A hot-finished all 70 485 25 170 40G 50 \ncold-finished up to \u00bd [12. 70] incl. 90 620 45 310 30 40 \nover\u00bd [12.70] 70 485 25 170 30 40 \n304N, 316N A hot-finished or all 80 550 35 240 30 \ncold-finished \n202,302,304, 304N, 316, B cold-finished up to \u00be [19.05] incl 125 860 100 690 12 35 \n316N \n304L, 316L over \u00be [19.05] to 115 795 80 550 15 35 \n1 [25.40] \nover 1 [25.40] to 1 \u00bc 105 725 65 450 20 35 \n[31.75] \nover 1 \u00bc [31.75] to 1 \u00bd 100 690 50 345 24 45 \n[38.10] \n412 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0464.json",
+  "tabulaTablesCsv": "tables_tabula/page-0464.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0464.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2630,
+  "bestTextAlphaRatio": 0.4114
+}

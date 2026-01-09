@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 252,
+  "globalPageIndex": 1050,
+  "width": 627.84,
+  "height": 804.24,
+  "text": "SA-562/SA-562M ASME BPVC.II.A-2025 \nStandard Specification for \nPressure Vessel Plates, Carbon Steel, Manganese-Titanium \nfor Glass or Diffused Metallic Coatings \n1. Scope \n1.1 This specification covers titanium-bearing carbon steel \nplates intended for welded glass lined pressure vessels or other \napplications where the presence of free-iron carbide would be \ndeleterious to the coating. A minimum specific ratio of titanium \nto carbon is specified. \n1.2 The maximum thickness of plates is limited to 2 in. [50 \nmm]. \n1.3 The values stated in either inch-pound units or SI units \nare to be regarded separately as standard. Within the text, the \nSI units are shown in brackets. The values stated in each \nsystem are not exact equivalents; therefore, each system must \nbe used independently of the other. Combining values from the \ntwo systems may result in nonconformance with the specifi\u00ad\ncation. \n2. Referenced Documents \n2.1 ASTM Standards: \nA20/ A20M Specification for General Requirements for Steel \nPlates for Pressure Vessels \n3. General Requirements and Ordering htformation \n3 .1 Material supplied to this material specification shall \nconform to Specification A20/A20M. These requirements out\u00ad\nline the testing and retesting methods and procedures, permit\u00ad\nted variations in dimensions, and mass, quality and repair of \ndefects, marking, loading, and ordering information. \n3.2 In addition to the basic requirements of this specifica\u00ad\ntion, certain supplementary requirements are available when \nadditional control, testing, or examination is required to meet \nend use requirements. \n3.3 If the requirements of this specification are in conflict \nwith the requirements of Specification A20/ A20M, the require-\nments of this specification shall prevail. \u2022 \n4. Manufacture \n4.1 Steelmaking Practice-The steel shall be killed. \n5. Heat Treatment \n5.1 Plates shall be thermally treated to produce grain refine\u00ad\nment, either by normalizing or heating uniformly for hot \nforming at a minimum temperature of 1600\u00b0F [870\u00b0C] or some \nhigher agreed temperature, and held at this temperature for a \nminimum of 1 h/in. [2.4 min/mm) of thickness. \n6. Chemical Requirements \n6.1 The steel shall conform to the chemical requirements \nshown in Table 1 unless otherwise modified in accordance with \nSupplementary Requirement S 17, Vacuum Carbon-Deoxidized \nSteel, in Specification A20/ A20M. \n7. Mechanical Requirements \n~-------------------------~~1~.l':;!-Te:n:s~io~n~1i~e~s~t ~R~eq:u:i:rem.ents-l'h~erial-as-representedi--------------t-\u00ad\nby the tension-test specimens shall conform to the require-\nments shown in Table 2. \n950 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1050.json",
+  "tabulaTablesCsv": "tables_tabula/page-1050.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-1050.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2625,
+  "bestTextAlphaRatio": 0.7535
+}

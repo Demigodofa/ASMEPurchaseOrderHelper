@@ -1,0 +1,149 @@
+~ 
+ASME BPVC.II.A-2025 SA-29/SA-29M 
+TABLE 3 Heat Analysis Chemical Ranges and Limits of Carbon 
+Element 
+CarbonA 
+Manganese 
+Phosphorus 
+Sulfur 
+Silicone 
+Copper 
+Lead 0 
+BismuthE 
+CalciumE 
+SeleniumE 
+TelluriumE 
+Steel Bars 
+Chemical Ranges and Limits, % 
+When Maximum of Specified 
+Elements is: 
+to 0.12, incl 
+over 0.12 to 0.25, incl 
+over 0.25 to 0.40, incl 
+over 0.40 to 0.55, incl 
+over 0.55 to 0.80, incl 
+over 0.80 
+to 0.40, incl 
+over 0.40 to 0.50, incl 
+over 0.50 to 1.65, incl 
+to 0.040, Incl 
+over 0.040 to 0.08, incl 
+over 0.08 to 0.13, incl 
+to 0.050, incl 
+over 0.050 to 0.09, incl 
+over 0.09 to 0.15, incl 
+over 0.15 to 0.23, incl 
+over 0.23 to 0.50, incl 
+to 0.10, incl 
+over 0.1 0 to 0.15, incl 
+over 0.15 to 0.20, incl 
+over 0.20 to 0.30, incl 
+over 0.30 to 0.60, incl 
+When copper is required 0.20 
+min is generally used 
+When lead is required, a range 
+of 0.15 to 0.35 is specified 
+Range 
+0.05 
+0.06 
+0.07 
+0.10 
+0.13 
+0.15 
+0.20 
+0.30 
+0.03 
+0.05 
+0.03 
+0.05 
+0.07 
+0.09 
+0.08 
+0.10 
+0.15 
+0.20 
+Lowest 
+Maximum 
+0.06 
+0.35 
+0.040 8 
+0.050 8 
+0.10 
+A The carbon ranges shown in the column headed "Range" apply when the 
+specified maximum limit for manganese does not exceed 1.1 0 %. When the 
+maximum manganese limit exceeds 1.1 0 %, add 0.01 to the carbon ranges shown 
+above. 
+8 For steels produced in merchant quality the phosphorus maximum is 0.04 % and 
+the sulfur maximum is 0.05 %. 
+c It is not common practice to produce a rephosphorized and resulfurized carbon 
+steel to specified limits for silicon because of its adverse effect on machinability. 
+0 A cast or heat analysis is not determinable when lead is added to the ladle 
+stream. 
+E Element specification range as agreed upon between purchaser and supplier. 
+6. Mechanical Property Requirements 
+6.1 Test Specimens: 
+6.1.1 Selection-Test specimens shall be selected in accor­
+dance with the requirements of the applicable product specifi­
+cation or in accordance with Supplement I of the latest issue of 
+Test Methods and Definitions A370, in the sequence named. 
+6.1.2 Preparation-Unless otherwise specified in the appli­
+cable product specification, test specimens shall be prepared in 
+accordance w1th the latest issue of Test Methods and Defini­
+tions A370, and especially Supplement I thereof. 
+6.2 Methods of Mechanical Testing-All mechanical tests 
+shall be conducted in accordance with the latest issue of Test 
+Methods and Definitions A370, and especially Supplement I 
+thereof, on steel bar products. 
+6.3 Retests: 
+6.3.1 If any test specimen shows defective machining or 
+develops flaws, the specimen may be discarded and another 
+substituted. 
+6.3.2 If the percentage elongation of any tension specimen 
+is less than that specified and any part of the fracture is more 
+than ¾ in. [20 mm] from the center of a 2 in. [50 mm] 
+specimen, or is outside the middle half of the gage length of an 
+8 in. [200 mm] specimen as indicated by scribe scratches 
+marked on the specimen before testing, a retest shall be 
+allowed. 
+6.3.3 For "as-wrought" material, if the results for any 
+original tension specimen are within 2000 psi [14 MPa] of the 
+required tensile strength, within 1000 psi [7 MPa] of the 
+required yield point, or within 2 % of the required elongation, 
+retesting shall be permitted. If the original testing required only 
+one test, the retest shall consist of two random tests from the 
+heat or lot involved. If the original testing required two tests of 
+which one failed by the amounts listed in this paragraph, the 
+retest shall be made on one random test from the heat or lot. If 
+the results on the retest specimen or specimens meet the 
+specified requirements, the heat or test lot will be accepted. If 
+the results of one retest specimen do not meet the specified 
+requirements, the material is subject to rejection. 
+6.3.4 For thermally treated bars, if the results of the me­
+chanical tests do not conform to the requirements specified, 
+two more tests may be selected for each bar failing, and each 
+of these retests shall conform to the requirements of the 
+product specification. 
+6.3.5 If a bend specimen fails, due to conditions of bending 
+more severe than required by the specification, a retest shall be 
+permitted from the heat or test lot involved for which one 
+random specimen for each original specimen showing failure 
+shall be used. If the results on the retest specimen meet the 
+requirements of the specification, the heat or test lot will be 
+accepted. 
+7. Dimensions, Mass, and Permissible Variations 
+7 .1 Hot-Wrought Bars-The permissible variations for di­
+mensions of hot-wrought carbon and alloy steel bars shall not 
+exceed the applicable limits stated in Annex Al for inch-pound 
+values and Annex A2 for metric values. 
+8. Workmanship, Finish, and Appearance 
+8.1 The material shall be free of injurious defects and shall 
+have a workmanlike finish. 
+9. Rework and Retreatment 
+109 
+9.1 For thermally treated bars only, the manufacturer may 
+retreat a lot one or more times, and retests shall be made in the 
+same manner as the original tests. Each such retest shall 
+conform to the requirements specified. 
+10. Inspection 
+10.1 The inspector representing the purchaser shall have 
+entry, at all times while work on the contract of the purchaser 

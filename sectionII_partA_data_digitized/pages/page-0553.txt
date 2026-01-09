@@ -1,0 +1,50 @@
+ASME BPVC.II.A-2025 
+TABLE 7 
+IMPACT TEMPERATURE REDUCTION 
+Specimen Width Along Notch or Actual 
+Material Thickness [Note (l)J 
+Inches Millimeters 
+0.394 10 (standard size) 
+0.354 9 
+0.315 8 
+0.295 7.5 <% standard size) 
+0.276 7 
+0.262 6.6 7 <% standard size) 
+0.236 6 
+0.197 5 <% standard size) 
+0.158 4 
+0.131 3.33 <% standard size) 
+0.118 3 
+0.099 2.5 <% standard size) 
+NOTE: 
+(1) Straight line interpolation for intermediate values is permitted. 
+501 
+Temperature Reduction, 
+Degrees Colder 
+OF 
+0 
+0 
+0 
+5 
+8 
+10 
+15 
+20 
+30 
+35 
+40 
+50 
+SA-334/SA-334M 
+oc 
+0 
+0 
+0 
+3 
+4 
+5 
+8 
+11 
+17 
+19 
+22 
+28 

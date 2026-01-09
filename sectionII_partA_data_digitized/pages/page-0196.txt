@@ -1,0 +1,101 @@
+SA-53/SA-53M ASME BPVC.II.A-2025 
+I t =·specified wall thickness! 
+- \J ]jil/2% ;-OR LESS 
+B (BUTTRESS) NOTCH 
+VIQNOTCH 
+□J20%t--ORLESS 
+AREA OF EACH SIDE, 0.006 ln. 2 [3.9 mm 2 ) MAX 
+-
+1 0.Q<l~,n. [1.0 
+MAX 
+DEPTH rure:t!:!. 
+10% t, :1:15% 
+WITH MIN OF 
+0.012 :t 0,002 In, 
+(0.3 = 0.05 mm] 
+LENGTH 
+FOR EDDY CURRENT - 1.5 In. [38 mmJ MAX 
+Total Length 
+FOR DIVERTED FLlJ)( 
+AND UL1RASON1C ~ 2 In. [SO mm} MAX 
+at Full Depth 
+ti!!2!:'!Q!9:! 
+-I hl/sln. I [3.2.mmJ 
+~ 
+FIG. 1 Calibration Standards 
+Type Notch 
+N10, V10 
+B,P 
+TABLE 3 Acceptance Limits 
+Size of Hole 
+in. mm 
+3.2 
+Acceptance 
+Limit 
+Signal,% 
+100 
+80 
+produce a signal greater than the acceptance limit signal given 
+in Table 3 shall be considered a defect unless the pipe 
+manufacturer can demonstrate that the imperfection does not 
+reduce the effective wall thickness beyond 12.5 % of the 
+specified wall thickness. 
+9.2 Type S Pipe-As an alternative to the hydrostatic test at 
+the option of the manufacturer or if specified in the purchase 
+order, the full body of each seamless pipe shall be tested with 
+a nondestructive electric test in accordance with Practice E213, 
+E309, or E570. In such cases, each length so furnished shall 
+include the mandatory marking of the letters "NDE." Except as 
+allowed by 9.2.6.2, it is the intent of this nondestructive electric 
+test to reject pipe with imperfections that produce test signals 
+equal to or greater than those produced by the applicable 
+calibration standards. 
+9.2.1 If the nondestructive electric test has been performed, 
+the lengths shall be marked with the letters "NDE." The 
+certification, if required, shall state Nondestructive Electric 
+Tested and shall indicate which of the tests was applied. Also, 
+the letters NDE shall be appended to the product specification 
+number and grade shown on the certification. 
+9 .2.2 The following information is intended to facilitate the 
+use of this specification: 
+9.2.2.1 The calibration standards defined in 9.2.3 through 
+9.2.5 are convenient standards for calibration of nondestructive 
+testing equipment. The dimensions of such standards are not to 
+be construed as the minimum sizes of imperfections detectable 
+by such equipment. 
+9.2.2.2 The ultrasonic testing referred to in this specification 
+is capable of detecting the presence and location of significant 
+longitudinally or circumferentially oriented imperfections; 
+however, different techniques need to be employed for the 
+detection of differently oriented imperfections. Ultrasonic test­
+ing is not necessarily capable of detecting short, deep imper­
+fections. 
+9.2.2.3 The eddy current examination referenced in this 
+specification has the capability of detecting significant 
+discontinuities, especially of the short abrupt type. 
+9.2.2.4 The flux leakage examination referred to in this 
+specification is capable of detecting the presence and location 
+of significant longitudinally or transversely oriented disconti­
+nuities. The provisions of this specification only require 
+longitudinal calibration for flux leakage. Different techniques 
+need to be employed for the detection of differently oriented 
+imperfections. 
+9.2.2.5 The hydrostatic test referred to in 8.2 has the 
+capability of finding imperfections of a size permitting the test 
+fluid to leak through the tube wall and may be either visually 
+seen or detected by a loss of pressure. Hydrostatic testing is not 
+necessarily capable of detecting very tight through-the-wall 
+imperfections or imperfections that extend an appreciable 
+distance into the wall without complete penetration. 
+144 
+9.2.2.6 A purchaser interested in ascertaining the nature 
+(type, size, location, and orientation) of imperfections that are 
+capable of being detected in the specific application of these 
+examinations is directed to discuss this with the manufacturer 
+of the tubular product. 
+9.23 For ultrasonic testing, the calibration reference 
+notches shall be at the option of the manufacturer, and shall be 
+any one of the three common notch shapes shown in Practice 
+E213. The depth of notch shall not exceed 12.5 % of the 
+specified wall thickness of the pipe or 0.004 in. [0.1 mm], 
+whichever is the greater. 

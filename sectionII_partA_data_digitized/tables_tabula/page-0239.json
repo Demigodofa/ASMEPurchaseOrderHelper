@@ -1,0 +1,81 @@
+[
+  {
+    "rows": [
+      [
+        "Tensile strength, min, ksi [MPa]",
+        "",
+        "",
+        "",
+        "",
+        "48 [330]",
+        "60 [415]"
+      ],
+      [
+        "Yield strength, min, ksi [MPa]",
+        "",
+        "",
+        "",
+        "",
+        "30 [205]",
+        "35 [240]"
+      ],
+      [
+        "Elongation in 2 in. or [50 mm], min, %: . .",
+        ".",
+        ".",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "For pipe having a specified wall thickness of '1\u20442sin. [7.9 mm] or more, 1f tested using a longitudinal",
+        "",
+        "",
+        "",
+        "",
+        "35",
+        "30"
+      ],
+      [
+        "strip test specimen.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "For pipe having a specified wall thickness of less than 6/,s in. [7.9 mm], if tested using a longitudinal",
+        "",
+        "",
+        "",
+        "",
+        "A",
+        "B"
+      ],
+      [
+        "strip test specimen.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "For pipe of any size, if tested using a full-size longitudinal test specimen.",
+        "",
+        "",
+        "",
+        "",
+        "35",
+        "30"
+      ]
+    ]
+  },
+  {
+    "rows": []
+  }
+]

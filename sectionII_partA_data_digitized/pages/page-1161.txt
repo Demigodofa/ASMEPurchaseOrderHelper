@@ -1,0 +1,67 @@
+ASME BPVC.II.A-2025 SA-656/SA-656M 
+TABLE 1 Chemical Requirements 
+NO'l'E 1-An ellipsis ( ... ) indicates that element is not defined for that Type. 
+Elements Composition, % 
+Type 3 Type 7 Type 8 
+Carbon, maxA 0.18 0.18 0.18 
+Manganese, maxA 1.65 1.65 1.65 
+Phosphorus, max 0.025 0.025 0.025 
+Sulfur, max 0.030 0.030 0.030 
+Silicon, max 0.60 0.60 0.60 
+Vanadium, max 0.08 0.15 8 0.15° 
+Nitrogen, max 0.030 0.030 0.030 
+Columbium (niobium} 0 0.008-0.10 0.10 max 8 0.10 max 0 
+Titanium, max 0.15° 
+A For each reduction of 0.01 percentage point below the specified maximum for carbon, an increase of 0.06 percentage points above the specified maximum for 
+manganese is permitted, up to a maximum of 1.75 % for Grades 50, 60, and 70 [345,415, and 485 MPa]; up to a maximum of 1.90 % for Grade 80 [550]; and up to a 
+maximum of 2.10 % for Grade 100 [690]. 
+8 The contents of columbium (niobium} and vanadium shall additionally be in accordance with one of the following: 
+Columbium (niobium} 0.008-0.10 % with vanadium <0.008 %; 
+Columbium (niobium} <0.008 % with vanadium 0.008-0.15 %; or 
+Columbium (niobium} 0.008-0.10 % with vanadium 0.008-0.15 % and columbium (niobium} plus vanadium not in excess of 0.20 %. 
+0 The sum of columbium (niobium), vanadium, and titanium shall be between 0.008 and 0.20 %. 
+° Columbium and niobium are interchangeable names for the same element. 
+TABLE 2 Tensile RequirementsA 
+Grade 50 
+[345] 
+Grade 60 
+[415] 
+Yield point, min, ksl [MPa] 50 [345] 60 [415] 
+Tensile strength, min, ksi [MPa] 60 [415] 70 [485] 
+Elongation in 8 in. [200 mm], min,% 20 8 17 8 
+Elongation in 2 in. [50 mm], min, % 23 8 20 8 
+A See Specimen Orientation under the Tension Tests section of Specification A6/A6M. 
+Grade 70 
+[485] 
+70 [485] 
+80 [550] 
+14 8 
+17B 
+Grade 80 
+[550] 
+80 [550] 
+90 [620] 
+12 8 
+15 8 
+Grade 100 
+[690] 
+100 [690] 
+110 [760] 
+12 8 
+15 8 
+8 For plates wider than 24 in. [600 mm], the elongation requirement is reduced two percentage points for Grade 50 [345] and three percentage points for Grades 60, 70, 
+80, and 100 [415, 485, 550, and 690]. See Elongation Requirement Adjustments in the Tension Tests section of Specification A6/A6M. 
+5.3 Where steel is to be welded, it is presupposed that a 
+welding procedure suitable for the grade of steel and intended 
+use or service will be utilized. See Appendix X3 of Specifica­
+tion A6/ A6M for information on weldability. 
+5.4 Unless specifically ordered, the type is at the discretion 
+of the producer. 
+6. Mechanical Properties 
+6.1 Tensile Properties: 
+6.1.1 The plates as represented by the test specimens shall 
+conform to the requirements given in Table 2. 
+7. Keywords 
+7.1 high-strength low-alloy steel; steel plates; structural 
+applications 
+1069 

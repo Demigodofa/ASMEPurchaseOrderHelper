@@ -1,0 +1,110 @@
+ASME BPVC.II.A-2025 SA-335/SA-335M (ASTM A335/A335M) 
+17 .1.4.1 Pipe shall be ordered to nominal pipe size and 
+schedule specified in ASME B36.10M 
+Example: A335/A335M Pipe P-11 NPS 12 Sch 40 
+Specification Number 
+Pipe 
+Grade 
+NPS 
+Wall 
+17.1.4.2 
+Specification Number 
+Tube 
+Grade 
+Outside Diameter 
+Wall 
+ASTM A335/A335M 
+p 
+P-11 
+12 
+0.375 
+ASTM A335/A335M 
+T 
+P-11 
+0.250 
+0.035 
+17.1.5 Ordering Information-Orders for material under 
+this specification shall include the following in addition to the 
+requirements of Section 3: 
+17.1.5.1 Pipe or tube, 
+17.1.5.2 Part number, 
+17 .1.5.3 Ultrasonic inspection, if required, 
+17 .1.5 .4 If shear wave test is to be conducted in two 
+opposite circumferential directions, and 
+17 .1.5.5 Level of preservation and packing required. 
+18. Keywords 
+18.1 alloy steel pipe; high temperature service; seamless 
+steel pipe; steel pipe; temperature service applications 
+SUPPLEMENTARY REQUffiEMENTS 
+One or more of the following supplementary requirements shall apply only when specified in the 
+purchase order. The purchaser may specify a different frequency of test or analysis than is provided 
+in the supplementary requirement. Subject to agreement between the purchaser and manufacturer, 
+retest and retreatment provisions of these supplementary requirements may also be modified. 
+Sl. Product Analysis 
+S 1. 1 Product analysis shall be made on each length of pipe. 
+Individual lengths failing to conform to the chemical compo­
+sition requirements shall be rejected. 
+S2. Transverse Tension Tests 
+S2.1 A transverse tension test shall be made on a specimen 
+from one end or both ends of each pipe NPS 8 and over. If this 
+supplementary requirement is specified, the number of tests per 
+pipe shall also be specified. If a specimen from any length fails 
+to meet the required tensile properties (tensile, yield, and 
+elongation), that length shall be rejected subject to retreatment 
+in accordance with Specification A999/A999M and satisfac­
+tory retest. 
+S3. Flattening Test 
+S3.l The flattening test of Specification A999/A999M shall 
+be made on a specimen from one end or both ends of each pipe. 
+Crop ends may be used. If this supplementary requirement is 
+specified, the number of tests per pipe shall also be specified. 
+If a specimen from any length fails because of lack of ductility 
+prior to satisfactory completion of the first step of the flattening 
+test requirement, that pipe shall be rejected subject to retreat­
+ment in accordance with Specification A999/A999M and 
+satisfactory retest. If a specimen from any length of pipe fails 
+because of a lack of soundness that length shall be rejected, 
+unless subsequent retesting indicates that the remaining length 
+is sound. The bend test shall be substituted for the flattening 
+test for pipe whose diameter exceeds NPS 25 and whose 
+diameter to wall thickness ratio is 7 .0 or less. 
+S4. Metal Structure and Etching Tests 
+S4. l The steel shall be homogeneous as shown by etching 
+tests conducted in accordance with the appropriate portions of 
+Method E381. Etching tests shall be made on a cross section 
+from one end or both ends of each pipe and shall show sound 
+and reasonably uniform material free from injurious 
+laminations, cracks, and similar objectionable defects. If this 
+supplementary requirement is specified, the number of tests per 
+pipe required shall also be specified. If a specimen from any 
+length shows objectionable defects, the length shall be rejected, 
+subject to removal of the defective end and subsequent retests 
+indicating the remainder of the length to be sound and 
+reasonably uniform material. 
+Norn S4.1-Pending development of etching methods applicable to the 
+product covered by this specification, it is recommended that the Recom­
+mended Practice for a Standard Macro Etch Test for Routine Inspection of 
+Iron and Steel, described in the Metals Handbook, Am. Soc. for Metals, 
+1948 edition, p. 389, be followed. 
+SS. Photomicrographs 
+S5.1 When requested by the purchaser and so stated in the 
+order, the manufacturer shall furnish one photomicrograph at 
+100 diameters from a specimen of pipe in the as-finished 
+condition for each individual size and wall thickness from each 
+heat, for pipe NPS 3 and over. Such photomicrographs shall be 
+suitably identified as to pipe size, wall thickness, and heat. No 
+photomicrographs for the individual pieces purchased shall be 
+required except as specified in Supplementary Requirement S6. 
+Such photomicrographs are for information only, to show the 
+actual metal structure of the pipe as finished. 
+515 
+S6. Photomicrographs for Individual Pieces 
+S6.1 In addition to the photomicrographs required in accor­
+dance with Supplementary Requirement S5, the purchaser may 
+specify that photomicrographs shall be furnished from each 
+end of one or more pipes from each lot of pipe NPS 3 and 
+larger in the as-finished condition. The purchaser shall state in 
+the order the number of pipes to be tested from each lot. When 
+photomicrographs are required on each length, the photomi­
+crographs from each lot of pipe in the as-finished condition 
+which may be required under Supplementary Requirement S5 

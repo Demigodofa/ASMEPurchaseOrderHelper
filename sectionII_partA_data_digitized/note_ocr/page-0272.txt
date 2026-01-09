@@ -1,0 +1,127 @@
+SA-182/SA-182M (ASTM A182/A182M) ASME BPVC.II.A-2025
+
+TABLE 2 Continued
+
+Grade/Identifi- UNS Composition, %
+
+cation Desig- Carbon Manga- Phos- Sulfur Silicon Nickel Chromium Molybde- — Niobium® —Titan- Other
+Symbol nation nese phorus num ium Elements
+F 60 $32205 0.030 2.00 0.030 0.020 1.00 45-6.5 22.0-23.0 3.0-3.5 N 0.14-0.20
+Fet $32550 0.040 1.50 0.040 0.030 1.00 45-65  24.0-27.0 2.9-3.9 Cu 1.50-2.50
+N 0.10-0.25
+F65 $32906 0.030 0.80-1.50 0.030 0.030 0.80 5.8-7.5  28.0-30.0 1.5-2.6 os «Cu 0.80
+N 0.30-0.40
+F 66 $32202 0.030 2.00 0.040 0.010 1.00 1.00-2.80  21.5-24.0 0.45 N 0.18-0.26
+F 67 $32506 0.030 1.00 0.040 0.015 0.90 5.5-7.2 24.0-26.0 3.0-3.5 N 0.08-0.20
+W 0.05-0.30
+F 68 $32304 0.030 2.50 0.040 0.030 1.00 3.0-5.5 21,5-24.5 0.05-0.60 N 0.05-0.20
+Cu 0.05-0.60
+F71 $32808 0.030 1.10 0.030 0.010 0.50 7.0-8.2 27.0-27.9 0.80-1.2 N 0.30-0.40
+W 2.10-2.50
+4 All values are maximum unless otherwise stated. Where ellipses (...) appear in this table, there is no requirement and analysis for the element need not be determined
+or reported.
+
+® Niobium and columbium are interchangeable names for the same element and both names are acceptable for use in A01.22 specifications.
+
+© Grade F 2 was formerly assigned to the 1 % chromium, 0.5 % molybdenum grade which is now Grade F 12.
+
+© The present grade F 5a (0.25 max carbon) previous to 1955 was assigned the identification symbol F 5. Identification symbol F 5 in 1955 was assigned to the 0.15 max
+carbon grade to be consistent with ASTM specifications for other products such as pipe, tubing, bolting, welding fittings, and the like.
+
+= Applies to both heat and product analyses.
+
+For Grade F 22V, rare earth metals (REM) may be added in place of calcium, subject to agreement between the producer and the purchaser. In that case the total amount
+of REM shall be determined and reported.
+
+@ The ratio of Titanium to Nitrogen shall be = 3.5. Alternatively, in lieu of this ratio limit, Grade F 23 shall have a minimum hardness of 275 HV (26 HRC, 258 HBW) in
+the hardened condition (see 3.2.1). Hardness testing shall be performed in accordance with 9.6.3, and the hardness testing results shall be reported on the material test
+report (see 18.2.5).
+
+4 Grade F XM-27Cb shall have a nickel plus copper content of 0.50 max %. Product analysis tolerance over the maximum specified limit for carbon and nitrogen shall be
+
+0.002 %.
+
+' Grade F 316Ti shall have a titanium content not less than five times the carbon plus nitrogen content and not more than 0.70 %.
+
+’ Grade F 321 shall have a titanium content of not less than five times the carbon plus nitrogen content and not more than 0.70 %.
+
+* Grade F 321H shall have a titanium content of not less than four times the carbon plus nitrogen content and not more than 0.70 %.
+
+* Grades F 347 and F 348 shall have a niobium (columbium) content of not less than ten times the carbon content and not more than 1.10 %.
+
+™ Grades F 347H and F 348H shall have a niobium (columbium) content of not less than eight times the carbon content and not more than 1.10 %.
+
+" Grade F 347LN, Grade F 347LNCuB, and Grade F 317LNCb shall have a niobium (columbium) content of not less than 15 times the carbon content.
+
+2% Cr + 3.3 x % (Mo + YW) + 16 x % N= 41 min.
+
+” Chromium Nickel Balance is defined as CNB = (Cr+6Si+4Mo+1.5W+11V+5Nb+9Ti+12Al) — (40C+30N+4Ni+2Mn+1Cu).
+
+2 Al + Ti shall be 0.85 % min: 1.20 % max.
+
+® The method of analysis for nitrogen shall be a matter of agreement between purchaser and manufacturer.
+
+parts, or parts with thick cross-sectional areas where 4 T x T
+testing (see 9.3) is not practical. Sketches showing the exact
+test locations shall be approved by the purchaser when this
+method is used.
+
+9.3.2 Metal Buffers—The required distances from heat-
+treated surfaces may be obtained with metal buffers instead of
+integral extensions. Buffer material may be carbon or low-alloy
+steel, and shall be joined to the forging with a partial
+penetration weld that seals the buffered surface. Specimens
+shall be located at /2-in. [13-mm] minimum from the buffered
+surface of the forging. Buffers shall be removed and the welded
+areas subjected to magnetic particle test to ensure freedom
+from cracks unless the welded areas are completely removed
+by subsequent machining.
+
+9.4 For annealed low alloy steels, ferritic stainless steels,
+and martensitic stainless steels, and also for austenitic and
+ferritic-austenitic stainless steels, the test specimen may be
+taken from any convenient location.
+
+9.5 Tension Tests:
+
+9.5.1 Low Alloy Steels and Ferritic and Martensitic Stain-
+less Steels—One tension test shall be made for each heat in
+each heat treatment charge.
+
+9.5.1.1 When the heat-treating cycles are the same and the
+furnaces (either batch or continuous type) are controlled within
+£25 °F [+14 °C] and equipped with recording pyrometers so
+
+that complete records of heat treatment are available, then only
+one tension test from each heat of each forging type (see Note
+1) and section size is required, instead of one test from each
+heat in each heat-treatment charge.
+
+Note 1—“Type” in this case is used to describe the forging shape such
+as a flange, ell, tee, and the like.
+
+9.5.2 Austenitic and Ferritic-Austenitic Stainless Steel
+Grades—One tension test shall be made for each heat.
+
+9.5.2.1 When heat treated in accordance with 7.1, the test
+blank or forging used to provide the test specimen shall be heat
+treated with a finished forged product.
+
+9.5.2.2 When the alternative method in 7.3.1 is used, the test
+blank or forging used to provide the test specimen shall be
+forged and quenched under the same processing conditions as
+the forgings they represent.
+
+9.5.3 Testing shall be performed as specified in Specifica-
+tion A961/A961M using the largest feasible of the round
+specimens.
+
+9.6 Hardness Tests:
+
+9.6.1 Except when only one forging is produced, a mini-
+mum of two pieces per batch or continuous run as defined in
+9.6.2 shall be hardness tested as specified in Specification
+A961/A961M to ensure that the forgings are within the
+hardness limits given for each grade in Table 3. The purchaser
+
+220

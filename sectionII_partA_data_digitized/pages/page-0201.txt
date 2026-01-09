@@ -1,0 +1,77 @@
+ASME BPVC.II.A-2025 SA-53/SA-53M 
+SUPPLEMENTARY REQUIREMENTS 
+The following supplementary requirements shall apply only when specified in the purchase order. 
+The purchaser may specify a different frequency of test than is provided in the supplementary 
+requirement. Subject to agreement between the purchaser and manufacturer, retest and retreatment 
+provisions of these supplementary requirements may also be modified. 
+Sl. Flattening Test, Seamless Pipe 
+Sl.1 A test specimen at least 2½ in. [60 mm] in length shall 
+be flattened cold between parallel plates in two steps. During 
+the first step, which is a test for ductility, except as allowed by 
+S 1.3, S 1.4, and S 1.5, no cracks or breaks on the inside, outside, 
+or end surfaces shall be present before the distance between the 
+plates is less than the value of H calculated as follows: 
+H = (1 +e)tl(e+t!D) 
+where: 
+H = distance between flattening plates, in. [mm], 
+e = deformation per unit length (constant for a given grade 
+of steel, 0.09 for Grade A, and 0.07 for Grade B), 
+t = specified wall thickness, in. [mm], and 
+D = specified outside diameter, in. [mm] 
+The H values have been calculated for standard-weight and 
+extra-heavy weight pipe from NPS 2V2 to NPS 24 [DN 65 to 
+DN 600], inclusive, and are given in Table X2.1. 
+Sl.2 During the second step, which is a test for soundness, 
+the flattening shall be continued until the test specimen breaks 
+or the opposite sides of the test specimen meet. Evidence of 
+laminated or unsound material that is revealed during the entire 
+flattening test shall be cause for rejection. 
+Sl.3 Surface imperfections in the test specimen before 
+flattening, but revealed during the first step of the flattening 
+test, shall be judged in accordance with the finish requirements 
+in Section 12. 
+S 1.4 Superficial ruptures as a result of surface imperfections 
+shall not be cause for rejection. 
+Sl.5 For pipe with a D-to-t ratio less than 10, because the 
+strain imposed due to geometry is unreasonably high on the 
+inside surface at the 6 and 12 o'clock locations, cracks at such 
+locations shall not be cause for rejection. 
+Sl.6 One test shall be made on test specimens taken from 
+one length of pipe from each lot of each pipe size. A lot shall 
+contain no more than one heat, and at the option of the 
+manufacturer shall contain no more than 500 lengths of pipe 
+(as initially cut after the final pipe-forming operation, prior to 
+any further cutting to the required ordered lengths) or 50 tons 
+[ 45 Mg] of pipe. 
+S 1. 7 If the results of a test for a lot fail to conform to the 
+applicable requirements, the lot shall be rejected unless tests of 
+additional pipe from the affected lot of double the number 
+originally tested are subsequently made and each such test 
+conforms to the specified requirements. Only one retest of any 
+lot will be permitted. Any individual length of pipe that 
+conforms to the test requirements is acceptable. Any individual 
+length of pipe that does not conform to the test requirements 
+may be resubmitted for test and will be considered acceptable 
+if tests taken from each pipe end conform to the specified 
+requirements. 
+APPENDIXES 
+(Nonmandatory Information) 
+Xl. DEFINITIONS OF TYPES OF PIPE 
+Xl.1 Type F, Furnace-Butt-Welded Pipe, Continuous-
+Welded Pipe-Pipe produced in multiple lengths from 
+coiled skelp and subsequently cut into individual lengths, 
+having its longitudinal butt joint forge welded by the mechani­
+cal pressure developed in rolling the hot-formed skelp through 
+a set of round pass welding rolls. 
+Xl.2 Type E, Electric-Resistance-Welded Pipe-Pipe pro­
+duced in single lengths, or in multiple lengths from coiled 
+skelp and subsequently cut into individual lengths, having a 
+149 
+longitudinal butt joint wherein coalescence is produced by the 
+heat obtained from resistance of the pipe to the flow of electric 
+current in a circuit of which the pipe is a part, and by the 
+application of pressure. 
+Xl.3 Type S, Seamless Pipe-Pipe made without a welded 
+seam. It is manufactured by hot working steel and, if necessary, 
+by subsequently cold finishing the hot-worked tubular product 
+to produce the desired shape, dimensions, and properties. 

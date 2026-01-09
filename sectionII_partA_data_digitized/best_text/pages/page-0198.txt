@@ -1,0 +1,113 @@
+SA-53/SA-53M ASME BPVC.II.A-2025 
+pipe NPS 4 [DN 100] or larger shall have thread protectors on 
+the ends not protected by a coupling. 
+11.3 If ordered with couplings, one end of each length of 
+pipe shall be provided with a coupling manufactured in 
+accordance with Specification A865/ A865M. The coupling 
+threads shall be in accordance with the gaging practice of ANSI 
+B 1.20.1. The coupling shall be applied handling-tight, unless 
+power-tight is specified in the purchase order. Couplings are to 
+be made of steel. Taper-tapped couplings shall be furnished on 
+all threaded pipe NPS 2½ [DN 65] or larger. For pipe smaller 
+than NPS 2½ [DN 65], it is regular practice to furnish 
+straight-tapped couplings for standard-weight pipe and taper­
+tapped couplings for extra-strong and double extra-strong 
+weight pipe. If taper-tapped couplings are required for 
+standard-weight pipe smaller than NPS 2½ [DN 65], it is 
+recommended that line pipe threads in accordance with API 
+Specification 5B be ordered. The taper-tapped couplings pro­
+vided on line pipe in such sizes may be used on mill-threaded 
+standard-weight pipe of the same size. 
+12. Workmanship, Finish, and Appearance 
+12.1 The pipe manufacturer shall explore a sufficient num­
+ber of visual surface imperfections to provide reasonable 
+assurance that they have been properly evaluated with respect 
+to depth. 
+12.2 Surface imperfections that penetrate more than 12.5 % 
+of the specified wall thickness or encroach on the minimum 
+wall thickness shall be considered defects. Pipe with defects 
+shall be given one or more of the following dispositions: 
+12.2.1 The defect shall be removed by grinding, provided 
+that the remaining wall thickness is within specified limits, 
+12.2.2 Type S pipe and the parent metal of Type E pipe, 
+except within ½ in. [13 mm] of the fusion line of the 
+electric-resistance-weld seam, are permitted to be repaired in 
+accordance with the welding provisions of 12.5. Repair weld­
+ing of Type F pipe and the weld seam of Type E pipe is 
+prohibited. 
+12.2.3 The section of pipe containing the defect shall be cut 
+off within the limits of requirement on length, or rejected. 
+12.3 At the purchaser's discretion, pipe shall be subjected to 
+rejection if surface defects repaired in accordance with 12.2 are 
+not scattered, but appear over a large area in excess of what is 
+considered a workmanlike finish. Disposition of such pipe shall 
+be a matter of agreement between the manufacturer and the 
+purchaser. 
+12.4 For the removal of imperfections and defects by 
+grinding, a smooth curved surface shall be maintained, and the 
+wall thickness shall not be decreased below that permitted by 
+this specification. It shall be permissible to reduce the outside 
+diameter at the point of grinding by the amount so removed. 
+12.5 Weld repair shall only be permitted with the approval 
+of the purchaser and in accordance with Specification A530/ 
+A530M. 
+12.6 The finished pipe shall be reasonably straight. 
+12.7 The pipe shall contain no dents greater than 10 % of 
+the pipe diameter or ¼ in. [6 mm], whichever is smaller, 
+146 
+measured as the gap between the lowest point of the dent and 
+a prolongation of the original contour of the pipe. Cold-formed 
+dents deeper than 1/s in. [3 mm] shall be free of sharp-bottomed 
+gouges; it shall be permissible to remove the gouges by 
+grinding, provided that the remaining wall thickness is within 
+specified limits. The length of the dent in any direction shall 
+not exceed one half the specified outside diameter of the pipe. 
+13. Number of Tests 
+13.1 Except as required by 13.2, one of each of the tests 
+specified in Section 7 shall be made on test specimens taken 
+from one length of pipe from each lot of each pipe size. For 
+continuous-welded pipe, each lot shall contain no more than 25 
+tons [23 Mg] of pipe for pipe sizes NPS 1 ½ [DN 40] and 
+smaller, and no more than 50 tons [ 45 Mg] of pipe for pipe 
+sizes larger than NPS 1 ½ [DN 40]. For seamless and electric­
+resistance-welded pipe, a lot shall contain no more than one 
+heat, and at the option of the manufacturer shall contain no 
+more than 500 lengths of pipe (as initially cut after the final 
+pipe-forming operation, prior to any further cutting to the 
+required ordered lengths) or 50 tons [45 Mg] of pipe. 
+13.2 The number of flattening tests for electric-resistance­
+welded pipe shall be in accordance with 7.3.3.2 or 7.3.3.3, 
+whichever is applicable. 
+13.3 Except as allowed by 9.2, each length of pipe shall be 
+subjected to the hydrostatic test (see Section 8). 
+14. Retests 
+14.1 Except for flattening tests of electric-resistance-welded 
+pipe, if the results of a mechanical test for a lot fail to conform 
+to the applicable requirements specified in Section 7, the lot 
+shall be rejected unless tests of additional pipe from the 
+affected lot of double the number originally tested are subse­
+quently made and each such test conforms to the specified 
+requirements. Only one retest of any lot will be permitted. Any 
+individual length of pipe that conforms to the test requirements 
+is acceptable. Any individual length of pipe that does not 
+conform to the test requirements may be resubmitted for test 
+and will be considered acceptable if tests taken from each pipe 
+end conform to the specified requirements. 
+14.2 Electric-Resistance-Welded Pipe Produced in Single 
+Lengths-If any flattening test result fails to conform to the 
+requirements specified in 7.3.3, the affected single length shall 
+be rejected unless the failed end is subsequently retested using 
+the same weld orientation as the failed test and a satisfactory 
+test result is obtained before the pipe's length is reduced by 
+such testing to less than 80 % of its length after the initial 
+cropping. 
+14.3 Electric-Resistance-Welded Pipe Produced in Multiple 
+Lengths-If any flattening test result fails to conform to the 
+requirements specified in 7.3.3, the affected multiple length 
+shall be rejected or flattening tests shall be made using a test 
+specimen taken from each end of each individual length in the 
+failed multiple length. For each pipe end, such tests shall be 
+made with the weld alternately at 0° and 90° from the line of 
+direction of force. Individual lengths are considered acceptable 
+if the test results for both pipe ends conform to the specified 
+requirements. 

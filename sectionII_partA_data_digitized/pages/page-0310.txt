@@ -1,0 +1,113 @@
+SA-194/SA-194M ASME BPVC.II.A-2025 
+TABLE S4.1 Proof Load for Large Heavy Hex Nuts - lnchA 
+Nominal 
+Size, in. 
+1% 
+1¾ 
+Fla 
+2 
+2¼ 
+2½ 
+2¾ 
+Threads 
+per in. 
+8 
+8 
+8 
+8 
+8 
+8 
+8 
+Stress Area, 
+in. 2 
+1.78 
+2.08 
+2.41 
+2,77 
+3,56 
+4.44 
+5.43 
+Grade 1 Heavy Hex 
+231 400 
+270 400 
+313 300 
+360 100 
+462 800 
+577 200 
+705 900 
+Proof Load, lbf 8 
+Grades 2, 2HM, 6, 6F, 7M 
+Heav Hex 
+267 000 
+312 000 
+361 500 
+415 500 
+534 000 
+666 000 
+814 500 
+Grades 2H, 3, 7, 43, 16 
+Heav Hex 
+311 500 
+364 000 
+421 800 
+484 800 
+623 000 
+777 000 
+950 250 
+A ASME B18.2.2 in the size range over 1 ½ in. provides dimensions only for heavy hex nuts. Refer to 8.3.1. 
+8 Proof loads for nuts of larger dimensions or other thread series may be calculated by multiplying the thread stress area times the proof stress in the notes to Table 3 
+or Table S1, 1, The proof load for jam nuts shall be 46 % of the tabulated load. 
+TABLE S4.2 Proof Load for Large Heavy Hex Nuts - MetricA 
+Nominal Thread Stress Area, Proof Load, kN 8 
+Size, Pitch mm 2 Grade 1 Heavy Hex Grades 2, 2HM, 6, 6F, 7M Grades 2H, 3, 7, 43, 16 
+mm Heav Hex Heav Hex 
+M42 4.5 1120 1002.4 1159.2 1349,6 
+M48 5 1470 1315,7 1521.4 1771.4 
+M56 5,5 2030 1816,9 2101.0 2446,2 
+M64 6 2680 2398,6 2773,8 3229.4 
+M72 6 3460 3096,7 3581, 1 4169,3 
+A ASME B 18.2.4.6M in the size range over M36 provides dimensions only for heavy hex nuts. Refer to 7.3.1. 
+8 Proof loads for nuts of larger dimensions or other thread series may be calculated by multiplying the thread stress area times the proof stress in the notes to Table 4 
+or Table S1 .2. The proof load for jam nuts shall be 46 % of the tabulated load. 
+SS. Control of Product by Heat Number 
+S5.1 When control of nuts by actual heat analysis is 
+required and this supplementary requirement is specified, the 
+manufacturer shall identify the completed nuts in each ship­
+ment by the actual heat number. When this supplementary 
+requirement is specified, a certificate including the results of 
+the actual production tests of each test lot together with the heat 
+chemical analysis shall be furnished by the manufacturer. 
+S6. Grain Size Requirements for Non H Grade Austenitic 
+Steels Used Above 1000 °F 
+S6.l For design metal temperatures above 1000 °F [540 
+°C], the material shall have a grain size of No. 7 or coarser as 
+determined in accordance with Test Methods Ell2. The grain 
+size so determined shall be reported on the Certificate of Test. 
+S7. Coating on Nuts 
+S7.1 It is the purchaser's responsibility to specify in the 
+purchase order all information required by the coating facility. 
+Examples of such information may include but are not limited 
+to the following: 
+S7.l.1 Reference to the appropriate coating specification 
+and type, thickness, location, modification to dimensions, and 
+hydrogen embrittlement relief. 
+258 
+Norn S7.1-Modification of thread dimensions may result in loss of 
+load carrying ability. 
+S7.l.2 Reference to Specifications A153/A153M, B633, 
+B695, B696, B766, F1941/F1941M, F2329/F2329M, or Test 
+Method F1940, or other standards. 
+S8. Marking Coated Nuts 
+S8.1 Nuts coated with zinc shall have ZN marked after the 
+grade symbol. Nuts coated with cadmium shall have CD 
+marked after the grade symbol. 
+Norn SS.1-As an example, tbe marking for zinc-coated 2H bolting 
+components will now be 2HZN rather than 2H*. 
+S9. Proof Load Testing 
+S9.1 Proof load tests of nuts made to dimensions, thread 
+pitch, and configurations other than those covered in Table 3 or 
+Table 4 shall be made using loads agreed upon between the 
+manufacturer and the purchaser. 
+S10. 100 % Hardness Testing of Grade 2HM and 7M 
+S 10.1 Each nut shall be tested for hardness by indentation 
+method and shall meet the requirements specified in Table 2. 

@@ -1,0 +1,114 @@
+ASME BPVC.ILA-2025
+
+5.15.2 Class WP-WX—Radiographic inspection of all
+welds, made with or without the addition of filler metal, is
+required (see 5.5).
+
+5.15.3 Class WP-WU—Ultrasonic inspection of all welds,
+made with or without the addition of filler metal, is required
+(see 5.6).
+
+5.15.4 Deleted
+
+6. Heat Treatment
+
+6.1 Unless otherwise stated herein, heat treatment shall be
+performed after welding and in accordance with the require-
+ments of Table 2.
+
+6.1.1 No final heat treatment of welded fittings (HT-O)
+fabricated from ferritic/austenitic plate that has been heat
+treated as required by Table 2 for the particular grade, is
+required, provided material representative of the fittings, in-
+cluding base metal, weld metal, and heat affected zone, passes
+a Test Methods A923 Method B or C (See Note 1) corrosion
+evaluation per heat. Each fitting supplied under this require-
+ment shall be stenciled with the suffix HT-O.
+
+6.1.2 For materials not listed in Table 3 of Test Methods
+A923, the HT-O provision does not apply.
+
+Note 1—The Test Methods A923 test method (B or C) is at the
+manufacturer’s option, unless otherwise specified by the purchaser.
+
+6.2 All fittings machined directly from forgings or bars (see
+5.12), previously heat treated in accordance with the require-
+ments specified in Table 2, need not be reheat treated.
+
+SA-815/SA-815M
+
+7. Chemical Composition
+
+7.1 The chemical composition of each cast or heat shall be
+determined and shall conform to the requirements of the
+chemical composition for the respective grades of materials
+listed in Table 1. Methods and practices relating to chemical
+analyses required by this specification shall be in accordance
+with Methods, Practices, and Definitions A751. Product analy-
+sis tolerances in accordance with Specification A960/A960M
+are applicable.
+
+7.2 Except as listed below, in fittings of welded construc-
+tion, the composition of the deposited weld shall conform to
+the same requirements as the base metal.
+
+7.2.1 Welds on $32950 base metal shall be made with
+nominal 26 % Cr, 8 % Ni, 2 % Mo weld metal.
+
+7.2.2 Welds on S31803 base metal shall conform to the
+same requirements as the base metal or shall be made with
+nominal 22 % Cr, 9 % Ni, 3 % Mo weld metal.
+
+7.2.3 Welds on $32202 base metal shall be made with
+nominal 22 % Cr, 9 % Ni, 3 % Mo weld metal.
+
+8. Tensile Requirements
+
+8.1 The tensile properties of the fitting material shall con-
+form to the requirements of Table 3. The testing and reporting
+shall be performed in accordance with Specification A960/
+A960M.
+
+8.2 The fittings manufacturer shall perform a tensile test on
+material representative of the finished fitting. Records of the
+
+TABLE 2 Heat Treatment
+
+Stainless Steel All WP and CR Grades Temperature Cooling Tempering
+Temperature
+Ferritic All = 1200 °F [650 °C] As appropriate for grade Not specified
+Ferritic/Austenitic $31803 1870-2010 °F Water quench or Not required
+1020-1100 °C] rapidly cooled by
+other means
+$32101 1870 °F [1020 °C] min Water quench or Not required
+rapidly cooled by
+other means
+$32202 1870-1975 °F Water quench or Not required
+1020-1080 °C; rapidly cooled by
+other means
+$32205 1870-2010 °F Water quench Not required
+1020-1100 °C}
+$32750 1920-2060 °F Water quench or Not required
+1025-1125 °C) rapidly cooled by
+other means
+$32760 2010-2085 °F Water quench or Not required
+1100-1140 °C) rapidly cooled by
+other means
+$39274 1920-2060 °F Water quench or Not required
+[1025-1125 °C) rapidly cooled by
+other means
+$32550 1950-1975 °F Water quench Not required
+1065-1080 °C)
+$32950 Not specified Not specified Not required
+Martensitic $41000 = 1200°F [650°C] Not specified Not specified
+$41008 >1200°F [650°C] In still air Not specified
+as appropriate
+for grade
+$41500 = 1750 °F [955 °C] Air cool to = 200 °F 1050-1150 °F
+[95 °C] prior to any [565-620 °C]
+
+optional intermediate
+temper and prior to
+final temper.
+
+1335

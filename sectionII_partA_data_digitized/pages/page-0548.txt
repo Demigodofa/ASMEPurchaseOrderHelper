@@ -1,0 +1,98 @@
+SA-334/SA-334M ASME BPVC.II.A-2025 
+11. Hardness Requirements 
+11.1 The tubes shall have a hardness number not 
+exceeding those prescribed in Table 4. 
+12. Impact Requirements 
+12.1 For Grades 1, 3, 6, 7 and 9, the notched-bar impact 
+properties of each set of three impact specimens, including 
+specimens for the welded joint in welded pipe with wall 
+thicknesses of0.120 in. [3 mm] and larger, when tested at 
+temperatures in conformance with 14.1 shall be not less 
+than the values prescribed in Table 5. The impact test is 
+not required for Grade 11. 
+12.1.1 If the impact value of one specimen is below 
+the minimum value, or the impact values of two specimens 
+are less than the minimum average value but not below 
+the minimum value permitted on a single specimen, a retest 
+shall be allowed. The retest shall consist of breaking three 
+additional specimens and each specimen must equal or 
+exceed the required average value. When an erratic result 
+is caused by a defective specimen, or there is uncertainty 
+in test procedures, a retest will be allowed. 
+12.2 For Grade 8 each of the notched bar impact speci­
+mens shall display a lateral expansion opposite the notch 
+not less than 0.Gl5 in. [0.38 mm]. • 
+12.2.1 When the average lateral expansion value for 
+the three impact specimens equals or exceeds 0.015 in. 
+[0.38 mm] and the value for one specimen is below 
+0.015 in. [0.38 mm] but not below 0.010 in. [0.25 mm], 
+a retest of three additional specimens may be made. The 
+lateral expansion of each of the retest specimens must equal 
+or exceed 0.015 in. [0.38 mm]. 
+12.2.2 Lateral expansion values shall be determined 
+in accordance with Test Methods and Definitions A 370. 
+12.2.3 The values of absorbed energy in foot-pounds 
+and the fracture appearance in percentage shear shall be 
+recorded for information. A record of these values shall 
+be retained for a period of at least 2 years. 
+13. Mechanical Tests 
+13.1 Tension Test - One tension test shall be made on 
+a specimen for lots of not more than 50 tubes. Tension 
+tests shall be made on specimens from two tubes for lots 
+of more than 50 tubes. 
+13.2 Flattening Test - One flattening test shall be made 
+on specimens from each end of one finished tube of each 
+lot but not the one used for the flare or flange test. 
+13.3 Flare Test (Seamless Tubes)- One flare test shall 
+be made on specimens from each end of one finished tube 
+of each lot, but not the one used for the flattening test. 
+13.4 Flange Test (Welded Tubes) - One flange test 
+shall be made on specimens from each end of one finished 
+tube of each lot, but not the one used for the flattening test. 
+13.5 Reverse Flattening Test - For welded tubes, one 
+reverse flattening test shall be made on a specimen from 
+each 1500 ft [460 m] of finished tubing. 
+13.6 Hardness Test - Brinell or Rockwell hardness 
+tests shall be made on specimens from two tubes from 
+each lot. 
+13.7 Impact Tests - One notched-bar impact test, con­
+sisting of breaking three specimens, shall be made from 
+each heat represented in a heat-treatment load on specimens 
+taken from the finished tube. This test shall represent only 
+tubes from the same heat, which have wall thicknesses not 
+exceeding by more than¼ in. [6.3 mm] the wall thicknesses 
+of the tube from which the test specimens are taken. If 
+heat treatment is performed in continuous or batch-type 
+furnaces controlled within a 50°F [30°C] range and 
+equipped with recording pyrometers which yield complete 
+heat-treatment records, then one test from each heat in a 
+continuous run only shall be required instead of one test 
+from each heat in each heat-treatment load. 
+13.8 Impact Tests (Welded Tubes) - On welded tube, 
+additional impact tests of the same number as required in 
+13.7 shall be made to test the weld. 
+13.9 Specimens showing defects while being machined 
+or prior to testing may be discarded and replacements shall 
+be considered as original specimens. 
+496 
+14. Specimens for Impact Test 
+14.1 Notched-bar impact specimens shall be of the 
+simple beam, Charpy-type, in accordance with Test Meth­
+ods E 23, Type A, with a V notch. Standard specimens 10 
+by 10 mm in cross section shall be used unless the material 
+to be tested is of insufficient thickness, in which case the 
+largest obtainable subsize specimens shall be used. Charpy 
+specimens of width along the notch larger than 0.394 in. 
+[10 mm] or smaller than 0.099 in. [2.5 mm] are not provided 
+for in this specification. 
+14.2 Test specimens shall be obtained so that the longi­
+tudinal axis of the specimen is parallel to the longitudinal 
+axis of the tube while the axis of the notch shall be perpen­
+dicular to the surface. On wall thicknesses of 1 in. [25 mm] 
+or less, the specimens shall be obtained with their axial 
+plane located at the midpoint; on wall thicknesses over 1 
+in. [25 mm], the specimens shall be obtained with their 
+axial plane located½ in. [12.5 mm] from the outer surface. 
+14.3 When testing welds the specimen shall be, when­
+ever diameter and thickness permits, transverse to the lon­
+gitudinal axis of the tube with the notch of the specimen 

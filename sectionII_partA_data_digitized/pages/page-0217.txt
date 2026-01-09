@@ -1,0 +1,113 @@
+ASME BPVC.II.A-2025 SA-105/SA-lOSM 
+2.4 ASME Standards: 
+B16.5 Dimensional Standards for Steel Pipe Flanges and 
+Flanged Fittings 
+B16.9 Wrought Steel Buttwelding Fittings 
+B16.10 Face-to-Face and End-to-End Dimensions of Fer-
+rous Valves 
+B16.11 Forged Steel Fittings, Socket Weld, and Threaded 
+B16.34 Valves-Flanged, Threaded and Welding End 
+B16.47 Large Diameter Steel Flanges 
+2.5 ASME Boiler and Pressure Vessel Code: 
+Section IX 
+2.6 AP/ Standards: 
+API-600 Flanged and Butt-Welding-End Steel Gate Valves 
+API-602 Compact Design Carbon Steel Gate Valves for 
+Refinery Use 
+3. Terminology 
+3.1 Definitions-For definitions of other terms used in this 
+specification, refer to Specification A961/A961M. 
+3.2 Definitions of Terms Specific to This Standard: 
+3.2.1 heaviest cross-section, n-maximum heat treated 
+thickness of the production forging. 
+4. Ordering Information 
+4.1 See Specification A961/A961M. 
+4.1.1 Additional requirements (see 14.2). 
+5. General Requirements 
+5.1 Product furnished to this specification shall conform to 
+the requirements of Specification A961/A961M, including any 
+supplementary requirements that are indicated in the purchase 
+order. Failure to comply with the requirements of Specification 
+A961/A961M constitutes nonconformance with this specifica­
+tion. In case of a conflict between the requirements of this 
+specification and Specification A961/A961M, this specification 
+shall prevail. 
+5.2 Except as permitted by Section 6 in Specification 
+A961/A961M, the finished product shall be a forging as 
+defined in the Terminology Section of Specification A788/ 
+A788M. 
+6. Heat Treatment 
+6.1 Heat treatment is not a mandatory requirement of this 
+specification except for the following piping components: 
+6.1.1 Flanges above Class 300, 
+6.1.2 Flanges of special design where the design pressure at 
+the design temperature exceeds the pressure-temperature rat­
+ings of Class 300, Group 1.1, 
+6.1.3 Flanges of special design where the design pressure or 
+design temperature are not known, 
+TABLE 1 Chemical Requirements 
+NoTE 1-For each reduction of 0.01 % below the specified carbon 
+maximum (0.35 %), an increase of 0.06 % manganese above the specified 
+maximum (1.05 %) will be permitted up to a maximum of 1.65 %. 
+Element 
+Carbon 
+Manganese 
+Phosphorus 
+Sulfur 
+Silicon 
+Copper 
+Nickel 
+Chromium 
+Molybdenum 
+Vanadium 
+Composition, % 
+0.35 max 
+0.60--1.05 
+0.035 max 
+0.040 max 
+0.10-0.35 
+0.40 maxA 
+0.40 maxA 
+0.30 maxA,a 
+0.12 maxA,a 
+0.08 maxA 
+A The sum of copper, nickel, chromium, molybdenum and vanadium shall not 
+exceed 1.00 %. 
+8 The sum of chromium and molybdenum shall not exceed 0.32 %. 
+6.1.4 Piping components other than flanges which meet 
+both of the following criteria: (/) over NPS 4 and (2). above 
+Class 300, and 
+6.1.5 Piping components of Special Class other than 
+flanges which meet both of the following criteria: (/) over NPS 
+4 and (2) when the working pressure at the operating tempera­
+ture exceeds the tabulated values for Special Class 300, Group 
+1.1. 
+6.2 Heat treatment, when required by 6.1 shall be annealing, 
+normalizing, or normalizing and tempering or quenching and 
+tempering in accordance with Specification A961/A961M. 
+After hot working and before reheating for heat treatment, the 
+forging shall be allowed to cool substantially below the 
+transformation range. 
+6.2.1 Quenching shall consist of either ( 1) fully austenitiz­
+ing the forgings followed by quenching in a suitable liquid 
+medium or (2) using a multiple stage procedure whereby the 
+forgings are first fully austenitized and rapidly cooled, then 
+reheated to partially reaustenitize, followed by quenching in a 
+suitable liquid medium. All quenched forgings shall be tem­
+pered as prescribed in Specification A961/A961M. 
+7. Chemical Composition 
+7 .1 The steel shall conform to the chemical requirements 
+specified in Table 1. 
+7 .2 Steels to which lead has been added shall not be used. 
+8. Mechanical Properties 
+8.1 The material shall conform to the mechanical property 
+requirements prescribed in Table 2 and Table 3. 
+8.2 For normalized, normalized and tempered, or quenched 
+and tempered forgings, the central axis of the test specimen 
+shall be taken at least ¼ T from the nearest surface as-heat­
+treated, where Tis the maximum heat-treated thickness of the 
+represented forging. In addition, for quenched and tempered 
+forgings, the midlength of the test specimen shall be at least T 
+from all other surfaces as-heat-treated, exclusive of the T 
+dimension surfaces. When section thickness does not permit 
+165 

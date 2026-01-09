@@ -1,0 +1,125 @@
+SA-859/SA-859M (ASTM A859/A859M) ASME BPVC.II.A-2025 
+TABLE 2 Tensile Requirements 
+Property 
+Yield strength 0.2 % offset ksi [MPa] 
+Tensile Strength ksi [MPa] 
+Elongation in 2 in. or 50 mm % min 
+Reduction of Area % min 
+Grade A 
+Class 1 
+55 [380 min] 
+65-85 [ 450-585] 
+20 
+45 
+Grade A 
+Class 2 
+65 [450] min 
+75-95 [515-650] 
+20 
+45 
+Grade B 
+100-115 [690-800] 
+105 [725] min 
+16 
+45 
+TABLE 3 Charpy Impact Requirements 
+Grade A 
+Class 1 
+-50 'F [-45 'CJ 
+Test Average, fVlb [JjA 
+Minimum single value, fVlb [J] 
+A Not more than one specimen from a set may be below this value. 
+20 [27] 
+15 [20] 
+6.3.1 Method I-This method shall always be used when 
+the maximum as-heat-treated thickness does not exceed 2 in. 
+[50 mm]. Specimens shall be located in the production forging 
+or test forging (as described in Method 4) at mid-thickness and 
+at least 2 in. [50 mm] from other as-heat-treated surfaces. 
+6.3.2 Method 2-T by 2T, where Tis the distance from the 
+area of significant loading (see 3.1) to the nearest as-heat­
+treated surface. However, the specimen shall not be nearer to 
+one as-heat-treated surface than¾ in. [20 mm] and not nearer 
+than 1 ½ in. [40 mm] to a second as-heat-treated surface. When 
+this method of testing is employed, forgings are usually 
+manufactured in accordance with a purchaser-approved draw­
+ing showing pre-heat-treatment dimensions and the location of 
+test specimens. 
+6.3.3 Method 3-¼ T by T, where T is the maximum 
+thickness of the forging as-heat-treated. When this method of 
+testing is employed for Class 2, the maximum as-heat-treated 
+thickness shall not exceed 8 in. [200 mm] unless otherwise 
+agreed. 
+6.3.4 Method 4-Test specimens shall be taken from a 
+representative separate test forging or bar made from the same 
+heat of steel that shall receive substantially the same reduction 
+and type of hot working as the production forgings which it 
+represents; except that a longitudinally forged bar may be used 
+to represent a rolled ring of similar cross section. It shall be of 
+the same nominal thickness as the as-heat-treated production 
+forgings and shall be heat treated in the same furnace charge 
+and under the same conditions as the production forgings. Test 
+specimens shall be removed using the ¼ T by T procedure 
+referenced in Method 3 with the same limitation on forging 
+thickness as in 6.3.3. This method shall be limited to forgings 
+with a rough machined weight of not more than 1000 lb 
+[500 kg]. 
+6.4 Metal Buffers-The required distances from as-heat­
+treated surfaces may be obtained with metal buffers instead of 
+integral extensions. Buffer material may be carbon or low-alloy 
+steel and shall be joined to the forging with a partial penetra­
+tion weld that seals the buffered surface. Specimens shall be 
+located at least ½ in. [13 mm] from the buffered surface of the 
+forging. Buffers shall be removed and the welded areas 
+subjected to magnetic particle test to ensure freedom from 
+Grade A 
+Class 2 
+-50 'F [-45 'CJ 
+20 [27] 
+15 [20] 
+Grade B 
+0 'F [18 'CJ 
+80 [110] 
+75 [100] 
+Grade B 
+-120 'F [-85 'CJ 
+60 [80] 
+55 [75] 
+cracks unless the welded areas are completely removed by 
+subsequent machining. 
+6.5 Samples shall be removed from forgings after heat 
+treatment. The sample material shall be subjected to a simu­
+lated post-weld heat-treatment if Supplementary Requirement 
+S l is specified. 
+6.6 Orientation-For upset disk forgings, the longitudinal 
+axis of all test specimens shall be oriented in the tangential 
+direction. For all other forgings, the longitudinal axis of the 
+specimens shall be oriented in the direction of maximum 
+working of the forging unless Supplementary Requirements 
+S 11 or S 14 are imposed. 
+6.7 Number of Tests: 
+6.7.1 Forgings Under 500 lb [250 kg] As-Heat-Treated­
+For duplicate forgings weighing less than 500 lb [250 kg] 
+as-heat-treated, one tension test and one impact test (three 
+specimens) shall be made to represent each heat in each 
+heat-treatment charge. When heat-treatment is performed in 
+continuous-type furnaces with suitable temperature control and 
+equipped with recording pyrometers so that complete heat­
+treatment records are available, a heat-treatment charge shall 
+be considered as any continuous run not exceeding any 8 h 
+duration. 
+6.7.2 Forgings Weighing 500 to JO 000 lb [250 to 5000 kg] 
+As-Heat-Treated-One tension and one impact test (three 
+specimens) shall be made for each forging. 
+6.7.3 Each forging weighing over 10 000 lb [5000 kg] shall 
+require two tension tests and two impact tests, located at 
+opposite ends if the length, excluding test prolongations, 
+exceeds 80 in. [2000 mm], or located 180° apart for shorter 
+length forgings. 
+7. Workmanship, Finish, and Appearance 
+7 .1 The forgings shall conform to the dimensions specified 
+by the purchaser. The finishes shall permit adequate visual 
+inspection for surface imperfections. If a dimension varies 
+from that specified, the forging may be offered to the purchaser 
+for acceptance. 
+1368 

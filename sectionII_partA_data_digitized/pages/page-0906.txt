@@ -1,0 +1,84 @@
+SA-480/SA-480M (ASTM A480/A480M) ASME BPVC.II.A-2025 
+TABLE A3.6 Permitted Variations in Width of Cold-rolled, Wide, Coil-processed Product as Cut Lengths (Not Resquared) and Coil 
+Specified Thickness, Permitted Variation In Width, mm, for Specified Width (w), mm 
+mmA ws125 125<WS250 250<ws600 600<w<1000 
+1m ~~-o ~~-o ~~-o ~~-o 
+1.50 +0.7, -0 +0.7, -0 +1.0, -0 +1.5, -0 
+2.50 +1.0, -0 +1.0, -0 +1.2, -0 +2.0, -0 
+3.50 +1.2, -0 +1.2, -0 +1.5, -0 +3.0, -0 
+8.00 +2.0, -0 +2.0, -0 +2.0, -0 +4.0, -0 
+A For specified thicknesses other than those shown, the tolerances for the next higher thickness shall apply. 
+TABLE A3.7 Permitted Variations in Length of Cold-rolled, Wide, 
+Coll-processed Product as Cut Lengths Not Resquared 
+Tolerance, mm Specified Length (L), 
+mm Over Under 
+s2000 
+>2000 
+5 
+0.0025 x L 
+0 
+0 
+TABLE A3.8 Permitted Variations In Flatness of Cold-rolled, Wide, 
+Coil-processed Product as Cut Lengths 
+Not Specified to Stretcher-Leveled Standard of FlatnessA 
+Specified Specified Flatness 
+Thickness, mm Width, mm Tolerance 8 , mm 
+<1.50 <1500 10 
+;e:1500 12 
+;e:1,50 <1500 10 
+;e:1500 12 
+Stretcher-Leveled Standard of Flatness 0 
+Specified 
+Thickness, mm 
+Specified Specified 
+Width, mm Length, mm 
+Flatness 
+Tolerance, 8 mm 
+S4.99 <1200 <2400 
+;e:2400 
+;e:1200 <2400 
+;e:2400 
+2xx and 3xx Series Specified to ¼ and ½ Hard Tempers 
+Specified Specified -r. 1 Flatne~s 
+4 
+7 
+7 
+7 
+Th' k W'dth ,o erance, mm 1c ness, mm 1 , mm ¼ Hard ½ Hard 
+s0.04 600 to 900, excl 19 23 
+>0.04 to so.so 16 23 
+>0.80 13 19 
+s0.04 
+>0.04 to so.so 
+>0.80 
+900 to 1200, incl 26 
+19 
+16 
+29 
+29 
+26 
+A Not specified to stretcher-leveled standard of flatness, and not including hard 
+tempers of 2xx and 3xx series, dead-soft sheets, and deep-drawing sheets. 
+8 Maximum deviation from a horizontal flat surface. 
+0 Not including hard tempers of 2xx and 3xx series, dead-soft sheets, and 
+deep-drawing sheets. 
+1000 < w< 2100 
++2.0, +0 
++2.0, +0 
++2.5, -0 
++3.0, -0 
++4.0, -0 
+TABLE A3.9 Permitted Variations in Thickness of Hot-rolled, 
+Narrow, Flat-rolled, Coll-processed Product as Cut Lengths and 
+Coil 
+TABLE A3.10 Permitted Variations in Width of Hot-rolled, Narrow, 
+Flat-rolled, Coil-processed Product as Cut Lengths and Coil 
+Tolerances for variations of thickness of hot-rolled, narrow, coil-processed 
+product as cut lengths and coll shall be identical to the tolerances for hot-rolled, 
+wide, coil-processed product as listed in Table A3.13, unless otherwise agreed 
+upon by seller and purchaser and specified in the purchase order. 
+806 
+Tolerances for variations of width of hot-rolled, narrow, coil-processed product 
+as cut lengths and coil shall be identical to the tolerances for hot-rolled, wide, 
+coil-processed product as listed in Table A3.14, unless otherwise agreed upon 
+by seller and purchaser and specified in the purchase order. 

@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 376,
+  "globalPageIndex": 1174,
+  "width": 613.92,
+  "height": 793.2,
+  "text": "SA-666 ASME BPVC.II.A-2025 \nSPECIFICATION FOR ANNEALED OR COLD-WORKED \nAUSTENITIC STAINLESS STEEL SHEET, STRIP, PLATE, \nAND FLAT BAR \nSA-666 \n<O \nINT&RNATIONAL \nStandards Worldwide \n(Identical with ASTM Specification A 666-03) \n1. Scope \n1.1 This specification covers austenitic stainless steels \nin the annealed and normally required cold-worked condi\u00ad\ntions for various structural, architectural, pressure vessel, \nmagnetic, cryogenic, and heat-resisting applications. (This \nrevision of Specification A 666 replaces prior Specifica\u00ad\ntions A 412 and A 177.) \n1.2 The application of this specification, or the use of \nmaterial covered by this specification does not automati\u00ad\ncally allow usage in pressure vessel applications. Only \nannealed conditions of grades specifically approved by the \nASME code are permitted for pressure vessel use. \n1.3 The values stated in inch-pound units are to be \nregarded as the standard. The values given in parentheses \nare for information only. \n2. Referenced Documents \n2.1 ASTM Standards: \nA 240/ A 240M Specification for Chromium and Chro\u00ad\nmium-Nickel Stainless Steel Plate, Sheet, and Strip for \nPressure Vessels and for General Applications \nA 370 Test Methods and Definitions for Mechanical Test\u00ad\ning of Steel Products \nA 480/ A 480M Specification for General Requirements for \nFlat-Rolled Stainless and Heat-Resisting Steel Plate, \nSheet, and Strip \nA 484/ A 484M Specification for General Requirements or \nStainless Steel Bars, Billets, and Forgings \n3. Material Test Report and Certification \n3.1 In addition to the requirements of Specification \nA 480/ A 480M, the cold-worked condition (annealed, \u00bc H, \n\u00bd H, and so forth) shall be noted. \n4. Chemical Composition \n4.1 The steel shall conform to the requirements as \nto chemical composition specified in Table 1, and shall \nconform to applicable requirements specified in the current \nedition of Specification A 480/ A 480M. \n5. Mechanical Properties \n5.1 The material shall conform to the mechanical prop\u00ad\nerties specified in Table 2 and Table 3, or Table 2 and \nTable 4. \n6. General Requirements \n6.1 The following requirements for orders for material \nfurnished under this specification shall conform to the \napplicable requirements of the current edition of Specifica\u00ad\ntion A 480/ A 480M or A 484/ / A 484M: \n6.1.1 Definitions, \n6.1.2 General requirements for delivery, \n6.1.3 Ordering information, \n6.1.4 Process, \n6.1.5 Special tests, \n6.1.6 Heat treatment, \n6.1.7 Dimensions and permissible variations, \n6.1.8 Workmanship, finish and appearance, \n6.1.9 Number of tests/test methods, \n6.1.10 Specimen preparation, \n6.1.11 Retreatment, \n6.1.12 Inspection, \n6.1.13 Rejection and rehearing, \n6.1.14 Material test report, \n1082 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1174.json",
+  "tabulaTablesCsv": "tables_tabula/page-1174.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-1174.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2727,
+  "bestTextAlphaRatio": 0.7323
+}

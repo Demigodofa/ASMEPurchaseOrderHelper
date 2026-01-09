@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 357,
+  "globalPageIndex": 357,
+  "width": 645.48,
+  "height": 879.72,
+  "text": "ASME BPVC.II.A-2025 SA\u00b7217/SA-217M (ASTM A217/A217M) \nSPECIFICATION FOR STEEL CASTINGS, MARTENSITIC \nSTAINLESS AND ALLOY, FOR PRESSURE-CONTAINING \nPARTS, SUITABLE FOR HIGH-TEMPERATURE SERVICE \nSA-217 /SA-217M ~ \nINTERNATIONAL \nStandards Worldwide \n(Identical with ASTM Specification A217 /A217M-22 except for the addition of 2.3 and editorial differences in 2.1 and \n9.1 .. ) \nASME SA-217 /SA-217M replaces paras. 2.1 and 9.1 of ASTM A217/A217M and adds para. 2.3 as follows: \n2.1 ASTM Standards:3 \nA216/ A216M Specification for Steel Castings, Carbon, Suitable for Fusion Welding, for High-Temperature Service \nA352/ A352M Specification for Steel Castings, Ferritic and Martensitic, for Pressure-Containing Parts, Suitable for \nLow-Temperature Service \nA487 / A487M Specification for Steel Castings Suitable for Pressure Service \nA703/A703M Specification for Steel Castings, General Requirements, for Pressure-Containing Parts \nA802/A802M Practice for Steel Castings, Surface Acceptance Standards, Visual Examination \nA985/A98SM Specification for Steel Investment Castings General Requirements, for Pressure-Containing Parts \n2.3 ASME Standard: \nASME Boiler and Pressure Vessel Code (BPVC), Section IX, Welding, Brazing, and Fusing Qualifications \n9.1 Repairs shall be made using procedures and welders qualified under ASME BPVC Section IX. \n305 \n(25) ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0357.json",
+  "tabulaTablesCsv": "tables_tabula/page-0357.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-0357.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1353,
+  "bestTextAlphaRatio": 0.7273
+}

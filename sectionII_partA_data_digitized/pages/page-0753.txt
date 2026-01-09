@@ -1,0 +1,166 @@
+ASME BPVC.II.A-2025 
+TABLE 3 Tensile Requirements 
+Norn 1-Where an ellipsis ( ... ) appears in this table, there is no requirement. 
+Requirement 
+Tensile strength, min ksi [MPa] 
+Yield strength, min ksi [MPa] 
+Elongation Requirements 
+Standard round specimen, or small proportional 
+specimen, min % in 4 D 
+Rectangular specimen for wall thickness 5 /1s in. [7.94 
+mm] and over, and for all small sizes tested in full 
+section; min % in 2 in. or 50 mm 
+Rectangular specimen for wall thickness less than 
+5/1s in. [7.94 mm]; min% in 2 in. or 50 mm (½-in. 
+[12.7-mm] wide specimen) 
+WPL6 
+60 [415] - 95 [655] 
+35 [240] 
+WPL6 
+Langi- Trans-
+tudinal verse 
+22 12 
+30 16.5 
+A A 
+WPL9 
+63 [435] - 88 [61 OJ 
+46 [315] 
+WPL9 
+Langi- Trans-
+tudinal verse 
+20 
+28 18 
+A A 
+Grade 
+WPL3 
+65 [ 450] - 90 [620] 
+35 [240] 
+Grades 
+WPL3 
+Langi- Trans-
+tudinal verse 
+22 14 
+30 20 
+A A 
+SA-420 /SA-4Z0M 
+WPL8 
+1 00 [690] - 125 [865] 
+75 [515] 
+Longi­
+tudinal 
+16 
+22 
+A 
+WPL8 
+Trans­
+verse 
+A For each 1/s2 in. [0.79 mm] decrease in wall thickness below 5 /16 in. [7.94 mm], a deduction of 1.5 % (grades WPL6, WPL9, and WPL3) or 1.25 % (WPL8) for longitudinal 
+and 1.0 % (grades WPL6, WPL9 and WPL3) for transverse from the values shown above is permitted. The following table gives the minimum value for various wall 
+thicknesses: 
+Wall Thickness Grades 
+WPL6 WPL9 WPL3 WPL8 
+in. [mm] Langi- Trans- Langi- Trans- Langi- Trans- Langi- Trans-
+tudinal verse tudinal verse tudinal verse tudinal verse 
+5 /16 (0.312) [7.94] 30.0 16.5 28.0 18.0 30.0 20.0 22.0 
+%2 (0.281) [7.14] 28.5 15.5 26.5 17.0 28.5 19.0 20.75 
+¼ (0.250) [6.35] 27.0 14.5 25.0 16.0 27.0 18.0 19.5 
+7 /22 (0.219) [5.56] 25.5 23.5 25.5 18.25 
+3 /16 (0.188) [4.76] 24.0 22.0 24.0 17.0 
+%2 (0.156) [3.97] 22.5 20.5 22.5 15.75 
+1 /s (0.125) [3.17] 21.0 19.0 21.0 14.5 
+%2 (0.094) [2.38] 19.5 17.5 19.5 13.25 
+1/16 (0.062) [1.59] 18.0 16.0 18.0 12.0 
+Note-The preceding table gives the computed minimum elongation value for each 1/s2 in. [0.79 mm] decrease in wall thickness. Where the wall thickness lies between 
+two values above, the minimum elongation value is determined by the following equations: 
+Equations Direction of Test 
+Longitudinal 
+Transverse 
+WPL6 
+E = 481 + 15.00 
+t = 32\ + 6.50 
+WPL9 
+481 + 13.00 
+321 + 8.00 
+WPL3 
+E. = 481 + 15.00 
+E = 32t + 10.00 
+WPL8 
+401 + 9.50 
+where: 
+E elongation in 2 in. or 50 mm, %, and 
+= actual thickness of specimen, in. 
+TABLE 4 Charpy Impact Requirements for WPL6, WPL9, and 
+WPL3A 
+Size of Specimen, 
+mm 
+10 by 10.0 
+10 by7.5 
+10 by 5.0 
+10 by 2.5 
+Charpy V-Notch Impact 
+Value Required for 
+Acceptance (Average of 
+Three Specimens) 
+ft-lbf J 
+13 
+10 
+7 
+4 
+17.6 
+13.6 
+9.5 
+5.4 
+Minimum Charpy V-Notch 
+Impact Value Without 
+Requiring Retest (One 
+Specimen Only of a Set) 
+ft-lbf J 
+10 
+8 
+5 
+3 
+13.6 
+10.8 
+7.0 
+4.1 
+A Straight-line interpolation for intermediate values is permitted. 
+10.3.3 When testing welds, the notch of the specimen shall 
+be in the welded joint and, where the diameter and wall 
+thickness permit, the longitudinal axis of the specimen shall be 
+703 
+TABLE 5 Charpy Impact Requirements for WPL8 
+Size of Specimen, 
+mm 
+10 by 10.0 
+10 by 7.5 
+10 by 5.0 
+10 by 2.5 
+Charpy V-Notch Impact 
+Value Required for 
+Acceptance (Average of 
+Specimens) 
+ft-lbf J 
+25.0 
+21.0 
+17.0 
+8.0 
+33.9 
+28.5 
+23.1 
+10.8 
+Minimum Charpy V-Notch 
+Impact Value Without 
+Requiring Retest (One 
+Specimen Only of a Set) 
+ft-lb! J 
+20.0 
+17.0 
+14.0 
+6.0 
+27.1 
+23.1 
+19.0 
+8.1 
+transverse to the longitudinal axis of the weld. The axis of the 
+notch shall be perpendicular to the surface. 
+10.4 Number of Tests: 

@@ -1,0 +1,95 @@
+SA-194/SA-194M ASME BPVC.II.A-2025 
+TABLE 4 Proof Load Using Threaded Mandrel - Metric 
+Norn I-Proof loads are not design loads. 
+Nominal Threads Stress Area Proof Load, kNA 
+Size, Pitch mm 2 Grade 1 Grades 2, 2HM, 6, 6F, 7M Grades 2H, 3, 7, 16, 43 
+mm Heavy Hex 8 Hex 0 Heavy Hex 0 HexE Heavy HexF Hex 0 
+M12 1.75 84.3 75.5 69.5 87.3 78.4 101.6 87.3 
+M14 2.0 115.0 102.9 94.9 119.0 107.0 138.6 119.0 
+M16 2.0 157.0 140.5 129.5 162.5 146.0 189.2 162.5 
+M20 2.5 245.0 219.3 202.1 253.6 227.8 295.2 253.6 
+M22 2.5 303.0 271.2 249.9 313.6 281.8 365.1 313.6 
+M24 3.0 353.0 315.9 291.2 365.4 328.3 425.4 365.4 
+M27 3.0 459.0 411.0 378.7 475.1 426.9 553.4 475.1 
+M30 3.5 561.0 502.1 462.8 580.6 521.7 676.0 580.6 
+M36 4.0 817.0 731.2 674.0 845.6 759.8 984.5 845.6 
+All Types of Grade 8, and 
+Grades 9C and 9CA 
+Nominal Size, mm Thread Pitch Stress Heavy HexH Hex' 
+Area, 
+mm 2 
+M12 1.75 84.3 46.4 43.4 
+M14 2.0 115.0 63.3 59.2 
+M16 2.0 157.0 86.4 80.9 
+M20 2.5 245.0 134.8 126.2 
+M22 2.5 303.0 166.7 156.0 
+M24 3.0 353.0 194.2 181.8 
+M27 3.0 459.0 252.5 236.4 
+M30 3.5 561.0 308.6 288.9 
+M36 4.0 817.0 449.4 420.8 
+A See limit for proof load test in 8.2.2.1 . The proof load for jam nuts shall be 46 % of the tabulated load. 
+8 Based on proof stress of 895 MPa. 
+c Based on proof stress of 825 MPa. 
+0 Based on proof stress of 1035 MPa. 
+E Based on proof stress of 930 MPa. 
+F Based on proof stress of 1205 M Pa. 
+0 Based on proof stress of 1035 MPa. 
+H Based on proof stress of 550 MPa. 
+1 Based on proof stress of 515 MPa. 
+all production heat treatments heat the specimen nuts to the 
+temperatures indicated below for 24 h, then slow cool. Test at 
+room temperature. 
+GradeA 
+1 
+2, 2H, 2HM 
+3, 7, 7M, 43 
+16 
+Temperature, 
+'F ['CJ 
+850 [455] 
+1000 [540] 
+1100 [590] 
+1200 [650] 
+ANuts intended to be coated with zinc or cadmium (marked in accordance with the 
+requirements of Supplementary Requirement SB) are not subjected to the require• 
+ments of 8.1.5 (See Appendix X2). 
+8.1.5.1 Special Requirement, Grades 2HM and 7M­
+Preparation of Grades 2HM and 7M nuts for hardness test and 
+the hardness test itself shall be performed with consideration to 
+(1) protect legibility of markings; (2) minimize exterior dimen­
+sional changes; and (3) maintain thread fit. 
+8.2 Proof Load Test: 
+8.2.l Requirements-The nuts listed in Tables 3 and 4 shall 
+be capable of withstanding the proof loads specified therein. 
+Proof load testing of nuts manufactured to dimensions and 
+configurations other than those covered in Table 3 or Table 4 is 
+only required when S9 is specified in the order or inquiry 
+otherwise the nuts shall be cross-sectional hardness tested per 
+Annex A3 of Test Methods and Definitions A370. Nuts that 
+would require a proof load in excess of 160 000 lbf or 705 kN 
+shall, unless Supplementary Requirements S 1 or S4 are in­
+voked in the purchase order or contract, be proof load tested 
+per Section 8, or cross sectional hardness tested per Annex A3 
+of Test Methods and Definitions A370. 
+8.2.2 Number of Tests: 
+8.2.2.l The manufacturer shall test the number of nuts 
+specified in 8.1.2.1 following all production heat treatments. 
+Proof Load tests prevail over hardness tests in the event a 
+conflict exists relative to minimum strength. 
+8.2.3 Test Method-The test shall be run using. a threaded 
+mandrel or a test bolt in accordance with Specification A962/ 
+A962M. 
+254 
+8.3 Cone Proof Load Test: 
+8.3.l Requirements-This test shall be performed only 
+when visible surface discontinuities become a matter of issue 
+between the manufacturer and the purchaser. Nuts in the size 
+range¼ to 1 ½in.inclusive and M12 to M36 inclusive shall be 
+proof load tested. Nuts not in this size range and all types of 
+Grade 8 nuts are not subject to this test. Nuts manufactured to 
+dimensions and configurations other than those covered by 
+Specification A962/A962M, ASME B 1.1, ASME B 1.13M, 
+ASME B 18.2.2, or ASME B 18.2.4.6M are not subject to the 
+cone proof load test. The cone proof load applied shall be 
+determined in accordance with the Cone Proof Load require­
+ments in Specification A962/A962M (tables or formulae or 

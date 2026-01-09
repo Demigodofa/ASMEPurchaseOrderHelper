@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 185,
+  "globalPageIndex": 983,
+  "width": 618.6,
+  "height": 796.8,
+  "text": "ASME BPVC.II.A-2025 SA-522/SA-522M \nTABLE 1 \nCHEMICAL REQUIREMENTS \nComposition, % \nType I Type II \nCarbon, max 0.13 0.13 \nManganese, max 0.90 0.90 \nPhosphorus, max 0.025 0.025 \nSulfur, max 0.025 0.025 \nSiliconA 0.15-0.30 0.15-0.30 \nNickel 8.5-9.5 7.5-8.5 \nA When vacuum carbon deoxidation is used, the maximum silicon \ncontent shall be 0.10%. \nTABLE 2 \nTENSILE REQUIREMENTS AT ROOM TEMPERATURE \nTensile strength, min., ksi [M Pa] \nYield strength, min., (0.2% off-set), ksi [MPaJ \nElongation in 2 in. [50 mmJ, min., % \nReduction of area, min., % \nTABLE 3 \n100 [690] \n75 [515] \n22 \n45 \nCHARPY V-NOTCH LATERAL EXPANSION \nREQUIREMENTS FOR STANDARD SIZE [10 X 10 MMJ \nSPECIMENS \nReport Absorbed \nLateral Temperature Energy and% \nType Expansion in. [mm] \u00b0F [\u00b0Ci Shear Fracture \n1 0.015 C0.38] -320 [-195] Yes \n2 0.015 [0.38] -275 [-170] Yes \nA Except when Supplementary Requirement S2 is specified. \n883 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0983.json",
+  "tabulaTablesCsv": "tables_tabula/page-0983.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0983.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 899,
+  "bestTextAlphaRatio": 0.5762
+}

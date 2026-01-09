@@ -1,0 +1,21 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 430,
+  "globalPageIndex": 1228,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "SA-693 (ASTM A693) ASME BPVC.II.A-2025 \nTABLE 5 Mechanical Test Requirements After Precipitation Hardening Treatment \nTensile Yield Elonga- Reduc-\nImpact \nHardening or Strength, min Strength, min tion in 2 tion of \nHardness, min Charpy V, \nPrecipitation in. or min 8 \nGrade Treatment or Thickness, in. (mm) 50 mm, Area, \nmin, Rockwell, Brinell, \nboth, \u00b0F(\u00b0C) ksi MPa ksi MPa min, %A min/ min/ ft-lbf J \n%A max max \n630 and 900 (482) Under 0.1875 (4.762) 190 1310 170 1170 5 C40/ \nC48 \nXM-12 0.1875 to 0.625 (4.762 to 190 1310 170 1170 8 25 C40/ 388/ \n15.88) C48 477 \n0.626 to 4.0 (15.90 to 102) 190 1310 170 1170 10 30 C40/ 388/ \nC48 477 \n925 (496) Under 0.1875 (4.762) 170 1170 155 1070 5 C38/ \nC46 \n0.1875 to 0.625 (4.762 to 170 1170 155 1070 8 25 C38/ 375/ \n15.88) C47 477 \n0.626 to 4.0 (15.90 to 102) 170 1170 155 1070 10 30 C38/ 375/ \nC47 477 \n1025 (552) Under 0.1875 (4.762) 155 1070 145 1000 5 C35/ \nC43 \n0.1875 to 0.625 (4.762 to 155 1070 145 1000 8 30 C33/ 321/ 10 14 \n15.88) C42 415 \n0.626 to 4.0 (15.90 to 102) 155 1070 145 1000 12 35 C33/ 321/ 15 20 \nC42 415 \n1075 (579) Under 0.1875 (4.762) 145 1000 125 860 5 C31/ \nC40 \n0.1875 to 0.625 (4.762 to 145 1000 125 860 9 30 C29/ 293/ 15 20 \n15.88) C38 375 \n0.626 to 4.0 (15.88 to 102) 145 1000 125 860 13 35 C29/ 293/ 20 27 \nC38 375 \n1100 (593) Under 0.1875 (4.762) 140 965 115 790 5 C31/ \nC40 \n0.1875 to 0.625 (4.762 to 140 965 115 790 10 30 C29/ 293/ 15 20 \n15.88) C38 375 \n0.626 to 4.0 (15.88 to 102) 140 965 115 790 14 35 C29/ 293/ 20 27 \nC38 375 \n1150 (621) Under 0.1875 (4.762) 135 930 105 725 8 C28/ \nC38 \n0.1875 to 0.625 (4.762 to 135 930 105 725 10 35 C26/ 269/ 25 34 \n15.88) C36 352 \n0.626 to 4.0 (15.88 to 102) 135 930 105 725 16 40 C26/ 269/ 30 41 \nC36 352 \n1400 + 1150 Under 0.1875 (4. 762) 115 790 75 515 9 C26/ 255/ \nC36 331 \n(760 + 621) 0.1875 to 0.625 (4.762 to 115 790 75 515 11 40 C24/ 248/ 55 75 \n15.88) C34 321 \n0.626 to 4.0 (15.88 to 102) 115 790 75 515 18 45 C24/ 248/ 55 75 \nC34 321 \n631 1400 (760) + 0.0015 to 0.0049 (0.038 to 180 1240 150 1035 3 C38 \n0.124) \nplus 55 (15) + 0.0050 to 0.0099 (0.127 to 180 1240 150 1035 4 C38 \n0.251) \n1050 (566) 0.01 O to 0.0199 (0.25 to 180 1240 150 1035 5 C38 \n0.505) \n0.020 to 0.1874 (0.51 to 180 1240 150 1035 6 C38 \n4.760) \n0.1875 to 0.625 (4.762 to 170 1170 140 965 7 20 C38 352 \n15.88) \n1750 (954) + 0.0015 to 0.0049 (0.038 to 210 1450 190 1310 C44 \n0.124) \nminus 100 (73) 0.0050 to 0.0099 (0.127 to 210 1450 190 1310 2 C44 \n0.251) \n+ 950 (510) 0.01 O to 0.01 99 (0.25 to 210 1450 190 1310 3 C44 \n0.505) \n0.020 to 0.1874 (0.51 to 210 1450 190 1310 4 C44 \n4.760) \n-~ \n1142 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-1228.txt",
+  "ocrTextLength": 2454,
+  "ocrApplied": true,
+  "tabulaTablesPath": "tables_tabula/page-1228.json",
+  "tabulaTablesCsv": "tables_tabula/page-1228.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text\\pages\\page-1228.txt",
+  "bestTextSource": "full_ocr_highdpi",
+  "bestTextLength": 2874,
+  "bestTextAlphaRatio": 0.229
+}

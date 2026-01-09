@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 503,
+  "globalPageIndex": 1301,
+  "width": 613.92,
+  "height": 793.2,
+  "text": ",, ________ \nASME BPVC.II.A-2025 \nAPPENDIX \n(Nonmandatory Information) \nXl. STANDARD CHEMICAL RANGES AND \nLIMITS \nXl.1 Standard chemical ranges and limits are pre\u00ad\nscribed for carbon steels in Table Xl.l. \nTABLE Xl.l \nSTANDARD CHEMICAL RANGES AND LIMITS \nCarbon Steels Only, Cast or Heat Analysis \nElement Minimum of Specified Element, % Range \nCarbon (see Note) to 0.15, incl 0.05 \nover 0.15 to 0.30, incl 0.06 \nover 0.30 to 0.40, incl 0.07 \nover 0.40 to 0.60, incl 0.08 \nover 0.60 to 0.80, incl 0.11 \nover 0.80 to 1.35, incl 0.14 \nManganese to 0.50, incl 0.20 \nover 0.50 to 1.15, incl 0.30 \nover 1.15 to 1.65, incl 0.35 \nPhosphorus to 0.08, incl 0.03 \nover 0.08 to 0.15, incl 0.05 \nSulfur to 0.08, incl 0.03 \nover 0.08 to 0.15, incl 0.05 \nover 0.15 to 0.23, incl 0.07 \nover 0.23 to 0.33, incl 0.10 \nSilicon to a.is, incl 0.08 \nover 0.15 to 0.30, incl 0.15 \nover 0.30 to 0.60, incl 0.30 \nCopper When copper is required 0.20 min is commonly specified. \nLowest, \nmax \n0.08 \n0.40 \n0.10 \nSA-749/SA-749M \nNOTE 1 - The carbon ranges shown in the column headed \"Range\" apply when the specified maximum \nlimit for manganese does not exceed 1.00%. When the maximum manganese limit exceeds 1.00%, add 0.01 \nto the carbon ranges shown below. \nA Certain individual specifications provide for lower standard limits for phosphorus and sulfur. \n1229 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 1,
+  "tabulaTablesPath": "tables_tabula/page-1301.json",
+  "tabulaTablesCsv": "tables_tabula/page-1301.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-1301.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1336,
+  "bestTextAlphaRatio": 0.5823
+}

@@ -1,0 +1,155 @@
+SA-751
+
+4. Concerning Specification of Chemical Composition
+Requirements
+
+4.1 It is recommended that Guide E1282 be consulted as a
+guide for specifying the chemical compositions for steels.
+
+4.2 The recommended practice for specifying chemical
+composition limits is to limit the number of significant figures
+for each element so that the number of figures to the right of the
+decimal point conforms to the following:
+
+Maximum Number of
+Chemical Concentration Figures to Right of Decimal Point
+
+Up to 0.010 %, incl. 0.XXXX or may be expressed as ppm
+
+Over 0.010 % to 0.10 %, incl O.XXX
+Over 0.10 % to 3.0 %, incl O.XX,
+Over 3.0 % 0.x
+
+4.3 For those cases in which the composition range spans
+either 0.10 or 3.0 %, the number of figures to the right of the
+decimal is to be determined by that indicated by the upper
+limit.
+
+4.4 Technical considerations may dictate the employment of
+less than the number of figures to the right of the decimal as
+previously recommended.
+
+Note 3—The recommendations should be employed to reduce the
+number of significant figures, such as from 18.00 to 18.0%, but a
+significant figure should never be added unless there is a technical reason
+for so doing.
+
+5. Cast or Heat Analysis
+
+5.1 The producer shall perform analyses for those elements
+specified in the material specification. The results of such
+analyses shall conform to the requirements specified in the
+material specification.
+
+5.1.1 For multiple heats, either individual heat or cast
+analysis, or an average heat or cast analysis, shall be reported.
+If significant variations in heat or cast size are involved, a
+weighted average heat or cast analysis, based on the relative
+quantity of metal in each heat or cast, shall be reported.
+
+5.1.2 For consumable electrode remelted material, a heat is
+defined as all the ingots remelted by the same process from a
+primary heat. The heat analysis shall be obtained from one
+remelted ingot, or the product of one remelted ingot, from each
+primary melt. If this heat analysis does not meet the heat
+analysis requirements of the specification, one sample from the
+product of each remelted ingot shall be analyzed, and the
+analyses shall meet the heat analysis requirements.
+
+5.2 If the test samples taken for the heat analysis are lost,
+inadequate, or not representative of the heat, a product analysis
+of the semifinished or finished product may be used to establish
+the heat analysis.
+
+5.2.1 If a product analysis is made to establish the heat
+analysis, the product analysis shall meet the specified limits for
+heat analysis and the product analysis tolerances described in
+Section 6 do not apply.
+
+5.3. Unless otherwise specified, compositions shall be
+reported in mass fraction percent (wt%).
+
+6. Product Analysis Requirements
+
+6.1 For product analysis, the range of the specified chemical
+composition is normally greater (designated product analysis
+
+ASME BPVC.II.A-2025
+
+tolerances) than that applicable to heat analyses to take into
+account deviations associated with analytical reproducibility
+and the heterogeneity of the steel. If several determinations of
+any element in the heat are made, they may not vary both
+above and below the specified range.
+
+6.2 Product analysis tolerances may not be used to deter-
+mine conformance to the specified heat or cast analysis unless
+permitted by the individual material specification.
+
+6.3 Product analysis tolerances, where available, are given
+in the individual material specifications or in the general
+requirement specifications.
+
+7. Unspecified Elements (Note 4)
+7.1 Reporting analyses of unspecified elements is permitted.
+
+Nore 4—All commercial metals contain small amounts of various
+elements in addition to those which are specified. It is neither practical nor
+necessary to specify limits for every unspecified element that might be
+present, despite the fact that the presence of many of these elements is
+often routinely determined by the producer.
+
+7.2 Analysis limits shall be established for specific elements
+
+rather than groups of elements such as “all others,” “rare
+earths,” and “balance.”
+
+8. Sampling
+
+8.1 Cast or Heat Analyses:
+
+8.1.1 Samples shall be taken, insofar as possible, during the
+casting of a heat, at a time which, in the producer’s judgment,
+best represents the composition of the cast.
+
+8.1.2 In case the heat analysis samples or analyses are lost
+or inadequate, or when it is evident that the sample does not
+truly represent the heat, representative samples may be taken
+from the semifinished or finished product, in which case such
+samples may be analyzed to satisfy the specified requirements.
+The analysis shall meet the specified limits for heat analysis.
+
+8.2 Check, Product, or Verification Analyses—Unless other-
+wise specified, the latest revision of Practice E1806 shall be
+used as a guide for sampling.
+
+9. Test Methods
+
+9.1 This section lists some test methods that have been
+found acceptable for chemical analysis of steels.
+
+9.1.1 The following ASTM wet chemical test methods have
+been found acceptable as referee test methods and as a base for
+standardizing instrumental analysis techniques.
+
+Test Methods General Description
+
+E350 Basic wet chemical procedure for steels.
+
+E352 Wet chemical procedure for tool steels.
+
+E353 Wet chemical procedure for stainless steels.
+
+E354 Wet chemical procedure for high nickel steels.
+
+E1019 Determination of carbon, sulfur, nitrogen, oxygen, and
+
+hydrogen, in steel and in iron, nickel, and cobalt alloys,
+
+9.1.2 The following ASTM instrumental test methods,
+practices, and guides may be employed for chemical analysis
+of steels or may be useful as a guide in the calibration and
+standardization of instrumental equipment for routine sampling
+and analysis of steels.
+
+1236

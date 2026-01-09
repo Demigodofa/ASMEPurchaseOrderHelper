@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 289,
+  "globalPageIndex": 289,
+  "width": 853.8,
+  "height": 612.6,
+  "text": "( \nTABLE 1 Continued \nB8P, S30500 1, 1A, 1D, 0.12 2.00 0.045 0.030 1.00 17.0-19.0 11.0-13.0 B8PA 2 \nProduct \nAnalysis 0.01 0.04 0.010 0.005 0.05 0.20 0.15 \nVariation 8 \nB8N, 304N, 1A, 1B, 1D, 0.08 2.00 0.045 0.030 1.00 18.0-20.0 8.0-11.0 0.10-0.16 BBNA S30451 2 \nProduct \nAnalysis 0.01 0.04 0.010 0.005 0.05 0.20 0.15 0.01 \nVariation 8 \nB8MN, 316N, 1A, 18, 1D, 0.08 2.00 0.045 0.030 1.00 16.0-18.0 10.0-13.0 2.00-3.00 0.10-0.16 B8MNA S31651 2 \nProduct \nAnalysis 0.01 0.04 0.010 0.005 0.05 0.20 0.15 0.10 0.01 \nVariation 8 \nBBMLCuN, S31254 1A, 1B, 1D, 0.020 1.00 0.030 0.010 0.80 19.5-20.5 17.5-18.5 6.0-6.5 0.50-1.00 0.18-0.25 \nB8MLCuNA 2 > Cll \nProduct :s: \n~ \nAnalysis 0.005 0.03 0.005 0.002 0.05 0.20 0.15 0.10 0.02 t:ll \nN Variations '\"Cl \nw < \n-....:i C\"l \nB8T, 5x = B8TA 321, 1, 1A, 2 0.08 2.00 0.045 0.030 1.00 17.0-19.0 9.0-12.0 (C + N) 0.10 ~ S32100 to 0.70 N \n0 \nN \nProduct \nCJ1 \nAnalysis 0.01 0.04 0.010 0.005 0.05 0.20 0.15 0.05 \nVariations under \nB8R, S20910 1C,1D 0.06 4.Q-6.0 0.045 0.030 B8RA 1.00 20.5-23.5 11.5-13.5 1.50-3.00 0.10-0.30 0.10-0.30 0.20-0.40 \nProduct \nAnalysis 0.01 0.05 0.005 0.005 0.05 0.25 0.15 0.10 0.05 0.02 0.02 \nVariations \nBBS, S21800 1C,1D 0.10 7.0-9.0 0.060 0.030 3.5-4.5 16.0-18.0 8.0-9.0 0.08-0.18 \nBBSA \nProduct \nAnalysis 0.01 0.06 0.005 0.005 0.15 0.20 0.10 0.01 \nVariation 8 \nCll \nBBLN, S30453 1, 1A, 1D 0.030 2.00 0.045 0.030 1.00 18.0-20.0 8.0-11.0 0.10-0.16 ~ \nB8LNA \"\"' ~ \nw ....... \nProduct Cll \nAnalysis 0.005 0.04 0.010 0.005 0.05 0.20 0.15 0.01 ~ \nVariations \"\"' ~ \nw \n:s: ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0289.json",
+  "tabulaTablesCsv": "tables_tabula/page-0289.csv",
+  "tabulaTableCount": 2,
+  "bestTextPath": "best_text/pages/page-0289.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1527,
+  "bestTextAlphaRatio": 0.2174
+}

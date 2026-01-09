@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 701,
+  "globalPageIndex": 701,
+  "width": 606.0,
+  "height": 848.88,
+  "text": "c'-._., \nASME BPVC.Il.A-2025 SA-387 /SA-387M \nTABLE 2 Tensile Requirements for Class 1 Plates \nTensile strength, ksi [MPa] \nYield strength, min, ksi [MPa] \nElongation in 8 in. [200 mm], min, %A \nElongation In 2 In. [50 mm], min, %A \nReduction of area, min, % \nA See Specification A20/A20M, elongation adjustments. \n8 Measured on round test specimens. \n0 Measured on flat specimen. \nGrades 2 and 12 \n55 to 80 [380 to 550] \n33 [230] \n18 \n22 \nGrade 11 \n60 to 85 [415 to 585] \n35 [240] \n19 \n22 \nGrades 22, 21, 5, 9 \n60 to 85 [415 to 585] \n30 [205] \n18 \n45 8 \n40\u00b0 \nTABLE 3 Tensile Requirements for Class 2 PlatesA \nTensile strength, ksi [MPa] \nYield strength, min, ksi [MPa]/(0.2 % offset) \nElongation in 8 in. [200 mm], min, % 8 \nElongation in 2 in. [50 mm], min, % 8 \nReduction of area, min, % \nA Not applicable to annealed material. \n8 See Specification A20/A20M, elongation adjustments. \n0 Measured on round test specimens. \n0 Measured on flat specimen. \nGrade 2 \n70 to 90 \n[485 to 620] \n45 [310] \n18 \n22 \nGrade 11 \n75 to 100 \n[515 to 690] \n45 [310] \n18 \n22 \nGrade 12 \n65 to 85 \n[450 to 585] \n40 [275] \n19 \n22 \nSUPPLEMENTARY REQUIREMENTS \nGrades 22, 21, 5, 9 \n75 to 100 \n[515 to 690] \n45 [310] \nSupplementary requirements shall not apply unless specified in the order. A list of standardized \nsupplementary requirements for use at the option of the purchaser is included in Specification \nA20/ A20M. Several of those considered suitable for use with this specification are listed below by \ntitle. Other tests may be performed by agreement between the supplier and the purchaser. \nS 1. Vacuum Treatment, \nS2. Product Analysis, \nS3. Simulated Post-Weld Heat Treatment of Mechanical \nTest Coupons, \nS4.l Additional Tension Test, \nS5. Charpy V-Notch Impact Test, \nS6. Drop Weight Test (for Material 0.625 in. [16 mm] and \nover in Thickness), \nS7. High-Temperature Tension Test, \nS8. Ultrasonic Examination in accordance with Specifica\u00ad\ntion A435/A435M, \nS9. Magnetic Particle Examination, \nS 11. Ultrasonic Examination in accordance with Specifica\u00ad\ntion A577/A577M, \n40(55) \nI \nI I \nI I \nAvTr40 {AI/Tl'SS) \nTemperature, \u00b0F (oC) \nGrade 91 \n85 to 110 \n[585 to 760] \n60 [415] \n18 \nSl2. Ultrasonic Examination in accordance with Specifica\u00ad\ntion A578/ A578M, and \nS 17. Vacuum Carbon-Deoxidized Steel. \nFIG. S1 .1 Transition Temperature Curves Before and After Step \nCool Heat Treatment \n651 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0701.json",
+  "tabulaTablesCsv": "tables_tabula/page-0701.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0701.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2382,
+  "bestTextAlphaRatio": 0.6104
+}

@@ -1,0 +1,95 @@
+SA·6/SA-6M ASME BPVC.II.A-2025 
+TABLE S27.3 Permitted Variations From a Flat Surface for As-Rolled or Normalized High-Strength Low-Alloy Steel Plates Ordered to 
+Half-Standard Flatness 
+NoTE I-Permitted Variation From a Flat Surface Along the Length-The longer dimension specified is considered the length, and the permitted 
+variation from a flat surface along the length shall not exceed the tabular amount for the specified width in plates up to 12 ft in length, or in any 12 ft 
+of longer plates. 
+NoTE 2-Permitted Variation From a Flat Surface Across the Width-The permitted variation from a flat surface across the width shall not exceed the 
+tabular amount for the specified width. 
+NoTE 3-When the longer dimension is under 36 in., the permitted variation from a flat surface shall not exceed 3/s in. in each direction. When the 
+larger dimension is from 36 to 72 in., incl, the permitted variation from a flat surface shall not exceed 75 % of the tabular amount for the specified width, 
+but in no case less than 3/s in. 
+NoTE 4--This table and these notes cover the permitted variations from a flat surface for circular and sketch plates, based upon the maximum 
+dimensions of those plates. 
+NOTE 5-Permitted variations in waviness do not apply. 
+NoTE 6-Plates must be in a horizontal position on a flat surface when flatness is measured. 
+Specified Thickness, Specified Weights, Permitted Variations From a Flat Surface for Specified Widths Given in Inches, in. 
+in. lb/ft 2 48 to 60, 60 to 72, 72 to 84, 84 to 96, 96 to 108, 108 to 120, 
+excl excl excl excl excl incl 
+To¼, excl To 10.2 excl 1 1/16 1s1, 6 1 1/a 13/10 1o/10 
+¼to¾, excl 10.2 to 15.3, excl 9/16 1 1/10 7/e 151,s 1 11/e 
+¾to½, excl 15.3 to 20.4, excl 1o/32 1%2 9/15 2¼:, ¾ 1 3/10 
+½to¾, excl 20.4 to 30.6, excl 1%2 ¼o ½ •;,. % 11fie 
+¾ to 1, excl 30.6 to 40.8, excl 7/10 7/10 1%2 ½ 9/,o 2 1/02 
+1 to 2, Incl 40.8 to 51.7, incl % 1%2 7/15 1%2 ½ ½ 
+TABLE S27.4 Permitted Variations From a Flat Surface for As-Rolled or Normalized High-Strength Low-Alloy Steel Plates Ordered. to 
+Half-Standard Flatness 
+NoTE I-Permitted Variation From a Flat Surface Along the Length-The longer dimension specified is considered the length, and the permitted 
+variation from a flat surface along the length shall not exceed the tabular amount for the specified width in plates up to 3700 mm in length, or in any 
+3700 mm of longer plates. 
+NoTE 2-Permitted Variation From a Flat Surface Across the Width-The permitted variation from a flat surface across the width shall not exceed the 
+tabular amount for the specified width. 
+NoTE 3-When the longer dimension is under 900 mm, the permitted variation from a flat surface shall not exceed 10 mm in each direction. When 
+the larger dimension is from 900 to 1800 mm, incl., the permitted variation from a flat surface shall not exceed 75 % of the tabular amount for the specified 
+width but in no case less than 10 mm. 
+NOTE 4--This table and these notes cover the permitted variations from a flat surface for circular and sketch plates, based upon the maximum 
+dimensions of such plates. 
+NoTE 5-Permitted variations in waviness do not apply. 
+NoTE 6-Plates must be in a horizontal position on a flat surface when flatness is measured. 
+Specified Thickness, 
+mm 
+Specified Weights, 
+kg/m 2 
+Permitted Variations From a Flat Surface for Specified Widths Given in Millimetres, mm 
+1200 to 1500, 1500 to 1800, 1800 to 2100, 2100 to 2400, 2400 to 2700, 2700 to 3000, 
+excl excl excl excl excl incl 
+To 6, excl 
+6 to 10, excl 
+10 to 12, excl 
+12 to 20, excl 
+20 to 25, excl 
+25 to 50, incl 
+To 47.1 excl 
+47.1 to 78.5, excl 
+78.5 to 94.2, excl 
+94.2 to 157.0, excl 
+157.0 to 196.2, excl 
+196.2 to 392.5, incl 
+S28. Fine Grain Practice 
+17 
+14 
+12 
+11 
+11 
+9 
+S28.1 The steel shall be made to fine grain practice. 
+S29. Fine Austenitic Grain Size 
+S29.1 The requirements for fine austenitic grain size (see 8.1 
+and 8.3) shall be met. 
+S30. Charpy V-Notch Impact Test for Structural Shapes: 
+Alternate Core Location 
+S30.1 For shapes with a flange thickness equal to or greater 
+than 1 ½ in. [38.1 mm] that are specified in the purchase order 
+to be tested in accordance with this supplementary 
+24 
+17 
+12 
+11 
+11 
+10 
+32 
+25 28 30 33 
+22 24 25 28 
+14 16 19 20 
+12 14 16 17 
+12 12 14 16 
+11 12 12 12 
+requirement, Charpy V-notch impact tests shall be conducted in 
+accordance with Specification A673/A673M, using specimens 
+taken from the alternate core location. Unless otherwise 
+specified in the purchase order, the minimum average absorbed 
+energy for each test shall be 20 ft-lbf [27 J] and the test 
+temperature shall be 70°F [21 °C]. 
+S30.2 The frequency of testing shall be Frequency (H), 
+except that, for rolled shapes produced from ingots, the 
+frequency shall be Frequency (P) and the specimens shall be 

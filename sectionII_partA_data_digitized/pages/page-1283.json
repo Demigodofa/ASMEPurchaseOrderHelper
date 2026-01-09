@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 485,
+  "globalPageIndex": 1283,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "ASME BPVC.II.A-2025 SA-738/SA-738M \nSUPPLEMENTARY REQUIREMENTS \nSupplementary requirements shall not apply unless specified in the purchase order. A list of \nstandardized supplementary requirements for use at the option of the purchaser is included in \nSpecification A20/ A20M. Several of those considered suitable for use with this specification are listed \nby title. Other tests may be performed by agreement between the supplier and the purchaser: \nS 1. Vacuum Treatment \nS2. Product Analysis. \nS3. Simulated Post-Weld Heat Treatment of Mechanical \nTest Coupons. \nS4. Additional Tension Test. \nS5. Charpy V-Notch Impact Test. \nS6. Drop Weight Test (for Material 0.625 in. [16 mm] and \nOver in Thickness). \nS9. Magnetic Particle Examination. \nSl2. Ultrasonic Examination in accordance with Specifica\u00ad\ntion A578/A578M. \nS20. Maximum Carbon Equivalent for Weldability \nAPPENDIX \n(Nonmandatory Information) \nXl. CHARPY V-NOTCH IMPACT TEST \nXl.1 The energy values below are shown only for informa\u00ad\ntion as to the guarantees that are generally available. Manda\u00ad\ntory conformance to any of the values listed is a matter of \nagreement between the purchaser and the manufacturer. \n1205 \nXl.1.1 Longitudinal-20 ft\u00b7lbf [27 J] at -50\u00b0F [-45\u00b0C]. \nXl.1.2 Transverse-20 ft-lbf [27 J] at -20\u00b0F [-30\u00b0C]. ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-1283.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1290,
+  "bestTextAlphaRatio": 0.7349
+}

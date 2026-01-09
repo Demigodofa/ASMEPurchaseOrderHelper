@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 393,
+  "globalPageIndex": 393,
+  "width": 619.08,
+  "height": 858.72,
+  "text": "ASME BPVC.II.A-2025 SA-240/SA-240M \n3.1.7 Dimensions and permissible variations; \n3.1.8 Workmanship, finish and appearance; \n3.1.9 Number of tests/test methods; \n3.1.10 Specimen preparation; \n3.1.11 Retreatment; \n3.1.12 Inspection; \n3.1.13 Rejection and rehearing; \n3.1.14 Material test report; \n3.1.15 Certification; and \n3.1.16 Packaging, marking, and loading. \n4. Chemical Composition \n4.1 The steel shall conform to the requirements as to \nchemical composition specified in Table 1 and shall conform to \napplicable requirements specified in Specification A480/ \nA480M. \n5. Mechanical Properties \n5.1 The material shall conform to the mechanical properties \nspecified in Table 2. \n5.2 When specified by the purchaser, Charpy impact tests \nshall be performed in accordance with Supplementary Require\u00ad\nment Sl. \n5.3 When specified by the purchaser, 1 % offset yield \nstrength shall be measured and reported in accordance with \nSupplementary Requirement S3. \n6. Materials for High-Temperature Service \n6.1 The austenitic H Types shall conform to an average \ngrain size of ASTM No. 7 or coarser as measured by Test \nMethods El 12. \n6.2 Supplementary Requirement S2 shall be invoked when \nnon-H grade austenitic stainless steels are ordered for ASME \nCode applications for service above 1000\u00b0F [540\u00b0C]. \n6.3 Grade S31060, unless otherwise specified in the pur\u00ad\nchase order, shall conform to an average grain size of ASTM \nNo. 7 or coarser, as measured by Test Methods E112. \n7. Keywords \n7 .1 architectural; building; chromium; chromium-nickel \nstainless steel; chromium-manganese-nickel stainless steel; \nconstruction; pressure vessels \n341 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0393.json",
+  "tabulaTablesCsv": "tables_tabula/page-0393.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-0393.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1640,
+  "bestTextAlphaRatio": 0.725
+}

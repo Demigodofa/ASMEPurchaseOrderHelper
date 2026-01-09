@@ -1,0 +1,8 @@
+- Note 1—The following equation, upon which this table is based, may be applied to calculate minimum wall thickness from nominal (average) wall ‘ :
+thickness:
+t, x 0.875 = t,, :
+where: :
+t, = nominal (average) wall thickness, in. [mm], and
+t,, = minimum wall thicknesses, in. [mm],
+The wall thickness in inch-pound units is rounded to three decimal places in accordance with the rounding method of Practice E29. The wall thickness a
+in SI units is rounded to one decimal place in accordance with the rounding method of Practice E29. ;

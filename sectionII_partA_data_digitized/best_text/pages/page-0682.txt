@@ -1,0 +1,65 @@
+SA-370 ASME BPVC.II.A-2025 
+forgings and bars may receive during fabrication. The simu­
+lated heat treatment shall utilize temperatures, times, and 
+cooling rates as specified on the order. The total time at 
+temperature( s) for the test material shall be at least 80 % of the 
+total time at temperature(s) to which the forgings and bars are 
+subjected during postweld heat treatment. The total time at 
+temperature(s) for the test specimens may be performed in a 
+single cycle. 
+Al0.4.3.3 Prior to heat treatment in the simulator unit, test 
+specimens shall be machined to standard sizes that have been 
+determined to allow adequately for subsequent removal of 
+decarb and oxidation. 
+Al0.4.3.4 At least one thermocouple per specimen shall be 
+used for continuous recording of temperature on an indepen­
+dent external temperature-monitoring source. Due to the sen­
+sitivity and design peculiarities of the heating chamber of 
+certain equipment, it is mandatory that the hot junctions of 
+control and monitoring thermocouples always be placed in the 
+same relative position with respect to the heating source 
+(generally infrared lamps). 
+Al0.4.3.5 Each individual specimen shall be identified, and 
+such identification shall be clearly shown on the simulator 
+chart and simulator cycle record. 
+Al0.4.3.6 The simulator chart shall be compared to the 
+master chart for accurate reproduction of simulated quench in 
+accordance with Al0.4.3.2(a). If any one specimen is not heat 
+treated within the acceptable limits of temperature and time, 
+such specimen shall be discarded and replaced by a newly 
+machined specimen. Documentation of such action and reasons 
+for deviation from the master chart shall be shown on the 
+simulator chart, and on the co1Tesponding nonconformance 
+repmi. 
+Al0.4.4 Reheat Treatment and Retesting: 
+Al0.4.4.1 In the event of a test failure, retesting shall be 
+handled in accordance with rules set forth by the material 
+specification. 
+Al0.4.4.2 If retesting is permissible, a new test specimen 
+shall be heat treated the same as previously. The production 
+forging that it represents will have received the same heat 
+treatment. If the test passes, the forging shall be acceptable. If 
+it fails, the forging shall be rejected or shall be subject to reheat 
+treatment if permissible. 
+Al0.4.4.3 If reheat treatment is permissible, proceed as 
+follows: ( 1) Reheat treatment same as original heat treatment 
+(time, temperature, cooling rate). Using new test specimens 
+from an area as close as possible to the original specimens, 
+repeat the austenitize and quench cycles twice, followed by the 
+tempering cycle (double quench and temper). The production 
+forging shall be given the identical double quench and temper 
+as its test specimens above. (2) Reheat treatment using a new 
+heat treatment practice. Any change in time, temperature, or 
+cooling rate shall constitute a new heat treatment practice. A 
+new master curve shall be produced and the simulation and 
+testing shall proceed as originally set forth. 
+632 
+Al0.4.4.4 In summation, each test specimen and its corre­
+sponding forging shall receive identical heat treatment or heat 
+treatment; otherwise the testing shall be invalid. 
+Al0.4.5 Storage, Recall, and Documentation of Heat-cycle 
+Simulation Data-All records pertaining to heat-cycle simula­
+tion shall be maintained and held for a period of ten years or as 
+designed by the customer. Information shall be so organized 
+that all practices can be verified by adequate documented 
+records. 

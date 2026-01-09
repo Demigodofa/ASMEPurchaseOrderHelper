@@ -1,0 +1,21 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 530,
+  "globalPageIndex": 1328,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "SA-781/SA-781M ASME BPVC.II.A-2025 \nFIG. Sl7.l REFERENCE PHOTOGRAPHS OF MACROETCHED CAST STEEL \n1 3 4 \n6 7 8 \nGENERAL NOTE: The ten levels of severity of intergranular network structures shown are indicative of the presence of aluminum nitride \nprecipitation in the primary austenitic grain boundaries. \n1266 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-1328.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 309,
+  "bestTextAlphaRatio": 0.7346,
+  "noteOcrPath": "note_ocr/page-1328.txt",
+  "noteOcrCount": 0,
+  "noteOcrNotes": [],
+  "noteOcrHighDpiPath": "note_ocr_highdpi/page-1328.txt",
+  "noteOcrHighDpiCount": 0,
+  "noteOcrHighDpiNotes": []
+}

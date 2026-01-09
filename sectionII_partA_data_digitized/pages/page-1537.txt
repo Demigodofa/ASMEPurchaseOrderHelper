@@ -1,0 +1,102 @@
+ASME BPVC.II.A-2025 SA-995/SA-995M 
+SUPPLEMENTARY REQUIREMENTS 
+The following supplementary requirements shall not apply unless specified in the purchase order. A 
+list of standardized supplementary requirements for use at the option of the purchaser is included in 
+Specification A703/A703M. Those which are ordinarily considered suitable for use with this 
+specification are given below. Others enumerated in Specification A 703/ A 703M may be used with this 
+specification upon agreement between the manufacturer and purchaser. 
+Sl. Unspecified Elements 
+S2. Destruction Tests 
+S5. Radiographic Inspection 
+S6. Liquid Penetrant Inspection 
+S8. Charpy Impact Test 
+SlO. Examination of Weld Preparation 
+Sl0.1 Liquid penetrant examination of cavities prepared for 
+welding shall be performed to verify removal of those discon­
+tinuities found unacceptable by the inspection method specified 
+for the casting. The method of performing liquid penetrant 
+examination shall be in accordance with Practice El 65/ 
+E165M. Unless other degrees of shrinkage or types of discon­
+tinuities found in the cavities are specified, Type II, Internal 
+Shrinkage, of Reference Photographs E125, of Degree 2 in 
+sections up to 2 in. [50 mm] thick, and of Degree 3 in sections 
+over 2 in. [50 mm] thick shall be acceptable. 
+Sll. Post-Weld Heat Treatment 
+Sll.1 Castings shall be given a post-weld solution heat 
+treatment in accordance with Table 1. 
+Sl2. Prior Approval of Major Weld Repairs 
+Other supplementary requirements considered suitable for 
+use with this specification are: 
+S50. Estimating Ferrite Content 
+S50.1 Ferrite contents shall be determined by point count 
+(Test Method E562), by other quantitative metallographic 
+methods such as image analysis, by measurement of magnetic 
+response, or by other methods upon agreement between the 
+manufacturer and the purchaser. Frequency of testing and 
+location of tests shall be by agreement between the manufac­
+turer and the purchaser. 
+S51. Prior Approval of Weld Material 
+S51.1 The purchaser must give approval of all weld filler 
+materials to be used prior to any weld repairs. 
+S52. Additional Requirements for Grade 6A 
+S52.l Casting Thickness, T-The casting thickness, T, is the 
+maximum thickness of the pressure-containing wall of the 
+casting exclusive of padding added for directional 
+solidification, flanges, appendages, and sections designated by 
+the designer as noncritical. The order, inquiry, and drawing 
+shall designate what the test dimension, T, is for the casting. 
+S52.2 Charpy Impact Test-Charpy impact test properties 
+shall be determined by testing a set of three Charpy V-notch 
+impact specimens made from each heat of material. 
+S52.2.1 The thickness of the test blocks used to create 
+Charpy impact test specimens shall be equal to the casting 
+thickness, T. Charpy impact test specimens shall be removed 
+from a location at one-half the thickness of the test block. 
+S52.2.2 When the thickness of the test block is less than or 
+equal to 4 in. [100 mm], Charpy impact testing shall be 
+performed at one of the test temperatures listed in Table S52.1. 
+TABLE S52.1 Charpy Impact Testing of Base Material 
+Norn 1-It is recommended that test temperature selection be deter­
+mined based on the intended service temperature of the casting. 
+Test Temperature 
+'F ['C] 
+-51 [--46] 
+-105 [-76] 
+-150 [-101] 
+CharpY V-Notch Impact Requirements 
+Energy Value, ft-lbf [J], min 
+value for two specimens and Energy Value, ft-lbf [J], min 
+min average of three speci- for single specimen 
+mens 
+103 [140] 
+66 [90] 
+44 [60] 
+77 [105] 
+48 [65] 
+33 [45] 
+The test temperature shall be provided by the purchaser. If the 
+test temperature is not specified, the test temperature used shall 
+be -51 °F [-46 °C]. The average value of the three specimens 
+shall not be less than specified in Table S52.1, with no more 
+than one value permitted below the average minimum specified 
+and no value permitted below the minimum specified for a 
+single specimen. 
+S52.2.3 When the thickness of the test block is greater than 
+4 in. [100 mm], test temperature arid absorbed energy values 
+shall be agreed upon between the purchaser and the manufac­
+turer. 
+S52.3 Corrosion Testing-A Test Methods G48 Method A 
+ferric chloride pitting resistance test shall be performed for a 
+duration of 24 h at 60 °C. 
+S52.3.l The thickness of the test blocks used to create 
+corrosion test specimens shall be equal to the casting thickness, 
+T. Corrosion test specimens shall be removed from a location 
+at one quarter the thickness of the test block. 
+S52.3.2 When the thickness of the test block is less than or 
+equal to 4 in. [100 mm], test specimens shall show no evidence 
+of pitting when examined optically at 20x magnification, and 
+have a weight loss of <4g/m 2 . 
+S52.3.3 When the thickness of the test block is greater than 
+4 in. [100 mm], test block size and acceptance criteria shall be 
+agreed upon between the purchaser and the manufacturer. 
+1483 • 

@@ -1,0 +1,107 @@
+ASME BPVC.II.A-2025 SA-234/SA-234M (ASTM A234/A234M) 
+c Fittings made from forgings may have 0.35 max carbon and 0.35 max silicon with no minimum. 
+° For each reduction of 0.01 % below the specified carbon maximum, an increase of 0.06 % manganese above the specified maximum will be permitted, up to a maximum 
+of 1.65 %. 
+E The sum of Copper, Nickel, Chromium, and Molybdenum shall not exceed 1.00 %. 
+FApplies both to heat and product analyses. 
+GColumbium (Cb) and Niobium (Nb) are alternate names for element 41 in the Periodic Table of the Elements. 
+HChromium Nickel Balance is defined as CNB = (Cr+ 6Si + 4Mo + 1.5W + 11 V + 5Nb + 9Ti + 12AI) - (40C + 30N + 4Ni + 2Mn + 1 Cu) 
+that covers the area from the weld bevel of the branch outlet to 
+the center line of the body or run. Internal and external surfaces 
+shall be examined when size permits accessibility. No cracks 
+shall be permitted. Other imperfections shall be treated in 
+accordance with Section 15 on Surface Finish, Appearance, 
+and Corrosion Protection. After the removal of any crack, the 
+tee(s) shall be re-examined by the original method. Acceptable 
+tees shall be marked with the symbol PT or MT, as applicable, 
+to indicate compliance. 
+Norn 1-The examination described in 7.6 exists because the great 
+bulk of cold-forming strain-induced imperfections are detected in the area 
+described. Subsection 7.6 does not waive other areas of a tee from meeting 
+the requirements of Section 15 on Surface Finish, Appearance, and 
+Corrosion Protection. 
+7.7 Stubends may be produced with the entire lap added by 
+the welding of a ring, made from plate or bar of the same alloy 
+grade and composition, to the outside of a straight section of 
+pipe, provided the weld is double welded, is a full penetration 
+joint, satisfies the requirements of 7 .3 for qualifications and 
+8.3.4 for post weld heat treatment. 
+8. Heat Treatment 
+8.1 Heat Treatment Procedures-Fittings, after forming at 
+an elevated temperature, shall be cooled to a temperature 
+below the critical range under suitable conditions to prevent 
+injurious defects caused by too rapid cooling, but in no case 
+more rapidly than the cooling rate in still air. Heat treatment 
+temperatures specified are metal (part) temperatures. Heat­
+treated fittings shall be treated according to Section 7 in 
+Specification A960/A960M. 
+8.2 WPB, WPC, and WPR Fittings: 
+8.2.1 Hot-formed WPB, WPC, and WPR fittings upon 
+which the final forming operation is completed at a temperature 
+above 1150 °F [620 °C] and below 1800 °F [980 °C] need not 
+be heat treated provided they are cooled in still air. 
+8.2.2 Hot-formed or forged WPB, WPC, and WPR fittings 
+finished at temperature in excess of 1800 °F [980 °C] shall 
+subsequently be annealed, normalized, or normalized and 
+tempered. Hot-forged fittings NPS 4 or smaller need not be 
+heat treated. 
+8.2.3 WPB, WPC, and WPR fittings over NPS 12, produced 
+by locally heating a portion of the fitting stock to any 
+temperature for forming, shall be subsequently annealed, 
+normalized, or normalized and tempered. Fittings such as 
+elbows, tees, header tees, reducers and lap joint stub ends with 
+a carbon content less than 0.26 %, NPS 12 and under, shall not 
+require heat treatment after forming a locally heated portion of 
+the fitting. 
+8.2.4 Cold-formed WPB, WPC, and WPR fittings, upon 
+which the final forming operation is completed at a temperature 
+below 1150 °F [620 °C], shall be normalized, or shall be stress 
+relieved at 1100 to 1275 °F [595 to 690 °C]. 
+8.2.5 WPB, WPC, and WPR fittings produced by fusion 
+welding and having a nominal wall thickness at the welded 
+joint of¾ in. [19 mm] or greater shall be post-weld heat treated 
+at 1100 to 1250 °F [595 to 675 °C], or in accordance with 8.2.6. 
+8.2.6 At the option of the manufacturer, WPB and WPC 
+fittings produced by any of the methods in Section 7 may be 
+annealed, normalized, or normalized and tempered. 
+8.3 Fittings Other than WPB, WPC, and WPR: 
+8.3.1 Fittings of Grades WPl, WPll Class 1, WPll Class 2, 
+WPll Class 3, WP12 Class 1, WP12 Class 2, WP22 Class 1, 
+WP22 Class 3, WPS, and WP9 shall be furnished in the 
+annealed, isothermal-annealed, or normalized and tempered 
+condition. If normalized and tempered, the tempering tempera­
+ture for WPll Class 1, WPll Class 2, WPll Class 3, WP12 
+Class 1, and WP12 Class 2 shall not be less than 1150 °F [620 
+°C]; for Grades WPS, WP9, WP22 Class 1, and WP22 Class 3 
+the tempering temperature shall not be less than 1250 °F [675 
+oc]. 
+331 
+8.3.2 Fittings of Grades WPl, WP12 Class 1, or WP12 
+Class 2 either hot formed or cold formed may be given a final 
+heat treatment at 1200 °F [650 °C] instead of the heat treatment 
+specified in 8.3.1. 
+8.3.3 Fittings of WP24 either hot formed or cold formed 
+shall be furnished in the normalized and tempered condition. 
+The normalizing temperature range shall be 1800 to 1975 °F 
+[980 to 1080 °C]. The tempering temperature range shall be 
+1350 to 1470 °F [730 to 800 °C]. 
+8.3.4 Fittings in all thiclmesses produced by fusion welding 
+after the heat treatment specified in 8.3.1 shall be post-weld 
+heat treated at a temperature not less than prescribed above for 
+tempering except that Grade WPl Type 1 and Type 2 are 
+required to be post-weld heat treated only when the nominal 
+wall thickness at the welded joint is ½ in. [13 mm] or greater, 
+and except that preheat and post weld heat treatment are not 
+required for WP24 fittings whose section thickness does not 
+exceed 0.500 in. [12.7 mm]. 
+8.3.5 Except when Supplementary Requirement Sl is speci­
+fied by the purchaser, Grade WP91 Type 1 and Type 2 shall be 
+normalized at 1900 °F [1040 °C] minimum, and 1975 °F [1080 
+°C] maximum, and tempered in the temperature range of 1350 
+°F [730 °C] to 1470 °F [800 °C] as a final heat treatment. 
+8.3.6 Grade WP911 shall be normalized in the temperature 
+range of 1900 to 1975 °F [1040 to 1080 °C], and tempered in 
+the temperature range of 1365 to 1435 °F [740 to 780 °C] as a 
+final heat treatment. 
+8.3.7 Grade WP92 shall be normalized at 1900 °F [1040 °C] 
+minimum, and 1975 °F [1080 °C] maximum, and tempered in 

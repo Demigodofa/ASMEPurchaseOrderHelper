@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 97,
+  "globalPageIndex": 97,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "ASME BPVC.II.A-2025 \nTABLE A 1.23 Permitted Variations for Length and End Out-of-Square, Milled Shapes \nPermitted Variations in Length and End Out-of-Square, mmA \nMilled Both Ends 8 Milled One End 8 \nNominal Depth, mm Length, 0 m Over \n150 to 920 2 to 21 \nLength Length \nUnder End Out\u00ad\nof-Square \nOver \n6 \nA The permitted variations in length and end out-of-square are additive. \nUnder \n6 \nSA\u00b76/SA-6M \nEnd Out\u00ad\nof-Square\u00ad\n(for Milled End) \n8 End out-of-square is measured by (a) squaring from the center line of the web and (b) squaring from the center line of the flange. The measured variation from true \nsquareness in either plane shall not exceed the total tabular amount. \n0 Length is measured along center line of web. Measurements are made with the steel and tape at the same temperature. \nTABLE A 1.24 Permitted Variations in Straightness for W and HP Shapes \n\u2022 -CAMllER \nH I \nPositions for Measuring Camber and Sweep of W and HP Shapes \nCamber and sweep \nWhen certain sections 8 with a flange width approximately equal to depth are \nspecified in the order for use as columns: \nLengths of 14 m and under \nLengths over 14 m \nPermitted Variation in Straightness, mm \nx number of metres of total lengthA \n1 x number of metres of total length, but not over 10 \n10 + [1 x (number of metres of total length- 14 m)] \nA Sections with a flange width less than 150 mm, permitted variation for sweep, mm= 2 x number of metres of total length. \n8 Applies only to: \n200-mm deep sections-46.1 kg/m and heavier, \n250-mm deep sections-73 kg/m and heavier, \n310-mm deep sections-97 kg/m and heavier, \n360-mm deep sections-116 kg/m and heavier, \n410-mm deep sections-131 kg/m and heavier, and \n460-mm deep sections-202 kg/m and heavier. \nFor other sections specified in the order for use as columns, the permitted variation is subject to negotiation with the manufacturer. \n45 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0097.json",
+  "tabulaTablesCsv": "tables_tabula/page-0097.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-0097.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1867,
+  "bestTextAlphaRatio": 0.7231
+}

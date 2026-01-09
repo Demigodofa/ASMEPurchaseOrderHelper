@@ -1,0 +1,79 @@
+SA-479/SA-479M ASME BPVC.II.A-2025 
+TABLE 2 Mechanical Property Requirements 
+Tensile Yield 
+Elongation 
+in 2 in. Reduction of Brinell 
+UNS Designation Type Condition Strength, Strength/ [50mm] Area, min, Hardness, min, ksi min, ksi or 4D, %B,C max [MPa] [MPa] 
+min,% 
+Austenitic Grades 
+N08020 Alloy 20 stabilized-annealed 80 [550] 35 [240] 30° 50 
+Up to 2 in. [50.8 mm], incl strain-hardened 90 [620] 60 [415] 15 40 
+N08367 ... annealed 95 [655] 45 [310] 30 . .. 241 
+N08800 800 annealed 75 [515] 30 [205] 30 ... 192 
+N08810 800H annealed 65 [450] 25 [170] 30 ... 192 
+N08811 ... annealed 65 [450] 25 [170] 30 . .. 192 
+N08700 ... annealed 80 [550] 35 [240] 30 50 . .. 
+N08904 904L annealed 71 [490] 31 [220] 35 . . . ... 
+N08925 ... annealed 87 [600] 43 [295] 40 . .. 217 
+N08926 ... annealed 94 [650] 43 [295] 35 . .. 256 
+S20161 ... annealed 125 [860] 50 [345] 40 40 311 
+S20910 XM-19 annealed 100 [690] 55 [380] 35 55 293 
+Up to 2 in. [50.8 mm], incl hot-rolled 135 [930] 105 [725] 20 50 ... 
+Over 2 to 3 in. hot-rolled 115 [795] 75 [515] 25 50 ... 
+[50.8 to 76.2 mm], incl 
+Over 3 to 8 in. hot-rolled 100 [690] 60 [415] 30 50 ... 
+[76.2 to 203.2 mm], incl 
+Up to 1 ½ in. [38.1 mm], incl strain-hardened 145 [1000] 125 [860] 12 40 ... 
+Over 1 ½ to 2¼ in. strain-hardened 120 [825] 105 [725] 15 45 ... 
+[38.1 to 57.2 mm], incl 
+S21600, S21603 XM-17, XM-18 annealed 90 [620] 50 [345] 40 50 212 
+S21800 ... annealed 95 [655] 50 [345] 35 55 241 
+S21904 XM-11 annealed 90 [620] 50 [345] 45 60 ... 
+S24000 XM-29 annealed 100 [690] 55 [380] 30 50 ... 
+S30200, S30400, S30409, 302,304, 304H, 304LN, annealed 75 [515t 30 [205] 30 40 ... 
+S30453, S30880, S30908, ER308,E 309S, 309H, 309Cb, 
+S30909, S30940, S31008, 310S, 310H, 310Cb, 316, 
+S31009, S31040, S31600, 316H, 316Ti, 316Cb, 316LN, 
+317,321, 321H,347,347H, S31609, S31635, S31640, 348, 348H 
+S31653, S31700, S32100, 
+S32109, S34700, S34709, 
+S34800, S34809 
+S30403, S31603 304L, 316L annealed 70 [485] 25 [170] 30 40 ... 
+S31600, S31603, S30400, 316, 316L, 304, 304L strain-hardened 85 [585] 65 [450]G 30 40 ... 
+S30403 level 1 
+2 in. and under strain-hardened 95 [655] 75 [515] 25 40 ... 
+level 2 
+Over 2 to 2½ in. strain-hardened 90 [620] 65 [450] 30 40 ... 
+[50.8 to 63.5 mm], incl. level 2 
+Over 2½ to 3 in. strain-hardened 80 [550] 55 [380] 30 40 ... 
+[63.5 to 76.2 mm], incl level 2 
+S30451, S31651 304N, 316N annealed 80 [550] 35 [240] 30 40 ... 
+S30600 ... annealed 78 [540] 35 [240] 40 .. . . .. 
+S:30815 ... annealed 87 [600] 45 [310] 40 50 . .. 
+S31010 ... annealed 110 [760] 75 [515] 40 50 330 
+S31050 0.25 in. [6 mm] and under annealed 84 [580] 39 [270] 25 40 ... 
+Over 0.25 in. [6 mm] annealed 78 [540] 37 [255] 25 40 
+S31254 ... annealed 95 [655] 44 [305] 35 50 . .. 
+S31266 ... annealed 109 [750] 61 [420] 35 . . . . .. 
+S31725 ... annealed 75 [515] 30 [205] 40 . . . . .. 
+S31726 ... annealed 80 [550] 35 [240] 40 . . . . .. 
+S31727 ... annealed 80 [550] 36 [245] 35 . .. 217 
+S32050 ... annealed 98 [675] 48 [330] 40 . . . . .. 
+S32053 ... annealed 93 [640] 43 [295] 40 . .. 217 
+S32615 ... annealed 80 [550] 32 [220] 25 40 . .. 
+S32654 ... annealed 109 [750] 62 [430] 40 40 250 
+S33228 ... annealed 73 [500] 27 [185] 30 . . . . .. 
+S34565 ... annealed 115 [795] 60 [415] 35 40 230 
+S34752 ... annealed 75 [515] 30 [205] 35 . . . . .. 
+S35315 ... annealed 94 [650] 39 [270] 40 .. . . .. 
+S38815 ... annealed 78 [5401 37 [2551 30 . . . . .. .. Austernt1c-Fernt1c Grades 
+S31803 ... annealed 90 [620] 65 [450] 25 . .. 290 
+S32101 ... annealed 94 [650] 65 [450] 30 . .. 290 
+S32202 ... annealed 94 [650] 65 [450] 30 . .. 290 
+S32205 ... annealed 95 [655] 65 [450] 25 . .. 290 
+S32506 ... annealed 90 [620] 65 [450] 18 . .. 302 
+S32550 ... annealed 110 [760] 80 [550] 15 . .. 297 
+S32750 2 in. and under annealed 116 [800] 80 [550] 15 ... 310 
+over 2 in. annealed 110 [760] 75 [515] 15 ... 310 
+~ 
+780 

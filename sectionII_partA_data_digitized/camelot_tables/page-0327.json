@@ -1,0 +1,402 @@
+[
+  {
+    "rows": [
+      [
+        "TABLE  1  Chemical  Requirements",
+        "",
+        "",
+        "",
+        "determined from  the  size  of the  tubes  as  prescribed in Table  2."
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "NoTE  3-For tensile  and  hardness \ntest  requirements,  the  term  \"lot\""
+      ],
+      [
+        "Element",
+        "Composition, %",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "applies to all tubes prior to cutting, of the same nominal diameter and wall"
+      ],
+      [
+        "Grade A-1",
+        "Grade C",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "thickness which are produced from the same heat of steel. When final heat"
+      ],
+      [
+        "CarbonA  , max \n0.27",
+        "0.35",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "treatment is in a batch-type furnace,  a lot shall include only those tubes of"
+      ],
+      [
+        "Manganese \n0.93 max",
+        "0.29-1.06",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "the same size and the same heat which are heat treated in the same furnace"
+      ],
+      [
+        "Phosphorus,  max \n0.035",
+        "0.035",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "charge. When the final heat treatment is in a continuous furnace,  a lot shall"
+      ],
+      [
+        "Sulfur,  max \n0.035",
+        "0.035",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "include all tubes of the same size and heat, heat treated in the same furnace"
+      ],
+      [
+        "Silicon,  min \n0.10",
+        "0.10",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "at  the same temperature,  time  at heat,  and  furnace  speed."
+      ],
+      [
+        "",
+        "A  For each reduction of 0.01  % below the specified carbon maximum,  an increase",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "of  0.06 %  manganese  above  the  specified  maximum  will  be  permitted  up  to  a",
+        "",
+        "",
+        ""
+      ],
+      [
+        "maximum  of  1.35 %.",
+        "",
+        "",
+        "10.  Tensile  Requirements",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "10.1  The  material  shall  conform  to  the  requirements  as  to"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "tensile  properties  prescribed in Table  3."
+      ],
+      [
+        "TABLE 3 Tensile  Requirements",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "10.2  Table  4  gives \nthe  computed  minimum  elongation"
+      ],
+      [
+        "",
+        "Grade A-1",
+        "Grade C",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "values  for  each  1/32-in.  [0.8-mm]  decrease  in  wall  thickness."
+      ],
+      [
+        "Tensile  strength,  min,  ksi  [MPa]",
+        "60  (415]",
+        "70  (485]",
+        "",
+        ""
+      ],
+      [
+        "Yield strength,  min,  ksi  [MPa]",
+        "37  (255]",
+        "40  (275]",
+        "Where",
+        "the  wall \nthickness \nlies  between \ntwo  values  shown"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Elongation  in 2 in.  or 50  mm,  min,  %",
+        "30",
+        "30",
+        "",
+        "above,  the  minimum  elongation value  shall  be  determined by"
+      ],
+      [
+        "For longitudinal strip tests,  a deduction  shall  be",
+        "1.50 A",
+        "1.50 A",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "the  following  equation:",
+        ""
+      ],
+      [
+        "made for  each  \u00bd2-in.  (0.8-mm]  decrease in",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "wall  thickness  under 5/16  in.  [8 mm]  from  the",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "E  = 48t+ 15.00  [ E  = l.87t+ 15.00]"
+      ],
+      [
+        "basic minimum  elongation  of  the following",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "percentage points",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "where:",
+        ""
+      ],
+      [
+        "When  standard round  2-in.  or 50-mm  gage length",
+        "22",
+        "20",
+        "",
+        ""
+      ],
+      [
+        "or smaller proportionally sized  specimen",
+        "",
+        "",
+        "E",
+        "elongation in  2 in.  or 50  mm,  %,  and"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "with  the  gage  length  equal  to  4D (four times",
+        "",
+        "",
+        "",
+        "=  actual  thiclmess  of specimen, in.  [mm]."
+      ],
+      [
+        "the  diameter)  is  used",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "A  See Table 4 for the computed  minimum values.",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "11.  Hardness  Requirements"
+      ]
+    ]
+  },
+  {
+    "rows": [
+      [
+        "8.2  When  a  grade  is  ordered under  this  specification,  sup",
+        "12.2  Flattening  Test-One  flattening  test  shall  be  made  on"
+      ],
+      [
+        "plying an  alloy  grade that specifically requires  the  addition  of",
+        "specimens  from  each  end  of one  finished  tube  from  each  lot"
+      ],
+      [
+        "any  element  other  than  those  listed  for  the  ordered  grade  in",
+        "(see Note 2),  but not the one used for  the flaring  test.  Tears  or"
+      ],
+      [
+        "Table  1 is  not permitted.",
+        "breaks  occurring  at  the  12  or 6 o'clock positions  on  Grade  C"
+      ],
+      [
+        "",
+        "tubing  with  sizes  of 2.375  in.  [60.3  mm]  in  outside  diameter"
+      ],
+      [
+        "9.  Product Analysis",
+        ""
+      ],
+      [
+        "",
+        "and  smaller shall not be  considered a basis for rejection."
+      ],
+      [
+        "9.1  When requested on the purchase order,  a product analy",
+        ""
+      ],
+      [
+        "",
+        "12.3  Flaring  Test-One flaring  test shall be made on speci"
+      ],
+      [
+        "sis  shall  be  made  by  the  supplier from  one  tube  or billet per",
+        ""
+      ],
+      [
+        "",
+        "mens from each end of the one finished tube from each lot (see"
+      ],
+      [
+        "heat. The chemical composition thus determined shall conform",
+        ""
+      ],
+      [
+        "",
+        "Note  2),  but not the  one used for  the  flattening  test."
+      ],
+      [
+        "to  the requirements  specified.",
+        ""
+      ],
+      [
+        "",
+        "tests \n12.4  Hardness  Test-Brinell  or  Rockwell  hardness"
+      ],
+      [
+        "9.2  If the  original  test  for  product  analysis  fails,  retests  of",
+        ""
+      ],
+      [
+        "",
+        "shall be made on  specimens from  two tubes from  each lot (see"
+      ],
+      [
+        "two  additional billets  or  tubes  shall  be  made.  Both  retests  for",
+        ""
+      ],
+      [
+        "",
+        "Note  3)."
+      ],
+      [
+        "the  elements  in  question  shall  meet  the  requirements  of the",
+        ""
+      ],
+      [
+        "specification;  otherwise,  all  remaining  material  in  the  heat  or",
+        ""
+      ]
+    ]
+  }
+]

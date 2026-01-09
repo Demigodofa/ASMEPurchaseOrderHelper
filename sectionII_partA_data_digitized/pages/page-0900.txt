@@ -1,0 +1,118 @@
+SA-480/SA-480M (ASTM A480/A480M) ASME BPVC.II.A-2025 
+Specified Thickness (t), 
+in.[mm] 
+t < '¼a [4. 76] 
+'½e [4.76] S t < % [9.52] 
+% [9.52] s t < ¾ [19.05] 
+¾ [19.05] st< 1 [25.40] 
+1 [25.40] s t < 2 [50.80] 
+2 [50.80] s t < 3 [76.20] 
+3 [76.20] s t < 4 [101.6] 
+4 [101.6] s I< 6 [152.4] 
+6 [152.4] st< 8 [203.2] 
+8 [203.2] s t < 10 [254.0] 
+TABLE A2.16 Permitted Variations in Flatness of Hot-rolled, Wide, 
+Coll-processed Product as Cut Lengths 
+Not Specified to Stretcher-Leveled Standard of Flatness 
+Specified Thickness Width (w), in. [mm] Flatness Tolerance,A 
+!l),in.[mm] in.[mm] 
+t< '½s [4.76] ws36 [914] 0.50 [12.7] 
+36 [914] < ws 60 [1524] 
+W> 60 [1524] 
+t;:,, '¼a [4.76] ws 60 [1524] 0.90 [23] 
+60 [1524] < ws 72 [1829] 1.20 [30] 
+W> 72 [1829] 1.50 [38] 
+Stretcher-Leveled Standard of 
+Flatness 
+Specified Specified Width Specified Length Flatness 
+Thickness (t), Tolerance,A in. 
+in. [mm] (w),in. [mm] (L), in. [mm] [mm] 
+t di,. [4.76] ws48 [1219] Ls 96 [2438] 1/s [3.18] 
+ws48 [1219] L > 96 [2438] ¼[6.35] 
+t < o/10 [4.76] W> 48 [1219] Ls 96 [2438] ¼[6.35] 
+W> 48 [1219] L > 96 [2438] ¼[6.35] 
+A Maximum deviation from a horizontal flat surface. 
+TABLE A2.17 Permitted Variations in Thickness of Hot-rolled Mill Plate (Quarto Plate}'4- 8 
+ws 84 (2134] 
+0.055 [1.35] 
+0.045 [1.14] 
+0.055 [1.40] 
+0.060 [1.52] 
+0.070 [1.78] 
+0.125 [3.20] 
+0.150 [3.81] 
+0.180 [4.57] 
+0.235 [6.00] 
+0.315 [8.00] 
+Width (w), in. [mm] 
+84 [2134] < w s 120 [3048] 120 [3048] < w s 144 [3658] 
+Tolerance Over Specified Thickness, c.o in. [mm] 
+0.070 [1.78] 
+0.050 [1.27] 
+0.060 [1.52] 
+0.065 [1.65] 
+0.075 [1.90] 
+0.150 [3.80] 
+0.160 [4.06] 
+0.200 [5.08] 
+0.255 [6.48] 
+0.335 [8.50] 
+0.085 [2.16] 
+0.085 [2.16] 
+0.085 [2.16] 
+0.095 [2.41] 
+0.175 [4.45] 
+0.200 [5.08] 
+0.335 [8.50] 
+0.355 [9.02] 
+0.435 [11.0] 
+w > 144 [3658] 
+0.090 [2.29] 
+0.100 [2.54] 
+0.115 [2.92] 
+0.200 [5.08] 
+0.225 [5.72] 
+0.355 [9.02] 
+0.435 [11.0] 
+0.550 [14.0] 
+A Thickness is measured along the original longitudinal edges of the as-produced plate at least% in. [9.52 mm], but not more than 3 in. [76.20 mm], from the edge. 
+8 For plates up to 1 0 in. [254.0 mm], excl, in thickness, the tolerance under the specified thickness is 0.D10 in. [0.25 mm]. 
+° For circles, the over thickness tolerances in this table apply to the diameter of the circle corresponding to the width ranges shown. For plates of irregular shape, the over 
+thickness tolerances apply to the greatest width corresponding to the width ranges shown. 
+0 The tolerance over specified thickness in the area more than 3 in. in from the longitudinal edges of the plate at the mill produced width shall not exceed twice the tabular 
+tolerance. 
+TABLE A2.18 Permitted Variations in Width for Hot-rolled 
+Rectangular Sheared Plate Mill Plates (Quarto Plates) 
+Specified Width (w), 
+in.[mm] 
+ws 84 [2135] 
+84 [2135] < ws 108 [2745] 
+W> 108 [2745] 
+Tolerances, 
+Over Specified Width, 
+in. [mm]A 
+o/s [15.9] 
+¾[19.1] 
+1 [25.4] 
+A The tolerance under specified width is ¼ in. [6.35 mm]. 
+800 
+TABLE A2.19 Permitted Variations In Length for Hot-rolled 
+Sheared Rectangular Plate Mill Plates (Quarto Plates) 
+Nominal Length (L), 
+in.[mm] 
+L < 160 [4064] 
+160 [4064] s L < 240 [6096] 
+240 [6000] s L < 315 [8000] 
+315 [8000] s L < 394 [10 008] 
+394 [10 008] s L < 590 [15 000] 
+590 [15 000] s L < 790 [20 066] 
+Tolerances, 
+Over and Under, 
+in.[mmJA 
+¾[19.1] 
+1¼[31.8] 
+1% [41.3] 
+2 [50.8] 
+2¼ [57.2] 
+2¼ [57.2] 
+A The tolerance under specified length is ¼ in. [6.35 mm]. 

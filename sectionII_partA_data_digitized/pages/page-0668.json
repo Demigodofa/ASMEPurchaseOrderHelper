@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 668,
+  "globalPageIndex": 668,
+  "width": 597.72,
+  "height": 842.88,
+  "text": "SA-370 ASME BPVC.II.A-2025 \nTABLE A2.2 Wall Thickness Limitations of Superficial Hardness Test on Cold Worked or Heat Treated Material \nfor Steel Tubular ProductsA \n(\"N\" Scale (Diamond Penetrator)) \nWall Thickness, in. (mm) \nOver 0.035 (0.89) \nOver 0.025 (0.51) \n0.015 and over (0.38) \nA The heaviest load recommended for a given wall thickness is generally used. \nLoad, kg! \n45 \n30 \n15 \nFIG. A2.9 Reverse Flattening Test \nA2.5.l.3 Crush Test-The crush test, sometimes referred to \nas an upsetting test, is usually made on boiler and other \npressure tubes, for evaluating ductility (see Fig. A2.10). The \nspecimen is a ring cut from the tube, usually about 2\u00bd in. \n(63.5 mm) long. It is placed on end and crushed endwise by \nhammer or press to the distance prescribed by the applicable \nmaterial specifications. \nA2.5 .1.4 Flange Test-The flange test is intended to deter\u00ad\nmine the ductility of boiler tubes and their ability to withstand \nthe operation of bending into a tube sheet. The test is made on \nFIG. A2.1 O Crush Test Specimen \n616 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0668.json",
+  "tabulaTablesCsv": "tables_tabula/page-0668.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-0668.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1042,
+  "bestTextAlphaRatio": 0.7025
+}

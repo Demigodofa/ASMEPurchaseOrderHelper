@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 71,
+  "globalPageIndex": 869,
+  "width": 617.04,
+  "height": 795.6,
+  "text": "L \nASME BPVC.II.A-2025 SA-476/SA-476M \nSPECIFICATION FOR DUCTILE IRON CASTINGS FOR \nPAPER MILL DRYER ROLLS \nSA-4 7 6 /SA-4 7 6M \n(Identical with ASTM Specification A476/A476M-00(2018) except for editorial changes in 4.1.6 and 13.1 to make \ncertification mandatory.) \n767 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-0869.txt",
+  "ocrTextLength": 264,
+  "ocrApplied": true,
+  "bestTextPath": "best_text/pages/page-0869.txt",
+  "bestTextSource": "ocr",
+  "bestTextLength": 264,
+  "bestTextAlphaRatio": 0.6477
+}

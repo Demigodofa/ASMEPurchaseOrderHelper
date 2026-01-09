@@ -1,0 +1,116 @@
+ASME BPVC.II.A-2025 SA-307 
+2.3 SAE Standard: 
+J429 Mechanical and Material Requirements For Externally 
+Threaded Fasteners 
+3. Ordering Information 
+3.1 Orders for externally threaded fasteners (including nuts 
+and accessories) under this specification shall include the 
+following: 
+3.1.1 ASTM designation and year of issue, 
+3.1.2 Name of product, bolts or studs; and bolt head style, 
+that is, hex or heavy hex, 
+3.1.3 Grade, that is, A, or·B. If no grade is specified, Grade 
+A is furnished. 
+3.1.4 Quantities (number of pieces by size including nuts), 
+3 .1.5 Fastener size and length, 
+3.1.6 Washers-Quantity and size (separate from bolts), 
+3.1.7 Zinc Coating-Specify the zinc-coating process re-
+quired, for example, hot-dip, mechanically deposited, or no 
+preference (see 4.5). 
+3.1.8 Other Finishes-Specify other protective finish, if 
+required. 
+3.1.9 Specify if inspection at point of manufacture is re­
+quired, 
+3.1.10 Specify if certified test report is required (see 8.2), 
+and 
+3.1.11 Specify additional testing (8.3) or special require­
+ments. 
+3.1.12 For establishment of a pait identifying system, see 
+ASME Bl8.24. 
+4. Materials and Manufacture 
+4.1 Steel for bolts and studs shall be made by the open­
+hearth, basic-oxygen, or electric-furnace process. 
+4.2 Bolts shall be produced by hot or cold forging of the 
+heads or machining from bar stock. 
+4.3 Heat Treatment: 
+4.3.1 Cold headed fasteners with head configurations other 
+than hex having a minimum head height less than or equal to 
+.5 D (D is nominal diameter) shall be stress relief annealed at 
+a minimum temperature of 875°F. 
+4.3.2 Stress relieving of hex head fasteners and those with 
+minimum head heights greater than .5 D shall be at the 
+manufacturer's option. 
+4.4 Bolt and stud threads shall be rolled or cut. 
+4.5 Zinc Coatings, Hot-Dip and Mechanically Deposited: 
+4.5.1 When zinc-coated fasteners are required, the pur-
+chaser shall specify the zinc-coating process, for example hot 
+dip, mechanically deposited, or no preference. 
+4.5.2 When hot-dip is specified, the fasteners shall be 
+zinc-coated by the hot-dip process in accordance with the 
+requirements of Specification F2329. 
+4.5.3 When mechanically deposited is specified, the fasten­
+ers shall be zinc-coated by the mechanical-deposition process 
+in accordance with the requirements of Class 55 of Specifica­
+tion B695. 
+4.5.4 When no preference is specified, the supplier may 
+furnish either a hot-dip zinc coating in accordance with 
+Specification F2329, or a mechanically deposited zinc coating 
+in accordance with Specification B695, Class 55. Threaded 
+components (bolts and nuts) shall be coated by the same 
+zinc-coating process and the supplier's option is limited to one 
+process per item with no mixed processes in a lot. 
+5. Chemical Composition 
+5 .1 Grade A and B bolts and studs shall have a heat analysis 
+conforming to the requirements specified in Table 1 based on 
+the steel producer's heat analysis. 
+5.2 The purchaser shall have the option of conducting 
+product analyses on finished bolts in each lot, which shall 
+conform to the product analysis specified in Table l. 
+5.3 In case of conflict or for referee purposes, the product 
+analysis shall take precedence. 
+5.4 Bolts and studs are customarily furnished from stock, in 
+which case individual heats of steel cannot be identified. 
+5.5 Application of heats of steel to which bismuth, sele­
+nium, tellurium, or lead has been intentionally added shall not 
+be permitted for Grade B bolts and studs. 
+5.6 Chemical analyses shall be performed in accordance 
+with Test Methods, Practices, and Terminology A751. 
+6. Mechanical Properties 
+6.1 Grades A and B bolts and studs shall conform to the 
+hardness specified in Table 2. 
+6.2 Grade A and B bolts and studs 1 ½ in. in diameter or less, 
+other than those excepted in 6.4, shall be tested full size and 
+shall conform to the requirements for tensile strength specified 
+in Table 3. 
+441 
+6.3 Grade A and B bolts and studs larger than 1 ½ in. in 
+diameter, other than those excepted in 6.4, shall preferably be 
+tested full size and when equipment of sufficient capacity is 
+available and shall conform to the requirements for tensile 
+strength specified in Table 3. When equipment of sufficient 
+capacity for full-size bolt testing is not available, or when the 
+length of the bolt makes full-size testing impractical, machined 
+specimens shall be tested and shall conform to the require­
+ments specified in Table 4. 
+TABLE 1 Chemical Requirements for Grades A and B Bolts and 
+Studs 
+Carbon, max 
+Manganese, max 
+Phosphorus, max 
+Sulfur, max 
+Grade A 
+Grade B 
+Heat Analysis 
+0.29 
+1.20 
+0.04 
+0.15 
+0.05 
+Product Analysis 
+0.33 
+1.25 
+0.041 
+A 
+0.051 
+A Resulfurized steel is not subject to rejection based on product analysis for 
+sulfur. 

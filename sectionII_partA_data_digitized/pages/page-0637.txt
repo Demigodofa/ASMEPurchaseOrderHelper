@@ -1,0 +1,84 @@
+ASME BPVC.II.A-2025 SA-370 
+2. Referenced Documents 
+2. l ASTM Standards: 
+A623 Specification for Tin Mill Products, General Require­
+ments 
+A623M Specification for Tin Mill Products, General Re­
+quirements [Metric] 
+A833 Test Method for Indentation Hardness of Metallic 
+Materials by Comparison Hardness Testers 
+A941 Terminology Relating to Steel, Stainless Steel, Related 
+Alloys, and Ferroalloys 
+A956/A956M Test Method for Leeb Hardness Testing of 
+Steel Products 
+Al038 Test Method for Portable Hardness Testing by the 
+Ultrasonic Contact Impedance Method 
+Al058 Test Methods for Mechanical Testing of Steel 
+Products-Metric 
+Al061/Al061M Test Methods for Testing Multi-Wire Steel 
+Prestressing Strand 
+E4 Practices for Force Calibration and Verification of Test­
+ing Machines 
+E6 Terminology Relating to Methods of Mechanical Testing 
+E8/E8M Test Methods for Tension Testing of Metallic Ma­
+terials 
+ElO Test Method for Brinell Hardness of Metallic Materials 
+E18 Test Methods for Rockwell Hardness of Metallic Ma­
+terials 
+E23 Test Methods for Notched Bar Impact Testing of Me­
+tallic Materials 
+E29 Practice for Using Significant Digits in Test Data to 
+Determine Conformance with Specifications 
+E83 Practice for Verification and Classification of Exten­
+someter Systems 
+Ell0 Test Method for Rockwell and Brinell Hardness of 
+Metallic Materials by Portable Hardness Testers 
+E190 Test Method for Guided Bend Test for Ductility of 
+Welds 
+E290 Test Methods for Bend Testing of Material for Ductil­
+ity 
+2.2 ASME Document: 
+ASME Boiler and Pressure Vessel Code, Section VIII, 
+Division I, Part UG-8 
+2.3 ISO Standard: 
+ISO/IEC 17025 General Requirements for the Competence 
+of Testing and Calibration Laboratories 
+3. Terminology 
+3.l Definitions: 
+3.1.1 For definitions of terms pertaining to mechanical 
+testing of steel products not otherwise listed in this section, 
+reference should be made to Terminology E6 and Terminology 
+A941. 
+3.2 Definitions of Terms Specific to This Standard: 
+3.2. l longitudinal test, n-unless specifically defined 
+otherwise, signifies that the lengthwise axis of the specimen is 
+parallel to the direction of the greatest extension of the steel 
+during rolling or forging. 
+3.2.1.1 Discussion-The stress applied to a longitudinal 
+tension test specimen is in the direction of the greatest 
+extension, and the axis of the fold of a longitudinal bend test 
+specimen is at right angles to the direction of greatest extension 
+(see Fig. 1, Fig. 2a, and Fig. 2b). 
+3.2.2 radial test, n-unless specifically defined otherwise, 
+signifies that the lengthwise axis of the specimen is perpen­
+dicular to the axis of the product and coincident with one of the 
+radii of a circle drawn with a point on the axis of the product 
+as a center (see Fig. 2a). 
+3.2.3 tangential test, n-unless specifically defined 
+otherwise, signifies that the lengthwise axis of the specimen 
+perpendicular to a plane containing the axis of the product and 
+tangent to a circle drawn with a point on the axis of the 
+productas a center (see Fig. 2a, Fig. 2b, Fig. 2c, and Fig. 2d). 
+3.2.4 transition temperature, n-for specification purposes, 
+the transition temperature is the temperature at which the 
+designated material test value equals or exceeds a specified 
+minimum test value. 
+3.2.4.1 Discussion-Some of the many definitions of tran­
+sition temperature currently being used are: ( 1) the lowest 
+temperature at which the specimen exhibits 100 % fibrous 
+fracture, (2) the tei;nperature where the fracture shows a 50 % 
+crystalline and a 50 % fibrous appearance, ( 3) the temperature 
+corresponding to the energy value 50 % of the difference 
+585 
+FIG. 1 Relation of Test Coupons and Test Specimens to Rolling 
+Direction or Extension (Applicable to General Wrought Products) 

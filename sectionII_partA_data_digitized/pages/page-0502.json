@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 502,
+  "globalPageIndex": 502,
+  "width": 596.16,
+  "height": 841.8,
+  "text": "SA-311/SA-311M ASME BPVC.II.A-2025 \nSUPPLEMENTARY REQUIREMENTS \nOne or more of the following supplementary requirements shall apply only when specified \nby the purchaser in the inquiry or order. Details of these requirements shall be agreed upon \nbetween the manufacturer and the purchaser. \nSl. Special Surface \nSl.1 When inspection standards more restrictive than \nvisual inspection are required, special surface may be spec\u00ad\nified. \nS2. Restricted Cast or Heat Analysis \nS2.1 When required, the purchaser may specify restric\u00ad\ntive cast or heat analysis limits on one or more elements. \nThe degree of restriction and the number of elements so \nrestricted are both subject to agreement between the manu\u00ad\nfacturer and the purchaser. \nS3. Restricted Decarburization \nS3.1 The purchaser may specify a maximum affected \ndepth of decarburization when required for special applica\u00ad\ntions, subject to agreement between the manufacturer and \nthe purchaser. \nS4. Nonmetallic Inclusion Requirements \n(Microscopical) \nS4.1 When nonmetallic inclusion requirements are \nspecified, the samples for testing shall be taken on a longitu\u00ad\ndinal direction midway between the center and the surface \nof the material. The area of the sample to be examined \n450 \nshould be agreed upon between the purchaser and the man\u00ad\nufacturer, and the test specimen should be hardened by \nheating and quenched before being polished to avoid pits. \nThe rating of the inclusion count should also be agreed \nupon and be based upon examination at a magnification \nof 100 diameters. Resulfurized steels are not subject to \ninclusion ratings. \nS5. Restricted Incidental Elements \nS5.1 The purchaser may specify limiting maximum \nrequirements for copper, nickel, chromium, or molybde\u00ad\nnum subject to agreement between the manufacturer and \nthe purchaser. \nS6. Grain Size \nS6.1 The steel shall conform to either the coarse austen\u00ad\nitic grain size (except as stated in S6.2), or the fine austen\u00ad\nitic grain size requirement of Specification A 29 / A 29M. \nS6.2 Certain elements, or combinations of elements, \nsuch as manganese, sulfur, and lead tend to produce grain \nrefinement and it is technically inappropriate to ensure \ncoarse grain size as measured by the McQuaid-Ehn test \non high manganese, high sulfur, and leaded steels such as \n1144, 1151, and 11L41. ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-0502.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2320,
+  "bestTextAlphaRatio": 0.7819
+}

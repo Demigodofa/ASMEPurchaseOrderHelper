@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 774,
+  "globalPageIndex": 774,
+  "width": 597.72,
+  "height": 842.88,
+  "text": "SA-439 /SA-439M ASME BPVC.11.A-2025 \nTABLE 2 Mechanical Requirements \nInch-Pound Grades \nType \nElement D-2 D-2B D-2C D-2S D-3 D-3A D-4 D-5 D-5B D-5S \nProperties \nTensile strength, min, ksi 58 58 58 55 55 55 60 55 55 55 \nYield strength (0.2 % offset), min, ksi 30 30 28 30 30 30 30 30 30 \nElongation in 2 in., min, % 8.0 7.0 20.0 10.0 6.0 10.0 20.0 6.0 10.0 \nBrinell hardness (3000 kg) 139-202 148-211 121-171 131-193 139-202 131-193 202-273 131-185 139-193 131-193 \nMetric Grade \nType \nElement D-2 D-2B D-2C D-2S D-3 D-3A D-4 D-5 D-58 D-58 \nProperties \nTensile strength, min, MPa 400 400 400 380 380 380 415 380 380 380 \nYield strength (0.2 % offset), min, MPa 210 210 195 210 210 210 210 210 210 \nElongation in 50 mm, min, % 8.0 7.0 20.0 10.0 6.0 10.0 20.0 6.0 10.0 \nBrinell hardness (3000 kg) 139-202 148-211 121-171 131-193 139-202 131-193 202-273 131-185 139-193 131-193 \n-I A ~ E \n\"Y\" Block Size \nDimensions For Castings of Thickness Less For Castings of Thickness \u00bd in. For Castings of Thickness 1 \u00bd in. \nThan \u00bd in. [13 mm] [13 mm] to 1 \u00bd in. [38 mm] [38 mm] and Over \nin. mm in. mm in. mm \nA \u00bd 13 25 3 75 \nB 15/a 40 21/a 54 5 125 \nC 2 50 3 75 4 100 \nD 4 100 6 150 8 200 \nE 7 175 7 175 7 175 \napprox approx approx approx approx approx \nF 9/1e 15 11/10 28 31/16 80 \nG 71/a 180 71/a 180 71/a 180 \napprox approx approx approx approx approx \nFIG. 1 \"Y\" Blocks for Test Coupons \nrespectively. A modified keel block cast from the mold shown \nin Fig. 3 may be substituted for the 1-in. [25-mm] \"Y\" block or \nthe 1-in. [25-mm] keel block. \n9.2 Whenever the section size of the castings is consider\u00ad\nably less or greater than 1 in. [25 mm], and by agreement \nbetween the purchaser and the manufacturer, the \u00bd-in. [13-\nmm] or 3-in. [75-mm] \"Y\" blocks shown in Fig. 1 may be \nused. \n9.3 The test bars shall be cast in open molds made of a \nsuitable core sand with a minimum of 1 \u00bd in. [38 mm] of sand \non all sides and bottom of the\u00bd and 1-in. [13 and 25-mm] test \nbars and 3 in. [75 mm] of sand for the 3-in. [75-mm] test bar. \n9.4 When investment castings are made to this specification, \nthe manufacturer may use test specimens cast to size incorpo\u00ad\nrated in the mold with the castings, or separately cast to size \nusing the same type of mold and the same thermal conditions \n724 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0774.json",
+  "tabulaTablesCsv": "tables_tabula/page-0774.csv",
+  "tabulaTableCount": 2,
+  "bestTextPath": "best_text/pages/page-0774.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2278,
+  "bestTextAlphaRatio": 0.5083
+}

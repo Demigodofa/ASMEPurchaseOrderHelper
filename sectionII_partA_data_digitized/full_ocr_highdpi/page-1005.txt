@@ -1,0 +1,59 @@
+ASME BPVGJIIA-2025 } SA-533/SA-533M
+Oo . TABLE 1 Chemical Requirements 5. Heat Treatment
+: Note 1—Where “...” appears there is no requirement. 5.1 All plates shall be heat treated by heating to a suitable
+_ Composition % = SCS~SC=séttemm perature: within. the range from 1550 to 1800°F [845 to
+Type A Type B Type TypeD_sTypeE == «9 80°C], holding for a sufficient time to obtain uniform tem- :
+A . . .
+Manoavesee 0.20 0.25 0.26 0.25 0.20 perature throughout the plate thickness and then quenching, in
+Heat analysis 1.15-1.50 1.15-1.50 1.15-1.50 1.15-1.50 1.15-1.70 water. Subsequently the plates shall be tempered at a suitable .
+Product analysis 1.07-1.62 1.07-1.62 1.07-1.62 1.07-1.62 1.04~1.84 . . .
+Phosphorus, max* 0.025 0.025 0.025 0.025 0.020 temperature to produce the specified properties, but not less
+Sulfur, max 0.025 0.025 0.025 0.025 0.015 than 1100°F [595°C] with a minimum holding time of % h/n. |
+icon: . . :
+Heat analysis  0.15-0.40 0.15-0.40 0.15-0.40 0.15-0.40 0.15-0.40 [1.2 min/mm] of thickness, but not less than 7 h.
+Product analysis 0.13-0.45 0.13-0.45 0.13-0.45 0.13-0.45 0.13-0.45 ; .
+Molybdenum: on 5.2 When the plates are heat treated by the fabricator, it :
+Heat analysis - 0.45-0.60 0.45-0.60 0.45-0.60 0.45-0.60 0.25~-0.60 shall be his responsibility to apply the proper heat treatment
+eeu analysis 0.41-0.64 0.41-0.64 0.41-0.64 0.41-0.64 0.21-0.64 and to conduct tests he deems necessary to assure that the |
+Heat analysis ...  0,40-0.70 0.70-1.00 0.20-0.40 0.60-1.00 specified properties are attained. Plates thicker than 2 in. [50
+aa Product analysis ae 0.37-0.73 0.67-1.03 0.17-0.48 0.57-1.03 mm] shall be stress-relieved by the manufacturer prior to .
+Chromium, max: . 0 O |
+Heat analysis . . _ - 0.60 shipment at a temperature no lower than 1100°F [595°C]. .
+Product analysis a a _ Lee 0.64 '
+A Applies to both heat and product analyses. 6. Chemical Requirements
+® For Types A, B, C, and D, the maximum manganese content may be increased
+to 1.60 % on heat analysis and 1.65 % on product analysis when Class 2 or Class 6.1 The steel shall conform to the chemical requirements ;
+3 properties are specified and when Supplementary Requirement S3 (see . . . . .
+Specification A20/A20M) is specified with a total holding time of more than 1 h/in. shown in Table 1 unless otherwise modified in accordance with ;
+[2.4 min/mm] of thickness. Supplementary Requirement $17, Vacuum Carbon-Deoxidized
+Steel, in Specification A20/A20M. .
+7. Mechanical Requirements
+Class 1 Class 2 Class 3 :
+ksi [MPa] ksi [MPa] ksi [MPa] 7.1 Tension Test Requirements: :
+Tensile strength 80-100 [550-690] 90-115 [620-795] 100-125 [690-860] 7.1.1 The material as represented by the tension-test speci- ,
+j Yield strength, min 50 [345] 70 [485] 83 [570] mens shall conform to the requirements shown in Table 2. |
+( Elongation in2 in. 18 16 16 |
+7 [50 mm], min, %4 7.1.2 For nominal plate thicknesses of *4 in. [20 mm] and |
+ASee Specification A20/A20M for elongation adjustment. under, the 114-in. [40 mm] wide rectangular specimen may be |
+used, and the elongation may be determined in a 2-in. [50-mm]
+gage length that include the fracture and that shows the greatest |
+3.3 If the requirements of this specification are in conflict —_ eJongation.
+with the requirements of Specification A20/A20M, the require- 7
+ments of this specification shall prevail. 8. Keywords
+4. Manufacture 8.1 alloy steel; alloy steel plate; pressure containing parts; ,
+4.1 Steelmaking Practice—The steel shall be killed and Pressure vessel steels; steel plates; steel plates for pressure
+shall conform to the fine austenitic grain requirement of Vessels
+OC ~ Specification A2O/A20
+MS SUPPLEMENTARY REQUIREMENTS ;
+Supplementary requirements shall not apply unless specified in the order. :
+A list of standardized supplementary requirements for use at the option of the purchaser are included |
+in Specification A20/A20M. Several of those considered suitable for use with this specification are
+listed below by title. Other tests may be performed by agreement between the supplier and the |
+purchaser. |
+Sl. Vacuum Treatment, S6. Drop Weight Test (for Material 0.625 in. [16 mm] and !
+§2. Product Analysis, over in Thickness), |
+S3. Simulated Post-Weld Heat Treatment of Mechanical S7. High-Temperature Tension Test, |
+Test Coupons, , S8. Ultrasonic Examination in accordance with Specifica-
+/ : $4.2 Additional Tension Test, tion A435/A435M,
+\ 85. Charpy V-Notch Impact Test, S9. Magnetic Particle Examination,
+905

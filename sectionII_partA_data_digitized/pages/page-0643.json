@@ -1,0 +1,20 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 643,
+  "globalPageIndex": 643,
+  "width": 609.24,
+  "height": 851.28,
+  "text": "ASME BPVC.II.A-2025 SA-370 \n+ -\nDIMENSIONS \nSpecimen 1 Specimen 2 Specimen 3 Specimen 4 Specimen 5 \nin. mm in. mm in. mm in. mm in. mm \nG-Gauge length 2.000\u00b1 50.0 \u00b1 2.000\u00b1 50.0 \u00b1 2.000\u00b1 50.0 \u00b1 2.000\u00b1 50.0 \u00b1 2.00\u00b1 50.0 \u00b1 \n0.005 0.10 0.005 0.10 0.005 0.10 0.005 0.10 0.005 0.10 \nD---Diameter (Note 1) 0.500 \u00b1 12.5\u00b1 0.500 \u00b1 12.5\u00b1 0.500 \u00b1 12.5\u00b1 0.500 \u00b1 12.5\u00b1 0.500\u00b1 12.5 \u00b1 \n0.010 0.25 0.010 0.25 0.010 0.25 0.010 0.25 0.010 0.25 \nA-Radius of fillet, min % 10 % 10 Vis 2 % 10 % 10 \nA-Length of reduced 2\u00bc, min 60, min 2\u00bc, min 60, min 4, ap- 100, ap- 2\u00bc, min 60, min 2\u00bc, min 60, min \nsection proxi- proxi-\nmately mately \nL-Overall length, approximate 5 125 5\u00bd 140 5\u00bd 140 4\u00be 120 9\u00bd 240 \n8-Grip section 1%, ap- 35, ap- 1, ap- 25, ap- \u00be' ap- 20, ap- \u00bd' ap- 13, ap- 3, min 75, min \n(Note 2) proxi- proxi- proxi- proxi- proxi- proxi- proxi- proxi-\nmately mately mately mately mately mately mately mately \nC-Diameter of end section \u00be 20 \u00be 20 23/32 18 7/s 22 \u00be 20 \n\u00a3-Length of shoulder and % 16 \u00be 20 % 16 \nfillet section, approximate \nF-Diameter of shoulder % 16 % 16 19/32 15 \nNorn I-The reduced section may have a gradual taper from the ends toward the center with the ends not more than 0.005 in. (0.10 mm) larger in \ndiameter than the center. \nNorn 2-On Specimen 5 it is desirable, if possible, to make the length of the grip section great enough to allow the specimen to extend into the grips \na distance equal to two thirds or more of the length of the gdps. \nNorn 3-The types of ends shown are applicable for the standard 0.500-in. ronnd tension test specimen; similar types can be used for subsize \nspecimens. The use of UNF series of threads (% by 16, \u00bd by 20, 3/s by 24, and \u00bc by 28) is suggested for high-strength brittle materials to avoid fracture \nin the thread portion. \nFIG. 5 Suggested Types of Ends for Standard Round Tension Test Specimens \nG-Length of parallel \nD---Diameter \nA-Radius of fillet, min \nA-Length of reduced section, min \nL-Over-all length, min \n8-Grip section, approximate \nC-Diameter of end section, approximate \n\u00a3-Length of shoulder, min \nF-Diameter of shoulder \nR \nDIMENSIONS \nSpecimen 1 Specimen 2 \nin. mm in. \nShall be equal to or greater than diameter D \n0.500 \u00b1 0.010 12.5\u00b1 0.25 0.750 \u00b1 0.D15 \n1 25 1 \n1\u00bc 32 1\u00bd \n3\u00be 95 4 \n1 25 1 \n\u00be 20 11/s \n\u00bc 6 \u00bc \n% \u00b1 1/e4 16.0 \u00b1 0.40 15 /16 \u00b1 1/64 \nmm \n20.0 \u00b1 0.40 \n25 \n38 \n100 \n25 \n30 \n6 \n24.0 \u00b1 0.40 \nSpecimen 3 \nin. mm \n1.25 \u00b1 0.025 30.0 \u00b1 0.60 \n2 50 \n2\u00bc 60 \n6% 160 \n1\u00be 45 \nF/s 48 \n5/16 8 \n1 7/1s \u00b1 1/e4 36.5 \u00b1 0.40 \nNorn I-The reduced section and shoulders (dimensions A, D, E, F, G, and R) shall be shown, but the ends may be of any form to fit the holders of \nthe testing machine in such a way that the load shall be axial. Commonly the ends are threaded and have the dimensions B and C given above. \nFIG. 6 Standard Tension Test Specimens for Cast Iron \n591 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-0643.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2827,
+  "bestTextAlphaRatio": 0.5458,
+  "noteOcrPath": "note_ocr/page-0643.txt",
+  "noteOcrCount": 1,
+  "noteOcrNotes": [
+    "Note 1\u2014The reduced section and shoulders (dimensions A, D, E, F, G, and R) shall be shown, but the ends may be of any form to fit the holders of"
+  ]
+}

@@ -1,0 +1,153 @@
+ASME BPVC.II.A-2025 SA-6/SA-6M 
+order to obtain a higher level of confidence in avoiding cold 
+cracking, the chemistry controls in S3 l are available. A 
+purchaser who specifies the use of S31. should be aware that 
+there are several factors involved in the judicious selection of 
+a maximum CE value, such as the following: 
+X3 .4.1 Actual production joint restraint/base metal 
+thickness(es), 
+X3.4.2 Filler metal and base metal strength compatibility, 
+X3.4.3 Deposited weld metal diffusible hydrogen content, 
+X3.4.4 Preheat and interpass temperatures, 
+X3.4.5 Filler metal and base metal cleanliness, and 
+X3.4.6 Heat input. 
+X3.5 Though it is widely believed that low CE steels are 
+immune to weld cracking problems, failure to consider these 
+factors and others have resulted in weld or base metal HAZ 
+(heat affected zone) cracks in such steels.11 
+X3.6 It is important to note that carbon equivalence is only 
+a qualitative assessment of potential welding problems, and 
+should never be solely relied on to ensure weld integrity. The 
+proper use of welding specifications, coupled with the knowl­
+edge of actual construction conditions, must also be used. 
+X4. RADIUS FOR COLD BENDING 
+X4.1 Suggested minimum inside bend radii for cold form­
+ing are referenced to Group Designations A to F inclusive as 
+defined in Table X4. l. The suggested radii listed in Table X4.2 
+should be used as minimums in typical shop fabrication. 
+Material that does not form satisfactorily when fabricated in 
+accordance with Table X4.2 may be subject to rejection 
+pending negotiation with the steel supplier. When tighter bends 
+are required, the manufacturer should be consulted. 
+X4.2 The bend radius and the radius of the male die should 
+be as liberal as the finished part will permit. The width across 
+the shoulders of the female die should be at least eight times 
+the plate thickness. Higher strength steels require larger die 
+openings. The surface of the dies in the area of radius should 
+be smooth. 
+X4.2.1 Since cracks in cold bending commonly originate 
+from the outside edges, shear burrs and gas cut edges should be 
+removed by grinding. Sharp comers on edges and on punched 
+or gas cut holes should be removed by chamfering or grinding 
+to a radius. 
+X4.2.2 If possible, parts should be formed such that the 
+bend line is perpendicular to the direction of final rolling. If it 
+is necessary to bend with the bend line parallel to the direction 
+of final rolling, a more generous radius is suggested (1 ½ times 
+applicable value given in Table X4.2 for bend lines perpen­
+dicular to the direction of rolling). 
+X4.3 References 
+X4.3.1 Holt, G.E., et al., "Minimum Cold Bend Radii 
+Project-Final Report," Concurrent Technologies Corporation, 
+January 27, 1997. 
+X4.3.2 Brockenbrough, R.L., "Fabrication Guidelines for 
+Cold Bending," R.L. Brockenbrough & Associates, June 28, 
+1998. 
+65 
+TABLE X4.1 Group Designations for Cold Bending 
+Specification 
+A36/A36M 
+A131/A131M 
+A242/A242M 
+A283/A283M 
+A514/A514M 
+A529/A529M 
+A572/A572M 
+A573/A573M 
+A588/A588M 
+A633/A633M 
+A656/A656M 
+A678/A678M 
+A709/A709M 
+A710/A710M 
+A808/A808M 
+A852/A852M 
+A871/A871M 
+A945/A945M 
+Grade 
+B 
+A, 8, D, cs and E 
+A, 8, D, CS arid E (all cold flanging) 
+AH32, DH32, EH32 and FH32 
+AH36, DH36, EH36 and FH36 
+AH40, DH40, EH40 and FH40 
+B 
+Aor8 
+C or D 
+any 
+50 [345] or 55 [380] 
+42 [290] 
+50 [345] 
+55 [380] 
+60 [415] or 65 [450] 
+58 [400] or 65 [450] 
+70 [485] 
+any 
+any 
+50 [345] 
+60 [415] 
+70 [485] 
+80 [550] or 100 [690] 
+Aor8 
+CorD 
+36 [250] 
+50 [345], SOW [345W] or HPS 50W 
+[HPS 345W] 
+HPS 70W [HPS 485W] 
+HPS 100W [HPS 690W] 
+A 
+B 
+B 
+60 [415] or 65 [450] 
+50 [345] or 65 [450] 
+Group 
+DesignatlonA 
+8 
+8 
+8 
+C 
+C 
+C 
+C 
+A 
+Ei 
+F 
+C 
+8 
+C 
+D 
+E 
+8 
+C 
+C 
+8 
+8 
+D 
+E 
+F 
+C 
+D 
+8 
+C 
+D 
+F 
+F 
+C 
+D 
+E 
+8 
+A Steels having a ratio of specified minimum tensile strength to specified minimum 
+yield strength of 1.15 or less are in Group F; other steels are in Groups A to E 
+inclusive, which are grouped on the basis of their having similar specified values 
+for minimum elongation in 2 in. [50 mm]. 
+8 Grade designations are not applicable for this specification. 

@@ -1,0 +1,53 @@
+SA-370 ASME BPVC.II.A-2025
+Test Methods and Definitions for _
+| Mechanical Testing of Steel Products
+1. Scope , Testing Multi-Wire Strand Annex A7
+1.1 These test methods cover procedures and definitions ee Testing Steel Reinforcing Bars annex
+for the mechanical testing of steels, stainless steels, and related Procedure for Use and Control of Heat-cycle Simulation Annex A10
+alloys. The various mechanical tests herein described are used 1.4 The values stated in inch-pound units are to be regarded
+to determine properties required in the product specifications. as standard. The values given in parentheses are mathematical _
+Variations in testing methods are to be avoided, and standard conversions to SI units that are provided for information only Oe
+methods of testing are to be followed to obtain reproducible and are not considered standard, _ ;
+and comparable results. In those cases in which the testing
+requirements for certain products are unique or at variance with 1.5 When these test methods are referenced in a metric
+these general procedures, the product specification testing | product specification, the yield and tensile values may be
+requirements shall control. determined in inch-pound (ksi) units then converted into SI
+1.2 The following mechanical tests are described: (MPa) units. The elongation determined in inch-pound Bauge
+; lengths of 2 or 8 in. may be reported in SI unit gauge lengths
+Sections . ;
+Tension 7 i014 of 50 or 200 mm, respectively, as applicable. Conversely, when
+Bend , 15 these test methods are referenced in an inch-pound product
+ares i specification, the yield and tensile values may be determined in
+Rockwell 18 SI units then converted into inch-pound units. The elongation
+Portable 19 determined in SI unit gauge lengths of 50 or 200 mm may be
+Impact 20 to 30 . eo: .
+Keywords 30 reported in inch-pound gauge lengths of 2 or 8 in., respectively,
+1.3 Annexes covering details peculiar to certain products as applicable. -
+are appended to these test methods as follows: 1.5.1 The specimen used to determine the original units
+Annex must conform to the applicable tolerances of the original unit
+Bar Products Annex At system given in the dimension table not that of the converted
+Tubular Products Annex A2 tolerance dimensions.
+; Fasteners Annex A3
+Round Wire Products ; Annex A4 Note 1—This is due to the specimen SI dimensions and tolerances
+Significance of Notched-Bar Impact Testing Annex AS being hard conversions when this is not a dual standard. The user is
+Converting Percentage Elongation of Round Specimens to Annex A6 ; ; : : .
+Equivalents for Flat Specimens directed to Test Methods A1058 if the tests are required in SI units.
+
+1.6 Attention is directed to ISO/IEC 17025 when there may
+be a need for information on criteria for evaluation of testing
+Jaboratories.
+
+1.7 This standard does not purport to address all of the
+safety concerns, if any, associated with its use. It is the
+responsibility of the user of this standard to establish appro-
+priate safety, health, and environmental practices and deter- a
+mine the applicability of regulatory limitations prior to use.
+
+1.8 This international standard was developed in accor-
+dance with internationally recognized principles on standard-
+
+| . ization established in the Decision on Principles for the
+Development of International Standards, Guides and Recom-
+mendations issued by the World Trade Organization Technical
+Barriers to Trade (TBT) Committee.
+584

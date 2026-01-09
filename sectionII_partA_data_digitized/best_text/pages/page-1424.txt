@@ -1,0 +1,93 @@
+SA-841/SA-841M ASME BPVC.II.A-2025 
+S78. Low Sulfur Treatment 
+S78.1 Restricted sulfur content shall be specified on the 
+order. In the absence of such a specification the maximum 
+sulfur furnished under this supplementary requirement shall be 
+0.003 % on heat analysis. 
+NoTE S78.l-The low sulfur treatment is for the purpose of enhancing 
+the HIC (Hydrogen Induced Cracking) and SSC (Sulfide Stress Cracking) 
+resistance. 
+S79. Carbon Equivalent Limit 
+S79.1 The carbon equivalent, on heat analysis, shall not 
+exceed 0.27 %, or a lower value as specified in the purchase 
+order, when based on the following equation: 
+Si Mn+Cu+Cr Ni Mo V 
+PCM= c+ 30+ 20 + 60+1s+ 10+ 5 B% 
+APPENDIX 
+(Nomnandatory Information) 
+Xl. THERMO-MECHANICAL CONTROLLED PROCESSING (TMCP) 
+Xl.1 Introduction-The Thermo•Mechanical Controlled 
+Processing, commonly referred . to as "TMCP," has evolved 
+from the "controlled rolling" (CR) processes, which have been 
+known and used for a number of years. TMCP produces 
+fine-grained steel by a combination of chemical composition 
+and integrated controls of manufacturing processes from slab 
+reheating to post-rolling cooling, thereby achieving the speci­
+fied mechanical properties in the required plate thicknesses. 
+TMCP requires accurate control of both the steel temperature 
+and rolling reductions, and does not involve coiling after the 
+post- cooling. 
+Xl.2 Outline of TMCP As May Be applied to Grades A 
+through F-As shown in Fig. Xl.l, TMCP for those grades 
+may incorporate three processes, as follows: 
+Xl.2.1 Thermo-Mechanical Rolling (TMR)-Steels of fine 
+grain size are produced by rolling in the recrystallization and 
+the nonrecrystallization regions of austenite, and sometimes in 
+the dual-phase temperature region of austenite and ferrite. 
+Generally, a high proportion of the rolling reduction is per• 
+lYPE OF PROCESSING 
+STRUCTURE . TEMPERATURE THERMO-MECHANICAL CONTROL PROCE$SES 
+IIEClt'l'$TA!.lmD 
+~) 
+~ 
+NOffltECl';'(S'r. 
+{l:LONG.<ll'lll)) 
+AUSl'ENllll 
+~$I.All 
+Hl!A'l'lffllfl!MP. 
+~ 
+ffl,IP, 
+Ar3 
+TMlt AC 
+(1) (2) (4) (S) (6) 
+R. 
+R 
+formed close to, or below, the temperature at which austenite 
+begins to transform to ferrite during cooling (Ar3) and may 
+involve rolling in the lower portion of the temperature range of 
+the intercritical dual-phase region. 
+Xl.2.2 Accelerated Cooling (AC)-Steels meeting the 
+specified requirements are produced by controlled cooling 
+(accelerated cooling and air cooling) through the dual-phase 
+teq1perature region immediately after final controlled rolling 
+(CR) or TMR operation, 
+Xl.2.3 Direct Quenched and Tempered (DQT)-:-Steels 
+meeting the specified requirements are produced by promoting 
+grain refinement and increasing hardness through direct 
+quenching i:tnmediately after final controlled rolling (CR) or 
+TMR operations. Subsequent to direct quenching the plates are 
+tempered. 
+Xl.2.4 The selection, from the above, of the method to be 
+used is made by the plate producer depending upon the 
+chemical composition, the plate thickness, and the required 
+properties. 
+CONVENTIONAL PRO<l!SSES 
+OQ·T AA N CR 
+(8) (9) (10) (11) (12) 
+R 
+AIJffl!lm! 
++l'!!!IRm! 
+Ar1 
+AC AC AC 
+l'lilllUTe+l'l!:'AA1ffll 
+(l'l!llRm + SAIHfl'll 
++l!AA1ffiSITI!) 
+Nelie: 
+'TMR: TH~l ROI.UNG N: NORMAIRS> 
+M;: ACCEt.ellATeO COOUNG PEtOa!SS ~: CONTROi.i.ED ROI.UNG 
+AR: AS ROWD R: REDUCTION 
+DQ: tl!RllCT QUl!NO!lNG 
+T:TeMPEREO 
+FIG, X1 .1 Schematic Diagrams of Thermo-Mechanical Control and Conventional Process of Steel Plate as may be Applied to Grades A 
+through F 
+1362 

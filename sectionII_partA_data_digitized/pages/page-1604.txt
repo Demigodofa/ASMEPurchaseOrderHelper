@@ -1,0 +1,110 @@
+SA-1058 ASME BPVC.II.A-2025 
+17.1.2.2 When hardness values converted from the Leeb 
+number are reported, the portable instrument used shall be 
+reported in parentheses, for example: 
+(1) 350 HB (HLD) where the original hardness test was 
+performed using the portable Leeb hardness test method with 
+the HLD impact device and converted to the Brinell hardness 
+value (HB). 
+17 .1.3 Test Method Al 038-The measured hardness number 
+shall be reported in accordance with the standard methods and 
+appended with UCI in parenthesis to indicate that it was 
+determined by a portable hardness tester, as in the following 
+example: 
+17.1.3.1 446 HV (UC/) 10 where 446 is the hardness test 
+result using the portable UCI test method under a force of 10 
+kgf. 
+17.1.4 Test Method EJJ0: The measured hardness number 
+shall be reported in accordance with the standard methods and 
+appended with a IP to indicate that it was determined by a 
+portable hardness tester, as follows: 
+17.1.4.1 Rockwell Hardness Examples: 
+( 1) 40 HRCIP where 40 is the hardness test result using the 
+Rockwell C portable test method. 
+(2) 72 HRBW/P where 72 is the hardness test result using 
+the Rockwell B portable test method using a tungsten carbide 
+ball indenter. 
+17.1.4.2 Brinell Hardness Examples: 
+(1) 220 HBWIP 10/3000 where 220 is the hardness test 
+result using the Brinell portable test method with a ball of 
+10 mm diameter and with a test force of 3000 kgf (29.42 kN) 
+applied for 10 s to 15 s. 
+(2) 350 HBWIP 51750 where 350 is the hardness test result 
+using the Brinell portable test method with a ball of 5 mm 
+diameter and with a test force of750 kgf (7.355 kN) applied for 
+10 s to 15 s. 
+CHARPY IMPACT TESTING 
+18. Description 
+18.1 The equipment, test specimen and testing procedures 
+shall comply with the requirements of Test Methods E23, ISO 
+148-1, or JIS Z 2242. 
+19. Testing Machines 
+19.1 Charpy machines used for testing steel generally have 
+capacities in the 300 to 400 J energy range. Sometimes 
+machines of lesser capacity are used; however, the capacity of 
+the machine should be substantially in excess of the absorbed 
+energy of the specimens (see Test Methods E23). The linear 
+velocity at the point of impact should be in the range of 4.9 to 
+5.8 mis or in accordance with ISO 148-1, or JIS Z 2242. 
+20. Sampling and Number of Specimens 
+20.1 Sampling: 
+20.1.1 Test location and orientation should be addressed by 
+the product specifications. If not, for wrought products, the test 
+location shall be the same as that for the tensile specimen and 
+the orientation shall be longitudinal with the notch perpendicu­
+lar to the major surface of the product being tested. 
+20.1.2 Number of Specimens: 
+20.1.2.1 All specimens used for a Charpy impact test shall 
+be taken from a single test coupon or test location. 
+20.1.2.2 When the specification calls for a minimum aver­
+age test result, three specimens shall be tested. 
+20.1.2.3 When the specification requires determination of a 
+transition temperature, eight to twelve specimens are usually 
+needed. 
+20.2 Type and Size: 
+20.2.1 A standard full size Charpy V-notch specimen as 
+shown in Test Methods E23, ISO 148-1, or JIS Z 2242 shall be 
+used except as provided in the following sub-paragraphs. 
+20.2.2 If a standard full-size specimen cannot be prepared, 
+the largest feasible standard subsize specimen shall be pre­
+pared. The specimens shall be machined so that the specimen 
+does not include material nearer to the surface than 0.5 mm. 
+20.2.3 Tolerances for standard subsize specimens are shown 
+in Test Methods E23, ISO 148-1, or JIS Z 2242. 
+20.3 Notch Preparation-The machining of the notch is 
+critical, as it has been demonstrated that extremely minor 
+variations in notch radius and profile, or tool marks at the 
+bottom of the notch may result in erratic test data. 
+21. Calibration 
+21.1 Accuracy and Sensitivity-Calibrate and adjust Charpy 
+impact machines in accordance with the requirements of the 
+test methods used Test Methods E23, ISO 148-2, or JIS B 
+7722. 
+22. Conditioning-Temperature Control 
+22.1 When a specific test temperature is required by the 
+specification or purchaser, control the temperature of the 
+heating or cooling medium within ±2 °F (1 °C). 
+23. Procedure 
+23.1 Individual Test Values: 
+23.1.1 Impact Energy-Record the impact energy absorbed 
+to the nearest J. 
+23.1.2 Fracture Appearance: 
+23.1.2.1 Determine the percentage of shear fracture area by 
+any of the methods described in Test Methods E23, ISO 148-1, 
+or JIS Z 2242. 
+23.1.2.2 Determine the individual fracture appearance val­
+ues to the nearest 5 % shear fracture and record the value. 
+23.1.3 Lateral Expansion: 
+23.1.3.1 Methods of measurement and precautions are de­
+scribed in Test Methods E23. 
+23.1.3.2 Measure the individual lateral expansion values to 
+the nearest 0.025 mm and record the values. 
+23.1.3.3 With the exception described as follows, any speci­
+men that does not separate into two pieces when struck by a 
+single blow may be reported as unbroken. If the specimen can 
+be separated by force applied by bare hands, the specimen may 
+be considered as having been separated by the blow. 
+24. Interpretation of Test Result 
+24.1 When the acceptance criterion of any impact test is 
+specified to be a minimum average value at a given 
+1550 

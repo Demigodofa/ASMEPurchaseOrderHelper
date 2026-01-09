@@ -1,0 +1,23 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 274,
+  "globalPageIndex": 274,
+  "width": 596.16,
+  "height": 841.8,
+  "text": "SA-182/SA-182M (ASTM A182/A182M) ASME BPVC.II.A-2025 \nTABLE3 Continued \nGrade Symbol Tensile Strength, Yield Strength, min, Elongation in 2 in. Reduction of Brinell Hardness \nmin, ksi [MPa] ksi [MPa] 8 [50 mm] or 4D, Area, min,% Number, HBW, \nmin,% unless otherwise \nindicated \nF 44 94 [650] 44 [300] 35 50 \nF 45 87 [600] 45 [310] 40 50 \nF 46 78 [540] 35 [240] 40 50 \nF 47 75 [525] 30 [205] 40 50 \nF 48 80 [550] 35 [240] 40 50 \nF 49 115 [795] 60 [415] 35 40 \nF 56 73 [500] 27 [185] 30 35 \nF 58 109 [750] 61 [420] 35 50 \nF 62 95 [655] 45 [310] 30 50 \nF 63 80 [550] 32 [220] 25 192 max \nF 64 90 [620] 40 [275] 35 50 217 max \nF70 70 [480] 25 [175] 35 HRB 90 max \nF 904L 71 [490] 31 [215] 35 \nF700 80 [550] 35 [240] 30 192 \nFNIC 65 [450] 25 [170] 30 \nFNIC10 65 [450] 25 [170] 30 \nFNIC11 65 [450] 25 [170] 30 \nF1925 87 [600] 43 [295] 30 \nF1925N 94 [650] 43 [295] 35 \nF35030 80 [550] 34 [235] 30 \nFerritic-Austenitic Stainless Steels \nF 50 100-130 65 [450] 25 50 \n[690-900] \nF 51 90 [620] 65 [450] 25 45 \nF 52 100 [690] 70 [485] 15 \nF 53,;; 2 in. 114 [785] 76 [525] 30 310 max \n[50 mm]G \nClass 1 \nF 53,;; 2 in. 116 [800] 80 [550] 15 310 max \n[50 mm]G \nClass 2 \nF 53 > 2 in. 106 [730] 75 [515] 15 310 max \n[50 mm]G \nF 54 116 [BOO] 80 [550] 15 30 310 max \nF 55 109-130 80 [550] 25 45 \n[750-895] \nF 57 118 [820] 85 [585] 25 50 \nF 59 112 [770] 80 [550] 25 40 \nF 60 95 [655] 65 [450] 25 45 \nF 61 109 [750] 80 [550] 25 50 \nF 65 109 [750] 80 [550] 25 \nF 66 94 [650] 65 [450] 30 290 max \nF 67 90 [620] 65 [450] 18 302 \nF 68 87 [600] 58 [400] 25 290 max \nF 69 94 [650] 65 [450] 30 \nF 71 101 [700] 72 [500] 15 321 \nA Where ellipses appear in this table, there is no requirement and the test for the value need neither be performed nor a value reported. \n8 Determined by the 0.2 % offset method. For ferritic steels only, the 0.5 % extension-under-load method may also be used. \nc For sections over 5 in. [130 mm] in thickness, the minimum tensile strength shall be 70 ksi [485 MPa]. \n\u00b0 For sections over 5 in. [130 mm] in thickness, the minimum tensile strength shall be 65 ksi [450 MPa]. \n\"Longitudinal. The transverse elongation shall be 25 % in 2 in. or 50 mm, min. \nF Longitudinal. The transverse reduction of area shall be 45 % min. \nG Maximum section thickness at the time of heat treatment; see 7.4. \nmay verify that the requirement has been met by testing at any \nlocation on the forging provided such testing does not render \nthe forging useless. \n9.6.2 When the reduced number of tension tests permitted \nby 9 .5 .1.1 is applied, additional hardness tests shall be made on \nforgings or samples, as defined in 9.2, scattered throughout the \nload (see Note 2). At least eight samples shall be checked from \neach batch load, and at least one check per hour shall be made \nfrom a continuous run. When the furnace batch is less than \neight forgings, each forging shall be checked. If any check falls \n222 \noutside the prescribed limits, the entire lot of forgings shall be \nreheat treated and the requirements of 9.5.1 shall apply. \nNoTE 2-The tension test required in 9.5.1 is used to determine material \ncapability and conformance in addition to verifying the adequacy of the \nheat-treatment cycle. Additional hardness tests in accordance with 9.6.2 \nare required when 9.5.1.1 is applied to ensure the prescribed heat-treating \ncycle and uniformity throughout the load. \n9.6.3 When the alternative to the Ti/N ratio limit for F 23 is \napplied, (see Note Pin Table 2), a minimum of two pieces per \nbatch or continuous run as defined in 9.6.2 shall be hardness ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0274.json",
+  "tabulaTablesCsv": "tables_tabula/page-0274.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0274.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 3550,
+  "bestTextAlphaRatio": 0.4966,
+  "noteOcrPath": "note_ocr/page-0274.txt",
+  "noteOcrCount": 1,
+  "noteOcrNotes": [
+    "Note 2\u2014The tension test required in 9.5.1 is used to determine material"
+  ]
+}

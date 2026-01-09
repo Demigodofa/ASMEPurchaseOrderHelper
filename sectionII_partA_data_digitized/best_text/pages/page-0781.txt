@@ -1,0 +1,117 @@
+ASME BPVC.II.A-2025 SA-449 
+3 .1.4 Type, that is, Type 1, or Type 3 as required, 
+3.1.5 ASTM designation and year of issue, and 
+3.1.6 Other components such as nuts and washers if re­
+quired. 
+3.1.7 Hot-Dip or Mechanically Deposited Zinc Coatings­
+For hot-dip or mechanically deposited zinc coatings covered by 
+5.1 and requiring over-tapped nuts, specify the zinc coating 
+process required, that is, hot-dip, mechanically deposited, or no 
+preference (see 5.1). 
+3.1.8 Other Coatings-Specify other protective coating if 
+required (see 5.2). 
+3.1.9 Specify if inspection at point of manufacture is re-
+quired. 
+3 .1.10 Test reports if required. 
+3.1.11 Supplementary or special requirements. 
+3.1.12 For establishment of a part identifying system, see 
+ASME B18.24. 
+Norn 1-A typical ordering description follows: 1000 pieces Vs in. 
+diameter x 4.0 in. long hex cap screw, Type 1, ASTM A449-XX, each 
+with one finished hex nut ASTM A563, Grade DH. Each component 
+mechanically zinc coated in accordance with B695, Class 5, Type Il. 
+3.2 Suitable Nuts and Washers: 
+3.2.1 Suitable nuts are covered in Specification A563. 
+Unless otherwise specified, the grade and style of nut shall be 
+as follows: 
+Fastener Size and Surface Finish 
+¼ to 1 1 /2 in., plain (or with a coating of insufficient 
+thickness to require over-tapped nuts) 
+Over 1 ½ to 3 in., plain (or with a coating of insuffi' 
+cient thickness to require over-tapped nuts) • 
+¼ to 3 in., zinc-coated (or with a coating thickness 
+requiring over-tapped nuts) 
+¼ to 3 in., Type 3 
+Nut Grade and StyleA 
+B, hex 
+A, heavy hex 
+DH, heavy hex 
+C3, DH3, heavy hex 
+A Nuts of other grades and styles having specified proof load stresses (Specifica­
+tion A563, Table 3) greater than the specified grade and style of nut are suitable. 
+3.2.2 Unless otherwise specified, washers ordered with 
+fasteners shall be furnished to the requirements of Specification 
+F436, Type 1 or Specification F436, Type 3. Washers for A449 
+Type 3 fasteners shall conform to Specification F436 Type 3. 
+4. Materials and Manufacture 
+4.1 Heat Treatment: 
+4.1.1 Type 1 fasteners produced from medium carbon steel 
+shall be quenched in a liquid medium from the austenitizing 
+temperature. 
+4.1.2 Type 1 fasteners produced from medium carbon steel 
+to which chromium, nickel, molybdenum, or boron were 
+intentionally added, and Type 3 fasteners, shall be quenched in 
+oil from the austenitizing temperature. 
+4.1.3 Type 1 and Type 3 fasteners, regardless of the steel 
+used, shall be tempered by reheating to not less than 800°F. 
+4.2 Threading-Threads shall be rolled, cut, or ground. 
+4.3 Secondary Processing-If any processing which can 
+affect the mechanical properties of the fasteners is performed 
+after the initial testing, the fasteners shall be retested for all 
+specified mechanical properties affected by the reprocessing. 
+5. Protective Coatings 
+5.1 Zinc, Hot Dip, and Mechanically Deposited Requiring 
+Over-tapped Nuts: 
+5.1.1 When zinc-coated fasteners are required, the pur­
+chaser shall specify the zinc-coating process, such as, hot-dip, 
+mechanically deposited, or no preference. 
+5.1.2 When hot dip is specified, the fasteners shall be zinc 
+coated by the hot-dip process in accordance with the require­
+ments of Specification F2329. 
+5.1.3 When mechanically deposited is specified, the fasten­
+ers shall be zinc coated by the mechanical deposition process 
+in accordance with the requirements of Class 55 of Specifica­
+tion B695. 
+5.1.4 When no preference is specified, the supplier may 
+furnish either a hot-dip zinc coating in accordance with 
+Specification F2329, or a mechanically deposited zinc coating 
+in accordance with Specification B695, Class 55. All 
+mating components shall be coated by the same zinc 
+coating process, and the suppliers' option shall be limited to 
+one process per item with no mixed processes in a lot. 
+Norn 2-When the intended application requires that assembled 
+tension exceeds 50 % of minimum bolt or stud proof load, an anti-galling 
+lubricant may be needed. Application of such a lubricant to nuts and a test 
+of the lubricant efficiency are provided in Supplementary Requirement S 1 
+of Specification A563 and should be specified when required. 
+731 
+5.2 Other Coatings: 
+5.2.1 When other coatings are required, the purchaser shall 
+specify the coating specification, including the classification 
+codes or grade numbers to identify the coating material, 
+thickness, supplemental treatments, or other requirements to 
+define the coating. The fasteners shall be coated in accordance 
+with and conform to the specified coating specification. 
+5.2.2 When a specification does not apply, the purchaser 
+shall specify the desired coating, coating thickness, supplemen­
+tal treatments, or other requirements to define the coating. 
+6. Chemical Composition 
+6.1 Type 1 fasteners shall be plain carbon steel, carbon 
+boron steel, alloy steel, or alloy boron steels, at the manufac­
+turers option, conforming to the requirements in Table 1. 
+6.2 Type 3 fasteners shall be weathering steel and shall 
+conform to one of the chemical compositions specified in Table 
+2. The selection of the chemical composition, A, B, C, D, E or 
+F, shall be a the option of the manufacuturer. See Guide G 101 
+for methods of estimating the atmospheric corrosion resistance 
+of low alloy steel. 
+6.3 Product analyses made on finished fasteners represent­
+ing each lot shall conform to the product analysis requirements 
+specified in Table 1 or Table 2, as applicable. 
+6.4 Heats of steel to which bismuth, selenium, tellurium, or 
+lead has been intentionally added shall not be permitted for 
+bolts. Compliance shall be based on certification that heats of 
+steel having any of the listed elements intentionally added were 
+not used. 
+6.5 Chemical analyses shall be performed in accordance 
+with Test Methods, Practices, and Terminology A751. 

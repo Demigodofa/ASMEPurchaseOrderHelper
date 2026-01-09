@@ -1,0 +1,61 @@
+ASME BPVC.II.A-2025 SA-453 /SA-453M 
+TABLE 4 Heat Treatment RequirementsA 
+Grade 
+Symbol Class Solution Treatment Hardening Treatment 
+660 A 1650 ± 25 °F [900 ± 14 "CJ, hold 2 h, min, and liquid quench 1325 ± 25 °F [720 ± 14 °CJ, hold 16 h, air cool 
+B 1800 ± 25 °F [980 ± 14 °C], hold 1 h, min, and liquid quench 1325 ± 25 °F [720 ± 14 °CJ, hold 16 h, air cool 
+C 1800 ± 25 °F [980 ± 14 °CJ, hold 1 h min, and oil quench 1425 ± 25 °F [775 ± 14 °C] hold 16 h, air cool, followed by 
+1200 ± 25 °F [650 ± 14 °CJ hold 16 h, air cool 
+D 1650 ± 25 °F [900 ± 14 "CJ, hold 2 h min, and liquid quench or 1325 ± 25 °F [720 ± 14 °C], hold 16 h, air cool 
+1800 ± 25 °F [980 ± 14 °CJ, hold 1 h min, and liquid quench If necessary to achieve properties, second age: 
+1200 ± 25 °F [650 ± 14 °CJ hold 16 h, air cool 
+651 A hot-cold worked at 1200 °F [650 °C] min with 15 % min reduction in 
+cross-sectional area, stress relieve at 1200 °F [650 °C] min or 4 h, min 
+B hot-cold worked at 1200 °F [650 °CJ min with 15 % min reduction of 
+cross-sectional area, stress relieve at 1350 °F [730 °C] min for 4 h, 
+min 
+662 A 1800 ± 25 °F [980 ± 14 °C], hold 2 h, liquid quench 1350 to 1400 °F [730 to 760 °CJ, hold 20 h, furnace cool to 1200 ± 25 
+°F [650 ± 14 °C], hold 20 h, air cool 
+B 1950 ± 25 °F [1065 ± 14 °CJ, hold 2 h, liquid quench 1350 to 1400 °F [730 to 760 °C], hold 20 h, furnace cool to 1200 ± 25 
+°F [650 ± 14 °CJ, hold 20 h, air cool 
+665 A 1800 ± 25 °F [980 ± 14 °CJ, hold 3 h, liquid quench 1350 to 1400 °F [730 to 760 °C], hold 20 h, furnace cool to 1200 ± 25 
+°F [650 ± 14 °C], hold 20 h, air cool 
+B 2000 ± 25 °F [1095 ± 14 °CJ, hold 3 h, liquid quench 1350 to 1400 °F [730 to 760 °C], hold 20 h, furnace cool to 1200 ± 25 
+°F [650 ± 14 °CJ, hold 20 h, air cool 
+668 A 1650 ± 25 °F [900 ± 14 °CJ, hold 2 h, min and liquid quench 1325 ± 25 °F [720 ± 14 °CJ, hold 16 h, air cool 
+B 1800 ± 25 °F [980 ± 14 °CJ, hold 1 h, min and liquid quench 1325 ± 25 °F [720 ± 14 °C], hold 16 h, air cool 
+A Times refer to the minimum time material is required to be at temperature. 
+TABLE 5 Mechanical Property Requirements 
+Tensile Strength, Yield Strength Elongation in Approximate Rockwell Hardness, 
+min (0.2 % Offset), min 4x Diam, Reduction of Brinell Hardness Band C 
+Grade Class ksi MPa ksi MPa min,% Area, min,% Number min max 
+660 A, B, and C 130 895 85 585 15 18 248-341 24 HRC 37 HRC 
+D (:52½ in. 130 895 105 725 15 18 248-321 24 HRC 35 HRC 
+[63.5 mm]) 
+D (>2½ in. 120 825 95 655 15 18 248-321 24 HRC 35 HRC 
+[63.5 mm]) 
+651 A 100 690 70A 485 18 35 217-277 95 HRB 29 HRC 
+60 6 415 
+B 95 655 60A 415 18 35 212-269 93 HRB 28 HRCC 
+50 6 345 
+662 A 130 895 85 585 15 18 248-321 24 HRC 35 HRCC 
+B 125 860 80 550 15 18 248-321 24 HRC 35 HRC 
+665 A 170 1170 120 830 12 15 311-388 32 HRC 41 HRC 
+B 155 1070 120 830 12 15 311-388 32 HRC 41 HRC 
+668 A and B 130 895 85 585 15 18 248-341 24 HRC 37 HRC 
+ABolting material sizes 3 in. [76 mm] and under in diameter. 
+8 Bolting material sizes over 3 in. [76 mm] in diameter. 
+c Conversion numbers taken from Specification A 193/A 193M, Table number 2 (austenitic steels); others by interpolation. 
+TABLE 6 Stress Rupture Requirements 
+Test Time to 
+Temperature, Stress, min Rupture, Elongation, 
+Grade Class '°F [°C] ksi MPa min, hA min,% 
+660 A, B, and C 1200 [650J 56 385 100 5 
+651 A and B 1200 [650J 40 275 100 5 
+662 A and B 1200 [650J 55 380 100 5 
+665 A 1200 [650J 75 515 100 3 
+B 1200 [650] 70 485 100 5 
+A The combination bar specimen shown in Fig. 1 shall be tested continuously at 
+the temperature and at the minimum stress specified or at a greater stress and 
+shall rupture in a time not less than that specified. 
+759 

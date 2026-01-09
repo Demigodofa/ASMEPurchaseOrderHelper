@@ -1,0 +1,43 @@
+__ TABLE 5 Tensile Strength Requirements for Specimens Machined from Bolts
+j . Bolt Diameter, in. Tensile Strength, min, psi (MPa) Yield Strength, min, psi (MPa) Elongation, in 4D, min, % Reduction of Area, min, %
+: ~ % tof, incl. 120 000 (825) 92 000 (635) 14 35
+Over 1 to 11% 105 000 (725) 81 000 (560) 14 35t
+T Table alignment was editorially corrected in March 2010
+TABLE 6 Rotational Capacity Test for Zinc-Coated Bolts 10.1.1 Tensile, proof load, and hardness tests shall be
+Nominal conducted in accordance with Test Methods F606.
+rength Nominal Nut cn degrees 10.1.2 Tensile strength shall be determined using the Wedge
+—Tetoanindding4xda tt wD or Axial Tension Testing Method of Full Size Product Method
+p to and including 4 x dia 240 (%) . : . .
+Over 4 x dia, but not 360 (1) or the Machined Test Specimens Method depending on size
+exceeding 8 x dia and nominal length as specified in 6.2.1-6.2.2. Fracture on
+oxoveding 12 xan AO (8) full-size tests shall be in the body or threads of the bolt without
+Over 12 x dia. Test not applicable a fracture at the junction of the head and body.
+
+— ne 10.1.3 Proof load shall be determined using Method 1,
+1 Length Measurement, or Method 2, Yield Strength, at the
+. . option of the manufacturer. .
+
+and purchasers maintain the identification and integrity of each 10.2 Rotational Capacity—The zinc-coated bolt shall be
+lot until the product is installed. placed in a steel joint or tension measuring device and
+9.3. Lot Method—All bolts shall be processed in accordance — assembled with a zinc-coated washer and a zinc-coated and
+with a lot identification-control quality assurance plan. The lubricated nut with which the bolt is intended to be used (see
+manufacturer, secondary processors, and distributors shall Note 4). The nut shall have been provided with the lubricant
+identify and maintain the integrity of each production lot of described in the last paragraph of the Manufacturing Processes
+bolts from raw-material selection through all processing op- section of Specification A563. The joint shall be one or more
+erations and treatments to final packing and shipment. Each lot _ flat structural steel plates or fixture stack up with a total
+shall be assigned its own lot-identification number, each lot thickness, including the washer, such that 3 to 5 full threads of
+shall be tested, and the inspection test reports for each lot shall the bolt are located between the bearing surfaces of the bolt
+be retained. head and nut. The hole in the joint shall have the same nominal
+9.4 Lot Definition—A lot shall be a quantity of uniquely diameter as the hole in the washer. The initial tightening of the
+identified heavy hex structural bolts of the same nominal size Ut shall produce a load in the bolt not less than 10 % of the
+and length produced consecutively at the initial operation from  SPecified proof load. After initial tightening, the nut position
+a single mill heat of material and processed at one time, by the shall be marked relative to the bolt, and the rotation shown in
+same process, in the same manner so that statistical sampling is Table 6 shall be applied. During rotation, the bolt head shall be
+valid. The identity of the lot and lot integrity shall be restrained from turning. After the tightening rotation has been
+maintained throughout all subsequent operations and packag-  @PPlied, the assembly shall be taken apart and examined for
+ing. compliance with 6.3.3.
+oo Norte 4—Rotational capacity tests shall apply only to matched assem-
+9.5 Number of Tests—The minimum number of tests from bly lots that contain one A325 bolt, one A563 lubricated nut, and one F436
+each lot for the tests specified below shall be as follows: washer that have been zinc coated in accordance with either Specifications
+Tests Number of Tests F2329 or B695. Both the bolt and nut components of the matched
+in Accordance With assembly shall be zinc coated using the same process.

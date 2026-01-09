@@ -1,0 +1,125 @@
+SA-401/SA-401M ASME BPVC.II.A-2025 
+7.2.2 Location of Tests-It shall be permissible to take test 
+specimens from either end of the coil. 
+7.2.3 Test Method-The tension test shall be made in 
+accordance with Test Methods and Definitions A370. For 
+shaped wires, cross sectional area shall be calculated either by 
+using the procedure in Test Methods E8/E8M for uniform but 
+nonsymmetrical cross-sections, or by measuring width and 
+thickness and multiplying by a shape factor. Reduction of area 
+for shaped wires shall be calculated by using this shape factor. 
+Measure the maximum and minimum dimension on the necked 
+down section and multiply by the shape factor to estimate the 
+cross sectional area for use in the standard reduction of area 
+calculation. 
+7.2.4 Upon agreement between purchaser and supplier, the 
+shape factor for the cross section design provided by the wire 
+mill shall be permissible to be adopted for use. In other 
+situations, if the shape factor is not available from the wire 
+mill, the shape factor shall be calculated by measuring the 
+cross sectional area in accordance with Test Methods E8/E8M 
+and dividing by the width and thiclmess. 
+7.3 Wrap Test: 
+7.3.1 Quench and tempered or cold drawn wire 4.00 mm 
+[0.157 in.] and smaller in diameter shall wind on itself as an 
+arbor without breakage. Larger diameter wire up to and 
+including 8.00 mm [0.315 in.] in diameter shall wrap without 
+breakage on a mandrel twice the wire diameter. The wrap test 
+is not applicable to wire over 8.00 mm [0.315 in.] in diameter 
+or to shaped and flat rolled wires. 
+7.3.2 Number of Tests-One test specimen shall be taken for 
+each 10 coils, or fraction thereof, in a lot. Each heat in a given 
+lot shall be tested. 
+7.3.3 Location of Test-It shall be permissible to take test 
+specimens from either end of the coil. 
+7.3.4 Test Method-The wrap test shall be made in accor­
+dance with Test Methods and Definitions A370. 
+8. Metallurgical Requirements 
+8.1 Surface Condition: 
+8.1.1 On the whole, the surface of the wire as received shall 
+be free of rust and excessive scale. Based upon examination of 
+end specimens, no serious die marks, scratches, or other 
+continuous surface imperfections shall be present. Based upon 
+examination of etched-end specimen, seams shall not exceed 
+3.5 % of the wire diameter, or 0.25 mm [0.010 in.], whichever 
+is the smaller as measured on a transverse section. 
+8.1.2 Number of Tests-For the purpose of examination of 
+etched-end specimens, one test specimen shall be taken for 
+each 10 coils, or fraction thereof, in a lot. Each cast or heat in 
+a given lot shall be tested. 
+8.1.3 Location of Test-Test specimens shall be taken from 
+either or both ends of the coil. 
+8.1.4 Test Method-The surface shall be examined after 
+etching in a solution of equal parts of hydrochloric acid and 
+water that has been heated to approximately 80°C for up to two 
+minutes in order to remove the oxide scale layer from the wire 
+surface. Test ends shall be examined using lOx magnification. 
+Any specimens showing the presence of a questionable surface 
+imperfection shall have a transverse section taken from the 
+670 
+unetched area, properly mounted and polished and examined to 
+measure the depth of the smface imperfection. 
+8.2 Decarburization: 
+8.2.1 The depth of complete decarburization (free ferrite) 
+shall not exceed 0.75 % of the equivalent round wire diameter. 
+The total affected depth (free ferrite plus partial decarburiza­
+tion) shall not exceed 2.0 % of the equivalent round wire 
+diameter on all sizes of wire. 
+8.2.2 Test Method-Decarburization shall be determined by 
+etching a suitably polished transverse section of wire with 
+nital. The entire periphery to be examined should be in a single 
+plane with no edge rounding. 
+8.2.3 The entire periphery shall be examined at a magnifi­
+cation of no less than lO0x for depth of free ferrite and total 
+affected depth. Smaller wire sizes may require higher magni­
+fication. Measure the worst area present excluding decarbur­
+ization associated with any surface imperfections. Complete 
+decarburization exists when only free ferrite is present. Partial 
+decarburization exists when ferrite is found mixed with pearlite 
+or tempered martensite. Structures of 100 % tempered marten­
+site shall be defined as not decarburized. 
+8.2.4 Decarburization shall be checked on annealed wire by 
+giving a wire sample an austenitize, oil quench and temper heat 
+treatment. A flat shall be ground on the test sample prior to heat 
+treatment. The flat shall have a minimum width equal to one 
+half of the wire diameter. Any decarburization visible on this 
+ground section shall necessitate a retest with new samples. If 
+no decarburization is visible on the ground flat, evaluate the 
+complete wire section in accordance with 8.2.3. 
+9. Dimensions and Permissible Variations 
+9 .1 The permissible variations in the diameter of the wire 
+shall be as specified in Table 3. Any definition of shaped 
+tolerances shall be agreed upon by the producer and the 
+purchaser. 
+10. Workmanship, Finish, and Appearance 
+10.1 Annealed and Cold Drawn-The wire shall not be 
+kinked or improperly cast. To test for cast, a few convolutions 
+of wire shall be cut loose from the coil and placed on a flat 
+TABLE 3 Permissible Variations in Wire Diameter4 
+Diameter 
+0.80 to 2.00, incl 
+Over 2.00 to 11.0, incl 
+Over 11.00 
+Diameter 
+0.032 to 0.075, incl 
+Over 0.075 to 0.438, incl 
+Over 0.438 
+SI Units 
+Permissible Permissible Out-
+Variations, ±mm of-Round 
+0.03 0.03 
+0.05 0.05 
+0.07 0.07 
+Inch-Pound Units 
+Permissible 
+Variations, +in. 
+0.001 
+0.002 
+0.003 
+Permissible Out­
+of-Round 
+0.001 
+0.002 
+0.003 
+A For purposes of determining conformance with this specification, all specified 
+limits are absolute as defined in Practice E29. 

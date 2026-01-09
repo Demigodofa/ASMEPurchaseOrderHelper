@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 448,
+  "globalPageIndex": 1246,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "SA-703/SA-703M ASME BPVC.II.A-2025 \nNOTE 1-The ten levels of severity of intergranular network structures shown are indicative of the presence of aluminum nitride precipitation in the \nprimary austenitic grain boundaries. \nFIG. S23.1 Reference Photographs of Macroetched Cast Steel \nTABLE S23.1 Descriptive Data Applicable to Network Structures \nShown In Fig. S23.1 \nNoTE 1-These ratings are based on the physical width and continuity \nof the precipitate pattern developed by the acid etchant on the primary \naustenitic grain boundaries of the cast steel. Supplementary testing is \nnormally conducted to determine the final disposition of castings with \nratings of 5 or greater. \nRating Delineation Width, in. Boundary Outline, % \n1 Fine-0.001 20 \n2 Fine-0.001 40 \n3 Fine-0.001 60 \n4 Fine-0.002 80 \n5 Fine-0.002 100 \n6 Medium-0.005 100 \n7 Heavy-0.01 O 100 \n8 0.020 100 \n9 1/32 100 \n10 1/16 100 \nS24.3 Should the purchaser wish to have the ferrite content \ndetermined by either magnetic response or metallographic \nmethods, the purchaser should impose Supplementary Require\u00ad\nment Sl or S2 of Practice A800/A800M. \nS25. Heat Treatment Certification \nS25.l Heat treatment temperature and cycle times shall be \nshown on the certification report. \nS26. Alternate Tension Test Coupons and Specimen Loca\u00ad\ntions for Castings \nS26. l Test coupons may be cast integrally with the castings \nor separately. Separately cast coupons shall be heat treated \ntogether with the castings they represent. \nS26.2 The casting thickness, T, is the maximum thickness of \nthe pressure-containing wall of the casting exclusive of pad\u00ad\nding added for directional solidification, flanges, appendages, \nand sections designated by the designer as noncritical. The \norder, inquiry, and drawing shall designate what the test \ndimension, T, is for the casting. \nS26.3 One of the following shall apply: \nS26.3.l The longitudinal centerline of the test specimen \nshall be taken at least \u00bc T from the T dimension surface and all \nof the gage length must\u00b7 be at least 1 T from any other \nheat-treated surface, exclusive of the surface opposite the T \ndimension surface. (See Specification Al067/Al067M, Fig. 5 \n(a).) For cylindrical castings, the longitudinal centerline of the \nspecimens shall be taken at least \u00bc T from the outside or inside \nand all of the gage length must be at least T from the \nas-heat-treated end. (See Specification Al067/Al067M, Fig. 5 \n(b).) \nS26.3.2 For ferritic and martensitic castings, partial sever\u00ad\ning of test coupons prior to final heat treatment is permitted. \nS26.3.3 Where separately cast test coupons are used, the \ndimension shall not be less than 3 T by 3 T by T and each \nspecimen shall meet the requirements of S26.3.l, except that \n1160 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 1,
+  "tabulaTablesPath": "tables_tabula/page-1246.json",
+  "tabulaTablesCsv": "tables_tabula/page-1246.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-1246.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2744,
+  "bestTextAlphaRatio": 0.7314
+}

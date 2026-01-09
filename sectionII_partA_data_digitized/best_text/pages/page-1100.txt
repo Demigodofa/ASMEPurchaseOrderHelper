@@ -1,0 +1,53 @@
+SA-568/SA-568M (ASTM A568/ A568M) ASME BPVC.II.A-2025 
+MINOR. STRAI!\I, Pel'<:flnt (ei) 
+FIG. X4.1 Forming Limit Curve 
+the forming limit curve is lower. The magnitude of the 
+downgrade displacement is specific to each material; therefore, 
+current material information should be consulted to determine 
+placement of the forming limit curve. 
+X4.3 Procedure 
+X4.3.l Obtain a sheet sample of "known quality," the sheet 
+quality being established by either supplier designation, con­
+sumer purchase order, or most preferred tensile data obtained 
+from a companion sheet sample. 
+X4.3.2 Obtain or prepare a negative on stencil with selected 
+circles in a uniform pattern. The circles may be 2.5 to 25.0 mm 
+in diameter; the most convenient diameter is 5.0 mm because 
+it is easy to read and the gauge spacing is short enough to show 
+the maximum strain in a specific location on the part. 
+X4.3.3 The sheet metal blanks should be cleaned to remove 
+excess oil and dirt; however, some precoated sheets can be 
+etched without removing the coating. The area(s) to be etched 
+should be detem1ined from observation of panels previously 
+formed; generally, the area that has a split problem is selected 
+for etching. Normally, the convex side of the radius is gridded. 
+If sufficient time is available, the entire blank may be etched, 
+since valuable information can be obtained about the move­
+ment of metal in stamping a part when strains can be evaluated 
+in what may appear to be noncritical areas. Additionally, for 
+complex shapes it may be desirable to etch both surfaces of 
+blanks so that the strains that occur in reverse draws can be 
+determined. 
+X4.3.4 The sheet metal blanks may be etched by a photo­
+graphic or electrochemical method. In the former method of 
+photosensitive solution, for example, 50 % Kodak Photo Resist 
+(KPR) emulsion and 50 % KPR-thinner, is sprayed onto the 
+sheet. The emulsion is dried by baking the sheet at 65 °C for 
+15 min or by just standing it for several hours at room 
+temperature in a dark room. The latter should be employed in 
+materials that age and, hence, become stronger when baked at 
+65 °C. The negative is placed on the emulsion, held intimately 
+in contact with the sheet, and exposed to a strong ultraviolet 
+light source for 1 to 1 ½ min. The sheet is developed for 30 to 
+45 s in KPR developer, rinsed with water, and sprayed with 
+alcohol to set the resist. It is again rinsed with water and then 
+sprayed with KPR black dye to reveal the etched circles. 
+X4.3.5 In the electrochemical method, the etch pad is 
+saturated with an appropriate electrolyte. Various electrolytes 
+are available from suppliers of the etching equipment. Some 
+electrolytes are more effective than others for etching certain 
+surfaces, such as terne plate and other metallic coated steels. A 
+mst-inhibiting solution is preferred for steel sheets. 
+X4.3.6 A ground clamp for the transformer of suitable 
+amperage (10 to 50 A is usually used) is fastened to the blank 
+1002 

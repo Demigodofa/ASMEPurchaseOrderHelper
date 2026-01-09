@@ -1,0 +1,56 @@
+SA-358/SA-358M ASME BPVC.ILA-2025
+with their centers parallel to the material surface and not over 16.2 For Class 5 pipe, the welded joints shall be spot os
+1 in. [25 mm] apart. The centers of the specimens adjacent to —_ radiographed to the extent of not less than 12 in. [300 mm] of |
+material surfaces shall not exceed %% in. [16 mm] from the radiograph per 50 ft [15 m] of weld.
+surface. 16.3 For Classes 1, 3, and 4 pipe, radiographic examination
+14.4 The test specimens shall not be cut from the pipe or test = shall be in accordance with the requirements of the ASME
+plate until after final heat treatment. Boiler and Pressure Vessel Code, Section VIII, latest edition,
+Paragraph UW-51.
+15. Mechanical Tests Required . ae
+16.4 For Class 5 pipe, radiographic examination shall be in
+15.1 For the purposes of the tension and bend test accordance with the requirements of the ASME Boiler and
+requirements, the term “lot” shall mean all pipe of the same —preggure Vessel Code, Section VII, Division 1, latest edition,
+grade, permitted to include more than one heat of steel, within Paragraph UW-52.
+a *“o-in [4.7-mm] range of thickness and welded to the same a
+weld procedure, and when heat treated, done so to the same 16.5 Radiographic examination is permitted to be per-
+heat-treating procedure and in the same furnace. The maximum formed prior to heat treatment.
+lot size shall be 200 linear ft [60 m] of pipe. 17. Lengths aT
+15.1.1 Transverse Tension Test—One test shall be made to , ; . ;
+_ .; 17.1 Circumferentially welded joints of the same quality as
+represent each lot of finished pipe. as pes .
+15.1.2 Transverse Guided-Bend Weld Test—One test (two the longitudinal joints shall be permitted by agreement between
+specimens) shall be made to represent each lot of finished pipe. the manutacturer and the purchaser.
+15.2 Hydrostatic Test—Each length of pipe shall be sub- 18. Product Marking
+jected to a hydrostatic test in accordance with Specification 18.1 In addition to the marking prescribed in Specification
+A999/A999M, unless specifically exempted under the provi- §_A999/A999M, the markings on each length of pipe shall
+sion of 15.3. Pressure shall be held for a sufficient time to _jnclude the plate material designations as shown in Table 1, the
+permit the inspector to examine the entire length of the welded marking requirements of 6.3 and 15.3, and Class 1, 2, 3, or 4,
+seam. as appropriate (see 1.3).
+15.3 The purchaser, with the agreement of the manufacturer, 18.2 Bar Coding—tIn addition to the requirements in 18.1,
+is permitted to complete the hydrostatic test requirement with bar coding is acceptable as a supplementary identification
+the system pressure test, performed at a pressure either lower method. Bar coding should be consistent with the Automotive
+or higher than the specification test pressure, but in no case Industry Action Group (AJAG) standard prepared by the
+shall the test pressure be lower than the system design pressure. Primary Metals Subcommittee of the AIAG Bar Code Project
+Each length of pipe furnished without the completed manufac- Team.
+turer’s hydrostatic test shall include with the mandatory ,
+marking the letters “NH.” 19. Keywords
+; ; -o, 19.1 arc welded steel pipe; austenitic stainless steel;
+16. Radiographic Examination chromium-nickel steel; fusion welded steel pipe; high tempera-
+16.1 For Classes 1, 3, and 4 pipe, all welded joints shall be ture application; steel pipe; temperature service applications;
+completely examined by radiography. high; welded steel pipe
+SUPPLEMENTARY REQUIREMENTS
+| One or more of the following supplementary requirements shall apply only when specified in the
+purchase order. The purchaser is permitted to specify a different frequency of test or analysis than is ,
+. provided in the supplementary requirement. Subject to agreement between the purchaser and ae
+manufacturer, it is permitted to modify the retest and retreatment provisions of these supplementary
+requirements.
+. S1. Product Analysis S3. Penetrant Oil and Powder Examination
+S1.1 Product analysis shall be made on each length of pipe. S3.1 All welded joints shall be subjected to examination by
+Individual lengths failing to conform to the chemical compo- _a penetrant oil and powder method. The details of the method
+sition requirements shall be rejected. and the disposition of flaws detected shall be a matter for
+S2. Tension and Bend Tests agreement between the purchaser and the manufacturer.
+S2.1 Tension tests (Section 12) and bend tests (Section 13) | 54+ Ferrite Control in Weld Deposits
+shall be made on specimens to represent each length of pipe. S4.1 The ferrite content of the deposited weld metal in any
+Failure of any test specimen to meet the requirements shall be length of pipe shall be determined. The procedural details
+cause for the rejection of the pipe length represented. pertaining to this subject (that is, welding; plate and weld ,
+572

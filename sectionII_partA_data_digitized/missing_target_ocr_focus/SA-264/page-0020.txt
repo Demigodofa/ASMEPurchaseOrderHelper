@@ -1,0 +1,70 @@
+SA-6/SA-6M ASME BPVC.ILA-2025 |
+11.5.3.4 For bars other than those to be used for pins and _ provided in the applicable product specification, both require- . .
+rollers, the manufacturer or processor shall have the option of | ments are not required to be applied simultaneously and the :
+using test specimens that are machined to a thickness or — elongation need only be determined in the gage length appro-
+diameter of at least 34 in. [20 mm] for a length of at least9 in. | priate for the test specimen used. After selection of the |
+[230 mm]. appropriate gage length, the elongation requirement for the |
+11.5.3.5 Test specimens for bars to be used for pins and _—_ alternative gage length shall be deemed not applicable. :
+rollers shall conform to the requirements shown in Fig. 4 of 11.7 Yield Strength Application: |
+Test Methods and Definitions A370 for the 0.500-in. [12.5- 11.7.1 When test specimens do not exhibit a well-defined
+mm] diameter test specimen. disproportionate yield point, yield strength shall be determined .
+11.6 Elongation Requirement Adjustments: and substituted for yield point. _ | :
+11.6.1 Due to the specimen geometry effect encountered 11.7.2 The manufacturer or processor shall have the option
+when using the rectangular tension test specimen for testing of substituting yield strength for yield point if the test specimen .
+thin material, adjustments in elongation requirements must be — exhibits a well-defined disproportionate yield point. .
+provided for thicknesses under 0.312 in. [8 mm]. Accordingly, 11.7.3 Yield strength shall be determined either by the ,
+the following deductions from the base elongation require- 0.2 % offset method or by the 0.5 % extension-under-load —
+ments shall apply: . method. |
+Nominal Thickness Range, Elongation 11.8 Product Tension Tests—This specification does not
+ 9090-0.34 rT 0-7.801 Peaueron % provide requirements for product tension testing subsequent to
+0.286-0.298 [7.30-7.59] 10 shipment (see 15.1). Therefore, the requirements of 11.1 — 11.7 ,
+0.273-0.285 [7.00-7.29] 1.5 inclusive and Section 13 apply only for tests conducted at the
+Fone og (6.206.501 place of manufacture prior to shipment.
+
+: Oe pb oae 50-8 89) ° Note 6—Compliance to this specification and the applicable product |
+0.206-0.218 [5.20-5.49] 40 specification by a manufacturer or processor does not preclude the
+0.193-0.205 [4.90-5.19] 45 possibility that product tension test results might vary outside specified
+0.180-0.192 [4.60-4.89] 5.0 ranges. The tensile properties will vary within the same heat or piece, be
+0.166~-0.179 [4.20-4.59] 5.54 it as-rolled, control-rolled, or heat-treated. Tension testing according to the
+0.153-0.165 [3.90—4. 19] 6.04 requirements of this specification does not provide assurance that all
+0.140-0.152 [3.60-3.89] 6.5“ products of a heat will be identical in tensile properties with the products
+0.127—-0.139 [3.20-3.59] 7.04 tested. If the purchaser wishes to have more confidence than that provided ,
+
+< 0.127 [3.20] 7.54 by this specification testing procedures, additional testing or requirements, Co ~~
+Fue such as Supplementary Requirement $4, should be imposed. |
+slates sd attuctural chapes only. ose than 0.180 in. (4.60 mm} apply fo 11.8.1 Appendix X2 provides additional information on the ,
+| variability of tensile properties in plates and structural shapes ,
+11.6.2 Due to the specimen geometry effect encountered |
+when using full-section test specimens for angles, the elonga- 12. Permitted Variations in Dimensions and Weight |
+tion requirements for structural-size angles shall be increased [Mass]
+by six percentage points when full-section test specimens are 12.1 One cubic foot of rolled steel is assumed to weigh 490 |
+used. Ib. One cubic metre of rolled steel is assumed to have a mass ,
+11.6.3 Due to the inherently lower elongation that is obtain- of 7850 kg. |
+able in thicker structural products, adjustments in elongation 12.2 Plates—The permitted variations for dimensions and :
+requirements shall be provided. For structural products over ; , Lo
+3.5 in. [90 mm] in thickness, a deduction of 0.5 percentage weight [mass] shall not exceed the app licable limits in Tables 1
+on ; ol. : to 15 [Annex Al, Tables Al.1 to A1.15] inclusive.
+point from the specified percentage of elongation in 2 in. [50 | |
+mm] shall be made for each 0.5-in. [12.5-mm] increment of 12.3 Shapes: |
+thickness over 3.5 in. [90 mm], up to a maximum deduction of 12.3.1 Annex A2 lists the designations and dimensions, in , ,
+3.0 percentage points. Accordingly, the following deductions both inch-pound and SI units, of shapes that are most com- ~
+from the base elongation requirements shall apply: monly available. Radii of fillets and toes of shape profiles vary
+Nominal Thickness Range, Elongation with individual manufacturers and therefore are not specified. |
+in. [mm] Deduction, % 12.3.2 The permitted variations in dimensions shall not ,
+3.500-3.999 [90.00-102.49] 0.5 exceed the applicable limits in Tables 16 to 25 [Annex Al,
+4.000-4.499 [102.50-114.99] 1.0 . ; _, .
+
+, 4.500-4.999 [115.00-127.49] 15 Tables A1.16 to A1.25] inclusive. Permitted variations for ,
+
+5.000-5.499 [127.50-139.99] 2.0 special shapes not listed in such tables shall be as agreed upon
+
+5.500-5.999 [140.00-152.49] 2.5 between the manufacturer and the purchaser. .
+6.000 and thicker [152.50 and thicker] 3.0
+
+11.6.4 The tensile property requirements tables in manv of Nore 7—Permitted variations are given in Tables 16 to 25 [Annex Al, .
+
+the product specifi satione, covered by this general requirements Tables A1.16 to Al.25] inclusive for some shapes that are not listed in :
+
+; : ; ; ; ; Annex A2 (that is, bulb angles, tees, zees). Addition of such sections to
+specification specify elongation requirements in both 8-in. Annex A2 will be considered by Subcommittee A01.02 when and if a need
+[200-mm] and 2-in. [50-mm] gage lengths. Unless otherwise for such listing is shown.

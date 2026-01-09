@@ -1,0 +1,132 @@
+ASME BPVC.II.A-Z0Z5 SA-Z10/SA-Z10M {ASTM AZ10/AZ10M) 
+Element 
+CarbonA , max 
+Manganese 
+Phosphorus, max 
+Sulfur, max 
+Silicon, min 
+TABLE 1 Chemical Requirements 
+Grade A-1 
+0.27 
+0.93 max 
+0.035 
+0.035 
+0.10 
+Composition, % 
+Grade C 
+0.35 
+0.29-1.06 
+0.035 
+0.035 
+0.10 
+A For each reduction of 0.01 % below the specified carbon maximum, an increase 
+of 0.06 % manganese above the specified maximum will be permitted up to a 
+maximum of 1.35 %. 
+TABLE 3 Tensile Requirements 
+Tensile strength, min, ksi [MPa] 
+Yield strength, min, ksi [MPa] 
+Elongation in 2 in. or 50 mm, min, % 
+For longitudinal strip tests, a deduction shall be 
+made for each ½2-in. (0.8-mm] decrease in 
+wall thickness under 5 /16 in. [8 mm] from the 
+basic minimum elongation of the following 
+percentage points 
+Grade A-1 
+60 (415] 
+37 (255] 
+30 
+1.50 A 
+When standard round 2-in. or 50-mm gage length 22 
+or smaller proportionally sized specimen 
+with the gage length equal to 4D (four times 
+the diameter) is used 
+A See Table 4 for the computed minimum values. 
+7. Surface Condition 
+Grade C 
+70 (485] 
+40 (275] 
+30 
+1.50 A 
+20 
+7 .1 If pickling or shot blasting or both are required, this 
+shall be specifically stated in the order. 
+8. Chemical Composition 
+8.1 The steel shall conform to the requirements as to 
+chemical composition prescribed in Table 1. 
+8.2 When a grade is ordered under this specification, sup­
+plying an alloy grade that specifically requires the addition of 
+any element other than those listed for the ordered grade in 
+Table 1 is not permitted. 
+9. Product Analysis 
+9.1 When requested on the purchase order, a product analy­
+sis shall be made by the supplier from one tube or billet per 
+heat. The chemical composition thus determined shall conform 
+to the requirements specified. 
+9.2 If the original test for product analysis fails, retests of 
+two additional billets or tubes shall be made. Both retests for 
+the elements in question shall meet the requirements of the 
+specification; otherwise, all remaining material in the heat or 
+lot (see Note 2) shall be rejected or, at the option of the 
+producer, each billet or tube may be individually tested for 
+acceptance. Billets or tubes which do not meet the require­
+ments of the specification shall be rejected. 
+Now 2-For flattening and flaring requirements, the term "lot" applies 
+to all tubes prior to cutting of the same nominal size and wall thickness 
+which are produced from the same heat of steel. When final heat treatment 
+is in a batch-type furnace, a lot shall include only those tubes of the same 
+size and from the same heat which are heat treated in the same furnace 
+charge. When the final heat treatment is in a continuous furnace, the 
+number of tubes of the same size and from the same heat in a lot shall be 
+determined from the size of the tubes as prescribed in Table 2. 
+NoTE 3-For tensile and hardness test requirements, the term "lot" 
+applies to all tubes prior to cutting, of the same nominal diameter and wall 
+thickness which are produced from the same heat of steel. When final heat 
+treatment is in a batch-type furnace, a lot shall include only those tubes of 
+the same size and the same heat which are heat treated in the same furnace 
+charge. When the final heat treatment is in a continuous furnace, a lot shall 
+include all tubes of the same size and heat, heat treated in the same furnace 
+at the same temperature, time at heat, and furnace speed. 
+10. Tensile Requirements 
+10.1 The material shall conform to the requirements as to 
+tensile properties prescribed in Table 3. 
+10.2 Table 4 gives the computed minimum elongation 
+values for each 1/32-in. [0.8-mm] decrease in wall thickness. 
+Where the wall thickness lies between two values shown 
+above, the minimum elongation value shall be determined by 
+the following equation: 
+E = 48t+ 15.00 [ E = l.87t+ 15.00] 
+where: 
+E elongation in 2 in. or 50 mm, %, and 
+= actual thiclmess of specimen, in. [mm]. 
+11. Hardness Requirements 
+11.1 The tubes shall have a hardness not exceeding the 
+following: 79 HRBW or 143 HBW for Grade A-1, 89 HRBW 
+or 179 HBW for Grade C. 
+12. Mechanical Tests Required 
+12.1 Tension Test-One tension test shall be made on a 
+specimen for lots of not more than 50 tubes. Tension tests shall 
+be made on specimens from two tubes for lots of more than 50 
+tubes (see Note 3). 
+12.2 Flattening Test-One flattening test shall be made on 
+specimens from each end of one finished tube from each lot 
+(see Note 2), but not the one used for the flaring test. Tears or 
+breaks occurring at the 12 or 6 o'clock positions on Grade C 
+tubing with sizes of 2.375 in. [60.3 mm] in outside diameter 
+and smaller shall not be considered a basis for rejection. 
+12.3 Flaring Test-One flaring test shall be made on speci­
+mens from each end of the one finished tube from each lot (see 
+Note 2), but not the one used for the flattening test. 
+12.4 Hardness Test-Brinell or Rockwell hardness tests 
+shall be made on specimens from two tubes from each lot (see 
+Note 3). 
+275 
+TABLE 2 Number of Tubes in a Lot Heat Treated by the 
+Continuous Process 
+Size of Tube Size of Lot 
+2 in. (50.8 mm) and over in outside diameter and not more than 50 tubes 
+0.200 in. (5.1 mm) and over in wall thickness 
+2 in. (50.8 mm) and over in outside diameter and not more than 75 tubes 
+under 0.200 in. (5.1 mm) in wall thickness 
+Less than 2 in. (50.8 mm) but over 1 in. not more than 75 tubes 
+(25.4 mm) in outside diameter 
+1 in. (25.4 mm) or less in outside diameter not more than 125 tubes 

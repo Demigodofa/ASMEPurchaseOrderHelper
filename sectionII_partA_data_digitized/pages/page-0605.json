@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 605,
+  "globalPageIndex": 605,
+  "width": 630.6,
+  "height": 867.72,
+  "text": "ASME BPVC.II.A-2025 SA-353/SA-353M \nSPECIFICATION FOR PRESSURE VESSEL PLATES, \nALLOY STEEL, DOUBLE-NORMALIZED AND TEMPERED \n9% NICKEL \nSA-353/SA-353M 0 \nINTERNATIONAL \nStandards Worldwide \n(Identical with ASTM Specification A353/A353M-17.) \n553 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-0605.txt",
+  "ocrTextLength": 211,
+  "ocrApplied": true,
+  "bestTextPath": "best_text/pages/page-0605.txt",
+  "bestTextSource": "ocr",
+  "bestTextLength": 211,
+  "bestTextAlphaRatio": 0.654
+}

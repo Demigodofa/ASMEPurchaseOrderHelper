@@ -1,0 +1,30 @@
+quench and temper,1650 [900],accelerated air cool,,1100 [595]
+,,or Ii uid,
+,,Martensitic Stainless Steels,
+F 6a Class 1 anneal,not specified,furnace cool,B B
+normalize and temper,not specified,air cool,400 [205] 1325 [725]
+B temper,not required,B,1325 [725]
+B F 6a Class 2 anneal,not specified,furnace cool,B
+normalize and temper,not specified,air cool,400 [205] 1250 [675]
+B temper,not required,B,1250 [675]
+B F 6a Class 3 anneal,not specified,furnace cool,B
+normalize and temper,not specified,air cool,400 [205] 1100 [595]
+F 6a Class 4 anneal,not specified,furnace cool,B B
+normalize and temper,not specified,air cool,400 [205] 1000 [540]
+B F 6b anneal,1750 [955],furnace cool,B
+normalize and temper,1750 [955],air cool,400 [205] 1150 [620]
+F6NM normalize and temeer,1850 [1010J,air cool,200 [95] 1040-1120
+,,Ferritic Stainless Steels,
+F B XM-27 Cb anneal,1850 [1010],furnace cool,B
+F B 429 anneal,1850 [1010],furnace cool,B
+B F 430 anneal,not seecified,furnace cool,B
+,,Austenitic Stainless Steels,
+B F 304 solution treat and quench,1900 [1040],liquidE,500 [260]
+B F 304H solution treat and quench,1900 [1040],liquidE,500 [260]
+F 304L solution treat and quench,1900 [1040],liquidE,B 500 [260]
+F 304N solution treat and quench,1900 [1040],liquidE,500 [260] B
+F 304LN solution treat and quench,1900 [1040],liquidE,B 500 [260]
+F 309H solution treat and quench,1900 [1040],liquidE,500 [260] B
+F 310 solution treat and quench,1900 [1040],liquidE,500 [260] B
+F 310H solution treat and quench,1900 [1040],liquidE,500 [260] B
+F 310MoLN solution treat and quench,1900-2010 [1050-1100],liquidE,500 [260] B

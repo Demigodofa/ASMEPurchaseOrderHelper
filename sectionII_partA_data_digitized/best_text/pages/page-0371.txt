@@ -1,0 +1,48 @@
+ASME BPVC.II.A-2025 SA-231/SA-231M 
+TABLE 1 TABLE 2 
+TENSILE REQUIREMENTS, SI UNITS A TENSILE REQUIREMENTS, INCH-POUND UNITS A 
+Tensile Strength, Tensile Strength, 
+MPa Reduction of Areas, ksi Reduction of Areas, 
+Diameter, 8 mm Min. Max. Min.,% Diameter,8 in. Min. Max. Min.,% 
+0.50 2060 2260 C 0.020 300 325 C 
+0.55 2050 2240 C 
+0.032 290 315 C 
+0.60 2030 2220 C 0.041 280 305 C 
+0.65 2010 2200 C 0.054 270 295 C 
+0.70 2000 2160 C 
+0.062 265 290 C 
+0.80 1980 2140 C 0.080 255 275 C 
+0.90 1960 2120 C 0.105 245 265 45 
+1.00 1940 2100 C 
+0.135 235 255 45 
+1.10 1920 2080 C 0.162 225 245 40 
+1.20 1900 2060 C 0.192 220 240 40 
+1.40 1860 2020 C 0.244 210 230 40 
+1.60 1820 1980 C 0.283 205 225 40 
+1.80 1800 1960 C 0.312 203 223 40 
+2.00 1780 1930 C 0.375 200 220 40 
+2.20 1750 1900 C 0.438 195 215 40 
+2.50 1720 1860 45 0.500 190 210 40 
+2.80 1680 1830 45 
+3.00 1660 1800 45 A Tensile strength values for intermediate diameters may be inter-
+3.50 1620 1760 45 po lated. 
+4.00 1580 1720 40 8 Preferred sizes. For a complete list, refer to ANSI B 32.4M, 
+4.50 1560 1680 40 Preferred Metric Sizes for Round, Square, Rectangle, and Hexagon 
+5.00 1520 1640 40 Metal Products. 
+5.50 1480 1620 40 c The reduction of area test is not applicable to wire diameters 
+6.00 1460 1600 40 under 0.092 in. 
+6.50 1440 1580 40 
+7.00 1420 1560 40 
+8.00 1400 1540 40 TABLE 3 
+9.00 1380 1520 40 CHEMICAL REQUIREMENTS 10.00 1360 1500 40 
+11.00 1340 1480 40 Element Analysis,% 
+12.00 1320 1460 40 
+Carbon 0.48-0.53 
+A Tensile strength values for intermediate diameters may be inter- Manganese 0.70-0.90 
+po lated. Phosphorus 0.040 max. 
+8 Preferred sizes. For a complete list, refer to ANSI B 32.4M, Sulfur 0.040 max. 
+Preferred Metric Sizes for Round, Square, Rectangle, and Hexagon Silicon 0.15-0.35 
+Metal Products. Chromium 0.80-1.10 
+c The reduction of area test is not applicable to wire diameters Vanadium 0.15 min. 
+under 2.34 mm. 
+319 

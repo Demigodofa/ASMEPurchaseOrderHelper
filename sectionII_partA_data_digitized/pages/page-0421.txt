@@ -1,0 +1,140 @@
+-------. 
+ASME BPVC.II.A-2025 SA-250/SA·ZS0M 
+TABLE 1 Chemical Requirements 
+Element 
+Grade Grade Grade 
+T1 T1a T1b 
+Carbon 0.10--0.20 0.15-0.25 0.14 max 
+Manganese 0.30--0.80 0.30--0.80 0.30-0.80 
+Phosphorus, max 0.025 0.025 0.025 
+Sulfur, max 0.025 0.025 0.025 
+Silicon 0.10-0.50 0.10-0.50 0.10-0.50 
+Molybdenum 0.44-Q.65 0.44-0.65 0.44-0.65 
+Chromium 
+the option of the manufacturer. If furnished in the normalized 
+and tempered condition, the minimum tempering temperature 
+shall be 1200 °P [650 °C], except T22 shall be tempered at 
+1250 °P [676 °C] minimum. 
+5.3.2 When grades Tl, Tia, Tlb, and T2 are cold finished, 
+the tubes may, at the option of the manufacturer, be heat treated 
+after the final cold-drawing pass at a temperature of 1200 °P or 
+higher, provided one of the heat treatments specified in 5.3.1 
+was applied after welding. 
+6. Chemical Composition 
+6.1 The steel shall conform to the requirements given in 
+Table l. 
+6.2 Product Analysis 
+6.2.l An analysis of either one length of flat-rolled stock or 
+one tube shall be made on each heat. The chemical composition 
+thus determined shall conform to the requirements given in 
+Table 1. 
+6.2.2 If the original test for product analysis fails, retests of 
+two additional lengths of flat-rolled stock or tubes shall be 
+made. Both retests for the elements in question shall meet the 
+requirements of the specification; otherwise all remaining 
+material in the heat or lot (See 8.1) shall be rejected or, at the 
+option of the producer, each length of flat-rolled stock or tube 
+may be individually tested for acceptance. Lengths of flat­
+rolled stock or tubes that do not meet the requirements of the 
+specification shall be rejected. 
+7. Mechanical Requirements 
+7 .1 Tensile Requirements 
+7 .1.1 The material shall conform to the requirements as to 
+tensile properties given in Table 2. 
+7.1.2 Table 3 gives the computed minimum elongation 
+values for each 1/.12-in. [0.8-mm] decrease in wall thickness. 
+Where the wall thickness lies between two values given in 
+Table 3, the minimum elongation value shall be determined by 
+the following equation: 
+Composition, % 
+Grade Grade Grade 
+T2 T11 T12 
+0.10-0.20 0.05-o.15 0.05-0.15 
+0.30-0.61 0.30--0.60 0.30-0.61 
+0.025 0.025 0.030 
+0.020 0.020 0.020 
+0.10-0.30 0.50-1.00 0.50 max 
+0.44-Q.65 0.44-0.65 0.44-0.65 
+0.50-0.81 1.00-1.50 0.80-1.25 
+E = 48t + 15.00 [ E = l.87t + 15.00] 
+where: 
+E = elongation in 2 in. [50 mm] %, and 
+t = actual thickness of specimen, in.[mm]. 
+Grade 
+T22 
+0.15 max 
+0.30-0.60 
+0.025 
+0.020 
+0.50 max 
+0.87-1.13 
+1.90-2.60 
+7.2 Hardness Requirements-The tubes shall have a hard­
+ness not exceeding the values given in Table 4. 
+7.3 Mechanical Tests Required 
+7.3.1 Tension Test-One tension test shall be made on a 
+specimen for lots of not more than 50 tubes. Tension tests shall 
+be made on specimens from two tubes for lots of more than 50 
+tubes (See 8.2). 
+7.3.2 Flattening Test-One flattening test shall be made on 
+specimens from each end of one finished tube, not the one used 
+for the flange test, from each lot (See 8.1). 
+7.3.3 Flange Test-One flange test shall be made on speci­
+mens from each end of one finished tube, not the one used for 
+the flattening test, from each lot (See 8.1). 
+7.3.4 Reverse Flattening Test-One reverse flattening test 
+shall be made on a specimen from each 1500 ft [450 m] of 
+finished tubing. 
+7.3.5 Hardness Test-Brinell and Rockwell hardness tests 
+shall be made on specimens from two tubes from each lot (See 
+8.2). 
+7.3.6 Hydrostatic or Nondestructive Electric Tests-Bach 
+tube shall be subjected to either the hydrostatic or the nonde­
+structive electric test. The purchaser may specify which is to be 
+used. 
+8. Sampling 
+8.1 For flattening and flange requirements, the term lot 
+applies to all tubes prior to cutting of the same specified outside 
+diameter and specified wall thickness that are produced from 
+the same heat of steel. When final heat treatment is in a 
+batch-type furnace, a lot shall include only those tubes of the 
+same size and from the same heat that are heat treated in the 
+same furnace charge. When the final heat treatment is in a 
+TABLE 2 Tensile Requirements 
+Grade 
+Tensile strength, min, ksi [MPa] 
+Yield strength, min, ksi [MPa] 
+Elongation in 2 in. or 50 mm, min, % 
+For longitudinal strip tests a deduction shall be made for each 
+1/a2-in. [0.8-mm] decrease in wall thickness below '½a in. 
+[8 mm] from the basic minimum elongation of the following 
+percentage points 
+T1 T1a T1b 
+55 [380] 60 [415) 53 [365] 
+30 [205) 32 [220) 28 [195] 
+30 30 30 
+1.50A 1.5QA 1 .50A 
+T2 
+60 [415) 
+30 [205] 
+30 
+1.50A 
+T11 
+60 [415] 
+30 [205) 
+30 
+1.50A 
+T12 
+60 [415) 
+32 [220) 
+30 
+1.50A 
+T22 
+60 [415) 
+30 [205) 
+30 
+1.50A 
+( A See Table 3 for the computed minimum values. 
+\ 
+"-/ 
+369 

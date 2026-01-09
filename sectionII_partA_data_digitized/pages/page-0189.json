@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 189,
+  "globalPageIndex": 189,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "'----\nASME BPVC.II.A-2025 SA-47 /SA-47M \nAPPENDIX \n(Nonmandatory Information) \nXl. MECHANICAL PROPERTIES OF \nCASTINGS \nXl.1 The mechanical properties of malleable iron cast\u00ad\nings are influenced by a number of factors, including the \ncooling rate during solidification, chemical composition, \nthe heat treatment, the design of the casting, section thick\u00ad\nness, and the location and effectiveness of gates, risers, \nand chills. \nXl.2 Because of the complexity of these factors in \ninfluencing the properties of the final product, no precise \nquantitative relationship can be stated between the proper\u00ad\nties of the iron in various locations of the same casting or \nbetween the properties of a casting and those of a test \nspecimen cast from the same iron. When such a relationship \nis important and must be known for a specific application, \nit may be determined by appropriate experimentation. \nXl.3 The specimen specified in 7 .2.1 as the. standard \ntensile test bar for malleable iron has a \u00be in. [16 mm] \ndiameter test section that reasonably represents a typical \nsection of the general run of malleable iron castings. Fur\u00ad\nthermore, the initial freezing of malleable irons as homoge\u00ad\nneous white iron, together with the heat treatment that is \ninherent in the manufacture of malleable iron, tends to \nreduce the section-sensitivity effect. Therefore, where \nexperimentation into precise properties within a given cast\u00ad\ning would be infeasible, this standard test bar, made like \nany typical casting, should provide a practical approxima\u00ad\ntion of the properties that can be expected in average sound \nmalleable iron casting. \nXl.4 If malleable iron castings are welded, the micro\u00ad\nstructure of the iron is markedly affected, particularly in \nthe heat-affected zone. Therefore, since this may adversely \naffect the properties of the casting, the welding of malleable \niron castings should be done under strict metallurgical \ncontrol, followed by appropriate post-weld heat treatment, \nto minimize the substantial reductions in ductility, impact \nresistance, and machinability that could result, particularly \nin the vicinity of the weldment. Nevertheless, it is generally \nconsidered inadvisable to join castings to similar castings \nor to other materials, by fusion welding out in the field, \nor in manufactured assemblies, without fully testing the \nentire completed part. \n137 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-0189.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2381,
+  "bestTextAlphaRatio": 0.7955
+}

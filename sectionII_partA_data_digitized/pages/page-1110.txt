@@ -1,0 +1,102 @@
+SA-574 ASME BPVC.11.A-2025 
+10. Workmanship, Finish, and Appearance 
+10.1 Discontinuities - The surface discontinuities for 
+these products shall conform to Specification 
+F 788/F 788M and the additional limitations specified 
+herein. 
+10.2 Socket Discontinuities: 
+10.2.1 Depth of discontinuities in the socket area 
+will be permissible within the limits of Condition 1 pro­
+vided they do not affect the usability and performance of 
+the screw. Discontinuities exceeding these limits are not 
+acceptable. 
+10.2.2 Longitudinal discontinuities must not exceed 
+0.25T in length. Permissible and nonpermissible disconti­
+nuities are shown in Fig. 2. 
+NOTE 2 - T = actual key engagement. 
+10.3 Permissible Head and Body Discontinuities- Dis­
+continuities as defined above are permitted in the locations 
+illustrated in Fig. 3 to the depths shown in 10.4. These 
+discontinuities are permitted, provided they do not affect 
+the usability and performance of the screw. All discontinu­
+ities are to be measured perpendicular to indicated surfaces. 
+10.4 Conditions for Permissible Discontinuity Depths: 
+10.4.1 Condition 1 - For bearing area, fillet, and 
+other surfaces, max depth = 0.03D or 0.005 in. (whichever 
+is greater). 
+NOTE 3 - D = nominal diameter of screw. 
+10.4.2 Condition 2 - For peripheral discontinuities, 
+max depth = 0.06D, but not to exceed 0.064. 
+10.5 Thread Discontinuities - Threads shall have no 
+laps at the root or on the flanks located below the pitch 
+line. Laps are permissible at the thread crest to a depth of 
+25% of the basic thread height and on the thread flanks 
+beyond the pitch diameter. Longitudinal seams in the 
+threads are acceptable within the limits of Condition 1 
+(10.4.1). 
+11. Number of Tests and Retests 
+11.1 The requirements of this specification shall be met 
+in continuous mass production for stock, and the manufac­
+turer shall make sample inspections to ensure that the prod­
+uct conforms to the specified requirements. Additional tests 
+of individual shipments of material are not ordinalily con­
+templated. A record of individual heats of steel in each 
+test lot shall be maintained. The container shall be coded 
+to permit identification of the lot. 
+11.2 When specified in the order, the manufacturer 
+shall furnish a test report certified to be the last complete 
+set of mechanical tests for each stock size in each shipment. 
+11.3 When additional tests are specified on the purchase 
+order, a lot, for purposes of selecting test samples, shall 
+consist of all screws offered for inspection at one time of 
+one diameter and length. From each lot, the number of 
+samples for each requirement shall be as follows: 
+Number of Pieces in Lot 
+800 and less 
+Over 800 to 8 000, incl. 
+Over 8 000 to 22 000, incl. 
+Over 22 000 
+Number of Samples 
+1 
+2 
+3 
+5 
+11.4 Should any sample fail to meet the requirements 
+of a specified test, double the number of samples from the 
+same lot shall be retested for the requirement(s) in which 
+it failed. All of the additional samples shall conform to 
+the specification or the lot shall be rejected. 
+12. Test Methods 
+12.1 Test the finished screws and specimens, as applica­
+ble, for mechanical properties and hardness requirements 
+of Section 7. Testing shall be in accordance with Test 
+Methods F 606 at room temperature. The minimum 
+required length for tension testing shall be 3D. The angle 
+used in wedge tests shall be as specified in Table 4. 
+12.2 The speed of testing, as determined with a free 
+running crosshead, shall be a maximum of 1 in./min for 
+the tension tests of screws. 
+12.3 Decarburization and carburization tests shall be 
+conducted as follows: 
+12.3.1 Section the thread area of the bolt longitudi­
+nally through the axis, mount, and polish it in accordance 
+with Practice E 3. Take measurements (1) at the minor 
+diameter in the center of the thread ridge, and (2) 0.75h 
+toward the thread crest on the perpendicular bisector of 
+the thread ridge. Take a measurement ( 3) on the thread 
+flank approximately at the pitch line at a depth of 0.003 in. 
+Use one of the two methods for carburization/decarburiza­
+tion evaluation either optical or microhardness measure­
+ments. The microhardness measurement shall constitute a 
+referee method in case of dispute. 
+12.3.2 For optical measurement, etch the section in 
+2 to 4% nital. Examine the surface of the etched samples 
+under a microscope at IO0x using a measuring eyepiece 
+graduated in 0.001-in. increments. The width of any light 
+etching band normally defines the decarburization depth. A 
+dark etching band indicates the possibility of carburization. 
+12.3.3 Measure microhardness in accordance with 
+Test Method E 384 on unetched specimens using a DPH 
+136° indenter or a Knoop indenter using the following load 
+application: 
+1016 

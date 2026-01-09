@@ -1,0 +1,122 @@
+ASME BPVC.II.A-2025 SA-302/SA-302M 
+TABLE 1 Chemical Requirements 
+NoIB I-Where" ... " appears, there is no requirement. 
+Elements 
+Composition, % 
+Grade A Grade B Grade C Grade D 
+Carbon, max:A 
+Up to 1 in. [25 mm], incl, in thickness 
+Over 1 to 2 in. [50 mm], incl 
+Over 2 in. [50 mm] in thickness 
+Manganese: 
+Heat analysis 
+Product analysis 
+Phosphorus, maxA 
+Sulfur, maxA 
+Silicon: 
+Heat analysis 
+Product analysis 
+Molybdenum: 
+Heat analysis 
+Product analysis 
+Nickel: 
+Heat analysis 
+Product analysis 
+A Applies to both heat and product analyses. 
+0.20 
+0.23 
+0.25 
+0.95-1.30 
+0.87-1.41 
+0.025 
+0.025 
+0.15-0.40 
+0.13-0.45 
+0.45-0.60 
+0.41-0.64 
+0.20 0.20 0.20 
+0.23 0.23 0.23 
+0.25 0.25 0.25 
+1.15-1.50 1.15-1.50 1.15-1.50 
+1.07-1.62 1.07-1.62 1.07-1.62 
+0.025 0.025 0.025 
+0.025 0.025 0.025 
+0.15-0.40 0.15-0.40 0.15-0.40 
+0.13-0.45 0.13-0.45 0.13-0.45 
+0.45-0.60 0.45-0.60 0.45-0.60 
+0.41-0.64 0.41-0.64 0.41-0.64 
+0.40-0.70 0.70-1.00 
+0.37-0.73 0.67-1.03 
+TABLE 2 Tensile Requirements 
+Tensile strength, ksi [MPa] 
+Yield strength, min, ksi [MPa] 
+Elongation in 8 in. [200 mm], min, %A 
+Elongation in 2 in. [50 mm], min, %A 
+Grade A 
+75-95 [515-655] 
+45 [310] 
+15 
+19 
+A See Specification A20/A20M for elongation adjustment. 
+NoTE I-For plates produced from coil and furnished without heat 
+treatment or with stress relieving only, three test results are reported for 
+each qualifying coil. Additional requirements regarding plates from coil 
+are described in Specification A20/A20M. 
+3.4 If the requirements of this specification are in conflict 
+with the requirements of Specification A20/A20M, the require­
+ments of this specification shall prevail. 
+4. Materials and Manufacture 
+4.1 Steelmaking Practice-The steel shall be killed and 
+shall conform to the fine grain size requirement of Specifica­
+tion A20/ A20M. 
+5. Heat Treatment 
+5.1 Plates 2 in. [50 mm] and under in thickness are normally 
+supplied in the as-rolled condition. Plates may be ordered 
+normalized, nonnalized and tempered, or stress relieved. 
+5.2 Plates over 2 in. [50 mm] in thickness shall be normal­
+ized or normalized and tempered. 
+5.3 When normalizing plates 4 in. [100 mm] or over in 
+thickness, the cooling rate may be accelerated by air blasting or 
+liquid quenching followed by tempering in the temperature 
+range from 1100 to 1300°F [595 to 705°C] to obtain mechani­
+cal properties comparable to those developed by normalizing 
+plates in the lesser thicknesses. 
+Grade B 
+80-100 [550-690] 
+50 [345] 
+15 
+18 
+Grade C 
+80-100 [550-690] 
+50 [345] 
+17 
+20 
+Grade D 
+80-100 [550-690] 
+50 [345] 
+17 
+20 
+5.4 If approved by the purchaser, for plates less than 4 in. 
+[100 mm] in thickness, cooling rates faster than those obtained 
+by cooling in air are permissible for improvement of 
+toughness, provided the plates are subsequently tempered in 
+the temperature range from 1100 to 1300°F [595 to 705°C]. 
+6. Chemical Composition 
+6.1 The steel shall conform to the chemical requirements 
+shown in Table I unless otherwise modified in accordance with 
+Supplementary Requirement S 17, Vacuum Carbon-Deoxidized 
+Steel, in Specification A20/A20M. 
+7. Mechanical Properties 
+7 .1 Tension Test Requirements-The plates, as represented 
+by the tension test specimens, shall conform to the require­
+ments given in Table 2. 
+437 
+7 .1.1 For accelerated cooled plates with a nominal thickness 
+of¾ in. [20 mm] or less, the 1 ½-in. [ 40-mm] wide rectangular 
+specimen may be used for the tension test, and the elongation 
+may be detennined in a 2-in. [50-mm] gage length that 
+includes the fracture and that shows the greatest elongation. 
+8. Keywords 
+8.1 alloy steel plate; pressure containing parts; pressure 
+vessel steels; steel plates; steel plates for pressure vessel 
+applications 

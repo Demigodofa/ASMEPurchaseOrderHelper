@@ -1,0 +1,81 @@
+SA-965/SA-96SM ASME BPVC.II,A-2025 
+TABLE 1 Chemical RequirementsA 
+Element 
+Carbon Manganese Phosphorus Sulfur Silicon Nickel Chromium Molybdenum Niobium Nitrogen Other 
+Grade UNS 
+Designation 
+F304 S30400 0.08 2.00 0.045 0.030 1.00 8.0-11.0 18.0-20.0 ... ... ... ... 
+F304H S30409 0.04-0.10 2.00 0.045 0.030 1.00 8.0-11.0 18.0-20.0 ... ... ... ... 
+F304L S30403 0.030 2.00 0.045 0.030 1.00 8.0-12.0 18.0-20.0 ... ... ... ... 
+F304N S30451 0.08 2.00 0.045 0.030 1.00 8.0-11.0 18.0-20.0 ... ... 0.10-0.16 ... 
+F304LN S30453 0.030 2.00 0.045 0.030 1.00 8.0-11.0 18.0-20.0 ... ... 0.10-0.16 ... 
+F309H S30909 0.04-0.10 2.00 0.045 0.030 1.00 12.0-15.0 22.0-24.0 ... ... . .. ... 
+F310 S31000 0.15 2.00 0.045 0.030 1.00 19.0-22.0 24.0-26.00 ... ... . .. ... 
+F310H S31009 0.04-0.10 2.00 0.045 0.030 1.00 19.0-22.0 24.0-26.00 ... ... . .. ... 
+F316 S31600 0.08 2.00 0.045 0.030 1.00 10.0-14.0 16.0-18.0 2.00-3.00 ... ... ... 
+F316H S31609 0.04-0.10 2.00 0.045 0.030 1.00 10.0-14.0 16.0-18.0 2.00-3.00 ... ... ... 
+F316L S31603 0.035 2.00 0.040 0.030 1.00 10.0-15.0 16.0-18.0 2.00-3.00 ... ... ... 
+F316N S31651 0.08 2.00 0.045 0.030 1.00 10.0-13.0 16.0-18.0 2.00-3.00 ... 0.10-0.16 ... 
+F316LN S31653 0.030 2.00 0.045 0.030 1.00 10.0-13.0 16.0-18.0 2.00-3.00 ... 0.10-0.16 ... 
+F70 S31730 0.030 2.00 0.040 0.010 1.00 15.0-16.5 17.0-19.0 3.0-4.0 ... 0.045 Cu 4.0-5.0 
+F321 S32100 0.08 2.00 0.045 0.030 1.00 9.0-12.0 17.0-19.0 ... ... 0.10 TI 
+5x(C+N)-
+0.70 
+F321H S32109 0.04-0.10 2.00 0.045 0.030 1.00 9.0-12.0 17.0-19.0 ... ... . .. TI 
+4x(C+N)-
+0.70 
+F347 S34700 0.08 2.00 0.045 0.030 1.00 9.0-12.0 17.0-19.0 ... 10xC-1.10 8 ... ... 
+F347H S34709 0.04-0.10 2.00 0.045 0.030 1.00 9.0-12.0 17.0-19.0 ... BxC-1.10 . .. ... 
+F347LN S34751 0.005-0.020 2.00 0.045 0.030 1.00 9.0-13.0 17.0-19.0 ... 0.20-0.50 0.06-0.10 ... 
+15xC min 
+F348 S34800 0.08 2.00 0.045 0.030 1.00 9.0-12.0 17.0-19.0 ... 10xC-1.10 ... Co 0.020, 
+Ta 0.10 
+F348H S34809 0.04-0.10 2.00 0.045 0.030 1.00 9.0-12.0 17.0-19.0 ... SxC-1.10 . .. Co 0.020, 
+Ta 0.10 
+FXM-19 S20910 0.06 4.0-6.0 0.045 0.030 1.00 11.5-13.5 20.5-23.5 1.50-3.00 0.10-0.30 0.20-0.40 V 0.10-0.30 
+FXM-11 S21904 0.04 8.0-10.0 0.045 0.030 1.00 5.5-7.5 19.0-21.5 ... ... 0.15-0.40 ... 
+F20 N08020 0.07 2.00 0.045 0.035 1.00 32.0-38.0 19.0-21.0 2.00-3.00 8xC ... Cu 3.0-4.0 
+min-1.00 
+F46 S30600 0.D18 2.00 0.020 0.020 3.7-4.3 14.0-15.5 17.0-18.5 0.20 ... ... Cu 0.50 
+F62 N08367 0.030 2.00 0.040 0.030 1.00 23.5-25.5 20.0-22.0 6.0-7.0 ... 0.18-0.25 ... 
+F904L N08904 0.020 2.00 0.040 0.030 1.00 23.0-28.0 19.0-23.0 4.0-5.0 ... 0.10 Cu 1.00-2.00 
+F700 N08700 0.04 2.00 0.040 0.030 1.00 24.0-26.0 19.0-23.0 4.3-5.0 axe min ... Cu 0.50 
+0.40 max 
+FNIC N08800 0.10 1.50 0.045 0.D15 1.00 30.0-35.0 19.0-23.0 ... ... ... TI 0.15-0.60 
+Al 0.15-0.60 
+Cu 0.75 
+Fe 39.5 min 
+FNIC10 N08810 0.05-0.10 1.50 0.045 0.D15 1.00 30.0-35.0 19.0-23.0 ... ... ... TI 0.15-0.60 
+Al 0.15-0.60 
+Cu 0.75 
+Fe 39.5 min 
+FNIC11 N08811 0.06-0.10 1.50 0.040 0.D15 1.00 30.0-35.0 19.0-23.0 ... ... ... Ti 0.25-0.60° 
+Al 0.25-0.60° 
+Cu 0.75 
+Fe 39.5 min 
+F1925 N08925 0.020 1.00 0.045 0.030 0.50 24.0-26.0 19.0-21.0 6.0-7.0 ... 0.10-0.20° Cu 0.80-1.50 
+F1925N N08926 0.020 2.00 0.030 0.010 0.50 24.0-26.0 19.0-21.0 6.0-7.0 ... 0.15-0.25D Cu 0.50-1.50 
+A Max. unless min or a range is indicated. Where ellipses ( ... ) appear in this table, there is no requirement and the element need not be analyzed for or reported. 
+8 Alternatively, tantalum may be substituted for part of the columbium as approved by the purchaser. 
+0 TI + Al shall be 0.85 % min: 1.20 % max. 
+0 The method of analysis for nitrogen shall be a matter of agreement between purchaser and manufacturer. 
+separately forged test bar for the mechanical test specimens, 
+instead of an integral prolongation, is acceptable for forgings 
+weighing less than 5000 lb [2250 kg], provided that the 
+heat-treated cross section of the test bar is not less than the 
+maximum heat-treated cross section of the forgings it repre­
+sents. The separately forged test bar shall be from the same 
+heat as the forgings it represents and shall accompany the 
+forgings during heat treatment. 
+8.2.2 When heat treatment is performed in continuous type 
+furnaces equipped with recording pyrometers, such that com-
+plete heating records are available, a solution annealing charge 
+may be considered as any continuous run not exceeding an 8 h 
+period. 
+8.2.3 For forgings weighing over 5000 lb [2250 kg], as heat 
+treated, one tension test shall be taken from a prolongation on 
+each forging. 
+8.3 The longitudinal axis of the tension test specimen shall 
+be parallel to the direction of major working of the forging, 
+except when Supplementary Requirement S2 is specified. For 
+1428 

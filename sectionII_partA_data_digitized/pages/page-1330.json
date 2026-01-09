@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 532,
+  "globalPageIndex": 1330,
+  "width": 613.92,
+  "height": 793.2,
+  "text": "SA-781/SA-781M ASME BPVC.II.A-2025 \nFIG. Xl.l LETTERS ASSIGNED TO CHROMIUM AND NICKEL RANGES IN ACI DESIGNATION SYSTEM \nLocation of ACI Alloy Types \nFE O 0 10 20 30 40 50 \nPercent Nickel \nGENERAL NOTES: \n60 70 80 90 100 \n{a) The approximate areas of microstructures to be expected at room temperature are indicated as follows: \nI - Martensite \nII - Martensite and untransformed austenite \nIll - Ferrite plus martensite and untransformed austenite \nIV - Ferrite \nV - Ferrite plus austenite \nVI - Ferrite plus austenite plus sigma \nVII - Austenite \n{b) Carbides also may be present depending on carbon content and thermal history. \n1268 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-1330.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 635,
+  "bestTextAlphaRatio": 0.7213
+}

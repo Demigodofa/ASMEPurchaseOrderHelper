@@ -1,0 +1,135 @@
+[
+  {
+    "rows": [
+      [
+        "",
+        "TABLE  1 Chemical  Requirements",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Elements",
+        "",
+        "",
+        "Heat Analysis,  %",
+        ""
+      ],
+      [
+        "",
+        "",
+        "Grade  C",
+        "",
+        "Grade  D"
+      ],
+      [
+        "Carbon,  max",
+        "",
+        "0.24",
+        "",
+        "0.27"
+      ],
+      [
+        "Manganese,  max",
+        "",
+        "0.90",
+        "",
+        "0.90"
+      ],
+      [
+        "Phosphorus,  max",
+        "",
+        "0.030",
+        "",
+        "0.030"
+      ],
+      [
+        "Sulfur,  max",
+        "",
+        "0.030",
+        "",
+        "0.030"
+      ],
+      [
+        "Silicon",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Plates  1 \u00bd  in.  [40  mm]  and  under,  max",
+        "",
+        "0.40",
+        "",
+        "0.40"
+      ],
+      [
+        "Plates over 1 \u00bd  in.  [40  mm]",
+        "",
+        "0.15-0.40",
+        "",
+        "0.15-0.40"
+      ],
+      [
+        "Copper,  min % when  copper is  specified",
+        "",
+        "0.20",
+        "",
+        "0.20"
+      ]
+    ]
+  },
+  {
+    "rows": [
+      [
+        "Copper,  min % when  copper is  specified",
+        "",
+        "0.20",
+        "0.20"
+      ],
+      [
+        "",
+        "TABLE  2 Tensile  RequirementsA",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Grade C",
+        "",
+        "Grade  D"
+      ],
+      [
+        "Tensile strength,  ksi  [MPa]",
+        "55-75 [380-515)",
+        "",
+        "60-80 [ 415-550]"
+      ],
+      [
+        "Yield  point,  min,  ksi  [MPa]",
+        "30  [205]",
+        "",
+        "33  [230]"
+      ],
+      [
+        "Elongation  in  8 in.  [200  mm],  min, %8",
+        "22",
+        "",
+        "20"
+      ],
+      [
+        "Elongation  in  2 in.  [50  mm],  min, %8",
+        "25",
+        "",
+        "23"
+      ],
+      [
+        "A  See  Specimen  Orientation  under the Tension Tests section  of  Specification A6/A6M.",
+        "",
+        "",
+        ""
+      ]
+    ]
+  }
+]

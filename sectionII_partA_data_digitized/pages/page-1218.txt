@@ -1,0 +1,137 @@
+SA-691/SA-691M ASME BPVC.II.A-2025 
+mm]. This reinforcement may be removed at the manufactur­
+er's option or by agreement between the manufacturer and 
+purchaser. The contour of the reinforcement shall be smooth, 
+and the deposited metal shall be fused smoothly and uniformly 
+into the plate surface. 
+5.2.4 When radiographic examination in accordance with 
+9.1 is to be used, the weld reinforcement shall be governed by 
+the more restrictive provisions of UW-51 of Section VITI of the 
+ASME Boiler and Pressure Vessel Code instead of 5.2.3 of this 
+specification. 
+5.3 Heat Treatment-All classes other than 10, 11, 12, and 
+13 shall be heat treated in a furnace controlled to ± 25 °F [15 
+0 C] and equipped with a recording pyrometer so that. heating 
+records are available. Heat treating after forming and welding 
+shall be to one of the following: 
+5.3.1 Classes 20, 21, 22, and 23 pipe shall be uniformly 
+heated within the post-weld heat-treatment temperature range 
+indicated in Table 2 for a minimum of 1 h/in. [0.4 hr/cm] of 
+thickness or for 1 h, whichever is greater. 
+5.3.2 Classes 30, 31, 32, and 33 pipe shall be uniformly 
+heated to a temperature in the austenitizing range and not 
+exceeding the maximum normalizing temperature indicated in 
+Table 2 and subsequently cooled in air at room temperature. 
+5.3.3 Classes 40, 41, 42, and 43 pipe shall be normalized in 
+accordance with 5.3.2. After normalizing, the pipe shall be 
+reheated to the tempering temperature indicated in Table 2 as a 
+minimum and held at temperature for a minimum of ½ hhn. 
+[0.2 hr/cm] of thickness or for ½ h, whichever is greater, and 
+air cooled. 
+5.3.4 Classes 50, 51, 52, and 53 pipe shall be uniformly 
+heated to a temperature in the austenitizing range, and not 
+exceeding the maximum quenching temperature indicated in 
+Table 2 and subsequently quenched in water or oil. After 
+quenching, the pipe shall be reheated to the tempering tem­
+perature indicated in Table 2 as a minimum and held at that 
+temperature for a minimum of½ h/in. [0.2 hr/cm] of thickness 
+or for ½ h, whichever is greater, and air cooled. 
+5.4 Grade 91 shall be produced only to classes 4X and 5X. 
+In addition, post-weld heat treatment is required after weld 
+repair. 
+6. General Requirements 
+6.1 Material furnished to this specification shall conform to 
+the applicable requirements of the current edition of Specifi­
+cation A530/A530M, unless otherwise provided herein. 
+7. Chemical Requirements 
+7.1 Product Analysis of Plate-The pipe manufacturer shall 
+make an analysis of each mill heat of plate material. The 
+product analysis so determined shall meet the requirements of 
+the plate specification to which the material was ordered. 
+7.2 Product Analysis of Weld-The pipe manufacturer shall 
+make an analysis of finished deposited weld metal from each 
+200 ft [60 m] or fraction thereof. Analysis shall conform to the 
+welding procedure for deposited weld metal. 
+7.3 Analysis may be taken from the mechanical test speci­
+mens. The results of the analyses shall be reported to the 
+purchaser. 
+7.4 If the analysis of one of these tests specified in 7 .1 or 7 .2 
+does not conform to the requirements specified, analyses shall 
+be made on additional pipes of double the original number 
+from the same lot, each of which shall conform to the 
+requirements specified. Nonconforming pipe shall be rejected. 
+8. Mechanical Requirements 
+8.1 Tension Test: 
+8.1.1 Requirements-Transverse tensile properties of the 
+welded joint shall meet the minimum requirements for ultimate 
+tensile strength of the specified plate material. 
+8.1.2 Number of Tests-One test specimen shall be made to 
+represent each lot of finished pipe. 
+TABLE 2 Heat Treatment ParametersA 
+ASTM Post-Weld Heat-Treat 
+Pipe Grade Specification Temperature Range (Stress 
+Relieving), °F (°C) 
+CM-65 A204/A204M 1100 to 1200 [590 to 650] 
+CM-70 A204/A204M 1100 to 1200 [590 to 650] 
+CM-75 A204/A204M 1100 to 1200 [590 to 650] 
+CMSH-70 A537/A537M 1100 to 1200 [590 to 650] 
+CMS-75 A299/A299M 1100 to 1200 [590 to 650] 
+CMSH-80 A537/A537M 1100 to 1200 [590 to 650] 
+%CR A387/A387M 1100 to 1300 [590 to 705] 
+1CR A387/A387M 11 00 to 1350 [590 to 730] 
+1¼CR A387/A387M 1100 to 1375 [590 to 745] 
+2¼CR A387/A387M 1200 to 1400 [650 to 760] 
+3CR A387/A387M 1200 to 1400 [650 to 760] 
+5CR A387/A387M 1200 to 1400 [650 to 760] 
+9CR A387/A387M 1325 to 1375 [715 to 745] 
+91 A387/A387M 1350 to 1420 [730 to 770] 
+A\Nhere ellipses ( ... ) appear in the table, there is no requirement. 
+8 Requires quenching and tempering. 
+Normalizing 
+Temperature, 
+max unless 
+otherwise noted, 
+OF (OC) 
+1700 [925] 
+1700 [925] 
+1700 [925] 
+1700 [925] 
+1700 [925] 
+B 
+1850 [1010] 
+1850 [1010] 
+1850 [1010] 
+1850 [1010] 
+1850 [1010] 
+1850 [1010] 
+C 
+1900 to 2000 
+[1040 to 1095] 
+Quenching 
+Temperature, 
+max unless 
+otherwise noted, 
+OF (OC) 
+1700 [925] 
+1700 [925] 
+1700 [925] 
+1700 [925] 
+1700 [925] 
+1700 [925] 
+1650 [900] 
+1900 min 
+[1040 min] 
+Tempering Temperature, 
+min, °F (°C) 
+1100 to 1250 [590 to 675] 
+1150 to 1375 [620 to 745] 
+1150 to 1375 [620 to 745] 
+1150 to 1375 [620 to 745] 
+1250 to 1400 [675 to 760] 
+1250 to 1400 [675 to 760] 
+1300 to 1400 [705 to 760] 
+1325 to 1375 [715 to 745] 
+1350 to 1440 [730 to 780] 
+0 9CR steel is an air-hardenable steel, at times retaining austenite down to near atmospheric temperature. Good practice is to allow the steel to cool to 150 °For lower 
+before subjecting the steel to a tempering treatment or post-weld heat treatment. 
+1132 

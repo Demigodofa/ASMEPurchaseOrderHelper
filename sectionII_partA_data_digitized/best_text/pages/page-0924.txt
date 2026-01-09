@@ -1,0 +1,102 @@
+SA-484/SA-484M ASME BPVC.II.A-2025 
+Nom I-Camber or bow tolerances shall not exceed 0.025 in. 
+[0.60 mm] x length in ft [m/3]. 
+Camber tolerances for hot finished or extruded shapes camber (or bow) 
+is the greatest deviation of a side from a straight line. Measurement is 
+taken on the concave side of the shapes with a straight edge. 
+FIG. 1 Camber or Bow Tolerances 
+NoTE I-Allowable deviation from flat is max 0.010 in. [0.25 mm] per 
+l in. [25 mm] of width. Maximum deviation on dimensions of less than 
+1 in. [25 mm] is 0.010 in. [0.250 mm]. 
+The transverse flatness tolerance is the maximum deviation from a 
+reference base across any cross-section flat surface. 
+FIG. 2 Transverse Flatness Tolerances 
+14.1.2 Tension Tests-Test Methods and Definitions A370. 
+14.1.3 Stress Rupture-Test Methods E139. 
+14.1.4 Brinell Hardness-Test Methods and Definitions 
+A370. 
+14.1.5 Rockwell Hardness-Test Methods and Definitions 
+A370. 
+14.1.6 lntergranular Corrosion-Practice E of Practices 
+A262. 
+14.1.7 Grain Size-Test Methods E112. 
+14.1.8 Charpy V-notch Impact Test-Test Methods and 
+Definitions A370. 
+15. Inspection 
+15.1 Civilian Procurement-Inspection of the material shall 
+be as agreed upon between the purchaser and the supplier as 
+part of the purchase contract. 
+15.2 Government Procurement-Unless otherwise specified 
+in the contract or purchase order, the seller is responsible for 
+the performance of all inspection and test requirements in this 
+specification, the seller is permitted to use their own facilities 
+or other suitable facilities for the performance of the inspection 
+and testing, and the purchaser shall have the right to perform 
+any of the inspection and tests set forth in this specification. 
+The manufacturer shall afford the purchaser's inspector all 
+reasonable facilities necessary to satisfy purchaser that the 
+material is being furnished in accordance with the specifica­
+tion. Inspection by the purchaser shall not interfere unneces­
+sarily with the manufacturer. 
+16. Rejection and Rehearing 
+16.1 The purchaser is permitted to reject material that fails 
+to conform to the requirements of this specification. Rejection 
+shall be reported to the producer or supplier promptly, prefer-
+ably in writing. In case of dissatisfaction with the results of a 
+test, the producer or supplier is permitted to make claim for a 
+rehearing. 
+17. Certification 
+17 .1 A report of the results of all tests required by the 
+product specification shall be supplied to the purchaser. This 
+material test report shall reference the product specification 
+designation and year date indicating that the material was 
+manufactured, sampled, tested, and inspected in accordance 
+with requirements of the product specification and has been 
+found to meet those requirements. The material test report shall 
+report the melting process when the purchase order requires 
+either a specific type of melting or requires that the melting 
+process used is to be reported. 
+17 .1.1 The report shall indicate the type of steel. If certify­
+ing that the material conforms to the requirements for more 
+than one type of steel, the manufacturer may indicate each type 
+of steel on the report, or may issue a separate report for each 
+type of steel. 
+17 .2 A signature is not required on the report. However, the 
+document shall clearly identify the organization submitting the 
+report. Not withstanding the absence of a signature, the 
+organization submitting the document is responsible for its 
+content. 
+17.3 A document printed from or used in electronic form 
+from an electronic data interchange (EDI) transmission shall be 
+regarded as having the same validity as a counterpart printed in 
+the certifier's facility. The content of the EDI transmitted 
+document shall meet the requirements of the invoked ASTM 
+standard(s) and conform to any existing EDI agreement be­
+tween the purchaser and the supplier. Not withstanding the 
+absence of a signature, the organization submitting the EDI 
+transmission is responsible for the content of the report. 
+NoTE 3-The industry definition of EDI invoked herein is the 
+computer-to-computer exchange of business information in a standard 
+format such as ANSI ASC X12. 
+824 
+17.4 When finished material is supplied to a purchase order 
+specifying the product specification, the organization supply­
+ing that material shall provide the purchaser with a copy of the 
+original manufacturer's test report. 
+17.4.1 When the original manufacturer's test report was 
+provided by EDI to the organization supplying the finished 
+material to the purchaser, the organization supplying the 
+finished material shall provide to the purchaser a printed form 
+of the original test report or shall retransmit the test report by 
+EDI to the purchaser. In either case, the test report shall be 
+complete with the full identification of the original manufac­
+turer and with all data provided on the test report of the original 
+manufacturer. 
+18. Product Marking 
+18.1 Civilian Procurement: 
+18.1.1 Bars and shapes shall be marked or tagged with the 
+name of manufacturer, purchaser's name and order number, 
+ASTM specification designation, heat number, grade or type, 
+condition, finish, and where appropriate, the size, length, and 
+weight. Uruess otherwise specified, the method of marking is at 
+~· 

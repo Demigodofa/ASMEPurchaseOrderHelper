@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 133,
+  "globalPageIndex": 931,
+  "width": 793.2,
+  "height": 613.92,
+  "text": "(-\nTABLE2 Continued \nGrade Element,% Class \nType Carbon Manganese Phosphorus Sulfur Silicon Nickel Chromium Molybdenum Copper Vanadium Boron (UNS Number) \n14 0.55 0.80-1.10 0.035 0.035 0.60 1.40-1.75 0.40H 0.20-0.30 0.50H 0.03H \nA \nNi-Mo \n(J15580) \n16 0.12 1 2.10 1 0.02 0.02 0.50 1.00-1.40 0.20G 0.10G 0.20G 0.02G \nA \nLowC-Mn-Ni \n(J31200) \n17 0.05-0.20 0.55-0.70 0.01 0.005 0.20-0.50 3.0-3.80 1.35-1.60 0.35-0.60 0.20 0.03 \nA \nNi-Cr-Mo \nCA15 0.15 1.00 0.035 0.035 1.50 1.00 11.5-14.0 0.50 0.50G 0.05G \n00 ABCD w \n1--\" Martensitic Cr \n(J91150) \nCA15M 0.15 1.00 0.035 0.035 0.65 1.00 11.5-14.0 0.15-1.0 0.50G 0.05G \nA \nMartensitic Cr \n(J91151) \nCA6NM 0.06 1.00 0.035 0.03 1.00 3.5-4.5 11.5-14.0 0.4--1.0 0.50G 0.05G \nAB \nMartensitic Cr-Ni \n(J91540) \nA All values are maximums unless a range is provided. \n8 Where ellipses (_.) appear in this table, there is no requirement and the element need not be analyzed for or reported. \nc The Mo + W content shall not exceed 0.25 %. \n0 Specified Residual Elements--the total content of these elements is 1.00 % maximum. \nE Specified Residual Elements-the total content of these elements is 0.60 % maximum. \nF Proprietary steel composition. \nG Specified Residual Elements-the total content of these elements is 0.50 % maximum. \nH Specified Residual Elements-the total content of these elements is 0.75 % maximum. \n' For each reduction of 0.01 % below the specified maximum carbon content, an increase of 0.04 % manganese above the specified maximum will be permitted up to a maximum of 2.30 %. \n) \nTungsten \n0.10R \n0.10G \n0.10G \n0.10G \n0.10G \n> 1:1) \n3: \nt!! \n= :g \nr, \n~ \nN \nQ \nN \nIll \n~ \n....:i ........ \n~ \n\"\" 00 \n....:i \n3: ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0931.json",
+  "tabulaTablesCsv": "tables_tabula/page-0931.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0931.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1667,
+  "bestTextAlphaRatio": 0.4955
+}

@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 373,
+  "globalPageIndex": 1171,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "ASME BPVC.II.A-2025 SA-662/SA-662M \nTABLE 1 Chemical Requirements \nComposition, % \nElement Grade A Grade B Grade C \nHeat Analysis Product Analysis Heat Analysis Product Analysis Heat Analysis Product Analysis \nCarbon, max \nManganese \nPhosphorus, max \nSulfur, max \nSilicon \n0.14 \n0.90-1.35 \n0.025 \n0.025 \n0.15-0.40 \n0.17 0.19 \n0.84-1.46 0.85-1.50 \n0.025 0.025 \n0.025 0.025 \n0.13-0.45 0.15-0.40 \n0.22 0.20 0.24 \n0.79-1.62 1.00-1.60 0.92-1.72 \n0.025 0.025 0.025 \n0.025 0.025 0.025 \n0.13-0.45 0.15-0.50 0.13-0.55 \nTABLE 2 Tensile Properties \nTensile strength, ksi [MPa] \nYield strength,A min, ksi [MPa] \nElongation in 8 in. [200 mm], min, % 8 \nElongation in 2 in. (50 mm], min, % 8 \nGrade A \n58-78 (400-540] \n40 (275] \n20 \n23 \nGrade B \n65-85 [ 450-585] \n40 [275] \n20 \n23 \nGrade C \n70-90 (485-620] \n43 [295] \n18 \n22 \nA Determined by either the 0.2 % offset method or the 0.5 % extension-under-load method. \n8 See Specification A20/A20M for elongation adjustments. \n5. Heat Treatment \n5 .1 All plates of Grade A and plates of Grades B and C over \n1 \u00bd in. [40 mm] in thickness shall be nonnalized. \n5-2 Plates of Grades Band C, 1 V2 in. [40 mm] and under in \nthickness, are normally supplied in the as-rolled condition. The \nplates may be ordered normalized or stress relieved, or both. \n6. Chemical Requirements \n6.1 The steel shall confonn to the requirements as to \nchemical composition given in Table 1 unless otherwise \nmodified in accordance with Supplementary Requirement S17, \nVacuum Carbon-Deoxidized Steel, in Specification A20/ \nA20M. \n7. Mechanical Requirements \n7 .1 Tension Test Requirements-The plates, as represented \nby the tension test specimens, shall conform to the require\u00ad\nments given in Table 2. \n8. Keywords \n8.1 carbon steel; carbon steel plate; pressure contammg \nparts; pressure vessel steels; steel plates for pressure vessels \nSUPPLEMENTARY REQUIREMENTS \nSupplementary requirements shall not apply unless specified in the purchase order. A list of \nstandardized supplementary requirements for use at the option of the purchaser is included in \nSpecification A20/ A20M. Those that are considered suitable for use with this specification are listed \nbelow by title. \nS 1. Vacuum Treatment, \nS2. Product Analysis, \nS3. Simulated Post-Weld Heat Treatment of Mechanical \nTest Coupons, \nS4. l Additional Tension Test, \nS5. Charpy V-Notch Impact Test (see Appendix Xl), \nS6. Drop Weight Test (for Material 0.625 in. [16 mm] and \nover in Thickness), \nSS. Ultrasonic Examination in accordance with Specifica\u00ad\ntion A435/A435M, \nS9. Magnetic Particle Examination, \nSll. Ultrasonic Examination in accordance with Specifica\u00ad\ntion A577/A577M, \nSl2. Ultrasonic Examination in accordance with Specifica\u00ad\ntion A578/ A578M, and \nS17. Vacuum Carbon-Deoxidized Steel. \n1079 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1171.json",
+  "tabulaTablesCsv": "tables_tabula/page-1171.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-1171.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2776,
+  "bestTextAlphaRatio": 0.6455
+}

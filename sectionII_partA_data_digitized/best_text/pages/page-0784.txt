@@ -1,0 +1,86 @@
+SA-449 ASME BPVC.II.A-2025 
+TABLE 4 Tensile Load Requirements for Coarse-Thread Full-Size Hex Cap Screws, Bolts and Studs 
+Alternative Proof Load, Bolt or Stud Proof Load, Length Threads per in.A Stress Area, 8 in. 2 Tensile Load, min, Ible Yield Strength Method Diameter, in. Measurement Method, Jbfc (0.2 % Offset), /bfc 
+Column 1 Column 2 Column 3 Column 4 Column 5 Column 6 
+¼ 20 0.0318 3 800 2 700 2 900 
+5f1a 18 0.0524 6 300 4 450 4 800 
+% 16 0.0775 9 300 6 600 7 100 
+7 /ia 14 0.1063 12 750 9 050 9 800 
+½ 13 0.1419 17 050 12 050 13 050 
+9/1e 12 0.182 21 850 15 450 16 750 
+% 11 0.226 27 100 19 200 20 800 
+¾ 10 0.334 40 100 28 400 30 700 
+7/s 9 0.462 55 450 39 250 42 500 
+8 0.606 72 700 51 500 55 750 
+11/s 7 0.763 80 100 56 450 61 800 
+1¼ 7 0.969 101 700 71 700 78 500 
+1% 6 1.155 121 300 85 450 93 550 
+1½ 6 1.405 147 500 104 000 113 800 
+1¾ 5 1.90 171 000 104 500 110 200 
+2 4½ 2.50 225 000 137 500 145 000 
+2¼ 4½ 3.25 292 500 178 750 188 500 
+2½ 4 4.00 360 000 220 000 232 000 
+2¾ 4 4.93 443 700 271 150 286 000 
+3 4 5.97 537 300 328 350 346 200 
+A For 8 threads per in., sizes 11/s to 1½ in., inclusive, stresses of 105 000 psi, 74 000 psi, and 81 000 psi shall be used for calculating the values in columns 4, 5, and 
+6 respectively. 
+8 The stress area is taken from ASME B1 .1 which uses the equation below to calculate the values: 
+As= 0.7854[ D - (0.9743/n)] 2 
+where: 
+A. = stress area, 
+D = nominal diameter, and 
+n = threads per in. 
+c Values tabulated are based on the following: 
+Bolt Size, in. 
+¼to 1, incl. 
+11/s to 1 ½, incl. 
+1¾to 3, incl. 
+Column 4, psi 
+120 000 
+105 000 
+90 000 
+shall identify and maintain the integrity of each lot from raw 
+material selection through all operations and treatments to final 
+packing and shipment. Each lot shall be assigned its own 
+lot-identification number, each lot shall be tested, and the 
+inspection test reports for each lot shall be retained. 
+10.4 Lot Definition: 
+10.4.1 Standard Lot-A lot shall be a quantity of uniquely 
+identified fasteners of the same nominal size and length 
+produced consecutively at the initial operation from a single 
+mill heat of material and processed at one time, by the same 
+processor in the same manner so that statistical sampling is 
+valid. The identity of the lot and lot integrity shall be 
+maintained throughout all subsequent operations and packag­
+ing. 
+10.5 Number of Tests-The minimum number of tests from 
+each lot for the tests specified below shall be as follows: 
+Column 5, psi 
+85 000 
+74 000 
+55 000 
+Tests 
+Hardness, tensile strength, proof load 
+Coating weight/thickness 
+Surface discontinuities 
+Dimensions and thread fit 
+Column 6, psi 
+92 000 
+81 000 
+58 000 
+Number of Tests 
+in Accordance With 
+Guide F1470 
+The referenced coating specificationA 
+Specification F788/F788M 
+ASME B18.2.1 
+A Guide F1470 if the coating specification does not specify a testing frequency. 
+11. Test Methods 
+11.1 Tensile, proof load, and hardness tests shall be con­
+ducted in accordance with Test Methods F606. 
+11.2 Tensile strength for hex cap screws and hex and square 
+bolts shall be determined using the wedge or axial tension 
+testing method of full size product method or the machined test 
+specimens method depending on size and length as specified in 
+7.2.2-7.2.6. Bolts with heads other than hex or square shall be 
+734 

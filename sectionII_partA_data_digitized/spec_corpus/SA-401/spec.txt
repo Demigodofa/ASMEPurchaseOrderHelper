@@ -1,0 +1,379 @@
+=== Page 717 ===
+
+ASME BPVC.ILA-2025 SA-401/SA-401M
+
+SPECIFICATION FOR STEEL WIRE, CHROMIUM-SILICON
+ALLOY
+
+CxS SA-401/SA-401M diy
+
+(TIONAL
+'® Standars Worswiae
+
+(Identical with ASTM Specification A401/A401M-18.)
+
+667
+
+=== Page 718 ===
+
+SA-401/SA-401M ASME BPVC.II.A-2025 
+Specification for 
+Steel Wire, Chromium-Silicon Alloy 
+1. Scope 
+1. 1 This specification covers round and shaped chromium­
+silicon alloy steel spring wire having properties and quality 
+intended for the manufacture of springs resistant to set when 
+used at moderately elevated temperatures. This product is not 
+meant to be used for non-static applications involving moder­
+ate fatigue stresses ( see Specification A 1000/ A 1000M) or high 
+cycle fatigue applications (see Specification A877/A877M). 
+This wire shall be provided either in the annealed and 
+cold 0 drawn or quench and tempered condition as specified by 
+the purchaser. 
+1.2 The values stated in either SI units or inch-pound units 
+are to be regarded separately as standard. The values stated in 
+each system may not be exact equivalents; therefore, each 
+system shall be used independently of the other. Combining 
+values from the two systems may result in non-conformance 
+with the standard. 
+1.2.1 Within the text, the inch-pound units are shown in 
+brackets. 
+1.3 This international standard was developed in accor­
+dance with internationally recognized principles on standard­
+ization established in the Decision on Principles for the 
+Development of International Standards, Guides and Recom­
+mendations issued by the World Trade Organization Technical 
+Barriers to Trade (TBT) Committee. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+A370 Test Methods and Definitions for Mechanical Testing 
+of Steel Products 
+A510/A510M Specification for General Requirements for 
+Wire Rods and Coarse Round Wire, Carbon Steel, and 
+668 
+A 700 Guide for Packaging, Marking, and Loading Methods 
+for Steel Products for Shipment 
+A751 Test Methods, Practices, and Terminology for Chemi­
+cal Analysis of Steel Products 
+A877 / A877M Specification for Steel Wire, Chromium­
+Silicon Alloys, Chrome-Silicon-Vanadium Alloy Valve 
+Spring Quality 
+A941 Terminology Relating to Steel, Stainless Steel, Related 
+Alloys, and Ferroalloys 
+AlO00/AlO00M Specification for Steel Wire, Carbon and 
+Alloy Specialty Spring Quality 
+E8/E8M Test Methods for Tension Testing of Metallic Ma­
+terials 
+E29 Practice for Using Significant Digits in Test Data to 
+Determine Conformance with Specifications 
+3. Terminology 
+3.1 Definitions: 
+3.1.1 For definitions of terms used in this specification, see 
+Terminology A941. 
+3.2 Definitions of Terms Specific to This Standard: 
+3.2.1 equivalent round diameter, n-diameter of a round 
+wire having equivalent cross sectional area to a given shaped 
+wire. 
+3.2.2 round wire, n-wire having a circular cross section. 
+3.2.3 shape factor, n-this value is used to obtain cross 
+sectional area for shaped wires when multiplied by measured 
+width and thickness. 
+3.2.4 shaped wire, n-wire having a non-circular cross 
+section. 
+4. Ordering Information 
+4.1 It shall be the responsibility of the purchaser to specify 
+all requirements that are necessary for material under this 
+specification. Such requirements may include, but are not 
+limited to, the following: 
+4.1.1 Quantity (mass), 
+4.1.2 Name of material (chromium-silicon alloy steel wire), 
+4.1.3 Dimensions (Table 1 and Section 9), 
+4.1.4 Condition (Section 7), and 
+4.1.5 ASTM designation and year of issue. 
+4.2 The purchaser shall have the option to specify additional 
+requirements, including but not limited to:
+
+=== Page 719 ===
+
+ASME BPVG.ILA-2025 SA-401/SA-401M
+—_ TABLE 1 Tensile Requirements 4.2.3 Other special requirements, if any.
+SI Units Footnote 1—A typical ordering description is as follows: 20 000-kg,
+Diameter? mm MPa. min MPa. max Reduction of quench and tempered chromium-silicon alloy steel wire, size 6.00 mm in
+, , , Area, min, %°? 150 kg coils to ASTM A401/A401M dated , or for inch-pound units,
+40 000-Ib quench and tempered chromium-silicon alloy steel spring wire,
+0.80 2080 2260 vee size 0.250 in. in 350-Ib coils to ASTM A401/A401M dated ;
+0.90 2070 2250 Les
+1.00 2060 2240 a .
+140 5040 3990 - 5. Materials and Manufacture
+150 On eo ve 5.1 The steel may be made by any commercially accepted
+460 1980 2160 ve steel making process. The steel may be either ingot cast or
+1.80 1960 2140 a strand cast.
+2.00 1940 2120 Les ; ; ; ;
+290 4920 2400 5.2 The finished wire shall be free from detrimental pipe
+2.50 1900 2080 45 and undue segregation.
+2.80 1880 2060 45 , :
+3.00 1860 2040 45 . wis
+— 350 ape 3020 40 6. Chemical Composition
+| eo hie Oe 10 6.1 The steel shall conform to the requirements of Grade
+5.00 1780 4960 40 9254 for chemical composition specified in Table 2.
+an a0 to00 40 6.2 Heat Analysis—Each heat of steel shall be analyzed to
+6.50 1720 1900 40 determine the percentage of elements prescribed in Table 2.
+7.00 1700 1880 40 This analysis shall be made from a test specimen preferably
+500 te60 toa0 is taken during the pouring of the heat. When requested, this shall
+10.00 1640 1820 40 be reported to the purchaser and shall conform to the require-
+11.00 1620 1800 35 ments of Table 2.
+12.0 1600 1780 35
+13.0 1580 1760 30 6.3 Product Analysis—An analysis may be made by the
+iso 40 ao 5 purchaser from finished wire representing each heat of steel.
+16.0 1550 4730 30 The chemical composition thus determined, as to elements
+17.0 1540 1720 30 required or restricted, shall conform to the product analysis
+, 18.0 30 ISOs requirements in Table 4 of Specification A510/A510M.
+- Inch-Pound Units .
+. 6.4 For referee purposes, Test Methods, Practices, and
+Diameter, in. ksi, min ksi, max Reduct ion of Terminology A751 shall be used.
+Area, min, %~
+0.032 300 325 a 7. Mechanical Properties
+0.041 298 323 a ;
+0.054 992 317 _ 7.1 Annealed and Cold Drawn—When purchased in the
+0.062 290 315 Lae annealed and cold-drawn condition, the wire shall have been
+092 aoa Soe “5 given a sufficient amount of cold working to meet the purchas-
+0.120 9075 300 45 er’s coiling requirements and shall be in a suitable condition to
+0.135 270 295 40 respond properly to heat treatment. In special cases the
+0.162 265 290 40 hardness or tensile strength, if desired, shall be stated in the
+0.177 260 285 40 ;
+0.192 260 283 40 purchase order.
+0.219 255 278 40
+0.250 950 975 AO 7.2 Quench and Tempered—When purchased in the quench
+0.312 245 270 40 and tempered condition, the tensile strength and minimum
+ees one aoe ae percent reduction of area shall conform to the requirements
+ye 0.500 230 OBE 35 prescribed in Table 1. Tensile strength of shaped wires shall
+0.562 228 253 30 conform to this table based on the conversion to equivalent
+eos on oo sO round dimensions.
+et 7.2.1 Number of Tests—One test specimen shall be taken for
+A Tensile strength values for intermediate diameters shall be interpolated. each ten coils. or fraction thereof. in a lot. Each heat in a giv en
+® Preferred sizes. ’ , ,
+© The reduction of area test is not applicable to wire under 2.34 mm [0.092 in.] in lot shall be tested. |
+diameter. For intermediate wire diameters, the reduction of area requirement shall
+be that of the next larger wire.
+D« _.” Indicates no minimum requirement. TABLE 2 Chemical Requirements
+UNS Designation G92540 Grade No. 9254
+Ranges and Limits, %
+4.2.1 Requirements for certifications, heat analysis or test Carbon Manga- Phosphorus, Sulfur, Silicon Chro-
+reports (6.2 and Section 14), ——_______fese mae mae mm
+4.2.2 Special packing, marking, and loading requirements 951959 060-080 _—0.035 0.040 1,201.60 _0.80-0.80
+\ (Section 15), and TO
+NS
+669
+
+=== Page 720 ===
+
+SA-401/SA-401M ASME BPVC.II.A-2025 
+7.2.2 Location of Tests-It shall be permissible to take test 
+specimens from either end of the coil. 
+7.2.3 Test Method-The tension test shall be made in 
+accordance with Test Methods and Definitions A370. For 
+shaped wires, cross sectional area shall be calculated either by 
+using the procedure in Test Methods E8/E8M for uniform but 
+nonsymmetrical cross-sections, or by measuring width and 
+thickness and multiplying by a shape factor. Reduction of area 
+for shaped wires shall be calculated by using this shape factor. 
+Measure the maximum and minimum dimension on the necked 
+down section and multiply by the shape factor to estimate the 
+cross sectional area for use in the standard reduction of area 
+calculation. 
+7.2.4 Upon agreement between purchaser and supplier, the 
+shape factor for the cross section design provided by the wire 
+mill shall be permissible to be adopted for use. In other 
+situations, if the shape factor is not available from the wire 
+mill, the shape factor shall be calculated by measuring the 
+cross sectional area in accordance with Test Methods E8/E8M 
+and dividing by the width and thiclmess. 
+7.3 Wrap Test: 
+7.3.1 Quench and tempered or cold drawn wire 4.00 mm 
+[0.157 in.] and smaller in diameter shall wind on itself as an 
+arbor without breakage. Larger diameter wire up to and 
+including 8.00 mm [0.315 in.] in diameter shall wrap without 
+breakage on a mandrel twice the wire diameter. The wrap test 
+is not applicable to wire over 8.00 mm [0.315 in.] in diameter 
+or to shaped and flat rolled wires. 
+7.3.2 Number of Tests-One test specimen shall be taken for 
+each 10 coils, or fraction thereof, in a lot. Each heat in a given 
+lot shall be tested. 
+7.3.3 Location of Test-It shall be permissible to take test 
+specimens from either end of the coil. 
+7.3.4 Test Method-The wrap test shall be made in accor­
+dance with Test Methods and Definitions A370. 
+8. Metallurgical Requirements 
+8.1 Surface Condition: 
+8.1.1 On the whole, the surface of the wire as received shall 
+be free of rust and excessive scale. Based upon examination of 
+end specimens, no serious die marks, scratches, or other 
+continuous surface imperfections shall be present. Based upon 
+examination of etched-end specimen, seams shall not exceed 
+3.5 % of the wire diameter, or 0.25 mm [0.010 in.], whichever 
+is the smaller as measured on a transverse section. 
+8.1.2 Number of Tests-For the purpose of examination of 
+etched-end specimens, one test specimen shall be taken for 
+each 10 coils, or fraction thereof, in a lot. Each cast or heat in 
+a given lot shall be tested. 
+8.1.3 Location of Test-Test specimens shall be taken from 
+either or both ends of the coil. 
+8.1.4 Test Method-The surface shall be examined after 
+etching in a solution of equal parts of hydrochloric acid and 
+water that has been heated to approximately 80°C for up to two 
+minutes in order to remove the oxide scale layer from the wire 
+surface. Test ends shall be examined using lOx magnification. 
+Any specimens showing the presence of a questionable surface 
+imperfection shall have a transverse section taken from the 
+670 
+unetched area, properly mounted and polished and examined to 
+measure the depth of the smface imperfection. 
+8.2 Decarburization: 
+8.2.1 The depth of complete decarburization (free ferrite) 
+shall not exceed 0.75 % of the equivalent round wire diameter. 
+The total affected depth (free ferrite plus partial decarburiza­
+tion) shall not exceed 2.0 % of the equivalent round wire 
+diameter on all sizes of wire. 
+8.2.2 Test Method-Decarburization shall be determined by 
+etching a suitably polished transverse section of wire with 
+nital. The entire periphery to be examined should be in a single 
+plane with no edge rounding. 
+8.2.3 The entire periphery shall be examined at a magnifi­
+cation of no less than lO0x for depth of free ferrite and total 
+affected depth. Smaller wire sizes may require higher magni­
+fication. Measure the worst area present excluding decarbur­
+ization associated with any surface imperfections. Complete 
+decarburization exists when only free ferrite is present. Partial 
+decarburization exists when ferrite is found mixed with pearlite 
+or tempered martensite. Structures of 100 % tempered marten­
+site shall be defined as not decarburized. 
+8.2.4 Decarburization shall be checked on annealed wire by 
+giving a wire sample an austenitize, oil quench and temper heat 
+treatment. A flat shall be ground on the test sample prior to heat 
+treatment. The flat shall have a minimum width equal to one 
+half of the wire diameter. Any decarburization visible on this 
+ground section shall necessitate a retest with new samples. If 
+no decarburization is visible on the ground flat, evaluate the 
+complete wire section in accordance with 8.2.3. 
+9. Dimensions and Permissible Variations 
+9 .1 The permissible variations in the diameter of the wire 
+shall be as specified in Table 3. Any definition of shaped 
+tolerances shall be agreed upon by the producer and the 
+purchaser. 
+10. Workmanship, Finish, and Appearance 
+10.1 Annealed and Cold Drawn-The wire shall not be 
+kinked or improperly cast. To test for cast, a few convolutions 
+of wire shall be cut loose from the coil and placed on a flat 
+TABLE 3 Permissible Variations in Wire Diameter4 
+Diameter 
+0.80 to 2.00, incl 
+Over 2.00 to 11.0, incl 
+Over 11.00 
+Diameter 
+0.032 to 0.075, incl 
+Over 0.075 to 0.438, incl 
+Over 0.438 
+SI Units 
+Permissible Permissible Out-
+Variations, ±mm of-Round 
+0.03 0.03 
+0.05 0.05 
+0.07 0.07 
+Inch-Pound Units 
+Permissible 
+Variations, +in. 
+0.001 
+0.002 
+0.003 
+Permissible Out­
+of-Round 
+0.001 
+0.002 
+0.003 
+A For purposes of determining conformance with this specification, all specified 
+limits are absolute as defined in Practice E29.
+
+=== Page 721 ===
+
+ASME BPVC.II.A-2025 SA-401/SA-401M 
+surface. The wire shall lie substantially flat on itself and not 
+spring up nor show a wavy condition. 
+10.2 Quench and Tempered-The wire shall be uniform in 
+quality and temper and shall not be wavy or crooked. 
+10.3 Each coil shall be one continuous length of wire 
+properly coiled. Welds made prior to cold drawing are permit­
+ted. If unmarked welds are unacceptable to the purchaser, 
+special arrangements should be made with the manufacturer at 
+the time of the purchase. 
+11. Retests 
+11.1 If any tested specimen exhibits an obvious defect or 
+condition of non-conformance that is not representative of the 
+coil from which it was collected, or shows the presence of a 
+weld, it shall be discarded and another specimen substituted. 
+11.2 If any tested specimen exhibits an obvious defect or 
+condition of non-conformance that is representative of a 
+portion of the coil from which it was collected, the manufac­
+turer shall remove from the coil the portion containing the 
+obvious defect or condition of non-conformance before col­
+lecting another test specimen from the coil for the purpose of 
+retesting. 
+12. Inspection 
+12.1 Unless otherwise specified in the contract or purchase 
+order, the manufacturer is responsible for the performance of 
+all inspection and test requirements specified in this specifica­
+tion. Except as otherwise specified in the contract or purchase 
+order, the manufacturer may use his own or any other suitable 
+facilities for the performance of the inspection and test 
+requirements unless disapproved by the purchaser at the time 
+the order is placed. The purchaser shall have the right to 
+perform any of the inspections and tests set forth in this 
+specification when such inspections and tests are deemed 
+necessary to assure that the material conforms to prescribed 
+requirements. 
+13. Rejection and Rehearing 
+13 .1 Unless otherwise specified, any rejection based on tests 
+made in accordance with these specifications shall be reported 
+to the manufacturer as soon as possible so that an investigation 
+may be initiated. 
+13.2 The material must be adequately protected and cor­
+rectly identified in order that the manufacturer may make a 
+proper investigation. 
+14. Certification 
+14.1 When specified in the purchase order or contract, a 
+manufacturer's or supplier's certification shall be furnished to 
+the purchaser that the material was manufactured, sampled, 
+tested, and inspected in accordance with this specification and 
+has been found to meet the requirements. When specified in the 
+purchase order or contract, a report of the test results shall be 
+furnished. 
+14.2 The certification shall include the specification 
+number, year date of issue, and revision letter, if any. 
+15. Packaging, Marking, and Loading for Shipment 
+15.1 The coil mass, dimensions, and the method of packag­
+ing shall be agreed upon between the manufacturer and 
+purchaser. 
+15 .2 The size of the wire, purchaser's order number, ASTM 
+specification number, heat number, and name or mark of the 
+manufacturer shall be marked on a tag securely attached to 
+each coil of wire. 
+15.3 Unless otherwise specified in the purchaser's order, 
+packaging, marking, and loading for shipments shall be in 
+accordance with those procedures recommended by Practices 
+A700. 
+671 
+16. Keywords 
+16.1 annealed chromium-silicon alloy; springs; tempered; 
+wire
+
+=== Page 723 ===
+
+ASME BPVC.II.A-2025 
+SPECIFICATION FOR WROUGHT AUSTENITIC 
+STAINLESS STEEL PIPING FITTINGS 
+SA-403 /SA-403M 
+SA-403 /SA-403M 
+(Identical with ASTM Specification A403/A403M-19a except for the deletion of 5.14 and 5.15, clarified heat treatment 
+requirements in 6.1 and 6.4, and the deletion of requirements for Grades 321 and 321H in Table 5. For welded with 
+filler metal products ordered to Section III, Division 1 of the ASME Boiler and Pressure Vessel Code, Supplementary 
+Requirement S3 is mandatory.) 
+673

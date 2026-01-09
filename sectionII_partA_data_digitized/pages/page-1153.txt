@@ -1,0 +1,155 @@
+ASME BPVC.II.A-2025 SA-645/SA-645M 
+1400°F [690 to 760°C], held within that temperature range for 
+a minimum of 1 h/in. [2.4 min/mm] of thickness, but in no case 
+less than 15 min, and then water-quenched to below 300°F 
+[150°C]. 
+5.2.3 Tempering-The plates shall be reheated to a tempera­
+ture within the range from 1150 to 1225°F [620 to 665°C], held 
+within that temperature range for a minimum of 1 h/in. [2.4 
+min/mm] of thickness, but in no case less than 15 min, and then 
+water-quenched or air cooled to below 300°F [150°C]. 
+5.3 Grade B, Procedure and Sequence: 
+5.3.1 Hardening-The plates shall be heated to a tempera­
+ture within the range from 1470 to 1600°F [800 to 870°C], held 
+within that temperature range for a sufficient time to obtain 
+uniform temperature throughout the plate thickness, and then 
+quenched in a liquid medium. 
+5.3.2 Intermediate Heat Treatment-The plates shall be 
+reheated to a temperature within the range from 1200 to 
+1330°F [650 to 720°C], held within that temperature range for 
+a minimum of 1 h/in. [2.4 min/mm] of thickness, but in no case 
+less than 15 min, and then water-quenched to below 300°F 
+[150°C] for nominal plate thicknesses over 5/s in. [16 mm], or 
+cooled in air or water-quenched to below 300°F [150°C] for 
+nominal plate thicknesses of 5 /s in. [16 mm] and under. 
+5.3.3 Tempering-The plates shall be reheated to a tempera­
+ture within the range from 1020 to ll50°F [550 to 620°C], held 
+within that temperature range for a minimum of 30 min/in. [1.2 
+min/mm] of thickness, but in no case less than 15 min, and then 
+water-quenched to below 300°F [150°C]. 
+6. Chemical Requirements 
+6.1 The steel shall conform to the chemical requirements 
+given in Table 1 unless otherwise modified in accordance with 
+Supplementary Requirement Sl7, Vacuum Carbon-Deoxidized 
+Steel, in Specification A20/ A20M. 
+7. Mechanical Requirements 
+7 .1 Tension Tests-The plates as represented by the tension 
+test specimens shall confonn to the requirements given in 
+Table 2. 
+7.1.1 For nominal plate thicknesses of¾ in. [20 mm] and 
+under, the 1 ½ in. [ 40 mm] wide rectangular specimen may be 
+used for the tension test, and the elongation may be detennined 
+in a 2 in. [50 mm] gage length that includes the fracture and 
+that shows the greatest elongation. 
+7.2 Impact Tests: 
+7 .2.1 Charpy V-notch tests shall be made in accordance with 
+the general requirements of Specification A20/ A20M. 
+7 .2.2 The longitudinal axis of the test specimens shall be 
+transverse to the final direction of rolling of the plate. 
+7.2.3 Unless otherwise agreed, the plates shall be impact 
+tested at the following temperatures: 
+TABLE 1 Chemical Requirements 
+Element 
+Composition, % 
+Carbon, max 
+Heat Analysis 
+Produce Analysis 
+Manganese 
+Heat Analysis 
+Product Analysis 
+Phosphorus, max 
+Heat Analysis 
+Product Analysis 
+Sulfur, max 
+Heat Analysis 
+Product Analysis 
+Silicon 
+Heat Analysis 
+Product Analysis 
+Nickel 
+Heat Analysis 
+Product Analysis 
+Chromium 
+Heat Analysis 
+Product Analysis 
+Molybdenum 
+Heat Analysis 
+Product Analysis 
+Aluminum, total 
+Heat Analysis 
+Product Analysis 
+Nitrogen, max 
+Heat Analysis 
+Product Analysis 
+Grade A 
+0.13 
+0.15 
+0.30-0.60 
+0.25-0.66 
+0.025 
+0.025 
+0.025 
+0.025 
+0.20-0.40 
+0.18-0.45 
+4.8-5.2 
+4.7-5.3 
+0.20-0.35 
+0.17-0.38 
+0.02-0.12 
+0.01-0.16 
+0.020 
+0.025 
+Grade B 
+0.13 
+0.15 
+0.90-1.50 
+0.84-1.59 
+0.020 
+0.025 
+0.010 
+0.015 
+0.15-0.30A 
+0.13-0.33A 
+5.0-6.0 
+4.9-6.1 
+0.10-1.00 
+0.06-1.05 
+0.10-0.30 
+0.09-0.33 
+0.02-0.05 
+0.015-0.06 
+0.010 
+0.010 
+A The specified minimum limit does not apply if the total aluminum is 0.030 % or 
+more, ore if the acid soluble aluminum content is 0.025 % or more. 
+TABLE 2 Tensile Requirements 
+Yield strength, min, ksi [MPa]A 
+Tensile strength, ksi [MPa] 
+Elongation in 2 in. [50 mm], 
+min 1 % 8 
+Grade A 
+65 [450) 
+95-115 [655 to 
+795] 
+20.0 
+Grade B 
+85 [590) 
+100-120 
+[690-830] 
+20 
+A At 0.2 % offset, or, if agreed between the purchaser and the manufacturer, at 0.5 
+% extension under load. 
+8 See Specification A20/A20M for elongation adjustment. 
+7.2.3.1 Grade A: -220°F [-140°C]. 
+7.2.3.2 Grade B: -320°F [-195°C]. 
+7 .2.4 Each specimen shall have a lateral expansion opposite 
+the notch of not less than 0.015 in. [0.38 mm]. 
+7.2.5 The values of energy absorption in foot-pounds-force 
+[joules] and the fracture appearance in percent shear shall be 
+recorded and reported for information. 
+8. Keywords 
+8.1 alloy steel; alloy steel plate; pressure containing parts; 
+pressure vessel steels; steel plates; steel plates for pressure 
+vessel applications 
+1059 

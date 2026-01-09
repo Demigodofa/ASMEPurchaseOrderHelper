@@ -1,0 +1,120 @@
+\ 
+~, 
+ASME BPVC.II.A-2025 SA-832/SA-832M 
+TABLE 1 Tensile Requirements 
+Tensile strength, ksi, [MPa] 85-110 [585-760] 
+Yield strength, min, ksi, [MPa] 60 [415] 
+Elongation in 2 in. [50 mm], min, %A 18 
+Reduction of area, min, % 45B 
+40c 
+A See Specification A20/A20M for elongation adjustments. 
+B Measured on round specimen. 
+c Measured on flat specimen. 
+4.2 Steelmaking Practice-The steel shall be killed and 
+shall conform to the fine grain size requirement of Specifica­
+tion A20/ A20M. 
+5. Heat Treatment 
+5.1 All plates shall be normalized and tempered except as 
+allowed by 5.2. The minimwn normalizing temperature for 
+Grade 22V shall be 1650°F [900°C]. The minimum normaliz­
+ing temperature for Grade 23V shall be 1850°F [1010°C]. The 
+minimwn tempering temperature shall be 1250°F [675°C]. 
+5.2 Plates ordered without the heat treatment required by 
+5.1 shall be furnished in either the stress-relieved or the 
+annealed condition. Heat treatment of plates so ordered, to 
+conform to 5.1 and to Table 1, shall be the responsibility of the 
+purchaser. 
+6. Chemical Composition 
+6.1 The steel shall conform to the requirements as to 
+chemical composition shown in Table 2. 
+7. Mechanical Properties 
+7.1 Tension Test Requirements: 
+7.1.1 The material as represented by the tension test speci­
+mens shall conform to the requirements of Table 1. 
+7.2 Notch Toughness Requirements: 
+7.2.1 A transverse Charpy V-notch test from each plate as 
+heat-treated shall have a minimum energy absorption value of 
+40 ft•lbf [54 J] average of three specimens and 35 ft·lbf [48 J] 
+for one specimen only in the set. 
+7 .2.2 The notch toughness test temperature shall be 0°F 
+[-l8°C]. 
+8. Keywords 
+8.1 alloy steel plates; pressure containing parts; pressure 
+vessel steels; steel plates; steel plates for pressure vessel 
+applications 
+TABLE 2 Chemical Requirements 
+NoTE I-Where'' ... " appears there is no requirement. 
+Element 
+Composition, % 
+Grade 21V Grade 22V 
+Carbon 
+Heat analysis 0.10--0.15 0.11--0.15 
+Product analysis 0.08-0.18 0.09--0.18 
+Manganese 
+Heat analysis 0.30--0.60 0.30--0.60 
+Product analysis 0.25-0.66 0.25-0.66 
+Phosphorus, max 0.025A 
+Heat analysis 0,015 
+Product analysis 0.020 
+Sulfur, max 0.025A 
+Heat analysis 0.010 
+Product analysis 0.015 
+Silicon, max 
+Heat analysis 0.10 0.10 
+Product analysis 0.13 0.13 
+Chromium 
+Heat analysis 2.75-3.25 2.00-2.50 
+Product analysis 2.63-3.37 1.88-2.62 
+Molybdenum 
+Heat analysis 0.90--1.10 0.90-1.10 
+Product analysis 0.85-1.15 0.85-1.15 
+Vanadium 
+Heat analysis 0.20--0.30 0.25-Q.35 
+Product analysis 0.18--0.33 0.23--0.37 
+Titanium 
+Heat analysis 0.015-Q.035 0.030, max 
+Product analysis 0.005:-().045 0.035, max 
+Boron 
+Heat analysis 0.001--0.003 0.0020, max 
+Product analysis NAB NA 8 
+Copper, max 
+Heat analysis 0.20 
+Product analysis 0.23 
+Nickel, max 
+Heat analysis 0.25 
+Product analysis 0.28 
+Columbium (Niobium), c 
+max 
+Heat analysis 0.07 
+Product analysis 0.08 
+Calcium, max 0 
+Heat analysis 0,015 
+Product analysis 0.020 
+A Applies to both heat analysis and product analysis. 
+B NA = Not Applicable. 
+Grade 23V 
+0.10-0.15 
+0.08-0.18 
+0.30-0.60 
+0.25--0.66 
+0.025A 
+... 
+0.o1oA 
+0.10 
+0.13 
+2.75-3.25 
+2.6$-3.37 
+0.90-1.10 
+0.85-1.15 
+0.20-0.30 
+0.18-0.33 
+0.015-0.070 
+0.010-0.075 
+0.0005--0.o150 
+NAB 
+c Columbium and niobium are interchangeable names for the same element and 
+both names are acceptable for use in A01 specifications. 
+0 Rare earth metals (REM) may be added in place of calcium, subject to 
+agreement between the producer and the purchaser. In that case, the total amount 
+of REM shall be determined and reported. 
+1341 

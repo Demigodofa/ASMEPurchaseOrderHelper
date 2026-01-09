@@ -1,0 +1,37 @@
+WPB,,W (Welded construction),WPBWA
+,,S (Seamless construction),WPB
+WPC,,W (Welded construction),WPCWA
+,,S (Seamless construction),WPC
+WP1,,W (Welded construction),WP1WA
+,,S (Seamless construction),WP1
+WP12,CL1,W (Welded construction),WP12 CL1WA
+,,S (Seamless construction),WP12 CL1
+,CL2,W (Welded construction),WP12 CL2WA
+,,S (Seamless construction),WP12 CL2
+WP11,CL1,W (Welded construction),WP11 CL1WA
+,,S (Seamless construction),WP11 CL1
+,CL2,W (Welded construction),WP11 CL2WA
+,,S (Seamless construction),WP11 CL2
+,CL3,W (Welded construction),WP11 CL3WA
+,,S (Seamless construction),WP11 CL3
+WP22,CL1,W (Welded construction),WP22 CL1WA
+,,S (Seamless construction),WP22 CL1
+,CL3,W (Welded construction),WP22 CL3WA
+,,S (Seamless construction),WP22 CL3
+WP5,CL1,W (Welded construction),WP5 CL1WA
+,,S (Seamless construction),WP5CL1
+,CL3,W (Welded construction),WP5 CL3 WA
+,,S (Seamless construction),WP5 CL3
+WP9,CL1,W (Welded construction),WP9 CL1 WA
+,,S (Seamless construction),WP9 CL1
+,CL3,W (Welded construction),WP9 CL3WA
+,,S (Seamless construction),WP9 CL3
+WPR,,W (Welded construction),WPRWA
+,,S (Seamless construction),WPR
+WP91 Type 1,,W (Welded construction),WP91T1WA
+,,S (Seamless construction),WP91T1
+WP91 Type 2,,W (Welded construction),WP91T2WA
+,,S (Seamless construction),WP91T2
+WP92,,W (Welded construction),WP92WA
+,,S (Seamless construction),WP92
+WP115,,W (Welded construction),WP115WA

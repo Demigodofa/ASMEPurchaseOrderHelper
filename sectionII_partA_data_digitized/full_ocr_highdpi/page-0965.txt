@@ -1,0 +1,70 @@
+ASME BPVCGILA-2025 SA-513/SA-513M (ASTM A513/A513M) :
+
+—_ , , APPENDIX :
+| | (Nonmandatory Information)
+X1. MEASURING MICROINCH FINISH .
+
+X1.1 The procedure for making microinch readings on X1.1.6 The numerical rating shall be the arithmetical aver- -
+
+interior surfaces of cold worked tubing (not polished or age microinch of all readings taken. Each reading to be
+
+ground) '2-in. [12.7-mm] inside diameter and larger is as § averaged should be the mean position of the indicator during
+
+follows: the trace; any momentary meter excursions occupying less than
+
+X1.1.1 Measurements on tubing with longitudinal or no 10 % of the total race should be ignored. .
+
+predominant lay should be circumferential on the inside X1.1.7 A deviation in numerical rating in various parts of a :
+
+surface of the straight tube, prior to any fabrication, on a plane tube may be expected. Experience to date indicates that a _
+
+_ approximately perpendicular to the tube axis. Measurements variation of about +35 % is normal. |
+on tubing with circumferential lay should be longitudinal. X1.2 Instruments should meet the specifications given in the
+\ X1.1.2 Measurements should be made not less than 1 in. _latest revision of ASME B46.1.
+[25.4 mm] from the end. | :
+
+- X1.3 Mechanical tracing is preferred. If hand tracing is
+
+X1.1.3 Measurements should be made at four positions —_ysed, the speed of trace should not vary by more than +20%
+
+approximately 90° apart or over a complete circumference if from the required to give the appropriate cutoff. The 0.030-in. _
+
+the trace should otherwise overlap. [0.76 mm] roughness width cutoff should be used.
+
+X1.14 ; The length of trace should be in accordance with the X1.4 Microinch [0.0000254 mm] determinations only refer :
+
+latest revision of Section 4.5 of ASME B46.1 (not less than ; at , |
+
+to roughness of areas that do not contain a defect, injurious or ,
+
+0.600 in. [15.24 mm] long). : ; | ;
+
+otherwise. Such defects as seams, slivers, pits, laps, etc., are |
+
+X1.1.5 A minimum of three such measurements should be — subject to ordinary visual inspection in accordance with =
+
+made spaced not less than Y% in. [6.4 mm] apart along the _—applicable specifications or trade customs, and have no rela- ,
+
+7 longitudinal axis. tionship to roughness. :
+SUMMARY OF CHANGES |
+Committee AQ1 has identified the location of selected changes to this standard since the last issue, 7
+
+A513/A513M — 20, that may impact the use of this standard. (Approved July 1, 2020.)
+
+(1) Changed 1.3.1 to allow indeterminate wall thicknesses.
+Committee AOt-has-identified-the location-of-selected~changes-to-this specification. since-the-last-issue, ———____
+/ A513/A513M — 19, that may impact the use of this specification. (Approved May 1, 2020.)
+Se (1) Added 1.4 to the Scope to incorporate various grades types §_ (2) Corrected conversion errors in Table $5.1. |
+and thermal conditions. |
+
+Committee AO] has identified the location of selected changes to this specification since the last issue,
+
+A513/A513M — 18, that may impact the use of this specification. (Approved March 1, 2019.) , |
+
+, (1) Corrected seven.conversion errors in Table 10. 0.109 in.
+
+was incorrectly identified as 1.77 mm. |
+
+865 |
+
+|

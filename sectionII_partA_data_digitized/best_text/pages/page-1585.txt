@@ -1,0 +1,130 @@
+ASME BPVC.II.A-2025 SA-1016/SA-1016M 
+to the percentages specified in Table 5 without cracking or 
+showing imperfections rejectable under the provisions of the 
+product specification. 
+23. Flange Test 
+23.1 A section of tube shall be capable of having a flange 
+turned over at a right angle to the body of the tube without 
+cracking or showing imperfections rejectable under the provi­
+sions of the product specification. The width of the flange for 
+carbon and alloy steels shall be not less than the percentages 
+specified in Table 6. For the austenitic grades, the width of the 
+flange for all sizes listed in Table 6 shall be not less than 15 %. 
+24. Hardness Test 
+24.1 For tubes with wall thickness 0.200 in. [5.1 mm] or 
+over, either the Brinell or Rockwell hardness test shall be used. 
+When Brinell hardness testing is used, a 10-mm ball with 3000, 
+1500, or 500-kg load, or a 5-mm ball with 750-kg load shall be 
+used, at the option of the manufacturer. 
+24.2 For tubes with wall thickness 0.065 in. [1.7 mm] or 
+over but less than 0.200 in. [5.1 mm], the Rockwell hardness 
+test shall be used. 
+24.3 For tubes with wall thickness less than 0.065 in. [1.7 
+mm], the hardness test shall not be required. 
+24.4 The Brinell hardness test shall, at the option of the 
+manufacturer, be made on the outside of the tube near the end, 
+on the outside of a specimen cut from the tube, or on the wall 
+cross section of a specimen cut from the tube. This test shall be 
+made so that the distance from the center of the impression to 
+the edge of the specimen is at least 2.5 times the diameter of 
+the impression. 
+24.5 The Rockwell hardness test shall, at the option of the 
+manufacturer, be made on the inside surface, on the wall cross 
+section, or on a flat on. the outside surface. 
+24.6 For tubes furnished with upset, swaged, or otherwise 
+formed ends, the hardness test shall be made as prescribed in 
+24.1 and 24.2 on the outside of the tube near the end after the 
+forming operation and heat treatment. 
+24.7 For welded or brazed tubes, the hardness test shall be 
+made away from the joints. 
+TABLE 5 Flaring Test Requirements 
+Ratio of Inside 
+Diameter to Specified 
+Outside Diameter' 
+0.9 
+0.8 
+0.7 
+0.6 
+0.5 
+0.4 
+0.3 
+Minimum Expansion of Inside Diameter, % 
+Carbon-Molybdenum 
+and Austenitic Steels 
+21 
+22 
+25 
+30 
+39 
+51 
+68 
+Other Ferritic 
+Alloy Steels and 
+Other Stainless Steels 
+15 
+17 
+19 
+23 
+28 
+38 
+50 
+A In determining the ratio of inside diameter to specified outside diameter, the 
+inside diameter shall be defined as the actual mean inside diameter of the material 
+tested. 
+TABLE 6 Flange Requirements 
+Specified Outside Diameter 
+of Tube, in. [mm] Width of Flange 
+To 2½ [63.5], incl 15 % of Specified Outside Diameter 
+Over 2½ to 3¾ [63.5 to 95.2], incl 12½ % of Specified Outside Diameter 
+Over 3¾ to 8 [95.2 to 203.2], incl 10 % of Specified Outside Diameter 
+24.8 When the product specification provides for Vickers 
+hardness, such testing shall be in accordance with Test Method 
+B92. 
+25. Nondestructive Examination 
+25.1 Except as provided in 26.1, each tube shall be exam­
+ined by a nondestructive examination method in accordance 
+with Practice B213, Practice E309 (for ferromagnetic 
+materials), Practice B426 (for non-magnetic materials), or 
+Practice E570. Upon agreement, Practice E273 shall be em­
+ployed in addition to one of the full periphery tests. The range 
+of tube sizes that may be examined by each method shall be 
+subject to the limitations in the scope of that practice. In case 
+of conflict between these methods and practices and this 
+specification, the requirements of this specification shall pre­
+vail. 
+25.2 The following information is for the benefit of the user 
+of this specification. 
+25.2.1 Calibration standards for the nondestructive electric 
+test are convenient standards for calibration of nondestructive 
+testing equipment only. For several reasons, including shape, 
+orientation, width, and so forth, the correlation between the 
+signal produced in the electric test from an imperfection and 
+from calibration standards is only approximate. A purchaser 
+interested in ascertaining the nature (type, size, location, and 
+orientation) of discontinuities that can be detected in the 
+specific application of these examinations should discuss this 
+with the manufacturer of the tubular product. 
+25.2.2 The ultrasonic examination referred to in this speci­
+fication is intended to detect longitudinal discontinuities having 
+a reflective area similar to or larger than the calibration 
+reference notches specified in 25.8. Th.e examination may not 
+detect circumferentially oriented imperfections or short, deep . 
+defects. 
+25.2.3 The eddy current examination referenced in this 
+specification has the capability of detecting significant 
+discontinuities, especially of the short abrupt type. Practices 
+B309 and E426 contain additional information regarding the 
+capabilities and limitations of eddy-current examination. 
+25.2.4 The flux leakage examination referred to in this 
+specification is capable of detecting the presence and location 
+of significant longitudinally or transversely oriented disconti­
+nuities. The provisions of this specification only provide for 
+longitudinal calibration for flux leakage. It should be recog­
+nized that different techniques should be employed to detect 
+differently oriented imperfections. 
+25.2.5 The hydrostatic test referred to in Section 26 is a test 
+method provided for in many product specifications. This test 
+has the capability of finding defects of a size permitting the test 
+fluid to leak through the tube wall and may be either visually 
+seen or detected by a loss of pressure. This test may not detect 
+1531 

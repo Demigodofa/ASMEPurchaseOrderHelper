@@ -1,0 +1,59 @@
+ASME BPVC.ILA-2025 SA-660
+“ 3.1.8 Test report required (Certification Section of Specifi- 8.1.2 Transverse or Longitudinal Tension Test—One test
+: cation A530/A530M), shall be made on a specimen from one end of one length of :
+3.1.9 Specification designation, and pipe representing each heat in each heat-treatment lot.
+3.1.10 Special requirements. 8.2 Flattening Test:
+8.2.1 A flattening test shall be performed when requested by
+4. General Requirements the purchaser or when stated by the purchaser on the order that
+4.1 Material furnished under this specification shall con- ‘he pipe is to be upset, swaged, expanded, bent, or formed by
+form to the applicable requirements of the current edition of | SOMme other operation.
+Specification A530/A530M unless otherwise provided herein. 8.2.2 A flattening test need not be performed on heavy wall
+pipe which is not to be upset, swaged, expanded, bent, or
+5 Materials and Manufacture formed in some other manner. ,
+5.1 Machining: 8.2.3 When required by 8.2, a test shall be made on .
+5.1.1 All centrifugally cast pipe shall have both the inner oA cut from one end of each Tength of pipe. — ; :
+| and outer surfaces machined. 8.2.4 A flattening test when required shall be performed in
+a 5.1.2 After heat treatment, the pipe shall be machined to a accordance with the requirements for seamless and centritu-
+‘ finish with a roughness value no greater than 250 pin. (6.35 gally cast pipe in the Flattening Test Requirements Section of
+. um) arithmetical average deviation (AA), terms as defined in Specification AS30/A530M.
+ANSI B46.1 unless otherwise specified. Nore 1—In heavy-walled small-diameter tubing the flattening test
+5.2 Heat Treatment: specimen may be bored out so that the OD/t ratio will be greater than 11.0.
+5.2.1 All pipe shall receive a heat treatment proper for its 8.3 Hydrostatic Test:
+design and chemical composition. 8.3.1 Each length of pipe shall be hydrostatically tested in
+5.2.2 Castings shall be heat treated after they have been accordance with the Hydrostatic Test Requirements Section of |
+allowed to cool below the transformation range. Specification A530/A530M when requested by the purchaser
+and stated on the order. If performance of the hydrostatic test
+6. Temperature Control is not required by the purchaser, the manufacturer shall .
+6.1 Furnace temperatures for heat treating shall be effec- | guarantee pipe to pass the test and mark each length of pipe
+tively controlled by pyrometers. with the letters “NH” immediately following the specification :
+a number, indicating that the pipe has not been hydrostatically
+7. Chemical Requirements tested, |
+: 7.1 The steel shall conform to the requirements as to 8. 3.2 When required by 8.3, each length of pipe shall be
+chemical composition prescribed in Table 1. subjected to the hydrostatic test. The test pressure shall be
+79 Product Ana lysis: ~ maintained for not less than 5 min.
+7.2.1 At the request of the purchaser, a product analysis 9. Permissible Variation in Wall Thickness
+shall be made by the manufacturer on every heat. e a } /
+7.2.2 The results of these analyses shall be reported to the 9.1 The wall thickness shall not vary over the specified
+purchaser or his representative, and shall conform to the = mum wall thickness by more than 10 %. There shall be no
+requirements specified in Table 1. variation under the specified minimum wall thickness.
+7.2.3 If the analysis of one of the tests specified in 7.2.1 Note 2—A system of standard pipe sizes has been approved by the :
+does not conform to the requirements specified, an analysis of | American National Standards Institute, as ANSI B36.10. This system may :
+each pipe from the same heat may be made, and all pipes _be used for obtaining pipe under this specification.
+. conforming to the requirements shall be accepted. 10. Workmanship and Finish :
+\ 8. Mechanical Requirements 10.1 The pipe shall have a finish as provided in 5.2 and it
+. 8.1 Tensile Properties: shall be reasonably straight and free from injurious defects.
+8.1.1 The material shall conform os the requirements as to —s-_44__ «Rework and Retreatment .
+tensile properties prescribed in Table 2. 11.1 Imperfections—The surface of the casting shall be ,
+inspected visually for cracks and hot tears. These imperfections |
+TABLE 2 Tensile Requirements shall be removed, and their removal verified by visual inspec- :
+a ntantnnneenncennennnenneninenaenenneennenenrnnenecemenne tion of the resultant cavities. Imperfections located by inspect- |
+. WCA WCB wcc , | | |
+ee  ~—s ing: with Supplementary Requirements $7, $8, or S9 shall be |
+aS MPa ks MPa ksi MPa removed or reduced to an acceptable size. ;
+veal etn engi, min 50 Bo ° aa ih ove 11.2 Blending—If removal of the imperfection does not
+a infringe upon the minimum wall thickness, the depression may .
+Elongation nem oF 80 a 22 22 be blended uniformly into the surrounding surface. |
+oon 11.3 Repair by Welding—Impertections that infringe upon ;
+i % oo the minimum wall thickness may be repaired by welding :
+\ subject to approval by the purchaser. Only qualified operators :
+1073

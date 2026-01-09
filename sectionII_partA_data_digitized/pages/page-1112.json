@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 314,
+  "globalPageIndex": 1112,
+  "width": 613.92,
+  "height": 793.2,
+  "text": "SA-574 ASME BPVC.II.A-2025 \nFIG. 2 SOCl<ET DISCONTINUITY LOCATION AND LIMITS \nPermissible if not in excess \nof 0.25 Tin length and not \nwithin 0.10Tfrom bottom \nof socket. \nPermissible - not in area of \nkey engagement. \n(bottom of socket). \n0.107- No cracks \npermitted in this area. \nNot permissible - bottom of \nsocket or within 0.10Tof \nbottom of socket. \nFIG. 3 HEAD AND BODY DISCONTINUITY LOCATION AND LIMITS \nPermissible \n(condition 2) \nPermissible (condition 1) \nNot permissible - potential \nintersecting discontinuities. \nPermissible - does not extend more than \nhalf the distance between the periphery \nof the head and the socket. \nNot permissible -\nconnects socket \nand edge of head. \nPermissible \n(condition 2 \nmax. depth) 7 r Permissible (condition 1 max. depth) \nL_ bearing area, body, and threads, \n:!===::i::=:,-:;m (longitudinal direction only). \n1018 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-1112.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 867,
+  "bestTextAlphaRatio": 0.714
+}

@@ -1,0 +1,105 @@
+ASME BPVC.ILA-2025 SA-1016/SA-1016M
+
+: . 31.4 Bar Coding—lIn addition to the requirements in 31.1 — 33.1.5 Sampling for Chemical Analysis—One sample for
+31.3, the manufacturer shall have the option of using bar chemical analysis shall be selected from each of two tubes
+| coding as a supplementary identification method. Bar coding — chosen from each lot. A lot shall be all material poured from .
+should be consistent with the (AIAG) standard prepared by the __ one heat. |
+
+Primary Metals Subcommittee of the AIAG Bar Code Project 33.1.6 Sampling for Tension and Bend Test—One sample
+
+Team. shall be taken from each lot. A lot shall consist of all tube of the
+
+; . ; , same outside diameter and wall thickness manufactured during ,
+
+32. Packaging, Marking, and Loading an 8-h shift from the same heat of steel, and heat treated under .
+
+32.1 When specified on the purchase order, packaging, — the same conditions of temperature and time in a single charge .
+
+marking, and loading for shipment shall be in accordance with in a batch type furnace, or heat treated under the same
+
+the procedures of Practices A700. condition in a continuous furnace, and presented for inspection
+
+at the same time.
+
+33. Government Procurement 33.1.7 Hydrostatic and Ultrasonic Tests—Each tube shall be .
+
+33.1 Scale Free Tube: tested by the ultrasonic (when specified) and hydrostatic tests.
+
+aa 33.1.1 When specified in the contract or order, the following 33.1.8 Tube shall be free from heavy oxide or scale. The ,
+' requirements shall be considered in the inquiry contract or internal surface of hot finished ferritic steel tube shall be ,
+\ order, for agencies of the U.S. Government where scale-free pickled or blast cleaned to a free of scale condition equivalent
+tube is required. These requirements shall take precedence if to the CSa2 visual standard listed in SSPC-SP6. Cleaning shall |
+
+there is a conflict between these requirements and the product be performed in accordance with a written procedure that has
+
+specification. } been shown to be effective. This procedure shall be available
+
+33.1.2 Tube shall be ordered to outside diameter (OD) and _ for audit. |
+
+wall thickness. 33.1.9 In addition to the marking in Specification A530/ |
+
+33.1.3 Responsibility for Inspection—Unless otherwise A530M, each length of tube % in. outside diameter and larger
+
+specified in the contract or purchase order, the manufacturer is shall be marked with the following listed information. Marking
+
+responsible for the performance of all inspection and test shall be in accordance with FED-STD-183 and MIL-STD-792:
+
+requirements specified. The absence of any inspection require- (a) Outside diameter, wall thickness, and length (b) Heat or lot
+
+ments in the specification shall not relieve the contractor of the identification number. ,
+
+, responsibility for ensuring that all products or supplies submit- 33.1.10 Tube shall be straight to within the tolerances |
+a ted to the government for acceptance comply with all require- specified in Table 7. ,
+ments of the contract. Sampling inspection, as part of the
+- manufacturing operations, 1s an acceptable practice to ascertain TABLE 7 Straightness Tolerances
+conformance to requirements ; however, this does not authorize ,
+
+submission of known defective material, either indicated or Specified OD (in.) Specie’ (in) curvature in any curvature in total :
+
+actual, nor does it commit the government to accept the 3 ft (in.) length (in.) ,
+
+material. Except as otherwise specified in the contract or — Up to5.O, incl Over 3% OD to 0.030 0.010 x length, ft
+
+purchase order, the manufacturer may use his own or any other gp goto 8.0, incl One EOD to 0.045 0.015 x length, ft .
+
+suitable facilities for the performance of the inspection and test 0.75, incl
+
+requirements unless disapproved by the purchaser at the time Over 8.0 to 12.75, incl Over 4 % OD to 0.060 0.020 x length, ft
+
+the order is placed. The purchaser shall have the right to ;
+
+perform any of the inspections and tests set forth when such , :
+
+inspections and tests are deemed necessary to ensure that the a :
+
+| material conforms to the prescribed requirements. 33.111 When specified, each tube shall be ultrasonically
+[ 33.1.4 Sampling for Flattening and Flaring Test and for  ©Xamined in accordance with MIL-STD-271, except that the a
+\. Visual and Dimensional Examination—Minimum sampling for notch depth in the calibration standard shall be 5 % of the wall
+— flattening and flaring tests and visual and dimensional exami- thickness or 0.005 in., whichever is greater. Any tube that
+nation shall be as follows: produces an indication equal to or greater than 100 % of the |
+
+Lot Size (pieces per lot) Sample Size indication from the calibration standard shall be rejected. |
+
+33.1.12 The tube shall be free from repair welds, welded
+
+2t08 Entire lot joints, laps, laminations, seams, visible cracks, tears, grooves, :
+
+° e450 * slivers, pits, and other imperfections detrimental to the tube as |
+
+4151 to 280 4g determined by visual and ultrasonic examination, or alternate ;
+
+281 to 500 21 tests, as specified.
+
+0 eo 00 “ 33.1.13 Tube shall be uniform in quality and condition and
+
+3201 to 10 000 38 have a finish conforming to the best practice for standard
+
+10 001 to 35 000 46 quality tubing. Surface imperfections such as handling marks, :
+
+In all cases, the acceptance number is zero and the rejection straightening marks, light mandrel and die marks, shallow pits, |
+
+number is one. Rejected lots may be screened and resubmitted and scale pattern will not be considered injurious if the :
+
+i for visual and dimensional examination. All defective items | imperfections are removable within the tolerances specified for :
+\ shall be replaced with acceptable items prior to lot acceptance. —__ wall thickness or 0.005 in. [0.1 mm], whichever is greater. The |
+1535

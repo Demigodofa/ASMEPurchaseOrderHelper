@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 502,
+  "globalPageIndex": 1300,
+  "width": 613.92,
+  "height": 793.2,
+  "text": "SA-749/SA-749M ASME BPVC.II.A-2025 \nTABLE 5 \nCROWN TOLERANCES OF HOT-ROLLED STRIP \n(CARBON AND HIGH-STRENGTH, LOW-ALLOY STEEL) \n(COILS AND CUT LENGTHS, INCLUDING PICKLED) \nSTRIP MAY BE THICKER AT THE CENTER THAN AT A \nPOINT\u00be IN. FROM THE EDGE BY THE FOLLOWING \nAMOUNTS: \nCrown Tolerance, Over Only, for \nSpecified Minimum Thickness, in. \nSpecified Width, in. Over 0.118 Over 0.187 \nThrough to 0.187, to 0.230, \nOver Through 0.118 incl excl \n3\u00bd 0.002 0.002 0.001 \n3\u00bd 6 0.003 0.002 0.002 \n6 12 0.004 0.003 0.003 \nTABLE 6 \nWIDTH TOLERANCES OF HOT-ROLLED STRIP \n(CARBON AND HIGH-STRENGTH, LOW-ALLOY STEEL> \n(COILS AND CUT LENGTHS, INCLUDING PICKLED) \nWidth Tolerance, Over and Under, in. \nCut Edge \nSpecified Over \nMill Edge 0.109 in. Width, in. and Square Through Through \nOver Through Edge Strip 0.109 in. 0.230, excl \n2 \u00bd2 0.008 0.016 \n2 5 \u00be4 0.008 0.016 \n5 10 \u00bd.6 0.010 0.016 \n10 12 \u00be2 0.016 0.016 \nTABLE 7 \nLENGTH TOLERANCES OF HOT-ROLLED STRIP \n(CARBON AND HIGH-STRENGTH ALLOY) \n(CUT LENGTHS, INCLUDING PICKLED) \nLength Tolerances over Specified Length, ft for Widths Given, in., No \nTolerance Under \nSpecified Widths, in. \nTo 3, incl \nOver 3 to 6, incl \nOver 6 to 12, incl \nTABLE 8 \nTo 5 ft, \nincl \n\u00bc \n\u00be \n\u00bd \nOver 5 \nto 10 ft, \nincl \n\u00be \n\u00bd \n[nlJP \nCAMBER TOLERANCESA OF HOT-ROLLED STRIP \n(CARBON AND HIGH-STRENGTH LOW-ALLOY) \n(COILS AND CUT LENGTHS, INCLUDING PICKLED, \nAPPLICABLE TO MILL EDGE, SQUARE EDGE, AND \nSLIT OR CUT EDGE) \nFor strip wider than l \u00bd in. - \u00be in. in any 8 ft. \nFor strip l\u00bd in. and narrower - \u00bd in. in any 8 ft. \nNOTE l - Camber is the deviation of a side edge from a straight line. \nThe standard for measuring this deviation is based on any 8 ft length. 8 \nIt is obtained by placing an 8 ft straightedge on the concave side \nand measuring the maximum distance between the strip edge and the \nstraightedge. \nA When the camber tolerances shown in the above table are not \nsuitable for a particular purpose, hot-rolled strip is sometimes \nmachine straightened. \n8 For strip less than 8 ft tolerances are to be established in each \ninstance. A formula for calculating camber is as follows: \nL 2 X C 1 \n64 = C 2 in L \nwhere: \nC 1 = Camber in 8 ft and \nC 2 = Camber in any given length L \nOver 10 Over 20 Over 30 \nto to to \n20 ft, 30 ft, 40 ft, Over 40 ft, \nincl incl incl incl \n\u00bd [nlJP 1 1\u00bd \n\u00be [nlJP 1 1\u00bd \nl 1\u00bc 1\u00bd l[nlJP \nTABLE 9 \nFLATNESS TOLERANCES OF HOT-ROLLED STRIP \n(CARBON AND HIGH-STRENGTH LOW-ALLOY) \nIt has not been practicable to formulate flatness tolerances \nfor hot-rolled carbon strip steel because of the wide range \nof widths and thicknesses, and variety of chemical \ncompositions, mechanical properties and types, produced in \ncoils and cut lengths. \n1228 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 1,
+  "tabulaTablesPath": "tables_tabula/page-1300.json",
+  "tabulaTablesCsv": "tables_tabula/page-1300.csv",
+  "tabulaTableCount": 3,
+  "bestTextPath": "best_text/pages/page-1300.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2693,
+  "bestTextAlphaRatio": 0.6647
+}

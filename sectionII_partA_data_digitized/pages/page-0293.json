@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 293,
+  "globalPageIndex": 293,
+  "width": 612.6,
+  "height": 853.8,
+  "text": "ASME BPVC.II.A-2025 SA-193/SA-193M \nTABLE 3 Continued \nTensile Yield \nStrength, Strength, Elongation Reduction Hardness, Class Diameter, mm Heat Treatment 8 min, min, 0.2 in 4 D, of Area, \nMPa % offset, min% min% max \nMPa \nAustenitic Steels \nClasses 1 and 1 D; 88, 88M, 88P, 88LN, carbide solution treated 515 205 30 50 223 HBW or 96 \nB8MLN, B8CLN, all diameters HRB 0 \nClasses 1,1A,1D, 88CLNCuB, all carbide solution treated 515 205 30 50 223 HBW or 96 \ndiameters 1 HRB 0 \nClasses 1 and 1 D: B8ML4CuN, all carbide solution treated 480 175 35 50 90 HRS \ndiameters \nClass 1: BBC, BBT, all diameters carbide solution treated 515 205 30 50 223 HBW or \n96HRB 0 \nClass 1A: BSA, BBCA, 88CLNA, BBMA, carbide solution treated in the finished 515 205 30 50 192 HBW or 90 \nB8PA, B8TA, 88LNA, BBMLNA, BBNA, condition HRS \nBBMNA, BBMLCuNA, all diameters \nClass 1 A: B8ML4CuNA, all diameters carbide solution treated 480 175 35 50 90 HRS \nClasses 1 B and 10: 88N, BBMN, carbide solution treated 550 240 30 40 223 HBW or 96 \nBBMLCuN, all diameters HRB 0 \nClasses 1 C and 1 D: BBR, all diameters carbide solution treated 690 380 35 55 271 HBW or 28 \nHRC \nClass 1 C: 88RA, all diameters carbide solution treated in the finished 690 380 35 55 271 HBW or 28 \ncondition HRC \nClasses 1 C and 1 D: BBS, all diameters carbide solution treated 655 345 35 55 271 HBW or 28 \nHRC \nClasses 1 C: BBSA, all diameters carbide solution treated in the finished 655 345 35 55 271 HBW or 28 \ncondition HRC \nClass 2: BB, BBC, BBP, BBT, BBN, 0 carbide solution treated and strain 860 690 12 35 321 HBWor 35 \nM20 and under hardened HRC \nover M20 to M24, incl 795 550 15 35 321 HBW or 35 \nHRC \nover M24 to M30, incl 725 450 20 35 321 HBW or 35 \nHRC \nover M30 to M36, incl 690 345 28 45 321 HBW or 35 \nHRC \nClass 2: BBM, BBMN, BBMLCuN, 0 carbide solution treated and strain 760 655 15 45 321 HBW or 35 \nM20 and under hardened HRC \nover M20 to M24, incl 690 550 20 45 321 HBW or 35 \nHRC \nover M24 to M30, incl 655 450 25 45 321 HBW or 35 \nHRC \nover M30 to M36, incl 620 345 30 45 321 HBW or 35 \nHRC \nClass 28: 88, BBM2, 0 carbide solution treated and strain 655 515 25 40 321 HBW or 35 \nM48 and under hardened HRC \nover M48 to M64, incl 620 450 30 40 321 HBW or 35 \nHRC \nover M64 to M72, incl 550 380 30 40 321 HBW or 35 \nHRC \nClass 2C: B8M3, 0 carbide solution treated and strain 585 450 30 60 321 HBW or 35 \nM48 and under hardened HRC \nover M48 585 415 30 60 321 HBW or 35 \nHRC \nA To meet the tensile requirements, the Brinell hardness shall be over 200 HBW (93 HRS). \n8 Class 1 is solution treated. Class 1 A is solution treated in the finished condition for corrosion resistance; heat treatment is critical due to physical property requirement. \nClass 2 is solution treated and strain hardened. Austenitic steels in the strain-hardened condition may not show uniform properties throughout the section particularly in \nsizes over M20 mm in diameter. \nc For sizes M20 mm in diameter and smaller, a maximum hardness of 241 HBW (100 HRS) is permitted. \n\u00b0 For diameters M38 and over, center (core) properties may be lower than indicated by test reports which are based on values determined at\u00bd radius. \n241 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0293.json",
+  "tabulaTablesCsv": "tables_tabula/page-0293.csv",
+  "tabulaTableCount": 2,
+  "bestTextPath": "best_text/pages/page-0293.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 3166,
+  "bestTextAlphaRatio": 0.5985
+}

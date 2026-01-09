@@ -1,0 +1,67 @@
+SA-194/SA-194M ASME BPVC.II.A-2025 
+TABLE 6 Proof Stress Using 120° Hardened Steel Cone - Metric 
+Proof Stress - MPa, Minimum 
+Type Grade 1 Grades 2, Grades 2H 
+2HM, 6, 3, 7, 43, & 16 
+6F & 7M 
+Hex 825 930 1035 
+Heavy Hex 895 1035 1205 
+TABLE 7 Marking of NutsA 
+Nuts Hot- Nuts Machined Nuts Manu-
+Grade and Forged or from Bar factured in 
+Type Cold- Stock Accordance 
+Punched with 6.6 
+1 1 1B 
+2 2 2B 
+2H 8 2H 2HB 
+2HM 8 • 0 2HM 2HMB 
+3 3 3B 
+6 6 6B 
+6F 6F 6FB 
+7 7 7B 
+?Lo 7L ?BL 
+7MB,C 7M 7MB 
+7ML 8 • 0 ?ML 7MLB 
+43 43 43B 
+43L 0 43L 43LB 
+8 8 BB BA 
+BC BC 8CB SCA 
+8CLNCuB 8CLNCuB 8CLNCuBB 8CLNCuBA 
+8CLN 8CLN BCLNB BCLNA 
+BM BM 8MB 8MA • 
+BT BT 8TB STA 
+BF BF 8FB 8FA 
+BP BP 8PB SPA 
+8N 8N 8NB 8NA 
+8MN 8MN 8MNB BMNA 
+BR BR 8RB BRA 
+BS BS 8SB BSA 
+8LN 8LN 8LNB BLNA 
+8MLN 8MLN 8MLNB 8MLNA 
+8MLCuN BMLCuN 8MLCuNB 8MLCuNA 
+8ML4CuN 8ML4CuN 8ML4CuNB 8ML4CuNA 
+9C 9C 9CB 9CA 
+16 16 16B 
+AWhere ellipses { ... ) appear in this table there is no requirement 
+8The letters H and M indicate heat-treated nuts {see Section 6). 
+0 An underline as a marking requirement for grades 2HM and 7M has been 
+removed but is permitted. 
+0 see Supplementary Requirement S3. 
+SUPPLEMENTARY REQUIREMENTS 
+One or more of the following supplementary requirements shall be applied only when specified by 
+the purchaser in the inquiry, contract, or order. Details of these supplementary requirements shall be 
+agreed upon in writing by the manufacturer and purchaser. Supplementary requirements shall in no 
+way negate any requirement of the specification itself. 
+Sl. Strain-Hardened Austenitic Steel Nuts 
+Sl.1 Strain hardened Grades 8, SC, ST, SM, SF, SP, SN, or 
+8MN nuts may be specified. When Supplementary Require­
+ment S 1 is invoked in the order, nuts shall be machined from 
+cold drawn bars or shall be cold forged to shape. No subse­
+quent heat treatment shallbe performed on the nuts. Nuts made 
+256 
+in accordance with this requirement shall be proof load tested 
+in accordance with 8.2.2.1 and shall withstand the proof load 
+specified in Table S 1.1 and Table S 1.2. Testing nuts requiring 
+proof loads over 160 000 lbf or 705 kN is only required when 
+Supplementary Requirement S4 is invoked. The hardness 
+limits of Table 2 do not apply to strain hardened nuts. Nuts 

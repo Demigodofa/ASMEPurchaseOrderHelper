@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 564,
+  "globalPageIndex": 564,
+  "width": 604.32,
+  "height": 847.68,
+  "text": "SA\u00b7335/SA-335M (ASTM A335/A335M) ASME BPVC.II.A-2025 \nWall Thickness \nin. \n5/ie (0.312) \n%2 (0.281) \n\u00bc (0.250) \n7 /32 (0.219) \n3/,e (0.188) \n\u00be2 (0.156) \n1/a (0.125) \no/32 (0.094) \n1/15 (0.062) \nGrade \nP23 \nP91 Type 1, Type 2, P115 \nP24,P36,P92, P93,P122, P911 \nP128 \nP921 \nmm \n8 \n7.2 \n6.4 \n5.6 \n4.8 \n4 \n3.2 \n2.4 \n1.6 \nA Maximum, unless a range is specified. \nTABLE 4 Elongation Requirements \nElongation Requirements \nAll grades \nexcept P23, P24, \nP36, P91 Type 1 \nand Type 2, P92, \nP921, \nP23, P24, P91 \nType 1 and \nType 2, P92, \nP921, \nP115, P93, P115, \nP122, P128, and \nP911 \nP122, P128, and \nP911 P36 P93 \nLongi- Trans- Longi- Trans- Longi- Longi-\ntudi- verse tudi- verse tudi- tudi-\nnal nal nal nal \nElongation in 2 in. or 50 mm, \n(or 4D), min, %: \nBasic minimum elongation 30 20 20 15 19 \nfor wall 5 /,e in. [8 mm] and \nover in thickness, strip tests, \nand for all small sizes tested \nin full section \nWhen standard round 2-in. 22 14 20 13 \nor 50-mm gage length or \nproportionally smaller size \nspecimen with the gage \nlength equal to 4D (4 times \nthe diameter) is used \nFor strip tests a deduction 1.50A 1.ooA 1.ooA \nfor each V.2-in. [0.8 mm] \ndecrease in wall thickness \nbelow in. [8 mm] from the \nbasic minimum elongation of \nthe following percentage \npoints shall be made \nA Table 5 gives the calculated minimum values. \nTABLE 5 Calculated Minimum Elongation Values \nElongation in 2 in. or 50 mm, min, % \nAll grades except P23, P24, \nP36, P91 Type 1 and Type 2, \nP92, P921, P93, P115, P122, P128, \nand P911 \nLongi- Transverse tudinal \n30 20 \n28 19 \n27 18 \n26 \n24 \n22 \n21 \n20 \n18 \nP23, P24, P91, \nType 1 and \nType 2, \nP92, P921, \nP115, P122, \nP128 \nand P911 \nLongi-\ntudinal \n20 \n19 \n18 \n17 \n16 \n15 \n14 \n13 \n12 \nTABLE 6 Hardness RequirementsA \nBrinell \n220 HBW \n190 to 250 HBW \n250 HBW \n265 HBW \n276 HBW \nVickers \n220 HV \n196 to 265 HV \n265 HV \n280 HV \n290 HV \nP36 \nLongi-\ntudinal \n15 \n14 \n13 \n12 \n11 \n10 \n9 \n8 \n7 \nP93 \nLongi-\ntudinal \n19 \n18 \n17 \n16 \n15 \n14 \n13 \n12 \n11 \nRockwell \n97 HRBW \n91 HRBW to 25 HRC \n25 HRC \n27 HRC \n26 HRC \n12.2.2 Pipe of all other sizes shall be subjected to the \nnondestructive electric test as shown in Section 13, except as \nprovided for in 12.2.3. \n12.2.3 When specified by the purchaser, pipe of all other \nsizes shall be furnished with both the hydrostatic test and a \nnondestructive examination having been performed. \n512 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0564.json",
+  "tabulaTablesCsv": "tables_tabula/page-0564.csv",
+  "tabulaTableCount": 3,
+  "bestTextPath": "best_text/pages/page-0564.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2365,
+  "bestTextAlphaRatio": 0.5167
+}

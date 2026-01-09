@@ -1,0 +1,109 @@
+SA-358/SA-358M ASME BPVC.II.A-2025 
+6.3.1 Unless otherwise stated in the order, all pipe shall be 
+furnished in the heat-treated condition in accordance with the 
+requirements of Table 2. 
+6.3.2 The purchase order shall specify one of the following 
+conditions if the heat-treated condition specified in 6.3 .1 is not 
+desired by the purchaser: 
+6.3.2.1 A final heat-treatment temperature under 1900 °F 
+[1040 °CJ-Each pipe supplied under this requirement shall be 
+stenciled with the final heat-treatment temperature in degrees 
+Fahrenheit or degrees Celsius after the suffix "HT." Controlled 
+structural or special service characteristics may be specified as 
+a guide for the most suitable heat treatment. 
+6.3.2.2 DELETED 
+6.3.2.3 DELETED 
+6.4 A solution annealing temperature above 1950 °F [1065 
+0 C] may impair the resistance to intergranular c01rnsion after 
+subsequent exposure to sensitizing conditions in Grades 321, 
+321H, 347, 347H, and 348. When specified by the purchaser, a 
+lower temperature stabilization or re-solution anneal shall be 
+used subsequent to the initial high temperature solution anneal 
+(see Supplementary Requirement SS). 
+7. Chemical Composition 
+7.1 The chemical composition of the plate shall conform to 
+the requirements of the applicable specification and grade 
+listed in Specification A240/ A240M. 
+7.2 Except for Grade S34751 and S34752, the chemical 
+composition of the welding filler metal shall conform to the 
+requirements of the applicable AWS specification for the 
+corresponding grade shown in Table 1, or shall conform to the 
+chemical composition specified for the plate in Specification 
+A240/ A240M, or shall, subject to purchaser approval, be a 
+filler metal more highly alloyed than the base metal when 
+needed for corrosion resistance or other properties. Use of a 
+filler metal other than that listed in Table 1 or conforming to the 
+chemical composition specified for the plate in Specification 
+A240/ A240M shall be rep01ted and the filler metal identified 
+on the certificate of tests. When nitrogen and cerium are 
+specified elements for the ordered grade, the method of 
+analysis for these elements shall be a matter of agreement 
+between the purchaser and the manufacturer. 
+7 .3 The chemical composition of the welding filler metal for 
+Grade S34751 and S34752 shall conform to the chemical 
+composition specified for the plate in Specification A240/ 
+A240M. The method for analysis for nitrogen shall be a matter 
+of agreement between the purchaser and the manufacturer. 
+8. Permissible Variations in Dimensions 
+8.1 Permissible Variations-The dimensions at any point in 
+a length of pipe shall not exceed the following: 
+8.1.1 Outside Diameter-Based on circumferential 
+measurement, ±0.5 % of the specified outside diameter. 
+8.1.2 Out-of-Roundness-Difference between major and mi­
+nor outside diameters, 1 %. 
+8.1.3 Alignment-Using a 10-ft [3-m] straightedge placed 
+so that both ends are in contact with the pipe, Vs in. [3 mm] 
+deviation from contact with the pipe. 
+TABLE 2 Annealing Requirements 
+Grade or UNS DesignationA Heat Treating 
+Temperature 8 
+All grades not individually listed below: 1900 °F [1040 °C] 
+304H,309S,309Cb,310S, 310Gb, 1900 °F [1040 °C] 
+321 H, 347H, S22100, S28300, 
+N08020 1800-1850 °F [980-1010 °C] 
+N08367 2025 °F [1110 °C] 
+N08700 2000 °F [1095 °C] 
+N08810 2050 °F [1120 °C] 
+N08811 2100 °F [1150 °C] 
+N08904 2000 °F [1095 °C] 
+N08926 2010 °F [1100 °C] 
+S30600 2100 °F [1150 °C] 
+S30815 1920 °F [1050 °C] 
+S31254 2100 °F [1150 °C] 
+S31266 2100 °F [1150 °C] 
+S31727 1975-2175 °F [1080 to 1180 °C] 
+S32050 2100 °F [1150 °C] 
+S32053 1975-2175 °F [1080 to 1180 °C] 
+S32654 2100 °F [1150 °C] 
+S34565 2050 °F [1120 °C] 
+S34752 1940-2138 °F [1060 to 1170 °C] 
+A New designation established in accordance with Practice E527 and SAE J1086. 
+8 Minimum, unless otherwise stated. 
+Cooling/Testing 
+Requirements 
+C 
+D 
+D 
+D 
+D 
+D 
+D 
+D 
+D 
+D 
+D 
+D 
+D 
+D 
+D 
+D 
+D 
+D 
+D 
+0 Quenched in water or rapidly cooled by other means, at a rate sufficient to prevent reprecipitation of carbides, as demonstrable by the capability of passing Practices 
+A262, Practice E. The manufacturer is not required to run the test unless it is specified on the purchase order (see Supplementary Requirement S7). Note that Practices 
+A262 requires the test to be performed on sensitized specimens in the low-carbon and stabilized types and on specimens representative of the as-shipped condition for 
+other types. In the case of low-carbon types containing 3 % or more molybdenum, the applicability of the sensitizing treatment prior to testing shall be a matter for 
+negotiation between the seller and the purchaser. 
+0 Quenched in water or rapidly cooled by other means. 
+570 

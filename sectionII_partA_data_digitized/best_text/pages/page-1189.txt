@@ -1,0 +1,117 @@
+ASME BPVC.II.A-2025 SA·671/SA-671M (ASTM A671/A671M) 
+A530/A530M Specification for General Requirements for 
+Specialized Carbon and Alloy Steel Pipe 
+A577/A577M Specification for Ultrasonic Angle-Beam Ex­
+amination of Steel Plates 
+A578/A578M Specification for Straight-Beam Ultrasonic 
+Examination of Rolled Steel Plates for Special Applica­
+tions 
+E110 Test Method for Rockwell and Brinell Hardness of 
+Metallic Materials by Portable Hardness Testers 
+E165/El65M Practice for Liquid Penetrant Testing for Gen-
+eral Industry 
+E709 Guide for Magnetic Particle Testing 
+2.2 Plate Steels: 
+A203/ A203M Specification for Pressure Vessel Plates, Alloy 
+Steel, Nickel 
+A285/A285M Specification for Pressure Vessel Plates, Car­
+bon Steel, Low- and Intermediate-Tensile Strength 
+A299/A299M Specification for Pressure Vessel Plates, Car­
+bon Steel, Manganese-Silicon 
+A353/A353M Specification for Pressure Vessel Plates, Alloy 
+Steel, Double-Normalized and Tempered 9 % Nickel 
+A515/A515M Specification for Pressure Vessel Plates, Car­
+bon Steel, for Intermediate- and Higher-Temperature Ser­
+vice 
+A516/A516M Specification for Pressure Vessel Plates, Car­
+bon Steel, for Moderate- and Lower-Temperature Service 
+A517 / A517M Specification for Pressure Vessel Plates, Alloy 
+Steel, High-Strength, Quenched and Tempered 
+A537/A537M Specification for Pressure Vessel Plates, Heat­
+Treated, Carbon-Manganese-Silicon Steel 
+A553/ A553M Specification for Pressure Vessel Plates, Alloy 
+Steel, Quenched and Tempered 7, 8, and 9 % Nickel 
+A 736/ A 736M Specification for Pressure Vessel Plates, Low­
+Carbon Age-Hardening Nickel-Copper-Chromium­
+Molybdenum-Columbium (Niobium) Alloy Steel 
+2.3 ASME Boiler and Pressure Vessel Code: 4 
+Section II 
+Section ill 
+Section Vill 
+Section IX 
+3. Terminology 
+3.1 Definitions of Terms Specific to This Standard: 
+3.1.1 lot-a lot shall consist of 200 ft [60 m] or fraction 
+thereof of pipe from the same heat of steel. 
+4. Ordering Information 
+4.1 The inquiry and order for material under this specifica-
+tion should include the following information: 
+4.1.1 Quantity (feet, metres, or number of lengths), 
+4.1.2 Name of material (steel pipe, electric-fusionwelded), 
+4.1.3 Specification number, 
+4.1.4 Grade and class designations (see 1.3), 
+4 Available from American Society of Mechanical Engineers (ASME), ASME 
+International Headquarters, Two Park Ave., New York, NY 10016-5990, http:// 
+www.asme.org. 
+4.1.5 Size (inside or outside diameter, nominal or minimum 
+wall thickness), 
+4.1.6 Length (specific or random), 
+4.1.7 End finish (11.4), 
+4.1.8 Purchase options, if any (see 5.2.3 and 11.3 of this 
+specification. See also Specification A530/A530M), 
+4.1.9 Supplementary requirements, if any. 
+5. Materials and Manufacture 
+5.1 Materials-The steel plate material shall conform to the 
+requirement of the applicable plate specification for the pipe 
+grade ordered as listed in Table 1. 
+5.2 Welding: 
+5.2.1 The joints shall be double-welded, full-penetration 
+welds made in accordance with procedures and by welders or 
+welding operators qualified in accordance with the ASME 
+Boiler and Pressure Vessel Code, Section IX. 
+5.2.2 The welds shall be made either manually or automati­
+cally by an electric process involving the deposition of filler 
+metal. 
+5.2.3 As welded, the welded joint shall have positive 
+reinforcement at the center of each side of the weld, but no 
+more than 1/s in. [3 mm]. This reinforcement may be removed 
+at the manufacturer's option or by agreement between the 
+manufacturer and purchaser. The contour of the reinforcement 
+shall be smooth and the deposited metal shall be fused 
+smoothly and uniformly into the plate surface. 
+5.3 Heat Treatment-All classes other than 10, 11, 12, and 
+13 shall be heat u:eated in furnace controlled to± 25 °F [± 15 
+0 C] and equipped with a recording pyrometer so that heating 
+records are available. Heat treating after forming and welding 
+shall be to one of the following: 
+TABLE 1 Plate Specifications 
+Pipe Grade Type of Steel ASTM Specification 
+No. Grade/ 
+Class I 
+Type 
+CA55 plain carbon A285/A285M GrC 
+CB 60 plain carbon, killed A515/A515M Gr60 
+CB 65 plain carbon, killed A515/A515M Gr65 
+CB 70 plain carbon, killed A515/A515M Gr70 
+cc 60 plain carbon, killed, fine grain A516/A516M Gr60 
+cc 65 plain carbon, killed, fine grain A516/A516M Gr65 
+CC70 plain carbon, killed, fine grain A516/A516M Gr70 
+CD 70 manganese-silicon, normalized A537/A537M Cl 1 
+CD BO manganese-silicon, quenched and A537/A537M Cl 2 
+tempered 
+CFA65 nickel steel A203/A203M GrA 
+CFB70 nickel steel A203/A203M GrB 
+CFD65 nickel steel A203/A203M GrD 
+CFE70 nickel steel A203/A203M GrE 
+CG 100 9 % nickel A353/A353M 
+CH 115 9 % nickel A553/A553M Type 1 
+CJA 115 alloy steel, quenched and tempered A517/A517M GrA 
+CJB 115 alloy steel, quenched and tempered A517/A517M GrB 
+CJE 115 alloy steel, quenched and tempered A517/A517M GrE 
+CJF 115 alloy steel, quenched and tempered A517/A517M GrF 
+CJH 115 alloy steel, quenched and tempered A517/A517M GrH 
+CJP 115 alloy steel, quenched and tempered A517/A517M GrP 
+CK75 carbon-manganese-silicon A299/A299M GrA 
+CP85 alloy steel, age hardening, quenched A736/A736M Gr A, 
+and precipitation heat treated Class 3 
+1099 

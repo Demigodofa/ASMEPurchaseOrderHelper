@@ -1,0 +1,74 @@
+SA-988/SA-988M ASME BPVC.ILA-2025
+TABLE 2 Heat Treating Requirements —-
+Austenitizing/Solutioning Cooling Quenching, Cool Tempering Temperature, :
+UNS No. Heat Treat Type Temperature °F [°C}4 Media to Below °F [°C] min? F [°C] a
+Martensitic Stainless Steels ,
+$41000 Class 1 anneal not specified furnace cool B B ;
+normalize and temper not specified air cool 400 [205] 1325 [725] :
+temper not required B B 1325 [725]
+S41000 Class 2 anneal not specified furnace cool B B
+normalize and temper not specified air cool 400 [205] 1250 [675] :
+temper not required B B 1250 [675] |
+S41000 Class 3 anneal not specified furnace cool B B ,
+normalize and temper not specified air cool 400 [205] 1100 [595] ;
+$41000 Class 4 anneal not specified furnace cool B B ;
+normalize and temper not specified air cool 400 [205] 1000[540] ;
+S41026 anneal 1750 [955] furnace cool 8 8
+. normalize and temper 1750 [955] air cool 400 [205] 1150 [620] ;
+$41500 normalize and temper 1850 [1010] air cool 200 [95] 1040-1120 [560-600] :
+$42390 normalize and temper 1860-1960 [1015-1070] air cool 200 [95] 1350-1440 [730-780]
+Austenitic Stainless Steels
+Nos028 solution treat and quench 2000 [1100] liquid 500 [260] B a . |
+N08029 solution treat and quench 2000 [1100] liquid 500 [260] B .
+$30400 solution treat and quench 1900 [1040] liquid 500 [260] B
+$30403 solution treat and quench 1900 [1040] liquid 500 [260] B
+$30451 solution treat and quench 1900 [1040] liquid 500 [260] B :
+$30453 solution treat and quench 1900 [1040] liquid 500 [260] B :
+$31600 solution treat and quench 1900 [1040] liquid 500 [260] B ;
+331603 solution treat and quench 1900 [1040] liquid 500 [260] B :
+$31651 solution treat and quench 1900 [1040] liquid 500 [260] B |
+$31653 solution treat and quench 1900 [1040] liquid 500 [260] B |
+$31700 solution treat and quench 1900 [1040] liquid 500 [260] B |
+$31703 solution treat and quench 1900 [1040] liquid 500 [260] B |
+$21904 solution treat and quench 1900 [1040] liquid 500 [260] B :
+$31254 solution treat and quench 2100 [1150] liquid 500 [260] B ‘
+$31725 solution treat and quench 1900 [1040] liquid 500 [260] B :
+$31726 solution treat and quench 1900 [1040] liquid 500 [260] B :
+N08367 solution treat and quench 2025 [1105] liquid 500 [260] B
+$32654 solution treat and quench _- 2050-2160 [1120-1180] liquid 500 [260] B |
+Austenitic-Ferritic Stainless Steels :
+$31803 solution treat and quench 1870 [1020] liquid 500 [260] B | /
+$32205 solution treat and quench 1870 [1020] liquid 500 [260] B . :
+$32906 solution treat and quench 1850-2100 [1010-1150] liquid 500 [260] B ;
+S$32950 solution treat and quench 1825~1875 [995—1025]° liquid 500 [260] 8
+$32750 solution treat and quench 1880 [1025] liquid 500 [260] B :
+339274 solution treat and quench 1920~-2060 [1050-1125] liquid 500 [260] B :
+532760 solution treat and quench 2010-2085 [1100-1140] liquid 500 [260] B !
+S39277 solution treat and quench 1940 [1060] liquid 175 [80] B '
+Age-Hardening Stainless Steels 7
+Solution Heat Treatment Aging Heat Treatment? |
+tas or ro Cool as required Temperature °F [°C], time (h), '
+Condition Temperature °F [°C] to below °F [°C] Required Cooling
+$17400 A 1875-1975 [1025-1055] 90 [82] ae . |
+H900 1875-1975 [1025-1055] 90 [32] 900 [480], 1.0, air cool :
+H925 1875-1975 [1025-1055] 90 [82] — 925 [495], 4.0, air cool ;
+H1025 1875-1975 [1025-1055] 90 [82] 1025 [550], 4.0, air cool ‘
+H1075 1875-1975 [1025-1055] 90 [32] 1075 [580], 4.0, air cool
+H1100 1875-1975 [1025-1055] 90 [32] 1100 [595], 4.0, air cool |
+H1150 1875-1975 [1025-1055] 90 [32] 1150 [620], 4.0, air cool |
+H1150M 1875-1975 [1025-1055] 90 [32] 1400 [760], 2.0, air cool :
+plus 1150 [620], 4.0, air cool _ |
+4 Minimum unless temperature range is listed. |
+® Not applicable. :
+© 30 min/in. of thickness. ;
+P Unless otherwise noted, it is permitted to vary the aging treatment temperature to obtain the required properties. The listed times are minimum time at temperature and -
+the treatment is permitted to be extended to obtain the required ductility. Material treated at an intermediate temperature must meet the ductility requirements of the next
+higher hardening or aging temperature, or both. ;
+Section 15), the test specimens prior to testing shallaccompany test specimen shall be at least T from any second heat treated
+the repaired parts if a post weld treatment is done. surface. When the section thickness does not permit this |
+9.3 For normalized and tempered parts, or quenched and positioning, the test specimen shall be positioned as near as |
+tempered parts, the central axis of the test specimen shall possible to the prescribed location, as agreed to by the :
+correspond to the % T plane or deeper position, where Tis the  PUtchaser and the supplier. |
+maximum heat treated thickness of the represented part. In 9.4 For all annealed stainless steels, the test specimen may |
+addition, for quenched and tempered parts, the midlength of the be taken from any convenient location. :
+1462 :

@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 763,
+  "globalPageIndex": 1561,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "ASME BPVC.II.A-2025 SA-1008/SA-1008M (ASTM A1008/A1008M) \nTABLE X1 .1 Suggested Minimum Inside Radius for Cold Bending \nNoTE 1-(t) Equals a radius equivalent to the steel thickness. \nNoTE 2-The suggested radius should be used as a minimum for 90\u00b0 \nbends in actual shop practice. \nNoTE 3-Material which does not perform satisfactorily, when fabri\u00ad\ncated in accordance with the requirements, may be subject to rejection \npending negotiation with the steel supplier. \nDesignation \nStructural Steel \nHigh-strength Low-alloy \nSteel \nHigh-strength Low-alloy \nSteel with Improved \nFormability \nSolution Hardened Steel \nBake Hardenable Steel \nRequired Hardness Steel \nFull Hard Steel \nGrade \n25 [170] \n30 [205] \n33 [230] \n40 [275] \n45 [310] \n50 [340] \n60 [410] \n70 [480] \n80 [550] \n45 [310] \n50 [340] \n55 [380] \n60[410] \n65 [450] \n70 [480] \n50 [340] \n60[410] \n70 [480] \n80 [550] \n26 [180] \n31 [21 OJ \n35 [240] \n41 [280] \n44 [300] \n26 [180] \n31 [210] \n35 [240] \n41 [280] \n44 [300] \nHRB 35-50 \nHRB 40-55 \nHRB 45-60 \nHRB 50-65 \nHRB 55-70 \nHRB 60-75 \nHRB 65-80 \nHRB 70-85 \n1507 \nMinimum Inside Radius for \nCold Bending \n\u00bdI \n1t \n1\u00bd I \n21 \n2\u00bd I \n2\u00bd I \n3 I \n4 I \nnot applicable \nClass 1 Class 2 \n1\u00bd I 1\u00bd I \n21 1\u00bd I \n2 I 2 I \n2\u00bd I 2 I \n3 I 2\u00bd I \n3\u00bd I 3 I \n1 I \n1\u00bd I \n2 I \n2 I \n\u00bdI \n1 I \n1\u00bd I \n2 I \n2 I \n\u00bdI \n1 I \n1\u00bd I \n2 I \n2 I \n\u00bdI \n1 I \n1\u00bd I \n21 \n2\u00bd I \n3 I \n3\u00bd t \n4 t \nnot applicable ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1561.json",
+  "tabulaTablesCsv": "tables_tabula/page-1561.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text\\pages\\page-1561.txt",
+  "bestTextSource": "full_ocr_highdpi",
+  "bestTextLength": 1373,
+  "bestTextAlphaRatio": 0.5
+}

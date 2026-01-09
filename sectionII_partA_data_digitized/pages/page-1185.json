@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 387,
+  "globalPageIndex": 1185,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "ASME BPVC,II.A-2025 SA-667 /SA-667M \n8. Test Method \n8.1 Tension test specimens shall fit the holders of the testing \nmachine in such a way that the load shall be axial. The use of \nself-aligning shackles is suggested. After reaching a stress \nequivalent to 15 000 psi [100 MPa] the speed of the moving \nhead of the testing machine shall not exceed Vs in. [3.2 \nmm]/min. \n9. Inspection \n9.1 The inspector representing the purchaser shall have free \nentry at all times while work on the contract of the purchaser \nis being performed to all parts of the manufacturer's works that \nconcern the manufacture of the material ordered. The manu\u00ad\nfacturer shall afford the inspector without charge all reasonable \nfacilities to satisfy him that the material is being fumished in \naccordance with this specification. All tests and inspections \nshall be made at the place of manufacture prior to the shipment \nunless otherwise specified and shall be so conducted as not to \ninte1fere unnecessarily with the operation of the works. \n10. Acceptance and Certification \n10.1 Final acceptance of the casting shall follow complete \nmachining of the casting. Upon request of the purchaser and \nwhen so specified in the purchase order, a certification shall be \nmade on the basis of acceptance of the material. This shall \nconsist of a copy of the manufacturer's test report or a \nstatement by the supplier accompanied by a copy of the test \nresults that the material has been sampled, tested, and inspected \nin accordance with the provisions of this specification. Each \ncertification so furnished shall be signed by an authorized agent \nof the supplier or manufacturer. \n11. Product Marking \n11.1 Pressure containing castings made in accordance with \nthis specification shall have the name of the manufacturer or \nhis recognized trademark and the class of iron to which it \nconforms cast or indelibly stamped on the surface indicated by \nthe purchaser or in such a position as not to injure the \nusefulness of the casting. \n1095 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-1185.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2012,
+  "bestTextAlphaRatio": 0.7803
+}

@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 479,
+  "globalPageIndex": 479,
+  "width": 597.72,
+  "height": 842.88,
+  "text": "ASME BPVC.II.A-2025 SA-285/SA-285M \nSPECIFICATION FOR PRESSURE VESSEL PLATES, \nCARBON STEEL, LOW- AND INTERMEDIATE-TENSILE \nSTRENGTH \nSA-285 /SA-285M \n(Identical with ASTM Specification A285/A285M-17.) \n427 \ncO \nINTERNATIONAL \nStandards Worldwide ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-0479.txt",
+  "ocrTextLength": 244,
+  "ocrApplied": true,
+  "bestTextPath": "best_text/pages/page-0479.txt",
+  "bestTextSource": "ocr",
+  "bestTextLength": 244,
+  "bestTextAlphaRatio": 0.6762
+}

@@ -1,0 +1,238 @@
+[
+  {
+    "rows": [
+      [
+        "SA-213/SA-213M",
+        "23",
+        "Identical except for the additional H Grade heat treatment requirements in",
+        "10 through 23"
+      ],
+      [
+        "",
+        "",
+        "para. 6.2 and Supplementary Requirement SS made mandatory. For Grade",
+        ""
+      ],
+      [
+        "",
+        "",
+        "T91 Type 1, other acceptable editions are limited to 18 and later. For Grade",
+        ""
+      ],
+      [
+        "",
+        "",
+        "T91 Type 2, the acceptable edition is limited to 23 with Supplementary",
+        ""
+      ],
+      [
+        "",
+        "",
+        "Requirement S5 made mandatory. For UNS S31035 and UNS K91060, other",
+        ""
+      ],
+      [
+        "",
+        "",
+        "acceptable editions are limited to 18b and later. For UNS S31050, other",
+        ""
+      ],
+      [
+        "",
+        "",
+        "acceptable ASTM editions are limited to 15a and later. For UNS S31002,",
+        ""
+      ],
+      [
+        "",
+        "",
+        "other ASTM editions are limited to 22 and later.",
+        ""
+      ],
+      [
+        "SA-214/SA-214M",
+        "19",
+        "Identical",
+        "88 through 19"
+      ],
+      [
+        "SA-216/SA-216M",
+        "21",
+        "Identical except for addition of 2.3 and editorial differences in 2.1 and 10.1",
+        "12 through 21"
+      ],
+      [
+        "SA-217 /SA-217M",
+        "22",
+        "Identical except for addition of 2.3 and editorial differences in 2.1 and 9.1.",
+        "12 through 22"
+      ],
+      [
+        "SA-225/SA-225M",
+        "17",
+        "Identical",
+        "86 through 17"
+      ],
+      [
+        "SA-231/SA-231M",
+        "96",
+        "Identical except that certification requirements in 13.1 are mandatory",
+        ""
+      ],
+      [
+        "SA-232/SA-232M",
+        "91",
+        "Identical",
+        ""
+      ],
+      [
+        "SA-234/SA-234M",
+        "23a",
+        "Identical, except for editorial correction of Supplementary Requirement S5. For",
+        "82a through 23a"
+      ],
+      [
+        "",
+        "",
+        "Grade WP91, other acceptable ASTM editions are limited to 18 and later. For",
+        ""
+      ],
+      [
+        "",
+        "",
+        "welded and filler metal products ordered to Section III or Section VIII,",
+        ""
+      ],
+      [
+        "",
+        "",
+        "Division 1, Supplementary Requirement S4 is mandatory. For Grade WP91",
+        ""
+      ],
+      [
+        "",
+        "",
+        "Type 2, Supplementary Requirement S5 is mandatory.",
+        ""
+      ],
+      [
+        "SA-240/SA-240M",
+        "17",
+        "Identical except for UNS S31050, other acceptable ASTM editions are limited to",
+        "88c through 17"
+      ],
+      [
+        "",
+        "",
+        "04 and later. For UNS S32906, other acceptable ASTM editions are limited to",
+        ""
+      ],
+      [
+        "",
+        "",
+        "07e1 and later. For UNS S38815, other acceptable ASTM editions are limited",
+        ""
+      ],
+      [
+        "",
+        "",
+        "to 16 and later. For UNS S32101, other acceptable ASTM editions are limited",
+        ""
+      ],
+      [
+        "",
+        "",
+        "to -OS and later.",
+        ""
+      ],
+      [
+        "SA-249/SA-249M",
+        "18a",
+        "Identical except for the deletion of S5, which allows lower mechanical",
+        "88b through 18a"
+      ],
+      [
+        "",
+        "",
+        "properties, and for Section I only, S9 is mandatory when 100% joint",
+        ""
+      ],
+      [
+        "",
+        "",
+        "efficiency is required. For UNS S31040, other acceptable ASTM editions are",
+        ""
+      ],
+      [
+        "",
+        "",
+        "limited to 10a and later. For UNS S31254, other acceptable ASTM editions",
+        ""
+      ],
+      [
+        "",
+        "",
+        "are limited to 01 and later.",
+        ""
+      ],
+      [
+        "SA-250/SA-250M",
+        "05(2014)",
+        "Identical except that Supplementary Requirement Sl is mandatory when 100%",
+        "88a through 05(2014)"
+      ]
+    ]
+  },
+  {
+    "rows": [
+      [
+        "",
+        "",
+        "and welding is used to join multiple alloy cladding plates, ASTM editions",
+        ""
+      ],
+      [
+        "",
+        "",
+        "prior to 12 are not acceptable unless welding was performed by an ASME",
+        ""
+      ],
+      [
+        "",
+        "",
+        "Certificate Holder.",
+        ""
+      ],
+      [
+        "SA-264",
+        "12(2019)",
+        "Identical. In cases where cladding is used in the design strength calculations",
+        "88 through 12(2019)"
+      ],
+      [
+        "",
+        "",
+        "and welding is used to join multiple alloy cladding plates, ASTM editions",
+        ""
+      ],
+      [
+        "",
+        "",
+        "prior to 12 are not acceptable unless welding was performed by an ASME",
+        ""
+      ],
+      [
+        "",
+        "",
+        "Certificate Holder.",
+        ""
+      ],
+      [
+        "SA-265",
+        "12(2019)",
+        "Identical. In cases where cladding is used in the design strength calculations",
+        "88 through 12(2019)"
+      ]
+    ]
+  }
+]

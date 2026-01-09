@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 824,
+  "globalPageIndex": 1622,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "SA/EN 10025\u20222 ASME BPVC.II.A\u00b72025 \nSPECIFICATION FOR HOT ROLLED PRODUCTS OF \nSTRUCTURAL STEELS \nPart 2: Technical Delivery Conditions for Non-Alloy \nStructural Steels \nSA/EN 10025-2 \n(Identical with International Specification EN 10025-2:2019 with these additional requirements.) \n1. Additional Requirements \n1.1 Marking: \n( a] In addition to the marking requirements of this \nspecification, all products required to be marked and \nmaterial identification used on all documentation \nrequired by this specification are to be identified by \nthis SA/EN specification designation. \n(b] Products that have been given the full heat treat\u00ad\nment required by para. 6.3 shall be marked by the party \nperforming the heat treatment with the letters designating \nthe applicable heat treatment condition following the \n. stamped steel name or number. \n',' (c] Products that have received a normalizing treat\u00ad\nment shall be marked \"+N.\" Products that have received \na normalizing rolling treatment shall be marked \"+NR\" \ninstead of \"+N.\" \n( d) Products that are not heat treated but are qualified \non the basis of heat treated specimens shall be stamped \nwith letter \"G\" following the stamped specification desig\u00ad\nnation. \n(e J When such products are subsequently heat treated, \nthey shall be marked by the party that performed the heat \ntreatment, as required by (b] following the required \nstamped specification designation. \n1.2 Chemical Composition: \nThese materials shall conform to SA-20/SA-Z0M Table \n1, whenever SA-20/SA-Z0M Table 1 is more restrictive. \n1.3 Resurfacing by Welding: \nIf resurfacing by welding is acceptable by agreement \nwith the purchaser the following requirements have to \nbe fulfilled: \n( a) Preparation for repair welding shall include inspec\u00ad\ntion to assure complete removal of the defect. \n(b) Repairs shall be made utilizing welding procedures \nqualified in accordance with ASME Section IX and repair \nwelding shall be done by welders or welding operators \nmeeting the qualification requirements of ASME \nSection IX. \n1.4 Test Reports: \n1.4.1 For all products, a test report shall be furn\u00ad\nished; it shall include all elements required in this SA/ \nEN specification. \n1.4.2 The designation of this SA/EN specification \nshall include the edition year. \n1.4.3 Copies of the original manufacturer's test \nreport shall be included with any subsequent test report. \n2. National Parts \n2.1 The National Foreword and the National Annexes, \nif any, do not apply for SA/EN 10025-2. \n1568 \n~ \n~\u00b7 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1622.json",
+  "tabulaTablesCsv": "tables_tabula/page-1622.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-1622.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2504,
+  "bestTextAlphaRatio": 0.7608
+}

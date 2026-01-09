@@ -1,0 +1,41 @@
+F 317 solution treat and quench,1900 [1040],liquidE,500 [260],B
+F 317L solution treat and quench,1900 [1040],liquidE,500 [260],B
+B F317LNCb solution treat and quench,1900 [1040],liquidE,500 [260],
+F 72 solution treat and quench,1975-2155 [1080-1180],liquidE,500 [260],B
+F 73 solution treat and quench,1975-2155 [1080-1180],liquidE,500 [260],B
+B F 347 solution treat and quench,1900 [1040],liquidE,500 [260],
+F 347H solution treat and quench,2000 [1095],liquidE,500 [260],B
+B F 347LN solution treat and quench,1900 [1040],liquidE,500 [260],
+F 347LNCuB solution treat and quench,1940-2140,liquidE,B 500 [260],
+,[1060-1170],,,
+B F 348 solution treat and quench,1900 [1040],liquidE,500 [260],
+B F 348H solution treat and quench,2000 [1095],liquidE,500 [260],
+B F 321 solution treat and quench,1900 [1040],liquidE,500 [260],
+B F 321H solution treat and quench,2000 [1095],liquidE,500 [260],
+F XM-11 solution treat and quench,1900 [1040],liquidE,500 [260],B
+F XM-19 solution treat and quench,1900 [1040],liquidE,500 [260],B
+F 20 solution treat and quench,1700-1850 [925-101 OJ,liquidE,500 [260],B
+F 44 solution treat and quench,2100 [1150],liquidE,B 500 [260],
+B F 45 solution treat and quench,1900 [1040],liquidE,500 [260],
+F 46 solution treat and quench,2010-2140 [1100-1140],liquidE,500 [260],B
+F 47 solution treat and quench,1900 [1040],liquidE,500 [260],B
+B F 48 solution treat and quench,1900 [1040],liquidE,500 [260],
+B F 49 solution treat and quench,2050 [1120],liquidE,500 [260],
+F 56 solution treat and quench,2050-2160 [1120-1180],liquidE,500 [260],B
+F 58 solution treat and quench,2085 [1140],liquidE,500 [260],B
+F 62 solution treat and quench,2025 [1105],liquidE,500 [260],B
+B F 63 solution treat and quench,1900 [1040],liquidE,500 [260],
+F 64 solution treat and quench,2010-2140 [1100-1170],liquidE,B 500 [260],
+F 904L solution treat and quench,1920-2100 [1050-1150],liquidE,B 500 [260],
+B F 70 solution treat and quench,1900 [1040],liquid0,500 [260],
+F700 solution treat and quench,2025-2100 [1107 -1149],liquid/rapid cool,500 [260],B
+FNIC solution treat and quench,1800-1900 [983-1 038],liquid/rapid cool,500 [260],B
+B FNIC10 solution treat and quench,2100-2150 [1149-1177],liquid/rapid cool,500 [260],
+B FNIC11 solution treat and quench,2100-2150 [1149-1177],liquid/rapid cool,500 [260],
+F1925 solution treat and quench,1800-1900 [983-1 038],liquid/rapid cool,500 [260],B
+F1925N solution treat and quench,2150 [1177],liquid/rapid cool,500 [260],B
+F35030 solution treat and guench,1900 [1040],liguid,500 [260],B
+
+F 52c,,liquid,500 [260],B
+F 53 solution treat and quench,1880 [1025],liquid,500 [260],B
+F 54 solution treat and quench,1920-2060 [1050-1125],liquid,500 [260],B

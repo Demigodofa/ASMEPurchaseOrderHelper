@@ -1,0 +1,110 @@
+SA-350/SA-350M (ASTM A350/A350M) ASME BPVC.II.A-2025 
+for not less than ½ h, and remove from the furnace and cool in 
+air. Subsequently, artificially age in the range from 1000 to 
+1200 °F [540 to 650 °C] for not less than½ h, and cool at any 
+convenient rate. 
+5.4.3.2 Quenched-and-Precipitation Heat Treated­
+Austenitize in the range from 1600 to 1725 °F [870 to 940 °C] 
+for not less than ½ h and quench in a suitable liquid medium 
+by immersion; artificially age in the range from 1000 to 
+1225 °F [540 to 665 °C] for not less than ½ h, and cool at any 
+convenient rate. 
+6. Chemical Composition 
+6.1 Heat Analysis: 
+6.1.1 A chemical heat analysis in accordance with Specifi­
+cation A961/A961M shall be made and conform to the 
+requirements as to chemical composition prescribed in Table 1. 
+Leaded steels shall not be permitted. 
+6.2 Product Analysis: 
+6.2.1 The purchaser may make a product analysis on prod­
+ucts supplied to this specification in accordance with Specifi­
+cation A961/A961M. 
+7. Mechanical Properties 
+7.1 Tension Tests: 
+7.1.1 Requirements-The material shall conform to require­
+ments for tensile properties in Table 2. 
+7 .1.1.1 The test specimen shall be obtained from a rough or 
+finished forging, or prolongation thereof. For forgings under 
+10 000 lbs, at time of heat treatment, it may be obtained from 
+separately forged test blanks from the same heat of steel as the 
+production forgings. The test blank shall be reduced by forging 
+in a manner similar to that for the products represented, and 
+shall receive approximately the same hot working and reduc­
+tion and the same heat treatment as the finished products 
+represented. The test material shall be treated in the same 
+furnace at the same time as the forging it represents, subject to 
+the requirements of 7 .1.2.1. 
+7 .1.1.2 The test specimen shall represent all forgings from 
+the same heat and heat-treatment load whose maximum thick­
+nesses do not exceed the thickness of the test forging or blank 
+by more than ¼ in. [6 mm]. 
+7 .1.2 Number of Tests-One tension test at room tempera­
+ture shall be made in accordance with 7 .1.1.2 from each heat in 
+each heat-treatment load. 
+7 .1.2.1 If heat treatment is performed in either a continuous 
+or a batch-type furnace controlled within ±25 °F [±14 °C] of 
+the required heat-treatment temperature and equipped with 
+recording pyrometers so that complete records of heat treat­
+ment are available and if the same heat-treating cycles are used 
+on the forgings represented by the tension test, then one tension 
+test from each heat shall be required, instead of one tension test 
+from each heat in each heat treatment load in accordance with 
+7.1.1.2. 
+7 .1.3 Test Locations and Orientations-The test specimen 
+shall be removed from the heaviest section of the forging or 
+test blank, at locations described in 7.1.3.1, 7.1.3.2, 7.1.3.5 or 
+as close to these locations as practical, subject to forging size 
+and geometry. 
+7.1.3.1 For forgings or test blanks having a maximum 
+heat-treated thickness, T, of 2 in. [50 mm] or less, the 
+longitudinal axis of the test specimen shall be taken at 
+mid-thickness and its mid-length shall be at least 2 in. [50 mm] 
+from all other heat treated surfaces, exclusive of the T 
+dimension surfaces. (This is normally referred to as V2 T by 2 
+in. [50 mm]). See Fig. 1 for test specimen location in separately 
+forged test blanks. 
+7.1.3.2 For forgings or test blanks having a maximum 
+heat-treated thickness, T, greater than 2 in. [50 mm]: 
+TABLE 2 Tensile Properties at Room TemperatureA 
+Grades 
+LF1 and LF5 LF2 LF3 LF6 
+Class 1 Classes Classes 1 Class 1 Classes 2 1 and 2 and 2 and 3 LF5 
+Class 2 
+Tensile strength, ksi [MPa] 60-85 70-95 70-95 66-91 75-100 
+[415-585] [485-655] [485-655] [455-630] [515-690] 
+Yield strength, min, ksi [MPa] 8 30 [205] 36 [250] 37.5 [260] 52 [360] 
+Elongation: 
+Standard round specimen, or 
+small proportional specimen, 
+min % in 40 gauge length 
+Strip specimen for wall thickness 
+5 /10 in. [7.94 mm] and over 
+and for all small sizes tested 
+in full section; min % in 2 in. 
+[50mm] 
+25 22 22 22 
+28 30 30 30 
+Equation for calculating min 481+ 13 481+ 15 481+ 15 481+ 15 
+elongation for strip specimens 
+thinner than 5/10 in. [7.94 mm]; 
+min % in 2 in. [50 mm] 
+I= actual thickness in inches 
+Reduction of area, min, % 0 38 30 35 40 
+A See 7.3 for hardness tests. 
+8 Determined by either the 0.2 % offset method or the 0.5 % extension under load method. 
+c For round specimens only. 
+530 
+60 [415] 
+20 
+28 
+481+ 13 
+40 
+LF9 LF787 
+Class 2 Class 3 
+63-88 65-85 75-95 
+[435-605] [450-585] [515-655] 
+46 [315] 55 [380] 65 [450] 
+25 20 20 
+28 28 28 
+481 + 13 481 + 13 481+ 13 
+38 45 45 

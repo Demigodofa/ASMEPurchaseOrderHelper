@@ -1,0 +1,157 @@
+SA-335/SA-335M (ASTM A335/A335M) ASME BPVC.II.A-2025 
+TABLE 2 Heat Treatment RequirementsA 
+Grade 
+P1 
+P2 
+PS 
+P5b 
+P5c 
+pg 
+P11 
+P12 
+P15 
+P21 
+P22 
+P23 
+P24 
+P36 
+P91 Type 1 and Type 2 
+Heat Treat Type 
+full or isothermal anneal or 
+normalize and temper or 
+subcritical anneal 
+full or isothermal anneal or 
+normalize and temper or 
+subcritical anneal 
+full or isothermal anneal or 
+normalize and temper 
+full or isothermal anneal or 
+normalize and temper 
+subcritical anneal 
+full or isothermal anneal or 
+normalize and temper 
+full or isothermal anneal or 
+normalize and temper 
+full or isothermal anneal or 
+normalize and temper or 
+subcritical anneal 
+full or isothermal anneal or 
+normalize and temper 
+full or isothermal anneal or 
+normalize and temper 
+full or isothermal anneal or 
+normalize and temper 
+normalize and temper 
+normalize and temper 
+normalize and temper 8 
+normalize and temper or 
+quench and temper 
+P92 normalize and temper 
+P93 normalize and temper 
+P115 normalize and temper 
+P122 normalize and temper 
+P128 normalize and temper 
+P911 normalize and temper 
+P921 normalize and temper 
+AWhere ellipses ( ... ) appear in this table there is no requirement. 
+Normalizing 
+Temperature, 
+min or range 
+'F ['CJ 
+1900-1975 [1040-1080J 
+1800-1870 [980-1020J 
+1650 [900] 
+1900-1975 [1040-1080] 
+1900-1975 [1040-1080] 
+1900-1975 [1040-1080] 
+1960-2140 [1070-1170] 
+1920-2010 [1050-1100] 
+1900-1975 [1040-1080J 
+1975-2140 [1080-1170J 
+1900-1975 [1040-1080J 
+1670-1740 [910-950] 
+Cooling Media 
+air or 
+accelerated 
+cooling 
+air or 
+accelerated 
+cooling 
+... 
+D 
+... 
+D 
+air 
+D 
+air 
+8 Alternatively, Grade P36, Class 2 shall be cooled from the austenitizing temperature by accelerated cooling in air or by liquid quenching. 
+cExcept when Supplementary Requirement S7 is specified by the purchaser. 
+0 Accelerated cooling from the normalizing temperature shall be permitted for section thicknesses greater than 3 in. [75 mm]. 
+Subcritical 
+Annealing or 
+Tempering 
+Temperature, 
+min or range 
+'F ['CJ 
+1200 [650J 
+1200-1300 [650-705J 
+1250 [675J 
+1200-1300 [650-705J 
+1250 [675] 
+1250 [675] 
+1325-1375 [715-745] 
+1250 [675] 
+1200 [650J 
+1200 [650] 
+1200-1300[650-705] 
+1200 [650J 
+1250 [675J 
+1250 [675J 
+1350-1470 [730-800] 
+1350-1420 [730-770J 
+1100 [595J 
+1350-1470 [730-800]G 
+1350-1470 [730-800] 
+1350-1470 [730-800] 
+1380-1455 [750-790J 
+1380-1455 [750-790] 
+1350-1470[730-800] 
+1400-14 70 [760-800J 
+1365-1435 [740-780] 
+1350-1420 [730-770] 
+specification. The outside diameter at the point of grinding may 
+be reduced by the amount so removed. 
+7.6.4 After weld repair, Grade P911 shall be heat treated at 
+1365-1435 °P [740-780 °C]. 
+7.6 Weld repair shall be permitted only subject to the 
+approval of the purchaser and in accordance with Specification 
+A999/A999M. 
+7.6.1 All repair welds in P91 shall be made with one of the 
+following welding processes and consumables: SMAW, AS.SJ 
+AS.SM E90XX-B9; SAW, A5.23/A5.23M EB9 + neutral flux; 
+GTAW, A5.28/A5.28M ER90S-B9; and PCAW A5.29/A5.29M 
+E91Tl-B9. In addition, the sum of the Ni+Mn content of all 
+welding consumables used to weld repair P91 Type 1 and Type 
+2 shall not exceed 1.0 %. 
+7.6.2 All repair welds in P92, P93, P911, and P122, shall be 
+made using welding consumables meeting the chemical re­
+quirements for the grade in Table 1. 
+7.6.3 After weld repair, Grades P23, P91 Type 1 and Type 2, 
+P92, and Pl22 shall be heat treated at 1350-1470 °P [730-800 
+oq. 
+510 
+7.6.5 After weld repair, Grade P24 shall be heat treated at 
+1350-1420 °P [730-770 °C]. 
+7.6.6 After weld repair, Grade P93 shall be heat treated to 
+1350-1455 °P [730-790 °C]. 
+7.6.7 After weld repair, Grade Pl15 shall be heat treated at 
+1345-1435 °P [730-780 °C]. 
+7.6.8 After weld repair, Grade P128 shall be heat treated at 
+1400-1470 °P [760-800 °C]. 
+7.7 The finished pipe shall be reasonably straight. 
+8. Product Analysis 
+8.1 At the request of the purchaser, an analysis of two pipes 
+from each lot as defined hereafter shall be made by the 
+manufacturer. A lot is all pipe of the same nominal size and 
+wall thickness (schedule) which is produced from the same 
+heat of steel and shall be limited as follows: 

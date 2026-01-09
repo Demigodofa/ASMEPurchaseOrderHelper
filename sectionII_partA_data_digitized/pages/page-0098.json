@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 98,
+  "globalPageIndex": 98,
+  "width": 613.92,
+  "height": 793.2,
+  "text": "SA-6/SA-6M ASME BPVC.II.A-2025 \nTABLE A 1.25 Permitted Variations in Dimensions for Split Tees \nand Split Angles (L Shapes)A \nSpecified Depth, mm \nTo 150, excl (beams and channels) \n150 to 410, excl (beams and channels) \n410 to 510, excl (beams and channels) \n510 to 610, excl (beams) \n61 O and over (beams) \nPermitted Variation Over or \nUnder \nSpecified Depth, 8 mm \n3 \n5 \n6 \n8 \n10 \nA The permitted variations in length for split tees or angles are the same as those \napplicable to the section from which the tees or angles are split. \n8 The above permitted variations in depth of tees or angles include the permitted \nvariations in depth for the beams or channels before splitting. Permitted variations \nin dimensions and straightness, as set up for the beams or channels from which \nthese tees or angles are cut, apply, except \nstraightness = 2 mm x length in metres \nTABLE A1.26 Permitted Variations in Sectional Dimensions for Square-Edge and Round-Edge Flat Bars \nNoTE 1-Where \" ... \" appears in this table, there is no requirement. \nSpecified Widths, \nPermitted Variations Over or Under Specified Thickness, for Thicknesses Given in Millimetres, mm Permittedf\"ieVdarWia_ 1tdiothn,smfrmom Speci\u00ad\nmm Over 5 to 6, Over 6 to 12, Over 12 to 25, Over 25 to 50, \nincl incl incl incl \nOver \n50 to 75 Over75 \nTo 25, incl 0.18 0.20 0.25 \nOver 25 to 50, incl 0.18 0.30 0.40 0.8 \nOver 50 to 100, incl 0.20 0.40 0.50 0.8 1.2 \nOver 100 to 150, incl 0.25 0.40 0.50 0.8 1.2 \nOver 150 to 200, incl A 0.40 0.65 0.8 1.2 \nA Flats over 150 to 200 mm, incl, in width are not available as hot-rolled bars in thickness 6 mm and under. \nTABLE A1.27 Permitted Variations in Sectional Dimensions for \nRound and Square Bars and Round-Cornered Squares \nNoTE 1-Where \" ... \" appears in this table, there is no requirement. \nPermitted Variation Permitted Out-of-\nOver Round \nSpecified Sizes, mm or Under Specified or Out-of-\nSize Square SectionA \nmm % mm % \nUp to 7.0, incl 0.13 0.20 \nOver 7.0 to 11.0, incl 0.15 0.22 \nOver 11.0 to 15.0, incl 0.18 0.27 \nOver 15.0 to 19.0, incl 0.20 0.30 \nOver 19.0 to 250, incl 1B 1\u00bd8 \nA Out-of-round is the difference between the maximum and minimum diameters of \nthe bar, measured at the same transverse cross section. Out-of-square section is \nthe difference in perpendicular distance between opposite faces, measured at the \nsame transverse cross section. \n8 The permitted variation shall be rounded to the nearest tenth of a millimetre after \ncalculation. \n46 \n1.2 \n1.2 \n1.6 \nOver Under \n0.5 0.5 \n1.0 1.0 \n1.5 1.0 \n2.5 1.5 \n3.0 2.5 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0098.json",
+  "tabulaTablesCsv": "tables_tabula/page-0098.csv",
+  "tabulaTableCount": 3,
+  "bestTextPath": "best_text/pages/page-0098.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2547,
+  "bestTextAlphaRatio": 0.6533
+}

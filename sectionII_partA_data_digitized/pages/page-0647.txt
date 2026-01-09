@@ -1,0 +1,124 @@
+ASME BPVC.II.A-2025 SA-370 
+R 
+/ 
+I I 
+, 
+I 
+I 
+I , 
+I 
+I 
+' I 
+I 
+I 
+I 
+I 
+' I 
+' I 
+I 
+I , 
+I , 
+I 
+' I , 
+I , 
+' Strain 
+A n 
+, r , , 
+I 
+I 
+I 
+I 
+I 
+FIG. 9 Stress-strain Diagram for Determination of Yield Strength 
+by Offset Method 
+BEND TEST 
+15. Description 
+15.1 The bend test is one method for evaluating ductility, 
+but it cannot be considered as a quantitative means of predict­
+ing service perfonnance in all bending operations. The severity 
+of the bend test is primarily a function of the angle of bend of 
+the inside diameter to which the specimen is bent, and of the 
+cross section of the specimen. These conditions are varied 
+according to location and orientation of the test specimen and 
+the chemical composition, tensile properties, hardness, type, 
+and quality of the steel specified. Test Methods E190 and E290 
+may be consulted for methods of performing the test. 
+15.2 Unless otherwise specified, it shall be permissible to 
+age bend test specimens. The time-temperature cycle employed 
+must be such that the effects of previous processing will not be 
+materially changed. It may be accomplished by aging at room 
+temperature 24 to 48 h, or in shorter time at moderately 
+elevated temperatures by boiling in water or by heating in oil 
+or in an oven. 
+15.3 Bend the test specimen at room temperature to an 
+inside diameter, as designated by the applicable product 
+specifications, to the extent specified. The speed of bending is 
+ordinarily not an important factor. 
+HARDNESS TEST 
+16. General 
+16.1 A hardness test is a means of determining resistance to 
+penetration and is occasionally employed to obtain a quick 
+approximation of tensile strength. Tables 2-5 are for the 
+conversion of hardness measurements from one scale to 
+another or to approximate tensile strength. These conversion 
+values have been obtained from computer-generated curves 
+and are presented to the nearest 0.1 point to permit accurate 
+reproduction of those curves. All converted hardness values 
+must be considered approximate. All converted Rockwell and 
+Vickers hardness numbers shall be rounded to the nearest 
+whole number. 
+16.2 Hardness Testing: 
+16.2.1 If the product specification permits alternative hard­
+ness testing to detennine conformance to a specified hardness 
+requirement, the conversions listed in Tables 2-5 shall be used. 
+16.2.2 When recording converted hardness numbers, the 
+measured hardness and test scale shall be indicated in 
+parentheses, for example: 353 HBW (38 HRC). This means 
+that a hardness value of 38 was obtained using the Rockwell C 
+scale and converted to a Brinell hardness of 353. 
+17. Brinell Test 
+17 .1 Description: 
+17.1.1 A specified load is applied to a flat surface of the 
+specimen to be tested, through a tungsten carbide ball of 
+specified diameter. The average diameter of the indentation is 
+used as a basis for calculation of the Brinell hardness number. 
+The quotient of the applied load divided by the area of the 
+surface of the indentation, which is assumed to be spherical, is 
+termed the Brinell hardness number (HBW) in accordance with 
+the following equation: 
+where: 
+HBW 
+p 
+D 
+d 
+HBW= P![(nDl2)(D - \jD 2 - d 2 )] (4) 
+= Brinell hardness number, 
+= applied load, kgf, 
+= diameter of the tungsten carbide ball, mm, and 
+= average diameter of the indentation, mm. 
+NoTE 12-The Brinell hardness number is more conveniently secured 
+from standard tables such as Table 6, which show numbers corresponding 
+to the various indentation diameters, usually in increments of 0.05 mm. 
+Norn 13-In Test Method ElO the values are stated in SI units, whereas 
+in this section kg/m units are used. 
+17 .1.2 The standard Brinell test using a 10 mm tungsten 
+carbide ball employs a 3000 kgf load for hard materials and a 
+1500 or 500 kgf load for thin sections or soft materials (see 
+Annex A2 on Steel Tubular Products). Other loads and differ­
+ent size indentors may be used when specified. In recording 
+hardness values, the diameter of the ball and the load must be 
+stated except when a 10 mm ball and 3000 kgf load are used. 
+17 .1.3 A range of hardness can properly be specified only 
+for quenched and tempered or normalized and tempered 
+material. For annealed material a maximum figure only should 
+be specified. For normalized material a minimum or a maxi­
+mum hardness may be specified by agreement. In general, no 
+hardness requirements should be applied to untreated material. 
+17 .1 .4 Brinell hardness may be required when tensile prop­
+erties are not specified. 
+595 
+17 .2 Apparatus-Equipment shall meet the following re­
+quirements: 
+17 .2.1 Testing Machine-A Brinell hardness testing ma­
+chine is acceptable for use over a loading range within which 
+its load measuring device is accurate to :±: 1 %. 

@@ -1,0 +1,228 @@
+[
+  {
+    "rows": [
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "and",
+        "P36 Class",
+        "",
+        "",
+        "",
+        "",
+        "2.0",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "T e2",
+        "1",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "nsile strength,",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "in:",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "ksi",
+        "55.0",
+        "60.0",
+        "74.0",
+        "85.0",
+        "85",
+        "90",
+        "109.0",
+        "90.0",
+        "90.0",
+        "94.0",
+        "95.5",
+        "60.0"
+      ],
+      [
+        "MPa",
+        "380.0",
+        "415.0",
+        "510.0",
+        "585.0",
+        "585",
+        "620",
+        "750.0",
+        "620.0",
+        "620.0",
+        "650.0",
+        "660.0",
+        "415.0"
+      ],
+      [
+        "ield strength,",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "in:",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "ksi",
+        "30.0",
+        "32.0",
+        "58.0",
+        "60.0",
+        "60",
+        "64",
+        "84.0",
+        "65.0",
+        "58.0",
+        "71.0",
+        "66.5",
+        "30.0"
+      ],
+      [
+        "MPa",
+        "205.0",
+        "220.0",
+        "400.0",
+        "415.0",
+        "415",
+        "440",
+        "580.0",
+        "450.0",
+        "400.0",
+        "490.0",
+        "460.0",
+        "205.0"
+      ]
+    ]
+  },
+  {
+    "rows": [
+      [
+        "to the requirements specified in Table 1.",
+        "in Table 7."
+      ],
+      [
+        "8.3 For grade P91 Type 1 the carbon content may vary for",
+        "10.2 For pipe ordered to inside diameter, the inside diameter"
+      ],
+      [
+        "the product analysis by -0.01 % and +0.02 % from the",
+        "shall not vary more than :\u00b1: 1 % from the specified inside"
+      ],
+      [
+        "specified range as per Table 1.",
+        "diameter."
+      ],
+      [
+        "8.4 If the analysis of one of the tests specified in 8.1 does",
+        ""
+      ],
+      [
+        "",
+        "11. Permissible Variations in Wall Thickness"
+      ],
+      [
+        "not conform to the requirements specified in 6.1, an analysis of",
+        ""
+      ],
+      [
+        "each billet or pipe from the same heat or lot may be made, and",
+        "11.1 In addition to the implicit limitation of wall thickness"
+      ],
+      [
+        "all billets or pipe conforming to the requirements shall be",
+        "for pipe imposed by the limitation on weight in Specification"
+      ],
+      [
+        "accepted.",
+        "A999/ A999M, the wall thickness for pipe at any point shall be"
+      ],
+      [
+        "",
+        "within the tolerances specified in Table 8. The minimum wall"
+      ],
+      [
+        "9. Tensile and Hardness Requirements",
+        "thickness and outside diameter for inspection for compliance"
+      ],
+      [
+        "9 .1 The tensile properties of the material shall conform to",
+        "with this requirement for pipe ordered by NPS [DN] and"
+      ],
+      [
+        "the requirements prescribed in Table 3.",
+        "schedule number is shown in ASME B36.10M."
+      ],
+      [
+        "9.2 Table 4 lists elongation requirements.",
+        "12. Hydrostatic Test"
+      ],
+      [
+        "9.3 Table 5 gives the computed minimum elongation values",
+        "12.1 The requirements for grades other than P91 Type 1 and"
+      ],
+      [
+        "for each 1/32-in. [0.8-mm] decrease in wall thickness. Where the",
+        "Type 2, P92, P93, P115, P911, P122, and P128 are shown in"
+      ]
+    ]
+  }
+]

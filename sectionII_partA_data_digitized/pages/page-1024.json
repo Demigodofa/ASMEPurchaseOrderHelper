@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 226,
+  "globalPageIndex": 1024,
+  "width": 798.0,
+  "height": 620.16,
+  "text": "I.O \nN \n.i,,. \nTensile strength, ksi [M Pa] \nYield strength (0.2% offset), \nmin, ksi [M PaJ \nElongation in 2 in. or \n50 mm, min,% \nReduction of area, min, % \n( \n---- --------\nGrades 1 \nand lA \n70 to 95 \n[485-655] \n36 [250] \n20 \n38 \n. \u00b7\u00b7---\nGrades 2 \nClass 1, \n3 Class 1, \nlC and \n11 Class 4 \n80 to 105 \n[550-725] \n50 [345] \n18 \n38 \n\\ \n\u00b7\u00b7-\nTABLE 2 \nTENSILE REQUIREMENTS \nGrade 2 Grade 4N \nClass 2 Class 1 \nand and \nGrade 3 Grade 22 Grade 22 Grade 5 \nClass 2 Class 4 Class 5 Class 1 \n90 to 115 105-130 115-140 105 to 130 \n[620-795] [725-895] [795-965] [725-895] \n65 [450] 85 [585] 100 [690-J 85 [585] \n16 16 15 18 \n35 45 40 48 \n- ----.,~- - ---------\u00b7----\u00b7\u00b7 --- -- ---,----- -\nGrades 4N \nClass 2 and Grade 4N Grades 3V \n5 Class 2 Class 3 and 22V \n115-140 90 to 115 85-110 \n[795-965] [620-795] [585-760] \n100 [690] 70 [485] 60 [415] \n16 20 18 \n45 48 45 \nI \n! \n1:--- ---\nGrade 22 \nClass 3 \n85-110 \n[585-760] \n55 [380] \n18 \n45 \n. Grade \n3VCb \n85-110 \n[585-760] \n60 [415] \n18 \n45 \n) \n~ \nU1 \n>I>\u00ad\nI-\n~ en \n>I>-\n1-\n:s: \ni \nt:1:1 \n~ \n~ \nN \nQ \nN \nU1 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1024.json",
+  "tabulaTablesCsv": "tables_tabula/page-1024.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-1024.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1040,
+  "bestTextAlphaRatio": 0.2942
+}

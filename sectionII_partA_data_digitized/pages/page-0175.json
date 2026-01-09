@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 175,
+  "globalPageIndex": 175,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "ASME BPVC.II.A-2025 SA-31 \nFIG. 2 FLATTENING TEST OF RIVET \nTABLE 1 \nCHEMICAL REQUIREMENTS \nGrade A Grade B \nHeat Product Heat Product \nAnalysis Analysis Analysis Analysis \nCarbon, max., % 0.28 0.31 \nManganese, % 0.30-0.60 0.27-0.63 0.30-0.80 0.27-0.83 \nPhosphorus, max., % 0.040 0.048 0.040 0.048 \nSulfur, max., % 0.050 0.058 0.050 0.058 \nTABLE 2 \nBEND REQUIREMENTS, RIVETS \nDiameter of \nRivet Shank, in. \n\u00be and under \nOver\u00be \nRatio of Bend Diameter to \nDiameter of Rivet Shank \nGrade A \nflat \nflat \nGrade B \n1 \n1\u00bd \n123 \nTABLE 3 \nTENSILE REQUIREMENTS, BARS \nTensile strength, psi ( M Pa) \nYield point, min., psi ( M Pa) \nElongation in 8 in. or \n200 mm, min., % \nElongation in 2 in. or \n50 mm, min., % \nGrade A Grade B \n45 000-55 000 58 000-68 000 \n(310-380) (400-470) \n23 000 (160) 29 000 (200) \n27 22 \n33 25 \nTABLE 4 \nBEND REQUIREMENTS, BARS \nSpecimen \nDiameter, in. \n\u00be and under \nOver\u00be \nRatio of Bend Diameter to \nDiameter of Specimen \nGrade A Grade B \nflat \nflat \nTABLE 5 \n\u00bd \n1 \nPERMISSIBLE VARIATIONS IN THE SIZE OF \nHOT-ROLLED ROUNDS \nVariations from \nSize, in. Out-of-\nSpecified Size, in. Over Under Round/ in. \n3/i. 6 and under 0.005 0.005 0.008 \nOver 3/i. 6 to 1/i_ 6 , inc I 0.006 0.006 0.009 \nOver 1/i. 6 to %, incl 0.007 0.007 0.010 \nOver% to\u00bc, incl 0.008 0.008 0.012 \nOver \u00bc to 1, incl 0.009 0.009 0.013 \nOver 1 to 1 \u00bd, incl 0.010 0.010 0.015 \nOver 1 \u00bd to 1 \u00bc, incl 0.0ll 0.0ll 0.016 \nOver 1\u00bc to 1\u00be, incl 0.012 0.012 0.018 \nOver 1 \u00be to 1 \u00bd, incl 0.014 0.014 0.021 \nA Out-of-round is the difference between the maximum and mini\u00ad\nmum diameters of the bar, measured at the same cross-section. ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0175.json",
+  "tabulaTablesCsv": "tables_tabula/page-0175.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0175.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1602,
+  "bestTextAlphaRatio": 0.5175
+}

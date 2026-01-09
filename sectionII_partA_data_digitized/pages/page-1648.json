@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 850,
+  "globalPageIndex": 1648,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "SA/EN 10222-2 ASME BPVC.II.A-2025 \nSPECIFICATION FOR STEEL FORGINGS FOR \nPRESSURE PURPOSES \nPart 2: Ferritic and Martensitic Steels With Specified \nElevated Temperature Properties \nSA/EN 10222-2 \n(Identical with International Specification EN 10222-2:2017+A1:2021 with these additional requirements.) \n1. Additional Requirements \n1.1 General Requirements: \nAll \"see EN 10222-1\" shall be read as \"shall be according \nto EN 10222-1.\" \n1.2 Marking: \n[a) In addition to the marking requirements of this \nspecification, the marking on products, and the material \nidentification used on all documentation shall include: \n(1) this SA/EN specification designation \n(2) the steel grade or number \n(3) heat treatment condition as described below \n[b) Forgings shall be marked by the party performing \nthe heat treatment with the letters designating the appli\u00ad\ncable heat treatment condition in Table 1 of EN 10222-2 \nfollowing the stamped steel name or number. \n[c) Forgings for which normalizing has been replaced \nby normalizing forming as permitted by Note c of Table 1 \nshall be marked as \"+NF\" instead of \"+N\". \n1.3 Chemical Composition: \nNote c of Table 2 shall be read as, \"If only aluminum is \nused for nitrogen binding, a ratio of Al/N :::: 2 shall apply.\" \nl.4 Mechanical Properties: \nIn Table A.2a, 1 % creep limit properties (for tempera\u00ad\ntures from 380\u00b0C to 500\u00b0C), Note c for Grade X16CrMo5-1 \nshall not apply. \n1.5 Resurfacing by Welding: \nIf resurfacing by welding is acceptable by agreement \nwith the purchaser and in accordance with para. \n6.7.2.3 of EN 10222-1 the following requirements have \nto be fulfilled: \n( a) Preparation for repair welding shall include inspec\u00ad\ntion to assure complete removal of the defect. \n[b) Repairs shall be made utilizing welding procedures \nqualified in accordance with ASME Section IX and repair \nwelding shall be done by welders or welding operators \nmeeting the qualification requirements of ASME \nSection IX. \nl.6 Test Reports: \n1.6.1 In addition to information listed in EN 10222-1, \npara. 7, test reports shall include: \n[a) the purchaser's order number \n(b) the heat number \n1.6.2 The designation of this SA/EN specification shall \ninclude the edition year. \n2. National Parts \n2.1 The National Foreword and the National Annexes, if \nany, do not apply for SA/EN 10222-2. \n3. Source \n3.1 See N onmandatory Appendix A for ordering infor\u00ad\nmation to obtain an English language copy of EN 10222-2 \nand its references. \n1594 \n-~ ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 1,
+  "tabulaTablesPath": "tables_tabula/page-1648.json",
+  "tabulaTablesCsv": "tables_tabula/page-1648.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-1648.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2472,
+  "bestTextAlphaRatio": 0.7229
+}

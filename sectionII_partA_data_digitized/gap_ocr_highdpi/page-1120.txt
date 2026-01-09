@@ -1,0 +1,67 @@
+SA-587 ASME BPVC.ILA-2025
+. a
+6.2 Flattening Test: 7.2 Permissible Variations in Straightness—Each pipe shall
+6.2.1 A-section of pipe not less than 4 in. (102mm) inlength be straight within 0.030 in. (0.76 mm) maximum deflection in :
+shall be flattened cold between parallel plates in two steps. The any 3 ft (0.91 m) length to 8 NPS. For 8 NPS and above, pipe :
+weld shall be placed 90° from the direction of the applied shall be straight within 0.060 in. (1.52 mm) maximum deflec- i
+force. During the first step, which is a test for ductility, no tion in any 3 ft (0.91 m) length. Galvanized pipe shall be
+cracks or breaks, except as provided for in 6.2.5, shall occur on reasonably straight.
+the inside or outside surfaces until the distance between the .
+” : 7.3 Lengths:
+plates is Tess than the value of H, calculated by the following 7.3.1 Pipe may be ordered in definite cut lengths or in
+equation: random lengths as provided herein.
+H=([(1+e)t|/[e++/D] (1) 7.3.2 When ordered in definite cut lengths, the variation in
+length shall not exceed the amounts prescribed in Table 5. :
+where: 7.3.3 If definite lengths are not required, pipe may be
+. . . ordered in single random lengths of 16 to 22 ft (4.9 to 6.7 m)
+H = distance between flattening plates, in., ; .
+t = : . we with 5 % 12 to 16 ft (3.7 to 4.9 m), or in double random lengths
+= specified wall thickness of the pipe, in., ith a ’ £35 ft (10.7 d a _
+D = specified outside diameter of the pipe, in., and with a minimum average O t (10.7 m) and a minimum
+e = deformation per unit length (0.09 for low-carbon steel), length of 22 ft (6.7 m) with 5 % 16 to 22 ft (4.9 to 6.7 m).
+6.2.2 During the second step, which is a test for soundness, spe
+the flattening shall be continued until the specimen breaks or 8. Workmanship, Finish, and Appearance ;
+the opposite walls of the pipe meet. Evidence of laminated or 8.1 The finished pipe shall be free of injurious defects and
+unsound material, or of incomplete weld that is revealed during Shall have a workman-like finish. Minor defects may be
+the entire flattening test shall be cause for rejection. removed by grinding, provided the wall thickness is not
+6.2.3 Surface imperfections in the test specimens before  teduced to less than the minimum thickness permitted for the
+flattening, but revealed during the first step of the flattening ordered nominal wall thickness.
+test, shall be judged in accordance with the finish requirements. 8.2 The pipe shall have smooth ends free of burrs and free
+6.2.4 Superficial ruptures resulting from surface imperfec- —_ of scale except that the pipe may have a superficial “blue”
+tions shall not be cause for rejection. oxide film on the surfaces.
+6.2.5 When low D-to- rratio tubulars are tested, because the 8.3 For NPS % to 1% inclusive, the inside diameter welding
+strain imposed due to geometry is unreasonably high on the os
+wo. ; . flash shall be removed so that the remaining flash does not
+inside surface at the 6 and 12 o’clock locations, cracks at these : we :
+: rae 1 exceed 0.006 in. (0.15 mm). For NPS over 14, the remaining
+locations shall not be cause for rejection if the D-to-1 ratio is . : : :
+inside diameter welding flash shall not exceed 0.010 in. (0.25
+less than 10. mm)
+6.3 Reverse Flattening Test—A section 4 in. (102 mm) in 8.4 For all nominal sizes, the outside diameter welding flash
+length of pipe in sizes down to and including !% in. (20.6 mm) : , .
+. : ; : won S shall be removed flush with the outside diameter contour. :
+in outside diameter shall be split longitudinally 90° on each
+side of the weld and the sample opened and flattened with the 8.5 Undercut flash must be smoothly blended into the pipe |
+weld at the point of maximum bend. There shall be no evidence _ wall.
+of cracks or lack of penetration or overlaps resulting from flash 8.6 The intent of the flash conditions as prescribed in 8.3,
+removal in the weld. 8.4, and 8.5 is to obtain a surface contour suitable for flanging.
+6.4 Flange Test—A section of pipe not less than 4 in. (102
+mm) in length shall be capable of having a flange turned over 9. Number of Tests
+at a right angle to the body of the pipe without cracking or 9.1 Two tensile tests as specified in 6.1 shall be made from
+showing flaws. This flange, as measured from the outside of the — each heat.
+pipe, shall be not less than ¥s in. (3.2 mm) nor more than 4 in. . . . _
+(12.7 mm). Within these limits, the width of the flange shall be nn The fatening ast as specie 6.2 shall be made on
+not less than the percentages specified in Table 4. re eneths of pipe from each lot of 250 lengths or fraction
+7, Dimensions and Permissible Variations
+7.1 Permissible Variations in Outside Diameter and Wall
+Thickness—The outside diameter and wall thickness variations — oo A
+shall not exceed the limits prescribed in Table 1. ABLE 5 Permissible Variations in Length™
+Outside Diameter, in. Cut Length, in. (mm)
+TABLE 4 Flange Requirements Over Under :
+Outside Diameter of Pipe, in. Width of Flange, % of OD Under 2 Y (3.2) 0
+Over % to 2%, incl 15 2and over 8 (4B)
+Over 2% to 3%, incl 12% 4 These permissible variations in length apply to pipe before bending. They '
+Over 3% to 4%, incl 10 apply to cut lengths up to and including 24 ft (7.3 m). For lengths over 24 ft, an :
+Over 4% to 6%, incl 1% additional over-tolerance of in. for each 10 ft (3.0 m) or fraction thereof shall be
+Over 6% 5 permissible, up to a maximum of 1 in. (12.7 mm).
+1026

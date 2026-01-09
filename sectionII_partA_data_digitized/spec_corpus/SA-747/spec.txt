@@ -1,0 +1,1258 @@
+=== Page 1288 ===
+
+SA-747 /SA-747M ASME BPVC.II.A-2025 
+SPECIFICATION FOR STEEL CASTINGS, STAINLESS, 
+PRECIPITATION HARDENING 
+SA-747/SA-747M 
+Odentical with ASTM Specification A 747 / A 747M-04 except for the revision of the mandatory ordering requirements of para. 4.1.6 and the 
+mandatory use of Supplementary Requirement SIS of SA-781/SA-781M.) 
+1. Scope 
+1.1 This specification covers iron-chromium-nickel­
+copper corrosion-resistant steel castings, capable of being 
+strengthened by precipitation hardening heat treatment. 
+1.2 These castings may be used in services requiring 
+corrosion resistance and high strengths at temperatures up 
+to 600°F [315°C]. They may be machined in the solution­
+annealed condition and subsequently precipitation hard­
+ened to the desired high-strength mechanical properties 
+specified in Table Sl4.l with little danger of cracking or 
+distortion. 
+1.3 The material is not intended for use in the solution­
+annealed condition. 
+NOTE 1 - If the service environment in which the material is to be 
+used is considered conducive to stress-corrosion cracking, precipitation 
+hardening should be performed at a temperature that will minimize the 
+susceptibility of the material to this type of attack. 
+1.4 The values stated in either inch-pound units or SI 
+units are to be regarded separately as standard. Within the 
+text, the SI units are shown in brackets. The values stated 
+in each system are not exact equivalents; therefore, each 
+system must be used independently of the other. Combining 
+values from the two systems may result in nonconformance 
+with the specification. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+A 370 Test Methods and Definitions for Mechanical Test­
+ing of Steel Products 
+A 732/ A 732M Specification for Castings, Investment, 
+Carbon and Low Alloy Steel for General Application, 
+and Cobalt Alloy for High Strength at Elevated Tempera­
+tures 
+A 781 / A 78 lM Specification for Castings, Steel and Alloy, 
+Common Requirements, for General Industrial Use 
+E 38 Methods for Chemical Analysis of Nickel-Chromium 
+and Nickel-Chromium-Iron Alloys 
+E 353 Test Methods for Chemical Analysis of Stainless, 
+Heat-Resisting, Maraging, and Other Similar Chro­
+mium-Nickel-Iron Alloys 
+2.2 ASME Standard: 
+ASME Boiler and Pressure Vessel Code, Supplementary 
+Requirements S6, S14, and S27 
+3. General Conditions for Delivery 
+3.1 Material furnished to this specification shall be in 
+accordance with the requirements of Specification 
+A 781/ A 781M, including any supplementary require­
+ments that are indicated in the purchase order. Failure 
+to comply with the general requirements of Specification 
+A 781/ A 781M constitutes nonconformance with this 
+specification. In case of conflict between the requirements 
+of this specification and Specification A 781 / A 78 lM, this 
+specification shall prevail. 
+4. Ordering Information 
+4.1 Orders for material to this specification should 
+include the following: 
+4.1.1 Specification number and grade (Table 1), 
+4.1.2 Heat treatment condition (SA, H900, and so 
+forth), Table 2, 
+4.1.3 Drawing or pattern, 
+4.1.4 Options in the specification, if any, in accor­
+dance with 5.2, 6.3, and Section 7, and 
+4.1.5 Supplementary requirements, if any, including 
+the standards of acceptance. 
+4.1.6 Supplementary Requirements S6, S 14, and S27 
+are mandatory, together with S15 from Specification 
+1212
+
+=== Page 1289 ===
+
+ASME BPVC.II.A-2025 SA-747 /SA-747M 
+SA-781/SA-781M, and must be specified in the purchase 
+order, 
+5. Materials and Manufacture 
+5.1 The steel shall be made by the electric furnace 
+process with or without separate refining such as argon­
+oxygen decarburization (AOD). 
+5.2 Heat Treatment- Castings may be given a homoge­
+nization heat treatment in accordance with 5.2.1 at the 
+producer's option or when specified by the purchaser (see 
+S26) prior to solution heat treatment. All castings, whether 
+homogenized or not, shall be given a solution treatment 
+in accordance with 5.2.2 and unless ordered in the solution­
+annealed condition shall be precipitation hardened to the 
+ordered condition (Table 2). 
+5.2.1 Homogenization heat treatment shall consist 
+of heating the castings and test material to a minimum of 
+1900°F [1040°], holding for a minimum of 11/z h, and 
+cooling to below 90°F [30°C]. 
+5.2.2 Solution annealing heat treatment shall consist 
+of heating the castings and test material to 1925°F ± 50°F 
+[1050°C ± 30°C], holding the 30 min/in. [1.2 min/mm] of 
+section but not less than 30 min, and cooling to below 
+90°F [30°C]. 
+5.2.3 Temperature used for precipitation hardening 
+shall be maintained within the range of± 25°F [± l5°C] 
+of that listed in Table 2 for the heat-treatment condition 
+ordered. (See Note 1). 
+5.2.4 When the order of contract specifies a mini­
+mum columbium content, the minimum precipitation hard­
+ening temperature shall be 925°F [495°C]. 
+6. Chemical Composition 
+6.1 The steel shall be in accordance with the require­
+ments as to chemical composition prescribed in Table 1. 
+6.2 When the H900 condition is ordered, the minimum 
+columbium content (Table 1) shall not apply. It is recom­
+mended that columbium other than that in revert material 
+not be added. 
+6.3 Methods of Analysis - Analytical procedures for 
+nitrogen analysis are not included in Methods E 38 or Test 
+Methods E 353, so if the contract or order specifies that 
+the nitrogen content is to be reported, the method of analy­
+sis shall be agreed upon by purchaser and producer. 
+7. Repair by Welding 
+7.1 Repairs shall be made only in one of the following 
+conditions: homogenized, solution annealed, Hl 100, 
+Hl 150, Hl 150M, Hl 150DBL, or stress relieved at 1150°F 
+± 25°F [620°C ± 15°C] for a minimum of 4 h. 
+7 .2 Castings welded in one of the aged conditions noted 
+in 7 .1 shall be post weld heat treated by the same aging 
+treatment used prior to welding, or, where necessary to 
+meet mechanical property requirements, shall be solution 
+annealed and aged after welding. Castings welded in the 
+stress-relieved condition shall receive the specification heat 
+treatment after welding. 
+8. Keywords 
+8.1 precipitation hardening stainless steel; stainless 
+steel; steel castings 
+1213
+
+=== Page 1290 ===
+
+SA-747 /SA-747M ASME BPVC.II.A-2025 
+dislodged particles of molding sand, the number of cast 
+identification marks should be minimized. When further 
+specified, the heat numbers shall be marked on individual 
+castings. 
+S27.2 When the castings are too small to mark individu­
+ally, a symbol traceable to the lot shall be placed on the 
+castings and the required identification then placed on a 
+tag affixed to the container in which these castings are 
+shipped. 
+TABLE S14.1 
+Alloy 
+Type 
+CB7Cu-l 
+CB7Cu-2 
+PH Heat Treatment 
+H900 
+H925 
+Hl025 
+Hl075 
+HllOO 
+H1150 
+H1150M 
+H1150 DBL 
+H900 
+H925 
+Hl025 
+Hl075 
+HllOO 
+H1150 
+H1150M 
+H1150 DBL 
+MECHANICAL PROPERTIES 
+Yield Strength 0.2% 
+Hardness, HB Offset, min, ksi [M Pa] 
+375 min 145 [1000] 
+375 min 150 [1035] 
+311 min 140 [965] 
+277 min 115 [795] 
+269 min 110 [760] 
+269 min 97 [670] 
+310 max 
+310 max 
+375 min 145 [1000] 
+375 min 150 [1035] 
+311 min 140 [965] 
+277 min 115 [795] 
+269 min 110 [760] 
+269 min 97 [670] 
+310 max 
+310 max 
+Elongation in 2 in. 
+Tensile Strength, [51 mm], min, 
+ksi [MPaJ %A 
+170 [1170] 5 
+175 [1205] 5 
+150 [1035] 9 
+145 [1000] 9 
+135 [930] 9 
+125 [860] 10 
+170 [1170] 5 
+175 [1205] 5 
+150 [1035] 9 
+145 [1000] 9 
+135 [930] 9 
+125 [860] 10 
+A If sub-size tension test bars are used, the gage length/gage diameter ratio must be 4 to 1 to assure elongation values comparable to those 
+of the standard test specimen. 
+1216
+
+=== Page 1291 ===
+
+ASME BPVC.IIL.A-2025 SA-748 /SA-748M .
+SPECIFICATION FOR STATICALLY CAST CHILLED
+WHITE IRON-GRAY IRON DUAL METAL ROLLS FOR |
+PRESSURE VESSEL USE ,
+CxS ~ SA-748/SA-748M ily
+
+- J® Standards Worldwide
+(Identical with ASTM Specification A748/A748M-87(2018).) |
+1217
+
+=== Page 1292 ===
+
+SA-748/SA-748M ASME BPVC.II.A-2025 
+Standard Specification for 
+Statically Cast Chilled White Iron-Gray Iron Dual Metal Rolls 
+for Pressure Vessel Use 
+1. Scope 
+1.1 This specification covers statically cast dual metal rolls 
+with the outer layer of the roll body being chilled white iron of 
+different chemical composition than the core and joumals of 
+the roll which is gray cast iron. The castings are suitable for 
+pressure containing parts, the design strength of which is based 
+on the gray iron p011ion of the cylinder. The castings are 
+suitable for service at temperatures up to 450°F [232°C]. 
+1.2 The values stated in either SI units or inch-pound units 
+are to be regarded separately as standard. The values stated in 
+each system may not be exact equivalents; therefore, each 
+system shall be used independently of the other. Combining 
+values from the two systems may result in non-conformance 
+with the standard. 
+1.3 The following safety hazards statement pertains only to 
+the test method portion, 9, of this specification: This standard 
+does not purport to address all of the safety concerns, if any, 
+associated with its use. It is the responsibility of the user of this 
+standard to establish appropriate safety and health practices 
+and detennine the applicability of regulatory limitations prior 
+to use. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+A278/A278M Specification for Gray Iron Castings for 
+Pressure-Containing Parts for Temperatures Up to 650°F 
+(350°C) 
+A667/A667M Specification for Centrifugally Cast Dual 
+Metal (Gray and White Cast Iron) Cylinders 
+3. Ordering Information 
+3.1 Orders for material under this specification shall include 
+the following information: 
+3.1.1 ASTM designation and year of issue, 
+3.1.2 Dimensions of dual rolls, 
+3.1.3 Class of gray iron in the roll core (see 4.2), 
+3.1.4 Inspection requirements, if different (see 10.1), 
+3.1.5 Certification, if required (see 11.1), and 
+3.1.6 Special position of marking information, if required 
+(see 12.1). 
+3.2 Any additional requirements not covered in this speci­
+fication are subject to agreement between the manufacturer and 
+purchaser. 
+4. Materials and Manufacture 
+4.1 The melting procedure shall be optional with the 
+foundry. 
+4.2 The chilled white iron exterior of the roll body shall be 
+made to a minimum hardness of 60 Scleroscope "C". The gray 
+iron portion of the roll shall conform to the applicable class of 
+Specification A278/A278M, as determined by design require­
+ments. The scope of this specification shall include Nos. 20, 25, 
+30, 35, 150,175,200, and 250 of Specification A278/A278M. 
+4.3 The casting process shall be controlled to produce a 
+metallurgical bond between the chilled white iron exterior and 
+gray iron interior of the roll body. 
+5. Test Requirements 
+5.1 Tensile Requirements-Tensile bars removed from a 
+prolongation at one end of the roll journal, in accordance with 
+Specification A278/A278M, shall have a tensile strength not 
+less than 80 % of that specified by the applicable class of 
+Specification A278/A278M. 
+5.2 Thickness of Chilled White Iron: 
+5.2.1 The thickness of the clear chilled white iron plus the 
+mottled iron at the roll face shall not be more than 30 % of the 
+total finished wall thickness. 
+5.2.2 The thickness of the chilled white iron exterior of the 
+roll body shall be determined by measuring the chill depth at 
+the ends of the roll face. 
+6. Finish 
+6.1 All surfaces shall be machined or ground, or both, prior 
+to the rolls being placed into service. 
+1218
+
+=== Page 1293 ===
+
+ASME BPVC.II.A-2025 SA-748/SA-748M 
+7. Number of Tests 
+7 .1 The number of tension tests shall be in accordance with 
+Specification A278/A278M. 
+8. Specimen Preparation 
+8.1 Test bars representing the gray iron portion of the roll 
+shall be made from a prolongation at one end of the roll journal 
+in accordance with Specification A278/A278M. Tension test 
+specimens machined from this prolongation shall conform to 
+the dimensions shown for Specimen "C" in Specification 
+A278/A278M. 
+9. Test Method 
+9 .1 Tension test specimens shall fit the holders of the testing 
+machine in such a way that the load shall be axial. The use of 
+self-aligning shackles is suggested. After reaching a stress 
+equivalent to 15 000 psi [100 MPa], the speed of the moving 
+head of the testing machine shall. not exceed Vs in. [3.2 
+mm]/min. 
+lO. Inspection 
+10.1 The inspector representing the purchaser shall have 
+free entry at all times, while work on the contract of the 
+purchaser is being performed, to all parts of the manufacturer's 
+works that concern the manufacture of the material ordered. 
+The manufacturer shall afford the inspector all reasonable 
+facilities to satisfy him that the material is being furnished in 
+accordance with this specification. Unless otherwise specified, 
+all tests and inspections shall be made at the place of 
+manufacture prior to the shipment, and shall be so conducted as 
+not to interfere unnecessarily with the operation of the works. 
+11. Acceptance and Certification 
+11.1 Final acceptance of the casting shall follow complete 
+machining of the casting. Upon request of the purchaser and 
+when so specified in the purchase order, a certification shall be 
+made on the basis of acceptance of the material. This shall 
+consist of a copy of the manufacturer's test report or a 
+statement by the supplier, accompanied by a copy of the test 
+results, that the material has been sampled, tested, and in­
+spected in accordance with the provisions of this specification. 
+Each certification so furnished shall be signed by an authorized 
+agent of the supplier or manufacturer. 
+12. Product Marking 
+12.1 Pressure-containing castings made in accordance with 
+this specification shall have the nam.e of the manufacturer or 
+his recognized trademark and the class of iron to which it 
+conforms, cast or indelibly stamped on the surface indicated by 
+the purchaser or in such a position as not to injure the 
+usefulness of the casting. 
+1219
+
+=== Page 1294 ===
+
+SA-749/SA-749M ASME BPVC.II.A-2025 
+SPECIFICATION FOR STEEL, STRIP, CARBON 
+AND HIGH-STRENGTH, LOW-ALLOY, HOT-ROLLED, 
+GENERAL REQUIREMENTS FOR 
+SA-749/SA-749M 0 
+INTERNATIONAL 
+Standards Worldwide 
+[Identical with AS1M Specification A 749/A 749M-97(2002).] 
+1. Scope 
+1.1 This specification covers the general requirements 
+for hot-rolled steel strip in coils and cut lengths. It applies 
+to carbon steel and high-strength, low-alloy steel furnished 
+as hot-rolled. 
+1.2 This specification is not applicable to hot-rolled 
+heavy-thickness carbon sheet and strip coils (ASTM Speci­
+fication A 635 / A 635M), cold-rolled carbon steel strip 
+(ASTM Specification A 109 or A 109M), high-strength, 
+low-alloy coldrolled steel (ASTM Specifications A 606 and 
+A 607) or cold-rolled carbon spring steel (ASTM Specifi­
+cation A 682 or A 682M). 
+1.3 In case of any conflict in requirements, the require­
+ments of the individual material specification shall prevail 
+over those of this general specification. 
+1.4 For the purposes of determining conformance with 
+this and the appropriate product specification referenced 
+under 2.1, values shall be rounded to the nearest unit in 
+the right hand place of figures used in expressing the lim­
+iting values in accordance with the rounding method of 
+Practice E 29. 
+1.5 Annex Al lists permissible variations in dimensions 
+and mass (Note 1) in S.I. [metric] units. The values listed 
+are not exact conversions of the values listed in the inch­
+pound tables, but instead are rounded or rationalized val­
+ues. Conformance to Annex Al is mandatory when the 
+"M" specification is used. 
+NOTE 1 - The tenn "weight" is used when inch-pound units are the 
+standard; however, under S.I., the preferred tennis "mass." 
+1.6 The values stated in either inch-pound units or SI 
+units are to be regarded as standard. Within the text, the 
+SI units are shown in brackets. The values stated in each 
+system are not exact equivalents; therefore, each system 
+must be used independently of the other. Combining values 
+from the two systems may result in nonconformance with 
+the specification. 
+1.7 This specification and the applicable material speci­
+fications are expressed in both inch-pound units and SI 
+units. However, unless the order specifies the applicable 
+"M" specification designation (SI units), the material shall 
+be furnished to inch-pound units. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+A 109 Specification for Steel, Strip, Carbon, Cold-Rolled 
+A 109M Specification for Steel, Strip, Carbon, Cold-Rolled 
+(Metric) 
+A 370 Test Methods and Definitions for Mechanical Test­
+ing of Steel Products 
+A 606 Specification for Steel, Sheet and Strip, High­
+Strength, Low-Alloy, Hot-Rolled and Cold-Rolled, with 
+Improved Atmospheric Corrosion Resistance 
+A 607 Specification for Steel, Sheet and Strip, High­
+Strength, Low-Alloy, Columbium or Vanadium, or 
+Both, Hot-Rolled and Cold-Rolled 
+A 635/A 635M Specification for Steel, Sheet and Strip, 
+Heavy-Thickness Coils, Carbon, Hot-Rolled 
+A 682 Specification for Steel, Strip, High-Carbon, Cold­
+Rolled, Spring Quality, General Requirements For 
+A 682M Specification for Steel, Strip, High-Carbon, Cold­
+Rolled, Spring Quality, General Requirements For 
+(Metric) 
+A 700 Practices for Packaging, Marking, and Loading 
+Methods for Steel Products for Domestic Shipment 
+A 751 Test Methods, Practices, and Terminology for 
+Chemical Analysis of Steel Products 
+E 11 Specification for Wire-Cloth Sieves for Testing Pur­
+poses 
+E 29 Practice for Using Significant Digits in Test Data to 
+Determine Conformance with Specifications 
+1222
+
+=== Page 1295 ===
+
+\~ 
+ASME BPVC.II.A-2025 SA-749/SA-749M 
+E 290 Test Method for Semi-Guided Bend Test for Ductil­
+ity of Metallic Materials 
+2.2 Military Standards: 
+MIL-STD-129 Marking for Shipment and Storage 
+MIL-STD-163 Steel Mill Products, Preparation for Ship­
+ment and Storage 
+2.3 Federal Standards: 
+Fed. Std. No. 123 Marking for Shipments (Civil Agencies) 
+Fed. Std. No. 183 Continuous Identification Marking of 
+Iron and Steel Products 
+3. Terminology 
+3.1 Definitions of Terms Specific to This Standard: 
+Descriptions of Terms Specific to This Standard: 
+3.1.1 Steel Types: 
+3.1.2 carbon steel - the designation for steel when 
+no minimum content is specified or required for aluminum, 
+chromium, cobalt, columbium, molybdenum, nickel, tita­
+nium, tungsten, vanadium, zirconium, or any element 
+added to obtain a desired alloying effect; when the specified 
+minimum for copper does not exceed 0.40%; or when 
+the maximum content specified for any of the following 
+elements does not exceed the percentages noted; manga­
+nese 1.65, silicon 0.60, or copper 0.60. 
+Discussion - In all carbon steels small quantities of 
+certain residual elements unavoidably retained from raw 
+materials are sometimes found which are not specified or 
+required, such as copper, nickel, molybdenum, chromium, 
+etc. These elements are considered as incidental and are 
+not normally determined or reported. 
+3.1.3 high-strength, low-alloy steel - a specific 
+group of steels in which higher strength, and in some cases 
+additional resistance to atmospheric corrosion, are obtained 
+by moderate amounts of one or more al\oying elements. 
+3.1.4 Product Types: 
+3.1.5 hot-rolled strip - manufactured by hot rolling 
+billets or slabs to the required thickness. It may be produced 
+single width or by rolling multiple width and slitting to 
+the desired width. It can be supplied in coils or cut lengths 
+as specified. 
+Width, in. Thickness, in. 
+Over Through Over Through 
+3½ 0.044 0.203 
+3½ 6 0.044 0.203 
+6 12 0.044 0.230 excl 
+Width, mm Thickness, mm 
+Over Through Over Through 
+100 1.2 5.0 
+100 200 1.2 5.0 
+200 300 1.2 6.0, excl 
+Hot-rolled, high-strength, low-alloy strip is commonly 
+available by size as follows: 
+Width, in. Thickness, in. 
+Over Through From Through 
+6 
+6 
+12 
+0.054 
+0.054 
+Coils & Cut 
+Lengths 
+0.203 
+0.230 
+Coils 
+Only 
+0.230 excl 
+0.230 excl 
+Width, mm Thickness, mm 
+Over 
+200 
+4. 
+Through 
+200 
+300 
+Over 
+1.8 
+1.8 
+Materials and Manufacture 
+Through 
+5.0 
+6.0, excl 
+4.1 Unless otherwise specified, hot-rolled material shall 
+be furnished hot-rolled, not annealed or pickled. 
+5. C11emical Composition 
+5.1 Limits: 
+5.1.1 The chemical composition shall be in accor­
+dance with the applicable product specification. However, 
+if other compositions are required for carbon steel, they 
+shall be prepared in accordance with Appendix Xl. 
+5.1.2 Where the material is used for fabrication by 
+welding, care must be exercised in the selection of chemical 
+composition or mechanical properties to ensure compatibil­
+ity with the welding process and its effect on altering the 
+properties. 
+5.2 Cast or Heat (Formerly Ladle) Analysis: 
+5.2.1 An analysis of each cast or heat of steel shall 
+be made by the manufacturer to determine the percentage 
+of elements specified or restricted by the applicable speci­
+fication. 
+5.2.2 When requested, cast or heat analysis for ele­
+ments listed or required shall be reported to the purchaser 
+or to his representative. 
+5.3 Product, Check, or Verification Analysis: 
+5.3.1 Nonkilled steels (such as capped or rimmed) 
+are not technologically suited to product analysis due to 
+the nonuniform character of their chemical composition 
+and therefore, the tolerances in Table 1 do not apply. Prod­
+uct analysis is appropriate on these types of steel only 
+when misapplication is apparent or for copper when copper 
+steel is specified. 
+5.3.2 For steels other than nonkilled (capped or 
+rimmed), product analysis may be made by the purchaser. 
+The chemical analysis shall not vary from the limits speci­
+fied by more than the amounts in Table 1. The several 
+1223
+
+=== Page 1296 ===
+
+SA-749/SA-749M ASME BPVC.II.A-2025 
+determinations of any element in a cast shall not vary both 
+above and below the specified range. 
+5.4 Sampling for Product Analysis: 
+5.4.1 To indicate adequately the representative com­
+position of a cast by product analysis, it is general practice 
+to select samples to represent the steel, as fairly as possible, 
+from a minimum number of pieces as follows: 3 pieces 
+for lots up to 15 tons inclusive, and 6 pieces for lots over 
+15 tons [15 Mg]. 
+5.4.2 When the steel is subject to tension test require­
+ments, samples for product analysis may be taken either 
+by drilling entirely through the used tension test specimens 
+themselves or in accordance with 5.4.3. 
+5.4.3 When the steel is not subject to tension test 
+requirements, the samples for analysis must be taken by 
+milling or drilling entirely through the stlip in a sufficient 
+number of places so that the samples are representative of 
+the entire stlip. The sampling may be facilitated by folding 
+the stlip both ways, so that several samples may be taken 
+at one drilling. Steel subjected to certain heating operations 
+by the purchaser may not give chemical analysis results 
+that properly represent its original composition. Therefore, 
+users must analyze chips taken from the steel in the condi­
+tion in which it is received from the steel manufacturer. 
+5.5 Specimen Preparation - Drillings or chips must be 
+taken without the application of water, oil, or other lubri­
+cant, and must be free of scale, grease, dirt, or other foreign 
+substances. They must not be overheated during cutting to 
+the extent of causing decarburization. Chips must be well 
+niixed, and those too coarse to pass a No. 10 (2.00 mm) 
+sieve or too fine to remain on a No. 30 (600 µ,m) sieve 
+are not suitable for proper analysis. Sieve size numbers 
+are in accordance with Specification E 11. 
+5.6 Test Methods-In case a referee analysis is required 
+and agreed upon to resolve a dispute concerning the results 
+of a chemical analysis, the procedure for performing the 
+referee analysis must be in accordance with the latest issue 
+of Test Methods, Practices, and Terminology A 751, unless 
+otherwise agreed upon between the manufacturer and the 
+purchaser. 
+6. Mechanical Properties 
+6.1 The mechanical property requirements, number of 
+specimens, test locations, and specimen orientation shall 
+be in accordance with the applicable product specification. 
+6.2 Unless otherwise specified in the applicable product 
+specification, test specimens must be prepared in accor­
+dance with Test Methods and Definitions A 370. 
+6.3 Mechanical tests shall be conducted in accordance 
+with Test Methods and Definitions A 370. 
+6.4 Bend tests, where required, shall be conducted in 
+compliance with Test Methods E 290. 
+6.5 To determine conformance with the product speci­
+fication, a calculated value should be rounded to the nearest 
+1 ksi [7 MPa] tensile strength and yield point or yield 
+strength, and to the nearest unit in the right hand place of 
+figures used in expressing the limiting value for other val­
+ues in accordance with the rounding off method given in 
+Practice E 29. 
+6.6 Structural steels are commonly fabricated by cold 
+bending. There are many interrelated factors that affect the 
+ability of a given steel to cold form over a given radius 
+under shop conditions. These factors include thickness, 
+strength level, degree of restraint, relationship to rolling 
+direction, chemistry, and microstructure. Each of the appro­
+priate product specifications lists in the appendix the sug­
+gested minimum inside radius for cold bending. These radii 
+should be used as minima for 90° bends. They presuppose 
+"hard way" bending (bend axis parallel to rolling direction) 
+and reasonably good shop forming practices. Where possi­
+ble, the use of larger radii or "easy way" bends are recom­
+mended for improved performance. 
+6.7 Fabricators should be aware that cracks may initiate 
+upon bending a sheared or burned edge. This is not consid­
+ered to be a fault of the steel but is rather a function of 
+the induced cold-work or heat-affected zone. 
+7. Dimensions, Tolerances, and Allowances 
+7 .1 Dimensions, tolerances, and allowances applicable 
+to products covered by this specification are contained in 
+Table 2 through Table 9 [Annex Al, Tables Al.1 through 
+Al.7]. The appropriate tolerance tables shall be identified 
+in each individual specification. 
+8. Workmanship 
+8.1 Cut lengths shall have a workmanlike appearance 
+and shall not have imperfections of a nature or degree for 
+the product, the grade, and the quality ordered that will be 
+detlimental to the fabrication of the finished part. 
+8.2 Coils may contain some abnormal imperfections 
+that render a portion of the coil unusable since the inspec­
+tion of coils does not afford the producer the same opportu­
+nity to remove portions containing imperfections as in the 
+case with cut lengths. 
+9. Finish and Condition 
+9.1 Hot-rolled stlip has a surface with an oxide or scale 
+resulting from the hot-rolling operation. The oxide or scale 
+can be removed by pickling or blast cleaning when required 
+1224
+
+=== Page 1297 ===
+
+ASME BPVC.II.A-2025 SA-749/SA-749M 
+for press-work operations or welding. Hot-rolled and hot­
+rolled descaled strip are not generally used for exposed 
+parts where surface is of prime importance. However, hot­
+rolled surface might be of importance, as in the case of 
+weathering steels for exposed parts. 
+9.1.1 Hot-rolled strip can be supplied with mill 
+edges, square edges, or cut (slit) edges as specified. 
+9.1.1.1 Mill edges are the natural edges resulting 
+from the hot-rolling operation and are generally round and 
+smooth without any definite contour. 
+9.1.1.2 Square edges are the edges resulting from 
+rolling through vertical edging rolls during the hot-rolling 
+operations. These edges are square and smooth, with the 
+comers slightly rounded. 
+9.1.1.3 Cut (slit) edges are the normal edges that 
+result from the shearing, slitting, or trimming of mill edges. 
+9.1.2 The ends of plain hot-rolled mill-edge coils 
+are irregular in shape and are referred to as uncropped 
+ends. Where such ends are not acceptable, the purchaser's 
+order should so specify. Processed coils such as pickled 
+or blast cleaned are supplied with square-cut ends. 
+9.2 Oiling: 
+9.2.1 Plain hot-rolled strip is customarily furnished 
+not oiled. Oiling must be specified when required 
+9.2.2 Hot-rolled pickled or descaled strip is custom­
+arily furnished oiled. If the product is not to be oiled, it 
+must be so specified since the cleaned surface is prone to 
+rusting. 
+10. General Requirements for Delivery 
+10.1 Products covered by this specification are pro­
+duced to inch-pound or metric decimal thickness only. 
+10.2 Steel may be produced as ingot-cast or strand­
+cast. When different grades of strand-cast steel are sequen­
+tially cast, identification and separation of the transition 
+material is required. 
+11. Retests 
+11.1 If any test specimen shows defective machining or 
+develops flaws, it must be discarded and another specimen 
+substituted. 
+11.2 If the percentage of elongation of any tension test 
+specimen is less than that specified and any part of the 
+fracture is more than [nl]P in. [20 mm] from the center of 
+the gage length of a 2 in. [50 mm] specimen or is outside 
+the middle half of the gage length of an 8 in. [200 mm] 
+specimen, as indicated by scribe scratches marked on the 
+specimen before testing, a retest is allowed. 
+11.3 If a bend specimen fails, due to conditions of 
+bending more severe than required by the specification, a 
+retest is permitted either on a duplicate specimen or on a 
+remaining portion of the failed specimen. 
+12. Inspection 
+12.1 When the purchaser's order stipulates that inspec­
+tion and test (except product analyses) for acceptance on 
+the steel be made prior to shipment from the mill, the 
+manufacturer shall afford the purchaser's inspector all rea­
+sonable facilities to satisfy him that the steel is being pro­
+duced and furnished in accordance with the specification. 
+Mill inspection by the purchaser shall not interfere unneces­
+sarily with the manufacturer's operation. 
+13. Rejection and Rehearing 
+13.1 Unless otherwise specified, any rejection shall be 
+reported to the manufacturer within a reasonable time after 
+receipt of material by the purchaser. 
+13.2 Material that is reported to be defective subsequent 
+to the acceptance at the purchaser's works shall be set 
+aside, adequately protected, and correctly identified. The 
+manufacturer shall be notified as soon as possible so that 
+an investigation may be initiated. 
+13.3 Samples that are representative of the rejected 
+material shall be made available to the manufacturer. In 
+the event that the manufacturer is dissatisfied with the 
+rejection, he may request a rehearing. 
+14. Test Reports and Certification 
+14.1 When test reports are required by the purchase 
+order or the material specification, the supplier shall report 
+the results of all tests required by the material specification 
+and the order. 
+14.2 When certification is required by the purchase 
+order, the supplier shall furnish a certification that the 
+material has been manufactured and tested in accordance 
+with the requirements of the material specification. 
+14.3 A signature is not required on test reports or 
+certifications. However, the document shall clearly identify 
+the organization submitting the document. Notwithstand­
+ing the absence of a signature, the organization submitting 
+the document is responsible for the content of the doc­
+ument. 
+14.4 When test reports are required, copies of the origi­
+nal material manufacturer's test report shall be included 
+with any subsequent test report. 
+14.5 A material test report, certificate of inspection, or 
+similar document printed from or used in electronic form 
+1225
+
+=== Page 1298 ===
+
+SA-749/SA-749M ASME BPVC.II.A-2025 
+from an electronic data interchange (EDI) transmission 
+shall be regarded as having the same validity as a counter­
+part printed in the certifier's facility. The content of the 
+EDI transmitted document must meet the requirements of 
+the invoked ASTM standard(s) and conform to any existing 
+EDI agreement between the purchaser and the supplier. 
+Notwithstanding the absence of a signature, the organiza­
+tion submitting the EDI transmission is responsible for the 
+content of the report. 
+NOTE 2-The industry definition as invoked here is: EDI is the computer 
+to computer exchange of business information in an agreed upon standard 
+format such as ANSI ASC Xl2. 
+15. Marking 
+15.1 As a minimum requirement, the material shall 
+be identified by having the manufacturer's name, ASTM 
+designation, weight, purchaser's order number, and mate­
+rial identification legibly stenciled on top of each lift or 
+shown on a tag attached to each coil or shipping unit. 
+15.2 When specified in the contract or order, and for 
+direct procurement by or direct shipment to the govern­
+ment, marking for shipment, in addition to requirements 
+specified in the contract or order, shall be in accordance 
+with MIL-STD-129 for military agencies and in accordance 
+with Fed. Std. No. 123 for civil agencies. 
+15.3 For Government procurement by the Defense Sup­
+ply Agency, strip material shall be continuously marked 
+TABLE 1 
+TOLERANCES FOR PRODUCT ANALYSISA 
+Tolerances 
+Limit, or Maximum Under Over 
+of Specified Minimum Maximum 
+Element Element,% Limit Limit 
+Carbon to 0.15, incl 0.02 0.03 
+over 0.15 to 0.40, incl 0.03 0.04 
+over 0.40 to 0.80, incl 0.03 0.05 
+over 0.80 0.03 0.06 
+Manganese to 0.60, incl 0.03 0.03 
+over 0.60 to 1.15, incl 0.04 0.04 
+over 1.15 to 1.65, incl 0.05 0.05 
+Phosphorus 0.01 
+Sulfur 0.01 
+Silicon to 0.30, incl 0.02 0.03 
+over 0.30 to 0.60, incl 0.05 0.05 
+Copper 0.02 
+A See 6.3.1. 
+for identification .in accordance with Fed. Std. No. 183. 
+15.4 Bar coding is acceptable as a supplementary iden­
+tification method. Bar coding should be consistent with 
+the Automotive Industry Action Group (AIAG) standard 
+prepared by the primary metals subcommittee of the AIAG 
+bar code project team. 
+16. Packaging 
+16.1 Unless otherwise specified, the strip shall be pack­
+aged and loaded in accordance with Practices A 700. 
+16.2 When specified in the contract or order, and for 
+direct procurement by or direct shipment to the govern­
+ment, when Level A is specified, preservation, packaging, 
+and packing shall be in accordance with the Level A 
+requirements of MIL-STD-163. 
+16.3 When coils are ordered it is customary to specify 
+a minimum or range of inside diameter, maximum outside 
+diameter, and a maximum coil weight, if required. The 
+ability of manufacturers to meet the maximum coil weights 
+depends upon individual mill equipment. When required, 
+minimum coil weights are subject to negotiation. 
+17. Keywords 
+17.1 carbon; steel; strip 
+TABLE 2 
+INDEX OF TABLES FOR DIMENSIONS, TOLERANCES, 
+AND ALLOWANCES 
+Table No. 
+Dimensions Inch-Pound Units SI Units 
+Camber tolerances 8 Al.6 
+Crown tolerances 5 Al.3 
+Flatness tolerances 9 Al.7 
+Length tolerances 7 Al.5 
+Thickness tolerances 3, 4 Al.I, Al.2 
+Width tolerances 6 Al.4 
+1226
+
+=== Page 1299 ===
+
+ASME BPVC.II.A-2025 
+TABLE 3 
+THICKNESS TOLERANCES OF HOT-ROLLED STRIPA 
+(CARBON AND HIGH-STRENGTH, LOW-ALLOY STEEL) ORDERED 
+TO NOMINAL THICKNESS 
+(COILS AND CUT LENGTHS, INCLUDING PICKLED) 
+Thickness Tolerance, Over and Under, in., for Specified Nominal Thickness, in. 
+Specified Width, in. Over 0.057 Over 0.118 Over 0.187 Over 0.203 
+to 0.230, 
+excl 
+Through to 0.118, to 0.187, to 0.203, 
+Over Through 0.057 incl incl incl 
+3½ 0.003 0.004 0.005 0.006 
+3½ 6 0.003 0.005 0.005 0.006 
+6 12 0.004 0.005 0.005 0.006 0.006 
+NOTE 1 - Micrometers used for measurement of thickness shall be constructed with either flat anvils having 
+a minimum diameter of 0.188 in. or rounded anvils having a minimum radius of curvature of 0.100 in. 
+Micrometers with pointed anvils are not suitable for thickness measurement. 
+A Measurements for the above table are taken 31s in. from the edge of a strip on 1 in. or wider; and at 
+any place on the strip when narrower than 1 in. The given tolerances do not include crown and therefore 
+the tolerances for crown as shown in Table 5 are in addition to tolerances in Table 3. 
+TABLE 4 
+THICKNESS TOLERANCES OF HOT-ROLLED STRIPA 
+(CARBON AND HIGH-STRENGTH, LOW-ALLOY STEEL> 
+ORDERED TO MINIMUM THICKNESS (COILS AND CUT LENGTHS, 
+INCLUDING PICKLING) 
+Thickness Tolerance, Over Only, in., for Specified Nominal Thickness, in. 
+Specified 
+Width, in. Over 0.057 Over 0.118 Over 0.187 Over 0.203 
+Through to 0.118, to 0.187, to 0.203, to 0.230, 
+Over Through 0.057 incl incl incl excl 
+3½ 0.006 0.008 0.010 0.012 
+3½ 6 0.006 0.010 0.010 0.012 
+6 12 0.008 0.010 0.010 0.012 0.012 
+SA-749/SA·749M 
+NOTE 1 - Micrometers used for measurement of thickness shall be constructed with either flat anvils having 
+a minimum diameter of 0.188 in. or rounded anvils having a minimum radius of curvature of 0.100 in. 
+Micrometers with pointed anvils are not suitable for thickness measurement. 
+A Measurements for the above table are taken 31s in. from the edge of a strip on 1 in. or wider; and at 
+any place on the strip when narrower than 1 in. The given tolerances do not include crown and therefore 
+the tolerances for crown as shown in Table 5 are in addition to tolerances in Table 4. 
+1227
+
+=== Page 1300 ===
+
+SA-749/SA-749M ASME BPVC.II.A-2025 
+TABLE 5 
+CROWN TOLERANCES OF HOT-ROLLED STRIP 
+(CARBON AND HIGH-STRENGTH, LOW-ALLOY STEEL) 
+(COILS AND CUT LENGTHS, INCLUDING PICKLED) 
+STRIP MAY BE THICKER AT THE CENTER THAN AT A 
+POINT¾ IN. FROM THE EDGE BY THE FOLLOWING 
+AMOUNTS: 
+Crown Tolerance, Over Only, for 
+Specified Minimum Thickness, in. 
+Specified Width, in. Over 0.118 Over 0.187 
+Through to 0.187, to 0.230, 
+Over Through 0.118 incl excl 
+3½ 0.002 0.002 0.001 
+3½ 6 0.003 0.002 0.002 
+6 12 0.004 0.003 0.003 
+TABLE 6 
+WIDTH TOLERANCES OF HOT-ROLLED STRIP 
+(CARBON AND HIGH-STRENGTH, LOW-ALLOY STEEL> 
+(COILS AND CUT LENGTHS, INCLUDING PICKLED) 
+Width Tolerance, Over and Under, in. 
+Cut Edge 
+Specified Over 
+Mill Edge 0.109 in. Width, in. and Square Through Through 
+Over Through Edge Strip 0.109 in. 0.230, excl 
+2 ½2 0.008 0.016 
+2 5 ¾4 0.008 0.016 
+5 10 ½.6 0.010 0.016 
+10 12 ¾2 0.016 0.016 
+TABLE 7 
+LENGTH TOLERANCES OF HOT-ROLLED STRIP 
+(CARBON AND HIGH-STRENGTH ALLOY) 
+(CUT LENGTHS, INCLUDING PICKLED) 
+Length Tolerances over Specified Length, ft for Widths Given, in., No 
+Tolerance Under 
+Specified Widths, in. 
+To 3, incl 
+Over 3 to 6, incl 
+Over 6 to 12, incl 
+TABLE 8 
+To 5 ft, 
+incl 
+¼ 
+¾ 
+½ 
+Over 5 
+to 10 ft, 
+incl 
+¾ 
+½ 
+[nlJP 
+CAMBER TOLERANCESA OF HOT-ROLLED STRIP 
+(CARBON AND HIGH-STRENGTH LOW-ALLOY) 
+(COILS AND CUT LENGTHS, INCLUDING PICKLED, 
+APPLICABLE TO MILL EDGE, SQUARE EDGE, AND 
+SLIT OR CUT EDGE) 
+For strip wider than l ½ in. - ¾ in. in any 8 ft. 
+For strip l½ in. and narrower - ½ in. in any 8 ft. 
+NOTE l - Camber is the deviation of a side edge from a straight line. 
+The standard for measuring this deviation is based on any 8 ft length. 8 
+It is obtained by placing an 8 ft straightedge on the concave side 
+and measuring the maximum distance between the strip edge and the 
+straightedge. 
+A When the camber tolerances shown in the above table are not 
+suitable for a particular purpose, hot-rolled strip is sometimes 
+machine straightened. 
+8 For strip less than 8 ft tolerances are to be established in each 
+instance. A formula for calculating camber is as follows: 
+L 2 X C 1 
+64 = C 2 in L 
+where: 
+C 1 = Camber in 8 ft and 
+C 2 = Camber in any given length L 
+Over 10 Over 20 Over 30 
+to to to 
+20 ft, 30 ft, 40 ft, Over 40 ft, 
+incl incl incl incl 
+½ [nlJP 1 1½ 
+¾ [nlJP 1 1½ 
+l 1¼ 1½ l[nlJP 
+TABLE 9 
+FLATNESS TOLERANCES OF HOT-ROLLED STRIP 
+(CARBON AND HIGH-STRENGTH LOW-ALLOY) 
+It has not been practicable to formulate flatness tolerances 
+for hot-rolled carbon strip steel because of the wide range 
+of widths and thicknesses, and variety of chemical 
+compositions, mechanical properties and types, produced in 
+coils and cut lengths. 
+1228
+
+=== Page 1301 ===
+
+,, ________ 
+ASME BPVC.II.A-2025 
+APPENDIX 
+(Nonmandatory Information) 
+Xl. STANDARD CHEMICAL RANGES AND 
+LIMITS 
+Xl.1 Standard chemical ranges and limits are pre­
+scribed for carbon steels in Table Xl.l. 
+TABLE Xl.l 
+STANDARD CHEMICAL RANGES AND LIMITS 
+Carbon Steels Only, Cast or Heat Analysis 
+Element Minimum of Specified Element, % Range 
+Carbon (see Note) to 0.15, incl 0.05 
+over 0.15 to 0.30, incl 0.06 
+over 0.30 to 0.40, incl 0.07 
+over 0.40 to 0.60, incl 0.08 
+over 0.60 to 0.80, incl 0.11 
+over 0.80 to 1.35, incl 0.14 
+Manganese to 0.50, incl 0.20 
+over 0.50 to 1.15, incl 0.30 
+over 1.15 to 1.65, incl 0.35 
+Phosphorus to 0.08, incl 0.03 
+over 0.08 to 0.15, incl 0.05 
+Sulfur to 0.08, incl 0.03 
+over 0.08 to 0.15, incl 0.05 
+over 0.15 to 0.23, incl 0.07 
+over 0.23 to 0.33, incl 0.10 
+Silicon to a.is, incl 0.08 
+over 0.15 to 0.30, incl 0.15 
+over 0.30 to 0.60, incl 0.30 
+Copper When copper is required 0.20 min is commonly specified. 
+Lowest, 
+max 
+0.08 
+0.40 
+0.10 
+SA-749/SA-749M 
+NOTE 1 - The carbon ranges shown in the column headed "Range" apply when the specified maximum 
+limit for manganese does not exceed 1.00%. When the maximum manganese limit exceeds 1.00%, add 0.01 
+to the carbon ranges shown below. 
+A Certain individual specifications provide for lower standard limits for phosphorus and sulfur. 
+1229
+
+=== Page 1302 ===
+
+SA-749/SA-749M ASME BPVC.II.A-2025 
+ANNEX 
+(Mandatory Information) 
+Al. PERMISSIBLE VARIATIONS IN 
+DIMENSIONS AND MASS IN SI UNITS 
+Al.1 Listed in Tables Al.1 through Al.7 are permissi­
+ble variations in dimensions and mass expressed in the 
+International System of Units (SI) terminology. 
+TABLE Al.l 
+THICKNESS TOLERANCES OF HOT-ROLLED STRIPA (CARBON AND HIGH-STRENGTH, LOW-ALLOY STEEL) 
+ORDERED TO NOMINAL THICKNESS (COILS AND CUT LENGTHS, INCLUDING PICKLED) 
+Specified Width, mm 
+Over Through 
+100 
+200 
+100 
+200 
+300 
+Thickness Tolerance, Over and Under, mm, for Specified Nominal Thickness, mm 
+Over 1.5 to 3.0, Over 3.0 to 4.5, Over 4.5 to 5.0, Over 5.0 to 6.0, 
+Through 1.5 incl incl incl excl 
+0.08 
+0.08 
+0.10 
+0.10 
+0.13 
+0.13 
+0.13 
+0.13 
+0.13 
+0.15 
+0.15 
+0.15 0.15 
+NOTE 1 - Micrometers used for measurement of thickness shall be constructed with either flat anvils having a minimum diameter of 4.80 mm 
+or rounded anvils having a minimum radius of curvature of 2.55 mm. Micrometers with pointed anvils are not suitable for thickness measurement. 
+A Measurements for the above table are taken 10 mm from the edge of a strip on 25 mm or wider; and at any place on the strip when nar­
+rower than 25 mm. The given tolerances do not include crown and therefore the tolerances for crown as shown in Table AL3 are in addition 
+to tolerances in Table ALL 
+TABLE Al.2 
+THICKNESS TOLERANCES OF HOT-ROLLED STRIPA (CARBON AND HIGH-STRENGTH, LOW-ALLOY STEEL) 
+ORDERED TO MINIMUM THICKNESS (COILS AND CUT LENGTHS, INCLUDING PICKLING) 
+Specified Width, mm 
+Over Through 
+100 
+200 
+100 
+200 
+300 
+Through 1.5 
+0.15 
+0.15 
+0.20 
+Thickness Tolerance, Over Only, for Specified Minimum Thickness, mm 
+Over 1.5 to 3.0, Over 3.0 to 4.5, • Over 4.5 to 5.0, 
+incl incl incl 
+0.20 
+0.25 
+0.25 
+0.25 
+0.25 
+0.25 
+0.30 
+0.30 
+0.30 
+Over 5.0 to 6.0, 
+excl 
+0.30 
+NOTE l - Micrometers used for measurement of thickness shall be constructed with either flat anvils having a minimum diameter of 4.80 mm 
+or rounded anvils having a minimum radius of curvature of 2.55 mm. Micrometers with pointed anvils are not suitable for thickness measurement. 
+A Measurements for the above table are taken 10 mm from the edge of a strip on 25 mm or wider; and at any place on the strip when nar­
+rower than 25 mm. The given tolerances do not include crown and therefore the tolerances for crown as shown in Table A L3 are in addition 
+to tolerances in Table A 1.2. 
+1230
+
+=== Page 1303 ===
+
+L 
+ASME BPVC.II.A-2025 SA-749/SA-749M 
+TABLE Al.3 
+CROWN TOLERANCES OF HOT-ROLLED STRIP 
+(CARBON AND HIGH-STRENGTH, LOW-ALLOY STEEL> 
+(COILS AND CUT LENGTHS, INCLUDING PICKLED) 
+Specified 
+Width, mm 
+Over Through 
+100 
+200 
+100 
+200 
+300 
+Crown Tolerance, Over Only, for Specified 
+Minimum Thickness, mm 
+Through 
+3.0 
+0.05 
+0.10 
+0.10 
+Over 3.0 Over 4.5 Over 6.0 
+to 4.5, 
+incl 
+0.05 
+0.08 
+0.08 
+to 6.0, 
+incl 
+0.03 
+0.05 
+0.08 
+to 9.5, 
+incl 
+0.05 
+TABLE Al.4 
+WIDTH TOLERANCES OF HOT-ROLLED STRIP 
+(CARBON AND HIGH-STRENGTH, LOW-ALLOY STEEL> 
+(COILS AND CUT LENGTHS, INCLUDING PICKLED) 
+Width Tolerance, Over and Under, mm 
+Specified 
+Wid th , mm Mill Edge and 
+Cut Edge 
+Over Through Square Edge Strip Through 2.5 mm Over 2.5 mm 
+50 
+50 100 
+100 200 
+200 300 
+0.8 
+1.2 
+1.6 
+2.4 
+0.2 
+0.2 
+0.3 
+0.4 
+0.4 
+0.4 
+0.4 
+0.4 
+TABLE Al.5 
+LENGTH TOLERANCES OF HOT-ROLLED STRIP 
+(CARBON AND HIGH-STRENGTH, LOW-ALLOY STEEL> (CUT LENGTHS, INCLUDING PICKLED) 
+Length Tolerances Over Specified Length, for Widths Given, No Tolerance Under, mm 
+Over 1500 Over 3000 Over 6000 Over 9000 Specified Widths, mm Through to 3000, to 6000, to 9000, to 12 000, Over 
+Over Through 1500 incl incl incl incl 12 000 
+100 
+100 200 
+200 300 
+10 
+10 
+15 
+TABLE Al.6 
+10 
+15 
+20 
+CAMBER TOLERANCESA OF HOT-ROLLED STRIP 
+(CARBON AND HIGH-STRENGTH LOW-ALLOY) (COILS 
+AND CUT LENGTHS, INCLUDING PICKLED, 
+APPLICABLE TO MILL EDGE, SQUARE EDGE, AND 
+SLIT OR CUT EDGE) 
+For strip wider than 50 mm - 5.0 mm in any 2000 mm 
+For strip 50 mm and narrower - 10.0 mm in any 2000 mm 
+NOTE 1 - Camber is the deviation of a side edge from a straight line. 
+The standa1·d for measuring this deviation is based on any 2000 mm 
+length. 8 It is obtained by placing a 2000 mm straightedge on the concave 
+side and measuring the maximum distance between the strip edge and 
+the straightedge. 
+A When the camber tolerances shown in the above table are not 
+suitable for a particular purpose, hot-rolled strip is sometimes 
+machine straightened. 
+8 For strip less than 2000 mm tolerances are to be established in 
+each instance. 
+15 
+15 
+25 
+20 
+20 
+30 
+25 
+25 
+40 
+TABLE Al.7 
+40 
+40 
+45 
+FLATNESS TOLERANCES OF HOT-ROLLED STRIP 
+(CARBON AND HIGH-STRENGTH LOW-ALLOY) 
+It has not been practicable to formulate flatness tolerances 
+for hot-rolled strip because of the wide range of widths 
+and thicknesses, and variety of chemical compositions and 
+qualities, produced in coi Is and cut lengths. 
+1231
+
+Resolved Notes (AI-verified)
+NOTE 1 (page 1288)
+NOTE 1 - If the service environment in which the material is to be 
+used is considered conducive to stress-corrosion cracking, precipitation 
+hardening should be performed at a temperature that will minimize the 
+susceptibility of the material to this type of attack. 
+1.4 The values stated in either inch-pound units or SI 
+units are to be regarded separately as standard. Within the 
+text, the SI units are shown in brackets. The values stated 
+in each system are not exact equivalents; therefore, each 
+system must be used independently of the other. Combining 
+values from the two systems may result in nonconformance 
+with the specification. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+A 370 Test Methods and Definitions for Mechanical Test­
+ing of Steel Products 
+A 732/ A 732M Specification for Castings, Investment, 
+Carbon and Low Alloy Steel for General Application, 
+and Cobalt Alloy for High Strength at Elevated Tempera­
+tures 
+A 781 / A 78 lM Specification for Castings, Steel and Alloy, 
+Common Requirements, for General Industrial Use 
+E 38 Methods for Chemical Analysis of Nickel-Chromium 
+and Nickel-Chromium-Iron Alloys 
+E 353 Test Methods for Chemical Analysis of Stainless, 
+Heat-Resisting, Maraging, and Other Similar Chro­
+mium-Nickel-Iron Alloys 
+2.2 ASME Standard: 
+ASME Boiler and Pressure Vessel Code, Supplementary 
+Requirements S6, S14, and S27 
+3. General Conditions for Delivery 
+3.1 Material furnished to this specification shall be in 
+accordance with the requirements of Specification 
+A 781/ A 781M, including any supplementary require­
+ments that are indicated in the purchase order. Failure 
+to comply with the general requirements of Specification 
+A 781/ A 781M constitutes nonconformance with this 
+specification. In case of conflict between the requirements 
+of this specification and Specification A 781 / A 78 lM, this 
+specification shall prevail. 
+4. Ordering Information 
+4.1 Orders for material to this specification should 
+include the following: 
+4.1.1 Specification number and grade (Table 1), 
+4.1.2 Heat treatment condition (SA, H900, and so 
+forth), Table 2, 
+4.1.3 Drawing or pattern, 
+4.1.4 Options in the specification, if any, in accor­
+dance with 5.2, 6.3, and Section 7, and 
+4.1.5 Supplementary requirements, if any, including 
+the standards of acceptance. 
+4.1.6 Supplementary Requirements S6, S 14, and S27 
+are mandatory, together with S15 from Specification 
+1212

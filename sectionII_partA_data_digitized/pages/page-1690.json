@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 892,
+  "globalPageIndex": 1690,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "ASME BPVC.II.A-2025 \nTable continued \nStandard Type Standards Organization Contact Information \nISO International Organization for Standardization ISO Central Secretariat \nChemin de Blandonnet 8 \nCP401 \n1214 Vernier, Geneva \nSwiterland \nTel: +41 22 749 0111 \nwww.iso.org \n)IS Japanese Standards Association Mita MT Building \n3-13-12, Mita, Minato-ku \nTokyo, 108-0073 Japan \nTel: + 81 3 4231 8500 \nFax: + 81 3 4231 8650 \nNBN Institut Beige de Normalisation (Belgisch lnstituut voor Bureau de Normalisation \nN ormalisatie) Rue Joseph II 40 / 6 \n1070 Brussels, Belgium \nTel: +32 2 738 0111 \nFax: +32 2 733 42 64 \nwww.nbn.be \nNF Association Franyaise de Normalisation 11, avenue Francis de Pressense \nF-93571 Saint-Denis La Plaine Cedex, France \nTel:+33141628000 \nFax:+33149179000 \nwww.afnor.org \nONORM bsterreichisches Normungsinstitut (Austria) Heinestrage 38 \n1020 Wien Austria \nTel: +43 1 21 300 - 805 \nFax: +43 1 21 300 - 815 \nwww.austrian-standards.at/en/home/ \n1636 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1690.json",
+  "tabulaTablesCsv": "tables_tabula/page-1690.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-1690.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 969,
+  "bestTextAlphaRatio": 0.6223
+}

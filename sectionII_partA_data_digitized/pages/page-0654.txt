@@ -1,0 +1,111 @@
+SA-370 ASME BPVC.II.A-2025 
+18.3 Test Blocks-Machines should be checked to make 
+certain they are in good order by means of standardized 
+Rockwell test blocks. 
+18 .4 Detailed Procedure-For detailed requirements of this 
+test, reference shall be made to the latest revision of Test 
+Methods E18. 
+19. Portable Hardness Test 
+19.1 Although this standard generally prefers the use of 
+fixed-location Brinell or Rockwell hardness test methods, it is 
+not always possible to perform the hardness test using such 
+equipment due to the part size, location, or other logistical 
+reasons. In this event, hardness testing using portable equip­
+ment as desc1ibed in Test Methods A956/A956M, A1038, and 
+Ell0 shall be used with strict compliance for rep01ting the test 
+results in accordance with the selected standard (see examples 
+below). 
+19.1.1 Practice A833-The measured hardness number 
+shall be reported in accordance with the standard methods and 
+given the HBC designation followed by the comparative test 
+bar hardness to indicate that it was determined by a portable 
+comparative hardness tester, as in the following example: 
+19.1.1.1 232 HBC/240, where 232 is the hardness test result 
+using the portable comparative test method (HBC) and 240 is 
+the Brinell hardness of the comparative test bar. 
+19.1.2 Test Method A956/A956M: 
+19 .1.2.1 The measured hardness number shall be reported in 
+accordance with the standard methods and appended with a 
+Leeb impact device in parenthesis to indicate that it was 
+determined by a portable hardness tester, as in the following 
+example: 
+( 1) 350 HLD where 350 is the hardness test result using the 
+p01table Leeb hardness test method with the HLD impact 
+device. 
+19.1.2.2 When hardness values converted from the Leeb 
+number are reported, the portable instrument used shall be 
+reported in parentheses, for example: 
+(1) 350 HB (HLD) where the original hardness test was 
+performed using the portable Leeb hardness test method with 
+the HLD impact device and converted to the Brinell hardness 
+value (HB). 
+19 .1.3 Test Method Al 038-The measured hardness number 
+shall be reported in accordance with the standard methods and 
+appended with UCI in parenthesis to indicate that it was 
+determined by a portable hardness tester, as in the following 
+example: 
+19.l.3.l 446 HV (UC!) 10 where 446 is the hardness test 
+result using the portable UCI test method under a force of 
+10 kgf. 
+19.1.4 Test Method Ell0-The measured hardness number 
+shall be reported in accordance with the standard methods and 
+appended with a IP to indicate that it was determined by a 
+portable hardness tester, as follows: 
+19.1.4.1 Rockwell Hardness Examples: 
+( 1) 40 HRCIP where 40 is the hardness test result using the 
+Rockwell C portable test method. 
+602 
+(2) 72 HRBWIP where 72 is the hardness test result using 
+the Rockwell B portable test method using a tungsten carbide 
+ball indenter. 
+19.1.4.2 Brinell Hardness Examples: 
+( 1) 220 HBWIP 10/3000 where 220 is the hardness test 
+result using the Brinell portable test method with a ball of 
+10 mm diameter and with a test force of 3000 kgf (29.42 kN) 
+applied for 10 to 15 s. 
+(2) 350 HBW/P 5/750 where 350 is the hardness test result 
+using the Brinell portable test method with a ball of 5 mm 
+diameter and with a test force of 750 kgf (7.355 kN) applied for 
+10 to 15 s. 
+CHARPY IMPACT TESTING 
+20. Summary 
+20.1 A Charpy V-notch impact test is a dynamic test in 
+which a notched specimen is struck and broken by a single 
+blow in a specially designed testing machine. The measured 
+test values may be the energy absorbed, the percentage shear 
+fracture, the lateral expansion opposite the notch, or a combi­
+nation thereof. 
+20.2 Testing temperatures other than room (ambient) tem­
+perature often are specified in product or general requirement 
+specifications (hereinafter referred to as the specification). 
+Although the testing temperature is sometimes related to the 
+expected service temperature, the two temperatures need not be 
+identical. 
+21. Significance and Use 
+21.1 Ductile Versus Brittle Behavior-Body-centered-cubic 
+or ferritic alloys exhibit a significant transition in behavior 
+when impact tested over a range of temperatures. At tempera­
+tures above transition, impact specimens fracture by a ductile 
+(usually microvoid coalescence) mechanism, absorbing rela­
+tively large amounts of energy. At lower temperatures, they 
+fracture in a brittle (usually cleavage) manner absorbing 
+appreciably less energy. Within the transition range, the frac­
+ture will generally be a mixture of areas of ductile fracture and 
+brittle fracture. 
+21.2 The temperature range of tlle transition from one type 
+of behavior to the other varies according to the material being 
+tested. This transition behavior may be defined in various ways 
+for specification purposes. 
+21.2.1 The specification may require a minimum test result 
+for absorbed energy, fracture appearance, lateral expansion, or 
+a combination thereof, at a specified test temperature. 
+21.2.2 The specification may require the determination of 
+the transition temperature at which eitller the absorbed energy 
+or fracture appearance attains a specified level when testing is 
+performed over a range of temperatures. Alternatively the 
+specification may require the detennination of tlle fracture 
+appearance transition temperature (FATTn) as the temperature 
+at which the required minimum percentage of shear fracture (n) 
+is obtained. 
+21.3 Further information on the significance of impact 
+testing appears in Annex AS. 

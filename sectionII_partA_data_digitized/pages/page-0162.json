@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 162,
+  "globalPageIndex": 162,
+  "width": 613.92,
+  "height": 793.2,
+  "text": "SA-29/SA-29M ASME BPVC.II.A-2025 \nTABLE 4 Heat Analysis Chemical Ranges and Limits of Alloy Steel Bars \nNorn 1-Boron steels can be expected to have 0.0005 % minimum boron content. \nNorn 2-Alloy steels can be produced with a lead range of 0.15 to 0.35 %. A cast or heat analysis is not determinable when lead is added to the ladle \nstream. \nChemical Ranges and Limits, % \nElement \nCarbon \nManganese \nPhosphorus \nSulfur \nSilicon \nNickel \nChromium \nMolybdenum \nTungsten \nVanadium \nAluminum \nCopper \nWhen Maximum of Specified \nElement is: \nTo 0.55, incl \nOver 0.55-0.70, incl \nOver 0.70 to 0.80, incl \nOver 0.80-0.95, incl \nOver 0.95-1.35, incl \nTo 0.60, incl \nOver 0.60-0.90, incl \nOver 0.90-1.05, incl \nOver 1.05-1.90, incl \nOver 1.90-2.10, incl \nBasic open-hearth or basic-\noxygen steel \nAcid open-hearth steel \nBasic electric-furnace steel \nAcid electric-furnace steel \nTo 0.050, incl \nOver 0.050-0.07, incl \nOver 0.07-0.10, incl \nOver 0.10-0.14, incl \nBasic open-hearth or basic-\noxygen steel \nAcid open-hearth steel \nBasic electric-furnace steel \nAcid electric-furnace steel \nTo 0.20, incl \nOver 0.20-0.30, incl \nOver 0.30-0.60, incl \nOver 0.60-1.00, incl \nOver 1.00-2.20, incl \nAcid steels 8 \nTo 0.50, incl \nOver 0.50-1.50, incl \nOver 1.50-2.00, incl \nOver 2.00-3.00, incl \nOver 3.00-5.30, incl \nOver 5.30-10.00, incl \nTo 0.40, incl \nOver 0.40-0.90, incl \nOver 0.90-1.05, incl \nOver 1.05-1.60, incl \nOver 1.60-1.75, incl \nOver 1.75-2.10, incl \nOver 2.10-3.99, incl \nTo 0.10, incl \nOver 0.10-0.20, incl \nOver 0.20-0.50, incl \nOver 0.50-0.80, incl \nOver 0.80-1.15, incl \nTo 0.50, incl \nOver 0.50-1.00, incl \nOver 1.00-2.00, incl \nOver 2.00-4.00, incl \nTo 0.25, incl \nOver 0.25-0.50, incl \nUp to 0.10, incl \nOver 0.10-0.20, incl \nOver 0.20-0.30, incl \nOver 0.30-0.80, incl \nOver 0.80-1.30, incl \nOver 1.30-1.80, incl \nTo 0.60, incl \nOver 0.60-1.50, incl \nOver 1.50-2.00, incl \nA Applies to only nonrephosphorized and nonresulfurized steels. \nOpen-Hearth or Basic-Oxygen \nSteel \n0.05 \n0.08 \n0.10 \n0.12 \n0.13 \n0.20 \n0.20 \n0.25 \n0.30 \n0.40 \n0.Q15 \n0.02 \n0.04 \n0.05 \n0.08 \n0.15 \n0.20 \n0.30 \n0.40 \n0.20 \n0.30 \n0.35 \n0.40 \n0.50 \n1.00 \n0.15 \n0.20 \n0.25 \n0.30 \nC \nC \nC \n0.05 \n0.07 \n0.10 \n0.15 \n0.20 \n0.20 \n0.30 \n0.50 \n0.60 \n0.05 \n0.10 \n0.05 \n0.10 \n0.15 \n0.25 \n0.35 \n0.45 \n0.20 \n0.30 \n0.35 \n8 Minimum silicon limit for acid open-hearth or acid electric-furnace alloy steels is 0.15 %. \n0 Not normally produced in open-hearth. \n110 \nElectric Furnace Steel \n0.05 \n0.07 \n0.09 \n0.11 \n0.12 \n0.15 \n0.20 \n0.25 \n0.30 \n0.35 \n0.015 \n0.02 \n0.04 \n0.05 \n0.08 \n0.15 \n0.20 \n0.30 \n0.35 \n0.20 \n0.30 \n0.35 \n0.40 \n0.50 \n1.00 \n0.15 \n0.20 \n0.25 \n0.30 \n0.35 \n0.40 \n0.50 \n0.05 \n0.07 \n0.10 \n0.15 \n0.20 \n0.20 \n0.30 \n0.50 \n0.60 \n0.05 \n0.10 \n0.05 \n0.10 \n0.15 \n0.25 \n0.35 \n0.45 \n0.20 \n0.30 \n0.35 \nMaximum Limit, %A \n0.035 \n0.050 \n0.025 \n0.050 \n0.040 \n0.050 \n0.025 \n0.050 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0162.json",
+  "tabulaTablesCsv": "tables_tabula/page-0162.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0162.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2834,
+  "bestTextAlphaRatio": 0.4312
+}

@@ -1,0 +1,37 @@
+TABLE 2 Tensile Requirements a
+Class 1 Class 2 Class 3 Class 4 Class 4a .
+Tensile strength, ksi [MPa] 105-125 [725-860] 115-135 [795-930] 95-115 [655~795] 85-110 [585-760] 85-110 [585-760]
+Yield strength, min, ksi [MPa] 85 [585] 100 [690] 75 [515] 55 [380] 60 [415]
+Elongation in 2 in. [50 mm], min, %4 14 13 20 20 18
+4 See Specification A20/A20M for elongation adjustment. .
+annealed condition. Minimum stress relieving temperature in a 2-in. [50-mm] gage length that includes the fracture and
+shall be 1050°F [565°C] except for Type E which shall be that shows the greatest elongation.
+1200°F [650°C]. 7.2 Notch Toughness Requirements—Classes 4 and 4a: |
+6. Chemical Composition 7.2.1 A transverse Charpy V-notch test from each plate-as- |
+heat-treated shall have a minimum energy absorption value of
+6.1 The steel shall conform to the chemical requirements 40 ft-Ibf [54 J] average of three specimens and 35 ft-lbf [48 J]
+shown in Table 1. for one specimen only in the set. , ;
+7. Mechanical Properties | 7.2.2 For Class 4, the impact test temperature shall be as ,
+specified on the order. :
+7.1 Tension Test Requirements: 7.2.3 For Class 4a, the impact test temperature shall be 0°F
+7.1.1 The material as represented by the tension-test speci- [-18°C].
+mens shall conform to the requirements shown in Table 2. :
+7.1.2 For nominal plate thicknesses of 34 in. [20 mm] and 8+ Keywords |
+under, the 1/2-in. [40-mm] wide rectangular specimen may be 8.1 alloy steel; alloy steel plate; pressure containing parts; i
+used for the tension test, and the elongation may be determined _ pressure vessel steels; steel plates for pressure vessels -
+SUPPLEMENTARY REQUIREMENTS .
+
+Supplementary requirements shall not apply unless specified in the order. oe .
+
+A list of standardized supplementary requirements for use at the option of the purchaser are included L
+in Specification A20/A20M. Several of those considered suitable for use with this specification are ;
+listed in this section by title. Other tests may be performed by agreement between the supplier and the
+purchaser. :
+
+Sl. Vacuum Treatment, -
+S2. Product Analysis, a) ,
+$3. Simulated Post-Weld Heat Treatment of Mechanical F - |
+Test Coupons, & Minimum | |
+$4.2 Additional Tension Test, = | PWHT / “~ Minimum PWHT |
+S5. Charpy V-Notch Impact Test, 5 | / and step age
+ne ™! “tT * Y>.PwH i.4.YySyPp a a as ras + 4 ew: | ae eS Tne a |

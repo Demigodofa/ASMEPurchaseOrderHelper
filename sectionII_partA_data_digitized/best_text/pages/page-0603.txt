@@ -1,0 +1,75 @@
+ASME BPVC.II.A-2025 SA-352/SA-352M 
+11. Keywords 
+11.1 alloy steel; carbon steel; ferritic steel; low temperature 
+applications; mrutensitic stainless steel; pressure containing 
+parts; stainless steel; steel castings 
+SUPPLEMENTARY REQUIREMENTS 
+The following supplementary requirements shall not apply unless specified in the purchase order. A 
+list of standardized supplementary requirements for use at the option of the purchaser is included in 
+Specification A 703/ A 703M. Those which are ordinarily considered suitable for use with this 
+specification are given below together with additional supplementary requirements that are applicable 
+only to this specification. Other supplementary requirements enumerated in A703/A703M may be 
+used with this specification upon agreement between the manufacturer and purchaser. 
+Sl. Unspecified Elements 
+S2. Destruction Tests 
+S4. Magnetic Particle Inspection 
+S5. Radiographic Inspection 
+S9. Drop Weight Tests 
+S10. Examination of Weld Preparation 
+Sl0.1 The method of performing the magnetic particle or 
+liquid penetrant test shall be in accordance with Practice E709 
+or Practice E 165. 
+S21. Heat Treatment 
+S21.1 Castings shall be liquid quenched and tempered. 
+S22. Impact Test Temperatures 
+S22.1 When an impact test temperature other than that listed 
+in Table 1 is used, the lowest test temperature at which the 
+material met the impact test requirements shall be stamped 
+with low-stress stamps on a raised pad located immediately 
+ahead of the material symbol; for example, 25 LCB for +25°F 
+[-4°C] and 025 LCB for -25°F [-32°C]. 
+S22.2 Lateral expansion of V-notch specimens shall be 
+measured in accordance with 23.2.3.1 of Test Methods and 
+Definitions A370, and reported for information. 
+S23. Carbon Equivalent 
+S23.1 When specified on the order the maximum carbon 
+equivalent shall be: 
+Grade Carbon Equivalent, max 
+LCA 0.50 
+LCB 0.50 
+LCC 0.55 
+S23.2 Determine carbon equivalent, CE, as follows: 
+Mn Cr+Mo+V Ni+Cu 
+CE= C+6+ 5 +-15-
+APPENDIX 
+(Nonmandatory Information) 
+Xl. EXPLANATION OF THE USE OF NOTCHED BAR IMPACT TESTS IN DETERMINING THE ACCEPTABILITY OF 
+STEELS FOR LOW-TEMPERATURE SERVICE 
+Xl. 1 Years of experience and test work have shown that 
+some materials, particularly ferritic steels, change from tough 
+to brittle behavior with a decrease in temperature. The transi­
+tion temperatures and the levels of notch toughness vary with 
+different materials, depending on many factors. When materi­
+als are used under conditions where brittle behavior may occur, 
+there is danger that flaws, which would be considered nonhaz­
+ardous if the material were tough, may propagate to disastrous 
+failure of the equipment. 
+Xl.2 Accordingly, many varieties of tests have been devel­
+oped in an effort to evaluate the toughness of materials and the 
+conditions under which they will transform from tough to 
+brittle behavior. There are many opinions and shadings of 
+551 
+opinion as to which test is most suitable for evaluating the 
+suitability of materials for service at low temperatures; how­
+ever, as yet, only the Charpy impact test has received sufficient 
+general acceptance and has been used as a basis for purchasing 
+for sufficient time to be included in ASTM standards. Further­
+more, this test is required for low-temperature service vessels 
+and piping constructed in accordance with ASME Code for 
+Unfired Pressure Vessels and the American National Standard 
+Code for Pressure Piping (ANSI B31), respectively. These 
+ASTM specifications for materials for low-temperature service 
+are primarily used in piping and pressure vessel construction 
+that are subjected to temperatures lower than ambient; conse­
+quently, the notched bar impact test requirements are written to 
+provide material that in quality and by its testing can be 

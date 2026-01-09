@@ -1,0 +1,102 @@
+ASME BPVC.II.A-2025 SA·985/SA-985M 
+A 751 Test Methods, Practices, and Terminology for 
+Chemical Analysis of Steel Products 
+A 800 / A 800M Practice for Steel Casting, Austen tic Alloy, 
+Estimating Ferrite Content Thereof 
+A 903 I A 903M Specification for Steel Castings, Surface 
+Acceptance Standards, Magnetic Particle and Liquid 
+Penetrantinspection 
+A 941 Terminology Relating to Steel, Stainless Steel, 
+Related Alloys, and Ferroalloys 
+A 991 / A 991M Test Method for Conducting Temperature 
+Uniformity Surveys of Furnaces Used to Heat Treat 
+Steel Products 
+E 29 Practice for Using Significant Digits in Test Data to 
+Determine Conformance with Specifications 
+E 94 Guide for Radiographic Examination 
+E 125 Reference Photographs for Magnetic Particle Indica­
+tions on Ferrous Castings 
+E 165 Test Method for Liquid Penetrant Examination 
+E 186 Reference Radiographs for Heavy-Walled (2 to 
+4½ in. (51 to 114 mm)) Steel Castings 
+E 192 Reference Radiographs for Investment Steel Cast­
+ings of Aerospace Applications 
+E 208 Test Method for Conducting Drop-Weight Test to 
+Determine Nil-Ductility Transition Temperature of Fer­
+ritic Steels 
+E 280 Reference Radiographs for Heavy-Walled (4½ to 
+12 in. (114 to 305 mm)) Steel Castings 
+E 340 Test Method for Macroetching Metals and Alloys 
+E 353 Test Methods for Chemical Analysis of Stainless, 
+Heat-Resisting, Maraging, and Other Similar Chro­
+mium-Nickel-Iron Alloys 
+E 354 Test Methods for Chemical Analysis of High-Tem­
+perature, Electrical, Magnetic, and Other Similar Iron, 
+Nickel, and Cobalt Alloys 
+E 446 Reference Radiographs for Steel Castings Up to 2 in. 
+(51 mm) in Thickness 
+E 709 Guide for Magnetic Particle Examination 
+2.2 ANSI Standard: 
+B16.5 Steel Pipe Flanges and Flanged Fittings 
+2.3 ASME Standard: 
+ASME Boiler and Pressure Vessel Code, Section III, 
+NB-2546 
+2.4 Standards of the Manufacturer's Standardization 
+Society of the Valve and Fitting Industry: 
+MSS SP 53 Quality Standard for Steel Castings for Valves, 
+Flanges and Fittings, and Other Piping Components (Dry 
+Magnetic Particle Inspection Method) 
+MSS SP 54 Quality Standard for Steel Castings for Valves, 
+Flanges and Fittings, and Other Piping Components 
+(Radiographic Inspection Method) 
+2.5 SAE Aerospace Recommended Practice: 
+ARP 1341 Determining Decarburization and Carburization 
+in Finished Parts of Carbon and Low-Alloy Steel 
+3. Terminology 
+3.1 Definitions - The definitions in Test Methods and 
+Definitions A 370 and Terminology A 941 are applicable 
+to this specification and those listed in 1.1. 
+3.2 Definitions of Terms Specific to This Standard: 
+3.2.1 heat, n - all the molten metal poured from a 
+single furnace or all of the molten metal from two or more 
+furnaces poured into a single ladle or casting prior to the 
+replenishing of the furnace(s). 
+3.2.2 investment casting, n - a metal casting that is 
+produced in a mold obtained by investing (surrounding) 
+an expendable pattern with a ceramic slurry, which is 
+allowed to solidify. The expendable pattern may consist 
+of wax, plastic, or other material and is removed prior to 
+filling the mold with liquid metal. 
+3.2.3 master heat, n - a single furnace charge of 
+alloy that may be either poured directly into castings or 
+into remelt alloy for individual melts. 
+3.2.4 subheat, n - a portion of master heat remelted 
+with only minor additions for deoxidation for pouring into 
+castings. Syn. melt, production heat. 
+4. Materials and Manufacture 
+4.1 Melting Process - Master heats shall be made by 
+the electric furnace process with or without separate refin­
+ing such as argon-oxygen-decarburization (AOD), vac­
+uum-oxygen-degassing (VOD), vacuum-induction­
+melting (VIM), and so forth, unless otherwise specified in 
+the individual specification or agreed upon between the 
+customer and producer. Master heats may be used directly 
+for producing castings or converted into ingot, bar, shot, 
+or other suitable form, not including gates and risers from 
+casting production, for later remelting as a subheat. 
+4.2 Re-Melting Process - Subheats shall be produced 
+from master heat metal in suitable batch sizes by electric 
+induction furnace, with or without atmosphere protection, 
+such as vacuum or inert gas unless otherwise agreed upon 
+between the customer and producer. Revert (gates, sprues, 
+risers, and rejected castings) shall not be remelted except 
+in master heats. 
+4.3 Heat Treatment: 
+4.3.1 Ferritic and martensitic steel shall be cooled 
+after pouring to provide substantially complete transforma­
+tion of austenite prior to heat treatment to enhance mechani­
+cal properties. 
+4.3.2 Castings shall be heat treated in the working 
+zone of a furnace that has been surveyed in accordance 
+with Test Method A 991/A 991M. 
+1435 

@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 821,
+  "globalPageIndex": 1619,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "ASME BPVC.11.A-2025 SA/CSA-G40.21 \nSPECIFICATION FOR STRUCTURAL QUALITY STEELS \nSA/CSA-G40.21 \n(Identical with International Specification CSA-G40.21-2013(R2018) including Update No. 1 (May 2014), with these \nadditional requirements.) \n1565 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-1619.txt",
+  "ocrTextLength": 242,
+  "ocrApplied": true,
+  "bestTextPath": "best_text/pages/page-1619.txt",
+  "bestTextSource": "ocr",
+  "bestTextLength": 242,
+  "bestTextAlphaRatio": 0.6529
+}

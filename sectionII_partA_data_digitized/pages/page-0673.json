@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 673,
+  "globalPageIndex": 673,
+  "width": 615.84,
+  "height": 856.2,
+  "text": "ASME BPVC.II.A-2025 SA-370 \nc = Clearance of wedge hole \nd = Diameter of bolt \nR = Radius \n10\" \nT = Thickness of wedge at short side of hole equal to one-half diameter of bolt \nd+c \nFIG. A3.2 Wedge Test Detail \nTABLE A3.1 Tension Test Wedge Angles \nNominal Product Size, in. \n\u00bc-1 \nOver 1 \nBolts \n10 \n6 \nDegrees \nStuds and Flange \nBolts \n6 \n4 \nthe specimen shall be concentric with the axis of the bolt; the \nhead and threaded section of the bolt may be left intact, as in \nFig. A3.3 and Fig. A3.4, or shaped to fit the holders or grips of \nthe testing machine so that the load is applied axially. The \ngauge length for measuring the elongation shall be four times \nthe diameter of the specimen. \n621 \n(2) For bolts 1\u00bd in. and over in nominal diameter, a \nstandard \u00bd-in. round 2-in. gauge length test specimen shall be \nturned from the bolt, having its axis midway between the \ncenter and outside surface of the body of the bolt as shown in \nFig. A3.5. \n( 3) Machined specimens are to be tested in tension to \ndetermine the properties prescribed by the product specifica\u00ad\ntions. The methods of testing and determination of properties \nshall be in accordance with Section 14 of these test methods. \nA3.3 Hardness Tests for Externally Threaded Fasteners \nA3.3.1 When specified, externally threaded fasteners shall \nbe hardness tested. Fasteners with hexagonal or square heads \nshall be Brinell or Rockwell hardness tested. For hexagonal \nand square head bolts, test shall be conducted on the wrench \nflats, top of head, unthreaded shank, end of bolt or at the \narbitration location. For studs, products without parallel ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0673.json",
+  "tabulaTablesCsv": "tables_tabula/page-0673.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-0673.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1617,
+  "bestTextAlphaRatio": 0.7434
+}

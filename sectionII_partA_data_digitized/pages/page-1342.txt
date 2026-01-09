@@ -1,0 +1,112 @@
+SA-788/SA-788M ASME BPVC.II.A-2025 
+Sl. Residual Elements 
+S 1.1 Small quantities of certain unspecified elements may 
+be present in carbon and low alloy steel forgings. These 
+elements are considered as incidental and may be present to the 
+following maximum amounts: 
+Copper 
+Nickel 
+Chromium 
+Molybdenum 
+VanadiumA 
+A Unless Supplementary Requirement S2 is required. 
+S2. Unspecified Elements 
+0.35 % 
+0.30 % 
+0.25 % 
+0.10% 
+0.03 % 
+S2.1 Vanadium used for grain refinement or deoxidation 
+shall not exceed 0.08 %. 
+S3. Sequential or Continuous Strand Casting 
+S3.1 When multiple heats of the same chemical composi­
+tion range are sequentially strand cast, the heats shall be 
+separated by an established procedure such that intermix 
+material will not be supplied. 
+S4. Intercritical Heat Treatment 
+S4.1 The austenitizing stage in the heat treatment of ferritic 
+forgings is intended to be done at suitable temperatures above 
+the upper critical temperature (Ac 3 ) for the heat of steel 
+involved, that is, full austenitization. However, when multiple 
+austenitizing stages are used the temperature for the last may 
+be set between the upper (Ac 3 ) and lower (Ac 1 ) critical 
+temperature for partial austenitizing. Such cycles shall be 
+followed by tempering within the temperature limits required 
+by the material specification. 
+SS, Straightening of Forgings 
+S5.1 Unless otherwise specified by Supplementary Require­
+• ment S6, straightening of forgings after heat treatment for 
+• • . properties shall be performed at a temperature which is not 
+more than 100°F [55°C] below the final tempering tempera­
+. ture. Following straightening, forgings shall be stress relieved 
+• at a temperature of 50 to 100°F [30 to 55°C] below the final 
+tempering temperature and shall be reported on the material 
+. test report. Any straightening performed before heat treatment 
+• for properties does not require an intermediate stress-relief heat 
+treatment. 
+S6. Post-Heat Treatment Straightening of Forgings 
+S6.1 Straightening after heat treatment for specified proper­
+ties is not permitted without prior approval by the purchaser. 
+S7. Fracture Toughness Test 
+S7 .1 The purchaser shall specify one or more of the follow­
+ing test methods for fracture toughness determination. Re­
+quired information including test temperature, conditioning, 
+environment, and acceptance criteria shall be provided as 
+necessary. 
+S7 .2 Determination of the plane strain fracture toughness in 
+accordance with Test Method E399. 
+S7 .3 Fracture toughness determination in accordance with 
+Test Method B1820. 
+S7.4 Crack-tip opening displacement determination in ac­
+cordance with Test Method B1290. 
+SS. Vacuum Degassing 
+S8.1 The vacuum degassing requirements of 5.2 shall apply. 
+S9. Vacuum Carbon Deoxidation 
+S9.1 The molten steel shall be vacuum carbon deoxidized 
+(VCD) during processing, in which case the silicon content 
+shall be 0.10 % maximum. 
+SlO. Restricted Phosphorus and Sulfur, Levels A or B 
+S 10.1 For level A, the phosphorus and sulfur levels shall be 
+limited as follows: 
+Heat Product 
+Level A P 0.Q15 % maximum 0.018 % maximum 
+S 0.018 % maximum 0.021 % maximum 
+Sl0.2 For level B, the phosphorus and sulfur levels shall be 
+limited to the following: 
+Level B p 
+s 
+Heat Product 
+0.012 % maximum 0.015% maximum 
+0.015% maximum 0.Q18 % maximum 
+Sll. Restricted Copper, Levels A or B 
+S 11.1 For level A, the heat and product analyses limits for 
+copper shall be 0.15 % maximum. 
+Sll.2 For level B, the heat and product analyses limits for 
+copper shall be 0.10 % maximum. 
+S12. Tension Specimens for Hobbed Flat Heads and Tube 
+Sheets 
+Sl2.1 For hubbed tube sheets and flat heads to be used in 
+ASME Boiler and Pressure Vessel Code construction, an axial 
+tension specimen shall be taken as close as possible to the hub 
+and either inboard or outboard of it, using a sub size specimen 
+if necessary. The longitudinal axis of the specimen shall be 
+parallel to the length of the hub, as shown in Fig. S12.1. 
+S12.2 By agreement with the purchaser, this test orientation 
+may replace a specified tension test specimen, provided that 
+other location criteria are met. 
+S13. Charpy Impact Tests 
+Sl3.l Charpy impact tests shall be made. The number, 
+orientation and location of the tests shall be specified along 
+with the test temperature and the applicable acceptance criteria 
+for absorbed energy, fracture appearance, lateral expansion, or 
+both. 
+S13.2 The specimens shall be machined and tested in 
+accordance with Test Methods and Definitions A370 or Test 
+Methods A1058 in accordance with the purchase order. 
+S14. Charpy V Notch Impact Transition Curve 
+S 14.1 Sufficient impact tests shall be made from the forging 
+material to establish a transition temperature curve based upon 
+one or several of the following criteria: 
+Sl4.l.1 Absorbed energy (ft•lbf [J]) (See Test Methods E23 
+or, if required by the purchase order, Test Methods A1058), 
+1280 

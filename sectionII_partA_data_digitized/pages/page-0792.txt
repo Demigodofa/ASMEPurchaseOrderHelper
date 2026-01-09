@@ -1,0 +1,127 @@
+SA-450/SA-450M ASME BPVC.II.A-2025 
+where: 
+H = distance between flattening plates, in. [mm], 
+t = specified wall thickness of the tube, in. [mm], 
+D = specified outside diameter of the tube, in. [mm], and 
+e = deformation per unit length (constant for a given grade 
+of steel: 0.07 for medium-carbon steel (maximum 
+specified carbon 0.19 % or greater), 0.08 for low alloy 
+steel, and 0.09 for low-carbon steel (maximum speci­
+fied carbon 0.18 % or less)). 
+During the second step, which is a test for soundness, the 
+flattening shall be continued until the specimen breaks or the 
+opposite walls of the tube meet. Evidence of laminated or 
+unsound material, or of incomplete weld that is revealed during 
+the entire flattening test shall be cause for rejection. 
+19.2 Surface imperfections in the test specimens before 
+flattening, but revealed during the first step of the flattening 
+test, shall be judged in accordance with the finish requirements. 
+19.3 Superficial ruptures resulting from surface imperfec­
+tions shall not be cause for rejection. 
+19.4 When low D-to-t ratio tubular products are tested, 
+because the strain imposed due to geometry is unreasonably 
+high on the inside surface at the six and twelve o'clock 
+locations, cracks at these locations shall not be cause for 
+rejection if the D to t ratio is less than 10. 
+20. Reverse Flattening Test 
+20.1 A 5 in. [100 mm] in length of finished welded tubing in 
+sizes down to and including ½ in. [12.7 mm] in outside 
+diameter shall be split longitudinally 90° on each side of the 
+weld and the sample opened and flattened with the weld at the 
+point of maximum bend. There shall be no evidence of cracks 
+or lack of penetration or overlaps resulting from flash removal 
+in the weld. 
+21. Flaring Test 
+21.1 A section of tube approximately 4 in. [100 mm] in 
+length shall stand being flared with a tool having a 60° included 
+angle until the tube at the mouth of the flare has been expanded 
+to the percentages specified in Table 5 without cracking or 
+showing imperfections rejectable under the provisions of the 
+product specification. 
+TABLE 5 Flaring Test Requirements 
+Ratio of Inside 
+Diameter to Outside 
+Diameters 
+0.9 
+0.8 
+0.7 
+0.6 
+0.5 
+0.4 
+0.3 
+Minimum Expansion of Inside 
+Diameter,% 
+Carbon Steels 
+21 
+22 
+25 
+30 
+39 
+51 
+68 
+Low 
+Alloy Steels 
+15 
+17 
+19 
+23 
+28 
+38 
+50 
+A In determining the ratio of inside diameter to specified outside diameter, the 
+inside diameter shall be defined as the actual mean inside diameter of the material 
+tested. 
+22. Flange Test 
+22.1 A section of tube shall be capable of having a flange 
+turned over at a right angle to the body of the tube without 
+cracking or showing imperfections rejectable under the provi­
+sions of the product specification. The width of the flange for 
+carbon and alloy steels shall be not less than the percentages 
+specified in Table 6. 
+23. Hardness Test 
+23.1 For tubes 0.200 in. [5.1 mm] and over in wall 
+thickness, either the Brinell or Rockwell hardness test shall be 
+used. When Brinell hardness testing is used, a 10-mm ball with 
+3000, 1500, or 500-kg load, or a 5-mm ball with 750-kg load 
+may be used, at the option of the manufacturer. 
+742 
+23.2 For tubes less than 0.200 in. [5.1 mm] to and including 
+0.065 in. [1.7 mm] in wall thickness, the Rockwell hardness 
+test shall be used. 
+23.3 For tubes less than 0.065 in. [1.7 mm] in wall 
+thickness, the hardness test shall not be required. 
+23.4 The Brinell hardness test may be made on the outside 
+of the tube near the end, on the outside of a specimen cut from 
+the tube, or on the wall cross section of a specimen cut from the 
+tube at the option of the manufacturer. This test shall be made 
+so that the distance from the center of the impression to the 
+edge of the specimen is at least 2.5 times the diameter of the 
+impression. 
+23.5 The Rockwell hardness test may be made on the inside 
+surface, on the wall cross section, or on a flat on the outside 
+surface at the option of the manufacturer. 
+23.6 For tubes furnished with upset, swaged, or otherwise 
+formed ends, the hardness test shall be made as prescribed in 
+23.1 and 23.2 on the outside of the tube near the end after the 
+forming operation and heat treatment. 
+23.7 For welded or brazed tubes, the hardness test shall be 
+made away from the joints. 
+23.8 When the product specification provides for Vickers 
+hardness, such testing shall be in accordance with Test Method 
+E92. 
+24. Hydrostatic Test 
+24.1 Except as provided in 24.2 and 24.3, each tube shall be 
+tested by the manufacturer to a minimum hydrostatic test 
+pressure determined by the following equation: 
+Inch - Pound Units: P = 32000 t/D 
+SI Units: P = 220.6t/D 
+TABLE 6 Flange Requirements 
+Outside Diameter of Tube, in. [mm] 
+To 2½ [63.5], incl 
+Over 2½ to 3¾ [63.5 to 95.2], incl 
+Over 3¾ to 8 [95.2 to 203.2], incl 
+Width of Flange 
+15%ofOD 
+12½%ofOD 
+10%ofOD 
+(3) 

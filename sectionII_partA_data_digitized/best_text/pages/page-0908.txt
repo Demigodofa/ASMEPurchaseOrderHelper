@@ -1,0 +1,171 @@
+SA-480/SA-480M (ASTM A480/A480M) ASME BPVC.II.A-2025 
+TABLE A3.19 Permitted Variations in Length for Hot-rolled 
+Sheared Rectangular Plate Mill Plates (Quarto Plates) 
+Nominal Length (L), mm Tolerances, Over and Under, mm 
+L < 4000 
+4000 ,;; L < 6000 
+6000 ,;; L < 8000 
+8000 s L < 10 000 
+10 000,;; L < 15 000 
+15 000,;; L < 20 000 
++20, -0 
++30, -0 
++40, -0 
++50, -0 
++75,-0 
++100, -0 
+TABLE A3.20 Permitted Variations in Flatness of Plate Mill Plate 
+(Quarto Plate) 
+NOTE 1-Tolerances in this table apply to any length, not necessarily 
+the rolling direction, up to 36 in. [914 mm] and to any 36 in. [914 mm] of 
+longer lengths in the plane of the plate measured while the plate rests on 
+a flat surface with the concavity of the curvature upward. 
+NOTE 2-If the longer dimension is under 36 in. [914 mm], the 
+tolerance is not greater than ¼ in. [6.4 mm]. 
+NoTE 3-For plates with specified minimum yield strengths of 35 ksi 
+[240 MPa] or more, the permitted variations are increased to 1 ½ times the 
+amounts shown. 
+NoTE 4-For specified thicknesses other than those shown, the toler­
+ances for the next higher thickness shall apply. 
+Specified Thickness (t), 
+in.[mm] 
+5 
+10 
+15 
+20 
+25 
+50 
+150 
+>150 
+Flatness Tolerance for Thicknesses 
+Given, in. [mm] 
+0.40 [10] 
+%[9.5] 
+5 /,a [7.9] 
+o/1a [7.9] 
+o/1a [7.9] 
+¼ [6.4] 
+¼[6.4] 
+¼ [6.4] 
+TABLE A3.21 Cold-rolled Products, Processed Without Coiling 
+Tolerances for cold-rolled products processed without coiling shall be identical 
+to the tolerances for hot-rolled products processed without coiling as listed in 
+Table A3.17, unless otherwise agreed upon by seller and purchaser and 
+specified in the purchase order. 
+TABLE A3.22 Permitted Variations in Width for Cold-rolled 
+Narrow, Coil-processed Product in Coils and Cut Lengths for 
+Edge No. 1 or 5 
+Specified 
+Edge No. 
+1 and 5 
+1 and 5 
+1 and 5 
+5 
+5 
+5 
+Width, mm 
+under10 
+10 to 20, excl 
+20 to 100, excl 
+100 to 300, excl 
+300 to 600, excl 
+600 and over 
+Thickness, mm 
+1.50 and under 
+2.50 and under 
+3.00 and under 
+0.20 to 3.00, incl 
+0.40 to 2.60, incl 
+0.60 to 2.00, incl 
+Width Tolerance for 
+Thickness and Width Given, 
+mm 
+Over Under 
+0.13 0.13 
+0.13 0.13 
+0.13 0.13 
+0.25 0.25 
+0.25 0.25 
+0.40 0.40 
+TABLE A3.23 Permitted Variations In Width and Length for Hot­
+rolled and Cold-rolled Resquared Coil-processed Product 
+(Stretcher Leveled Standard of Flatness) 
+NoTE 1-Polished sheets with Finishes No. 4 and higher are produced 
+to tolerances given in this table. 
+Specified Dimensions, mm Width and Length 
+Tolerance, mm 
+Thickness Width 
+Under 3.30 Up to 1200 
+1200 and over 
+3.30 and over All 
+Length 
+Up to 3000 
+3000 and over 
+Ail 
+Over Under 
+2 0 
+3 0 
+7 0 
+TABLE A3.24 Permitted Variations in Abrasive Cutting Width and 
+Length for Plates 
+Specified Thickness, [mm] 
+Up to 25, incl 
+25 to 50, incl 
+50 to 75, incl 
+75 to 1 oo, incl 8 
+Tolerance over Specified Width and Length,A mm 
+Width Length 
+32 32 
+4.8 4.8 
+6.4 a4 
+7S 7S 
+A The tolerances under specified width and length are 3.2 mm. 
+808 
+8 Width and length tolerances for abrasive cut plates over 100 mm thick are not 
+Included in the table; consult producer. 
+TABLE A3.25 Permitted Variations in Diameter for Hot-rolled and 
+Cold-rolled Coll-processed Product as Sheared Circles 
+Specified 
+Thickness, 
+mm 
+Under 1.50 
+1 .50 to 2.50 excl 
+2.50 and thicker 
+Tolerance Over Specified Diameter 
+(No Tolerance Under), mm 
+Diameters Diameters 600 Diameters 
+Under 600 to 1200 incl Over 1200 
+2 3 5 
+3 4 6 
+4 5 7 
+TABLE A3.26 Permitted Variations in Diameter for Circular Plates 
+Taken From Hot-rolled Product Processed With or Without 
+Coiling 
+NoTE 1-For specific diameters other than those shown; the tolerance 
+for the next higher diameter shall apply. 
+Specified 
+Diameter, 
+mm 
+1500 and under 
+2100 
+2700 
+4500 
+A No tolerance under. 
+Tolerance Over Specified Diameter for Given Diameter 
+and Thickness,A mm 
+To 10, excl 
+7 
+8 
+10 
+11 
+Thickness of Plate 
+10 to 15, excl 
+10 
+13 
+11 
+15 
+15 and over 
+13 
+16 
+15 
+18 

@@ -1,0 +1,706 @@
+[
+  {
+    "rows": [
+      [
+        "",
+        "",
+        "Composition %",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Element",
+        "",
+        "",
+        "",
+        "[MPa] [510 to 690]",
+        "[620 to 840]",
+        "[620] min",
+        "[620 to 840]"
+      ],
+      [
+        "",
+        "Grade 23",
+        "Grade 911 Grade 122",
+        "Grade 92",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Carbon",
+        "",
+        "",
+        "",
+        "Yield Strength ksi 58",
+        "64",
+        "58",
+        "64"
+      ],
+      [
+        "Heat Analysis",
+        "0.04--0.10",
+        "0.09--0.13 0.07-0.14",
+        "0.07-0.13",
+        "[MPa], min [400]",
+        "[440]",
+        "[400]",
+        "[440]"
+      ],
+      [
+        "Product Analysis",
+        "0.03-0.1 O",
+        "0.08-0.14 0.05-Q.17",
+        "0.05-Q.16",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "Elongation in 2 in.",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Manganese",
+        "",
+        "",
+        "",
+        "or 20",
+        "18",
+        "20",
+        "20"
+      ],
+      [
+        "Heat Analysis",
+        "0.10-0.60",
+        "0.30-0.60 0.70 max",
+        "0.30-0.60",
+        "50mm, % min",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Product Analysis",
+        "0.09-0.66",
+        "0.25-0.66 0.77 max",
+        "0.25-Q.66",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Phosphorus, max.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Heat Analysis",
+        "0.030",
+        "0.020 0.020",
+        "0.020",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Product Analysis",
+        "0.030",
+        "0.025 0.025",
+        "0.025",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "5.2 If pennitted by the purchaser, plates for Grades 23, 92,",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Sulfur, max.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Heat Analysis",
+        "0.010",
+        "0.010 0.010",
+        "0.010",
+        "and 122 may be austenitized",
+        "at 1900",
+        "to 1975\u00b0F",
+        "[1040 to"
+      ],
+      [
+        "Product Analysis",
+        "0.012",
+        "0.012 0.012",
+        "0.012",
+        "1080\u00b0C], subjected to accelerated cooling from the austenitiz\u00ad",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Silicon",
+        "",
+        "",
+        "",
+        "ing temperature by air blasting or liquid quenching, and then",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Heat Analysis",
+        "0.50 max",
+        "0.10-0.50 0.50 max",
+        "0.50 max",
+        "tempered at 1350 to 1470\u00b0F [730 to 800\u00b0C].",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Product Analysis",
+        "0.50 max",
+        "0.08-0.56 0.56 max",
+        "0.50 max",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "5.3 Plates ordered without the heat treatment required by",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Chromium",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "either 5.1 or 5.2 shall be furnished in either the stress-relieved",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Heat Analysis",
+        "1.90-2.60",
+        "8.5-9.5 10.0-11.5",
+        "8.5-9.5",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Product Analysis",
+        "1.78-2.72",
+        "8.4-9.7 9.9--11.6",
+        "8.4-9.6",
+        "or annealed condition, and the purchaser shall be responsible",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "for the heat treatment of such plates to conform to either 5.1 or",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Molybdenum",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "HeatAnalysis",
+        "0.05-0.30",
+        "0.90-1.10 0.25-0.60",
+        "0.30-0.60",
+        "5.2.",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Product Analysis",
+        "0.04--0.35",
+        "0.85-1.15 0.20-0.65",
+        "0.25-D.65",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "6. Chemical Composition",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Nickel, max.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Heat Analysis",
+        "0.40",
+        "0.40 0.50",
+        "0.40",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "The steel shall conform to the requirements for chemical Product Analysis",
+        "0.40",
+        "0.43 0.54",
+        "0.40",
+        "6.1",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "composition given in Table 1.",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Vanadium",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "HeatAnalysis",
+        "0.20-0.30",
+        "0.18-0.25 0.15-0.30",
+        "0.15-0.25",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Product Analysis",
+        "0.18-0.33",
+        "0.16-0.27 0.13-Q.32",
+        "0.13-0.27",
+        "7. Mechanical Properties",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Columbium (Nio\u00ad",
+        "",
+        "",
+        "",
+        "7 .1 Tension Test:",
+        "",
+        "",
+        ""
+      ],
+      [
+        "bium)A",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "The material as represented by the tension test speci\u00adHeat Analysis",
+        "0.02-0.08",
+        "0.06-Q.1 O 0.04-Q.10",
+        "0.04--0.09",
+        "7.1.1",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Product Analysis",
+        "0.02-0.10",
+        "0.05-D.11 0.03-0.11",
+        "0.03-0.10",
+        "mens shall conform to the applicable requirements given in",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "Table 2.",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Boron",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Heat Analysis",
+        "0.0010-0.006 0.0003-0.006",
+        "0.005 max",
+        "0.001-0.006",
+        "7 .2 Hardness Test:",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Product Analysis",
+        "0.0009-0.007 0.0002-0.007",
+        "0.006 max",
+        "0.0009-0.007",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "7 .2.1 Grade 23 plates shall have a hardness not exceeding",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Nitrogen",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "220 HB [97HRB].",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Heat Analysis",
+        "0.015",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "max8",
+        "0.04-0.09 0.04-0.10",
+        "0.030-0.070",
+        "7.2.2 Grade 122 plates shall have a hardness not exceeding",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Product Analysis",
+        "0.015",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "250 HB [25HRC].",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "max8",
+        "0.035-0.095 0.03-0.11",
+        "0.025-Q.075",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Aluminum, max.",
+        "",
+        "",
+        "",
+        "8. Marking",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Heat Analysis",
+        "0.03c",
+        "0.02 0.02",
+        "0.02",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Product Analysis",
+        "0.04 c",
+        "0.02 0.02",
+        "0.02",
+        "8.1 In addition to the marking",
+        "required in",
+        "",
+        "Specification"
+      ],
+      [
+        "Tungsten",
+        "",
+        "",
+        "",
+        "A20/A 20M, each plate shall be legibly stamped or stenciled,",
+        "",
+        "",
+        ""
+      ],
+      [
+        "HeatAnalysis",
+        "1.45-1.75",
+        "0.90-1.10 1.50-2.50",
+        "1.50-2.00",
+        "dependent upon the ordered thickness, with the letter \"N\" for",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Product Analysis",
+        "1.40-1.80",
+        "0.85-1.15 1.40-2.60",
+        "1.40-2.0",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "normalized and tempered,",
+        "\"Q\" for accelerated",
+        "",
+        "cooled and"
+      ],
+      [
+        "Copper",
+        "",
+        "",
+        "",
+        "tempered, \"S\" for stress relieved, or \"A\" for annealed, which\u00ad",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Heat Analysis",
+        "",
+        "0.30-1.70",
+        "",
+        "ever is applicable.",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Product Analysis",
+        "",
+        "0.20-1.80",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Titanium, max",
+        "",
+        "",
+        "",
+        "9. Keywords",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Heat Analysis",
+        "0.005-0.0608",
+        "0,01 0,01",
+        "0.01",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Product Analysis",
+        "0.005-0.0608",
+        "O.o1 0.01",
+        "0,01",
+        "9.1 alloy steel; alloy steel plate; pressure containing parts;",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "pressure vessel steels; steel plates;",
+        "steel plates for",
+        "",
+        "pressure"
+      ],
+      [
+        "Zirconium, max",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Heat Analysis",
+        "",
+        "0,01 0.01",
+        "0.01",
+        "vessels",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Product Analysis",
+        "",
+        "0,01 0,01",
+        "O.o1",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  }
+]

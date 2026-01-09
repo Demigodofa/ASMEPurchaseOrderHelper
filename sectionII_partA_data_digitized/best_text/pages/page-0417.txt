@@ -1,0 +1,63 @@
+ASME BPVC.II.A-2025 SA-249 /SA-249M 
+thickness (usually 2 h or less). If more than 60 % of the 
+base-metal thickness remains, the sample may be removed 
+after 24 h. 
+S7 .8 At the end of the test period, remove the samples from 
+the solution, rinse with distilled water, and dry. 
+S7.9 After exposure to the test solution, repeat the tube­
+thickness measurement as in S7.6. If the thinning is not 
+uniform across the width of the weld, then two sets of 
+weld-metal measurement are required. One set of measure­
+ments is to be taken along the centerline of the weld. The 
+second set of measurements is to be taken in the thinnest area 
+of the weld. 
+S7 .10 Calculate the corrosion ratio, R, for both sections of 
+the weld as follows in Eq 1: 
+where: 
+R= WO -w 
+B 0 -B 
+W 0 = average weld-metal thickness before the test, 
+W = average weld-metal thickness after the test, 
+B 0 = average base-metal thickness before the test, and 
+B = average base-metal thickness after the test. 
+S7.11 Acceptance Criteria: 
+(1) 
+S7 .11.1 The ratio of the thinnest section of the weld and 
+adjacent heat affected zone versus the base metal shall be 
+determined. The following ratios or alternatives are commonly 
+specified: 
+S7.ll.l.1 A corrosion ratio of 1.25 or less. If not specified 
+by the purchase order, this is the default criteria. 
+S7.ll.l.2 A corrosion ratio of 1.00 or less. 
+S7.11.1.3 Alternative ratios may be agreed between the 
+purchaser and supplier. 
+S8. Special Applications 
+S8.1 For special applications, such as hydraulic expansion 
+of tubes into tube sheets, dimensions of the weld shape and 
+thickness shall be per agreement between the purchaser and 
+supplier. Tubes ordered to this requirement shall bear the 
+additional marking of NB. 
+S9. Additional Testing of Welded Tubing for ASME Re­
+quirements 
+S9.l. When this supplement is specified in the purchase 
+order, in certain ASME applications it is permissible to use 
+100 % joint efficiency for longitudinal weld, provided the 
+following additional requirements are met: 
+S9.l.1 Each tube shall be subjected to an ultrasonic inspec­
+tion employing Practices E273 or E213 with the rejection 
+criteria referenced in Specification A1016/Al016M. 
+S9.l.2 If Practice E273 is employed, a 100 % volumetric 
+inspection of the entire length of each tube shall also be 
+performed using one of the nondestructive electric tests per­
+mitted by Specification A1016/A1016M. 
+S9.l.3 The test methods described in the supplement may 
+not be capable of inspecting the end portions of tubes. This 
+condition is referred to as end effect. This portion, as deter­
+mined by the manufacturer, shall be removed and discarded. 
+S9.l.4 In addition to the marking prescribed in Specification 
+A1016/Al016M, "S9" shall be added after the grade designa­
+tion. 
+ND'rE S9.1-When specified, the special testing in this supplement is 
+intended for special ASME applications. It is not mandatory for all ASME 
+applications. 
+365 

@@ -1,0 +1,127 @@
+ASME BPVC.II.A-2025 SA-265 
+3.1.3 alloy cladding-the nickel or nickel-base alloy com­
+ponent of the composite plate. 
+3.1.4 base metal (backing steel)-component to which the 
+alloy cladding is applied, usually the greater percentage of the 
+composite plate and usually consisting of carbon or low-alloy 
+steel. 
+3.1.5 integrally and continuously bonded-the process by 
+which the alloy cladding and base metal are brought together to 
+form a metallurgical bond at essentially the entire interface of 
+the two metals by means other than those processes that do not 
+produce a homogeneous composite plate. 
+4. Ordering Information 
+4.1 It is the responsibility of the purchaser to specify all 
+requirements that are necessary for material ordered under this 
+specification. Such requirements may include, but are not 
+limited to the following: 
+4.1.1 Quantity (weight or number of pieces). 
+4.1.2 Heat treatment, if required (see Section 5). 
+4.1.3 Dimensions, including the thickness of the cladding 
+alloy and the backing steel, or of the total composite plate and 
+if more or less restrictive thickness tolerances apply. 
+4.1.4 Cladding alloy specification (see Section 6). 
+4.1.5 Base metal specification (see Section 6). 
+4.1.6 Product analysis, if required. Specify whether appli­
+cable to the cladding alloy, backing steel, or both (see Section 
+10). 
+4.1.7 Mechanical Properties (see Sections 7, 13, and 14). 
+4.1.8 Restrictions, if required, on repair by welding (see 
+Section 14). 
+4.1.9 Additions to the specification or special requirements 
+such as applicable constmction code rules. 
+4.1.10 Corrosions tests, if required. 
+4.1.11 Notification when the cladding alloy is to be used for 
+inclusion in the design strength calculations for an applicable 
+construction code. 
+N OTB I-Construction codes may dictate certain fabrication require­
+ments when the cladding is used in the design calculations that may be 
+different than if the cladding is used for corrosion resistance only. This 
+may be particularly important when the alloy cladding involves the use of 
+welded components in the explosion bonded clad manufacturing process. 
+It is incumbent on the purchaser to make the clad manufacturer aware of 
+any such restrictions or applications at time of order. 
+4.2 In addition to the basic requirements of this specification 
+and the backing steel specification, certain supplementary 
+requirements are available when additional control, testing, or 
+examination is required to meet end use requirements. The 
+purchaser is referred to the listed supplementary requirements 
+in this specification and to the detailed requirements in 
+Specification A20/ A20M. 
+4.2.1 Nondestructive examination, 
+4.2.2 Impact testing, and 
+4.2.3 Simulated Post-Weld Heat Treatment of Mechanical 
+Test Coupons (SPWHT). 
+4.3 If the requirements of this specification are in conflict 
+with the requirements of Specification A20/A20M, the require­
+ments of this specification shall prevail. 
+4.4 Special tests. 
+5. Materials and Manufacture 
+5.1 Process: 
+5.1.1 The steel shall be made by the open-hearth, electric­
+furnace (with separate degassing and refining optional), or 
+basic-oxygen processes, or by secondary processes whereby 
+steel made from these primary processes is remelted using, but 
+not limited to electroslag remelting or vacuum arc remelting 
+processes. 
+5.1.2 The cladding metal may be metallurgically bonded to 
+the base metal by any method that will produce a clad steel that 
+will conform to the requirements of this specification. 
+5.1.3 For explosively bonded products, the alloy cladding 
+metal may be comprised of two or more separnte alloy plates 
+or sheets completely welded together to form a single fabri­
+cated component. 
+5.2 Heat Treatment-Unless a specific heat treatment is 
+required by the cladding matelial or base steel specification, or 
+unless otherwise agreed upon by the purchaser and 
+manufacturer, the clad plate shall be furnished in a condition 
+that is appropriate for the cladding alloy, base metal, or both. 
+6. Chemical Composition 
+6.1 The composite plate may conform to any desired com­
+bination cladding metal and base metal as described in 6.2 and 
+6.3, and as agreed upon between the purchaser and the 
+manufacturer. 
+6.2 Cladding Metal-The nickel or nickel-base alloy clad­
+ding metal specified shall conform to the requirements as to 
+chemical composition prescribed for the respective metal in 
+Specifications B127, Bl 62, Bl 68, B333, B409, B424, B443, 
+B463, B575, B582, and B625, or other nickel-base alloy as 
+agreed upon by the purchaser and manufacturer. 
+6.3 Base Metal-The base metal shall be carbon steel or 
+low-alloy steel conforming to the ASTM specifications for 
+steels for either pressure vessels or general structural 
+applications, or other, as agreed upon by the purchaser and 
+manufacturer. The base metal shall conform to the chemical 
+requirements of the specification to which it is ordered. 
+387 
+7. Mechanical Properties 
+7.l Tensile Requirements: 
+7 .1.1 The tensile properties shall be determined by a tension 
+test of the composite plate for clad plates that meet all of the 
+following conditions. 
+( 1) The nominal composite gage is less than or equal to 1 ½ 
+in (38 mm). 
+TABLE 1 Weights for Component Materials 
+Steel 
+Nickel 
+Nickel-copper alloy 
+Nickel-chromium-iron 
+alloy 
+Density 
+lb/in. 3 g/cm 3 
+0.283 
+0.321 
+0.319 
+0.307 
+7.83 
+8.88 
+8.83 
+8.49 
+Weight per Square 
+Foot for Material 
+1 in. (25.4 mm) 
+in Thickness, lb 
+40.80 
+46.22 
+45.94 
+44.21 

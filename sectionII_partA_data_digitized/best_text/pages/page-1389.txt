@@ -1,0 +1,113 @@
+ASME BPVC.II.A-2025 SA-814/SA-814M 
+ANew designation established in accordance with Practice E527 and SAE J 1086. 
+8 Maximum, unless otherwise indicated. 
+°!"he method of analysis for nitrogen shall be a matter of agreement between the purchaser and manufacturer. 
+"For small diameter or thin walls or both, where many drawing passes are required, a carbon maximum of 0.040 % is necessary in grades TP304L and TP316L. Small 
+outside diameter tubes are defined as those less than 0.500 in. (12.7 mm] in outside diameter and light wall tubes as those less than 0.049 In. (1.2 mm] in average wall 
+thickness (0.044 in. (1 mm] in minimum wall thickness). 
+"The titanium content shall be not less than five times the carbon content and not more than 0.70 %. 
+F-fhe titanium content shall be not less than four times the carbon content and not more than 0.70 %. 
+"'The columbium plus tantalum content shall be not less than ten times the carbon content and not more than 1.1 0 %. 
+1-tfhe columblum plus tantalum content shall be not less than eight times the carbon content and not more than 1.1 0 %. 
+3.1.10 Specification designation, and 
+3 .1.11 Special requirements or exceptions to the specifica­
+tion. 
+4. Materials and Manufacture 
+4.1 Manufacture: 
+4.1.1 The pipe shall be made by a machine-welding or an 
+automatic-welding process, welding from one or both sides and 
+producing full penetration welds with no addition of filler 
+metal in the welding operation. 
+4.1.2 Weld repairs, with the addition of compatible filler 
+metal, may be made to the weld joint in accordance with the 
+requirements of the section on Repair by Welding of Specifi­
+cation A999/A999M. 
+4.1.3 Prior to final heat treatment of the pipe, the weld bead 
+must be cold-worked by methods such as forging, planishing, 
+drawing, swaging or bead rolling so as to obtain a flush 
+condition on the inside and outside of the pipe. Undercuts shall 
+be limited to shallow rounded depressions ofless than 0.005 in. 
+[0.127 mm] deep on either the inside or outside surface of the 
+pipe with no encroachment of the minimum permitted wall 
+thickness. 
+4.1.4 The pipe shall be pickled free of scale. When bright 
+annealing is used, pickling is not necessary. 
+4.2 Heat Treatment: 
+4.2.1 All pipe shall be furnished in the heat-treated condi­
+tion. The heat-treatment procedure, except for H grades, 
+S30815, N08367 and S31254, shall consist of heating the pipe 
+to a minimum temperature of 1900 °F [1040 °C] and quench­
+ing in water or rapidly cooling by other means. 
+4.2.2 All H grades and S30815 shall be furnished in the 
+solution-treated condition. The minimum solution treating 
+temperature for Grades TP321H, TP347H, and TP348H shall 
+be 2000 °F [1100 °C] and for Grades TP304H and TP316H, 
+1900 °F [1040 °C]. The minimum temperature for S30815 
+shall be 1920 °F [1050 °C]. 
+4.2.3 The heat-treatment procedure for S31254 shall consist 
+of heating the pipe to a minimum temperature of 2100 °F [1150 
+0 C] and quenching in water or rapidly cooling by other means. 
+4.2.4 The heat-treatment procedure for S31727 and S32053 
+shall consist of heating the pipe to a minimum temperature of 
+1975 to 2155 °F [1080 to 1180 °C] and quenching in water or 
+rapidly cooling by other means. 
+4.2.5 UNS N08367 shall be solution annealed from 2025 °F 
+[1110 °C] minimum followed by rapid quenching. 
+4.3 H grades and S30815 shall have a minimum grain size 
+of 7 or coarser when measured in accordance with Test 
+Methods El12. 
+5. Chemical Composition 
+5.1 The steel shall conform to the chemical composition 
+prescribed in Table 2. 
+5.2 When specified on the purchase order, a product analy­
+sis shall be supplied from one tube or coil of steel per heat. The 
+product analysis tolerance of Specification A480/A480M shall 
+apply. 
+6. Tensile Requirements 
+6.1 The tensile properties of the material shall conform to 
+the requirements prescribed in Table 3. 
+7. Permissible Variations in Dimensions 
+7 .1 Specified Diameter-The diameter at any point in each 
+length of pipe shall be within the tolerance specified in Table 1. 
+TABLE 3 Tensile Requirements 
+Grade UNS Tensile Yield 
+Designation Strength, Strength, 
+min min 
+ksi [MPa] ksi [MPa] 
+TP201 S20100 75 [515] 38 [260] 
+TP201LN S20153 95 [665] 45 [310] 
+TP304L S30403 70 (485] 25 (170] 
+TP316L S31603 70 [485] 25 [170] 
+TP304 S30400 75 (515] 30 [205] 
+TP304H S30409 75 [515] 30 (205] 
+TP309CB S30940 75 [515] 30 (205] 
+TP309S S30908 75 [515] 30 [205] 
+TP310Cb S31040 75 [515] 30 [205] 
+TP310S S31008 75 [515] 30 [205] 
+TP316 S31600 75 [515] 30 [205] 
+TP316H S31609 75 [515] 30 [205] 
+TP317 S31700 75 [515] 30 [205] 
+TP317L S31703 75 [515] 30 [205] 
+TP321 S32100 75 [515] 30 (205] 
+TP321H S32109 75 [515] 30 (205] 
+TP347 S34700 75 [515] 30 [205] 
+TP347H S34709 75 [515] 30 [205] 
+TP348 S34800 75 [515] 30 [205] 
+TP348H S34809 75 [515] 30 [205] 
+TPXM-10 S21900 90 [620] 50 [345] 
+TPXM-11 S21903 90 [620] 50 [345] 
+TPXM-15 S38100 75 [515] 30 [205] 
+TPXM-29 S24000 100 (690] 55 [380] 
+TPXM-19 S20910 100 (690] 55 [380] 
+TP304N S30451 80 (550] 35 [240] 
+TP316N S31651 80 [550] 35 [240] 
+TP304LN S30453 75 [515] 30 [205] 
+TP316LN S31653 75 [515] 30 [205] 
+S31254 94 [650] 44 [300] 
+S31727 80 [550] 36 [245] 
+S32053 93 [640] 43 [295] 
+S30815 87 [600] 45 [310] 
+N08367 
+ts0.187 100 [690] 45 [310] 
+1>0.187 95 [655] 45 [310] 
+1327 

@@ -1,0 +1,83 @@
+ASME BPVC.II.A-2025 SA-781/SA-781M 
+APPENDIXES 
+(Nonmandatory Information) 
+Xl. ALLOY DESIGNATIONS FOR CAST 
+STAINLESS STEELS 
+Xl.1 Cast stainless steels are usually specified on the 
+basis of composition using the alloy designation system 
+established by the Alloy Casting Institute (ACI). The ACI 
+designations, for example, CF8M, have been adopted by 
+ASTM and are preferred for cast alloys over the designa­
+tions used by the American Iron and Steel Institute for 
+similar wrought steels. 
+Xl.2 This nomenclature system has served successfully 
+to accommodate changes in old alloys and to designate 
+new ones. 
+X X 00 X X X 
+Service Classification T 
+Letter _________ __,_ 
+Ternary Diagram Location 
+Letter _________ _. 
+Carbon Content Number------~ 
+Special Elements Letter III 
+Xl.2.1 Service Classification Letter - The first letter 
+of the cast stainless steel designation system identifies the 
+intended service application of the alloy. The letter Cindi­
+cates corrosion-resistant service, and the letter H indicates 
+the heat-resistant service at and above 1200°F [649°C]. 
+Xl.2.2 Ternary Diagram Location Letter- The second 
+letter indicates the approximate location of the nickel and 
+chromium contents of the alloy grade on the FeCrNi ternary 
+diagram shown in Fig. Xl.1. 
+Xl.2.3 Carbon Content Number- For C service classi­
+fications, this single or dual digit numeral represents the 
+maximum carbon content in units of 0.01 %. For H service 
+classifications, this number represents the midpoint of the 
+range of carbon content in terms of 0.01 % with a 
+±0.05% limit. 
+Xl.2.4 Special Elements Letter-Additional letters fol­
+lowing the numeral represent special chemical elements in 
+the alloy grade, such as M for molybdenum, C for colum­
+bium, Cu for copper, W for tungsten. There are two excep­
+tions; the letter A indicates Controlled Ferrite, and the 
+letter F indicates Free Machining. 
+Xl.3 In Fig. Xl.1, unlettered Ni-Cr ranges are associ­
+ated with the nearest lettered location. They may be the 
+result of differences between corrosion and heat-resistant 
+types, or because of the influence of additional elements, 
+for example, the precipitation hardening grade CB- 7Cu-1 
+and CB-7Cu-2. 
+X2. WROUGHT ALLOYS SIMILAR TO 
+CASTING ALLOYS IN SPECIFICATIONS 
+A 494/A 494M, A 743/A 743M, A 744/A 744M, 
+A 747/A 747M, AND A 890/A 890M 
+X2.1 Table X2.1 is provided for the user of the above 
+listed specifications as an aid in selecting cast alloys that 
+are similar in chemical composition to wrought alloys. It 
+is not intended to imply that the cast alloy would have the 
+same mechanical, physical or corrosion properties as the 
+indicated wrought alloy. 
+X3. ADDITION OF NEW GRADES TO 
+PRODUCT SPECIFICATIONS COVERED BY 
+A 781/A 781M 
+X3.1 Information required for the inclusion of new 
+material grades in product specifications covered by 
+A 781/A 781M: 
+I. At least one user should support the request. 
+2. A set of data from ten production heats, this data 
+should include: 
+X3.1.1 Chemical composition. 
+X3.1.2 Mechanical properties as applicable to the 
+product specification being cited. These may include but 
+are not limited to the following: 
+X3.1.2.1 Ultimate tensile strength, 
+X3.1.2.2 Yield strength, 
+X3.1.2.3 Reduction in area, 
+X3.1.2.4 Elongation, and 
+X3.1.2.5 Impact properties (Charpy V). 
+X3.2 The test coupon size from which the test pieces 
+are removed should be stated for each test. 
+X3.2.1 Heat treatment requirements. 
+X3.2.2 Weld procedure ( welding should be carried 
+out using commercially available consumables). 
+1267 

@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 145,
+  "globalPageIndex": 145,
+  "width": 626.4,
+  "height": 803.04,
+  "text": "ASME BPVC.II.A-2025 \nTABLE A2.4 Permissible Variations in Diameter for Sheared \nCircular Carbon Steel, High-Strength Low-Alloy Steel, and Alloy \nSteel Plates 25 mm and under in Thickness \nNorn 1-No permissible variations under specified diameter. \nSpecified \nDiameters, mm \nTo 800, excl \n800 to 2100, excl \n2100 to 2700, excl \n2700 to 3300, excl \n3300 and over \nPermissible Variations \nOver Specified Diameter \nfor Thicknesses Given, mm \nTo 10, 10 to 16 to 25, \nexcl 16, excl incl \n6 10 13 \n8 11 14 \n10 13 16 \n11 14 17 \n13 16 19 \nTABLE A2.5 Permissible Variations In Width and Length for \nRectangular Carbon Steel and High-Strength Low-Alloy Steel \nPlates when Gas Cutting Is Specified or Required \nNOTE 1-These variations may be taken all under or divided over and \nunder, if so specified. \nNorn 2-Plates with universal rolled edges will be gas cut to length \nonly. \nSpecified Thickness, mm \nTo 50, excl \n50 to 100, excl \n100 to 150, excl \n150 to 200, excl \n200 to 400, incl \nVariations Over for All Specified \nWidths or Lengths, mm \n13 \n16 \n19 \n22 \n25 \nTABLE A2.6 Permissible Variations in Diameter for Gas-Cut \nCircular Carbon Steel and High-Strength Low-Alloy Steel Plates \nNorn 1-No permissible variations under specified diameter. \nVariations Over Specified Diameter for Thicknesses \nSpecified Given, mm \nDiameters, To 25, 25 to 5010 100 to 150 to 200 to \nmm 50, 100, 150, 200, 400, excl excl excl excl excl excl \nTo 800, excl 10 10 13 13 16 19 \n800 to 2100, 10 13 13 16 19 22 \nexcl \n2100 to 2700, 13 14 16 19 22 25 \nexcl \n2700 to 3300, 13 14 17 22 25 29 \nexcl \n3300 and over 16 19 22 25 29 32 \nTABLE A2.7 Permissible Camber for Carbon Steel Sheared or \nGas-Cut Rectangular Plates all Thicknesses \nNOTE 1-Camber, as it relates to plates, is the horizontal edge curvature \nin the length, measured over the entire length of the plate in the flat \nposition. \nMaximum permissible camber, mm = length in millimetres/500 \n93 \nSA-20/SA-Z0M ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 2,
+  "tabulaTablesPath": "tables_tabula/page-0145.json",
+  "tabulaTablesCsv": "tables_tabula/page-0145.csv",
+  "tabulaTableCount": 2,
+  "bestTextPath": "best_text/pages/page-0145.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1939,
+  "bestTextAlphaRatio": 0.6323
+}

@@ -1,0 +1,108 @@
+ASME BPVC.II.A-2025 SA-213/SA-213M (ASTM A213/A213M) 
+7 .2.1 An analysis of either one billet or one tube shall be 
+made from each heat. The chemical composition thus deter­
+mined shall conform to the requirements specified. 
+7.2.2 If the original test for product analysis fails, retests of 
+two additional billets or tubes shall be made. Both retests, for 
+the elements in question, shall meet the requirements of the 
+specification; otherwise all remaining material in the heat shall 
+be rejected or, at the option of the producer, each billet or tube 
+may be individually tested for acceptance. Billets or tubes that 
+do not meet the requirements of the specification shall be 
+rejected. 
+8. Grain Size 
+8.1 Grain size shall be as given in Table 3, as determined in 
+accordance with Test Methods E112. 
+8.2 Grain size determinations, to demonstrate compliance 
+with 8.1, shall be made on one end of one finished tube from 
+each lot. See 15.1. 
+9. Mechanical Properties 
+9.1 Tensile Requirements: 
+9.1.1 The material shall conform to the requirements as to 
+tensile properties given in Table 4. 
+9.1.2 Table 5 gives the computed minimum elongation 
+values for each V32-in. [0.8-mm] decrease in wall thickness. 
+Where the wall thickness lies between two values shown in 
+Table 5, the minimum elongation value shall be determined by 
+the following equations. For Grades T23, T24, T91, T92, T115, 
+T122, Tl28, T911, T921, and S44400: E = 32t + 10.00 [E = 
+1.25t + 10.00]. For Grade T36: E = 32t + 5.0 [E = 1.25t + 5.0]. 
+For grade T93: E = 32t + 9.00 [E = l.25t + 9.00]. For all other 
+ferritic alloy grades: E = 48t + 15.00 [E = l.87t + 15.00]. 
+where: 
+E = elongation in 2 in. [50 mm], %, and 
+t = actual thickness of specimen, in. [mm]. 
+9 .1.3 One tension test shall be made on a specimen from one 
+tube for lots of not more than 50 tubes. Tension tests shall be 
+made on specimens from two tubes for lots of more than 50 
+tubes. See 15.2. 
+9.2 Hardness Requirements: 
+9 .2.1 The material shall conform to the hardness require­
+ments given in Table 4. See 15.2. 
+9.2.2 Brinell, Vickers, or Rockwell hardness tests shall be 
+made on specimens from two tubes from each lot. See 15.2. 
+9 .3 Flattening Test-One flattening test shall be made on 
+specimens from each end of one finished tube, not the one used 
+for the flaring test, from each lot. See 15.1. 
+9.4 Flaring Test-One flaring test shall be made on speci­
+mens from each end of one finished tube, not the one used for 
+the flattening test, from each lot. See 15.1. 
+9.5 Mechanical property requirements do not apply to 
+tubing smaller than Vs in. [3.2 mm] in inside diameter or 
+thinner than 0.015 in. [0.4 mm] in thickness. 
+10. Hydrostatic or Nondestructive Electric Test 
+10.1 Each tube shall be subjected to the nondestructive 
+electric test or the hydrostatic test. The type of test to be used 
+shall be at the option of the manufacturer, unless otherwise 
+specified in the purchase order. 
+11. Forming Operations 
+11.1 Tubes, when inserted in a boiler or tube sheet, shall 
+stand expanding and beading without showing cracks or flaws. 
+Superheater tubes when properly manipulated shall stand all 
+forging, welding, and bending operations necessary for appli­
+cation without developing defects. See Note 1. 
+NOTE I-Certain of the ferritic steels covered by this specification will 
+harden if cooled rapidly from above their critical temperature. Some will 
+air harden, that is, become hardened to an undesirable degree when cooled 
+in air from high temperatures, particularly chromium-containing steels 
+with chromium of 4 % and higher. Therefore, operations that involve 
+heating such steels above their critical temperatures, such as welding, 
+flanging, and hot bending, should be followed by suitable heat treatment. 
+12. Repair by Welding 
+12.1 Repair welding shall be performed in conformance . 
+with Specification A1016/A1016M. 
+12.2 All repair welds in T91 shall be made with one of the 
+following welding processes and consumables: SMAW, A5.5/ 
+A5.5M E90XX-B9; SAW, A5.23/A5.23M EB9 + neutral flux; 
+GTAW, A5.28/A5.28M ER90S-B9; and FCAW A5.29/A5.29M 
+E91Tl-B9. In addition, the sum of the Ni+Mn content of all 
+welding consumables used to weld repair T91 Types 1 and 2 
+shall not exceed 1.0 %. 
+12.3 All repair welds in T92, T93, T911, and T122, shall be 
+made using welding consumables meeting the chemical re­
+quirements for the grade in Table 1. 
+13. Permissible Variations from the Specified Wall 
+Thickness 
+13.1 Permissible variations from the specified minimum 
+wall thickness shall be in accordance with Specification 
+A1016/A1016M. 
+13.2 Permissible variations from the specified average wall 
+thickness shall be ± 10 % of the specified average wall 
+thickness for cold formed tubes and, unless otherwise specified 
+by the purchaser, shall be in accordance with Table 6 for hot 
+formed tubes. 
+287 
+14. Surface Condition 
+14.1 Ferritic alloy cold-finished steel tubes shall be free of 
+scale and suitable for inspection. A slight amount of oxidation 
+is not considered scale. 
+14.2 Ferritic alloy hot-finished steel tubes shall be free of 
+loose scale and suitable. for inspection. • 
+14.3 Stainless steel tubes shall be pickled free of scale. 
+When bright annealing is used, pickling is not necessary. 
+14.4 Any special finish requirement shall be subject to 
+agreement between the supplier and the purchaser. 
+15. Sampling 
+15.1 For flattening, flaring, and grain size·requirements, the 
+term lot applies to all tubes, prior to cutting, of the same size· 
+(see 4.1.7) that are produced from the same heat of steel.When 

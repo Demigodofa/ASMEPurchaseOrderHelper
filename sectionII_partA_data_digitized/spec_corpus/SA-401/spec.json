@@ -1,0 +1,65 @@
+{
+  "createdUtc": "2026-01-09T00:14:02.543861+00:00",
+  "spec": "SA-401",
+  "rangeStart": 717,
+  "rangeEnd": 723,
+  "pages": [
+    {
+      "globalPageIndex": 717,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 717,
+      "textPath": "best_text\\pages\\page-0717.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 718,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 718,
+      "textPath": "best_text\\pages\\page-0718.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0718.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0718.csv"
+      }
+    },
+    {
+      "globalPageIndex": 719,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 719,
+      "textPath": "best_text\\pages\\page-0719.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0719.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0719.csv",
+        "noteTargetFiles": [
+          "note_target_ocr\\page-0719-note-01.txt"
+        ]
+      }
+    },
+    {
+      "globalPageIndex": 720,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 720,
+      "textPath": "best_text\\pages\\page-0720.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0720.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0720.csv"
+      }
+    },
+    {
+      "globalPageIndex": 721,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 721,
+      "textPath": "best_text\\pages\\page-0721.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 723,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 723,
+      "textPath": "best_text\\pages\\page-0723.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0723.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0723.csv"
+      }
+    }
+  ]
+}

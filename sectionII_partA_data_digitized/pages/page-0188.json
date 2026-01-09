@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 188,
+  "globalPageIndex": 188,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "SA-47 /SA-47M ASME BPVC.II.A-2025 \nSUPPLEMENTARY REQUIREMENTS \nSl. Special Conditions \nSl.1 If agreed upon in writing by the foundry and \npurchaser, the malleable iron castings may be required to \nmeet special conditions, hardness or other property dimen\u00ad\nsions, surface quality, or a combination of conditions. \nS2. Test Lugs \nS2.1 If requested in writing or if included on the pat\u00ad\ntern(s) or pattern drawing(s), test lugs may be cast on all \ncastings of sufficient size to permit their incorporation. \nThe size of such lugs shall be proportional to the thickness \nof the casting. On castings over 24 in. [600 mm] in length, \na test lug shall be cast near each end such as not to interfere \nwith any subsequent processing of the castings. The pur\u00ad\nchase order shall stipulate whether the foundry's inspector \nor the purchaser's inspector shall break, inspect, and pass \njudgment on the fracture quality of these test lugs. \nS3. Destructive Tests \nS3.1 At the option of the purchaser or his representa\u00ad\ntive, a casting of each design ordered may be tested to \ndestruction, or otherwise broken up, to determine the pres\u00ad\nence of any manufacturing condition that might be detri\u00ad\nmental to the serviceability of the casting. \n136 \nS4. Special Tension Specimens \nS4.1 If tension specimens are to be machined from \ncastings, their location in the casting, the specimen dimen\u00ad\nsions, and the required properties shall be agreed upon in \nwriting by the foundry and purchaser. \nSS. Zinc-Coated Castings \nSS.1 When specified in the contract or purchase order, \ncastings shall be zinc-coated by the hot-dip process in \naccordance with Specification A 153. Castings shall be of \na composition that will preclude the possibility of galvaniz\u00ad\ning embrittlement, or shall be either cooled from the anneal \nor subsequently heat treated so as to be immunized against \nsuch embrittlement. If regalvanizing is required, proce\u00ad\ndures for regalvanizing castings and determining the effect \non the casting performance must be agreed upon between \nthe purchaser and the seller. \nS6. Marking of Casting for Government \nProcurement \nS6.1 When castings are specified for government pro\u00ad\ncurement, the location of the permanent markings specified \nin 15.1, as well as any special marking for mechanical or \nphysical properties (either permanent or temporary), shall \nbe as indicated on the government drawings or sketches. ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-0188.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2398,
+  "bestTextAlphaRatio": 0.7823
+}

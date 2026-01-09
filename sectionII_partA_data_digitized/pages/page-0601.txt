@@ -1,0 +1,108 @@
+ASME BPVC.II.A-2025 SA-352/SA-352M 
+this specification. In case of conflict between the requirements 
+of this specification and Specification A 703/ A 703M, this 
+specification shall prevail. 
+4. Ordering Information 
+4.1 The inquiry and order should include or indicate the 
+following: 
+4.1.1 A description of the casting by pattern number or 
+drawing (dimensional tolerances shall be included on the 
+casting drawing), 
+4.1.2 Grade of steel, 
+4.1.3 Options in the specification, and 
+4.1.4 The supplementary requirements desired, including 
+the standards of acceptance. 
+5. Heat Treatment 
+5.1 All castings shall receive a heat treatment proper to their 
+design and chemical composition. It should be recognized that 
+liquid quenching of the forritic grades is normally required to 
+meet the mechanical properties of heavier sections and will 
+greatly enhance the low-temperature properties of thinner 
+sections. 
+5.2 Fe1Titic castings shall be furnished in the normalized and 
+tempered or liquid-quenched and tempered condition, except 
+for Grade LC9, which shall be liquid-quenched and tempered. 
+Castings shall be tempered at a minimum of 1100°F [590°C], 
+except Grade LC4, which shall be 1050°F [565°C], and Grade 
+LC9, which shall be tempered in the range of 1050 to ll 75°F 
+[565 to 635°C], followed by cooling in air or liquid. 
+5.3 CA6NM castings shall be heat-treated by heating to 
+1850°F [1010°C] minimum, and air cooling to 200°F [95°C] 
+maximum before any optional intermediate temper, but shall 
+cool to 100°F [40°C] maximum before the final temper, which 
+shall be between 1050 and 1150°F [565 and 620°C). 
+5.4 Castings shall be allowed to cool below the transforma­
+tion range directly after pouring and solidification before they 
+are reheated for normalizing or liquid quenching. 
+5.5 Temperature Control---Fumace temperature for heat 
+treating shall be controlled by use of pyrometers. 
+6. Chemical Composition 
+6.1 The steel shall conform to the requirements as to 
+chemical composition for the grade ordered as specified in 
+Table 1. 
+7. Mechanical Requirements 
+7.1 Tension Test: 
+7 .1.1 Tensile properties of steel used for the castings shall 
+confonn to the requirements specified in Table 1. 
+7.2 Impact Test: 
+7 .2.1 The notched bar impact properties of the material shall 
+be determined by testing a set of three Charpy V-notch impact 
+specimens for each heat at one of the standard test temperatures 
+shown in Table 1, depending on the intended service tempera­
+ture (see Appendix XI). The average energy value of the three 
+specimens shall not be less than specified, with not more than 
+549 
+one value permitted below the average minimum specified and 
+no value permitted below the minimum specified for a single 
+specimen. 
+7.2.2 The notched bar impact test shall be made in accor­
+dance with Test Methods and Definitions A370. 
+7.2.3 Impact test specimens shall be machined to the form 
+and dimensions shown in Test Methods and Definitions A370, 
+Fig. 11. 
+8. Quality 
+8.1 The surface of the casting shall be examined visually 
+and shall be free of adhering sand, scale, cracks, and hot tears. 
+Other surface discontinuities shall meet the visual acceptance 
+standards specified in the order. Visual Method SP-55 or other 
+visual standards may be used to define acceptable surface 
+discontinuities and finish. Unacceptable visual surface discon­
+tinuities shall be removed and their removal verified by visual 
+examination of the resultant cavities. When methods involving 
+high temperature are used in the removal of discontinuities, 
+castings shall be preheated to at least the minimum tempera­
+tures in Table 2. 
+8.2 When additional inspection is desired, Supplementary 
+Requirements S4, S5, and SlO, may be ordered. 
+8.3 The castings shall not be peened, plugged, or impreg­
+nated to stop leaks. 
+9. Repair by Welding 
+9.1 Repairs shall be made using procedures and welders in 
+accordance with Practice A488/ A488M. 
+9.2 Welding of Grade LC9 shall be accomplished using 
+nonmagnetic filler material of AWS classification ENiCrFe-2, 
+and shall require liquid penetrant inspection of the weld 
+(Supplementary Requirement S6) when magnetic particle in­
+spection (Supplementary Requirement S4) is specified for the 
+casting. 
+9.3 Weld repairs shall. be inspected to the same quality 
+standards that are used to inspect the castings. When castings 
+are produced with Supplementary Requirement S4 specified, 
+weld repairs shall be inspected by magnetic particle examina­
+tion to the same standards that are used to inspect the castings. 
+When castings are produced with Supplementary Requirement 
+S5 specified, weld repairs on castings that have leaked on 
+hydrostatic tests, or on castings in which the depth of any 
+cavity prepared for repair welding exceeds 20 % of the wall 
+thickness or 1 in. [25 mm] whichever is smaller, or on castings 
+in which any cavity prepared for welding is greater than 
+approximately 10 in.2 [65 cm 2 shall be radiographed to the 
+same standards that are used to inspect the castings. 
+9.4 Castings containing any repair weld that exceeds 20 % 
+of the wall thickness, or 1 in. [25 mm], whichever is smaller, 
+or that exceeds approximately 10 in. 2 [65 cm 2 J in area, or that 
+was made to correct hydrostatic test defects shall be stress 
+relieved or heat treated after welding. This mandatory stress 
+relief or heat treatment shall be in accordance with the 
+procedure qualification used. When stress relief is required for 
+Grade LC9, cooling shall be in still air. 

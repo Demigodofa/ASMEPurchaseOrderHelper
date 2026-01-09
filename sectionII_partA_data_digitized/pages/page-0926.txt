@@ -1,0 +1,49 @@
+SA-484/SA-484M ASME BPVC.II.A-2025 
+APPENDIXES 
+(Nonmandatory Information) 
+Xl. RATIONALE REGARDING DEFINITION OF LOT FOR MECHANICAL PROPERTIES AND CORROSION TESTING 
+Xl.1 It is generally recognized that material described as a 
+lot must be "produced under the same processing conditions," 
+which means the same manufacturing order number, same size, 
+same heat, same heat-treating procedure, and same subsequent 
+processing. Under those conditions, single samples can be 
+selected to be representative of the total lot, with at least one 
+sample for each 20 000 pounds of material. 
+Xl.2 Following the principle described in Xl.1 generally 
+requires that the producer control each of several furnace loads 
+constituting the same lot so that: • 
+Xl.2.1 Set point temperature and process tolerance match, 
+Xl.2.2 Time at temperature for all thermal treatment shall 
+match within 10 %, 
+Xl.2.3 All furnaces used be similar in size and meet the 
+uniformity requirements of a documented furnace quality 
+assurance program, and 
+Xl .2.4 The quench systems are the same with respect to 
+volume, type of quenchant, and circulation rate. 
+Xl.2.5 Further, it would be expected that grouped loads be 
+handled within a relatively short time period, and that hardness 
+testing be performed on at least one sample per charge. 
+Xl .3 The old definition of a lot for mechanical testing based 
+on simply the words "same size, heat, and heat treatment 
+charge in a batch furnace" assumes that heat treating is the only 
+process affecting properties. This kind of definition ignores the 
+effects of other processing, prior to and subsequent to heat 
+treating. Moreover, it assumes that each heat-treated batch will 
+be uniform and unique rather than reproducible. In reality, heat 
+treating is a process which can be controlled easily throughout 
+a batch and from batch to batch, with the net result that 
+multiple batches can be considered part of a single lot if 
+equipment and processing parameters meet the mandates of 
+Xl.1 and Xl.2. 
+Xl.4 The sampling specified for mechanical properties is 
+not a statistical sampling plan. Therefore, it provides only 
+typical data. Assurance of uniformity within the lot can be 
+obtained only by the producer adequately controlling the 
+processing parameters. 
+X2. BAR CODING 
+X2.1 Bar coding to identify steel is not specifically ad­
+dressed in Committee A0l specifications. Committee A0l 
+endorses the AIAG bar code standard for primary metals for 
+826 
+steel products and proposes that this bar coding standard be 
+considered as a possible auxiliary method of identification. 

@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 498,
+  "globalPageIndex": 498,
+  "width": 597.72,
+  "height": 842.88,
+  "text": "SA-311/SA-311M ASME BPVC.11.A-2025 \nSPECIFICATION FOR COLD-DRAWN, STRESS\u00ad\nRELIEVED CARBON STEEL BARS SUBJECT TO \nMECHANICAL PROPERTY REQUIREMENTS \nSA-311/SA-311M \n[Identical to ASTM Specification A311/A311M-04(2015) except for deletion of 5.1.11, revision of Note A to Table 1 and an editorial change to \n5.1.9. Certification has been made mandatory in I 1.1.J \n1. Scope \n1.1 This specification covers two classes, nine grades, \nand four conditions of stress-relieved cold-drawn carbon \nsteel bars produced to mechanical property requirements. \nOne class, B, is cold drawn with higher than normal (heavy) \ndrafts to provide higher strength levels, and four grades \nprovide improved machinability. \n1.2 Supplementary Requirements, S 1 through S6, of \nan optional nature are provided. \n1.3 The values stated in inch-pound units or SI units \nare to be regarded as the standard. Within the text, the SI \nunits are shown in brackets. The values stated in each \nsystem are not exact equivalents, therefore, each system \nmust be used independently of the other. Combining values \nfrom the two systems may result in nonconformance with \nthe specification. \n2. Referenced Documents \n2.1 ASTM Standards: \nA 29 I A 29M Specification for Steel Bars, Carbon and \nAlloy, Hot-Wrought and Cold-Finished, General \nRequirements for \nA 108 Specification for Steel Bar, Carbon and Alloy, Cold\u00ad\nFinished \nA 370 Test Methods and Definitions for Mechanical Test\u00ad\ning of Steel Products \nE 527 Practice for Numbering Metals and Alloys (UNS) \n3. Terminology \n3.1 Definitions: \n3.1.1 stress relieving - heating to a suitable tempera\u00ad\nture, holding long enough to reduce residual stresses, and \n446 \nthen cooling slowly enough to minimize the development \nof new residual stresses. \n3.2 Definitions of Terms Specific to This Standard: \n3.2.1 heavy draft- Using higher than normal drafts \n(approximately 10% through 35% reduction), followed by \nstress relieving, produces higher tensile and yield strengths \nprovided an appropriate composition is used; for example, \nmedium carbon with nonnal or higher manganese content. \n4. Classification \n4.1 The bars are furnished in the following classes and \ngrades, and in the conditions shown in 6.4. \n4.1.1 Class A - Normal-draft cold-drawn and stress\u00ad\nrelieved rounds, squares, hexagons, and flats in the follow\u00ad\ning grades: \nGrades UNS Designations \n1018 010180 \n1035 010350 \n1045 010450 \n1050 010500 \n1541 015410 \n1117 011170 \n1137 Gl 1370 \n1141 011410 \n1144 011440 \n4.1.2 Class B - Heavy-draft cold-drawn and stress\u00ad\nrelieved rounds and hexagons in the following grades: \nGrades UNS Designations \n1045 010450 \n1050 010500 \n1541 015410 \n1141 011410 \n1144 011440 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0498.json",
+  "tabulaTablesCsv": "tables_tabula/page-0498.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-0498.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2679,
+  "bestTextAlphaRatio": 0.7003
+}

@@ -1,0 +1,54 @@
+ASME BPVC.ILA-2025 SA-609/SA-609M .
+yo similar grid pattern for guidance in scanning. Grid numbers 18.3. Non-Linear Indications:
+shall be stenciled on the casting for record purposes and 18.3.1 Isolated Indications — Isolated indications |
+for grid area identity. The stenciled grid number shall _ shall not exceed the limits of the quality level designated
+appear in the upper right hand corner of the grid. When _ by the customer’s purchase order listed in Table 3. An |
+grids are laid out on the casting surface andthey encompass _ isolated indication may be defined as one for which the
+different quality levels, each specific area shall beevaluated — distance between it and an adjacent indication is greater
+in accordance with the requirements of the specific quality —_ than the longest dimension of the larger of the adjacent
+level designated for that area. indications.
+16.2 Overlap — Scan over the surface allowing 10% 18.3.2 Clustered Indications —- Clustered indica-
+minimum overlap of the working diameters of the tions shall be defined as two or more indications that are
+search unit. . confined in a 1 in. [25 mm] cube. Clustered indications
+16.3. Inspection Requirements — All surfaces specified shall not exceed the limits of the quality level designated
+; both sides, whenever both sides are accessible. The same on of the 1 t indication in the croup. the cluster shall .
+. search unit used for calibration shall be used to inspect the hes OF NS TATE ESE TDCI AOD TEENS BEOUPs Bae CONSE Sa .
+casting. e repair welded. |
+18.3.3 The distance between two clusters must be
+greater than the lowest dimension of the largest indication |
+17. Additional Transducer Evaluation in either cluster. if they are not, the cluster having the
+17.1 Additional information regarding any ultrasonic largest single indication shall be removed.
+indication may be obtained through the use of other fre- 18.3.4 All indications, regardless of their surface
+quency, type, and size search unit. areas as indicated by transducer movement on the casting
+surface and regardless of the quality level required, shall
+not have a through wall distance greater than ’47, where
+| 18. Acceptance Criteria Tis the wall thickness in the area containing the indication.
+’ 18.1 Rejectable Conditions — The locations of all indi- 18.3.5 Repair welding of cluster-type indications
+cations having amplitudes greater than the 0.5 in. [13 mm] need only be the extent necessary to meet the applicable |
+line given in 15.3.6, when amplitude three times (machined quality level for that particular area. All other types of
+surfaces) or six times (cast surfaces) shall be marked on rejectable indications shall be completely removed. |
+the casting surface. The boundary limits of the indication 18.3.6 Repair welds of castings shall meet the quality
+nee be ermine by mann a een number level designated for that particular area of the casting. :
+marks on the casting surfaces where the ultrasonic signa ; '
+equals one half the veference amplitude, 0.25 in. [6 mn]. 18.3.7 Any location that has a 75% or greater loss |
+To completelv delineate the indication. draw aline around 2 back reflection and exceeds the area of the applicable ,
+pletely delineate the , , rar -
+, a the outer boundary of the center of the number of marks quality level, and whose indication amplitudes May OF May
+to form the indication area. Draw a rectangle or other not exceed the 0.5 in. [15 mm] rejection line, shall be |
+| regular shape through the indication in order to form a rejected unless the reason for the loss in back reflection ,
+polygon from which the area may be easily computed. van be resolved as not being caused by an indication. It
+Me It is not necessary that the ultrasonic signal exceed the Bain 1s added and back echo 8 achieve d without indication
+amplitude reference line over the entire area. At some percent amplitude exceeding the 0.5 in. [13 mm] rejection ,
+locations within the limits of the indication, the signal may line, the area should be accepted. /
+be less than the reference line, but nevertheless still present
+such that it may be judged as a continuous, signal indica- :
+tion. Rejectable conditions are as follows and when any 19. Records , ;
+of the conditions listed below are found, the indications 19.1 Stenciling — Each casting shall be permanently
+shall be removed and repair welded to the applicable pro- _— stenciled to locate inspection zones or grid pattern for
+cess specification. | ease in locating areas where rejectable indications were :
+18.2 Linear Indications — A linear indication is defined observed.
+as one having a length equal to or greater than three times 19.2 Sketch — A report showing the exact depth and
+its width. An amplitude of '4 in. [13 mm], such as would surface location in relation to the stencil numbers shall
+J result from tears or stringer type slag inclusion, shall be | be made for each rejectable indicator found during each ,
+Ne removed. inspection.
+1039

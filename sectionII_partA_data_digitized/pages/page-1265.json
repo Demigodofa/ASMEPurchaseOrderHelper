@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 467,
+  "globalPageIndex": 1265,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "ASME BPVC.II.A-2025 SA-724/SA-724M \nSPECIFICATION FOR PRESSURE VESSEL PLATES, \nCARBON-MANGANESE-SILICON STEEL, QUENCHED \nAND TEMPERED, FOR WELDED PRESSURE VESSELS \nSA-724 /SA-724M cD \nINTERNATIONAL \nStandards Worldwide \n(Identical with ASTM Specification A724/ A724M-09(2018).) \n1181 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-1265.txt",
+  "ocrTextLength": 274,
+  "ocrApplied": true,
+  "bestTextPath": "best_text/pages/page-1265.txt",
+  "bestTextSource": "ocr",
+  "bestTextLength": 274,
+  "bestTextAlphaRatio": 0.6752
+}

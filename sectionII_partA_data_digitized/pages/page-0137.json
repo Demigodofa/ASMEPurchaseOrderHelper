@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 137,
+  "globalPageIndex": 137,
+  "width": 623.28,
+  "height": 800.52,
+  "text": "ASME BPVC.II.A-2025 \nTABLE A1.3 Permissible Variations in Rolled Width for Universal \nMill Carbon Steel, High-Strength Low-Alloy Steel, and Alloy-Steel \nPlates 15 in. and under in Thickness \nNorn I-Permissible vruiation under specified width shall be Vs in. \nVariations Over Specified Width for \nThicknesses Given, in. \nSpecified Width, in. \nTo%, %to%, 5/ato1, 1 to 2, Over 2 Over 10 \nto 10, to 15, excl excl excl incl incl incl \nOver 8 to 20, excl 1/a 1/a 3;\\s \u00bc 3/a \u00bd \n20 to 36, excl 3/16 \u00bc S;\\s % 7/16 9/16 \n36 and over 5/,s 3/a 7/16 \u00bd 9/16 5/a \nTABLE A1.4 Permissible Variations in Diameter for Sheared \nCircular Carbon Steel, High-Strength Low-Alloy Steel, and Alloy \nSteel Plates 1 in. and under in Thickness \nNorn 1-No permissible variations under specified diameter. \nSpecified \nDiameter, in. \nTo 32, excl \n32 to 84, excl \n84 to 108, excl \n108 to 130, incl \nPermissible Variations Over Specified Diameter \nfor Thicknesses Given, in. \nTo%, %to%, 5/ato1, \nexcl excl incl \n\u00bc 3/a \u00bd \n5/16 7/16 9/16 \n3/a \u00bd 5/a \n7/16 9/\\s 11/-ie \nTABLE A1.5 Permissible Variations in Width and Length for \nRectangular Carbon Steel and High-Strength Low-Alloy Steel \nPlates when Gas Cutting is Specified or Required \nNorn 1-These variations may be taken all under or divided over and \nunder, if so specified. \nNorn 2-Plates with universal rolled edges will be gas cut to length \nonly. \nSpecified Thickness, in. \nTo 2, excl \n2 to 4, excl \n4 to 6, excl \n6 to 8, excl \n8 to 15, incl \nVariations Over for All Specified \nWidths or Lengths, in. \n\u00bd \n5/a \n\u00be \n7/a \n1 \nTABLE A1.6 Permissible Variations in Diameter for Gas-Cut \nCircular Carbon Steel and High-Strength Low-Alloy Steel Plates \nNorn 1-No permissible variations under specified diameter \nSpecified \nVariations Over Specified Diameter for Thicknesses Given, in. \nDiameter, in. To 1, 1 to 2, 2 to 4, 4 to 6, 6 to 8, 8 to 15, \nexcl excl excl excl excl incl \nTo 32, excl 3/a 3/a \u00bd \u00bd 5/a \u00be \n32 to 84, excl 3/a \u00bd \u00bd 5/a \u00be 7/a \n84 to 108, excl \u00bd 9/16 5/a \u00be 7/a 1 \n108 to 130, excl \u00bd 9/16 11/16 7/a 1 11/a \n130 and over 5/a \u00be 7/a 1 11/a 1\u00bc \n85 \nSA-20/SA-Z0M ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0137.json",
+  "tabulaTablesCsv": "tables_tabula/page-0137.csv",
+  "tabulaTableCount": 3,
+  "bestTextPath": "best_text/pages/page-0137.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2086,
+  "bestTextAlphaRatio": 0.6328
+}

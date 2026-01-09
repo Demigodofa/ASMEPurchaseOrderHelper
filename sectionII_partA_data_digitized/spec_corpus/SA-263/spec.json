@@ -1,0 +1,56 @@
+{
+  "createdUtc": "2026-01-09T00:14:01.739621+00:00",
+  "spec": "SA-263",
+  "rangeStart": 425,
+  "rangeEnd": 430,
+  "pages": [
+    {
+      "globalPageIndex": 425,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 425,
+      "textPath": "best_text\\pages\\page-0425.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 426,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 426,
+      "textPath": "best_text\\pages\\page-0426.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 427,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 427,
+      "textPath": "best_text\\pages\\page-0427.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 428,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 428,
+      "textPath": "best_text\\pages\\page-0428.txt",
+      "assets": {
+        "noteTargetFiles": [
+          "note_target_ocr\\page-0428-note-01.txt",
+          "note_target_ocr\\page-0428-note-02.txt",
+          "note_target_ocr\\page-0428-note-03.txt"
+        ]
+      }
+    },
+    {
+      "globalPageIndex": 429,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 429,
+      "textPath": "best_text\\pages\\page-0429.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 430,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 430,
+      "textPath": "best_text\\pages\\page-0430.txt",
+      "assets": {}
+    }
+  ]
+}

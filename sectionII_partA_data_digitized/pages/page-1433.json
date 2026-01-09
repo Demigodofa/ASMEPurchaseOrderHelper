@@ -1,0 +1,21 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 635,
+  "globalPageIndex": 1433,
+  "width": 617.04,
+  "height": 795.6,
+  "text": "( \nASME BPVC.II.A-2025 \nSPECIFICATION FOR FERRITIC DUCTILE IRON \nCASTINGS SUITABLE FOR LOW-TEMPERATURE \nSERVICE \nSA-874/SA-874M cO \nINTERNATIONAL \nStandards Worldwide \n(Identical with ASTM Specification A874/A874M-98(2018)'1.) \n1371 \nSA-874/SA-874M ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-1433.txt",
+  "ocrTextLength": 209,
+  "ocrApplied": true,
+  "tabulaTablesPath": "tables_tabula/page-1433.json",
+  "tabulaTablesCsv": "tables_tabula/page-1433.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-1433.txt",
+  "bestTextSource": "ocr",
+  "bestTextLength": 209,
+  "bestTextAlphaRatio": 0.6268
+}

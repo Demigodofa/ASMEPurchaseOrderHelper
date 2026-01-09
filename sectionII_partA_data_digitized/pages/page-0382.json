@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 382,
+  "globalPageIndex": 382,
+  "width": 601.08,
+  "height": 845.28,
+  "text": "SA-234/SA-234M (ASTM A234/A234M) ASME BPVC.ll.A-2025 \nTABLE 1 Chemical Requirements \nNoTE 1-All requirements are maximum unless otherwise indicated. \nNoTE 2-Where an ellipsis ( ... ) appears in this table, there is no requirement and analysis for the element need not be determined or reported. \nGrade and Composition, % \nMarking Phospho-SymbolA Carbon Manganese Sulfur rus Silicon Chromium Molybdenum Nickel Copper Others \nWPBB.C,D,E, 0.30 0.29-1.06 0.050 0.058 0.10 min 0.40 0.15max 0.40 0.40 Vanadium 0.08 \nWPCC,D,E, 0.35 0.29-1.06 0.050 0.058 0.10min 0.40 0.15 max 0.40 0.40 Vanadium 0.08 \nWP1 0.28 0.30-0.90 0.045 0.045 0.10-0.50 0.44-0.65 \nWP12CL1, 0.05-0.20 0.30-0.80 0.045 0.045 0.60 0.80-1.25 0.44-0.65 \nWP12 CL2 \nWP11 CL 1 0.05-0.15 0.30-0.60 0.030 0.030 0.50-1.00 1.00-1.50 0.44-0.65 \nWP11 CL2, 0.05-0.20 0.30-0.80 0.040 0.040 0.50-1.00 1.00-1.50 0.44-0.65 \nWP11 CL3 \nWP22 CL1, 0.05-0.15 0.30-0.60 0.040 0.040 0.50 1.90-2.60 0.87-1.13 \nWP22 CL3 \nWP24 0.05-0.10 0.30-0.70 0.020 0.010 0.15-0.45 2.20-2.60 0.90-1.10 0.75-1.25 Aluminum 0.020 \nBoron 0.0015-0.0070 \nNitrogen 0.12 \nTitanium 0.06-0.1 O \nVanadium 0.20-0.30 \nWP5 CL1, 0.15 0.30-0.60 0.040 0.030 0.50 4.0-6.0 0.44-0.65 \nWP5 CL3 \nWP9 CL1, 0.15 0.30-0.60 0.030 0.030 1.00 8.0-10.0 0.90-1.10 \nWP9 CL3 \nWPR 0.20 0.40-1.06 0.045 0.050 1.60-2.24 0.75-1.25 \nWP91 Type 1 0.08-0.12 0.30-0.60 0.020 0.010 0.20-0.50 8.0-9.5 0.85-1.05 0.40 Vanadium 0.18-0.25 \nColumbiumG 0.06-0.1 O \nNitrogen 0.03-0.07 \nAluminum o.02F \nTitanium 0.01 F \nZirconium 0.01 F \nWP91 Type 2 0.08-0.12 0.30-0.50F 0.020F 0.005F 0.20-0A0F 8.0-9.5F 0.85-1.05 0.20F 0.10F Vanadium 0.18-0.25 \nColumbiumG 0.06-0.1 O \nNitrogen 0.035-0.070F \nAluminum o.020F \nN/ Al ratio ;a:4_0 \nBoron 0.001 F \nZirconium 0.01 F \nTitanium 0.01 F \nArsenic o.010F \nTin o.010F \nAntimony o.003F \nTungsten 0.05F \nWP115 0.08-0.13 0.20-0.50 0.020 0.005 0.15-0.45 10.0-11.0 0.40-0.60 0.25 0.10 Vanadium 0. 18-0.25 \nNiobium 0.02-0.06 \nNitrogen 0.030-0.070 \nAluminum 0.02 \nTitanium 0.01 \nBoron 0.001 \nZirconium 0.01 \nTungsten 0.05 \nArsenic 0.01 O \nTin 0.010 \nAntimony 0.003 \nN/ Al ratio 4.0 min \nCNBH 10.5 \nWP911 0.09-0.13 0.30-0.60 0.020 0.010 0.10-0.50 8.5-9.5 0,90-1.10 0.40 Vanadium 0.18-0.25 \nColumbiumG 0.060-0.1 O \nNitrogen 0.04-0.09 \nAluminum 0.02 maxF \nBoron 0.0003-0.006 \nTungsten 0.90-1.10 \nTitanium 0.01 maxF \nZirconium 0.01 maxF \nWP92 0.07-0.13 0.30-0.60 0.020 0.010 0.50 8.50-9.50 0.30-0.60 0.40 Aluminum o.02F \nBoron 0.001-0.006 \nColumbiumG 0.04-0.09 \nNitrogen 0.030-0.070 \nTitanium 0.01 F \nTungsten 1.50-2.00 \nVanadium 0.15-0.25 \nZirconium 0.01 F \nA When fittings are of welded construction, the grade and marking symbol shown above shall be supplemented by letter \"W\". \n8 Fittings made from bar or plate may have 0.35 max carbon. \n330 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0382.json",
+  "tabulaTablesCsv": "tables_tabula/page-0382.csv",
+  "tabulaTableCount": 2,
+  "bestTextPath": "best_text/pages/page-0382.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2745,
+  "bestTextAlphaRatio": 0.3698
+}

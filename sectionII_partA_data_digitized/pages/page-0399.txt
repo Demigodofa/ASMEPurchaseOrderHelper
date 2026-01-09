@@ -1,0 +1,59 @@
+TABLE 2 Mechanical Test Requirements 
+Tensile Strength, min Yield Strength, 8 min Elongation Hardness, maxc in 
+UNS Designation TypeA 2 in. or Brinell. Cold Bend 00 
+ksi MPa ksi MPa 50mm, HBW Rockwell 
+min,% 
+Austenitic (Chromium-Nickel) (Chromium-Manganese-Nickel) 
+N08020 80 550 35 240 30E 217 95 HRBW not required 
+N08367 
+Sheet and Strip 100 690 45 310 30 100 HRBW not required 
+Plate 95 655 45 310 30 241 not required 
+N08700 80 550 35 240 30 192 90 HRBW not required 
+N08800 800F 75 520 30G 205G 30H not required 
+N08810 800HF 65 450 25G 170G 30 not required 
+N08811 65 450 25 170 30 not required 
+N08904 904LF 71 490 31 220 35 90 HRBW not required 
+N08925 87 600 43 295 40 not required 
+N08926 94 650 43 295 35 not required 
+820100 201-1 1 75 515 38 260 40 217 95 HRBW 
+820100 201-2 1 95 655 45 310 40 241 100 HRBW 
+820103 201LF 95 655 38 260 40 217 95 HRBW not required 
+S20153 201LNF 95 655 45 310 45 241 100 HRBW not required 
+S20161 125 860 50 345 40 255 25 HRC not required 
+S20200 202 90 620 38 260 40 241 
+S20400 95 655 48 330 35 241 100 HRBW not required > Cl> 
+S20431 90 620 45 310 40 241 100 HRBW not required :s: 
+S20432 75 515 30 205 40 201 92 HRBW not required ~ 
+S20433 80 550 35 240 40 217 95 HRBW not required 1:1:1 
+"Cl w <: .is- XM-19J ~ -....J 820910 
+Sheet and Strip 105 725 60 415 30 241 100 HRBW not required 
+~ Plate 100 690 55 380 35 241 100 HRBW not required N 
+S21600 XM-17J 0 
+N 
+Sheet and Strip 100 690 60 415 40 241 100 HRBW not required c:n 
+Plate 90 620 50 345 40 241 100 HRBW not required 
+821603 XM-18J 
+Sheet and Strip 100 690 60 415 40 241 100 HRBW not required 
+Plate 90 620 50 345 40 241 100 HRBW not required 
+821640 95 650 45 310 40 not required 
+821800 95 655 50 345 35 241 100 HRBW not required 
+821904 XM-11J 
+Sheet and Strip 100 690 60 415 40 241 100 HRBW not required 
+Plate 90 620 50 345 45 241 100 HRBW not required 
+824000 XM-29J 
+Sheet and Strip 100 690 60 415 40 241 100 HRBW not required 
+Plate 100 690 55 380 40 241 100 HRBW not required 
+S30100 301 75 515 30 205 40 217 95 HRBW not required 
+S30103 301LF 80 550 32 220 45 241 100 HRBW not required 
+S30153 301LNF 80 550 35 240 45 241 100 HRBW not required 
+S30200 302 75 515 30 205 40 201 92 HRBW not required 
+830400 304 75 515 30 205 40 201 92 HRBW not required Cl> 
+> 830403 304L 70 485 25 170 40 201 92 HRBW not required .;., 
+S30409 304H 75 515 30 205 40 201 92 HRBW not required ~ 
+0 
+830415 87 600 42 290 40 217 95 HRBW not required ....... 
+Cl> 
+S30435 65 450 23 155 45 187 90 HRBW > .;., 
+~ 
+0 
+:s: 

@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 128,
+  "globalPageIndex": 926,
+  "width": 613.92,
+  "height": 793.2,
+  "text": "SA-484/SA-484M ASME BPVC.II.A-2025 \nAPPENDIXES \n(Nonmandatory Information) \nXl. RATIONALE REGARDING DEFINITION OF LOT FOR MECHANICAL PROPERTIES AND CORROSION TESTING \nXl.1 It is generally recognized that material described as a \nlot must be \"produced under the same processing conditions,\" \nwhich means the same manufacturing order number, same size, \nsame heat, same heat-treating procedure, and same subsequent \nprocessing. Under those conditions, single samples can be \nselected to be representative of the total lot, with at least one \nsample for each 20 000 pounds of material. \nXl.2 Following the principle described in Xl.1 generally \nrequires that the producer control each of several furnace loads \nconstituting the same lot so that: \u2022 \nXl.2.1 Set point temperature and process tolerance match, \nXl.2.2 Time at temperature for all thermal treatment shall \nmatch within 10 %, \nXl.2.3 All furnaces used be similar in size and meet the \nuniformity requirements of a documented furnace quality \nassurance program, and \nXl .2.4 The quench systems are the same with respect to \nvolume, type of quenchant, and circulation rate. \nXl.2.5 Further, it would be expected that grouped loads be \nhandled within a relatively short time period, and that hardness \ntesting be performed on at least one sample per charge. \nXl .3 The old definition of a lot for mechanical testing based \non simply the words \"same size, heat, and heat treatment \ncharge in a batch furnace\" assumes that heat treating is the only \nprocess affecting properties. This kind of definition ignores the \neffects of other processing, prior to and subsequent to heat \ntreating. Moreover, it assumes that each heat-treated batch will \nbe uniform and unique rather than reproducible. In reality, heat \ntreating is a process which can be controlled easily throughout \na batch and from batch to batch, with the net result that \nmultiple batches can be considered part of a single lot if \nequipment and processing parameters meet the mandates of \nXl.1 and Xl.2. \nXl.4 The sampling specified for mechanical properties is \nnot a statistical sampling plan. Therefore, it provides only \ntypical data. Assurance of uniformity within the lot can be \nobtained only by the producer adequately controlling the \nprocessing parameters. \nX2. BAR CODING \nX2.1 Bar coding to identify steel is not specifically ad\u00ad\ndressed in Committee A0l specifications. Committee A0l \nendorses the AIAG bar code standard for primary metals for \n826 \nsteel products and proposes that this bar coding standard be \nconsidered as a possible auxiliary method of identification. ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-0926.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2603,
+  "bestTextAlphaRatio": 0.7849
+}

@@ -1,0 +1,98 @@
+SA-568/SA-568M (ASTM A568/A568M) ASME BPVC.II.A-2025 
+11.1.2 The retest specimen shall be taken either adjacent to 
+the first failed specimen, or selected at random from the 
+material to be certified to the specification. 
+11.1.3 If the results of a retest satisfy the specified tension 
+test requirements and all other requirements of the applicable 
+specification are satisfied, the material shall be accepted. 
+11.2 Disposition of Non-Conforming Material: 
+11.2.1 In those cases where the lot is found to be non­
+conforming, and resampling of non-conforming material is not 
+prohibited by the specification, resampling is permitted under 
+the following circumstances and using the following practices: 
+11.2.1.1 If the results of an original tension test or retest 
+specimen fail to satisfy the specification requirements, and the 
+failed test results are not related to the conditions described in 
+11.1, the lot shall be quarantined and resampled for certifica­
+tion of the non-conforming material to the specification re­
+quirements. 
+11.2.1.2 Resampling for certification of the non-conforming 
+material shall include the discarding of out-of-specification 
+material and the resampling of the lot. The resampling shall be 
+appropriate to the specific out-of-specification condition and 
+the processing history of the lot. 
+11.2.1.3 A maximum of two resampling efforts shall be 
+permitted. If after conducting two resampling efforts, the 
+material does not satisfy the specification requirements, the lot 
+shall be rejected. 
+12. Inspection 
+12.1 When purchaser's order stipulates that inspection and 
+tests (except product analyses) for acceptance on the steel be 
+made prior to shipment from the mill, the manufacturer shall 
+afford the purchaser's inspector all reasonable facilities to 
+satisfy him that the steel is being produced and furnished in 
+accordance with the specification. Mill inspection by the 
+purchaser shall not interfere unnecessarily with the manufac­
+tnrer' s operation. 
+14.2 The manufacturer or processor shall issue a test report 
+or optional certificate of compliance, or both, when required by 
+the purchase order or the specification. 
+14.3 The test report shall show the heat analysis and the 
+results of all tests required by the purchase order and seller and 
+by the specification. 
+14.4 The certificate of compliance shall include a statement 
+that the product was manufactured and tested in accordance 
+with the requirements of the specification and that the test 
+results conform to the requirements of the specification. 
+Norn 4-The heat analysis, results of all tests, and the certificate of 
+compliance may be reported separately on in a combined report. 
+14.5 Steel processors shall pass transfer data supplied by the 
+steel manufacturer provided the processing has not altered the 
+attributes represented. In cases where the steel is retested the 
+processor is responsible for the accuracy of the data and shall 
+maintain traceability back to its source. Retesting for heat 
+analysis shall be done in accordance with the specification Test 
+Methods A751. The report shall clearly identify the physical 
+product it represents. 
+14.6 Test rep01is and certificates of compliance shall pro­
+vide information necessary to identify the product represented; 
+for example the manufacturer's name or brand, the processor's 
+name or brand or the seller's name or brand, ASTM specifi­
+cation number and year date, product designation, type or 
+class, as applicable, and all other information necessary to 
+completely identify the material. 
+14.7 A signature is not required on test reports or certifica­
+tions. However, the document shall clearly identify the orga­
+nization submitting the document. Notwithstanding the ab­
+sence of a signature, the organization submitting the document 
+is responsible for the content of the document. 
+14.8 When required, copies of the original material manu­
+facturer's test report shall be included with any subsequent test 
+report. 
+14.9 A Material Test Report, Certificate of Inspection, or 
+13. Rejection and Rehearing similar document printed from or used in electronic form from 
+13.l Unless otherwise specified, any rejection shall b~ electroni~ata interchange_ (EDI) transmission s~all be 
+rep01ied to the manufacturer within a reasonable time after regardedasliavmg the same vahc:!ity as a counterpart prmte~ 
+recei t of material by the purchaser. the certifier's facility. The c?ntent of the ~DI transmitted 
+p document must meet the reqmrements of the mvoked ASTM 
+13.2 Material that is reported to be defective subsequent to standard(s) and confonn to any existing EDI agreement be-
+the acceptance at the purchaser's works shall be set aside, tween the purchaser and the supplier. Notwithstanding the 
+adequately protected, and correctly identified. The manufac- absence of a signature, the organization submitting the EDI 
+turer shall be notified as soon as possible so that an investiga- transmission is responsible for the content of the report. 
+tion may be initiated. 14.9.1 The content of the EDI document shall meet all the 
+13.3 Samples that are representative of the rejected material requirements of 14.3 through 14.6. 
+shall be made available to the manufacturer. In the event that 
+the manufacturer is dissatisfied with the rejection, he may 
+request a rehearing. 
+14. Test Reports and Certification 
+14.1 When test repo1is are required by the purchase order or 
+the material specification, the supplier shall report the results of 
+all test required by the material specification and the order. 
+988 
+NoTE 5-The industry definition as invoked here is: EDI is the 
+computer to computer exchange of business information in an agreed upon 
+standard format such as ANSI ASC Xl2. 
+15. Product Marking 
+15.1 As a minimum requirement, the material shall be 
+identified by having the manufacturer's name, ASTM 
+designation, weight, purchaser's order number, and material 

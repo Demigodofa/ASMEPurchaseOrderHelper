@@ -1,0 +1,119 @@
+SA-513/SA-513M (ASTM A513/A513M) ASME BPVC.II.A-2025 
+TABLE 8 Wall Thickness Tolerances of Types 5 and 6 (DOM and 
+S.S.I.D.) Round Tubing (Inch Units) 
+Outside Diameter, in.A 
+Wall %to 7/a, Over 7 /4 to Over Flato Over3¾to 
+Thickness incl F/a, incl 3¾, incl 15, incl 
+Wall Thickness Tolerances, in.,A.a ± 
+in.A BwgA + - + - + - + -
+0.035 20 0.002 0.002 0.002 0.002 0.002 0.002 ... ... 
+0.049 18 0.002 0.002 0.002 0.003 0.002 0.003 ... ... 
+0.065 16 0.002 0.002 0.002 0.003 0.002 0.003 0.004 0.004 
+0.083 14 0.002 0.002 0.002 0.003 0.003 0.003 0.004 0.005 
+0.095 13 0.002 0.002 0.002 0.003 0.003 0.003 0.004 0.005 
+0.109 12 0.002 0.003 0.002 0.004 0.003 0.003 0.005 0.005 
+0.120 11 0.003 0.003 0.002 0.004 0.003 0.003 0.005 0.005 
+0.134 10 ... ... 0.002 0.004 0.003 0.003 0.005 0.005 
+0.148 9 ... ... 0.002 0.004 0.003 0.003 0.005 0.005 
+0.165 8 ... ... 0.003 0.004 0.003 0.004 0.005 0.006 
+0.180 7 ... ... 0.004 0.004 0.003 0.005 0.006 0.006 
+0.203 6 ... ... 0.004 0.005 0.004 0.005 0.006 0.007 
+0.220 5 ... ... 0.004 0.006 0.004 0.006 0.007 0.007 
+0.238 4 ... ... 0.005 0.006 0.005 0.006 0.007 0.007 
+0.259 3 ... ... 0.005 0.006 0.005 0.006 0.007 0.007 
+0.284 2 ... ... 0.005 0.006 0.005 0.006 0.007 0.007 
+0.300 1 ... ... 0.006 0.006 0.006 0.006 0.008 0.008 
+0.320 ... ... 0.007 0.007 0.007 0.007 0.008 0.008 
+0.344 ... ... 0.008 0.008 0.008 0.008 0.009 0.009 
+0.375 ... ... ... .. . 0.009 0.009 0.009 0.009 
+0.400 ... ... ... ... 0.010 0.010 0.010 0.010 
+0.438 ... ... ... ... 0.011 0.011 0.011 0.011 
+0.460 ... ... ... ... 0.012 0.012 0.012 0.012 
+0.480 ... ... ... ... 0.012 0.012 0.012 0.012 
+0.531 ... ... ... .. . 0.013 0.013 0.013 0.013 
+0.563 ... ... ... .. . 0.013 0.013 0.D13 0.013 
+0.580 ... ... ... ... 0.014 0.014 0.014 0.014 
+0.600 ... ... ... .. . 0.015 0.015 0.015 0.015 
+0.625 ... ... ... ... 0.D16 0.016 0.016 0.016 
+0.650 ... ... ... ... 0.017 0.017 0.017 0.017 
+A Birmingham Wire Gauge. 
+8 Where the ellipsis ( ... ) appears in this table, the tolerance is not addressed. 
+11.2 When burrs must be removed from one or both ends, it 
+shall be specified in the purchase order. 
+TABLE 9 Wall Thickness Tolerances of Types 5 and 6 (DOM and 
+S.S.I.D.) Round Tubing (SI Units) 
+Outside Diameter, mm 
+Wall 10 to 20, Over 20 to 50, Over 50 to 100, Over 100 to 
+Thick- incl incl incl 380, incl 
+ness Wall Thickness Tolerances, mmA 
+mm + - + - + - + -
+0.89 0.05 0.05 0.05 0.05 0.05 0.05 ... .. . 
+1.24 0.05 0.05 0.05 0.08 0.05 0.08 ... .. . 
+1.65 0.05 0.05 0.05 0.08 0.05 0.08 0.10 0.10 
+2.11 0.05 0.05 0.05 0.08 0.08 0.08 0.10 0.13 
+2.41 0.05 0.05 0.05 0.08 0.08 0.08 0.10 0.13 
+2.77 0.05 0.08 0.05 0.10 0.08 0.08 0.13 0.13 
+3.05 0.08 0.08 0.05 0.10 0.08 0.08 0.13 0.13 
+3.40 ... .. . 0.05 0.10 0.08 0.08 0.13 0.13 
+3.76 ... .. . 0.05 0.10 0.08 0.08 0.13 0.13 
+4.19 ... .. . 0.08 0.10 0.08 0.10 0.13 0.15 
+4.57 ... ... 0.10 0.10 0.08 0.13 0.15 0.15 
+5.16 ... ... 0.10 0.13 0.10 0.13 0.15 0.18 
+5.59 ... ... 0.10 0.15 0.10 0.15 0.18 0.18 
+6.05 ... ... 0.13 0.15 0.13 0.15 0.18 0.18 
+6.58 ... ... 0.13 0.15 0.13 0.13 0.18 0.18 
+7.21 ... ... 0.13 0.15 0.13 0.15 0.18 0.18 
+7.62 ... ... 0.15 0.15 0.15 0.15 0.20 0.20 
+8.13 ... ... 0.18 0.18 0.18 0.18 0.20 0.20 
+8.74 ... ... 0.20 0.20 0.20 0.20 0.23 0.23 
+9.53 ... ... ... .. . 0.23 0.23 0.23 0.23 
+10.16 ... ... .. . ... 0.25 0.25 0.25 0.25 
+11.13 ... ... ... .. . 0.28 0.28 0.28 0.28 
+11.68 ... ... ... . .. 0.30 0.30 0.30 0.30 
+12.19 ... ..., .. . ... 0.30 0.30 0.30 0.30 
+13.49 ... ... ... .. . 0.33 0.33 0.33 0.33 
+14.3 ... ... ... .. . 0.33 0.33 0.33 0.33 
+14.73 ... ... .. . ... 0.36 0.36 0.36 0.36 
+15.24 ... ... ... .. . 0.38 0.38 0.38 0.38 
+15.88 ... ... ... .. . 0.41 0.41 0.41 0.016 
+16.51 ... ... ... . .. 0.43 0.43 0.43 0.43 
+A Where the ellipsis ( ... ) appears in this table, the tolerance is not addressed. 
+12.2.2 When a final thermal treatment is specified, a tight 
+oxide is normal. When an oxide-free surface is specified, the 
+tube may be bright annealed or pickled at the manufacturer's 
+option. 
+12. Types and Conditions 12.3 Flash conditions under which tubing may be furnished 
+are as follows. The flash shall be removed from the outside 
+12.1 The types of tubing covered by this specification are: diameter of tubing .covered by this specification. Tubing 
+Type furnished to this specification may have the following condi-
+Numher Code I ethars Dest:riptioll-ll------~~~..--~-~~er-.-----.-.--~~-.------,.-----c----~~-~--------;,-
+1a A.W.H.R. "as-welded" from hot-rolled steel (with mill tions of welding flash on the mside diameter. 
+scale) 12.3.1 Flash-In-Tubing in which the inside diameter weld-
+1b A.W.P.O. "as-welded" from hot-rolled pickled and ing flash does not exceed the wall thickness or 3/32 in. [2.38 
+oiled steel (mill scale removed) 
+2 A.W.C.R. "as-welded" from cold-rolled steel mm], whichever is less. This condition is available in Types la, 
+3 S.D.H.R. "sink-drawn" hot-rolled steel lb, 2, 3, and 4. 
+4 S.D.C.R. "sink-drawn," cold-rolled steel 12.3.2 Flash Controlled to 0.0/0 in. [0.26 mm], maximum-
+5 DOM Drawn Over a Mandrel 
+6 s.S.I.D. special smooth inside diameter Tubing in which the height of the remaining welding flash is 
+controlled so as not to exceed 0.010 in. This condition is 12.2 The thermal conditions under which tubing may be furnished are: available in Types la, lb, and 2over11/s-in. [28.5-mm] outside 
+diameter and Types 3 and 4. 
+Code Description 
+NA Nol Annealed; in the as-welded or as­
+drawn condition 
+SRA Stress Relieved Annealed (at a 
+temperature below the lower critical 
+temperature) 
+N Normalized or Annealed (at a temperature 
+above the upper critical temperature) 
+12.2.1 When the thermal condition is not specified, the tube 
+may be supplied in the NA condition. 
+854 
+12.3.3 Flash Controlled to 0.005 in. [0.13 mm], maximum­
+Tubing produced to outside diameter and wall thickness, inside 
+diameter and wall thickness, or outside diameter and inside 
+diameter tolerances which are so controlled that the height of 
+the remaining inside diameter flash does not exceed 0.005 in. 
+Any remaining inside diameter flash is part of the applicable 
+inside diameter tolerance. This condition is available in Types 
+la, lb, 2, 3, and 4. 

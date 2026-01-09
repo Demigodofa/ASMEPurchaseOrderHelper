@@ -1,0 +1,64 @@
+SA-638/SA-638M ASME BPVC.II.A-2025 
+TABLE 1 
+MECHANICAL PROPERTY REQUIREMENTS 
+Grade 660 Grade 662 (bars) Grade 662 (forgings)A 
+Heat treatment 8 . . . . . . . . . . . . . . . . . solution + precipitation harden solution + precipitation harden solution + precipitation harden 
+Tensile strength, min: 
+psi ......................... . 
+[M Pa] ................ · · · ·,. · 
+Yield strength (0.2% offset), min: 
+psi ......................... . 
+[M PaJ ...................... . 
+Elongation in 4D min, % ......... . 
+Reduction of area min, % ......... . 
+Brinel I hardness ................. . 
+130 000 
+[895] 
+85 000 
+[585] 
+15 
+18 
+248 min 
+130 000 125 000 
+[895] [860] 
+85 000 80 000 
+[585] [550] 
+15 15 
+18 18 
+248 min 248 min 
+A The elongation of tensile specimens machined tangentially from near the center of large disk forgings over 50 in. 2 [320 cm 2 J in cross sec­
+tion may be as low as 10%. The reduction of area may be as low as 12%. 
+8 Refer to Table 3 of heat treatment. 
+Grade 
+660 
+662 
+Heat TreatmentA 
+solution + precipitation harden 
+solution + precipitation harden 
+TABLE 2 
+STRESS-RUPTURE REQUIREMENTS 
+Test Temperature 
+OF 
+1200 
+1200 
+[650] 
+[650] 
+psi 
+65 000 
+60 000 
+Stress 
+A Refer to Table 2 for details of heat treatment. 
+[MPaJ 
+[450] 
+[415] 
+Minimum 
+Hours 8 
+23 
+15 
+Minimum 
+Elongation, 
+% 
+3 
+3 
+8 Test specimens meeting minimum requirements may be overloaded to produce rupture in a reasonable and practical time period. 
+1054 

@@ -1,0 +1,13 @@
+CM-70,carbon-molybdenum steel,A204/A204M,B,201.0
+CM-75,carbon-molybdenum steel,A204/A204M,C,201.0
+CMSH-70,carbon-manganese-silicon steel, normalized,A537/A537M,1,
+CMS-75,carbon-manganese-silicon steel,A299/A299M,,
+CMSH-80,carbon-manganese-silicon steel, quenched and tempered,A537/A537M,2,
+1⁄2 CR,1⁄2 % chromium, 1⁄2 % molybdenum steel,A387/A387M,2,201.0
+1CR,1 % chromium,1⁄2% molybdenum steel,A387/A387M,12,201.0
+11⁄4  CR,11⁄4  % chromium, 1⁄2 % molybdenum steel,A387/A387M,11,201.0
+21⁄4 CR,21⁄4 % chromium, 1 % molybdenum steel,A387/A387M,22,201.0
+3CR,3 % chromium, 1 % molybdenum steel,A387/A387M,21,201.0
+5CR,5 % chromium, 1⁄2 % molybdenum steel,A387/A387M,5,225.0
+9CR,9 % chromium, 1 % molybdenum steel,A387/A387M,9,241.0
+91,9 % chromium, 1 % molybdenum, vanadium, niobium0,A387/A387M,91 8,241.0

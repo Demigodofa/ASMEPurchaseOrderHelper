@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 306,
+  "globalPageIndex": 1104,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "SA-572/SA-572M ASME BPVC.II.A-2025 \nSpecification for \nHigh-Strength Low-Alloy Columbium-Vanadium Structural \nSteel \n1. Scope \n1.1 This specification covers five grades of high-strength \nlow-alloy structural steel shapes, plates, sheet piling, and bars. \nGrades 42 [290], 50 [345], and 55 [380] are intended for \nriveted, bolted, or welded structures. Grades 60 [415] and 65 \n[ 450] are intended for riveted or bolted construction of bridges, \nor for riveted, bolted, or welded construction in other applica\u00ad\ntions. \n1.2 For applications, such as welded bridge construction, \nwhere notch toughness is important, notch toughness require\u00ad\nments are to be negotiated between the purchaser and the \nproducer. \n1.3 Specification A588/A588M shall not be substituted for \nSpecification A572/ A572M without agreement between the \npurchaser and the supplier. \n1.4 The use of columbium (niobium), vanadium, titanium, \nnitrogen, or combinations thereof, within the limitations noted \nin Section 5, is required; the selection of type (1, 2, 3, or 5) is \nat the option of the producer, unless otherwise specified by the \npurchaser. (See Supplementary Requirement S90.) \n1.5 The maximum thicknesses available in the grades and \nproducts covered by this specification are shown in Table 1. \n1.6 When the steel is to be welded, a welding procedure \nsuitable for the grade of steel and intended use or service is to \nbe utilized. See Appendix X3 of Specification A6/ A6M for \ninformation on weldability. \n1.7 The values stated in either inch-pound units or SI units \nare to be regarded separately as standard. Within the text, the \nSI units are shown in brackets. The values stated in each \nsystem are not exact equivalents; therefore, each system is to \nbe used independently of the other, without combining values \nin any way. \n1.8 The text of this specification contains notes or footnotes, \nor both, that provide explanatory material. Such notes and \nfootnotes, excluding those in tables and figures, do not contain \nany mandatory requirements. \n1.9 For structural products produced from coil and fur\u00ad\nnished without heat treatment or with stress relieving only, the \nadditional requirements, including additional testing require\u00ad\nments and the reporting of additional tests, of Specification \nA6/ A6M apply. \n1.10 This international standard was developed in accor\u00ad\ndance with internationally recognized principles on standard\u00ad\nization established in the Decision on Principles for the \nDevelopment of International Standards, Guides and Recom\u00ad\nmendations issued by the World Trade Organization Technical \nBarriers to Trade (TBT) Committee. \n2. Referenced Documents \n2.1 ASTM Standards: \nA6/ A6M Specification for General Requirements for Rolled \nStructural Steel Bars, Plates, Shapes, and Sheet Piling \nA36/A36M Specification for Carbon Structural Steel \nA514/A514M Specification for High-Yield-Strength, \nQuenched and Tempered Alloy Steel Plate, Suitable for \nWelding \nA588/A588M Specification for High-Strength Low-Alloy \nStructural Steel, up to 50 ksi [345 MPa] Minimum Yield \nPoint, with Atmospheric Corrosion Resistance \n1010 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1104.json",
+  "tabulaTablesCsv": "tables_tabula/page-1104.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-1104.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 3120,
+  "bestTextAlphaRatio": 0.7615
+}

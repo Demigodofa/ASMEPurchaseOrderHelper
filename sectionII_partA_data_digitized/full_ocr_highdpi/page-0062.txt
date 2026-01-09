@@ -1,0 +1,79 @@
+SA-6/SA-6M ASME BPVCG.ILA-2025
+
+Note 5—Unless otherwise specified, structural products are normally 9.3.2 The deposition of weld metal (see 9.5) following — .
+enisned in the as-rolled condition ane are subjected fo igual Inspection removal of imperfections that are greater in depth than the
+imperfections, “or both, may be present in “the structural product as limits l isted in 9.3.1 shall be subject to the following limiting |
+delivered and the structural product may require conditioning by the conditions:
+purchaser to improve its appearance or in preparation for welding, coating, 9.3.2.1 The total area of the chipped or ground surface of ,
+or other further operations. any piece prior to welding shall not exceed 2 % of the total 2
+; More restriclive requrements my ee specie’ Oy Evoke Pe surface area of that piece.
+
+“Structural products that exhibit injurious defects during subsequent ©. 9-2:2-2 The reduction of thickness of the material resulting
+fabrication are deemed not to comply with the applicable product from removal of imperfections prior to welding shall not
+specification. (See 17.2.) Fabricators should be aware that cracks may | exceed 30 % of the nominal thickness at the location of the
+initiate upon bending a sheared or burned edge during the fabrication imperfection, nor shall the depth of depression prior to welding
+process ms ne comico 0 be a ant Ohi, but is rather a = exceed 11% in. [32 mm] in any case except as noted in 9.3.2.3. ,
+“The conditioning requirements in 92,93, and 9.4 limit the condition- 9.3.2.3 The deposition of weld metal (see 9.5) following :
+ing allowed to be performed by the manufacturer or processor. Condition- grinding, chipping, or arc-air gouging of the toes of angles,
+ing of imperfections beyond the limits of 9.2, 9.3, and 9.4 may be | beams, channels, and zees and the stems and toes of tees shall .
+performed by parties other than the manufacturer or processor at the be subject to the limitation that, prior to welding, the depth of ,
+discretion of the purchaser. the depression, measured from the toe inward, is not more than ,
+
+9.2 Plate Conditioning: the thickness of the material at the base of the depression or 2 .
+
+9.2.1 The grinding of plates by the manufacturer or proces- [12.5 mm], whichever is the lesser. . ——
+sor to remove imperfections on the top or bottom surface shall 9.3.2.4 The dep osilion of weld metal (see 9.5) and grinding ,
+be subject to the limitations that the area ground is well faired to correct or build up the interlock of any sheet piling section
+without abrupt changes in contour and the grinding does not at any location shall be subject to the limitation that the total .
+
+reduce the thickness of the plate by (J) more than 7 % under surface area of the weld not exceed 2 % of the total surface .
+the nominal thickness for plates ordered to weight per square area of the piece. ,
+foot or mass per square metre, but in no case more than ¥% in. 9.4 Bar Conditioning:
+
+[3 mm]; or (2) below the permissible minimum thickness for 9.4.1 The conditioning of bars by the manufacturer or
+plates ordered to thickness in inches or millimetres. processor to remove imperfections by grinding, chipping, or
+
+9.2.2 The deposition of weld metal (see 9.5) following the | Some other means shall be subject to the limitations that the ,
+removal of imperfections on the top or bottom surface of plates Conditioned area is well faired and the affected sectional area is — —
+by chipping, grinding, or arc-air gouging shall be subject to the Dot reduced by more than the applicable permitted variations ,
+following limiting conditions: (see Section 12), : |
+
+9.2.2.1 The chipped, ground, or gouged area shall not 9.4.2 The dep osition of weld metal (see 9.5) following
+exceed 2 % of the area of the surface being conditioned. chipping OF grinding to remove imp erfections that are greater
+
+9.2.2.2 After removal of any imperfections preparatory to meee than the mits listed in 9.4.1 shall be subject to the
+welding, the thickness of the plate at any location shall not be 9. Lot The total area of the chipped or ground surface of .
+reduced by more than 30 % of the nominal thickness ° f the any piece, prior to welding, shall not exceed 2 % of the total .
+plate. (Specification AI31/A131M restricts the reduction in surface area of the piece. :
+
+, thickness to 20 % maximum.) 9.4.2.2 The reduction of sectional dimension of a round,
+
+9.2.3 The deposition of weld metal (see 9.5) following the square, or hexagon bar, or the reduction in thickness of a flat ,
+removal of injurious imperfections on the edges of plates by pay. resulting from removal of an imperfection, prior to
+grinding, chipping, or arc-air gouging by the manufacturer or — welding, shall not exceed 5% of the nominal dimension or |
+processor shall be subject to the limitation that, prior to thickness at the location of the imperfection. | | ,
+welding, the depth of the depression, measured from the plate 9.4.2.3 For the edges of flat bars, the depth of the condi- ,
+edge inward, is not more than the thickness of the plate orl in. tioning depression prior to welding shall be measured from the ,
+[25 mm], whichever is the lesser. edge inward and shall be limited to a maximum depth equal to
+
+9.3 Structural Size Shapes, Bar Size Shapes, and Sheet the thickness of the flat bar or % in. [12.5 mm], whichever 1s .
+Piling Conditioning: less. :
+
+| 9.3.1 The grinding, or chipping and grinding, of structural 9.5 Repair by Welding: So
+
+size shapes, bar size shapes, and sheet piling by the manufac- 9.5.1 General Requirements: ,
+
+, turer or processor to remove imperfections shall be subject to 9.5.1.1 Repair by welding shall be in accordance with a |
+the limitations that the area ground is well faired without | welding procedure specification (WPS) using shielded metal :
+
+abrupt changes in contour and the depression does not extend arc welding (SMAW), gas metal arc welding (GMAW), flux |
+
+below the rolled surface by more than (J) %2 in. [1 mm], for cored arc welding (FCAW), or submerged arc welding (SAW)
+
+material less than 3 in. [10 mm] in thickness; (2) Yiein. [2 processes. Shielding gases used shall be of welding quality.
+
+mm], for material 78 to 2 in. [10 to 50 mm] inclusive in 9.5.1.2 Electrodes and electrode-flux combinations shall be
+
+thickness; or (3) ¥ in. [3 mm], for material over 2 in. [50 mm] in accordance with the requirements of AWS Specifications !
+
+in thickness. — A5.1/A5.1M, A5.5/A5.5M, A5.17/A5.17M, A5.18/A5.18M, a |

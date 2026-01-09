@@ -1,0 +1,333 @@
+=== Page 979 ===
+
+ASME BPVC.ILA-2025 SA-522/SA-522M
+
+SPECIFICATION FOR FORGED OR ROLLED 8 AND 9%
+NICKEL ALLOY STEEL FLANGES, FITTINGS, VALVES,
+AND PARTS FOR LOW-TEMPERATURE SERVICE
+
+CY,
+(eX) SA-522/SA-522M
+
+(Identical with ASTM Specification A522/A522M-07,)
+
+=== Page 980 ===
+
+SA•522/SA-522M ASME BPVC.II.A-2025 
+SPECIFICATION FOR FORGED OR ROLLED 8 AND 9% 
+NICKEL ALLOY STEEL FLANGES, FITTINGS, VALVES, 
+AND PARTS FOR LOW-TEMPERATURE SERVICE 
+SA-522/SA-522M cO 
+INTERNATIONAL 
+Standards Worldwide 
+(Identical with ASTM Specification A 522/ A 522M-07.) 
+1. Scope 
+1.1 This specification covers 8 and 9% nickel-alloy 
+steel forged or rolled flanges, fittings, valves, and parts 
+intended for use in welded pressure vessels for low-temper­
+ature service. The specification is applicable to forgings 
+with maximum section thickness of 3 in. [75 mm] in the 
+double normalized and tempered condition and 5 in. 
+[125 mm] in the quenched and tempered condition. Forg­
+ings under this specification are intended for service at 
+operating temperatures not lower than -320°F [-196°C] 
+for Type I or -275°F [-170°C] for Type II or higher than 
+250°F [121 °C]. 
+1.2 Material under this specification is available in two 
+types having different chemical compositions as follows: 
+Type 
+I 
+II 
+Nominal Nickel Content, % 
+9 
+8 
+1.3 This specification is expressed in both inch-pound 
+units and SI units. However, unless the order specifies the 
+applicable "M" specification designation (SI units), the 
+material shall be furnished to inch-pound units. 
+1.4 The values stated in either inch-pound units or SI 
+units are to be regarded separately as standard. Within the 
+text, the SI units are shown in brackets. The values stated 
+in each system are not exact equivalents; therefore, each 
+system must be used independently of the other. Combining 
+values from the two systems may result in nonconformance 
+with the specification. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+A 370 Test Methods and Definitions for Mechanical Test­
+ing of Steel Products 
+880 
+A 788/A 788M Specification for Steel Forgings, General 
+Requirements 
+A 961/A 961M Specification for Common Requirements 
+for Steel Flanges, Forged Fittings, Valves, and Parts for 
+Piping Applications 
+3. General Requirements and Ordering 
+Information 
+3.1 Product furnished to this specification shall conform 
+to the requirements of Specification A 961, including any 
+supplementary requirements that are indicated in the pur­
+chase order. Failure to comply with the requirements of 
+Specification A 961 constitutes nonconformance with this 
+specification. 
+3.2 It is the purchaser's responsibility to specify in 
+the purchase order all ordering information necessary to 
+furnish the needed material. Examples of such information 
+include but are not limited to the ordering information in 
+Specification A 961 and following: 
+3.2.1 Any supplementary requirements, and 
+3.2.2 Additional requirements, (See 4.5, 5.2, 6.1, 7 .2, 
+and 10.3). 
+4. Materials and Manufacture 
+4.1 The steel shall be produced in accordance with the 
+melting process section of Specification A 788. 
+4.2 Material for forgings shall consist of ingots, or 
+either forged or rolled blooms, billets, or bars. 
+4.3 The finished product shall be a forging as defined 
+in the Terminology Section of Specification A 788. 
+4.4 Except for flanges of all types, hollow cylindrically 
+shaped parts may be made from hot-rolled or forged bar,
+
+=== Page 981 ===
+
+ASME BPVC.II.A-2025 SA-522/SA-522M 
+provided that the axial length of the part is approximately 
+parallel to the metal flow lines of the stock. Except for all 
+types of flanges, elbows, return bends, tees, and header 
+tees, other parts up to and including NPS 4 may be 
+machined from hot-rolled or forged bar. 
+4.5 When specified in the order, the manufacturer shall 
+submit for purchaser's approval a sketch showing the shape 
+of the rough forging before machining. 
+5. Chemical Composition 
+5.1 The steel shall conform to the requirements of 
+Table 1. 
+5.2 If required by the purchaser, product analysis may 
+be performed in accordance with the requirements of 
+A 961. 
+6. Heat Treatment 
+6.1 The forgings shall be heat treated by the manufac­
+turer by either of the following methods as mutually agreed 
+upon between the purchaser and the manufacturer. 
+6.1.1 Quenched and Tempered - Heat to a uniform 
+temperature of 1475 ± 25°F [800 ± 15°C]; hold at this 
+temperature for a minimum time of 1 h/in. [2.5 min/mm] 
+of thickness but in no case less than 30 min; quench by 
+immersion in circulating water. Reheat until the forging 
+attains a uniform temperature within the range from 1050 
+to l 125°F [565 to 605°C]; hold at this temperature for a 
+minimum time of 1 h/in. [2.5 min/mm] of thickness but 
+minimum rate of 300°F [165°C]/h to a temperature not 
+exceeding 600°F [3 l 5°C]. 
+7. Mechanical Properties 
+7.1 Tension Test - Forgings to Types 1 and 2 shall 
+conform to the tensile requirements of Table 2. 
+7 .2 Impact Test - The Charpy impact test requirements 
+in Table 3 shall be met unless Supplementary Requirement 
+S2 of this specification has been specified. 
+7.2.1 The values for energy absorption and the frac­
+ture appearance in percentage of shear fracture for each 
+specimen shall be recorded and reported for information. 
+8. Workmanship, Finish, and Appearance 
+8.1 The forgings shall have a workman-like finish and 
+shall be free of injurious defects. 
+9. Number of Tests and Retests 
+9.1 At least one tension test and one set of Charpy 
+V-notch impact tests shall be made from each heat in each 
+heat-treatment charge. 
+9.2 If the results of the mechanical tests do not conform 
+to the specified requirements, the manufacturer may retreat 
+the forgings, but not more than three additional times. 
+Retreatment involves re-austenitizing the forgings. Retests 
+shall be made in accordance with this section. 
+in no case less than 30 min; cool in air or water quench, 9.3 If the lateral expansion result from one Charpy 
+at a rate not less than 300°F [165°C]/h. impact specimen falls below 0.015 in. [0.38 1mn], but not 
+6.1.2 Double Normalized and Tempered_ Heat to less than 0.010 in. [0.25 mm], and the average test result 
+a uniform temperature of 1650 oF [goooc]; hold at this equals or exceeds 0.015 mm [0.38 1mn], then one retest 
+t t f · · t· f 1 1 ;· [ 2 5 •n1 ] of three additional specimens may be made. The lateral empera ure or a 1mmmum nne o 1 m. . m1 mm . . . f th· k b t · 1 th 30 • . 1 . . expansion obtamed from each of the three retest specimens 
+~~~~o~ 1c ness u 111 no case ess an mm, coo m air. h 11 1 d 0 015 . [0 38 ] 
+Reheat until the forging attains a uniform temperattrre--of--- 2__a~ equ~ or e~~e~-· __ _1:1:,_~_· _ mm • __ 
+1450°F [790°C]; hold at this temperature for a minimum --~~---
+time of 1 h/in. [2.5 min/mm] of thickness but in no case 
+less than 30 min; cool in air. Reheat to a uniform tempera­
+ture within the range from 1050 to 1125°F [565 to 605°C]; 
+hold at this temperature for a minimum time of 1 h/in. 
+[2.5 min/mm] of thickness but in no case less than 30 min; 
+cool in air or water quench, at a rate not less than 300°F 
+[165°C]/h. 
+6.2 When stress relieving is to be performed after fabri­
+cation, the recommended stress-relieving treatment is as 
+follows: gradually and uniformly heat the steel to a temper­
+ature between 1025 and 1085°F [550 and 585°C]; hold for 
+a minimum of 2 h for thicknesses up to I in. [25 mm]. 
+For thicknesses over I in. [25 mm], a minimum additional 
+holding time in the ratio of 1 h/in. [2.5 min/mm] of thick­
+ness in excess of I in. [25 mm] shall be added. Cool at a 
+881 
+10. Test Specimens 
+10.1 The test specimens shall be located at any point 
+midway between the center and surface of solid forgings, 
+and at any point mid-thickness of the heaviest section of 
+hollow or bored forgings. For solid forgings where test 
+metal is provided on the periphery, test specimens shall 
+be taken at mid-thickness of the test prolongation. 
+10.2 Tests shall be oriented so that the longitudinal 
+axis of the specimen is parallel to the major direction of 
+grain flow. 
+10.3 When fabrication requires stress relieving, the 
+purchaser shall specify stress relieving of the test pieces 
+prior to machining of the test specimens. Stress relieving 
+shall be carried out as prescribed in 6.2.
+
+=== Page 982 ===
+
+SA-522/SA-522M ASME BPVC.II.A-2025 
+11. Method of Impact Testing 
+11.1 The impact test shall be made in accordance with 
+the simple beam, Charpy type of test described in the latest 
+issue of Test Methods and Definitions A 370. 
+11.2 Precaution shall be taken so that when broken, 
+the test specimens shall be within ± 3°F [l.7°C] of the 
+specified test temperature. 
+12. Inspection 
+12.1 The inspector representing the purchaser shall 
+have free entry, at all times while work on the contract 
+of the purchaser is being performed, to all parts of the 
+manufacturer's works that concern the manufacture of the 
+material ordered. The manufacturer shall afford the inspec­
+tor all reasonable facilities to satisfy the inspector that 
+the material is being furnished in accordance with this 
+specification. All tests (except product analysis) and 
+inspection shall be made at the place of manufacture prior 
+to shipment, unless otherwise specified, and shall be con­
+ducted so as not to interfere unnecessarily with the opera­
+tion of the works. 
+12.2 The manufacturer shall report to the purchaser or 
+the purchaser's representative the heat treatments applied 
+to the material and to the test blocks and the results of the 
+chemical analysis and mechanical tests made in accordance 
+with this specification and the heat number or his heat 
+identification. 
+13. Rejection 
+13.1 Unless otherwise specified, any rejection based 
+on tests made in accordance with Section 5 and 7 shall be 
+including the impact test temperature, and test coupon 
+stress relief details if applicable, 
+14.1.4 Results of any additional or supplementary 
+requirements specified by the purchaser, and 
+14.1.5 The year date and revision letter, if any, of 
+the specification. Note, this information is not required to 
+be marked on the forgings. 
+15. Product Marking 
+15.1 Each forging shall be legibly stamped by the man­
+ufacturer with the heat number or his heat identification, 
+the manufacturer's name (see Note 1) or trademark, and 
+this specification number, A 522 or A 522M as applicable, 
+8Nl, or 9NI, and QT or NNT as applicable. 
+NOTE 1 - For purposes of identification marking, the manufacturer 
+is considered the organization that certifies the piping component was 
+manufactured, sampled, and tested in accordance with this specification 
+and the results have been determined to meet the requirements of this 
+specification. 
+15.2 Forgings impact tested at a temperature other than 
+that specified in Table 3, by the use of Supplementary 
+Requirement S2, shall be marked with the letters LTV 
+following the specification number, as well as the tempera­
+ture scale used. For forgings to A 522, these letters shall 
+be followed by the impact test temperature in degrees 
+Fahrenheit. A prefix 0 to the test temperature indicates a 
+temperature below 0°F, for example A 522 Type 1 
+LTV0300F indicates -300°F. For forgings to A 522M, the 
+letters LTV shall be followed by the impact test tempera­
+ture in degrees Celsius. A prefix 0 to the test temperature 
+indicates a temperature below 0°C, for example A 522M 
+Type 1 LTV0150C indicates -150°C. 
+reported to the manufacturer within 60 days from the 15.3 The purchaser may specify additional identifica-
+receipt of samples or test reports by the purchaser. tion marking and the location of all stamping. The type of 
+13.2 Each forgingJtLlYhlchJnjurious-m~tal-de-feets--are~~~tamp~-s~aU-be-f0u~d0r--'-'interrupted-ctlot'-'-drestamps nav- -~-------
+exposed during subsequent machining shall be rejected and mg a radms of ~2 m. [0.8 mm]. 
+the manufacturer notified. 
+14. Certification 
+14.1 Test reports, when required, shall include certifi­
+cation that all requirements of this specification have been 
+met. The manufacturer shall provide the following where 
+applicable: 
+14.1.1 Whether Type 1 or Type 11 material has been 
+supplied and the chemical analysis results in accordance 
+with Section 5, 
+14.1.2 Type of heat treatment used, 
+14.1.3 Results of tension and Charpy impact tests 
+(together with absorbed energy and % shear fracture) 
+882 
+15.4 Bar Coding - In addition to the requirements in 
+15.1, 15.2, and 15.3, bar coding is acceptable as a supple­
+mental identification method. The purchaser may specify 
+in the order a specific bar coding system to be used. The 
+bar coding system, if applied at the discretion of the sup­
+plier, should be consistent with one of the published indus­
+try standards for bar coding. If used on small parts, the 
+bar code may be applied to the box or a substantially 
+applied tag. 
+16. Keywords 
+16.1 low temperature applications; nickel alloy steel; 
+pipe fittings; steel; piping applications; pressure containing 
+parts; steel flanges; steel forgings; alloy; steel valves
+
+=== Page 983 ===
+
+ASME BPVC.II.A-2025 SA-522/SA-522M 
+TABLE 1 
+CHEMICAL REQUIREMENTS 
+Composition, % 
+Type I Type II 
+Carbon, max 0.13 0.13 
+Manganese, max 0.90 0.90 
+Phosphorus, max 0.025 0.025 
+Sulfur, max 0.025 0.025 
+SiliconA 0.15-0.30 0.15-0.30 
+Nickel 8.5-9.5 7.5-8.5 
+A When vacuum carbon deoxidation is used, the maximum silicon 
+content shall be 0.10%. 
+TABLE 2 
+TENSILE REQUIREMENTS AT ROOM TEMPERATURE 
+Tensile strength, min., ksi [M Pa] 
+Yield strength, min., (0.2% off-set), ksi [MPaJ 
+Elongation in 2 in. [50 mmJ, min., % 
+Reduction of area, min., % 
+TABLE 3 
+100 [690] 
+75 [515] 
+22 
+45 
+CHARPY V-NOTCH LATERAL EXPANSION 
+REQUIREMENTS FOR STANDARD SIZE [10 X 10 MMJ 
+SPECIMENS 
+Report Absorbed 
+Lateral Temperature Energy and% 
+Type Expansion in. [mm] °F [°Ci Shear Fracture 
+1 0.015 C0.38] -320 [-195] Yes 
+2 0.015 [0.38] -275 [-170] Yes 
+A Except when Supplementary Requirement S2 is specified. 
+883
+
+=== Page 984 ===
+
+SA-522/SA-522M ASME BPVC.II.A-2025 
+SUPPLEMENTARY REQUIREMENTS 
+One or more of the supplementary requirements described below may be included in 
+purchaser's order or contract. When so included, a supplementary requirement shall have 
+the same force as if it were in the body of the specification. Supplementary requirement 
+details not fully described shall be agreed upon between the purchaser and the supplier, 
+but shall not negate any of the requirements in the body of the specification. 
+S1. Nondestructive Tests 
+S1.1 Ultrasonic Tests - Ultrasonic tests·may be made 
+by agreement between manufacturer and purchaser. 
+S1.2 Liquid Penetrant Tests - Liquid penetrant tests 
+may be made by agreement between manufacturer and 
+purchaser. 
+884 
+S2. Other Impact Test Temperatures 
+S2.1 The purchaser may specify an impact test tempera­
+ture higher than that in Table 3 but no higher than the 
+minimum intended operating temperature for the forging. 
+S2.2 Marking shall be in accordance with 15.2.

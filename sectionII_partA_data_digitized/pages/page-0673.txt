@@ -1,0 +1,43 @@
+ASME BPVC.II.A-2025 SA-370 
+c = Clearance of wedge hole 
+d = Diameter of bolt 
+R = Radius 
+10" 
+T = Thickness of wedge at short side of hole equal to one-half diameter of bolt 
+d+c 
+FIG. A3.2 Wedge Test Detail 
+TABLE A3.1 Tension Test Wedge Angles 
+Nominal Product Size, in. 
+¼-1 
+Over 1 
+Bolts 
+10 
+6 
+Degrees 
+Studs and Flange 
+Bolts 
+6 
+4 
+the specimen shall be concentric with the axis of the bolt; the 
+head and threaded section of the bolt may be left intact, as in 
+Fig. A3.3 and Fig. A3.4, or shaped to fit the holders or grips of 
+the testing machine so that the load is applied axially. The 
+gauge length for measuring the elongation shall be four times 
+the diameter of the specimen. 
+621 
+(2) For bolts 1½ in. and over in nominal diameter, a 
+standard ½-in. round 2-in. gauge length test specimen shall be 
+turned from the bolt, having its axis midway between the 
+center and outside surface of the body of the bolt as shown in 
+Fig. A3.5. 
+( 3) Machined specimens are to be tested in tension to 
+determine the properties prescribed by the product specifica­
+tions. The methods of testing and determination of properties 
+shall be in accordance with Section 14 of these test methods. 
+A3.3 Hardness Tests for Externally Threaded Fasteners 
+A3.3.1 When specified, externally threaded fasteners shall 
+be hardness tested. Fasteners with hexagonal or square heads 
+shall be Brinell or Rockwell hardness tested. For hexagonal 
+and square head bolts, test shall be conducted on the wrench 
+flats, top of head, unthreaded shank, end of bolt or at the 
+arbitration location. For studs, products without parallel 

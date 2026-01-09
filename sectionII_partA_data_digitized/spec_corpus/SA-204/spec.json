@@ -1,0 +1,436 @@
+{
+  "createdUtc": "2026-01-09T00:14:01.662444+00:00",
+  "spec": "SA-204",
+  "rangeStart": 317,
+  "rangeEnd": 366,
+  "pages": [
+    {
+      "globalPageIndex": 317,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 317,
+      "textPath": "best_text\\pages\\page-0317.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 318,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 318,
+      "textPath": "best_text\\pages\\page-0318.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 319,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 319,
+      "textPath": "best_text\\pages\\page-0319.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0319.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0319.csv"
+      }
+    },
+    {
+      "globalPageIndex": 320,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 320,
+      "textPath": "best_text\\pages\\page-0320.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 321,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 321,
+      "textPath": "best_text\\pages\\page-0321.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 322,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 322,
+      "textPath": "best_text\\pages\\page-0322.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0322.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0322.csv"
+      }
+    },
+    {
+      "globalPageIndex": 323,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 323,
+      "textPath": "best_text\\pages\\page-0323.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0323.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0323.csv"
+      }
+    },
+    {
+      "globalPageIndex": 324,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 324,
+      "textPath": "best_text\\pages\\page-0324.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 325,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 325,
+      "textPath": "best_text\\pages\\page-0325.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 326,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 326,
+      "textPath": "best_text\\pages\\page-0326.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0326.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0326.csv",
+        "noteTargetFiles": [
+          "note_target_ocr\\page-0326-note-01.txt"
+        ]
+      }
+    },
+    {
+      "globalPageIndex": 327,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 327,
+      "textPath": "best_text\\pages\\page-0327.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0327.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0327.csv",
+        "camelotTablesJson": "camelot_tables\\page-0327.json",
+        "camelotTablesCsv": "camelot_tables\\page-0327.csv"
+      }
+    },
+    {
+      "globalPageIndex": 328,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 328,
+      "textPath": "best_text\\pages\\page-0328.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0328.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0328.csv"
+      }
+    },
+    {
+      "globalPageIndex": 329,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 329,
+      "textPath": "best_text\\pages\\page-0329.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0329.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0329.csv"
+      }
+    },
+    {
+      "globalPageIndex": 330,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 330,
+      "textPath": "best_text\\pages\\page-0330.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0330.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0330.csv"
+      }
+    },
+    {
+      "globalPageIndex": 331,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 331,
+      "textPath": "best_text\\pages\\page-0331.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0331.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0331.csv"
+      }
+    },
+    {
+      "globalPageIndex": 332,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 332,
+      "textPath": "best_text\\pages\\page-0332.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0332.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0332.csv"
+      }
+    },
+    {
+      "globalPageIndex": 333,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 333,
+      "textPath": "best_text\\pages\\page-0333.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0333.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0333.csv"
+      }
+    },
+    {
+      "globalPageIndex": 334,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 334,
+      "textPath": "best_text\\pages\\page-0334.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0334.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0334.csv"
+      }
+    },
+    {
+      "globalPageIndex": 335,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 335,
+      "textPath": "best_text\\pages\\page-0335.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0335.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0335.csv"
+      }
+    },
+    {
+      "globalPageIndex": 336,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 336,
+      "textPath": "best_text\\pages\\page-0336.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0336.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0336.csv"
+      }
+    },
+    {
+      "globalPageIndex": 337,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 337,
+      "textPath": "best_text\\pages\\page-0337.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0337.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0337.csv"
+      }
+    },
+    {
+      "globalPageIndex": 338,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 338,
+      "textPath": "best_text\\pages\\page-0338.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0338.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0338.csv"
+      }
+    },
+    {
+      "globalPageIndex": 339,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 339,
+      "textPath": "best_text\\pages\\page-0339.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0339.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0339.csv"
+      }
+    },
+    {
+      "globalPageIndex": 340,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 340,
+      "textPath": "best_text\\pages\\page-0340.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0340.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0340.csv"
+      }
+    },
+    {
+      "globalPageIndex": 341,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 341,
+      "textPath": "best_text\\pages\\page-0341.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0341.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0341.csv"
+      }
+    },
+    {
+      "globalPageIndex": 342,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 342,
+      "textPath": "best_text\\pages\\page-0342.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0342.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0342.csv"
+      }
+    },
+    {
+      "globalPageIndex": 343,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 343,
+      "textPath": "best_text\\pages\\page-0343.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0343.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0343.csv",
+        "camelotTablesJson": "camelot_tables\\page-0343.json",
+        "camelotTablesCsv": "camelot_tables\\page-0343.csv"
+      }
+    },
+    {
+      "globalPageIndex": 344,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 344,
+      "textPath": "best_text\\pages\\page-0344.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0344.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0344.csv",
+        "camelotTablesJson": "camelot_tables\\page-0344.json",
+        "camelotTablesCsv": "camelot_tables\\page-0344.csv"
+      }
+    },
+    {
+      "globalPageIndex": 345,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 345,
+      "textPath": "best_text\\pages\\page-0345.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 347,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 347,
+      "textPath": "best_text\\pages\\page-0347.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 348,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 348,
+      "textPath": "best_text\\pages\\page-0348.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 349,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 349,
+      "textPath": "best_text\\pages\\page-0349.txt",
+      "assets": {
+        "camelotTablesJson": "camelot_tables\\page-0349.json",
+        "camelotTablesCsv": "camelot_tables\\page-0349.csv"
+      }
+    },
+    {
+      "globalPageIndex": 351,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 351,
+      "textPath": "best_text\\pages\\page-0351.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0351.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0351.csv"
+      }
+    },
+    {
+      "globalPageIndex": 352,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 352,
+      "textPath": "best_text\\pages\\page-0352.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 353,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 353,
+      "textPath": "best_text\\pages\\page-0353.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0353.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0353.csv"
+      }
+    },
+    {
+      "globalPageIndex": 354,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 354,
+      "textPath": "best_text\\pages\\page-0354.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 355,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 355,
+      "textPath": "best_text\\pages\\page-0355.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 357,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 357,
+      "textPath": "best_text\\pages\\page-0357.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0357.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0357.csv"
+      }
+    },
+    {
+      "globalPageIndex": 358,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 358,
+      "textPath": "best_text\\pages\\page-0358.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 359,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 359,
+      "textPath": "best_text\\pages\\page-0359.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0359.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0359.csv"
+      }
+    },
+    {
+      "globalPageIndex": 360,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 360,
+      "textPath": "best_text\\pages\\page-0360.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0360.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0360.csv",
+        "noteTargetFiles": [
+          "note_target_ocr\\page-0360-note-04.txt"
+        ]
+      }
+    },
+    {
+      "globalPageIndex": 361,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 361,
+      "textPath": "best_text\\pages\\page-0361.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 362,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 362,
+      "textPath": "best_text\\pages\\page-0362.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 363,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 363,
+      "textPath": "best_text\\pages\\page-0363.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 364,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 364,
+      "textPath": "best_text\\pages\\page-0364.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 365,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 365,
+      "textPath": "best_text\\pages\\page-0365.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0365.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0365.csv"
+      }
+    },
+    {
+      "globalPageIndex": 366,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 366,
+      "textPath": "best_text\\pages\\page-0366.txt",
+      "assets": {}
+    }
+  ]
+}

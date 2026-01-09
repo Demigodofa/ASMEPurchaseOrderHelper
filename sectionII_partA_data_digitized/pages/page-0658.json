@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 658,
+  "globalPageIndex": 658,
+  "width": 614.16,
+  "height": 855.0,
+  "text": "SA-370 ASME BPVC.II.A-2025 \nTABLE 8 Percent Shear for Measurements Made in Millimetres \nNorn 1-Since this table is set up for finite measurements or dimensions A and B, 100 % shear is to be reported when either A or Bis zero. \nDimen- Dimension A, mm \nsion \nB, mm 1.0 1.5 2.0 2.5 3.0 3.5 4.0 4.5 5.0 5.5 6.0 6.5 7.0 7.5 8.0 8.5 9.0 9.5 10 \n1.0 99 98 98 97 96 96 95 94 94 93 92 92 91 91 90 89 89 88 88 \n1.5 98 97 96 95 94 93 92 92 91 90 89 88 87 86 85 84 83 82 81 \n2.0 98 96 95 94 92 91 90 89 88 86 85 84 82 81 80 79 77 76 75 \n2.5 97 95 94 92 91 89 88 86 84 83 81 80 78 77 75 73 72 70 69 \n3.0 96 94 92 91 89 87 85 83 81 79 77 76 74 72 70 68 66 64 62 \n3.5 96 93 91 89 87 85 82 80 78 76 74 72 69 67 65 63 61 58 56 \n4.0 95 92 90 88 85 82 80 77 75 72 70 67 65 62 60 57 55 52 50 \n4.5 94 92 89 86 83 80 77 75 72 69 66 63 61 58 55 52 49 46 44 \n5.0 94 91 88 85 81 78 75 72 69 66 62 59 56 53 50 47 44 41 37 \n5.5 93 90 86 83 79 76 72 69 66 62 59 55 52 48 45 42 38 35 31 \n6.0 92 89 85 81 77 74 70 66 62 59 55 51 47 44 40 36 33 29 25 \n6.5 92 88 84 80 76 72 67 63 59 55 51 47 43 39 35 31 27 23 19 \n7.0 91 87 82 78 74 69 65 61 56 52 47 43 39 34 30 26 21 17 12 \n7.5 91 86 81 77 72 67 62 58 53 48 44 39 34 30 25 20 16 11 6 \n8.0 90 85 80 75 70 65 60 55 50 45 40 35 30 25 20 15 10 5 0 \n(a) Shear Fracture Appearance Charts \n\u25a1\u25a1\u25a1\u25a1 EiEiEiEiri \n10 20 30 ~ 50 6() 711 8(1 90 \n(b) .Guide for E$tlmatl!lg shear Fracture Appearance \nFIG. 14 Fracture Appearance Charts and Percent Shear Fracture Comparator \nthe unbroken specimen (prior to bending) is equal to or greater \nthan that measured for the separated halves. In the case where \na specimen cannot be separated into two halves, the lateral \nexpansion can be measured as long as the shear lips can be \naccessed without interference from the hinged ligament that \nhas been deformed during testing. \n27. Interpretation of Test Result \n27.1 When the acceptance criterion of any impact test is \nspecified to be a minimum average value at a given \ntemperature, the test result shall be the average (arithmetic \nmean rounded to the nearest ft-lbf (J)) of the individual test \nvalues of three specimens from one test location. \n27.1.1 When a minimum average test result is specified: \n27 .1.1.1 The test result is acceptable when all of the below \nare met: \n606 \n( 1) The test result equals or exceeds the specified minimum \naverage (given in the specification), \n(2) The individual test value for not more than one speci\u00ad\nmen measures less than the specified minimum average, and \n( 3) The individual test value for any specimen measures \nnot less than two-thirds of the specified minimum average. \n27.1.1.2 If the acceptance requirements of 27.1.1.1 are not \nmet, perform one retest of three additional specimens from the \nsame test location. Each individual test value of the retested \nspecimens shall be equal to or greater than the specified \nminimum average value. \n27 .2 Test Specifying a Minimum Transition Temperature: \n27.2.l Determination of Transition Temperature: \n27 .2.1.1 Break one specimen at each of a series of tempera\u00ad\ntures above and below the anticipated transition temperature ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0658.json",
+  "tabulaTablesCsv": "tables_tabula/page-0658.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0658.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 3120,
+  "bestTextAlphaRatio": 0.508
+}

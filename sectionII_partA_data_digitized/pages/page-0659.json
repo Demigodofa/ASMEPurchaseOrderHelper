@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 659,
+  "globalPageIndex": 659,
+  "width": 615.84,
+  "height": 856.2,
+  "text": "ASME BPVC.II.A-2025 SA-370 \nFIG. 15 Halves of Broken Charpy V-notch Impact Specimen Joined for Measurement of Lateral Expansion, Dimension A \nFIG. 16 Lateral Expansion Gauge for Charpy Impact Specimens \n607 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-0659.txt",
+  "ocrTextLength": 213,
+  "ocrApplied": true,
+  "bestTextPath": "best_text/pages/page-0659.txt",
+  "bestTextSource": "ocr",
+  "bestTextLength": 213,
+  "bestTextAlphaRatio": 0.723
+}

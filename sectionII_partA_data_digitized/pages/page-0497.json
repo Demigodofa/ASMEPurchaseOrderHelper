@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 497,
+  "globalPageIndex": 497,
+  "width": 596.16,
+  "height": 841.8,
+  "text": "ASME BPVC.II.A-2025 SA-311/SA-311M \nSPECIFICATION FOR COLD-DRAWN, STRESS-RELIEVED \nCARBON STEEL BARS SUBJECT TO MECHANICAL \nPROPERTY REQUIREMENTS \nSA-311/SA-311M \n(Identical with ASTM Specification A311/A311M-04(2015) except for deletion of 5.1.11, revision of Note A to Table 1 \nand an editorial change to 5.1.9. Certification has been made mandatory in 11.1.) \n445 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0497.json",
+  "tabulaTablesCsv": "tables_tabula/page-0497.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text\\pages\\page-0497.txt",
+  "bestTextSource": "full_ocr_highdpi",
+  "bestTextLength": 369,
+  "bestTextAlphaRatio": 0.68
+}

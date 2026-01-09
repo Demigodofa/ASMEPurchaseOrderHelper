@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 187,
+  "globalPageIndex": 187,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "ASME BPVC.II.A-2025 \nFIG. 3 MACHINED TENSION TEST SPECIMEN \nMinimum radius recommended 3/s in. (10 mm), \nbut not less than 1/a in. (3 mm) permitted. \n2 1 hin. \n(57.0 mm) \n2 in. \u00b1 0.005 in. \n(50 mm\u00b1 0.13 mm) \nGage length \nSA-47 /SA-47M \nNOTE l' - The gage length and fillets shall be as shown, but the ends may be of any shape to fit the holders of the testing machine in such \na way that the load shall be axial. The reduced section shall have a gradual taper from the ends toward the center, with the ends 0.003 to \n0.005 in. [0.08 to 0.13 mm] larger in diameter than the center. \n135 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 1,
+  "bestTextPath": "best_text/pages/page-0187.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 586,
+  "bestTextAlphaRatio": 0.6365
+}

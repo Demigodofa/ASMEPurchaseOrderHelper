@@ -1,0 +1,20 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 475,
+  "globalPageIndex": 1273,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "ASME BPVC.II.A-2025 SA-736/SA-736M \nTABLE 1 Chemical Requirements \nElement \nCarbon, max \nHeat analysis \nProduct analysis \nManganese \nHeat analysis \nProduct analysis \nPhosphorus, maxA \nSulfur, maxA \nSilicon, max \nHeat analysis \nProduct analysis \nChromium \nHeat analysis \nProduct analysis \nNickel \nHeat analysis \nProduct analysis \nMolybdenum \nHeat analysis \nProduct analysis \nCopper \nHeat analysis \nProduct analysis \nColumbium (Niobium), 8 min \nHeat analysis \nProduct analysis \nComposition, % \nGrade A \n0.07 \n0.09 \n0.40-0.70 \n0.35-0.78 \n0.025 \n0.025 \n0.40 \n0.45 \n0.60-0.90 \n0.56--0.94 \n0.70-1.00 \n0.67-1.03 \n0.15-0.25 \n0.12--0.28 \n1.00-1.30 \n0.95-1.35 \n0.02 \n0.01 \nA Applies to both heat analysis and product analysis. \n8 Columbium and niobium are Interchangeable namei;; for the same element and \nboth names are acceptable in A01 specifications. \nand then precipitation heat treated at a temperature in the range \nfrom 1000 to 1300\u00b0F [540 to 705\u00b0C] for a time to be \ndetermined by the manufacturer or processor. \n5.2 If the purchaser elects to perform the thermal treatment, \nthe plates shall be accepted on the basis of mill tests made from \ntest coupons heat treated as specified in the purchase order. If \nthe test coupon heat treatment requirements are not specified in \nthe purchase order, the manufacturer or processor shall heat \ntreat the test coupons under conditions it considers appropriate. \nThe manufacturer or processor shall inform the purchaser of \nthe procedure followed in thermally treating tpe test coupons at \nthe mill. ' \n6. Chemical Composition \n6.1 The steel shall conform to the requirements as to \nchemical composition given in Table 1. \nTABLE 2 Tensile Requirements \nYield strength, min \n% in. and under \n[20 mm and under] \nOver % to 1 in., incl \n[Over 20 to 25 mm, incl] \nOver 1 to 2 in., incl \n[Over 25 to 50 mm, incl] \nOver 2 to 4 in., incl \n[Over 50 to 100 mm, incl] \nOver 4 in. \n[Over 100 mm] \nTensile strength \n% in. and under \n[20 mm and under] \nOver % to 1 in., incl \n[Over 20 to 25 mm, incl] \nOver 1 to 2 in., incl \n[Over 25 to 50 mm, incl] \nOver 2 to 4 in., incl \n[Over 50 to 100 mm, incl] \nOver 4 in. \n[Over 100 mm] \nElongation \n2 in. [50 mm], min, %A \nA See Specification A20/A20M for elongation adjustment. \n7. Mechanical Properties \n7 .1 Tension Test: \nGrade A \nClass 3, \nksi [MPa] \n75 \n[515] \n75 \n[515] \n75 \n[515] \n65 \n[450] \n60 \n[415] \n85-105 \n[585-725] \n85-105 \n[585-725] \n85-105 \n[585-725] \n75-95 \n[515-655] \n70-90 \n[485-620] \n20 \n7 .1.1 The plates, as represented by the test specimens, shall \nconform to the requirements given in Table 2. \n7.1.2 For nominal plate thicknesses of\u00be in. [20 mm] and \nunder, the 1 \u00bd-in. [40-mm] wide rectangular test specimen may \nbe used for the tension test, and the elongation may be \ndetermined in a 2-in. [50-mm] gage length that includes the \nfracture and shows the greatest elongation. \n7.2 Notch-Toughness Test: \n7.2.1 Charpy V-notch impact tests shall be made in accor\u00ad\ndance with Specification A20/ A20M. \n7.2.2 The test results of 10 by 10-mm specimens shall meet \nan average minimum value of20 ft\u00b7lbf [27 J] at-50\u00b0F [-45\u00b0C]. \n8. Keywords \n8.1 alloy steel; alloy steel plate; pressure vessel plate; low \ncarbon; age hardening; pressure vessels; piping components; \nprecipitation heat treated; nickel-copper-chromium\u00ad\nmolybdenum-columbium (niobium) \n1195 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1273.json",
+  "tabulaTablesCsv": "tables_tabula/page-1273.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text\\pages\\page-1273.txt",
+  "bestTextSource": "full_ocr_highdpi",
+  "bestTextLength": 3247,
+  "bestTextAlphaRatio": 0.644,
+  "gapOcrHighDpiPath": "gap_ocr_highdpi/page-1273.txt",
+  "gapOcrHighDpiLength": 3260
+}

@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 894,
+  "globalPageIndex": 1692,
+  "width": 648.0,
+  "height": 821.04,
+  "text": "__ ,----,,. ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-1692.txt",
+  "ocrTextLength": 0,
+  "ocrApplied": true,
+  "bestTextPath": "best_text/pages/page-1692.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 12,
+  "bestTextAlphaRatio": 0.0
+}

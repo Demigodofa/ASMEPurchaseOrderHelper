@@ -1,0 +1,196 @@
+SA-484/SA-484M ASME BPVC.II.A-2025 
+TABLE 2 Annealing Requirements 
+Designationffype 
+All austenitic grades except as listed below 
+All Cr-Ni-Mn grades, 
+302, S30215, S30452, S30600, S30615, 308, S30815, 
+S30880, 309, 309S, 310, 310S, 314,317, S31725, 
+S31726,S32615, S38100 
+309Cb,310Cb,316Cb,316Ti,321,347,348 
+304H,309H,310H,316H 
+321H, 347H,348H 
+Hot-worked 
+Cold-worked 
+S31254,S32050 
+S31727, S32053 
+S33228 
+S34565 
+S34752 
+S35315 
+N08367 
+N08700 
+N08020 
+N08810 
+N08811 
+N08904 
+N08925, N08926 
+S32100 
+S31260 
+S31266 
+S31803 
+S32101 
+S32202 
+S32205 
+S32304 
+S32506 
+S32550 
+S32750 
+S32760 
+S32808 
+S32900 
+S32906 
+832950 
+S82441 
+TemperatureA 
+Austenitic (Chromium-Nickel) 
+(Chromium-Nickel-Manganese) 
+1900 °F [1040 °C] 
+1900 °F [1040 °C] 
+1900 °F [1040 "CJ 
+1900 °F [1040 "CJ 
+1925 °F [1050 °C] 
+2000 °F [1095 °C] 
+2100 °F [1150 °C] 
+1975 to 2155 °F [1080° to 1180 °C] 
+2050 to 2140 °F [1120° to 1170 °C] 
+2050 to 2140 °F [1120° to 1170 °C] 
+1940 to 2140 °F [1060° to 1170 °C] 
+2010 °F [1100 "CJ 
+2025 °F [1105 °C] 
+2000 °F [1095 °C] 
+1700 to 1850 °F [930 to 101 o °C] 
+2050 °F [1120 "Cl 
+2100 °F [1150 "Cl 
+2000 'F [1095 °Cl 
+2010 to 2100 °F [1100 to 1150 "Cl 
+Austenitic-Ferritic 
+(Du lex) 
+1900 °F [1040 °C] 
+1870° to 201 o °F [1020° to 1100 "Cl 
+2100 °F [1150 °Cl 
+1900 °F [1040 'CJ 
+1870 °F [1020 "Cl 
+1800 to 1975 °F [980 to 1080 °C] 
+1900 °F [1040 °C] 
+1800 °F [980 °C] 
+1870° to 2050 °F [1020° to 1120 °Cl 
+1900 'F [1040 °CJ 
+1880 °F [1025 °CJ 
+2010 °F [1100 °C] 
+1925 to 2100 °F [1050 to 1150 'Cl 
+1750° ± 25 °F [955°± 15 °C] 
+1830° to 2100 °F [1000° to 1150 'CJ 
+1850° ± 25 °F [1010°± 15 °Cl 
+1830 °F [1000 °C] 
+A Minimum annealing temperature unless otherwise specified. 
+8 Permitted annealing procedure, see 7.2.2. 
+Coolingffesting 
+Requirements 
+C 
+E 
+E 
+E 
+E 
+E 
+E 
+E 
+E 
+E 
+E 
+E 
+E 
+E 
+E 
+E 
+E 
+E 
+E 
+E 
+E 
+E 
+E 
+E 
+E 
+G 
+E 
+E 
+E 
+E 
+E 
+E 
+E 
+E 
+E 
+E 
+Permitted Annealing 8 
+Separate Process 
+X XD 
+X XD 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X XF 
+X XF 
+X 
+X XF 
+X XF 
+X XF 
+X XF 
+X XF 
+X XF 
+X XF 
+X XF 
+X XF 
+X XF 
+X XF 
+X XF 
+X XF 
+X XF 
+c Quenched in water or rapidly cooled by other means at a rate sufficient to prevent reprecipitation of carbides, as demonstrable by the capability of passing Practice E 
+of Practices A262. Performance of the test is not required unless specified in the purchase order. 
+0 Minimum temperature at which hot rolling is completed shall be 1850 °F [101 o °C]. 
+E Quenched in water or rapidly cooled by other means. 
+F Minimum temperature at which hot rolling is completed shall be the minimum temperature for separate annealing. 
+G Quenched in water. 
+Practices A262. Practice E of Practices A262 is not required 
+unless specified on the purchase order. 
+7 .2.4.1 Individual product specifications are permitted to 
+define particular strain hardened conditions as functions of 
+grade, size, and degree of strain hardening. 
+7.2.5 Hot-rolled Austenitic Grades-Individual product 
+specifications are permitted to define requirements for particu­
+lar hot-rolled austenitic grades without annealing. 
+7.2.6 Except when strain-hardened (see 7.2.4), UNS 
+N08020 shall be furnished in the stabilized annealed condition 
+in accordance with Table 2, with subsequent light cold drawing 
+for cold finishing and straightening permitted. 
+7.3 Austenitic-Ferritic (Duplex) Grades: 
+818 
+7.3.1 The austenitic-ferritic (duplex) grades shall be fur­
+nished in the solution annealed condition in accordance with 
+Table 2, with subsequent light cold drawing for cold finishing 
+and straightening permitted. 
+7.3.2 Except as indicated in Table 2, the duplex grades shall 
+be annealed, at the option of the manufacturer, by a separate 
+annealing treatment or by process annealing. 
+7.3.2.1 The separate annealing treatment shall consist of 
+heating the material to the minimum annealing temperature for 
+the grade as listed in Table 2, holding for a sufficient time to 
+permit dissolution of intermetallic phases, and cooling rapidly 
+enough to prevent unacceptable precipitation of intermetallic 
+phases. 
+,~, 

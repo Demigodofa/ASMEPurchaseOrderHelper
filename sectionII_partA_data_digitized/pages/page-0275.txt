@@ -1,0 +1,111 @@
+ASME BPVC.II.A-2025 SA-182/SA-182M (ASTM A182/A182M) 
+tested, in the hardened condition (see 3.2.1), to ensure that the 
+forgings are within the hardness limit given for F 23 in Note P 
+of Table 2. The test samples shall be taken at the mid thickness 
+of the thickest section of the product. Testing shall be per­
+formed in accordance with the Test Method E92 or as specified 
+in Specification A961/A961M. 
+9.7 Notch Toughness Requirements-Grades F 3V, F 3VCb, 
+and F22V. 
+9.7.1 Impact test specimens shall be Charpy V-notch Type. 
+The usage of subsize specimens due to material limitations 
+must have prior purchaser approval. 
+9.7.2 The Charpy V-notch test specimens shall be obtained 
+as required for tension tests in 9.2, 9.3, and 9.5. One set of three 
+Charpy V-notch specimens shall be taken from each tensile 
+specimen location. 
+9.7.3 The longitudinal axis and mid-length of impact speci­
+men shall be located similarly to the longitudinal axis of the 
+tension test specimens. The axis of the notch shall be normal to 
+the nearest heat-treated surface of the forging. 
+9.7.4 The Charpy V-notch tests shall meet a minimum 
+energy absorption value of 40 ft-lbf [54 J] average of three 
+specimens. One specimen only in one set may be below 40 
+ft-lbf [54 J], and it shall meet a minimum value of 35 ft-lbf [48 
+J]. 
+9.7.5 The impact test temperature shall be O °F [-18 °C]. 
+10. Grain Size for Austenitic Grades 
+10.1 All H grades and grade F 63 shall be tested for average 
+grain size by Test Methods El 12. 
+10.1.1 Grades F 304H, F 309H, F 310H, and F 316H shall 
+have a grain size of ASTM No. 6 or coarser. 
+10.1.2 Grades F 321H, F 347H, and F 348H shall have a 
+grain size of ASTM No. 7 or coarser. 
+10.1.3 Grade F 63 shall have a grain size of ASTM No. 3 or 
+finer. 
+10.1.4 Annealed Alloys UNS N08810 and UNS N08811 
+shall conform to an average grain size of ASTM No. 5 or 
+coarser. 
+11. Corrosion Testing for Austenitic Grades and 
+Detrimental Phase Detection in Austenitic/Ferritic 
+Stainless Grades 
+11.1 Corrosion testing is not required by this specification 
+nor is detrimental phase detection. 
+11.2 Austenitic grades shall be capable of meeting the 
+intergranular corrosion test requirements described in Supple­
+mentary Requirement S4. 
+11.3 Austenitic/Ferritic Stainless grades shall be capable of 
+meeting the requirements described in Supplementary Require­
+ment S 12 if the subject grade is included in the specifications 
+listed in Supplementary Requirement Sl2. 
+12. Retreatment 
+12.1 If the results of the mechanical tests do not conform to 
+the requirements specified, the manufacturer may reheat treat 
+the forgings and repeat the tests specified in Section 9. 
+13. Nondestructive Test Requirements 
+13.1 Hollow forgings of Grades F 91 Types 1 and 2, F 92, 
+F 115, F 122, and F 911, NPS 4 [DIN 100] and larger, whose 
+finished internal surfaces are not accessible to magnetic par­
+ticle or liquid penetrant examination, shall be examined by an 
+ultrasonic test in accordance with Practice A388/A388M, after 
+all forging, mechanical processing, and heat treatment opera­
+tions have been completed. 
+13.2 Hollow forgings of Grades F 91 Types 1 and 2, F 92, 
+F 115, F 122, and F 911, NPS 4 [DIN 100] and larger, whose 
+finished internal surfaces are accessible to magnetic particle or 
+liquid penetrant examination, shall be examined on their 
+internal surfaces by either a magnetic particle test in accor­
+dance with Practice A275/A275M, or by a liquid penetrant 
+examination in accordance with Test Method E165/El65M, as 
+applicable, after all heat treatment, machining, and other 
+mechanical processing operations are completed. 
+13.3 Time of Examination-Examination by one of the 
+methods in 13 .1 or 13 .2, for specification acceptance, shall be 
+performed as specified in 13.1 or 13.2. This requirement does 
+not preclude additional testing at earlier stages in the process­
+ing. 
+13.4 Evaluation of Impe,fections Found by Ultrasonic' Ex­
+amination: 
+13 .4.1 Forgings producing a signal equal to or greater than 
+the lowest signal produced by the reference discontinuities 
+shall be identified and separated from the acceptable forgings. 
+The area producing the signal may be reexamined. 
+13.4.2 Such forgings shall be rejected if the test signals were 
+produced by impetfections that cannot be identified or were 
+produced by cracks or crack-like imperfections. Such forgings 
+may be repaired. To be accepted, a repaired forging shall pass 
+the same nondestructive test by which it was rejected, and it 
+shall meet the minimum wall thickness requirements of this 
+specification and the purchase order. 
+13.4.3 If the test signals were produced by visual imperfec­
+tions such as scratches, surface roughness, dings, tooling 
+marks, cutting chips, steel die stamps, or stop marks, the 
+forging is permitted to be accepted based upon visual exami­
+nation provided that the depth of the imperfection is less than 
+0.004 in. [0.1 mm] or 12.5 % of the specified wall thickness, 
+whichever is the greater. 
+13.5 Treatment of Impe,fections Found by Magnetic Par­
+ticle or Liquid Penetrant Examination: 
+13.5.1 Defects shall be completely removed prior to weld 
+repair by chipping or grinding to sound metal. Removal of 
+these defects shall be verified by magnetic particle inspection 
+in accordance with Test Method A275/A275M or by liquid 
+penetrant inspection in accordance with Test Method E165/ 
+E165M. 
+13.5.2 Rejected forgings may be reconditioned and retested, 
+provided that the wall thickness is not decreased to less than 
+that required by this specification and the purchase order. The 
+outside diameter at the point of grinding may be reduced by the 
+amount so removed. To be accepted, retested forgings shall 
+meet the test requirement. 
+223 

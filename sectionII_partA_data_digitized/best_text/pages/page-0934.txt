@@ -1,0 +1,36 @@
+SA-487 /SA-487M ASME BPVC.II.A-2025 
+S1. Unspecified Elements 
+S4. Magnetic Particle Inspection 
+S5. Radiographic Inspection 
+S8. Charpy Impact Test 
+S8.1 In addition to the requirements listed in S8 of Speci­
+fications A703/A703M and A985/A985M, the following spe­
+cific requirements apply to this specification: 
+S8.1.1 When S8 is specified for Grades lB, 2B, 4B, 6B, 7 A, 
+8B, 9B, or lOB, impact properties shall be determined by 
+performing a Charpy V-notch impact test at -50 °F [-46 °C] 
+with a specific minimum average value of 15 ft-lb [20 J] and a 
+specified minimum single value of 10 ft-lb [14 J]. Other 
+temperatures may be used upon agreement between the manu­
+facturer and the purchaser, in which case S8.1.3 shall apply. 
+Other higher specified minimum average and single values 
+may be used upon agreement between the manufacturer and the 
+purchaser. 
+S8.1.2 Impact requirements for grades other than lB, 2B, 
+4B, 6B, 7 A, 8B, 9B, and lOB shall be agreed upon between the 
+manufacturer and the purchaser. 
+S8.1.3 When an impact test temperature other than -50 °F 
+[-46 °C] is used for those grades listed in S8.1.1, the lowest 
+test . temperature at which the material meets the impact 
+requrrements shall be stamped with low-stress stamps imme­
+diately ahead of the material symbol on the raised pad (for 
+example, 25 lOB for +25 °F [-4 °C] and 025 lOB for -25 °F 
+[-32 °C]). 
+S10. Examination of Weld Preparation 
+S10.1 The method of performing the magnetic particle or 
+liquid penetrant test shall be in accordance with Guide E709 or 
+Practice E165/E165M. 
+834 
+S26. Alternate Tension Test Coupons and Specimen Loca­
+tions for Castings 
+S27. Hot Isostatic Pressing (HIPing) 

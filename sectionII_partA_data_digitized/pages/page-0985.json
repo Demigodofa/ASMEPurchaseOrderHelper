@@ -1,0 +1,21 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 187,
+  "globalPageIndex": 985,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "ASME BPVC.II.A-2025 SA-524/SA-524M \nSPECIFICATION FOR SEAMLESS CARBON STEEL PIPE \nFOR ATMOSPHERIC AND LOWER TEMPERATURES \nSA-524/SA-524M \n(Identical with ASTM Specification A524/ A524M-21 except for the deletion of alternate elongation and deletion of SI \nUnits from Table 2 Note on Grade I.) \n885 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-0985.txt",
+  "ocrTextLength": 304,
+  "ocrApplied": true,
+  "tabulaTablesPath": "tables_tabula/page-0985.json",
+  "tabulaTablesCsv": "tables_tabula/page-0985.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-0985.txt",
+  "bestTextSource": "ocr",
+  "bestTextLength": 304,
+  "bestTextAlphaRatio": 0.7039
+}

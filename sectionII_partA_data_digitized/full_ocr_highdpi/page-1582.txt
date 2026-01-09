@@ -1,0 +1,79 @@
+SA-1016/SA-1016M ASME BPVC.II.A-2025 :
+5.1.12 Special requirements or any supplementary — may be up to about 5 % less, and that made of austenitic stainless steel up a,
+requirements, or both. to about 2 % greater than the values given. Mass of ferritic/austenitic
+(duplex) stainless steel will be intermediate to the mass of fully austenitic
+
+6. Chemical Composition and fully ferritic stainless steel tubing.
+6.1 Chemical Analvsis—Samples for chemical analvs: d 8.2 The permitted variations from the calculated mass per
++ Chemical Anatysis-——samMples Lor chemical anarysis, an foot [kilogram per metre] shall be as prescribed in Table 1. .
+method of analysis, shall be in accordance with Test Methods, : |
+Practices, and Terminology A751. 9, Permitted Variations in Wall Thickness :
+
+6.2 Heat Analysis—An analysis of each heat of steel shall be 9.1 Variations from the specified minimum wall thickness
+made by the steel manufacturer to determine the percentages of — ghaj} not exceed the amounts prescribed in.Table 2.
+the elements specified. If secondary melting processes are :
+employed, the heat analysis shall be obtained from one 9.2 For tubes 2 in. [50 mm] and over in outside diameter and
+remelted ingot or the product of one remelted ingot of each 0.220 in. [5.6 mm] and over in thickness, the variation in wall ;
+primary melt. The chemical composition thus determined, or thickness in any one cross section of any one tube shall not
+that determined from a product analysis made by the tubular  ©XCeed the following percentage of the actual mean wall at the |
+product manufacturer, shall conform to the requirements speci- section. The actual mean wall Is defined as the average of the a
+fied in the product specification. thickest and thinnest wall in that section.
+
+6.2.1 For steels ordered under product specifications refer- veamess tubes +10 % |
+encing this specification of general requirements, the steel shall eldied tubes #5 |
+not contain an unspecified element, other than nitrogen for 9.3 When cold-finished tubes as ordered require wall thick-
+stainless steels, for the ordered grade to the extent that the steel nesses in. [19.1 mm] or over, or an inside diameter 60 % or
+conforms to the requirements of another grade for which that less of the outside diameter, the permitted variations in wall
+element is a specified element having a required minimum thickness for hot-finished tubes shall apply. , :
+content. For this requirement, a grade is defined as an alloy ; ee ; ;
+described individually and identified by its own UNS designa- 10. Permitted Variations in Outside Diameter
+tion in a table of chemical requirements within any specifica- 10.1 Except as provided in 10.2.1, 10.3, and 25.104,
+tion listed within the scope as being covered by this specifi- variations from the specified outside diameter shall not exceed
+cation. the amounts prescribed in Table 3.
+
+6.3 Product Analysis—Product analysis requirements and 10.2 Thin-wall tubes usually develop significant ovality .
+options, if any, shall be as contained in the product specifica- (out-of-roundness) during final annealing, or straightening, or :
+tion. both. Thin-wall tubes are defined as those with a specified wall
+
+3 % or less than the specified OD, or with a wall specified as :
+7. Tensile Properties 0.020 in. [0.5 mm] or less.
+
+7.1 The material shall conform to the tensile property 10.2.1 1 The diameter tolerances of Table 3 are not suffi-
+requirements prescribed in the individual product specification. cient to provide for additional ovality expected in thin-wall .
+
+7.2 The yield strength, when specified, shall be determined tubes, and, for such tubes, are applicable only to the mean of
+
+" ey eu, Pecile’, | “~ the extreme (maximum and minimum) outside diameter read-
+corresponding to a p ermanent offset of 0.2 % of the gauge ings in any one cross section. However, for thin wall tubes the
+eagth or to a total extension of 0.5 % of the gauge length under difference in extreme outside diameter readings (ovality) in any :
+oad. one cross section shall not exceed the following ovality |
+
+7.3 If the percentage of elongation of any test specimen is _—_ allowances: .
+less than that specified and any part of the fracture is more than Quiside Diameter, in. [mm] Ovality Allowance '
+34, in. [19.0 mm] from the center of the gauge length, as |
+indi “4 ark . “4 . ‘ 1 [25.4] and under 0.020 [0.5] :
+indicated by scribe marks on the specimen before testing, a Over 1 [25.4 2.0 % of specitied outside |
+retest shall be allowed. diameter ee
+8. Standard Mass per Unit Length |
+
+8.1 The calculated mass per foot, based upon a specified A |
+minimum wall thickness, shall be determined by the following TABLE 1 Permitted Variations in Mass Per Foot™
+
+ati - : Method of Permitted Variation in Mass :
+equation (see Note 1): Manufacture per Foot, % |
+
+W=C(D~-t)t (1) Over Under
+
+Seamless, hot-finished 16 0
+where: Seamless, cold-finished |
+C = 10.69 [0.0246615], 1% in. [38 mm] and under OD 12 0 f
+W = mass per unit length, lb/ft [kg/m], Wong in. [88 mm] OD 9 5 |
+D = specified outside diameter, in. [mm], and lll 2
+
+— ¢ ‘fied minimum wall thickness. in [mm] These permitted variations in mass apply to lots of 50 tubes or more in sizes 4 |
+
+t N ann ; | ° d by } " d . in. [101.6 mm] and under in outside diameter, and to lots of 20 tubes or more in |
+ote 1—The calculated masses given by Eq | are based on the masses sizes over 4 in. [101.6 mm] in outside diameter. |
+
+for carbon steel tubing. The mass of tubing made of ferritic stainless steels :
+1528

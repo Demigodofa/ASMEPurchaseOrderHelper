@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 164,
+  "globalPageIndex": 164,
+  "width": 626.4,
+  "height": 803.04,
+  "text": "SA-29/SA-29M ASME BPVC.II.A-2025 \n15. Keywords \n15.1 alloy steel bars; carbon steel bars; cold finished steel \nbars; general delivery requirements; hot wrought steel bars; \nsteel bars \nSUPPLEMENTARY REQUIREMENTS \nThe following supplementary requirements shall apply only when specified by the purchaser in the \ncontract or order. \nSl. Flat Bar Thickness Tolerances \nS 1.1 When flat bars are specified in metric units to a \nthickness under tolerance of 0.3 mm, the thickness tolerance of \nTable Sl.1 shall apply. \nTABLE S1.1 Thickness and Width Tolerances for Hot-Wrought Square-Edge and Round-Edge Flat Bars Ordered to 0.3 mm Under \nToleranceA \nNorn 1-Tolerance under specified thickness 0.3 mm. \nSpecified Width, mm \nTo 25, incl \nOver 25 to 50, incl \nOver 50 to 100, incl \nOver 100 to 150, incl \nOver 150 to 200, incl \nTolerances over Specified Thickness for Thickness Given, mm \nOver 6 to 12, incl Over 12 to 25, incl Over 25 to 50, incl Over 50 to 75, incl \n0.5 \n0.5 \n0.5 \n0.5 \n0.7 \n0.7 \n1.0 \n1.3 \n1.3 \n1.3 \n1.3 \n2,1 \n2.1 \n2.1 \nOver75 \n2.1 \n2.1 \n2.9 \nTolerance from Specified Width, mm \nOver Under \n0.5 \n1.0 \n1.5 \n2.5 \n3.0 \n0.5 \n1.0 \n1.0 \n1.5 \n2.5 \nA When a square is held against a face and an edge of a square-edge flat bar, the edge shall not deviate by more than 3\u00b0 or 5 % of the thickness. \nANNEXES \n(Mandatory Information) \nAl. PERMISSIBLE VARIATIONS IN DIMENSIONS, ETC.-INCH-POUND UNITS \nAl.l Listed below are permissible variations in dimensions \nexpressed in inch-pound units of measurement. \n112 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0164.json",
+  "tabulaTablesCsv": "tables_tabula/page-0164.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0164.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1509,
+  "bestTextAlphaRatio": 0.6607
+}

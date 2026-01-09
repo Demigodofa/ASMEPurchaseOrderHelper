@@ -1,0 +1,155 @@
+.-. 
+ASME BPVC.II.A-2025 SA-1016/SA-1016M 
+TABLE 2 Permitted Variations in Wall ThicknessA 
+Wall Thickness, % 
+Outside 0.095 Over 0.095 
+Diameter [2.4] to 0.150 
+In. and [2.4to 
+[mm] Under 3.8], incl 
+Over Under Over Under 
+Seamless, Hot-Finished Tubes 
+4 [100] 40 0 35 
+and 
+under 
+Over4 35 
+100 
+Seamless, Cold-Finished Tubes 
+1 ½ [38.1] and under 
+Over 1½ [38.1] 
+Welded Tubes 
+All sizes 
+Over 
+20 
+22 
+18 
+0 
+0 
+Under 
+0 
+0 
+0 
+Over 0.150 
+to 0.180 
+[3.8 to 
+4.6), incl 
+Over Under 
+33 0 
+33 0 
+Over 
+0.180 
+[4.6] 
+Over Under 
+28 0 
+28 0 
+A These permitted variations In wall thickness apply only to tubes, except 
+internal-upset tubes, as rolled or cold-finished, and before swaging, expanding, 
+bending, polishing, or other fabricating operations. 
+TABLE 3 Permitted Variations in Outside DiameterA 
+Specified Outside Diameter, 
+in.(mm] 
+Permitted Variations, in. [mm] 
+Over Under 
+Hot-Finished Seamless Tubes 
+4 (100] or under 1/e• (0.4] 
+Over 4 to 7½ [100 to 200], incl 1/a• [0.4] 
+Over 7½ to 9 [200 to 225], incl 1/a• [0.4] 
+Welded Tubes and Cold-Finished Seamless Tubes 
+Under 1 (25] 0.004 (0.1] 
+1 to 1'/2 [25 to 40], incl 0.006 [0.15] 
+Over 1 ½ to 2 [40 to 50], excl 0.008 [0.2] 
+2 to 2½ [50 to 65], excl 0.01 0 [0.25] 
+2½ to 3 [65 to 75], excl 0.012 [0.3] 
+3 to 4 [75 to 100], incl 0.D15 [0.38] 
+Over 4 to 7½ [100 to 200], incl 0.015 [0.38] 
+Over 7½ to 9 [200 to 225), incl 0.015 [0.38) 
+½2 [0.8] 
+%• [1.2] 
+1/10 [1.6] 
+0.004 [0.11] 
+0.006 [0.15] 
+0.008 (0.2) 
+0.010 [0.25) 
+0.012 (0.3] 
+0.015 [0.38) 
+0.025 [0.64] 
+0.045 [1.14) 
+A Except as provided in 10.2 and 10.3, these permitted variations include 
+out-of-roundness. These permitted variations in outside diameter apply to hot­
+finished seamless, welded and cold-finished seamless tubes before other fabri­
+cating operations such as upsetting, swaging, expanding, bending, or polishing. 
+10.3 For cold-finished seamless austenitic and ferritic/ 
+austenitic tubes, an ovality allowance is necessary for all sizes 
+less than 2 in. [50.8 mm] outside diameter, because they are 
+likely to become out of round during their final heat treatment. 
+For such tubes, the maximum and minimum outside diameter 
+at any cross section shall not deviate from the nominal 
+diameter by more than ±0.010 in. [±0.25 mm]. However, the 
+mean diameter at that cross section must still be within the 
+given permitted variation given in Table 3. In the event of 
+conflict between the provisions of 10.2.1 and those of 10.3, the 
+larger value of ovality tolerance shall apply. 
+10.4 When the specified wall is 2 % or less of the specified 
+OD, the method of measurement is per agreement between 
+purchaser and manufacturer (see Note 2). 
+Nom 2-Very thin wall tubing may not be stiff enough for the outside 
+diameter to be accurately measured with a point contact method, such as 
+with the use of a micrometer or caliper. When very thin walls are 
+specified, "go" - "no go" ring gauges are commonly used to measure 
+diameters of 1 ½ in. [38.1 mm] or less. A 0.002 in. [0.05 mm] additional 
+tolerance is usually added on the "go" ring gauge to allow clearance for 
+sliding. On larger diameters, measurement is commonly performed with a 
+pi tape. Other methods, such as optical methods, may also be considered. 
+11. Permitted Variations in Length 
+11.1 Variations from the specified length shall not exceed 
+the amounts prescribed in Table 4. 
+12. Permitted Variations in Height of Flash on Electric­
+Resistance-Welded Tubes 
+12.1 For tubes over 2 in. [50.8 mm] in outside diameter, or 
+over 0.135 in. [3.44 mm] in wall thickness, the flash on the 
+inside of the tubes shall be mechanically removed by cutting to 
+a maximum height of 0.010 in. [0.25 mm] at any point on the 
+tube. 
+12.2 For tubes 2 in. [50.8 mm] and under in outside 
+diameter and 0.135 in. [3.44 mm] and under in wall thickness, 
+the flash on the inside of the tube shall be mechanically 
+removed by cutting to a maximum height of 0.006 in. [0.15 
+mm] at any point on the tube. 
+13. Straightness and Finish 
+13.1 Finished tubes shall be reasonably straight and have 
+smooth ends free of burrs. They shall have a workmanlike 
+finish. It is permitted to remove surface imperfections by 
+grinding, provided that a smooth curved surface is maintained, 
+and the wall thickness is not decreased to less than that 
+permitted by this or the product specification, or the purchase 
+order. The outside diameter at the point of grinding may be 
+reduced by the amount so removed. 
+14. Repair by Welding 
+14.1 Repair welding of base metal defects in tubing is 
+permitted only with the approval of the purchaser and with the 
+further understanding that the tube shall be marked "WR" and 
+the composition of the deposited filler metal shall be suitable 
+for the composition being welded. Defects shall be thoroughly 
+chipped or ground out before welding and each repaired length 
+shall be reheat treated or stress relieved as required by the 
+applicable specification. Each length of repaired tube shall be 
+examined by a nondestructive test as required by the product 
+specification. 
+14.2 Repair welding shall be performed using procedures 
+and welders or welding operators that have been qualified in 
+accordance with ASME Boiler and Pressure Vessel Code, 
+Section IX. 
+TABLE 4 Permitted Variations in LengthA 
+Specified 
+Method of Outside Cut Length, in. [mm] 
+Manufacture Diameter, in. Over Under 
+[mm) 
+Seamless, hot-finished All sizes •/10 [5] 0 [OJ 
+Seamless, cold-finished Under 2 [50.8) 1/e [3] 0 [OJ 
+2 [50.8] or over 3/,5 [5] 0 [OJ 
+Welded Under 2 [50.8) 1/e [3] 0 [OJ 
+2 [50.8] or over o/10 [5] 0 [0] 
+A These permitted variations in length apply to tubes before bending. They apply 
+to cut lengths up to and including 24 ft [7 .3 m]. For lengths greater than 24 ft [7 .3 
+m], the above over-tolerances shall be increased by 1/a in. (3 mm] for each 1 Oft [3 
+m] or fraction thereof over 24 ft or ½ in. [13 mm], whichever is the lesser. 
+1529 

@@ -1,0 +1,22 @@
+( 
+ASME BPVC.II.A-2025 SA-181/SA-181M 
+SUPPLEMENTARY REQUIREMENTS 
+S1. Carbon Equivalent 
+S1.1 The maximum carbon equivalent based on heat 
+analysis shall be as follows: 
+Maximum Carbon Equivalent Value 
+Maximum Section Thickness Maximum Section Thickness 
+Class Less Than or Equal to 2 in. 
+60 0.45 
+70 0.47 
+Greater Than 2 in. 
+0.46 
+0.48 
+S1.2 Determine the carbon equivalent (CE) as follows: 
+CE = C + Mn/6 + (Cr + Mo + V)/5 + (Ni + Cu)/15 
+S1.3 A lower maximum carbon equivalent may be 
+agreed upon between the supplier and the purchaser. 
+S1.4 When this Supplementary Requirement is 
+invoked, all elements in the carbon equivalent fonnula 
+shall be analyzed and the amounts reported. 
+209 

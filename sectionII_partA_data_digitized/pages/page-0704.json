@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 704,
+  "globalPageIndex": 704,
+  "width": 599.4,
+  "height": 844.08,
+  "text": "SA-395/SA-395M ASME BPVC.II.A-2025 \nSPECIFICATION FOR FERRITIC DUCTILE IRON \nPRESSURE-RETAINING CASTINGS FOR USE AT \nELEVATED TEMPERA TURES \nSA-395/SA-395M \n~ \nINTERNATIONAL \nStandards Worldwide \n[Identical with ASTM Specification A 395/ A 395M-99(2018).] \n1. Scope \n1.1 This specification covers ductile iron castings for \npressure-retaining parts for use at elevated temperatures. \nCastings of all grades are suitable for use up to 450\u00b0F. For \ntemperatures above 450\u00b0F and up to 650\u00b0F, only Grade \n60-40-18 castings are suitable (Note 1). \n1.2 Valves, flanges, pipe fittings, pumps, and other \npiping components are generally manufactured in advance \nand supplied from stock by the manufacturer, jobber, or \ndealer. \n1.3 For supplemental casting requirements, Specifica\u00ad\ntion A 834 may be utilized. \n1.4 The values stated in either inch-pound units or SI \nunits are to be regarded separately as standard. Within the \ntext, the SI units are shown in brackets. The values stated \nin each system are not exact equivalents; therefore, each \nsystem shall be used independently of the other. Combining \nvalues from the two systems may result in nonconformance \nto the specification. \nNOTE I - For service other than as specified in this section, reference \nshould be made to Specification A 536 for Ductile Iron Castings. \n2. Referenced Documents \n2.1 ASTM Standards: \nA 247 Test Method for Evaluating the Microstructure of \nGraphite in Iron Castings \nA 370 Test Methods and Definitions for Mechanical Test\u00ad\ning of Steel Products \nA 536 Specification for Ductile Iron Castings \nA 732/ A 732M Specification for Castings, Investment, \nCarbon and Low Alloy Steel for General Application, \n654 \nand Cobalt Alloy for High Strength at Elevated Tempera\u00ad\ntures \nA 834 Specification for Common Requirements for Iron \nCastings for General Industrial Use \nE 8 Test Methods for Tension Testing of Metallic Materials \nE 10 Test Method for Brinell Hardness of Metallic Mate\u00ad\nrials \nE 186 Reference Radiographs for Heavy-Walled (2 to \n4\u00bd in. [51 to 114 mm]) Steel Castings \nE 280 Reference Radiographs for Heavy-Walled (4\u00bd to \n12 in. [114 to 305 mm]) Steel Castings \nE 446 Reference Radiographs for Steel Castings up to 2 in. \n[51 mm] in Thickness \nE 689 Reference Radiographs for Ductile Iron Castings \nE 1806 Practice for Sampling Steel and Iron for Determina\u00ad\ntion of Chemical Composition \nF 1476 Specification for Performance of Gasketed \nMechanical Couplings for Use in Piping Applications \nF 1548 Specification for the Performance of Fittings for \nUse with Gasketed Mechanical Couplings used in Piping \nApplications \n2.2 Manufacturer's Standardization Society of the \nValve and Fittings Industry Standard: \nSP 25 Standard Marking Systems for Valves, Flanges, Pipe \nFittings, and Unions \n3. Classification \n3.1 Castings ordered to this specification are classified \nby grades based on mechanical property requirements, as \nlisted in Table 1. See note following Table 1. \n4. Ordering Information \n4.1 Orders for material under this specification shall \ninclude the following applicable information: ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 1,
+  "tabulaTablesPath": "tables_tabula/page-0704.json",
+  "tabulaTablesCsv": "tables_tabula/page-0704.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-0704.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 3084,
+  "bestTextAlphaRatio": 0.7513
+}

@@ -1,0 +1,116 @@
+ASME BPVC,II.A-2025 SA-106/SA-106M 
+14.3 The following information is for the benefit of the user 
+of this specification: 
+14.3.1 The reference standards defined in 14.4 through 14.6 
+are convenient. standards for calibration of nondestructive 
+testing equipment. The dimensions of such standards are not to 
+be construed as the minimum sizes of imperfections detectable 
+by such equipment. 
+14.3.2 The ultrasonic testing referred to in this specification 
+is capable of detecting the presence and location of significant 
+longitudinally or circumferentially oriented imperfections; 
+however, different techniques need to be employed for the 
+detection of such differently oriented imperfections. Ultrasonic 
+testing is not necessarily capable of detecting short, deep 
+imperfections. 
+14.3.3 The eddy current examination referenced in this 
+specification has the capability of detecting significant 
+imperfections, especially of the short abrupt type. 
+14.3.4 The flux leakage examination referred to in this 
+specification is capable of detecting the presence and location 
+of significant longitudinally or transversely oriented imperfec­
+tions; however, different techniques need to be employed for 
+the detection of such differently oriented imperfections. 
+14.3.5 The hydrostatic test referred to in Section 13 has the 
+capability of finding defects of a size permitting the test fluid 
+to leak through the tube wall and may be either visually seen 
+or detected by a loss of pressure. Hydrostatic testing is not 
+necessarily capable of detecting very tight, through-the-wall 
+impe1fections or imperfections that extend an appreciable 
+distance into the wall without complete penetration. 
+14.3.6 A purchaser interested in ascertaining the nature 
+(type, size, location, and orientation) of discontinuities that can 
+be detected in the specific applications of these examinations is 
+directed to discuss this with the manufacturer of the tubular 
+product. 
+14.4 For ultrasonic testing, the calibration reference notches 
+shall be, at the option of the producer, any one of the three 
+common notch shapes shown in Practice E213. The depth of 
+notch shall not exceed 12½ % of the specified wall thickness of 
+the pipe or 0.004 in. [0.1 mm], whichever is greater. 
+14.5 For eddy current testing, the calibration pipe shall 
+contain, at the option of the producer, any one of the following 
+discontinuities to establish a minimum sensitivity level for 
+rejection: 
+14.5.1 Drilled Hole-The calibration pipe shall contain 
+depending upon the pipe diameter three holes spaced 120° 
+apart or four holes spaced 90° apart and sufficiently separated 
+longitudinally to ensure separately distinguishable responses. 
+The holes shall be drilled radially and completely through the 
+pipe wall, care being taken to avoid distortion of the pipe while 
+drilling. Depending upon the pipe diameter the calibration pipe 
+shall contain the following hole: 
+NPS ON Diameter of Drilled Hole 
+s ½ s 15 0.039 in. [1 mm] 
+> ½ s 1¼ > 15 s 32 0.055 in. [1.4 mm] 
+> 1¼ s 2 > 32 s 50 0.071 in. [1.8 mm] 
+> 2 s 5 > 50 s 125 0.087 in. [2.2 mm] 
+>5 > 125 0.106 in. [2.7 mm] 
+14.5.2 Transverse Tangential Notch-Using a round tool or 
+file with a ¼-in. [6-mm] diameter, a notch shall be filed or 
+milled tangential to the surface and transverse to the longitu­
+dinal axis of the pipe. The notch shall have a depth not 
+exceeding 12 ½ % of the specified wall thickness of the pipe or 
+0.004 in. [0.1 mm], whichever is greater. 
+14.5.3 Longitudinal Notch-A notch 0.031 in. [0.8 mm] or 
+less in width shall be machined in a radial plane parallel to the 
+tube axis on the outside surface of the pipe, to have a depth not 
+exceeding 12 ½ % of the specified wall thickness of the tube or 
+0.004 in. [0.1 mm], whichever is greater. The length of the 
+notch shall be compatible with the testing method. 
+14.5.4 Compatibility-The discontinuity in the calibration 
+pipe shall be compatible with the testing equipment and the 
+method being used. 
+14.6 For flux leakage testing, the longitudinal calibration 
+reference notches shall be straight-sided notches machined in a 
+radial plane parallel to the pipe axis. For wall thicknesses under 
+½ in. [12.7 mm], outside and inside notches shall be used; for 
+wall thicknesses equal to and above½ in. [12.7 mm], only an 
+outside notch shall be used. Notch depth shall not exceed 
+12½ % of the specified wall thickness, or 0.004 in. [0.1 mm], 
+whichever is greater. Notch length shall not exceed 1 in. [25 
+mm], and the width shall not exceed the depth. Outside 
+diameter and inside diameter notches shall be located suffi­
+ciently apart to allow separation and identification of the 
+signals. 
+14.7 Pipe containing one or more imperfections that pro­
+duce a signal equal to or greater than the signal produced by the 
+calibration standard shall be rejected or the area producing the 
+signal shall be reexamined. 
+14.7.1 Test signals produced by imperfections which cannot 
+be identified, or produced by cracks or crack-like imperfections 
+shall result in rejection of the pipe, unless it is repaired and 
+retested. To be accepted, the pipe must pass the same specifi­
+cation test to which it was originally subjected, provided that 
+the remaining wall thickness is not decreased below that 
+pennitted by this specification. The OD at the point of grinding 
+may be reduced by the amount so reduced. 
+14.7.2 Test signals produced by visual imperfections such as 
+those listed below may be evaluated in accordance with the 
+provisions of Section 18: 
+173 
+14.7.2.1 Dinges, 
+14.7.2.2 Straightener marks, 
+14.7.2.3 Cutting chips, 
+14.7.2.4 Scratches, 
+14.7.2.5 Steel die stamps, 
+14.7.2.6 Stop marks, or 
+14.7.2.7 Pipe reducer ripple. 
+14.8 The test methods described in this section are not 
+necessarily capable of inspecting the end portion of pipes, a 
+condition referred to as "end effect." The length of such end 
+effect shall be determined by the manufacturer and, when 
+specified in the purchase order, reported to the purchaser. 
+15. Nipples 
+15.1 Nipples shall be cut from pipe of the same dimensions 
+and quality described in this specification. 

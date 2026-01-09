@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 296,
+  "globalPageIndex": 1094,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "SA-568/SA-568M (ASTM A568/A568M) ASME BPVC.II.A-2025 \nTABLE A 1.5 Length Tolerances of Hot-Rolled Sheet (All \nDesignations) \nOver \n300 \n600 \n900 \n1500 \n3000 \n4000 \n5000 \n6000 \n(Cut Lengths, Including Pickled) \nSpecified Length, mm \nThrough \n600 \n900 \n1500 \n3000 \n4000 \n5000 \n6000 \nLength Tolerance, Over \nOnly, mm \n6 \n8 \n12 \n20 \n25 \n35 \n40 \n45 \nTABLE A1.6 Diameter Tolerances of Circles from Hot-Rolled \n(Including Pickled) and Cold-Rolled Sheet (Over 300 mm Width) \n(All Designations) \nSpecified ThicknessA , mm \nOver \n1.5 \n2.5 \nThrough \n1.5 \n2.5 \nTolerances Over Specified Diameter, mm (No \nTolerances Under) \nThrough 600 \n1.5 \n2.5 \n3.0 \nDiameters, mm \nOver600to \n1200, incl \n3.0 \n4.0 \n5.0 \nOver1200 \n5.0 \n5.5 \n6.5 \nA 1.8 mm minimum thickness for hot-rolled high-strength low-alloy steel sheet. \nTABLE A1.7 Camber TolerancesA for Hot-Rolled (Including \nPickled) and Cold-Rolled Sheet (All Designations) \n(Cut Lengths) \nNorn I-Camber is the greatest deviation of a side edge from a straight \nline, the measurement being taken on the concave side with a straightedge. \nCut Length, mm \nCamber TolerancesA , mm \nOver Through \n1200 4 \n1200 1800 5 \n1800 2400 6 \n2400 3000 8 \n3700 4300 13 \n4300 4900 16 \n4900 5500 19 \n5500 6000 22 \n6000 9000 32 \n9000 12200 38 \nA The camber tolerance for coils is 25.0 mm in any 6000 mm. \n994 \nTABLE A1.8 Out-of-Square Tolerances of Hot-Rolled Cut-Edge \n(Including Pickled) and Cold-Rolled Sheet (All Designations) \n(Cut Lengths) \nOut-of-square is the greatest deviation of an end edge from a straight line at \nright angle to a side and touching one corner. It is also obtained by measuring \nthe difference between the diagonals of the cut length. The out-of-square \ndeviation is one half of that difference. The tolerance for all thicknesses and all \nsizes is 1.0 mm/100 mm of width or fraction thereof. \nTABLE A1.9 Restricted Squareness Tolerances of Hot-Rolled \n(Including Pickled) and Cold-Rolled Sheet (All Designations) \n(Cut Lengths) \nWhen cut lengths are specified restricted squareness, the width and the length \nare not less than the dimensions specified. The individual tolerance for over\u00ad\nwidth, over-length, camber, or out-of-square should not exceed 1.6 mm up to \nand Including 1200 mm in width and up to and including 3000 mm in length. \nFor cut lengths wider or longer, the applicable tolerance is 3.2 mm. ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1094.json",
+  "tabulaTablesCsv": "tables_tabula/page-1094.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-1094.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2350,
+  "bestTextAlphaRatio": 0.6451
+}

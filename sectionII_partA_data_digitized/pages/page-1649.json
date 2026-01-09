@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 851,
+  "globalPageIndex": 1649,
+  "width": 617.04,
+  "height": 795.6,
+  "text": "ASME BPVC.11.A\u00b72025 SA/GB 713 \nSPECIFICATION FOR STEEL PLATES FOR BOILERS AND \nPRESSURE VESSELS \nSA/GB 713 \n(Identical with International Specification GB 713-2014 with these additional requirements.) \n1595 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-1649.txt",
+  "ocrTextLength": 208,
+  "ocrApplied": true,
+  "bestTextPath": "best_text/pages/page-1649.txt",
+  "bestTextSource": "ocr",
+  "bestTextLength": 208,
+  "bestTextAlphaRatio": 0.7115
+}

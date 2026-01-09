@@ -1,0 +1,170 @@
+,--
+ASME BPVC.II.A-2025 SA-6/SA-6M 
+TABLE A Permitted Variations in Product Analysis 
+NoTE 1-Where " ... " appears in this table, there is no requirement. 
+Permitted 
+Upper Limit, or Variations, % 
+Element Maximum Specified Under Over 
+Value,% Minimum Maximum 
+Limit Limit 
+Carbon to 0.15 incl 0.02 0.03 
+over 0.15 to 0.40 incl 0.03 0.04 
+over 0.40 to 0.75 Incl 0.04 0.05 
+over 0.75 0.04 0.06 
+ManganeseA to 0.60 incl 0.05 0.06 
+over 0.60 to 0.90 incl 0.06 0.08 
+over 0.90 to 1.20 incl 0.08 0.10 
+over 1.20 to 1.35 incl 0.09 0.11 
+over 1.35 to 1.65 incl 0.09 0.12 
+over 1.65 to 1.95 incl 0.11 0.14 
+over 1.95 0.12 0.16 
+Phosphorus to 0.04 incl 0.010 
+over 0.04 to 0.15 incl B 
+Sulfur to 0.06 incl 0.010 
+over 0.06 B B 
+Silicon to 0.30 incl 0.02 0.03 
+over 0.30 to 0.40 incl 0.05 0.05 
+over 0.40 to 2.20 incl 0.06 0.06 
+Nickel to 1.00 incl 0.03 0.03 
+over 1 .00 to 2.00 incl 0.05 0.05 
+over 2.00 to 3. 75 incl 0.07 0.07 
+over 3.75 to 5.30 incl 0.08 0.08 
+over 5.30 0.10 0.10 
+Chromium to 0.90 incl 0.04 0.04 
+over 0.90 to 2.00 incl 0.06 0.06 
+over 2.00 to 10.00 incl 0.10 0.10 
+over 10.00 to 15.00 incl 0.15 0.15 
+Molybdenum to 0.20 incl O.Q1 0.01 
+over 0.20 to 0.40 incl 0.03 0.03 
+over 0.40 to 1.15 incl 0.04 0.04 
+Copper 0.20 minimum only 0.02 
+to 1.00 incl 0.03 0.03 
+over 1.00 to 2.00 incl 0.05 0.05 
+Titanium to 0.15 incl 0.01° 0.01 
+Vanadium to 0.10 incl 0.01° 0.01 
+over 0.1 O to 0.25 incl 0.02 0.02 
+over 0.25 0.02 0.03 
+minimum only specified O.Q1 
+Boron any B B 
+Columbium to 0.10 incl 0.01° 0.01 
+(Niobium) 0 
+Zirconium to 0.15 incl 0.03 0.03 
+Nitrogen to 0.030 incl 0.005 0.005 
+A Permitted variations in manganese content for bars and bar size shapes shall be: 
+to 0.90 incl ±0.03; over 0.90 to 2.20 incl ±0.06. 
+8 Product analysis not applicable. 
+0 0.005, if the minimum of the range is 0.01 %. 
+° Columbium and niobium are interchangeable names for the same element. 
+9 
+Index to Tables of Permitted Variations 
+Dimension 
+Camber 
+Plates, Carbon Steel; Sheared and Gas-Cut 
+Plates, Carbon Steel; Universal Mill 
+Plates, Other than Carbon Steel; Sheared, 
+Gas-Cut and Universal Mill 
+Shapes, Rolled; S, M, C, MC, and L 
+Shapes, Rolled; W and HP 
+Shapes, Split; L and T 
+Cross Section of Shapes and Bars 
+Flats 
+Hexagons 
+Rounds and Squares 
+Shapes, Rolled; L, Bulb Angles, and Z 
+Shapes, Rolled; W, HP, S, M, C, and MC 
+Shapes, Rolled; T 
+Shapes, Split; L and T 
+Diameter 
+Plates, Sheared 
+Plates, Other than Alloy Steel, Gas-Cut 
+Plates, Alloy Steel, Gas-Cut 
+Rounds 
+End Out-of-Square 
+Shapes, Other than W 
+Shapes, W 
+Shapes, Milled, Other than W 
+Flatness 
+Plates, Carbon Steel 
+Plates, Other than Carbon Steel 
+Plates, Restrictive-Carbon Steel 
+Plates, Restrictive-Other than Carbon Steel 
+Length 
+Bars 
+Bars, Recut 
+Plates, Sheared and Universal Mill 
+Plates, Other than Alloy Steel, Gas-Cut 
+Plates, Alloy Steel, Gas-Cut 
+Plates, Mill Edge 
+Shapes, Rolled; Other than W 
+Shapes, Rolled; W and HP 
+Shapes, Split; L and T 
+Shapes, Milled 
+Straightness 
+Bars 
+Shapes, Other than W 
+Sweep 
+Shapes, W and HP 
+Thickness 
+Flats 
+Plates, Ordered to Thickness 
+Waviness 
+Plates· 
+Weight [Mass] 
+Plates, Ordered to Weight [Mass] 
+Width 
+Table 
+Inch-Pound SI Units Units 
+12 A1.12 
+11 A1.11 
+11 A1.11 
+21 A1.21 
+24 A1.24 
+25 A1.25 
+26 A1.26 
+28 A1.28 
+27 A1.27 
+17 A1.17 
+16 A1.16 
+18 A1.18 
+25 A1.25 
+6 A1.6 
+7 A1.7 
+10 A1.10 
+27 A1.27 
+20 A1.20 
+22 A1.22 
+23 A1.23 
+13 A1.13 
+14 A1.14 
+S27.1 S27.2 
+S27.3 S27.4 
+30 A1.30 
+31 A1.31 
+3 A1.3 
+9 A1.9 
+8 A1.8 
+4 A1.4 
+19 A1.19 
+22 A1.22 
+25 A1.25 
+23 A1.23 
+29 A1.29 
+21 A1.21 
+24 A1.24 
+26 A1.26 
+1 A1.1 
+15 A1.15 
+2 A1.2 
+Flats 26 A 1.26 
+Plates, Sheared 3 A 1.3 
+Plates, Universal Mill 5 A1.5 
+Plates, Other than Alloy Steel, Gas-Cut 9 A 1.9 
+Plates, Alloy Steel, Gas-Cut 8 A 1.8 
+Plates, Mill Edge 4 A 1.4 
+8.3.2.4 Contents for the combination of two or more auste­
+nitic grain refining elements that exceed the applicable mini­
+mum values agreed to by the purchaser as being sufficient for 
+austenitic grain size testing to be waived: 
+9. Quality 
+9 .1 General-Structural products shall be free of injurious 
+defects and shall have a workmanlike finish. 

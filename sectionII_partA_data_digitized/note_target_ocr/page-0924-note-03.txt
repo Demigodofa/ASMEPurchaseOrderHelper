@@ -1,0 +1,32 @@
+Definitions A370. © Nore 3—The industry definition of EDI invoked herein is the
+computer-to-computer exchange of business information in a standard
+
+. format such as ANSI ASC X12.
+
+15. Inspection ; /
+a. ; ; 17.4 When finished material is supplied to a purchase order |
+
+15.1 Civilian Procurement—Inspection of the material shall specifying the product specification, the organization supply-
+be as agreed upon between the purchaser and the supplier as ing that material shall provide the purchaser with a copy of the |
+part of the purchase contract. original manufacturer’s test report. ;
+15.2 Government Procurement—Unless otherwise specified 17.4.1 When the original manufacturer’s test report was . :
+in the contract or purchase order, the seller is responsible for | provided by EDI to the organization supplying the finished :
+the performance of all inspection and test requirements in this | material to the purchaser, the organization supplying the _
+specification, the seller is permitted to use their own facilities finished material shall provide to the purchaser a printed form
+or other suitable facilities for the performance of the inspection of the original test report or shall retransmit the test report by
+and testing, and the purchaser shall have the right to perform = EDI to the purchaser. In either case, the test report shall be b
+any of the inspection and tests set forth in this specification. | complete with the full identification of the original manufac- |
+The manufacturer shall afford the purchaser’s inspector all turer and with all data provided on the test report of the original |
+reasonable facilities necessary to satisfy purchaser that the manufacturer. ;
+material is being furnished in accordance with the specifica- . :
+tion. Inspection by the purchaser shall not interfere unneces- 18. Product Marking |
+sarily with the manufacturer. 18.1 Civilian Procurement:
+oo. . 18.1.1 Bars and shapes shall be marked or tagged with the
+
+16. Rejection and Rehearing name of manufacturer, purchaser’s name and order number,
+16.1 The purchaser is permitted to reject material that fails © ASTM specification designation, heat number, grade or type,
+to conform to the requirements of this specification. Rejection condition, finish, and where appropriate, the size, length, and
+shall be reported to the producer or supplier promptly, prefer- | weight. Unless otherwise specified, the method of marking is at |
+824
+
+|

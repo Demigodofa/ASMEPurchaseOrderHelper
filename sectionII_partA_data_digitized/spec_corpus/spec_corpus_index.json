@@ -1,0 +1,317 @@
+[
+  {
+    "spec": "SA-522",
+    "rangeStart": 979,
+    "rangeEnd": 984,
+    "pageCount": 6,
+    "path": "spec_corpus\\SA-522\\spec.json"
+  },
+  {
+    "spec": "SA-134",
+    "rangeStart": 231,
+    "rangeEnd": 235,
+    "pageCount": 5,
+    "path": "spec_corpus\\SA-134\\spec.json"
+  },
+  {
+    "spec": "SA-20",
+    "rangeStart": 119,
+    "rangeEnd": 170,
+    "pageCount": 52,
+    "path": "spec_corpus\\SA-20\\spec.json"
+  },
+  {
+    "spec": "SA-31",
+    "rangeStart": 171,
+    "rangeEnd": 176,
+    "pageCount": 5,
+    "path": "spec_corpus\\SA-31\\spec.json"
+  },
+  {
+    "spec": "SA-36",
+    "rangeStart": 177,
+    "rangeEnd": 180,
+    "pageCount": 4,
+    "path": "spec_corpus\\SA-36\\spec.json"
+  },
+  {
+    "spec": "SA-47",
+    "rangeStart": 181,
+    "rangeEnd": 215,
+    "pageCount": 33,
+    "path": "spec_corpus\\SA-47\\spec.json"
+  },
+  {
+    "spec": "SA-105",
+    "rangeStart": 216,
+    "rangeEnd": 220,
+    "pageCount": 5,
+    "path": "spec_corpus\\SA-105\\spec.json"
+  },
+  {
+    "spec": "SA-106",
+    "rangeStart": 221,
+    "rangeEnd": 237,
+    "pageCount": 15,
+    "path": "spec_corpus\\SA-106\\spec.json"
+  },
+  {
+    "spec": "SA-135",
+    "rangeStart": 238,
+    "rangeEnd": 256,
+    "pageCount": 17,
+    "path": "spec_corpus\\SA-135\\spec.json"
+  },
+  {
+    "spec": "SA-181",
+    "rangeStart": 257,
+    "rangeEnd": 312,
+    "pageCount": 53,
+    "path": "spec_corpus\\SA-181\\spec.json"
+  },
+  {
+    "spec": "SA-203",
+    "rangeStart": 313,
+    "rangeEnd": 316,
+    "pageCount": 4,
+    "path": "spec_corpus\\SA-203\\spec.json"
+  },
+  {
+    "spec": "SA-204",
+    "rangeStart": 317,
+    "rangeEnd": 366,
+    "pageCount": 47,
+    "path": "spec_corpus\\SA-204\\spec.json"
+  },
+  {
+    "spec": "SA-231",
+    "rangeStart": 367,
+    "rangeEnd": 373,
+    "pageCount": 7,
+    "path": "spec_corpus\\SA-231\\spec.json"
+  },
+  {
+    "spec": "SA-232",
+    "rangeStart": 374,
+    "rangeEnd": 424,
+    "pageCount": 46,
+    "path": "spec_corpus\\SA-232\\spec.json"
+  },
+  {
+    "spec": "SA-263",
+    "rangeStart": 425,
+    "rangeEnd": 430,
+    "pageCount": 6,
+    "path": "spec_corpus\\SA-263\\spec.json"
+  },
+  {
+    "spec": "SA-264",
+    "rangeStart": 46,
+    "rangeEnd": 436,
+    "pageCount": 372,
+    "path": "spec_corpus\\SA-264\\spec.json"
+  },
+  {
+    "spec": "SA-265",
+    "rangeStart": 437,
+    "rangeEnd": 444,
+    "pageCount": 7,
+    "path": "spec_corpus\\SA-265\\spec.json"
+  },
+  {
+    "spec": "SA-266",
+    "rangeStart": 445,
+    "rangeEnd": 458,
+    "pageCount": 13,
+    "path": "spec_corpus\\SA-266\\spec.json"
+  },
+  {
+    "spec": "SA-276",
+    "rangeStart": 459,
+    "rangeEnd": 474,
+    "pageCount": 14,
+    "path": "spec_corpus\\SA-276\\spec.json"
+  },
+  {
+    "spec": "SA-283",
+    "rangeStart": 475,
+    "rangeEnd": 482,
+    "pageCount": 8,
+    "path": "spec_corpus\\SA-283\\spec.json"
+  },
+  {
+    "spec": "SA-299",
+    "rangeStart": 483,
+    "rangeEnd": 490,
+    "pageCount": 7,
+    "path": "spec_corpus\\SA-299\\spec.json"
+  },
+  {
+    "spec": "SA-307",
+    "rangeStart": 491,
+    "rangeEnd": 590,
+    "pageCount": 95,
+    "path": "spec_corpus\\SA-307\\spec.json"
+  },
+  {
+    "spec": "SA-351",
+    "rangeStart": 591,
+    "rangeEnd": 634,
+    "pageCount": 40,
+    "path": "spec_corpus\\SA-351\\spec.json"
+  },
+  {
+    "spec": "SA-370",
+    "rangeStart": 635,
+    "rangeEnd": 716,
+    "pageCount": 81,
+    "path": "spec_corpus\\SA-370\\spec.json"
+  },
+  {
+    "spec": "SA-401",
+    "rangeStart": 717,
+    "rangeEnd": 723,
+    "pageCount": 6,
+    "path": "spec_corpus\\SA-401\\spec.json"
+  },
+  {
+    "spec": "SA-403",
+    "rangeStart": 724,
+    "rangeEnd": 756,
+    "pageCount": 30,
+    "path": "spec_corpus\\SA-403\\spec.json"
+  },
+  {
+    "spec": "SA-423",
+    "rangeStart": 757,
+    "rangeEnd": 770,
+    "pageCount": 14,
+    "path": "spec_corpus\\SA-423\\spec.json"
+  },
+  {
+    "spec": "SA-439",
+    "rangeStart": 771,
+    "rangeEnd": 868,
+    "pageCount": 93,
+    "path": "spec_corpus\\SA-439\\spec.json"
+  },
+  {
+    "spec": "SA-476",
+    "rangeStart": 869,
+    "rangeEnd": 926,
+    "pageCount": 55,
+    "path": "spec_corpus\\SA-476\\spec.json"
+  },
+  {
+    "spec": "SA-487",
+    "rangeStart": 927,
+    "rangeEnd": 1010,
+    "pageCount": 82,
+    "path": "spec_corpus\\SA-487\\spec.json"
+  },
+  {
+    "spec": "SA-540",
+    "rangeStart": 1011,
+    "rangeEnd": 1052,
+    "pageCount": 39,
+    "path": "spec_corpus\\SA-540\\spec.json"
+  },
+  {
+    "spec": "SA-563",
+    "rangeStart": 1053,
+    "rangeEnd": 1107,
+    "pageCount": 54,
+    "path": "spec_corpus\\SA-563\\spec.json"
+  },
+  {
+    "spec": "SA-574",
+    "rangeStart": 1108,
+    "rangeEnd": 1155,
+    "pageCount": 45,
+    "path": "spec_corpus\\SA-574\\spec.json"
+  },
+  {
+    "spec": "SA-649",
+    "rangeStart": 1156,
+    "rangeEnd": 1250,
+    "pageCount": 86,
+    "path": "spec_corpus\\SA-649\\spec.json"
+  },
+  {
+    "spec": "SA-705",
+    "rangeStart": 1251,
+    "rangeEnd": 1275,
+    "pageCount": 22,
+    "path": "spec_corpus\\SA-705\\spec.json"
+  },
+  {
+    "spec": "SA-737",
+    "rangeStart": 1276,
+    "rangeEnd": 1287,
+    "pageCount": 10,
+    "path": "spec_corpus\\SA-737\\spec.json"
+  },
+  {
+    "spec": "SA-747",
+    "rangeStart": 1288,
+    "rangeEnd": 1303,
+    "pageCount": 16,
+    "path": "spec_corpus\\SA-747\\spec.json"
+  },
+  {
+    "spec": "SA-751",
+    "rangeStart": 1304,
+    "rangeEnd": 1332,
+    "pageCount": 27,
+    "path": "spec_corpus\\SA-751\\spec.json"
+  },
+  {
+    "spec": "SA-788",
+    "rangeStart": 1333,
+    "rangeEnd": 1375,
+    "pageCount": 42,
+    "path": "spec_corpus\\SA-788\\spec.json"
+  },
+  {
+    "spec": "SA-813",
+    "rangeStart": 1376,
+    "rangeEnd": 1384,
+    "pageCount": 8,
+    "path": "spec_corpus\\SA-813\\spec.json"
+  },
+  {
+    "spec": "SA-814",
+    "rangeStart": 1385,
+    "rangeEnd": 1437,
+    "pageCount": 49,
+    "path": "spec_corpus\\SA-814\\spec.json"
+  },
+  {
+    "spec": "SA-905",
+    "rangeStart": 1438,
+    "rangeEnd": 1450,
+    "pageCount": 12,
+    "path": "spec_corpus\\SA-905\\spec.json"
+  },
+  {
+    "spec": "SA-960",
+    "rangeStart": 1451,
+    "rangeEnd": 1538,
+    "pageCount": 81,
+    "path": "spec_corpus\\SA-960\\spec.json"
+  },
+  {
+    "spec": "SA-999",
+    "rangeStart": 1539,
+    "rangeEnd": 1594,
+    "pageCount": 54,
+    "path": "spec_corpus\\SA-999\\spec.json"
+  },
+  {
+    "spec": "SA-1058",
+    "rangeStart": 1595,
+    "rangeEnd": 1606,
+    "pageCount": 12,
+    "path": "spec_corpus\\SA-1058\\spec.json"
+  }
+]

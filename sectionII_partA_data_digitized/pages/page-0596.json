@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 596,
+  "globalPageIndex": 596,
+  "width": 622.44,
+  "height": 861.36,
+  "text": "SA-351/SA-351M ASME BPVC.II.A-2025 \nTABLE 3 Tensile Requirements \nMaterial Grade Tensile strength, Yield strength/ Elongation in 2 in. or \nmin, ksi [MPa] min, ksi [MPa] 50 mm, 8 min, % \nCE20N 80 40 30 \nJ92802 [550] [275] \nCF3 70 30 35 \nJ92700 [485] [205] \nCF3A 77 35 35 \nJ92700 [530] [240] \nCF8 70 30 35 \nJ92600 [485] [205] \nCF8A 77 35 35 \nJ92600 [530] [240] \nCF3M 70 30 30 \nJ92800 [485] [205] \nCF3MA 80 37 30 \nJ92800 [550] [255] \nCF8M 70 30 30 \nJ92900 [485] [205] \nCF3MN 75 37 35 \nJ92804 [515] [255] \nCF8C 70 30 30 \nJ92710 [485] [205] \nCF10 70 30 35 \nJ92950 [485] [205] \nCF10M 70 30 30 \nJ92901 [485] [205] \nCF10MC 70 30 20 \n[485] [205] \nCF10SMnN 85 42.5 30 \nJ92972 [585] [295] \nCG3M 75 35 25 \nJ92999 [515] [240] \nCG6MMnN 85 42.5 30 \nJ93790 [585] [295] \nCG8M 75 35 25 \nJ93000 [515] [240] \nCH8 65 28 30 \nJ93400 [450] [195] \nCH10 70 30 30 \nJ93401 [485] [205] \nCH20 70 30 30 \nJ93402 [485] [205] \nCK20 65 28 30 \nJ94202 [450] [195] \nCK3MCuN 80 38 35 \nJ93254 [550] [260] \nCN3MN 80 38 35 \nJ94651 [550] [260] \nCN7M 62 25 35 \nN08007 [425] [170] \nCT15C 63 25 20 \nN08151 [435] [170] \n544 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0596.json",
+  "tabulaTablesCsv": "tables_tabula/page-0596.csv",
+  "tabulaTableCount": 2,
+  "bestTextPath": "best_text/pages/page-0596.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1077,
+  "bestTextAlphaRatio": 0.2089
+}

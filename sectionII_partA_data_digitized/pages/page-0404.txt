@@ -1,0 +1,67 @@
+SA-240/SA-240M ASME BPVC.II.A-2025 
+SUPPLEMENTARY REQUIREMENTS 
+A supplementary requirement shall apply only when specified in the purchase order. 
+Sl. Charpy Impact Testing of Plate 
+S 1.1 Charpy impact tests shall be conducted in accordance 
+with Test Methods and Definitions A370. 
+Sl.2 Number of Tests-One impact test (three specimens) 
+shall be made from one plate per heat treatment lot in the final 
+heat treated condition. 
+Sl.3 Orientation of Test Specimens-Unless specified as 
+transverse specimens (long axis of the specimen transverse to 
+the final rolling direction, root of the notch perpendicular to the 
+rolling face) on the purchase order, the orientation o~ the 
+specimens shall be longitudinal (long axis of the spec11nen 
+parallel to the final rolling direction, root of the_ notch ~erpen­
+dicular to the rolling face). The manufacturer is permitted to 
+test transverse specimens provided that such tests meet the 
+acceptance criteria applicable to longitudinal specimen~. Un­
+less otherwise specified on the purchase order, the specimens 
+shall be taken so as to include the mid-thickness of the product. 
+S 1 .4 Test Temperature-The purchaser shall specify the 
+test temperature. The manufacturer is permitted to test speci­
+mens at a temperature lower than that specified by the 
+purchaser, provided that such tests shall meet the acceptance 
+criteria applicable to specimens tested at the specified tempera­
+ture (see the note below). 
+Norn S 1.1-Test Methods A923, Method B, applicable to some duplex 
+(austenitic-fen-itic) stainless steels as listed in Test ~ethods A923, uses a 
+Charpy impact test for the purpose of detern:immg the absence of 
+detrimental intermetallic phases. Method B specifies a test temperature 
+and acceptance criterion, expressed as impact energy, for each type of 
+steel covered. It may be economical for the Charpy impact tests performed 
+on duplex stainless steels covered in both Specification A240 and _Test 
+Methods A923 to be performed at the lower of the temperatures specified 
+by this supplementary requirement and Test Methods A923 Method B, 
+with measurement of both lateral expansion and impact energy. 
+352 
+S 1.5 Acceptance Limit-Unless otherwise specified on the 
+purchase order, each of the three specimens tested shall sh~w 
+a lateral expansion opposite the notch of not less than 0.015 m. 
+[0.38 mm]. 
+Sl.6 Records-The recorded results shall include the 
+specimen orientation, specimen size, test temperature, ~b­
+sorbed energy values (if required), and lateral expans10n 
+opposite the notch. 
+S2. Materials for High-Temperature Service 
+S2.l Unless an H grade has been ordered, this supplemen­
+tary requirement shall be specified for ASME Code applica­
+tions for service above 1000°F [540°C]. 
+S2.2 The user is permitted to use an austenitic stainless 
+steel as the corresponding H grade when the material meets all 
+requirements of the H grade including chemistry, annealing 
+temperature, and grain size (see Section 6). . . 
+S2.3 The user is permitted to use an L grade austemtic 
+stainless steel for service above 1000°F [540°C], subject to the 
+applicable allowable stress table of the ASME Code, when the 
+material meets all requirements of this specification and the 
+grain size is ASTM No. 7 or coarser as determined in 
+accordance with Test Methods E112. The grain size shall be 
+reported on a Certified Test Report. 
+S3. One Percent Offset Yield Strength 
+S3 .1 If reporting of 1 % offset yield strength is specified on 
+the purchase order; the material shall meet the strength 
+requirements shown in Table S3.1. . 
+S3.2 The mechanical properties, including 1 % offset yield 
+strength and all other required properties shall be reported on 
+a Material Test Report. 

@@ -1,0 +1,21 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 202,
+  "globalPageIndex": 202,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "SA-53/SA-53M ASME BPVC.II.A-2025 \nX2. TABLES FOR DIMENSIONAL AND CERTAIN MECHANICAL REQUIREMENTS \nX2.1 Tables X2.1-X2.4 address dimensional and certain \nmechanical requirements. \nTABLE X2.1 Calculated H Values for Seamless Pipe \nNPS DN Specified Outside Specified Wall Distance, in. [mm], \nDesignator Designator Diameter, in. Thickness, in. Between Plates \"H\" by \n[mm] [mm] Formula: H = (1 + e) tl(e + t/D) \nGrade A Grade B \n2\u00bd 65 2.875 [73.0] 0.203 [5.16] 1.378 [35.0] 1.545 [39.2] \n0.276 [7.01] 1.618 [41.1] 1.779 [45.2] \n3 80 3.500 [88.9] 0.216 [5.49] 1.552 [39.4] 1.755 [44.6] \n0.300 [7.62] 1.861 [47.3] 2.062 [52.4] \n3\u00bd 90 4.000 [101.6] 0.226 [5.74] 1.682 [42.7] 1.912 [48.6] \n0.318 [8.08] 2.045 [51.9] 2.276 [57 .8] \n4 100 4.500 [114.3] 0.237 [6.02] 1.811 [46.0] 2.067 [52.5] \n0.337 [8.56] 2.228 [56.6] 2.489 [63.2] \n5 125 5.563 [141.3] 0.258 [6.55] 2.062 [52.4] 2.372 [60.2] \n0.375 [9.52] 2.597 [66.0] 2.920 [74.2] \n6 150 6.625 [168.3] 0.280 [7.11] 2.308 [58.6] 2.669 [67.8] \n0.432 [10.97] 3.034 [77.1] 3.419 [86.8] \n8 200 8.625 [219.1] 0.277 [7.04] 2.473 [62.8] 2.902 [73.7] \n0.322 [8.18] 2.757 [70.0] 3.210 [81.5] \n0.500 [12.70] 3.683 [93.5] 4.181 [106.2] \n10 250 10.750 [273.0] 0.279 [7.09]A 2.623 [66.6] 3.111 [79.0] \n0.307 [7.80] 2.823 [71.7] 3.333 [84.7] 0.365 [9.27] 3.210 [81.5] 3.757 [95.4] 0.500 [12.70] 3.993 [101.4] 4.592 [116.6] \n12 300 12.750 [323.8] 0.300 [7.62] 3.105 [78.9] 3.683 [93.5] \n0.375 [9.52] 3.423 [86.9] 4.037 [102.5] \n0.500 [12.70] 4.218 [107.1] 4.899 [124.4] \n14 350 14.000 [355.6] 0.375 [9.52] 3.500 [88.9] 4.146 [105.3] \n0.500 [12.70] 4.336 [110.1] 5.061 [128.5] \n16 400 16.000 [406.4] 0.375 [9.52] 3.603 [91.5] 4.294 [109.1] \n0.500 [12.70] 4.494 [114.1] 5.284 [134.2] \n18 450 18.000 [457] 0.375 [9.52] 3.688 [93.7] 4.417 [112.2] \n0.500 [12.70] 4.628 [117.6] 5.472 [139.0] \n20 500 20.000 [508] 0.375 [9.52] 3.758 [95.5] 4.521 [114.8] \n0.500 [12.70] 4.740 [120.4] 5.632 [143.1] \n24 600 24.000 [610] 0.375 [9.52] 3.869 [98.3] 4.686 [119.0] \n0.500 [12.70] 4.918 [124.9] 5.890 [149.6] \nA Special order only. \n150 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-0202.txt",
+  "ocrTextLength": 1955,
+  "ocrApplied": true,
+  "tabulaTablesPath": "tables_tabula/page-0202.json",
+  "tabulaTablesCsv": "tables_tabula/page-0202.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text\\pages\\page-0202.txt",
+  "bestTextSource": "full_ocr_highdpi",
+  "bestTextLength": 2038,
+  "bestTextAlphaRatio": 0.158
+}

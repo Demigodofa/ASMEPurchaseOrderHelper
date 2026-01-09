@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 251,
+  "globalPageIndex": 1049,
+  "width": 637.2,
+  "height": 811.92,
+  "text": "ASME BPVC,II.A-2025 SA-562/SA-562M \nSPECIFICATION FOR PRESSURE VESSEL PLATES, \nCARBON STEEL, MANGANESE-TITANIUM FOR GLASS \nOR DIFFUSED METALLIC COATINGS \nSA-562/SA-562M \n(Identical with ASTM Specification A562/AS62M-10.) \n949 \ncO \nINTIUINATIONAL \nStandards Worldwide ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-1049.txt",
+  "ocrTextLength": 250,
+  "ocrApplied": true,
+  "bestTextPath": "best_text/pages/page-1049.txt",
+  "bestTextSource": "ocr",
+  "bestTextLength": 250,
+  "bestTextAlphaRatio": 0.704
+}

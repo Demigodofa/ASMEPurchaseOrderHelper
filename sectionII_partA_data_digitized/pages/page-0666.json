@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 666,
+  "globalPageIndex": 666,
+  "width": 597.72,
+  "height": 842.88,
+  "text": "SA-370 ASME BPVC.II.A-2025 \nNot regulated as desired by the knurled thumb screw. By removing \nRubber or adding rollers, the roller chain may be adapted for different \nGasket sizes of tubular sections. \nHydraulic Pressure Une \nFIG. A2.6 Testing Machine for Determination of Transverse Yield \nStrength from Annular Ring Specimens \nwhere: \n(1) P = 2St!D \n(2) S=PD/2t \nP = internal hydrostatic pressure, psi, \n(A2.2) \n(A2.3) \nS = unit circumferential stress in the wall of the tube \nproduced by the internal hydrostatic pressure, psi, \nt = thickness of the tube wall, in., and \nD = outside diameter of the tube, in. \nA2.3.5 A roller chain type extensometer which has been \nfound satisfactory for measuring the elongation of the ring \nspecimen is shown in Figs. A2.7 and A2.8. Fig. A2.7 shows the \nextensometer in position, but undamped, on a ring specimen. \nA small pin, through which the strain is transmitted to and \nmeasured by the dial gauge, extends through the hollow \nthreaded stud. When the extensometer is clamped, as shown in \nFig. A2.8, the desired tension which is necessary to hold the \ninstrument in place and to remove any slack, is exerted on the \nroller chain by the spring. Tension on the spring may be \nA2.4 Hardness Tests \nA2.4.1 Hardness tests are made either on the outside or the \ninside surfaces on the end of the tube as appropriate. \nA2.4.2 The standard 3000 kgf Brinell load may cause too \nmuch deformation in a thin-walled tubular specimen. In this \ncase the 500 kgf load shall be applied, or inside stiffening by \nmeans of an internal anvil should be used. Brinell testing shall \nnot be applicable to tubular products less than 2 in. (51 mm) in \noutside diameter, or less than 0.200 in. (5.1 mm) in wall \nthickness. \nA2.4.3 The Rockwell hardness tests are normally made on \nthe inside surface, a flat on the outside smface, or on the wall \ncross-section depending upon the product limitation. Rockwell \nhardness tests are not performed on tubes smaller than 5 /16 in. \n(7.9 mm) in outside diameter, nor are they performed on the \ninside surface of tubes with less than \u00bc in. (6.4 mm) inside \ndiameter. Rockwell hardness tests are not performed on an\u00ad\nnealed tubes with walls less than 0.065 in. (1.65 mm) thick or \ncold worked or heat treated tubes with walls less than 0.049 in. \n(1.24 mm) thick. For tubes with wall thicknesses less than \nthose permitting the regular Rockwell hardness test, the Su\u00ad\nperficial Rockwell test is sometimes substituted. Transverse \nRockwell hardness readings can be made on tubes with a wall \nthickness of 0.187 in. (4.75 mm) or greater. The curvature and \nthe wall thickness of the specimen impose limitations on the \nFIG. A2.7 Roller Chain Type Extensometer, Unclamped \n614 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-0666.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2733,
+  "bestTextAlphaRatio": 0.7391
+}

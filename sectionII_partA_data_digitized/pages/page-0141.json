@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 141,
+  "globalPageIndex": 141,
+  "width": 620.16,
+  "height": 798.0,
+  "text": "ASME BPVC.II.A-2025 SA-20/SA-20M \nTABLE A1.15 Generally Available Grade-Thickness-Minimum Test Temperature Combinations Meeting Charpy V-Notch Requirements \nIndicated (Normalized or Quenched and Tempered Condition) \nNo'!E 1-The minimwn temperatures listed are for longitudinal tests. For transverse tests, the available minimum temperature may be somewhat higher. \nAcceptance Criteria Charpy V-Notch Test Temperature, \u00b0F for Plate Thicknesses (Unless \nOtherwise Agreed Upon) \nEnergy Absorption \n(based on full-sized specimens) Specification and Grade \nMinimum Average Minimum For 1 in. and Under Over 1 in. to 2 in., Over 2 in. to 3 in., Over 3 in. to 5 in., \nFor3 incl. incl. incl. \nSpecimens 1 Specimen \nft,lbf ft,lbf \n13 10 A203 Grade A -90 -90 -75 \nA203 Grade D -150 -150 -125 \nA516 Grade 55 -60 -60 -50 -50 \nA516 Grade 60 -60 -50 -50 -50 \nA516 Grade 65 -60 -50 -40 -25 \nA537 Class 1 (Over 2\u00bd -4 in.) -75 -50 \nA662 Grade A -75 -75 \nA662 Grade B -60 -60 \n15 12 A203 Grade B -90 -90 -75 \nA203 Grade E -150 -150 -125 \nA203 Grade F (4 in. max) -160 -160 \nA299 Grade A -50 -40 -30 -20 \nA299 Grade B -10 0 +10 +20 \nA516 Grade 70 -50 -40 -30 -20 \nA537 Class 1 (2\u00bd in. max) -80 -75 -75 \nA537 Class 2 (Over 2\u00bd -4 in.) -75 -50 \nA662 Grade C -50 -50 \n20 15 A203 Grade F -160 -160 \nA537 Class 2 (2\u00bd in. max) -90 -90 -90 \nA612 -50 \nA724 Grade A, B, and C -50 \nTABLE A1.16 Charpy V-Notch Test Acceptance Criteria for Various Subsize SpecimensA \nFull Size, 10 by \u00be Size, 10 by %Size, 10 by \u00bd Size, 10 by 5 1/sSize, 10 by \u00bcSize, 10 by \n10mm 7.5mm 6.7mm mm 3.3mm 2.5mm \nft,lbf [J] ft-lbf [J] ft,lbf [J] ft\u2022lbf [J] ft\u2022lbf [J] ft\u2022lbf [J] \n40 [54] 30 [41] 27 [37] 20 [27] 13 [18] 10 [14] \n35 [48] 26 [35] 23 [31] 18 [24] 12 [16] 9 [12] \n30 [41] 22 [30] 20 [27] 15 [20] 10 [14] 8 [11] \n25 [34] 19 [26] 17 [23] 12 [16] 8 [11] 6 [8] \n20 [27] 15 [20] 13 [18] 10 [14] 7 [10] 5 [7] \n16 [22] 12 [16] 11 [15] 8 [11] 5 [7] 4 [5] \n15 [20] 11 [15] 10 [14] 8 [11] 5 [7] 4 [5] \n13 [18] 10 [14] 9 [12] 6 [8] 4 [5] 3 [4] \n12 [16] 9 [12] 8 [11] 6 [8] 4 [5] 3 [4] \n10 [14] 8 [11] 7 [10] 5 [7] 3 [4] 2 [3] \n7 [10] 5 [7] 5 [7] 4 [5] 2 [3] 2 [3] \nA Interpolation shall be made for specimens with widths intermediate of those listed. Interpolated values shall be rounded to the nearest whole number as prescribed in \nPractice E29. \n89 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0141.json",
+  "tabulaTablesCsv": "tables_tabula/page-0141.csv",
+  "tabulaTableCount": 4,
+  "bestTextPath": "best_text/pages/page-0141.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2298,
+  "bestTextAlphaRatio": 0.443
+}

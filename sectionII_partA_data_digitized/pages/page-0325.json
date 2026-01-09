@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 325,
+  "globalPageIndex": 325,
+  "width": 602.64,
+  "height": 846.48,
+  "text": "ASME BPVC.II.A-2025 SA-210/SA-210M (ASTM A210/A210M) \nSPECIFICATION FOR SEAMLESS MEDIUM-CARBON \nSTEEL BOILER AND SUPERHEATER TUBES \nSA-210/SA-210M \n(Identical with ASTM Specification A210/A210M-19.) \n273 \ncO \nINTERNATIONAL \nStandards Worldwide \n(25) ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-0325.txt",
+  "ocrTextLength": 230,
+  "ocrApplied": true,
+  "bestTextPath": "best_text\\pages\\page-0325.txt",
+  "bestTextSource": "full_ocr_highdpi",
+  "bestTextLength": 240,
+  "bestTextAlphaRatio": 0.629
+}

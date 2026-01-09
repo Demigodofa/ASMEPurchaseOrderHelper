@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 152,
+  "globalPageIndex": 152,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "SA-20/SA-20M ASME BPVC.II.A-2025 \nTABLE X4.1 Group Designations for Cold Bending \nSpecification Class Where . Group \nApplicable Grade Where Applicable DesignationA \nA203/A203M A, D B \nB, E C \nF D \nA204/A204M A B \nB C \nC D \nA225/A225M C,D D \nA285/A285M A, B,C A \nA299/A299M A, B D \nA302/A302M A,C,D D \nB E \nA353/A353M D \nA387/A387M 1, 2 2, 11, 12 C \n1 5, 9, 21,21L,22, 22L E \n2 5, 9, 21, 22, 91 E \nA455/A455M C \nA515/A515M 60 or 65 B \n70 C \nA516/A516M 55 A \n60, 65 B \n70 C \nA517/A517M A, B, E, F, H, P, Q, S F \nA533/A533M 1, 2, 3 A, B, C, D, E E \nA537/A537M 1, 2 8 , 3 8 C \n2c' 3c D \nA542/A542M 0 1, 2 F \n3, 4 D \n4a E \nA543/A543M 1, 2, 3 B,C F \nA553/A553M 0 D \nA562/A562M A \nA612/A612M C \nA645/A645M D \nA662/A662M A, B B \nC C \nA724/A724M A, C D \nB E \nA736/A736M 1, 2, 3 A, C D \nA737/A737M B, C B \nA738/A738M A, B D \nca C \ncc D \nA832/A832M 21V, 22V, 23V E \nA841/A841M 1, 2 A, B, C C \n3 D F \nA844/A844M D \nA1017/A1017M 23,122 D \n92, 911 E \nA Steels in Groups A to E inclusive are grouped on the basis of similar specified \nvalues for minimum elongation in 2 in. [50 mm]; Group F includes steels that have \na specified minimum elongation in 2 in. [50 mm] of 16 or less, and steels that have \na ratio of specified minimum tensile strength to specified minimum yield strength of \n1.15 or less. \n8 For thicknesses of 4 in. [100 mm] and less. \n\u00b0 For thicknesses over 4 in. [100 mm]. \n\u00b0 For any type. \nTABLE X4.2 Suggested Minimum Inside Radii for Cold BendingA \nThickness (t), in. [mm] \nGroup \nUp to\u00be in. Over\u00be in. [20 mm] Over 1 in. [25 mm] Over 2 in. Designation 8 \n[20mm] to 1 in. [25 mm], to 2 in. [50 mm], [50mm] incl incl \nA 1.51 1.51 1.51 1.51 \nB 1.51 1.51 1.51 2.0t \nC 1.51 1.51 2.0t 2.51 \nD 1.51 1.51 2.51 3.0t \nE 1.51 1.51 3.0t 3.51 \nF 1.751 2.251 4.51 5.51 \nA Values are for bend lines perpendicular to the direction of final rolling. These radii \napply when the precautions listed in X4.2 are followed. If bend lines are parallel to \nthe direction of final rolling, multiply values by 1.5. \n8 Steels specifications included in the group designations may not include the \nentire thickness range shown in this table. \nHolt, G. E., et al. \"Minimum Cold Bend Radii Project - Final \nReport,\" Concurrent Technologies Corporation, January 27, \n1997. \n100 \nBrockenbrough, R. L., \"Fabrication Guidelines for Cold \nBending,\" R. L. Brockenbrough & Associates, June 28, 1998. ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0152.json",
+  "tabulaTablesCsv": "tables_tabula/page-0152.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0152.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2368,
+  "bestTextAlphaRatio": 0.5211
+}

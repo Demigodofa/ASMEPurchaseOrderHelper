@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 377,
+  "globalPageIndex": 377,
+  "width": 622.44,
+  "height": 861.36,
+  "text": ",_ \nASME BPVC.II.A-2025 SA-232/SA-232M \nTABLE 1 \nTENSILE REQUIREMENTSA \nSI Units \nReduction \nDiameter 8 of Area, \nmm MPa, min MPa, max min,% \n0.50 2060 2260 C \n0.55 2050 2240 C \n0.60 2030 2220 C \n0.65 2010 2200 C \n0.70 2000 2160 C \n0.80 1980 2140 C \n0.90 1960 2120 C \n1.00 1940 2100 C \n1.10 1920 2080 C \n1.20 1900 2060 C \n1.40 1860 2020 C \n1.60 1820 1980 C \n1.80 1800 1960 C \n2.00 1780 1930 C \n2.20 1750 1900 C \n2.50 1720 1860 45 \n2.80 1680 1830 45 \n3.00 1660 1800 45 \n3.50 1620 1760 45 \n4.00 1580 1720 40 \n4.50 1560 1680 40 \n5.00 1520 1640 40 \n5.50 1480 1620 40 \n6.00 1460 1600 40 \n6.50 1440 1580 40 \n7.00 1420 1560 40 \n8.00 1400 1540 40 \n9.00 1380 1520 40 \n10.00 1360 1500 40 \n11.00 1340 1480 40 \n12.00 1320 1460 40 \nInch-Pound Units \nReduction \nDiameter, of Area, \nin. ksi, min ksi, max min,% \n0.020 300 325 C \n0.032 290 315 C \n0.041 280 305 C \n0.054 270 295 C \n0.062 265 290 C \n0.080 255 275 C \n0.105 245 265 45 \n0.135 235 255 45 \n0.162 225 245 40 \n0.192 220 240 40 \n0.244 210 230 40 \n0.283 205 225 40 \n0.312 203 223 40 \n0.375 200 220 40 \n0.438 195 215 40 \n0.500 190 210 40 \nA Tensile strength values for intermediate diameters may be inter-\npo lated. \n8 Preferred sizes. For a complete list, refer to ANSI B.32.4. \nc The reduction of area test is not applicable to wire under 2.50 \nmm [0.105 in.J in diameter. \n325 \nTABLE 2 \nCHEMICAL REQUIREMENTS \nProduct \nAnalysis \nAnalysis,% Tolerance, % \nCarbon 0.48-0.53 \u00b10.02 \nManganese 0.70-0.90 \u00b10.03 \nPhosphorus 0.020 max +0.005 \nSulfur 0.035 max +0.005 \nSilicon 0.15-0.35 \u00b10.02 \nChromium 0.80-1.10 \u00b10.05 \nVanadium 0.15 min -0.01 \nTABLE 3 \nPERMISSIBLE VARIATIONS IN WIRE DIAMETERA \nSI Units \nDiameter, mm \nto 2.0, incl \nOver 2.0 to 4.00, incl \nOver 4.00 to 9.00, incl \nOver 9.00 \nDiameter, in. \n0.020 to 0.075, incl \nOver 0.075 to 0.148, incl \nOver 0.148 to 0.375, incl \nOver 0.375 to 0.500, incl \nPermissible \nVariations, \nplus and \nminus, mm \n0.02 \n0.03 \n0.04 \n0.05 \nInch-Pound \nPermissible \nVariations, \nplus and \nminus, in. \n0.0008 \n0.001 \n0.0015 \n0.002 \nPermissible \nOut-of-Round, \nmm \n0.02 \n0.03 \n0.04 \n0.05 \nPermissible \nOut-of-Round, \nin. \n0.0008 \n0.001 \n0.0015 \n0.002 \nA For purposes of determining conformance with this specification, \nall specified limits are absolute as defined in Practice E 29. ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0377.json",
+  "tabulaTablesCsv": "tables_tabula/page-0377.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0377.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2256,
+  "bestTextAlphaRatio": 0.3621
+}

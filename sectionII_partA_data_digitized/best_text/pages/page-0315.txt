@@ -1,0 +1,91 @@
+ASME BPVC.II.A-2025 SA-203/SA-203M 
+TABLE 1 Chemical Requirements 
+Elements Composition, % 
+Grade A Grade B Grade D Grades E and F 
+Carbon, max:A 
+Up to 2 in. [50 mm] in thickness 0.17 0.21 0.17 0.20 
+Over 2 in. to 4 in. [100 mm] incl. in thickness 0.20 0.24 0.20 0.23 
+Over 4 in. [100 mm] in thickness 0.23 0.25 
+Manganese, max: 
+Heat analysis: 
+2 in. [50 mm] and under 0.70 0.70 0.70 0.70 
+Over 2 in. [50 mm] 0.80 0.80 0.80 0.80 
+Product analysis: 
+2 in. [50 mm] and under 0.78 0.78 0.78 0.78 
+Over 2 in. [50 mm] 0.88 0.88 0.88 0.88 
+Phosphorus, maxA 0.025 0.025 0.025 0.025 
+Sulfur, maxA 0.025 0,025 0.025 0.025 
+Silicon: 
+Heat analysis 0.15-0.40 0.15-0.40 0.15-0.40 0.15-0.40 
+Product analysis 0.13-0.45 0.13-0.45 0.13-0.45 0.13-0.45 
+Nickel: 
+Heat analysis 2.10-2.50 2.10-2.50 3.25-3.75 3.25-3.75 
+Product analysis 2.03-2.57 2.03-2.57 3.18-3.82 3.18-3.82 
+A Applies to both heat and product analyses. 
+TABLE 2 Tensile Requirements 
+Grades A and D Grades B and E Grade F 
+ksi [MPa] ksi [MPa] ksi [MPa] 
+Tensile strength 
+2 in. [50 mm] and under 65-85 
+Over 2 in. [50 mm] 65-85 
+[450-585] 
+[450-585] 
+70-90 
+70-90 
+[485-620] 80-100 [550-690] 
+[485-620} 75-95 [515-655] 
+Yield strength, min 
+2 in. [50 mm] and under 37 
+Over 2 in. [50 mm] 37 
+Elongation in 8 in. [200 mm] min, %A 
+Elongation in 2 in. [50 mm] min, %A.a 
+A See· Specification A20/ A20M for elongation adjustments. 
+8 See 7.1.1. 
+19 
+23 
+[255} 
+[255] 
+5.1.1 All plates of Grades A, B, D, and E shall be normal­
+ized except as permitted by 5. l.1.1. 
+5.1.1.1 If approved by the purchaser for Grades A, B, D, and 
+E, cooling rates faster than air cooling are permissible for 
+improvement of the toughness, provided the plates are subse­
+quently tempered at not less than 1100°F [595°C] for not less 
+than ½h. 
+5 .1.2 All plates of Grade F shall be heat treated by heating 
+into the austenitic range, quenching in water, and tempering at 
+not less than ll00°F [595°C] for not less than ½ h. 
+6.' Chemical Composition 
+6.1 The steel shall conform to the chemical requirements 
+shown in Table 1 unless otherwise modified in accordance with 
+Supplementary Requirement S 17, Vacuum Carbon-Deoxidized 
+Steel, in Specification A20/ A20M. 
+7. Mechanical Properties 
+7.1 Tension Test Requirements-The matetial as represented 
+by the tension test specimens shall conform to the requirements 
+shown in Table 2. 
+40 [275] 55 [380} 
+40 [275] 50 [345] 
+17 
+21 20 
+7 .1.1 For plates that have been heat treated in accordance 
+with 5.1.1.1 or 5.1.2 and have a nominal thickness of¾ in. [20 
+mm] and under, the 1 ½-in. (40-mm) wide rectangular speci­
+men may be used for the tension test, and the elongation may 
+be determined in a 2-in. [50-mm] gage length that includes the 
+fracture and that shows the greatest elongation. When this 
+specimen is used, the elongation shall be not less than 23 %. 
+7.2 Impact Test Requirements: 
+7.2.1 Plates of Grades A, B, D, and E that have been heat 
+treated in accordance with 5. l.1.1 shall be Charpy V-notch 
+impact tested. The impact test shall meet 20 ft • ]bf [27 J]. The 
+test temperature and 01ientation shall be a matter of agreement 
+between the purchaser and supplier. 
+7.2.2 Grade F plates shall be impact tested in accordance 
+with Supplementary Requirement S5 in Specification A20/ 
+A20M. 
+8. Keywords 
+8.1 alloy steel plate; nickel alloy steel; pressure containing 
+parts; pressure vessel steels; steel plates; steel plates for 
+pressure vessel applications 
+263 

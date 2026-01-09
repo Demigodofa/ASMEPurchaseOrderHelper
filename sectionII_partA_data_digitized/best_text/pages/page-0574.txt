@@ -1,0 +1,66 @@
+SA-336/SA-336M (ASTM A336/A336M) ASME BPVCLIL.A-2025
+8.2.1.1 Except as provided for liquid quenched and tem- and tempered forgings for which tests are required at both ends —
+
+pered forgings in 8.2.1.3, the longitudinal axis of the specimen by 8.3.2.3 and 8.3.2.4, separately forged test blocks are not ,
+shall be located midway between the parallel surfaces of the allowed.
+test extension if added to the periphery of disks or midway Norte 1—In using separately forged test blocks, attention is drawn to the
+between the center and surface of solid forgings. For hollow effect of mass differences between the production forgings and the test
+forgings, or those heat-treated after boring, the specimen shall __ blocks. This can be particularly significant when forgings are either
+be located at midwall. For the special case of forgings that are | normalized and tempered or quenched and tempered.
+heat-treated solid, but are subsequently bored, the tension test 8.3 Number and Location of Tests—The number and loca-
+specimen may be taken at the location of the minimum inside _tion of tests are based on forging length, weight, and heat
+diameter after boring instead of the mid-radius position. When _ treatment and shall be as prescribed below. The length and
+separately forged test blocks are employed, as defined in 8.2.3, weight to be used for this purpose shall be the length and
+the tension test specimens shall be taken from a location that —_ weight at the time of heat treatment. ,
+represents the midwall of the heaviest section of the production 8.3.1 Annealed or Normalized and Tempered Forgings:
+
+_ forgings. When specimens are required from opposite ends, 8.3.1.1 For forgings weighing 5000 Ib [2250 kg] or less at
+they shall be taken from the diagonal corners of an axial plane. _the time of heat treatment, one tension test shall be taken from a
+Alternatively, and when specified by the purchaser, the speci- one forging per heat, per heat treatment charge. When heat
+mens shall be taken in accordance with Supplementary Re- treatment is performed in continuous type furnaces with
+quirement S3. suitable temperature controls and equipped with recording
+
+8.2.1.2 For liquid quenched and tempered forgings, the test | pyrometers so that complete heat treatment records are
+specimens shall have their longitudinal axis at least ¥% T of the available, a tempering charge may be considered as any
+maximum heat-treated thickness from any surface and with the continuous run not exceeding an 8 h period.
+mid-length of the specimens at least one T from any second 8.3.1.2 For forgings and forged bars weighing over 5000 Ib
+surface. This is normally referred to as 4 T x T, where T is the [2250 kg] at the time of heat treatment, one tension test shall be
+maximum heat-treated thickness. A thermal buffer may be used __ taken from each forging.
+to adhere to the above condition. 8.3.2 Quenched and Tempered Forgings:
+
+8.2.1.3 For liquid quenched and tempered forgings with 8.3.2.1 For quenched and tempered forgings weighing
+prior purchaser approval, test specimens may be taken at a 5000 Ib [2250 kg] or less at the time of heat treatment, but not
+depth (t) corresponding to the distance from the area of exceeding 12 ft [3.7 m] in length, one tension test shall be
+significant stress to the nearest heat-treated surface and at least taken from one forging per heat, per heat treatment charge.
+twice this distance (2 f) from any second surface. However, the | When heat treatment is performed in continuous type furnaces
+test depth shall not be nearer to one heat-treated surface than | With suitable temperature controls and equipped with recording
+34, in. [19 mm] and to the second treated surface than 142 in. | pyrometers so that complete heat treatment records are
+[38 mm]. This method of test specimen location normally available, a tempering charge may be considered as any
+(known as tx2t testing) applies to thick and complex pressure continuous run not exceeding an 8 h period.
+vessel components where the testing in accordance with 8.2.1.2 8.3.2.2 For quenched and tempered forgings and forged bars
+is not practical. Sketches showing the proposed exact test | weighing over 5000 Ib to 10 000 lb [2250 kg to 4500 kg] at the
+locations shall be approved by the purchaser when this method time of heat treatment, but not exceeding 12 ft [3.7 m] in
+is used. length, one tension test shall be taken from each forging.
+
+, 8.2.2 Except as specified in this specification, tests for 8.3.2.3 Quenched and tempered forgings that exceed 12 ft
+acceptance shall be made after heat treatment has been [3.7 m] in length shall be tension tested at both ends of the
+completed in accordance with Section 6. When the ends of the forging under test. .
+cylindrical forgings are closed in by reforging, the cylindrical 8.3.2.4 For quenched and tempered forgings and forged bars
+forgings may be normalized and tempered or annealed and Weighing more than 10 000 Ib [4500 kg] at the time of heat
+tested before reforging. After reforging, the entire forging shall  ‘eatment, two tension test specimens shall be taken from each
+be reheat-treated in the same manner and at the same tempera- forging. These shall be offset 180° from each other except that -
+ture range as employed when the forging was heat-treated if the length of the forging, excluding test prolongations,
+before certification testing. exceeds 12 ft [3.7 m], then one specimen shall be taken from
+
+8.2.3 When mutually agreed upon between the manufac- each end of the forging.
+turer and the purchaser, test specimens may be machined from 8.4 Notch Toughness Requirements—Grades F3V, F3VCb,
+a specially forged block suitably worked and heat-treated with F22V, and F6NM:
+the production forgings. Such a special block shall be obtained 8.4.1 Impact test specimens shall be Charpy V-notch, as
+from an ingot, slab, or billet from the same heat used to make = shown in Test Methods and Definitions A370. The usage of
+the forgings it represents. This block shall receive essentially | subsize specimens due to material limitations must have prior
+the same type of hot-working and forging reduction as the — purchaser approval.
+production forgings; however, a longitudinally forged bar with 8.4.2 The Charpy V-notch test specimens shall be obtained
+dimensions not less than T x T x 3T may be used to represent as required for tension tests in 8.1 and 8.3. One set of three
+a ring forging. The dimension 7 shall be representative of the | Charpy V-notch specimens shall be taken from each tensile
+heaviest effective cross section of the forging. For quenched specimen location. a
+522 |

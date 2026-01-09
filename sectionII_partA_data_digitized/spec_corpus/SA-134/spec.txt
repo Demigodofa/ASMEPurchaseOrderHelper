@@ -1,0 +1,399 @@
+=== Page 231 ===
+
+ASME BPVC.II.A-2025 SA-134/SA-134M 
+SPECIFICATION FOR PIPE, STEEL, ELECTRIC-FUSION 
+(ARC)-WELDED (SIZES NPS 16 AND OVER) 
+SA-134/SA-134M cO 
+INTERNATIONAL 
+Standards Worldwide 
+(Identical with ASTM Specification A134/A134M-19. For products ordered to Section III, Division 1, Supplementary 
+Requirement Sl is mandatory.) 
+179
+
+=== Page 232 ===
+
+SA-134/SA-134M ASME BPVC.II.A-2025 
+Specification for 
+Pipe, Steel, Electric-Fusion (Arc)-Welded (Sizes NPS 16 and 
+Over) 
+1. Scope 
+1.1 This specification covers electric-fusion (arc)-welded 
+straight seam or spiral seam steel pipe NPS 16 and over in 
+diameter (inside or outside as specified by purchaser), with 
+wall thicknesses up to ¾ in. [19 mm], inclusive. Pipe having 
+other dimensions may be furnished provided such pipe com­
+plies with all other requirements of this specification. The pipe 
+is available in various grades based on the ASTM specification 
+ordered (Section 4). 
+Note 1-Acceptability for many services may be controlled by codes 
+or standards such as those published by the American National Standards 
+Institute and American Society of Mechanical Engineers. 
+Note 2-For testing methods not specifically covered in this 
+specification, reference can be made to Test Methods and Definitions 
+A370, with particular reference to Annex A2 on Steel Tubular Products. 
+Note 3-A comprehensive listing of standardized pipe dimensions is 
+contained in ANSI B 36.10. 
+1.2 The values stated in either SI units or inch-pound units 
+are to be regarded separately as standard. Within the text, the 
+SI units are shown in brackets. The values stated in each 
+system may not be exact equivalents; therefore, each system 
+shall be used independently of the other. Combining values 
+from the two systems may result in non-conformance with the 
+standard. The inch-pound units shall apply unless the "M" 
+designation of this specification is specified in the order. In this 
+specification hard or rationalized conversions apply to 
+diameter, lengths, and tensile properties. Soft conversion ap­
+plies to other SI measurements. 
+Note 4-The dimensionless designator NPS (nominal pipe size) has 
+been substituted in this standard for such traditional terms as "nominal 
+diameter," "size," and "nominal size." 
+1.3 The following caveat pertains specifically to Section 5 
+of this specification. This standard does not purport to address 
+all of the safety concerns, if any, associated with its use. It is 
+the responsibility of the user of this standard to establish 
+180 
+appropriate safety, health, and environmental practices and 
+determine the applicability of regulatory limitations prior to 
+use. 
+l.4 This international standard was developed in accor­
+dance with internationally recognized principles on standard­
+ization established in the Decision on Principles for the 
+Development of International Standards, Guides and Recom­
+mendations issued by the World Trade Organization Technical 
+Barriers to Trade (TBT) Committee. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+A36/A36M Specification for Carbon Structural Steel 
+A283/ A283M Specification for Low and Intermediate Ten­
+sile Strength Carbon Steel Plates 
+A285/ A285M Specification for Pressure Vessel Plates, Car­
+bon Steel, Low- and Intermediate-Tensile Strength 
+A370 Test Methods and Definitions for Mechanical Testing 
+of Steel Products 
+A941 Terminology Relating to Steel, Stainless Steel, Related 
+Alloys, and Ferroalloys 
+A1011/A1011M Specification for Steel, Sheet and Strip, 
+Hot-Rolled, Carbon, Structural, High-Strength Low­
+Alloy, High-Strength Low-Alloy with Improved 
+Formability, and Ultra-High Strength 
+A1018/A1018M Specification for Steel, Sheet and Strip, 
+Heavy-Thickness Coils, Hot-Rolled, Carbon, 
+Commercial, Drawing, Structural, High-Strength Low­
+Alloy, High-Strength Low-Alloy with Improved 
+Formability, and Ultra-High Strength 
+Al058 Test Methods for Mechanical Testing of Steel 
+Products-Metric 
+2.2 ASME Boiler and Pressure Vessel Code: 
+Section Ill 
+Section IX
+
+=== Page 233 ===
+
+\. . --..___, 
+ASME BPVC.II.A-2025 SA-134/SA-134M 
+2.3 American National Standards Institute Standard: 
+B 16.25 Buttwelding Ends 
+B 36.10 Welded and Seamless Wrought Steel Pipe 
+3. Ordering Information 
+3.1 Orders for electric-fusion arc-welded pipe under this 
+specification shall contain information concerning as many of 
+the following items as are required, to describe the desired pipe 
+adequately: 
+3.1.1 Quantity (feet, metres, or number of lengths), 
+3.1.2 Name of material (electric-fusion (arc)-welded pipe), 
+3.1.3 ASTM Specification A134 or A134M and year date, 
+3.1.4 Grade (if applicable) of steel from which the pipe shall 
+be made (Section 4), 
+3.1.5 Size (inside or outside diameter and nominal wall 
+thickness), and 
+3.1.6 Length (specified or random). 
+3.2 The purchaser shall have the option to order additional 
+requirements, including, but not limited to the following: 
+3.2.1 Specific straightness requirements (see 12.3), 
+3.2.2 End finish (Section 14), 
+3.2.3 Hydrostatic Test Pressure (Section 11), 
+3.2.4 Protective coating (Section 20), 
+3.2.5 End use of pipe, and 
+3.2.6 Other special or supplementary requirements, if any. 
+4. Material 
+4.1 The steel from which the pipe is made shall conform to 
+Specifications A36/A36M, A283/A283M, A285/A285M, 
+AlOll/AlOllM, A1018/A1018M, or to other ASTM specifi­
+cations for equally suitable weldable material, as specified. For 
+purposes of marking and certification, when required, the pipe 
+grade of material shall be established by the A xxx plate 
+specification designation and plate grade, when applicable. 
+5. Manufacture 
+5.1 The longitudinal edges of the steel shall be shaped to 
+give the most satisfactory results by the particular welding 
+process employed. The steel shall then be properly formed and 
+may be tacked preparatory to welding. The weld shall be made 
+by automatic means (except tack welds) and shall be of 
+reasonably uniform width and height for the entire length of the 
+pipe. By agreement between the purchaser and the 
+manufacturer, manual welding by qualified procedure and 
+welders may be used as an equal alternate under this specifi­
+cation. 
+5.2 All longitudinal seams, spiral seams, and shop girth 
+seams shall be butt-welded. 
+6. Number of Production Weld Tests 
+6.1 One weld test specimen specified in Section 8 shall be 
+made from each lot of 3000 ft [900 m] of pipe or fraction 
+thereof of each size and wall thickness. 
+6.2 If any test specimen shows defective machining or 
+develops flaws not associated with the welding, it may be 
+discarded and another specimen substituted. 
+6.3 Each length of pipe shall be subjected to the hydrostatic 
+test specified in Section 11, unless otherwise specified in 11.3. 
+7. Retests 
+7.1 If any specimen tested in accordance with Section 10 
+fails to meet the requirements, retests of two additional 
+specimens from the same lot of pipe shall be made, each of 
+which shall meet the requirements specified. If any of the 
+retests fail to conform to the requirements, test specimens may 
+be taken from each untested pipe length at the manufacturer's 
+option. Each specimen shall meet the requirements specified, 
+or that pipe shall be rejected. 
+8. Test Specimens of Production Welds 
+8.1 The weld-test specimens for the reduced-section tension 
+test shall be taken perpendicularly across the weld and from the 
+end of the pipe or, alternatively, from flat test pieces of material 
+conforming to the requirements in the specifications used in the 
+manufacture of the pipe. The alternative weld-test specimens 
+shall be welded with the same procedure and by the same 
+operator and equipment, and in sequence with the welding of 
+the longitudinal joints in the pipe. The test pieces shall have the 
+weld approximately in the middle of the specimen. The 
+specimens shall be straightened cold, and shall be tested at 
+room temperature. 
+8.2 Reduced-section tension-test specimens shall be pre­
+pared in accordance with Fig. A2.3 of Test Methods and 
+Definitions A370, Annex A2 Steel Tubular Products. 
+9. Qualification of Welding Procedure 
+9.1 The welding procedure shall be qualified in accordance 
+with the American Welding Society Standard Qualification 
+Procedure 5 or ASME Section IX of the Boiler and Pressure 
+Vessel Code as agreed to between the manufacturer and the 
+purchaser using the tests and test values specified in 9.2 and 
+9.3. Thicknesses less than 3/s in. [10 mm] shall be qualified for 
+each wall thickness of pipe manufactured. Thicknesses 3/s to ¾ • 
+in. [10 mm to 19 mm], inclusive, shall be qualified in 3/s-in. 
+[10-mm] thickness. 
+181 
+9.2 Two reduced-section tension specimens (transverse 
+weld) made in accordance with Fig. A2.3 of Test Methods and 
+Definitions A370, with the weld reinforcement removed, shall 
+show a tensile strength not less than 100 % of the minimum 
+specified tensile strength of the base material used. 
+9.3 Two face-bend test specimens shall be prepared in 
+accordance with Section A2.5.l.7 of Test Methods and Defi­
+nitions A370 and shall withstand being bent 180° in a jig 
+substantially in accordance with Fig. A2.15.3 of Test Methods 
+and Definitions A370. The bend test shall be acceptable if no 
+cracks·or other defects exceeding 1/s in. [3 mm] in any direction 
+be present in the weld metal or between the weld and the pipe
+
+=== Page 234 ===
+
+SA-134/SA-134M ASME BPVC.II.A-2025 
+metal after bending. Cracks that originate along the edges of 
+the specimens during testing and that are less than ¼ in. [6 
+mm] in any direction, shall not be considered. 
+10. Tensile Properties of Production Welds 
+10.1 Reduced-section tension test specimens required in 
+Section 8, taken perpendicularly across the weld with the weld 
+reinforcement removed, shall show a tensile strength not less 
+than 95 % of the specified minimum strength of the steel. At 
+the manufacturer's option, the test may be made without 
+removing the weld reinforcement, in which case the tensile 
+strength shall be not less than the specified minimum tensile 
+strength for the grade of steel used. 
+11. Hydrostatic.Test (Note 5) 
+11.1 Each length of pipe shall be tested by the manufacturer 
+to a hydrostatic pressure that will produce in the pipe wall a 
+stress of 60 % of the specified minimum yield point of the steel 
+used at room temperature. The pressure shall be determined by 
+the following equation: 
+P = 2St/D 
+where: 
+P = minimum hydrostatic test pressure, psi (Note 6) (not to 
+exceed 2800 psi [19 MPa]), 
+S = 0.60 times the minimum specified yield point of the 
+steel used, psi [MPa], 
+t = specified wall thickness, in. [mm], and 
+D = specified outside diameter, in. [mm]. 
+NoTE 5-A hydrostatic sizing operation is not to be considered a 
+hydrostatic test or a substitute for it. 
+NoTE 6-When the diameter and wall thickness of pipe are such that the 
+capacity limits of testing equipment are exceeded by these requirements, 
+the test pressures may be reduced by agreement between the purchaser and 
+the manufacturer. 
+11.2 Test pressure shall be held for not less than 5 s, or for 
+a longer time as agreed upon between the purchaser and the 
+manufacturer. 
+NoTE 7-When agreed upon between the purchaser and the manufac­
+turer and so stated on the order, pipe may be tested to one and one half 
+times the specified working pressure, except that the maximum test 
+pressure shall not exceed 2800 psi [19 MPa] nor shall the maximum fiber 
+stress exceed 85 % of specified minimum yield point of steel or to a fiber 
+stress that does not exceed 85 % of the specified minimum yield point of 
+the steel or 2800-psi [19-MPa] test pressure. 
+11.3 When specified in the order, pipe may be furnished 
+without hydrostatic testing and each length so furnished shall 
+include the mandatory marking of the letters "NH." 
+Additionally, the certification, when required, shall state "Not 
+Hydrostatically Tested" and the specification number and 
+material grade, as shown on the certification, shall be followed 
+by the letters "NH." 
+12. Permissible Variations in Weights and Dimensions 
+12.1 Thickness and Weight-The wall thickness and weight 
+for welded pipe under this specification shall be governed by 
+the requirements of the specifications to which the steel was 
+ordered. 
+182 
+12.2 Circumference-The outside circumference of the pipe 
+shall not vary more than ±0.5 % from the nominal outside 
+circumference based upon the diameter specified, except that 
+the circumference at ends shall be sized, if necessary, to meet 
+the requirements of Section 14. 
+12.3 Straightness-Finished pipe shall be commercially 
+straight. When specific straightness requirements are desired, 
+the order should so state, and the tolerances shall be a matter of 
+agreement between the purchaser and the manufacturer. 
+12.4 Ovality-Out-of-roundness-The difference between 
+major and minor outside diameter shall not exceed 1 %. Closer 
+tolerances may be established by agreement between the 
+manufacturer and the purchaser. Where the D/I' ( outside 
+diameter/wall thickness) is over 120, internal bracing should be 
+utilized to achieve sizing of ends and ovality shall be by 
+agreement between the manufacturer and purchaser. 
+13. Lengths 
+13.1 Pipe lengths shall be supplied in accordance with the 
+following regular practice: 
+13.1.1 The lengths shall be as specified on the order with a 
+tolerance of±½ in. [13 mm], except that the shorter lengths 
+from which test coupons have been cut may also be shipped. 
+13.1.2 When random lengths are specified, pipe shall be 
+furnished in lengths having a minimum average of 29 ft [9 m] 
+with a minimum length of 20 ft [6 m], but not more than 5 % 
+may be under 25 ft [8 m]. 
+13.2 Pipe lengths containing circumferentially welded joints 
+(Note 8) shall be permitted by agreement between the manu­
+facturer and the purchaser. Tests of these welded joints shall be 
+made in accordance with the procedure tests specified in 
+Section 9 and the production weld tests specified in Section 10. 
+The number of production weld tests shall be one per each lot 
+of 100 joints or fraction thereof, but not less than one for each 
+welder or welding operator. 
+NoTE 8-Joints are defined for the purpose of this specification as a 
+circumferential welded seam lying in one plane, used to join lengths of 
+straight pipe. 
+14. Ends 
+14.1 Pipe shall be furnished with a plain right-angle cut or 
+with bevel ends as specified. All burrs at the ends of pipe shall 
+be removed. 
+14.1.1 Unless otherwise specified, pipe with beveled ends 
+shall meet the requirements of ANSI B 16.25. 
+14.2 Unless otherwise specified, the outside circumference 
+of pipe ends for a distance of not less than 4 in. [100 mm] shall 
+not vary more than ± 60 % of the nominal wall thickness of the 
+pipe from the nominal outside circumference based on the 
+diameter specified, except that the tolerance shall not be less 
+than ± 3/16 in. [5 mm]. 
+14.3 By agreement between the manufacturer and the pur­
+chaser the ends of the pipe may be sized within agreed-upon 
+tolerances if necessary to meet the requirements of special 
+installations.
+
+=== Page 235 ===
+
+ASME BPVC.II.A--2025 SA-134/SA-134M 
+15. Finish 
+15.1 Repair by Welding-The welding of injurious defects 
+in the pipe wall, provided their depth does not exceed one third 
+the specified wall thickness, will be permitted. Defects in the 
+welds, such as sweats or leaks, shall be repaired or the piece 
+rejected at the option of the manufacturer. Repairs of this 
+nature shall be made by completely removing the defect, 
+cleaning the cavity, and then welding. 
+15.2 All repaired pipe shall be tested hydrostatically in 
+accordance with Section 11, unless otherwise specified in 11.3. 
+16. Inspection 
+16.1 The inspector representing the purchaser shall have 
+entry at all times while work on the contract of the purchaser 
+is being performed, to all parts of the manufacturer's works 
+that concern the manufacture of the material ordered. The 
+manufacturer shall afford the inspector all reasonable facilities 
+to satisfy him that the material is being furnished in accordance 
+with this specification. All tests and inspection shall be made at 
+the place of manufacture prior to shipment and unless other­
+wise specified, shall be so conducted as not to interfere 
+unnecessarily with the operation of the works. If agreed upon, 
+the manufacturer shall notify the purchaser in time so that he 
+may have his inspector present to witness any part of the 
+manufacture or tests that may be desired. The certification shall 
+include reference to this specification and the pipe grade 
+(ASTM plate specification designation and plate grade, when 
+applicable). 
+16.2 Certification-Upon request of the purchaser in the 
+contract or order, a manufacturer's certification that the mate­
+rial was manufactured and tested in accordance with this 
+specification together with a report of the chemical and tensile 
+tests shall be furnished. When hydrostatic test is omitted, the 
+certificate shall include the letters "NH." 
+17. Rejection 
+17.1 Each length of pipe received from the manufacturer 
+may be inspected by the purchaser and, if it does not meet the 
+requirements of this specification based on the inspection and 
+test method as outlined in the specification, the length may be 
+rejected, and the manufacturer shall be notified. Disposition of 
+rejected pipe shall be a matter of agreement between the 
+manufacturer and the purchaser. 
+17 .2 Pipe found in fabrication or in installation to be 
+unsuitable for the intended use, under the scope and require­
+ments of this specification, may be set aside and the manufac­
+turer notified. Such pipe shall be subject to mutual investiga­
+tion as to the nature and severity of the deficiency and the 
+forming or installation, or both, conditions involved. Disposi­
+tion shall be a matter of agreement between the purchaser and 
+the manufacturer. 
+18. Certification 
+18.1 Upon request of the purchaser in the contract or order, 
+a manufacturer's certification that the material was manufac­
+tured and tested in accordance with this specification, including 
+year date, together with a report of the chemical and tensile 
+tests shall be furnished. The pipe grade shall be identified by 
+the plate specification designation (year date not required) and 
+the plate grade (where applicable). 
+19. Product Marking 
+19.1 Each section of pipe shall be marked with the manu­
+facturer's distinguishing marking, this specification number, 
+and the pipe grade. The marking need not include the year date 
+of the pipe or plate specification. 
+19.2 Bar Coding-In addition to the requirements in 19.1, 
+bar coding is acceptable as a supplemental identification 
+method. The purchaser may specify in the order a specific bar 
+coding system to be used. 
+20. Protective Coating 
+20.1 If agreed upon between the purchaser and the 
+manufacturer, the pipe shall be given a protective coating of the 
+kind and in the manner specified by the purchaser. 
+SUPPLEMENTARY REQUIREMENTS 
+One or more of the following supplementary requirements shall be applied only when specified by 
+the purchaser in the inquiry, contract, or order. Details of these supplementary requirements shall be 
+agreed upon in writing by the manufacturer and purchaser. Supplementary requirements shall in no 
+way negate any requirement of the specification itself. 
+Sl. ASME Section III Construction 
+S 1.1 Products furnished under this specification that are 
+intended for application under the rules of the ASME Boiler 
+and Pressure Vessel Code Section III, Class 3 Piping, shall be 
+manufactured by holders of the appropriate ASME Certificate 
+of Authorization and Certification Mark. The product is subject 
+to all applicable requirements of Section III, Class 3 Piping, 
+183 
+including welding, heat treatment, nondestructive examination, 
+authorized inspection at the point of manufacture, and appli­
+cation of the Certification Mark. 
+S 1.2 The applicable ASME Partial Data Report Form, 
+signed by an Authorized Nuclear Inspector, and a material test 
+report shall be furnished for each lot of pipe.

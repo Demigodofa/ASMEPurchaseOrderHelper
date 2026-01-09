@@ -1,0 +1,21 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 529,
+  "globalPageIndex": 1327,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "Tensile \nspecimen \nASME BPVC.II.A-2025 \nFIG. Sl5.l SPECIMEN FROM CASTING \nThickness added \ndue to taper \n' \nGage \nlength \nT \n\"Cl \n(I) \n\"Cl \n\"Cl \n\"' \nSA-781/SA-781M \n1_------------. \nT \"T\"~ II:: ..- Thickness added due to taper 'I' \n~-++'7\",i,t,...,_\"'7'1+-~ Height= T + N + D + l/Viot 1_ : \n\u2022 \"T\" min. I \n~ 1 h \"T\" ~in . .J'-+-~-\u2794-L-,-h--+\"-T'-' m-in _______ _. \nMinimum length of the base-Specimen gage length+ 2xT + 2x the \nthickness due to the taper. \nMinimum width of the base-T + 2x the thickness added due to the taper. \nMinimum height-T + Nx D+ Wtot \nThe taper is to be selected by the producer for ease of drawing the \npattern from the mold. \nwhere: \nN = number of specimens to be cut from one side of the coupon, \nD = diameter of the specimens, and \n(bl Cylinder \nWiot = the total width of metal required to remove the coupon from the casting, \nand to machine specimens from the coupon. \nGENERAL NOTE: Longitudinal axis and gage length of test specimen must be within shaded zone. \n1263 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-1327.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 996,
+  "bestTextAlphaRatio": 0.6365,
+  "noteOcrPath": "note_ocr/page-1327.txt",
+  "noteOcrCount": 0,
+  "noteOcrNotes": [],
+  "noteOcrHighDpiPath": "note_ocr_highdpi/page-1327.txt",
+  "noteOcrHighDpiCount": 0,
+  "noteOcrHighDpiNotes": []
+}

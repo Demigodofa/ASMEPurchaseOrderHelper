@@ -1,0 +1,1030 @@
+=== Page 459 ===
+
+ASME BPVC.IIA-2025 | SA-276
+SPECIFICATION FOR STAINLESS STEEL BARS AND
+SHAPES | |
+SA-276/SA-276M ily
+® Standards Worldwide
+7: (Identical with ASTM Specification A276/A276M-17.)
+407
+
+=== Page 460 ===
+
+SA-276 ASME BPVC.II.A-2025 
+Specification for 
+Stainless Steel Bars and Shapes 
+1. Scope 
+1.1 This specification covers hot-finished or cold-finished 
+bars except bars for reforging (Note 1). It includes rounds, 
+squares, and hexagons, and hot-rolled or extruded shapes, such 
+as angles, tees, and channels in the more commonly used types 
+of stainless steels. The free-machining types (Note 2) for 
+general corrosion resistance and high-temperature service are 
+covered in a separate specification. 
+NoTE 1-For bars for reforging, see Specification A314. 
+NoTE 2-For free-machining stainless bars designed especially for 
+optimum machinability, see Specification A582/A582M. 
+NoTE 3-There are standards covering high nickel, chromium, auste­
+nitic corrosion, and heat-resisting alloy materials. These standards are 
+under the jurisdiction of ASTM Subcommittee B02.07 and may be found 
+in Annual Book of ASTM Standards, Vol. 02.04. 
+1.2 The values stated in either SI units or inch-pound units 
+are to be regarded separately as standard. Within the text, the 
+SI units are shown in brackets. The values stated in each 
+system may not be exact equivalents; therefore, each system 
+shall be used independently of the other. Combining values 
+from the two systems may result in non-conformance with the 
+standard. The inch-pound units shall apply unless the "M" 
+designation of this specification is specified in the order. 
+2. Referenced Documents 
+2.l ASTM Standards: 
+A314 Specification for Stainless Steel Billets and Bars for 
+Forging 
+A370 Test Methods and Definitions for Mechanical Testing 
+of Steel Products 
+A484/ A484M Specification for General Requirements for 
+Stainless Steel Bars, Billets, and Forgings 
+A582/A582M Specification for Free-Machining Stainless 
+Steel Bars 
+408 
+A751 Test Methods, Practices, and Terminology for Chemi­
+cal Analysis of Steel Products 
+Al058 Test Methods for Mechanical Testing of Steel 
+Products-Metric 
+E527 Practice for Numbering Metals and Alloys in the 
+Unified Numbering System (UNS) 
+2.2 SAE Document: 
+SAE J 1086 Recommended Practice for Numbering Metals 
+and Alloys 
+3. Ordering Information 
+3.1 It is the responsibility of the purchaser to specify all 
+requirements that are necessary for material ordered under this 
+specification. Such requirements rnay include but are not 
+limited to the following: 
+3.1.1 Quantity (weight or number of pieces), 
+3.1.2 Name of material: stainless steel, 
+3.1.3 Form (bars, angles, and so forth), 
+3.1.4 Condition (Section 4.1), 
+3.1.5 Finish (Section 8 of Specification A484/A484M), 
+3.1.6 Surface preparation of shapes (Section 8 of Specifica-
+tion A484/A484M), 
+3 .1. 7 Applicable dimensions including size, thickness, 
+width, and length, 1, 
+3.1.8 Cross section (round, square, and so forth), 
+3.1.9 Type or UNS designation (Table 1), 
+3.1.10 ASTM designation and date of issue, and 
+3 .1.11 Whether bars are to be rolled as bars or cut from strip 
+or plate. 
+3.1.12 Test for magnetic permeability when specified by 
+customer purchase order when ordering Types 201 and 205. 
+3 .1.13 Choice of testing track from the options listed in Test 
+Methods A1058 when material is ordered to an M suffix (SI 
+units) product standard. If the choice of test track is not 
+specified in· the order, then the default ASTM track shall be 
+used as noted in Test Methods A1058. 
+3.1.14 Supplementary requirements, and 
+3.1.15 Additional requirements.
+
+=== Page 461 ===
+
+ASME BPVC.II.A-2025 SA-276
+_. TABLE 1 Chemical Requirements”
+Composition, %
+UNS
+Designa- Type
+inn
+tron Carbon Manganese | Phos- Sulfur | Silicon Chromium Nickel Molyb- Nitrogen Other Elements‘
+phorus denum
+Austenitic Grades
+N0O8020 | Alloy 20 | 0.07 2.00 0.045 0.035 1.00 19.0-21.0 32.0-38.0 2.00-3.00 |]... Cu 3.0~4.0
+Nb 8 x C min.;
+1.00 max
+NO8367 |... 0.030 2.00 0.040 0.030 1.00 20.0—22.0 23.5-25.5 6.0-7.0 0.18-0.25 | Cu 0.75
+NO8700 |... 0.04 2.00 0.040 0.030 1.00 19.0-23.0 24.0-26.0 4.3-5.0 wee Cu 0.50
+Cb 8 x C min
+0.40 max
+NO88s00 | 800 0.10 1.50 0.045 0.015 1.00 19,0-23.0 30.0-35.0 wae a Fe’ 39.5 min.
+Cu 0.75
+. . Al 0.15-0.60 .
+Ti 0.15-0.60
+oo N0O8810 | 800H 0.05-0.10 | 1.50 0.045 0.015 1.00 19.0-—23.0 30.0—35.0 tae a Fe’ 39.5 min.
+) Cu 0.75
+4 Al 0.15—0.60
+Ti 0.15-0.60
+NO8811 |]... 0.06—0.10 | 1.50 0.045 0.015 1.00 19.0-23.0 30.0—35.0 a ee Fe’ 39.5 min. .
+: Cu_0.75
+: Al* 0.25-0.60
+TIX 0.25-0.60
+NO8904 | 904L | 0.020 2.00 0.045 0.035 1.00 19.0-23.0 23.0-28.0 4.0-5.0 0.10 | Cu. 1.0-2.0
+. NO8925 |... 0.020 | 1.00 0.045 0.030 0.50 19.0-21.0 24.0—26.0 6.0—7.0 0.10—-0.20 {| Cu 0.80—1.50 |
+NO8926 |... 0.020 | 2.00 0.030 0.015 0.50 19.0-21.0 24.0—26.0 6.0-7.0 0.15~-0.25 | Cu 0.50—1.50
+$20100 | 201 1 0.15 | 5.5—-7.5 | 0.060 0.030 1.00 16.0—18.0 3.5-5.5 a | 0.25 wae
+$20161 wee 0.15 | 4.0-6.0 0.045 0.030 3.0—4.0 15.0-18.0 4.0-6.0 Lee 0.08-0.20 |... |
+$20162 |... 0.15 4.0-8.0 0.040 0.040 2.5-4.5 16.5-21.0 6.0—10.0 0.50—-2.50 | 0.05-0.25 |... |
+$20200 | 202 10.15 | 7.5-10.0 0.060 {| 0.030 1.00 17.0-19.0 4.0-6.0 ee 0.25 a
+$20500 | 205 1 0.12-0.25 | 14.0-15.5 | 0.060 0.030 1.00 16.5-18.0 1.0-1.7 ee 0.32-0.40 |... .
+S20910 | XM-19 | 0.06 | 4.0-6.0 0.045 0.030 1.00 20.5-23.5 | 11.5-13.5 1.50-3.00 | 0.20-0.40 | Cb 0:10-—0.30,
+| | | V 0.10-0.30
+. $21800 |... 0.10 | 7.0-9.0 0.060 0.030 3.5-4.5 16.0—18.0 8.0-9.0 |... 0.08-0.18 |]... .
+E $21900 | XM-10 0.08 | 8.0-10.0 0.045 0.030 1.00 19.0-21.5 5.5-7.5 a 0.15-0.40 |...
+| .
+$21904 | XM-11 0.04 8.0-10.0 | 0.045 0.030 1.00 19.0-21.5 5.5-7.5 a 0.15-0.40 |... .
+$24000 | XM-29 0.08 11.5-14.5 0.060 | 0.030 1.00 17.0-19.0 2.3-3.7 _ 0.20-0.40 |...
+S24100 | XM-28 | 0.15 11.0-140 {| 0.045 | 0.030 1.00 16.5—19.0 0.50-2.50 wae 0.20-0.45 |... /
+S$28200 |... . | 0.15 17.0-19.0 0.045 0.030 1.00 17.0-19.0 _ 0.75-1.25 | 0.40-0.60 | Cu 0.75-1.25
+$30200 | 302 1 0.15 2.00 0.045 0.030 1.00 — 17.0-19.0 8.0-10.0 yas | 0.10 ee
+$30215 | 302B | 0.15 2.00 0.045 0.030 2.00-—3.00 17.0-19.0 8.0-10.0 Lae 0.10 _—
+$30400 | 304 0.08 | 2.00 0.045 0.030 1.00 18.0-20.0 8.0—11.0 _ _ ee
+S30403 | 304L° 0.030 2.00 0.045 | 0.030 1.00 | 18.0-20.0 {| 8.0-12.0 Lee a a
+$30451° | 304N 0.08 2.00 0.045 0.030 | 1.00 18.0-20.0 8.0—11.0 a 0.10-O0.16]... |
+$30452 | XM-21 | 0.08 | 2.00 | 0.045 0.030 1.00 _ 18.0-20.0 8.0—10.0 _— 0.16-0.30 |...
+$30453 | 304LN | 0.030 | 2.00 | 0.045 0.030 1.00 18.0-20.0 ~ 8.0-11.0 _ 0.10-0.16 ] ...
+$30454 |... 0.03 2.00 0.045 0.030 1.00 | 18.0-20.0 8.0—11.0 a 0.16-0.30 |...
+$30500 | 305 1 0.12 | 2.00 0.045 0.030 1.00 17.0—19.0 11.0—13.0 bee wae du...
+$30800 | 308 | 0.08 | 2.00 0.045 0.030 1.00 19.0-21.0 10.0-12.0 a a _
+; $30815 |... 0.05—0.10 | 0.80 0.040 0.030 1.40-—2.00 20.0~—22.0 10.0-12.0 a 0.14—0.20 | Ce 0.03-0.08
+: ; $30900 | 309 0.20 2.00 0.045 0.030 1.00 22.0—24.0 12.0-15.0 a _ _—
+oe $30908 | 309S 0.08 2.00 | 0.045 0.030 1.00 22.0—24.0 12.0-15.0 wae wee ee
+$30940 | 309Cb 0.08 2.00 0.045 0.030 .} 1.00 22.0-24.0 12.0-16.0 _ a Cb 10xC-1.10
+$31000 | 310 0.25 ~ | 2.00 0.045 0.030 1.50 24.0-26.0 19.0-22.0 a _ _—
+$31008 | 3108S 0.08 2.00 0.045 0.030 1.50 24.0-26.0 19.0-22.0 wae a Lee
+S$310107 |... 0.030 5.50-6.50 0.030 0.0010 }| 0.25-0.75 28.5-30.5 14.0-16.0 1.5-2.5 0.80—0.90 | Al 0.05
+: : B 0.005
+$31040 | 310Cb 0.08 2.00 0.045 0.030 1.50 24.0-—26.0 19.0-22.0 a Lee Cb 10xC-1.10
+831254 |... 0.020 1.00 0.030 0.010 0.80 19.5-20.5 17.5—18.5 6.0-6.5 0.18-0.25 | Cu 0.50—1.00
+$31266 |]... 0.030 2.00—4.00 0.035 0.020 1.00 23.0~25.0 21.0-24.0 5.2-6.2 0.35-0.60 | Cu 1.00-2.50
+W 1.50—2.50
+$31400 | 314 0.25 2.00 | 0.045 0.030 1.50—3.00 23.0-26.0 | 19.0—22.0 a bee a
+$31600 | 316 0.08 2.00 0.045 0.030 1.00 16.0-18.0 10.0-14.0 2.00-3.00 |... vee
+S$31603 | 316L°° } 0.030 | 2.00 0.045 0.030 1.00 16.0-—18.0 10.0-14.0 2.00-3.00 |... ee
+$31635 | 316Ti 0.08 2.00 0.045 0.030 1.00 16.0—18.0 10.0-14.0 2.00—3.00 | 0.10. Ti 5x(C+N)-0.70
+; $31640 | 316Cb 0.08 2.00 0.045 0.030 1.00 16.0-18.0 10.0-14.0 2.00-—3.00 | 0.10 Cb 10xC-1.10
+409
+
+=== Page 462 ===
+
+SA-276 ASME BPVC.ILA-2025
+
+TABLE 1 Continued
+
+uns Composition, %
+Designa- | Type
+tion Carbon | Manganese | Phos- | Sulfur | Silicon Chromium Nicket Molyb- | Nitrogen} Other Elements’
+phorus denum
+savest | s1en | 008 200 0.045 | 0090 | 7.00 760-180 | 100-140 | 200-300 | o.10-0.16
+sat653 | s16LN } 0030 | 200 0.045 | 0.030 | 1.00 160-180 | 100-130 | 200-300 | 0.10-0.16 | ...
+S$31654 |... 0.03 2.00 0.045 0.030 1.00 16.0-18.0 10.0-13.0 2.00-3,00 | 0.16-0.30
+$31700 | 317 0.08 2.00 0.045 0.030 1.00 18.0-20.0 11.0-15.0 3.04.0 0.10 ane
+$31725 |. 0.030 2.00 0.045, 0.030 1,00 18.0-20.0 13.5-17.5 4.0-5.0 0.20
+$31726 0.030 2.00 0.045, 0.030 1.00 17.0-20.0 14.5-17.5 4.0-5.0 0.10-0.20 | ..
+831727 0.030 | 1.00 0.030 | 0.030 | +00 i7s-i90 | 145-465 | 3845 | 015-021 | cuze4o
+$31730 0.030 | 200 oo40 | oto | 1.00 io-iv0 | 150-165 | 30-40 | 008 | cu4oso
+$32053 0.030 1,00 0.030 0.010 1.00 22.0-24.0 24.0-26.0 5.0-6.0 0.17-0.22 | ..
+332100 0.08 2.00 0.045 | 0.030 | 1.00 ‘0-190 | s0120 |. . Ti 5x(C#N}-0.70
+$32654 0.020 2.0-4.0 0.030 0.005 0.50 24,0-25.0 21.0-23.0 7.0-8.0 0.45-0.55 | Cu 0.30-0.60
+$34565 |... 0.030 5.0-7.0 0.030 0.010 1.00 23.0-25.0 16.0-18.0 4.0-5.0 0.40-0.60 | Cb 0.10
+s34700 | 347 | 0.08 2.00 0.045 | 0.030 | 3.00 ‘0-190 | 90120 |. . Cb 10xC-1.10
+$34800 | 348 0.08 2.00 0.045, 0.030 1.00 17.0-19.0 9.0-12.0 (Cb 10xC-1.10,
+Ta 0.10
+Co 0.20
+‘Austenitic Fenflic Grades
+$31100 | XM-26 0.06 1,00, 0.045, 0.030 1,00 25.0-27.0 6.0-7.0 wee wae Ti 0.25
+szia03 |... | 0030 ‘| 200 0.030 | 0.020 | 1.00 2io230 | 45-65 |25-05 | 008020]...
+saziot | | 004 | 40-60 | 0040 | 0.030 | 1.00 210-220 | 1.35-1.70 | 0.10-0.0 | 020-025 | Cu0.10-0.80
+$32202 |... 0.030 2.00 0.040 0.010 1,00 21.5-24.0 1.00-2.80 0.45 0.18-0.26 | .
+32205 | |. 0.030 | 200 0.030 | 0.020 | +.00 220-230 | 45-65 |30-35 |o14020].
+$32304 0.030 2.50 0.040 0.030 1.00 21.5-24.5 3.0-5.5 0.05-0.60 | 0.05-0.20 | Cu 0.05~-0.60
+$32506 | . 0.030 1,00 0.040 0.015 0.90 24.0-26.0 5.5-7.2 3.0-3.5 0.08-0.20 | W 0.05-0.30
+saess0 |... | 004 4:50 o.040 | 0.030 | 1.0 2ao-270 | 45-65 | 29-39 | 010-025 | cu 1.50-2.50
+$32750 0.030 1.20 0.035, 0.020 0.80 24,0-26.0 6.0-8.0 3.0-5.0 0.24-0.32 | Cu 0.50
+832760" 0030 | 1.00 0.030 | 0010 | 1.00 240-260 | 60-80 | 30-40 | 020-030 | cu0.50-1.00
+W 0.50-1.00
+$82441 nes 0.030. 2.5-4.0 0.035, 0.005, 0.070 23.0-25.0 3.0-4.5 1,00-2.00 | 0.20-0.30 | Cu 0.10-0.80
+Ferritic Grades
+40500 | HS [008 700 0040] 0.030 7.00 Saas 080 [os - Ai0.10-0.50
+s40976 |... 0.030 1.00 0.040 | 0.030 | 1.00 105-11.7 | 0.75-1.00 |... 0.040 Cb 10x(C+N)-
+0.80
+s4z900 | 429 | 0.12 4.00 0.040 | 0.030 | 1.00 140-160 ce
+s4s000 | 40 | 0.12 4.00 0.040 | 0.030 | 1.00 16.0-18.0 ao : :
+$44400 | 444 0.025 1.00 0.040 0.030 1,00 17.5-19.5 1,00 0.035, Ti+Cb 0.20+4 x
+(C+N)-
+0.80
+S$44600 | 446 0.20 1.50 0.040 0.030 1,00 23.0-27.0 0.75 oo 0.25 ae
+844627 | xm-27° | 0010” | 0.40 0.020 | 0.020 | 0.40 250-275 oso | 075-150] 001s" | cuoz0
+Cb 0.05-0.20
+$44700 |... 0.010 0.30 0.025 0.020 0.20 28.0-30.0 0.15, 3.54.2 0.020 C+N 0.025
+Cu 0.15.
+$44800 |... 0.010 0.30 0.025 0.020 0.20 28.0-30.0 2.00-2.50 3.5-4.2 0.020 C+N 0.025
+Cu 0.15.
+Nartensiio Grades
+$40300 | 403 0.15 1.00 0.040 0.030 0.50 11.5-13.0 _—
+$41000 | 410 0.08-0.15 | 1.00 0.040 0.030 1.00 11.5-13.5 oo
+$41040 | XM-30 0.18 1.00 0.040 0.030 1.00 11.0-13.0 vee
+$41400 | 414 0.15 1.00 0.040 0.030 1.00 11.5-13.5 1.25-2.50 .
+saras |}... | 005 050-100 | 0020 | 0.005 | 0.50 120-150 | 40-70 | 160-200
+841500 | / 0.05 0.50-1.00 0.030 0.030 0.60 11.5-14.0 3.5-5.5 0.50-1.00
+s42000 | 420 | 0.15 min | 1.00 0.040 | 0.030 | 1.00 120-140 i. i
+$42010 | .. 0.15-0.30 | 1.00 0.040 0.030 1.00 13.5-15.0 0.35-0.85 0.40-0.85
+sasio0 | 431 | 020 4.00 0.040 | 0.030 | 1.00 150-170 | 125-250 |...
+$44002 | 440A 0.60-0.75 | 1.00 0.040 0.030 1.00 16.0-18.0 nae 0.75
+$44003 | 440B 0.75-0.95 | 1.00 0.040 0.030 1.00 16.0-18.0 ae 0.75
+$44004 | 440C 0.95-1.20 | 1.00 0.040 0.030 1.00 16.0-18.0 oe 0.75
+
+Maximum, unless range or minimum is indicated. Where ellipses (,. .) appear in this table, there is no requirement and the element need not be determined or reported.
+® Designations established in accordance with Practice E527 and SAE J 1086.
+
+© For some applications, the substitution of Type 304L for Type 304, or Type 316L for Type 316 may be undesirable because of design, fabrication, or service requirements.
+In such cases, the purchaser should so indicate on the order.
+
+UNS $31010 is a highly alloyed austenitic stainless steel type 3b as defined in NACE MRO175/ISO 15156-3.
+
+Nitrogen content is to be reported for this grade.
+
+F% Cr+ 3.3 x % Mo + 16 x %N = 40.
+
+© Nickel plus copper shall be 0.50 % max.
+
++’ Product analysis tolerance over the maximum limit for carbon and nitrogen shall be 0.002 %.
+
+410
+
+=== Page 463 ===
+
+ASME BPVC.II.A-2025 SA-276 
+1 Wrought version of CA 6NM. 
+J Iron shall be determined arithmetically by difference of 100 minus the sum of specified elements. 
+K (Al + Ti) = 0.85 • 1.20. 
+LThe terms Columbium (Cb) and Niobium (Nb) both relate to the same element. 
+M % Cr+ 3.3 x % Mo+ 16 x % N ;eo 41. 
+Norn 4---A typical ordering description is as follows: 5000 lb [2270 kg] 
+Stainless Steel Bars, Annealed and Centerless Ground, 1 V2 in. [40 mm] 
+Round, 10 to 12 ft [3 to 3.7 m] in length, Type 304, ASTM Specification 
+A276/A276M dated __ . End use: machined valve parts. 
+4. Manufacture 
+4.1 Condition: 
+4.1.1 Bars shall be furnished in one of the following 
+conditions listed in the Mechanical Requirements table: 
+4.1.1.1 Condition A-Annealed. 
+4.1.1.2 Condition H-Hardened and tempered at a relatively 
+low temperature. 
+4.1.1.3 Condition T-Hardened and tempered at a relatively 
+high temperature. 
+4.1.1.4 Condition S- Strain Hardened-Relatively light 
+cold work. 
+4.1.1.5 Condition B-Relatively severe cold work. 
+4.1.1.6 Condition SA-Stabilized annealed. 
+5. Chemical Composition 
+5 .1 The steel shall conform to the requirements for chemical 
+composition specified in Table 1. 
+5.2 Methods and practices relating to chemical analysis 
+required by this specification shall be in accordance with Test 
+Methods, Practices, and Terminology A751. 
+6. Mechanical Properties Requirements 
+6.1 The material shall conform to the mechanical test 
+requirements specified in Table 2. 
+6.2 The martensitic grades shall be capable of meeting the 
+hardness requirements after heat treating as specified in Table 
+3. 
+6.3 Hardness measurements, when required, shall be made 
+at a location midway between the surface and the center of the 
+cross section. 
+7. Magnetic Permeability 
+7 .1 When required by the purchase order, the magnetic 
+permeability of Types 201 and 205 in the annealed condition 
+shall not exceed 1.2 as tested by a Severn-type indicator. 
+8. General Requirements 
+8.1 In addition to the requirements of this specification, all 
+requirements of the current edition of Specification A484/ 
+A484M shall apply. Failure to comply with the general 
+requirements of Specification A484/ A484M constitutes non­
+conformance to this specification. 
+9. Certification 
+9.1 Upon request of the purchaser in the contract or order, 
+the producer's certification that the material was manufactured 
+and tested in accordance with this specification, together with 
+a certified report of the test results shall be furnished at the time 
+of the shipment. 
+411 
+10. Keywords 
+10.1 austenitic stainless steel; austenitic-ferritic duplex 
+stainless steel; ferritic stainless steel; martensitic stainless steel; 
+stainless steel bars; stainless steel shapes
+
+=== Page 464 ===
+
+SA-276 ASME BPVC.ll.A-2025 
+TABLE 2 Mechanical Requirements 
+Brinell 
+Tensile Yield Strength/ Hard-
+Strength, Elonga- Reduc- ness, min lion in 2 Diameter or Thickness, min lion of HBW Type Condition Finish in. [mm] in. [50 mm] 8 
+Area, c. 0 unless or4D 
+min% min, % otherwise 
+ksi MPa ksi MPa indicated, E 
+max 
+Austenitic Grades 
+N08020 SA hot-finished or all 80 [550] 35 [240] 30 50 
+cold-finished 
+N08367 A hot-finished or all 95 655 45 310 30 50 
+cold-finished 
+N08700 A hot-finished or all 80 550 35 240 30 50 
+cold-finished 
+N08800 800 A hot-finished or all 75 515 30 205 30 192 
+cold-finished 
+N08810 800H A hot-finished or all 65 450 25 170 30 192 
+cold-finished 
+N08811 A hot-finished or all 65 450 25 170 30 192 
+cold-finished 
+N08904 904L A hot-finished or all 71 490 31 220 35 
+cold-finished 
+N08925 A hot-finished or all 87 600 43 295 40 217 
+cold-finished 
+N08926 A hot-finished or all 94 650 43 295 35 256 
+cold-finished 
+201,202 A hot-finished or all 75 515 40 275 40 45 
+cold-finished 
+S20161 A hot-finished all 125 860 50 345 40 40 255 
+cold-finished all 125 860 50 345 40 40 311 
+S20162 A hot-finished or all 100 690 50 345 50 60 
+cold finished 
+205 A hot-finished or all 100 690 60 414 40 50 
+cold-finished 
+XM-19 A hot-finished or all 100 690 55 380 35 55 
+cold-finished 
+As hot-finished or up to 2 [50.8], incl 135 930 105 725 20 50 
+hot- cold-finished 
+rolled 
+over 2 to 3 [50.8 to 76.2], 115 795 75 515 25 50 
+incl 
+over 3 to 8 [76.2 to 203.2], 100 690 60 415 30 50 
+incl 
+S21800 A hot-finished or all 95 655 50 345 35 55 241 
+cold-finished 
+XM-10, XM-11 A hot-finished or all 90 620 50 345 45 60 
+cold-finished 
+XM-29 A hot-finished or all 100 690 55 380 30 50 
+cold-finished 
+XM-28 A hot-finished or all 100 690 55 380 30 50 
+cold-finished 
+S24565 A hot-finished or all 115 795 60 415 35 40 
+cold-finished 
+S28200 A hot-finished or all 110 760 60 410 35 55 
+cold finished 
+302,302B, 304,304LN, A hot-finished all 75F 515 30F 205 40G 50 
+305,308,309, 309S, cold-finished up to½ [12.70] incl 90 620 45 310 30 40 
+309Gb, 310, 310S, over ½ [12. 70] 75F 515 30F 205 30 40 
+310Gb, 314, 316, 
+316LN, 316Gb, 316TI, 
+317, 321, 347, 
+348 
+304L, 316L A hot-finished all 70 485 25 170 40G 50 
+cold-finished up to ½ [12. 70] incl. 90 620 45 310 30 40 
+over½ [12.70] 70 485 25 170 30 40 
+304N, 316N A hot-finished or all 80 550 35 240 30 
+cold-finished 
+202,302,304, 304N, 316, B cold-finished up to ¾ [19.05] incl 125 860 100 690 12 35 
+316N 
+304L, 316L over ¾ [19.05] to 115 795 80 550 15 35 
+1 [25.40] 
+over 1 [25.40] to 1 ¼ 105 725 65 450 20 35 
+[31.75] 
+over 1 ¼ [31.75] to 1 ½ 100 690 50 345 24 45 
+[38.10] 
+412
+
+=== Page 465 ===
+
+ASME BPVC.II.A-2025 SA-276 
+TABLE 2 Continued 
+Brinell 
+Tensile Yield Strength,A Hard-
+Strength, Elonga- Reduc- ness, min lion in 2 Diameter or Thickness, min tion of HBW Type Condition Finish in. [mm] in. [50mm] 8 
+Area c, 0 unless or4D min; % otherwise min% 
+ksi MPa ksi MPa indicated, E 
+max 
+over 1 ½ [38.10] to 1¾ 95 655 45 310 28 45 
+[44.45] 
+304, 304N, 316, 316N s cold-finished up to 2 [50.8] incl 95 650 75 515 25 40 
+304L, 316L 
+over 2 to 2½ [50.8 to 63.5] 90 620 65 450 30 40 
+incl 
+over 2½ to 3 [63.5 to 76.2] 80 550 55 380 30 40 
+incl 
+XM-21, S30454, A hot-finished or all 90 620 50 345 30 50 
+S31654 cold-finished 
+XM-21, S30454 B cold-finished up to 1 [25.40] incl 145 1000 125 860 15 45 
+S31654 
+over 1 [25.40] to 1 ¼ 135 930 115 795 16 45 
+[31.75] 
+over 1¼ [31.75] to 1½ 135 895 105 725 17 45 
+[38.10] 
+over 1½ [38.10] to 1¾ 125 860 100 690 18 45 
+[44.45] 
+S30815 A hot-finished or all 87 600 45 310 40 50 
+cold-finished 87 600 45 310 40 50 
+S31010 A hot-finished or all 110 760 75 515 40 50 330 
+cold-finished 
+S31254 A hot-finished or all 95 650 44 300 35 50 
+cold-finished 
+S31266 A hot-finished or all 109 750 61 420 35 
+cold-finished 
+S31725 A hot-finished or all 75 515 30 205 40 
+cold-finished 
+S31726 A hot-finished or all 80 550 35 240 40 
+cold-finished 
+S31727 A hot-finished or all 80 550 36 245 35 217 
+cold-finished 
+S31730 A hot-finished or all 70 480 25 175 35 90 HRB 
+cold-finished 
+S32053 A hot-finished or all 93 640 43 295 40 217 
+cold-finished 
+S32654 A hot-finished or all 109 750 62 430 40 40 250 
+cold-finished 
+Austenitic-Ferritic Grades 
+XM-26 A hot-finished or all 90 620 65 450 20 55 
+cold-finished 
+S31803 A hot-finished or all 90 620 65 448 25 290 
+cold-finished 
+S32056 A hot-finished or all 90 620 65 450 18 302 
+cold-finished 
+S32101 A hot-finished or all 94 650 65 450 30 290 
+cold-finished 
+S32202 A hot-finished or all 94 650 65 450 30 290 
+cold-finished 
+S32205 A hot-finished or all 95 655 65 450 25 290 
+cold-finished 
+S32304 A hot-finished or all 87 600 58 400 25 290 
+cold-finished 
+S32550 A hot-finished or all 109 750 80 550 25 290 
+cold-finished 
+S32550 s cold-finished all 125 860 105 720 16 335 
+S32750 A hot-finished or up to 2 [50.8] incl 116 800 80 550 15 310 
+cold-finished over 2 [50.8] 110 760 75 515 15 310 
+S32760 A hot-finished or all 109 750 80 550 25 310 
+cold-finished 
+S32760 s cold-finished all 125 860 105 720 16 335 
+S82441 A hot-finished or Under 7/16 [11 mm] 107 740 78 540 25 290 
+cold-finished 7/16 and over [11 mm] 99 680 70 480 25 290 
+Ferritic Grades 
+405H A hot-finished all 207 
+cold-finished all 217 
+429 A hot-finished all 70 480 40 275 20 45 
+cold-finished all 70 480 40 275 16 45 
+413
+
+=== Page 466 ===
+
+SA-276 ASME BPVC.11.A-Z0ZS 
+TABLE 2 Continued 
+Tensile 
+Strength, 
+Type Condition Finish Diameter or Thickness, min 
+in. [mm] 
+ksi MPa 
+430 A hot-finished or all 60 415 
+cold-finished 
+S40976 A hot-finished or all 60 415 
+cold-finished 
+S44400 A hot-finished all 60 415 
+cold-finished all 60 415 
+446, XM-27 A hot-finished all 65 450 
+cold-finished all 65 450 
+S44700 A hot-finished all 70 480 
+cold-finished all 75 520 
+S44800 A hot-finished all 70 480 
+cold-finished all 75 520 
+Martensitic Grades 
+403,410 A hot-finished all 70 480 
+cold-finished all 70 480 
+403,410 T hot-finished all 100 690 
+cold-finished all 100 690 
+XM-30 T hot-finished all 125 860 
+cold-finished all 125 860 
+403,410 H hot-finished all 120 830 
+cold-finished all (rounds only) 120 830 
+XM-30 A hot-finished all 70 480 
+cold-finished all 70 480 
+414 A hot-finished or all 
+cold-finished 
+414 T hot-finished or all 115 790 
+cold-finished 
+S41425 T hot-finished all 120 825 
+S41500 T hot-finished or all 115 795 
+cold-finished 
+420 A hot-finished all 
+cold-finished all 
+S42010 A hot-finished all 
+cold-finished all 
+431 A hot-finished or all 
+cold-finished 
+440A, 440B, and 440C A hot-finished all 
+cold-finished all 
+Yield Strnngth,A 
+min 
+ksi MPa 
+30 207 
+20 140 
+45 310 
+45 310 
+40 275 
+40 275 
+55 380 
+60 415 
+55 380 
+60 415 
+40 275 
+40 275 
+80 550 
+80 550 
+100 690 
+100 690 
+90 620 
+90 620 
+40 275 
+40 275 
+90 620 
+95 655 
+90 620 
+Elonga-
+tion in 2 
+in. [50 mm) 8 
+or4D 
+min% 
+20 
+20 
+20 
+16 
+20 
+16 
+20 
+15 
+20 
+15 
+20 
+16 
+15 
+12 
+13 
+12 
+12 
+12 
+13 
+12 
+15 
+15 
+15 
+Brinell 
+Hard-
+Reduc- ness, 
+lion of HBW 
+Area, c, 0 unless 
+min, % otherwise 
+indicated, E 
+max 
+45 
+45 
+45 
+45 
+45 
+45 
+40 
+30 
+40 
+30 
+45 
+45 
+45 
+40 
+45 
+35 
+40 
+40 
+45 
+35 
+45 
+244 
+217 
+217 
+219 
+219 
+302 
+235 
+298 
+45 321 
+45 295 
+241 
+255 
+235 
+255 
+285 
+269 
+285 
+A Yield strength shall be determined by the 0.2 % offset method in accordance with Test Methods and Definitions A370 or Test Methods A 1058. An alternative method of 
+determining yield strength may be used based on a total extension under load of 0.5 %. 
+8 For some specific products, it may not be practicable to use a 2-in. or 50-mm gage length. The use of sub-size test specimens, when necessary, is permissible in 
+accordance with Test Methods and Definitions A370 or Test Methods A1058. 
+c Reduction of area does not apply on flat bars 3 /10 in. [4.76 mm) and under in thickness as this determination is not generally made in this product size. 
+°The material shall be capable of meeting the required reduction of area where listed, but actual measurement and reporting of the reduction of area are not required unless 
+specified in the purchase order. 
+E Or equivalent Rockwell hardness (HRB or HRC). 
+F For extruded shapes of all Cr-Ni grades of Condition A, the yield strength shall be 25 ksi [170 MPa) min and tensile strength shall be 70 ksi [480 MPa] min. 
+G For shapes having section thickness of ½ in. [12.5 mm] or less, 30% min. elongation is acceptable. 
+H Material shall be capable of being heat treated to a maximum Brinell hardness of 250 HBW when oil quenched from 1750°F [950°C]. 
+414
+
+=== Page 467 ===
+
+,-~-
+ASME BPVC.II.A-2025 
+TABLE 3 Response to Heat Treatment 
+Heat Treatment Hardness TypeA Temperature 8 Quench ant HRC, min °F [°C], min 
+403 1750 [955] Air 35 
+410 1750 [955] Air 35 
+414 1750 [955] Oil 42 
+420 1825 [995] Air 50 
+S42010 1850 [1010] Oil 48 
+431 1875 [1020] Oil 40 
+440A 1875 [1020] Air 55 
+440B 1875 [1020] Oil 56 
+440C 1875 [1020] Air 58 
+A Samples for testing shall be in the form of a section not exceeding 3/a in. [9.50 
+mm] in thickness. 
+8 Temperature tolerance is ±25°F [14°C]. 
+415 
+SA-276
+
+=== Page 469 ===
+
+ASME BPVC.II.A-2025 SA-278/SA-278M 
+SPECIFICATION FOR GRAY IRON CASTINGS FOR 
+PRESSURE CONTAINING PARTS FOR TEMPERATURES 
+UP TO 6S0°F (350°C) 
+SA-278/SA-278M 
+(Identical with ASTM Specification A278/A278M-01(2015) except for an editorial change to 5.1.1 and a change to 16.1 
+making certification mandatory.) 
+417
+
+=== Page 470 ===
+
+SA-278/SA-278M ASME BPVC.11.A-2025 
+Standard Specification for 
+Gray Iron Castings for Pressure-Containing Parts for 
+Temperatures Up to 650°F (350°C) 
+1. Scope 
+l. 1 This specification covers gray iron for castings suitable 
+for pressure-containing parts for use at temperatures up to 
+650°F (350°C). 
+1.2 Classes of Iron: 
+1.2.1 Castings of all classes are suitable for use up to 450°F 
+(230°C). For temperatures above 450°F and up to 650°F, only 
+Class 40, 45, 50, 55, and 60 castings are suitable. 
+1.2.2 Castings of all classes are suitable for use up to 230°C. 
+For temperatures above 230°C and up to 350°C, only Class 
+275, 300, 325, 350, 380, and 415 castings are suitable. 
+1.3 The values stated in either SI units or inch-pound units 
+are to be regarded separately as standard. The values stated in 
+each system may not be exact equivalents; therefore, each 
+system shall be used independently of the other. Combining 
+values from the two systems may tesult in non-conformance 
+with the standard. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+A644 Terminology Relating to Iron Castings 
+E8 Test Methods for Tension Testing of Metallic Materials 
+3, Terminology 
+3 .1 Definitions of many terms common to gray iron castings 
+may be found in Tem1inology A644. 
+4. Classification 
+4.1 Classification by tensile strength. 
+418 
+4.1.1 Castings ordered to this specification are classified 
+based upon the minimum tensile strength of the iron in ksi, in 
+English units. Class 25 has a minimum specified tensile 
+strength of 25 ksi. 
+4.1.2 Castings ordered to this specification are classified 
+based upon the minimum tensile strength of the iron in MPa, in 
+Metric units. Class 150 has a minimum specified tensile 
+strength of 150 MPa. 
+5. Ordering Information 
+5.1 Orders for material in this specification should include 
+the following information: 
+5.1.1 ASTM designation and year date, 
+5.1.2 Class of iron required and service temperature, 
+5. I.3 Quantity, 
+5.1.4 Heat Treatment: 
+5.1.4.1 Whether or not heat treatment is required for Class 
+40, 45, 50, 55, and 60 castings to be used at temperatures at 
+450°F or less (see 6.2), 
+5.1.4.2 Whether or not heat treatment is required for Class 
+275, 300, 325, 350, 380, and 415 castings to be used at 
+temperatures at 230°C or less (see 6.2), 
+5.1.5 The size of separately cast test bar to be poured (see 
+Section 9 and Table 1), 
+5.1.6 The size of test specimen to be machined from test 
+bars C or S, and 
+5 .1. 7 Special requirements. 
+6. Materials and Manufacture 
+6.1 Castings intended for use above 450°F (230°C) shall be 
+stress-relieved by placing them in a suitable furnace at a 
+temperature not exceeding 400°F (200°C) and heating them 
+uniformly to the temperatures and for the times specified in 
+Table 2. The heating and cooling rates shall be uniform and 
+shall not be more than 400°F/h (250°C/h) for castings of 1-in. 
+(25-mm) maximum section. For heavier sections the maximum 
+heating and cooling rates in degrees Fahrenheit per hour shall 
+be 400 divided by the maximum section thickness. 
+6.2 Heat Treatment and Cooling Rate: 
+6.2. l Castings of Class Nos. 45, 50, 55, and 60, which axe to 
+be used at temperatures below 450°F, may be heat treated in
+
+=== Page 471 ===
+
+ASME BPVC.II.A-2025 SA-278/SA-278M 
+TABLE 1 Diameters and Lengths of Cast Test Bars 
+Test 
+Bar 
+As-Cast Diameter, in. {mm) Length, in. {mm) 
+Minimum 
+(Bottom) 
+0.88 (23) 
+1.20 (33) 
+2.00 (54) 
+Maximum 
+(Top) 
+0.85 (22) 
+1.14(32) 
+1.90 (53) 
+Minimum Maximum 
+(Specified) (Recommended) 
+0.96 (25) 5.0 (125) 
+1.32 (36) 7.0 {150) 
+2.10 (58) 6.0 (175) 
+6.0 (1.50) 
+9.0 (230) 
+10.0 (255) 
+A All dimensions of Test Bar S shall be agreed upon by the manufacturer and the 
+purchaser. 
+TABLE 2 Stress Relieving Requirements 
+Class 
+40, 45, 50, 55, 60 
+(275, 300, 325, 350, 
+380, 415) 
+Metal Temperature, °F Holding Time, hA 
+oc 
+1050 to 1200 2 12 
+(565 to 650) (2 min) 8 (12 max) 8 
+A In no case shall the holding time be less than 1 h/in. of maximum metal 
+section, or in excess of 12 h max, dependent upon which governs. 
+8 In no case shall the holding time be less than 1 h for every 25-mm metal 
+section, or in excess of 12 h max, depending upon which governs. 
+accordance with 6.1 or they shall be cooled in the mold to 
+500°F at m1 average rate of not more than 100°F/h for castings 
+up to 1 in. in section. For heavier sections the maximum 
+cooling rate in degrees Fahrenheit per hour shall be 100 
+divided by the maximum section thickness. 
+6.2.2 Castings of Class Nos. 275, 300, 325, 350, 380, and 
+415, which are to be used at temperatures below 230°C, may be 
+heat treated in accordance with 6.1 or they shall be cooled in 
+the mold to 250"C at an average rate of not more than 50°C/h 
+for castings up to 25-mm in section. For heavier sections the 
+maximum cooling rate in degrees Celsius per hour shall be 
+1250 divided by the maximum section thickness. 
+7. Chemical Composition 
+7.l Carbon Equivalent: 
+7.1.1 Class 40, 45, 50, 55, and 60 castings intended for 
+service above 450°F (230°C) shall have a maximum carbon 
+equivalent of 3.8 % as calculated from the equation CE = %C 
++ 0.3 (%Si + %P). The maximum phosphorus and sulfm 
+contents shall be 0.25 % and 0.12 %, respectively. 
+7.1.2 Class 275, 300, 325, 350, 380, and 415 castings 
+intended for service above 230°C shall have a maximum 
+carbon equivalent of 3.8 % as calculated from the equation CE 
+= %C + 0.3 (%Si + %P). The maximum phosphorus and sulfur 
+contents shall be 0.25 % and 0.12 %, respectively. 
+7.2 The chemical analysis for total carbon shall be made on 
+either chilled cast pencil-type specimens or thin wafers ap­
+proximately ½2 in. thick cut from test coupons. Drillings shall 
+not be used because of attendant loss of graphite. 
+8. Tensile Requirements 
+8.1 Iron used in supplying castings to this specification shall 
+conform to the tensile requirements prescribed in Table 3 and 
+Table 4. 
+9. Test Bars 
+9.1 Separately cast test bars having the dimensions shown in 
+Table 1 shall be poured from the same lot as the castings 
+TABLE 3 Tensile Requirements 
+Class 
+No.20 
+No. 25 
+No. 30 
+No. 35 
+No. 40 
+No. 45 
+No. 50 
+No.55 
+No. 60 
+Tensile Strength, 
+min, ksi 
+20 
+25 
+30 
+35 
+40 
+45 
+50 
+55 
+60 
+TABLE 4 Tensile Requirements (SI) 
+Class 
+No. 150 
+No. 175 
+No.200 
+No.225 
+No.250 
+No.275 
+No. 300 
+No. 325 
+No. 350 
+No. 380 
+No. 415 
+Tensile Strength, 
+min, MPa 
+150 
+175 
+200 
+225 
+250 
+275 
+300 
+325 
+350 
+380 
+415 
+represented. The size of the test bar to be poured shall be 
+selected by the purchaser using Table 5. In the event no choice 
+is made, the selection will be made by the manufacturer. 
+9.2 Separately cast test bars shall be heat treated in the same 
+furnace together with the castings represented. 
+9.3 At the option of the manufacturer, test coupons may be 
+removed from the casting at a location agreed npon between 
+the manufacturer and purchaser. 
+419 
+9.4 Castings weighing in excess of 2000 lb may be repre­
+sented either by separately cast test bars (9.l) or by integrally 
+cast test bars having a cooling rate closely approximating that 
+of the controlling section of the casting. 
+9.5 For castings weighing in excess of 10 000 lb or having 
+a controlling section greater than 2 in., test bars may be 
+removed from the casting or integral projections having a cross 
+section no less than the controlling section. The minimum 
+tensile strength requirement for tension tests performed on 
+either of these test bars shall be 80 % of the specified class. 
+10. Molding and Pouring Test Bars 
+10.1 The test bars shall be cast in dried siliceous sand molds 
+maintained at approximately room temperature. A suitable 
+design for a mold is shown in Fig. 1. 
+TABLE 5 Separately Cast Test Bars for Use When a Specific 
+Correlation Has Not Been Established Between the Test Bar and 
+the Casting 
+Thickness of the Wall of the Controlling 
+Section of the Casting, in. (rnm) 
+Under 0.25 (6) 
+0.25 to 0.50 (6 to 12) 
+0.51 to 1.00 (13 to 25) 
+1.01 to 2 (26 to 50) 
+Over 2 (50) 
+Test Bar 
+s 
+A 
+B 
+C 
+s
+
+=== Page 472 ===
+
+SA-278/SA-278M ASME BPVCG.ILA-2025
+, 14 yt } 3 it
+1 | plop [rt i
+it iy ' Mw rt
+t § | j
+» | Yo! |
+( ; 23 i
+| ‘ » |
+t 4 { ' , |
+| j u ‘ } |
+bop 4 | 1
+roto | bo
+fo} i bog
+- |
+> ws] d we] w lewel » few -
+Number of test bars in a single mold-2 suggested. P—2 in. (60-mm) suggested .
+L-see Table 1. N—e in. (8-mm) in diameter, suggested
+D—see Table 1. . M—1.5 N, suggested
+W-—not less than diameter, D.
+FIG. 1 Suitable Design and Dimensions for Mold for Separately Cast Cylindrical Test Bars for Gray lron
+11. Workmanship, Finish, and Appearance , 14. Number of Tests and Retests
+11.1 All castings shall be made in a workmanlike manner 14.1 One tension test shall be performed on each lot in
+and shall conform to the dimensions on drawings furnished by accordance with Test Method E8 and conform to the tensile
+the purchaser. If the pattern is supplied by the purchaser requirements specified. ,
+without drawings, the dimensions of the casting shall be as 14.2 If the results of a valid test fail to conform to the
+_ predicted by the pattern. requirements of this specification, two retests shall be made. If
+11.2 The surface of the casting shall be free of adhering — either retest fails to meet the specification requirements, the
+sand, scale, cracks, and hot tears as determined by visual — castings represented by these test specimens shall be rejected.
+examination. Other surface discontiauities shall meet the visual 14.3 If, after testing, a test specimen shows evidence of a
+acceptance standards specified in the order. defect, the results of the test may be invalidated and another
+12. Sampling made on a specimen from the same lot.
+12.1 A lot shall consist of one of the following: 15. Repair
+12.1.1 All i metal poured from a single heating in a batch. 15.1 Any repairs performed on castings produced to this
+‘YPe meiting furnace, oo oe , specification shall be agreed upon between the manufacturer
+12.1.2 All the metal from two or more batch type melting = and purchaser.
+furnaces poured into a single ladle or single casting, or
+12.1.3 All the metal poured from a continuous melting 16. Certification |
+furnace for a © iti period of ‘oe pelwe “n change . in nares 16.1 When requested by the purchaser, the manufacturer
+. processing con tions or aim-tor chemistry or 4h, whichever shall furnish his certification stating that the material was
+18 Tat The h d the 4:h t manufactured, sampled, tested, and inspected in accordance mo
+rcs ay y ; ~ . . : . + 4 ge a op .
+4 = gh ‘fine 1ASCT preven ca ° exten : the “ecient with this specification including the year date. The certification
+period to 6 h it the manttacturer can demonstrate sutticient shall also include the results of all tests performed.
+process control to warrant such an extension. . oS
+16.2 A signature is not required on the certification. How-
+13. Tension Test Specimens ever, the document shall clearly identify the organization
+13.1 Tension test specimens A and B in Fig. 2 shall be nai the pertain ane the authored ian Oh |
+machined from test bars A and B in Table 1, respectively. manutacturer who certified the test results. Notwithstanding
+. the absence of a signature, the organization submitting the
+13.2 The purchaser shall specify whether test specimen Bor certification is responsible for its content.
+C is to be machined from test bar C. If no choice is made, the
+manufacturer shall make the selection. 17. Inspection
+13.3 The size of the test specimen to be machined from test 17.1 All tests and inspections required by this specification
+bar S shall be as agreed upon between the manufacturer and shall be performed by the manufacturer or other reliable
+purchaser. sources whose services have been contracted for by the |
+420
+
+=== Page 473 ===
+
+ASME BPVC.II.A-2025 SA-278/SA-278M 
+Dimensions, in. (mm) 
+G- Length of parallel, min 
+0- Diameter 
+R- Radius of fillet, min 
+A- Length of reduced section, min 
+L- Overall length, min 
+C- Diameter of end section, approximate 
+E-- Length of shoulder, min 
+P::..... Diameter of shoulder 
+B- Length of end section 
+Rod 
+\ 
+Tension Test 
+Specimen A 
+0.50 (13) 
+0.500 ± 0.010 (13 ± 0.25) 
+1 (25) 
+1¼ (32) 
+3¾ (95) 
+7 /a (22) 
+¼(6) 
+% ± 1/64 (16 ± 0.5) 
+A 
+Tension Test 
+Specimen B 
+0.75 (20) 
+0.750 ± 0.015 (20 ± 0.4) 
+1 (25) 
+"11/2(38) 
+4 (100) 
+1¼ (32) 
+¼(6) 
+1f3/'15 ± 1/64 (25 ± 0.5) 
+A 
+Tension Test 
+Specimen C 
+1.25 (32) 
+1.25 ± 0.025 (32 ± 0.5) 
+2 (50) 
+2¼ (57) 
+6% (160) 
+Fla (47) 
+5 /,o (8) 
+FAe ± 1 /64 (36 ± 0.5) 
+A 
+A Optional to fit holders on testing machine. If threaded, root diameter shall not be less than dimension F. 
+FIG. 2 Tension-Test Specimens 
+manufacturer. Complete records of all tests and inspections 
+shall be maintained by the manufacturer and shall be available 
+for review by the purchaser. 
+18. Rejection and Rehearing 
+18.1 Castings which fail to conform to the requirements 
+specified when inspected or tested by the purchaser or his agent 
+may be rejected. Rejection shall be reported to the manufac­
+turer or supplier promptly and in writing. In case of dissatis­
+faction with the test results, the manufacturer or supplier may 
+make claim for a rehearing. 
+19. Product Marking 
+19.l Castings shall have the name of the manufacturer, or 
+his recognized trademark, and the class of iron to which it 
+conforms, cast or indelibly stamped on a surface indicated by 
+the purchaser or in such a position as not to injure the 
+usefulness of the casting. 
+20. Keywords 
+421 
+20.1 elevated temperature service; gray iron castings; pres .. 
+sure containing parts

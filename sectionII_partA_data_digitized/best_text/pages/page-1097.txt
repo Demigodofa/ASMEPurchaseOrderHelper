@@ -1,0 +1,82 @@
+ASME BPVC.II.A-2025 SA-568/SA-568M (ASTM A568/A568M) 
+TABLE A1.17 Flatness Tolerances of Cold-Rolled Sheet Cut 
+Length (All Designations)A 
+NoTE 1-This table does not apply when product is ordered full hard, 
+to a hardness range or "annealed last" ( dead soft). 
+NOTE 2-This table applies to lengths cut from coils, when adequate 
+flattening measures are petformed to remove all undesirable flatness 
+conditions, including, but not limited to, coil set. 
+Specified Specified Width, mm Flatness Tolerance, mm Speci-
+fied Yield Point, min, MPa 
+Thickness, 
+Under 310 310 to 340 mm Over Through MPa MPa 8 
+Through 1.0 900 10 20 
+900 1500 15 30 
+1500 20 40 
+Over 1.0 900 8 20 
+900 1500 10 20 
+1500 1800 15 30 
+1800 20 40 
+A Maximum deviation from a horizontal flat surface. 
+8 Tolerances for high-strength, low-alloy steel with specified minimum yield point in 
+excess of 340 MPa are subject to negotiation. 
+APPENDIXES 
+(Nonmandatory Information) 
+Xl. AGING EFFECTS ON FORMABILITY OF COLD-ROLLED CARBON-STEEL SHEET PRODUCTS 
+Xl.1 Cold-rolled carbon-steel sheet products exhibit maxi­
+mum formability in the annealed last, or dead-soft, condition. 
+However, many sheet products are not suitable for exposed 
+applications in the dead-soft condition because Luder's lines 
+(sometimes referred to as "stretcher strains" or "fluting") may 
+develop during subsequent forming. This problem is avoided in 
+most cases by temper rolling the sheet after annealing. After 
+temper rolling, however, some sheet products are susceptible to 
+aging. Aging refers to a gradual increase in yield strength and 
+corresponding decrease in ductility during storage after temper 
+rolling. Aging always has a negative effect on formability and, 
+when aging leads to the redevelopment of an upper yield point, 
+lt in renewed susce tibilit to fluting. 
+Xl .2 Aging can occur when interstitial solute atoms, carbon 
+or nitrogen, are present in the steel. Solute carbon or nitrogen 
+atoms are those not chemically combined with other elements 
+in the steel (as carbides or nitrides, for example). Over time, 
+these carbon or nitrogen interstitial solute atoms diffuse to 
+crystalline imperfections within the steel and, in so doing, give 
+rise to aging. The extent to which aging occurs depends on the 
+interstitial solute level and the combination of temperature and 
+time to which the steel is exposed after temper rolling. In 
+general, higher interstitial solute levels result in larger strength 
+increases during storage; the rate of aging increases with 
+increasing temperature. As described as follows, the final 
+interstitial solute level and aging characteristics depend on the 
+chemical composition of the steel as well as specific sheet­
+processing methods used by the steel producer. 
+Xl .3 Low-Carbon Steels-In conventional aluminum-killed 
+low-carbon steels, the level of interstitial solute is affected 
+mainly through the fonnation of aluminum nitride and iron 
+carbides within the steel during processing, which is influenced 
+by the manner in which annealing is performed. 
+Xl.3.1 Many sheet products are annealed in batches of 
+large, tightly wound coils. During heating, any solute nitrogen 
+present in the full-hard sheet combines with aluminum to form 
+aluminum nitride. Subsequent cooling is very slow and allows 
+essentially all of the carbon to precipitate as iron carbide. Final 
+interstitial solute levels are very low and, as a result, batch­
+annealed low-carbon steels have excellent resistance to aging. 
+Xl.3.1.1 Dee drawing steel (DDS) sheet typically is batch-
+annealed and has excellent aging resistance. 1 temper 
+rolling, DDS sheet is suitable for use in many exposed 
+applications with severe forming requirements. 
+Xl.3.2 Cold-rolled low-carbon steels are sometimes pro­
+cessed in a continuous annealing line, in which the full-hard 
+sheet is uncoiled, passed through an annealing furnace, and 
+then rewound in a continuous manner. Heating and cooling 
+rates are much higher than those found in batch annealing. The 
+faster cooling, in particular, results in higher levels of intersti­
+tial solute in the product as compared with batch annealing. 
+The manner in which the sheet is cooled can be controlled to 
+minimize the solute carbon level, and temper rolling is effec­
+tive for reducing fluting tendencies. However, continuous­
+annealed low-carbon steels are more prone to subsequent aging 
+than batch-annealed steels. 
+997 

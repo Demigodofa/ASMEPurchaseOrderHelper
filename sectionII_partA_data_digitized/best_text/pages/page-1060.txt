@@ -1,0 +1,61 @@
+SA-563 ASME BPVC.II.A-2025 
+,,,--~ 
+TABLE 3 
+MECHANICAL REQUIREMENTS 
+Nuts With UNC, 8 UN, 6 UN and Coarser Pitch Threads 
+Proof Load Stress, ksi (Al Hardness 
+Nominal Nut Style of Non-Zinc-Coated Zinc-Coated Brinell Rockwell 
+Grade of Nut Size, in. Nut Nuts (B) Nuts (Bl min max min max 
+0 ¼ to 1½ square 69 52 103 302 855 C32 
+A ¼ to 1½ square 90 68 116 302 868 C32 
+0 ¼ to 1½ hex 69 52 103 302 855 C32 
+A ¼ to 1½ hex 90 68 116 302 868 C32 
+8 ¼ to 1 hex 120 90 121 302 869 C32 
+8 ' 11/s to 1½ hex 105 79 121 302 869 C32 
+D (Cl ¼ to 1½ hex 135 135 159 352 884 C38 
+DH (D) ¼ to 1½ hex 150 150 248 352 C24 C38 
+DH3 ½ to 1 hex 150 150 248 352 C24 C38 
+A ¼ to 4 heavy hex 100 75 116 302 868 C32 
+8 ¼ to 1 heavy hex 133 100 121 302 869 C32 
+8 11/s to 1½ heavy hex 116 87 121 302 869 C32 
+C (Cl ¼ to 4 heavy hex 144 144 143 352 878 C38 
+C3 ¼ to 4 heavy hex 144 144 143 352 878 C38 
+D (Cl ¼ to 4 heavy hex 150 150 159 352 884 C38 
+DH (D) ¼ to 4 heavy hex 175 150 248 352 C24 C38 
+DH3 ¼ to 4 heavy hex 175 150 248 352 C24 C38 
+A ¼ to 1½ hex thick 100 75 116 302 868 C32 
+8 l ¼ to l hex thick 133 100 121 302 869 C32 
+8 11/s to 1½ hex thick 116 87 121 302 869 C32 
+D (Cl ¼ to 1½ hex thick 150 150 159 352 884 C38 
+DH (D) ¼ to 1½ hex thick 175 175 248 352 C24 C38 
+Nuts with UN F, 12 UN, and Finer Pitch Threads 
+0 ¼ to 1½ hex 65 49 103 302 855 C32 
+A ¼ to 1½ hex 80 60 116 302 868 C32 
+8 ¼ to 1 hex 109 82 121 302 869 C32 
+8 11/s to 1½ hex 94 70 121 302 869 C32 
+D (Cl ¼ to 1½ hex 135 135 159 352 884 C38 
+DH (D) ¼ to 1½ hex 150 150 248 352 C24 C38 
+A ¼ to 4 heavy hex 90 68 116 302 868 C32 
+8 ¼ to 1 heavy hex 120 90 121 302 869 C32 
+8 11/s to 1½ heavy hex 105 79 121 302 869 C32 
+D (Cl ¼ to 4 heavy hex 150 150 159 352 884 C38 
+DH (D) Xi to 4 heavy hex 175 150 248 352 C24 C38 
+A ¼ to 1½ hex thick 90 68 116 302 868 C32 
+8 ¼ to 1 hex thick 120 90 121 302 869 C32 
+8 11/s to 1½ hex thick 105 79 121 302 869 C32 
+D (Cl ¼ to 1½ hex thick 150 150 159 352 884 C38 
+DH (D) ¼ to 1½ hex thick 175 175 248 352 C24 C38 
+NOTES: 
+(Al To determine nut proof load in pounds, multiply the appropriate nut proof load stress by the tensile stress area of the thread. Stress areas 
+for U NC, UN F, and 8 UN thread series are given in Table 4. 
+(8) Non-zinc-coated nuts are nuts intended for use with externally threaded fasteners which have a plain (nonplated or noncoatedl finish or have 
+a plating or coating of insufficient thickness to necessitate overtapping the nut thread to provide assemblability. Zinc-coated nuts are nuts 
+intended for use with externally threaded fasteners which are hot-dip zinc-coated, mechanically zinc-coated, or have a plating or coating of 
+sufficient thickness to necessitate overtapping the nut thread to provide assemblability. 
+(Cl Nuts made in accordance to the requirements of Specification A 194/A 194M, Grade 2 or Grade 2H, and marked with their grade symbol 
+are acceptable equivalents for Grades C and D nuts. When A 194 zinc-coated inch series nuts are supplied, the zinc coating, overtapping, 
+lubrication and rotational capacity testing shall be in accordance with Specification A 563. 
+(D) Nuts made in accordance with the requirements of Specification A 194/A 194M, Grade 2H, and marked with its grade symbol are an acceptable 
+equivalent for Grade DH nuts. When A 194 zinc-coated inch series nuts are supplied, the zinc coating, overtapping, lubrication and rotational 
+capacity testing shall be in accordance with Specification A 563. '~ 
+960 

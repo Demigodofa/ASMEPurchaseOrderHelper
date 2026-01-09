@@ -1,0 +1,72 @@
+ASME BPVC.II.A-2025 SA-540 /SA-540M 
+,.......-·--
+TABLE 2 Continued 
+Grade Class Diameter Tensile Yield Elonga- Reduc- Surface Charpy 
+Strength, Strength, tion, tion of Brinell V-Notch 
+min 0.2% min,% Area, Hardness +10 °F 
+offset, min,% 
+min 
+min max [-12.2 'C] 
+Metric Units 
+In 50 
+mm MPa MPa mm 
+B21 5 to 50, incl 825 725 15 50 241 285 Note 4 
+(Cr-Mo-V) over 50 to 150, incl 795 690 15 50 248 302 Note 4 
+over 150 to 205, incl 795 690 15 50 255 311 Note 4 
+4 to 75, incl 930 825 13 45 269 331 Note 4 
+over 75 to 150, incl 930 825 13 45 277 352 Note 4 
+3 to 75, incl 1000 895 12 40 293 352 Note 4 
+over 75 to 150, incl 1000 895 12 40 302 375 Note 4 
+2 to 100, incl 1070 965 11 40 311 401 Note 4 
+1 to 100, incl 1140 1035 10 35 321 429 Note 4 
+B22 5 to 50, incl 825 725 15 50 248 293 Note 1 
+(4142-H) over 50 to 100, incl 795 690 15 50 255 302 Note4 
+4 to 25, incl 930 825 13 45 269 341 Note 1 
+over 25 to 100, incl 930 825 13 45 277 363 Note 4 
+3 to 50, incl 1000 895 12 40 293 363 Note 4 
+over 50 to 100, incl 1000 895 12 40 302 375 Note 4 
+2 to 75, incl 1070 965 11 40 311 401 Note 4 
+1 to 38, incl 1140 1035 10 35 321 401 Note 4 
+B23 5 to 150, incl 825 725 15 50 248 311 Note 1 
+(E-4340-H) over 150 to 200 incl 795 690 15 50 255 321 Note 1 
+over 200 to 240, incl 795 690 15 50 262 321 Note 4 
+4 to 75, incl 930 825 13 45 269 341 Note 1 
+over 75 to 150, incl 930 825 13 45 277 352 Note 1 
+over 150 to 240, incl 930 825 13 45 285 363 Note 4 
+3 to 75, incl 1000 895 12 40 293 363 Note 2 
+over 75 to 150, incl 1000 895 12 40 302 375 Note 2 
+over 150 to 240, incl 1000 895 12 40 311 388 Note 4 
+2 to 75, incl 1070 965 11 40 311 388 Note 4 
+over 75 to 150, incl 1070 965 11 40 311 401 Note 4 
+over 150 to 240, incl 1070 965 11 40 321 415 Note 4 
+to 75, incl 1140 1035 10 35 321 415 Note 4 
+over 75 to 150, incl 1140 1035 10 35 331 429 Note 4 
+over 150 to 200, incl 1140 1035 10 35 341 444 Note 4 
+B24 5 to 150, incl 825 725 15 50 248 311 Note 1 
+(4340 Mod.) over 150 to 200, incl 795 690 15 50 255 321 Note 1 
+over 200 to 240, incl 795 690 15 50 262 321 Note 1 
+4 to 75, incl 930 825 13 45 269 341 Note 1 
+over 75 to 150, incl 930 825 13 45 277 352 Note 1 
+over 150 to 200, incl 930 825 13 45 285 363 Note 1 
+over 200 to 240, incl 930 825 13 45 293 363 Note 4 
+3 to 75, incl 1000 895 12 40 293 363 Note 2 
+over 75 to 200, incl 1000 895 12 40 302 388 Note 2 
+over 200 to 240, incl 1000 895 12 40 311 388 Note 4 ---- --z~----·-----to--180;incl- ~------10+0----~9.65 _____ 1L_ 40 311 401 Note 2 
+over 180 to 240, incl 1070 965 11 45--·s2, -·,rr5---~-- --Note.A ______ 
+to 150, incl 1140 1035 10 35 321 415 Note 3 
+over 150 to 200, incl 1140 1035 10 35 331 429 Note 4 
+''------~ 
+B24V 3 to 100, Incl 1000 895 12 40 293 363 Note 1 
+(4340V Mod.} over 100 to 200, incl 1000 895 12 40 302 375 Note 2 
+over 200 to 240, incl 1000 895 12 40 311 388 Note 3 
+2 to 100, incl 1070 965 11 40 311 388 Note 2 
+over 100 to 200, incl 1070 965 11 40 311 401 Note 3 
+over 200 to 280, incl 1070 965 11 40 321 415 Note 4 
+to 100, incl 1140 1035 10 35 321 415 Note 3 
+over 100 to 200, incl 1140 1035 10 35 331 429 Note 4 
+over 200 to 280, incl 1140 1035 10 35 331 444 Note 4 
+12. Surface Condition 13. Number of Tests 
+12.1 Bolting material shall be cleaned and furnished in the 13.1 Mechanical Tests on Quenched and Tempered Bolting 
+scale-free condition. Material: 
+' ' ~ 
+915 

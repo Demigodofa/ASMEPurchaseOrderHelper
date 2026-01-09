@@ -1,0 +1,53 @@
+,Class 1,,Classes,Classes 1,,,,,,
+,,,,,Class 1,,Classes 2,,Class 2,Class 3
+,,,1 and 2,and 2,,,,,,
+,,,,,,,and 3,,,
+,,,,LF5,,,,,,
+,,,,Class 2,,,,,,
+Tensile strength, ksi [MPa],60-85,,70-95,70-95,66-91,,75-100,63-88,65-85,75-95
+,[415-585],,[485-655],[485-655],[455-630],,[515-690],[435-605],[450-585],[515-655]
+Yield strength, min, ksi [MPa]8,30 [205],,36 [250],37.5 [260],52 [360],,60 [415],46 [315],55 [380],65 [450]
+Elongation:,,,,,,,,,,
+Standard round specimen, or,25,,22,22,22,,20,25,20,20
+small proportional specimen,,,,,,,,,,,
+min % in 40 gauge length,,,,,,,,,,
+Strip specimen for wall thickness,28,,30,30,30,,28,28,28,28
+5/10 in. [7.94 mm] and over,,,,,,,,,,
+and for all small sizes tested,,,,,,,,,,
+in full section; min % in 2 in.,,,,,,,,,,
+[50mm],,,,,,,,,,
+Equation for calculating min,481+ 13,,481+ 15,481+ 15,481+ 15,,481+ 13,481 + 13,481 + 13,481+ 13
+elongation for strip specimens,,,,,,,,,,
+thinner than 5/10 in. [7.94 mm];,,,,,,,,,,
+min % in 2 in. [50 mm],,,,,,,,,,
+I= actual thickness in inches,,,,,,,,,,
+Reduction of area, min, %0,38,,30,35,40,,40,38,45,45
+
+for not less than 1⁄2 h and quench in a suitable liquid medium,by more than 1⁄4 in. [6 mm].
+by immersion; artificially age in the range from 1000 to,7 .1.2 Number of Tests-One tension test at room tempera­
+1225 °F [540 to 665 °C] for not less than 1⁄2 h, and cool at any,ture shall be made in accordance with 7 .1.1.2 from each heat in
+convenient rate.,each heat-treatment load.
+,7 .1.2.1 If heat treatment is performed in either a continuous
+6. Chemical Composition,
+,or a batch-type furnace controlled within ±25 °F [±14 °C] of
+6.1 Heat Analysis:,the required heat-treatment temperature and equipped with
+6.1.1 A chemical heat analysis in accordance with Specifi­,recording pyrometers so that complete records of heat treat­
+cation A961/A961M shall be made and conform to the,ment are available and if the same heat-treating cycles are used
+requirements as to chemical composition prescribed in Table 1.,on the forgings represented by the tension test, then one tension
+Leaded steels shall not be permitted.,test from each heat shall be required, instead of one tension test
+6.2 Product Analysis:,from each heat in each heat treatment load in accordance with
+6.2.1 The purchaser may make a product analysis on prod­,7.1.1.2.
+ucts supplied to this specification in accordance with Specifi­,7 .1.3 Test Locations and Orientations-The test specimen
+cation A961/A961M.,shall be removed from the heaviest section of the forging or
+,test blank, at locations described in 7.1.3.1, 7.1.3.2, 7.1.3.5 or
+7. Mechanical Properties,as close to these locations as practical, subject to forging size
+7.1 Tension Tests:,and geometry.
+7.1.1 Requirements-The material shall conform to require­,7.1.3.1 For forgings or test blanks having a maximum
+ments for tensile properties in Table 2.,heat-treated thickness, T, of 2 in. [50 mm] or less, the
+7 .1.1.1 The test specimen shall be obtained from a rough or,longitudinal axis of the test specimen shall be taken at
+finished forging, or prolongation thereof. For forgings under,mid-thickness and its mid-length shall be at least 2 in. [50 mm]
+10 000 lbs, at time of heat treatment, it may be obtained from,from all other heat treated surfaces, exclusive of the T
+separately forged test blanks from the same heat of steel as the,dimension surfaces. (This is normally referred to as V2 T by 2
+production forgings. The test blank shall be reduced by forging,in. [50 mm]). See Fig. 1 for test specimen location in separately
+in a manner similar to that for the products represented, and,forged test blanks.
+shall receive approximately the same hot working and reduc­,7.1.3.2 For forgings or test blanks having a maximum

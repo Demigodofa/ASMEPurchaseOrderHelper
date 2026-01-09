@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 292,
+  "globalPageIndex": 292,
+  "width": 601.08,
+  "height": 845.28,
+  "text": "SA-193/SA-193M ASME BPVC.II.A-2025 \nTABLE 2 Continued \nTensile Yield \nStrength, Strength, Elongation Reduction Hardness, Grade, Diameter, in. Heat Treatment 8 min, ksi min, 0.2 in 4 D, of Area, \n% offset, min% min% max \nksi \nAustenitic Steels \nover 1 to 1 \u00bc, incl 105 65 20 35 321 HBW or 35 \nHRC \nover 1 \u00bc to 1 \u00bd, incl 100 50 28 45 321 HBW or 35 \nHRC \nClass 2: BBM, BBMN, carbide solution treated and strain 110 95 15 45 321 HBW or 35 \nBBMLCuN\u00b0\u00be and under hardened HRC \nover \u00be to 1 incl 100 80 20 45 321 HBW or 35 \nHRC \nOver 1 to 1 \u00bc, incl 95 65 25 45 321 HBW or 35 \nHRC \nover 1 \u00bc to 1 \u00bd, incl 90 50 30 45 321 HBW or 35 \nHRC \nClass 2B: BB, BBM2\u00b0 carbide solution treated and strain 95 75 25 40 321 HBW or 35 \n2 and under hardened HRC \nover 2 to 2\u00bd incl 90 65 30 40 321 HBW or 35 \nHRC \nover 2\u00bd to 3 incl 80 55 30 40 321 HBW or 35 \nHRC \nClass 2C: B8M3\u00b0 carbide solution treated and strain 85 65 30 60 321 HBW or 35 \n2 and under hardened HRC \nover 2 85 60 30 60 321 HBW or 35 \nHRC \nA To meet the tensile requirements, the Brinell hardness shall be over 200 HBW (93 HRB). \n8 Class 1 is solution treated. Class 1 A is solution treated in the finished condition for corrosion resistance; heat treatment is critical due to physical property requirement. \nClass 2 is solution treated and strain hardened. Austenitic steels in the strain-hardened condition may not show uniform properties throughout the section particularly in \nsizes over \u00be in. in diameter. \nc For sizes\u00be in. in diameter and smaller, a maximum hardness of 241 HBW (100 HRB) is permitted. \n\u00b0 For diameters 1 \u00bd and over, center (core) properties may be lower than indicated by test reports which are based on values determined at \u00bd radius. \nTABLE 3 Mechanical Requirements-Metric Products \nMinimum Tensile Yield Strength, Elongation Reduction Hardness, \nClass Diameter, [mm] Tempering Strength, min, 0.2 % in 4D, of Area, max \nTemperature, min, offset, min,% min,% \noc MPa MPa \nFerritic Steels \nB5 \n4 to 6 % chromium up to M100, incl 593 690 550 16 50 \nB6 \n13 % chromium up to M100, incl 593 760 585 15 50 \nB6X \n13 % chromium up to M100, incl 593 620 485 16 50 26 HRC \nB7 \nChromium-molybdenum M64 and under 593 860 720 16 50 321 HBW or \n35 HRC \nover M64 to M100 593 795 655 16 50 321 HBWor \n35 HRC \nover M100 to M180 593 690 515 18 50 321 HBW or \n35 HRC \nB7MA Chromium-molybdenum M100 and under 620 690 550 18 50 235 HBWor \n99 HRB \nover M100 to M180 620 690 515 18 50 235 HBW or \n99 HRB \nB16 \nChromium-molybdenum-vanadium M64 and under 650 860 725 18 50 321 HBW or \n35 HRC \nover M64 to M 100 650 760 655 17 45 321 HBW or \n35 HRC \nover M100 to M200 650 690 585 16 45 321 HBW or \n35 HRC \n240 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0292.json",
+  "tabulaTablesCsv": "tables_tabula/page-0292.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0292.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2647,
+  "bestTextAlphaRatio": 0.5693
+}

@@ -1,0 +1,120 @@
+SA-6/SA-6M ASME BPVC.II.A-2025 
+NoTE 5-Unless otherwise specified, structural products are normally 
+furnished in the as-rolled condition and are subjected to visual inspection 
+by the manufacturer or processor. Non-injurious surface or internal 
+imperfections, or both, may be present in the structural product as 
+delivered and the structural product may require conditioning by the 
+purchaser to improve its appearance or in preparation for welding, coating, 
+or other further operations. 
+More restrictive requirements may be specified by invoking supplemen­
+tary requirements or by agreement between the purchaser and the supplier. 
+Structural products that exhibit injurious defects during subsequent 
+fabrication are deemed not to comply with the applicable product 
+specification. (See 17 .2.) Fabricators should be aware that cracks may 
+initiate upon bending a sheared or burned edge during the fabrication 
+process; this is not considered to be a fault of the steel but is rather a 
+function of the induced cold-work or the heat-affected zone. 
+The conditioning requirements in 9.2, 9.3, and 9.4 limit the condition­
+ing allowed to be performed by the manufacturer or processor. Condition­
+ing of imperfections beyond the limits of 9.2, 9.3, and 9.4 may be 
+performed by parties other than the manufacturer or processor at the 
+discretion of the purchaser. 
+9.2 Plate Conditioning: 
+9.2.1 The grinding of plates by the manufacturer or proces­
+sor to remove imperfections on the top or bottom surface shall 
+be subject to the limitations that the area ground is well faired 
+without abrupt changes in contour and the grinding does not 
+reduce the thickness of the plate by (J) more than 7 % under 
+the nominal thickness for plates ordered to weight per square 
+foot or mass per square metre, but in no case more than 1/s in. 
+[3 mm]; or (2) below the permissible minimum thickness for 
+plates ordered to thickness in inches or millimetres. 
+9.2.2 The deposition of weld metal (see 9.5) following the 
+removal of imperfections on the top or bottom surface of plates 
+by chipping, grinding, or arc-air gouging shall be subject to the 
+following limiting conditions: 
+9.2.2.l The chipped, ground, or gouged area shall not 
+exceed 2 % of the area of the surface being conditioned. 
+9.2.2.2 After removal of any imperfections preparatory to 
+welding, the thickness of the plate at any location shall not be 
+reduced by more than 30 % of the nominal thickness of the 
+plate. (Specification A131/A131M restricts the reduction in 
+thickness to 20 % maximum.) 
+9.2.3 The deposition of weld metal (see 9.5) following the 
+removal of injurious imperfections on the edges of plates by 
+grinding, chipping, or arc-air gouging by the manufacturer or 
+processor shall be subject to the limitation that, prior to 
+welding, the depth of the depression, measured from the plate 
+edge inward, is not more than the thickness of the plate or 1 in. 
+[25 mm], whichever is the lesser. 
+9.3 Structural Size Shapes, Bar Size Shapes, and Sheet 
+Piling Conditioning: 
+9.3.1 The grinding, or chipping and grinding, of structural 
+size shapes, bar size shapes, and sheet piling by the manufac­
+turer or processor to remove imperfections shall be subject to 
+the limitations that the area ground is well faired without 
+abrupt changes in contour and the depression does not extend 
+below the rolled surface by more than (J) 1/32 in. [1 mm], for 
+material less than 3/s in. [10 mm] in thickness; (2) 1/16 in. [2 
+mm], for material 3fs to 2 in. [10 to 50 mm] inclusive in 
+thickness; or (3) 1/s in. [3 mm], for material over 2 in. [50 mm] 
+in thickness. 
+9.3.2 The deposition of weld metal (see 9.5) following 
+removal of imperfections that are greater in depth than the 
+limits listed in 9.3.1 shall be subject to the following limiting 
+conditions: 
+9.3.2.1 The total area of the chipped or ground surface of 
+any piece prior to welding shall not exceed 2 % of the total 
+surface area of that piece. 
+9.3.2.2 The reduction of thickness of the material resulting 
+from removal of imperfections prior to welding shall not 
+exceed 30 % of the nominal thickness at the location of the 
+imperfection, nor shall the depth of depression prior to welding 
+exceed 1 ¼ in. [32 mm] in any case except as noted in 9.3.2.3. 
+9.3.2.3 The deposition of weld metal (see 9.5) following 
+grinding, chipping, or arc-air gouging of the toes of angles, 
+beams, channels, and zees and the stems and toes of tees shall 
+be subject to the limitation that, prior to welding, the depth of 
+the depression, measured from the toe inward, is not more than 
+the thickness of the material at the base of the depression or ½ 
+in. [12.5 mm], whichever is the lesser. 
+9.3.2.4 The deposition of weld metal (see 9.5) and grinding 
+to correct or build up the interlock of any sheet piling section 
+at any location shall be subject to the limitation that the total 
+surface area of the weld not exceed 2 % of the total surface 
+area of the piece. 
+9.4 Bar Conditioning: 
+9.4.1 The conditioning of bars by the manufacturer or 
+processor to remove imperfections by grinding, chipping, or 
+some other means shall be subject to the limitations that the 
+conditioned area is well faired and the affected sectional area'is 
+not reduced by more than the applicable permitted variations 
+.. (see Section 12). 
+10 
+9.4.2 The deposition of weld metal (see 9.5) following 
+chipping or grinding to remove imperfections that are greater 
+in depth than the limits listed in 9.4.1 shall be subject to the 
+following conditions: 
+9.4.2.1 The total area of the chipped or ground surface of 
+any piece, prior to welding, shall not exceed 2 % of the total 
+surface area of the piece. 
+9.4.2.2 The reduction of sectional dimension of a round, 
+square, or hexagon bar, or the reduction in thickness of a flat 
+bar, resulting from removal of an imperfection, prior to 
+welding, shall not exceed 5 % of the nominal dimension or 
+thickness at the location of the imperfection. 
+9.4.2.3 For the edges of flat bars, the depth of the condi­
+tioning depression prior to welding shall be measured from the 
+edge inward and shall be limited to a maximum depth equal to 
+the thickness of the flat bar or ½ in. [12.5 mm], whichever is 
+less. 
+9.5 Repair by Welding: 
+9.5.1 General Requirements: 
+9.5.1.1 Repair by welding shall be in accordance with a 
+welding procedure specification (WPS) using shielded metal 
+arc welding (SMAW), gas metal arc welding (GMAW), flux 
+cored arc welding (FCAW), or submerged arc welding (SAW) 
+processes. Shielding gases used shall be of welding quality. 
+9.5.1.2 Electrodes and electrode-flux combinations shall be 
+in accordance with the requirements of A WS Specifications 
+A5.l/A5.1M, A5.5/A5.5M, A5.17/A5.17M, A5.18/A5.18M, 

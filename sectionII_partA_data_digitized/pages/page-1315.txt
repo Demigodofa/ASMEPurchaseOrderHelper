@@ -1,0 +1,105 @@
+ASME BPVC.II.A-2025 SA-770/SA-770M 
+to the plate surface and often slightly outside the heat-affected 
+zone. Lamellar tearing generally has a step-like appearance 
+consisting of "terraces" (cracks running parallel to the plate 
+surface) and "walls" (cracks which connect the individual 
+terraces). The tearing may remain completely subsurface or 
+appear at plate edges or at weld toes. 
+Xl.3 Inclusions 
+Xl.3.1 The step-like cracking characteristic of lamellar 
+tearing is usually considered to result from small elongated 
+nonmetallic inclusions that are normally present in the steel. 
+Strains in the through-thickness direction can cause individual 
+inclusions to fractures or decohere from the surrounding steel 
+matrix, thus initiating a void. Further strain can cause the 
+remaining metallic ligaments to shear or rupture, resulting in 
+the step-like fracture appearance. 
+Xl.3.2 A high or concentrated inclusion content in the steel 
+produces planar regions of poor ductility parallel to the steel 
+surface. On the other hand, a reduction in the magnitude and 
+concentration of these inclusions to a low level tends to 
+preclude any easy fracture path along the low ductility inclu­
+sions and the steel exhibits improved ductility in a through­
+thickness direction. 
+Xl.3.3 The extent of nonmetallic inclusions depends on the 
+type of steel. In silicon semikilled or fully killed steels, these 
+inclusions are primatily oxides (present as silicates) and 
+sulfides (present as manganese sulfides). For aluminum-silicon 
+killed steels, these inclusions are primarily sulfides (manganese 
+sulfides). To improve the through-thickness ductility and thus 
+the resistance of the steel to lamellar tearing, it is necessary to 
+reduce the level of the nonmetallic inclusions. To provide a 
+high resistance to lamellar tearing may require the use of 
+special steel-making processes that can reduce the oxygen and 
+sulfur contents in the steel to very low levels. 
+Xl.4 Steel Manufacturing Processes 
+Xl.4.1 Special steel-making processes are available for 
+improving the through-thickness ductility. The more common 
+processes, used singly or in combination, are: (J) low sulfur 
+practices; (2) inclusion shape control; (3) electroslag or 
+vacuum arc remelting; atld (4) vacuum degassing. The steel­
+making processes are not all intended for the same purpose, but 
+will improve the through-thickness ductility to various degrees 
+depending on the process used. 
+Xl.5 Through-Thickness Ductility Requirements 
+Xl.5.1 Susceptibility to lamellar tearing depends on many 
+factors (for example, restraint, welding conditions, etc.) and, 
+consequently a specific through-thickness ductility require­
+ment does not provide a guarantee against lamellar tearing. The 
+most widely accepted method of measuring the material 
+ductility factor of susceptibility to lamellar tearing is the 
+reduction of area of a round tension test specimen oriented 
+perpendicular to the rolled surface of a plate. 
+X2. TESTING PARAMETERS AFFECTING REDUCTION OF AREA VALUES 
+X2.1 Variability of Through-Thickness Properties 
+X2.1.1 Through-thickness tension test results, and in par­
+ticular the reduction of area determination as provided for in 
+this specification, are subject to substantially greater scatter 
+than would normally be expected from standard tension tests of 
+a plate in the longitudinal or transverse direction. This scatter 
+of test results is due in part to the inherent variability of the 
+distribution of the nonmetallic inclusions discussed in Xl.3. 
+For example, those nonmetallic inclusions that form during the 
+solidification phase of the steelmaking process tend to occur 
+with a higher frequency in the area of final solidification. 
+X2.l.2 Test specimen design may also have an effect on the 
+test results. Some of these factors are discussed in X2.2. 
+Operator technique will also be a factor in increasing scatter, 
+particularly in the measurement of the final diameter of the test 
+specimen. Because of the effect of inclusions on the fracture 
+process, the appearance of the final fracture may be quite 
+different than the classical cup-cone fractures common to 
+longitudinal and transverse tension testing. For those materials 
+with approximately 20 % reducti.on of area, the final diatneter 
+measurement may require a substantial amount of judgment on 
+the part of the test operator. 
+X2.1.3 In view of the potential variability of the through­
+thickness reduction of area test results, it is recognized that two 
+tests per plate are not sufficient to fully characterize the 
+through-thickness ductility of that plate. The number of tests 
+and test positions have not been established that would provide 
+a good estimate of both the meat1 and the variability of 
+through-thickness tensile reduction of values of a plate. There­
+fore, an average value requirement is not included in this 
+specification. The intent of this specification is to qualify a 
+plate according to the described testing procedures using only 
+a minimum value requirement. The potential variability of the 
+test results also increases the possibility that subsequent testing 
+of a steel plate qualified according to this specification may 
+produce results that do not meet the specified acceptance 
+standard. 
+X2.2 Effects of Test Specimen Design 
+X2.2.1 Two main factors considered in the selection of test 
+specimen geometry were the diameter and the slenderness 
+ratio. It is generally accepted that there is a diameter effect on 
+reduction-of-area values such that a smaller diameter specimen 
+generally yields a higher average reduction in area value. It is 
+also accepted that smaller diameter test specimens will tend to 
+give greater variability to the resulting reduction in area values. 
+Because these relationships between the test specimen diam­
+eter and the average and variability of the test result have not 
+been satisfactorily quantified at this time, the same minimum 
+requirement has been applied to all test specimen diameters. 
+X2.2.2 The slenderness ratio (reduced section length/ 
+reduced section diameter) is lmown to affect the reduction in 
+1249 

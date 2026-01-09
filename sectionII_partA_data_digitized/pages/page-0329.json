@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 329,
+  "globalPageIndex": 329,
+  "width": 601.08,
+  "height": 845.28,
+  "text": "ASME BPVC.II.A-2025 SA-213/SA-213M (ASTM A213/A213M) \nSPECIFICATION FOR SEAMLESS FERRITIC AND \nAUSTENITIC ALLOY-STEEL BOILER, SUPERHEATER, \nAND HEAT-EXCHANGER TUBES \nSA-213/SA-213M cO \nINTERNATIONAL \nStandards Worldwide \n(Identical with ASTM Specification A213/A213M-23 except for the additional H Grade requirements in para. 6.2 and \nSupplementary Requirement S5 made mandatory.) \nASME SA-213/SA-213 replaces para. 6.2.2 of ASTM A213/A213M with the following: \n6.2.2 Austenitic Stainless Steels-All austenitic tubes shall be furnished in the heat-treated condition, and shall be heat \ntreated in accordance with the requirements of Table 3. Other than for Grades S30815, S30942, S31272, S33228, S30432, \nand H grades, seamless tubing immediately following hot forming may be individually quenched in water or rapidly cooled \nby other means ( direct quenched), provided that the temperature of the tubes after hot forming is not less than the \nminimum specified heat treatment temperatures. For H grades, as well as Grades S30815, S30942, S31272, S33228, and \nS30432, the tubes shall be reheated to the specified heat treatment temperature for the required time before quenching. \n277 \n(25) ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0329.json",
+  "tabulaTablesCsv": "tables_tabula/page-0329.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-0329.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1191,
+  "bestTextAlphaRatio": 0.7103
+}

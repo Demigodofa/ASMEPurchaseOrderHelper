@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 405,
+  "globalPageIndex": 405,
+  "width": 620.76,
+  "height": 859.92,
+  "text": "ASME BPVC.II.A-2025 SA-240 /SA-240M \nTABLE S3.1 Tensile and Yield Strength Requirements \nNorn 1-These values apply only for material of 1.5 inches (38 mm) \nnominal thickness or less. \nTensile 0.2 % Offset 1 % Offset \nStrength, Yield Yield \nUNS Grade min., Ksi Strength, Strength, \n[MPa] Min., Ksi Min., Ksi \n[MPa] [MPa] \nS31603 316L 70 [485] 25 [170] 38 [260] \nS31600 316 75 [515] 30 [205] 38 [260] \nS31653 316LN 75 [515] 30 [205] 46 [320] \nS30403 304L 70 [485] 25 [170] 35 [240] \nS30400 304 75 [515] 30 [205] 36 [250] \nS30453 304LN 75 [515] 30 [205] 45 [310] \nS30451 304N 80 [550] 35 [240] 45 [310] \nS32100 321 75 [515] 30 [205] 35 [240] \n353 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0405.json",
+  "tabulaTablesCsv": "tables_tabula/page-0405.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0405.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 644,
+  "bestTextAlphaRatio": 0.3525
+}

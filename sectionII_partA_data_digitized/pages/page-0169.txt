@@ -1,0 +1,139 @@
+ASME BPVC.II.A-2025 SA-29/SA-29M 
+TABLE A2.6 Dimensional Tolerances for Hot-Wrought Bar Size Tees 
+Tolerances in Size, mm Specified Size 
+ofTee,A mm Width or Depth, 8 
+Over Under 
+Thickness of Flange 
+Over Under 
+Thickness of Stem 
+Over Under 
+Stem Out of 
+Sguare 0 
+To 30, incl 
+Over 30 to 50, incl 
+Over 50 to 75, excl 
+1 1 0.2 0.2 
+2 2 0.3 0.3 
+2 2 0.4 0.4 
+A The longer member of the unequal tee determines the size for tolerances. 
+8 Measurements for width and depth are over all. 
+0 Stem out of square is the tolerance from its true position of the center line of the stem measured at the point. 
+0.1 
+0.2 
+0.4 
+0.5 
+0.5 
+0.5 
+1 
+2 
+2 
+TABLE A2.7 Permissible Variations in Dimensions for Half-Rounds, Ovals, Half-Ovals, and Other Special Bar Size Sections 
+Due to mill facilities, tolerances on half-rounds, ovals, and other special bar size sections vary among the manufacturers and such tolerances should be 
+negotiated between the manufacturer and the purchaser. 
+TABLE A2.8 Length Tolerances for Hot-Wrought Rounds, Squares, Hexagons, Octagons, Flats, and Bar Size Sections 
+Specified Size of Rounds, 
+Squares, Hexagons and 
+Octagons, mm 
+To 25, incl 
+Over 25 to 50, incl 
+Over 50 to 125, incl 
+Over 125 to 250, incl 
+Bar Size Sections 
+To 90, incl 
+Over 90 to 125, incl 
+Over 125 to 250, incl 
+A No tolerance under. 
+8 Shorter lengths are not hot sawed. 
+Specified Size of Flats, mm 
+Thickness Width 
+to 25, incl 
+over 25 
+to 25, incl 
+over 25 
+over 6 to 25, incl 
+over 25 to 75, incl 
+25 and over 
+Hot Shearin 
+to 75, incl 
+to 75, incl 
+over 75 to 150, incl 
+over 75 to 150, incl 
+over 150 to 200, incl 
+over 150 to 200, incl 
+Hot Sawin 
+75 and over 
+1500 
+to 
+3000, 
+excl 
+15 
+15 
+15 
+25 
+50 
+20 
+30 
+15 
+B 
+B 
+Tolerances over Specified Length, mmA 
+3000 6000 9000 
+to to to 
+6000, 9000, 12 000, 
+excl excl excl 
+20 35 45 
+25 40 50 
+25 40 50 
+40 45 60 
+65 70 75 
+30 45 90 
+45 50 90 
+25 40 50 
+40 45 60 
+50 60 65 
+65 70 75 
+TABLE A2.9 Length Tolerances for Recutting of Bars Meeting Special Straightness Tolerances 
+Sizes of Rounds, Squares, Hexagons, 
+Octagons, Widths of Flats and 
+Maximum Dimensions of Other 
+Sections, mm 
+To 75, incl 
+Over 75 to 150, incl 
+Over 150 to 200, incl 
+Rounds over 200 to 250, incl 
+A No tolerance under. 
+Tolerances over Specified Length, mmA 
+To 3700 mm, 
+incl 
+6 
+8 
+11 
+14 
+Over 3700 mm 
+8 
+11 
+14 
+18 
+TABLE A2.10 Straightness Tolerances for Hot-Wrought Bars and Bar Size SectionsA 
+Standard Tolerances 
+Special Tolerances 
+6 mm in any 1500 mm and (length in mm/250) 8 
+3 mm in any 1500 mm and {length in mm/500) 8 
+A Because of warpage, straightness tolerances do not apply to bars if any subsequent heating operation or controlled cooling has been performed. 
+8 Round to the nearest whole millimetre. 
+117 
+12 000 
+to 
+18 000, 
+excl 
+60 
+65 
+65 
+70 
+85 
+100 
+100 
+65 
+70 
+75 
+85 

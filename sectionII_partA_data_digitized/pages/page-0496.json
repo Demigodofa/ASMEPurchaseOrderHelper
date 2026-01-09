@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 496,
+  "globalPageIndex": 496,
+  "width": 596.16,
+  "height": 841.8,
+  "text": "SA-307 ASME BPVC.II.A-2025 \nSUPPLEMENTARY REQUIREMENTS \nThe following supplementary requirement shall apply only when specified in the purchase order or \ncontract: \nSl. Bolts Suitable for Welding \nS 1.1 The material described in this section is intended for \nwelding. This supplemental section, by additional chemical \ncomposition restrictions and by a carbon equivalent formula, \nprovides assurance of weldability by chemical composition \ncontrol. \nS 1.2 Welding technique is of fundamental importance when \nbolts produced to this supplementary section are welded. It is \npresupposed that suitable welding procedures for the steel \nbeing welded and the intended service will be selected. \nSl.3 All of the requirements of this supplemental section \napply in addition to all of the chemical, mechanical, and other \nrequirements of the base specification, Specification A307 for \nGrade B. \nS 1.4 Because of the embrittling effects of welding tempera\u00ad\ntures on cold-forged steel, this supplemental section is limited \nto hot-forged bolts, or, if not forged, then to bolts produced \nfrom hot-rolled bars without forging or threaded bars, bars \nstuds, or stud bolts produced from hot-rolled bars without \nforging. Cold-forged bolts, or cold-drawn threaded bars, if they \nare given a thermal treatment by heating to a temperature of not \nless than 1500\u00b0F (815\u00b0C) and air-cooled are also suitable. \nS 1.5 Chemical Requirements: \nSl.5.1 Heat Chemical Analysis-Material conforming to \nthe following additional analysis limitations shall be used to \nmanufacture the product described in this supplementary \nrequirement. \nCarbon \nManganese \nPhosphorus \nSulfur \nSilicon \n0.30%, max \n1.00 %, max \n0.04%, max \n0.05%, max \n0.50%, max \nSl.5.2 Carbon Equivalent (Source-Specification A706/ \nA706M)-In addition to the heat chemical analysis require\u00ad\nments in Sl.5.1, the heat analysis shall be such as to provide a \ncarbon equivalent (CE) not exceeding 0.55 when calculated as \nfollows: \nSl.6 Analysis Reports-If requested on the order or con\u00ad\ntract, the chemical composition of each heat of steel used and \nthe calculated carbon equivalent for each heat shall be reported \nto the purchaser. \nSl.7 Product (Check) Verification Analysis-Chemical \nanalyses when made by the purchaser or a representative on \nbolts from each heat of steel, shall not exceed the values \nspecified in Sl.5.2 by more than the following amounts: \n444 \nCarbon \nManganese \nPhosphorus \nSulfur \nSilicon \n% \n+0.03 \n+0.06 \n+0.008 \n+0.008 \n+0.05 \nS2. Permanent Manufacturer's Identification \nS2. l Replaced by Specification F1554. \nS3. Permanent Grade Identification \nS3.1 Replaced by Specification F1554. ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-0496.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2657,
+  "bestTextAlphaRatio": 0.7557
+}

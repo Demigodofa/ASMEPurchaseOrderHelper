@@ -1,0 +1,101 @@
+SA-609 /SA-609M ASME BPVC.II.A-2025 
+14.2 Suiface Finish: 
+14.2.1 Machined Suifaces - Machined surfaces sub­
+ject to ultrasonic inspection shall have a finish that will 
+produce an ultrasonic response equivalent to that obtained 
+from a 250 µin. (6.3 µm) surface. The surface finish shall 
+also permit adequate movement pf search units along the 
+surface. 
+14.2.2 Casting Suifaces - Casting surfaces to be 
+ultrasonically inspected shall be suitable for the intended 
+type and quality level (Tables 3 and 4) of inspection as 
+judged acceptable by a qualified individual as specified in 
+13.1.1. 
+14.2.3 Surface Condition - All surfaces to be 
+inspected shall be free of scale, machining or grinding 
+particles, excessive paint thickness, dirt, or other foreign 
+matter that may interfere with the inspection. 
+14.3 Position of Casting - The casting shall be posi­
+tioned such that the inspector has free access to the back 
+wall for the purpose of verifying change in contour. 
+15. Calibration 
+15.1 Calibration Blocks - Determine the thickness of 
+the material to be ultrasonically inspected. For material 
+thickness of 3 in. [75 mm] or less, use the series of 3 
+blocks, ½, 2, 5 in. [13, 50, 125 mm] (Fig. 3, B dimension) 
+for calibration: For a material thickness greater than 3 in., 
+use the series of 3 blocks, 2, 5, 10 in. [50, 125, 250 mm] 
+(Fig. 3, B dimension) for calibration. 
+15.2 Calibration of Search Units - For the thickness 
+of material to be inspected, as determined in 15.1, use the 
+following search units: 
+15.2.1 For materials 3 in. [75 mm] or less in thick­
+ness, use a 2¾ MHz, ½ in. [13 mm] diameter search unit. 
+15.2.2 For material greater than 3 in. [75 mm] in 
+thickness, use a 2¾ MHz, 1 in. [25 mm] diameter search 
+unit. 
+15.3 Calibration Procedure: 
+15.3.1 Set the frequency selector as required. Set the 
+reject control in the "OFF" position. 
+15.3.2 Position the search unit on the entrant surface 
+of the blockthat completely encompasses the metal thick­
+ness to be inspected (Fig. 3) and adjust the sweep control 
+such that the back reflection signal appears approximately, 
+but not more than three-quarters along the sweep line from 
+the initial pulse signal. 
+15.3.3 Position the search unit on the entrant surface 
+of the smallest block of the series of 3 blocks selected for 
+calibration and adjust the gain until the back reflection 
+signal height (amplitude) is 1.5 in. [40 mm] sweep to 
+peak (SIP). Draw a line on the cathode-ray screen (CRT), 
+parallel to the sweep line, through the peak of the 1.5 in. 
+(SIP) amplitude. 
+15.3.4 Position the search unit on the entrant surface 
+of the largest block of the series of 3 blocks selected for 
+calibration, and adjust the distance amplitude control to 
+provide a back reflection signal height of 1.5 in. [40 mm] 
+(SIP). 
+15.3.5 Position the search unit on the entrant surface 
+of the intermediate calibration block of the series of 3 
+blocks being used for calibration and confirm that the back 
+reflection signal height is approximately 1.5 in. [40 mm] 
+(SIP). If it is not, obtain the best compromise between this 
+block and the largest block of the series of 3 blocks being 
+used for calibration. 
+15.3.6 Draw a line on the cathode ray tube screen 
+parallel to the sweep line at 0.5 in. [13 mm] (SIP) ampli­
+tude. This will be the reference line for reporting disconti­
+nuity amplitudes. 
+15.3.7 For tests on machined suifaces, position the 
+search unit on a machined surface of casting where the 
+walls are reasonably parallel and adjust the gain of the 
+instrument until the back reflection signal height is 1.5 in. 
+[40 mm] (SIP). Increase the inspection sensitivity by a 
+factor of three times (10 dB gain) with the calibrated attenu­
+ator. Surfaces that do not meet the requirements of 14.2.l 
+shall be inspected as specified in 15.3.s: 
+15.3.8 For inspections on cast suifaces, position the 
+search unit on the casting to be inspected at a location 
+where the walls are reasonably parallel and smooth (inside 
+and outside diameter) and the surface condition is represen­
+tative of the surface being inspected. Adjust the gain of 
+the instrument until the back reflection signal height is 
+1.5 in. [40 mm] (SIP). Increase the inspection sensitivity 
+by a factor of six times (16 dB) by use of the calibrated 
+control or attenuator. A significant change in surface finish 
+requires a compensating adjustment to the gain. 
+15.3.8.1 Rejectable indications on as-cast surfaces 
+may be reevaluated by surface preparation to 250 µin. 
+[6.3 µm] finish or better, and re-inspected in accordance 
+with 15.3.7 of this practice. 
+15.3.8.2 It should be noted that some instruments 
+are equipped with decibel calibrated gain controls, in which 
+case the decibel required to increase the sensitivity must 
+be added. Other instruments have decibel calibrated attenu­
+ators, in which case the required decibel must be removed. 
+Still other instruments do not have calibrated gains or 
+attenuators. They require external attenuators. 
+16. Scanning 
+16.1 Grid Pattern - The surface of the casting shall 
+be laid out in a 12 by 12 in. [300 by 300 mm] or any 
+1038 

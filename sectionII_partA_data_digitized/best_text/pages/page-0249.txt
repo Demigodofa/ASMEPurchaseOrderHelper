@@ -1,0 +1,147 @@
+ASME BPVC.II.A-2025 SA-178/SA-178M (ASTM A178/A178M) 
+TABLE 1 Chemical Requirements 
+Element 
+Carbon 
+Manganese 
+Phosphorus, max 
+Sulfur, max 
+SIiicon 
+Grade A, 
+Low-Carbon 
+Steel 
+0.06-0.18 
+0.27--0.63 
+0.035 
+0.035 
+Composition, % 
+Grade C, 
+Medium­
+Carbon Steel 
+0.35 max 
+0.80 max 
+0.035 
+0.035 
+TABLE 2 Tensile Requirements 
+Tensile stn1ngth, min, ksi [MPa] 
+Yield strength, min, ksi [MPa] 
+Elongation in 2 in. or 50 mm, min, % 
+For longitudinal strip tests a deduction for 
+each ¼2-in. [0.8 mm] decrease In wall 
+thickness below o/10 in. [8 mm] from the 
+basic minimum elongation of the 
+following percentage points shall be 
+made. 
+Grade C 
+60 [415] 
+37 [255] 
+30 
+1.5cr 
+A See Table 3 for the computed minimum values. 
+4. Manufacture 
+4.1 The steel for Grade D shall be killed. 
+Grade D, Carbon­
+Man­
+ganese Steel 
+0.27 max 
+1.00-1.50 
+0.030 
+0.015 
+0.10 min 
+Grade D 
+70 [485] 
+40 [275] 
+30 
+1,50A 
+4.2 Tubes shall be made by electric-resistance welding. 
+5. Heat Treatment 
+5.1 After welding, all tubes shall be heat treated at a 
+temperature of 1650°F [900°C] or higher and followed by 
+cooling in air or in the cooling chamber of a controlled­
+atmosphere furnace. Cold-drawn tubes shall be heat treated 
+after the final cold-draw pass at a temperature of 1200°F 
+[650°C] or higher. 
+6. Chemical Composition 
+6.1 The steel shall conform to the requirements as to 
+chemical composition prescribed in Table 1. 
+6.2 When a grade is ordered under this specification, sup­
+plying an alloy grade that specifically requires the addition of 
+any element other than those listed in Table 1 is not permitted. 
+7. Product Analysis 
+7.1 When requested on the purchase order, a product analy­
+sis shall be made by the manufacturer or supplier from one tube 
+per 100 pieces for sizes over 3 in. [76.2 mm] and one tube per 
+250 pieces for sizes 3 in. [76.2 mm] and under; or when tubes 
+are identified by heat, one tube per heat shall be analyzed. The 
+chemical composition thus determined shall conform to the 
+requirements specified. 
+7 .2 If the original test for product analysis fails, retests of 
+two additional lengths of flat-rolled stock or tubes shall be 
+made. Both retests, for the elements in question, shall meet the 
+requirements of the specification; otherwise all remaining 
+material in the heat or lot (Note 2) shall be rejected or, at the 
+option of the producer, each length of flat-rolled stock or tube 
+may be individually tested for acceptance. Lengths of flat-
+rolled stock or tubes which do not meet the requirements of the 
+specifications shall be rejected. 
+NOTE 2-A lot consists of 250 tubes for sizes 3 in. [76.2 mm] and under 
+and of 100 tubes for sizes over 3 in. [76.2 mm], prior to cutting to length. 
+8. General Requirements 
+8.1 Material furnished under this specification shall con­
+form to the applicable requirements of the current edition of 
+Specification A450/A450M unless otherwise provided herein. 
+9. Tensile Requirements 
+9.1 Grade C and D tubes shall conform to the requirements 
+as to tensile properties prescribed in Table 2. 
+Nom 3-Explanatory Note-For purposes of design the following 
+tensile properties may be assumed for Grade A tubes: 
+Tensile strength, min, ksi [MPa] 47 [325] 
+Yield Strength, min, ksl [MPa] 26 [180] 
+Elongation In 2 in. or 50 mm, min, % 35 
+9.2 Table 3 gives the computed minimum elongation values 
+for each 1/32-in. [0.8 mm] decrease in wall thickness. Where the 
+wall thickness lies between two values shown above, the 
+minimum elongation value shall be determined by the follow­
+ing equation: 
+E = 48t+ 15.00[E = l.87t+ 15.00] 
+where: 
+E = elongation in 2 in. or 50 mm,%, and, 
+= actual thickness of specimen, in. [mm]. 
+10. Crush Test 
+10.1 When required by the purchaser, crushing tests shall be 
+made on sections of tube 2½ in. [63 mm] in length which shall 
+stand crushing longitudinally without cracking, splitting, or 
+opening at the weld, as follows: 
+Wall Thickness of 
+Tubes, In. [mm] 
+Height of Crushed Section, in. [mm] 
+Grade A Tubes Grade C and D Tubes 
+0.135 [3.43] and under % [19] or until outside Crush tests not required 
+folds are in contact 
+Over 0.135 [3.43] 1 ¼ [32] 
+10.2 For tubing less than 1 in. [25.4 mm] in outside 
+diameter, the length of the specimen shall be 2½ times the 
+outside diameter of the tube. Slight surface checks shall not be 
+cause for rejection. 
+TABLE 3 Minimum Elongation Values 
+Wall Thickness Elongation In 2 In. or 50 ----In-. _______ m_m___ mm, min, %A 
+o/10 (0.312) 8 
+%2 (0.281) 7.2 
+¼ (0.250) 6.4 
+7/22 (0.219) 5.6 
+:Y1s (0.188) 4.8 
+%2(0.156) 4 
+1k (0.125) 3.2 
+%2 (0.094) 2.4 
+1/io (0.062) 1.6 
+30 
+29 
+27 
+26 
+24 
+22 
+21 
+20 
+18 
+A Calculated elongation requirements shall be rounded to the nearest whole 
+number. 
+197 

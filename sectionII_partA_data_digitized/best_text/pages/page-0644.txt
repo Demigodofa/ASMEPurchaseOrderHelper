@@ -1,0 +1,79 @@
+SA-370 ASME BPVC.II.A-2025 
+TABLE 1 Multiplying Factors to Be Used for Various Diameters of Round Test Specimens 
+Standard Specimen Small Size Specimens Proportional to Standard 
+0.500 in. Round 0.350 in. Round 0.250 in. Round 
+Actual Area, Multiplying Actual Area, Multiplying Actual Area, Multiplying Diameter, in. 2 Factor Diameter, in. 2 Factor Diameter, in.2 Factor in. in. in. 
+0.490 0.1886 5.30 0.343 0.0924 10.82 0.245 0.0471 21.21 
+0.491 0.1893 5.28 0.344 0.0929 10.76 0.246 0.0475 21.04 
+0.492 0.1901 5.26 0.345 0.0935 10.70 0.247 0.0479 20.87 
+0.493 0.1909 5.24 0.346 0.0940 10.64 0.248 0.0483 20.70 
+0.494 0.1917 5.22 0.347 0.0946 10.57 0.249 0.0487 20.54 
+0.495 0.1924 5.20 0.348 0.0951 10.51 0.250 0.0491 20.37 
+0.496 0.1932 5.18 0.349 0.0957 10.45 0.251 0.0495 20.21 
+(0.05jA (20.0jA 
+0.497 0.1940 5.15 0.350 0.0962 10.39 0.252 0.0499 20.05 
+(0.05)A (20.0)A 
+0.498 0.1948 5.13 0.351 0.0968 10.33 0.253 0.0503 19.89 
+(0.05)A (20.0)A 
+0.499 0.1956 5.11 0.352 0.0973 10.28 0.254 0.0507 19.74 
+0.500 0.1963 5.09 0.353 0.0979 10.22 0.255 0.0511 19.58 
+0.501 0.1971 5.07 0.354 0.0984 10.16 
+0.502 0.1979 5.05 0.355 0.0990 10.10 
+0.503 0.1987 5.03 0.356 0.0995 10.05 
+(0.1)A (10.0)A 
+0.504 0.1995 5.01 0.357 0.1001 9.99 
+(0.2)A (5.0)A (0.1)A (10.0)A 
+0.505 0.2003 4.99 
+(0.2jA (5.0)A 
+0.506 0.2011 4.97 
+(0.2)A (5.0)A 
+0.507 0.2019 4.95 
+0.508 0.2027 4.93 
+0.509 0.2035 4.91 
+0.510 0.2043 4.90 
+A The values in parentheses may be used for ease in calculation of stresses, in pounds per square inch, as permitted in Note 5 of Fig. 4. 
+12.3 The type of specimen ends outside of the gauge length 
+shall accommodate the shape of the product tested, and shall 
+properly fit the holders or grips of the testing machine so that 
+axial loads are applied with a minimum of load eccentricity and 
+slippage. Fig. 5 shows specimens with various types of ends 
+that have given satisfactory results. 
+13. Gauge Marks 
+13.1 The specimens shown in Figs. 3-6 shall be gauge 
+marked with a center punch, scribe marks, multiple device, or 
+drawn with ink. The purpose of these gauge marks is to 
+determine the percent elongation. Punch marks shall be light, 
+sharp, and accurately spaced. The localization of stress at the 
+marks makes a hard specimen susceptible to starting fracture at 
+the punch marks. The gauge marks for measuring elongation 
+after fracture shall be made on the flat or on the edge of the flat 
+tension test specimen and within the parallel section; for the 
+8-in. gauge length specimen, Fig. 3, one or more sets of 8-in. 
+gauge marks may be used, intermediate marks within the gauge 
+length being optional. Rectangular 2-in. gauge length 
+specimens, Fig. 3, and round specimens, Fig. 4, are gauge 
+marked with a double-pointed center punch or scribe marks. 
+One or more sets of gauge marks may be used; however, one 
+592 
+set must be approximately centered in the reduced section. 
+These same precautions shall be observed when the test 
+specimen is full section. 
+14. Determination of Tensile Properties 
+14.1 Yield Point-Yield point is the first stress in a material, 
+less than the maximum obtainable stress, at which an increase 
+in strain occurs without an increase in stress. Yield point is 
+intended for application only for materials that may exhibit the 
+unique characteristic of showing an increase in strain without 
+an increase in stress. The stress-strain diagram is characterized 
+by a sharp knee or discontinuity. Determine yield point by one 
+of the following methods: 
+14.1.1 Drop of Beam or Halt of Pointer Method-In this 
+method, apply an increasing load to the specimen at a uniform 
+rate. When a lever and poise machine is used, keep the beam in 
+balance by running out the poise at approximately a steady 
+rate. When the yield point of the material is reached, the 
+increase of the load will stop, but nm the poise a trifle beyond 
+the balance position, and the beam of the machine will drop for 
+a brief but appreciable interval of time. When a machine 
+equipped with a load-indicating dial is used there is a halt or 
+hesitation of the load-indicating pointer corresponding to the 

@@ -1,0 +1,53 @@
+SA-738 /SA-738M ASME BPVGC.II.A-2025
+TABLE 2 Tensile Requirements — .
+Note 1—t = plate nominal thickness.
+Grade A Grade B Grade C Grade D Grade E ;
+Tensile strength, ksi [MPa]
+1.5 in. [40 mm] and under 75-95 [515-655] 85-102 [585-705] 80-100 [550-690] 85-105 [585-724] 90~110 [620-760]
+Over 1.5 to 2.0 in. 75-95 [515-655] 85-102 [585-705] 80-100 [550-690] A 90-110 [620-760]
+[40 to 50 mm], incl
+Over 2.0 to 2.5 in. 75-95 [515-655] 85~102 [585-705] 80-100 [550-690] A A
+[50 to 65 mn] |
+Over 2.5 to 4 in. 75-95 [515-655] 85-102 [585-705] 75-95 [515-655] A A
+[65 to 100 mm], incl
+Over 4 in. [100 mm] 75-95 [515-655] 85-102 [585-705] 70-90 [485-620] A A |
+Yield strength, min, ksi [MPa] ——
+1.5 in. [40 mm] and under 45 [810] 60 [415] 60 [415] 70 [485] 75 [515] | ,
+Over 1.5 to 2.0 in. 45 [310] 60 [415] 60 [415] A 75 [515] ,
+[40 to 50 mm], incl
+Over 2.0 to 2.5 in. 45 [310] 60 [415] 60 [415] A A
+[50 to 65 mm], incl |
+Over 2.5 to 4 in. 45 [310] 60 [415] 55 [380] A A
+[65 to 100 mm], incl
+Over 4 in. [100 mm] 45 [310] 60 [415] 46 [315] A A
+Elongation in 2 in. [50 mm], ,
+min, %?
+
+1.5 in. [40 mm] and under 20 20 22 20 20
+
+- Over 1.5 to 4 in. 20 20 22 A A . :
+[40 to 100 mm], incl |
+Over 4 in. [100 mm] 20 20 20 A A ,
+
+A Not applicable.
+® See Specification A20/A20M for elongation requirement adjustments.
+
+5.3 When plates are tempered, the minimum tempering 7.1.1 For nominal plate thicknesses of % in. [20 mm] and
+temperature shall be 1100°F [595°C]. under, the 1.5-in. [40-mm] wide rectangular specimen may be
+6. Chemical Requirements used for the tension test and the elongation may be determined :
+
+° qu in a 2-in. [50-mm] gage length that includes the fracture and
+
+6.1 The steel shall conform to the chemical requirements shows the greatest elongation. :
+shown in Table 1 unless otherwise modified in accordance with |
+Supplementary Requirement S17, Vacuum Carbon- g, Keywords
+Deoxidized Steel in Specification A20/A20M. _
+
+8.1 pressure-containing parts; pressure vessel steel; steel ae
+7. Mechanical Requirements plates; steel plates for pressure vessel applications ,
+
+7.1 Tension Test Requirements—The plates as represented |
+by the tension test specimens shall conform to the requirements :
+of Table 2. |
+
+1204

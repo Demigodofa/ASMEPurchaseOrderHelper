@@ -1,0 +1,185 @@
+=== Page 177 ===
+
+ASME BPVCILA-2025 SA-36/SA-36M
+
+SPECIFICATION FOR CARBON STRUCTURAL STEEL
+
+CxS SA-36/SA-36M
+
+(Identical with ASTM Specification A36/A36M-19.)
+
+125
+
+=== Page 178 ===
+
+SA-36/SA-36M ASME BPVC.II.A-2025 
+Specification for 
+Carbon Structural Steel 
+1. Scope 
+1.1 This specification covers carbon steel shapes, plates, 
+and bars of structural quality for use in riveted, bolted, or 
+welded construction of bridges and buildings, and for general 
+structural purposes. 
+1.2 Supplementary requirements are provided for use where 
+additional testing or additional restrictions are required by the 
+purchaser. Such requirements apply only when specified in the 
+purchase order. 
+1.3 When the steel is to be welded, a welding procedure 
+suitable for the grade of steel and intended use or service is to 
+be utilized. See Appendix X3 of Specification A6/A6M for 
+information on weldability. 
+1.4 The text of this specification contains notes or footnotes, 
+or both, that provide explanatory material. Such notes and 
+footnotes, excluding those in tables and figures, do not contain 
+any mandatory requirements. 
+1.5 For structural products produced from coil and fur­
+nished without heat treatment or with stress relieving only, the 
+additional requirements, including additional testing require­
+ments and the reporting of additional test results, of Specifi­
+cation A6/ A6M apply. 
+1.6 The values stated in either inch-pound units or SI units 
+are to be regarded separately as standard. Within the text, the 
+SI units are shown in brackets. The values stated in each 
+system are not exact equivalents; therefore, each system is to 
+be used independently of the other, without combining values 
+in any way. 
+1.7 This international standard was developed in accor­
+dance with internationally recognized principles on standard­
+ization established in the Decision on Principles for the 
+Development of International Standards, Guides and Recom­
+mendations issued by the World Trade Organization Technical 
+Barriers to Trade (TBT) Committee. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+A6/ A6M Specification for General Requirements for Rolled 
+Structural Steel Bars, Plates, Shapes, and Sheet Piling 
+A27 / A27M Specification for Steel Castings, Carbon, for 
+General Application 
+A307 Specification for Carbon Steel Bolts, Studs, and 
+Threaded Rod 60 000 PSI Tensile Strength 
+A500 Specification for Cold-Formed Welded and Seamless 
+Carbon Steel Structural Tubing in Rounds and Shapes 
+A501 Specification for Hot-Formed Welded and Seamless 
+Carbon Steel Structural Tubing 
+A502 Specification for Rivets, Steel, Structural 
+126 
+A563 Specification for Carbon and Alloy Steel Nuts 
+A563M Specification for Carbon and Alloy Steel Nuts (Met-
+ric) 
+A668/ A668M Specification for Steel Forgings, Carbon and 
+Alloy, for General Industrial Use 
+A1011/A1011M Specification for Steel, Sheet and Strip, 
+Hot-Rolled, Carbon, Structural, High-Strength Low­
+Alloy, High-Strength Low-Alloy with Improved 
+Formability, and Ultra-High Strength 
+Al018/A1018M Specification for Steel, Sheet and Strip, 
+Heavy-Thickness Coils, Hot-Rolled, Carbon, 
+Commercial, Drawing, Structural, High-Strength Low­
+Alloy, High-Strength Low-Alloy with Improved 
+Formability, and Ultra-High Strength 
+F568M Specification for Carbon and Alloy Steel Externally 
+Threaded Metric Fasteners (Metric) (Withdrawn 2012) 
+F1554 Specification for Anchor Bolts, Steel, 36, 55, and 
+105-ksi Yield Strength
+
+=== Page 179 ===
+
+ASME BPVC.II.A-2025 SA-36/SA-36M |
+aa TABLE 1 Appurtenant Material Specifications TABLE 2 Tensile Requirements“
+. ; we gags Plates, Shapes,? and Bars: .
+
+Nore 1—The specifier should be satisfied of the suitability of these Tensile strength, ksi [MPa] 58-80 [400-550] a
+materials for the intended application. Chemical composition or mechani- Yield point, min, ksi [MPa] 36 [250]°
+cal properties, or both, may be different than specified in A36/A36M. Plates and Bars:2=
+Material ASTM Designation Elongation in 8 in. [200 mm], min, % 20 .
+Steel rivets A502, Grade 1 Shapes in 2 in. [50 mm], min, % 23 :
+Bolts A307, Grade A or F568M, Class 4.6 es . og :
+High-strength bolts  F3125/F3125M, Grade A325 or A325M = ongation ioe BO mend mn, 7s ne |
+Steel nuts A563 or A563M ee ee
+Cast steel A27/A27M, Grade 65-35 [450-240] 4 See the Orientation subsection in the Tension Tests section of Specification
+Forgings (carbon A668/A668M, Class D A6/A6M. ,
+
+steel) ® For wide flange shapes with flange thickness over 3 in. [75 mm], the 80 ksi [550 |
+Hot-rolled sheets A1011/A1011M, SS Grade 36 [250] Type 1 or Type 2 or MPa] maximum tensile strength does not apply and a minimum elongation in 2 in.
+and strip A1018/A1018M, SS Grade 36 [250] Type 1 or Type 2 [50 mm] of 19 % applies.
+Cold-formed tubing A500, Grade B © Yield point 32 ksi [220 MPa] for plates over 8 in. [200 mm] in thickness.
+Hot-formed tubing A501 ” Elongation not required to be determined for floor plate...
+Anchor bolts F1554, Grade 36 © For plates wider than 24 in. [600 mm], the elongation requirement is reduced two
+_— a percentage points. See the Elongation Requirement Adjustments subsection
+. under the Tension Tests section of Specification A6/A6M. |
+' §. Bearing Plates
+F3125/F3125M Specification for High Strength Structural 5.1 Unless otherwise specified, plates used as bearing plates
+Bolts and Assemblies, Steel and Alloy Steel, Heat Treated, for bridges shall be subjected to mechanical tests and shall |
+seen ne yr rS mensions 830 MPa and 1040 MPa 5.2 Unless otherwise specified, mechanical tests shall not be ,
+ATAU DEDSHE OUrengs required for plates over 142 in. [40 mm] in thickness used as
+: 3A , Material bearing plates in structures other than bridges, subject to the
+- Appurtenant Materials requirement that they shall contain 0.20 to 0.33 % carbon by |
+
+3.1 When components of a steel structure are identified with heat analysis, that the chemical composition shall conform to |
+this ASTM designation but the product form is not listed inthe — the requirements of Table 3 in phosphorus and sulfur content, ,
+scope of this specification, the material shall conform to one of | and that a sufficient discard shall be made to secure sound
+
+| the standards listed in Table 1 unless otherwise specified by the _ plates. !
+purchaser. , 6. Materials and Manufacture |
+
+4. General Requirements for Delivery 6.1 The steel shall be killed.
+
+, 4.1 Structural products furnished under this specification 7. Chemical Composition ,
+: shall conform to the requirements of the current edition of 7.1 The heat analysis shall conform to the requirements
+Specification A6/A6M, for the specific structural product prescribed in Table 3, except as specified in 5.2.
+
+ordered, unless a conflict exists in which case this specification 7.2 The steel shall conform on product analysis to the |
+
+shall prevail. . requirements prescribed in Table 3, subject to the product :
+
+4.2 Coils are excluded from qualification to this specifica- | analysis tolerances in Specification A6/A6M. !
+tion until they are processed into a finished structural product. 8 Tension Test a )
+Structural products produced from coil means structural prod- . ,
+ucts that have been cut to individual lengths from a coil. The 8.1 The material as represented by the test specimen, except :
+
+| processor directly controls, or is responsible for, the operations 98 Specified in 5.2 and 8.2, shall conform to the requirements as
+a involved in the processing of a coil into a finished structural © the tensile properties prescribed in Table 2. :
+product. Such operations include decoiling, leveling or 8.2 Shapes less than 1 in.* [645 mm7] in cross section arid |
+straightening, hot-forming or cold-forming (if applicable), bars, other than flats, less than 2 in. [12.5 mm] in thickness or
+cutting to length, testing, inspection, conditioning, heat treat- diameter need not be subjected to tension tests by the
+ment (if applicable), packaging, marking, loading for shipment, | manufacturer, provided that the chemical composition used is
+and certification. appropriate for obtaining the tensile properties in Table 2.
+
+Note 1—For structural products produced from coil and furnished 9. Keywords |
+without heat treatment or with stress relieving only, two test results are to 9.1 bars: bolted construction: bridges: buildings: bon:
+be reported for each qualifying coil. Additional requirements regarding : ars, OleG CONS Tuc lon, oridges, Dullcmgs, carbon,
+structural products produced from coil are described in Specification Plates; riveted construction; shapes; steel; structural steel;
+A6/A6M. welded construction
+
+=== Page 180 ===
+
+SA-36/SA-36M ASME BPVC.II.A-Z0Z5 
+TABLE 3 Chemical Requirements 
+NoTE 1-Where " ... "appears in this table, there is no requirement. The heat analysis for manganese shall be determined and reported as described 
+in the heat analysis section of Specification A6/ A6M. 
+Product ShapesA Plates> 15-in. [380 mm] Width 8 Bars; Plates :s; 15-in. [380 mm] Width 8 
+To¾ Over¾ Over 1½ Over 2½ To¾ Over¾ Over 1½ 
+Thickness, in. [mm] All [20], to 1½ to 2½ to 4 Over4 [20], to 1½ to 4 Over4 
+[20 to 40], [40 to 65], [65 to 100], [100] [20 to 40], [100], [100] incl incl incl incl incl incl incl 
+Carbon, max, % 0.26 0.25 0.25 0.26 0.27 0.29 0.26 0.27 0.28 0.29 
+Manganese, % ... ... 0.80-1.20 0.80-1.20 0.85-1.20 0.85-1.20 ... 0.60-0.90 0.60-0.90 0.60-0.90 
+Phosphorus, max, % 0.04 0.030 0.030 0.030 0.030 0.030 0.04 0.04 0.04 0.04 
+Sulfur, max, % 0.05 0.030 0.030 0.030 0.030 0.030 0.05 0.05 0.05 0.05 
+Silicon,% 0.40 max 0.40 max 0.40 max 0.15-0.40 0.15-0.40 0.15-0.40 0.40 max 0.40 max 0.40 max 0.40 max 
+Copper, min, % when cop- 0.20 0.20 0.20 0.20 0.20 0.20 0.20 0.20 0.20 0.20 
+per steel is specified 
+A Manganese content of 0.85-1.35 % and silicon content of 0.15-0.40 % is required for shapes with flange thickness over 3 in. [75 mm]. 
+8 For each reduction of 0.01 percentage point below the specified carbon maximum, an increase of 0.06 percentage point manganese above the specified maximum will 
+be permitted, up to the maximum of 1.35 %. 
+SUPPLEMENTARY REQUIREMENTS 
+These requirements shall not apply unless specified in the order. 
+Standardized supplementary requirements for use at the option of the purchaser are listed in 
+Specification A6/A6M. Those that are considered suitable for use with this specification are listed by 
+title: 
+SS. Charpy V-Notch Impact Test 
+S30. Charpy V-Notch Impact Test for Structural Shapes: 
+Alternate Core Location 
+128 
+S32. Single Heat Bundles 
+S32.1 Bundles containing shapes or bars shall be from a 
+single heat of steel.

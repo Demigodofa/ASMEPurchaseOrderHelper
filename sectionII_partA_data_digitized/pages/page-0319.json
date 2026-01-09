@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 319,
+  "globalPageIndex": 319,
+  "width": 604.32,
+  "height": 847.68,
+  "text": "( \nASME BPVC.II.A-2025 SA\u00b7204/SA-204M \nTABLE 1 Chemical Requirements \nElement Composition, % \nGrade A Grade B Grade C \nCarbon, max:A \nUp to 1 in. [25 mm] 0.18 0.20 0.23 \nincl, In thickness \nOver 1 in. to 2 in. [50 mm] 0.21 0.23 0.26 \nincl, in thickness \nOver 2 in. to 4 in. [100 mm] 0.23 0.25 0.28 \nincl, in thickness \nOver 4 in. [100 mm] 0.25 0.27 0.28 \nin thickness \nManganese, max: \nHeat analysis 0.90 0.90 0.90 \nProduct analysis 0.98 0.98 0.98 \nPho_sphorous, maxA 0.025 0.025 0.025 \nSulfur, maxA 0.025 0.025 0.025 \nSilicon: \nHeat analysis 0.15-0.40 0.15-0.40 0.15-0.40 \nProduct analysis 0.13-Q.45 0.13-Q.45 0.13-Q.45 \nMolybdenum: \nHeat analysis 0.45-o.60 0.45-0.60 0.45-0.60 \nProduct analysis 0.41-0.64 0.41-0.64 0.41-0.64 \nA Applies to both heat and product analyses. \nTABLE 2 Tensile Requirements \nGrade A Grade B Grade C \nksi [MPa] ksi [MPa] ksi [MPa] \nTensile strength 65-85 [45Q-585] 70-90 [485-620] 75-95 [515-655] \nYield strength, minA 37 [255] 40 [275] 43 [295] \nElongation in 8 in. [200 mm], min, % 8 19 17 16 \nElongation in 2 in. [50 mm], min, % 8 23 21 20 \nA Determined by either the 0.2 % offset method or the 0.5 % extension-under-load method. \n8 See Specification A20/A20M for elongation adjustment. \n5. Heat Treatment \n5.1 Plates 1\u00bd in. [40 mm] and under in thickness are \nnormally supplied in the as-rolled condition. The plates may be \nordered normalized, normalized and tempered, or stress re\u00ad\nlieved. \n5.2 Plates over 1 \u00bd in. [40 mm] in thickness shall be \nnormalized or normalized and tempered. \n6. Chemical Requirements \n6.1 The steel shall conform to the chemical requirements \ngiven in Table 1 unless otherwise modified in accordance with \nSupplementary Requirement S17, Vacuum Carbon-Deoxidized \nSteel, in Specification A20/ A20M. \n7. Mechanical Requirements \n7 .1 Tension Test Requirements-The plates, as represented \nby the tension-test specimens, shall conform to the require\u00ad\nments given in Table 2. \n8. Keywords \n8.1 alloy steel plate; molybdenum-alloy; pressure contain\u00ad\ning parts; pressure vessel steel plate \nSUPPLEMENTARY REQUIREMENTS \nSupplementary requirements shall not apply unless specified in the purchase order. \nA list of standardized supplementary requirements for use at the option of the purchaser is included \nin Specification A20/A20M. Those that are considered suitable for use with this specification are listed \nin this section by title. \nS 1. Vacuum Treatment, \nS2. Product Analysis, \nS3. Simulated Post-Weld Heat Treatment of Mechanical \nTest Coupons, \n267 \nS4.1 Additional Tension Test, \nS5. Charpy V-Notch Impact Test, \nS6. Drop Weight Test (for Material 0.625 in. [16 mm] and \nover in Thickness), ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0319.json",
+  "tabulaTablesCsv": "tables_tabula/page-0319.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0319.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2655,
+  "bestTextAlphaRatio": 0.632
+}

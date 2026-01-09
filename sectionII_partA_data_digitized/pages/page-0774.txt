@@ -1,0 +1,50 @@
+SA-439 /SA-439M ASME BPVC.11.A-2025 
+TABLE 2 Mechanical Requirements 
+Inch-Pound Grades 
+Type 
+Element D-2 D-2B D-2C D-2S D-3 D-3A D-4 D-5 D-5B D-5S 
+Properties 
+Tensile strength, min, ksi 58 58 58 55 55 55 60 55 55 55 
+Yield strength (0.2 % offset), min, ksi 30 30 28 30 30 30 30 30 30 
+Elongation in 2 in., min, % 8.0 7.0 20.0 10.0 6.0 10.0 20.0 6.0 10.0 
+Brinell hardness (3000 kg) 139-202 148-211 121-171 131-193 139-202 131-193 202-273 131-185 139-193 131-193 
+Metric Grade 
+Type 
+Element D-2 D-2B D-2C D-2S D-3 D-3A D-4 D-5 D-58 D-58 
+Properties 
+Tensile strength, min, MPa 400 400 400 380 380 380 415 380 380 380 
+Yield strength (0.2 % offset), min, MPa 210 210 195 210 210 210 210 210 210 
+Elongation in 50 mm, min, % 8.0 7.0 20.0 10.0 6.0 10.0 20.0 6.0 10.0 
+Brinell hardness (3000 kg) 139-202 148-211 121-171 131-193 139-202 131-193 202-273 131-185 139-193 131-193 
+-I A ~ E 
+"Y" Block Size 
+Dimensions For Castings of Thickness Less For Castings of Thickness ½ in. For Castings of Thickness 1 ½ in. 
+Than ½ in. [13 mm] [13 mm] to 1 ½ in. [38 mm] [38 mm] and Over 
+in. mm in. mm in. mm 
+A ½ 13 25 3 75 
+B 15/a 40 21/a 54 5 125 
+C 2 50 3 75 4 100 
+D 4 100 6 150 8 200 
+E 7 175 7 175 7 175 
+approx approx approx approx approx approx 
+F 9/1e 15 11/10 28 31/16 80 
+G 71/a 180 71/a 180 71/a 180 
+approx approx approx approx approx approx 
+FIG. 1 "Y" Blocks for Test Coupons 
+respectively. A modified keel block cast from the mold shown 
+in Fig. 3 may be substituted for the 1-in. [25-mm] "Y" block or 
+the 1-in. [25-mm] keel block. 
+9.2 Whenever the section size of the castings is consider­
+ably less or greater than 1 in. [25 mm], and by agreement 
+between the purchaser and the manufacturer, the ½-in. [13-
+mm] or 3-in. [75-mm] "Y" blocks shown in Fig. 1 may be 
+used. 
+9.3 The test bars shall be cast in open molds made of a 
+suitable core sand with a minimum of 1 ½ in. [38 mm] of sand 
+on all sides and bottom of the½ and 1-in. [13 and 25-mm] test 
+bars and 3 in. [75 mm] of sand for the 3-in. [75-mm] test bar. 
+9.4 When investment castings are made to this specification, 
+the manufacturer may use test specimens cast to size incorpo­
+rated in the mold with the castings, or separately cast to size 
+using the same type of mold and the same thermal conditions 
+724 

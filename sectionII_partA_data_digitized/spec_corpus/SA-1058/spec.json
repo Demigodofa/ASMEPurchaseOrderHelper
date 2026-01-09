@@ -1,0 +1,119 @@
+{
+  "createdUtc": "2026-01-09T00:14:03.626986+00:00",
+  "spec": "SA-1058",
+  "rangeStart": 1595,
+  "rangeEnd": 1606,
+  "pages": [
+    {
+      "globalPageIndex": 1595,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 797,
+      "textPath": "best_text\\pages\\page-1595.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 1596,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 798,
+      "textPath": "best_text\\pages\\page-1596.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-1596.json",
+        "tabulaTablesCsv": "tables_tabula\\page-1596.csv"
+      }
+    },
+    {
+      "globalPageIndex": 1597,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 799,
+      "textPath": "best_text\\pages\\page-1597.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-1597.json",
+        "tabulaTablesCsv": "tables_tabula\\page-1597.csv"
+      }
+    },
+    {
+      "globalPageIndex": 1598,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 800,
+      "textPath": "best_text\\pages\\page-1598.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 1599,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 801,
+      "textPath": "best_text\\pages\\page-1599.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-1599.json",
+        "tabulaTablesCsv": "tables_tabula\\page-1599.csv"
+      }
+    },
+    {
+      "globalPageIndex": 1600,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 802,
+      "textPath": "best_text\\pages\\page-1600.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-1600.json",
+        "tabulaTablesCsv": "tables_tabula\\page-1600.csv"
+      }
+    },
+    {
+      "globalPageIndex": 1601,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 803,
+      "textPath": "best_text\\pages\\page-1601.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-1601.json",
+        "tabulaTablesCsv": "tables_tabula\\page-1601.csv"
+      }
+    },
+    {
+      "globalPageIndex": 1602,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 804,
+      "textPath": "best_text\\pages\\page-1602.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-1602.json",
+        "tabulaTablesCsv": "tables_tabula\\page-1602.csv"
+      }
+    },
+    {
+      "globalPageIndex": 1603,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 805,
+      "textPath": "best_text\\pages\\page-1603.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-1603.json",
+        "tabulaTablesCsv": "tables_tabula\\page-1603.csv"
+      }
+    },
+    {
+      "globalPageIndex": 1604,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 806,
+      "textPath": "best_text\\pages\\page-1604.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 1605,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 807,
+      "textPath": "best_text\\pages\\page-1605.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-1605.json",
+        "tabulaTablesCsv": "tables_tabula\\page-1605.csv"
+      }
+    },
+    {
+      "globalPageIndex": 1606,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 808,
+      "textPath": "best_text\\pages\\page-1606.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-1606.json",
+        "tabulaTablesCsv": "tables_tabula\\page-1606.csv"
+      }
+    }
+  ]
+}

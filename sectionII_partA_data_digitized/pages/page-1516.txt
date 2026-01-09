@@ -1,0 +1,284 @@
+SA-988/SA-988M 
+UNS No. 
+S41000 Class 1 
+S41000 Class 2 
+S41000 Class 3 
+S41000 Class 4 
+S41026 
+S41500 
+S42390 
+N08028 
+N08029 
+S30400 
+S30403 
+S30451 
+S30453 
+S31600 
+S31603 
+S31651 
+S31653 
+S31700 
+S31703 
+S21904 
+S31254 
+S31725 
+S31726 
+N08367 
+S32654 
+S31803 
+S32205 
+S32906 
+S32950 
+S32750 
+S39274 
+S32760 
+S39277 
+S17400 
+Heat Treat Type 
+anneal 
+normalize and temper 
+temper 
+anneal 
+normalize and temper 
+temper 
+anneal 
+normalize and temper 
+anneal 
+normalize and temper 
+anneal 
+normalize and temper 
+normalize and temper 
+normalize and temper 
+solution treat and quench 
+solution treat and quench 
+solution treat and quench 
+solution treat and quench 
+solution treat and quench 
+solution treat and quench 
+solution treat and quench 
+solution treat and quench 
+solution treat and quench 
+solution treat and quench 
+solution treat and quench 
+solution treat and quench 
+solution treat and quench 
+solution treat and quench 
+solution treat and quench 
+solution treat and quench 
+solution treat and quench 
+solution treat and quench 
+solution treat and quench 
+solution treat and quench 
+solution treat and quench 
+solution treat and quench 
+solution treat and quench 
+solution treat and quench 
+solution treat and quench 
+solution treat and quench 
+Condition 
+A 
+H900 
+H925 
+H1025 
+H1075 
+H1100 
+H1150 
+H1150M 
+A Minimum unless temperature range is listed. 
+8 Not applicable. 
+c 30 min/in. of thickness. 
+ASME BPVC.II.A-2025 
+TABLE 2 Heat Treating Requirements 
+Austenitizing/Solutioning 
+Temperature 'F ['Ct 
+Martensitic Stainless Steels 
+not specified 
+not specified 
+not required 
+not specified 
+not specified 
+not required 
+not specified 
+not specified 
+not specified 
+not specified 
+1750 [955J 
+1750 [955J 
+1850 [1010J 
+1860-1960 [1015-1070J 
+Austenitic Stainless Steels 
+Cooling 
+Media 
+furnace cool 
+air cool 
+B 
+furnace cool 
+air cool 
+B 
+furnace cool 
+air cool 
+furnace cool 
+air cool 
+furnace cool 
+air cool 
+air cool 
+air cool 
+2000 [1100J liquid 
+2000 [11 00J liquid 
+1900 [1040J liquid 
+1900 [1040J liquid 
+1900 [1040J liquid 
+1900 [1040J liquid 
+1900 [1040J liquid 
+1900 [1040J liquid 
+1900 [1040J liquid 
+1900 [1040J liquid 
+1900 [1 040J liquid 
+1900 [1040J liquid 
+1900 [1040J liquid 
+2100 [1150J liquid 
+1900 [1040J liquid 
+1900 [1040J liquid 
+2025 [1105J liquid 
+2050-2160 [1120-1180J liquid 
+Austenitic-Ferritic Stainless Steels 
+1870 [1020J liquid 
+1870 [1020J liquid 
+1850-2100 [1010-1150J liquid 
+1825-1875 [995-1025Jc liquid 
+1880 [1025J liquid 
+1920-2060 [1050-1125J liquid 
+2010-2085 [1100-1140J liquid 
+1940 [1060J liquid 
+Age-Hardening Stainless Steels 
+Solution Heat Treatment 
+Temperature 'F ['CJ 
+1875-1975 [1025-1055J 
+1875-1975 [1025-1055] 
+1875-1975 [1025-1055J 
+1875-1975 [1025-1055J 
+1875-1975 [1025-1055J 
+1875-1975 [1025-1055J 
+1875-1975 [1025-1055J 
+1875-1975 [1025-1055J 
+Cool as required 
+to below 'F ['CJ 
+90 [32J 
+90 [32J 
+90 [32J 
+90 [32J 
+90 [32J 
+90 [32J 
+90 [32J 
+90 [32J 
+Quenching, Cool Tempering Temperature, 
+to Below 'F ['CJ min' F ['CJ 
+B 
+400 [205J 
+B 
+B 
+400 [205J 
+B 
+B 
+400 [205J 
+B 
+400 [205J 
+B 
+400 [205J 
+200 [95J 
+200 [95J 
+500 [260] 
+500 [260J 
+500 [260J 
+500 [260J 
+500 [260J 
+500 [260J 
+500 [260J 
+500 [260J 
+500 [260J 
+500 [260J 
+500 [260J 
+500 [260] 
+500 [260] 
+500 [260J 
+500 [260J 
+500 [260J 
+500 [260J 
+500 [260J 
+500 [260J 
+500 [260] 
+500 [260J 
+500 [260J 
+500 [260J 
+500 [260J 
+500 [260J 
+175 [80J 
+B 
+1325 [725J 
+1325 [725J 
+B 
+1250 [675J 
+1250 [675J 
+B 
+1100 [595J 
+B 
+1000[540J 
+B 
+1150 [620J 
+1040-1120 [560-600J 
+1350-1440 [730-780J 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+B 
+Aging Heat Treatment 0 
+Temperature 'F ['CJ, time {h), 
+Required Cooling 
+900 [480J, 1.0, air cool 
+925 [495J, 4.0, air cool 
+1025 [550J, 4.0, air cool 
+1075 [580J, 4.0, air cool 
+1100 [595], 4.0, air cool 
+1150 [620J, 4.0, air cool 
+1400 [760J, 2.0, air cool 
+plus 1150 [620], 4.0, air cool 
+0 Unless otherwise noted, it is permitted to vary the aging treatment temperature to obtain the required properties. The listed times are minimum time at temperature and 
+the treatment is permitted to be extended to obtain the required ductility. Material treated at an intermediate temperature must meet the ductility requirements of the next 
+higher hardening or aging temperature, or both. 
+Section 15), the test specimens prior to testing shall accompany 
+the repaired parts if a post weld treatment is done. 
+9.3 For normalized and tempered parts, or quenched and 
+tempered parts, the central axis of the test specimen shall 
+correspond to the ¼ T plane or deeper position, where Tis the 
+maximum heat treated thickness of the represented part. In 
+addition, for quenched and tempered parts, the midlength of the 
+test specimen shall be at least T from any second heat treated 
+surface. When the section thickness does not permit this 
+positioning, the test specimen shall be positioned as near as 
+possible to the prescribed location, as agreed to by the 
+purchaser and the supplier. 
+9.4 For all annealed stainless steels, the test specimen may 
+be taken from any convenient location. 
+1462 

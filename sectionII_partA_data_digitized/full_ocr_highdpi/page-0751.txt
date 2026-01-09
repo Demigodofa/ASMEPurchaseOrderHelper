@@ -1,0 +1,77 @@
+ASME BPVC.ILA-2025 SA-420/SA-420M
+__ TABLE 1 Chemical Requirements
+| Nore 1—All requirements are maximum unless otherwise indicated.
+Note 2—Where an ellipsis (...) appears in this table, there is no requirement.
+Grade“ Composition, %
+C Mn P S Si Ni Cr Mo Cu Nb® V
+
+WPL6 0.30 0.50-1.35 0.035 0.040 0.15-0.40 0.40 0.30 0.12 0.40 0.028 0.08
+WPL9 0.20 0.40-1.06 0.030 0.030 ...  1,60-2.24 0.75—1.25
+WPL3° 0.20 0.31-0.64 0.05 0.05 0.13-0.37 3.2-3.8 _
+WPL8? 0.13 0.90 0.030 0.030 0.13-0.37 8.49.6 _
+
+AWhen fittings are of welded construction, the symbols above shall be supplemented by the letter “W”.
+
+® By agreement, the limit for niobium may be increased up to 0.05 % on heat analysis and 0.06 % on product analysis.
+
+© Fittings made from plate or forgings may have 0.90 % max manganese.
+
+Fittings made from plate may have 0.98 % max manganese.
+
+= Niobium and columbium are interchangeable names for the same element and both names are acceptable for use in A01.22 specifications.
+
+oo 2.6 ASNT Standards: shall be done either prior to or after forming at option of
+. SNT-TC-1A Recommended Practice for Nondestructive |§ manufacturer. Personnel performing NDE examinations shall
+Testing Personnel Qualification and Certification be qualified in accordance with SNT-TC-1A.
+| 3. Ordering Information 6.3 The welded joints of the fittings shall be finished in
+
+accordance with the requirements of Paragraph UW-35 (a) of
+
+3.1 See Specification A960/A960M. Section VIII, Division 1 of ASME Boiler and Pressure Vessel
+4. General Requirements Code.
+
+4.1 Product furnished to this specification shall conform to 6.4 All butt-weld tees manufactured by cold-forming meth-
+the requirements of Specification A960/A960M, including any 04S shall be liquid penetrant or magnetic particle examined by
+supplementary requirements that are indicated in the purchase  °B¢ Of the methods specified in Supplementary Requirement
+order. Failure to comply with the general requirements of $52 or $53 of Specification A960/A960M. This examination
+Specification A960/A960M constitutes non-conformance with Shall be performed after final heat treatment by NDE personnel
+this specification. In case of conflict between the requirements qualified under the provisions of SNETC-1A. Only the side-
+
+| of this specification and Specification A960/A960M, this wall areas of the tee need be examined. This area is defined by
+specification shall prevail. a circle that covers the area from the weld bevel of the branch
+
+outlet to the centerline of the body or run. Internal and external
+
+5. Material surfaces shall be examined when size permits accessibility.
+
+5.1 The starting material for fittings shall be fully killed After the removal of any cracks, the tees shall be re-examined
+steel, consisting of forgings, bars, plates, sheet, and seamless or by the original method. Acceptable tees Shall be marked with
+fusion welded tubular products with filler metal added and the symbol PT’ or MT, as applicable, to indicate compliance.
+shall conform to the chemical requirements in Table 1. The 6.5 Stubends may be produced with the entire lap added by
+steels shall be made using recognized melting practices neces- the welding of a ring, made from plate or bar of the same alloy
+sary to produce steels that shall meet the impact requirements grade and composition, to the outside of a straight section of
+of this specification. pipe, provided the weld is double welded, is a full penetration
+
+joint, satisfies the requirements of 6.2 for qualifications and
+6. Manufacture radiography and 7.1 for post weld heat treatment.
+6.1 Forging or forming operations shall be performed by
+hammering, pressing, piercing, extruding, upsetting, working, 7. Heat Treatment
+~ bending, fusion-welding, or machining, or by a combination of 7.1 All fittings shall be furnished in the normalized, normal-
+two or more of these operations. The forming procedure shall ized and tempered, annealed, or quenched and tempered
+be SO applied that it will not produce injurious defects in the condition. All welding shall be completed prior to the austen-
+fittings. itizing heat treatment.
+
+6.2 A ll welds, including welds in tubular products from 7.2 The full thickness of the material from which impact test
+» orators and are ae mnalified vader the prove specimens are to be obtained shall be heat treated with a
+
+& Pp u U - ,
+sions of ASME Section IX, (2) heat treated in accordance with tumace charge as specified in 10.4.2 or 10.4.3.
+Section 7 of this specification, and (3) nondestructively exam- 7.3. After forming, the fittings shall be allowed to cool below
+ined throughout the entire length of each weld in accordance the lower critical before applying one of the heat treatments
+with Section 15 of this specification. The radiography of welds _ listed in 7.1.
+
+7.4 When specified in the order, the test specimens shall be
+subjected to a simulated post-weld heat treatment before
+—_ testing. The simulated post-weld heat treatment used shall be
+
+701

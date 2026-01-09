@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 523,
+  "globalPageIndex": 1321,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "ASME BPVC.II.A-2025 \nFIG. 1 TEST COUPONS FOR CASTINGS WITH DETAILS OF DESIGN \nr- 37/ 8 in.+ 2T--J \nT~ ~ 3 7 / 8 in.~ ~T \n7 \nOptional \n--;,~i~=-i i:2. 1. \n..___ii in. min. \nlJ \nAlternate design \nfor bend bar \n1\u2022 L+2T-J \n~t--r r-11---\n------------ DOptional \n2 in. min . \nn--------i_i_i \nSA-781/SA-781M \nGENERAL NOTE: Radius of casting coupon interface at option of foundry. \nin. \n[mmJ \n1. L (length) \n2. End Taper \n3. Height \n\u00bd& \n[4.8] \n4. Width (at top) \n5. Radius (at \nbottom) \n6. Spacing between \nlegs \n7. Location of test \nspecimens \n8. Number of legs \n9. Rs \nMetric Equivalents \n\u00bd \n[13] \nLeg Design [125 mm] \n1\u00be \n[45] \nA 5 in. [125 mm] minimum length will be \nused. This length may be increased at the \noption of the foundry to accommodate addi\u00ad\ntional test specimens (see Note ll. \nUse of and size of end taper is at the option \nof the foundry. \n1 \u00bc in. [32 mm] \n1 \u00bc in. [32 mm] (see Note 1). \n\u00bd in. [13 mmJ, max \nA \u00bd in. [13 mm] radius will be used between \nthe legs. \nThe tensile, bend, and impact specimens will \nbe taken from the lower portion of the leg \n(see Note 2). \nThe number of legs is at the option of the foundry \nproviding they are equi-spaced according to \nitem 6. \nRadius from O to approximately 11\\_ 6 in. \n[2 mmJ. \u2022 \n2 \n[51] \ni\u00bc \n[57] \n1. L (length) \n2. Width \n3. T (riser taper) \nheight \n5 \n[127] \nRiser Design \n83/a \n[213] \nThe length of the riser at the base will be the \nsame as the top length of the leg. The \nlength of the riser at the top therefore \ndepends on the amount of taper added to \nthe riser. \nThe width of the riser at the base of a multi\u00ad\nple-leg coupon shall be n <2\u00bc> [57 mm] -\n% [16 mmJ where n equals the number of \nlegs attached to the coupon. The width of \nthe riser at the top is therefore dependent \non the amount of taper added to the riser. \nUse of and size is at the option of the foundry. \nThe minimum height of the riser shall be 2 in. \n[51 mm]. The maximum height is at the \noption of the foundry for the following rea\u00ad\nsons: (al many risers are cast open. (bl differ\u00ad\nent compositions may require variation in \nrisering for soundness. (cl different pouring \ntemperatures may require variation in ris\u00ad\nering for soundness. \nNoTE 1 - Test Coupons for Large and Heavy Steel Castings: The test coupons in Fig. 1 are to be used for large and heavy steel castings. \nHowever, at the option of the foundry the cross-sectional area and length of the standard coupon may be increased as desired. \nNOTE 2 - Bend Specimen: If a bend specimen is required, an alternate design (as shown by dotted lines in Fig. 1) is indicated. \n1255 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 1,
+  "bestTextPath": "best_text/pages/page-1321.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2576,
+  "bestTextAlphaRatio": 0.6611
+}

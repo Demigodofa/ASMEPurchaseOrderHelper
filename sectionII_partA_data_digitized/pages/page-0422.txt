@@ -1,0 +1,111 @@
+SA-250 /SA-250M ASME BPVC.II.A-2025 
+TABLE 3 Minimum Elongation Values 
+in. 
+'½e (0.312) 
+%2 (0.281) 
+¼ (0.250) 
+7/32 (0.219) 
+3/1s (0.188) 
+%2 (0.156) 
+1/e (0.125) 
+%2 (0.094) 
+1/ts (0.062) 
+Wall Thickness 
+mm 
+8 
+7.2 
+6.4 
+5.6 
+4.8 
+4 
+3.2 
+2.4 
+1.6 
+Elongation in 2 in. or 
+50 mm, min,%A 
+GradesT1, T1a, T1b, 
+T2, T11, T12, and T22 
+30 
+29 
+27 
+26 
+24 
+22 
+21 
+20 
+18 
+A Calculated elongation requirements shall be rounded to the nearest whole number. 
+TABLE 4 Hardness Requirements 
+Grade Brinell Hardness 
+Number (Tubes 0.200 
+in. [5.1 mm] and over 
+in wall thickness), HBW 
+Rockwell Hardness 
+Number (Tubes less 
+than 0.200 in. [5.1 mm] 
+in wall thickness), HRB 
+T1 
+T1a 
+T1b 
+T2 
+T11 
+T12 
+T22 
+146 
+153 
+137 
+163 
+163 
+163 
+163 
+continuous furnace, the number of tubes of the same size and 
+from the same heat in a lot shall be detem1ined from the size 
+of the tubes given in Table 5. 
+8.2 For tensile and hardness test requirements, the term lot 
+applies to all tubes prior to cutting, of the same specified 
+outside diameter and specified wall thickness that are produced 
+from the same heat of steel. When final heat treatment is in a 
+batch-type furnace, a lot shall include only those tubes of the 
+same size and the same heat that are heat treated in the same 
+furnace charge. When the final heat treatment is in a continuous 
+furnace, a lot shall include all tubes of the same size and heat, 
+heat treated in the same furnace at the same temperature, time 
+at heat, and furnace speed. 
+9. Forming Operations 
+9.1 Tubes when inserted in the boiler shall stand expanding 
+and beading without showing cracks or flaws. Superheater 
+tubes when properly manipulated shall stand all forging, 
+welding, and bending operations necessary for application 
+without developing defects. 
+370 
+80 
+81 
+77 
+85 
+85 
+85 
+85 
+TABLE 5 Number of Tubes in a Lot Heat Treated by the 
+Continuous Process 
+Size of Tube 
+2 in. [50.8 mm] and over in outside diameter and 
+0.200 in. [5.1 mm] and over in wall thickness 
+Less than 2 in. [50.8 mm] but over 1 in. [25.4 mm] 
+in outside diameter or over 1 in. [25.4 mm] in 
+outside diameter and under 0.200 in. [5.1 mm] in 
+wall thickness 
+1 in. [25.4 mm] or less in outside diameter 
+10. Product Marking 
+Size of Lot 
+not more than 50 
+tubes 
+not more than 75 
+tubes 
+not more than 125 
+tubes 
+10.1 In addition to the marking prescribed in Specification 
+A1016/A1016M, the marking shall include the words "Electric 
+Resistance-Welded Steel." 
+11. Keywords 
+11.1 boiler tube; resistance welded steel tube; steel tube, 
+alloy; superheater tube; welded steel tube 

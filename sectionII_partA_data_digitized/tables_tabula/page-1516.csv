@@ -1,0 +1,47 @@
+S41000 Class 4,anneal not specified furnace cool,B,B
+,normalize and temper not specified air cool,400 [205J,1000[540J
+S41026,anneal B 1750 [955J furnace cool,B,
+,normalize and temper 1750 [955J air cool,400 [205J,1150 [620J
+S41500,normalize and temper 1850 [1010J air cool,200 [95J,1040-1120 [560-600J
+S42390,normalize and temper 1860-1960 [1015-1070J air cool,200 [95J,1350-1440 [730-780J
+,Austenitic Stainless Steels,,
+N08028,solution treat and quench 2000 [1100J liquid,500 [260],B
+N08029,solution treat and quench B 2000 [11 00J liquid,500 [260J,
+S30400,solution treat and quench 1900 [1040J liquid,B 500 [260J,
+S30403,solution treat and quench 1900 [1040J liquid,500 [260J,B
+S30451,solution treat and quench 1900 [1040J liquid,B 500 [260J,
+S30453,solution treat and quench 1900 [1040J liquid,B 500 [260J,
+S31600,solution treat and quench 1900 [1040J liquid,B 500 [260J,
+S31603,solution treat and quench 1900 [1040J liquid,B 500 [260J,
+S31651,solution treat and quench 1900 [1040J liquid,B 500 [260J,
+S31653,solution treat and quench B 1900 [1040J liquid,500 [260J,
+S31700,solution treat and quench 1900 [1 040J liquid,B 500 [260J,
+S31703,solution treat and quench 1900 [1040J liquid,500 [260],B
+S21904,solution treat and quench 1900 [1040J liquid,500 [260],B
+S31254,solution treat and quench 2100 [1150J liquid,B 500 [260J,
+B S31725,solution treat and quench 1900 [1040J liquid,500 [260J,
+S31726,solution treat and quench 1900 [1040J liquid,B 500 [260J,
+N08367,solution treat and quench 2025 [1105J liquid,500 [260J,B
+S32654,solution treat and quench 2050-2160 [1120-1180J liquid,500 [260J,B
+,Austenitic-Ferritic Stainless Steels,,
+S31803,solution treat and quench 1870 [1020J liquid,B 500 [260J,
+S32205,solution treat and quench 1870 [1020J liquid,500 [260],B
+S32906,solution treat and quench 1850-2100 [1010-1150J liquid,B 500 [260J,
+S32950,solution treat and quench 1825-1875 [995-1025Jc liquid,B 500 [260J,
+S32750,solution treat and quench 1880 [1025J liquid,500 [260J,B
+S39274,solution treat and quench 1920-2060 [1050-1125J liquid,500 [260J,B
+S32760,solution treat and quench 2010-2085 [1100-1140J liquid,500 [260J,B
+S39277,solution treat and quench 1940 [1060J liquid,175 [80J,B
+,Age-Hardening Stainless Steels,,
+,Solution Heat Treatment,,Aging Heat Treatment0
+,Cool as required,Temperature 'F ['CJ, time {h),,
+,Condition Temperature 'F ['CJ,,
+,to below 'F ['CJ,Required Cooling,
+S17400,A 1875-1975 [1025-1055J 90 [32J,,
+,H900 1875-1975 [1025-1055] 90 [32J,900 [480J, 1.0, air cool,
+,H925 1875-1975 [1025-1055J 90 [32J,925 [495J, 4.0, air cool,
+,H1025 1875-1975 [1025-1055J 90 [32J,1025 [550J, 4.0, air cool,
+,H1075 1875-1975 [1025-1055J 90 [32J,1075 [580J, 4.0, air cool,
+,H1100 1875-1975 [1025-1055J 90 [32J,1100 [595], 4.0, air cool,
+,H1150 1875-1975 [1025-1055J 90 [32J,1150 [620J, 4.0, air cool,
+,H1150M 1875-1975 [1025-1055J 90 [32J,1400 [760J, 2.0, air cool,

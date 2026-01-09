@@ -1,0 +1,100 @@
+SA·813/SA·813M ASME BPVC.II.A-2025 
+heat treatment condition, and at intervals not exceeding 4 h. 
+More frequent standardization may be performed at the manu­
+facturer's option or may be required upon agreement between 
+the purchaser and the manufacturer. 
+13.10.2 The test apparatus shall also be standardized after 
+any change in test system settings, change of operator, equip­
+ment repair, or interruption due to power loss, process shut­
+down or when a problem is suspected. 
+13.10.3 The reference standard shall be passed through the 
+test apparatus at the same speed and test system settings as the 
+pipe to be tested. 
+13.10.4 The signal-to-noise ratio for the reference standard 
+shall be 2½ to 1 or greater. Extraneous signals caused by 
+identifiable causes such as dings, scratches, dents, straightener 
+marks, etc., shall not be considered noise. The rejection 
+amplitude shall be adjusted to be at least 50 % of full scale of 
+the readout display. 
+13.10.5 If upon any standardization, the rejection amplitude 
+has decreased by 29 % (3 dB) of peak height from the last 
+standardization, the pipe since the last calibration shall be 
+rejected. The test system settings may be changed, or the 
+transducer(s), coil(s) or sensor(s) adjusted, and the unit 
+restandardized, but all pipe tested since the last acceptable 
+standardization must be retested for acceptance. 
+13.11 Evaluation of Imperfections: 
+13.11.1 Pipes producing a signal equal to or greater than the 
+lowest signal produced by the reference standard(s) shall be 
+identified and separated from the acceptable pipes. The area 
+producing the signal may be reexamined. 
+13.11.2 Such pipes shall be rejected if the test signal was 
+produced by imperfections that cannot be identified or was 
+produced by cracks or crack-like imperfections. These pipes 
+may be repaired per Sections 4 and 10. To be accepted, a 
+repaired pipe must pass the same non-destructive test by which 
+it was rejected, and it must meet the minimum wall thickness 
+requirements of this specification. 
+13.11.3 If the test signals were produced by visual imper­
+fections such as: 
+( 1) Scratches, 
+(2) Surface roughness, 
+(3) Dings, 
+( 4) Straightener marks, 
+( 5) Cutting chips, 
+( 6) Steel die stamps, 
+(7) Stop marks, or 
+(8) Pipe reducer ripple. 
+The pipe may be accepted based on visual examination 
+provided the imperfection is less than 0.004 in. [0.1 mm] or 
+12½ % of the specified wall thickness (whichever is greater). 
+13.11.4 Rejected pipe may be reconditioned and retested 
+providing the wall thickness is not decreased to less than that 
+required by this or the product specification. The outside 
+diameter at the point of grinding may be reduced by the amount 
+so removed. To be accepted, retested pipe shall meet the test 
+requirement. 
+13.11.5 If the imperfection is explored to the extent that it 
+can be identified as non-rejectable, the pipe may be accepted 
+without further test providing the imperfection does not en­
+croach on the minimum wall thickness. 
+14. Product Marking 
+14.1 In addition to that specified in Specification A999/ 
+A999M, the marking shall include the manufacturer's private 
+identifying mark and identified as either single welded (SW) or 
+double welded (DW) as applicable. For Grades TP304H, 
+TP316H, TP321H, TP347H, and TP348H, the marking shall 
+also include the heat ti.umber and heat-treatment lot identifica­
+tion. If specified in the purchase order, the marking for pipe 
+larger than NPS 4 shall include the weights. 
+14.2 DELETED 
+14.3 When a hydrostatic test of the pipe is not performed, 
+the pipe shall be marked NH. 
+15. General Requirements 
+15.1 Material furnished under this specification shall con­
+form to the applicable requirements of the current edition of 
+Specification A999/ A999M unless otherwise provided herein. 
+SUPPLEMENTARY REQUIREMENTS 
+One or more of the following supplementary requirements shall apply only when specified in the 
+purchase order. The purchaser may specify a different frequency of test or analysis than is provided 
+in the supplementary requirement. Subject to agreement between the purchaser and manufacturer, 
+retest and retreatment provisions of these supplementary requirements may also be modified. 
+Sl. Product Analysis 
+S 1.1 For all pipes NPS 5 and larger in nominal size, there 
+shall be one product analysis made of a representative sample 
+from one piece for each ten lengths or fraction thereof from 
+each heat of steel. 
+S1.2 For pipe smaller than NPS 5, there shall be one product 
+analysis made from ten lengths per heat of steel or from 10 % 
+of the number of lengths per heat of steel, whichever number 
+is smaller. 
+S 1.3 Individual lengths failing to conform to the chemical 
+requirements specified in Section 5 shall be rejected. 
+S2. Transverse Tension Tests 
+S2.1 There shall be one transverse tension test made from 
+one end of 10 % of the lengths furnished per heat of steel. This 
+applies only to pipe NPS 8 and larger in nominal size. 
+S2.2 If a specimen from any length fails to conform to the 
+tensile properties specified that length shall be rejected. 
+1320 
+~ 

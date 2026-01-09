@@ -1,0 +1,66 @@
+ASME BPVC.II.A-2025 SA-515/SA-515M 
+TABLE 1 Chemical Requirements 
+Elements 
+Composition, % 
+Grade 60 [Grade 415] Grade 65 [Grade 450] Grade 70 [Grade 485] 
+Carbon, max:A, 8 
+1 in. [25 mm] and under 0.24 0.28 0.31 
+Over 1 to 2 in. [25 to 50 mm], incl 0.27 0.31 0.33 
+Over 2 to 4 in. [50 to 100 mm], incl 0.29 0.33 0.35 
+Over 4 to 8 in. [1 oo to 200 mm], incl 0.31 0.33 0.35 
+Over 8 in. [200 mm] 0.31 0.33 0.35 
+Manganese, 8 max: 
+Heat analysis 0.90 0.90 1.20 
+Product analysis 0.98 0.98 1.30 
+Phosphorus, maxA 0.025 0.025 0.025 
+Sulfur, maxA 0.025 0.025 0.025 
+Silicon: 
+Heat analysis 0.15-0.40 0.15-0.40 0.15-0.40 
+Product analysis 0.13-0.45 0.13-0.45 0.13-0.45 
+A Applies to both heat and product analyses. 
+8 For each reduction of 0.01 percentage point below the specified maximum for carbon, an increase of 0.06 percentage point above the specified maximum for manganese 
+is permitted, up to a maximum of 1.50 % by heat analysis and 1.60 % by product analysis. 
+TABLE 2 Tensile Requirements 
+60 [415] 
+Tensile strength, ksi [MPa] 60-80 [415-550] 
+Yield strength, min, ksi [MPa] 32 [220] 
+Elongation in 8 in. [200 mm], min, %A 21 
+Elongation in 2 in. [50 mm], min, %A 25 
+A See Specification A20/A20M for elongation adjustment. 
+NoIB 1-For plates produced from coil ,md fumished without heat 
+treatment or with stress relieving only, three test results are reported for 
+each qualifying coil. Additional requirements regarding plate produced 
+from coil are described in Specification A20/ A20M. 
+4. Materials and Manufacture 
+4.1 Steelmaking Practice--The steel shall be killed and 
+made to a coarse austenitic grain size practice. 
+5. Heat Treatment 
+5.1 Plates 2 in. [50 nun] and under in thickness are normally 
+supplied in the as-rolled condition. The plates may be ordered 
+normalized or stress relieved, or both. 
+-5..2 J>lates__D_yer__2__in~L50 mm] in thickness shall be normal:_ 
+ized. 
+Grade 
+65 [450] 
+65-85 [ 450-585] 
+35 [240] 
+19 
+23 
+6. Chemical Composition 
+70 [485] 
+70-90 [485-620] 
+38 [260] 
+17 
+21 
+6.1 The steel shall conform to the chemical requirements 
+given in Table 1 unless otherwise modified in accordance with 
+Supplementary Requirement S 17, Vacuum Carbon-Deoxidized 
+Steel, in Specification A20/ A20M. 
+7. Mechanical Properties 
+7. l Tension Test-The plates, as represented by the tension 
+test specimens, shall conform to the requirements given in 
+Table 2. 
+8. Keywords 
+8.1 carbon steel; carbon steel plate; pressure contammg 
+parts; pressure vessefsteels; steel plates ror p.ressurevessels 
+869 

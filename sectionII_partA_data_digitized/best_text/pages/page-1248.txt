@@ -1,0 +1,54 @@
+SA-703/SA-703M ASME BPVC.II.A-2025 
+LOtATION OP ACI ALLOY TYPES 
+Norn 1-The approximate areas of microstructures to be expected at room temperature are indicated as follows: 
+I-Martensite 
+II-Martensite and untransformed austenite 
+III-Ferrite plus martensite and untransformed austenite 
+IV-Ferrite 
+V-Ferrite plus austenite 
+VI-Ferrite plus austenite plus sigma 
+VII-Austenite 
+NOTE 2-Carbides also may be present depending on carbon content and thermal history. 
+FIG. X1 .1 Letters Assigned to Chromium and Nickel Ranges in ACI Designation System 
+APPENDIXES 
+(Nonmandatory Information) 
+Xl. ALLOY DESIGNATIONS FOR CAST STAINLESS STEELS 
+Xl.1 Cast stainless steels are usually specified on the basis 
+of composition using the alloy designation system established 
+by the Alloy Casting Institute (ACI). The ACI designations, for 
+example, CF8M, have been adopted by ASTM and are pre­
+ferred for cast alloys over the designations used by the 
+American Iron and Steel Institute for similar wrought steels. 
+Xl .2 This nomenclature system has served successfully to 
+accommodate changes in old alloys and to designate new ones. 
+xxooxxx 
+~~-=:on_J J J 111 Carbon Content Number _________ __,_ 
+Special elements 1.4!1.ter ______________ ._~ 
+Xl.2.1 Service Classification Letter-The first letter of the 
+cast stainless steel designation system identifies the intended 
+service application of the alloy. The letter C indicates 
+corrosion-resistant service, and the letter H indicates the 
+heat-resistant service at and above 1200 °F [649 °C]. 
+Xl.2.2 Ternary Diagram Location Letter-The second let­
+ter indicates the approximate location of the nickel and 
+chromium contents of the alloy grade on the FeCrNi ternary 
+diagram shown in Fig. Xl.l. 
+Xl.2.3 Carbon Content Number-For C service 
+classifications, this single or dual-digit numeral represents the 
+maximum carbon content in units of 0.01 %. For H service 
+classifications, this number represents the midpoint of the 
+range of carbon content in terms of 0.01 % with a ±0.05 % 
+limit. 
+Xl .2.4 Special Elements Letter-Additional letters follow­
+ing the numeral represent special chemical elements in the 
+alloy grade, such as M for molybdenum, C for columbium (Nb 
+for niobium), Mn for manganese, S for silicon, N for nitrogen, 
+Cu for copper, and W for tungsten. There are two exceptions: 
+the letter A indicates "Controlled Ferrite," and the letter F 
+indicates "Free Machining." 
+Xl.3 In Fig. Xl.l, unlettered NiCr ranges are associated 
+with the nearest lettered location. They may be the result of 
+differences between corrosion and heat-resistant types or be­
+cause of the influence of additional elements; for example, the 
+precipitation hardening grade CB- 7Cu. 
+1162 

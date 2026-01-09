@@ -1,0 +1,115 @@
+ASME BPVC.II.A-2025 SA-6/SA-6M 
+A5.20/A5.20M, A5.23/A5.23M, A5.28/A5.28M, or A5.29/ 
+A5.29M, whichever is applicable. For SMAW, low hydrogen 
+electrodes shall be used. 
+9.5.1.3 Electrodes and electrode-flux combinations shall be 
+selected so that the tensile strength of the deposited weld metal 
+(after any required heat treatment) is consistent with the tensile 
+strength specified for the base metal being repaired. 
+9.5.1.4 Welding electrodes and flux materials shall be dry 
+and protected from moisture during storage and use. 
+9.5.1.5 Prior to repair welding, the surface to be welded 
+shall be inspected to verify that the imperfections intended to 
+be removed have been removed completely. Surfaces to be 
+welded and smiaces adjacent to the weld shall be dry and free 
+of scale, slag, mst, moisture, grease, and other foreign material 
+that would prevent proper welding. 
+9.5.1.6 Welders and welding operators shall be qualified in 
+accordance with the requirements of AWS Dl.1/Dl.lM or 
+ASME Boiler and Pressure Vessel Code, Section IX, except 
+that any complete joint penetration groove weld qualification 
+also qualifies the welder or welding operator to do repair 
+welding. 
+9.5.1.7 Repair welding of structural products shall be in 
+accordance with a welding procedure specification (WPS) that 
+is in accordance with the requirements of AWS Dl.1/Dl.lM or 
+ASME Boiler and Pressure Vessel Code, Section IX, with the 
+following exceptions or clarifications: 
+( 1) The WPS shall be qualified by testing a complete joint 
+penetration groove weld or a surface groove weld. 
+(2) The geometry of the surface groove weld need not be 
+described in other than a general way. 
+(3) An AWS Dl.1/Dl.lM prequalified complete joint 
+penetration groove weld WPS is acceptable. 
+( 4) Any material not listed in the prequalified base 
+metal-filler metal combinations of AWS Dl.1/Dl.lM also is 
+considered to be prequalified if its chemical composition and 
+mechanical properties are comparable to those for one of the 
+prequalified base metals listed in AWS Dl.1/Dl.lM. 
+9.5.1.8 When so specified in the purchase order, the WPS 
+shall include qualification by Charpy V-notch testing, with the 
+test locations, test conditions, and the acceptance criteria 
+meeting the requirements specified for repair welding in the 
+purchase order. 
+9.5.1.9 When so specified in the purchase order, the welding 
+procedure specification shall be subject to approval by the 
+purchaser prior to repair welding. 
+9.5.2 Structural Products with a Specified Minimum Tensile 
+Strength of 100 ksi [690 MPa] or Higher-Repair welding of 
+structural products with a specified minimum tensile strength 
+of 100 ksi [690 MPa] or higher shall be subject to the following 
+additional requirements: 
+9.5.2.1 When so specified in the purchase order, prior 
+approval for repair by welding shall be obtained from the 
+purchaser. 
+9.5.2.2 The surface to be welded shall be inspected using a 
+magnetic particle method or a liquid penetrant method to verify 
+that the imperfections intended to be removed have been 
+completely removed. When magnetic particle inspection is 
+11 
+employed, the surface shall be inspected both parallel and 
+perpendicular to the length of the area to be repaired. 
+9.5.2.3 When weld repairs are to be post-weld heat-treated, 
+special care shall be exercised in the selection of electrodes to 
+avoid those compositions that embrittle as a result of such heat 
+treatment. 
+9.5.2.4 Repairs on structural products that are subsequently 
+heat-treated at the mill shall be inspected after heat treatment; 
+repairs on structural products that are not subsequently heat­
+treated at the mill shall be inspected no sooner than 48 h after 
+welding. Such inspection shall use a magnetic particle method 
+or a liquid penetrant method; where magnetic particle inspec­
+tion is involved, such inspection shall be both parallel to and 
+perpendicular to the length of the repair. 
+9.5.2.5 The location of the weld repairs shall be marked on 
+the finished piece. • 
+9.5.3 Repair Quality-The welds and adjacent heat-affected 
+zone shall be sound and free of cracks, the weld metal being 
+thoroughly fused to all surfaces and edges without undercutting 
+or overlap. Any visible cracks, porosity, lack of fusion, or 
+undercut in any layer shall be removed prior to deposition of 
+the succeeding layer. Weld metal shall project at least 1/J6 in. (2 
+mm) above the rolled surface after welding, and the projecting 
+metal shall be removed by chipping or grinding, or both, to 
+make it flush with the rolled smiace, and to produce a 
+workmanlike finish. 
+9.5.4 Inspection of Repair-The manufacturer or processor 
+shall maintain an inspection program to inspect the work to see 
+that: 
+9.5.4.1 Imperfections have been completely removed. 
+9.5.4.2 The limitations specified above have not been ex­
+ceeded. 
+9.5.4.3 Established welding procedures have been followed, 
+and 
+9.5.4.4 Any weld deposit is of acceptable quality as defined 
+above. 
+10. Test Methods 
+10.1 All tests shall be conducted in accordance with Test 
+Methods and Definitions A370. 
+10.2 Yield strength shall be determined either by the 0.2 % 
+offset method or by the 0.5 % extension under load method, 
+unless otherwise stated in the material specification. 
+10.3 Rounding Procedures-For purposes of determining 
+conformance with the specification, a calculated value shall be 
+rounded to the nearest 1 ksi [5 MPa] tensile and yield strength, 
+and to the nearest unit in the right-hand place of figures used in 
+expressing the limiting value for other values in accordance 
+with the rounding method given in Practice E29. 
+10.4 For full-section test specimens of angles, the cross­
+sectional area used for calculating the yield and tensile 
+strengths shall be a theoretical area calculated on the basis of 
+the weight of the test specimen (see 12.1). 
+11. Tension Tests 
+11.1 Condition-Test specimens for non-heat-treated struc­
+tural products shall be taken from test coupons that are 
+representative of the structural products in their delivered 

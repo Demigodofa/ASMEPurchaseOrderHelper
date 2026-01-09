@@ -1,0 +1,67 @@
+{
+  "createdUtc": "2026-01-09T00:14:02.260264+00:00",
+  "spec": "SA-299",
+  "rangeStart": 483,
+  "rangeEnd": 490,
+  "pages": [
+    {
+      "globalPageIndex": 483,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 483,
+      "textPath": "best_text\\pages\\page-0483.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 484,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 484,
+      "textPath": "best_text\\pages\\page-0484.txt",
+      "assets": {
+        "noteTargetFiles": [
+          "note_target_ocr\\page-0484-note-01.txt"
+        ]
+      }
+    },
+    {
+      "globalPageIndex": 485,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 485,
+      "textPath": "best_text\\pages\\page-0485.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0485.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0485.csv"
+      }
+    },
+    {
+      "globalPageIndex": 487,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 487,
+      "textPath": "best_text\\pages\\page-0487.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 488,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 488,
+      "textPath": "best_text\\pages\\page-0488.txt",
+      "assets": {}
+    },
+    {
+      "globalPageIndex": 489,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 489,
+      "textPath": "best_text\\pages\\page-0489.txt",
+      "assets": {
+        "tabulaTablesJson": "tables_tabula\\page-0489.json",
+        "tabulaTablesCsv": "tables_tabula\\page-0489.csv"
+      }
+    },
+    {
+      "globalPageIndex": 490,
+      "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+      "sourcePageNumber": 490,
+      "textPath": "best_text\\pages\\page-0490.txt",
+      "assets": {}
+    }
+  ]
+}

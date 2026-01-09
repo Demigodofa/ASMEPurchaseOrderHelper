@@ -1,0 +1,177 @@
+ASME BPVC.11.A-2025 SA-568/SA-568M (ASTM A568/A568M) 
+TABLE 6 Width TolerancesA of Hot-Rolled Mill Edge Sheet (All 
+Designations) 
+(Coils and Cut Lengths, Including Pickled) 
+Specified Width, in. 
+Over 12 to 14 incl 
+Over 14 to 17 incl 
+Over 17 to 19 incl 
+Over 19 to 21 incl 
+Over 21 to 24 incl 
+Over 24 to 26 incl 
+Over 26 to 30 incl 
+Over 30 to 50 incl 
+Over 50 to 78 incl 
+Over 78 
+Carbon 
+Tolerances Over 
+Specified Width, in. 
+No Tolerance Under 
+½ 
+1 1/1e 
+13/16 
+15/15 
+11/s 
+1½ 
+17/a 
+High-Strength Low-Alloy 
+Over 12 to 14 incl 
+Over 14 to 17 incl 
+Over 17 to 19 incl 
+Over 19 to 21 incl 
+Over 21 to 24 incl 
+Over 24 to 26 incl 
+Over 26 to 28 incl 
+Over 28 to 35 incl 
+Over 35 to 50 incl 
+Over 50 to 60 incl 
+Over 60 to 65 incl 
+Over 65 to 70 incl 
+Over 70 to 80 incl 
+Over 80 
+½ 
+9/,s 
+¾ 
+1 1/16 
+13/15 
+15/16 
+11/a 
+1¼ 
+1½ 
+1% 
+1¾ 
+17/a 
+2 
+A The above tolerances do not apply to the uncropped ends of mill edge coils 
+(10.1.1.1). 
+TABLE 7 Width Tolerances of Hot-Rolled Cut Edge Sheet (All 
+Widths) and Cold-Rolled Sheet (Widths Over 12 in. Only) 
+(All Designations)A 
+(Coils and Cut Lengths, Including Pickled) 
+Specified Width, in. 
+To 30 inclA 
+Over 30 to 48 incl 
+Over 48 to 60 incl 
+Over 60 to 80 incl 
+Over 80 
+Tolerances Over Specified Width, in. 
+No Tolerance Under 
+1/a 
+3/ie 
+¼ 
+5/15 
+% 
+A Cold Rolled widths 12 in. and less refer to Table 18.) 
+- TABLE_a_LengthJ_0lerances ot HQt-Rolle_cl_Sheet 
+(All Designations) 
+(Cut Lengths, Including Pickled) 
+Specified Length, in. 
+To 15 incl 
+Over 15 to 30 incl 
+Over 30 to 60 incl 
+Over 60 to 120 incl 
+Over 120 to 156 incl 
+Over 156 to 192 incl 
+Over 192 to 240 incl 
+Over 240 
+Tolerances Over Specified 
+Length, in. 
+No Tolerance Under 
+1/s 
+¼ 
+½ 
+¾ 
+1 
+1¼ 
+1½ 
+1¾ 
+9.5.1 The term cut edge refers to the edge resulting from 
+trimming the hot-rolled mill edge that is formed during the 
+hot-rolling process. At the producer's option, the edge shall be 
+trimmed at any process step after the hot-rolling process step to 
+the final process step. 
+TABLE 9 Diameter Tolerances of Circles Sheared from Hot-Rolled 
+(Including Pickled) and Cold-Rolled Sheet (Over 12 in. Width) (All 
+Designations) 
+Specified Thickness/ in. 
+0.044 to 0.057 incl 
+Over 0.057 to 0.098 incl 
+Over 0.098 
+Tolerances Over Specified Diameter, in. (No 
+Tolerances Under) 
+Under 30 Over 30 to 48 
+incl 
+1/a 
+Over 48 
+3 /15 
+7/32 
+¼ 
+A 0.071 in. minimum thickness for hot-rolled high-strength low-alloy steel sheet. 
+TABLE 10 Camber TolerancesA for Hot-Rolled (Including Pickled) 
+and Cold-Rolled Sheet (All Designations) 
+(Cut Lengths) 
+NoTE 1-Camber is the greatest deviation of a side edge from a straight 
+line, the measurement being taken on the concave side with a straightedge. 
+Cut Length, ft Camber Tolerances, in. 
+To 4 incl 
+Over 4 to 6 incl 
+Over 6 to 8 incl 
+Over 8 to 1 O incl 
+Over 10 to 12 incl 
+Over 12 to 14 incl 
+Over 14 to 16 incl 
+Over 16 to 18 incl 
+Over 18 to 20 incl 
+Over 20 to 30 incl 
+Over 30 to 40 incl 
+A The camber tolerance for coils is 1 in. in any 20 ft. 
+1/a 
+3/,s 
+¼ 
+s11s 
+% 
+½ 
+% 
+¾ 
+7/s 
+1¼ 
+1½ 
+TABLE 11 Out-of-Square Tolerances of Hot-Rolled Cut-Edge 
+(Including Pickled) and Cold-Rolled Sheet (All Designations) 
+(Cut Lengths) 
+Out-of-square is the greatest deviation of an end edge from a straight line at 
+right angle to a side and touching one corner. It is also obtained by measuring 
+the difference between the diagonals of the cut length. The out-of-square 
+deviation is one half of that difference. The tolerance for all thicknesses and all 
+sizes is 1/16 in./6 in. of width or fraction thereof. 
+TABLE 12 Restricted Squareness Tolerances of Hot-Rolled 
+(Including Pickled) and Cold-Rolled Sheet (All Designations) 
+(Cut Lengths) 
+When cut lengths are specified restricted squareness, the width and the length 
+are not less than the dimensions specified. The individual tolerance for over­
+-width;-over-lengtl1, camt>er, Gr-out--0f-square sbould_n_ot exceed_1Lw i11._Jjp_tQ__Jind _ 
+including 48 in. in width and up to and including 120 in. in length. For cut 
+lengths wider or longer, the applicable tolerance is 1/s in. 
+9.5.1.1 The term slit last edge is a cut edge that was 
+edge-trimmed at the final process step. 
+985 
+( 1) If the purchaser requires the edge to be trimmed at the 
+final process step, the term slit last edge shall be shown on the 
+purchase order. 
+(2) If the producer decides to trim the edge at the final 
+process step, without being required by the purchaser, the term 
+slit last edge is not required, since this condition falls under the 
+term cut edge as described in 9.5.1. 
+9.6 Oiling: 
+9.6.1 Plain hot-rolled sheet is customarily furnished not 
+oiled. Oiling must be specified, when required. 

@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 371,
+  "globalPageIndex": 371,
+  "width": 620.76,
+  "height": 859.92,
+  "text": "ASME BPVC.II.A-2025 SA-231/SA-231M \nTABLE 1 TABLE 2 \nTENSILE REQUIREMENTS, SI UNITS A TENSILE REQUIREMENTS, INCH-POUND UNITS A \nTensile Strength, Tensile Strength, \nMPa Reduction of Areas, ksi Reduction of Areas, \nDiameter, 8 mm Min. Max. Min.,% Diameter,8 in. Min. Max. Min.,% \n0.50 2060 2260 C 0.020 300 325 C \n0.55 2050 2240 C \n0.032 290 315 C \n0.60 2030 2220 C 0.041 280 305 C \n0.65 2010 2200 C 0.054 270 295 C \n0.70 2000 2160 C \n0.062 265 290 C \n0.80 1980 2140 C 0.080 255 275 C \n0.90 1960 2120 C 0.105 245 265 45 \n1.00 1940 2100 C \n0.135 235 255 45 \n1.10 1920 2080 C 0.162 225 245 40 \n1.20 1900 2060 C 0.192 220 240 40 \n1.40 1860 2020 C 0.244 210 230 40 \n1.60 1820 1980 C 0.283 205 225 40 \n1.80 1800 1960 C 0.312 203 223 40 \n2.00 1780 1930 C 0.375 200 220 40 \n2.20 1750 1900 C 0.438 195 215 40 \n2.50 1720 1860 45 0.500 190 210 40 \n2.80 1680 1830 45 \n3.00 1660 1800 45 A Tensile strength values for intermediate diameters may be inter-\n3.50 1620 1760 45 po lated. \n4.00 1580 1720 40 8 Preferred sizes. For a complete list, refer to ANSI B 32.4M, \n4.50 1560 1680 40 Preferred Metric Sizes for Round, Square, Rectangle, and Hexagon \n5.00 1520 1640 40 Metal Products. \n5.50 1480 1620 40 c The reduction of area test is not applicable to wire diameters \n6.00 1460 1600 40 under 0.092 in. \n6.50 1440 1580 40 \n7.00 1420 1560 40 \n8.00 1400 1540 40 TABLE 3 \n9.00 1380 1520 40 CHEMICAL REQUIREMENTS 10.00 1360 1500 40 \n11.00 1340 1480 40 Element Analysis,% \n12.00 1320 1460 40 \nCarbon 0.48-0.53 \nA Tensile strength values for intermediate diameters may be inter- Manganese 0.70-0.90 \npo lated. Phosphorus 0.040 max. \n8 Preferred sizes. For a complete list, refer to ANSI B 32.4M, Sulfur 0.040 max. \nPreferred Metric Sizes for Round, Square, Rectangle, and Hexagon Silicon 0.15-0.35 \nMetal Products. Chromium 0.80-1.10 \nc The reduction of area test is not applicable to wire diameters Vanadium 0.15 min. \nunder 2.34 mm. \n319 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0371.json",
+  "tabulaTablesCsv": "tables_tabula/page-0371.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0371.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1920,
+  "bestTextAlphaRatio": 0.4068
+}

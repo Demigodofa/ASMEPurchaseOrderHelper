@@ -1,0 +1,426 @@
+[
+  {
+    "rows": [
+      [
+        "EBO Photometric and spectrophotometric work.",
+        "S 0.0005--0.1",
+        "Ti",
+        "0.005--2.5"
+      ],
+      [
+        "Spectrographic analysis of steels (rod-to-rod technique).",
+        "N2 0.0020-0.3",
+        "Co",
+        "0.005-4.0"
+      ],
+      [
+        "Spectrographic analysis of acid-soluble aluminum.",
+        "Mn 0.005--15.0",
+        "Sn",
+        "0.001-0.20"
+      ],
+      [
+        "E322 X-ray fluorescence for steels",
+        "P 0.001-1.5",
+        "W",
+        "0.005-3.0"
+      ],
+      [
+        "Spectrometric analysis of stainless steels",
+        "Si 0.005--5.0",
+        "Pb",
+        "0.002-0.05"
+      ],
+      [
+        "E415 Vacuum spectrometric analysis of steels",
+        "Cr 0.01-26.0",
+        "B",
+        "0.0005-0.05"
+      ],
+      [
+        "Spectrographic determination of silicon and aluminum in high\u00ad",
+        "Ni 0.01-36.0",
+        "Ca",
+        "0.0002-0.01"
+      ],
+      [
+        "purity iron.",
+        "Al 0.001-5.5",
+        "Mg",
+        "0.001-0.01"
+      ],
+      [
+        "E572 X-ray emission spectrometric analysis of stainless steels.",
+        "Mo 0.005--8.0",
+        "Ce",
+        "0.001-0.2"
+      ],
+      [
+        "Flame atomic absorption.",
+        "Cu 0.005--4.0",
+        "Zr",
+        "0.001-0.1"
+      ],
+      [
+        "E882 Accountability and quality control.",
+        "Cb 0.005-3.0",
+        "Ta",
+        "0.005-0.5"
+      ],
+      [
+        "E1019 Determination of carbon, sulfur, nitrogen, oxygen, and hydro\u00ad",
+        "",
+        "",
+        ""
+      ],
+      [
+        "gen in steel and in iron, nickel, and cobalt alloys.",
+        "",
+        "",
+        ""
+      ],
+      [
+        "E1085 X-ray emission spectrometric analysis of low alloy steels.",
+        "",
+        "",
+        ""
+      ],
+      [
+        "E1086 Optical emission vacuum spectrometric analysis of stainless",
+        "",
+        "",
+        ""
+      ],
+      [
+        "steel.",
+        "9.2.7 Analysis of solutions",
+        "using",
+        "inductively coupled"
+      ],
+      [
+        "By the point-to plane excitation technique.",
+        "plasma emission spectroscopy (ICP) or direct plasma emission",
+        "",
+        ""
+      ],
+      [
+        "E1097 Direct current plasma spectroscopy.",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "spectroscopy (DCP). Normal elements and ranges for stainless",
+        "",
+        ""
+      ],
+      [
+        "E1184 Graphite furnace atomic absorption.",
+        "",
+        "",
+        ""
+      ],
+      [
+        "E1282 Selecting sampling practices and analysis methods.",
+        "steels are as follows:",
+        "",
+        ""
+      ],
+      [
+        "E1329 Verification and use of control charts.",
+        "Element Ranges %",
+        "",
+        ""
+      ],
+      [
+        "E1806 Sampling.",
+        "B",
+        "",
+        "0.0002-0.01"
+      ],
+      [
+        "9.2 The following are some of the commonly accepted",
+        "Ca",
+        "",
+        "0.0002-0.01"
+      ],
+      [
+        "",
+        "Mg",
+        "",
+        "0.0002-0.01"
+      ],
+      [
+        "techniques employed for routine chemical analysis of steels.",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Ce",
+        "",
+        "0.001-0.2"
+      ],
+      [
+        "These routine analyses are the basis for the producers' quality",
+        "Zr",
+        "",
+        "0.001-0.1"
+      ],
+      [
+        "control/assurance programs. Proprietary methods are permis\u00ad",
+        "Ta",
+        "",
+        "0.005-0.5"
+      ],
+      [
+        "",
+        "La",
+        "",
+        "0.001-0.01"
+      ],
+      [
+        "sible provided the results are equivalent to those obtained from",
+        "",
+        "",
+        ""
+      ],
+      [
+        "standard methods when applicable.",
+        "9.3 There are additional common techniques often used for",
+        "",
+        ""
+      ],
+      [
+        "9.2.1 Analysis of stainless steels using x-ray fluorescence",
+        "chemical analysis of standards for instrument analysis such as:",
+        "",
+        ""
+      ],
+      [
+        "spectroscopy (XRF). See Table 1 for normal elements and",
+        "polarographic analysis, ion",
+        "exchange",
+        "separations,"
+      ],
+      [
+        "ranges for stainless steels.",
+        "radioactivation, and mass spectrometry.",
+        "",
+        ""
+      ],
+      [
+        "9.2.2 Analysis of stainless steels using spark emission",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "10. Reference Materials",
+        "",
+        ""
+      ],
+      [
+        "spectroscopy (OBS). See Table 2 for normal elements and",
+        "",
+        "",
+        ""
+      ],
+      [
+        "ranges for stainless steels.",
+        "10.1 For referee analyses, reference standards of a recog\u00ad",
+        "",
+        ""
+      ],
+      [
+        "9.2.3 Analysis of solutions using an atomic absorption",
+        "nized standardizing agency shall be employed with preference",
+        "",
+        ""
+      ],
+      [
+        "spectrophotometer.",
+        "given to NIST standard reference materials when applicable.",
+        "",
+        ""
+      ],
+      [
+        "9.2.4 Analysis of solutions using an inductively coupled",
+        "(NIST does not produce reference standards suitable for all",
+        "",
+        ""
+      ],
+      [
+        "plasma emission spectrometer.",
+        "elements or all alloys.)",
+        "",
+        ""
+      ],
+      [
+        "9.2.5 Determination of carbon or sulfur, or both, by com\u00ad",
+        "10.1.1 When standard reference materials for certain alloys",
+        "",
+        ""
+      ],
+      [
+        "bustion (in oxygen) and measurement of CO be 2 or S0 2, or both,",
+        "are not available from NIST,",
+        "reference",
+        "materials may"
+      ],
+      [
+        "by thermal conductivity or infrared detectors.",
+        "produced by employing ASTM standard procedures and NIST",
+        "",
+        ""
+      ],
+      [
+        "Element Ranges %",
+        "standard reference materials to the extent that such procedures",
+        "",
+        ""
+      ],
+      [
+        "C 0.002--5.0",
+        "and reference standards are available.",
+        "",
+        "Several independent"
+      ],
+      [
+        "S 0.0005--0.1",
+        "laboratories should be used for certification of these standards",
+        "",
+        ""
+      ],
+      [
+        "9.2.6 Determination of nitrogen and oxygen by fusion (in a",
+        "and their results statistically reviewed and merged.",
+        "",
+        ""
+      ],
+      [
+        "helium atmosphere) and measurement of N2 by thermal con\u00ad",
+        "10.1.2 Test methods not published by ASTM,",
+        "",
+        "such as a"
+      ],
+      [
+        "ductivity and oxygen by measurement of CO by infrared or",
+        "definitive analytical method, may be used when the method is",
+        "",
+        ""
+      ],
+      [
+        "thermal conductivity detectors.",
+        "validated by analyzing certified reference materials along with",
+        "",
+        ""
+      ],
+      [
+        "Element Ranges %",
+        "the candidate reference material. Examples of definitive ana\u00ad",
+        "",
+        ""
+      ],
+      [
+        "0.0005-0.3",
+        "lytical methods include gravimetric,",
+        "coulometry,",
+        "titrimetric"
+      ],
+      [
+        "0.0008-0.02",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "based on normality, and mass spectrometry.",
+        "",
+        ""
+      ],
+      [
+        "",
+        "10.2 Working reference materials may be used for routine",
+        "",
+        ""
+      ],
+      [
+        "analytical control. TABLE 1 Normal Elements and Ranges for Stainless Steels",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Using X-Ray Fluorescence Spectroscopy",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "11. Significant Numbers",
+        "",
+        ""
+      ],
+      [
+        "Element Ranges % Element Ranges %",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Mn 0.005--15.0 Cu 0.005--4.0",
+        "11.1 Laboratories shall report",
+        "each",
+        "element to the same"
+      ],
+      [
+        "p 0.00Hl.15 Cb 0.005-3.0",
+        "number of significant numbers as used in the pertinent material",
+        "",
+        ""
+      ],
+      [
+        "Si 0.005-5.0 V 0.005--2.0",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "specifications.",
+        "",
+        ""
+      ],
+      [
+        "Cr 0.01-26.0 TI 0.005--2.5",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Ni 0.01-36.0 Co 0.005-4.0",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Al 0.002-5.5 Sn 0.002-0.20",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Mo 0.005--8.0 w 0.005-3.0",
+        "",
+        "",
+        ""
+      ]
+    ]
+  }
+]

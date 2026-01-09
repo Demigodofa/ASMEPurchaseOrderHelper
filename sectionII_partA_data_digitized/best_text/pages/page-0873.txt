@@ -1,0 +1,35 @@
+( 
+L 
+ASME BPVC.II.A-2025 
+FIG. 4 SECTIONING PROCEDURE FOR "Y" BLOCKS 
+(a) 1 in. [25 mmJ "Y" Block - Two blanks for 
+0.50 in. [12.5 mm] diameter tension test specimens. 
+...: 
+I~ 
+ii~ 
+(b) 3 in. [75 mml "Y" Block - Four blanks for 
+0.50 in. [12.5 mm] diameter tension test specimens. 
+TABLE 2 
+SA-476/SA•476M 
+TABLE 1 
+TENSILE REQUIREMENTS 
+Test Coupon Section Thickness 1 in. [25 mm] 3 in. [75 mm] 
+EQUIVALENT GEOMETRIC SHAPES CORRESPONDING 
+TO "Y" BLOCKS 
+Tensile strength, min, ksi [M Pa] 80 [555] 
+Yield strength, min, ksi [M Pa] 60 [415] 
+Elongation in 2 in. [50mm], min, % 3.0 [3.0] 
+80 [555] 
+60 [415] 
+1.0 [l.0] 
+771 
+"Y" Block 
+Size, 
+in. [mm] 
+1 [25] 
+3 [75] 
+Infinite Plate Round 
+Thickness, Diameter, Cube Edge, 
+in. [mm] in. [mm] in. [mm] 
+0.9 [22.5] 1.75 [44] 2.75 [44] 
+1.6 [40] 3.1 [78] 4.8 [120] 

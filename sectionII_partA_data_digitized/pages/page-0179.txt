@@ -1,0 +1,119 @@
+ASME BPVC.II.A-2025 SA-36/SA-36M 
+TABLE 1 Appurtenant Material Specifications 
+NoTE 1-The specifier should be satisfied of the suitability of these 
+materials for the intended application. Chemical composition or mechani­
+cal properties, or both, may be different than specified in A36/A36M. 
+Material 
+Steel rivets 
+Bolts 
+High-strength bolts 
+Steel nuts 
+Cast steel 
+Forgings ( carbon 
+steel) 
+Hot-rolled sheets 
+and strip 
+Cold-formed tubing 
+Hot-formed tubing 
+Anchor bolts 
+ASTM Designation 
+A502, Grade 1 
+A307, Grade A or F568M, Class 4.6 
+F3125/F3125M, Grade A325 or A325M 
+A563 or A563M 
+A27/A27M, Grade 65-35 [450--240] 
+A668/A668M, Class D 
+A1011/A1011M, SS Grade 36 [250] Type 1 or Type 2 or 
+A1018/A1018M, SS Grade 36 [250] Type 1 or Type 2 
+A500, Grade B 
+A501 
+F1554, Grade 36 
+F3125/F3125M Specification for High Strength Structural 
+Bolts and Assemblies, Steel and Alloy Steel, Heat Treated, 
+Inch Dimensions 120 ksi and 150 ksi Minimum Tensile 
+Strength, and Metric Dimensions 830 MPa and 1040 MPa 
+Minimum Tensile Strength 
+3. Appurtenant Materials 
+3.1 When components of a steel structure are identified with 
+this ASTM designation but the product form is not listed in the 
+scope of this specification, the material shall conform to one of 
+the standards listed in Table 1 unless otherwise specified by the 
+purchaser. 
+4. General Requirements for Delivery 
+4.1 . Structural products furnished under this specification 
+shall conform to the requirements of the current edition of 
+Specification A6/ A6M, for the specific structural product 
+ordered, unless a conflict exists in which case this specification 
+shall prevail. 
+4.2 Coils are excluded from qualification to this specifica­
+tion until they are processed into a finished structural product. 
+Structural products produced from coil means structural prod­
+ucts that have been cut to individual lengths from a coil. The 
+processor directly controls, or is responsible for, the operations 
+involved in the processing of a coil into a finished structural 
+product. Such operations include decoiling, leveling or 
+straightening, hot-forming or cold-forming (if applicable), 
+cutting to length, testing, inspection, conditioning, heat treat­
+ment (if applicable), packaging, marking, loading for shipment, 
+and certification. 
+NoTE 1-For structural products produced from coil and furnished 
+without heat treatment or with stress relieving only, two test results are to 
+be reported for each qualifying coil. Additional requirements regarding 
+structural products produced from coil are described in Specification 
+A6/A6M. 
+TABLE 2 Tensile RequirementsA 
+Plates, Shapes, 8 and Bars: 
+Tensile strength, ksl [MPa] 
+Yield point, min, ksi [MPa] 
+Plates and Bars: 0 ,E 
+58-80 [ 400--550] 
+36 [250]c 
+Elongation in 8 in. [200 mm], min,% 20 
+Elongation in 2 in. [50 mm], min, % 23 
+Shapes: 
+Elongation in 8 in. [200 mm], min, % 20 
+Elongation in 2 in. [50 mm], min, % 21 8 
+A See the Orientation subsection in the Tension Tests section of Specification 
+A6/A6M. 
+8 For wide flange shapes with flange thickness over 3 in. [75 mm], the 80 ksi [550 
+MPa] maximum tensile strength does not apply and a minimum elongation in 2 In. 
+[50 mm] of 19 % applies. 
+cvield point 32 ksi [220 MPa] for plates over 8 in. [200 mm] in thickness. 
+0 Elongation not required to be determined for floor plate. 
+E For plates wider than 24 in. [600 mm], the elongation requirement is reduced two 
+percentage points. See the Elongation Requirement Adjustments subsection 
+under the Tension Tests section of Specification A6/A6M. 
+5. Bearing Plates 
+5.1 Unless otherwise specified, plates used as bearing plates 
+for bridges shall be subjected to mechanical tests and shall 
+conform to the tensile requirements of Section 8. 
+5.2 Unless otherwise specified, mechanical tests shall not be 
+required for plates over 1 ½ in. [40 mm] in thickness used as 
+bearing plates in structures other than bridges, subject to the 
+requirement that they shall contain 0.20 to 0.33 % carbon by 
+heat analysis, that the chemical composition shall conform to 
+the requirements of Table 3 in phosphorus and sulfur content, 
+and that a sufficient discard shall be made to secure sound 
+plates. 
+6. Materials and Manufacture 
+6.1 The steel shall be killed. 
+7. Chemical Composition 
+7 .1 The heat analysis shall conform to the requirements 
+prescribed in Table 3, except as specified in 5.2. 
+7.2 The steel shall conform on product analysis to the 
+requirements prescribed in Table 3, subject to the product 
+analysis tolerances in Specification A6/ A6M. 
+8. Tension Test 
+127 
+8.1 The material as represented by the test specimen, except 
+as specified in 5.2 and 8.2, shall conform to the requirements as 
+to the tensile properties prescribed in Table 2. 
+8.2 Shapes less than 1 in.2 [645 mm 2 ] in cross section and 
+bars, other than flats, less than½ in. [12.5 mm] in thickness or 
+diameter need not be subjected to tension tests by the 
+manufacturer, provided that the chemical composition used is 
+appropriate for obtaining the tensile properties in Table 2. 
+9. Keywords 
+9.1 bars; bolted construction; bridges; buildings; carbon; 
+plates; riveted construction; shapes; steel; structural steel; 
+welded construction 

@@ -1,0 +1,108 @@
+SA-20/SA-ZOM ASME BPVC.II.A-2025 
+SlO. Charpy V-Notch Impact Transition Curve Sl9. Restricted Chemical Requirements 
+S 10.1 Sufficient impact tests of the same specimen size shall 
+be made from the plate test material to establish a transition 
+curve. The test temperature range shall be wide enough to 
+establish the upper and lower shelf energies, with sufficient 
+testing at intermediate temperatures to permit plotting a rea­
+sonable smooth curve. A plot of the data is not required. The 
+manufacturer shall report the specimen orientation, test 
+temperature, and absorbed energy for each specimen tested. 
+Lateral expansion and percent shear shall also be reported 
+when specified in the purchase order. The number of plates 
+tested and the specimen orientation shall be the same as in 12.1 
+unless otherwise specified in the purchase order. 
+Sll. Ultrasonic Examination in Accordance with A577/ 
+A577M 
+Sll.1 All plates shall be ultrasonically examined in accor­
+dance with the requirements of Specification A577 I A577M. 
+S12. Ultrasonic Examination in Accordance with A578/ 
+A578M 
+Sl2.1 All plates shall be ultrasonically examined in accor­
+dance with the requirements of Specification A578/A578M. 
+The acceptance level shall be as specified in the RUrchase order. 
+S13. NDT Temperature Determination 
+S13.1 The NDT temperature shall be established in accor­
+dance with Test Method E208 using coupons from a single 
+plate. The number of plates to be so tested shall be subject to 
+agreement between the purchaser and the manufacturer or 
+processor. 
+Sl5. Reduction of Area Measurement 
+S 15 .1 A reduction of area measurement shall be taken while 
+making the required tension test. Reduction of area shall be 
+determined only-on the 0.500-in. [12.5-mm] round specimen as 
+shown in Fig. 5 of Test Methods and Definitions A370. The 
+minimum acceptance limit shall be 40 % . 
+S16. Thermal Stress Relief of Mechanical Test Coupons 
+S16.1 Test coupons representing the plates shall be ther­
+mally stress relieved by gradually and uniformly heating them 
+to a temperature between 1100 and 1200°F [595 and 650°C], or 
+a temperature range otherwise agreed upon between the 
+manufacturer or processor and the purchaser, holding at tem­
+perature for at least 1 h/in. [2.4 min/mm] of thickness and 
+cooling in still air to a temperature not exceeding 600°F 
+[315°C]. 
+S17. Vacuum Carbon-Deoxidized Steel 
+S 17 .1 Material shall be vacuum carbon-deoxidized, in 
+which case the silicon content at the time of vacuum deoxi­
+dizing shall be 0.12 % maximum, and the content of deoxidiz­
+ers such as aluminum, zirconium, and titanium should be kept 
+low enough to allow deoxidation by carbon. The test report 
+shall indicate that the steel was vacuum carbon-deoxidized. 
+The minimum heat analysis and product analysis requirements 
+for silicon do not apply to vacuum carbon-deoxidized steel. 
+80 
+S 19 .1 Restricted heat analysis and product analysis limits 
+are applicable, as specified in the purchase order. 
+S20. Maximum Carbon Equivalent for Weldability 
+S20.1 Plates shall be supplied with a specific maximum 
+carbon equivalent value. This value shall be based upon the 
+heat analysis. The required chemical analysis as well as the 
+carbon equivalent shall be reported. 
+S20.2 The carbon equivalent shall be calculated using the 
+following formula: 
+CE= C+Mn/6+(Cr+Mo+V)/5+(Ni+Cu)/15 
+S20.3 The maximum value of the carbon equivalent for 
+carbon steels (including C-Mn, C-Mn-Si, C-Mn-Si-Al steels), 
+are given in Table S20.1. 
+S21. Restricted Limits on Elements 
+For each heat, based upon the heat analysis, the content shall 
+not exceed 0.35 % for copper, 0.25 % for nickel, 0.25 % for 
+chromium, 0.08 % for molybdenum, or 0.70 % for the sum of 
+those four elements. 
+S22. Through-Thickness Tension Tests 
+S22.l Through-thickness tension tests shall be made in 
+accordance with the requirements of Specification A 770/ 
+A770M. (See Ordering Information in Specification A770/ 
+A770M for the additional information that may be needed.) 
+S24. Strain Age Test 
+S24.1 Test coupons shall be given a strain age treatment 
+designated by the purchaser. Charpy V-notch tests shall be 
+conducted on the strain aged specimens. Heat treatment, strain 
+aging, test temperature, and acceptance criteria shall be as 
+agreed upon between the manufacturer or processor and the 
+purchaser. 
+S25. Weldability 
+S25.l Weldability tests shall 
+be conducted. The type of test and the acceptance criteria 
+shall be as agreed upon between the manufacturer or processor 
+and the purchaser. 
+TABLE S20.1 Maximum Carbon Equivalent for Weldability 
+Specified Minimum UTS 
+ksi [MPa] 
+60,;;LJTS<70 
+[415,;; UTS < 485] 
+70,;; UTS < 80 
+[485,;; UTS < 550] 
+UTS 2: 80 
+[UTS 2: 550] 
+Maximum Carbon Equivalent Value 
+Thickness up to 2 In. Thickness over 2 in. 
+[50 mm] incl (50 mm] 
+0.45 0.46 
+0.47 
+A If simulated PWHT of the test coupons is specified (S3), the maximum carbon 
+equivalent value may be Increased up to 0.50 upon agreement between purchaser 
+and supplier. 
+8 Applicable to quenched-and-tempered material; for other conditions, maximum 
+carbon equivalent shall be by agreement between purchaser and supplier. 

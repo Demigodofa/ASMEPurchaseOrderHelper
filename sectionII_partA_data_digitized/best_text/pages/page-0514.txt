@@ -1,0 +1,108 @@
+SA-312/SA-312M (ASTM A312/A312M) ASME BPVC.II.A-2025 
+S4. Etching Tests 
+S4.1 The steel shall be homogeneous as shown by etching 
+tests conducted in accordance with the appropriate portions of 
+Method E381. Etching tests shall be made on a cross section 
+from one end or both ends of each pipe and shall show sound 
+and reasonably uniform material free of injurious laminations, 
+cracks, and similar objectionable defects. If this supplementary 
+requirement is specified, the number of tests per pipe required 
+shall also be specified. If a specimen from any length shows 
+objectionable defects, the length shall be rejected, subject to 
+removal of the defective end and subsequent retests indicating 
+the remainder of the length to be sound and reasonably uniform 
+material. 
+S5. Radiographic Examination 
+S5.l The entire length of weld in each double welded pipe 
+shall be radiographically examined, using X-radiation, in 
+accordance with Paragraph UW-51 of Section VIII Division 1 
+of the ASME Boiler and Pressure Vessel Code. In addition to 
+the marking required by Section 13 each pipe shall be marked 
+"RT" after the specification and grade. Requirements of S5 
+shall be required in the certification. 
+S6. Stabilizing Heat Treatment 
+S6.1 Subsequent to the solution anneal required in 6.2, 
+Grades TP309HCb, TP310HCb, TP321, TP321H, TP347, 
+TP347H, TP348, and TP348H shall be given a stabilization 
+heat treatment at a temperature lower than that used for the 
+initial solution annealing heat treatment. The temperature of 
+stabilization heat treatment shall be as agreed upon between the 
+purchaser and vendor. 
+S7. Intergranular Corrosion Test 
+S7.l When specified, material shall pass intergranular cor­
+rosion tests conducted by the manufacturer in accordance with 
+Practices A262, Practice E. 
+S7 .1.1 Practice E requires testing on the sensitized condi­
+tion for low carbon or stabilized grades, and on the as-shipped 
+condition for other grades. The applicability of this test and the 
+preparation of the sample for testing for grades containing 
+greater than 3 % molybdenum shall be as agreed by the 
+purchaser and manufacturer. 
+Norn S7.1-Practice E requires testing on the sensitized condition for 
+low carbon or stabilized grades, and on the as-shipped condition for other 
+grades. 
+S7.2 A stabilization heat treatment in accordance with 
+Supplementary Requirement S6 may be necessary and is 
+permitted in order to meet this requirement for the grades 
+containing titanium or columbium, particularly in their H 
+versions. 
+S8. Minimum Wall Pipe 
+S8.1 When specified by the purchaser, pipe shall be fur­
+nished on a minimum wall basis. The wall of such pipe shall 
+not fall below the thickness specified. In addition to the 
+marking required by Section 17, the pipe shall be marked S8. 
+S9. Weld Decay Test 
+S9 .1 When specified in the purchase order, one sample from 
+each lot of pipe shall be subject to testing in a boiling solution 
+of 50 % reagent grade hydrochloric acid and 50 % water. 
+S9.2 The sample, of approximately 2-in. [50-mm] length, 
+shall be prepared from a production length of pipe. Depending 
+on the size of the pipe, it is permitted to section the sample 
+longitudinally to allow it to fit in the Erlenmeyer flask. As a 
+minimum, the tested sample shall include the entire weld and 
+adjacent area and the full length of base metal 180° across from 
+the weld. All burrs and sharp edges shall be removed by light 
+grinding. Dust and grease shall be removed by cleaning with 
+soap and water or other suitable solvents. 
+S9.3 The hydrochloric acid solution shall be prepared by 
+slowly adding reagent grade (approximately 37 %) hydrochlo­
+ric acid to an equal volume of distilled water. 
+Warning-Protect eyes and use rubber gloves when han­
+dling acid. Mixing and testing shall be performed in a 
+protective enclosure. 
+S9.4 The test container shall be a 1-L Erlenmeyer flask 
+equipped with ground-glass joints and an Ahline condenser. 
+The volume of the solution shall be approximately 700 mL. 
+S9.5 The thickness of the weld and the base metal 180° 
+from the weld shall be measured near both ends of the sample. 
+These measurements shall be made with a micrometer with an 
+anvil shape suitable for measuring the thickness with an 
+accuracy to at least 0.001 in. [0.025 mm]. 
+S9.6 The sample sections, both weld and base metal, shall 
+be immersed in the flask containing the solution. Boiling chips 
+shall be added and the solution brought to a boil. Boiling shall 
+be maintained through the duration of the test. The time of 
+testing shall be that which is required to remove 40 to 60 % of 
+the original base metal thickness (usually 2 h or less). If more 
+than 60 % of the base metal thickness remains, it is permitted 
+to terminate the test after 24 h. 
+462 
+S9.7 At the end of the test period, the samples shall be 
+removed from the solution, rinsed with distilled water, and 
+dried. 
+S9.8 The thickness measurements as in S9.5 shall be re­
+peated. The anvil shape of the micrometer used shall be 
+suitable for measuring the minimum remaining thickness with 
+an accuracy to at least 0.001 in. [0.025 mm]. 
+S9.9 The corrosion ratio, R, shall be calculated as follows: 
+W)l(B 0 - B) 
+where: 
+W 0 = average weld-metal thickness before the test, 
+W = average weld-metal thickness after the test, 
+B 0 = average base-metal thickness before the test, and 
+B = average base-metal thickness after the test, 
+S9.9.1 The corrosion ratio for HCW pipe shall be as 
+specified in 11.5. 
+S9.9.2 The corrosion ratio shall be 1.25 or less, or as further 
+restricted in the purchase order, when the weld decay test is 
+specified for welded (WLD) pipe. 

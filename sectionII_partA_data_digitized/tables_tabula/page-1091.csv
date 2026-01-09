@@ -1,0 +1,6 @@
+,,Thickness Tolerances, Over, mm, No Tolerance Under8,,
+To 600, incl,0.3,0.30 0.35,,0.4
+Over 600 to 1200, incl,0.3,0.35 0.40,,0.45
+Over 1200 to 1500, incl,0.35,0.35 0.40,,0.5
+Over 1500 to 1800, incl,0.35,0.40 0.40,,0.56
+Over 1800,0.35,0.40 0.40,,0.6

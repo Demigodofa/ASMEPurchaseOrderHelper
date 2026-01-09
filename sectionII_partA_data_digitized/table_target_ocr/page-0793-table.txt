@@ -1,0 +1,52 @@
+requirements need not exceed the values given in Table 7. This  ©*@lined Dy a nondestructive examination method in accor-
+does not prohibit testing at higher pressures at manufacturer’s dance with P ractice E213, Practice E309 (for ferromagnetic
+option or as provided in 24.3. materials), Practice E426 (for non-magnetic materials), or
+
+; _ Practice E570. Upon agreement, Practice E273 shall be em-
+
+24.3 With CONnCUTTENCE of the manufacturer, a MIDWMUM ployed in addition to one of the full periphery tests. The range
+hydrostatic test pressure in excess of the requirements of 24.2 of tube sizes that may be examined by each method shall be
+or 24.1, or both, may be stated on the order. The tube wall subject to the limitations in the scope of that practice. In case
+stress shall be determined by the following equation: of conflict between these methods and practices and this
+
+S = PD/2t (4) specification, the requirements of this specification shall pre-
+where: vail.
+S = tube wall stress, psi or MPa, and all other symbols as 26.2 The following information is for the benefit of the user
+defined in 24.1.1. of pois Spec aton. ards for the nond ve electri
+2 alibration standards for the nondestructive electric
+i 24.4 The test pressure shall be held for a minimum of 5s. test are convenient standards for calibration of nondestructive
+oe 24.5 If any tube shows leaks during the hydrostatic test, it testing equipment only. For several reasons, including shape,
+shall be rejected. orientation, width, etc., the correlation between the signal
+
+24.6 The hydrostatic test may not be capable of testing the Produced in the electric test from an imperfection and from
+end portion of the pipe. The lengths of pipe that cannot be calibration standards is only approximate. A purchaser inter-
+tested shall be determined by the manufacturer and, when ested in ascertaining the nature (type, size, location, and
+specified in the purchase order, reported to the purchaser. orientation) of discontinuities that can be detected im the
+
+specific application of these examinations should discuss this
+25. Air Pressure Test with the manufacturer of the tubular product.
+
+. ; . 26.2.2 The ultrasonic examination referred to in this speci-
+cash : tube Underwater Test When this ae ity, shalt be fication is intended to detect longitudinal discontinuities having
+internally pressurized to 150 psi [1000 kPa] minimum with a fellective “hos Similar re 36 pee than the calibration
+clean and dry compressed air while being submerged in clear reterence notches speciiiee In 20.5. ae exam nation may not
+
+| water, The tube shall be well-lighted, preferably by underwater nae circumferentially oriented imperfections or short, deep
+illumination. Any evidence of air leakage of the pneumatic 603 The eddy current examination teferenced in this
+~ couplings shall be corrected prior to testing. Inspection shall be specification has "he capability of detecting significant
+made of the entire external surface of the tube after holding the di vas ‘ally of the short ab Practi
+pressure for not less than 5 s after the surface of the water has Iscontinuities, esp cerahy OF mie SHOR abrup t type. FACTICES
+- b alm. If any tube shows leakage during the air E309 and E426 contain additional information regarding the
+ecome calm y & & capabilities and limitations of eddy-current examination.
+26.2.4 The flux leakage examination referred to in this
+; specification is capable of detecting the presence and location
+_____'ABLE 7 Hydrostatic Test Pressures Sf significant longitudinally or transversely oriented disconti-
+
+Outside Diameter of Tube, in. (mm)  “ySrostatic Test Pressure, psi [MPa] nuities. The provisions of this specification only provide for
+Under BAD longitudinal calibration for flux leakage. It should be recog-
+1 to 11% [25.4 to 38.1], excl 1500 [10] nized that different techniques should be employed to detect
+1% to 2 [38.1 to 50.8], excl 2000 [14] differently oriented imperfections.
+ee 782 re 127 cel an D4 26.2.5 The hydrostatic test referred to in Section 23 is a test
+
+. 5 [127] and over 4500 [31] method provided for in many product specifications. This test
+as the capability of finding defects of a size permitting the test

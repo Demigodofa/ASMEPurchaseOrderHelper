@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 716,
+  "globalPageIndex": 1514,
+  "width": 792.0,
+  "height": 612.48,
+  "text": "UNS \nDesignation \nS32760\u00b0 \nGrade \n25 chromium, 7 \nnickel, 3.5 \nmolybdenum, \nmodified with \nnitrogen and \nCarbon Manganese Phosphorus Sulfur \n0.030 1.00 0.030 0.010 \nTABLE 1 Continued \nComposition, %A \nSilicon Nickel Chromium Molybdenum Copper \n1.00 6.0-8.0 24.0-26.0 3.0-4.0 0.50-1.00 \n~ S39277 \ntungsten \n25 chromium, 7 0.025 0.80 0.025 0.002 0.80 6.5--8.0 24.0-26.0 3.0-4.0 1.20-2.00 \nC)'I \n0 nickel, \n3. 7 molybdenum \nS32505 27 chromium, 7 0.030 1.50 0.030 0.020 1.00 4.5-7.0 24.0-27.0 2.9-3.9 1.50-2.50 \nnickel, 3 \nmolybdenum, \nmodified with \nnitrogen and copper \nA Maximum, unless otherwise specified. Where ellipses ( ... ) appear in this table, there is no requirement, and analysis for the element need not be determined or reported. \n8 S30400, S30403, S31600, and S31603 shall have a maximum nitrogen content of 0.1 O %. \nc S30451, S31651, S30453, S31653 shall have a nitrogen content of 0.10 to 0.16 %. \n0 %Cr+3.3 x % Mo+ 16x% N > 40 min. \nEfhe terms Niobium (Nb) and Columbium {Cb) are alternate names for the same element. \n( \nNiobiumE Nitrogen Other \nElements \n0.20-0.30 w \n0.50-1.00 \n0.23-0.33 w \n0.80-1.20 \n0.25-0.30 \n) \n~ \n1.0 \nC0 \nC0 ......_ \n~ \n1.0 \nC0 \nC0 \n3: \n> ~ \n:s: \nC\"l \nta \n:g \nC \n~ N \n0 \nN \nen ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1514.json",
+  "tabulaTablesCsv": "tables_tabula/page-1514.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-1514.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1220,
+  "bestTextAlphaRatio": 0.4779
+}

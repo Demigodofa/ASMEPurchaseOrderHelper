@@ -1,0 +1,2142 @@
+{
+  "createdUtc": "2026-01-07T22:17:29.164041+00:00",
+  "summary": {
+    "targetPages": 355,
+    "pagesProcessed": 355,
+    "remainingPages": 0,
+    "maxPagesPerRun": 50,
+    "batchSize": 10
+  },
+  "pages": [
+    {
+      "globalPageIndex": 55,
+      "textPath": "full_ocr_highdpi\\page-0055.txt",
+      "length": 218,
+      "alphaRatio": 0.683
+    },
+    {
+      "globalPageIndex": 60,
+      "textPath": "full_ocr_highdpi\\page-0060.txt",
+      "length": 6305,
+      "alphaRatio": 0.778
+    },
+    {
+      "globalPageIndex": 61,
+      "textPath": "full_ocr_highdpi\\page-0061.txt",
+      "length": 3825,
+      "alphaRatio": 0.563
+    },
+    {
+      "globalPageIndex": 62,
+      "textPath": "full_ocr_highdpi\\page-0062.txt",
+      "length": 6504,
+      "alphaRatio": 0.742
+    },
+    {
+      "globalPageIndex": 65,
+      "textPath": "full_ocr_highdpi\\page-0065.txt",
+      "length": 5458,
+      "alphaRatio": 0.706
+    },
+    {
+      "globalPageIndex": 68,
+      "textPath": "full_ocr_highdpi\\page-0068.txt",
+      "length": 6297,
+      "alphaRatio": 0.772
+    },
+    {
+      "globalPageIndex": 69,
+      "textPath": "full_ocr_highdpi\\page-0069.txt",
+      "length": 5027,
+      "alphaRatio": 0.766
+    },
+    {
+      "globalPageIndex": 72,
+      "textPath": "full_ocr_highdpi\\page-0072.txt",
+      "length": 3511,
+      "alphaRatio": 0.673
+    },
+    {
+      "globalPageIndex": 77,
+      "textPath": "full_ocr_highdpi\\page-0077.txt",
+      "length": 1253,
+      "alphaRatio": 0.654
+    },
+    {
+      "globalPageIndex": 80,
+      "textPath": "full_ocr_highdpi\\page-0080.txt",
+      "length": 2800,
+      "alphaRatio": 0.577
+    },
+    {
+      "globalPageIndex": 89,
+      "textPath": "full_ocr_highdpi\\page-0089.txt",
+      "length": 2094,
+      "alphaRatio": 0.619
+    },
+    {
+      "globalPageIndex": 92,
+      "textPath": "full_ocr_highdpi\\page-0092.txt",
+      "length": 1577,
+      "alphaRatio": 0.42
+    },
+    {
+      "globalPageIndex": 98,
+      "textPath": "full_ocr_highdpi\\page-0098.txt",
+      "length": 2613,
+      "alphaRatio": 0.646
+    },
+    {
+      "globalPageIndex": 99,
+      "textPath": "full_ocr_highdpi\\page-0099.txt",
+      "length": 2788,
+      "alphaRatio": 0.624
+    },
+    {
+      "globalPageIndex": 100,
+      "textPath": "full_ocr_highdpi\\page-0100.txt",
+      "length": 3732,
+      "alphaRatio": 0.184
+    },
+    {
+      "globalPageIndex": 101,
+      "textPath": "full_ocr_highdpi\\page-0101.txt",
+      "length": 4935,
+      "alphaRatio": 0.079
+    },
+    {
+      "globalPageIndex": 102,
+      "textPath": "full_ocr_highdpi\\page-0102.txt",
+      "length": 4787,
+      "alphaRatio": 0.08
+    },
+    {
+      "globalPageIndex": 103,
+      "textPath": "full_ocr_highdpi\\page-0103.txt",
+      "length": 4409,
+      "alphaRatio": 0.088
+    },
+    {
+      "globalPageIndex": 104,
+      "textPath": "full_ocr_highdpi\\page-0104.txt",
+      "length": 4360,
+      "alphaRatio": 0.089
+    },
+    {
+      "globalPageIndex": 106,
+      "textPath": "full_ocr_highdpi\\page-0106.txt",
+      "length": 2605,
+      "alphaRatio": 0.174
+    },
+    {
+      "globalPageIndex": 109,
+      "textPath": "full_ocr_highdpi\\page-0109.txt",
+      "length": 2812,
+      "alphaRatio": 0.177
+    },
+    {
+      "globalPageIndex": 110,
+      "textPath": "full_ocr_highdpi\\page-0110.txt",
+      "length": 3111,
+      "alphaRatio": 0.124
+    },
+    {
+      "globalPageIndex": 112,
+      "textPath": "full_ocr_highdpi\\page-0112.txt",
+      "length": 2670,
+      "alphaRatio": 0.169
+    },
+    {
+      "globalPageIndex": 114,
+      "textPath": "full_ocr_highdpi\\page-0114.txt",
+      "length": 2394,
+      "alphaRatio": 0.173
+    },
+    {
+      "globalPageIndex": 119,
+      "textPath": "full_ocr_highdpi\\page-0119.txt",
+      "length": 230,
+      "alphaRatio": 0.643
+    },
+    {
+      "globalPageIndex": 125,
+      "textPath": "full_ocr_highdpi\\page-0125.txt",
+      "length": 6154,
+      "alphaRatio": 0.753
+    },
+    {
+      "globalPageIndex": 138,
+      "textPath": "full_ocr_highdpi\\page-0138.txt",
+      "length": 3167,
+      "alphaRatio": 0.647
+    },
+    {
+      "globalPageIndex": 144,
+      "textPath": "full_ocr_highdpi\\page-0144.txt",
+      "length": 2650,
+      "alphaRatio": 0.434
+    },
+    {
+      "globalPageIndex": 149,
+      "textPath": "full_ocr_highdpi\\page-0149.txt",
+      "length": 2103,
+      "alphaRatio": 0.534
+    },
+    {
+      "globalPageIndex": 153,
+      "textPath": "full_ocr_highdpi\\page-0153.txt",
+      "length": 236,
+      "alphaRatio": 0.623
+    },
+    {
+      "globalPageIndex": 157,
+      "textPath": "full_ocr_highdpi\\page-0157.txt",
+      "length": 3159,
+      "alphaRatio": 0.107
+    },
+    {
+      "globalPageIndex": 159,
+      "textPath": "full_ocr_highdpi\\page-0159.txt",
+      "length": 4929,
+      "alphaRatio": 0.213
+    },
+    {
+      "globalPageIndex": 171,
+      "textPath": "full_ocr_highdpi\\page-0171.txt",
+      "length": 269,
+      "alphaRatio": 0.673
+    },
+    {
+      "globalPageIndex": 177,
+      "textPath": "full_ocr_highdpi\\page-0177.txt",
+      "length": 171,
+      "alphaRatio": 0.626
+    },
+    {
+      "globalPageIndex": 179,
+      "textPath": "full_ocr_highdpi\\page-0179.txt",
+      "length": 5136,
+      "alphaRatio": 0.732
+    },
+    {
+      "globalPageIndex": 180,
+      "textPath": "full_ocr_highdpi\\page-0180.txt",
+      "length": 1974,
+      "alphaRatio": 0.555
+    },
+    {
+      "globalPageIndex": 181,
+      "textPath": "full_ocr_highdpi\\page-0181.txt",
+      "length": 292,
+      "alphaRatio": 0.603
+    },
+    {
+      "globalPageIndex": 191,
+      "textPath": "full_ocr_highdpi\\page-0191.txt",
+      "length": 232,
+      "alphaRatio": 0.634
+    },
+    {
+      "globalPageIndex": 192,
+      "textPath": "full_ocr_highdpi\\page-0192.txt",
+      "length": 3607,
+      "alphaRatio": 0.766
+    },
+    {
+      "globalPageIndex": 195,
+      "textPath": "full_ocr_highdpi\\page-0195.txt",
+      "length": 6149,
+      "alphaRatio": 0.747
+    },
+    {
+      "globalPageIndex": 202,
+      "textPath": "full_ocr_highdpi\\page-0202.txt",
+      "length": 2038,
+      "alphaRatio": 0.158
+    },
+    {
+      "globalPageIndex": 203,
+      "textPath": "full_ocr_highdpi\\page-0203.txt",
+      "length": 4104,
+      "alphaRatio": 0.106
+    },
+    {
+      "globalPageIndex": 204,
+      "textPath": "full_ocr_highdpi\\page-0204.txt",
+      "length": 4432,
+      "alphaRatio": 0.092
+    },
+    {
+      "globalPageIndex": 205,
+      "textPath": "full_ocr_highdpi\\page-0205.txt",
+      "length": 4499,
+      "alphaRatio": 0.093
+    },
+    {
+      "globalPageIndex": 207,
+      "textPath": "full_ocr_highdpi\\page-0207.txt",
+      "length": 3842,
+      "alphaRatio": 0.113
+    },
+    {
+      "globalPageIndex": 208,
+      "textPath": "full_ocr_highdpi\\page-0208.txt",
+      "length": 3802,
+      "alphaRatio": 0.225
+    },
+    {
+      "globalPageIndex": 210,
+      "textPath": "full_ocr_highdpi\\page-0210.txt",
+      "length": 152,
+      "alphaRatio": 0.632
+    },
+    {
+      "globalPageIndex": 211,
+      "textPath": "full_ocr_highdpi\\page-0211.txt",
+      "length": 3185,
+      "alphaRatio": 0.141
+    },
+    {
+      "globalPageIndex": 212,
+      "textPath": "full_ocr_highdpi\\page-0212.txt",
+      "length": 3410,
+      "alphaRatio": 0.096
+    },
+    {
+      "globalPageIndex": 213,
+      "textPath": "full_ocr_highdpi\\page-0213.txt",
+      "length": 2676,
+      "alphaRatio": 0.184
+    },
+    {
+      "globalPageIndex": 217,
+      "textPath": "full_ocr_highdpi\\page-0217.txt",
+      "length": 4509,
+      "alphaRatio": 0.738
+    },
+    {
+      "globalPageIndex": 220,
+      "textPath": "full_ocr_highdpi\\page-0220.txt",
+      "length": 2245,
+      "alphaRatio": 0.743
+    },
+    {
+      "globalPageIndex": 221,
+      "textPath": "full_ocr_highdpi\\page-0221.txt",
+      "length": 234,
+      "alphaRatio": 0.611
+    },
+    {
+      "globalPageIndex": 232,
+      "textPath": "full_ocr_highdpi\\page-0232.txt",
+      "length": 3692,
+      "alphaRatio": 0.77
+    },
+    {
+      "globalPageIndex": 240,
+      "textPath": "full_ocr_highdpi\\page-0240.txt",
+      "length": 5601,
+      "alphaRatio": 0.75
+    },
+    {
+      "globalPageIndex": 241,
+      "textPath": "full_ocr_highdpi\\page-0241.txt",
+      "length": 6241,
+      "alphaRatio": 0.72
+    },
+    {
+      "globalPageIndex": 245,
+      "textPath": "full_ocr_highdpi\\page-0245.txt",
+      "length": 4242,
+      "alphaRatio": 0.281
+    },
+    {
+      "globalPageIndex": 247,
+      "textPath": "full_ocr_highdpi\\page-0247.txt",
+      "length": 268,
+      "alphaRatio": 0.619
+    },
+    {
+      "globalPageIndex": 250,
+      "textPath": "full_ocr_highdpi\\page-0250.txt",
+      "length": 4239,
+      "alphaRatio": 0.743
+    },
+    {
+      "globalPageIndex": 251,
+      "textPath": "full_ocr_highdpi\\page-0251.txt",
+      "length": 2009,
+      "alphaRatio": 0.751
+    },
+    {
+      "globalPageIndex": 253,
+      "textPath": "full_ocr_highdpi\\page-0253.txt",
+      "length": 244,
+      "alphaRatio": 0.635
+    },
+    {
+      "globalPageIndex": 257,
+      "textPath": "full_ocr_highdpi\\page-0257.txt",
+      "length": 219,
+      "alphaRatio": 0.607
+    },
+    {
+      "globalPageIndex": 260,
+      "textPath": "full_ocr_highdpi\\page-0260.txt",
+      "length": 690,
+      "alphaRatio": 0.591
+    },
+    {
+      "globalPageIndex": 269,
+      "textPath": "full_ocr_highdpi\\page-0269.txt",
+      "length": 2291,
+      "alphaRatio": 0.2
+    },
+    {
+      "globalPageIndex": 270,
+      "textPath": "full_ocr_highdpi\\page-0270.txt",
+      "length": 4213,
+      "alphaRatio": 0.166
+    },
+    {
+      "globalPageIndex": 271,
+      "textPath": "full_ocr_highdpi\\page-0271.txt",
+      "length": 4082,
+      "alphaRatio": 0.147
+    },
+    {
+      "globalPageIndex": 273,
+      "textPath": "full_ocr_highdpi\\page-0273.txt",
+      "length": 3006,
+      "alphaRatio": 0.192
+    },
+    {
+      "globalPageIndex": 279,
+      "textPath": "full_ocr_highdpi\\page-0279.txt",
+      "length": 4632,
+      "alphaRatio": 0.752
+    },
+    {
+      "globalPageIndex": 281,
+      "textPath": "full_ocr_highdpi\\page-0281.txt",
+      "length": 203,
+      "alphaRatio": 0.631
+    },
+    {
+      "globalPageIndex": 285,
+      "textPath": "full_ocr_highdpi\\page-0285.txt",
+      "length": 269,
+      "alphaRatio": 0.688
+    },
+    {
+      "globalPageIndex": 299,
+      "textPath": "full_ocr_highdpi\\page-0299.txt",
+      "length": 261,
+      "alphaRatio": 0.655
+    },
+    {
+      "globalPageIndex": 302,
+      "textPath": "full_ocr_highdpi\\page-0302.txt",
+      "length": 2642,
+      "alphaRatio": 0.28
+    },
+    {
+      "globalPageIndex": 307,
+      "textPath": "full_ocr_highdpi\\page-0307.txt",
+      "length": 3197,
+      "alphaRatio": 0.711
+    },
+    {
+      "globalPageIndex": 313,
+      "textPath": "full_ocr_highdpi\\page-0313.txt",
+      "length": 206,
+      "alphaRatio": 0.626
+    },
+    {
+      "globalPageIndex": 317,
+      "textPath": "full_ocr_highdpi\\page-0317.txt",
+      "length": 211,
+      "alphaRatio": 0.64
+    },
+    {
+      "globalPageIndex": 321,
+      "textPath": "full_ocr_highdpi\\page-0321.txt",
+      "length": 232,
+      "alphaRatio": 0.664
+    },
+    {
+      "globalPageIndex": 325,
+      "textPath": "full_ocr_highdpi\\page-0325.txt",
+      "length": 240,
+      "alphaRatio": 0.629
+    },
+    {
+      "globalPageIndex": 326,
+      "textPath": "full_ocr_highdpi\\page-0326.txt",
+      "length": 4608,
+      "alphaRatio": 0.741
+    },
+    {
+      "globalPageIndex": 328,
+      "textPath": "full_ocr_highdpi\\page-0328.txt",
+      "length": 3347,
+      "alphaRatio": 0.714
+    },
+    {
+      "globalPageIndex": 331,
+      "textPath": "full_ocr_highdpi\\page-0331.txt",
+      "length": 2657,
+      "alphaRatio": 0.194
+    },
+    {
+      "globalPageIndex": 333,
+      "textPath": "full_ocr_highdpi\\page-0333.txt",
+      "length": 3335,
+      "alphaRatio": 0.172
+    },
+    {
+      "globalPageIndex": 334,
+      "textPath": "full_ocr_highdpi\\page-0334.txt",
+      "length": 3514,
+      "alphaRatio": 0.142
+    },
+    {
+      "globalPageIndex": 347,
+      "textPath": "full_ocr_highdpi\\page-0347.txt",
+      "length": 222,
+      "alphaRatio": 0.68
+    },
+    {
+      "globalPageIndex": 349,
+      "textPath": "full_ocr_highdpi\\page-0349.txt",
+      "length": 3520,
+      "alphaRatio": 0.75
+    },
+    {
+      "globalPageIndex": 359,
+      "textPath": "full_ocr_highdpi\\page-0359.txt",
+      "length": 4588,
+      "alphaRatio": 0.597
+    },
+    {
+      "globalPageIndex": 360,
+      "textPath": "full_ocr_highdpi\\page-0360.txt",
+      "length": 5564,
+      "alphaRatio": 0.71
+    },
+    {
+      "globalPageIndex": 363,
+      "textPath": "full_ocr_highdpi\\page-0363.txt",
+      "length": 221,
+      "alphaRatio": 0.665
+    },
+    {
+      "globalPageIndex": 367,
+      "textPath": "full_ocr_highdpi\\page-0367.txt",
+      "length": 246,
+      "alphaRatio": 0.646
+    },
+    {
+      "globalPageIndex": 368,
+      "textPath": "full_ocr_highdpi\\page-0368.txt",
+      "length": 2886,
+      "alphaRatio": 0.722
+    },
+    {
+      "globalPageIndex": 372,
+      "textPath": "full_ocr_highdpi\\page-0372.txt",
+      "length": 879,
+      "alphaRatio": 0.604
+    },
+    {
+      "globalPageIndex": 373,
+      "textPath": "full_ocr_highdpi\\page-0373.txt",
+      "length": 211,
+      "alphaRatio": 0.673
+    },
+    {
+      "globalPageIndex": 374,
+      "textPath": "full_ocr_highdpi\\page-0374.txt",
+      "length": 3075,
+      "alphaRatio": 0.723
+    },
+    {
+      "globalPageIndex": 382,
+      "textPath": "full_ocr_highdpi\\page-0382.txt",
+      "length": 2783,
+      "alphaRatio": 0.36
+    },
+    {
+      "globalPageIndex": 389,
+      "textPath": "full_ocr_highdpi\\page-0389.txt",
+      "length": 2151,
+      "alphaRatio": 0.743
+    },
+    {
+      "globalPageIndex": 391,
+      "textPath": "full_ocr_highdpi\\page-0391.txt",
+      "length": 282,
+      "alphaRatio": 0.663
+    },
+    {
+      "globalPageIndex": 394,
+      "textPath": "full_ocr_highdpi\\page-0394.txt",
+      "length": 4400,
+      "alphaRatio": 0.143
+    },
+    {
+      "globalPageIndex": 395,
+      "textPath": "full_ocr_highdpi\\page-0395.txt",
+      "length": 3812,
+      "alphaRatio": 0.14
+    },
+    {
+      "globalPageIndex": 396,
+      "textPath": "full_ocr_highdpi\\page-0396.txt",
+      "length": 4144,
+      "alphaRatio": 0.117
+    },
+    {
+      "globalPageIndex": 397,
+      "textPath": "full_ocr_highdpi\\page-0397.txt",
+      "length": 2937,
+      "alphaRatio": 0.208
+    },
+    {
+      "globalPageIndex": 409,
+      "textPath": "full_ocr_highdpi\\page-0409.txt",
+      "length": 3644,
+      "alphaRatio": 0.152
+    },
+    {
+      "globalPageIndex": 410,
+      "textPath": "full_ocr_highdpi\\page-0410.txt",
+      "length": 1864,
+      "alphaRatio": 0.092
+    },
+    {
+      "globalPageIndex": 415,
+      "textPath": "full_ocr_highdpi\\page-0415.txt",
+      "length": 4244,
+      "alphaRatio": 0.726
+    },
+    {
+      "globalPageIndex": 425,
+      "textPath": "full_ocr_highdpi\\page-0425.txt",
+      "length": 156,
+      "alphaRatio": 0.673
+    },
+    {
+      "globalPageIndex": 428,
+      "textPath": "full_ocr_highdpi\\page-0428.txt",
+      "length": 4062,
+      "alphaRatio": 0.699
+    },
+    {
+      "globalPageIndex": 431,
+      "textPath": "full_ocr_highdpi\\page-0431.txt",
+      "length": 157,
+      "alphaRatio": 0.701
+    },
+    {
+      "globalPageIndex": 434,
+      "textPath": "full_ocr_highdpi\\page-0434.txt",
+      "length": 4971,
+      "alphaRatio": 0.733
+    },
+    {
+      "globalPageIndex": 435,
+      "textPath": "full_ocr_highdpi\\page-0435.txt",
+      "length": 5217,
+      "alphaRatio": 0.749
+    },
+    {
+      "globalPageIndex": 437,
+      "textPath": "full_ocr_highdpi\\page-0437.txt",
+      "length": 159,
+      "alphaRatio": 0.698
+    },
+    {
+      "globalPageIndex": 441,
+      "textPath": "full_ocr_highdpi\\page-0441.txt",
+      "length": 5426,
+      "alphaRatio": 0.747
+    },
+    {
+      "globalPageIndex": 445,
+      "textPath": "full_ocr_highdpi\\page-0445.txt",
+      "length": 219,
+      "alphaRatio": 0.644
+    },
+    {
+      "globalPageIndex": 446,
+      "textPath": "full_ocr_highdpi\\page-0446.txt",
+      "length": 3146,
+      "alphaRatio": 0.78
+    },
+    {
+      "globalPageIndex": 447,
+      "textPath": "full_ocr_highdpi\\page-0447.txt",
+      "length": 5645,
+      "alphaRatio": 0.761
+    },
+    {
+      "globalPageIndex": 448,
+      "textPath": "full_ocr_highdpi\\page-0448.txt",
+      "length": 4602,
+      "alphaRatio": 0.751
+    },
+    {
+      "globalPageIndex": 451,
+      "textPath": "full_ocr_highdpi\\page-0451.txt",
+      "length": 243,
+      "alphaRatio": 0.7
+    },
+    {
+      "globalPageIndex": 453,
+      "textPath": "full_ocr_highdpi\\page-0453.txt",
+      "length": 939,
+      "alphaRatio": 0.272
+    },
+    {
+      "globalPageIndex": 455,
+      "textPath": "full_ocr_highdpi\\page-0455.txt",
+      "length": 5032,
+      "alphaRatio": 0.739
+    },
+    {
+      "globalPageIndex": 459,
+      "textPath": "full_ocr_highdpi\\page-0459.txt",
+      "length": 181,
+      "alphaRatio": 0.635
+    },
+    {
+      "globalPageIndex": 461,
+      "textPath": "full_ocr_highdpi\\page-0461.txt",
+      "length": 4400,
+      "alphaRatio": 0.097
+    },
+    {
+      "globalPageIndex": 462,
+      "textPath": "full_ocr_highdpi\\page-0462.txt",
+      "length": 5000,
+      "alphaRatio": 0.199
+    },
+    {
+      "globalPageIndex": 472,
+      "textPath": "full_ocr_highdpi\\page-0472.txt",
+      "length": 3711,
+      "alphaRatio": 0.743
+    },
+    {
+      "globalPageIndex": 475,
+      "textPath": "full_ocr_highdpi\\page-0475.txt",
+      "length": 245,
+      "alphaRatio": 0.616
+    },
+    {
+      "globalPageIndex": 476,
+      "textPath": "full_ocr_highdpi\\page-0476.txt",
+      "length": 4448,
+      "alphaRatio": 0.773
+    },
+    {
+      "globalPageIndex": 478,
+      "textPath": "full_ocr_highdpi\\page-0478.txt",
+      "length": 1973,
+      "alphaRatio": 0.744
+    },
+    {
+      "globalPageIndex": 479,
+      "textPath": "full_ocr_highdpi\\page-0479.txt",
+      "length": 243,
+      "alphaRatio": 0.663
+    },
+    {
+      "globalPageIndex": 480,
+      "textPath": "full_ocr_highdpi\\page-0480.txt",
+      "length": 3386,
+      "alphaRatio": 0.778
+    },
+    {
+      "globalPageIndex": 481,
+      "textPath": "full_ocr_highdpi\\page-0481.txt",
+      "length": 3118,
+      "alphaRatio": 0.725
+    },
+    {
+      "globalPageIndex": 483,
+      "textPath": "full_ocr_highdpi\\page-0483.txt",
+      "length": 221,
+      "alphaRatio": 0.638
+    },
+    {
+      "globalPageIndex": 484,
+      "textPath": "full_ocr_highdpi\\page-0484.txt",
+      "length": 3814,
+      "alphaRatio": 0.789
+    },
+    {
+      "globalPageIndex": 487,
+      "textPath": "full_ocr_highdpi\\page-0487.txt",
+      "length": 235,
+      "alphaRatio": 0.681
+    },
+    {
+      "globalPageIndex": 491,
+      "textPath": "full_ocr_highdpi\\page-0491.txt",
+      "length": 235,
+      "alphaRatio": 0.685
+    },
+    {
+      "globalPageIndex": 497,
+      "textPath": "full_ocr_highdpi\\page-0497.txt",
+      "length": 369,
+      "alphaRatio": 0.68
+    },
+    {
+      "globalPageIndex": 506,
+      "textPath": "full_ocr_highdpi\\page-0506.txt",
+      "length": 2495,
+      "alphaRatio": 0.273
+    },
+    {
+      "globalPageIndex": 507,
+      "textPath": "full_ocr_highdpi\\page-0507.txt",
+      "length": 2177,
+      "alphaRatio": 0.15
+    },
+    {
+      "globalPageIndex": 508,
+      "textPath": "full_ocr_highdpi\\page-0508.txt",
+      "length": 2477,
+      "alphaRatio": 0.102
+    },
+    {
+      "globalPageIndex": 517,
+      "textPath": "full_ocr_highdpi\\page-0517.txt",
+      "length": 227,
+      "alphaRatio": 0.648
+    },
+    {
+      "globalPageIndex": 518,
+      "textPath": "full_ocr_highdpi\\page-0518.txt",
+      "length": 3742,
+      "alphaRatio": 0.794
+    },
+    {
+      "globalPageIndex": 521,
+      "textPath": "full_ocr_highdpi\\page-0521.txt",
+      "length": 6205,
+      "alphaRatio": 0.724
+    },
+    {
+      "globalPageIndex": 523,
+      "textPath": "full_ocr_highdpi\\page-0523.txt",
+      "length": 5193,
+      "alphaRatio": 0.697
+    },
+    {
+      "globalPageIndex": 525,
+      "textPath": "full_ocr_highdpi\\page-0525.txt",
+      "length": 248,
+      "alphaRatio": 0.673
+    },
+    {
+      "globalPageIndex": 526,
+      "textPath": "full_ocr_highdpi\\page-0526.txt",
+      "length": 3135,
+      "alphaRatio": 0.767
+    },
+    {
+      "globalPageIndex": 527,
+      "textPath": "full_ocr_highdpi\\page-0527.txt",
+      "length": 4952,
+      "alphaRatio": 0.742
+    },
+    {
+      "globalPageIndex": 530,
+      "textPath": "full_ocr_highdpi\\page-0530.txt",
+      "length": 5040,
+      "alphaRatio": 0.689
+    },
+    {
+      "globalPageIndex": 531,
+      "textPath": "full_ocr_highdpi\\page-0531.txt",
+      "length": 5087,
+      "alphaRatio": 0.762
+    },
+    {
+      "globalPageIndex": 535,
+      "textPath": "full_ocr_highdpi\\page-0535.txt",
+      "length": 272,
+      "alphaRatio": 0.699
+    },
+    {
+      "globalPageIndex": 536,
+      "textPath": "full_ocr_highdpi\\page-0536.txt",
+      "length": 3134,
+      "alphaRatio": 0.762
+    },
+    {
+      "globalPageIndex": 539,
+      "textPath": "full_ocr_highdpi\\page-0539.txt",
+      "length": 5741,
+      "alphaRatio": 0.674
+    },
+    {
+      "globalPageIndex": 543,
+      "textPath": "full_ocr_highdpi\\page-0543.txt",
+      "length": 1585,
+      "alphaRatio": 0.72
+    },
+    {
+      "globalPageIndex": 545,
+      "textPath": "full_ocr_highdpi\\page-0545.txt",
+      "length": 238,
+      "alphaRatio": 0.672
+    },
+    {
+      "globalPageIndex": 555,
+      "textPath": "full_ocr_highdpi\\page-0555.txt",
+      "length": 1569,
+      "alphaRatio": 0.725
+    },
+    {
+      "globalPageIndex": 558,
+      "textPath": "full_ocr_highdpi\\page-0558.txt",
+      "length": 4458,
+      "alphaRatio": 0.766
+    },
+    {
+      "globalPageIndex": 559,
+      "textPath": "full_ocr_highdpi\\page-0559.txt",
+      "length": 2299,
+      "alphaRatio": 0.205
+    },
+    {
+      "globalPageIndex": 571,
+      "textPath": "full_ocr_highdpi\\page-0571.txt",
+      "length": 1140,
+      "alphaRatio": 0.218
+    },
+    {
+      "globalPageIndex": 574,
+      "textPath": "full_ocr_highdpi\\page-0574.txt",
+      "length": 6632,
+      "alphaRatio": 0.767
+    },
+    {
+      "globalPageIndex": 583,
+      "textPath": "full_ocr_highdpi\\page-0583.txt",
+      "length": 4120,
+      "alphaRatio": 0.749
+    },
+    {
+      "globalPageIndex": 591,
+      "textPath": "full_ocr_highdpi\\page-0591.txt",
+      "length": 212,
+      "alphaRatio": 0.656
+    },
+    {
+      "globalPageIndex": 593,
+      "textPath": "full_ocr_highdpi\\page-0593.txt",
+      "length": 5266,
+      "alphaRatio": 0.761
+    },
+    {
+      "globalPageIndex": 599,
+      "textPath": "full_ocr_highdpi\\page-0599.txt",
+      "length": 275,
+      "alphaRatio": 0.68
+    },
+    {
+      "globalPageIndex": 605,
+      "textPath": "full_ocr_highdpi\\page-0605.txt",
+      "length": 248,
+      "alphaRatio": 0.645
+    },
+    {
+      "globalPageIndex": 609,
+      "textPath": "full_ocr_highdpi\\page-0609.txt",
+      "length": 257,
+      "alphaRatio": 0.712
+    },
+    {
+      "globalPageIndex": 611,
+      "textPath": "full_ocr_highdpi\\page-0611.txt",
+      "length": 5647,
+      "alphaRatio": 0.761
+    },
+    {
+      "globalPageIndex": 613,
+      "textPath": "full_ocr_highdpi\\page-0613.txt",
+      "length": 4236,
+      "alphaRatio": 0.172
+    },
+    {
+      "globalPageIndex": 618,
+      "textPath": "full_ocr_highdpi\\page-0618.txt",
+      "length": 3234,
+      "alphaRatio": 0.776
+    },
+    {
+      "globalPageIndex": 624,
+      "textPath": "full_ocr_highdpi\\page-0624.txt",
+      "length": 4930,
+      "alphaRatio": 0.766
+    },
+    {
+      "globalPageIndex": 635,
+      "textPath": "full_ocr_highdpi\\page-0635.txt",
+      "length": 137,
+      "alphaRatio": 0.737
+    },
+    {
+      "globalPageIndex": 644,
+      "textPath": "full_ocr_highdpi\\page-0644.txt",
+      "length": 4252,
+      "alphaRatio": 0.584
+    },
+    {
+      "globalPageIndex": 647,
+      "textPath": "full_ocr_highdpi\\page-0647.txt",
+      "length": 4807,
+      "alphaRatio": 0.756
+    },
+    {
+      "globalPageIndex": 649,
+      "textPath": "full_ocr_highdpi\\page-0649.txt",
+      "length": 3798,
+      "alphaRatio": 0.183
+    },
+    {
+      "globalPageIndex": 652,
+      "textPath": "full_ocr_highdpi\\page-0652.txt",
+      "length": 5652,
+      "alphaRatio": 0.046
+    },
+    {
+      "globalPageIndex": 653,
+      "textPath": "full_ocr_highdpi\\page-0653.txt",
+      "length": 4702,
+      "alphaRatio": 0.074
+    },
+    {
+      "globalPageIndex": 655,
+      "textPath": "full_ocr_highdpi\\page-0655.txt",
+      "length": 4934,
+      "alphaRatio": 0.727
+    },
+    {
+      "globalPageIndex": 659,
+      "textPath": "full_ocr_highdpi\\page-0659.txt",
+      "length": 3175,
+      "alphaRatio": 0.676
+    },
+    {
+      "globalPageIndex": 661,
+      "textPath": "full_ocr_highdpi\\page-0661.txt",
+      "length": 3277,
+      "alphaRatio": 0.556
+    },
+    {
+      "globalPageIndex": 665,
+      "textPath": "full_ocr_highdpi\\page-0665.txt",
+      "length": 4242,
+      "alphaRatio": 0.735
+    },
+    {
+      "globalPageIndex": 683,
+      "textPath": "full_ocr_highdpi\\page-0683.txt",
+      "length": 226,
+      "alphaRatio": 0.664
+    },
+    {
+      "globalPageIndex": 684,
+      "textPath": "full_ocr_highdpi\\page-0684.txt",
+      "length": 3066,
+      "alphaRatio": 0.736
+    },
+    {
+      "globalPageIndex": 697,
+      "textPath": "full_ocr_highdpi\\page-0697.txt",
+      "length": 217,
+      "alphaRatio": 0.664
+    },
+    {
+      "globalPageIndex": 703,
+      "textPath": "full_ocr_highdpi\\page-0703.txt",
+      "length": 245,
+      "alphaRatio": 0.678
+    },
+    {
+      "globalPageIndex": 709,
+      "textPath": "full_ocr_highdpi\\page-0709.txt",
+      "length": 3640,
+      "alphaRatio": 0.715
+    },
+    {
+      "globalPageIndex": 717,
+      "textPath": "full_ocr_highdpi\\page-0717.txt",
+      "length": 214,
+      "alphaRatio": 0.579
+    },
+    {
+      "globalPageIndex": 719,
+      "textPath": "full_ocr_highdpi\\page-0719.txt",
+      "length": 4027,
+      "alphaRatio": 0.621
+    },
+    {
+      "globalPageIndex": 726,
+      "textPath": "full_ocr_highdpi\\page-0726.txt",
+      "length": 3823,
+      "alphaRatio": 0.212
+    },
+    {
+      "globalPageIndex": 738,
+      "textPath": "full_ocr_highdpi\\page-0738.txt",
+      "length": 5831,
+      "alphaRatio": 0.752
+    },
+    {
+      "globalPageIndex": 743,
+      "textPath": "full_ocr_highdpi\\page-0743.txt",
+      "length": 233,
+      "alphaRatio": 0.652
+    },
+    {
+      "globalPageIndex": 751,
+      "textPath": "full_ocr_highdpi\\page-0751.txt",
+      "length": 4990,
+      "alphaRatio": 0.74
+    },
+    {
+      "globalPageIndex": 757,
+      "textPath": "full_ocr_highdpi\\page-0757.txt",
+      "length": 211,
+      "alphaRatio": 0.654
+    },
+    {
+      "globalPageIndex": 761,
+      "textPath": "full_ocr_highdpi\\page-0761.txt",
+      "length": 237,
+      "alphaRatio": 0.667
+    },
+    {
+      "globalPageIndex": 767,
+      "textPath": "full_ocr_highdpi\\page-0767.txt",
+      "length": 272,
+      "alphaRatio": 0.669
+    },
+    {
+      "globalPageIndex": 771,
+      "textPath": "full_ocr_highdpi\\page-0771.txt",
+      "length": 256,
+      "alphaRatio": 0.691
+    },
+    {
+      "globalPageIndex": 776,
+      "textPath": "full_ocr_highdpi\\page-0776.txt",
+      "length": 582,
+      "alphaRatio": 0.689
+    },
+    {
+      "globalPageIndex": 787,
+      "textPath": "full_ocr_highdpi\\page-0787.txt",
+      "length": 222,
+      "alphaRatio": 0.649
+    },
+    {
+      "globalPageIndex": 791,
+      "textPath": "full_ocr_highdpi\\page-0791.txt",
+      "length": 5161,
+      "alphaRatio": 0.746
+    },
+    {
+      "globalPageIndex": 793,
+      "textPath": "full_ocr_highdpi\\page-0793.txt",
+      "length": 5475,
+      "alphaRatio": 0.75
+    },
+    {
+      "globalPageIndex": 851,
+      "textPath": "full_ocr_highdpi\\page-0851.txt",
+      "length": 258,
+      "alphaRatio": 0.64
+    },
+    {
+      "globalPageIndex": 857,
+      "textPath": "full_ocr_highdpi\\page-0857.txt",
+      "length": 243,
+      "alphaRatio": 0.658
+    },
+    {
+      "globalPageIndex": 863,
+      "textPath": "full_ocr_highdpi\\page-0863.txt",
+      "length": 2067,
+      "alphaRatio": 0.514
+    },
+    {
+      "globalPageIndex": 865,
+      "textPath": "full_ocr_highdpi\\page-0865.txt",
+      "length": 239,
+      "alphaRatio": 0.607
+    },
+    {
+      "globalPageIndex": 866,
+      "textPath": "full_ocr_highdpi\\page-0866.txt",
+      "length": 3615,
+      "alphaRatio": 0.767
+    },
+    {
+      "globalPageIndex": 869,
+      "textPath": "full_ocr_highdpi\\page-0869.txt",
+      "length": 273,
+      "alphaRatio": 0.619
+    },
+    {
+      "globalPageIndex": 877,
+      "textPath": "full_ocr_highdpi\\page-0877.txt",
+      "length": 243,
+      "alphaRatio": 0.654
+    },
+    {
+      "globalPageIndex": 880,
+      "textPath": "full_ocr_highdpi\\page-0880.txt",
+      "length": 5326,
+      "alphaRatio": 0.094
+    },
+    {
+      "globalPageIndex": 885,
+      "textPath": "full_ocr_highdpi\\page-0885.txt",
+      "length": 278,
+      "alphaRatio": 0.73
+    },
+    {
+      "globalPageIndex": 887,
+      "textPath": "full_ocr_highdpi\\page-0887.txt",
+      "length": 281,
+      "alphaRatio": 0.651
+    },
+    {
+      "globalPageIndex": 901,
+      "textPath": "full_ocr_highdpi\\page-0901.txt",
+      "length": 3399,
+      "alphaRatio": 0.528
+    },
+    {
+      "globalPageIndex": 905,
+      "textPath": "full_ocr_highdpi\\page-0905.txt",
+      "length": 2513,
+      "alphaRatio": 0.538
+    },
+    {
+      "globalPageIndex": 910,
+      "textPath": "full_ocr_highdpi\\page-0910.txt",
+      "length": 3093,
+      "alphaRatio": 0.739
+    },
+    {
+      "globalPageIndex": 913,
+      "textPath": "full_ocr_highdpi\\page-0913.txt",
+      "length": 209,
+      "alphaRatio": 0.632
+    },
+    {
+      "globalPageIndex": 916,
+      "textPath": "full_ocr_highdpi\\page-0916.txt",
+      "length": 5814,
+      "alphaRatio": 0.771
+    },
+    {
+      "globalPageIndex": 924,
+      "textPath": "full_ocr_highdpi\\page-0924.txt",
+      "length": 5523,
+      "alphaRatio": 0.764
+    },
+    {
+      "globalPageIndex": 927,
+      "textPath": "full_ocr_highdpi\\page-0927.txt",
+      "length": 229,
+      "alphaRatio": 0.62
+    },
+    {
+      "globalPageIndex": 935,
+      "textPath": "full_ocr_highdpi\\page-0935.txt",
+      "length": 264,
+      "alphaRatio": 0.663
+    },
+    {
+      "globalPageIndex": 940,
+      "textPath": "full_ocr_highdpi\\page-0940.txt",
+      "length": 6197,
+      "alphaRatio": 0.719
+    },
+    {
+      "globalPageIndex": 943,
+      "textPath": "full_ocr_highdpi\\page-0943.txt",
+      "length": 3903,
+      "alphaRatio": 0.711
+    },
+    {
+      "globalPageIndex": 952,
+      "textPath": "full_ocr_highdpi\\page-0952.txt",
+      "length": 3205,
+      "alphaRatio": 0.153
+    },
+    {
+      "globalPageIndex": 953,
+      "textPath": "full_ocr_highdpi\\page-0953.txt",
+      "length": 2811,
+      "alphaRatio": 0.184
+    },
+    {
+      "globalPageIndex": 965,
+      "textPath": "full_ocr_highdpi\\page-0965.txt",
+      "length": 3219,
+      "alphaRatio": 0.708
+    },
+    {
+      "globalPageIndex": 967,
+      "textPath": "full_ocr_highdpi\\page-0967.txt",
+      "length": 227,
+      "alphaRatio": 0.643
+    },
+    {
+      "globalPageIndex": 971,
+      "textPath": "full_ocr_highdpi\\page-0971.txt",
+      "length": 222,
+      "alphaRatio": 0.644
+    },
+    {
+      "globalPageIndex": 975,
+      "textPath": "full_ocr_highdpi\\page-0975.txt",
+      "length": 277,
+      "alphaRatio": 0.653
+    },
+    {
+      "globalPageIndex": 978,
+      "textPath": "full_ocr_highdpi\\page-0978.txt",
+      "length": 2847,
+      "alphaRatio": 0.671
+    },
+    {
+      "globalPageIndex": 979,
+      "textPath": "full_ocr_highdpi\\page-0979.txt",
+      "length": 280,
+      "alphaRatio": 0.643
+    },
+    {
+      "globalPageIndex": 985,
+      "textPath": "full_ocr_highdpi\\page-0985.txt",
+      "length": 308,
+      "alphaRatio": 0.675
+    },
+    {
+      "globalPageIndex": 986,
+      "textPath": "full_ocr_highdpi\\page-0986.txt",
+      "length": 3645,
+      "alphaRatio": 0.743
+    },
+    {
+      "globalPageIndex": 989,
+      "textPath": "full_ocr_highdpi\\page-0989.txt",
+      "length": 5615,
+      "alphaRatio": 0.731
+    },
+    {
+      "globalPageIndex": 991,
+      "textPath": "full_ocr_highdpi\\page-0991.txt",
+      "length": 4000,
+      "alphaRatio": 0.122
+    },
+    {
+      "globalPageIndex": 992,
+      "textPath": "full_ocr_highdpi\\page-0992.txt",
+      "length": 3477,
+      "alphaRatio": 0.042
+    },
+    {
+      "globalPageIndex": 993,
+      "textPath": "full_ocr_highdpi\\page-0993.txt",
+      "length": 202,
+      "alphaRatio": 0.634
+    },
+    {
+      "globalPageIndex": 1001,
+      "textPath": "full_ocr_highdpi\\page-1001.txt",
+      "length": 3380,
+      "alphaRatio": 0.235
+    },
+    {
+      "globalPageIndex": 1003,
+      "textPath": "full_ocr_highdpi\\page-1003.txt",
+      "length": 287,
+      "alphaRatio": 0.662
+    },
+    {
+      "globalPageIndex": 1005,
+      "textPath": "full_ocr_highdpi\\page-1005.txt",
+      "length": 4497,
+      "alphaRatio": 0.637
+    },
+    {
+      "globalPageIndex": 1007,
+      "textPath": "full_ocr_highdpi\\page-1007.txt",
+      "length": 243,
+      "alphaRatio": 0.63
+    },
+    {
+      "globalPageIndex": 1011,
+      "textPath": "full_ocr_highdpi\\page-1011.txt",
+      "length": 210,
+      "alphaRatio": 0.619
+    },
+    {
+      "globalPageIndex": 1015,
+      "textPath": "full_ocr_highdpi\\page-1015.txt",
+      "length": 3343,
+      "alphaRatio": 0.307
+    },
+    {
+      "globalPageIndex": 1018,
+      "textPath": "full_ocr_highdpi\\page-1018.txt",
+      "length": 898,
+      "alphaRatio": 0.542
+    },
+    {
+      "globalPageIndex": 1019,
+      "textPath": "full_ocr_highdpi\\page-1019.txt",
+      "length": 277,
+      "alphaRatio": 0.606
+    },
+    {
+      "globalPageIndex": 1026,
+      "textPath": "full_ocr_highdpi\\page-1026.txt",
+      "length": 3920,
+      "alphaRatio": 0.762
+    },
+    {
+      "globalPageIndex": 1029,
+      "textPath": "full_ocr_highdpi\\page-1029.txt",
+      "length": 274,
+      "alphaRatio": 0.642
+    },
+    {
+      "globalPageIndex": 1032,
+      "textPath": "full_ocr_highdpi\\page-1032.txt",
+      "length": 2970,
+      "alphaRatio": 0.663
+    },
+    {
+      "globalPageIndex": 1035,
+      "textPath": "full_ocr_highdpi\\page-1035.txt",
+      "length": 257,
+      "alphaRatio": 0.654
+    },
+    {
+      "globalPageIndex": 1037,
+      "textPath": "full_ocr_highdpi\\page-1037.txt",
+      "length": 2882,
+      "alphaRatio": 0.656
+    },
+    {
+      "globalPageIndex": 1039,
+      "textPath": "full_ocr_highdpi\\page-1039.txt",
+      "length": 252,
+      "alphaRatio": 0.611
+    },
+    {
+      "globalPageIndex": 1041,
+      "textPath": "full_ocr_highdpi\\page-1041.txt",
+      "length": 4931,
+      "alphaRatio": 0.668
+    },
+    {
+      "globalPageIndex": 1043,
+      "textPath": "full_ocr_highdpi\\page-1043.txt",
+      "length": 222,
+      "alphaRatio": 0.59
+    },
+    {
+      "globalPageIndex": 1046,
+      "textPath": "full_ocr_highdpi\\page-1046.txt",
+      "length": 2975,
+      "alphaRatio": 0.677
+    },
+    {
+      "globalPageIndex": 1049,
+      "textPath": "full_ocr_highdpi\\page-1049.txt",
+      "length": 281,
+      "alphaRatio": 0.637
+    },
+    {
+      "globalPageIndex": 1051,
+      "textPath": "full_ocr_highdpi\\page-1051.txt",
+      "length": 1537,
+      "alphaRatio": 0.671
+    },
+    {
+      "globalPageIndex": 1053,
+      "textPath": "full_ocr_highdpi\\page-1053.txt",
+      "length": 270,
+      "alphaRatio": 0.648
+    },
+    {
+      "globalPageIndex": 1055,
+      "textPath": "full_ocr_highdpi\\page-1055.txt",
+      "length": 4285,
+      "alphaRatio": 0.737
+    },
+    {
+      "globalPageIndex": 1063,
+      "textPath": "full_ocr_highdpi\\page-1063.txt",
+      "length": 185,
+      "alphaRatio": 0.692
+    },
+    {
+      "globalPageIndex": 1065,
+      "textPath": "full_ocr_highdpi\\page-1065.txt",
+      "length": 243,
+      "alphaRatio": 0.654
+    },
+    {
+      "globalPageIndex": 1078,
+      "textPath": "full_ocr_highdpi\\page-1078.txt",
+      "length": 4975,
+      "alphaRatio": 0.73
+    },
+    {
+      "globalPageIndex": 1079,
+      "textPath": "full_ocr_highdpi\\page-1079.txt",
+      "length": 5633,
+      "alphaRatio": 0.725
+    },
+    {
+      "globalPageIndex": 1084,
+      "textPath": "full_ocr_highdpi\\page-1084.txt",
+      "length": 4964,
+      "alphaRatio": 0.634
+    },
+    {
+      "globalPageIndex": 1085,
+      "textPath": "full_ocr_highdpi\\page-1085.txt",
+      "length": 4693,
+      "alphaRatio": 0.677
+    },
+    {
+      "globalPageIndex": 1087,
+      "textPath": "full_ocr_highdpi\\page-1087.txt",
+      "length": 4868,
+      "alphaRatio": 0.665
+    },
+    {
+      "globalPageIndex": 1088,
+      "textPath": "full_ocr_highdpi\\page-1088.txt",
+      "length": 5901,
+      "alphaRatio": 0.781
+    },
+    {
+      "globalPageIndex": 1089,
+      "textPath": "full_ocr_highdpi\\page-1089.txt",
+      "length": 3668,
+      "alphaRatio": 0.683
+    },
+    {
+      "globalPageIndex": 1090,
+      "textPath": "full_ocr_highdpi\\page-1090.txt",
+      "length": 4129,
+      "alphaRatio": 0.616
+    },
+    {
+      "globalPageIndex": 1102,
+      "textPath": "full_ocr_highdpi\\page-1102.txt",
+      "length": 1228,
+      "alphaRatio": 0.19
+    },
+    {
+      "globalPageIndex": 1105,
+      "textPath": "full_ocr_highdpi\\page-1105.txt",
+      "length": 4682,
+      "alphaRatio": 0.628
+    },
+    {
+      "globalPageIndex": 1110,
+      "textPath": "full_ocr_highdpi\\page-1110.txt",
+      "length": 4816,
+      "alphaRatio": 0.747
+    },
+    {
+      "globalPageIndex": 1117,
+      "textPath": "full_ocr_highdpi\\page-1117.txt",
+      "length": 203,
+      "alphaRatio": 0.68
+    },
+    {
+      "globalPageIndex": 1123,
+      "textPath": "full_ocr_highdpi\\page-1123.txt",
+      "length": 290,
+      "alphaRatio": 0.617
+    },
+    {
+      "globalPageIndex": 1127,
+      "textPath": "full_ocr_highdpi\\page-1127.txt",
+      "length": 261,
+      "alphaRatio": 0.632
+    },
+    {
+      "globalPageIndex": 1133,
+      "textPath": "full_ocr_highdpi\\page-1133.txt",
+      "length": 4978,
+      "alphaRatio": 0.773
+    },
+    {
+      "globalPageIndex": 1136,
+      "textPath": "full_ocr_highdpi\\page-1136.txt",
+      "length": 1315,
+      "alphaRatio": 0.526
+    },
+    {
+      "globalPageIndex": 1141,
+      "textPath": "full_ocr_highdpi\\page-1141.txt",
+      "length": 282,
+      "alphaRatio": 0.642
+    },
+    {
+      "globalPageIndex": 1143,
+      "textPath": "full_ocr_highdpi\\page-1143.txt",
+      "length": 2143,
+      "alphaRatio": 0.661
+    },
+    {
+      "globalPageIndex": 1145,
+      "textPath": "full_ocr_highdpi\\page-1145.txt",
+      "length": 294,
+      "alphaRatio": 0.673
+    },
+    {
+      "globalPageIndex": 1149,
+      "textPath": "full_ocr_highdpi\\page-1149.txt",
+      "length": 1598,
+      "alphaRatio": 0.47
+    },
+    {
+      "globalPageIndex": 1151,
+      "textPath": "full_ocr_highdpi\\page-1151.txt",
+      "length": 228,
+      "alphaRatio": 0.596
+    },
+    {
+      "globalPageIndex": 1159,
+      "textPath": "full_ocr_highdpi\\page-1159.txt",
+      "length": 232,
+      "alphaRatio": 0.638
+    },
+    {
+      "globalPageIndex": 1163,
+      "textPath": "full_ocr_highdpi\\page-1163.txt",
+      "length": 195,
+      "alphaRatio": 0.677
+    },
+    {
+      "globalPageIndex": 1164,
+      "textPath": "full_ocr_highdpi\\page-1164.txt",
+      "length": 2952,
+      "alphaRatio": 0.713
+    },
+    {
+      "globalPageIndex": 1165,
+      "textPath": "full_ocr_highdpi\\page-1165.txt",
+      "length": 5105,
+      "alphaRatio": 0.756
+    },
+    {
+      "globalPageIndex": 1169,
+      "textPath": "full_ocr_highdpi\\page-1169.txt",
+      "length": 272,
+      "alphaRatio": 0.647
+    },
+    {
+      "globalPageIndex": 1173,
+      "textPath": "full_ocr_highdpi\\page-1173.txt",
+      "length": 174,
+      "alphaRatio": 0.713
+    },
+    {
+      "globalPageIndex": 1176,
+      "textPath": "full_ocr_highdpi\\page-1176.txt",
+      "length": 1786,
+      "alphaRatio": 0.188
+    },
+    {
+      "globalPageIndex": 1177,
+      "textPath": "full_ocr_highdpi\\page-1177.txt",
+      "length": 2230,
+      "alphaRatio": 0.162
+    },
+    {
+      "globalPageIndex": 1178,
+      "textPath": "full_ocr_highdpi\\page-1178.txt",
+      "length": 2580,
+      "alphaRatio": 0.154
+    },
+    {
+      "globalPageIndex": 1206,
+      "textPath": "full_ocr_highdpi\\page-1206.txt",
+      "length": 1350,
+      "alphaRatio": 0.713
+    },
+    {
+      "globalPageIndex": 1207,
+      "textPath": "full_ocr_highdpi\\page-1207.txt",
+      "length": 236,
+      "alphaRatio": 0.627
+    },
+    {
+      "globalPageIndex": 1220,
+      "textPath": "full_ocr_highdpi\\page-1220.txt",
+      "length": 4815,
+      "alphaRatio": 0.746
+    },
+    {
+      "globalPageIndex": 1223,
+      "textPath": "full_ocr_highdpi\\page-1223.txt",
+      "length": 242,
+      "alphaRatio": 0.665
+    },
+    {
+      "globalPageIndex": 1228,
+      "textPath": "full_ocr_highdpi\\page-1228.txt",
+      "length": 2874,
+      "alphaRatio": 0.229
+    },
+    {
+      "globalPageIndex": 1229,
+      "textPath": "full_ocr_highdpi\\page-1229.txt",
+      "length": 2898,
+      "alphaRatio": 0.274
+    },
+    {
+      "globalPageIndex": 1233,
+      "textPath": "full_ocr_highdpi\\page-1233.txt",
+      "length": 199,
+      "alphaRatio": 0.683
+    },
+    {
+      "globalPageIndex": 1234,
+      "textPath": "full_ocr_highdpi\\page-1234.txt",
+      "length": 3428,
+      "alphaRatio": 0.708
+    },
+    {
+      "globalPageIndex": 1237,
+      "textPath": "full_ocr_highdpi\\page-1237.txt",
+      "length": 215,
+      "alphaRatio": 0.619
+    },
+    {
+      "globalPageIndex": 1242,
+      "textPath": "full_ocr_highdpi\\page-1242.txt",
+      "length": 5877,
+      "alphaRatio": 0.778
+    },
+    {
+      "globalPageIndex": 1251,
+      "textPath": "full_ocr_highdpi\\page-1251.txt",
+      "length": 184,
+      "alphaRatio": 0.582
+    },
+    {
+      "globalPageIndex": 1265,
+      "textPath": "full_ocr_highdpi\\page-1265.txt",
+      "length": 282,
+      "alphaRatio": 0.642
+    },
+    {
+      "globalPageIndex": 1267,
+      "textPath": "full_ocr_highdpi\\page-1267.txt",
+      "length": 227,
+      "alphaRatio": 0.63
+    },
+    {
+      "globalPageIndex": 1269,
+      "textPath": "full_ocr_highdpi\\page-1269.txt",
+      "length": 5011,
+      "alphaRatio": 0.715
+    },
+    {
+      "globalPageIndex": 1273,
+      "textPath": "full_ocr_highdpi\\page-1273.txt",
+      "length": 3247,
+      "alphaRatio": 0.644
+    },
+    {
+      "globalPageIndex": 1275,
+      "textPath": "full_ocr_highdpi\\page-1275.txt",
+      "length": 222,
+      "alphaRatio": 0.626
+    },
+    {
+      "globalPageIndex": 1277,
+      "textPath": "full_ocr_highdpi\\page-1277.txt",
+      "length": 3356,
+      "alphaRatio": 0.664
+    },
+    {
+      "globalPageIndex": 1282,
+      "textPath": "full_ocr_highdpi\\page-1282.txt",
+      "length": 2216,
+      "alphaRatio": 0.491
+    },
+    {
+      "globalPageIndex": 1284,
+      "textPath": "full_ocr_highdpi\\page-1284.txt",
+      "length": 3245,
+      "alphaRatio": 0.738
+    },
+    {
+      "globalPageIndex": 1285,
+      "textPath": "full_ocr_highdpi\\page-1285.txt",
+      "length": 3257,
+      "alphaRatio": 0.69
+    },
+    {
+      "globalPageIndex": 1289,
+      "textPath": "full_ocr_highdpi\\page-1289.txt",
+      "length": 2827,
+      "alphaRatio": 0.712
+    },
+    {
+      "globalPageIndex": 1291,
+      "textPath": "full_ocr_highdpi\\page-1291.txt",
+      "length": 262,
+      "alphaRatio": 0.641
+    },
+    {
+      "globalPageIndex": 1305,
+      "textPath": "full_ocr_highdpi\\page-1305.txt",
+      "length": 5008,
+      "alphaRatio": 0.77
+    },
+    {
+      "globalPageIndex": 1311,
+      "textPath": "full_ocr_highdpi\\page-1311.txt",
+      "length": 266,
+      "alphaRatio": 0.639
+    },
+    {
+      "globalPageIndex": 1312,
+      "textPath": "full_ocr_highdpi\\page-1312.txt",
+      "length": 3689,
+      "alphaRatio": 0.746
+    },
+    {
+      "globalPageIndex": 1313,
+      "textPath": "full_ocr_highdpi\\page-1313.txt",
+      "length": 3399,
+      "alphaRatio": 0.684
+    },
+    {
+      "globalPageIndex": 1317,
+      "textPath": "full_ocr_highdpi\\page-1317.txt",
+      "length": 246,
+      "alphaRatio": 0.63
+    },
+    {
+      "globalPageIndex": 1320,
+      "textPath": "full_ocr_highdpi\\page-1320.txt",
+      "length": 5094,
+      "alphaRatio": 0.775
+    },
+    {
+      "globalPageIndex": 1333,
+      "textPath": "full_ocr_highdpi\\page-1333.txt",
+      "length": 199,
+      "alphaRatio": 0.628
+    },
+    {
+      "globalPageIndex": 1347,
+      "textPath": "full_ocr_highdpi\\page-1347.txt",
+      "length": 272,
+      "alphaRatio": 0.621
+    },
+    {
+      "globalPageIndex": 1350,
+      "textPath": "full_ocr_highdpi\\page-1350.txt",
+      "length": 3991,
+      "alphaRatio": 0.586
+    },
+    {
+      "globalPageIndex": 1355,
+      "textPath": "full_ocr_highdpi\\page-1355.txt",
+      "length": 249,
+      "alphaRatio": 0.627
+    },
+    {
+      "globalPageIndex": 1360,
+      "textPath": "full_ocr_highdpi\\page-1360.txt",
+      "length": 2174,
+      "alphaRatio": 0.177
+    },
+    {
+      "globalPageIndex": 1367,
+      "textPath": "full_ocr_highdpi\\page-1367.txt",
+      "length": 235,
+      "alphaRatio": 0.613
+    },
+    {
+      "globalPageIndex": 1371,
+      "textPath": "full_ocr_highdpi\\page-1371.txt",
+      "length": 4733,
+      "alphaRatio": 0.692
+    },
+    {
+      "globalPageIndex": 1377,
+      "textPath": "full_ocr_highdpi\\page-1377.txt",
+      "length": 4277,
+      "alphaRatio": 0.478
+    },
+    {
+      "globalPageIndex": 1385,
+      "textPath": "full_ocr_highdpi\\page-1385.txt",
+      "length": 231,
+      "alphaRatio": 0.597
+    },
+    {
+      "globalPageIndex": 1386,
+      "textPath": "full_ocr_highdpi\\page-1386.txt",
+      "length": 3840,
+      "alphaRatio": 0.751
+    },
+    {
+      "globalPageIndex": 1388,
+      "textPath": "full_ocr_highdpi\\page-1388.txt",
+      "length": 4425,
+      "alphaRatio": 0.232
+    },
+    {
+      "globalPageIndex": 1393,
+      "textPath": "full_ocr_highdpi\\page-1393.txt",
+      "length": 297,
+      "alphaRatio": 0.636
+    },
+    {
+      "globalPageIndex": 1399,
+      "textPath": "full_ocr_highdpi\\page-1399.txt",
+      "length": 4500,
+      "alphaRatio": 0.752
+    },
+    {
+      "globalPageIndex": 1401,
+      "textPath": "full_ocr_highdpi\\page-1401.txt",
+      "length": 212,
+      "alphaRatio": 0.623
+    },
+    {
+      "globalPageIndex": 1407,
+      "textPath": "full_ocr_highdpi\\page-1407.txt",
+      "length": 197,
+      "alphaRatio": 0.624
+    },
+    {
+      "globalPageIndex": 1413,
+      "textPath": "full_ocr_highdpi\\page-1413.txt",
+      "length": 268,
+      "alphaRatio": 0.642
+    },
+    {
+      "globalPageIndex": 1414,
+      "textPath": "full_ocr_highdpi\\page-1414.txt",
+      "length": 3583,
+      "alphaRatio": 0.772
+    },
+    {
+      "globalPageIndex": 1415,
+      "textPath": "full_ocr_highdpi\\page-1415.txt",
+      "length": 3914,
+      "alphaRatio": 0.731
+    },
+    {
+      "globalPageIndex": 1417,
+      "textPath": "full_ocr_highdpi\\page-1417.txt",
+      "length": 250,
+      "alphaRatio": 0.628
+    },
+    {
+      "globalPageIndex": 1427,
+      "textPath": "full_ocr_highdpi\\page-1427.txt",
+      "length": 267,
+      "alphaRatio": 0.596
+    },
+    {
+      "globalPageIndex": 1433,
+      "textPath": "full_ocr_highdpi\\page-1433.txt",
+      "length": 220,
+      "alphaRatio": 0.591
+    },
+    {
+      "globalPageIndex": 1440,
+      "textPath": "full_ocr_highdpi\\page-1440.txt",
+      "length": 3984,
+      "alphaRatio": 0.693
+    },
+    {
+      "globalPageIndex": 1441,
+      "textPath": "full_ocr_highdpi\\page-1441.txt",
+      "length": 160,
+      "alphaRatio": 0.669
+    },
+    {
+      "globalPageIndex": 1451,
+      "textPath": "full_ocr_highdpi\\page-1451.txt",
+      "length": 193,
+      "alphaRatio": 0.627
+    },
+    {
+      "globalPageIndex": 1459,
+      "textPath": "full_ocr_highdpi\\page-1459.txt",
+      "length": 271,
+      "alphaRatio": 0.661
+    },
+    {
+      "globalPageIndex": 1469,
+      "textPath": "full_ocr_highdpi\\page-1469.txt",
+      "length": 257,
+      "alphaRatio": 0.658
+    },
+    {
+      "globalPageIndex": 1483,
+      "textPath": "full_ocr_highdpi\\page-1483.txt",
+      "length": 226,
+      "alphaRatio": 0.602
+    },
+    {
+      "globalPageIndex": 1491,
+      "textPath": "full_ocr_highdpi\\page-1491.txt",
+      "length": 226,
+      "alphaRatio": 0.65
+    },
+    {
+      "globalPageIndex": 1494,
+      "textPath": "full_ocr_highdpi\\page-1494.txt",
+      "length": 5279,
+      "alphaRatio": 0.754
+    },
+    {
+      "globalPageIndex": 1511,
+      "textPath": "full_ocr_highdpi\\page-1511.txt",
+      "length": 5292,
+      "alphaRatio": 0.757
+    },
+    {
+      "globalPageIndex": 1520,
+      "textPath": "full_ocr_highdpi\\page-1520.txt",
+      "length": 4531,
+      "alphaRatio": 0.759
+    },
+    {
+      "globalPageIndex": 1521,
+      "textPath": "full_ocr_highdpi\\page-1521.txt",
+      "length": 5152,
+      "alphaRatio": 0.745
+    },
+    {
+      "globalPageIndex": 1530,
+      "textPath": "full_ocr_highdpi\\page-1530.txt",
+      "length": 5015,
+      "alphaRatio": 0.756
+    },
+    {
+      "globalPageIndex": 1533,
+      "textPath": "full_ocr_highdpi\\page-1533.txt",
+      "length": 245,
+      "alphaRatio": 0.669
+    },
+    {
+      "globalPageIndex": 1539,
+      "textPath": "full_ocr_highdpi\\page-1539.txt",
+      "length": 232,
+      "alphaRatio": 0.612
+    },
+    {
+      "globalPageIndex": 1540,
+      "textPath": "full_ocr_highdpi\\page-1540.txt",
+      "length": 4273,
+      "alphaRatio": 0.769
+    },
+    {
+      "globalPageIndex": 1543,
+      "textPath": "full_ocr_highdpi\\page-1543.txt",
+      "length": 5374,
+      "alphaRatio": 0.684
+    },
+    {
+      "globalPageIndex": 1550,
+      "textPath": "full_ocr_highdpi\\page-1550.txt",
+      "length": 3802,
+      "alphaRatio": 0.261
+    },
+    {
+      "globalPageIndex": 1561,
+      "textPath": "full_ocr_highdpi\\page-1561.txt",
+      "length": 1373,
+      "alphaRatio": 0.5
+    },
+    {
+      "globalPageIndex": 1565,
+      "textPath": "full_ocr_highdpi\\page-1565.txt",
+      "length": 336,
+      "alphaRatio": 0.548
+    },
+    {
+      "globalPageIndex": 1572,
+      "textPath": "full_ocr_highdpi\\page-1572.txt",
+      "length": 5758,
+      "alphaRatio": 0.697
+    },
+    {
+      "globalPageIndex": 1577,
+      "textPath": "full_ocr_highdpi\\page-1577.txt",
+      "length": 3002,
+      "alphaRatio": 0.74
+    },
+    {
+      "globalPageIndex": 1579,
+      "textPath": "full_ocr_highdpi\\page-1579.txt",
+      "length": 277,
+      "alphaRatio": 0.639
+    },
+    {
+      "globalPageIndex": 1582,
+      "textPath": "full_ocr_highdpi\\page-1582.txt",
+      "length": 5543,
+      "alphaRatio": 0.738
+    },
+    {
+      "globalPageIndex": 1583,
+      "textPath": "full_ocr_highdpi\\page-1583.txt",
+      "length": 5973,
+      "alphaRatio": 0.66
+    },
+    {
+      "globalPageIndex": 1586,
+      "textPath": "full_ocr_highdpi\\page-1586.txt",
+      "length": 6503,
+      "alphaRatio": 0.729
+    },
+    {
+      "globalPageIndex": 1589,
+      "textPath": "full_ocr_highdpi\\page-1589.txt",
+      "length": 5868,
+      "alphaRatio": 0.746
+    },
+    {
+      "globalPageIndex": 1591,
+      "textPath": "full_ocr_highdpi\\page-1591.txt",
+      "length": 230,
+      "alphaRatio": 0.587
+    }
+  ]
+}

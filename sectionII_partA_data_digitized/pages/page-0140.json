@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 140,
+  "globalPageIndex": 140,
+  "width": 615.48,
+  "height": 794.4,
+  "text": "SA-20/SA-Z0M ASME BPVC.II.A-2025 \nTABLE A1.13 Waviness Tolerances for Rectangular Plates, Universal Mill Plates, Circular Plates, and Sketch Plates \nNoTE I-Waviness denotes the deviation of the top or bottom surface from a horizontal line, when the plate is resting on a flat surface, as measured \nin an increment of less than 12 ft of length. The waviness tolerance is a function of the flatness tolerance as obtained from Tables Al.9 and Al.12. \nFlatness \nTolerance When Number of Waves in 12 ft is: \nfrom Tables \nA1.9 and 1 2 3 4 5 6 7 \nA1.12 \n5/,5 5/16 \u00bc 3 /1s 1/s 1/s 1/16 1/16 \n3/s 3/s 5/10 3 /16 3 /16 1/s 1/rn 1/16 \n7/1s 7/16 5/is \u00bc 3/15 1/s 1/s 1/16 \n\u00bd \u00bd 3/s 5/16 3 /16 3/15 1/s 1/i6 \n9/is 9/16 7/16 5 /16 \u00bc 3 /16 1/s 1/s \n5/s 5/s \u00bd 3/s \u00bc 3/16 1/s 1/s \n11/16 11/15 \u00bd 3/s 5 /1s 3/rn 3/15 1/s \n\u00be \u00be 9/15 7/15 5 /16 \u00bc 3/15 1/s \n13/16 13/16 % 7/15 5/15 \u00bc 3/15 1/s \n7/s 7/s 1 1/16 \u00bd 3/s \u00bc 3/15 1/s \n15/15 15/15 1 1/16 \u00bd 3/s 5/15 \u00bc 3 /16 \n1 1 \u00be 9/15 7/15 5/15 \u00bc 3/15 \n11/s 11/s 7/s % \u00bd 3/s \u00bc 3/-15 \n1\u00bc 1\u00bc iS/15 11/15 \u00bd 3/s 5 /1e \u00bc \n13/s 13/s 11/16 \u00be 9/15 7/15 5/1s \u00bc \n1\u00bd 1\u00bd 11/s 7/s % \u00bd % \u00bc \n1% 15/s 1\u00bc 15/15 11/rn \u00bd 3/s 5/ie \n1\u00be 1\u00be 1 5/15 1 \u00be 9/15 7 /15 5/15 \nF/s F/s F/16 11/16 1a11 6 9/1e 7 /i6 5/16 \n2 2 1\u00bd 11/s 7/s 5/s \u00bd % \n21/s 21/s 15/s 13/16 7/s 11/15 \u00bd % \n2\u00bc 2\u00bc 1 11 /16 1\u00bc 15/16 1 1/1e 9/15 % \n2% 23/s 113/15 1 5/16 1 \u00be 9 /is 7 /ia \n2\u00bd 2\u00bd F/s F/1s 11/16 13/15 9/15 7/15 \n25/s 2% 2 1\u00bd 11/s 13/15 % 7/15 \n2\u00be 2\u00be 21/ia 1 9Aa 11/s 7/s % \u00bd \n2 7/s 2 7/s 2 3Aa 1% 13/15 15/ie 11/Js \u00bd \n3 3 2\u00bc 1 1 1/ia 1\u00bc 15/is 11/16 9/,5 \n31/s 31/s 2% 1\u00be 1 5/16 1 \u00be 9/15 \nTABLE A1.14 Visible Edge Indications Extending Approximately Parallel to Rolled Surfaces \nPlate Specification \nAcceptable Remove by Grinding \nand Thickness LengthA Depth Depth \nColumn 1 2 3 \nOther than killed, 8 to 2 in., incl 1/s in. max any over 1/s in. to\u00bc in., incl \nKilled, c to 6 in., incl 1/10 in. max any over 1/16 in. to 1/s in., incl \nKilled, cover 6 in. 1/s in. max any over 1/s in. to \u00bd in., incl \nA Laminar-type discontinuities 1 in. and less in length are acceptable and do not require exploration. \n8 Specifications: A285; A433; A442 in thicknesses to 1 in., incl; or A455. \nc The specification in 1 .1 of this standard, other than those listed in the above Footnote B. \n88 \nAcceptable on Edges \nCut in Fabrication \nLengthA Depth LengthA \n4 5 6 \nover 1 in. \u00bcin.max any \nover 1 in. 1/s in. max any \nover 1 in. \u00bdin.max any ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0140.json",
+  "tabulaTablesCsv": "tables_tabula/page-0140.csv",
+  "tabulaTableCount": 2,
+  "bestTextPath": "best_text/pages/page-0140.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2395,
+  "bestTextAlphaRatio": 0.4447
+}

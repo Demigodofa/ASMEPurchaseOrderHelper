@@ -1,0 +1,126 @@
+SA-312/SA-312M (ASTM A312/A312M) ASME BPVC.II.A-2025 
+TABLE 2 Annealing Requirements 
+Grade or UNS DesignationA Heat Treating Coolingffesting 
+Temperature 8 Requirements 
+All grades not individually listed 1900 "F [1040 "C] C 
+below: 
+TP321H, TP347H, TP348H 
+Cold finished 2000 "F [1100 °C] D 
+Hot finished 1925 "F [1050 "C] D 
+TP304H, TP316H 
+Cold finished 1900 "F [1040 "C] D 
+Hot finished 1900 "F [1040 "C] D 
+TP309H, TP309HCb, TP310H, 1900 "F [1040 "C] D 
+TP310HCb 
+S30600 2010-2140 "F D 
+[1100-1170 "C] 
+S30601 2010-2140 "F D 
+[1100-1170 "C] 
+S30815, S31272 1920 "F [1050 "C] D 
+S31035 2160-2280 "F D 
+[1180-1250 "C] 
+S31254, S32654 2100 "F [1150 "C] D 
+S31266 2100 "F [1150 "C] D 
+S31277 2050 "F [1120 "C] D 
+S31727, S32053 1975-2155 "F D 
+[1080-1180 "C] 
+S33228 2050-2160 "F D 
+[1120-1180 "C] 
+S34565 2050-2140 "F D 
+[1120-1170 "C] 
+S34752 1940-2138 "F D 
+[1060-1170 "C] 
+S35315 2010 "F [1100 "C] D 
+S38815 1950 "F [1065 "C] D 
+N08367 2025 "F [1110 "C] D 
+N08020 1700-1850 "F D 
+[925-1010 "C] 
+N08028 2000 "F [1100 "C] D 
+N08029 2000 "F [1100 "C] D 
+N08810 2050 "F [1120 "C] D 
+N08811 2100 "F [1150 "C] D 
+N08904 2000 "F [1100 "C] D 
+N08925, N08926 2010-2100 "F D 
+[1100-1150 "C] 
+A New designation established in accordance with Practice E527 and SAE J1086. 
+8 Minimum, unless otherwise stated. 
+c Quenched in water or rapidly cooled by other means, at a rate sufficient to 
+prevent re-precipitation of carbides, as demonstrable by the capability of pipes, 
+heat treated by either separate solution annealing or by direct quenching, of 
+passing Practices A262, Practice E. The manufacturer is not required to run the 
+test unless it is specified on the purchase order (see Supplementary Requirement 
+S7). Note that Practices A262 requires the test to be performed on sensitized 
+specimens in the low-carbon and stabilized types and on specimens representa­
+tive of the as-shipped condition for other types. In the case of low-carbon types 
+containing 3 % or more molybdenum, the applicability of the sensitizing treatment 
+prior to testing shall be a matter for negotiation between the seller and the 
+purchaser. 
+0 Quenched in water or rapidly cooled by other means. 
+wall thickness ( or schedule) of the same heat, hot formed and 
+quenched in the same production run. 
+11.1.2 Where the final heat treated condition is obtained, 
+consistent with the requirements of 6.2, in a batch-type furnace 
+equipped with recording pyrometers and automatically con­
+trolled within a 50 °F [30 °C] or lesser range, the term lot shall 
+apply to all pipes of the same specified outside diameter and 
+specified wall thickness (or schedule), of the same heat, 
+subjected to the same finishing temperature within the same 
+production run. 
+11.1.3 Where the final heat treated condition is obtained, 
+consistent with the requirements of 6.2, in a batch-type furnace 
+not equipped with recording pyrometers and automatically 
+TABLE 3 Permitted Variations in Wall Thickness 
+Tolerance, % from Nominal 
+NPS Designator Over Under 
+1/a to 2½ incl., all t/D 20.0 12.5 ratios 
+3 to 18 incl., t/D up to 22.5 12.5 5% incl. 
+3 to 18 incl., t/D > 5 % 15.0 12.5 
+20 and larger, welded, 17.5 12.5 all t/D ratios 
+20 and larger, 
+seamless, t/D up to 22.5 12.5 
+5% incl. 
+20 and larger, 15.0 12.5 seamless, t/D > 5 % 
+where: 
+t Nominal Wall Thickness 
+D = Ordered Outside Diameter 
+controlled within a 50 °F [30 °C] or lesser range, the term lot 
+shall apply to the larger of: (a) each 200 ft [60 m] or fraction 
+thereof and (b) those pipes heat treated in the same furnace 
+batch charge for pipes of the same specified outside diameter 
+and specified wall thickness ( or schedule) that are produced 
+from the same heat of steel and are subjected to the same 
+finishing temperature within the same production run. 
+458 
+11.2 Transverse or Longitudinal Tension Test-One tension 
+test shall be made on a specimen for lots of not more than 100 
+pipes. Tension tests shall be made on specimens from two tubes 
+for lots of more than 100 pipes. 
+11.3 Flattening Test-For material heat treated in a continu­
+ous furnace, by quenching after hot forming or in a batch-type 
+furnace equipped with recording pyrometers and automatically 
+controlled within a 50 °F [30 °C] or lesser range, flattening 
+tests shall be made on a sufficient number of pipe to constitute 
+5 % of the lot, but in no case less than 2 lengths of pipe. For 
+material heat treated in a batch-type furnace not equipped with 
+recording pyrometers and automatically controlled within a 50 
+°F [30 °C] or lesser range, flattening tests shall be made on 5 % 
+of the pipe from each heat treated lot. 
+11.3.1 For welded pipe a transverse-guided face bend test of 
+the weld may be conducted instead of a flattening test in 
+accordance with the method outlined in the steel tubular 
+product supplement of Test Methods and Definitions A370. For 
+welded pipe with a specified wall thickness over 3/s in., two 
+side bend tests may be made instead of the face bend test. The 
+ductility of the weld shall be considered acceptable when there 
+is no evidence of cracks in the weld or between the weld and 
+the base metal after bending. Test specimens from 5 % of the 
+lot shall be taken from the pipe or test plates of the same 
+material as the pipe, the test plates being attached to the end of 
+the cylinder and welded as a prolongation of the pipe longitu­
+dinal seam. 
+11.4 Grain Size-Grain size determinations, in accordance 
+with Test Methods E112, shall be made on the grades listed in 
+Table 5. Grain size determinations shall be made on each heat 
+treatment lot, as defined in 11.1, for the same number of pipes 
+as prescribed for the flattening test in 11.3. The grain size 
+results shall conform to the requirements prescribed in Table 5. 

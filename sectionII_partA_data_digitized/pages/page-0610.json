@@ -1,0 +1,26 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 610,
+  "globalPageIndex": 610,
+  "width": 635.52,
+  "height": 871.68,
+  "text": "SA-354 ASME BPVC.II.A-2025 \nStandard Specification for \nQuenched and Tempered Alloy Steel Bolts, Studs, and Other \nExternally Threaded Fasteners \n1. Scope \n1.1 This specification covers the chemical and mechanical \nrequirements of quenched and tempered alloy steel bolts, studs, \nand other externally threaded fasteners 4 in. and under in \ndiameter for application at normal atmospheric temperatures, \nwhere high strength is required and for limited application at \nelevated temperature (Note 1). Any alloy steel capable of \nmeeting the minimum mechanical and chemical properties set \nforth in this specification may be used. \nNoTE 1-For bolts, studs, or other externally threaded fasteners, to be \nused at elevated temperatures, refer to Specification Al93/Al93M. \n1.2 Two levels of bolting strength are covered, designated \nGrades BC and BD. Selection will depend upon design and the \nstresses and service for which the product is to be used. \nNoTE 2-Quenched and tempered alloy steel bolts for structural steel \njoints up through 1 \u00bd in. in diameter are covered in Specification A490. \nAlloy steel bolts, studs, and other externally threaded fasteners (that is, \nheavy hex-structural bolts over 1 \u00bd in., hex bolts, anchor bolts, and \ncountersunk bolts) exhibiting similar mechanical properties to bolts \nconforming to Specification A490 shall be covered by Grade BD of this \nspecification. \nWhen bolts of Grade BD of this specification are considered for \npretentioned applications in excess of 50 % of the bolt tensile strength, the \nadditional requirements of head size, maximum tensile strength, nut size \nand strength, washer hardness, tests, and inspections contained in Speci\u00ad\nfication A490 should be carefully considered. \n1.3 Nuts are covered in Specification A563. Unless other\u00ad\nwise specified, the grade and style of nut for each grade of \nfastener shall be as follows: \n558 \nGrade of Fastener and Surface Finish \nBC, plain (or with a coating of insufficient thick\u00ad\nness to require over-tapped nuts) \nBC, zinc-coated (or with a coating thickness re\u00ad\nquiring over-tapped nuts) \nBD, all finishes \nNut Grade and \nStyleA \nC, heavy hex \nDH, heavy hex \nDH, heavy hex \nA Nuts of other grades and styles having specified proof load stresses (Specifica\u00ad\ntion A563, Table 3) greater than the specified grade and style of nut are suitable. \n1.4 The values stated in inch-pound units are to be regarded \nas the standard. \n1.5 Terms used in this specification are defined in Termi\u00ad\nnology Fl 789 unless otherwise defined herein. \n2. Referenced Documents \n2.1 ASTM Standards: \nA193/A193M Specification for Alloy-Steel and Stainless \nSteel Bolting for High Temperature or High Pressure \nService and Other Special Purpose Applications \nA490 Specification for Structural Bolts, Alloy Steel, Heat \nTreated, 150 ksi Minimum Tensile Strength \nA563 Specification for Carbon and Alloy Steel Nuts \nA751 Test Methods, Practices, and Terminology for Chemi\u00ad\ncal Analysis of Steel Products \nB695 Specification for Coatings of Zinc Mechanically De-\nposited on Iron and Steel \nD3951 Practice for Commercial Packaging \nF436 Specification for Hardened Steel Washers \nF606 Test Methods for Determining the Mechanical Proper\u00ad\nties of Externally and Internally Threaded Fasteners, \nWashers, Direct Tension Indicators, and Rivets \nF788/F788M Specification for Surface Discontinuities of \nBolts, Screws, and Studs, Inch and Metric Series ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0610.json",
+  "tabulaTablesCsv": "tables_tabula/page-0610.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-0610.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 3415,
+  "bestTextAlphaRatio": 0.7766,
+  "noteOcrPath": "note_ocr/page-0610.txt",
+  "noteOcrCount": 0,
+  "noteOcrNotes": [],
+  "noteOcrHighDpiPath": "note_ocr_highdpi/page-0610.txt",
+  "noteOcrHighDpiCount": 1,
+  "noteOcrHighDpiNotes": [
+    "Note 1\u2014For bolts, studs, or other externally threaded fasteners, to be"
+  ]
+}

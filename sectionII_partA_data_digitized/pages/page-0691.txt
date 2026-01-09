@@ -1,0 +1,92 @@
+ASME BPVC.II.A-2025 SA-376/SA-376M 
+TABLE 1 Chemical Requirements 
+UNS Composition, %A 
+Grade Desig- Carbon Man- Phos- Sul- $iii- Nickel Chromium Molyb- Tita- Colum- Tan- Nitro- Others nation ganese phorus fur con denum nium bium talum gen 8 
+TP304 S30400 0.08 2.00 0.045 0.030 0.75 8.0-11.0 18.0-20.0 
+TP304H S30409 0.04-0.10 2.00 0.045 0.030 0.75 8.0-11.0 18.0-20.0 
+TP304N S30451 0.08 2.00 0.045 0.030 0.75 8.0-11.0 18.0-20.0 0.10-0.16 
+TP304LN S30453 0.035 2.00 0.045 0.030 0.75 8.0-11.0 18.0-20.0 0.10-0.16 
+TP316 S31600 0.08 2.00 0.045 0.030 0.75 11.0-14.0 16.0-18.0 2.00-3.00 
+TP316H S31609 0.04-0.10 2.00 0.045 0.030 0.75 11.0-14.0 16.0-18.0 2.00-3.00 
+TP316N S31651 0.08 2.00 0.045 0.030 0.75 11.0-14.0 16.0-18.0 2.00-3.00 0.10-0.16 
+TP316LN S31653 0.035 2.00 0.045 0.030 0.75 11.0-14.0 16.0-18.0 2.00-3.00 ... 0.10-0.16 
+TP321 S32100 0.08 2.00 0.045 0.030 0.75 9.0-13.0 17.0-19.0 C 
+TP321H S32109 0.04-0.10 2.00 0.045 0.030 0.75 9.0-13.0 17.0-19.0 D ... 
+TP347 S34700 0.08 2.00 0.045 • 0.030 0.75 9.0-13.0 17.0-19.0 E 
+TP347H S34709 0.04-0.10 2.00 0.045 0.030 0.75 9.0-13.0 17.0-19.0 F 
+TP347LN S34751 0.005- 2.00 0.045 0.030 1.00 9.0-13.0 17.0- 19.0 0.20- 0.06-0.10 
+0.020 0.50G 
+TP348H S34800 0.08 2.00 0.045 0.030 0.75 9.0-13.0 17.0-19.0 E 0.10 Co 0.20 
+TP348H S34809 0.04-0.10 2.00 0.045 0.030 1.00 9.0-13.0 17.0-19.0 F 0.10 
+16-8-2H S16800 0.05-0.10 2.00 0.045 0.030 0.75 7.5-9.5 14.5-16.5 1.50-2.00 
+S31725 0.030 2.00 0.045 0.030 0.75 13.5-17.5 18.0-20.0 4.0-5.0 0.20 max Cu 0.75 
+S31726 0.030 2.00 0.045 0.030 0.75 14.5-17.5 17.0-20.0 4.0-5.0 0.10-0.20 Cu 0.75 
+S34565 0.030 5.0-7.0 0.030 0.010 1.0 16.0-18.0 23.0-25.0 4.0-5.0 0.040-0.060 Cb0.10 
+S31266 0.030 2.00-4.00 0.035 0.020 1.00 21.0-24.0 23.0-25.0 5.2-6.2 0.035-0.060 Cu 
+1.00-2.50 
+W 1.50-2.50 
+AMaximum, unless otherwise indicated. Where ellipses( ... ) appear in this table, there is no requirement and analysis for the element need not be determined or reported. 
+8 The method of analysis for nitrogen shall be a matter of agreement between the purchaser and manufacturer. 
+0 The titanium content shall be not less than five times the carbon content and not more than 0.70 %. 
+0 The titanium content shall be not less than four times the carbon content and not more than 0.70 %. 
+E The columbium content shall be not less than ten times the carbon content and not more than 1.1 O %. 
+FThe columbium content shall be not less than eight times the carbon content and not more than 1.1 O %. 
+°The columbium content shall not be less than 15 times the carbon content. 
+H This grade is intended for special purpose applications. 
+3.1.8 Test report required (Certification Section of Specifi­
+cation A999/ A999M), 
+3.1.9 Specification designation, and 
+3.1.10 Special requirements or any supplementary require­
+ments selected, or both. 
+4. General Requirements 
+4.1 Material furnished to this specification shall conform to 
+the applicable requirements of the current edition of Specifi­
+cation A999/ A999M unless otherwise provided herein. 
+5. Materials and Manufacture 
+5.1 Manufacture-At the manufacturer's option, pipe may 
+be either hot finished or cold finished, with a suitable finishing 
+treatment, where necessary. 
+5.2 Heat Treatment: 
+5.2.1 All pipe shall be furnished in the heat-treated condition. 
+For H grades, separate solution treatments are required for 
+solution annealing; in-process heat treatments are not permitted 
+as a substitute for the separate solution annealing treatments. 
+5.2.2 As an alternate to final heat treatment in a continuous 
+furnace or batch-type furnace, immediately following hot 
+forming while the temperature of the pipes is not less than the 
+specified minimum solution treatment temperature, pipes may 
+be individually quenched in water or rapidly cooled by other 
+means. 
+5.2.3 Grades TP304, TP304N, TP304LN, TP316, TP316N, 
+TP316LN, TP321, TP347, TP347LN, TP348, 16-8-2H, 
+S 31725, and S 31726-Unless otherwise stated in the order, 
+heat treatment shall consist of heating to a minimum tempera­
+ture of 1900 °F [1040 °C] and quenching in water or rapidly 
+cooling by other means. 
+5 .2.3 .1 The purchaser may specify controlled structural or 
+special service characteristics which shall be used as a guide 
+for the most suitable heat treatment. If the final heat treatment 
+is at a temperature under 1900 °F [1040 °C], each pipe shall be 
+stenciled with the final heat treatment temperature in degrees 
+Fahrenheit or Celsius after the suffix "HT." 
+5.2.4 Grades TP304H, TP316H, TP321H, TP347H, 
+TP348H, and 16-8-2H-If cold working is involved in 
+processing, the minimum solution-treating temperature for 
+Grades TP321H, TP347H, and TP348H shall be 2000 °F [1100 
+°C], for Grades TP304H and TP316H, 1900 °F [1040 °C], and 
+for Grade 16-8-2H, 1800 °F [980 °C]. If the material is 
+hot-rolled, the minimum solution-treating temperatures for 
+Grades TP321H, TP347H, and TP348H shall be 1925 °F [1050 
+°C], for Grades TP304H and TP316H, 1900 °F [1040 °C], and 
+for Grade 16-8-2H, 1800 °F (980 °C]. 
+5.2.5 Grade S34565-Heat treatment shall consist of heat­
+ing to a temperature in the range of 2050 °F [1120 °C] 
+minimum and 2140 °F [1170 °C] maximum, and quenching in 
+water or rapidly cooling by other means. 
+641 
+5.2.6 Grade S31266-Heat treatment shall consist of heat­
+ing to a temperature in the range of 2100 °F [1150 °C] 
+minimum and quenching in water or rapidly cooling by other 
+means. 
+5.3 A solution annealing temperature above 1950 °F [1065 
+0 C] may impair the resistance to intergranular corrosion after 

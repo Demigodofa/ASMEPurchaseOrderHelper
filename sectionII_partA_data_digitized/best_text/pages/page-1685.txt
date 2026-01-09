@@ -1,0 +1,107 @@
+ASME BPVC.II.A-2025 
+gridlines at 0.1 %, up to 1.2% strain; and for stress, minor 
+gridlines at 0.2 ksi (2 MPa) and major gridlines at 2.0 ksi 
+(20 MPa). 
+IV-1300 FATIGUE DATA 
+If the material is to be used in cyclic service and the 
+Construction Code in which adoption is desired requires 
+explicit consideration of cyclic behavior, fatigue data for 
+characterized samples shall also be furnished over the 
+range of design temperatures desired, from 10 3 to at least 
+10 6 cycles. 
+IV-1400 PHYSICAL PROPERTIES 
+For at least one heat meeting the requirements of the 
+material specification, the inquirer shall furnish to the 
+Boiler and Pressure Vessel Committee on Materials ade­
+quate data necessary to establish values for coefficient 
+of thermal expansion, coefficients of thermal conductivity 
+and diffusivity, modulus of elasticity, Poisson's ratio, and 
+density. Test methods shall be as follows: 
+(a) ASTM E228, E289, or E831 for thermal expansion 
+coefficients 
+(b) ASTM D2766, E1225, and E1461, for thermal con-
+ductivity and thermal diffusivity 
+(c) ASTM E1875 for modulus of elasticity 
+(d) ASTM E1875 or ASTM E132 for Poisson's ratio 
+Data from other equivalent national or international 
+test standards shall be acceptable in lieu of those listed 
+above. Instantaneous, mean, and linear coefficients of 
+thermal expansion shall be reported. Data for all physical 
+properties shall be provided at least over the range of 
+temperatures for which the material is to be used. It is 
+recommended that data be collected at temperature in­
+tervals not greater than 100°F (50°C). If the material is in­
+tended to be used below room temperature, data should 
+be provided for temperatures down to the minimum 
+use temperature. Data provided shall be expressed in 
+the units and to the number of significant figures shown 
+in Table IV-800-1. 
+IV-1500 DATA REQUIREMENTS FOR WELDS, 
+WELDMENTS, AND WELDABILITY 
+The following welding information is required for a 
+new base metal for use in welded construction in an 
+ASME BPV Construction Code: data on weldability, data 
+on strength and toughness in the time-independent re­
+gime, data on strength in the time-dependent regime, 
+and post-test examination. 
+The data requirements for weldability and for strength 
+in the time-independent regime are the responsibility of 
+the BPV IX Standards Committee and are to be found in 
+Section II, Part C, Guideline on the Approval of New Weld­
+ing and Brazing Material Classifications Under the ASME 
+Boiler and Pressure Vessel Code; and in Section IX, Man­
+datory Appendix J, Guideline for Requesting P-Number 
+Assignments for Base Metals Not Listed in Table QW / 
+QB-422. The requirements for weld metal and weldment 
+toughness data vary with the class of materials and their 
+application, and are to be found in the Construction Codes 
+that have toughness rules - Sections III, VIII, and XII. 
+Data for welds and weldments for a new base material 
+for use in the time-dependent regime are the responsibil­
+ity of the BPV II and BPV IX Standards Committees, and 
+particularly of their joint Subgroup on Strength of Weld­
+ments. The following welding information shall be pro­
+vided by the Inquirer, to support the request for a Code 
+Case for, or incorporation of, a new base material for 
+use in elevated temperature service: 
+(a) When there is one or more AWS, ASME, or equiva­
+lent consumable specification and classification suitable 
+for use with the new base material, and when such con­
+sumable/process combinations can produce welds and 
+weldments that have both good weldability and as high 
+or higher strengths as the base metal over the range of ex­
+pected service temperatures, no time-dependent test data 
+is required. Rather, the inquirer shall submit a tabular or 
+graphical comparison of time-dependent allowable 
+stresses for base metals nominally matching the composi­
+tions of such welding consumables against the allowable 
+stresses proposed for the new base metal. (Note that 
+since neither ASME nor any other organization publishes 
+allowable stresses for all-weld metal or for weldments, it 
+is necessary to use, in this comparison, the allowable 
+stresses for the base metals equivalent to the welding 
+consumables as a reasonable first approximation.) An ex­
+ample of such a comparison appears in Table IV-1500-1. 
+(b) When there is no such suitable consumable having 
+an AWS, ASME, or equivalent specification and classifica­
+tion, or when it is necessary or desirable to use a new, 
+perhaps nominally matching in composition to the base 
+metal, welding consumable, the following information 
+shall be provided to the Committee: 
+(1) the chemistry ranges for each element specified 
+for the consumable to be used. If the chemistry ranges 
+vary for the consumables to be used for different pro­
+cesses, then the chemistry ranges of the consumables ap­
+propriate for each process shall be provided. 
+(2) creep-rupture data for weldments made with 
+one lot of consumables for each process intended to be 
+used with the new base material 
+(-a) at temperature intervals not greater than 
+200°F (100°C). Where there is a possibility of degradation 
+of strength related to metallurgical instability, test tem­
+peratures shall be at intervals of 100°F (50°C) or less. 
+(-b) over a temperature range spanning the range 
+from the first rational temperature above the tempera­
+ture at which time-dependent properties control the al­
+lowable stresses of the new base material to about 
+1631 

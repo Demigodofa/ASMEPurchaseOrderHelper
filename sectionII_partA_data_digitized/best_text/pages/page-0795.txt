@@ -1,0 +1,112 @@
+ASME BPVC.II.A-2025 SA-450/SA-450M 
+26.9.3 The reference standard shall be passed through the 
+test apparatus at the same speed and test system settings as the 
+tube to be tested, except that, at the manufacturer's discretion, 
+the tubes may be tested at a higher sensitivity. 
+26.9.4 The signal-to-noise ratio for the reference standard 
+shall be 2.5:1 or greater, and the reference signal amplitude for 
+each discontinuity shall be at least 50 % of full scale of the 
+display. In establishing the noise level, extraneous signals from 
+identifiable surface impe1fections on the reference standard 
+may be ignored. When reject filtering is used during UT 
+testing, linearity must be demonstrated. 
+26.9.5 If, upon any standardization, the reference signal 
+amplitude has decreased by 29 % (3.0 dB), the test apparatus 
+shall be considered out of standardization. The test system 
+settings may be changed, or the transducer(s), coil(s), or 
+sensor(s) adjusted, and the unit restandardized, but all tubes 
+tested since the last acceptable standardization must be re­
+tested. 
+26.10 Evaluation of Imperfections: 
+26.10.1 Tubing producing a test signal to or greater than the 
+lowest signal produced by the reference standard shall be 
+designated suspect, shall be clearly marked or identified, and 
+shall be separated from the acceptable tubing. 
+26.10.2 Such suspect tubing shall be subject to one of the 
+following three dispositions: 
+26.10.2.1 The tubes may be rejected without further 
+examination, at the discretion of the manufacturer. 
+26.10.2.2 If the test signal was produced by imperfections 
+such as scratches, surface roughness, dings, straightener marks, 
+loose ID bead and cutting chips, steel die stamps, stop marks, 
+tube reducer ripple, or chattered flash trim, the tubing may be 
+accepted or rejected depending on visual observation of the 
+severity of the imperfection, the type of signal it produces on 
+the testing equipment used, or both. 
+26.10.2.3 If the test signal was produced by imperfections 
+which cannot be identified, or was produced by cracks or 
+crack-like imperfections, the tubing shall be rejected. 
+26.10.3 Any tubes with imperfections of the types in 
+26.10.2.2 and 26.10.2.3, exceeding 0.004 in. [0.1 mm] or 
+12½ % of the specified minimum wall thickness (whichever is 
+greater) in depth shall be rejected. 
+26.10.4 Rejected tubes may be reconditioned and retested 
+providing the wall thickness is not decreased to less than that 
+required by this or the product specification. If grinding is 
+perfonned, the outside diameter in the area of grinding may be 
+reduced by the amount so removed. To be accepted, recondi­
+tioned tubes must pass the nondestructive examination by 
+which they were originally rejected. 
+27. Test Report 
+27.1 The producer or supplier shall furnish a test report 
+stating that the material was manufactured, sampled, tested and 
+inspected in accordance with the specification, including year 
+date, the supplementary requirements, and any other require­
+ments designated in the purchase order or contract, and that the 
+results met the requirements of that specification, the supple­
+mentary requirements and the other requirements. A signature 
+or notarization is not required on the test report, but the 
+document shall be dated and shall clearly identify the organi­
+zation submitting the report. Notwithstanding the absence of a 
+signature or notarization, the organization submitting the report 
+is responsible for the contents of the report. 
+27 .2 In addition, the test report shall include the following 
+information and test results, when applicable: 
+27 .2.1 Heat Number, 
+27 .2.2 Heat Analysis, 
+27.2.3 Product Analysis, when specified, 
+27.2.4 Tensile Properties, 
+27.2.5 Width of the gage length, when longitudinal strip 
+tension test specimens are used, 
+27 .2.6 Flattening Test acceptable, 
+27.2.7 Reverse Flattening Test acceptable, 
+27.2.8 Flaring Test acceptable, 
+27.2.9 Flange Test acceptable, 
+27.2.10 Hardness Test values, 
+27.2.11 Hydrostatic Test pressure, 
+27.2.12 Non-destructive Electric Test method, 
+27.2.13 Impact Test results, and 
+27.2.14 Other test results or information required to be 
+reported by the product specification. 
+27 .3 Test results or information required to be reported by 
+supplementary requirements, or other requirements designated 
+in the purchase order or contract shall be reported, but may be 
+reported in a separate document. 
+27.4 The test report shall include a statement of explanation 
+for the letter added to the specification number marked on the 
+tubes (see 30.2), when all of the requirements of the specifi­
+cation have not been completed. The purchaser must certify 
+that all requirements of the specification have been completed 
+before removal of the letter (that is, X, Y, or Z). 
+27.5 A test report, certificate of compliance, or similar 
+document printed from or used in electronic form from an 
+electronic data interchange (EDI) transmission shall be re­
+garded as having the same validity as a counterpart printed in 
+the certifier's facility. The content of the EDI transmitted 
+document shall meet the requirements of the invoked ASTM 
+standard(s) and conform to any existing EDI agreement be­
+tween the purchaser and supplier. Notwithstanding the absence 
+of a signature, the organization submitting the EDI transmis­
+sion is responsible for the content of the report. 
+28. Inspection 
+745 
+28 .1 The inspector representing the purchaser shall have 
+entry at all times while work on the contract of the purchaser 
+is being performed, to all parts of the manufacturer's works 
+that concern the manufacture of the material ordered. The 
+manufacturer shall afford the inspector all reasonable facilities 
+to satisfy him that the material is being furnished in accordance 
+with this specification. All required tests and inspection shall 
+be made at the place of manufacture prior to shipment, unless 
+otherwise specified, and shall be conducted so as not to 
+interfere unnecessarily with the operation of the works. 

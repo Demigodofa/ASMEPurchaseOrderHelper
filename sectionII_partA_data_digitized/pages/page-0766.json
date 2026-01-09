@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 766,
+  "globalPageIndex": 766,
+  "width": 604.32,
+  "height": 847.68,
+  "text": "SA-426/SA-426M ASME BPVC.II.A-2025 \nTABLE S1.1 Residual Elements \nTotal Contents of \nGrade Copper, Nickel, Chromium, Tungsten, These \nmax max max max Unspecified Elements, \nmax,% \nCP1 0.50 0.50 0.35 0.10 1.00 \nCP2 0.50 0.50 0.10 1.00 \nCPS 0.50 0.50 0.10 1.00 \nCPSb 0.50 0.50 0.10 1.00 \nCP7 0.50 0.50 0.10 1.00 \nCP9 0.50 0.50 0.10 1.00 \nCP11 0.50 0.50 0.10 1.00 \nCP12 0.50 0.50 0.10 1.00 \nCP15 0.50 0.50 0.35 0.10 1.00 \nCP21 0.50 0.50 0.10 1.00 \nCP22 0.50 0.50 0.10 1.00 \nCPCA15 0.50 1.00 0.10 1.50 \nS11. Charpy Impact Test \nS 11.1 Charpy impact test properties shall be determined on \neach heat from a set of three Charpy V-notch specimens. The \ntest coupons shall be taken as specified for tension specimens \nin Section 11 and tested at a test temperature agreed upon by \nthe manufacturer and purchaser. The acceptance requirements \nshall be either energy absorbed or lateral expansion or percent \nshear area, and shall be that agreed upon by the manufacturer \nand purchaser. Test specimens shall be prepared as Type A and \ntested in accordance with Test Methods and Definitions A370. \nSll.2 Absorbed Energy Value, of three specimens shall not \nbe less than that agreed upon by the manufacturer and \npurchaser, with no more than one value permitted below the \nminimum average specified and no value permitted below the \nminimum specified for a single specimen. \nSll.3 Lateral Expansion Value, shall be agreed upon by the \nmanufacturer and purchaser. \nSll.4 Percent Shear Area, shall be agreed upon by the \nmanufacturer and purchaser. \n716 \nS12. Drop Weight Test \nS12.1 Drop weight test properties shall be determined by \npreparing and testing either Type Pl, P2, or P3 specimens in \naccordance with Test Method E208. The test coupons shall be \ntaken as specified for tension specimens in Section 11. The \ncrack starter weld shall be deposited on the surface of the \nspecimen which was nearest to the casting surface. Each test \nshall consist of at least two specimens tested at a temperature \nagreed upon by the manufacturer and purchaser. Each speci\u00ad\nmen shall exhibit a \"no break\" performance. ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0766.json",
+  "tabulaTablesCsv": "tables_tabula/page-0766.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0766.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2097,
+  "bestTextAlphaRatio": 0.6714
+}

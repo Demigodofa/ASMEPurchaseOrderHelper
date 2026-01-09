@@ -1,0 +1,396 @@
+[
+  {
+    "rows": [
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "lus 900-1150 [480-620]"
+      ],
+      [
+        "",
+        "",
+        "Martensitic Stainless Steels",
+        "",
+        "",
+        ""
+      ],
+      [
+        "S41000 Class 1",
+        "",
+        "E 410-15 or 16 400-700 [205-370]",
+        "",
+        "",
+        "1250 [675]"
+      ],
+      [
+        "S41000 Class 2",
+        "",
+        "E 410-15 or 16 400-700 [205-370]",
+        "",
+        "",
+        "1250 [675]"
+      ],
+      [
+        "S41026",
+        "13",
+        "% Cr, 11\u20442 % Ni,1\u20442% Mo 400-700 [205-370]",
+        "",
+        "",
+        "1150 [620]"
+      ],
+      [
+        "S41500",
+        "",
+        "13 % Cr, 4 % Ni 300-700 [150-370]",
+        "",
+        "",
+        "1050 [565]"
+      ],
+      [
+        "S42390",
+        "",
+        "400-750 [205-400]",
+        "",
+        "",
+        "1350-1440 [730-780]"
+      ],
+      [
+        "",
+        "",
+        "Austenitic Stainless Steels",
+        "",
+        "",
+        ""
+      ],
+      [
+        "N08028",
+        "",
+        "ER383",
+        "NR",
+        "",
+        "2010-2120 [1100-1160] + WQ"
+      ],
+      [
+        "N08029",
+        "",
+        "ERNiCrMo-3E",
+        "NR",
+        "",
+        "1975--2100 [1080-1150] + WQ"
+      ],
+      [
+        "",
+        "",
+        "ERNiCrMo-13E",
+        "",
+        "",
+        ""
+      ],
+      [
+        "S30400",
+        "",
+        "E 308-15 or 16",
+        "NR",
+        "",
+        "1900 [1040] + WQ"
+      ],
+      [
+        "S30403",
+        "",
+        "E 308L-15 or 16",
+        "NR",
+        "",
+        "1900 [1040] + WQ"
+      ],
+      [
+        "S30451",
+        "",
+        "E 308-15 or 16",
+        "NR",
+        "",
+        "1900 [1040] + WQ"
+      ],
+      [
+        "S30453",
+        "",
+        "E 308L-15 or 16",
+        "NR",
+        "",
+        "1900 [1040] + WQ"
+      ],
+      [
+        "S31600",
+        "",
+        "E 316-15 or 16",
+        "NR",
+        "",
+        "1900 [1040] + WQ"
+      ],
+      [
+        "S31603",
+        "",
+        "E 316L-15 or 16",
+        "NR",
+        "",
+        "1900 [1040] + WQ"
+      ],
+      [
+        "S31651",
+        "",
+        "E 316-15 or 16",
+        "NR",
+        "",
+        "1900 [1040] + WQ"
+      ],
+      [
+        "S31653",
+        "",
+        "E 316L-15 or 16",
+        "NR",
+        "",
+        "1900 [1040] + WQ"
+      ],
+      [
+        "S31700",
+        "",
+        "E 317-15 or 16",
+        "NR",
+        "",
+        "1900 [1040] + WQ"
+      ],
+      [
+        "S31703",
+        "",
+        "E 317L-15 or 16",
+        "NR",
+        "",
+        "1900 [1040] + WQ"
+      ],
+      [
+        "S21904",
+        "",
+        "XM-10W",
+        "NR",
+        "",
+        "NR"
+      ],
+      [
+        "S31254",
+        "",
+        "E NiCrMo-3",
+        "NR",
+        "",
+        "2100 [1150] + WQ"
+      ],
+      [
+        "S31725",
+        "",
+        "D",
+        "",
+        "",
+        "2100 [1150] + WQ"
+      ],
+      [
+        "S31726",
+        "",
+        "D",
+        "",
+        "",
+        "2100 [1150] + WQ"
+      ],
+      [
+        "N08367",
+        "",
+        "E NiCrMo-3",
+        "NR",
+        "",
+        "2025 [1105] + WQ"
+      ],
+      [
+        "S32654",
+        "25 % Cr, 61 % Ni, 14 % Mo",
+        "",
+        "NR",
+        "",
+        "2100 (1150] + WQ"
+      ],
+      [
+        "",
+        "",
+        "Austenitic-Ferritic Stainless Steels",
+        "",
+        "",
+        ""
+      ],
+      [
+        "S31803",
+        "22 % Cr, 5.5",
+        "% Ni, 3 % Mo",
+        "NR",
+        "",
+        "NR"
+      ],
+      [
+        "S32205",
+        "22 % Cr, 5.5 % Ni, 3 % Mo",
+        "",
+        "NR",
+        "",
+        "NR"
+      ],
+      [
+        "S32906",
+        "29 % Cr, 8 % Ni, 2 % Mo",
+        "",
+        "NR",
+        "",
+        "NR"
+      ],
+      [
+        "S32950",
+        "26 % Cr, 8 % Ni, 2 % Mo",
+        "",
+        "NR",
+        "",
+        "NR"
+      ],
+      [
+        "S32750",
+        "25 % Cr, 7 %, Ni, 4 % Mo",
+        "",
+        "NR",
+        "",
+        "NR"
+      ],
+      [
+        "S39274",
+        "25 % Cr, 7 % Ni, 3 % Mo, W",
+        "",
+        "NR",
+        "",
+        "NR"
+      ],
+      [
+        "S32760",
+        "25 % Cr, 7 % Ni, 3.5 Mo",
+        "",
+        "NR",
+        "",
+        "NR"
+      ],
+      [
+        "S39277",
+        "25 % Cr, 7 % Ni, 3 % Mo, 1.5 % Cu, 1 % W",
+        "",
+        "NR",
+        "",
+        "NR"
+      ],
+      [
+        "S32505",
+        "27 % Cr, 7 % Ni, 3 % Mo, 2 % Cu",
+        "",
+        "NR",
+        "",
+        "NR"
+      ]
+    ]
+  },
+  {
+    "rows": [
+      [
+        "with ASME Specifications SFA-5.4, SFA-5.9, or SFA-5.11.",
+        "surface area of the part. Repair by welding shall not exceed",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "The submerged arc process with neutral flux, the gas metal-arc",
+        "331\u20442 % of the wall thickness of the finished part or 3/s in. [9.5",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "welding and gas tungsten-arc welding processes are permitted",
+        "mm], whichever is less.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "to be used.",
+        "14.1.7 No weld repairs are permitted for S41000 Classes 3",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "14.1.3 Defects shall be removed completely prior to weld\u00ad",
+        "and 4.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "ing by chipping or grinding to sound metal as verified by",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "magnetic particle inspection in accordance with Test Method",
+        "15. Inspection",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "A275/A275M for the age-hardening, martensitic, or austenitic\u00ad",
+        "15.1 The manufacturer shall afford the purchaser's inspector",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "ferritic stainless steels, or by liquid penetrant inspection in",
+        "all reasonable facilities necessary to satisfy the inspector that",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  }
+]

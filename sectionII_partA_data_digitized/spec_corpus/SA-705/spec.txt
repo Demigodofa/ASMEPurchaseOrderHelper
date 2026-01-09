@@ -1,0 +1,1342 @@
+=== Page 1251 ===
+
+ASME BPVG.ILA-2025 SA-705/SA-705M
+
+SPECIFICATION FOR AGE-HARDENING STAINLESS
+STEEL FORGINGS
+
+CxS SA-705/SA-705M iy
+
+Oe Wer wise
+
+(Identical with ASTM Specification A705 /A705M-95(2009).)
+
+1165
+
+=== Page 1252 ===
+
+SA-705/SA-705M ASME BPVC.II.A-2025 
+SPECIFICATION FOR AGE-HARDENING STAINLESS 
+STEEL FORGINGS 
+SA-705/SA-705M 
+<O 
+INTERNATIONAL 
+standards Worldwide 
+[Identical with ASTM Specification A 705/A 705M-95(2009).] 
+1. Scope 
+1.1 This specification covers age-hardening stainless 
+steel forgings for general use. 
+1.2 The values stated in either inch-pound units or SI 
+(metric) units are to be regarded separately as standards; 
+within the text and tables, the SI units are shown in [brack­
+ets]. The values stated in each system are not exact equiva­
+lents; therefore, each system must be used independent of 
+the other. Combining values from the two systems may 
+result in nonconformance with the specification. 
+1.3 Unless the order specifies an "M" designation, the 
+material shall be furnished to inch-pound units. 
+NOTE 1 -Bar products are covered by Specification A 564/ A 564M. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+A 370 Test Methods and Definitions for Mechanical Test­
+ing of Steel Products 
+A 484/ A 484M Specification for General Requirements 
+for Stainless Steel Bars, Billets, and Forgings 
+A 564/A 564M Specification for Hot-Rolled and Cold­
+Finished Age-Hardening Stainless Steel Bars and Shapes 
+A 751 Test Methods, Practices, and Terminology for 
+Chemical Analysis of Steel Products 
+E 527 Practice for Numbering Metals and Alloys (UNS) 
+2.2 Other Documents: 
+SAE J 1086 Recommended Practice for Numbering Metals 
+and Alloys (UNS) 
+3. Ordering Information 
+3.1 It is the responsibility of the purchaser to specify 
+all requirements that are necessary for material ordered 
+under this specification. Such requirements may include 
+but are not limited to the following: 
+3.1.1 Quantity (weight or number of pieces), 
+3.1.2 Name of material (age-hardening stainless steel 
+forgings), 
+3.1.3 Dimensions, including prints or sketches, 
+3.1.4 Type or UNS designation (Table 1), 
+3.1.5 Heat treated condition (Section 5), 
+3.1.6 Transverse properties when required (7.4), 
+3.1.7 ASTM designation and date of issue, and 
+3.1.8 Special requirements (5.3, 5.4). 
+3.2 If possible the intended end use of the item should 
+be given on the purchase order, especially when the item 
+is ordered for a specific end use or uses. 
+NOTE 2 - A typical ordering description is as follows: 5 age-hardening 
+stainless steel forgings, Type 630, solution-annealed, ASTM Specification 
+A 705 dated _ . End use: pump blocks for oil well equipment. 
+4. General Requirements 
+4.1 In addition to the requirements of this specification, 
+all requirements of the current edition of Specification 
+A 484/A 484M shall apply. Failure to comply with the 
+general requirements of Specification A 484 / A 484 M, con­
+stitutes nonconformance with this specification. 
+5. Materials and Manufacture 
+5.1 Material for forgings shall consist of billets or bars, 
+either forged, rolled or cast, or a section cut from an ingot. 
+The cuts shall be made to the required length by a suitable 
+process. This material may be specified to Specification 
+A 564/ A 564M. 
+5.2 The material shall be forged by hammering, press­
+ing, rolling, extruding, or upsetting to produce a wrought 
+structure throughout and shall be brought as nearly as 
+possible to the finished shape and size by hot working. 
+1166
+
+=== Page 1253 ===
+
+ASME BPVC.II.A-2025 SA-705/SA-70SM 
+5.3 When specified on the order, sample forging may be 
+sectioned and etched to show flow lines and the condition in 
+regard to internal imperfections. When so specified, the 
+question of acceptable and unacceptable metal flow shall 
+be subject to agreement between the manufacturer and the 
+purchaser prior to order entry. 
+5.4 When specified on the order, the manufacturer shall 
+submit for approval of the purchaser a sketch showing the 
+shape of the rough forging before machining, or before 
+heat treating for mechanical properties. 
+5.5 The grain size shall be as fine as practicable and 
+precautions shall be taken to minimize grain growth. 
+5.6 Material of types other than XM-9 shall be fur­
+nished in the solution-annealed condition, or in the equal­
+ized and over-tempered condition, as noted in Table 2 
+unless otherwise specified by the purchaser. ' 
+5.6.1 Types 630, XM-16, and XM-25 may be fur­
+nished in the solution-annealed or age-hardened condition. 
+6. Chemical Composition 
+6.1 The steel shall conform to the chemical composition 
+limits specified in Table 1. 
+6.2 Methods and practices relating to chemical analysis 
+required by this specification shall be in accordance with 
+Test Methods, Practices, and Terminology A 751. 
+7. Mechanical Properties 
+7 .1 The material, as represented by mechanical test 
+specimens, shall conform to the mechanical property 
+requirements specified in Table 2 and shall be capable of 
+developing the properties in Table 3 when heat treated as 
+specified in Table 3. 
+7 .2 The yield strength shall be determined by the offset 
+method as described in the current edition of Test Methods 
+and Definitions A 370. The limiting permanent offset shall 
+be 0.2% of the gage length of the specimen. 
+7.3 The impact strength shall be determined at 70 to 
+80°F [20 to 25°C], by Charpy V-notch specimen Type A 
+as described in Test Methods and Definitions A 370. 
+7 .4 Material tensile tested and, when specified, impact 
+tested in the transverse direction (perpendicular to the forg­
+ing flow lines) and meeting the requirements shown in 
+Table 3 need not be tested in the longitudinal direction. 
+7.5 Samples cut from forging shall conform to the 
+mechanical properties of Table 3 when heat treated as 
+specified in Table 2 and Table 3 and tested in accordance 
+with Test Methods and Definitions A 370. 
+8. Prolongations for Tests 
+8.1 Subject to Section 7, the forgings shall be produced 
+with prolongations for testing, unless otherwise. specified. 
+The producer may elect to submit an extra forging to repre­
+sent each test lot instead of prolongations, or the test speci­
+mens can be taken from the forgings themselves. 
+9. Number of Tests 
+9.1 For all classes of forgings weighing from 5000 to 
+7000 lb [2300 to 3200 kg] each, at least one tension test 
+shall be made from each forging. 
+9.2 For all classes of forgings weighing more than 7000 
+lb [3200 kg] each, one tension test shall be made from 
+each end of each forging. In the case of ring forgings, the 
+tension test specimen shall be removed from each of two 
+locations on the periphery, approximately 180° apart, or 
+insofar as practicable, from opposite ends of the forging. 
+9.3 For forgings weighing less than 5000 lb [2300 
+kg] each, one tension test shall be made from each size 
+classification for each heat . in each heat treating charge. 
+Where continuous heat treating furnaces are used, tests 
+shall be made on 10% of the forgings of each size classifi­
+cation from each heat subjected to the same heat treatment 
+practice. 
+10. Keywords 
+10.1 age-hardening stainless steel; precipitation hard­
+ening stainless steel; stainless steel forgings 
+1167
+
+=== Page 1254 ===
+
+>--' 
+>--' 
+°' CXl 
+( 
+TABLE 1 
+CHEMICAL REQUIREMENTSA 
+Composition, % 
+UNS 
+Designation 8 Type Carbon Manganese Phosphorus Sulfur Silicon Chromium Nickel Aluminum Molybdenum 
+S17400 630 0.07 1.00 0.040 0.030 1.00 15.00-17.50 3.00-5.00 
+S17700 631 0.09 1.00 0.040 0.030 l.00 16.00-18.00 6.50-7.75 0.75-1.50 
+S15700 632 0.09 1.00 0.040 0.030 1.00 14.00-16.00 6.50--7.75 0.75-1.50 2.00--3.00 
+S35500 634 0.10-0.15 0.50--1.25 0.040 0.030 0.50 15.00-16.00 4.00-5.00 2.50-3.25 
+S17600 635 0.08 1.00 0.040 0.030 1.00 16.00-17.50 6.00-7.50 0.40 
+S15500 XM-12 0.07 1.00 0.040 0.030 1.00 14.00-15.50 3.50-5.50 
+S13800 XM-13 0.05 0.20 0.010 0.008 0.10 12.25-13.25 7.50-8.50 0.90-1.35 2.00-2.50 
+S45500 XM-16 0.03 0.50 0.015 0.015 0.50 ll.00-12.50 7.50-9.50 0.50 
+S45503 0.010 0.50 0.010 0.010 0.20 11.00-12.50 7.50-9.50 0.50 
+S45000 XM-25 0.05 1.00 0.030 0.030 1.00 14.00-16.00 5.00--7.00 0.50--1.00 
+A Limits are in percent maximum unless shown as a range or stated otherwise. 
+8 New designation established in accordance with Practice E 527 and SAE Jl086, Recommended Practice for Numbering Metals and alloys CUNS). 
+c Columbium plus tantalum 0.15--0.45. 
+D Nitrogen 0.07-0.13. 
+£ Nitrogen 0.01. 
+F Columbium plus tantalum 0.10-0.50. 
+G Columbium 8 times carbon minimum. 
+Titanium Copper 
+3.00-5.00 
+0.40--1.20 
+2.50-4.50 
+0.90--1.40 l.50-2.50 
+l.00-1.35 l.50-2.50 
+l.25-1.75 
+Other 
+Elements 
+C 
+... 
+D 
+... 
+C 
+£ 
+F 
+F 
+G 
+) 
+~ 
+-..i c:, 
+U1 ...... 
+~ 
+-..i c:, 
+U1 
+3: 
+t 3: 
+!'!:I 
+tl:I 
+~ ... 
+~ 
+N 
+c:, 
+N 
+U1
+
+=== Page 1255 ===
+
+( 
+TABLE 2 
+SOLUTION HEAT TREATMENT 
+Mechanical Test Requirements in Solution Treated ConditionA 
+Tensile Strength, Yield Strength, 
+min min Reduction of Hardness 8 
+Elongation in 2 in. Area, min Rockwell C, Brinell, 
+Type Condition Solution Treatment ksi [MPaJ ksi [MPa] [50 mm] or 4D, min, % % max max 
+630 A 1900 ± 25°F U040 ± 15°CJ (cool 38 363 
+as required to below 90°F [32°CJ) 
+631 A 1900 ± 25°F U040 ± 15°CJ Rb89 229 
+(water quench) 
+632 A 1900 ± 25°F [1040 ± 15°C] (water RblOO 269c 
+quench) 
+634D A 1900 ± 25°F [1040 ± 15°CJ quench, 363D 
+hold not less than 3 h at minus 100°F 
+1--" 
+or lower 1--" 
+Cl\ 
+'° 635 A 1900 ± 25°F [1040 ± 15°CJ (air cool) 120 [825] 75 [515] 10 45 32 302 
+XM-12 A 1900 ± 25°F [1040 ± 15°CJ (cool as 38 363 
+required to below 90°F [32°CJ) 
+XM-13 A 1700 ± 25°F [925 ± 15°CJ (cool as 38 363 
+required to below 60°F U6 °CJ) 
+XM-16 A 1525 ± 25°F [830 ± 15°CJ (cool 36 331 
+rapidly) 
+S45503 A 1525 ± 25°F [830 ± 15°CJ (cool 36 331 
+rapidly) 
+XM-25 A 1900 ± 25°F [1040 ± 15°CJ (cool 125£ [860] 95 [655] 10 40 33 311 
+rapidly) 
+A See 6.1. 
+8 Either Rockwell C hardness or Brinell is permissible. On sizes of ½ in. (12.70 mm) and smaller. Rockwell C is preferred. 
+c 321 BH N for rounds cold drawn after solution treating. 
+0 Equalization and over-tempering treatment 1425 ± 50°F [775 ± 30°CJ for not less than 3 h, cool to room temperature, heat to 1075 ± 25°F [580 ± 15°CJ for not less than 3 h. 
+£ 125 - 165 ksi [860 - 1140 M PaJ for sizes up to ½ in. [13 mmJ. 
+) 
+~ 
+3: 
+~ 
+= 
+~ 
+~ 
+N 
+Cl 
+N 
+Ill 
+~ ...... 
+Cl 
+Ill 
+~ ...... 
+Cl 
+Ill 
+3:
+
+=== Page 1256 ===
+
+~ 
+~ 
+0 
+TABLE 3 
+Ill ....... 
+MECHANICAL TEST REQUIREMENTS AFTER AGE HARDENING HEAT TREATMENTA ~ 
+~ 
+0 
+Tensile Yield Impact Ill 
+Elongation Si: Suggested Hardening or Aging Strength, Strength, in 2 in. Charpy-V, 
+Treatment, or both~i;;o min minF [50 mm] Reduction HardnessG min 
+Temperature, °F Applicable Thickness, in. and or 4D, of Area, Rockwell Brinell, 
+Type Condition (OC] Time, h Quench Test DirectionE ksi [MPaJ ksi [MPaJ min,% min,% C, min min ft·lbf J 
+630 H900 900 [480] 1.0 air cool Up to 3 in. incl [75 mm] (LJ 190 [1310] 170 [1170] 10 40 40 388 -
+Over 3 in. [75 mm] to 8 in. incl 35 
+[200 mm] CU 
+H925 925 [495] 4.0 air cool Up to 3 min. incl [75 mm] (L) 170 [1170] 155 [1070] 10 44 38 375 5 6.8 -
+Over 3 in. [75 mm] to 8 in. incl 38 
+[200 mm] (L) 
+Hl025 1025 [550] 4.0 air cool 155 [1070] 145 [1000] 12 45 35 331 15 20 > 
+Hl075 1075 [580] 4.0 air cool 145 [1000] 125 [860] 13 45 32 311 20 27 
+r,, 
+Si: 
+!!I 
+HllOO 1100 [595] 4.0 air cool Up to 8 in. incl [200 mm] CU 140 [965] 115 [795] 14 45 31 302 25 34 = .... 'ti .... Hll50 1150 [620] 4.0 air cool 135 [930] 105 [725] 16 50 28 277 30 41 < '-l n 
+0 1400 [760] for 2 h, air cool plus [795] [520] 24 255 
+;:... 
+Hll50M 115 75 18 55 55 75 
+~ 1150 [620] for 4 h, air cool N 
+0 
+631 RH950 l750°F [955°CJ for not less N 
+Ill 
+than 10 min, but not more 
+than l h, cool rapidly to room 
+temperature. Cool within 24 h Up to 4 in. incl. noo mmJ CU to minus 100 ± 10°F [75°CJ, 185 [1280] 150 [1030] 6 10 41 388 
+hold not less than 8 h. Warm 
+in air to room temperature. 
+Heat to 950°F [510°CJ, hold 
+l h, air cool 
+TH1050 Alternative treatment: 1400°F 
+[760°CJ hold 90 min, cool to 
+55 ± 5°F [15 ± 3°CJ within l Up to 6 in. incl [150 mm] CU 170 [1170] 140 [965] 6 25 38 352 h. Hold not less than 30 min, 
+heat to 1050°F [565°CJ hold 
+for 90 min, air cool 
+632 RH950 Up to 4 in. incl noo mmJ CU 200 [1380] 175 [1210] 7 25 415 
+TH1050 
+Same as Type 631 Up to 6 in. incl [150 mm] (L) 180 [1240] 160 [1100] 8 25 375 
+( )
+
+=== Page 1257 ===
+
+( ') ) 
+TABLE 3 
+MECHANICAL TEST REQUIREMENTS AFTER AGE HARDENING HEAT TREATMENTA (CONT'D) 
+Tensile Yield Elongation Impact 
+Suggested Hardening or Aging Strength, Strength, in 2 in. Charpy-V, 
+Treatment, or both 8 ,C,D min minF [50 mm] Reduction HardnessG min --Temperature, °F Applicable Thickness, in. and or 4D, of Area, Rockwell Brinell, 
+Type Condition [°C] Time, h Quench Test Direction£ ksi [MPaJ ksi [MPaJ min,% min,% C, min min ft·lbf J 
+634H HlOOO 1750 [955] for but not less than 
+10 min, but not more than 1 h. 
+Water quench. Cool to not 
+higher than minus 100°F 170 [1170] 155 [1070] 12 25 37 341 [75°CJ. Hold for not less than 
+3 h. Temper at l000°F 
+[540°CJ, holding for not less 
+than 3 h. 
+635 H950 950 (510) 0.5 air cool 190 [1310] 170 [1170] 8 25 39 363 
+> r.l') 
+HlOOO 1000 [540] 0.5 air cool 180 [1240] 160 [1100] 8 30 37 352 3: 
+t!'l 
+= I-' Hl050 1050 [565] 0.5 air cool 170 [1170] 150 [1035] 10 40 35 331 'ti I-' < -..J 
+Up to 12 in. incl [300 mmJ 1 (L) 
+n I-' XM-12 H900 900 [480] 1.0 air cool 10 35 
+~ Up to 12 in. incl [300 mmJ 1 (T) 
+190 [1310] 170 [1170] 40 388 
+6 15 N c:, 
+Up to 12 in. incl [300 mmJ 1 (U 
+N 
+H925 925 [495] 4.0 air cool 10 38 5 6.8 en 
+Up to 12 in. incl [300 mmJ 1 (Tl 
+170 [1170] 155 [1070 38 375 
+7 20 
+Hl025 1025 [550] 4.0 air cool Up to 12 in. incl [300 mmJ 1 (L) 12 45 15 20 
+Up to 12 in. incl [300 mmJ 1 (T) 
+155 [1070] 145 UOOO 35 331 
+8 27 10 14 
+Hl075 1075 [580] 4.0 air cool Up to 12 in. incl [300 mmJ 1 (U 13 45 20 27 
+Up to 12 in. incl [300 mmJ 1 (Tl 
+145 DOOOJ 125 [860] 32 311 
+9 28 15 20 
+HllOO 1100 [595] 4.0 air cool Up to 12 in. incl [300 mmJ 1 (L) 14 45 25 34 
+Up to 12 in. incl [300 mmJ 1 (T) 
+140 [965] 115 [795] 31 302 
+10 29 15 20 
+H1150 1150 [620] 4.0 air cool Up to 12 in. incl [300 mmJ 1 (U 16 50 30 41 
+Up to 12 in. incl [300 mmJ 1 CT) 
+135 [930] 105 [725] 28 277 
+11 30 20 27 
+~ 
+1400 [760] for 2 h, air cool plus Up to 12 in. incl [300 mm] 1 (L) 
+'-I 
+Hll50M 18 55 55 75 c:, 
+1150 [620] for 4 h, air cool 115 [795] 75 [515] 24 255 en 
+Up to 12 in. incl [300 mm] 1 (Tl ....... 14 35 35 47 
+~ 
+'-I c:, 
+en 
+3:
+
+=== Page 1258 ===
+
+TABLE 3 ~ MECHANICAL TEST REQUIREMENTS AFTER AGE HARDENING HEAT TREATMENTA (CONT'D) -.:i 
+0 
+"' Tensile Yield Impact ....... 
+Suggested Hardening or Aging Strength, Strength, Elongation 
+Charpy-V, ~ 
+Treatment, or both 8 ,~ 0 minF in 2 in. 
+HardnessG 
+-.:i 
+min [50 mmJ Reduction min 0 
+"' Temperature, °F Applicable Thickness, in. and or 4D, of Area, Rockwell Brinell, 3: 
+Type Condition (OCJ Time, h Quench Test Direction£ ksi [MPaJ ksi [MPaJ min,% min,% C, min min ft·lbf J 
+XM-13 H950 950 [510] 4.0 air cool Up to 12 in. incl [300 mmJ 1 (Ll 45 
+Up to 12 in. incl [300 mm] 1 (Tl 
+220 [1520] 205 [1420] 10 45 430 
+35 
+HlOOO 1000 [540] 4.0 air cool Up to 12 in. incl [300 mmJ 1 (Ll 10 50 
+Up to 12 in. incl [300 mmJ 1 (Tl 
+205 [1420] 190 [1310 43 400 
+10 40 
+Hl025 1025 [550] 4.0 air cool Up to 12 in. incl [300 mm] (Ll 50 
+185 [1280] 175 [1210] 11 41 380 Up to 12 in. incl [300 mm] (Tl 45 
+Hl050 1050 [565] 4.0 air cool Up to 12 in. incl [300 mm] (Ll 50 
+175 [1210] 165 [1140] 1 40 372 Up to 12 in. incl [300 mm] (Tl 45 
+> HllOO 1100 [595] 4.0 air cool Up to 12 in. incl [300 mm] (Ll 50 c;r., 
+3: 150 [1030] 135 [930] 14 4 313 t!l Up to 12 in. incl [300 mm] (Tl 50 ti, 
+I-" 
+~ 
+I-" Hll50 1150 [620] 4.0 air cool Up to 12 in. incl [300 mm] (L) 50 '-I 
+N 135 [930] 90 [620] 14 0 283 
+~ Up to 12 in. incl [300 mm] (Tl 50 
+N 
+Up to 12 in. incl [300 mm] (Ll 0 
+HllSOM 1400 [760] for 2 h, air cool plus 55 N 
+125 [860] 85 [585] 16 6 259 "' 1150 [620] for 4 h, air cool Up to 12 in. incl [300 mm] (Tl 55 
+XM-16 1 H900 900 [480] 4.0 air cool 235 [1620] 220 [1520] 8 30 47 444 
+H950 950 [510] 4.0 air cool Up to 6 in. incl [ISO mm] (L) 220 [1520] 205 [1410] 10 40 44 415 
+HlOOO 1000 [540] 4.0 air cool 205 [141"0] 185 [1280] 10 40 40 363 
+S45503J H900 900 [480] 4.0 air cool Up to 6 in. incl [ISO mm] (L) 8 30 
+Up to 6 in. incl [ISO mm]K (Tl 
+235 [1620] 220 [1520 47 444 
+4 15 
+H950 950 [510] 4.0 air cool Up to 6 in. incl [150 mm] (Ll 10 40 
+Up to 6 in. incl [150 mm]K (Tl 
+220 [1520] 205 [1410 44 415 
+5 20 
+HlOOO 1000 [540] 4.0 air cool Up to 6 in. incl [ISO mm] (Ll 10 40 
+205 [1410] 185 [1280] 40 363 
+Up to 6 in. incl [150 mm] (Tl 6 25 
+XM-25J H900 900 [480] 4.0 air cool Up to 8 in. incl [200 mm] 10 40 
+Up to 12 in. incl [300 mm]K (Ll 180 [1240] 170 [1170] 10 40 39 363 
+Up to 12 in. incl [300 mm]K (Tl 6 20 
+H950 950 [510] 4.0 air cool Up to 8 in. incl [200 mm] 10 40 
+Up to 12 in. incl [300 mmJK (Ll 170 [1170] 160 [1100] 10 40 37 341 
+Up to 12 in. incl [300 mm]K (Tl 7 22 
+( 
+I I ) \ I
+
+=== Page 1259 ===
+
+~ 
+~ 
+-...J 
+w 
+c- ( 
+•. ~•~>=-...._,_ 
+( '\ ) 
+TABLE 3 
+MECHANICAL TEST REQUIREMENTS AFTER AGE HARDENING HEAT TREATMENTA (CONT'D) 
+Tensile Yield Elongation Impact 
+Suggested Hardening or Aging Strength, Strength, in 2 in. Charpy-V, 
+Treatment, or bothB,t;D min minF [50 mm] Reduction HardnessG min 
+Temperature, °F Applicable Thickness, in. and or 4D, of Area, Rockwell Brinell, 
+Type Condition (OC] Time, h Quench Test Direction£ ksi [MPa] ksi [MPaJ min,% min,% C, min min ft·lbf J 
+XM-25J HlOOO 1000 [540] 4.0 air cool Up to 8 in. incl [200 mmJ 12 45 
+Up to 12 in. incl [300 mmJK (L) 160 [llOOJ 150 [1030] 12 45 36 331 
+Up to 12 in. incl [300 mmJK (T) 6 27 
+Hl025 1025 [550] 4.0 air cool Up to 8 in. incl [200 mm] 150 [1030] 140 [965] 12 45 34 321 
+Hl050 1050 [565] 4.0 air cool Up to 8 in. incl [200 mm] 12 45 
+Up to 12 in. incl [300 mmJK (L) 145 ClOOOJ 135 [930] 12 45 34 321 
+Up to 12. in. incl [300 mmJK (T) 9 30 
+HllOO llOO [595] 4.0 air cool Up to 8 in. incl [200 mmJ 16 50 
+Up to 12 in. incl [300 mmJK (L) 130 [895] 105 [725] 16 50 30 285 
+Up to 12 in. incl [300 mmJK (Tl ll 30 
+Hll50 ll50 [620] 4.0 air cool Up to 8 in. incl [200 mm] 15 50 
+Up to 12 in. incl [300 mmJK (L) 125 [860] 75 [515] 18 55 26 262 
+Up to 12 in. incl [300 mmJK (Tl 12 35 
+A See 6.1. 
+8 Time refers to minimum time material is at temperature and may be extended to obtain required ductility properties. 
+c Unless otherwise noted, temperatures shown are suggested temperatures and may be varied to obtain required tensile properties. 
+0 Intermediate temperatures must meet the ductility requirements of the next highest suggested hardening or aging temperature, or both. Example: Type 630 at 1050°F [565°CJ must have 
+13% elongation and 45% reduction, same as for age hardening at 1075°F [580°CJ. 
+E (L) - Longitudinal axis of specimen parallel to direction of grain flow during rolling or forging. (Tl - Transverse axis of specimen perpendicular to direction of grain flow during rolling 
+or forging. 
+F See 6.2. 
+G Either Rockwell C hardness or Brinell is permissible. On sizes 1/2 in. (12.70 mm) and smaller, Rockwell C is preferred. 
+H Refer to Table 2 for details on equalize and over temper heat treatment. 
+1 Applies to consumable electrode vacuum remelted. 
+J Only tensile strength applicable to sizes up to 1/ 2 in. (13 mm). 
+K Consumable electrode remelted only. 
+) 
+> ~ 
+:s: t,:f 
+CCI 
+"Cl 
+< C 
+~ 
+N 
+0 
+N 
+1-l 
+~ 
+...:i 
+0 
+1-l 
+~ 
+...:i 
+0 
+1-l 
+:s:
+
+=== Page 1260 ===
+
+SA-723/SA-723M ASME BPVC.11.A-2025 
+Standard Specification for 
+Alloy Steel Forgings for High-Strength Pressure Component 
+Application 
+1. Scope 
+1.1 This specification covers requirements for high­
+strength quenched and tempered alloy steel forgings for pres­
+sure vessels, isostatic presses, shock tubes, and similar com­
+ponents. 
+1.2 These materials are not intended for welded construc­
+tion. 
+1.3 Three grades of nickel-chromium-molybdenum steels 
+and six classes of increasing tensile strength are included. The 
+strength class, section size, and configuration of the forging 
+will largely dictate the applicable type(s) of steel. 
+1.4 The values stated in either inch-pound units or SI 
+(metric) units are to be regarded separately as the standard. 
+Within the text and tables, the SI units are shown in brackets. 
+The values stated in each system are not exact equivalents; 
+therefore, each system must be used independently of the other. 
+Combining values from the two systems may result in noncon­
+formance with the specification. 
+1.5 Unless the order specifies the applicable "M" specifica­
+tion designation, the material shall be furnished to the inch­
+pound units. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+A275/A275M Practice for Magnetic Particle Examination of 
+Steel Forgings 
+A370 Test Methods and Definitions for Mechanical Testing 
+of Steel Products 
+A388/A388M Practice for Ultrasonic Examination of Steel 
+Forgings 
+A 788/ A 788M Specification for Steel Forgings, General Re­
+quirements 
+2.2 Other Standards: 
+ASME Boiler and Pressure Vessel Code 
+3. Ordering Information and General Requirements 
+3.1 In addition to the ordering information required by 
+Specification A788/A788M, the purchaser shall include with 
+the inquiry and order a detailed drawing, sketch, or written 
+description of the forging and the method of selecting test 
+location (see 6.2). When appropriate, the areas of significant 
+loading in the forging shall be designated. The purchaser may 
+also include appropriate supplementary requirements from 
+Specification A 788/ A 788M as well as from this specification. 
+3.2 Material supplied to this specification shall conform to 
+the requirements of Specification A788/A788M, which out­
+lines additional ordering information, manufacturing 
+requirements, testing and retesting methods and procedures, 
+marking, certification, product analysis variations, and addi­
+tional supplementary requirements. 
+3.3 If the requirements of this specification are in conflict 
+with the requirements of Specification A 788/ A 788M, the 
+requirements of this specification shall prevail. 
+3.4 When forgings are required to be in compliance with 
+Division 3 of the ASME Boiler and Pressure Vessel Code, 
+Supplementary Requirement S6 should be specified. 
+4. Materials and Manufacture 
+4.1 Melting Practice-The steel melting procedures of 
+Specification A 788/ A 788M shall apply except that the open­
+hearth process shall not be used, and that the steel shall be 
+vacuum degassed prior to or during the pouring of the ingot, in 
+order to remove objectionable gases, particularly hydrogen. 
+4.1.1 Use of secondary remelting or refining operations may 
+be considered for particularly demanding applications. 
+4.2 Discard-Sufficient discard shall be taken from each 
+ingot to secure freedom from piping and excessive segregation. 
+1176
+
+=== Page 1261 ===
+
+ASME BPVC.II.A-2025 SA-723/SA-723M 
+4.3 Heat Treatment: 
+4.3.1 Forgings shall be rough-machined prior to final heat 
+treatment if it is necessary to reduce the mass to ensure full 
+hardening or to meet the requirements of 6.2. The risk of 
+cracking during heat treatment with high-hardenability steels 
+of the type covered by this specification should be borne in 
+mind when deciding on the degree of surface preparation 
+before heat treatment. 
+4.3.2 Heat Treatment for Mechanical Properties-Heat 
+treatment shall consist of normalizing (which may be part of 
+the preliminary treatment), reaustenitization, liquid quenching, 
+and tempering. The forgings shall be quenched in a suitable 
+liquid medium by spraying or immersion. Quenching shall be 
+followed by tempering at a minimum temperature of 1000°F 
+[540°C]. The minimum time at tempering temperature shall be 
+½ h/in. [½ h/25 mm] of maximum section thickness, unless 
+otherwise agreed between supplier and purchaser. 
+5. Chemical Composition 
+5.1 Heat Analysis-The heat analysis obtained from sam­
+pling in accordance with Specification A788/A788M shall 
+comply with Table 1. 
+5.1.1 Temper Embrittlement Control-The purchaser's at­
+tention is drawn to Supplementary Requirement S24 in Speci­
+fication A788/A788M for application of the J Factor which 
+may be of assistance in the control of temper embrittlement in 
+forgings produced to Specification A 723/ A 723M. 
+5.2 Product Analysis-The manufacturer shall use the prod­
+uct analysis provision of Specification A788/A788M to obtain 
+a product analysis from a forging representing each heat or 
+multiple heat. The purchaser may also make this determination 
+in accordance with Specification A788/A788M. 
+6. Mechanical Properties 
+6.1 General Requirements-The forging shall conform to 
+the requirements of Table 2 and Table 3. The largest obtainable 
+tension test specimen as specified in Test Methods and Defi­
+nitions A370 (that is, standard round 0.500-in. [12.5-mm] 
+diameter specimen) shall be used. Charpy V-notch Type A 
+impact specimens, as shown in Test Methods and Definitions 
+A370, shall be used. 
+6.2 Sampling-The mid-point of the gage length of tension 
+test specimens and the area under the notch of impact speci­
+mens shall be located in accordance with one of the following 
+methods as specified by the purchaser, or suggested by the 
+Carbon, max 
+Manganese, max 
+Phosphorus, max 
+Sulfur, max 
+Silicon, max 
+Nickel 
+Chromium 
+Molybdenum 
+Vanadium, max 
+TABLE 1 Chemical Requirements 
+Grade 1 
+0.35 
+0.90 
+0.015 
+0.015 
+0.35 
+1.5 to 2.25 
+0.80 to 2.00 
+0.20 to 0.40 
+0.20 
+Composition, % 
+Grade 2 
+0.40 
+0.90 
+0.015 
+0.015 
+0.35 
+2.3 to 3.3 
+0.80 to 2.00 
+0.30 to 0.50 
+0.20 
+Grade 3 
+0.40 
+0.90 
+0.015 
+0.015 
+0.35 
+3.3 to 4.5. 
+0.80 to 2.00 
+0.40 to 0.80 
+0.20 
+supplier and approved by the purchaser. Wherever practical, all 
+testing shall be from integral prolongations of the forging. 
+6.2.1 Method I-This method shall always be used when 
+the maximum quenched thickness does not exceed 4 in. [100 
+mm]. Datum points of the specimens, as described in 6.2, shall 
+be located in the forging or test forging (6.2.4) at mid-thickness 
+and at least 1/3 T (Tis the maximum heat-treated thickness) 
+from the quenched end surface or nearest adjacent surfaces. 
+6.2.2 Method 2-t by 2t, where t is the distance from the 
+area of significant loading (3.1) to the nearest quenched 
+surface. However, the datum points of the specimens as 
+described in 6.2 shall not be nearer to one quenched surface 
+than¾ in. [20 mm] and to the second quenched surface than 1 
+½ in. [40 mm]. When this method of testing is employed, 
+forgings are usually manufactured in accordance with a 
+purchaser-approved drawing showing prequenched dimensions 
+and the location of mechanical test specimens. It is commonly 
+used for disk-type forgings such as tube sheets and covers. 
+6.2.3 Method 3-For maximum quenched thicknesses in 
+excess of 4 in. [100 mm] as heat treated. Where this method of 
+testing is employed, the datum points of the test specimen, as 
+described in 6.2, shall be removed ¼ T from the nearest 
+quenched surface and 2 /2 T from the quenched end surface or 
+nearest adjacent surface. 
+6.2.4 Method 4-Test specimens shall be taken from a 
+representative separate test forging made from the same heat of 
+steel, which shall receive substantially the same reduction and 
+type of hot working, and have a cross section not less than the 
+production forgings which it represents. It shall be heat treated 
+in the same furnace charge and under the same conditions as 
+the production forgings. The test specimen shall be removed 
+using the Method 3 procedure. 
+6.3 Thermal Buffers: 
+6.3.1 Thermal buffer rings, at least Thy Tin cross section or 
+sections of such a ring at least 3 Tin length, shall be welded to 
+the test end(s) of a forging prior to heat treatment for 
+mechanical properties. The buffer material may be any weld­
+able carbon or low-alloy steel and shall be joined to the forging 
+with a partial penetration-type weld which completely seals the 
+buffered surface. The test coupons shall be removed from the 
+forging in the region buffered by the ring or ring segments. If 
+the latter are used, the test coupons shall be removed from the 
+forging in the area under the center ½ of the buffer ring 
+segment length. In either case, the test specimens shall be 
+located at a minimum distance of ½ in. [13 mm] from the 
+buffered surface of the forging and at least ¼ T from a 
+quenched surface of the forging. Buffered weld areas must be 
+at least 1 in. [25 mm] from any finished machining surface of 
+the complete forging. 
+6.3.2 Bearing in mind the characteristics of the base mate­
+rials included in this specification, precautions should be taken, 
+such as the use of pre- and post-weld heating and austenitic 
+weld metal, to minimize the occurrence of crack-like defects. 
+6.3.3 Approval of the purchaser should be obtained for the 
+use of this method. 
+6.4 Samples shall be removed from the forgings after 
+quenching and tempering. 
+1177
+
+=== Page 1262 ===
+
+SA-723/SA-723M ASME BPVC.II.A-2025 
+TABLE 2 Tensile Requirements 
+Class 1 Class 2 Class 2a Class 3A Class 4 8 Class 5° 
+Tensile strength, min, ksi [MPa] 115 [795] 135 [930) 145 [1000) 155 [1070) 
+140 [965] 
+13 
+175 [1205] 
+160 [1105] 
+12 
+190 [1310] 
+180 [1240] 
+10 
+Yield strength, 0.2 % offset, min, ksl [MPa] 100 [690) 120 [825) 130 [895) 
+Elongation in 2 in. or 50 mm, min,% 16 14 13.5 
+Reduction of area, min, % 50 45 43 40 35 30 
+A Typical maximum section size of 10 in. [255 mm] for open-ended vessels, or 7 in. [180 mm] for blind-ended vessels. 
+8 Typical maximum section size of 6 in. [150 mm] for open-ended vessels, or 4 in. [100 mm] for blind-ended vessels. 
+0 Typical maximum section size of 4 in. [100 mm]. 
+TABLE 3 Charpy V-Notch Impact Requirements at 40°F [4.5°C] maxA 
+Class 1 Class 2 Class 2aA Class 3 8 Class 4° Class 5° 
+Minimum average value of set of three 35 [47] 30 [41) 28 [38] 25 [34] 20 [27] 12 [16] 
+specimens, ft-lbfE [J] 
+Minimum value of one specimen, ft-lb! [J) 30 [41] 25 [34] 23 [31] 20 [27] 15 [20] 10 [14] 
+AQr such other lower temperature as is specified when supplementary requirement S3 is involved. 
+8Typical maximum section size of 10 in. [255 mm] for open-ended vessels, or 7 in. [180 mm] for blind-ended vessels. 
+°Typical maximum section size of 6 in. [150 mm] for open-ended vessels, or 4 in. [100 mm] for blind-ended vessels. 
+°Typical maximum section size of 4 in. [100 mm]. 
+ENot more than one specimen from a set may be below this value. 
+6.5 Orientation-For upset disk forgings, the longitudinal 
+axis of all test specimens shall be oriented in the tangential or 
+radial direction. For all other forgings, the longitudinal axis of 
+the specimens shall be oriented in the direction of maximum 
+working of the forging, or as agreed between manufacturer and 
+purchaser. 
+6.6 Number of Tests: 
+6.6.1 For forgings weighing 1000 lb [455 kg] or less, as heat 
+treated but not exceeding 80 in. [2030 mm] in length, exclud­
+ing test material, one tension test and one set of impact tests 
+(three specimens) shall be taken to represent each heat in each 
+heat-treatment charge. This testing shall be repeated at the 
+opposite end of the same test forging, if the heat-treated length 
+excluding test material exceeds 80 in. [2030 mm]. When heat 
+treatment is performed in continuous-type furnaces with suit­
+able temperature control and equipped with recording pyrom­
+eters so that complete heat-treatment records are available, a 
+heat-treatment charge shall be considered as any continuous 
+run not exceeding 8 h in duration. 
+6.6.2 Forgings weighing over 1000 lb [455 kg] but not over 
+5000 lb [2270 kg] as heat treated and not over 80 in. [2030 
+mm] in length excluding test material, one tension test and one 
+set of three impact tests shall be removed from each forging. 
+When the length of the forging exceeds 80 in. [2030 mm] this 
+testing shall be repeated at the opposite end of the forging. 
+6.6.3 Forgings exceeding 5000 lb [2270 kg] and not over 80 
+in. [2030 mm] in length, excluding test material, shall have one 
+tension test and one set of three impact tests removed from 
+each of two locations, 180° apart. For forgings with lengths 
+exceeding 80 in. [2030 mm] this testing shall be repeated at the 
+opposite end of the forging. Supplementary Requirement S6 is 
+applicable for forgings intended for use under the rules of 
+Section VIII, Division 3 of the ASME Boiler and Pressure 
+Vessel Code. 
+7. Nondestructive Examination Requirements 
+7.1 Ultrasonic Examination: 
+7.1.1 Forgings shall be ultrasonically examined in accor­
+dance with the procedures of Practice A388/A388M. 
+7.1.1.1 Straight-Beam Examination: (a)Unless otherwise 
+specified, the back-reflection method of tuning shall be used in 
+accordance with Practice A388/A388M. 
+(b) In addition to the reportable conditions of Practice 
+A388/A388M, indications exceeding the resultant back­
+reflection shall be recorded. 
+(c) A forging shall be unacceptable when one or more 
+reflections are present producing indications accompanied by a 
+complete loss of back-reflection, not attributable to nor asso­
+ciated with the geometric configuration. For this purpose, a 
+back-reflection of less than 5 % of full screen height shall be 
+considered complete loss of back-reflection. 
+7.1.1.2 Angle-Beam Examination: (a) Calibration notches 
+shall be cut into the inside diameter and outside diameter 
+surfaces in accordance with Practice A388/A388M. 
+(b) A forging that contains a discontinuity which results in an 
+indication exceeding the amplitude of the reference line is 
+subject to rejection. 
+(c) The report of the ultrasonic test shall be in compliance 
+with Practice A388/A388M. 
+(d) Additional nondestructive examination or trepanning 
+may be employed to resolve questions of interpretation of 
+ultrasonic indications. The manufacturer shall accept respon­
+sibility for injurious defects that will not be removed in final 
+machining. 
+7 .2 Magnetic Particle Examination: 
+7 .2.1 Each forging shall be examined by magnetic particle 
+methods described in Practice A275/A275M. Acceptance and 
+rejection standards shall be as follows: Only indications with 
+major dimensions greater than ½6 in. [1.6 mm] shall be 
+considered relevant. The following relevant indications are 
+unacceptable: 
+7.2.1.1 Any linear indications greater than 1/16 in. [1.6 mm] 
+long for materials less than 5/s in. [16 mm] thick; greater than 
+1/s in. [3.2 mm] long for materials from 5/s in. to under 2 in. [50 
+1178
+
+=== Page 1263 ===
+
+ASME BPVC.II.A-2025 SA-723/SA-723M 
+mm] thick; and 3/26 in. [4.8 mm] long for materials 2 in. [50 
+mm] thick and greater. A linear indication is defined as one 
+whose length is three times its width. 
+7 .2.1.2 Rounded indications with dimensions greater than 
+1/s in. [3.2 mm] for thicknesses less than 5/s in. [16 mm], and 
+greater than 3 /16 in. [4.8 mm] for thicknesses 5/s in. [16 mm] and 
+greater. 
+7.2.1.3 Four or more relevant indications in a line separated 
+by 1/16 in. [1.6 mm] or less, edge to edge. 
+7.2.1.4 Ten or more relevant indications in any 6 in.2 [3870 
+mm 2 ] of surface with the major dimension of this area not to 
+exceed 6 in. [150 mm] when it is taken in the most unfavorable 
+orientation relative to the indications being evaluated. 
+8. Rework and Retreatment 
+8.1 Repair welding shall not be permitted. For retreatment, 
+see 7.2.1. 
+9. Certification and Reports 
+9.1 In addition to the certification requirements of Specifi­
+cation A788/A788M, the manufacturer shall include the fol­
+lowing in the certification data: 
+9 .1.1 Results of the product analysis, 
+9.1.2 Method used to locate mechanical test specimens (see 
+Section 6), and 
+9.1.3 Sketches or drawings as necessary to supplement the 
+nondestructive examination report. 
+10. Packaging and Package Marking 
+10.1 Marking shall be in accordance with Specification 
+A788/A788M but stamping shall be permitted only in areas 
+designated by the purchaser. If no such suitable area is 
+available, a separate nameplate, with the required stamping, 
+shall be permanently affixed to the vessel in a manner that will 
+not be injurious to the vessel. 
+11. Keywords 
+11.1 alloy steel forgings; high pressure vessels; high 
+strength; impact tested; isostatic presses; nonweldable; 
+quenched and tempered; vacuum-treated steel 
+SUPPLEMENTARY REQUIREMENTS 
+One or more of the following supplementary requirements shall apply only when specified by the 
+purchaser in the inquiry or order. Details of these supplementary requirements shall be agreed upon 
+by the manufacturer and the purchaser. 
+Sl. Charpy V-Notch Impact Transition Curve 
+S 1.1 Sufficient impact tests shall be made from the forging 
+test material to establish a temperature-absorbed energy curve. 
+The test temperature range shall be wide enough to establish 
+the upper and lower shelf foot-pound-force energies, with 
+sufficient testing at intermediate temperatures to permit plot­
+ting a reasonably smooth curve. 
+S 1.2 Instead of plotting an impact transition curve, impact 
+requirements may be specified as 50 % fibrous fracture at a 
+specified maximum temperature. 
+S2. Additional Charpy Data 
+S2.1 The percent shear fracture and mils of lateral 
+expansion, defined in Test Methods and Definitions A370, shall 
+be reported for each Charpy specimen tested. 
+S3. Charpy Impact Tests 
+S3.l Charpy impact tests shall be made in accordance with 
+the provisions of Section 6 of this specification, except that the 
+tests shall be at a specified temperature lower than 40°F 
+[4.5°C]. These tests shall be instead of those specified in 
+Section 6, and shall meet the requirements of Table 3. 
+S4. Impact Testing 
+S4.1 For Class 2a forgings, impact tests shall be made in 
+accordance with the provisions of Section 6 of this specifica­
+tion except that the acceptance criteria shall be a minimum of 
+45 ft-lbf [61 J] and 25 mils [0.635 mm] lateral expansion at a 
+test temperature specified by the purchaser. 
+SS. Mechanical Test Location Discard 
+S5.1 Instead of the discard of¼ T x 2 /2 T required by 6.2.3, 
+a minimum discard of ¼ T x T shall be employed for Method 
+3. 
+S6. Alternate Mechanical Testing 
+S6; 1 Forgings exeeding 5000 lb [2270kg] at the time of heat 
+treatment, and not over 80 in. [2030 mm] in length, excluding 
+test material, require one set of test specimens to be taken from 
+each end of the forging. Each test specimen set shall consist of 
+one tension test and three Charpy V-notch specimens. The test 
+specimen set locations shall be spaced 180° apart, end to end. 
+When the forging length exceeds 80 in. [2030 mm] excluding 
+test material two sets of mechanical test specimens shall be 
+removed from each end of the forging, and spaced 180° apart 
+at the same end, and rotated 90° end to end. 
+1179
+
+=== Page 1265 ===
+
+ASME BPVC.ILA-2025 SA-724/SA-724M
+
+SPECIFICATION FOR PRESSURE VESSEL PLATES,
+CARBON-MANGANESE-SILICON STEEL, QUENCHED
+AND TEMPERED, FOR WELDED PRESSURE VESSELS
+
+xs SA-724/SA-724M ily mT
+
+® ‘Starcards Wortowiae
+
+(Identical with ASTM Specification A724/A724M-09(2018).)
+
+1181
+
+=== Page 1267 ===
+
+ASME BPVG.II.A-2025 SA-727/SA-727M
+
+SPECIFICATION FOR CARBON STEEL FORGINGS FOR
+PIPING COMPONENTS WITH INHERENT NOTCH
+TOUGHNESS
+
+2
+
+CxS SA-727/SA-727M
+
+® ‘Standard Were
+
+(Identical with ASTM Specification A727/A727M-14(2019).)
+
+1187
+
+=== Page 1268 ===
+
+SA-727 /SA-727M ASME BPVC.II.A-2025 
+Specification for 
+Carbon Steel Forgings for Piping Components with Inherent 
+Notch Toughness 
+1. Scope 
+1.1 This specification covers forged carbon steel piping 
+components intended primarily for service in pressure piping 
+systems from -20 to +650 °F [-30 to +345 °C] where inherent 
+notch toughness is desired, but where notch toughness testing 
+is not required. Included are forged or ring-rolled flanges, 
+forged fittings, and valves made to specified dimensions, or to 
+dimensional standards such as the ASME and API specifica­
+tions referenced in Section 2. 
+1.2 This specification is limited to forgings with maximum 
+finished section thicknesses no larger than 2 in. [51 mm]. 
+1.3 It shall be the responsibility of the purchaser to deter­
+mine whether material meeting the requirements of this speci­
+fication is satisfactory for the service application. 
+1.4 Supplementary requirements are provided for use when 
+additional testing or inspection is desired. These shall apply 
+only when specified by the purchaser in the order. 
+NOTE 1-There are no provisions for impact testing in this specifica­
+tion. When impact testing is required, refer to Specification A350/A350M. 
+1.5 This specification is expressed in both inch-pound units 
+and in SI units. However, unless the order specifies the 
+applicable "M" specification designation (SI units), the mate­
+rial shall be furnished to inch-pound units. 
+1.6 The values stated in either SI units or inch-pound units 
+are to be regarded separately as standard. Within the text, the 
+SI units are shown in brackets. The values stated in each 
+system may not be exact equivalents; therefore, each system 
+shall be used independently of the other. Combining values 
+from the two systems may result in non-conformance with the 
+standard. 
+1.7 This international standard was developed in accor­
+dance with internationally recognized principles on standard-
+ization established in the Decision on Principles for the 
+Development of International Standards, Guides and Recom­
+mendations issued by the World Trade Organization Technical 
+Barriers to Trade (TBT) Committee. 
+2. Referenced Documents 
+2.1 In addition to those reference documents listed in 
+Specification A961/A961M, the following list of standards 
+apply to this specification. 
+2.2 ASTM Standards: 
+A350/A350M Specification for Carbon and Low-Alloy Steel 
+Forgings, Requiring Notch Toughness Testing for Piping 
+Components 
+A788/A788M Specification for Steel Forgings, General Re­
+quirements 
+A961/A961M Specification for Common Requirements for 
+Steel Flanges, Forged Fittings, Valves, and Parts for 
+Piping Applications 
+E59 Practice for Sampling Steel and Iron for Determination 
+of Chemical Composition (Withdrawn 1996) 
+2.3 ASME Boiler and Pressure Vessel Codes: 
+Section II, Material Specifications, Part C 
+SPA 5.5 Low-Alloy Steel Covered Arc-Welding Electrodes 
+B 16.5 Steel Pipe Flanges and Flanged Fittings 
+B 16.10 Face-to-Face and End-to-End Dimensions of Fer-
+rous Valves 
+B 16.11 Forged Steel Fittings, Socket-Welding and Threaded 
+B 16.30 Unfired Pressure Vessel Flange Dimensions 
+2.4 API Standards: 
+600 Steel Gate Valves with Flanged or Butt-Welding Ends 
+602 Compact Design Carbon Steel Gate Valves for Refinery 
+Use 
+1188
+
+=== Page 1269 ===
+
+ASME BPVC.II.A-2025 SA-727 /SA-727M 
+605 Large Diameter Carbon Steel Flanges 
+2.5 MSS Standard: 
+MSS SP-25 Standard Marking System for Valves, Fittings, 
+Flanges, and Unions 
+3. General Requirements and Ordering Information 
+3.1 Product furnished to this specification shall conform to 
+the requirements of Specification A961/A961M, including any 
+supplementary requirements that are indicated in the purchase 
+order. Failure to comply with the requirements of Specification 
+A961/A961M constitutes nonconformance with this specifica­
+tion. In case of a conflict between the requirements of this 
+specification and Specification A961/A961M, this specification 
+shall prevail. 
+3.2 It is the purchaser's responsibility to specify in the 
+purchase order all ordering information necessary to purchase 
+the needed material. Examples of such information include but 
+are not limited to the following: 
+3.2.1 Additional requirements (see 16.1). 
+4. Materials and Manufacture 
+4.1 The steel shall be made by one or more of the following 
+processes: open-hearth, basic-oxygen, or electric-furnace, and 
+shall be fully killed, fine-grain practice. 
+4.2 Forgings shall be manufactured froni ingots, blooms, 
+billets, slabs, or bars. These items shall be forged, rolled, or 
+strandcast. 
+4.3 A sufficient discard shall be made from the ingot to 
+secure freedom from injurious piping and undue segregation. 
+4.4 The finished product shall be a forging as defined by the 
+Terminology section of Specification A788/A788M. 
+5. Heat Treatment 
+5.1 Following plastic working, the forging manufacturer 
+shall heat treat the forgings by normalizing, or normalizing and 
+tempering, or quenching and tempering. 
+5.1.1 Normalizing-The procedure for normalizing shall 
+consist of uniformly heating the forgings to a temperature 
+between 1550 and 1700 °F [845 and 925 °C], holding a 
+sufficient time to attain uniform temperature throughout, and 
+cooling in still air. The forging shall be at a temperature below 
+1000 °F [540 °C] before heating for normalizing. 
+5.1.2 Quenching-The procedure for quenching shall con­
+sist of uniformly heating the forging to a temperature between 
+1550 and 1700 °F [845 and 925 °C], holding a sufficient time 
+to attain uniform temperature throughout, and quenching into a 
+suitable liquid medium. The forging shall be at a temperature 
+below 1000 °F [540 °C] before heating for quenching. 
+5 .1.3 Tempering-The procedure for tempering shall consist 
+of reheating the forging subsequent to normalizing or quench­
+ing to a temperature of at least 1100 °F [595 °C], but not above 
+the lower transformation temperature, for 30 min/in. [30 
+min/25 mm] of maximum section thickness, with minimum 
+holding time at tempering temperature not less than 30 min. 
+6. Chemical Composition 
+6.1 The steel shall conform to the requirements as to 
+chemical composition prescribed in Table 1. 
+6.2 Steels to which lead has been added shall not be used. 
+7. Mechanical Requirements 
+7.1 Tension Tests: 
+7. I. I Requirements-The material shall conform to require­
+ments for tensile properties prescribed in Table 2. 
+7 .1.1.1 The test specimen shall be obtained from a rough or 
+finished production forging, or prolongation thereof, or it may 
+be obtained from separately forged test blanks from the same 
+heat of steel as the production forging. The test blank shall be 
+reduced by forging in a manner similar to that for the products 
+represented, shall receive approximately the same hot working 
+and reduction, be of the same nominal thickness, and receive 
+the same heat treatment as the finished products represented. 
+The test material shall be treated in the same furnace at the 
+same time as the forging it represents, subject to the require­
+ments of 7 .1.2.1. 
+TABLE 1 Chemical Requirements 
+Elements Composition, % 
+Carbon 
+Heat Analysis 0.25 max 
+Product Analysis 0.28 max 
+Manganese 
+Heat Analysis 0.90 to 1.35 
+Product Analysis 0.84 to 1.41 
+Phosphorus 
+Heat Analysis 0.035 max 
+Product Analysis 0.043 max 
+Sulfur 
+Heat Analysis 0.025 max 
+Product Analysis 0.033 max 
+Silicon 
+Heat Analysis 0.15 to 0.30 
+Product Analysis 0.13 to 0.32 
+Nickel 
+Heat Analysis 0.40A 
+Product Analysis 0.43 
+Chromium 
+Heat Analysis 0.3QA• 8 
+Product Analysis 0.34 
+Molybdenum 
+Heat Analysis 0.12A.B 
+Product Analysis 0.13 
+Copper 
+Heat Analysis 0.40A 
+Product Analysis 0.43 
+Niobium (Nb)c 
+Heat Analysis 0.02 
+Product Analysis 0.03 
+Vanadium 
+Heat Analysis 0.05 
+Product Analysis 0.055 
+A The sum of copper, nickel, chromium and molybdenum shall not exceed 1.00 % 
+on heat analysis. 
+8 The sum of chromium and molybdenum shall not exceed 0.32 % on heat 
+analysis. 
+c Niobium and columbium are interchangeable names for the same element and 
+both names are acceptable for use in A01.22 specifications. 
+1189
+
+=== Page 1271 ===
+
+,-~, 
+I ,, 
+i_l 
+' '~ 
+ASME BPVC.11.A-2025 SA-736/SA-736M 
+SPECIFICATION FOR PRESSURE VESSEL PLATES, 
+LOW-CARBON AGE-HARDENING NICKEL-COPPER­
+CHROMIUM-MOLYBDENUM-COLUMBIUM (NIOBIUM) 
+ALLOY STEEL 
+SA-736/SA-736M 
+(Identical with ASTM Specification A736/A736M-17.) 
+1193 
+e 
+INTIUINAffONAL 
+Standards Worldwide
+
+=== Page 1272 ===
+
+SA-736/SA-736M ASME BPVC.II.A-2025 
+Standard Specification for 
+Pressure Vessel Plates, Low-Carbon Age-Hardening Nickel­
+Copper-Chromium-Molybdenum-Columbium (Niobium) Alloy 
+Steel 
+1. Scope 
+1.1 This specification covers low-carbon age-hardening 
+alloy steel plates for welded pressure vessels and piping 
+components. The specification covers nickel-copper­
+chromium-molybdenum-columbium (niobium) steel. 
+1.2 Plates under this specification are available as follows: 
+1.2.1 Available in Grade A, Class 3 only. 
+1.2.1.1 Quenched and precipitation heat treated with a 
+minimum specified tensile strength of 85 ksi for thinner plates 
+and 75 and 70 ksi for thicker plates, with the minimum tensile 
+strength dependent upon the plate thickness. The maximum 
+thickness of Grade A, Class 3 plates is limited only by the 
+capacity of the chemical composition and heat treatment to 
+meet the specified mechanical property requirements. 
+1.3 This specification is expressed in both inch-pound units 
+and in SI units. However, unless the order specifies the 
+applicable "M" specification designation (SI units), the mate­
+rial shall be furnished in inch-pound units. 
+1.4 The values stated in either inch-pound units or SI units 
+are to be regarded separately as standard. Within the text, the 
+SI units are shown in brackets. The values stated in each 
+system are not exact equivalents. Therefore, each system must 
+be used independently of the other. Combining values from the 
+two systems may result in nonconformance with this specifi­
+cation. 
+1.5 This international standard was developed in accor­
+dance with internationally recognized principles on standard­
+ization established in the Decision on Principles for the 
+Development of International Standards, Guides and Recom­
+mendations issued by the World Trade Organization Technical 
+Barriers to Trade (TBT) Committee. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+A20/A20M Specification for General Requirements for Steel 
+Plates for Pressure Vessels 
+A435/A435M Specification for Straight-Beam Ultrasonic 
+Examination of Steel Plates 
+A577/A577M Specification for Ultrasonic Angle-Beam Ex­
+amination of Steel Plates 
+A578/A578M Specification for Straight-Beam Ultrasonic 
+Examination of Rolled Steel Plates for Special Applica­
+tions 
+3. General Requirements and Ordering Information 
+3.1 Material supplied to this material specification shall 
+conform to Specification A20/ A20M. These requirements out­
+line the testing and retesting methods and procedures, permit­
+ted variations in dimensions, and mass, quality, and repair of 
+defects, marking, loading, and ordering information. 
+3.2 In addition to the basic requirements of this 
+specification, certain supplementary requirements are available 
+when additional control, testing, or examination is required to 
+meet end use requirements. The purchaser is referred to the 
+listed supplementary requirements in this specification and to 
+the detailed requirements in Specification A20/ A20M. 
+3.3 If the requirements of this specification are in conflict 
+with the requirements of Specification A20/ A20M, the require­
+ments of this specification shall prevail. 
+4. Materials and Manufacture 
+4.1 The steel shall be killed and shall conform to the fine 
+austenitic grain size requirement of Specification A20/A20M. 
+5. Heat Treatment 
+5.1 The plates shall be quenched in a liquid medium from a 
+temperature in the range from 1600 to 1700°F [870 to 930°C] 
+1194
+
+=== Page 1273 ===
+
+ASME BPVG.ILA-2025 SA-736/SA-736M
+—— a F . a :
+A TABLE 1 Chemical Requirements TABLE 2 Tensile Requirements
+Composition, % , Grade A
+Element rr rrrrcrnernnnen Class 3 =
+Grade A
+San Tn ksi [MPa] |
+Carbon, max ———__
+Heat analysis 0.07 Yield strength, min |
+Product analysis 0.09 ¥4 in. and under 1s
+Manganese [20 mm and under] [515] |
+Heat analysis 0.40-0.70 _ Over % to 1 in., incl “6
+Product analysis 0.35-0.78 [Over 20 to 25 mm, incl] [515]
+Phosphorus, max’ 0.025 Over 1 to 2 in., incl 75 =
+Sulfur. max4 0.025 [Over 25 to 50 mm, incl] [515]
+Silicon max Over 2 to 4 in., incl 65 :
+Heat analysis 0.40 [Over 50 to 100 mm, incl] [450] :
+Product analysis 0.45 Over 4 in. — 60
+Chromium [Over 100 mm] [415]
+Heat analysis 0.60—0.90 Tensile strength .
+Product analysis 0.56-0.94 Ya in. and under | 85-105 |
+Nickel [20 mm and under] [585-725] |
+! Product analysis 0.67-1.03 [Over 20 to 25 mm, incl] [585-725]
+: Heat analysis 0.15-0.25 [Over 25 to 50 mm, incl] [585-725] :
+Product analysis 0.12-0.28 Over 2 to 4in., incl 75-05
+Copper [Over 50 to 100 mm, incl] _ [515-655]
+| Heat analysis | 1.00~1.30 Over 4 in. 70-90 :
+Product analysis 0.95-1.35 [Over 100 mm] [485-620] ,
+Columbium (Niobium),® min Elongation oa ;
+Heat analysis 0.02 2 in. [50 mm}, min, % 20
+Product analysis 0.01 4A See Specification A20/A20M for elongation adjustment.
+A Applies to both heat analysis and product analysis. :
+® Columbium and niobium are interchangeable names for the same element and . . . :
+both names are acceptable in A01 specifications. : 7. Mechanical Properties :
+7.1 Tension Test: ,
+7.1.1 The plates, as represented by the test specimens, shall
+; dth ‘pitation heat treated ure in th conform to the requirements given in Table 2. ,
+f mn t 5000 te 300° S40 4 a ose. fa in the ne 7.1.2 For nominal plate thicknesses of */4 in. [20 mm] and
+\ deren ined be h A to a | for a time to be under, the 12-in. [40-mm] wide rectangular test specimen may
+Oo etermuned by the manutacturer Or processor. be used for the tension test, and the elongation may be
+5.2 If the purchaser elects to perform the thermal treatment, | determined in a 2-in. [50-mm] gage length that includes the :
+the plates shall be accepted on the basis of mill tests made from fracture and shows the greatest elongation. ,
+, net coupons nent treated as specified in the purchase Oeer If 7.2. Notch-Toughness Test:
+the test “have c hee the aan Fee on are not Pall \ on 7.2.1 Charpy V-notch impact tests shall be made in accor- |
+the Phe ase order, t * denen oFtinn Or ee edone sna neat dance with Specification A20/A20M.
+the the af coupons under con all a fom. he. app mene 7.2.2 The test results of 10 by 10-mm specimens shall meet |
+& manutacturer or processor shail intorm the purchaser 0 an average minimum value of 20 ft-Ibf [27 J] at —S0°F [-45°C]. ;
+the procedure followed in thermally treating the test coupons at |
+the mill. 8. Keywords |
+6. Chemical C wae 8.1 alloy steel; alloy steel plate; pressure vessel plate; low
+{ - Chemical Composition carbon; age hardening; pressure vessels; piping components; |
+\ 6.1 The steel shall conform to the requirements as to precipitation heat treated; nickel-copper-chromium- :
+a chemical composition given in Table 1. molybdenum-columbium (niobium)
+|
+1195 ,
+
+=== Page 1274 ===
+
+SA-736/SA-736M ASME BPVC.II.A-2025 
+SUPPLEMENTARY REQUIREMENTS 
+Supplementary requirements shall not apply unless specified in the purchase order. 
+A list of standardized supplementary requirements for use at the option of the purchaser is included 
+in Specification A20/ A20M. Those that are considered suitable for use with this specification are listed 
+below by title. 
+S 1. Vacuum Treatment, 
+S2. Product Analysis, 
+S3. Simulated Post Weld Heat Treatment of Mechanical 
+Test Coupons, 
+S4. Additional Tension Test, 
+S5. Charpy V-Notch Impact Test, 
+S6. Drop-Weight Test (for Material 0.625 in. [16 mm] and 
+Over in Thickness), 
+S8. Ultrasonic Examination in accordance with Specifica­
+tion A435/A435M, 
+S9. Magnetic Particle Examination, 
+SlO. Charpy V-Notch Test Curve, 
+S 11. Ultrasonic Examination in accordance with Specifica­
+tion A577 / A577M, 
+S 12. Ultrasonic Examination in accordance with Specifica-
+tion A578/ A578M, 
+S13. NDT Temperature Determination, 
+S15. Reduction of Area Measurement, 
+S 17. Vacuum Carbon-Deoxidized Steel, 
+S19. Restricted Chemical Requirements, 
+S24. Strain Age Test, and 
+S25. Weldability. 
+1196
+
+=== Page 1275 ===
+
+ASME BPVCI.A-2025 SA-737/SA-737M
+
+SPECIFICATION FOR PRESSURE VESSEL PLATES,
+HIGH-STRENGTH LOW-ALLOY STEEL
+
+CxS SA-737/SA-737M ily
+
+® Standars Worwige
+
+(Identical with ASTM Specification A737/A737M-17.)
+
+1197

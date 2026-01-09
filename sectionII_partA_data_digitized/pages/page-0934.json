@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 136,
+  "globalPageIndex": 934,
+  "width": 613.92,
+  "height": 793.2,
+  "text": "SA-487 /SA-487M ASME BPVC.II.A-2025 \nS1. Unspecified Elements \nS4. Magnetic Particle Inspection \nS5. Radiographic Inspection \nS8. Charpy Impact Test \nS8.1 In addition to the requirements listed in S8 of Speci\u00ad\nfications A703/A703M and A985/A985M, the following spe\u00ad\ncific requirements apply to this specification: \nS8.1.1 When S8 is specified for Grades lB, 2B, 4B, 6B, 7 A, \n8B, 9B, or lOB, impact properties shall be determined by \nperforming a Charpy V-notch impact test at -50 \u00b0P [-46 \u00b0C] \nwith a specific minimum average value of 15 ft-lb [20 J] and a \nspecified minimum single value of 10 ft-lb [14 J]. Other \ntemperatures may be used upon agreement between the manu\u00ad\nfacturer and the purchaser, in which case S8.1.3 shall apply. \nOther higher specified minimum average and single values \nmay be used upon agreement between the manufacturer and the \npurchaser. \nS8.1.2 Impact requirements for grades other than lB, 2B, \n4B, 6B, 7 A, 8B, 9B, and lOB shall be agreed upon between the \nmanufacturer and the purchaser. \nS8.1.3 When an impact test temperature other than -50 \u00b0P \n[-46 \u00b0C] is used for those grades listed in S8.1.1, the lowest \ntest . temperature at which the material meets the impact \nrequrrements shall be stamped with low-stress stamps imme\u00ad\ndiately ahead of the material symbol on the raised pad (for \nexample, 25 lOB for +25 \u00b0P [-4 \u00b0C] and 025 lOB for -25 \u00b0P \n[-32 \u00b0C]). \nS10. Examination of Weld Preparation \nS10.1 The method of performing the magnetic particle or \nliquid penetrant test shall be in accordance with Guide E709 or \nPractice E165/E165M. \n834 \nS26. Alternate Tension Test Coupons and Specimen Loca\u00ad\ntions for Castings \nS27. Hot Isostatic Pressing (HIPing) ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-0934.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1693,
+  "bestTextAlphaRatio": 0.7005
+}

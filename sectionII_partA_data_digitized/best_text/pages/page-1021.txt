@@ -1,0 +1,110 @@
+ASME BPVC.II.A-2025 SA-541/SA-541M 
+additional ordering information, manufacturing require­
+ments, testing and retesting methods and procedures, mark­
+ing, certification, product analysis variations, and 
+additional supplementary requirements. 
+3.3 If the requirements of this specification are in con­
+flict with the requirements of Specification A 788, the 
+requirements of this specification shall prevail. 
+4. Chemical Composition 
+4.1 Heat Analysis - The heat analysis obtained from 
+sampling in accordance with Specification A 788 shall 
+comply with Table 1 except that the additional features of 
+Supplementary Requirements S8, S9, SlO, S12, and S15 
+shall also apply as individually specified in the ordering 
+information. 
+4.2 Product Analysis - The manufacturer shall use the 
+product analysis provision of Specification A 788 to obtain 
+a product analysis from a forging representing each heat 
+or multiple heat. The permissible variations of Table 1 of 
+Specification A 788 do not apply to carbon, phosphorus, 
+silicon, and sulphur for all classes, vanadium for Grade 
+1 C, and columbium and calcium for Grades 22V and 3VCb. 
+Boron is not subject. to product analysis. The purchaser 
+may also make this determination in accordance with Spec­
+ification A 788. 
+5. Heat Treatment for Mechanical Properties 
+shall be tempered at a subcritical temperature as described 
+in 5.1. 
+6. Mechanical Properties 
+6.1 General Requirements - The forgings shall con­
+form to the requirements of Table 2. The forgings shall 
+also conform to the requirements of Table 3 unless either 
+Supplementary Requirement S6 or S 13 is specified, in 
+which case the requirements of those sections shall apply. 
+The largest obtainable tension test specimen as specified 
+in Fig. 4 of Test Methods and Definitions A 370 shall be 
+used. Impact specimens shall be Charpy V-notch, as shown 
+in Fig. 10 of Test Methods and Definitions A 370. The 
+usage of subsize impact specimens due to material limita­
+tions must have prior purchaser approval. 
+6.2 Sampling - The longitudinal axis and mid-length 
+of tension and impact test specimens shall be positioned 
+in accordance with one of the following methods as speci­
+fied by the purchaser: 
+6.2.1 Method 1 - This method shall always be used 
+when the maximum quenched thickness does not exceed 
+2 in. [50 mm]. Specimens shall be located in the production 
+forging or test forging ( as described in Method 4) at mid­
+thickness and at least 2 in. from other quenched surfaces. 
+6.2.2 Method 2 - t by 2t, where t is the distance 
+from the area of significant loading (see 3.1) to the nearest 
+quenched surface. However, the specimens shall not be 
+nearer to one quenched surface than ¾ in. [20 mm] and to 
+the second quenched surface than 1½ in. [40 mm]. When 
+5.1 After complete austenitization, the forgings shall this method of testing is employed, forgings are usually 
+be quenched in a suitable liquid medium by spraying or manufactured in accordance with a purchaser-approved 
+immersion. For Grade 22V forgings, the minimum austeni- drawing showing pre-quenched dimensions and the loca-
+tizing temperature shall be 1650°F [900°C]. Quenching tion of mechanical test specimens. 
+shall be followed by tempering at a subcritical temperature 
+and holding at this temperature for a minimum time of . 6.2.3 Method 3_ - ¼ T by T, where Tis the 1:1aximum 
+- - •• - - - - • - - -~hfin:-tz5-mm:l-ofma*imum-Section-thicknes,'>. Minim.i.1iJ1_ _ ~ckn~ss o: the forgmg as heat treat_ed. ~~re _this method 
+tempering temperatures shall be: ortestmgis-empluyed;--the-follewmg lumtatwrn;_for_a&c -·· ____ , 
+treated thickness shall apply, unless otherwise agreed upon: 
+Grade 
+1, lA, 2 Class 2, 3 Class 2 
+2, 3 Class 1, 22 Class 3 
+IC, 11 Class 4, 22 Class 4, 4N Class 1, 4N Class 2, 5 
+Class l, 5 Class 2 
+22 Class 15 
+4N Class 3 
+3V, 3VCb 
+22V 
+op [oCJ 
+1150 [620] 
+1200 [650] 
+1100 [595] 
+1050 [565] 
+1125 [605] 
+1250 [675] 
+1250 [675] 
+5.2 For Classes 1, IA, 2, 2A, 3, or 3A, a multiple stage 
+austenitizing procedure may be used whereby the forging 
+is first fully austenitized and liquid quenched, followed 
+by reheating within the intercritical temperature range to 
+partially reaustenitize, and again liquid quenched. On com­
+pletion of the austenitizing/quenching cycles, the forgings 
+921 
+Grade 
+1 and IA 
+2 Class 2 and 3 Class 2 
+2 Class 1 and 3 Class 1 
+lC 
+l l Class 4 
+22 Class 4, 4N Class 2, 5 Class 2 
+22 Class 5 
+4N Class 1, 5 Class 1, 4N Class 3, 3V, 3VCb, 
+22V, and 22 Class 3 
+in. [mm], max 
+3 [75] 
+6 [150] 
+8 [200] 
+4 [100] 
+5 [125] 
+6 [150] 
+8 [200] 
+10 [250] 
+6.2.4 Method 4 - Test specimens shall be taken from 
+a representative separate test forging or bar made from the 
+same heat of steel, which shall receive substantially the 
+same reduction and type of hot working as the production 

@@ -1,0 +1,100 @@
+ASME BPVC.II.A-2025 SA-989 /SA-989M 
+the same final heat treatment charge, after hot isostatic­
+pressing or after final heat treatment. The microstructure shall 
+meet the requirements of 8.1.3.1. 
+8.1.3.3 If the sample fails to meet the requirements for 
+acceptance, it is permitted to retest each part in the lot. Each 
+part that passes the requirements of 8.1.3.1 shall be accepted. 
+8.2 Hydrostatic Tests-After they have been machined, 
+pressure-containing parts shall be tested to the hydrostatic shell 
+test pressures prescribed in ASME B16.5 for the applicable 
+steel rating for which the part is designed, and shall show no 
+leaks. Parts ordered under these specifications for working 
+pressures other than those listed in the ASME B16.5 ratings 
+shall be tested to such pressures as may be agreed upon 
+between the manufacturer and purchaser. 
+8.2.1 No hydrostatic test is required for welding neck or 
+other flanges. 
+8.2.2 The compact manufacturer is not required to perform 
+pressure tests on rough parts that are to be finish machined by 
+others. The fabricator of the finished part is not required to 
+pressure test parts that are designed to be pressure-containing 
+only after assembly by welding into a larger structure. The 
+manufacturer of the compacts, however, shall be responsible as 
+required in 15.1 for the satisfactory performance of the parts 
+under the final test required in 8.2. 
+9. Mechanical Properties 
+9 .1 The material shall conform to . the requirements for 
+mechanical properties prescribed in Table 3 at room tempera­
+ture. 
+9.2 Mechanical test samples shall be obtained from the 
+component stem, protrusion, or test part made from a single 
+powder blend consolidated in the same hot-isostatic press using 
+the same pressure, temperature, and time parameter and 
+heat-treated in the same final heat-treatment charge. If repair 
+welding is required (see Section 15), the test specimens prior to 
+testing shall accompany the repaired parts if a post weld heat 
+treatment is done. 
+9.3 For normalized and tempered parts, or quenched and 
+tempered parts, the central axis of the test specimen shall 
+correspond to the ¼ T plane or deeper position where Tis the 
+maximum heat treated thickness of the represented part. In 
+addition, for quenched and tempered parts, the midlength of the 
+test specimen shall be at least T from any second heat treated 
+surface. When the section thickness does not permit this 
+positioning, the test specimen shall be positioned as near as 
+possible to the prescribed location, as agreed to by the 
+purchaser and the supplier. 
+9.3.1 Alternatively, with prior approval of the purchaser, it 
+is permitted to take the test specimen for the steel parts at a 
+depth (t) corresponding to the distance from the area of 
+significant stress to the nearest heat treated surface and at least 
+twice this distance (2t) from any second surface. The test 
+depth, however, shall not be nearer to one treated surface than 
+¾ in. [19 mm] and to the second treated surface than 1 ½ in. 
+[38 mm]. This method of test specimen location would 
+normally apply to complex parts, or parts with thick cross­
+sectional areas where ¼ T and T testing (see 9.3) is not 
+practical. Sketches showing the exact test locations shall be 
+approved by the purchaser when this method is used. 
+9 .4 For annealed alloy steels the test specimen may be taken 
+from any convenient location. 
+9.5 Tension Test: 
+9.5.1 One tension test shall be made for each production lot 
+in each heat treatment charge. 
+9.5.1.1 When the heat treating cycles are the same and the 
+furnaces ( either batch or continuous type) are controlled within 
+±25 °F [±14 °C] and equipped with recording pyrometers so 
+that complete records of heat treatment are available, then only 
+one tension test from each production lot of each type of part, 
+and section size is required instead of one test from each 
+production lot in each heat-treatment charge. The term "type," 
+as used here, designates a characteristic shape of a part, such as 
+flange, elbow, tee, and so forth. 
+9.5.1.2 The tension test specimen shall be made from 
+material accompanying the parts in final heat treatment. 
+9.5.2 Testing shall be performed as specified in Specifica­
+tion A961/A961M using the largest feasible of the round 
+specimens. 
+9.6 Hardness Tests: 
+9.6.1 When two or more parts are produced, a minimum of 
+two pieces per batch or continuous run as defined in 9.6.2 shall 
+be hardness tested as specified in Specification A961/A961M 
+to ensure that the parts are within the hardness limits given for 
+each grade in Table 3. When only one part is produced, it shall 
+be hardness tested as required. The purchaser is permitted to 
+verify that the requirement has been met by testing at any 
+location on any part, provided such testing does not render the 
+part useless. 
+9.6.2 When the reduced number of tension tests permitted 
+by 9 .5 .1.1 is applied, additional hardness tests shall be made on 
+TABLE 3 Tensile and Hardness Requirements 
+Tensile Strength, min, ksi Yield Strength, min, ksi Elongation in 2 in. Reduction of Area, Brinell Hardness UNS Designation [MPa] [MPa]A [50 mm] or 4D, min,% Number min,% 
+Alloy Steels 
+K90941 85 [585] 55 [380] 20.0 40.0 179-217 
+K90901 85 [585] 60 [415] 20.0 40.0 248 max 
+K31545 75 [515] 45 [310] 20.0 30.0 156-207 
+K21590 Class 1 60 [415] 30 [205] 20.0 35.0 170 max 
+K21590 Class 3 75 [515] 45 [310] 20.0 30.0 156-207 
+A Determined by the 0.2 % offset method. For territic steels only, the 0.5 % extension-under-load method also may be used. 
+1473 

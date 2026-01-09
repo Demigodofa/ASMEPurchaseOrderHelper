@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 90,
+  "globalPageIndex": 90,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "SA-6/SA-6M ASME BPVC.II.A-2025 \nTABLE A 1.1 O Permitted Variations in Diameter for Gas-Cut Circular Plates {Applies to Alloy Steel Specifications Only) \nPermitted Variations Over Specified Diameter for Specified Thicknesses \nGiven in Millimetres, mmA \nSpecified Diameter, mm To 25 50 100 \nto to to 25, 50, 100, 150, excl excl excl excl \nTo 800, excl 13 13 19 19 \n800 to 2100, excl 13 16 22 25 \n2100 to 2700, excl 16 19 25 29 \n2700 to 3300, incl 22 25 29 32 \nA No permitted variations under specified diameter. \nTABLE A1.11 Permitted CamberA for Carbon Steel, High-Strength \nLow-Alloy Steel, and Alloy Steel Universal Mill Plates and High\u00ad\nStrength Low-Alloy Steel and Alloy Steel Sheared or Gas-Cut \nRectangular Plates \nSpecified Width, mm \nTo 750, incl \nOver 750 to 1500 \nPermitted Camber, mm \nLength in millimetres/300 \nLength in millimetres/250 \nA Camber as it relates to plates is the horizontal edge curvature in the length, \nmeasured over the entire length of the plate in the flat position. \nTABLE A1.12 Permitted CamberA for Sheared Plates and Gas-Cut \nRectangular Plates, All Thicknesses {Applies to Carbon Steel \nOnly) \nPermitted camber, mm = length In millimetres/500 \nA Camber as it relates to plates is the horizontal edge curvature in the length, \nmeasured over the entire length of the plate in the flat position. \n38 \n150 \nto \n200, \nexcl \n25 \n29 \n32 \n35 \n200 \nto \n400, \nIncl \n25 \n32 \n35 \n38 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0090.json",
+  "tabulaTablesCsv": "tables_tabula/page-0090.csv",
+  "tabulaTableCount": 2,
+  "bestTextPath": "best_text/pages/page-0090.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1407,
+  "bestTextAlphaRatio": 0.6709
+}

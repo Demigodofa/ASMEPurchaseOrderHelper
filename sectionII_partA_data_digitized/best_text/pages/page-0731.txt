@@ -1,0 +1,108 @@
+ASME BPVC.II.A-2025 SA-403 /SA-403M 
+9. Hydrostatic Tests 
+9.1 Hydrostatic testing is not required by this specification. 
+9.2 All Grade WP fittings shall be capable of withstanding 
+without failure, leakage, or impairment of serviceability, a test 
+pressure equal to that prescribed for the specified matching 
+pipe or equivalent material. 
+9.3 All Grade CR fittings, except tees covered in 9.3.1, shall 
+be capable of withstanding without failure, leakage, or impair­
+ment of serviceability, a test pressure based on the ratings in 
+MSS SP-43. 
+9.3.1 Grade CR tees fabricated using intersection welds 
+shall be capable of passing a hydrostatic test based on 70 % of 
+the ratings in MSS SP-43. 
+10. Surface Finish, Appearance, and Corrosion 
+Protection 
+10.1 The requirements of Specification A960/A960M apply 
+except as modified as follows: 
+10.2 Fittings supplied under this specification shall be 
+examined visually. Selected typical surface discontinuities 
+shall be explored for depth. The fittings shall be free from 
+surface discontinuities that penetrate more than 5 % of the 
+specified nominal wall thickness, except as defined in 10.4 and 
+10.5, and shall have a workmanlike finish. 
+10.3 Surface discontinuities deeper than 5 % of the speci­
+fied nominal wall thickness, except as defined in 10.4 and 10.5, 
+shall be removed by the manufacturer by machining or 
+grinding to sound metal, and the repaired areas shall be well 
+faired. The wall thickness at all points shall be at least 87½ % 
+of the specified nominal wall thickness, and the diameters at all 
+points shall be within the specified limits. 
+10.4 Surface checks (fish scale) deeper than 1/64 in. [0.4 
+mm] shall be removed. 
+10.5 Mechanical marks deeper than ½6 in. [l.6 mm] shall 
+be removed. 
+10.6 When the removal of a surface discontinuity reduces 
+the wall thickness below 87½ % of the specified nominal wall 
+thickness at any point, the fitting shall be subject to rejection or 
+to repair as provided in Section 11. 
+10.7 The fittings shall be free of scale and shall be passi­
+vated. 
+11. Repair by Welding 
+11.1 Repair of unacceptable imperfections in the base metal 
+is permissible for fittings made to the dimensional standards 
+listed in 1. 1 or for other standard fittings made for stock by the 
+manufacturer. Prior approval of the purchaser is required to 
+repair special fittings made to the purchaser's requirements. 
+Welding of unacceptable imperfections in no case shall be 
+permitted when the depth of defect exceeds 331/3 % of the 
+nominal wall thickness or the defect area exceeds 10 % of the 
+surface area of the fitting. 
+11.2 The welding procedure and welders shall be qualified 
+in accordance with Section IX of the ASME Boiler and 
+Pressure Vessel Code. 
+11.3 The composition of the weld deposits shall be in 
+accordance with 7.3 and in accordance with the procedure 
+qualification for the applicable material. 
+11.4 Unacceptable imperfections shall be removed by me­
+chanical means or by thermal cutting or gouging methods. 
+Cavities prepared for welding shall be examined with liquid 
+penetrant in accordance with Practice E165/E165M. No cracks 
+are permitted in the prepared cavities. Personnel performing 
+NDE examinations shall be qualified in accordance with 
+SNT-TC-lA 
+11.5 The weld repair shall be permanently identified with 
+the welder's stamp or symbol in accordance with Section VIII 
+of the ASME Boiler and Pressure Vessel Code. 
+11.6 Weld repair area(s) shall be blended uniformly to the 
+base metal and shall be examined by liquid penetrant in 
+accordance with Practice E165/E165M. No cracks are permit­
+ted in the weld or surrounding ½ in. [12.7 mm] of base metal. 
+Personnel performing NDE examinations shall be qualified in 
+accordance with SNT-TC-lA. 
+11. 7 After weld repair, material shall be heat treated in 
+accordance with Section 6. 
+12. Dimensions 
+12.1 For fittings covered by ASME B16.9, ASME B16.ll, 
+MSS SP-43, MSS SP- 79, MSS SP-83, MSS SP-95, or MSS 
+SP-97, the sizes, shapes, and dimensions of the fittings shall be 
+as specified in those standards. 
+12.1.1 Fittings of size or shape differing from these 
+standards, but meeting all other requirements of this 
+specification, may be furnished in accordance with Supplemen­
+tary Requirement S58 Specification A960/A960M. 
+13. Rejection and Rehearing 
+13 .1 Material that fails to conform to the requirements of 
+this specification may be rejected. Rejection should be reported 
+to the producer or supplier promptly and in writing. In case of 
+dissatisfaction with the results of the tests, the producer or 
+supplier may make claim for rehearing. 
+13.2 Fittings that develop defects in shop working or 
+application operations may be rejected. Upon rejection, the 
+manufacturer shall be notified promptly in w1iting. 
+14. Certification 
+14.1 Test reports are required for all fittings covered by this 
+specification. Each test report shall meet the requirements for 
+certification in Specification A960/ A960M as well as include 
+the following information specific to this specification: 
+681 
+14.1.1 Chemical analyses results for all starting materials, 
+Section 7. (Table 2), reported results shall be to the same 
+number of significant figures as the limits specified in Table 2 
+for that element, 
+14.1.2 Tensile property results of all starting materials, 
+Section 8 (Table 5), report the yield strength and the tensile 
+strength in ksi [MPa] and elongation in percent, 
+14.1.3 For construction with filler metal added, weld metal 
+chemical analysis, 

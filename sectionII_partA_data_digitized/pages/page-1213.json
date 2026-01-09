@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 415,
+  "globalPageIndex": 1213,
+  "width": 613.92,
+  "height": 793.2,
+  "text": "ASME BPVC.II.A-2025 SA-688/SA-688M \nINSIDE NOTCHES \n180\" FROM OUTSIDE \nNOTCHES \nOUTSIDE \nNOTCHES \n(300 CM APPROX) \n12\u2022 \n(300MM) \n'\u2022Q\" APPROX, \n(90 CM APPROX) \nFIG. S1 .1 Eddy-Current Test Standard \nS1.6 Tubes may be reconditioned and retested provided \nreconditioning does not adversely effect the minimum wall \nthickness or other properties of the tube specification require\u00ad\nments. Upon agreement between purchaser and manufacturer, \nthe referee method, employing ultrasonic testing, may be \nemployed for retesting tubes rejected by the eddy-current test. \nThe calibration standard for this test shall be identical to that \nrequired for the eddy-current test. \nS2. Nondestructive Eddy-Current Testing (Select Com\u00ad\nmercial Grade) \nS2.1 The manufacturer shall test the tubing using the \nprocedure outlined in Supplementary Requirement Sl, except \nfor the notch standards, which shall be as indicated in Table \nS2.1. \nTABLE S2.1 Notch Depth for Select Commercial Grade \nWall, in. Depth,A in. Length, \nOD, in. [mm] max, Width, max [mm] [mm] in.[mm] \n%lo 1 [15.9 0.035 [0.9] 0.0045 [0.11] 0.375 [9.5] Slimes \nto 25.4], incl and or 10% of notch depth \nheavier wall thick-\nness, which-\never is \ngreater \n%to 1 [15.9 less than 0.0045 [0.11] 0.375 [9.5] wall \nto 25.4], Incl 0.035 [0.9] or10%of thickness \nwall thick-\nness, which-\never is \ngreater \nAThe tolerance of notch depth shall be \u00b1 8 % or \u00b1 0.0005 in. [0.1 mm], whichever \nis greater. Refer to Fig. S1 .1 for notch location orientation and length of calibration \nstandard. \nS3. Report \nS3.1 A report shall be furnished by the manufacturer to \ninclude a record of all tests performed to qualify material to \nthis specification. This record shall include numbers of tests \nperformed and qualitative or quantitative results as is appli\u00ad\ncable. \nS4. Intergranular Corrosion Tests \nS4.1 When specified, material shall pass intergranular cor\u00ad\nrosion tests conducted by the manufacturer in accordance with \nPractices A262, Practice E. \nNOIB S4.1-Practice E requires testing on the sensitized condition for \nlow carbon grades, and on the as-shipped condition for other grades. \n1127 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1213.json",
+  "tabulaTablesCsv": "tables_tabula/page-1213.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-1213.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2126,
+  "bestTextAlphaRatio": 0.7079
+}

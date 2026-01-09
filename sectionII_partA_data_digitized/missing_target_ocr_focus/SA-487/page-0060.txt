@@ -1,0 +1,62 @@
+ASME BPVC.II.A-2025 SA-524/SA-524M
+=. — TABLE 1 Chemical Requirements the finished pipe. The chemical composition thus determined
+. Element Grades | and Il, Composition, % shall conform to the requirements specified in Section 6. .
+
+Mano. an cco 30-1 35 Nore 2—A lot shall consist of 400 lengths, or fraction thereof, for each
+Phosphorus, max 0.035 size NPS 2 [DN 50] up to but not including NPS 6 [DN 150], and of 200
+Sulfur, max 0.035 lengths, or fraction thereof, for each size NPS 6 [DN 150] and over.
+Silteon OO 8.2 If the analysis of one of the tests specified in 8.1 does .
+not conform to the requirements specified in Section 6,
+analyses shall be made on additional pipe of double the original
+3.1.9 Specification (A524 or A524M) designation | number from the same lot, each of which shall conform to ,
+3.1.10 Hydrostatic test (see 11.2). requirements specified.
+3.1.11 End use of material, and , ;
+3.1.12 Special requirements. 7. Physical Properties ,
+9.1 Tensile Properties—The material shall conform to the :
+4. General Requirements requirements as to tensile properties prescribed in Table 2. :
+' 4.1 Material furnished to this specification shall conform to 9.2. Bending Properties:
+the applicable requirements of the current edition of Specifi- 9.2.1 For pipe NPS 2 [DN 50] and under, a sufficient length |
+cation A530/A530M unless otherwise provided herein. of pipe shall stand being bent cold through 90° around a
+cylindrical mandrel, the diameter of which is twelve times the
+5. Materials and Manufacture nominal diameter of the pipe, without developing cracks. :
+5.1 Process: When ordered for close coiling, the pipe shall stand being bent |
+5.1.1 The steel shall be killed steel made by one or more of — cold through 180° around a cylindrical mandrel, the diameter
+the following processes: electric-furnace, basic-oxygen, or any of which is eight times the nominal diameter of the pipe,
+other commercially viable process. without failure. . , |
+5.1.2 The steel shall be made to fine grain practice. 9.2.2. For pipe whose diameter exceeds 25 in. [635 mm] and
+5.1.3 Steel may be cast in ingots or may be strand cast. whose diameter to wall thickness ratio is 7.0 or less, bend test |
+When steel of different grades are sequentially strand cast, specimens shall be bent at room temperature through 180° :
+identification of the resultant transition material is required. without cracking on the outside of the bent portion. The inside ,
+. The producer shall remove the transition material by any diameter of the bend shall be 1 in. [25.4 mm]. This test shall be |
+established procedure that positively separates the grades. in place of Section 10. |
+: 5 -1.4 Pipe NPS 1’2 [DN 40] and under may be either hot Norte 3——-Diameter to wall thickness ratio = specified outside diameter/ !
+finished or cold drawn. nominal wall thickness. 7
+5.1.5 Unless otherwise specified, pipe NPS 2 [DN 50] and Example: For 28 in. [710 mm] diameter 5.000 in. [125 mm] thick pipe the
+over shall be furnished hot finished. When agreed upon — diameter to wall thickness ratio = 28/5 = 5.6. |
+petween Oe manufacturer and purchaser, cold-drawn pipe may 10. Flattening Test Requirements
+5.2 Heat Treatment—All hot-finished and cold-drawn pipe 10.1 For Pipe Over NPS 2 [DN 50}, a section of pipe not less :
+0 ° than 2 in. [63.5 mm] in length shall be flattened cold between |
+shall be reheated to a temperature above 1550°F [845°C] and . |
+ree . ; parallel plates until the opposite walls of the pipe meet. |
+followed by cooling in air or in the cooling chamber of a . ; ngs !
+controlled atmosphere furnace. Flattening tests shall be in accordance with Specification |
+ene | A530/A530M, except that in the equation used to calculate the :
+6. Chemical Composition ~~ EValue the following. constants shall be used:
+' 6.1 T he steel shall conform to the chemical requirements non or ae f
+—— prescribed in Table 1. 10.2 When low D-to-t ratio tubulars are tested, because the
+7. Heat Analysis strain imposed due to geometry is unreasonably high on the
+inside surface at the 6 and 12 o’clock locations, cracks at these
+7.1 An analysis of each heat of steel shall be made by the —jocations shall not be cause for rejection if the D-to-t ratio is
+steel manufacturer to determine the percentages of the ele- Jace than ten.
+ments specified in Section 6. The chemical composition thus
+determined, or that determined from a product analysis made 11. Hydrostatic Test Requirements
+by the manufacturer, if the latter has not manufactured the 11.1 Each length of pipe shall be subjected to the hydro-
+steel, shall be reported to the purchaser or the purchaser’s ; ;
+; static pressure, except as provided in 11.2.
+representative, and shall conform to the requirements specified
+in Section 6. 11.2 When specified in the order, pipe may be furnished
+without hydrostatic testing and each length so furnished shall
+8. Product Analysis include with the mandatory marking the letters “NH.”
+{ 8.1 At the request of the purchaser, analyses of two pipes 11.3 When certification is required by the purchaser and the
+from each lot (Note 2) shall be made by the manufacturer from —_ hydrostatic test has been omitted, the certification shall clearly
+887

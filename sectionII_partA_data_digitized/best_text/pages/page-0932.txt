@@ -1,0 +1,82 @@
+SA-487 /SA·487M ASME BPVC.II.A-2025 
+TABLE 3 Required Mechanical Properties 
+Previous Tensile Strength,A Yield Strength/ Elongation,A Reduction Maximum Thickness, 
+Designation Grade Class ksi [MPa] ksi [MPa], 2 in. [50 mm] of Area,A Hardness, in.[mm] at 0.2 % Offset or4d, % % HRC [HB] 
+1N 1 A 85-110 [585-760] 55 [380] 22 40 
+1Q 1 B 90-115 [620-795] 65 [450] 22 45 
+1 C 90 [620] 65 [450] 22 45 22 [235] 
+2N 2 A 85-110 [585-760] 53 [365] 22 35 
+2Q 2 B 90-115 [620-795] 65 [450] 22 40 
+2 C 90 [620] • 65 [450] 22 _40 22 [235] 
+4N 4 A 90-115 [620-795] 60 [415] 18 40 
+4Q 4 B 1 05-130 [725-895] 85 [585] 17 35 
+4 C 90 [620] 60 [415] 18 35 22 [235] 
+4 D 100 [690] 75 [515] 17 35 22 [235] 
+4QA 4 E 115 [795] 95 [655] 15 35 
+6N 6 A 115 [795] 80 [550] 18 30 
+6Q 6 B 120 [825] 95 [655] 12 25 
+7Q 7 A 115 [795] 100 [690] 15 30 2.5 [63.5] max 
+SN 8 A 85-110 [585-760] 55 [380] 20 35 
+8Q 8 B 105 [725] 85 [585] 17 30 
+8 C 100 [690] 75 [515] 17 35 22 [235] 
+9N 9 A 90 [620] 60 [415] 18 35 
+9Q 9 B 105 [725] 85 [585] 16 35 
+9 C 90 [620] 60 [415] 18 35 22 [235] 
+9 D 100 [690] 75 [515] 17 35 22 [235] 
+9 E 115 [795] 95 [655] 15 35 
+10N 10 A 100 [690] 70 [485] 18 35 
+10Q 10 B 125 [860] 100 [690] 15 35 
+11N 11 A 70-95 [484-655] 40 [275] 20 35 
+11Q 11 B 105-130 [725-895] 85 [585] 17 35 
+12N 12 A 70-95 [485-655] 40 [275] 20 35 
+12Q 12 B 105-130 [725-895] 85 [585] 17 35 
+13N 13 A 90-115 [620-795] 60 [415] 18 35 
+13Q 13 B 105-130 [725-895] 85 [585] 17 35 
+14Q 14 A 120-145 [825-1000] 95 [655] 14 30 
+16N 16 A 70-95 [485-655] 40 [275] 22 35 
+17 A 113 [780] 97 [670] 15 30 up to 6.0 [150], 
+incl. 
+17 A 110 [760] 94 [650] 15 30 over 6.0 [150] to 
+8.0 [200], incl. 
+17 A 106 [730] 91 [625] 15 30 over 8.0 [200] to 
+12.0 [300], incl. 
+17 A 102 [705] 88 [605] 15 30 over 12.0 [300] to 
+14.0 [360], incl. 
+CA15A CA15 A 140-170 [965-1170] 110-130 [760-895] 10 25 
+CA15 CA15 B 90-115 [620-795] 65 [450] 18 30 
+CA15 C 90 [620] 60 [415] 18 35 22 [235] 
+CA15 D 100 [690] 75 [515] 17 35 22 [235] 
+CA15M CA15M A 90-115 [620-795] 65 [450] 18 30 
+CA6NM CA6NM A 110-135 [760-930] 80 [550] 15 35 
+CA6NM CA6NM B 100 [690] 75 [515] 17 35 23 [255] 8 
+A Minimum value, unless a range is provided. 
+8 Test Methods and Definitions A370, Table 2 does not apply to CA6NM. The conversion given is based on CA6NM test coupons. (For example, see ASTM STP 756.) 
+8. Quality 
+8.1 The surface of the casting shall be free of adhering sand, 
+scale, cracks, and hot tears as determined by visual examina­
+tion. Other surface discontinuities shall meet the visual accep­
+tance standards specified in the order. Visual Method SP-55 or 
+other visual standards may be used to define acceptable surface 
+discontinuities and finish. Unacceptable visual surface discon­
+tinuities shall be removed and their removal verified by visual 
+examination of the resultant cavities. When methods involving 
+high temperatures are used in the removal and repair of 
+discontinuities, the casting shall be preheated to at least the 
+minimum temperature in Table 4. 
+8.2 The castings shall not be peened, plugged, or impreg­
+nated to stop leaks. 
+9. Repair By Welding 
+9.1 For castings other than those intended for use under 
+ASME Boiler and Pressure Vessel Code, repairs shall be made 
+using procedures and welders qualified under Practice A488/ 
+A488M. 
+9.2 On castings intended for use under the ASME Boiler 
+and Pressure Vessel Code, repairs shall be made by procedures 
+and welders qualified under Section IX of that code. 
+9.3 After repair welding, all castings shall be post-weld heat 
+treated in accordance with Table 4 or reheat treated in 
+accordance with Table 1. 
+9.4 Weld repairs shall be inspected using the same quality 
+standards as are used to inspect the castings. Re-examination of 
+832 
+-~. 

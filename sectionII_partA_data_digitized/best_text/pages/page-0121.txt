@@ -1,0 +1,111 @@
+ASME BPVC.II.A-2025 SA-20/SA-20M 
+1.5 Appendix X4 provides information on cold bending of 
+plates, including suggested minimum inside radii for cold 
+bending. 
+1.6 These materials are intended to be suitable for fusion 
+welding. When the steel is to be welded, it is presupposed that 
+a welding procedure suitable for the grade of steel and intended 
+use or service will be utilized. 
+1.7 In case of any conflict in requirements, the requirements 
+of the applicable product specification prevail over those of this 
+general requirements specification. 
+1.8 Additional requirements that are specified in the pur­
+chase order and accepted by the supplier are permitted, 
+provided that such requirements do not negate any of the 
+requirements of this general requirements specification or the 
+applicable product specification. 
+1.9 For purposes of determining conformance with this 
+general requirements specification and the applicable product 
+specification, values are to be rounded to the nearest unit in the 
+right-hand place of figures used in expressing the limiting 
+values in accordance with the rounding method of Practice 
+E29. 
+1. 10 The values stated in either SI units or inch-pound units 
+are to be regarded separately as standard. The values stated in 
+each system may not be exact equivalents; therefore, each 
+system shall be used independently of the other. Combining 
+values from the two systems may result in non-conformance 
+with the standard. 
+1.11 This general requirements specification and the appli­
+cable product specification are expressed in both inch-pound 
+units and SI units; unless the order specifies the applicable "M" 
+specification designation (SI units), the plates are to be 
+furnished to inch-pound units. 
+1.12 This international standard was developed in accor­
+dance with internationally recognized principles on standard­
+ization established in the Decision on Principles for the 
+Development of International Standards, Guides and Recom­
+mendations issued by the World Trade Organization Technical 
+Barriers to Trade (TBT) Committee. 
+2. Referenced Documents 
+2.1 ASTM Standards: 
+A203/A203M Specification for Pressure Vessel Plates, Alloy 
+Steel, Nickel 
+A204/A204M Specification for Pressure Vessel Plates, Alloy 
+Steel, Molybdenum 
+A225/A225M Specification for Pressure Vessel Plates, Alloy 
+Steel, Manganese-Vanadium-Nickel 
+A263 Specification for Stainless Chromium Steel-Clad Plate 
+A264 Specification for Stainless Chromium-Nickel Steel­
+Clad Plate 
+A265 Specification for Nickel and Nickel-Base Alloy-Clad 
+Steel Plate 
+69 
+A285/A285M Specification for Pressure Vessel Plates, Car­
+bon Steel, Low- and Intermediate-Tensile Strength 
+A299/A299M Specification for Pressure Vessel Plates, Car­
+bon Steel, Manganese-Silicon 
+A302/A302M Specification for Pressure Vessel Plates, Alloy 
+Steel, Manganese-Molybdenum and Manganese­
+Molybdenum-Nickel 
+A353/ A353M Specification for Pressure Vessel Plates, Alloy 
+Steel, Double-Normalized and Tempered 9 % Nickel 
+A370 Test Methods and Definitions for Mechanical Testing 
+of Steel Products 
+A387/A387M Specification for Pressure Vessel Plates, Alloy 
+Steel, Chromium-Molybdenum 
+A435/A435M Specification for Straight-Beam Ultrasonic 
+Examination of Steel Plates 
+A455/ A455M Specification for Pressure Vessel Plates, Car­
+bon Steel, High-Strength Manganese 
+A515/A515M Specification for Pressure Vessel Plates, Car­
+bon Steel, for Intermediate- and Higher-Temperature Ser­
+vice 
+A516/A516M Specification for Pressure Vessel Plates, Car­
+bon Steel, for Moderate- and Lowe.r-Temperature Service 
+AS 17 / A517M Specification for Pressure Vessel Plates, Alloy 
+Steel, High-Strength, Quenched and Tempered 
+A533/ A533M Specification for Pressure Vessel Plates, Alloy 
+Steel, Quenched and Tempered, Manganese-Molybdenum 
+and Manganese-Molybdenum-Nickel 
+A537/A537M Specification for Pressure Vessel Plates, Heat­
+Treated, Carbon-Manganese-Silicon Steel 
+A542/ A542M Specification for Pressure Vessel Plates, Alloy 
+Steel, Quenched-and-Tempered, Chromium-
+Molybdenum, and Chromium-Molybdenum-Vanadium 
+A543/A543M Specification for Pressure Vessel Plates, Alloy 
+Steel, Quenched and Tempered Nickel-Chromium­
+Molybdenum 
+A553/A553M Specification for Pressure Vessel Plates, Alloy 
+Steel, Quenched and Tempered 7, 8, and 9 % Nickel 
+A562/A562M Specification for Pressure Vessel Plates, Car­
+bon Steel, Manganese-Titanium for Glass or Diffused 
+Metallic Coatings 
+A577/A577M Specification for Ultrasonic Angle-Beam Ex­
+amination of Steel Plates 
+A578/A578M Specification for Straight-Beam Ultrasonic 
+Examination of Rolled Steel Plates for Special Applica­
+tions 
+A612/A612M Specification for Pressure Vessel Plates, Car­
+bon Steel, High Strength, for Moderate and Lower Tem­
+perature Service 
+A645/ A645M Specification for Pressure Vessel Plates, 5 % 
+and 5½ % Nickel Alloy Steels, Specially Heat Treated 
+A662/ A662M Specification for Pressure Vessel Plates, 
+Carbon-Manganese-Silicon Steel, for Moderate and 
+Lower Temperature Service 
+A 700 Guide for Packaging, Marking, and Loading Methods 
+for Steel Products for Shipment 
+A724/A724M Specification for Pressure Vessel Plates, 
+Carbon-Manganese-Silicon Steel, Quenched and 
+Tempered, for Welded Pressure Vessels 

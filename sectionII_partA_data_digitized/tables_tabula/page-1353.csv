@@ -1,0 +1,11 @@
+Group,Diameter, in.,in Outside Diameter,,Permissib e Variations,in Wall Thickness/,Cut Length, ln.8,,0
+,[mm],in.[mm],in Wall Thickness/ %,%,[mm],,Tubes
+,,,,Over Under,Over Under,,
+,Up to 1⁄2 [12.7], excl,±0.005 [0.13],±15,30 0,1⁄4[3] 0,,
+2,1⁄2 to 11⁄2 [12.7 to 38.1], excl,±0.005 [0.13],±10,20 0,1/a [3] 0,,less than 0.065 in.
+,,,,,,,[1.6 mm] specified
+3,1 1⁄2 to 31⁄2 [38.1 to 88.9], excl,±0.010 [0.25],±10,20 0,3/1a [5] 0,,less than 0.095 in.
+,,,,,,,[2.4 mm] specified
+4,31⁄2 to 51⁄2 [88.9 to 139.7], excl,±0.015 [0.38],±10,20 0,3/te [5] 0,,less than 0.150 in.
+,,,,,,,[3.8 mm] specified
+5,51⁄2 to 8 [139.7 to 203.2], incl,±0.030 [0.76],±10,20 0,3/15 [5] 0,,less than 0.150 in.

@@ -1,0 +1,118 @@
+SA-268/SA-268M ASME BPVC.II.A-2025 
+TABLE 3 Tensile Requirements 
+Tensile Yield ElongationA,a strength, strength, in 2 in. or 
+min, min, 50 mm, 
+Grade and UNS Designation ksi [MPa] ksi [MPa] min,% 
+TP405 60 [415] 30 [205] 20 S40500 
+S40800 55 [380] 30 [205] 20 
+TP410 60 [415] 30 [205] 20 S41000 
+TP429, TP430, and TP430 Ti 60 [415] 35 [240] 20 S429000, S 43000, and S 43036 
+TP443 70 [485] 40 [275] 20 S44300 
+TP446-1 70 [485] 40 [275] 18 S44600 
+TP446-2 65 [450] 40 [275] 20 S44600 
+TP409 55 [380] 25 [170] 20 S40900 
+TP439 60 [415] 30 [205] 20 S43035 
+S43932 60 [415] 30 [205] 20 
+S41500 115 [795] 90 [620] 15 
+TPXM-27 65 [450] 40 [275] 20 S44627 
+TPXM-33 68 [470] 45 [310] 20 S44626 
+18Cr-2Mo 60[415] 40 [275] 20 S44400 
+29-4 and 29-4-2 80 [550] 60 [415] 20 S44700 and S44800 
+26-3-3 85 [585] 65 [450] 20 S44660 
+25-4-4 90 [620] 75 [515] 20 S44635 
+S44735 75 [515] 60 [415] 18 
+28-2-3.5 
+S32803 87 [600] 72 [500] 16 
+S40977 65 [450] 41 [280] 18 
+S43940 62 [430] 36 [250] 18 
+S42035 80 [550] 55 [380] 16 
+TP468 60 [415] 30 [205] 22 S46800 
+A For tubing smaller than ½ in. [12.7 mm] in outside diameter, the elongation 
+values given for strip specimens in Table 2 shall apply. Mechanical property 
+requirements do not apply to tubing smaller than 1/a in. [3.2 mm] in outside 
+diameter or with walls thinner than 0.Q15 in. [0.4 mm]. 
+8 For longitudinal strip tests a deduction of 0.90 % for TP446-1 and S44735 and 
+1.00 % for all other grades shall be made from the basic minimum elongation for 
+each 1/s2 in. [0.8 mm] decrease in wall thickness below 5/16 in. [8 mm]. The 
+following table gives the computed minimum values: 
+considered as scale. Any special finish requirements shall be 
+subject to agreement between the manufacturer and the pur­
+chaser. 
+14. Mechanical Tests Required 
+14.1 Tension Tests-One tension test shall be made on a 
+specimen for lots of not more than 50 tubes. Tension tests shall 
+be made on specimens from two tubes for lots of more than 50 
+tubes. 
+14.2 Flaring Test (for Seamless Tubes)-One test shall be 
+made on specimens from one end of one tube from each lot of 
+finished tubes. The minimum expansion of the inside diameter 
+shall be 10 %. For tubes over 8 in. [203.2 mm] in outside 
+diameter, or tubes with wall thickness 3/s in. [9.52 mm] and 
+TABLE 4 Minimum Elongation Values 
+ElongationA in 2 in. 
+Wall Thickness or 50 mm, min, % 
+TP446-1 
+and All Other 
+in. mm S44735 S41500 Grades 
+5/16 [0.312] 8 18 15 20 
+%2 [0.281] 7.2 17 14 19 
+¼ [0.250] 6.4 16 14 18 
+7 /32 [0.219] 5.6 15 13 17 
+3/is [0.188] 4.8 14 12 16 
+%2 [0.156] 4 13 11 15 
+1/a [0.125] 3.2 13 11 14 
+%2 [0.094] 2.4 12 10 13 
+1/16 [0.062] 1.6 11 9 12 
+0.062--0.035, excl 1.6-0.9 10 8 12 
+0.035-0.022, excl 0.9-0.6 10 8 11 
+0.022-0.015, incl 0.6-0.4 10 8 11 
+ACalculated elongation requirements shall be rounded to the nearest whole 
+number. 
+Note-The above table gives the computed minimum values for each 1/s2 in. [0.8 
+mm] decrease in wall thickness. Where the wall thickness lies between two values 
+shown above, the minimum elongation value shall be determined by the following 
+equation: 
+Equation Grade 
+TP446-1 and S44735 
+S41500 
+E = 28.81 + 9.00 [E = 1.131 + 9.00] 
+E = 241 + 7.5 
+All other grades E = 321 + 10.00 [E = 1.251 + 10.00] 
+where: 
+E = elongation in 2 in. or 50 mm, %. 
+t = actual thickness of specimen, in. [mm]. 
+TABLE 5 Hardness Requirements. 
+Brinell Rockwell 
+Hardness, Hardness, 
+Grade UNS Designation max B Scale, max 
+TP405 S40500 207 95 
+S40800 207 95 
+TP410 S41000 207 95 
+TP429, TP430, and S42900, S 43000, 190 90 
+TP430TI and S 43036 
+TP443 S44300 207 95 
+TP446-1 and S44600 207 95 
+TP446-2 
+TP409 S40900 207 95 
+TP439 S43035A 190 90 
+S43932 190 90 
+S41500 295 8 32 
+TPXM-33 and S44626 and 241 100 
+TPXM-27 S44627 
+18CR-2Mo S44400 217 95 
+29-4 and 29-4-2 S44700 and 207 100 
+S44800 
+26-3-3 S44660 265 25 8 
+25-4-4 S44635 270 27 8 
+S44735 100 
+28-2-3.5 S32803 240 100 
+S40977 180 88 
+S43940 180 88 
+S42035 180 88 
+A Editorially corrected October 2000. 
+8 Rockwell hardness, C scale. 
+over, the flattening test may be performed instead of the flaring 
+test unless the flaring test is specified in the purchase order. 
+14.3 Flange Test (for Welded Tubes)-One test shall be 
+made on specimens from one end of one tube from each lot of 
+404 

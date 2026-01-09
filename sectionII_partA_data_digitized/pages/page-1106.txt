@@ -1,0 +1,131 @@
+SA-572/SA-572M ASME BPVC.II.A-2025 
+1 
+2 
+3 
+5 
+TypeA 
+TABLE 3 Alloy Content 
+Elements 
+Columbium/niobiumE 
+Vanadium 
+Columbium/niobiumE 
+Vanadium 
+Columbium/niobiumE plus vanadium 
+Titanium 
+Nitrogen 
+Vanadium 
+Heat Analysis, % 
+0.005-0.05 8 
+0.01-0.15° 
+0.005-0.05 8 
+0.01-0.15° 
+0.02-0.15D 
+0.006-0.04 
+0.003-0.015 
+0.06 max 
+A Alloy content shall be in accordance with Type 1, 2, 3, or 5 and the contents of 
+the applicable elements shall be reported on the test report. 
+8 Product analysis limits = 0.004 to 0.06 %. 
+c Product analysis limits = 0.005 to 0.17 %. 
+0 Product analysis limits = 0.01 to 0.16 %. 
+E Columbium and niobium are interchangeable names for the same element and 
+both names are acceptable for use in Committee A01 specifications. 
+5. Chemical Composition 
+5.1 The heat analysis shall conform to the requirements 
+prescribed in Table 2 and Table 3. 
+5.2 The steel shall conform on product analysis to the 
+requirements prescribed in Table 2 and Table 3, subject to the 
+product analysis tolerances in Specification A6/A6M. 
+6. Mechanical Properties 
+6.1 Tensile Properties: 
+6.1.1 The material as represented by the test specimens shall 
+conform to the tensile properties given in Table 4. 
+TABLE 4 Tensile RequirementsA 
+Grade 
+42 [290] 
+50 [345] 
+55 [380] 
+60 [415] 
+65 [450] 
+Yield Point, min 
+ksi 
+42 
+50 
+55 
+60 
+65 
+[MPa] 
+[290] 
+[345] 
+[380] 
+[415] 
+[450] 
+Tensile Strength, min 
+ksi 
+60 
+65 
+70 
+75 
+80 
+[MPa] 
+[415] 
+[450] 
+[485] 
+[520] 
+[550] 
+Minimum Elonga­
+tion, % B, C, D 
+in 8 in. in 2 in. 
+[200 mm] [50 mm] 
+20 
+18 
+17 
+16 
+15 
+24 
+21 
+20 
+18 
+17 
+A See specimen orientation under the Tension Tests section of Specification 
+A6/A6M. 
+8 Elongation not required to be determined for floor plate. 
+c For wide flange shapes over 426 lb/ft [634 kg/m], elongation in 2 in. [50 mm] of 
+19 % minimum applies. 
+° For plates wider than 24 in. [600 mm], the elongation requirement is reduced two 
+percentage points for Grades 42, 50, and 55 [290, 345, and 380], and three 
+percentage points for Grades 60 and 65 [415 and 450]. See elongation require­
+ment adjustments in the Tension Tests section of Specification A6/A6M. 
+7. Test Reports 
+7 .1 In addition to the Test Reports requirements in Specifi­
+cation A6/A6M, when Specification A588/A588M is substi­
+tuted for Specification A572/ A572M, the test report shall 
+include the statement "Specification A588/A588M substi­
+tuted." 
+8. Keywords 
+8.1 bars; bolted construction; bridges; buildings; 
+columbium/niobium-vanadium; high-strength; low-alloy; 
+plates; riveted construction; shapes; sheet piling; steel; struc­
+tural steel; welded construction 
+SUPPLEMENTARY REQUIREMENTS 
+Supplementary requirements shall not apply unless specified in the order or contract. Standardized 
+supplementary requirements for use at the option of the purchaser are listed in Specification A6/ A6M. 
+Those that are considered suitable for use with this specification are listed by title: 
+S5. Charpy V-Notch Impact Test. 
+S18. Maximum Tensile Strength 
+S30. Charpy V-Notch Impact Test for Structural Shapes: Alternate Core Location 
+S32. Single Heat Bundles. 
+In addition, the following supplementary requirements are suitable for use: 
+S81. Tensile Strength S99. Interlock Strength 
+S81.l For Grade 50 [345) steel of thicknesses ¾ in. [20 
+mm] and less, the tensile strength shall be a minimum of 70 ksi 
+[485 MPa]. 
+S90. Type 
+S90.1 The specific type of steel shall be as specified by the 
+purchaser in the order or contract. 
+S99.1 The minimum strength of the interlocked joint re­
+quired for certain services may be specified for straight web 
+(PS type) and arched web (PSA type) sheet piling sections 
+subject to specific agreement between the material purchaser 
+and the manufacturer. 
+1012 

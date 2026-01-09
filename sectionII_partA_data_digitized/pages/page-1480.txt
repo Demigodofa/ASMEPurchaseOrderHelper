@@ -1,0 +1,99 @@
+SA-962/SA-962M ASME BPVC.II.A-2025 
+S58.4 All bolting that are not of the correct material grade 
+shall be rejected. 
+S58.5 The method of bolting marking after examination 
+shall be agreed upon between the manufacturer and purchaser. 
+S59. Pressure Equipment Directive-Mechanical Testing 
+S59.1 Charpy impact testing shall be done at the lowest 
+scheduled operating temperature, but not higher than 20 °C [68 
+OF]. 
+S59 .2 The frequency of impact testing shall be the same as 
+that specified in the product specification for the tension test, 
+with three individual Charpy test specimens for each required 
+tension test. 
+S59.3 The minimum individual energy for the Charpy 
+impact test shall be 20 ft-lb [27 J]. 
+S59.4 The minimum elongation in the tension test shall be 
+measured on a gauge length of five times the diameter of the 
+test specimen, and shall not be less than 14 %. 
+S59.5 Impact and tension test results shall be included in the 
+product certification. 
+S60. Heat Treat Charts 
+S60.1 The supplier shall provide heat treat charts as a part of 
+the order documentation. 
+S61. Hardness Testing 
+S61.l Each piece of bolting shall be hardness tested and 
+found to meet the requirements of the product specification or 
+this standard, as applicable. A minimum sample consisting of 
+10 % of the pieces in each lot shall be tested using an 
+indentation method in accordance with Test Methods and 
+Definitions A370 when inch-pound units are specified or to the 
+applicable track of Test Methods A1058 if SI units are 
+specified. Each piece in the sample shall meet the hardness 
+requirements. The balance of the lot may be tested using either 
+the indentation method per Test Methods and Definitions A370 
+when inch-pound units are specified or to the applicable track 
+of Test Methods A1058 if SI units are specified or electromag­
+netic sorting in accordance with Practice E566. If any piece in 
+the sample is outside of the specified hardness requirements, 
+then the lot shall be rejected and either reprocessed and 
+resampled, or tested 100 % by indentation hardness methods. 
+S62. Ultrasonic Examination of Bolting in Sizes Greater 
+than 2 in. [50 mm] in Cross Section 
+S62.1 All bolting with a major cross section greater than 2 in. 
+[50 mm] shall be subjected to ultrasonic inspection (UT) prior 
+to threading. 
+S62.2 Ultrasonic inspection shall be carried out using 
+L-wave transducers in the radial direction. 
+S62.3 Search units shall not exceed 1 in.2 [645 mm 2 ] in area 
+and shall have a nominal frequency of 2 or 2¼ MHz. 
+S62.4 Inspection sensitivity shall be established using a first 
+back reflection set at 80 % of full screen height (FSH). 
+S62.5 Indications whose amplitude exceeds 20 % FSH and 
+those which cause the back reflection signal amplitude to 
+decrease to 40 % or less FSH are not acceptable. 
+S63. Phosphorus and Sulfur Maximums 
+S63.1 The phosphorus and sulfur content of carbon and low 
+alloy steels shall be 0.025 % max. 
+S64. Product Inspection 
+S64. l Sampling for dimensional, thread fit and visual 
+inspection of product shall be performed in accordance with 
+ASME B18.18 Category 2. 
+S65. Product Inspection 
+S65.l Sampling for dimensional, thread fit and visual 
+inspection of product shall be performed in accordance with 
+ASME Bl8.18 Category 3. 
+S66. Marking for Lot Traceability 
+S66.1 In addition to the requirements stated in Section 20, 
+bolting components (purchaser to designate whether bolts or 
+nuts or other specific items apply) shall be individually hard 
+marked with a traceability code that provides full traceability to 
+the lot, with a lot as defined in 3.1.10 for fasteners. The 
+traceability code shall be defined by the bolting manufacturer 
+and shall be reported on the certification. 
+S67. Eddy Current Inspection 
+S67 .1 Eddy current examination shall be applied to 100 % of 
+the lot in accordance with a defined practice approved by the 
+purchaser. Reject levels for linear indications shall be based on 
+the alarm response from a surface notch with a maximum depth 
+of 0.012 in. [0.030 mm] in a calibration bar. 
+S68. Ultrasonic Inspection 
+S68.l Ultrasonic examination shall be applied to 100 % of 
+the lot in accordance with a defined practice approved by the 
+purchaser. Reject levels for linear indications shall be based on 
+the alarm response from a surface notch with a maximum depth 
+of 0.012 in. [0.030 mm] in a calibration bar. 
+S69. Sampling For Hardness Testing 
+S69.1 Finished components or blanks from each heat treat­
+ment charge shall be subjected to hardness testing. The number 
+of samples tested shall meet the requirements of Guide F1470, 
+Table 3, Sample Size B. 
+S70. Maximum Hardness for Carbon and Alloy Steel 
+S70.1 The maximum hardness of components shall not 
+exceed 32 HRC [302 HBW]. 
+S71. Passivation of Stainless Steel Bolting 
+S71.1 Stainless Steel Bolting components shall be passivated 
+in accordance with Practice A380/A380M or Specification 
+A967 / A967M at the option of the manufacturer or shall be 
+electropolished. 
+1422 

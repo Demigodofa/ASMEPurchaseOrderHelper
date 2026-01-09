@@ -1,0 +1,116 @@
+ASME BPVC.II.A-2025 SA-53/SA-53M 
+taken from each end of each length of pipe. The tests from each 
+end shall be made alternately with the weld at 0° and at 90° 
+from the line of direction of force. 
+7.3.3.3 For pipe produced in multiple lengths, the flattening 
+test specified in 7.3.3.1 shall be made as follows: 
+(1) Test specimens taken from, and representative of, the 
+front end of the first pipe intended to be supplied from each 
+coil, the back end of the last pipe intended to be supplied from 
+each coil, and each side of any intermediate weld stop location 
+shall be flattened with the weld located at 90° from the line of 
+direction of force. 
+(2) Test specimens taken from pipe at any two locations 
+intermediate to the front end of the first pipe and the back end 
+of the last pipe intended to be supplied from each coil shall be 
+flattened with the weld located at 0° from the line of direction 
+of force. 
+7.3.3.4 For pipe that is to be subsequently reheated through­
+out its cross section and hot formed by a reducing process, the 
+manufacturer shall have the option of obtaining the flattening 
+test specimens required by 7.3.3.2 or 7.3.3.3, whichever is 
+applicable, either prior to or after such hot reducing. 
+7.3.4 Continuous-Welded Pipe-A test specimen at least 4 
+in. [100 mm] in length shall be flattened cold between parallel 
+plates in three steps. The weld shall be located at 90° from the 
+line of direction of force. During the first step, which is a test 
+for ductility of the weld, except as allowed by 7.3.5, 7.3.6, and 
+7.3.7, no cracks or breaks on the inside, outside, or end 
+surfaces at the weld shall be present before the distance 
+between tl1e plates is less than three fourths of the specified 
+outside diameter of the pipe. As a second step, the flattening 
+shall be continued as a test for ductility away from the weld. 
+During the second step, except as allowed by 7.3.6 and 7.3.7, 
+no cracks or breaks on the inside, outside, or end smfaces away 
+from the weld shall be present before the distance between the 
+plates is less than 60 % of the specified outside diameter of the 
+pipe. During the third step, which is a test for soundness, the 
+flattening shall be continued until the test specimen breaks or 
+the opposite walls of the test specimen meet. Evidence of 
+laminated or unsound material or of incomplete weld that is 
+revealed by the flattening test shall be cause for rejection. 
+7.3.5 Surface imperfections in the test specimen before 
+flattening, but revealed during the first step of the flattening 
+test, shall be judged in accordance with the finish requirements 
+in Section 12. 
+7.3.6 Superficial ruptures as a result of surface imperfec­
+tions shall not be cause for rejection. 
+7.3.7 For pipe with a D-to-t ratio less than 10, because the 
+strain imposed due to geometry is unreasonably high on the 
+inside surface at the 6 and 12 o'clock locations, cracks at such 
+locations shall not be cause for rejection. 
+8. Hydrostatic Test 
+8.1 The hydrostatic test shall be applied, without leakage 
+through the weld seam or the pipe body. 
+8.2 Plain-end pipe shall be hydrostatically tested to the 
+applicable pressure given in Table X2.2, and threaded-and­
+coupled pipe shall be hydrostatically tested to the applicable 
+pressure given in Table X2.3. It shall be pennissible, at the 
+discretion of the manufacturer, to perform the hydrostatic test 
+on pipe with plain ends, with threads only, or with threads and 
+couplings; and it shall also be permissible to test pipe in either 
+single lengths or multiple lengths. 
+NoTE 4-The hydrostatic test pressures given herein are inspection test 
+pressures, are not intended as a basis for design, and do not have any direct 
+relationship to working pressures. 
+8.3 The minimum hydrostatic test pressure required to 
+satisfy the requirements specified in 8.2 need not exceed 2500 
+psi [17 200 kPa] for pipe NPS 3 [DN 80] or smaller or 2800 
+psi [19 300 kPa] for pipe larger than NPS 3 [DN 80]; however, 
+the manufacturer has the option of using higher test pressures. 
+For all sizes of seamless pipe and electric-resistance-welded 
+pipe, the hydrostatic test pressure shall be maintained for at 
+least 5 s. 
+9. Nondestructive Electric Test 
+9.1 Type E Pipe: 
+_9. l. l Except for pipe produced on a hot-stretch reducing 
+111111, the weld seam of each length of electric-resistance­
+welded pipe NPS 2 [DN 50] or larger shall be tested with a 
+nondestructive electric test in accordance with Practices E213 
+E273, E309, or E570. Each length of electric-resistance~ 
+welded pipe NPS 2 [DN 50] or larger and produced on a 
+hot-stretch-reducing mill shall be tested with a nondestructive 
+electric test that inpsects the full volume of the pipe in 
+accordance with Practices E213, E309, or E570. 
+9.1.2 Ultrasonic and Electromagnetic Inspection-Any 
+equipment utilizing the ultrasonic or electromagnetic principles 
+and capable of continuous and uninterrupted inspection of the 
+weld seam shall be used. The equipment shall be checked with 
+an applicable reference standard as described in 9.1.3 at least 
+once every working tum or not more than 8 h to demonstrate 
+its effectiveness and the inspection procedures. The equipment 
+shall be adjusted to produce well-defined indications when the 
+reference standard is scanned by the inspection unit in a 
+manner simulating the inspection of the product. 
+9.1.3 Reference Standards-The length of the reference 
+standards shall be determined by the pipe manufacturer, and 
+they shall have the same specified diameter and thickness as 
+the product being inspected. Reference standards shall contain 
+machined notches, one on the inside surface and one on the 
+outside surface, or a drilled hole, as shown in Fig. 1, at the 
+option of the pipe manufacturer. The notches shall be parallel 
+to the weld seam, and shall be separated by a distance sufficient 
+to produce two separate and distinguishable signals. The 1 /s-in. 
+[3.2-mm] hole shall be drilled through the wall and perpen­
+dicular to the surface of the reference standard as shown in Fig. 
+1. Care shall be taken in the preparation of the reference 
+standard to ensure freedom from fins or other edge roughness, 
+or distortion of the pipe. 
+Norn 5-The calibration standards shown in Fig. 1 are convenient 
+standards for calibration of nondestmctive testing equipment. The dimen­
+sions of such standards are not to be construed as the minimum sizes of 
+imperfections detectable by such equipment. 
+143 
+9 .1.4 Acceptance Limits-Table 3 gives the height of accep­
+tance lilnit signals in percent of the height of signals produced 
+by reference standards. Imperfections in the weld seam that 

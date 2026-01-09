@@ -1,0 +1,114 @@
+ASME BPVC.II.A-2025 SA-480/SA-480M (ASTM A480/A480M) 
+A895 Specification for Free-Machining Stainless Steel Plate, 
+Sheet, and Strip 
+A923 Test Methods for Detecting Detrimental Intermetallic 
+Phase in Duplex Austenitic/Ferritic Stainless Steels 
+A941 Terminology Relating to Steel, Stainless Steel, Related 
+Alloys, and Ferroalloys 
+A1084 Test Method for Detecting Detrimental Phases in 
+Lean Duplex Austenitic/Ferritic Stainless Steels 
+E140 Hardness Conversion Tables for Metals Relationship 
+Among Brinell Hardness, Vickers Hardness, Rockwell 
+Hardness, Superficial Hardness, Knoop Hardness, Sclero­
+scope Hardness, and Leeb Hardness 
+2.2 AIAG Standard: 5 
+B-5 Primary Metals Identification Tag Application Standard 
+2.3 ASME Document: 6 
+ASME BPVC.IX Boiler and Pressure Vessel Code, Section 
+IX: Welding, Brazing, and Fusing Qualifications 
+2.4 Federal Standard: 7 
+Fed. Std. No. 123 Marking for Shipment (Civil Agencies) 
+3. Terminology 
+3.1 Definitions: 
+3.1.1 For definitions of terms pertaining to this standard, not 
+otherwise listed in 3.2, reference should be made to Terminol­
+ogy A941. 
+3.2 Definitions of Terms Specific to This Standard: 
+3.2.1 cold work, n-the changing of mechanical properties 
+by work hardening. 
+3.2.2 plate, n-material 3/16 in. [5.00 mm] and over in 
+thickness and over 10 in. [250 mn:i-] in width; finishes for plate 
+are shown in Section.13. 
+3,2.3 sheet, n-material under 3/16 in. [5.00 mm] in thickness 
+and 24 in. [600 mm] and over in width; finishes for sheet are 
+shown in Section 11. 
+3.2.4 strip, n-cold-rolled material under 3/16 in. [5.00 mm] 
+in thickness and under 24 in. [600 mm] in width; finishes are 
+detailed in Section 12 for strip, and strip edges in Section 14 
+for cold-rolled strip. 
+4. Ordering Information 
+4.1 It is the responsibility of the purchaser to specify all 
+requirements that are necessary for material ordered under this 
+specification. Such requirements may include, but are not 
+limited to, the following: 
+4.1.1 Quantity (weight and number of pieces), 
+4.1.2 Name of material (stainless steel), 
+4.1.3 Condition (hot-rolled, cold-rolled, annealed, heat­
+treated), 
+4.1.4 Finish (see Section 11 for sheet, Section 12 for strip, 
+and Section 13 for plates); in the case of polished finishes, 
+specify whether one or both sides are to be polished, 
+5 Available from Automotive Industry Action Group (AIAG), 26200 Lahser Rd., 
+Suite 200, Southfield, MI 48033-7156, http://www.aiag.org. 
+6 Available from American Society of Mechanical Engineers (ASME), ASME 
+International Headquarters, Two Park Ave., New York, NY 10016-5990, http:// 
+www.asme.org. 
+7 Available from DLA Document Services, Building 4/D, 700 Robbins Ave., 
+Philadelphia, PA 19111-5094, http://quicksearch.dla.mil. 
+4.1.5 Temper (if the applicable material specification re-
+quires this detail), 
+4.1.6 Form (plate, sheet, or strip), 
+4.1.7 Dimensions (thickness, width, and length), 
+4.1. 7 .1 Thickness shall be ordered to decimal or fractional 
+thickness. The use of the gauge number is discouraged as being 
+an archaic term of limited usefulness not having general 
+agreement on meaning. The gauge number shall not be a basis 
+• for rejection. 
+4.1.7.2 Thickness, width, and length, when applicable, 
+should be ordered in the same units, for example, 0.060 in. by 
+48 in. by 120 in. [1.52 mm by 1219 mm by 3048 mm]. 
+4.1.8 Edge, strip only (see Section 14 for cold-rolled strip), 
+4.1.9 Type or UNS designation, refer to the applicable 
+material specification, 
+4.1.10 Specification designation and date of issue, 
+4.1.11 Additions to specification or special requirements, 
+4.1.12 Restrictions (if desired) on methods for determining 
+yield strength (see appropriate footnote to mechanical proper­
+ties table of the basic material specification), 
+4.1.13 Marking requirements (see Section 25), 
+4.1.14 Preparation for delivery (see Section 25), and 
+4.1.15 Magnetic permeability test (when required). Refer to 
+Section 19. 
+5. Process 
+5.1 The steel shall be manufactured/produced by the follow­
+ing or as specified in the applicable material specification. 
+5.1.1 The steel shall be made by electric-arc, electric­
+induction, or other suitable processes. 
+5.1.2 If a specific type of meltip.g is required by the 
+purchaser, it shall be so specified on the purchase order. 
+6. Heat Analysis 
+6.1 Methods and practices· relating to chemical analysis 
+shall be in accordance with Test . Methods, Practices, and 
+Terminology A751. 
+6.2 An analysis of each heat shall be made by the steel 
+producer to determine the percentages of the elements specified 
+in the applicable material specification. This analysis shall be 
+made from a test sample taken during the pouring of the melt, 
+or from the in-process product later in the manufacturing flow. 
+6.2.1 The heat analysis shall conform to the chemical 
+requirements for each of the specified elements for the grade 
+ordered, as listed in the applicable product specification. 
+6.2.2 All commercial metals contain small amounts of 
+elements other than those which are specified. It is neither 
+practical nor necessary to specify limits for unspecified ele­
+ments that can be present. The producer is permitted to analyze 
+for unspecified elements and is permitted to report such 
+analyses. The presence of an unspecified element and the 
+reporting of an analysis for that element shall not be a basis for 
+rejection, unless the presence of that element causes the loss of 
+a property typically expected for that metal, for the type and 
+quality ordered. 
+6.2.3 The purchaser is permitted to require in the purchase 
+order a maximum limit for an individual element not specified 
+in the product specification. Such a requirement for an element 
+787 

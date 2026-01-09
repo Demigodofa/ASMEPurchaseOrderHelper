@@ -1,0 +1,146 @@
+SA-325
+
+TABLE 4 Tensile Load Requirements for Bolts Tested Full-Size
+
+Proof Load,2 Alternative
+: Length Proof
+
+Bolt Size, Threads per Measure- Load,® Yield
+
+Inch, and Series Stress Area,“ Tensile Load,® ment Strength
+
+Designation in. min, bf Method Method
+Column 1 Column 2 Column 3 Column 4 Column 5
+Ye -13 UNC 0.142 17 050 12 050 13 050
+5% —11 UNC 0.226 27 100 19 200 20 800
+% —10 UNC 0.334 40 100 28 400 30 700
+% -9 UNC 0.462 55 450 39 250 42 500
+1-8 UNC 0.606 72 700 51 500 55 750
+1% -7 UNC 0.763 80 100 56 450 61 800
+1% -7 UNC 0.969 101 700 71 700 78 500
+1% -6 UNC 1.155 121 300 85 450 93 550
+1% -6 UNC 1.405 147 500 104 000 113 800
+4The stress area is calculated as follows:
+As = 0.7854 [D — (0.9743/n) ?
+where
+As = stress area, in.?,
+DD = nominal bolt size, and
+n = threads per inch.
+® Loads tabulated are based on the following:
+
+Bolt Size, in. Column 3 Column 4 Column 5
+Y to 1, incl 120 000 psi 85 000 psi 92 000 psi
+1% to 1%, incl 105 000 psi 74 000 psi 81 000 psi
+
+6.3.1 Definition—The rotational capacity test is intended to
+evaluate the presence of a lubricant, the efficiency of the
+lubricant, and the compatibility of assemblies as represented by
+the components selected for testing.
+
+6.3.2 Requirement—Zinc-coated bolts, zinc-coated washers,
+and zinc-coated and lubricated nuts tested full size in an
+assembled joint or tension measuring device, in accordance
+with 10.2, shall not show signs of failure when subjected to the
+nut rotation in Table 6. The test shall be performed by the
+responsible party (see Section 14) prior to shipment after zinc
+coating and lubrication of nuts (see 10.2 and Note 4).
+
+6.3.3 Acceptance Criterion—The bolt and nut assembly
+shall be considered as non-conforming if the assembly fails to
+pass any one of the following specified requirements:
+
+6.3.3.1 Inability to install the assembly to the nut rotation in
+Table 6.
+
+6.3.3.2 Inability to remove the nut after installing to the
+rotation specified in Table 6.
+
+6.3.3.3 Shear failure of the threads as determined by visual
+examination of bolt and nut threads following removal.
+
+6.3.3.4 Torsional or torsional/tension failure of the bolt.
+Elongation of the bolt, in the threads between the nut and bolt
+head, is to be expected at the required rotation and is not to be
+classified as a failure.
+
+7. Dimensions
+
+7.1 Head and Body:
+7.1.1 The bolts shall conform to the dimensions for heavy
+hex structural bolts specified in ASME B18.2.6.
+
+ASME BPVC.ILA-2025
+
+7.1.2 The thread length shall not be changed except as
+provided in Supplementary Requirement S1. Bolts with thread
+lengths other than those required by this specification shall be
+ordered under Specification A449.
+
+7.2 Threads:
+
+7.2.1 Uncoated—Threads shall be the Unified Coarse
+Thread Series as specified in ASME B1.1, and shall have Class
+2A tolerances.
+
+7.2.2 Coated—Unless otherwise specified, zinc-coated bolts
+to be used with zinc-coated nuts or tapped holes that are tapped
+oversize, in accordance with Specification A563, shall have
+Class 2A threads before hot-dip or mechanically deposited zinc
+coating. After zinc coating, the maximum limits of pitch and
+major diameter shall not exceed the Class 2A limit by more
+than the following amounts:
+
+Oversize Limit, in.4
+
+Nominal Bolt Hot-Dip Mechanical
+
+. ; Zinc Zinc
+Diameter (in.)
+
+Va 0.018 0.012
+Se , Ye, Va 0.020 0.013
+% 0.022 0.015
+1to1% 0.024 0.016
+1% , 1% 0.027 0.018
+
+AtHot-dip zinc nuts are tapped oversize after coating, and mechanical zinc-
+coated nuts are tapped oversize before coating.
+
+7.2.3 The gaging limit for bolts shall be verified during
+manufacture. In case of dispute, a calibrated thread ring gage of
+the same size as the oversize limit in 7.2.2 (Class X tolerance,
+gage tolerance plus) shall be used to verify compliance. The
+gage shall assemble with hand effort following application of
+light machine oil to prevent galling and damage to the gage.
+These inspections, when performed to resolve controversy,
+shall be conducted at the frequency specified in the quality
+assurance provisions of ASME B18.2.6.
+
+8. Workmanship
+
+8.1 The allowable limits, inspection, and evaluation of the
+surface discontinuities, quench cracks, forging cracks, head
+bursts, shear bursts, seams, folds, thread laps, voids, tool
+marks, nicks, and gouges shall be in accordance with Specifi-
+cation F788/F788M.
+
+9. Number of Tests and Retests
+
+9.1 Testing Responsibility:
+
+9.1.1 Each lot shall be tested by the manufacturer prior to
+shipment in accordance with the lot identification control
+quality assurance plan in 9.2 through 9.5.
+
+9.1.2 When bolts are furnished by a source other than the
+manufacturer, the Responsible Party as defined in 14 shall be
+responsible for assuring all tests have been performed and the
+bolts comply with the requirements of this specification (see
+4.5).
+
+9.2 Purpose of Lot Inspection—The purpose of a lot inspec-
+tion program is to ensure that each lot conforms to the
+requirements of this specification. For such a plan to be fully
+effective it is essential that secondary processors, distributors,
+
+478

@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 75,
+  "globalPageIndex": 75,
+  "width": 620.16,
+  "height": 798.0,
+  "text": "ASME BPVC.II.A-2025 SA-6/SA-6M \nTABLE 16 Permitted Variations in Cross Section for W, HP, S, M, C, and MC Shapes \nNorn 1-A is measured at center line of web for S, M, and Wand HP shapes; at back of web for C and MC shapes. Measurement is overall for C \nshapes under 3 in. B is measured parallel to flange. C is measured parallel to web. \nNOTE 2-Where \" ... \" appears in this table, there is no requirement. \nC A C A \nT T \nT' \nA \nT \nPermitted Variations in Sectional Dimensions Given, In. \nPermitted Variations C, Maximum Over or Under Theoreti-\nA, Depth 8, Flange Width T+T'A \nDepth at cal Web Thickness for \nFlanges E,Web any Cross Thicknesses Given in \nShape Section Nominal Sizes, in. Out-of- off Cen- Section Inches, in. \nSquare 8 terc over Theo-\nOver Under Over Under retical o/10 and Theo- Theo- Theo- Theo- Depth, in. under Over \u2022Ao \nretical retical retical retical \nWand HP Up to 12, incl 1/a 1/e \u00bc o/ie \u00bc o/16 \u00bc \nOver 12 1/2, 1/a \u00bc o/1s \u2022Aa \u2022A\u2022 \u00bc \nSand M 3 to 7, incl 3/32 \u00bco 1/a 1/e 1/02 o/16 \nOver 7 to 14, Incl 1/e \u2022132 %2 %2 1/s2 o/ie \nOver 14 to 24, incl o/ie 1/e o/10 o/ie 1/s2 o/10 \nC and MC 1\u00bd and under 1/32 1/02 1/s2 1/s2 1/s2 0.010 0.015 \nOver 1 \u00bd to 3, excl 1/10 1/10 1/10 1/1s 1/s2 0.015 0.020 \n3 to 7, Incl %2 1/10 1/s 1/s 1/s2 \nOver 7 to 14, incl 1/e %2 1/2, o/02 1/02 \nOver 14 \u2022I1s 1/a 1/2, o/10 1/s2 \nA T + T' applies when flanges of channels ,are toed in or out. For channels 6/a in. and under in depth, the permitted out-of-square is \u00be\u2022 in.tin. of depth. \n8 Permitted variation is per inch of flange width for S, M, C, and MC shapes. \nc Permitted variation of o/,e in. max for sections over 426 lb/ft. \n23 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 1,
+  "tabulaTablesPath": "tables_tabula/page-0075.json",
+  "tabulaTablesCsv": "tables_tabula/page-0075.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0075.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1634,
+  "bestTextAlphaRatio": 0.6034
+}

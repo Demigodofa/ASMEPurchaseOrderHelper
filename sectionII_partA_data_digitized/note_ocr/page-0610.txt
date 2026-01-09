@@ -1,0 +1,94 @@
+SA-354
+
+Standard Specification for
+
+ASME BPVC.ILA-2025
+
+Quenched and Tempered Alloy Steel Bolts, Studs, and Other
+Externally Threaded Fasteners
+
+1. Scope
+
+1.1 This specification covers the chemical and mechanical
+requirements of quenched and tempered alloy steel bolts, studs,
+and other externally threaded fasteners 4 in. and under in
+diameter for application at normal atmospheric temperatures,
+where high strength is required and for limited application at
+elevated temperature (Note 1). Any alloy steel capable of
+meeting the minimum mechanical and chemical properties set
+forth in this specification may be used.
+
+Nore 1—For bolts, studs, or other externally threaded fasteners, to be
+used at elevated temperatures, refer to Specification A193/A193M.
+
+1.2 Two levels of bolting strength are covered, designated
+Grades BC and BD. Selection will depend upon design and the
+stresses and service for which the product is to be used.
+
+Nore 2—Quenched and tempered alloy steel bolts for structural steel
+joints up through 11 in. in diameter are covered in Specification A490.
+Alloy steel bolts, studs, and other externally threaded fasteners (that is,
+heavy hex-structural bolts over 1/2 in., hex bolts, anchor bolts, and
+countersunk bolts) exhibiting similar mechanical properties to bolts
+conforming to Specification A490 shall be covered by Grade BD of this
+specification.
+
+When bolts of Grade BD of this specification are considered for
+pretentioned applications in excess of 50 % of the bolt tensile strength, the
+additional requirements of head size, maximum tensile strength, nut size
+and strength, washer hardness, tests, and inspections contained in Speci-
+fication A490 should be carefully considered.
+
+1.3 Nuts are covered in Specification A563. Unless other-
+wise specified, the grade and style of nut for each grade of
+fastener shall be as follows:
+
+558
+
+Nut Grade and
+
+Grade of Fastener and Surface Finish Style*
+BC, plain (or with a coating of insufficient thick- C, heavy hex
+ness to require over-tapped nuts)
+BC, zinc-coated (or with a coating thickness re- DH, heavy hex
+quiring over-tapped nuts)
+BD, all finishes DH, heavy hex
+
+4 Nuts of other grades and styles having specified proof load stresses (Specifica-
+tion A563, Table 3) greater than the specified grade and style of nut are suitable.
+
+1.4 The values stated in inch-pound units are to be regarded
+as the standard.
+
+1.5 Terms used in this specification are defined in Termi-
+nology F1789 unless otherwise defined herein.
+
+2. Referenced Documents
+
+2.1 ASTM Standards:
+
+A193/A193M Specification for Alloy-Steel and Stainless
+Steel Bolting for High Temperature or High Pressure
+Service and Other Special Purpose Applications
+
+A490 Specification for Structural Bolts, Alloy Steel, Heat
+Treated, 150 ksi Minimum Tensile Strength
+
+A563 Specification for Carbon and Alloy Steel Nuts
+
+A751 Test Methods, Practices, and Terminology for Chemi-
+cal Analysis of Steel Products
+
+B695 Specification for Coatings of Zinc Mechanically De-
+posited on Iron and Steel
+
+D3951 Practice for Commercial Packaging
+
+F436 Specification for Hardened Steel Washers
+
+F606 Test Methods for Determining the Mechanical Proper-
+ties of Externally and Internally Threaded Fasteners,
+Washers, Direct Tension Indicators, and Rivets
+
+F788/F788M Specification for Surface Discontinuities of
+Bolts, Screws, and Studs, Inch and Metric Series

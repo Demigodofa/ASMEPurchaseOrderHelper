@@ -1,0 +1,34 @@
+[
+  {
+    "rows": [
+      [
+        "Copper, max0",
+        "0.4",
+        "0.40",
+        "0.4",
+        "10. Tensile Requirements"
+      ],
+      [
+        "Molybdenum, max0",
+        "0.15",
+        "0.15'",
+        "0.15",
+        ""
+      ],
+      [
+        "Nickel, max0",
+        "0.4",
+        "0.40",
+        "0.4",
+        "10.1 The material shall conform to the requirements as to"
+      ],
+      [
+        "Vanadium, max0",
+        "0.08",
+        "0.08",
+        "0.08",
+        "tensile properties given in Table 2."
+      ]
+    ]
+  }
+]

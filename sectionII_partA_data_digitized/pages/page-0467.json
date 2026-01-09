@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 467,
+  "globalPageIndex": 467,
+  "width": 597.72,
+  "height": 842.88,
+  "text": ",-~-\nASME BPVC.II.A-2025 \nTABLE 3 Response to Heat Treatment \nHeat Treatment Hardness TypeA Temperature 8 Quench ant HRC, min \u00b0F [\u00b0C], min \n403 1750 [955] Air 35 \n410 1750 [955] Air 35 \n414 1750 [955] Oil 42 \n420 1825 [995] Air 50 \nS42010 1850 [1010] Oil 48 \n431 1875 [1020] Oil 40 \n440A 1875 [1020] Air 55 \n440B 1875 [1020] Oil 56 \n440C 1875 [1020] Air 58 \nA Samples for testing shall be in the form of a section not exceeding 3/a in. [9.50 \nmm] in thickness. \n8 Temperature tolerance is \u00b125\u00b0F [14\u00b0C]. \n415 \nSA-276 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0467.json",
+  "tabulaTablesCsv": "tables_tabula/page-0467.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-0467.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 516,
+  "bestTextAlphaRatio": 0.436
+}

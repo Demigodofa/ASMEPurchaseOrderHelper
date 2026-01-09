@@ -1,0 +1,115 @@
+SA-480/SA-480M (ASTM A480/ A480M) ASME BPVC.II.A-2025 
+13. Finish for Plates 
+13.1 The types of finish available on plates are: 
+13.1.1 Hot-rolled or Cold-rolled, and Annealed or Heat 
+Treated-Scale not removed, an intermediate finish. Use of 
+plates in this condition is generally confined to heat-resisting 
+applications. Scale impairs corrosion resistance. 
+13.1.2 Hot-rolled or Cold-rolled, and Annealed or Heat 
+Treated, and Blast Cleaned or Pickled-Condition and finish 
+commonly preferred for corrosion-resisting and most heat­
+resisting applications, essentially a No. 1 finish. 
+13.1.3 Hot-rolled or Cold-rolled, and Annealed or Heat 
+Treated, and Su,face Cleaned and Polished-Polish finish is 
+generally No. 4 finish. 
+13.1.4 Hot-rolled or Cold-rolled, and Annealed or Heat 
+Treated, and Descaled, and Temper Passed-Smoother finish 
+for specialized applications. 
+13.1.5 Hot-rolled or Cold-rolled, and Annealed or Heat 
+Treated, and Descaled; and Cold-rolled, and Annealed or Heat 
+Treated, and Descaled, and Optionally Temper Passed­
+Smooth finish with greater freedom from surface imperfections 
+than in 13.1.4. 
+14. Edges for Cold-rolled Strip 
+14.1 The types of edges available on strip products are: 
+14.1.1 No. 1 Edge-A rolled edge, either round or square as 
+sp1ecified. 
+14.1.2 No. 3 Edge-An edge produced by slitting. 
+14.1.3 No. 5 Edge-An approximately square edge pro­
+duced by rolling or filing after slitting. 
+15. Heat Treatment 
+15.1 The heat treatments shown in this section are to be 
+followed unless otherwise specified in the applicable material 
+specification. Heat treatment thermal cycles shall be separate 
+from other thermal processing cycles; for example, in-process 
+thermal cycles are not permitted as a substitute for the separate 
+annealing cycle. 
+15.2 Austenitic Types: 
+15.2.1 The austenitic types shall be annealed in accordance 
+with Table Al.2. 
+15.2.2 The material shall be annealed to meet the mechani­
+cal property requirements of the applicable material specifica­
+tion unless otherwise stated in the material specification. 
+15.2.3 Except as indicated in Table Al.2, Series 300, 
+XM-15, N08800, S30415, S30815, S31725, S31726, and 
+S32615 austenitic chromium-nickel steels, when specified on 
+the purchase order, shall be capable of meeting the test for 
+resistance to intergranular corrosion specified in 18.2. 
+15.2.4 For grades stabilized with titanium or niobium, refer 
+to Note 5. 
+NoTE 5-Solution-annealing temperatures above 1950 °F [1066 °C] 
+can impair the resistance to intergranular corrosion after subsequent 
+exposure to sensitizing conditions in the stabilized grades, types 309Cb, 
+309HCb, 310Cb, 310HCb, 316Ti, 316Cb, 321, 321H, 347, 347H, 348, 
+348H, S21640, S31740, S33425, S35140, S35135, and S35125. When 
+intergranular corrosion is of concern, the purchaser should specify the 
+corrosion test of 18.2 (to be conducted on sensitized specimens). The 
+manufacturer is permitted, if necessary, use a lower temperature resolution 
+anneal or a stabilization anneal after a high temperature solution anneal in 
+order to meet corrosion test requirements. Consideration should be given 
+to the corrosive media before using a stabilization anneal at less than 
+1800 °F [982 °C], as such treatment is not equally effective for all media. 
+15.2.5 For the stabilized H types, it is noted that the heat 
+treatment requirements shown in Table Al.2 differ as a 
+function of whether the material was cold worked or hot 
+finished. 
+15.2.6 The chromium-manganese-nickel types (201, 202, 
+S20103, S20400, S20153, S21800, S21640, XM-11, XM-17, 
+XM-18, XM-19, XM-29, and XM-31) shall be solution an­
+nealed to meet the mechanical property requirements of the 
+applicable material specification and to exhibit adequate resis­
+tance to intergranular corrosion (see 18.2). For S20161, the 
+heat treatment is specified in Table Al.2. For S21640, see Note 
+5. 
+15.2.6.1 Note that some of these types contain high carbon 
+content that can adversely affect resistance to intergranular 
+corrosion. 
+15.3 Duplex Types-The duplex types shall be solution 
+annealed in accordance with Table Al.2. 
+15.4 Martensitic and Ferritic Types: 
+15.4.1 The chromium steels (S32803, 400 Series, S40945, 
+S~1045, S41050, S41500, S43932, S44400, S44537, S44635, 
+S44660, S44700, S44735, S44800,XM-27, andXM-33) shall 
+be heat treated in such a manner as to satisfy all the require­
+ments for mechanical and bending properties specified in the 
+applicable material specification and ( except for 400 Series, 
+S41050, and S41500) to provide for adequate resistance to 
+intergranular attack. 
+790 
+15.4.2 For S41500, heat to 1750 °F [955 °C] minimum, air 
+cool to 200 °F [93 °C] or lower prior to any optional interme­
+diate temper and prior to final temper. The final temper shall be 
+between 1050 °F and 1150 °F [566 °C and 621 °C]. 
+16. Number of Tests 
+16.1 Unless otherwise specified by the applicable material 
+specification or by agreement between the seller and the 
+purchaser to perform a greater number of tests, the following 
+number of tests are to be performed. 
+16.1.1 In the case of plate, sheet, and strip produced in coil 
+form, two or more hardness tests ( one from each end of the 
+coil); one bend test, when required; one permeability test, when 
+required; and one or more tension tests shall be made on 
+specimens taken from each coil. If the hardness difference 
+between the two ends of the coil exceeds 5 HRB, or equivalent, 
+or if the material is temper rolled, tensile properties must be 
+determined on both coil ends. 
+16.1.2 In the case of plate, sheet, or strip produced in cut 
+lengths, one tension test; two tension tests if the material is 
+temper rolled (one tension test for single piece lots); one bend 
+test when required, and one or more hardness tests shall be 
+made on each 100 or less pieces of the same heat and nominal 
+thickness rolled separately or continuously and heat treated 
+within the same operating period, either as a lot or continu­
+ously. 
+NO'IE 6--The term continuously, as applied to heat treatment is meant 
+to describe a heat-treating operation in which one cut length follows 

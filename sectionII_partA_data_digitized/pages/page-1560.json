@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 762,
+  "globalPageIndex": 1560,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "SA-1008/SA-1008M (ASTM A1008/A1008M) ASME BPVC.II.A-2025 \nBu.--------\u00ad\nor \nBL \nBHh BHiu \n,__A_-t- _ _.,_ ___ ..___Flow stress after 2% \nI pre-strain \n~ After baking \nI: =\u00b7 \nI i \nE ; \n! I ; \nI\u2022 .,, \n2% \nPre-strain \nStrain \nFIG. A 1.1 Representation of Bake Hardening Index \nAPPENDIXES \n(Nonmandatory Information) \nXl. BENDING PROPERTIES \nXl.1 See Table Xl.1 for suggested minimum inside radius \nproperties for cold bending. \n1506 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1560.json",
+  "tabulaTablesCsv": "tables_tabula/page-1560.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-1560.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 429,
+  "bestTextAlphaRatio": 0.5874
+}

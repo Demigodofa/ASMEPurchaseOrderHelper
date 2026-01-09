@@ -1,0 +1,97 @@
+~ 
+-----
+ASME BPVC.II.A-2025 SA-962/SA-962M 
+TABLE 2 Cone Proof Load Using 120° Hardened 
+Steel Cone-MetricA 
+Cone Proof Load, kN 
+Nominal Thread Stress Based on Proof Stress Shown in 
+Size, mm Pitch Area, mm 2 Column Header Below 
+825 895 930 1035 1205 
+MPa MPa MPa MPa MPa 
+M6 1 20.1 15.4 16.7 17.4 19.3 22.5 
+M8 1.25 36.6 27.3 29.6 30.8 34.3 39.9 
+M10 1.5 58.0 42.1 45.7 47.5 52.8 61.5 
+M12 1.75 84.3 59.5 64.5 67 74.5 87 
+M14 2 115 79 86 89.5 99.5 115.5 
+M16 2 157 104.5 113.5 117.5 131 152.5 
+M20 2.5 245 153 167 173 193 224 
+M22 2.5 303 184 200 208 231 269 
+M24 3 353 207 224 233 260 302 
+M27 3 459 256 278 289 322 374 
+M30 3.5 561 296 322 334 372 432 
+M36 4 817 382 416 432 480 558 
+ABased upon the following equation (this equation should not be used for 
+extrapolating values beyond the size ranges listed in this table) and rounded to 
+nearest 3.5 MPa equivalent: 
+CPL= (1 - 0.0120) X fXAsX0.001 
+where: 
+CPL Cone stripping proof load, kN, 
+D Nominal diameter of nut, mm, 
+f Minimum proof stress of nut, MPa, 
+As Tensile stress area of nut, mm 2 = 0.7854 [D - 0.9382P] 2 , and 
+p Thread pitch, mm. 
+15.2 Tension Tests, and, When Applicable, Impact Tests, 
+Bar, Rod, or Wire or Components, or Both, Machined from 
+Heat Treated Bar, Rod, or Wire-Batch processing: One test 
+per lot as defined in 3.1.10.1. Continuous processing as defined 
+in 3.1.10.2: Not fewer than two tension and, when applicable, 
+impact tests are required for each lot containing 20 000 lb 
+[9000 kg] or less. Every additional 10 000 lb [4500 kg] or 
+fraction thereof requires one additional test. 
+15.3 Tension Tests, Components Produced as Defined in 
+8.6-The number of machined specimens or full size bolting 
+components tested shall be as follows: 
+Lot Size (pc) 
+50 and less 
+51 to 500 
+501 to 35 000 
+Over 35 000 
+Sample Size 
+2 
+3 
+5 
+8 
+15.4 Decarburization I Carburization Test, Carbon and 
+Alloy Steel, Components Produced as Defined in 8.6 and Studs 
+Machined from Cold or Hot Rolled and Heat Treated Bar 
+Whose Diameter Prior to Machining Threads is Within 0.06 in. 
+[1.5 mm] in Diameter of the Maximum Thread Diameter-One 
+test per lot (see 3.1.10). 
+15.5 Hardness Tests: 
+15.5.1 Hardness Tests, Bar, Rod, or Wire-One test per lot. 
+15.5.2 Hardness Tests, Components-The minimum num-
+ber of bolting components that must be hardness tested per lot, 
+regardless of the manufactudng production process, shall 
+conform to 15.3. 
+15.6 Macroetch, Carbon and Alloy Steels Only-One test 
+per lot. A lot in this case is defined as a single diameter of a 
+single heat or the largest diameter of a single heat. 
+15.7 Impact Tests-Three impact test specimens shall be 
+made for each lot when impact testing is required by the 
+product specification. 
+15.8 Other Tests-The number of tests shall be as specified 
+by the purchaser or the individual product specification. 
+16. Retests and Rework 
+16.1 If the results of a mechanical test do not conform to 
+specified requirements, the manufacturer may perform a 
+double retest in compliance with the applicable governing test 
+methods. If both retests pass, then the associated lot will be 
+considered acceptable. In the case of impact testing, a single 
+retest, consisting of three additional test specimens, may be 
+performed. However, each individual impact value must be 
+greater than the minimum specified average value. 
+16.2 A lot may undergo a full reheat treatment no more than 
+twice. After reheat treatment, all required mechanical tests 
+shall be performed. 
+16.3 Rework-Repair by welding is prohibited. 
+17. Inspection 
+17 .1 The supplier shall afford the purchaser or inspector 
+representing the purchaser all reasonable facilities necessary to 
+satisfy him that the matedal is being produced and furnished in 
+accordance with this specification and the applicable product 
+specification. Site inspection required by the purchaser shall 
+not interfere unnecessadly with the supplier's operations. 
+17 .2 Personnel performing the nondestructive examination 
+shall be qualified and certified in accordance with a wdtten 
+procedure conforming to ASNT Recommended Practice No. 
+1419 

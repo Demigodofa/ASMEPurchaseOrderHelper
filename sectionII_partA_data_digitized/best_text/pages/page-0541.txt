@@ -1,0 +1,127 @@
+ASME BPVC.II.A-2025 SA-333/SA-333M 
+this specification. The outside diameter at the point of grinding 
+may be reduced by the amount so removed. 
+10.5.l Wall thickness measurements shall be made with a 
+mechanical caliper or with a properly calibrated nondestrnctive 
+testing device of appropriate accuracy. In case of dispute, the 
+measurement determined by use of the mechanical caliper shall 
+govern. 
+10.6 Weld repair shall be permitted only subject to the 
+approval of the purchaser and in accordance with Specification 
+A999/A999M. 
+10.7 The finished pipe shall be reasonably straight. 
+11. General Requirements 
+11.1 Material furnished to this specification shall conform to 
+the applicable requirements of the current edition of Specifi­
+cation A999/A999M unless otherwise provided herein. 
+12. Mechanical Testing 
+12.l Sampling-For mechanical testing, the term "lot" ap­
+plies to all pipe of the same nominal size and wall thickness ( or 
+schedule) that is produced from the same heat of steel and 
+subjected to the same finishing treatment in a continuous 
+furnace. If the final heat treatment is in a batch-type furnace, 
+the lot shall include only those pipes that are heat treated in the 
+same furnace charge. 
+12.2 Transverse or Longitudinal Tensile Test and Flattening 
+Test-For material heat treated in a batch-type furnace, tests 
+shall be made on 5 % of the pipe from each lot. If heat treated 
+by the continuous process, tests shall be made on a sufficient 
+number of pipe to constitute 5 % of the lot, but in no case less 
+than 2 pipes. 
+12.3 Impact Test-One notched bar impact test, consisting 
+of breaking three specimens, shall be made from each heat 
+represented in a heat-treatment load on specimens taken from 
+the finished pipe. This test shall represent only pipe from the 
+same heat and the same heat-treatment load, the wall thick­
+nesses of which do not exceed by more than¼ in. [6.3 mm] the 
+wall thicknesses of the pipe from which the test specimens are 
+taken. If heat treatment is performed in continuous or batch­
+type furnaces controlled within a 50 °F [30 °C] range and 
+equipped with recording pyrometers so that complete records 
+of heat treatment are available, then one test from each heat in 
+a continuous run only shall be required instead of one test from 
+each heat in each heat-treatment load. 
+12.4 Impact Tests (Welded Pipe)-On welded pipe, addi­
+tional impact tests of the same number as required in 12.3 shall 
+be made to test the weld. 
+12.5 Specimens showing defects while being machined or 
+prior to testing may be discarded and replacements shall be 
+considered as original specimens. 
+12.6 Results obtained from these tests shall be reported to 
+the purchaser or his representative. 
+13. Specimens for Impact Test 
+13.1 Notched bar impact specimens shall be of the simple 
+beam, Charpy-type, in accordance with Test Methods 
+Type A with a V notch. Standard specimens 10 by 10 mm in 
+cross section shall be used unless the material to be tested is of 
+insufficient thickness, in which case the largest obtainable 
+subsize specimens shall be used. Charpy specimens of width 
+along the notch larger than 0.394 in. [10 mm] or smaller than 
+0.099 in. [2.5 mm] are not provided for in this specification. 
+13.2 Test specimens shall be obtained so that the longitudi­
+nal axis of the specimen is parallel to the longitudinal axis of 
+the pipe while the axis of the notch shall be perpendicular to 
+the smface. On wall thicknesses of 1 in. [25 mm] or less, the 
+specimens shall be obtained with their axial plane located at the 
+midpoint; on wall thicknesses over 1 in. [25 mm], the speci­
+mens shall be obtained with their axial plane located ½ in. 
+[12.5 mm] from the outer surface. 
+13.3 When testing welds the specimen shall be, whenever 
+diameter and thickness permit, transverse to the longitudinal 
+axis of the pipe with the notch of the specimen in the welded 
+joint and perpendicular to the surface. When diameter and 
+thickness do not permit obtaining transverse specimens, longi­
+tudinal specimens in accordance with 13.2 shall be obtained; 
+the bottom of the notch shall be located at the weld joint. 
+14. Impact Test 
+14.1 Except when the size of the finished pipe is insufficient 
+to permit obtaining subsize impact specimens, all material 
+furnished to this specification and marked in accordance with 
+Section 16 shall be tested for impact resistance at the minimum 
+temperature for the respective grades as shown in Table 4. 
+14.1.1 Special impact tests on individual lots of material 
+may be made at other temperatures as agreed upon between the 
+manufacturer and the purchaser. 
+14.1.2 When subsize Charpy impact specimens are used and 
+the width along the notch is less than 80 % of the actual wall 
+thickness of the miginal material, the specified Charpy impact 
+test temperature for Grades 1, 3, 4, 6, 7, 9, 10, and 11 shall be 
+lower than the minimum temperature shown in Table 4 for the 
+respective grade. Under these circumstances the temperature 
+reduction values shall be by an amount equal to the difference 
+(as shown in Table 6) between the temperature reduction 
+corresponding to the actual material thickness and the tempera­
+ture reduction corresponding to the Charpy specimen width 
+489 
+TABLE 6 Impact Temperature Reduction 
+Specimen Width Along Notch or Actual 
+Material Thickness 
+in. mm 
+0.394 10 (standard size) 
+0.354 9 
+0.315 8 
+0.295 7.5 (¾ std. size) 
+0.276 7 
+0.262 6.67 (% std. size) 
+0.236 6 
+0.197 5 (½std.size) 
+0.158 4 
+0.131 3.33 (1/s std. size) 
+0.118 3 
+0.099 2.5 (¼ std. size) 
+Temperature Reduction, 
+Degrees ColderA 
+OF oc 
+0 0 
+0 0 
+0 0 
+5 3 
+8 4 
+10 5 
+15 8 
+20 11 
+30 17 
+35 19 
+40 22 
+50 28 
+A Straight line interpolation for intermediate values is permitted. 

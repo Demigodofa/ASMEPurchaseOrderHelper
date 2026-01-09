@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 833,
+  "globalPageIndex": 1631,
+  "width": 612.48,
+  "height": 792.0,
+  "text": "ASME BPVC.II.A-2025 \nSPECIFICATION FOR FLAT PRODUCTS MADE OF \nSTEELS FOR PRESSURE PURPOSES \nPart 4: Nickel Alloy Steels With Specified Low \nTemperature Properties \nSA/EN 10028-4 \n(Identical with International Specification EN 10028-4:2017 with these additional requirements.) \n1577 \nSA/EN 10028-4 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-1631.txt",
+  "ocrTextLength": 296,
+  "ocrApplied": true,
+  "bestTextPath": "best_text/pages/page-1631.txt",
+  "bestTextSource": "ocr",
+  "bestTextLength": 296,
+  "bestTextAlphaRatio": 0.7061
+}

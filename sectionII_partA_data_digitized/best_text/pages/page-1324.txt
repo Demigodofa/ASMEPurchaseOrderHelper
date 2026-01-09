@@ -1,0 +1,39 @@
+SA-781/SA-781M ASME BPVC.II.A-2025 
+TABLE 1 
+PRODUCT ANALYSIS TOLERANCES 
+Tolerancesa,c Over Maximum or 
+Element Range, %A Under Minimum Limit, % 
+C up to 0.65 0.03 X % CL + 0.02 
+above 0.65 0.04 
+Mn up to 1 0.08 X % MnL + 0.01 
+above 1 0.09 
+Si up to 0.60 0.22 X % SiL - 0.01 
+above 0.60 0.15 
+p all 0.13 X % PL+ 0.005 
+s all 0.36 X % SL+ 0.001 
+Ni up to 2 0.10 X % NiL + 0.03 
+above 2 0.25 
+Cr up to 2 0.07 x % CrL + 0.04 
+above 2 0.18 
+Mo up to 0.6 0.04 X % MoL + 0.03 
+above 0.6 0.06 
+V up to 0.25 0.23 X % VL + 0.004 
+above 0.25 0.06 
+w up to 0.10 0.08 X % WL + 0.02 
+above 0.10 0.02 
+Cu up to 0.15 0.18 x % CuL + 0.02 
+above 0.15 0.05 
+Al up to 0.10 0.08 X % AIL+ 0.02 
+above 0.10 0.03 
+A The range denotes the composition limits up to which tolerances are computed by the equation, and 
+above which the tolerances are given by a constant. 
+8 The subscript L for the elements in each equation indicates that the limits of the element specified by 
+the applicable specification are to be inserted into the equation to calculate the tolerance for the upper 
+limit and the lower limit (if applicable), respectively. Examples of computing tolerances are presented in 
+footnote C. 
+c To illustrate the computation of the tolerance, consider the manganese maximum of 0.70 for an 0.30 
+carbon grade 65-35 in Specification A 27/A 27M. The maximum permissible deviation is (0.08 x 0.70 + 
+0.01) = 0.066 .. Therefore, the highest acceptable product analysis is 0.766. Similarly, for a 0.20 carbon 
+grade 70-40 in· Specification A 27/A 27M, the maximum manganese content is 1.40; thus, the highest 
+acceptable product analysis is (1.40 + 0.09) = 1.49. 
+1258 

@@ -1,0 +1,79 @@
+ASME BPVC.II.A-2025 SA-182/SA-182M (ASTM A182/A182M) 
+TABLE 1 Heat Treating Requirements 
+Grade Heat Treat Type Austenitizing/Solutioning Cooling Quenching Cool Tempering Temperature, 
+Temperature, Minimum Media Below °F [0 C] Minimum or 
+or Range, °F [0 C]A Range, °F [°C] 
+Low Alie Steels 
+F 1 anneal 1650 [900] furnace cool B B 
+normalize and temper 1650 [900] air cool B 1150 [620] 
+F2 anneal 1650 [900] furnace cool B B 
+normalize and temper 1650 [900] air cool B 1150 [620] 
+F 5, F Sa anneal 1750 [955] furnace cool B B 
+normalize and temper 1750 [955] air cool B 1250 [675] 
+F9 anneal 1750 [955] furnace cool B B 
+normalize and temper 1750 [955] air cool B 1250 [675] 
+F 10 solution treat and quench 1900 [1040] liquid 500 [260] B 
+F 91 Types 1 and 2 normalize and temper or 1900-1975 [1040-1080] air cool, accelerated air B 1350-14 70 [730-800] 
+quench and temper cool, or liquid 
+F 92 normalize and temper 1900-1975 [1040-1080] air cool B 1350-14 70 [730-800] 
+F 93 normalize and temper 1960-2140 [1070-1170] air cool 385 [200] 1380-1455 [750-790] 
+F 115 normalize and temper 1920-2010 [1050-1100] air cool, accelerated air B 1380-1455 [750-790] 
+cool, or liquid 
+F 122 normalize and temper 1900-1975 [1040-1080] air cool B 1350-1470 [730-800] 
+F 911 normalize and temper 1900-1975 [1040-1080] air cool or liquid B 1365-1435 [740-780] 
+F 11, Class 1, 2, 3 anneal 1650 [900] furnace cool B B 
+normalize and temper 1650 [900] air cool B 1150 [620] 
+F, 12, Class 1, 2 anneal 1650 [900] furnace cool B B 
+normalize and temper 1650 [900] air cool B 1150 [620] 
+F 21, F 3V, and F anneal 1750 [955] fu mace cool B B 
+3VCb 
+normalize and temper 1750 [955] air cool B 1250 [675] 
+F 22, Class 1, 3 anneal 1650 [900] furnace cool B B 
+normalize and temper 1650 [900] air cool B 1250 [675] 
+F 22V normalize and temper or 1650 [900] air cool or liquid B 1250 [675] 
+quench and temper 
+F 23 normalize and temper 1900-1975 [1040-1080] air cool B 1350-14 70 [730-800] 
+accelerated cool 
+F 24 normalize and temper 1800-1975 [980-1 080] air cool B 1350-1470 [730-800] 
+or liquid 
+FR anneal 1750 [955] furnace cool B B 
+normalize 1750 [955] air cool B B 
+normalize and temper 1750 [955] air cool B 1250 [675] 
+F 36, Class 1 normalize and temper 1650 [900] air cool B 1100 [595] 
+F 36, Class 2 normalize and temper or 1650 [900] air cool, B 1100 [595] 
+quench and temper 1650 [900] accelerated air cool, 1100 [595] 
+or Ii uid 
+Martensitic Stainless Steels 
+F 6a Class 1 anneal not specified furnace cool B B 
+normalize and temper not specified air cool 400 [205] 1325 [725] 
+temper not required B B 1325 [725] 
+F 6a Class 2 anneal not specified furnace cool B B 
+normalize and temper not specified air cool 400 [205] 1250 [675] 
+temper not required B B 1250 [675] 
+F 6a Class 3 anneal not specified furnace cool B B 
+normalize and temper not specified air cool 400 [205] 1100 [595] 
+F 6a Class 4 anneal not specified furnace cool B B 
+normalize and temper not specified air cool 400 [205] 1000 [540] 
+F 6b anneal 1750 [955] furnace cool B B 
+normalize and temper 1750 [955] air cool 400 [205] 1150 [620] 
+F6NM normalize and temeer 1850 [1010J air cool 200 [95] 1040-1120 [560-600] 
+Ferritic Stainless Steels 
+F XM-27 Cb anneal 1850 [1010] furnace cool B B 
+F 429 anneal 1850 [1010] furnace cool B B 
+F 430 anneal not seecified furnace cool B B 
+Austenitic Stainless Steels 
+F 304 solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 304H solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 304L solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 304N solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 304LN solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 309H solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 310 solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 310H solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 310MoLN solution treat and quench 1900-2010 [1050-1100] liquidE 500 [260] B 
+F 316 solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 316H solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 316L solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 316N solution treat and quench 1900 [1040] liquidE 500 [260] B 
+F 316LN solution treat and quench 1900 [1040] liquidE 500 [260] B 
+215 

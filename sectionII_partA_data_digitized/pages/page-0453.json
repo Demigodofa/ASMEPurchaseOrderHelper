@@ -1,0 +1,21 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 453,
+  "globalPageIndex": 453,
+  "width": 850.08,
+  "height": 607.56,
+  "text": ".i:,. \n0 \nI-' \nGrade \nUNS \nDesignation \nElement \nC, max \nMn, max \nP, max \nS, max \nSi, max \nNi \nCr \nMo \nAl \nCu \nN \nTi \nTP405 TP410 \n840500 841000 \n0.08 0.15 \n1.00 1.00 \n0.040 0.040 \n0.030 0.030 \n1.00 1.00 \n0.50 max ... \n11.5-14.5 11.5-13.5 \n. . . ... \n0.10-0.30 ... \n... . .. \n. . . ... \n. . . . .. \nTABLE 1 Chemical Requirements \nTP429 TP430 TP443 \n842900 843000 844300 \nComposition, % \n0.12 0.12 0.20 \n1.00 1.00 1.00 \n0.040 0.040 0.040 \n0.030 0.030 0.030 \n1.00 1.00 1.00 \n. .. . .. 0.75 max \n14.0-16.0 16.0-18.0 18.0-23.0 \n. .. . .. . .. \n. .. . .. . .. \n. .. . .. 0.90-1.25 \n. .. . .. . .. \n. .. ... . .. \nTP446-1 TP446-2A \n844600 844600 \n0.20 0.12 \n1.50 1.50 \n0.040 0.040 \n0.030 0.030 \n1.00 1.00 \n0,75 max 0.50 max \n23.0-27.0 23.0-27.0 \n. .. . .. \n. .. . .. \n. .. . .. \n0.25 0.25 \n. .. . .. \n... \n840800 \n0.08 \n1.00 \n0.045 \n0.045 \n1.00 \n0.80 max \n11.5-13.0 \n. .. \n. .. \n. .. \n. .. \n12 x C min; \n1.10 max \nTP409 \n840900 \n0.08 \n1.00 \n0.045 \n0.030 \n1.00 \n0.50 max \n10.5-11.7 \n. .. \n. .. \n. .. \n. .. \n6 x C min; \n0.75 max \n:i,. \n<ll \n:s: \nt!l \n0:, \n~ !;: ;.. \n0 \nN \n(,/1 \n~ ;.. \n\u00b0' j \n;.. \n\u00b0' 0) \n:s: ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "ocrTextPath": "ocr/page-0453.txt",
+  "ocrTextLength": 665,
+  "ocrApplied": true,
+  "tabulaTablesPath": "tables_tabula/page-0453.json",
+  "tabulaTablesCsv": "tables_tabula/page-0453.csv",
+  "tabulaTableCount": 2,
+  "bestTextPath": "best_text\\pages\\page-0453.txt",
+  "bestTextSource": "full_ocr_highdpi",
+  "bestTextLength": 939,
+  "bestTextAlphaRatio": 0.272
+}

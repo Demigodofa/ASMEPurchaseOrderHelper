@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 372,
+  "globalPageIndex": 372,
+  "width": 619.08,
+  "height": 858.72,
+  "text": "SA-231/SA-231M ASME BPVC.II.A-2025 \nTABLE 4 \nPERMISSIBLE VARIATIONS IN WIRE DIAMETER, \nSI UNITS A \nPermissible \nVariations, plus and Permissible Out-\nDiameter, mm Minus, mm of Round, mm \nTo 0.70, incl. 0.02 0.02 \nOver 0.70 to 2.00, incl. 0.03 0.03 \nOver 2.00 to 9.00, incl. 0.05 0.05 \nOver 9.00 0.08 0.08 \nA For purposes of determining conformance with this specification, \nall specified limits are absolute as defined in Practice E 29. \n320 \nTABLE 5 \nPERMISSIBLE VARIATIONS IN WIRE DIAMETER, \nINCH-POUND UNITS A \nPermissible \nVariations, Plus Permissible Out-\nDiameter, in. and Minus, mm of Round, mm \n0.020 to 0.028, incl. 0.0008 0.0008 \nOver 0.028 to 0.075, incl. 0.001 0.001 \nOver 0.075 to 0.375, incl. 0.002 0.002 \nOver 0.375 to 0.500, incl. 0.003 0.003 \n4 For purposes of determining conformance with this specification, \nall specified limits are absolute as defined in Practice E 29. ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0372.json",
+  "tabulaTablesCsv": "tables_tabula/page-0372.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text\\pages\\page-0372.txt",
+  "bestTextSource": "full_ocr_highdpi",
+  "bestTextLength": 879,
+  "bestTextAlphaRatio": 0.604
+}

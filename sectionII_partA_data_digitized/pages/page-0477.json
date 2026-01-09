@@ -1,0 +1,23 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 477,
+  "globalPageIndex": 477,
+  "width": 599.4,
+  "height": 844.08,
+  "text": "ASME BPVC.11.A-2025 SA-283/SA-283M (ASTM A283/A283M) \nTABLE 1 Chemical Requirements \nCarbon, max \nManganese, max \nPhosphorus, max \nSulfur, max \nSilicon \nElements \nPlates 1 \u00bd in. [40 mm] and under, max \nPlates over 1 \u00bd in. [40 mm] \nCopper, min % when copper is specified \nGrade C \n0.24 \n0.90 \n0.030 \n0.030 \n0.40 \n0.15-0.40 \n0.20 \nHeat Analysis, % \nGrade D \n0.27 \n0.90 \n0.030 \n0.030 \n0.40 \n0.15-0.40 \n0.20 \nTABLE 2 Tensile RequirementsA \nGrade C Grade D \nTensile strength, ksi [MPa] \nYield point, min, ksi [MPa] \n55-75 [380-515) \n30 [205] \n60-80 [ 415-550] \n33 [230] \nElongation in 8 in. [200 mm], min, % 8 \nElongation in 2 in. [50 mm], min, % 8 \n22 \n25 \nA See Specimen Orientation under the Tension Tests section of Specification A6/A6M. \n20 \n23 \n8 For plates wider than 24 in. [610 mm], the elongation requirement is reduced two percentage points. See elongation requirement adjustments in the Tension Tests section \nof Specification A6/A6M. \n5. Chemical Composition \n5.1 The heat analysis shall conform to the requirements \nprescribed in Table 1. \n5.2 The steel shall conform on product analysis to the \nrequirements prescribed in Table 1, subject to the product \nanalysis tolerances in Specification A6/ A6M. \n6. Mechanical Properties \n6.1 Tensile Properties: \n6.1.1 Material as represented by the test specimens shall \nconform to the requirements as to tensile properties prescribed \nin Table 2. \n7. Keywords \n7.1 carbon steel; plates; structural quality \nSUPPLEMENTARY REQUIREMENTS \nSupplementary requirements shall not apply unless specified in the order or contract. Standardized \nsupplementary requirements for use at the option of the purchaser are listed in Specification A6/ A6M. \nThose that are considered suitable for use with this specification are listed by title: \nS2. Product Analysis. \nS3. Simulated Post-Weld Heat Treatment of Mechanical \nTest Coupons. \nS5. Charpy V-Notch Impact Test. \n425 \nS6. Drop Weight Test (for Material 0.625 in. [16 mm] and \nover in Thickness). \nS8. Ultrasonic Examination. \nS15. Reduction of Area. ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-0477.json",
+  "tabulaTablesCsv": "tables_tabula/page-0477.csv",
+  "tabulaTableCount": 0,
+  "bestTextPath": "best_text/pages/page-0477.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2042,
+  "bestTextAlphaRatio": 0.6675,
+  "gapOcrHighDpiPath": "gap_ocr_highdpi/page-0477.txt",
+  "gapOcrHighDpiLength": 1978,
+  "camelotTablesPath": "camelot_tables/page-0477.json",
+  "camelotTablesCsv": "camelot_tables/page-0477.csv",
+  "camelotTableCount": 2
+}

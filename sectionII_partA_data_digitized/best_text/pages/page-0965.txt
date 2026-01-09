@@ -1,0 +1,58 @@
+ASME BPVC.II.A-2025 SA-513/SA-513M (ASTM A513/A513M) 
+APPENDIX 
+(Nonmandatory Information) 
+Xl. MEASURING MICROINCH FINISH 
+Xl.1 The procedure for making microinch readings on 
+interior surfaces of cold worked tubing (not polished or 
+ground) ½-in. [12.7-mm] inside diameter and larger is as 
+follows: 
+Xl.1.1 Measurements on tubing with longitudinal or no 
+predominant lay should be circumferential on the inside 
+surface of the straight tube, prior to any fabrication, on a plane 
+approximately perpendicular to the tube axis. Measurements 
+on tubing with circumferential lay should be longitudinal. 
+Xl.1.2 Measurements should be made not less than 1 in. 
+[25.4 mm] from the end. 
+Xl.1.3 Measurements should be made at four positions 
+approximately 90° apart or over a complete circumference if 
+the trace should otherwise overlap. 
+X 1.1.4 The length of trace should be in accordance with the 
+latest revision of Section 4.5 of ASME B46.1 (not less than 
+0.600 in. [15.24 mm] long). 
+Xl.1.5 A minimum of three such measurements should be 
+made spaced not less than ¼ in. [6.4 mm] apart along the 
+longitudinal axis. 
+Xl.1.6 The numerical rating shall be the arithmetical aver­
+age microinch of all readings taken. Each reading to be 
+averaged should be the mean position of the indicator during 
+the trace; any momentary meter excursions occupying less than 
+10 % of the total trace should be ignored. 
+Xl.1.7 A deviation in numerical rating in various parts of a 
+tube may be expected. Experience to date indicates that a 
+variation of about ±35 % is normal. 
+Xl.2 Instruments should meet the specifications given in the 
+latest revision of ASME B46.1. 
+Xl.3 Mecharucal tracing is preferred. If hand tracing is 
+used, the speed of trace should not vary by more than ±20 % 
+from the required to give the appropriate cutoff. The 0.030-in. 
+[0.76 mm] roughness width cutoff should be used. 
+Xl.4 Microinch [0.0000254 mm] determinations only refer 
+to roughness of areas that do not contain a defect, injurious or 
+otherwise. Such defects as seams, slivers, pits, laps, etc., are 
+subject to ordinary visual inspection in accordance with 
+applicable specifications or trade customs, and have no rela­
+tionship to roughness. 
+SUMMARY OF CHANGES 
+Committee A0l has identified the location of selected changes to this standard since the last issue, 
+A513/A513M- 20, that may impact the use of this standard. (Approved July 1, 2020.) 
+( 1) Changed 1.3.1 to allow indeterminate wall thicknesses. 
+eommittee-Ae-l-has--:identi-fi:ed-the-foeation----of----seleetecl---ehanges-te-thls-spee-i-fie-atien--sinee---the--la-s-t-i~u.v;,.------------+­
+A513/ A513M - l 9, that may impact the use of this specification. (Approved May 1, 2020.) 
+( 1) Added 1.4 to the Scope to incorporate various grades types 
+and thermal conditions. 
+(2) Corrected conversion errors in Table S5.1. 
+Committee A0l has identified the location of selected changes to this specification since the last issue, 
+A513/A513M-18, that may impact the use of this specification. (Approved March 1, 2019.) 
+(1) Corrected seven conversion errors in Table 10. 0.109 in. 
+was incorrectly identified as 1.77 mm. 
+865 

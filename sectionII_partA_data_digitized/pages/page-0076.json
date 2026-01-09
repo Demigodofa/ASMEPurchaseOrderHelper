@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR SECT II PART A BEGINNING TO SA-450.pdf",
+  "sourcePageNumber": 76,
+  "globalPageIndex": 76,
+  "width": 617.04,
+  "height": 795.6,
+  "text": "SA-6/SA-6M ASME BPVC.II.A-2025 \nTABLE 17 Permitted Variations in Cross Section for Angles (L Shapes), Bulb Angles, and Zees \nNorn 1-Where \" ... \" appears in this table, there is no requirement. \nAngles Bulb angles Zees \nPermitted Variations in Sectional Dimensions Given, in. \nB, Flange Width or Permitted Variations Over or Under Theoretical Thickness \nA, Depth \nSection Nominal Size, in. \nOver Under \nTheoretical Theoretical \nAnglesA 1 and under \n(L Shapes) Over 1 to 2, incl \nOver 2 to 2\u00bd , incl \nOver 2\u00bd to 4, incl \nOver 4 to 6, incl \nOver 6 to 8, incl \nOver 8 to 10, incl \nOver10 \nBulb angles (Depth) 3 to 4, incl 1/8 11,o \nOver 4 to 6, incl 1/8 1/to \nOver6 1/8 1/1\u2022 \nZees 3 to 4, incl 1/s 1/ts \nOver 4 to 6, incl 1/8 1/10 \nA For unequal leg angles, longer leg determines classification. \n6 3/128 in.fin.= 1\u00bd 0 \u2022 \nLength of Leg T, Out-of-\nSquare per \nOver Under Inch of B, in. 3/10 and \nTheoretical Theoretical under \n1/s2 1/32 3/120 B 0.008 \n3/a4 3/a4 3/120 B 0.010 \n1/10 1/,s 3 /128 B 0.012 \n1/o %2 3/120 B \n1/s 1/s 3/120 B \no/1e 1/8 o/128 B \n\u00bc \u00bc 3/12e a \n\u00bc % 3A2e 8 \n1/8 %2 3/128 B \n1/8 1/8 3/128 B \n3/10 1/8 \n3/120 B \n1/8 %2 3/128 B \n1/8 1/8 3/120 B \nTABLE 18 Permitted Variations in Sectional Dimensions for Rolled Tees \nNoTE 1-*Back of square and center line of stem are to be parallel when measuring \"out-of-square.\" \nNOTE 2-Where \" ... \" appears in this table, there is no requirement. \nT \nPermitted Variations in Sectional Dimensions Given, in. \nTees \nfor Thicknesses \nGiven in Inches, in. \nOver 31,o \nOver% to%, incl \n0.010 \n0.010 0.012 \n0.015 0.015 \nA, Depth 8 B, Width 8 \nT, Out- E, Stem Thickness of Thickness of \nNominal Size,A of-Square \nOver Under Over Under \nper Inch \nof B \n1\u00bc and under 3/s4 3/a4 3/a4 %4 \nOver 1 \u00bc to 2, incl 1/10 1/10 1/10 1/1e \nOver 2 to 3, excl %2 %2 %2 3/32 \n3 to 5, incl 3/32 1/10 1/s 1/8 1/32 \nOver 5 to 7, incl %2 1/ts 1/o 1/8 1/32 \nA The longer member of an unequal tee determines the size for permitted variations. \n8 Measurements for both depth and width are overall. \nWeb-off- Out-of-\nCenter Squarec Over \n1/s2 0.010 \n1/15 0.012 \n%2 0.015 \n%2 \n1/8 \nc Stem-out-of-square is the permitted variation from its true position of the center line of stem, measured at the point. \n24 \nFlange \u00b7stem \nUnder Over Under \n0.010 0.005 0.020 \n0.012 0.010 0.020 \n0.015 0.015 0.020 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 1,
+  "tabulaTablesPath": "tables_tabula/page-0076.json",
+  "tabulaTablesCsv": "tables_tabula/page-0076.csv",
+  "tabulaTableCount": 3,
+  "bestTextPath": "best_text/pages/page-0076.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2315,
+  "bestTextAlphaRatio": 0.5637
+}

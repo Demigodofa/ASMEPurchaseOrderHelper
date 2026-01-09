@@ -1,0 +1,366 @@
+[
+  {
+    "rows": [
+      [
+        "0.90 2070",
+        "2250",
+        "",
+        ""
+      ],
+      [
+        "1.00 2060",
+        "2240",
+        "",
+        "5. Materials and Manufacture"
+      ],
+      [
+        "1.10 2040",
+        "2220",
+        "",
+        ""
+      ],
+      [
+        "1.20 2020",
+        "2200",
+        "",
+        "5.1 The steel may be made by any commercially accepted"
+      ],
+      [
+        "1.40 2000",
+        "2180",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "steel making process. The steel may be either ingot cast or"
+      ],
+      [
+        "1.60 1980",
+        "2160",
+        "",
+        ""
+      ],
+      [
+        "1.80 1960",
+        "2140",
+        "",
+        "strand cast."
+      ],
+      [
+        "2.00 1940",
+        "2120",
+        "",
+        ""
+      ],
+      [
+        "2.20 1920",
+        "2100",
+        "",
+        "5.2 The finished wire shall be free from detrimental pipe"
+      ],
+      [
+        "2.50 1900",
+        "2080",
+        "45",
+        "and undue segregation."
+      ],
+      [
+        "2.80 1880",
+        "2060",
+        "45",
+        ""
+      ],
+      [
+        "3.00 1860",
+        "2040",
+        "45",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "6. Chemical Composition"
+      ],
+      [
+        "3.50 1840",
+        "2020",
+        "40",
+        ""
+      ],
+      [
+        "4.00 1820",
+        "2000",
+        "40",
+        "6.1 The steel shall conform to the requirements of Grade"
+      ],
+      [
+        "4.50 1800",
+        "1980",
+        "40",
+        ""
+      ],
+      [
+        "9254 for chemical composition specified in Table 2. 5.00 1780",
+        "1960",
+        "40",
+        ""
+      ],
+      [
+        "5.50 1760",
+        "1940",
+        "40",
+        "6.2 Heat Analysis-Each heat of steel shall be analyzed to"
+      ],
+      [
+        "6.00 1740",
+        "1920",
+        "40",
+        ""
+      ],
+      [
+        "6.50 1720",
+        "1900",
+        "40",
+        "determine the percentage of elements prescribed in Table 2."
+      ],
+      [
+        "7.00 1700",
+        "1880",
+        "40",
+        "This analysis shall be made from a test specimen preferably"
+      ],
+      [
+        "8.00 1680",
+        "1860",
+        "40",
+        "taken during the pouring of the heat. When requested, this shall"
+      ],
+      [
+        "9.00 1660",
+        "1840",
+        "40",
+        ""
+      ],
+      [
+        "10.00 1640",
+        "1820",
+        "40",
+        "be reported to the purchaser and shall conform to the require\u00ad"
+      ],
+      [
+        "11.00 1620",
+        "1800",
+        "35",
+        "ments of Table 2."
+      ],
+      [
+        "12.0 1600",
+        "1780",
+        "35",
+        ""
+      ],
+      [
+        "13.0 1580",
+        "1760",
+        "30",
+        "6.3 Product Analysis-An analysis may be made by the"
+      ],
+      [
+        "14.0 1570",
+        "1750",
+        "30",
+        "purchaser from finished wire representing each heat of steel."
+      ],
+      [
+        "15.0 1560",
+        "1740",
+        "30",
+        ""
+      ],
+      [
+        "elements 16.0 1550",
+        "1730",
+        "30",
+        "The chemical composition thus determined, as to"
+      ],
+      [
+        "17.0 1540",
+        "1720",
+        "30",
+        "required or restricted, shall conform to the product analysis"
+      ],
+      [
+        "18.0 1530",
+        "1710",
+        "30",
+        "requirements in Table 4 of Specification A510/A510M."
+      ],
+      [
+        "Inch-Pound Units",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "6.4 For referee purposes, Test Methods, Practices, and"
+      ],
+      [
+        "",
+        "",
+        "Reduction of",
+        ""
+      ],
+      [
+        "meter, in. ksi, min",
+        "ksi, max",
+        "",
+        "Terminology A751 shall be used."
+      ],
+      [
+        "",
+        "",
+        "Area, min, %0 \u20220",
+        ""
+      ],
+      [
+        "0.032 300",
+        "325",
+        "",
+        "7. Mechanical Properties"
+      ],
+      [
+        "0.041 298",
+        "323",
+        "",
+        ""
+      ],
+      [
+        "0.054 292",
+        "317",
+        "",
+        "7.1 Annealed and Cold Drawn-When purchased in the"
+      ],
+      [
+        "0.062 290",
+        "315",
+        "",
+        "annealed and cold-drawn condition, the wire shall have been"
+      ],
+      [
+        "0.080 285",
+        "310",
+        "",
+        "given a sufficient amount of cold working to meet the purchas\u00ad"
+      ],
+      [
+        "0.092 280",
+        "305",
+        "45",
+        ""
+      ],
+      [
+        "0.120 275",
+        "300",
+        "45",
+        "er's coiling requirements and shall be in a suitable condition to"
+      ],
+      [
+        "0.135 270",
+        "295",
+        "40",
+        "respond properly to heat treatment. In special cases the"
+      ],
+      [
+        "0.162 265",
+        "290",
+        "40",
+        "hardness or tensile strength, if desired, shall be stated in the"
+      ],
+      [
+        "0.177 260",
+        "285",
+        "40",
+        ""
+      ],
+      [
+        "0.192 260",
+        "283",
+        "40",
+        "purchase order."
+      ],
+      [
+        "0.219 255",
+        "278",
+        "40",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "7.2 Quench and Tempered-When purchased in the quench"
+      ],
+      [
+        "0.250 250",
+        "275",
+        "40",
+        ""
+      ],
+      [
+        "0.312 245",
+        "270",
+        "40",
+        "and tempered condition, the tensile strength and minimum"
+      ],
+      [
+        "0.375 240",
+        "265",
+        "40",
+        "percent reduction of area shall conform to the requirements"
+      ],
+      [
+        "0.438 235",
+        "260",
+        "35",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "prescribed in Table 1. Tensile strength of shaped wires shall"
+      ],
+      [
+        "0.500 230",
+        "255",
+        "35",
+        ""
+      ],
+      [
+        "0.562 228",
+        "253",
+        "30",
+        "confonn to this table based on the conversion to equivalent"
+      ],
+      [
+        "0.625 226",
+        "251",
+        "30",
+        "round dimensions."
+      ],
+      [
+        "0.687 224",
+        "249",
+        "30",
+        ""
+      ]
+    ]
+  }
+]

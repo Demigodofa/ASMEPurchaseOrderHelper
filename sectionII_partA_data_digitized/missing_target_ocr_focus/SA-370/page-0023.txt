@@ -1,0 +1,44 @@
+ASME BPVC,II.A-2025 SA-370
+Requirement
+A Machined Surface 26 mm Minimum
+B Original OD Surface 13.5 mm Maximum
+T Specimen Thickness Figure 11
+E End Thickness Ve 7 Minimum
+| FIG. 12 Tubular Impact Specimen Containing Original OD Surface
+Shear Area 2 ogni wot Wa acanaian 7 v, ae 1
+Cleavage Area | 4 Soe “4A #B
+(STII) mame ae aren 0s ee
+Note 1—Measure average dimensions A and B to the nearest 0.02 in. or 0.5 mm.
+Note 2—Determine the percent shear fracture using Table 7 or Table 8.
+FIG. 13 Determination of Percent Shear Fracture
+TABLE 7 Percent Shear for Measurements Made in Inches
+|
+. Note 1—Since this table is set up for finite measurements or dimensions A and B, 100 % shear is to be reported when either A or B is zero.
+Dimen- Dimension A, in. |
+sion
+0.05 } 98 96 95 94 94 93 92 91 90 90 89 88 87 86 85 85 B4
+0.10 | 96 92 90 | 89 87 85 84 82 81 79 77 76 74 73 71 69 68
+0.12 } 95 90 88 86 85 | 83 81 79 77 75 73 71 69 67 65 63 61
+0.14 | 94 89 ge | 384 82 80 | 77 75 73 71 | 68 66 64 62 59 | 57 55
+0.16 | 94 87 | 85 | 82 79 77 74 72 69 67 64 61 59 56 | 53 | 51 48
+0.18 | 93 85 | 83 80 77 74 72 | 68 65 62 59 56 54 51 48 45 42
+0.20 | 92 84 | 81 77 74 72 68 65 61 58 55 | 52 | 48 45 42 39 36
+0.22 | 91 82 | 79 | 75 72 68 65 61 57 54 50 A7 43 40 36 33 29
+0.24 | 90 81 77 73 69 65 61 57 54 50 | 46 42 38 34 30 27 23
+0.26 | 90 79 | 75 | 71 67 62 58 54 50 46 44 37 33 29 | 25 | 20 16
+0.28 | 89 77 | 73 68 64 59 55 | 50 46 41 | 37 32 28 23 18 14 10
+0.30 | 88 76 | 71 66 61 56 52 47 42 37 | 32 27 23 18 13 9 | 3
+0.31 88 75 70 | 65 60 55 | 50 45 40 | 35 | 30 25 | 20 18 10 | 5 | 0
+26.4.3.4 Measure the amount of expansion on each side of the opposite side of the specimen halves. The larger of the two
+each half relative to the plane defined by the undeformed values for each side is the expansion of that side of the
+portion of the side of the specimen using a gauge similar to that | specimen.
+shown in Figs. 16 and 17. 26.4.3.6 Measure the individual lateral expansion values to
+26.4.3.5 Since the fracture path seldom bisects the point of — the nearest mil (0.025 mm) and record the values.
+maximum expansion on both sides of a specimen, the sum of 26.4.3.7 With the exception described as follows, any speci-
+the larger values measured for each side is the value of the test. | men that does not separate into two pieces when struck by a
+Arrange the halves of one specimen so that compression sides single blow shall be reported as unbroken. The lateral expan-
+are facing each other. Using the gauge, measure the protrusion — sion of an unbroken specimen can be reported as broken if the
+on each half specimen, ensuring that the same side of the |= specimen can be separated by pushing the hinged halves
+| specimen is measured. Measure the two broken halves indi- together once and then pulling them apart without further
+| vidually. Repeat the procedure to measure the protrusions on _ fatiguing the specimen, and the lateral expansion measured for
+605

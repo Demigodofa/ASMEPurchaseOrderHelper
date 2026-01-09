@@ -1,0 +1,18 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 277,
+  "globalPageIndex": 1075,
+  "width": 624.84,
+  "height": 801.72,
+  "text": "ASME BPVC.11.A-2025 SA-564/SA-564M \nTABLE 4 \nMECHANICAL TEST REQUIREMENTS AFTER AGE HARDENING HEAT TREATMENTA (CONT'D) \nYield Impact \nSuggested Hardening or Aging Tensile Strength, Elongation Charpy-V, \nTreatment, or Both 8 A 0 Strength, min minF in 2 in. HardnessG min \nApplicable [50 mml Reduction \nTemperature, Time, Thickness, in. and Test or 4D, of area, Rockwell C, Brinell, \nType Condition OF [OCJ h QuenchH Direction\u00a3 ksi [MPal ksi [MPal min,% min,% min min ft\u00b7lbf \nS46500 Up to 12 in. incl \nair or [300 mml (U 10 45 \nH950 950 [510] 4.0 oil 240 [1655] 220 ll515l 47 444 \nUp to 12 in. incl. 8 35 \n[300 mml (T) \nUp to 12 in. inc! \nair or [300 mml (U 10 50 \nHlOOO 1000 [540] 4.0 220 [1515] 200 [1380] 45 430 oil Up to 12 in. incl. 10 40 \n[300 mml (Tl \nUp to 12 in. incl \nair 01\u00b7 DOO mm] CU 12 50 \nHl025 1025 [560] 4.0 oil 210 [1450] 195 [1345] 44 415 \nUp to 12 in. incl 11 45 \n[300 mml (T) \nUp to 12 in. incl \nair or [300 mml CU 13 50 \nHl050 1050 [565] 430 200 [1380] 185 [1280] 43 400 oil Up to 12 in. incl 12 45 \n[300 mml CT) \nUNS cw 1 1, \nS46910 hard + 890 [475] 1.0 air cool 245 [1690] 218 [1500] 6 48 456 \naging \nCW full \nhard + 890 [475] 1.0 air cool 320 [2205] 290 [2005] 55 561 \naging \nA See 7.1. \n8 Time refers to minimum time material is at temperature and may be extended to obtain required ductility properties. \nc Unless otherwise noted, temperatures shown are suggested temperatures and may be varied to obtain required tensile properties. \n0 Intermediate temperatures must meet the ductility requirements of the next highest suggested hardening or aging temperature, or both. \nExample: Type 630 at 1050\u00b0F [565\u00b0CJ must have 13% elongation and 45% reduction, same as for age hardening at 1075\u00b0F [580\u00b0CJ. \nE CU - Longitudinal axis of specimen parallel to direction of grain flow during rolling or forging. CT) - Transverse axis of specimen per-\npendicular to direction of grain flow during rolling or forging. \nF See 7.3. \nG Either Rockwell C hardness or Brinell is permissible. On sizes\u00bd in. (12.70 mm) and smaller, Rockwell C is preferred. \nH When air cooling is specified, gases other than air may be used. \n1 Refer to Table 2 for detai Is on equalize and over temper heat treatment. \n975 ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "tabulaTablesPath": "tables_tabula/page-1075.json",
+  "tabulaTablesCsv": "tables_tabula/page-1075.csv",
+  "tabulaTableCount": 1,
+  "bestTextPath": "best_text/pages/page-1075.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 2209,
+  "bestTextAlphaRatio": 0.5921
+}

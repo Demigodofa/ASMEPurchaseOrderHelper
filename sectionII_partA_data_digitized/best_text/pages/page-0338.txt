@@ -1,0 +1,129 @@
+SA-213/SA-213M (ASTM A213/A213M) ASME BPVC.II.A-2025 
+TABLE 3 Continued 
+Austenitizing/ Subcritical Annealing 
+or Tempering 
+Temperature, Grade UNS Solutioning/ 
+Heat Treat Type Stabilizing Cooling Media Number Temperature, min or range °F ["CJ 
+ASTM 
+Grain Size No. 8 
+min or range °F [°C] 
+Alloy 20 
+800 
+800H 
+N08020 
+N08028 
+N08029 
+N08367 
+N08800 
+N08810 
+N08811 
+N08904 
+N08925 
+N08926 
+S35030 
+stabilization 
+treatment 
+solution treatment 
+solution treatment 
+solution treatment 
+solution treatment 
+solution treatment 
+solution treatment 
+solution treatment 
+solution treatment 
+solution treatment 
+solution treatment 
+1700-1850 
+[925-1010jF 
+2000 [1100]F 
+2000 [1100jF 
+2025 [1105jF 
+1900 [1040]P 
+2050 [1120]P 
+2100 [1150jF 
+2000 [1100jF 
+2010-2100 
+[1100-1150] 
+2010-2100 
+[1100-1150] 
+1900 [1040]P 
+water or other rapid cool 
+water or other rapid cool 
+water or other rapid cool 
+water or other rapid cool 
+water or other rapid cool 
+water or other rapid cool 
+water or other rapid cool 
+water or other rapid cool 
+water or other rapid cool 
+water or other rapid cool 
+water or other rapid cool 
+5 
+5 
+Ferritic Stainless Steels 
+TP444 S44400 subcritical anneal 
+A Where ellipses ( ... ) appear in this table there is no requirement. 
+8 ASTM Grain Size No. listed, or coarser, unless otherwise indicated. 
+c Approximately, to achieve properties. 
+1400 [760] 
+0 Accelerated cooling from the normalizing temperature shall be permitted for section thicknesses greater than 3 in. [75 mm]. 
+EAccelerated air cooling or liquid quenching shall be permitted for Class 2. 
+F Quenched in water or rapidly cooled by other means, at a rate sufficient to prevent re-precipitation of carbides, as demonstrable by the capability of tubes, heat treated 
+by either separate solution annealing or by direct quenching, passing Practices A262, Practice E. The manufacturer is not required to run the test unless it is specified on 
+the purchase order (see Supplementary Requirement S4). Note that Practices A262 requires the test to be performed on sensitized specimens in the low-carbon and 
+stabilized types and on specimens representative of the as-shipped condition for other types. In the case of low-carbon types containing 3 % or more molybdenum, the 
+applicability of the sensitizing treatment prior to testing shall be a matter for negotiation between the seller and the purchaser. 
+0 A maximum solution treating temperature of 2100 °F [1150 °CJ is recommended for UNS S21500. 
+HA solution treating temperature above 1950 °F [1065 °CJ may impair resistance to intergranular corrosion after subsequent exposure to sensitizing conditions in the 
+indicated grades. When specified by the purchaser, a lower temperature stabilization or resolution anneal shall be used subsequent to the higher-temperature solution 
+anneal prescribed in this table. 
+1 Solution treatment shall be preceded by a softening heat treatment prior to cold-working. The softening temperature shall be at least 90 °F [50 °C] higher than the solution 
+heat treatment temperature, which shall be at 2150 °F [1180 °C] minimum. 
+4.1.7 Size (outside diameter and minimum wall thickness, 
+unless average wall thickness is specified), 
+4.1.8 Length (specific or random), 
+4.1.9 Hydrostatic Test or Nondestructive Electric Test (see 
+10.1), 
+4.1.10 Specification designation and year of issue, 
+4.1.11 Increased sulfur (for machinability, see Note B, Table 
+1, and 16.3), and 
+4.1.12 Special requirements and any supplementary require­
+ments selected. 
+5. General Requirements 
+5 .1 Product furnished to this specification shall conform to 
+the requirements of Specification Al016/A1016M, including 
+any supplementary requirements that are indicated in the 
+purchase order. Failure to comply with the general require­
+ments of Specification Al016/A1016M constitutes nonconfor­
+mance with this specification. In case of conflict between the 
+requirements of this specification and Specification A1016/ 
+Al016M, this specification shall prevail. 
+6. Materials and Manufacture 
+6.1 Manufacture and Condition-Tubes shall be made by 
+the seamless process and shall be either hot finished or cold 
+finished, as specified. Grade TP34 7HFG shall be cold finished. 
+6.2 Heat Treatment: 
+286 
+6.2.l Ferritic Alloy and Ferritic Stainless Steels-The fer­
+ritic alloy and ferritic stainless steels shall be reheated for heat 
+treatment in accordance with the requirements of Table 3. Heat 
+treatment shall be carried out separately and in addition to 
+heating for hot forming. 
+6.2.2 Austenitic Stainless Steels-AU austenitic tubes shall 
+be furnished in the heat-treated condition, and shall be heat 
+treated in accordance with the requirements of Table 3. 
+Alternatively, immediately after hot forming, while the tem­
+perature of the tubes is not less than the minimum solution or 
+stabilization treatment temperature specified in Table 3, tubes 
+may be individually quenched in water or rapidly cooled by 
+other means (direct quenched). 
+6.3 If any controlled structural characteristics are required, 
+these shall be so specified in the order as to be a guide as to the 
+most suitable heat treatment. 
+7. Chemical Composition 
+7.1 Composition Requirements: 
+7 .1.1 The alloy steels shall conform to the chemical require­
+ments given in Table 1. 
+7.1.2 The stainless steels shall conform to the chemical 
+requirements given in Table 2. 
+7.2 Product Analysis: 

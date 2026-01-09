@@ -1,0 +1,15 @@
+{
+  "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+  "sourcePageNumber": 264,
+  "globalPageIndex": 1062,
+  "width": 617.04,
+  "height": 795.6,
+  "text": "SA-563 ASME BPVC.II.A-2025 \nSUPPLEMENTARY REQUIREMENTS \nThe following supplementary requirement shall be applied only when specified by the \npurchaser on the contract or order. Details of these supplementary requirements shall \nbe agreed upon in writing between the manufacturer and purchaser. This supplementary \nrequirement shall in no way negate any requirement of the specification itself. \nS1. Supplementary Lubricant Requirements for \nNuts \nS1.1 Nuts, regardless of specified finish, shall be pro\u00ad\nvided with an additional lubricant that shall be clean and \ndry to the touch. \nS2. Lubricant Dye \nS2.1 In addition to the requirements of Supplementary \nRequirement S 1, the lubricant shall have a contrasting color \nso that it's presence is visually obvious. \n962 \nS3. Lubricant Placement \nThe lubricant shall be applied to specified surfaces on \nthe nuts, such as (I) principally only those portions which \nare threaded, or (2) on threaded portions and either only \none bearing face or both bearing faces, as required, or (3) \nsuch other specific lubricant placement criteria as are \nagreed to between the purchaser and the user. ",
+  "words": [],
+  "tableCount": 0,
+  "noteCount": 0,
+  "bestTextPath": "best_text/pages/page-1062.txt",
+  "bestTextSource": "pass1",
+  "bestTextLength": 1135,
+  "bestTextAlphaRatio": 0.7877
+}
