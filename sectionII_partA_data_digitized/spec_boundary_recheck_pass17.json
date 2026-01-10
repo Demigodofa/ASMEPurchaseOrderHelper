@@ -1,10 +1,10 @@
 {
-  "createdUtc": "2026-01-07T20:10:41.900664+00:00",
+  "createdUtc": "2026-01-09T23:52:34.527606+00:00",
   "summary": {
-    "targetPages": 1209,
-    "pagesProcessed": 1209,
-    "specHeaderHits": 1202,
-    "expectedMatches": 134,
+    "targetPages": 1214,
+    "pagesProcessed": 1218,
+    "specHeaderHits": 1211,
+    "expectedMatches": 142,
     "remainingPages": 0,
     "batchSize": 25,
     "maxPagesPerRun": 50
@@ -3493,6 +3493,19 @@
       "matchExpected": false
     },
     {
+      "globalPageIndex": 328,
+      "expectedSpecs": [
+        "SA-204",
+        "SA-264"
+      ],
+      "detectedSpecs": [
+        "SA-210",
+        "SA-210M"
+      ],
+      "detectedSections": [],
+      "matchExpected": false
+    },
+    {
       "globalPageIndex": 329,
       "expectedSpecs": [
         "SA-204",
@@ -4687,6 +4700,17 @@
       ],
       "detectedSections": [],
       "matchExpected": false
+    },
+    {
+      "globalPageIndex": 461,
+      "expectedSpecs": [
+        "SA-276"
+      ],
+      "detectedSpecs": [
+        "SA-276"
+      ],
+      "detectedSections": [],
+      "matchExpected": true
     },
     {
       "globalPageIndex": 463,
@@ -5975,6 +5999,32 @@
       ],
       "detectedSections": [],
       "matchExpected": false
+    },
+    {
+      "globalPageIndex": 591,
+      "expectedSpecs": [
+        "SA-351"
+      ],
+      "detectedSpecs": [
+        "SA-351",
+        "SA-351M"
+      ],
+      "detectedSections": [],
+      "matchExpected": true
+    },
+    {
+      "globalPageIndex": 593,
+      "expectedSpecs": [
+        "SA-351"
+      ],
+      "detectedSpecs": [
+        "SA-351",
+        "SA-351M"
+      ],
+      "detectedSections": [
+        3
+      ],
+      "matchExpected": true
     },
     {
       "globalPageIndex": 597,
@@ -15813,6 +15863,67 @@
       ],
       "detectedSections": [],
       "matchExpected": false
+    },
+    {
+      "globalPageIndex": 1597,
+      "expectedSpecs": [
+        "SA-1058"
+      ],
+      "detectedSpecs": [
+        "SA-1058"
+      ],
+      "detectedSections": [],
+      "matchExpected": true
+    },
+    {
+      "globalPageIndex": 1599,
+      "expectedSpecs": [
+        "SA-1058"
+      ],
+      "detectedSpecs": [
+        "A-2025",
+        "SA-1058"
+      ],
+      "detectedSections": [
+        7
+      ],
+      "matchExpected": true
+    },
+    {
+      "globalPageIndex": 1603,
+      "expectedSpecs": [
+        "SA-1058"
+      ],
+      "detectedSpecs": [
+        "SA-1058"
+      ],
+      "detectedSections": [],
+      "matchExpected": true
+    },
+    {
+      "globalPageIndex": 1605,
+      "expectedSpecs": [
+        "SA-1058"
+      ],
+      "detectedSpecs": [
+        "SA-1058"
+      ],
+      "detectedSections": [
+        24
+      ],
+      "matchExpected": true
+    },
+    {
+      "globalPageIndex": 1606,
+      "expectedSpecs": [
+        "SA-1058"
+      ],
+      "detectedSpecs": [
+        "A-2025",
+        "SA-1058"
+      ],
+      "detectedSections": [],
+      "matchExpected": true
     }
   ]
 }

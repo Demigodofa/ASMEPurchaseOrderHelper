@@ -27,7 +27,9 @@ def main():
     for entry in crossref.get("noteRefGaps", []):
         gap_counts[entry["globalPageIndex"]] = gap_counts.get(entry["globalPageIndex"], 0) + 1
 
-    top_pages = sorted(gap_counts.items(), key=lambda kv: (-kv[1], kv[0]))[:20]
+    max_pages = int(os.environ.get("GAP_TABLE_MAX_PAGES", "20"))
+    sorted_pages = sorted(gap_counts.items(), key=lambda kv: (-kv[1], kv[0]))
+    top_pages = sorted_pages if max_pages == 0 else sorted_pages[:max_pages]
 
     report = {
         "createdUtc": datetime.now(timezone.utc).isoformat(),

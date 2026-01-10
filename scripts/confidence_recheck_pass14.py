@@ -22,7 +22,10 @@ NOTE_OCR_DIRS = [
     DATA / "gap_ocr_highdpi",
 ]
 
-NOTE_HEADER_RE = re.compile(r"^\s*NOTE\s*(\d+)\b", re.IGNORECASE)
+NOTE_HEADER_RE = re.compile(r"^\s*(?:NOTE|NORE|N0TE|NOT[E3])\s*(\d+)\b", re.IGNORECASE)
+NOTE_HEADER_ANY_RE = re.compile(
+    r"\b(?:NOTE|NORE|N0TE|NOT[E3])\s*(\d+)\b", re.IGNORECASE
+)
 SPEC_RE = re.compile(r"\bSA-\d+[A-Z]?\b|\bA-\d+[A-Z]?\b")
 
 
@@ -60,24 +63,23 @@ def load_text_for_page(global_idx):
 
 
 def extract_note_blocks(text):
-    lines = text.splitlines()
+    if not text:
+        return []
+
+    normalized = text.replace("\r\n", "\n")
+    matches = list(NOTE_HEADER_ANY_RE.finditer(normalized))
+    if not matches:
+        return []
+
     blocks = []
-    current = []
-    for line in lines:
-        if NOTE_HEADER_RE.match(line):
-            if current:
-                blocks.append("\n".join(current).strip())
-            current = [line]
-            continue
-        if current:
-            if not line.strip():
-                blocks.append("\n".join(current).strip())
-                current = []
-                continue
-            current.append(line)
-    if current:
-        blocks.append("\n".join(current).strip())
-    return [block for block in blocks if block]
+    for idx, match in enumerate(matches):
+        start = match.start()
+        end = matches[idx + 1].start() if idx + 1 < len(matches) else len(normalized)
+        block = normalized[start:end].strip()
+        if block:
+            blocks.append(block)
+
+    return blocks
 
 
 def load_target_note_files(global_idx):
@@ -105,7 +107,7 @@ def load_target_note_files(global_idx):
 
 
 def parse_note_number(text):
-    match = NOTE_HEADER_RE.search(text)
+    match = NOTE_HEADER_ANY_RE.search(text)
     if match:
         return int(match.group(1))
     return None

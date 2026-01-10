@@ -1,0 +1,86 @@
+[
+  {
+    "rows": [
+      [
+        "",
+        "SI  UNITS  A",
+        "",
+        "",
+        "INCH-POUND  UNITS  A",
+        ""
+      ],
+      [
+        "",
+        "Permissible",
+        "",
+        "",
+        "Permissible",
+        ""
+      ],
+      [
+        "",
+        "Variations,  plus  and",
+        "Permissible  Out-",
+        "",
+        "Variations,  Plus",
+        "Permissible  Out-"
+      ],
+      [
+        "Diameter,  mm",
+        "Minus,  mm",
+        "of  Round,  mm",
+        "Diameter,  in.",
+        "and  Minus,  mm",
+        "of  Round,  mm"
+      ],
+      [
+        "To  0.70,  incl.",
+        "0.02",
+        "0.02",
+        "0.020  to  0.028,  incl.",
+        "0.0008",
+        "0.0008"
+      ],
+      [
+        "Over  0.70  to  2.00,  incl.",
+        "0.03",
+        "0.03",
+        "Over  0.028  to  0.075,  incl.",
+        "0.001",
+        "0.001"
+      ],
+      [
+        "Over  2.00  to  9.00,  incl.",
+        "0.05",
+        "0.05",
+        "Over  0.075  to  0.375,  incl.",
+        "0.002",
+        "0.002"
+      ],
+      [
+        "Over  9.00",
+        "0.08",
+        "0.08",
+        "Over  0.375  to  0.500,  incl.",
+        "0.003",
+        "0.003"
+      ],
+      [
+        "",
+        "A  For  purposes  of determining  conformance  with  this  specification,",
+        "",
+        "",
+        "4  For  purposes  of determining  conformance  with  this  specification,",
+        ""
+      ],
+      [
+        "all  specified  limits  are  absolute  as  defined  in  Practice  E 29.",
+        "",
+        "",
+        "",
+        "all  specified  limits  are  absolute  as  defined  in  Practice  E 29.",
+        ""
+      ]
+    ]
+  }
+]

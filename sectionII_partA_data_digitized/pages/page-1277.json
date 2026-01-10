@@ -16,5 +16,8 @@
   "bestTextLength": 3343,
   "bestTextAlphaRatio": 0.6674,
   "gapOcrHighDpiPath": "gap_ocr_highdpi/page-1277.txt",
-  "gapOcrHighDpiLength": 3307
+  "gapOcrHighDpiLength": 3307,
+  "camelotTablesPath": "camelot_tables/page-1277.json",
+  "camelotTablesCsv": "camelot_tables/page-1277.csv",
+  "camelotTableCount": 2
 }

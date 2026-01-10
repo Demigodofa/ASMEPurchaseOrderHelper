@@ -1,0 +1,481 @@
+[
+  {
+    "rows": [
+      [
+        "",
+        "ASME  BPVC.II.A-2025",
+        "",
+        ""
+      ],
+      [
+        "",
+        "TABLE  1 Chemical  Requirements",
+        "",
+        ""
+      ],
+      [
+        "Element",
+        "",
+        "Composition,  %",
+        ""
+      ],
+      [
+        "",
+        "Type  I",
+        "Type  II",
+        "Type  Ill"
+      ],
+      [
+        "Carbon,  maxA",
+        "0.13",
+        "0.13",
+        "0.13"
+      ],
+      [
+        "Manganese,  max:",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Heat analysis",
+        "0.90",
+        "0.90",
+        "0.90"
+      ],
+      [
+        "Product analysis",
+        "0.98",
+        "0.98",
+        "0.98"
+      ],
+      [
+        "Phosphorus,  maxA",
+        "0.015",
+        "0.015",
+        "0.010"
+      ],
+      [
+        "Sulfur,  maxA",
+        "0.015",
+        "0.015",
+        "0.010"
+      ],
+      [
+        "Silicon:",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Heat analysis",
+        "0.15-0.40 8",
+        "0.15-0.408",
+        "0.05-0.30A"
+      ],
+      [
+        "Product analysis",
+        "0.13-0.45\u00b0",
+        "0.13--0.45\u00b0",
+        ""
+      ],
+      [
+        "Nickel:",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Heat analysis",
+        "8.50-9.50",
+        "7.50-8.50",
+        "6.50-7.50A"
+      ],
+      [
+        "Product analysis",
+        "8.40-9.60",
+        "7.40-8.60",
+        ""
+      ],
+      [
+        "MolybdenumA",
+        "",
+        "",
+        "0.10-0.30"
+      ],
+      [
+        "Columbium  (Niobium), 0  maxA",
+        "",
+        "",
+        "0.03"
+      ],
+      [
+        "A  Applies to  both  heat and  product analyses.",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "8  Silicon  may  be  less than  0.15 %,  provided total  aluminum  is  0.030 % or over,  or  provided  acid  soluble  aluminum  is  0.025 % or over.",
+        "",
+        ""
+      ],
+      [
+        "",
+        "c  Silicon  may be  less than  0.13 %,  provided  total  aluminum  is  0.030 % or over,  or provided  acid  soluble  aluminum  is 0.025 % or over.",
+        "",
+        ""
+      ],
+      [
+        "",
+        "\u00b0 Columbium  and  niobium  are  interchangeable names for the  same  element  and  both  names  are  acceptable for  use  in  A01  specifications.",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "rows": [
+      [
+        "\u00b0 Columbium  and  niobium  are  interchangeable names for the  same  element  and  both  names  are  acceptable for  use  in  A01  specifications.",
+        "",
+        ""
+      ],
+      [
+        "TABLE  2 Tensile  Requirements",
+        "5.2.2.1  Prior to  the  tempering  tTeatment,  the  plates  may be",
+        ""
+      ],
+      [
+        "Tensile  strength,  ksi  [MPa] \n100 to  120  [690-825]",
+        "subjected \nto \nan \nintermediate  heat \ntreatment  consisting  of",
+        ""
+      ],
+      [
+        "Yield  strength  (0.2 % offset),  min,  ksi  [MPa] \n85  [585]",
+        "",
+        ""
+      ],
+      [
+        "",
+        "heating to a temperature in the range from  1165 to  1290\u00b0F [630",
+        ""
+      ],
+      [
+        "Elongation  in  2 in.  [50  mm],  min,  %A \n20.0",
+        "",
+        ""
+      ],
+      [
+        "",
+        "to  700\u00b0C]  for  Type  I,  or  1185  to  1310\u00b0F  [640  to  710\u00b0C]  for",
+        ""
+      ],
+      [
+        "A  See  Specification  A20/A20M  for elongation  adjustment.",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Type II, or 1205 to  1330\u00b0F [650 to 720\u00b0C] for Type III; holding",
+        ""
+      ],
+      [
+        "",
+        "at that temperature for  a suitable time,  but in no  case less than",
+        ""
+      ],
+      [
+        "",
+        "15  min,  and then water-quenching to  below  300\u00b0F  [150\u00b0C]  in",
+        ""
+      ],
+      [
+        "4.  Manufacture",
+        "the  case  of plate  thicknesses  of more  than  5/s  in.  [16  mm]  or",
+        ""
+      ],
+      [
+        "",
+        "cooling  in  air  or water-quenching  to  below  300\u00b0F  [150\u00b0C]  in",
+        ""
+      ],
+      [
+        "4.1  Steelmaking  Practice-The  steel  shall  be  killed  and",
+        "",
+        ""
+      ],
+      [
+        "",
+        "the  case of plate thicknesses  of 5/s  in.  [16  mm]  and  under.",
+        ""
+      ],
+      [
+        "shall  conform  to  the  fine  austenitic  grain  size  requirement  of",
+        "",
+        ""
+      ],
+      [
+        "Specification  A20/ A20M.",
+        "NoTE  1-The \nintermediate  heat \ntreatment \nis \nfor \nthe  purpose  of",
+        ""
+      ],
+      [
+        "",
+        "enhancing elongation and notch-toughness and for reducing susceptibility",
+        ""
+      ],
+      [
+        "5.  Heat Treatment",
+        "to \nstrain-aging  embrittlement  and \ntemper  embrittlement. \nIt  may  be",
+        ""
+      ],
+      [
+        "",
+        "performed at the option of the material manufacturer or may  be  specified",
+        ""
+      ],
+      [
+        "5.1  All plates  shall  be  heat  treated in  accordance with  5.2.",
+        "by  the  purchaser.",
+        ""
+      ],
+      [
+        "Shell  plates  and  other  parts,  including  heads  and  reinforcing",
+        "",
+        ""
+      ],
+      [
+        "",
+        "6.  Chemical Requirements",
+        ""
+      ],
+      [
+        "pads,  which are heated for  forming,  shall be heat treated after",
+        "",
+        ""
+      ],
+      [
+        "forming  in  accordance  with  5.2.",
+        "6.1  The  steel  shall  confom1  to  the  chemical  requirements",
+        ""
+      ],
+      [
+        "5.2  Heat  Treatment  Procedure-Heat \ntreat  all  plates  by",
+        "shown in Table  I unless otherwise modified in accordance with",
+        ""
+      ],
+      [
+        "heating to a suitable temperature within the range from  1475 to",
+        "Supplementary Requirement S17, Vacuum Carbon-Deoxidized",
+        ""
+      ],
+      [
+        "1700\u00b0F [800 to  925\u00b0C],  holding for  a sufficient time to  obtain",
+        "Steel,  in Specification A20/ A20M.",
+        ""
+      ],
+      [
+        "uniform  temperature  throughout  the  plate  thickness  and  then",
+        "7.  Mechanical Requirements",
+        ""
+      ],
+      [
+        "queiichiiig 1nwater. Subsequently;--remper the-pl-ates within-thg  -",
+        "-",
+        ""
+      ],
+      [
+        "",
+        "7 .1  Tension TestReqiiirernent.s--'=Tlre mat-er:i-al-as---reprei,ented",
+        "-"
+      ],
+      [
+        "range from  1050 to ll 75\u00b0F [565 to 635\u00b0C] for Type I and Type",
+        "",
+        ""
+      ],
+      [
+        "",
+        "by  tension-test  specimens  shall  conform  to  the  requirements",
+        ""
+      ],
+      [
+        "II, or from  1000 to 1125\u00b0F [540 to 615\u00b0C] for Type III, holding",
+        "",
+        ""
+      ],
+      [
+        "",
+        "specified in Table  2.",
+        ""
+      ],
+      [
+        "at this temperature for a minimum of 30 min/in.  [1.2 min/mm]",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "rows": [
+      [
+        "uniform  temperature  throughout  the  plate  thickness  and  then",
+        "7.  Mechanical Requirements",
+        ""
+      ],
+      [
+        "queiichiiig 1nwater. Subsequently;--remper the-pl-ates within-thg  -",
+        "-",
+        ""
+      ],
+      [
+        "",
+        "7 .1  Tension TestReqiiirernent.s--'=Tlre mat-er:i-al-as---reprei,ented",
+        "-"
+      ],
+      [
+        "range from  1050 to ll 75\u00b0F [565 to 635\u00b0C] for Type I and Type",
+        "",
+        ""
+      ],
+      [
+        "",
+        "by  tension-test  specimens  shall  conform  to  the  requirements",
+        ""
+      ],
+      [
+        "II, or from  1000 to 1125\u00b0F [540 to 615\u00b0C] for Type III, holding",
+        "",
+        ""
+      ],
+      [
+        "",
+        "specified in Table  2.",
+        ""
+      ],
+      [
+        "at this temperature for a minimum of 30 min/in.  [1.2 min/mm]",
+        "",
+        ""
+      ],
+      [
+        "",
+        "7.1.1  Upon  agreement  between \nthe  purchaser  and \nthe",
+        ""
+      ],
+      [
+        "of thickness  but not less  than  15  min,  and  cool in air or water",
+        "",
+        ""
+      ],
+      [
+        "",
+        "manufacturer,  yield  strength may be  determined by  the  exten",
+        ""
+      ],
+      [
+        "quench  at a rate  not less  than  300\u00b0F/h  [165\u00b0C/h].",
+        "",
+        ""
+      ],
+      [
+        "",
+        "sion  under  load  method,  using  0.005  in.fin. \n[mm/mm] \ntotal",
+        ""
+      ],
+      [
+        "5.2.1  Hardening-The plates  shall  be  heated  to  a tempera",
+        "",
+        ""
+      ],
+      [
+        "",
+        "extension.",
+        ""
+      ],
+      [
+        "ture within the range from 1475 to  1700\u00b0F [800 to 925\u00b0C], held",
+        "",
+        ""
+      ],
+      [
+        "",
+        "7.1.2  For nominal  plate  thicknesses  of\u00be in.  [20  mm]  and",
+        ""
+      ],
+      [
+        "at \nthat  temperature  for  a  sufficient  time \nto  obtain  uniform",
+        "",
+        ""
+      ],
+      [
+        "",
+        "under,  the  1 \u00bd in.  [40 mm]  wide rectangular specimen may be",
+        ""
+      ],
+      [
+        "temperature throughout the plate thickness,  and then quenched",
+        "",
+        ""
+      ],
+      [
+        "",
+        "used for the tension test and the elongation may be determined",
+        ""
+      ],
+      [
+        "in  a liquid media.",
+        "",
+        ""
+      ],
+      [
+        "",
+        "in  a 2 in.  [50  mm]  gage  length that includes  the  fracture  and",
+        ""
+      ],
+      [
+        "5.2.2  Tempe1ing-The  plates  shall  be  tempered  at  a  tem",
+        "",
+        ""
+      ],
+      [
+        "",
+        "shows  the  greatest elongation.",
+        ""
+      ],
+      [
+        "perature within the range from  1050 to  ll 75\u00b0F [565  to 635\u00b0C]",
+        "",
+        ""
+      ],
+      [
+        "for Type I and Type II, or from  1000 to  1125\u00b0F [540 to 615\u00b0C]",
+        "7.2  Impact Test Requirements:",
+        ""
+      ],
+      [
+        "for Type  III;  being  held  at  that temperature for  a minimum of",
+        "7.2.1  Charpy  V-notch  impact tests  shall  be  made  in  accor",
+        ""
+      ],
+      [
+        "30 min/in.  [1.2 min/mm]  of thickness, but in no  case less than",
+        "dance  with  Specification A20/ A20M.",
+        ""
+      ],
+      [
+        "15  min,  and  then cooled in  air or liquid-quenched at a rate not",
+        "7.2.2  The  longitudinal  axis  of the  test  specimens  shall  be",
+        ""
+      ],
+      [
+        "less  than  300\u00b0F/h  [165\u00b0C/h].",
+        "transverse  to  the  final  rolling  direction of the  plate.",
+        ""
+      ]
+    ]
+  }
+]

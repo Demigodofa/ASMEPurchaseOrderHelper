@@ -5,11 +5,14 @@ from datetime import datetime, timezone
 
 
 SPEC_RE = re.compile(r"\b(?P<spec>(?:SA|SB|SF|A)-\d+[A-Z]?M?)\b", re.IGNORECASE)
-TABLE_REF_RE = re.compile(r"\bTable\s+(?P<num>\d+)\b", re.IGNORECASE)
-NOTE_REF_RE = re.compile(r"\bNote\s+(?P<num>\d+)\b", re.IGNORECASE)
+TABLE_REF_RE = re.compile(r"\bT[A4]B[1IL]E\s+(?P<num>\d+)\b", re.IGNORECASE)
+NOTE_REF_RE = re.compile(r"\bN[O0]T[E3]\s+(?P<num>\d+)\b", re.IGNORECASE)
 SECTION_RE = re.compile(r"^(?P<num>\d+)\.\s+", re.MULTILINE)
-RESOLVED_NOTES_RE = re.compile(r"^NOTE\s+(?P<num>\d+)\b", re.IGNORECASE)
-NOTE_BLOCK_RE = re.compile(r"^\s*NOTE\s*(?P<num>\d+)\s*[-–—]{0,2}\s*", re.IGNORECASE)
+RESOLVED_NOTES_RE = re.compile(r"^(?:NOTE|NORE|N0TE|NOT[E3])\s+(?P<num>\d+)\b", re.IGNORECASE)
+NOTE_BLOCK_RE = re.compile(
+    r"(?:NOTE|NORE|N0TE|NOT[E3])\s*(?P<num>\d+)\s*[-–—]{0,2}\s*",
+    re.IGNORECASE,
+)
 
 
 def load_manifest(output_root):
@@ -50,7 +53,7 @@ def has_note_block_in_text(text, note_num):
     if not text or not note_num:
         return False
     for line in text.splitlines():
-        match = NOTE_BLOCK_RE.match(line)
+        match = NOTE_BLOCK_RE.search(line)
         if match and match.group("num") == str(note_num):
             return True
     return False

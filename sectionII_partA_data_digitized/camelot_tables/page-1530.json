@@ -1,0 +1,290 @@
+[
+  {
+    "rows": [
+      [
+        "",
+        "The following supplementary requirements shall apply only when specified by the purchaser in the"
+      ],
+      [
+        "contract or order.",
+        ""
+      ],
+      [
+        "Sl.  Macroetch Test",
+        "SS.  Hydrostatic Testing"
+      ],
+      [
+        "S 1.1  A sample  part  shall  be  sectioned  and  etched to  show",
+        "S8.l  A hydrostatic  test  at  a pressure  agreed  upon between"
+      ],
+      [
+        "internal imperfections. The test shall be conducted according to",
+        "the  manufacturer  and  the  purchaser  shall  be  applied  by  the"
+      ],
+      [
+        "Test  Method  E340.  Details  of the  test  shall  be  agreed  upon",
+        "manufacturer."
+      ],
+      [
+        "between the  manufacturer and the purchaser.",
+        ""
+      ],
+      [
+        "",
+        "S9.  Repair Welding"
+      ],
+      [
+        "S2.  Chemical  Composition",
+        ""
+      ],
+      [
+        "",
+        "S9.1  No  repair  welding  shall  be  permitted  without  prior"
+      ],
+      [
+        "S2.1  The chemical composition of a sample from  one  part",
+        ""
+      ],
+      [
+        "",
+        "approval  of  the  purchaser. \nIf  permitted, \nthe  restrictions  of"
+      ],
+      [
+        "from each lot of parts shall be determined by the manufacturer.",
+        ""
+      ],
+      [
+        "",
+        "Section  15  shall apply."
+      ],
+      [
+        "The  composition of the  sample  shall conform to  the  chemical",
+        ""
+      ],
+      [
+        "composition requirements prescribed in Table  1.",
+        ""
+      ],
+      [
+        "",
+        "SlO.  Heat Treatment Details"
+      ],
+      [
+        "S2.2  A product analysis in accordance with Section 10 shall",
+        ""
+      ],
+      [
+        "",
+        "S 10.1  The manufacturer  shall furnish  a detailed test report"
+      ],
+      [
+        "be  made  from  one  randomly  selected  part  representing  each",
+        ""
+      ],
+      [
+        "",
+        "containing  the information  required in  16.1  and  shall  include"
+      ],
+      [
+        "size and type (See 9.5.1.1)  of part on the order.  If the analysis",
+        ""
+      ],
+      [
+        "",
+        "all pertinent details  of the  heat treating cycle  given  the  parts."
+      ],
+      [
+        "fails \nto  comply,  each  part  in  that  lot,  at \nthe  option  of  the",
+        ""
+      ],
+      [
+        "manufacturer, shall be checked and accepted if the analysis for",
+        ""
+      ],
+      [
+        "",
+        "Sll.  Hardness Test"
+      ],
+      [
+        "the  part  complies  with  the  requirements,  or  the  lot  shall  be",
+        ""
+      ],
+      [
+        "rejected.  All  results  shall be reported to  the purchaser.",
+        "S 11.1  Each part shall be hardness  tested and shall meet the"
+      ],
+      [
+        "",
+        "requirements  of Table 3."
+      ],
+      [
+        "S3.  Tension Tests",
+        ""
+      ],
+      [
+        "S3.1 \nIn  addition \nto \nthe \nrequirements  of  Section  9,  one",
+        "S12.  Alternate Heat Treatment (Grade K90901)"
+      ],
+      [
+        "tension  specimen shall be obtained from  a representative part",
+        "Sl2.l  Grade  K90901 \nshall  be  normalized  in  accordance"
+      ],
+      [
+        "from each production lot at a location agreed upon between the",
+        "with  Section 7 and tempered at a temperature,  to  be specified"
+      ],
+      [
+        "manufacturer  and  the  purchaser.  The  results  of the  test  shall",
+        "by  the  purchaser,  less  than  1350  \u00b0F  [730  \u00b0C].  It shall  be  the"
+      ],
+      [
+        "comply  with Table  3 and shall be reported  to  the purchaser.",
+        "purchaser's  responsibility  to  subsequently  temper  at  1350  \u00b0F"
+      ],
+      [
+        "",
+        "[730  \u00b0C]  min to  conform to the requirements of the specifica"
+      ],
+      [
+        "S4.  Particle Size",
+        ""
+      ],
+      [
+        "",
+        "tion.  All  mechanical \ntests  shall  be  made  on  material  heat"
+      ],
+      [
+        "S4.1 \nIn  addition  to  the  manufacturing  process  of 5.1,  the",
+        "treated  in  accordance  with  Section  7.  The  certification  shall"
+      ],
+      [
+        "maximum particle size is  0.020 in.  [0.5  mm],  and the powders",
+        "reference  this  supplementary  requirement indicating  the  tem"
+      ],
+      [
+        "shall be produced by  the  gas  atomization process.",
+        "pering \ntemperature  applied.  The  notation  \"S 1 0\" \nshall  be"
+      ],
+      [
+        "",
+        "included with  the required marking of the part."
+      ],
+      [
+        "S5.  Powder Shielding",
+        ""
+      ],
+      [
+        "S5.1 \nImmediately  following  atomization,  the  powder  shall",
+        "Sl3.  Fatigue Acceptance Test"
+      ],
+      [
+        "remain  shielded  by  an  inert  gas,  until  the  powder  is  below  a",
+        ""
+      ],
+      [
+        "",
+        "Sl3.1  For  alloy  steel,  except  UNS  K90901,  components"
+      ],
+      [
+        "temperature  of 105  \u00b0F  [ 40  \u00b0C]  to  ensure  that the  detrimental",
+        ""
+      ],
+      [
+        "",
+        "intended  for  service  above  800  \u00b0F \n[425\u00b0C],  and  for  UNS"
+      ],
+      [
+        "absorption of oxygen and other deleterious contaminants is no",
+        ""
+      ],
+      [
+        "",
+        "K90901 \ncomponents \nintended \nfor \nservice  above  1000  \u00b0F"
+      ],
+      [
+        "longer  possible.  The  powder  shall  be  stored  under  a  positive",
+        ""
+      ],
+      [
+        "",
+        "[540 \u00b0C]  a uniaxial fatigue  test  shall be performed."
+      ],
+      [
+        "nitrogen or argon atmosphere or vacuum to minimize potential",
+        ""
+      ],
+      [
+        "",
+        "S13.2  The fatigue  test shall be performed in air at  1100  \u00b0F"
+      ],
+      [
+        "oxidation or contamination.",
+        ""
+      ],
+      [
+        "",
+        "[595  \u00b0C]  at an axial strain range of 1.0 % with a one hour hold"
+      ],
+      [
+        "",
+        "period at the maximum positive strain point in each cycle. Test"
+      ],
+      [
+        "S6.  Magnetic Particle Examination",
+        ""
+      ],
+      [
+        "",
+        "specimen location and  orientation shall be in accordance with"
+      ],
+      [
+        "S6.1  All  accessible  surfaces  of a  finished  alloy  steel  part",
+        "the  general  guidance  of Specification  A961/A961M  and  the"
+      ],
+      [
+        "shall be examined by a magnetic-particle method. The method",
+        "applicable product specifications. Testing shall be conducted in"
+      ],
+      [
+        "shall  be  in  accordance  with  Test  Method  A275/A275M.  Ac",
+        "accordance  with Practice  E606/E606M.  The test  shall exceed"
+      ],
+      [
+        "ceptance limits shall be agreed upon between the manufacturer",
+        "200 cycles  without fracture  or a 20 % drop  in  the load range."
+      ],
+      [
+        "and  purchaser.",
+        "S13.3  Failure  to  meet  this  requirement  shall  be  cause  for"
+      ],
+      [
+        "",
+        "rejection of all parts  from that powder blend."
+      ],
+      [
+        "S7.  Liquid Penetrant Examination",
+        ""
+      ],
+      [
+        "",
+        "S13.4  Test frequency  shall be the  same as  for  tension tests"
+      ],
+      [
+        "S7 .1  All  accessible  surfaces  shall be  examined by  a liquid",
+        "(see  9.5).  Retesting  is  permitted.  Two  additional  specimens"
+      ],
+      [
+        "penetrant  method \nin  accordance  with  Test  Method  E165/",
+        "produced from the same powder blend shall be tested and both"
+      ],
+      [
+        "E165M.  Acceptance  limits  shall  be  agreed  upon  between  the",
+        "specimens must pass the cyclic life requirement. Further retests"
+      ],
+      [
+        "manufacturer and the purchaser.",
+        "are  not permitted."
+      ]
+    ]
+  }
+]

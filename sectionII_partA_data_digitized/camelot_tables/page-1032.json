@@ -1,0 +1,114 @@
+[
+  {
+    "rows": [
+      [
+        "TABLE 2 Tensile Requirements",
+        ""
+      ],
+      [
+        "Class  1 \nClass 2",
+        "Class 3 \nClass 4 \nClass 4a"
+      ],
+      [
+        "Tensile strength,  ksi  [MPa] \n105-125 [725-860] \n115-135 [795-930]",
+        "95-115 [655-795] \n85-110 [585-760] \n85-11 0 [585-760]"
+      ],
+      [
+        "Yield strength,  min,  ksi  [MPa] \n85  [585] \n100 [690]",
+        "60 (415] \n75  [515] \n55  [380]"
+      ],
+      [
+        "Elongation  in  2 in.  (50  mm],  min,  %A \n14 \n13",
+        "20 \n20 \n18"
+      ],
+      [
+        "A  See Specification A20/A20M for elongation  adjustment.",
+        ""
+      ],
+      [
+        "annealed  condition.  Minimum  stress \nrelieving \ntemperature",
+        "in  a  2-in.  [50-mm]  gage length that includes  the fracture  and"
+      ],
+      [
+        "shall  be  1050\u00b0F  [565\u00b0C]  except  for  'fype  E  which  shall  be",
+        "that  shows  the  greatest elongation."
+      ],
+      [
+        "1200\u00b0F [650\u00b0C].",
+        ""
+      ],
+      [
+        "",
+        "7.2  Notch  Toughness  Requirements-Classes 4 and 4a:"
+      ],
+      [
+        "",
+        "7.2.1  A transverse Charpy V-notch test from  each plate-as"
+      ],
+      [
+        "6.  Chemical Composition",
+        ""
+      ],
+      [
+        "",
+        "heat-treated shall have a minimum energy absorption value of"
+      ],
+      [
+        "6.1  The  steel  shall  conform  to  the  chemical  requirements",
+        ""
+      ],
+      [
+        "",
+        "40 ft-lbf [54 J]  average of three specimens and 35  ft\u2022lbf [48  J]"
+      ],
+      [
+        "shown in Table  1.",
+        ""
+      ],
+      [
+        "",
+        "for  one  specimen only in  the  set."
+      ],
+      [
+        "",
+        "7.2.2  For  Class  4,  the  impact  test  temperature  shall  be  as"
+      ],
+      [
+        "7.  Mechanical Properties",
+        ""
+      ],
+      [
+        "",
+        "specified on  the  order."
+      ],
+      [
+        "7.1  Tension  Test Requirements:",
+        "7 .2.3  For Class 4a, the impact test temperature shall be 0\u00b0F"
+      ],
+      [
+        "7.1.1  The material as  represented by the  tension-test speci",
+        "[-18\u00b0C]."
+      ],
+      [
+        "mens  shall conform to  the requirements  shown in Table  2.",
+        ""
+      ],
+      [
+        "",
+        "8.  Keywords"
+      ],
+      [
+        "7.1.2  For nominal  plate  thicknesses  of\u00be in.  [20  mm]  and",
+        ""
+      ],
+      [
+        "under,  the  1 \u00bd-in.  [40-mm]  wide rectangular specimen may be",
+        "8.1  alloy  steel;  alloy  steel plate;  pressure  containing parts;"
+      ],
+      [
+        "used for the tension test, and the elongation may be determined",
+        "pressure vessel steels;  steel plates  for pressure vessels"
+      ]
+    ]
+  }
+]

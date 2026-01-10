@@ -35,7 +35,11 @@ public static class PoTextGenerator
             sb.AppendLine($"EQUIVALENT: ASTM {spec.AstmSpec}-{spec.AstmYear}");
         }
 
-        if (!string.IsNullOrWhiteSpace(grade))
+        var required = requiredFields?.ToList() ?? new();
+        var gradeHandledInRequired = required.Any(field =>
+            string.Equals(field.Label, "Grade / Class / Type", StringComparison.OrdinalIgnoreCase));
+
+        if (!string.IsNullOrWhiteSpace(grade) && !gradeHandledInRequired)
             sb.AppendLine($"GRADE/CLASS/TYPE: {grade}");
 
         var notes = selectedOrderingNotes?.Where(n => !string.IsNullOrWhiteSpace(n)).ToList() ?? new();
@@ -46,7 +50,6 @@ public static class PoTextGenerator
                 sb.AppendLine($"- {n}");
         }
 
-        var required = requiredFields?.ToList() ?? new();
         if (required.Count > 0)
         {
             sb.AppendLine("REQUIRED FIELDS:");

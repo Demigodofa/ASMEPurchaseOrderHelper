@@ -1,9 +1,9 @@
 {
-  "createdUtc": "2026-01-07T19:18:46.746666+00:00",
+  "createdUtc": "2026-01-09T20:14:09.211134+00:00",
   "summary": {
-    "targetPages": 70,
-    "pagesProcessed": 70,
-    "tableRegionsOcr": 69
+    "targetPages": 68,
+    "pagesProcessed": 68,
+    "tableRegionsOcr": 67
   },
   "pages": [
     {
@@ -623,19 +623,6 @@
       "alphaRatio": 0.758
     },
     {
-      "globalPageIndex": 1383,
-      "tableWordHits": 2,
-      "cropBox": [
-        0,
-        1359,
-        3420,
-        3786
-      ],
-      "textPath": "table_target_ocr\\page-1383-table.txt",
-      "length": 1437,
-      "alphaRatio": 0.767
-    },
-    {
       "globalPageIndex": 1414,
       "tableWordHits": 3,
       "cropBox": [
@@ -712,19 +699,6 @@
       "textPath": "table_target_ocr\\page-1530-table.txt",
       "length": 3653,
       "alphaRatio": 0.744
-    },
-    {
-      "globalPageIndex": 1563,
-      "tableWordHits": 3,
-      "cropBox": [
-        0,
-        716,
-        3428,
-        3147
-      ],
-      "textPath": "table_target_ocr\\page-1563-table.txt",
-      "length": 2284,
-      "alphaRatio": 0.732
     },
     {
       "globalPageIndex": 1577,

@@ -1,0 +1,478 @@
+{
+  "createdUtc": "2026-01-10T00:21:44.458786+00:00",
+  "startPage": 800,
+  "pageCount": 20,
+  "summary": {
+    "pagesChecked": 20,
+    "bestTextLowAlpha": 2,
+    "visionLowAlpha": 0,
+    "bestTextWeirdCharHits": 7,
+    "visionWeirdCharHits": 15,
+    "chemTokenMissingInBestText": 9,
+    "chemTokenMissingInVision": 2
+  },
+  "pages": [
+    {
+      "globalPageIndex": 800,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 2,
+      "bestTextAlphaRatio": 0.8,
+      "visionAlphaRatio": 0.807,
+      "bestTextWeirdCharRatio": 0.001,
+      "visionWeirdCharRatio": 0.0003,
+      "chemTokensBestText": [
+        "S"
+      ],
+      "chemTokensVision": [
+        "S"
+      ],
+      "missingChemInBestText": [],
+      "missingChemInVision": [],
+      "visionTextPath": "section_text_checks\\page-0800-vision.txt"
+    },
+    {
+      "globalPageIndex": 801,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 3,
+      "bestTextAlphaRatio": 0.481,
+      "visionAlphaRatio": 0.682,
+      "bestTextWeirdCharRatio": 0.0,
+      "visionWeirdCharRatio": 0.0019,
+      "chemTokensBestText": [],
+      "chemTokensVision": [
+        "CO"
+      ],
+      "missingChemInBestText": [
+        "CO"
+      ],
+      "missingChemInVision": [],
+      "visionTextPath": "section_text_checks\\page-0801-vision.txt"
+    },
+    {
+      "globalPageIndex": 802,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 4,
+      "bestTextAlphaRatio": 0.58,
+      "visionAlphaRatio": 0.696,
+      "bestTextWeirdCharRatio": 0.0002,
+      "visionWeirdCharRatio": 0.0009,
+      "chemTokensBestText": [
+        "C"
+      ],
+      "chemTokensVision": [
+        "B",
+        "C",
+        "CR",
+        "N"
+      ],
+      "missingChemInBestText": [
+        "B",
+        "CR",
+        "N"
+      ],
+      "missingChemInVision": [],
+      "visionTextPath": "section_text_checks\\page-0802-vision.txt"
+    },
+    {
+      "globalPageIndex": 803,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 5,
+      "bestTextAlphaRatio": 0.554,
+      "visionAlphaRatio": 0.692,
+      "bestTextWeirdCharRatio": 0.0,
+      "visionWeirdCharRatio": 0.0004,
+      "chemTokensBestText": [
+        "V"
+      ],
+      "chemTokensVision": [],
+      "missingChemInBestText": [],
+      "missingChemInVision": [
+        "V"
+      ],
+      "visionTextPath": "section_text_checks\\page-0803-vision.txt"
+    },
+    {
+      "globalPageIndex": 804,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 6,
+      "bestTextAlphaRatio": 0.557,
+      "visionAlphaRatio": 0.69,
+      "bestTextWeirdCharRatio": 0.0007,
+      "visionWeirdCharRatio": 0.0,
+      "chemTokensBestText": [],
+      "chemTokensVision": [
+        "C"
+      ],
+      "missingChemInBestText": [
+        "C"
+      ],
+      "missingChemInVision": [],
+      "visionTextPath": "section_text_checks\\page-0804-vision.txt"
+    },
+    {
+      "globalPageIndex": 805,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 7,
+      "bestTextAlphaRatio": 0.566,
+      "visionAlphaRatio": 0.709,
+      "bestTextWeirdCharRatio": 0.0,
+      "visionWeirdCharRatio": 0.0,
+      "chemTokensBestText": [],
+      "chemTokensVision": [
+        "C"
+      ],
+      "missingChemInBestText": [
+        "C"
+      ],
+      "missingChemInVision": [],
+      "visionTextPath": "section_text_checks\\page-0805-vision.txt"
+    },
+    {
+      "globalPageIndex": 806,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 8,
+      "bestTextAlphaRatio": 0.57,
+      "visionAlphaRatio": 0.687,
+      "bestTextWeirdCharRatio": 0.0002,
+      "visionWeirdCharRatio": 0.0,
+      "chemTokensBestText": [],
+      "chemTokensVision": [
+        "C"
+      ],
+      "missingChemInBestText": [
+        "C"
+      ],
+      "missingChemInVision": [],
+      "visionTextPath": "section_text_checks\\page-0806-vision.txt"
+    },
+    {
+      "globalPageIndex": 807,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 9,
+      "bestTextAlphaRatio": 0.418,
+      "visionAlphaRatio": 0.608,
+      "bestTextWeirdCharRatio": 0.0,
+      "visionWeirdCharRatio": 0.0007,
+      "chemTokensBestText": [],
+      "chemTokensVision": [
+        "C"
+      ],
+      "missingChemInBestText": [
+        "C"
+      ],
+      "missingChemInVision": [],
+      "visionTextPath": "section_text_checks\\page-0807-vision.txt"
+    },
+    {
+      "globalPageIndex": 808,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 10,
+      "bestTextAlphaRatio": 0.528,
+      "visionAlphaRatio": 0.735,
+      "bestTextWeirdCharRatio": 0.0008,
+      "visionWeirdCharRatio": 0.0009,
+      "chemTokensBestText": [],
+      "chemTokensVision": [
+        "C"
+      ],
+      "missingChemInBestText": [
+        "C"
+      ],
+      "missingChemInVision": [],
+      "visionTextPath": "section_text_checks\\page-0808-vision.txt"
+    },
+    {
+      "globalPageIndex": 809,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 11,
+      "bestTextAlphaRatio": 0.779,
+      "visionAlphaRatio": 0.784,
+      "bestTextWeirdCharRatio": 0.0,
+      "visionWeirdCharRatio": 0.0022,
+      "chemTokensBestText": [
+        "B",
+        "C",
+        "NB",
+        "V"
+      ],
+      "chemTokensVision": [
+        "B",
+        "C",
+        "NB"
+      ],
+      "missingChemInBestText": [],
+      "missingChemInVision": [
+        "V"
+      ],
+      "visionTextPath": "section_text_checks\\page-0809-vision.txt"
+    },
+    {
+      "globalPageIndex": 810,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 12,
+      "bestTextAlphaRatio": 0.814,
+      "visionAlphaRatio": 0.819,
+      "bestTextWeirdCharRatio": 0.0,
+      "visionWeirdCharRatio": 0.0004,
+      "chemTokensBestText": [
+        "B",
+        "C",
+        "S",
+        "V"
+      ],
+      "chemTokensVision": [
+        "B",
+        "C",
+        "S",
+        "V"
+      ],
+      "missingChemInBestText": [],
+      "missingChemInVision": [],
+      "visionTextPath": "section_text_checks\\page-0810-vision.txt"
+    },
+    {
+      "globalPageIndex": 811,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 13,
+      "bestTextAlphaRatio": 0.812,
+      "visionAlphaRatio": 0.809,
+      "bestTextWeirdCharRatio": 0.0,
+      "visionWeirdCharRatio": 0.0004,
+      "chemTokensBestText": [
+        "S"
+      ],
+      "chemTokensVision": [
+        "S"
+      ],
+      "missingChemInBestText": [],
+      "missingChemInVision": [],
+      "visionTextPath": "section_text_checks\\page-0811-vision.txt"
+    },
+    {
+      "globalPageIndex": 812,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 14,
+      "bestTextAlphaRatio": 0.817,
+      "visionAlphaRatio": 0.822,
+      "bestTextWeirdCharRatio": 0.0,
+      "visionWeirdCharRatio": 0.0,
+      "chemTokensBestText": [],
+      "chemTokensVision": [],
+      "missingChemInBestText": [],
+      "missingChemInVision": [],
+      "visionTextPath": "section_text_checks\\page-0812-vision.txt"
+    },
+    {
+      "globalPageIndex": 813,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 15,
+      "bestTextAlphaRatio": 0.68,
+      "visionAlphaRatio": 0.709,
+      "bestTextWeirdCharRatio": 0.0,
+      "visionWeirdCharRatio": 0.0009,
+      "chemTokensBestText": [
+        "B",
+        "C",
+        "N",
+        "P",
+        "S",
+        "SI",
+        "V",
+        "W"
+      ],
+      "chemTokensVision": [
+        "B",
+        "C",
+        "N",
+        "P",
+        "S",
+        "SI",
+        "V",
+        "W"
+      ],
+      "missingChemInBestText": [],
+      "missingChemInVision": [],
+      "visionTextPath": "section_text_checks\\page-0813-vision.txt"
+    },
+    {
+      "globalPageIndex": 814,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 16,
+      "bestTextAlphaRatio": 0.677,
+      "visionAlphaRatio": 0.707,
+      "bestTextWeirdCharRatio": 0.0,
+      "visionWeirdCharRatio": 0.0002,
+      "chemTokensBestText": [
+        "B",
+        "C",
+        "N",
+        "P",
+        "S",
+        "V",
+        "W"
+      ],
+      "chemTokensVision": [
+        "B",
+        "C",
+        "N",
+        "P",
+        "S",
+        "V",
+        "W"
+      ],
+      "missingChemInBestText": [],
+      "missingChemInVision": [],
+      "visionTextPath": "section_text_checks\\page-0814-vision.txt"
+    },
+    {
+      "globalPageIndex": 815,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 17,
+      "bestTextAlphaRatio": 0.688,
+      "visionAlphaRatio": 0.714,
+      "bestTextWeirdCharRatio": 0.0,
+      "visionWeirdCharRatio": 0.0015,
+      "chemTokensBestText": [
+        "B",
+        "C",
+        "P",
+        "S",
+        "W"
+      ],
+      "chemTokensVision": [
+        "B",
+        "C",
+        "P",
+        "S",
+        "W"
+      ],
+      "missingChemInBestText": [],
+      "missingChemInVision": [],
+      "visionTextPath": "section_text_checks\\page-0815-vision.txt"
+    },
+    {
+      "globalPageIndex": 816,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 18,
+      "bestTextAlphaRatio": 0.68,
+      "visionAlphaRatio": 0.712,
+      "bestTextWeirdCharRatio": 0.0,
+      "visionWeirdCharRatio": 0.0009,
+      "chemTokensBestText": [
+        "B",
+        "C",
+        "N",
+        "P",
+        "S",
+        "V",
+        "W"
+      ],
+      "chemTokensVision": [
+        "B",
+        "C",
+        "N",
+        "P",
+        "S",
+        "TI",
+        "V",
+        "W"
+      ],
+      "missingChemInBestText": [
+        "TI"
+      ],
+      "missingChemInVision": [],
+      "visionTextPath": "section_text_checks\\page-0816-vision.txt"
+    },
+    {
+      "globalPageIndex": 817,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 19,
+      "bestTextAlphaRatio": 0.65,
+      "visionAlphaRatio": 0.678,
+      "bestTextWeirdCharRatio": 0.0004,
+      "visionWeirdCharRatio": 0.0,
+      "chemTokensBestText": [
+        "B",
+        "C",
+        "N",
+        "P",
+        "S",
+        "V",
+        "W"
+      ],
+      "chemTokensVision": [
+        "AL",
+        "B",
+        "C",
+        "N",
+        "P",
+        "S",
+        "V",
+        "W"
+      ],
+      "missingChemInBestText": [
+        "AL"
+      ],
+      "missingChemInVision": [],
+      "visionTextPath": "section_text_checks\\page-0817-vision.txt"
+    },
+    {
+      "globalPageIndex": 818,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 20,
+      "bestTextAlphaRatio": 0.691,
+      "visionAlphaRatio": 0.725,
+      "bestTextWeirdCharRatio": 0.0003,
+      "visionWeirdCharRatio": 0.0006,
+      "chemTokensBestText": [
+        "B",
+        "C",
+        "N",
+        "P",
+        "S",
+        "W"
+      ],
+      "chemTokensVision": [
+        "B",
+        "C",
+        "N",
+        "P",
+        "S",
+        "W"
+      ],
+      "missingChemInBestText": [],
+      "missingChemInVision": [],
+      "visionTextPath": "section_text_checks\\page-0818-vision.txt"
+    },
+    {
+      "globalPageIndex": 819,
+      "sourcePdf": "2025 OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+      "sourcePageNumber": 21,
+      "bestTextAlphaRatio": 0.684,
+      "visionAlphaRatio": 0.72,
+      "bestTextWeirdCharRatio": 0.0,
+      "visionWeirdCharRatio": 0.0009,
+      "chemTokensBestText": [
+        "B",
+        "C",
+        "N",
+        "P",
+        "S",
+        "V",
+        "W"
+      ],
+      "chemTokensVision": [
+        "B",
+        "C",
+        "N",
+        "P",
+        "S",
+        "V",
+        "W"
+      ],
+      "missingChemInBestText": [],
+      "missingChemInVision": [],
+      "visionTextPath": "section_text_checks\\page-0819-vision.txt"
+    }
+  ]
+}

@@ -14,5 +14,10 @@
   "bestTextPath": "best_text\\pages\\page-0415.txt",
   "bestTextSource": "full_ocr_highdpi",
   "bestTextLength": 4244,
-  "bestTextAlphaRatio": 0.726
+  "bestTextAlphaRatio": 0.726,
+  "camelotTablesPath": "camelot_tables/page-0415.json",
+  "camelotTablesCsv": "camelot_tables/page-0415.csv",
+  "camelotTableCount": 1,
+  "gapOcrHighDpiPath": "gap_ocr_highdpi/page-0415.txt",
+  "gapOcrHighDpiLength": 4256
 }

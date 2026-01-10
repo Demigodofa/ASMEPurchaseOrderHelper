@@ -22,5 +22,8 @@
   "noteOcrHighDpiCount": 0,
   "noteOcrHighDpiNotes": [],
   "gapOcrHighDpiPath": "gap_ocr_highdpi/page-1046.txt",
-  "gapOcrHighDpiLength": 2765
+  "gapOcrHighDpiLength": 2765,
+  "camelotTablesPath": "camelot_tables/page-1046.json",
+  "camelotTablesCsv": "camelot_tables/page-1046.csv",
+  "camelotTableCount": 1
 }

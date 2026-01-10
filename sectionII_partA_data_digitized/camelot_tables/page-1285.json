@@ -1,0 +1,282 @@
+[
+  {
+    "rows": [
+      [
+        "",
+        "ASME  BPVC.II.A-2025",
+        "SA-739"
+      ],
+      [
+        "",
+        "TABLE  1 Chemical  Requirements",
+        "laps,  segregation,  or  other  imperfections  which,  due  to  their"
+      ],
+      [
+        "Element",
+        "Composition,  %",
+        "nature,  degree  or  extent,  will  interfere  with  the  use  of  the"
+      ],
+      [
+        "",
+        "Grade B 11 \nGrade B 22",
+        "material in  machining or fabrication."
+      ],
+      [
+        "Carbon,  max",
+        "0.05-0.20 \n0.05-0.15",
+        ""
+      ],
+      [
+        "",
+        "",
+        "7.2  Descaling-Unless otherwise specified, the bars shall be"
+      ],
+      [
+        "Manganese",
+        "0.40-0.65 \n0.30-0.60",
+        ""
+      ],
+      [
+        "Phosphorus,  max",
+        "0.035 \n0.035",
+        "descaled."
+      ],
+      [
+        "Sulfur,  max",
+        "0.040 \n0.040",
+        ""
+      ],
+      [
+        "Silicon",
+        "0.50-0.80 \n0.50 max",
+        "8.  General Requirements"
+      ],
+      [
+        "Chromium",
+        "1.00-1.50 \n2.00-2.50",
+        ""
+      ],
+      [
+        "",
+        "",
+        "8.1  Material  furnished  under  this  specification  shall  con"
+      ],
+      [
+        "Molybdenum",
+        "0.45-0.65 \n0.90-1.10",
+        ""
+      ],
+      [
+        "",
+        "",
+        "form  to  the  applicable  requirements  of the  current  edition  of"
+      ],
+      [
+        "",
+        "",
+        "Specification  A29/ A29M."
+      ],
+      [
+        "",
+        "TABLE  2 Tensile Requirements",
+        ""
+      ],
+      [
+        "",
+        "",
+        "9.  Certification and Test Reports"
+      ],
+      [
+        "",
+        "Grade B 11 \nGrade  B 22",
+        ""
+      ],
+      [
+        "",
+        "",
+        "9.1  A  manufacturer's  certification \nthat \nthe  material  was"
+      ],
+      [
+        "Tensile strength,  ksi  (MPa)",
+        "70.0-95.0 (483-655) \n75.0-95.0 (517-655)",
+        ""
+      ],
+      [
+        "Yield  strength,  min,  ksi  (MPa)",
+        "45.0  (310) \n45.0  (310)",
+        "manufactured  and  tested in  accordance  with  this  specification"
+      ],
+      [
+        "Elongation in 2 in.  or 50 mm,",
+        "",
+        ""
+      ],
+      [
+        "",
+        "18 \n18",
+        "together  with  a report  of the  analysis  and  tensfon  test results"
+      ],
+      [
+        "min,%",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "shall  be  furnished  at  the  time  of shipment.  The  report  shall"
+      ],
+      [
+        "Reduction of area,  min, %",
+        "45 \n45",
+        ""
+      ],
+      [
+        "",
+        "",
+        "include \nthe  name  of  the  manufacturer,  ASTM  designation"
+      ],
+      [
+        "",
+        "",
+        "number  and  year  date  and  revision  letter,  if any,  grade,  heat"
+      ],
+      [
+        "",
+        "",
+        "number,  and  size."
+      ],
+      [
+        "6.3  Number of Tests:",
+        "",
+        ""
+      ],
+      [
+        "",
+        "6.3.1  Two  tension  tests  shall  be  made  to  represent  bars  of",
+        ""
+      ],
+      [
+        "",
+        "",
+        "10.  Product Marking"
+      ]
+    ]
+  },
+  {
+    "rows": [
+      [
+        "Reduction of area,  min, % \n45 \n45",
+        ""
+      ],
+      [
+        "",
+        "include \nthe  name  of  the  manufacturer,  ASTM  designation"
+      ],
+      [
+        "",
+        "number  and  year  date  and  revision  letter,  if any,  grade,  heat"
+      ],
+      [
+        "",
+        "number,  and  size."
+      ],
+      [
+        "6.3  Number of Tests:",
+        ""
+      ],
+      [
+        "6.3.1  Two  tension  tests  shall  be  made  to  represent  bars  of",
+        ""
+      ],
+      [
+        "",
+        "10.  Product Marking"
+      ],
+      [
+        "the same size from each heat in each heat treatment charge. For",
+        ""
+      ],
+      [
+        "",
+        "10.1  The  bars  shall be marked in  accordance  with  Specifi"
+      ],
+      [
+        "continuous  heat-treated  material,  not  fewer  than  two  tension",
+        ""
+      ],
+      [
+        "",
+        "cation A29/ A29M except as modified or supplemented by  10.2"
+      ],
+      [
+        "tests  shall represent a lot selected on the basis  of one  tension",
+        ""
+      ],
+      [
+        "",
+        "through  10.4  of this  specification."
+      ],
+      [
+        "test from each  10  000  lb  (4500 kg).",
+        ""
+      ],
+      [
+        "6.3.2  When heat treated  without interruption in continuous",
+        "10.2  When specified by the purchaser, the heat number shall"
+      ],
+      [
+        "furnaces, the material in a lot shall be from the same heat, same",
+        "be permanently  stamped  on  one end of each bar 2.50 in.  and"
+      ],
+      [
+        "prior  condition,  same  size,  and  subjected  to  the  same  heat",
+        "larger in nominal diameter (or equivalent cross-sectional area)."
+      ],
+      [
+        "treatments.",
+        ""
+      ],
+      [
+        "",
+        "10.3  The bars  shall neither be hot nor cold stamped on the"
+      ],
+      [
+        "6.4  Test  Methods-Tension  test~  shall  be  made  in  accor",
+        "sides unless  approved by the purchaser on the purchase order."
+      ],
+      [
+        "dance  with  Test  Methods  and  Definitions  A370.  The  yield",
+        ""
+      ],
+      [
+        "",
+        "10.4  Each  lift,  regardless  of size,  shall  be tagged  with  the"
+      ],
+      [
+        "strength shall be  determined  by the  0.2 % offset  method.",
+        ""
+      ],
+      [
+        "",
+        "information required by  Specification A29/ A29M."
+      ],
+      [
+        "7.  Workmanship, Finish,  and Appearance",
+        "11.  Keywords"
+      ],
+      [
+        "7 .1  Wbrkmanship-The  bars  shall  be  free  of pipe,  cracks,",
+        "11.1  alloy  steel  bars;  high-temperature  applications;  hot"
+      ],
+      [
+        "and \nflakes.  Within \nthe \nlimits  of  good  manufacturing  and",
+        "wrought steel bars;  pressure-containing parts;  steel  bars;  tem"
+      ],
+      [
+        "inspection practices the  bars  shall be free  of injurious  seams,",
+        "perature  service  application-high"
+      ]
+    ]
+  }
+]

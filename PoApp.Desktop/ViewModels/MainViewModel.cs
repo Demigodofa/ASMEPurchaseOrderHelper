@@ -77,6 +77,11 @@ public partial class MainViewModel : ObservableObject
 
     partial void OnSelectedGradeChanged(string? value)
     {
+        var gradeField = RequiredFields.FirstOrDefault(field =>
+            string.Equals(field.Label, "Grade / Class / Type", StringComparison.OrdinalIgnoreCase));
+        if (gradeField is not null && gradeField.Value != value)
+            gradeField.Value = value;
+
         Regenerate();
     }
 
@@ -173,6 +178,9 @@ private void ToggleAllOrdering(object? parameter)
         if (required.Contains("Quantity"))
             AddRequiredField(new RequiredFieldInput("Quantity"));
 
+        if (required.Contains("Grade / Class / Type"))
+            AddRequiredField(BuildGradeField());
+
         if (required.Contains("Length (specific or random)"))
             AddRequiredField(new RequiredFieldInput("Length (specific or random)"));
 
@@ -181,6 +189,49 @@ private void ToggleAllOrdering(object? parameter)
 
         if (required.Contains("End Finish"))
             AddRequiredField(BuildEndFinishField(spec.SpecDesignation));
+
+        if (required.Contains("Manufacture (seamless/welded)"))
+            AddRequiredField(BuildManufactureField());
+
+        if (required.Contains("Test Report"))
+            AddRequiredField(new RequiredFieldInput("Test Report"));
+    }
+
+    private RequiredFieldInput BuildGradeField()
+    {
+        var field = new RequiredFieldInput("Grade / Class / Type");
+        var options = AvailableGrades
+            .Where(grade => !string.IsNullOrWhiteSpace(grade))
+            .Distinct(StringComparer.OrdinalIgnoreCase)
+            .ToList();
+
+        if (options.Count > 0)
+        {
+            options.Insert(0, "");
+            field.Options = new ObservableCollection<string>(options);
+        }
+
+        field.Value = SelectedGrade;
+        return field;
+    }
+
+    private static RequiredFieldInput BuildManufactureField()
+    {
+        var options = new[]
+        {
+            "",
+            "Seamless",
+            "Welded",
+            "Electric-resistance welded",
+            "Electric-fusion welded",
+            "Hot-finished",
+            "Cold-drawn"
+        };
+
+        return new RequiredFieldInput("Manufacture (seamless/welded)")
+        {
+            Options = new ObservableCollection<string>(options)
+        };
     }
 
     private RequiredFieldInput BuildEndFinishField(string spec)
@@ -230,7 +281,13 @@ private void ToggleAllOrdering(object? parameter)
         field.PropertyChanged += (_, args) =>
         {
             if (args.PropertyName == nameof(RequiredFieldInput.Value))
+            {
+                if (string.Equals(field.Label, "Grade / Class / Type", StringComparison.OrdinalIgnoreCase)
+                    && SelectedGrade != field.Value)
+                    SelectedGrade = field.Value;
+
                 Regenerate();
+            }
         };
 
         RequiredFields.Add(field);

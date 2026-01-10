@@ -14,5 +14,8 @@
   "bestTextPath": "best_text/pages/page-1206.txt",
   "bestTextSource": "pass1",
   "bestTextLength": 1380,
-  "bestTextAlphaRatio": 0.7196
+  "bestTextAlphaRatio": 0.7196,
+  "camelotTablesPath": "camelot_tables/page-1206.json",
+  "camelotTablesCsv": "camelot_tables/page-1206.csv",
+  "camelotTableCount": 1
 }

@@ -21,5 +21,8 @@
     "Note 2\u2014The role of alloying elements in the development of Grade"
   ],
   "gapOcrHighDpiPath": "gap_ocr_highdpi/page-1610.txt",
-  "gapOcrHighDpiLength": 5411
+  "gapOcrHighDpiLength": 5411,
+  "camelotTablesPath": "camelot_tables/page-1610.json",
+  "camelotTablesCsv": "camelot_tables/page-1610.csv",
+  "camelotTableCount": 2
 }

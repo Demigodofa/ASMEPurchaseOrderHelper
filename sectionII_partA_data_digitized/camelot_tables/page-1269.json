@@ -1,0 +1,496 @@
+[
+  {
+    "rows": [
+      [
+        "4.1  The steel shall be made by one or more of the following",
+        "same time  as  the  forging  it represents,  subject to  the require"
+      ],
+      [
+        "processes:  open-hearth,  basic-oxygen,  or electric-furnace,  and",
+        "ments  of 7 .1.2.1."
+      ],
+      [
+        "shall be fully  killed,  fine-grain  practice.",
+        ""
+      ],
+      [
+        "4.2  Forgings  shall  be  manufactured  froni  ingots,  blooms,",
+        ""
+      ],
+      [
+        "billets,  slabs,  or bars.  These  items  shall  be  forged,  rolled,  or",
+        "TABLE  1 Chemical  Requirements"
+      ],
+      [
+        "strandcast.",
+        "Elements \nComposition, %"
+      ],
+      [
+        "",
+        "Carbon"
+      ],
+      [
+        "4.3  A  sufficient  discard  shall  be  made  from  the  ingot  to",
+        ""
+      ],
+      [
+        "",
+        "Heat Analysis \n0.25 max"
+      ],
+      [
+        "secure freedom from injurious piping  and undue  segregation.",
+        "0.28 max \nProduct Analysis"
+      ],
+      [
+        "",
+        "Manganese"
+      ],
+      [
+        "4.4  The finished product shall be a forging as defined by the",
+        ""
+      ],
+      [
+        "",
+        "Heat Analysis \n0.90 to  1.35"
+      ],
+      [
+        "Terminology  section of Specification A788/A788M.",
+        "0.84 to  1.41 \nProduct Analysis"
+      ],
+      [
+        "",
+        "Phosphorus"
+      ],
+      [
+        "",
+        "Heat Analysis \n0.035 max"
+      ],
+      [
+        "5.  Heat Treatment",
+        ""
+      ],
+      [
+        "",
+        "Product Analysis \n0.043 max"
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "5.1  Following  plastic  working, \nthe  forging  manufacturer",
+        "Sulfur"
+      ],
+      [
+        "",
+        "Heat Analysis \n0.025 max"
+      ],
+      [
+        "shall heat treat the forgings by normalizing, or normalizing and",
+        ""
+      ],
+      [
+        "",
+        "Product Analysis \n0.033 max"
+      ],
+      [
+        "tempering,  or quenching  and tempering.",
+        "Silicon"
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "5.1.1  Normalizing-The  procedure  for  normalizing  shall",
+        "Heat Analysis \n0.15 to 0.30"
+      ],
+      [
+        "",
+        "Product Analysis \n0.13 to 0.32"
+      ],
+      [
+        "consist  of  uniformly  heating  the  forgings \nto  a  temperature",
+        ""
+      ],
+      [
+        "",
+        "Nickel"
+      ],
+      [
+        "between  1550  and  1700  \u00b0F  [845  and  925 \n\u00b0C],  holding  a",
+        "0.40A \nHeat Analysis"
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "sufficient  time  to  attain  uniform  temperature  throughout,  and",
+        "Product Analysis \n0.43"
+      ],
+      [
+        "",
+        "Chromium"
+      ],
+      [
+        "cooling in still air. The forging shall be at a temperature below",
+        ""
+      ],
+      [
+        "",
+        "0.3QA\u2022 8 \nHeat Analysis"
+      ],
+      [
+        "1000 \u00b0F  [540  \u00b0C]  before heating for normalizing.",
+        "Product Analysis \n0.34"
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "5.1.2  Quenching-The  procedure  for  quenching  shall  con",
+        "Molybdenum"
+      ],
+      [
+        "",
+        "0.12A.B \nHeat Analysis"
+      ],
+      [
+        "sist of uniformly heating the forging  to a temperature between",
+        ""
+      ],
+      [
+        "",
+        "Product Analysis \n0.13"
+      ],
+      [
+        "1550 and  1700 \u00b0P [845  and 925  \u00b0C],  holding a sufficient time",
+        "Copper"
+      ],
+      [
+        "",
+        "0.40A \nHeat Analysis"
+      ],
+      [
+        "to attain uniform temperature throughout, and quenching into a",
+        ""
+      ],
+      [
+        "",
+        "Product Analysis \n0.43"
+      ],
+      [
+        "suitable liquid medium.  The forging  shall be  at a temperature",
+        "Niobium  (Nb)c"
+      ],
+      [
+        "below  1000  \u00b0F  [540  \u00b0C]  before heating for  quenching.",
+        "Heat Analysis \n0.02"
+      ],
+      [
+        "",
+        "Product Analysis \n0.03"
+      ],
+      [
+        "5 .1.3  Tempering-The procedure for tempering shall consist",
+        ""
+      ],
+      [
+        "",
+        "Vanadium"
+      ],
+      [
+        "of reheating the forging  subsequent to normalizing or quench",
+        ""
+      ],
+      [
+        "",
+        "Heat Analysis \n0.05"
+      ],
+      [
+        "ing to a temperature of at least 1100 \u00b0P [595  \u00b0C], but not above",
+        "Product Analysis \n0.055"
+      ],
+      [
+        "the \nlower \ntransformation \ntemperature, \nfor  30  min/in. \n[30",
+        "A The sum of copper,  nickel, chromium and  molybdenum shall not exceed 1.00 %"
+      ]
+    ]
+  },
+  {
+    "rows": [
+      [
+        "ASME  BPVC.II.A-2025 \nSA-727 /SA-727M"
+      ],
+      [
+        "605 Large Diameter Carbon Steel Flanges \nmin/25  mm]  of maximum  section  thickness,  with  minimum"
+      ],
+      [
+        "holding time at tempering  temperature not less  than 30 min. \n2.5  MSS Standard:"
+      ],
+      [
+        "MSS  SP-25 Standard Marking  System for  Valves,  Fittings,"
+      ],
+      [
+        "6.  Chemical  Composition"
+      ],
+      [
+        "Flanges,  and  Unions"
+      ],
+      [
+        "6.1  The \nsteel  shall  conform \nto \nthe \nrequirements  as \nto"
+      ],
+      [
+        "3.  General  Requirements  and Ordering Information"
+      ],
+      [
+        "chemical composition prescribed in Table  1."
+      ],
+      [
+        "3.1  Product furnished  to  this  specification shall conform to"
+      ],
+      [
+        "6.2  Steels to  which lead has  been added  shall not be used."
+      ],
+      [
+        "the requirements of Specification A961/A961M, including any"
+      ],
+      [
+        "supplementary requirements that are indicated in the purchase \n7.  Mechanical Requirements"
+      ],
+      [
+        "order. Failure to comply with the requirements of Specification"
+      ],
+      [
+        "7.1  Tension  Tests:"
+      ],
+      [
+        "A961/A961M constitutes nonconformance with this specifica"
+      ],
+      [
+        "7. I. I  Requirements-The material shall conform to require"
+      ],
+      [
+        "tion.  In case  of a  conflict  between  the  requirements  of this"
+      ],
+      [
+        "ments  for  tensile properties prescribed in Table  2."
+      ],
+      [
+        "specification and Specification A961/A961M, this specification"
+      ],
+      [
+        "7 .1.1.1  The test specimen shall be obtained from a rough or"
+      ],
+      [
+        "shall prevail."
+      ],
+      [
+        "finished production forging,  or prolongation thereof,  or it may"
+      ],
+      [
+        "3.2  It  is \nthe  purchaser's  responsibility \nto  specify \nin  the \nbe obtained from  separately forged test blanks  from  the  same"
+      ],
+      [
+        "purchase order all ordering information necessary to  purchase \nheat of steel as  the production forging.  The test blank shall be"
+      ],
+      [
+        "the needed material. Examples of such information include but \nreduced by forging in a manner similar to that for the products"
+      ],
+      [
+        "are  not limited to  the  following: \nrepresented, shall receive approximately the same hot working"
+      ],
+      [
+        "3.2.1  Additional requirements  (see  16.1). \nand reduction,  be of the  same nominal  thickness,  and receive"
+      ],
+      [
+        "the  same  heat treatment  as  the  finished  products  represented."
+      ],
+      [
+        "4.  Materials and Manufacture"
+      ],
+      [
+        "The  test  material  shall  be  treated  in  the  same  furnace  at  the"
+      ],
+      [
+        "same time  as  the  forging  it represents,  subject to  the require \n4.1  The steel shall be made by one or more of the following"
+      ],
+      [
+        "ments  of 7 .1.2.1. \nprocesses:  open-hearth,  basic-oxygen,  or electric-furnace,  and"
+      ],
+      [
+        "shall be fully  killed,  fine-grain  practice."
+      ],
+      [
+        "4.2  Forgings  shall  be  manufactured  froni  ingots,  blooms,"
+      ],
+      [
+        "TABLE  1 Chemical  Requirements \nbillets,  slabs,  or bars.  These  items  shall  be  forged,  rolled,  or"
+      ],
+      [
+        "strandcast. \nElements \nComposition, %"
+      ],
+      [
+        "Carbon"
+      ],
+      [
+        "4.3  A  sufficient  discard  shall  be  made  from  the  ingot  to"
+      ],
+      [
+        "Heat Analysis \n0.25 max"
+      ],
+      [
+        "secure freedom from injurious piping  and undue  segregation. \n0.28 max \nProduct Analysis"
+      ],
+      [
+        "Manganese"
+      ],
+      [
+        "4.4  The finished product shall be a forging as defined by the"
+      ],
+      [
+        "Heat Analysis \n0.90 to  1.35"
+      ],
+      [
+        "Terminology  section of Specification A788/A788M. \n0.84 to  1.41 \nProduct Analysis"
+      ],
+      [
+        "Phosphorus"
+      ],
+      [
+        "Heat Analysis \n0.035 max"
+      ],
+      [
+        "5.  Heat Treatment"
+      ],
+      [
+        "Product Analysis \n0.043 max"
+      ],
+      [
+        ""
+      ],
+      [
+        "Sulfur \n5.1  Following  plastic  working, \nthe  forging  manufacturer"
+      ],
+      [
+        "Heat Analysis \n0.025 max"
+      ],
+      [
+        "shall heat treat the forgings by normalizing, or normalizing and"
+      ],
+      [
+        "Product Analysis \n0.033 max"
+      ],
+      [
+        "tempering,  or quenching  and tempering. \nSilicon"
+      ],
+      [
+        ""
+      ],
+      [
+        "Heat Analysis \n0.15 to 0.30 \n5.1.1  Normalizing-The  procedure  for  normalizing  shall"
+      ],
+      [
+        "Product Analysis \n0.13 to 0.32"
+      ],
+      [
+        "consist  of  uniformly  heating  the  forgings \nto  a  temperature"
+      ],
+      [
+        "Nickel"
+      ],
+      [
+        "0.40A \nbetween  1550  and  1700  \u00b0F  [845  and  925 \n\u00b0C],  holding  a \nHeat Analysis"
+      ],
+      [
+        ""
+      ],
+      [
+        "Product Analysis \n0.43 \nsufficient  time  to  attain  uniform  temperature  throughout,  and"
+      ],
+      [
+        "Chromium"
+      ],
+      [
+        "cooling in still air. The forging shall be at a temperature below"
+      ],
+      [
+        "0.3QA\u2022 8 \nHeat Analysis"
+      ],
+      [
+        "1000 \u00b0F  [540  \u00b0C]  before heating for normalizing. \nProduct Analysis \n0.34"
+      ],
+      [
+        ""
+      ],
+      [
+        "Molybdenum \n5.1.2  Quenching-The  procedure  for  quenching  shall  con"
+      ],
+      [
+        "0.12A.B \nHeat Analysis"
+      ],
+      [
+        "sist of uniformly heating the forging  to a temperature between"
+      ],
+      [
+        "Product Analysis \n0.13"
+      ],
+      [
+        "Copper \n1550 and  1700 \u00b0P [845  and 925  \u00b0C],  holding a sufficient time"
+      ],
+      [
+        "0.40A \nHeat Analysis"
+      ],
+      [
+        "to attain uniform temperature throughout, and quenching into a"
+      ],
+      [
+        "Product Analysis \n0.43"
+      ],
+      [
+        "suitable liquid medium.  The forging  shall be  at a temperature \nNiobium  (Nb)c"
+      ],
+      [
+        "Heat Analysis \n0.02 \nbelow  1000  \u00b0F  [540  \u00b0C]  before heating for  quenching."
+      ],
+      [
+        "Product Analysis \n0.03"
+      ],
+      [
+        "5 .1.3  Tempering-The procedure for tempering shall consist"
+      ],
+      [
+        "Vanadium"
+      ],
+      [
+        "of reheating the forging  subsequent to normalizing or quench"
+      ],
+      [
+        "Heat Analysis \n0.05"
+      ],
+      [
+        "Product Analysis \n0.055 \ning to a temperature of at least 1100 \u00b0P [595  \u00b0C], but not above"
+      ],
+      [
+        "the \nlower \ntransformation \ntemperature, \nfor  30  min/in. \n[30 \nA The sum of copper,  nickel, chromium and  molybdenum shall not exceed 1.00 %"
+      ],
+      [
+        "on  heat analysis."
+      ],
+      [
+        "8 The  sum  of  chromium  and  molybdenum  shall  not  exceed  0.32 %  on  heat"
+      ],
+      [
+        "analysis."
+      ],
+      [
+        "c Niobium and columbium  are  interchangeable names for the same element and"
+      ],
+      [
+        "both names are  acceptable for use in  A01.22 specifications."
+      ]
+    ]
+  }
+]
