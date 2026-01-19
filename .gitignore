@@ -25,3 +25,13 @@ data/
 *.pdf
 *.bak
 startup-error.txt
+
+# Digitization raster/OCR caches
+sectionII_partA_data_digitized/full_ocr_highdpi/raster/
+sectionII_partA_data_digitized/raster_poppler/
+sectionII_partA_data_digitized/missing_target_ocr_focus/
+sectionII_partA_data_digitized/raster_low_conf/
+sectionII_partA_data_digitized/toc_raster/
+sectionII_partA_data_digitized/gap_ocr_highdpi/
+sectionII_partA_data_digitized/note_ocr_highdpi/
+sectionII_partA_data_digitized/tesseract_abbyy/
