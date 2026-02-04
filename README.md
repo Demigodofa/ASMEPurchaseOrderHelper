@@ -1,6 +1,6 @@
 # ASMEPurchaseOrderHelper
 
-PC UI tool to help purchasing agents generate correct ASME purchase orders. The app will extract ASME material requirements from OCR-processed PDFs and store structured metadata locally for fast lookup and form auto-population.
+PC UI tool to help purchasing agents generate correct ASME purchase orders. The active desktop flow reads normalized ASME JSONL data, applies policy rules, and generates copy-ready/exportable PO content.
 
 ## Source of truth (for agents/bots)
 This README is the source of truth for rules, orientation, and guidance. The owner may use loose or exact language; if there is any ambiguity, confirm intent. Example: if they say "ordering requirements," confirm they mean "Ordering Information" (the official section name used in the PDFs).
@@ -476,75 +476,75 @@ Current PDF paths used by the ingest CLI:
 - Reliable extraction from scattered PDF content (layered/iterative approach).
 - Local storage that stays fast and responsive as data grows.
 
-## Planned UI
-- WPF desktop interface (single-pane, already roughed out).
-- Windows 10/11 only.
-- Mix of search, auto-populate, and dropdowns (to be finalized after data ingestion).
-- Current UI wiring:
-  - Spec selection and Spec Type (blank/SA/A).
-  - ASTM equivalent display.
-  - Ordering Requirements checklist (from extracted Ordering Information text).
-  - Required Fields section (Quantity, Length, Size/OD/Thickness, End Finish) with prompts.
-  - PO text preview that includes required fields and ordering requirements.
+## Current UI (normalized JSONL mode)
+- WPF desktop interface (Windows 10/11) now runs directly from normalized JSONL data.
+- Top-level context includes:
+  - Code Use checkbox (`code_use`)
+  - Governing standard dropdown (`governing_standard`) + "Other (specify)" textbox
+  - MTR Required checkbox (`mtr_required`) with policy lock behavior
+- Searchable ASME spec selector is populated from `record_type="spec_definition"` rows.
+- Dynamic form renderer builds controls from `ordering_fields[]` and `input_type`.
+- PO preview panel supports live regeneration and copy-to-clipboard.
+- Export writes both:
+  - structured JSON export
+  - plain text PO output (`.txt`)
 
-## Suggested approach
-- Parsing: staged extraction (start with a minimal set of fields, expand coverage).
-- Storage: structured local database for fast lookups (likely SQLite).
-- Validation: enforce required ASME PO fields per material.
-- Data location: store the user data file in `%LocalAppData%\ASMEPurchaseOrderHelper\` for write access and easy updates.
-- Updates: ship a new EXE + bundled data; on run, migrate/replace the local data file if newer.
-- Data layout (to keep it fast and non-brittle):
-  - `Materials` table: `SpecDesignation`, `SpecPrefix`, `SpecNumber`, `AstmSpec`, `AstmYear`, `AstmNote`, `Category`, and other core fields.
-  - `MaterialGrades` table: `SpecDesignation`, `Grade`.
-  - `MaterialNotes` table: `SpecDesignation`, `Note`.
-  - This keeps the data normalized, avoids duplication, and scales well as fields grow.
+## Current implementation architecture
+- Data loading + validation:
+  - `PoApp.Core/Services/NormalizedAsmeDataLoader.cs`
+  - validates required record fields and schema shape
+- Rules engine:
+  - `PoApp.Core/Services/GlobalPolicyEngine.cs`
+  - supports `code_use == true/false` and `governing_standard IN/NOT IN <enum>`
+- PO composition:
+  - `PoApp.Core/Services/PurchaseOrderBuilder.cs`
+  - emits 4-section PO text + structured export payload
+- Required field checks:
+  - `PoApp.Core/Services/RequiredFieldValidator.cs`
+- Desktop wiring:
+  - `PoApp.Desktop/ViewModels/MainViewModel.cs`
+  - `PoApp.Desktop/MainWindow.xaml`
 
 ## Configuration
-- `PoApp.Desktop/appsettings.json` -> `Paths:PdfSourceRoot` for the local OCR PDF folder.
-- `PoApp.Ingest.Cli/appsettings.json` -> `Paths:PdfSourceRoot` for ingestion runs.
-- If left blank, the app defaults to the current user's Desktop folder.
-- Optional: `Paths:PdfFiles` to list specific PDF file paths (overrides folder scan).
-- Optional: `Ingest:ExpectedSpecs` to report missing specs after ingest.
-- Optional: `Ingest:ScanMissingSpecs` to scan PDFs for any mentions of missing specs (diagnostic mode).
+- Desktop app resolves files by searching upward for:
+  - `data/normalized_asme_partA_specs.jsonl`
+  - `data/normalized_asme_po_schema.json`
+- Build instructions reference:
+  - `data/CODEX_BUILD_INSTRUCTIONS_ASME_PO_ASSISTANT.md`
+- `PoApp.Ingest.Cli/appsettings.json` PDF settings remain for legacy ingest workflows only.
 
-## Ingest output
-- Active PO assistant data files:
+## App data/output
+- Active assistant inputs:
   - `data/normalized_asme_po_schema.json`
   - `data/normalized_asme_partA_specs.jsonl`
   - `data/CODEX_BUILD_INSTRUCTIONS_ASME_PO_ASSISTANT.md`
-- Legacy ingest outputs (materials, ordering exports, digitized corpus) are archived in:
+- App export output (via UI Export button):
+  - `<chosen-file>.json`
+  - `<chosen-file>.txt`
+- Legacy ingest/corpus outputs are archived in:
   - `old_data/data/`
   - `old_data/sectionII_partA_data_digitized/`
 
 ## Open questions
-- Do we want a formal data schema now, or evolve it as we ingest?
-- What is the minimum set of fields needed for a first usable version?
+- Should `required_when` graduate from display hint to fully evaluable expressions?
+- Do we want stricter typed validation for `input_type` (number, enum, units) before export?
+- Should user defaults (code use, governing standard, export folder) persist between sessions?
 
-## Parsing notes (current behavior)
-- Ordering Information is extracted from each material section using the "Ordering Information" heading and its numbered sub-items.
-- Table of Contents extraction is used to avoid false spec headers and to improve detection.
-- End finish rules:
-  - Any Ordering Information referencing `A999/A999M` is treated as "Plain ends unless specified."
-  - Any Ordering Information stating "plain or threaded" yields dropdown options.
-  - Other spec-specific end finish rules are captured verbatim in `data/end-finish-normalized.json`.
-
-## Parsing notes (current ingest truths)
-- Ordering Information detection uses a section header like `3. Ordering Information` (any section number).
-- The extraction boundary ends at the next top-level section header (e.g., `4. Scope`), based on a numeric header plus capitalized title.
-- Ordering Information items are only captured when they start with the same section number prefix (e.g., `3.1`, `3.1.1`).
-- The ingest concatenates all pages for a spec before extracting Ordering Information items.
-- TOC extraction is used only to filter valid spec headers; page ranges are not used yet.
+## Parsing notes
+- Current desktop assistant does not parse PDFs directly; it consumes normalized JSONL records.
+- Legacy PDF parsing and OCR workflows remain available in scripts and `old_data/` history.
+- `PoApp.Core/Services/OrderingInfoExtractor.cs` remains for legacy/compatibility test coverage.
 
 ## UI data flow (current behavior)
-- Selecting a spec populates:
-  - Ordering requirements list (from `OrderingInfoItems`).
-  - Required fields (Quantity, Length, Size/OD/Thickness, End Finish) based on `data/ordering-required-fields.json`.
-  - End finish notes or options based on `data/end-finish-normalized.json`.
-- PO output includes:
-  - Material designation (SA/A).
-  - ASTM equivalence note/year logic.
-  - Selected ordering requirements.
-  - Required fields with prompts or provided values.
+- Select context (`code_use`, `governing_standard`) and spec (`asme_spec`).
+- ViewModel evaluates global policy and applies/locks `mtr_required` when rules match.
+- Dynamic ordering fields are rendered from `ordering_fields[]`.
+- Required fields without `required_when` must be filled before export.
+- Generated PO includes:
+  - Line Item Header
+  - Ordering Requirements
+  - Supplementary Requirements
+  - Compliance Notes
 
 ## Agent autonomy (standing instruction)
 - The agent may run commands, edit files, refactor code, commit, and push without asking.
@@ -552,37 +552,29 @@ Current PDF paths used by the ingest CLI:
 - Do not commit build artifacts or copyrighted PDF content.
 
 ## Next steps
-- Expand `rebuild/spec_corpus_part_a_complete_v4` to cover the remaining SA specs (current merged count is 60); identify which sources hold the missing specs and merge them additively.
-- Use TOC page ranges to capture missing Ordering Information for specs that still have none.
-- Expand required-field mapping to additional common requirements (grade, type, welded/seamless, test reports, etc.).
-- Wire required-field prompts to the final UI layout and PO output formatting.
-- Review pass 13 flags to prioritize targeted OCR/table passes (note gaps likely need tighter matching).
-- Run pass 14 to recheck OCR text and only accept >=95% anchored matches.
-- Handoff: add missing specs (SA-6, SA-29, SA-53, SA-178, SA-179, SA-182, SA-192, SA-193, SA-194, SA-209, SA-210, SA-213) to `toc_index_pass10.json` so they persist in `spec_corpus` exports.
-- Handoff: decide whether to lower ABBYY similarity threshold for Part B to capture more matches, then re-run similarity merge and re-export.
+- Implement full `required_when` expression evaluation (currently shown as "Required when applicable").
+- Add stronger type-aware input validation for `number`, `number_with_unit`, and `enum` patterns.
+- Improve spec picker UX (faster filtering, keyboard-first search, optional pinned/favorites list).
+- Add settings persistence for user defaults (governing standard, code use, export path).
+- Expand supplementary requirements behavior (SR-specific purchaser prompts and richer catalogs).
+- Add a release checklist for packaging desktop app + bundled normalized data updates.
 
-## Materials coverage (current progress)
-- Specs total: 183
-- Ordering Information captured: 112 specs
-- Ordering Information missing: 71 specs
-- Required-field map entries: 183 specs
-- Ordering requirement status coverage (true counts):
-  - Quantity: 31
-  - Length: 24
-  - Size/OD/Thickness: 12
-  - End Finish Required: 20
-  - End Finish Rule Mapped: 20
-- Sample missing Ordering Information specs:
-  - SA-1010, SA-1017, SA-1017M, SA-1058, SA-181, SA-192, SA-193, SA-203, SA-204, SA-209, SA-225, SA-240, SA-250, SA-283, SA-285, SA-29, SA-299, SA-302, SA-353, SA-36, SA-370, SA-387, SA-387M, SA-4, SA-403
+## Materials coverage snapshot (normalized dataset)
+- Snapshot date: 2026-02-04
+- `global_policy` records: 1
+- `spec_definition` records: 125
+- Specs with at least one `ordering_fields` item: 105
+- Specs with zero `ordering_fields` items: 20
+- Specs with non-empty `rules` arrays: 11
 
-## Quality & testing plan (to implement next)
-- Static analysis:
-  - Enable .NET analyzers (`<AnalysisLevel>latest</AnalysisLevel>`).
-  - Turn on `TreatWarningsAsErrors` once the warnings are under control.
-- Unit tests (xUnit):
-  - Target parsing and mapping logic first (Ordering Information extraction, end-finish normalization, required-field tagging).
-- Integration tests:
-  - Ingest CLI end-to-end against a known PDF set; verify output shape and counts.
-- UI automation & stress testing:
-  - Use **FlaUI** (preferred over WinAppDriver because it is pure .NET, actively maintained, and does not require a separate Windows driver install).
-  - Add a UI test harness that rapidly changes selections, fills fields, clears values, and copies output to simulate heavy user interaction.
+## Quality & testing status
+- Current test status: `dotnet test PoApp.Tests` passes (10 tests total).
+- Covered areas:
+  - legacy ordering extractor behavior
+  - normalized JSONL loader + validation
+  - global policy rule evaluation
+  - PO builder/export payload and required-field validation
+- Next quality steps:
+  - integration tests for full normalized dataset load and export round-trip
+  - UI automation/stress tests (FlaUI)
+  - optional stricter analyzer policy once warning baseline is stable
