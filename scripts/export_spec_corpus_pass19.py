@@ -14,6 +14,7 @@ BEST_TEXT_DIR = DATA / "best_text" / "pages"
 TABLES_TABULA_DIR = DATA / "tables_tabula"
 CAMELLOT_DIR = DATA / "camelot_tables"
 NOTE_TARGET_DIR = DATA / "note_target_ocr"
+FOOTER_PAGE_RE = re.compile(r"^\d{1,4}$")
 
 
 def load_json(path):
@@ -65,6 +66,19 @@ def gather_page_assets(global_idx):
     return assets
 
 
+def extract_footer_page_number(text):
+    if not text:
+        return None
+    lines = text.replace("\r\n", "\n").split("\n")
+    for line in reversed(lines):
+        line = line.strip()
+        if not line:
+            continue
+        if FOOTER_PAGE_RE.match(line):
+            return int(line)
+    return None
+
+
 
 
 def main():
@@ -88,11 +102,13 @@ def main():
             if text_path.exists():
                 text = text_path.read_text(encoding="utf-8", errors="ignore")
             assets = gather_page_assets(idx)
+            footer_page_number = extract_footer_page_number(text)
             spec_pages.append(
                 {
                     "globalPageIndex": idx,
                     "sourcePdf": page["sourcePdf"],
                     "sourcePageNumber": page["sourcePageNumber"],
+                    "footerPageNumber": footer_page_number,
                     "textPath": str(text_path.relative_to(DATA)) if text_path.exists() else None,
                     "assets": assets,
                 }

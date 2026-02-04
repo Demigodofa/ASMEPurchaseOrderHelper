@@ -18,13 +18,20 @@ Thumbs.db
 .venv/
 staging/
 inputs/pdfs/
+inputs/originals/
 *.db
 *.sqlite
 *.sqlite3
-data/
+data/*
+!data/normalized_asme_po_schema.json
+!data/normalized_asme_partA_specs.jsonl
+!data/CODEX_BUILD_INSTRUCTIONS_ASME_PO_ASSISTANT.md
 *.pdf
 *.bak
 startup-error.txt
+old_data/
+tools/
+scripts/__pycache__/
 
 # Digitization raster/OCR caches
 sectionII_partA_data_digitized/full_ocr_highdpi/raster/
@@ -35,3 +42,4 @@ sectionII_partA_data_digitized/toc_raster/
 sectionII_partA_data_digitized/gap_ocr_highdpi/
 sectionII_partA_data_digitized/note_ocr_highdpi/
 sectionII_partA_data_digitized/tesseract_abbyy/
+sectionII_partA_data_digitized/rebuild/

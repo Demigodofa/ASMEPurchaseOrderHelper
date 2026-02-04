@@ -24,6 +24,10 @@ public partial class MainViewModel : ObservableObject
     [ObservableProperty] private string? selectedGrade;
     [ObservableProperty] private string astmDisplay = "";
     [ObservableProperty] private string generatedText = "";
+    [ObservableProperty] private bool hasOrderingInfo;
+    [ObservableProperty] private string orderingInfoStatus = "";
+    [ObservableProperty] private bool hasRequiredFields;
+    [ObservableProperty] private string requiredFieldsStatus = "";
 
     private readonly Dictionary<string, List<string>> requiredFieldMap;
     private readonly Dictionary<string, List<string>> endFinishRules;
@@ -52,6 +56,10 @@ public partial class MainViewModel : ObservableObject
             AstmDisplay = "";
             SelectedGrade = null;
             GeneratedText = "";
+            HasOrderingInfo = false;
+            OrderingInfoStatus = "";
+            HasRequiredFields = false;
+            RequiredFieldsStatus = "";
             return;
         }
 
@@ -71,6 +79,7 @@ public partial class MainViewModel : ObservableObject
             OrderingOptions.Add(new OrderingOption(item, isSelected: true));
 
         BuildRequiredFields(value);
+        UpdateFieldStatuses();
 
         Regenerate();
     }
@@ -172,7 +181,7 @@ private void ToggleAllOrdering(object? parameter)
     {
         RequiredFields.Clear();
 
-        if (!requiredFieldMap.TryGetValue(spec.SpecDesignation, out var required))
+        if (!requiredFieldMap.TryGetValue(spec.SpecDesignation, out var required) || required.Count == 0)
             return;
 
         if (required.Contains("Quantity"))
@@ -195,6 +204,30 @@ private void ToggleAllOrdering(object? parameter)
 
         if (required.Contains("Test Report"))
             AddRequiredField(new RequiredFieldInput("Test Report"));
+
+        if (required.Contains("Heat Treatment"))
+            AddRequiredField(new RequiredFieldInput("Heat Treatment"));
+
+        if (required.Contains("Impact Test / Toughness"))
+            AddRequiredField(new RequiredFieldInput("Impact Test / Toughness"));
+
+        if (required.Contains("NDE / Examination"))
+            AddRequiredField(new RequiredFieldInput("NDE / Examination"));
+
+        if (required.Contains("Supplementary Requirements"))
+            AddRequiredField(new RequiredFieldInput("Supplementary Requirements"));
+
+        if (required.Contains("Chemical Analysis"))
+            AddRequiredField(new RequiredFieldInput("Chemical Analysis"));
+    }
+
+    private void UpdateFieldStatuses()
+    {
+        HasOrderingInfo = OrderingOptions.Count > 0;
+        OrderingInfoStatus = HasOrderingInfo ? "" : "Ordering Information not captured yet.";
+
+        HasRequiredFields = RequiredFields.Count > 0;
+        RequiredFieldsStatus = HasRequiredFields ? "" : "Required fields not mapped yet.";
     }
 
     private RequiredFieldInput BuildGradeField()

@@ -1,0 +1,105 @@
+{
+    "GeneratedAt": "2026-01-23 17:08:41",
+    "FileCount": 9,
+    "Files": [
+        {
+            "FileName": "2025 ADOBE OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+            "RelativePath": "inputs/originals/2025 ADOBE OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf",
+            "SourceEngine": "Adobe OCR",
+            "Part": "PartA",
+            "Format": "PDF",
+            "Bytes": 94778672,
+            "LastWriteTime": "2025-12-23 19:47:42",
+            "Sha256": "5A78C0B182C8418715F523D4121B8CBE57B417C90A0B3992644D1370D0811D26",
+            "OriginPath": "C:\\Users\\KevinPenfield\\Desktop\\\\ABBYY Scans\\2025 ADOBE OCR ASME SECT II MATERIALS PART A SA-451 TO END.pdf"
+        },
+        {
+            "FileName": "2025 ADOBE OCR SECT II PART A BEGINNING TO SA-450.pdf",
+            "RelativePath": "inputs/originals/2025 ADOBE OCR SECT II PART A BEGINNING TO SA-450.pdf",
+            "SourceEngine": "Adobe OCR",
+            "Part": "PartA",
+            "Format": "PDF",
+            "Bytes": 83720365,
+            "LastWriteTime": "2026-01-06 18:49:57",
+            "Sha256": "69D2FCF91602C1008500AF7ECAF1FA6CCD7907A66C90EBEB9E71F2516D1447AC",
+            "OriginPath": "C:\\Users\\KevinPenfield\\Desktop\\\\ABBYY Scans\\2025 ADOBE OCR SECT II PART A BEGINNING TO SA-450.pdf"
+        },
+        {
+            "FileName": "2025 OCR SECT II PART A BEGINNING TO SA-4501.docx",
+            "RelativePath": "inputs/originals/2025 OCR SECT II PART A BEGINNING TO SA-4501.docx",
+            "SourceEngine": "ABBYY",
+            "Part": "PartA",
+            "Format": "DOCX",
+            "Bytes": 3711171,
+            "LastWriteTime": "2026-01-12 09:09:54",
+            "Sha256": "905FC1D17C41D1C5547B1192F5C32347FAB89C478FDB23723388454DCB81DD82",
+            "OriginPath": "C:\\\\Users\\\\KevinPenfield\\\\source\\\\repos\\\\Demigodofa\\\\ASMEPurchaseOrderHelper\\sectionII_partA_data_digitized\\\\ABBYY Scans\\2025 OCR SECT II PART A BEGINNING TO SA-4501.docx"
+        },
+        {
+            "FileName": "2025 OCR SectII first half.pdf",
+            "RelativePath": "inputs/originals/2025 OCR SectII first half.pdf",
+            "SourceEngine": "ABBYY",
+            "Part": "PartA",
+            "Format": "PDF",
+            "Bytes": 130898460,
+            "LastWriteTime": "2026-01-19 11:39:33",
+            "Sha256": "F9666D4C89DA9534484B9B19E112290B1F4C5BDDB994DC822FCFAEA29CE14B40",
+            "OriginPath": "C:\\Users\\KevinPenfield\\Desktop\\\\ABBYY Scans\\2025 OCR SectII first half.pdf"
+        },
+        {
+            "FileName": "2025 OCR SECTION II PART B .docx",
+            "RelativePath": "inputs/originals/2025 OCR SECTION II PART B .docx",
+            "SourceEngine": "ABBYY",
+            "Part": "PartB",
+            "Format": "DOCX",
+            "Bytes": 6388927,
+            "LastWriteTime": "2026-01-15 18:47:31",
+            "Sha256": "CDD97787CE2FBEBB13F2CB1C193480DB95B8DB8A94E5B312270A078363EE4983",
+            "OriginPath": "C:\\\\Users\\\\KevinPenfield\\\\source\\\\repos\\\\Demigodofa\\\\ASMEPurchaseOrderHelper\\sectionII_partA_data_digitized\\\\ABBYY Scans\\2025 OCR SECTION II PART B .docx"
+        },
+        {
+            "FileName": "2025 OCR SECTION II PART B .pdf",
+            "RelativePath": "inputs/originals/2025 OCR SECTION II PART B .pdf",
+            "SourceEngine": "ABBYY",
+            "Part": "PartB",
+            "Format": "PDF",
+            "Bytes": 125246033,
+            "LastWriteTime": "2025-12-23 19:47:40",
+            "Sha256": "EA67A537D3D2042E63738394BB385781A7318E70A62F1D47FAA8CFBAE731BB94",
+            "OriginPath": "C:\\Users\\KevinPenfield\\Desktop\\\\ABBYY Scans\\2025 OCR SECTION II PART B .pdf"
+        },
+        {
+            "FileName": "Greyscale section A beginning Part II.docx",
+            "RelativePath": "inputs/originals/Greyscale section A beginning Part II.docx",
+            "SourceEngine": "ABBYY",
+            "Part": "Unknown",
+            "Format": "DOCX",
+            "Bytes": 4656029,
+            "LastWriteTime": "2026-01-14 18:54:37",
+            "Sha256": "9C656577363CC65074045692E1D645FEABD286BBFD63E4F29D0DD86129B4C232",
+            "OriginPath": "C:\\\\Users\\\\KevinPenfield\\\\source\\\\repos\\\\Demigodofa\\\\ASMEPurchaseOrderHelper\\sectionII_partA_data_digitized\\\\ABBYY Scans\\Greyscale section A beginning Part II.docx"
+        },
+        {
+            "FileName": "SECT II PART A BEGINNING TO SA-450table of contents single page.docx",
+            "RelativePath": "inputs/originals/SECT II PART A BEGINNING TO SA-450table of contents single page.docx",
+            "SourceEngine": "ABBYY",
+            "Part": "PartA",
+            "Format": "DOCX",
+            "Bytes": 5868,
+            "LastWriteTime": "2026-01-15 17:08:11",
+            "Sha256": "BA26A7A01A1FA8E6C4724616BB555D96136769DE90190C8C947515943246B691",
+            "OriginPath": "C:\\\\Users\\\\KevinPenfield\\\\source\\\\repos\\\\Demigodofa\\\\ASMEPurchaseOrderHelper\\sectionII_partA_data_digitized\\\\ABBYY Scans\\SECT II PART A BEGINNING TO SA-450table of contents single page.docx"
+        },
+        {
+            "FileName": "ABBYY Section II Part A second half.pdf",
+            "RelativePath": "inputs/originals/ABBYY Section II Part A second half.pdf",
+            "SourceEngine": "ABBYY",
+            "Part": "PartA",
+            "Format": "PDF",
+            "Bytes": 130898460,
+            "LastWriteTime": "2026-01-23 17:03:34",
+            "Sha256": "5625A3E4DF689F8716E307E0D04814848DB2AA5D84505AF3683544FA6FDBDD79",
+            "OriginPath": "C:\\Users\\KevinPenfield\\Desktop\\ABBYY scans\\ABBYY Section II Part A second half.pdf"
+        }
+    ]
+}

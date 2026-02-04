@@ -4,6 +4,7 @@ using System.Text.RegularExpressions;
 using Microsoft.Extensions.Configuration;
 using PoApp.Core.Configuration;
 using PoApp.Core.Models;
+using PoApp.Core.Services;
 using UglyToad.PdfPig;
 using UglyToad.PdfPig.Content;
 
@@ -220,7 +221,7 @@ static void FinalizeOrderingInfo(
     string text,
     Dictionary<string, List<string>> orderingItemsBySpec)
 {
-    var items = ExtractOrderingItems(text);
+    var items = OrderingInfoExtractor.ExtractOrderingItems(text);
     if (items.Count == 0)
         return;
 
@@ -231,87 +232,6 @@ static void FinalizeOrderingInfo(
     }
 
     existing.AddRange(items);
-}
-
-static List<string> ExtractOrderingItems(string text)
-{
-    if (string.IsNullOrWhiteSpace(text))
-        return new List<string>();
-
-    var normalized = text.Replace("\r\n", "\n");
-    var headerMatches = Regex.Matches(
-        normalized,
-        @"(?s)(?<section>\d+)\s*\.\s*Ordering\s*Information",
-        RegexOptions.IgnoreCase);
-
-    var items = new List<string>();
-    foreach (Match headerMatch in headerMatches)
-    {
-        var section = headerMatch.Groups["section"].Value;
-        if (string.IsNullOrWhiteSpace(section))
-            continue;
-
-        var start = headerMatch.Index + headerMatch.Length;
-        var tail = normalized.Substring(start);
-        var nextSection = Regex.Match(tail, @"\b\d+\s*\.(?!\s*\d)\s+[A-Z]", RegexOptions.IgnoreCase);
-        var end = nextSection.Success ? start + nextSection.Index : normalized.Length;
-        if (end <= start)
-            continue;
-
-        var body = normalized.Substring(start, end - start);
-        items.AddRange(ParseOrderingItems(body, section));
-    }
-
-    return items;
-}
-
-static List<string> ParseOrderingItems(string text, string sectionNumber)
-{
-    var items = new List<string>();
-    if (string.IsNullOrWhiteSpace(text) || string.IsNullOrWhiteSpace(sectionNumber))
-        return items;
-
-    var normalized = NormalizeWhitespace(text);
-    var itemPattern = new Regex(
-        @"\b" + Regex.Escape(sectionNumber) + @"\s*\.\s*\d+(?:\s*\.\s*\d+)?\b",
-        RegexOptions.IgnoreCase);
-
-    var matches = itemPattern.Matches(normalized).Cast<Match>().ToList();
-    for (var i = 0; i < matches.Count; i++)
-    {
-        var start = matches[i].Index + matches[i].Length;
-        var end = (i + 1 < matches.Count) ? matches[i + 1].Index : normalized.Length;
-        if (end <= start)
-            continue;
-
-        var itemText = normalized.Substring(start, end - start).Trim();
-        if (itemText.Length == 0)
-            continue;
-
-        itemText = CleanOrderingItem(itemText);
-        if (itemText.Length == 0)
-            continue;
-
-        if (itemText.StartsWith("Information items to be considered", StringComparison.OrdinalIgnoreCase))
-            continue;
-
-        items.Add(itemText);
-    }
-
-    return items;
-}
-
-static string CleanOrderingItem(string text)
-{
-    if (string.IsNullOrWhiteSpace(text))
-        return string.Empty;
-
-    var cleaned = Regex.Replace(text, @"(\w)-\s+(\w)", "$1$2");
-    cleaned = Regex.Replace(cleaned, @"\bship-ment\b", "shipment", RegexOptions.IgnoreCase);
-    cleaned = Regex.Replace(cleaned, @"\bre-quirements\b", "requirements", RegexOptions.IgnoreCase);
-    cleaned = Regex.Replace(cleaned, @"\brequire-ments\b", "requirements", RegexOptions.IgnoreCase);
-    cleaned = Regex.Replace(cleaned, @"\s+\d+$", "");
-    return NormalizeWhitespace(cleaned);
 }
 
 static (string Spec, string Year, string Note) ExtractAstmEquivalent(string text)

@@ -4,6 +4,79 @@ PC UI tool to help purchasing agents generate correct ASME purchase orders. The 
 
 ## Source of truth (for agents/bots)
 This README is the source of truth for rules, orientation, and guidance. The owner may use loose or exact language; if there is any ambiguity, confirm intent. Example: if they say "ordering requirements," confirm they mean "Ordering Information" (the official section name used in the PDFs).
+## Codex Operating Contract (Authoritative)
+
+This README.md is the single source of truth for Codex.
+
+When Codex is running in this repository, it MUST:
+
+- Treat this file as binding instructions
+- Never invent file locations, schemas, or rules
+- Never delete or overwrite source artifacts unless explicitly instructed
+- Only operate within paths documented below
+- Ask before changing schemas, directory structure, or parsing strategy
+
+If instructions elsewhere conflict with this README, this README wins.
+
+## Active baseline (2026-02-04)
+- Active build inputs for the PO assistant now live in `data/`:
+  - `data/normalized_asme_po_schema.json`
+  - `data/normalized_asme_partA_specs.jsonl`
+  - `data/CODEX_BUILD_INSTRUCTIONS_ASME_PO_ASSISTANT.md`
+- Legacy OCR/corpus outputs are archived under `old_data/`:
+  - `old_data/data/`
+  - `old_data/sectionII_partA_data_digitized/`
+- Treat `old_data/` as historical reference. Do not delete unless explicitly requested.
+
+## Additional truth-sourcing workflow (additive)
+This is an additional course of action to source the truth; it does not replace or overwrite the current corpus.
+- Originals live in `inputs/originals/` (gitignored). Never overwrite or delete originals; keep `inputs/originals_manifest.json` updated with hashes and source tags.
+- Corpus merge helpers (additive, no overwrite):
+  - `scripts/merge_spec_corpus_complete.py` merges multiple spec corpora into a new output folder (example: `sectionII_partA_data_digitized/rebuild/spec_corpus_part_a_complete_v4`).
+  - `scripts/merge_spec_corpus.py` merges two corpora (primary wins for shared specs) into a new output folder (example: `sectionII_partA_data_digitized/rebuild/spec_corpus_part_a_merged_v1`).
+- Stage 0: build per-source page packets (raster + OCR text + word boxes + confidence + page number).
+- Stage 0 script: `scripts/build_page_packets_stage0.py`.
+- Stage 0 (DOCX) script: `scripts/build_docx_packets_stage0.py`.
+- Stage 1: align pages across sources by page number + header/footer anchors + text similarity.
+- Stage 1 script: `scripts/align_page_packets_stage1.py`.
+- Stage 1b: quilt numbered-item chunks within spec ranges to reduce cross-material drift.
+- Stage 1b script: `scripts/quilt_chunks_stage1b.py`.
+- Stage 1c: lock consensus chunks (no further swaps/reflow once locked).
+- Stage 1c script: `scripts/lock_chunks_stage1c.py`.
+- Stage 1d: classify unlocked chunk variants (no text changes).
+- Stage 1d script: `scripts/classify_chunk_variants_stage1d.py`.
+- Stage 1e: promote auto-resolvable variants into `best_text_promoted` (no reflow).
+- Stage 1e script: `scripts/promote_chunks_stage1e.py`.
+- Stage 1f: build human-review prioritization queue from review metadata.
+- Stage 1f script: `scripts/build_review_queue_stage1f.py`.
+- Stage 1g: rebuild review queue with subsection identifiers from classification metadata.
+- Stage 1g script: `scripts/build_review_queue_with_subsections_stage1g.py`.
+- Stage 1h: build review collapse map for review-once/apply-many groups.
+- Stage 1h script: `scripts/build_review_collapse_map_stage1h.py`.
+- Stage 1i: report top-N largest review groups from collapse map metadata.
+- Stage 1i script: `scripts/build_review_top_groups_stage1i.py`.
+- Stage 1j: build human approval intake templates for review groups.
+- Stage 1j script: `scripts/build_review_approval_templates_stage1j.py`.
+- Stage 1k: preview propagation impact from approval templates (dry-run only).
+- Stage 1k script: `scripts/preview_approval_propagation_stage1k.py`.
+- Stage 1l: apply approved groups to produce final frozen corpus.
+- Stage 1l script: `scripts/apply_approved_groups_stage1l.py`.
+- Freeze: `sectionII_partA_data_digitized/rebuild/final_freeze_manifest.json` blocks alignment/swapping/reclassification scripts.
+- Versioning: removing the freeze manifest starts a new revision cycle and requires a new version identifier (example v1.0.0 machine-only, v1.1.0 human-amended).
+- Freeze manifest should include corpus hashes (Part A + Part B), approval template hash, applied approvals count, and notes.
+- Review artifacts are historical evidence: review queues, collapse maps, approval templates, preview reports (treat read-only).
+- Comparison report: `scripts/compare_corpus_report.py` compares current spec_corpus text to final best_text outputs.
+- Review worksheet: `scripts/build_review_worksheet_stage1m.py` generates a fill-in sheet with chunk text + locations.
+- Boundary fix list: `scripts/build_boundary_fix_list_stage1n.py` parses worksheet notes into mapping suggestions.
+- Stage 2: layer sources and compute consensus text; track coverage % and provenance.
+- Stage 2 script: `scripts/merge_page_packets_stage2.py`.
+- Stage 3: visual QA for low-confidence regions via overlays/side-by-side comparison.
+- Stage 3 script: `scripts/visual_qa_stage3.py`.
+- Stage 4: export `spec_corpus/` and app datasets only after all sources are layered and reviewed.
+- Stage 4 scripts: `scripts/build_best_text_stage4.py`, `scripts/export_spec_corpus_stage4.py`.
+- Stage 4 helpers: `scripts/build_manifest_stage4.py`, `scripts/build_identity_alignment_stage4.py`, `scripts/spec_range_from_headers_stage4.py`.
+- ABBYY DOCX sources are reference-only for QA unless explicitly merged; greyscale DOCX is excluded from consensus merges due to low alignment quality.
+- Process Part A first, then bring Part B to the same coverage/QA depth.
 
 ## Digitization plan (full document, in progress)
 - Goal: fully digitize Section II Part A PDFs once, then iterate on the digitized corpus instead of re-reading the PDFs each time.
@@ -30,6 +103,7 @@ This README is the source of truth for rules, orientation, and guidance. The own
 ## Digitization tooling (installed)
 - Python libraries: `pypdf`, `pdfplumber`, `pdfminer.six`, `PyMuPDF`, `camelot-py`, `tabula-py`, `ocrmypdf`, `pytesseract`.
 - System tools: `tesseract` (OCR) and `java` (Tabula) are installed via Chocolatey.
+- Note: `tesseract.exe` may not be on PATH; use `C:\Program Files\Tesseract-OCR\tesseract.exe`.
 - Optional accelerator: `jpype1` is installed to let Tabula run in-process.
 - Known warning: Tabula/PDFBox may log `jbig2-imageio` missing; this affects JBIG2 images only and can be addressed later if needed.
 - Poppler binaries: installed under `tools/poppler/poppler-25.12.0/Library/bin` (use `pdftoppm.exe` for high-fidelity rasterization).
@@ -135,17 +209,54 @@ This README is the source of truth for rules, orientation, and guidance. The own
   - `sectionII_partA_data_digitized/toc_pass8c.json`
   - `sectionII_partA_data_digitized/toc_raster/` (TOC page images)
 
+## Digitization runbook (pass 8c - SA-451+ TOC extraction)
+- Script: `scripts/toc_pass8c_sa451_end.py`
+- Trigger: extract "Specifications Listed by Materials" entries from the SA-451+ PDF.
+- Outputs:
+  - `sectionII_partA_data_digitized/toc_pass8c_part_a_sa451_end.json`
+
 ## Digitization runbook (pass 10 - TOC index)
 - Script: `scripts/toc_index_pass10.py`
 - Trigger: uses `toc_pass8c.json` to build a TOC-based spec index and range starts.
 - Outputs:
   - `sectionII_partA_data_digitized/toc_index_pass10.json`
 
+## Digitization runbook (TOC index - SA-451+)
+- Script: `scripts/toc_index_pass10b.py`
+- Trigger: build TOC index for the SA-451+ TOC entries.
+- Outputs:
+  - `sectionII_partA_data_digitized/toc_index_pass10b_sa451_end.json`
+
 ## Digitization runbook (pass 10c - TOC order check)
 - Script: `scripts/toc_order_pass10c.py`
 - Trigger: checks TOC index ordering for start-page regressions.
 - Outputs:
   - `sectionII_partA_data_digitized/toc_order_pass10c.json`
+
+## Corpus remediation (page-level overrides)
+- Script: `scripts/apply_boundary_fix_overrides.py`
+- Trigger: apply footer/TOC overrides to boundary fix list notes.
+- Outputs:
+  - `sectionII_partA_data_digitized/rebuild/boundary_fix_list_applied.json`
+  - `sectionII_partA_data_digitized/rebuild/boundary_fix_list_applied.csv`
+- Script: `scripts/export_spec_corpus_with_overrides.py`
+- Trigger: export a corrected spec corpus without modifying the original truth corpus.
+- Outputs:
+  - `sectionII_partA_data_digitized/rebuild/spec_corpus_part_a_fixed/`
+  - `sectionII_partA_data_digitized/rebuild/spec_corpus_part_a_fixed_overrides.json`
+
+## OCR footer alignment (cross-source correlation)
+- Script: `scripts/footers_ocr_label_pages.py`
+- Trigger: OCR footer page numbers from packet images and emit footer-labeled page text files.
+- Outputs (per source):
+  - `sectionII_partA_data_digitized/rebuild/footer_ocr_{source}/footer_map.json`
+  - `sectionII_partA_data_digitized/rebuild/footer_ocr_{source}/footer_map.csv`
+  - `sectionII_partA_data_digitized/rebuild/footer_ocr_{source}/pages/footer-####_page-####.txt`
+- Script: `scripts/align_footer_maps.py`
+- Trigger: align two footer maps by footer page number.
+- Outputs:
+  - `footer_alignment_*.json` / `footer_alignment_*.csv`
+- Notes: auto-detects a constant footer offset when overlap improves (see `offsetApplied` in report); use `--offset` to force.
 
 ## Digitization runbook (pass 10b - gap re-OCR, top 20 pages)
 - Script: `scripts/gap_reocr_pass10b.py`
@@ -228,6 +339,7 @@ This README is the source of truth for rules, orientation, and guidance. The own
   - `sectionII_partA_data_digitized/spec_corpus/<SPEC>/spec.json`
   - `sectionII_partA_data_digitized/spec_corpus/<SPEC>/spec.txt`
   - `sectionII_partA_data_digitized/spec_corpus/spec_corpus_index.json`
+- Notes: `spec.json` now includes `footerPageNumber` when detected from the page text.
 
 ## Digitization runbook (pass 20 - merge AI-verified notes)
 - Script: `scripts/merge_ai_verified_notes_pass20.py`
@@ -296,6 +408,12 @@ This README is the source of truth for rules, orientation, and guidance. The own
 
 ## Conversation log (manual summary)
 - You asked to persist the key steps from our work into this README (this section).
+- Built an additive merged corpus at `sectionII_partA_data_digitized/rebuild/spec_corpus_part_a_complete_v4` from `spec_corpus_part_a_fixed_v3` + `spec_corpus_part_a_quilted` + legacy `spec_corpus` (docx fallback allowed). Current merged count: 60 specs.
+- Merged `spec_corpus_part_a_fixed_v3` (primary) with `spec_corpus_part_a_complete_v4` (secondary) into `sectionII_partA_data_digitized/rebuild/spec_corpus_part_a_merged_v1` (primary wins shared specs).
+- Promoted `spec_corpus_part_a_merged_v1` to the canonical corpus at `sectionII_partA_data_digitized/spec_corpus`; backup saved as `sectionII_partA_data_digitized/spec_corpus_backup_20260129_135123`.
+- Adjusted TOC ranges so SA-135 includes its cover page (SA-106 end set to 236; SA-135 start set to 237); regenerated `spec_range_pass11.json` and re-exported spec corpus.
+- Added footer page number extraction to `scripts/export_spec_corpus_pass19.py`, writing `footerPageNumber` into each page entry in `spec.json`.
+- Ran ad-hoc OCR sanity checks for SA-36 and SA-135 cover pages using Poppler + Tesseract; outputs live in `sectionII_partA_data_digitized/ocr_checks/`.
 - AI-verified notes were merged into spec corpus under "Resolved Notes (AI-verified)" for 23 specs (122 notes).
 - Spec ranges corrected for SA-522/SA-134/SA-263/SA-1058 and spec corpus regenerated.
 - Targeted OCR (pass 21c) resolved all 10 missing_no_candidate items and merged them.
@@ -305,6 +423,13 @@ This README is the source of truth for rules, orientation, and guidance. The own
 - Normalized OCR artifact "°P" -> "°F" in best_text pages.
 - Remaining focus: tableRefGaps = 146 and sectionRegressions = 138.
 
+- Added ABBYY docx ingestion parameterization (pass A0) and truth-merge parameterization (pass A2) to support multiple scans, plus multi-source truth merge (`scripts/truth_merge_abbyy_multi_passA2b.py`).
+- Added ABBYY TOC extraction for docx (`scripts/toc_abbyy_docx_pass8d.py`) and TOC vs spec corpus audit with placeholders (`scripts/audit_spec_corpus_toc.py`).
+- Created similarity-only ABBYY matcher (`scripts/abbyy_similarity_match.py`) to align docx text to best_text when pages were removed; merged 255 matches into `best_text` (backed up originals).
+- Filled 12 placeholder specs from ABBYY greyscale docx (`scripts/fill_placeholders_from_abbyy.py`): SA-6, SA-29, SA-53, SA-178, SA-179, SA-182, SA-192, SA-193, SA-194, SA-209, SA-210, SA-213.
+- After ABBYY similarity merge, crossref improved to tableRefGaps 7, noteRefGaps 0, sectionRegressions 99; validation note gaps remain 20 once AI-verified notes are re-merged.
+- Part B ABBYY docx (`2025 OCR SECTION II PART B .docx`) ingested; similarity match accepted 9 pages and merged into best_text.
+- Re-exported spec corpus from best_text; note that export removes "Resolved Notes (AI-verified)" so rerun `scripts/merge_ai_verified_notes_pass20.py` after export to restore notes before validation.
 ## Placeholder tracking
 - Removed page placeholders are recorded in `sectionII_partA_data_digitized/removed_pages_placeholders.json` to keep global page gaps explicit.
 
@@ -337,7 +462,8 @@ This README is the source of truth for rules, orientation, and guidance. The own
 - Provide a fast, friendly UI with search, auto-population, and controlled inputs.
 
 ## Data sources
-- OCR-processed ASME PDFs (over 1,000 pages).
+- Primary app build source: normalized JSONL/spec schema in `data/`.
+- OCR-processed ASME PDFs and derived corpus outputs are now historical reference in `old_data/`.
 - Target fields (initial): Material spec, material grades, ASTM grade, accepted year.
 - More fields to be added as coverage expands.
 
@@ -382,19 +508,13 @@ Current PDF paths used by the ingest CLI:
 - Optional: `Ingest:ScanMissingSpecs` to scan PDFs for any mentions of missing specs (diagnostic mode).
 
 ## Ingest output
-- Combined dataset: `data/materials.json`
-- Category datasets (for UI buttons): `data/materials-ferrous.json`, `data/materials-nonferrous.json`, `data/materials-electrode.json`
-- Ordering Information exports:
-  - `data/ordering-items-by-spec.csv`
-  - `data/ordering-items-by-spec.json`
-- Required field mapping:
-  - `data/ordering-required-fields.json`
-  - `data/ordering-required-fields.csv`
-- End finish mapping:
-  - `data/end-finish-normalized.json`
-  - `data/ordering-end-finish-items.json`
-- Progress tracker:
-  - `data/ordering-requirements-status.json`
+- Active PO assistant data files:
+  - `data/normalized_asme_po_schema.json`
+  - `data/normalized_asme_partA_specs.jsonl`
+  - `data/CODEX_BUILD_INSTRUCTIONS_ASME_PO_ASSISTANT.md`
+- Legacy ingest outputs (materials, ordering exports, digitized corpus) are archived in:
+  - `old_data/data/`
+  - `old_data/sectionII_partA_data_digitized/`
 
 ## Open questions
 - Do we want a formal data schema now, or evolve it as we ingest?
@@ -432,11 +552,14 @@ Current PDF paths used by the ingest CLI:
 - Do not commit build artifacts or copyrighted PDF content.
 
 ## Next steps
+- Expand `rebuild/spec_corpus_part_a_complete_v4` to cover the remaining SA specs (current merged count is 60); identify which sources hold the missing specs and merge them additively.
 - Use TOC page ranges to capture missing Ordering Information for specs that still have none.
 - Expand required-field mapping to additional common requirements (grade, type, welded/seamless, test reports, etc.).
 - Wire required-field prompts to the final UI layout and PO output formatting.
 - Review pass 13 flags to prioritize targeted OCR/table passes (note gaps likely need tighter matching).
 - Run pass 14 to recheck OCR text and only accept >=95% anchored matches.
+- Handoff: add missing specs (SA-6, SA-29, SA-53, SA-178, SA-179, SA-182, SA-192, SA-193, SA-194, SA-209, SA-210, SA-213) to `toc_index_pass10.json` so they persist in `spec_corpus` exports.
+- Handoff: decide whether to lower ABBYY similarity threshold for Part B to capture more matches, then re-run similarity merge and re-export.
 
 ## Materials coverage (current progress)
 - Specs total: 183

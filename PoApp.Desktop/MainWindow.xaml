@@ -36,46 +36,73 @@
             <TextBlock Text="Required Fields" FontWeight="SemiBold" Margin="0,6,0,6"/>
             <Border BorderThickness="1" BorderBrush="#DDD" Padding="8" CornerRadius="6">
                 <ScrollViewer VerticalScrollBarVisibility="Auto" Height="160">
-                    <ItemsControl ItemsSource="{Binding RequiredFields}">
-                        <ItemsControl.ItemTemplate>
-                            <DataTemplate>
-                                <StackPanel Margin="0,4,0,8">
-                                    <TextBlock Text="{Binding Label}" FontWeight="SemiBold"/>
-                                    <ComboBox ItemsSource="{Binding Options}"
-                                              SelectedItem="{Binding Value}"
-                                              Margin="0,4,0,0">
-                                        <ComboBox.Style>
-                                            <Style TargetType="ComboBox">
-                                                <Setter Property="Visibility" Value="Collapsed"/>
-                                                <Style.Triggers>
-                                                    <DataTrigger Binding="{Binding HasOptions}" Value="True">
-                                                        <Setter Property="Visibility" Value="Visible"/>
-                                                    </DataTrigger>
-                                                </Style.Triggers>
-                                            </Style>
-                                        </ComboBox.Style>
-                                    </ComboBox>
-                                    <TextBox Text="{Binding Value}" Margin="0,4,0,0">
-                                        <TextBox.Style>
-                                            <Style TargetType="TextBox">
-                                                <Setter Property="Visibility" Value="Visible"/>
-                                                <Style.Triggers>
-                                                    <DataTrigger Binding="{Binding HasOptions}" Value="True">
-                                                        <Setter Property="Visibility" Value="Collapsed"/>
-                                                    </DataTrigger>
-                                                </Style.Triggers>
-                                            </Style>
-                                        </TextBox.Style>
-                                    </TextBox>
-                                    <TextBlock Text="{Binding Note}"
-                                               FontSize="11"
-                                               Foreground="#666"
-                                               TextWrapping="Wrap"
-                                               Margin="0,4,0,0"/>
-                                </StackPanel>
-                            </DataTemplate>
-                        </ItemsControl.ItemTemplate>
-                    </ItemsControl>
+                    <Grid>
+                        <TextBlock Text="{Binding RequiredFieldsStatus}"
+                                   FontSize="12"
+                                   Foreground="#666"
+                                   TextWrapping="Wrap">
+                            <TextBlock.Style>
+                                <Style TargetType="TextBlock">
+                                    <Setter Property="Visibility" Value="Visible"/>
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding HasRequiredFields}" Value="True">
+                                            <Setter Property="Visibility" Value="Collapsed"/>
+                                        </DataTrigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </TextBlock.Style>
+                        </TextBlock>
+                        <ItemsControl ItemsSource="{Binding RequiredFields}">
+                            <ItemsControl.Style>
+                                <Style TargetType="ItemsControl">
+                                    <Setter Property="Visibility" Value="Visible"/>
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding HasRequiredFields}" Value="False">
+                                            <Setter Property="Visibility" Value="Collapsed"/>
+                                        </DataTrigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </ItemsControl.Style>
+                            <ItemsControl.ItemTemplate>
+                                <DataTemplate>
+                                    <StackPanel Margin="0,4,0,8">
+                                        <TextBlock Text="{Binding Label}" FontWeight="SemiBold"/>
+                                        <ComboBox ItemsSource="{Binding Options}"
+                                                  SelectedItem="{Binding Value}"
+                                                  Margin="0,4,0,0">
+                                            <ComboBox.Style>
+                                                <Style TargetType="ComboBox">
+                                                    <Setter Property="Visibility" Value="Collapsed"/>
+                                                    <Style.Triggers>
+                                                        <DataTrigger Binding="{Binding HasOptions}" Value="True">
+                                                            <Setter Property="Visibility" Value="Visible"/>
+                                                        </DataTrigger>
+                                                    </Style.Triggers>
+                                                </Style>
+                                            </ComboBox.Style>
+                                        </ComboBox>
+                                        <TextBox Text="{Binding Value}" Margin="0,4,0,0">
+                                            <TextBox.Style>
+                                                <Style TargetType="TextBox">
+                                                    <Setter Property="Visibility" Value="Visible"/>
+                                                    <Style.Triggers>
+                                                        <DataTrigger Binding="{Binding HasOptions}" Value="True">
+                                                            <Setter Property="Visibility" Value="Collapsed"/>
+                                                        </DataTrigger>
+                                                    </Style.Triggers>
+                                                </Style>
+                                            </TextBox.Style>
+                                        </TextBox>
+                                        <TextBlock Text="{Binding Note}"
+                                                   FontSize="11"
+                                                   Foreground="#666"
+                                                   TextWrapping="Wrap"
+                                                   Margin="0,4,0,0"/>
+                                    </StackPanel>
+                                </DataTemplate>
+                            </ItemsControl.ItemTemplate>
+                        </ItemsControl>
+                    </Grid>
                 </ScrollViewer>
             </Border>
 
@@ -84,27 +111,53 @@
                 <StackPanel DockPanel.Dock="Right" Orientation="Horizontal">
                     <Button Content="All" Margin="6,0,0,0" Padding="10,4"
                             Command="{Binding ToggleAllOrderingCommand}"
-                            CommandParameter="True"/>
+                            CommandParameter="True"
+                            IsEnabled="{Binding HasOrderingInfo}"/>
                     <Button Content="None" Margin="6,0,0,0" Padding="10,4"
                             Command="{Binding ToggleAllOrderingCommand}"
-                            CommandParameter="False"/>
+                            CommandParameter="False"
+                            IsEnabled="{Binding HasOrderingInfo}"/>
                 </StackPanel>
             </DockPanel>
 
             <Border BorderThickness="1" BorderBrush="#DDD" Padding="8" CornerRadius="6">
                 <ScrollViewer VerticalScrollBarVisibility="Auto" Height="260">
-                    <ItemsControl ItemsSource="{Binding OrderingOptions}">
-                        <ItemsControl.ItemTemplate>
-                            <DataTemplate>
-                                <CheckBox Content="{Binding Text}"
-                                          IsChecked="{Binding IsSelected, Mode=TwoWay}"
-                                          Margin="0,4,0,4"/>
- 
-
-
-                           </DataTemplate>
-                        </ItemsControl.ItemTemplate>
-                    </ItemsControl>
+                    <Grid>
+                        <TextBlock Text="{Binding OrderingInfoStatus}"
+                                   FontSize="12"
+                                   Foreground="#666"
+                                   TextWrapping="Wrap">
+                            <TextBlock.Style>
+                                <Style TargetType="TextBlock">
+                                    <Setter Property="Visibility" Value="Visible"/>
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding HasOrderingInfo}" Value="True">
+                                            <Setter Property="Visibility" Value="Collapsed"/>
+                                        </DataTrigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </TextBlock.Style>
+                        </TextBlock>
+                        <ItemsControl ItemsSource="{Binding OrderingOptions}">
+                            <ItemsControl.Style>
+                                <Style TargetType="ItemsControl">
+                                    <Setter Property="Visibility" Value="Visible"/>
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding HasOrderingInfo}" Value="False">
+                                            <Setter Property="Visibility" Value="Collapsed"/>
+                                        </DataTrigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </ItemsControl.Style>
+                            <ItemsControl.ItemTemplate>
+                                <DataTemplate>
+                                    <CheckBox Content="{Binding Text}"
+                                              IsChecked="{Binding IsSelected, Mode=TwoWay}"
+                                              Margin="0,4,0,4"/>
+                                </DataTemplate>
+                            </ItemsControl.ItemTemplate>
+                        </ItemsControl>
+                    </Grid>
                 </ScrollViewer>
             </Border>
 
