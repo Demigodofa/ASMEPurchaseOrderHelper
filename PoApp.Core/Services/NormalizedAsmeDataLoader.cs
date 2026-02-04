@@ -18,6 +18,9 @@ public sealed class NormalizedAsmeDataLoader
 {
     private const string GlobalPolicyRecordType = "global_policy";
     private const string SpecDefinitionRecordType = "spec_definition";
+    private readonly List<string> lastWarnings = [];
+
+    public IReadOnlyList<string> LastWarnings => lastWarnings;
 
     public AsmeNormalizedDataset Load(string jsonlPath, string schemaPath)
     {
@@ -28,6 +31,7 @@ public sealed class NormalizedAsmeDataLoader
 
         ValidateSchema(schemaPath);
 
+        lastWarnings.Clear();
         var errors = new List<string>();
         var specs = new List<SpecDefinitionRecord>();
         GlobalPolicyRecord? globalPolicy = null;
@@ -72,7 +76,7 @@ public sealed class NormalizedAsmeDataLoader
 
                 if (string.Equals(recordType, SpecDefinitionRecordType, StringComparison.OrdinalIgnoreCase))
                 {
-                    var spec = ParseSpecDefinition(root, lineNumber, errors);
+                    var spec = ParseSpecDefinition(root, lineNumber, errors, lastWarnings);
                     if (spec is not null)
                         specs.Add(spec);
                     continue;
@@ -205,7 +209,11 @@ public sealed class NormalizedAsmeDataLoader
             enums);
     }
 
-    private static SpecDefinitionRecord? ParseSpecDefinition(JsonElement root, int lineNumber, List<string> errors)
+    private static SpecDefinitionRecord? ParseSpecDefinition(
+        JsonElement root,
+        int lineNumber,
+        List<string> errors,
+        List<string> warnings)
     {
         if (!TryGetRequiredString(root, "asme_spec", lineNumber, errors, out var asmeSpec))
             return null;
@@ -213,18 +221,30 @@ public sealed class NormalizedAsmeDataLoader
         if (!root.TryGetProperty("ordering_fields", out var orderingFieldsElement) ||
             orderingFieldsElement.ValueKind != JsonValueKind.Array)
         {
-            errors.Add($"Line {lineNumber}: spec_definition '{asmeSpec}' is missing ordering_fields array.");
-            return null;
+            warnings.Add($"Line {lineNumber}: spec_definition '{asmeSpec}' is missing ordering_fields array. Using empty field list.");
+            orderingFieldsElement = default;
         }
 
         var orderingFields = new List<OrderingFieldDefinition>();
+        if (orderingFieldsElement.ValueKind != JsonValueKind.Array)
+        {
+            return new SpecDefinitionRecord(
+                asmeSpec,
+                GetNullableString(root, "title"),
+                GetNullableString(root, "astm_identical"),
+                ReadStringArray(root, "sources"),
+                orderingFields,
+                ReadSupplementaryRequirements(root),
+                ReadSpecRules(root));
+        }
+
         var fieldIndex = 0;
         foreach (var fieldElement in orderingFieldsElement.EnumerateArray())
         {
             fieldIndex++;
             if (fieldElement.ValueKind != JsonValueKind.Object)
             {
-                errors.Add($"Line {lineNumber}: ordering_fields[{fieldIndex}] must be an object.");
+                warnings.Add($"Line {lineNumber}: ordering_fields[{fieldIndex}] is not an object; field skipped.");
                 continue;
             }
 
@@ -232,19 +252,23 @@ public sealed class NormalizedAsmeDataLoader
             var inputType = GetNullableString(fieldElement, "input_type");
             if (string.IsNullOrWhiteSpace(prompt) || string.IsNullOrWhiteSpace(inputType))
             {
-                errors.Add($"Line {lineNumber}: ordering_fields[{fieldIndex}] requires prompt and input_type.");
+                warnings.Add($"Line {lineNumber}: ordering_fields[{fieldIndex}] missing prompt or input_type; field skipped.");
                 continue;
             }
 
             var required = false;
-            if (!fieldElement.TryGetProperty("required", out var requiredElement) ||
-                (requiredElement.ValueKind != JsonValueKind.True && requiredElement.ValueKind != JsonValueKind.False))
+            if (!fieldElement.TryGetProperty("required", out var requiredElement))
             {
-                errors.Add($"Line {lineNumber}: ordering_fields[{fieldIndex}] requires boolean 'required'.");
-                continue;
+                warnings.Add($"Line {lineNumber}: ordering_fields[{fieldIndex}] missing 'required'; defaulting to false.");
             }
-
-            required = requiredElement.GetBoolean();
+            else if (requiredElement.ValueKind == JsonValueKind.True || requiredElement.ValueKind == JsonValueKind.False)
+            {
+                required = requiredElement.GetBoolean();
+            }
+            else
+            {
+                warnings.Add($"Line {lineNumber}: ordering_fields[{fieldIndex}] has non-boolean 'required'; defaulting to false.");
+            }
 
             orderingFields.Add(new OrderingFieldDefinition(
                 GetNullableString(fieldElement, "id"),
@@ -402,4 +426,3 @@ public sealed class NormalizedAsmeDataLoader
             .ToList();
     }
 }
-

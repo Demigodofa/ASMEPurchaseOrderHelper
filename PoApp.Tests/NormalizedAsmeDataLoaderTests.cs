@@ -54,6 +54,32 @@ public sealed class NormalizedAsmeDataLoaderTests
         Assert.Contains(exception.Errors, message => message.Contains("asme_spec", StringComparison.OrdinalIgnoreCase));
     }
 
+    [Fact]
+    public void Load_SkipsMalformedOrderingFields_InsteadOfFailingWholeDataset()
+    {
+        var schemaPath = WriteTempFile("schema.json", """
+        {
+          "oneOf": [
+            { "properties": { "record_type": { "const": "global_policy" } } },
+            { "properties": { "record_type": { "const": "spec_definition" } } }
+          ]
+        }
+        """);
+
+        var jsonlPath = WriteTempFile("dataset.jsonl", """
+        {"record_type":"global_policy","policy_id":"POL1","rules":[]}
+        {"record_type":"spec_definition","asme_spec":"SA-TEST","ordering_fields":[{"id":"5.1","prompt":"","input_type":"text","required":true},{"id":"5.2","prompt":"Quantity","input_type":"text","required":"yes"},{"id":"5.3","prompt":"Size","input_type":"text","required":true}]}
+        """);
+
+        var loader = new NormalizedAsmeDataLoader();
+        var dataset = loader.Load(jsonlPath, schemaPath);
+
+        Assert.Single(dataset.Specs);
+        Assert.Equal(2, dataset.Specs[0].OrderingFields.Count);
+        Assert.Contains(loader.LastWarnings, warning => warning.Contains("field skipped", StringComparison.OrdinalIgnoreCase));
+        Assert.Contains(loader.LastWarnings, warning => warning.Contains("defaulting to false", StringComparison.OrdinalIgnoreCase));
+    }
+
     private static string WriteTempFile(string fileName, string content)
     {
         var directory = Path.Combine(Path.GetTempPath(), "asme-po-tests", Guid.NewGuid().ToString("N"));
@@ -63,4 +89,3 @@ public sealed class NormalizedAsmeDataLoaderTests
         return path;
     }
 }
-
