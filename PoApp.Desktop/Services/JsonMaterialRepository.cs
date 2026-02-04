@@ -1,42 +1,22 @@
-using System;
 using System.IO;
-using System.Text.Json;
 using PoApp.Core.Models;
+using PoApp.Core.Services;
 
 namespace PoApp.Desktop.Services;
 
-public static class JsonMaterialRepository
+public static class NormalizedAsmeRepository
 {
-    public static MaterialDataset LoadFromRepoDataFolder()
+    public static AsmeNormalizedDataset LoadFromRepoDataFolder()
     {
-        // We run from: ...\PoApp.Desktop\bin\Debug\net8.0-windows\
-        // Find repo root by walking up until we find /data/materials.json
-        var dir = new DirectoryInfo(AppContext.BaseDirectory);
-        while (dir is not null)
-        {
-            var candidate = Path.Combine(dir.FullName, "data", "materials.json");
-            if (File.Exists(candidate))
-                return Load(candidate);
+        var dataPath = DataFileLocator.FindDataFile("normalized_asme_partA_specs.jsonl");
+        if (string.IsNullOrWhiteSpace(dataPath))
+            throw new FileNotFoundException("Could not locate data/normalized_asme_partA_specs.jsonl from application base path.");
 
-            dir = dir.Parent;
-        }
+        var schemaPath = DataFileLocator.FindDataFile("normalized_asme_po_schema.json");
+        if (string.IsNullOrWhiteSpace(schemaPath))
+            throw new FileNotFoundException("Could not locate data/normalized_asme_po_schema.json from application base path.");
 
-        throw new FileNotFoundException("Could not find data/materials.json by walking up from AppContext.BaseDirectory.");
-    }
-
-    private static MaterialDataset Load(string path)
-    {
-        var json = File.ReadAllText(path);
-
-        var options = new JsonSerializerOptions
-        {
-            PropertyNameCaseInsensitive = true
-        };
-
-        var dataset = JsonSerializer.Deserialize<MaterialDataset>(json, options);
-        if (dataset is null || dataset.Materials is null)
-            throw new InvalidOperationException($"Invalid dataset JSON at: {path}");
-
-        return dataset;
+        var loader = new NormalizedAsmeDataLoader();
+        return loader.Load(dataPath, schemaPath);
     }
 }

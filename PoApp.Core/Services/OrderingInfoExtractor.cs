@@ -10,11 +10,11 @@ public static class OrderingInfoExtractor
         RegexOptions.IgnoreCase);
 
     private static readonly Regex NextSectionPattern = new(
-        @"\b\d+\s*(?:\.)\s+(?!\d)\s*[A-Z]",
+        @"(?m)^\s*\d+\s*(?:\.)\s+(?!\d)\s*[A-Z]",
         RegexOptions.IgnoreCase);
 
     private static readonly Regex NextSectionNoDotPattern = new(
-        @"\b\d+\s+(?!\d)\s*[A-Z]",
+        @"(?m)^\s*\d+\s+(?!\d)\s*[A-Z]",
         RegexOptions.IgnoreCase);
 
     public static List<string> ExtractOrderingItems(string text)
