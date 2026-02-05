@@ -91,9 +91,19 @@ public partial class MainViewModel : ObservableObject
     public MainViewModel()
     {
         dataset = NormalizedAsmeRepository.LoadFromRepoDataFolder();
-        specsByAsme = dataset.Specs.ToDictionary(spec => spec.AsmeSpec, StringComparer.OrdinalIgnoreCase);
-        materialsByBase = dataset.MaterialIndex.ToDictionary(entry => entry.SpecBase, StringComparer.OrdinalIgnoreCase);
-        sortedMaterials = dataset.MaterialIndex
+        var uniqueSpecs = dataset.Specs
+            .GroupBy(spec => spec.AsmeSpec, StringComparer.OrdinalIgnoreCase)
+            .Select(static group => ChooseBestSpecDefinition(group))
+            .ToList();
+
+        var uniqueMaterials = dataset.MaterialIndex
+            .GroupBy(entry => entry.SpecBase, StringComparer.OrdinalIgnoreCase)
+            .Select(static group => MergeMaterialIndex(group))
+            .ToList();
+
+        specsByAsme = uniqueSpecs.ToDictionary(spec => spec.AsmeSpec, StringComparer.OrdinalIgnoreCase);
+        materialsByBase = uniqueMaterials.ToDictionary(entry => entry.SpecBase, StringComparer.OrdinalIgnoreCase);
+        sortedMaterials = uniqueMaterials
             .OrderBy(entry => ParseSpecBaseSortKey(entry.SpecBase))
             .ToList();
 
@@ -635,6 +645,57 @@ public partial class MainViewModel : ObservableObject
         var invalidChars = Path.GetInvalidFileNameChars();
         var cleaned = new string(value.Select(ch => invalidChars.Contains(ch) ? '_' : ch).ToArray());
         return cleaned.Replace(' ', '_');
+    }
+
+    private static SpecDefinitionRecord ChooseBestSpecDefinition(IEnumerable<SpecDefinitionRecord> specs)
+    {
+        return specs
+            .OrderByDescending(spec => spec.OrderingFields.Count)
+            .ThenByDescending(spec => spec.Sources.Count)
+            .First();
+    }
+
+    private static MaterialIndexRecord MergeMaterialIndex(IEnumerable<MaterialIndexRecord> entries)
+    {
+        var merged = entries.ToList();
+        var first = merged[0];
+
+        var specAsme = merged.Select(entry => entry.SpecAsme)
+            .FirstOrDefault(value => !string.IsNullOrWhiteSpace(value));
+        var specAstm = merged.Select(entry => entry.SpecAstm)
+            .FirstOrDefault(value => !string.IsNullOrWhiteSpace(value));
+
+        var systemsAvailable = merged
+            .SelectMany(entry => entry.SystemsAvailable)
+            .Where(static value => !string.IsNullOrWhiteSpace(value))
+            .Distinct(StringComparer.OrdinalIgnoreCase)
+            .ToList();
+
+        var grades = merged
+            .SelectMany(entry => entry.Grades)
+            .Where(static value => !string.IsNullOrWhiteSpace(value))
+            .Distinct(StringComparer.OrdinalIgnoreCase)
+            .ToList();
+
+        var classes = merged
+            .SelectMany(entry => entry.Classes)
+            .Where(static value => !string.IsNullOrWhiteSpace(value))
+            .Distinct(StringComparer.OrdinalIgnoreCase)
+            .ToList();
+
+        var gradeClassUns = merged
+            .SelectMany(entry => entry.GradeClassUns)
+            .DistinctBy(entry => $"{entry.Grade}|{entry.Class}|{entry.Uns}", StringComparer.OrdinalIgnoreCase)
+            .ToList();
+
+        return new MaterialIndexRecord(
+            first.SpecBase,
+            specAsme,
+            specAstm,
+            systemsAvailable,
+            grades,
+            classes,
+            gradeClassUns);
     }
 }
 
