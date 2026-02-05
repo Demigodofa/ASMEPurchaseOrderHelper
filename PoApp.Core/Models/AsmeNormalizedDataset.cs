@@ -2,14 +2,22 @@ namespace PoApp.Core.Models;
 
 public sealed record AsmeNormalizedDataset(
     GlobalPolicyRecord GlobalPolicy,
-    IReadOnlyList<SpecDefinitionRecord> Specs);
+    IReadOnlyList<SpecDefinitionRecord> Specs,
+    IReadOnlyList<MaterialIndexRecord> MaterialIndex);
 
 public sealed record GlobalPolicyRecord(
     string PolicyId,
+    string? Version,
     string? Description,
     IReadOnlyList<string> InputsRequired,
+    IReadOnlyList<DerivedFieldDefinition> DerivedFields,
     IReadOnlyList<GlobalPolicyRule> Rules,
     IReadOnlyDictionary<string, IReadOnlyList<string>> Enums);
+
+public sealed record DerivedFieldDefinition(
+    string Id,
+    string Type,
+    string Expression);
 
 public sealed record GlobalPolicyRule(
     string Id,
@@ -21,6 +29,8 @@ public sealed record GlobalPolicyRule(
 public sealed record GlobalPolicyAction(
     string? SetField,
     bool? SetBooleanValue,
+    string? LockField,
+    bool? LockValue,
     string? AddPoNote);
 
 public sealed record SpecDefinitionRecord(
@@ -30,7 +40,27 @@ public sealed record SpecDefinitionRecord(
     IReadOnlyList<string> Sources,
     IReadOnlyList<OrderingFieldDefinition> OrderingFields,
     IReadOnlyList<SupplementaryRequirementDefinition> SupplementaryRequirementsCatalog,
-    IReadOnlyList<SpecRuleDefinition> Rules);
+    IReadOnlyList<SpecRuleDefinition> Rules,
+    SpecSystemDefinition SpecSystems);
+
+public sealed record SpecSystemDefinition(
+    string Primary,
+    IReadOnlyList<string> Available,
+    string? AstmIdentical);
+
+public sealed record MaterialIndexRecord(
+    string SpecBase,
+    string? SpecAsme,
+    string? SpecAstm,
+    IReadOnlyList<string> SystemsAvailable,
+    IReadOnlyList<string> Grades,
+    IReadOnlyList<string> Classes,
+    IReadOnlyList<GradeClassUnsMapping> GradeClassUns);
+
+public sealed record GradeClassUnsMapping(
+    string? Grade,
+    string? Class,
+    string? Uns);
 
 public sealed record OrderingFieldDefinition(
     string? Id,
@@ -60,12 +90,21 @@ public sealed record PolicyEvaluationResult(
     bool IsMtrLocked,
     IReadOnlyList<string> Notes);
 
+public sealed record GlobalPolicyContext(
+    bool CodeUse,
+    string ItemType,
+    string OrderToStandard,
+    bool MarkingRequired,
+    bool PurchaserRequiresMtr,
+    bool MtrRequired);
+
 public sealed record FilledOrderingField(
     OrderingFieldDefinition Definition,
     string Value);
 
 public sealed record PurchaseOrderBuildInput(
     SpecDefinitionRecord Spec,
+    MaterialSelection Material,
     bool CodeUse,
     string GoverningStandard,
     bool MtrRequired,
@@ -79,6 +118,15 @@ public sealed record PurchaseOrderExportContext(
     string GoverningStandard,
     bool MtrRequired);
 
+public sealed record MaterialSelection(
+    string SpecSystem,
+    string SpecDisplay,
+    string SpecBase,
+    string? Grade,
+    string? Class,
+    string? Uns,
+    string? AstmEquivalencyInfo);
+
 public sealed record PurchaseOrderExportSpec(
     string AsmeSpec,
     string? Title,
@@ -87,6 +135,7 @@ public sealed record PurchaseOrderExportSpec(
 public sealed record PurchaseOrderExport(
     PurchaseOrderExportContext PoContext,
     PurchaseOrderExportSpec Spec,
+    MaterialSelection Material,
     IReadOnlyDictionary<string, string> FieldValues,
     IReadOnlyList<string> SelectedSupplementaryRequirements);
 

@@ -11,14 +11,16 @@ public sealed class NormalizedAsmeDataLoaderTests
         {
           "oneOf": [
             { "properties": { "record_type": { "const": "global_policy" } } },
-            { "properties": { "record_type": { "const": "spec_definition" } } }
+            { "properties": { "record_type": { "const": "spec_definition" } } },
+            { "properties": { "record_type": { "const": "material_index" } } }
           ]
         }
         """);
 
         var jsonlPath = WriteTempFile("dataset.jsonl", """
-        {"record_type":"global_policy","policy_id":"POL1","rules":[{"id":"R1","if":"code_use == true","then":[{"set":"mtr_required","value":true},{"add_po_note":"Provide report."}]}],"enums":{"B16_MARKING_ONLY":["ASME B16.5"]}}
-        {"record_type":"spec_definition","asme_spec":"SA-TEST","title":"Test Spec","astm_identical":"A-1","ordering_fields":[{"id":"5.1","prompt":"Quantity","input_type":"text","required":true}]}
+        {"record_type":"global_policy","policy_id":"POL1","inputs_required":["code_use"],"rules":[{"id":"R1","if":"code_use == true","then":[{"set":"mtr_required","value":true},{"lock":"mtr_required","value":true},{"add_po_note":"Provide report."}]}],"enums":{"B16_MARKING_ONLY":["ASME B16.5"]}}
+        {"record_type":"spec_definition","asme_spec":"SA-TEST","title":"Test Spec","astm_identical":"A-1","spec_systems":{"primary":"ASME","available":["ASME"]},"ordering_fields":[{"id":"5.1","prompt":"Quantity","input_type":"text","required":true}]}
+        {"record_type":"material_index","spec_base":"TEST","systems_available":["ASME"],"grade_class_uns":[{"grade":null,"class":null,"uns":"K00000"}]}
         """);
 
         var loader = new NormalizedAsmeDataLoader();
@@ -38,7 +40,8 @@ public sealed class NormalizedAsmeDataLoaderTests
         {
           "oneOf": [
             { "properties": { "record_type": { "const": "global_policy" } } },
-            { "properties": { "record_type": { "const": "spec_definition" } } }
+            { "properties": { "record_type": { "const": "spec_definition" } } },
+            { "properties": { "record_type": { "const": "material_index" } } }
           ]
         }
         """);
@@ -46,6 +49,7 @@ public sealed class NormalizedAsmeDataLoaderTests
         var jsonlPath = WriteTempFile("dataset.jsonl", """
         {"record_type":"global_policy","policy_id":"POL1","rules":[]}
         {"record_type":"spec_definition","ordering_fields":[]}
+        {"record_type":"material_index","spec_base":"TEST","systems_available":["ASME"],"grade_class_uns":[{"grade":null,"class":null,"uns":"K00000"}]}
         """);
 
         var loader = new NormalizedAsmeDataLoader();
@@ -61,14 +65,16 @@ public sealed class NormalizedAsmeDataLoaderTests
         {
           "oneOf": [
             { "properties": { "record_type": { "const": "global_policy" } } },
-            { "properties": { "record_type": { "const": "spec_definition" } } }
+            { "properties": { "record_type": { "const": "spec_definition" } } },
+            { "properties": { "record_type": { "const": "material_index" } } }
           ]
         }
         """);
 
         var jsonlPath = WriteTempFile("dataset.jsonl", """
         {"record_type":"global_policy","policy_id":"POL1","rules":[]}
-        {"record_type":"spec_definition","asme_spec":"SA-TEST","ordering_fields":[{"id":"5.1","prompt":"","input_type":"text","required":true},{"id":"5.2","prompt":"Quantity","input_type":"text","required":"yes"},{"id":"5.3","prompt":"Size","input_type":"text","required":true}]}
+        {"record_type":"spec_definition","asme_spec":"SA-TEST","spec_systems":{"primary":"ASME","available":["ASME"]},"ordering_fields":[{"id":"5.1","prompt":"","input_type":"text","required":true},{"id":"5.2","prompt":"Quantity","input_type":"text","required":"yes"},{"id":"5.3","prompt":"Size","input_type":"text","required":true}]}
+        {"record_type":"material_index","spec_base":"TEST","systems_available":["ASME"],"grade_class_uns":[{"grade":null,"class":null,"uns":"K00000"}]}
         """);
 
         var loader = new NormalizedAsmeDataLoader();

@@ -16,13 +16,24 @@ public sealed class PurchaseOrderBuilder
         var lines = new List<string>();
 
         lines.Add("Line Item Header");
-        if (!string.IsNullOrWhiteSpace(input.Spec.Title))
-            lines.Add($"Material: {input.Spec.AsmeSpec} ({input.Spec.Title})");
+        var specSystem = input.Material.SpecSystem;
+        if (string.Equals(specSystem, "ASTM", StringComparison.OrdinalIgnoreCase))
+        {
+            var materialLine = $"Material: {input.Material.SpecDisplay} (ASTM)";
+            if (!string.IsNullOrWhiteSpace(input.Material.AstmEquivalencyInfo))
+                materialLine += $". {input.Material.AstmEquivalencyInfo}";
+            lines.Add(materialLine);
+        }
         else
-            lines.Add($"Material: {input.Spec.AsmeSpec}");
+        {
+            if (!string.IsNullOrWhiteSpace(input.Spec.Title))
+                lines.Add($"Material: {input.Material.SpecDisplay} ({input.Spec.Title})");
+            else
+                lines.Add($"Material: {input.Material.SpecDisplay}");
+        }
 
-        if (!string.IsNullOrWhiteSpace(input.Spec.AstmIdentical))
-            lines.Add($"ASTM Identical: {input.Spec.AstmIdentical}");
+        if (!string.IsNullOrWhiteSpace(input.Material.Uns))
+            lines.Add($"UNS: {input.Material.Uns}");
 
         lines.Add(string.Empty);
         lines.Add("Ordering Requirements");
@@ -108,6 +119,7 @@ public sealed class PurchaseOrderBuilder
                 input.Spec.AsmeSpec,
                 input.Spec.Title,
                 input.Spec.AstmIdentical),
+            input.Material,
             fieldValues,
             input.SelectedSupplementaryRequirements
                 .Where(static value => !string.IsNullOrWhiteSpace(value))

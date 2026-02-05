@@ -1,0 +1,208 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ASME PO Assistant JSONL Schema (Imperial V4: spec_definition + material_index)",
+  "type": "object",
+  "oneOf": [
+    {
+      "properties": {
+        "record_type": {
+          "const": "global_policy"
+        },
+        "policy_id": {
+          "type": "string"
+        },
+        "version": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "inputs_required": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "enums": {
+          "type": "object"
+        },
+        "derived_fields": {
+          "type": "array",
+          "items": {
+            "type": "object"
+          }
+        },
+        "rules": {
+          "type": "array",
+          "items": {
+            "type": "object"
+          }
+        }
+      },
+      "required": [
+        "record_type",
+        "policy_id",
+        "inputs_required",
+        "rules"
+      ]
+    },
+    {
+      "properties": {
+        "record_type": {
+          "const": "spec_definition"
+        },
+        "asme_spec": {
+          "type": "string"
+        },
+        "title": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "astm_identical": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "spec_systems": {
+          "type": "object"
+        },
+        "units_profile": {
+          "type": "string",
+          "enum": [
+            "ImperialOnly"
+          ]
+        },
+        "ordering_fields": {
+          "type": "array",
+          "items": {
+            "type": "object"
+          }
+        },
+        "purchase_order_flags": {
+          "type": [
+            "object",
+            "null"
+          ]
+        },
+        "supplementary_requirements_catalog": {
+          "type": [
+            "array",
+            "null"
+          ],
+          "items": {
+            "type": "object"
+          }
+        },
+        "rules": {
+          "type": [
+            "array",
+            "null"
+          ],
+          "items": {
+            "type": "object"
+          }
+        },
+        "sources": {
+          "type": [
+            "array",
+            "null"
+          ],
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "record_type",
+        "asme_spec",
+        "ordering_fields",
+        "spec_systems",
+        "units_profile"
+      ]
+    },
+    {
+      "properties": {
+        "record_type": {
+          "const": "material_index"
+        },
+        "spec_base": {
+          "type": "string"
+        },
+        "spec_asme": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "spec_astm": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "systems_available": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "ASME",
+              "ASTM"
+            ]
+          }
+        },
+        "grades": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "classes": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "grade_class_uns": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "grade": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "class": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "uns": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              }
+            },
+            "required": [
+              "grade",
+              "class",
+              "uns"
+            ]
+          }
+        }
+      },
+      "required": [
+        "record_type",
+        "spec_base",
+        "systems_available",
+        "grade_class_uns"
+      ]
+    }
+  ]
+}

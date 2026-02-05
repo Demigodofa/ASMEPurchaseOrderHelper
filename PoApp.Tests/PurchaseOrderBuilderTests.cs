@@ -19,10 +19,12 @@ public sealed class PurchaseOrderBuilderTests
                 new OrderingFieldDefinition("5.1.2", "size", "Size", "text", true, null, [], [], null, null)
             ],
             [new SupplementaryRequirementDefinition("S1", "Impact test", "Specify impact test temperature.")],
-            [new SpecRuleDefinition("rule", "If supplementary selected", "State in PO", null)]);
+            [new SpecRuleDefinition("rule", "If supplementary selected", "State in PO", null)],
+            new SpecSystemDefinition("ASME", ["ASME"], null));
 
         var input = new PurchaseOrderBuildInput(
             spec,
+            new MaterialSelection("ASME", "SA-106/SA-106M", "106", "B", null, "K03006", null),
             CodeUse: true,
             GoverningStandard: "ASME BPVC Section II material",
             MtrRequired: true,

@@ -21,24 +21,23 @@
                           IsChecked="{Binding CodeUse, Mode=TwoWay}"
                           Margin="0,0,0,10" />
 
-                <TextBlock Text="Governing Standard" FontWeight="SemiBold" />
-                <ComboBox ItemsSource="{Binding GoverningStandards}"
-                          SelectedItem="{Binding SelectedGoverningStandard, Mode=TwoWay}"
-                          Margin="0,6,0,0" />
+                <TextBlock Text="Item Type" FontWeight="SemiBold" />
+                <ComboBox ItemsSource="{Binding ItemTypes}"
+                          SelectedItem="{Binding SelectedItemType, Mode=TwoWay}"
+                          Margin="0,6,0,10" />
 
-                <TextBox Text="{Binding OtherGoverningStandard, UpdateSourceTrigger=PropertyChanged}"
-                         Margin="0,6,0,10">
-                    <TextBox.Style>
-                        <Style TargetType="TextBox">
-                            <Setter Property="Visibility" Value="Collapsed" />
-                            <Style.Triggers>
-                                <DataTrigger Binding="{Binding ShowOtherGoverningStandard}" Value="True">
-                                    <Setter Property="Visibility" Value="Visible" />
-                                </DataTrigger>
-                            </Style.Triggers>
-                        </Style>
-                    </TextBox.Style>
-                </TextBox>
+                <TextBlock Text="Order To Standard" FontWeight="SemiBold" />
+                <ComboBox ItemsSource="{Binding OrderToStandards}"
+                          SelectedItem="{Binding SelectedOrderToStandard, Mode=TwoWay}"
+                          Margin="0,6,0,10" />
+
+                <CheckBox Content="Marking Required (B16 items)"
+                          IsChecked="{Binding MarkingRequired, Mode=TwoWay}"
+                          Margin="0,0,0,6" />
+
+                <CheckBox Content="Purchaser Requires MTR/CMTR"
+                          IsChecked="{Binding PurchaserRequiresMtr, Mode=TwoWay}"
+                          Margin="0,0,0,10" />
 
                 <CheckBox Content="MTR Required"
                           IsChecked="{Binding MtrRequired, Mode=TwoWay}"
@@ -49,19 +48,90 @@
                            FontSize="12"
                            Margin="0,0,0,14" />
 
+                <TextBlock Text="Material Selector" FontSize="18" FontWeight="SemiBold" Margin="0,4,0,10" />
+
+                <TextBlock Text="Spec System" FontWeight="SemiBold" />
+                <ComboBox ItemsSource="{Binding SpecSystems}"
+                          SelectedItem="{Binding SelectedSpecSystem, Mode=TwoWay}"
+                          DisplayMemberPath="Display"
+                          Margin="0,6,0,10" />
+
                 <TextBlock Text="Material Spec" FontWeight="SemiBold" />
-                <ComboBox ItemsSource="{Binding Specs}"
-                          SelectedItem="{Binding SelectedSpec, Mode=TwoWay}"
-                          DisplayMemberPath="AsmeSpec"
+                <ComboBox ItemsSource="{Binding MaterialSpecs}"
+                          SelectedItem="{Binding SelectedMaterialSpec, Mode=TwoWay}"
+                          DisplayMemberPath="DisplayLabel"
                           IsEditable="True"
                           IsTextSearchEnabled="True"
                           Margin="0,6,0,10" />
+                <TextBlock Text="{Binding MaterialSpecWarning}"
+                           TextWrapping="Wrap"
+                           Foreground="#B85C00"
+                           FontSize="11"
+                           Margin="0,0,0,10">
+                    <TextBlock.Style>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="Visibility" Value="Visible" />
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding MaterialSpecWarning}" Value="">
+                                    <Setter Property="Visibility" Value="Collapsed" />
+                                </DataTrigger>
+                                <DataTrigger Binding="{Binding MaterialSpecWarning}" Value="{x:Null}">
+                                    <Setter Property="Visibility" Value="Collapsed" />
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </TextBlock.Style>
+                </TextBlock>
+
+                <TextBlock Text="Grade" FontWeight="SemiBold" />
+                <ComboBox ItemsSource="{Binding GradeOptions}"
+                          SelectedItem="{Binding SelectedGrade, Mode=TwoWay}"
+                          Margin="0,6,0,10">
+                    <ComboBox.Style>
+                        <Style TargetType="ComboBox">
+                            <Setter Property="Visibility" Value="Collapsed" />
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding ShowGradeSelector}" Value="True">
+                                    <Setter Property="Visibility" Value="Visible" />
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </ComboBox.Style>
+                </ComboBox>
+
+                <TextBlock Text="Class" FontWeight="SemiBold" />
+                <ComboBox ItemsSource="{Binding ClassOptions}"
+                          SelectedItem="{Binding SelectedClass, Mode=TwoWay}"
+                          Margin="0,6,0,10">
+                    <ComboBox.Style>
+                        <Style TargetType="ComboBox">
+                            <Setter Property="Visibility" Value="Collapsed" />
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding ShowClassSelector}" Value="True">
+                                    <Setter Property="Visibility" Value="Visible" />
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </ComboBox.Style>
+                </ComboBox>
+
+                <TextBlock Text="UNS Typeahead" FontWeight="SemiBold" />
+                <ComboBox ItemsSource="{Binding UnsCandidates}"
+                          SelectedItem="{Binding SelectedUnsCandidate, Mode=TwoWay}"
+                          DisplayMemberPath="Display"
+                          IsEditable="True"
+                          IsTextSearchEnabled="True"
+                          TextSearch.TextPath="Uns"
+                          Margin="0,6,0,10" />
+
+                <TextBlock Text="UNS" FontWeight="SemiBold" />
+                <TextBox Text="{Binding UnsNumber}" IsReadOnly="True" Margin="0,6,0,10" />
 
                 <TextBlock Text="Title" FontWeight="SemiBold" />
                 <TextBox Text="{Binding TitleDisplay}" IsReadOnly="True" Margin="0,6,0,10" />
 
-                <TextBlock Text="ASTM Identical" FontWeight="SemiBold" />
-                <TextBox Text="{Binding AstmDisplay}" IsReadOnly="True" Margin="0,6,0,10" />
+                <TextBlock Text="ASTM Equivalency" FontWeight="SemiBold" />
+                <TextBox Text="{Binding AstmEquivalencyInfo}" IsReadOnly="True" Margin="0,6,0,10" />
 
                 <TextBlock Text="Ordering Requirements" FontWeight="SemiBold" Margin="0,6,0,6" />
                 <TextBlock Text="{Binding ValidationStatus}"

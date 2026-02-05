@@ -18,6 +18,7 @@ public sealed class NormalizedAsmeDataLoader
 {
     private const string GlobalPolicyRecordType = "global_policy";
     private const string SpecDefinitionRecordType = "spec_definition";
+    private const string MaterialIndexRecordType = "material_index";
     private readonly List<string> lastWarnings = [];
 
     public IReadOnlyList<string> LastWarnings => lastWarnings;
@@ -34,6 +35,7 @@ public sealed class NormalizedAsmeDataLoader
         lastWarnings.Clear();
         var errors = new List<string>();
         var specs = new List<SpecDefinitionRecord>();
+        var materialIndex = new List<MaterialIndexRecord>();
         GlobalPolicyRecord? globalPolicy = null;
         var lineNumber = 0;
 
@@ -82,6 +84,14 @@ public sealed class NormalizedAsmeDataLoader
                     continue;
                 }
 
+                if (string.Equals(recordType, MaterialIndexRecordType, StringComparison.OrdinalIgnoreCase))
+                {
+                    var material = ParseMaterialIndex(root, lineNumber, errors);
+                    if (material is not null)
+                        materialIndex.Add(material);
+                    continue;
+                }
+
                 errors.Add($"Line {lineNumber}: unknown record_type '{recordType}'.");
             }
         }
@@ -92,12 +102,16 @@ public sealed class NormalizedAsmeDataLoader
         if (specs.Count == 0)
             errors.Add("Dataset did not contain any spec_definition records.");
 
+        if (materialIndex.Count == 0)
+            errors.Add("Dataset did not contain any material_index records.");
+
         if (errors.Count > 0)
             throw new NormalizedDataValidationException(errors);
 
         return new AsmeNormalizedDataset(
             globalPolicy!,
-            specs.OrderBy(static s => s.AsmeSpec, StringComparer.OrdinalIgnoreCase).ToList());
+            specs.OrderBy(static s => s.AsmeSpec, StringComparer.OrdinalIgnoreCase).ToList(),
+            materialIndex.OrderBy(static entry => entry.SpecBase, StringComparer.OrdinalIgnoreCase).ToList());
     }
 
     private static void ValidateSchema(string schemaPath)
@@ -110,6 +124,7 @@ public sealed class NormalizedAsmeDataLoader
 
         var hasGlobalPolicySchema = false;
         var hasSpecSchema = false;
+        var hasMaterialIndexSchema = false;
 
         foreach (var entry in oneOf.EnumerateArray())
         {
@@ -125,10 +140,15 @@ public sealed class NormalizedAsmeDataLoader
                 hasGlobalPolicySchema = true;
             if (string.Equals(value, SpecDefinitionRecordType, StringComparison.OrdinalIgnoreCase))
                 hasSpecSchema = true;
+            if (string.Equals(value, MaterialIndexRecordType, StringComparison.OrdinalIgnoreCase))
+                hasMaterialIndexSchema = true;
         }
 
-        if (!hasGlobalPolicySchema || !hasSpecSchema)
-            throw new InvalidDataException("Schema oneOf must include both global_policy and spec_definition records.");
+        if (!hasGlobalPolicySchema || !hasSpecSchema || !hasMaterialIndexSchema)
+        {
+            throw new InvalidDataException(
+                "Schema oneOf must include global_policy, spec_definition, and material_index records.");
+        }
     }
 
     private static GlobalPolicyRecord? ParseGlobalPolicy(JsonElement root, int lineNumber, List<string> errors)
@@ -143,8 +163,10 @@ public sealed class NormalizedAsmeDataLoader
         }
 
         var description = GetNullableString(root, "description");
+        var version = GetNullableString(root, "version");
         var inputsRequired = ReadStringArray(root, "inputs_required");
         var enums = ReadEnums(root, lineNumber, errors);
+        var derivedFields = ReadDerivedFields(root, lineNumber, errors);
         var rules = new List<GlobalPolicyRule>();
 
         var ruleIndex = 0;
@@ -178,19 +200,24 @@ public sealed class NormalizedAsmeDataLoader
                     continue;
 
                 var setField = GetNullableString(actionElement, "set");
+                var lockField = GetNullableString(actionElement, "lock");
                 bool? setBooleanValue = null;
+                bool? lockValue = null;
                 if (actionElement.TryGetProperty("value", out var valueElement) &&
                     (valueElement.ValueKind == JsonValueKind.True || valueElement.ValueKind == JsonValueKind.False))
                 {
                     setBooleanValue = valueElement.GetBoolean();
+                    lockValue = valueElement.GetBoolean();
                 }
 
                 var addNote = GetNullableString(actionElement, "add_po_note");
 
-                if (string.IsNullOrWhiteSpace(setField) && string.IsNullOrWhiteSpace(addNote))
+                if (string.IsNullOrWhiteSpace(setField) &&
+                    string.IsNullOrWhiteSpace(lockField) &&
+                    string.IsNullOrWhiteSpace(addNote))
                     continue;
 
-                actions.Add(new GlobalPolicyAction(setField, setBooleanValue, addNote));
+                actions.Add(new GlobalPolicyAction(setField, setBooleanValue, lockField, lockValue, addNote));
             }
 
             rules.Add(new GlobalPolicyRule(
@@ -203,8 +230,10 @@ public sealed class NormalizedAsmeDataLoader
 
         return new GlobalPolicyRecord(
             policyId,
+            version,
             description,
             inputsRequired,
+            derivedFields,
             rules,
             enums);
     }
@@ -235,7 +264,8 @@ public sealed class NormalizedAsmeDataLoader
                 ReadStringArray(root, "sources"),
                 orderingFields,
                 ReadSupplementaryRequirements(root),
-                ReadSpecRules(root));
+                ReadSpecRules(root),
+                ReadSpecSystems(root, lineNumber, errors));
         }
 
         var fieldIndex = 0;
@@ -290,7 +320,48 @@ public sealed class NormalizedAsmeDataLoader
             ReadStringArray(root, "sources"),
             orderingFields,
             ReadSupplementaryRequirements(root),
-            ReadSpecRules(root));
+            ReadSpecRules(root),
+            ReadSpecSystems(root, lineNumber, errors));
+    }
+
+    private static MaterialIndexRecord? ParseMaterialIndex(JsonElement root, int lineNumber, List<string> errors)
+    {
+        if (!TryGetRequiredString(root, "spec_base", lineNumber, errors, out var specBase))
+            return null;
+
+        if (!root.TryGetProperty("grade_class_uns", out var mappingElement) ||
+            mappingElement.ValueKind != JsonValueKind.Array)
+        {
+            errors.Add($"Line {lineNumber}: material_index.grade_class_uns must be an array.");
+            return null;
+        }
+
+        var mappings = new List<GradeClassUnsMapping>();
+        var mapIndex = 0;
+        foreach (var mapElement in mappingElement.EnumerateArray())
+        {
+            mapIndex++;
+            if (mapElement.ValueKind != JsonValueKind.Object)
+            {
+                errors.Add($"Line {lineNumber}: material_index.grade_class_uns[{mapIndex}] must be an object.");
+                continue;
+            }
+
+            var grade = GetNullableString(mapElement, "grade");
+            var @class = GetNullableString(mapElement, "class");
+            var uns = GetNullableString(mapElement, "uns");
+
+            mappings.Add(new GradeClassUnsMapping(grade, @class, uns));
+        }
+
+        return new MaterialIndexRecord(
+            specBase,
+            GetNullableString(root, "spec_asme"),
+            GetNullableString(root, "spec_astm"),
+            ReadStringArray(root, "systems_available"),
+            ReadStringArray(root, "grades"),
+            ReadStringArray(root, "classes"),
+            mappings);
     }
 
     private static IReadOnlyDictionary<string, IReadOnlyList<string>> ReadEnums(
@@ -322,6 +393,64 @@ public sealed class NormalizedAsmeDataLoader
         }
 
         return values;
+    }
+
+    private static IReadOnlyList<DerivedFieldDefinition> ReadDerivedFields(
+        JsonElement root,
+        int lineNumber,
+        List<string> errors)
+    {
+        var derivedFields = new List<DerivedFieldDefinition>();
+        if (!root.TryGetProperty("derived_fields", out var derivedElement) ||
+            derivedElement.ValueKind != JsonValueKind.Array)
+            return derivedFields;
+
+        var index = 0;
+        foreach (var item in derivedElement.EnumerateArray())
+        {
+            index++;
+            if (item.ValueKind != JsonValueKind.Object)
+            {
+                errors.Add($"Line {lineNumber}: derived_fields[{index}] must be an object.");
+                continue;
+            }
+
+            var id = GetNullableString(item, "id");
+            var type = GetNullableString(item, "type") ?? "boolean";
+            var expression = GetNullableString(item, "expression");
+
+            if (string.IsNullOrWhiteSpace(id) || string.IsNullOrWhiteSpace(expression))
+            {
+                errors.Add($"Line {lineNumber}: derived_fields[{index}] requires id and expression.");
+                continue;
+            }
+
+            derivedFields.Add(new DerivedFieldDefinition(id, type, expression));
+        }
+
+        return derivedFields;
+    }
+
+    private static SpecSystemDefinition ReadSpecSystems(
+        JsonElement root,
+        int lineNumber,
+        List<string> errors)
+    {
+        if (!root.TryGetProperty("spec_systems", out var systemsElement) ||
+            systemsElement.ValueKind != JsonValueKind.Object)
+        {
+            errors.Add($"Line {lineNumber}: spec_definition.spec_systems must be an object.");
+            return new SpecSystemDefinition("ASME", Array.Empty<string>(), null);
+        }
+
+        var primary = GetNullableString(systemsElement, "primary") ?? "ASME";
+        var available = ReadStringArray(systemsElement, "available");
+        if (available.Count == 0 && !string.IsNullOrWhiteSpace(primary))
+            available = new List<string> { primary };
+
+        var astmIdentical = GetNullableString(systemsElement, "astm_identical");
+
+        return new SpecSystemDefinition(primary, available, astmIdentical);
     }
 
     private static IReadOnlyList<SupplementaryRequirementDefinition> ReadSupplementaryRequirements(JsonElement root)

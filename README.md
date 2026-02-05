@@ -18,11 +18,11 @@ When Codex is running in this repository, it MUST:
 
 If instructions elsewhere conflict with this README, this README wins.
 
-## Active baseline (2026-02-04)
+## Active baseline (2026-02-05)
 - Active build inputs for the PO assistant now live in `data/`:
-  - `data/normalized_asme_po_schema.json`
-  - `data/normalized_asme_partA_specs.jsonl`
-  - `data/CODEX_BUILD_INSTRUCTIONS_ASME_PO_ASSISTANT.md`
+  - `data/asme_po_schema_imperial_v4.json`
+  - `data/asme_po_data_imperial_v4.jsonl`
+  - `data/CODEX_BUILD_INSTRUCTIONS_ASME_PO_ASSISTANT_IMPERIAL_V4.md`
 - Legacy OCR/corpus outputs are archived under `old_data/`:
   - `old_data/data/`
   - `old_data/sectionII_partA_data_digitized/`
@@ -479,10 +479,18 @@ Current PDF paths used by the ingest CLI:
 ## Current UI (normalized JSONL mode)
 - WPF desktop interface (Windows 10/11) now runs directly from normalized JSONL data.
 - Top-level context includes:
-  - Code Use checkbox (`code_use`)
-  - Governing standard dropdown (`governing_standard`) + "Other (specify)" textbox
+- Code Use checkbox (`code_use`)
+  - Item type dropdown (`item_type`)
+  - Order-to standard dropdown (`order_to_standard`)
+  - Marking required checkbox (`marking_required`)
+  - Purchaser requires MTR/CMTR checkbox (`purchaser_requires_mtr`)
   - MTR Required checkbox (`mtr_required`) with policy lock behavior
-- Searchable ASME spec selector is populated from `record_type="spec_definition"` rows.
+- Material selector panel includes:
+  - Spec system dropdown (ASME vs ASTM)
+  - Searchable material spec dropdown (sorted by spec number)
+  - Grade/Class dropdowns when present
+  - UNS typeahead + UNS auto-populate
+  - ASTM equivalency info when ASTM selected
 - Dynamic form renderer builds controls from `ordering_fields[]` and `input_type`.
 - PO preview panel supports live regeneration and copy-to-clipboard.
 - Export writes both:
@@ -507,17 +515,17 @@ Current PDF paths used by the ingest CLI:
 
 ## Configuration
 - Desktop app resolves files by searching upward for:
-  - `data/normalized_asme_partA_specs.jsonl`
-  - `data/normalized_asme_po_schema.json`
+  - `data/asme_po_data_imperial_v4.jsonl`
+  - `data/asme_po_schema_imperial_v4.json`
 - Build instructions reference:
-  - `data/CODEX_BUILD_INSTRUCTIONS_ASME_PO_ASSISTANT.md`
+  - `data/CODEX_BUILD_INSTRUCTIONS_ASME_PO_ASSISTANT_IMPERIAL_V4.md`
 - `PoApp.Ingest.Cli/appsettings.json` PDF settings remain for legacy ingest workflows only.
 
 ## App data/output
 - Active assistant inputs:
-  - `data/normalized_asme_po_schema.json`
-  - `data/normalized_asme_partA_specs.jsonl`
-  - `data/CODEX_BUILD_INSTRUCTIONS_ASME_PO_ASSISTANT.md`
+  - `data/asme_po_schema_imperial_v4.json`
+  - `data/asme_po_data_imperial_v4.jsonl`
+  - `data/CODEX_BUILD_INSTRUCTIONS_ASME_PO_ASSISTANT_IMPERIAL_V4.md`
 - App export output (via UI Export button):
   - `<chosen-file>.json`
   - `<chosen-file>.txt`
@@ -560,11 +568,12 @@ Current PDF paths used by the ingest CLI:
 - Add a release checklist for packaging desktop app + bundled normalized data updates.
 
 ## Materials coverage snapshot (normalized dataset)
-- Snapshot date: 2026-02-04
+- Snapshot date: 2026-02-05
 - `global_policy` records: 1
-- `spec_definition` records: 125
-- Specs with at least one `ordering_fields` item: 105
-- Specs with zero `ordering_fields` items: 20
+- `spec_definition` records: 123
+- `material_index` records: 131
+- Specs with at least one `ordering_fields` item: 104
+- Specs with zero `ordering_fields` items: 19
 - Specs with non-empty `rules` arrays: 11
 
 ## Quality & testing status

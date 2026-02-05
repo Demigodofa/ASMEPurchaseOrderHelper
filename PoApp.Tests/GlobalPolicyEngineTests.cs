@@ -11,11 +11,13 @@ public sealed class GlobalPolicyEngineTests
         var engine = new GlobalPolicyEngine();
         var policy = BuildPolicy();
 
-        var result = engine.Evaluate(
-            policy,
-            codeUse: true,
-            governingStandard: "ASME BPVC Section II material",
-            currentMtrRequired: false);
+        var result = engine.Evaluate(policy, new GlobalPolicyContext(
+            CodeUse: true,
+            ItemType: "RawMaterial",
+            OrderToStandard: "ASME BPVC Section II",
+            MarkingRequired: false,
+            PurchaserRequiresMtr: false,
+            MtrRequired: false));
 
         Assert.True(result.MtrRequired);
         Assert.True(result.IsMtrLocked);
@@ -28,11 +30,13 @@ public sealed class GlobalPolicyEngineTests
         var engine = new GlobalPolicyEngine();
         var policy = BuildPolicy();
 
-        var result = engine.Evaluate(
-            policy,
-            codeUse: true,
-            governingStandard: "ASME B16.9",
-            currentMtrRequired: true);
+        var result = engine.Evaluate(policy, new GlobalPolicyContext(
+            CodeUse: true,
+            ItemType: "Component",
+            OrderToStandard: "ASME B16.9",
+            MarkingRequired: true,
+            PurchaserRequiresMtr: false,
+            MtrRequired: true));
 
         Assert.False(result.MtrRequired);
         Assert.True(result.IsMtrLocked);
@@ -43,24 +47,26 @@ public sealed class GlobalPolicyEngineTests
     {
         return new GlobalPolicyRecord(
             "POLICY",
+            "1.0.0",
             "Test policy",
-            ["code_use", "governing_standard"],
+            ["code_use", "order_to_standard", "marking_required"],
+            [],
             [
                 new GlobalPolicyRule(
                     "RULE1",
-                    "code_use == true AND governing_standard NOT IN B16_MARKING_ONLY",
+                    "code_use == true AND order_to_standard NOT IN B16_MARKING_ONLY",
                     [
-                        new GlobalPolicyAction("mtr_required", true, null),
-                        new GlobalPolicyAction(null, null, "Provide MTR/CMTR (certified test report) with shipment.")
+                        new GlobalPolicyAction("mtr_required", true, "mtr_required", true, null),
+                        new GlobalPolicyAction(null, null, null, null, "Provide MTR/CMTR (certified test report) with shipment.")
                     ],
                     null,
                     null),
                 new GlobalPolicyRule(
                     "RULE2",
-                    "code_use == true AND governing_standard IN B16_MARKING_ONLY",
+                    "code_use == true AND order_to_standard IN B16_MARKING_ONLY",
                     [
-                        new GlobalPolicyAction("mtr_required", false, null),
-                        new GlobalPolicyAction(null, null, "Marking requirements apply; MTR not required by this policy.")
+                        new GlobalPolicyAction("mtr_required", false, "mtr_required", true, null),
+                        new GlobalPolicyAction(null, null, null, null, "Marking requirements apply; MTR not required by this policy.")
                     ],
                     null,
                     null)
@@ -71,4 +77,3 @@ public sealed class GlobalPolicyEngineTests
             });
     }
 }
-

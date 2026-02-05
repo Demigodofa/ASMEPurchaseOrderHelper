@@ -23,9 +23,9 @@ inputs/originals/
 *.sqlite
 *.sqlite3
 data/*
-!data/normalized_asme_po_schema.json
-!data/normalized_asme_partA_specs.jsonl
-!data/CODEX_BUILD_INSTRUCTIONS_ASME_PO_ASSISTANT.md
+!data/asme_po_schema_imperial_v4.json
+!data/asme_po_data_imperial_v4.jsonl
+!data/CODEX_BUILD_INSTRUCTIONS_ASME_PO_ASSISTANT_IMPERIAL_V4.md
 *.pdf
 *.bak
 startup-error.txt
