@@ -332,7 +332,11 @@ public partial class MainViewModel : ObservableObject
         foreach (var field in OrderingFields)
         {
             var value = field.GetValue();
-            if (!string.IsNullOrWhiteSpace(value))
+            if (field.IsFixedText)
+            {
+                filledFields.Add(new FilledOrderingField(field.Definition, string.Empty));
+            }
+            else if (!string.IsNullOrWhiteSpace(value))
                 filledFields.Add(new FilledOrderingField(field.Definition, value));
 
             if (!field.IsSupplementarySelector)
@@ -714,8 +718,12 @@ public sealed partial class OrderingFieldInput : ObservableObject
     public bool IsMultiSelect => InputType is "multi_select" or "sr_select" or "options_select";
     public bool IsSupplementarySelector => InputType is "sr_select";
     public bool IsNumberWithUnit => InputType is "number_with_unit";
-    public bool HasSingleSelectOptions => !IsMultiSelect && !IsBoolean && !IsNumberWithUnit && Options.Count > 0;
-    public bool UsesTextInput => !IsBoolean && !IsMultiSelect && !IsNumberWithUnit && !HasSingleSelectOptions;
+    public bool IsEnum => InputType is "enum";
+    public bool IsEnumOrText => InputType is "enum_or_text";
+    public bool IsFixedText => InputType is "fixed_text";
+    public bool HasSingleSelectOptions => IsEnum && Options.Count > 0;
+    public bool HasEditableSelectOptions => IsEnumOrText && Options.Count > 0;
+    public bool UsesTextInput => InputType is "text" or "number" or "composite" || (IsEnumOrText && Options.Count == 0);
     public bool HasUnits => Units.Count > 0;
 
     private string InputType { get; }
@@ -734,6 +742,8 @@ public sealed partial class OrderingFieldInput : ObservableObject
     {
         get
         {
+            if (IsFixedText)
+                return true;
             if (IsBoolean)
                 return BooleanValue.HasValue;
             if (IsMultiSelect)
@@ -741,6 +751,8 @@ public sealed partial class OrderingFieldInput : ObservableObject
             if (IsNumberWithUnit)
                 return !string.IsNullOrWhiteSpace(NumberValue);
             if (HasSingleSelectOptions)
+                return !string.IsNullOrWhiteSpace(SelectedOption);
+            if (HasEditableSelectOptions)
                 return !string.IsNullOrWhiteSpace(SelectedOption);
 
             return !string.IsNullOrWhiteSpace(TextValue);
@@ -776,7 +788,7 @@ public sealed partial class OrderingFieldInput : ObservableObject
             }
         }
 
-        if (HasSingleSelectOptions && Options.Count > 0)
+        if ((HasSingleSelectOptions || HasEditableSelectOptions) && Options.Count > 0)
             SelectedOption = Options[0];
         if (IsNumberWithUnit && Units.Count > 0)
             SelectedUnit = Units[0];
@@ -784,6 +796,8 @@ public sealed partial class OrderingFieldInput : ObservableObject
 
     public string? GetValue()
     {
+        if (IsFixedText)
+            return string.Empty;
         if (IsBoolean)
             return BooleanValue.HasValue ? (BooleanValue.Value ? "Yes" : "No") : null;
 
@@ -803,7 +817,7 @@ public sealed partial class OrderingFieldInput : ObservableObject
                 : $"{NumberValue.Trim()} {SelectedUnit.Trim()}";
         }
 
-        if (HasSingleSelectOptions)
+        if (HasSingleSelectOptions || HasEditableSelectOptions)
             return string.IsNullOrWhiteSpace(SelectedOption) ? null : SelectedOption.Trim();
 
         return string.IsNullOrWhiteSpace(TextValue) ? null : TextValue.Trim();

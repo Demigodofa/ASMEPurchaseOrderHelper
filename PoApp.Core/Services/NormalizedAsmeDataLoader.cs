@@ -1,4 +1,5 @@
 using System.Text.Json;
+using System.Text.RegularExpressions;
 using PoApp.Core.Models;
 
 namespace PoApp.Core.Services;
@@ -19,6 +20,22 @@ public sealed class NormalizedAsmeDataLoader
     private const string GlobalPolicyRecordType = "global_policy";
     private const string SpecDefinitionRecordType = "spec_definition";
     private const string MaterialIndexRecordType = "material_index";
+    private static readonly Regex AsmeSpecPattern = new(@"^(SA|SB)-\d+[A-Z0-9-]*$", RegexOptions.Compiled);
+    private static readonly Regex SpecBasePattern = new(@"^\d+[A-Z0-9]*$", RegexOptions.Compiled);
+    private static readonly Regex UnsPattern = new(@"^[A-Z]\d{5}$", RegexOptions.Compiled);
+    private static readonly HashSet<string> AllowedInputTypes = new(StringComparer.OrdinalIgnoreCase)
+    {
+        "text",
+        "number",
+        "enum",
+        "enum_or_text",
+        "boolean",
+        "multi_select",
+        "number_with_unit",
+        "composite",
+        "sr_select",
+        "fixed_text"
+    };
     private readonly List<string> lastWarnings = [];
 
     public IReadOnlyList<string> LastWarnings => lastWarnings;
@@ -165,6 +182,8 @@ public sealed class NormalizedAsmeDataLoader
         var description = GetNullableString(root, "description");
         var version = GetNullableString(root, "version");
         var inputsRequired = ReadStringArray(root, "inputs_required");
+        if (inputsRequired.Count == 0)
+            errors.Add($"Line {lineNumber}: global_policy.inputs_required must contain at least one item.");
         var enums = ReadEnums(root, lineNumber, errors);
         var derivedFields = ReadDerivedFields(root, lineNumber, errors);
         var rules = new List<GlobalPolicyRule>();
@@ -247,26 +266,32 @@ public sealed class NormalizedAsmeDataLoader
         if (!TryGetRequiredString(root, "asme_spec", lineNumber, errors, out var asmeSpec))
             return null;
 
+        if (!AsmeSpecPattern.IsMatch(asmeSpec))
+            errors.Add($"Line {lineNumber}: spec_definition.asme_spec '{asmeSpec}' does not match SA/SB pattern.");
+
+        if (!root.TryGetProperty("spec_systems", out var specSystemsElement) ||
+            specSystemsElement.ValueKind != JsonValueKind.Object)
+        {
+            errors.Add($"Line {lineNumber}: spec_definition '{asmeSpec}' is missing spec_systems object.");
+            return null;
+        }
+
+        var unitsProfile = GetNullableString(root, "units_profile");
+        if (string.IsNullOrWhiteSpace(unitsProfile) || !string.Equals(unitsProfile, "ImperialOnly", StringComparison.OrdinalIgnoreCase))
+        {
+            errors.Add($"Line {lineNumber}: spec_definition '{asmeSpec}' has invalid or missing units_profile.");
+        }
+
         if (!root.TryGetProperty("ordering_fields", out var orderingFieldsElement) ||
             orderingFieldsElement.ValueKind != JsonValueKind.Array)
         {
-            warnings.Add($"Line {lineNumber}: spec_definition '{asmeSpec}' is missing ordering_fields array. Using empty field list.");
-            orderingFieldsElement = default;
+            errors.Add($"Line {lineNumber}: spec_definition '{asmeSpec}' is missing ordering_fields array.");
+            return null;
         }
 
         var orderingFields = new List<OrderingFieldDefinition>();
         if (orderingFieldsElement.ValueKind != JsonValueKind.Array)
-        {
-            return new SpecDefinitionRecord(
-                asmeSpec,
-                GetNullableString(root, "title"),
-                GetNullableString(root, "astm_identical"),
-                ReadStringArray(root, "sources"),
-                orderingFields,
-                ReadSupplementaryRequirements(root),
-                ReadSpecRules(root),
-                ReadSpecSystems(root, lineNumber, errors));
-        }
+            return null;
 
         var fieldIndex = 0;
         foreach (var fieldElement in orderingFieldsElement.EnumerateArray())
@@ -274,22 +299,41 @@ public sealed class NormalizedAsmeDataLoader
             fieldIndex++;
             if (fieldElement.ValueKind != JsonValueKind.Object)
             {
-                warnings.Add($"Line {lineNumber}: ordering_fields[{fieldIndex}] is not an object; field skipped.");
+                errors.Add($"Line {lineNumber}: ordering_fields[{fieldIndex}] is not an object.");
                 continue;
             }
 
+            var fieldHasError = false;
+            var key = GetNullableString(fieldElement, "key");
             var prompt = GetNullableString(fieldElement, "prompt");
             var inputType = GetNullableString(fieldElement, "input_type");
-            if (string.IsNullOrWhiteSpace(prompt) || string.IsNullOrWhiteSpace(inputType))
+            if (string.IsNullOrWhiteSpace(key))
             {
-                warnings.Add($"Line {lineNumber}: ordering_fields[{fieldIndex}] missing prompt or input_type; field skipped.");
-                continue;
+                errors.Add($"Line {lineNumber}: ordering_fields[{fieldIndex}] missing required key.");
+                fieldHasError = true;
+            }
+            if (string.IsNullOrWhiteSpace(prompt))
+            {
+                errors.Add($"Line {lineNumber}: ordering_fields[{fieldIndex}] missing required prompt.");
+                fieldHasError = true;
+            }
+            if (string.IsNullOrWhiteSpace(inputType))
+            {
+                errors.Add($"Line {lineNumber}: ordering_fields[{fieldIndex}] missing required input_type.");
+                fieldHasError = true;
+            }
+
+            if (!string.IsNullOrWhiteSpace(inputType) && !AllowedInputTypes.Contains(inputType))
+            {
+                errors.Add($"Line {lineNumber}: ordering_fields[{fieldIndex}] has invalid input_type '{inputType}'.");
+                fieldHasError = true;
             }
 
             var required = false;
             if (!fieldElement.TryGetProperty("required", out var requiredElement))
             {
-                warnings.Add($"Line {lineNumber}: ordering_fields[{fieldIndex}] missing 'required'; defaulting to false.");
+                errors.Add($"Line {lineNumber}: ordering_fields[{fieldIndex}] missing required boolean 'required'.");
+                fieldHasError = true;
             }
             else if (requiredElement.ValueKind == JsonValueKind.True || requiredElement.ValueKind == JsonValueKind.False)
             {
@@ -297,18 +341,46 @@ public sealed class NormalizedAsmeDataLoader
             }
             else
             {
-                warnings.Add($"Line {lineNumber}: ordering_fields[{fieldIndex}] has non-boolean 'required'; defaulting to false.");
+                errors.Add($"Line {lineNumber}: ordering_fields[{fieldIndex}] has non-boolean 'required'.");
+                fieldHasError = true;
             }
+
+            var options = ReadStringArray(fieldElement, "options");
+            var units = ReadStringArray(fieldElement, "units");
+
+            if (string.Equals(inputType, "enum", StringComparison.OrdinalIgnoreCase) && options.Count == 0)
+            {
+                errors.Add($"Line {lineNumber}: ordering_fields[{fieldIndex}] input_type enum requires options.");
+                fieldHasError = true;
+            }
+            if (string.Equals(inputType, "multi_select", StringComparison.OrdinalIgnoreCase) && options.Count == 0)
+            {
+                errors.Add($"Line {lineNumber}: ordering_fields[{fieldIndex}] input_type multi_select requires options.");
+                fieldHasError = true;
+            }
+            if (string.Equals(inputType, "number_with_unit", StringComparison.OrdinalIgnoreCase) && units.Count == 0)
+            {
+                errors.Add($"Line {lineNumber}: ordering_fields[{fieldIndex}] input_type number_with_unit requires units.");
+                fieldHasError = true;
+            }
+            if (string.Equals(inputType, "fixed_text", StringComparison.OrdinalIgnoreCase) && required)
+            {
+                errors.Add($"Line {lineNumber}: ordering_fields[{fieldIndex}] input_type fixed_text must set required=false.");
+                fieldHasError = true;
+            }
+
+            if (fieldHasError)
+                continue;
 
             orderingFields.Add(new OrderingFieldDefinition(
                 GetNullableString(fieldElement, "id"),
-                GetNullableString(fieldElement, "key"),
+                key,
                 prompt!,
                 inputType!,
                 required,
                 GetNullableString(fieldElement, "required_when"),
-                ReadStringArray(fieldElement, "options"),
-                ReadStringArray(fieldElement, "units"),
+                options,
+                units,
                 GetNullableString(fieldElement, "notes"),
                 GetNullableString(fieldElement, "source_ref")));
         }
@@ -328,6 +400,13 @@ public sealed class NormalizedAsmeDataLoader
     {
         if (!TryGetRequiredString(root, "spec_base", lineNumber, errors, out var specBase))
             return null;
+
+        if (!SpecBasePattern.IsMatch(specBase))
+            errors.Add($"Line {lineNumber}: material_index.spec_base '{specBase}' is invalid.");
+
+        var systemsAvailable = ReadStringArray(root, "systems_available");
+        if (systemsAvailable.Count == 0)
+            errors.Add($"Line {lineNumber}: material_index.systems_available must contain at least one item.");
 
         if (!root.TryGetProperty("grade_class_uns", out var mappingElement) ||
             mappingElement.ValueKind != JsonValueKind.Array)
@@ -351,6 +430,9 @@ public sealed class NormalizedAsmeDataLoader
             var @class = GetNullableString(mapElement, "class");
             var uns = GetNullableString(mapElement, "uns");
 
+            if (!string.IsNullOrWhiteSpace(uns) && !UnsPattern.IsMatch(uns))
+                errors.Add($"Line {lineNumber}: material_index.grade_class_uns[{mapIndex}].uns '{uns}' is invalid.");
+
             mappings.Add(new GradeClassUnsMapping(grade, @class, uns));
         }
 
@@ -358,7 +440,7 @@ public sealed class NormalizedAsmeDataLoader
             specBase,
             GetNullableString(root, "spec_asme"),
             GetNullableString(root, "spec_astm"),
-            ReadStringArray(root, "systems_available"),
+            systemsAvailable,
             ReadStringArray(root, "grades"),
             ReadStringArray(root, "classes"),
             mappings);

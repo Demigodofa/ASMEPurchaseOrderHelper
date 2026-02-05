@@ -1,208 +1,429 @@
-{
-  "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "title": "ASME PO Assistant JSONL Schema (Imperial V4: spec_definition + material_index)",
+﻿{  "$schema": "https://json-schema.org/draft/2020-12/schema",
+
+  "title": "ASME PO Assistant JSONL Schema (Imperial V4.1 strict)",
+
   "type": "object",
+
   "oneOf": [
+
     {
+
       "properties": {
-        "record_type": {
-          "const": "global_policy"
-        },
-        "policy_id": {
-          "type": "string"
-        },
-        "version": {
-          "type": "string"
-        },
-        "description": {
-          "type": "string"
-        },
-        "inputs_required": {
-          "type": "array",
-          "items": {
-            "type": "string"
-          }
-        },
-        "enums": {
-          "type": "object"
-        },
+
+        "record_type": { "const": "global_policy" },
+
+        "policy_id": { "type": "string" },
+
+        "version": { "type": "string" },
+
+        "description": { "type": "string" },
+
+        "inputs_required": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+
+        "enums": { "type": "object" },
+
+
+
         "derived_fields": {
+
           "type": "array",
+
           "items": {
-            "type": "object"
-          }
-        },
-        "rules": {
-          "type": "array",
-          "items": {
-            "type": "object"
-          }
-        }
-      },
-      "required": [
-        "record_type",
-        "policy_id",
-        "inputs_required",
-        "rules"
-      ]
-    },
-    {
-      "properties": {
-        "record_type": {
-          "const": "spec_definition"
-        },
-        "asme_spec": {
-          "type": "string"
-        },
-        "title": {
-          "type": [
-            "string",
-            "null"
-          ]
-        },
-        "astm_identical": {
-          "type": [
-            "string",
-            "null"
-          ]
-        },
-        "spec_systems": {
-          "type": "object"
-        },
-        "units_profile": {
-          "type": "string",
-          "enum": [
-            "ImperialOnly"
-          ]
-        },
-        "ordering_fields": {
-          "type": "array",
-          "items": {
-            "type": "object"
-          }
-        },
-        "purchase_order_flags": {
-          "type": [
-            "object",
-            "null"
-          ]
-        },
-        "supplementary_requirements_catalog": {
-          "type": [
-            "array",
-            "null"
-          ],
-          "items": {
-            "type": "object"
-          }
-        },
-        "rules": {
-          "type": [
-            "array",
-            "null"
-          ],
-          "items": {
-            "type": "object"
-          }
-        },
-        "sources": {
-          "type": [
-            "array",
-            "null"
-          ],
-          "items": {
-            "type": "string"
-          }
-        }
-      },
-      "required": [
-        "record_type",
-        "asme_spec",
-        "ordering_fields",
-        "spec_systems",
-        "units_profile"
-      ]
-    },
-    {
-      "properties": {
-        "record_type": {
-          "const": "material_index"
-        },
-        "spec_base": {
-          "type": "string"
-        },
-        "spec_asme": {
-          "type": [
-            "string",
-            "null"
-          ]
-        },
-        "spec_astm": {
-          "type": [
-            "string",
-            "null"
-          ]
-        },
-        "systems_available": {
-          "type": "array",
-          "items": {
-            "type": "string",
-            "enum": [
-              "ASME",
-              "ASTM"
-            ]
-          }
-        },
-        "grades": {
-          "type": "array",
-          "items": {
-            "type": "string"
-          }
-        },
-        "classes": {
-          "type": "array",
-          "items": {
-            "type": "string"
-          }
-        },
-        "grade_class_uns": {
-          "type": "array",
-          "items": {
+
             "type": "object",
+
             "properties": {
-              "grade": {
-                "type": [
-                  "string",
-                  "null"
-                ]
-              },
-              "class": {
-                "type": [
-                  "string",
-                  "null"
-                ]
-              },
-              "uns": {
-                "type": [
-                  "string",
-                  "null"
-                ]
-              }
+
+              "id": { "type": "string" },
+
+              "type": { "type": "string", "enum": ["boolean", "string", "number"] },
+
+              "expression": { "type": "string" }
+
             },
-            "required": [
-              "grade",
-              "class",
-              "uns"
-            ]
+
+            "required": ["id", "type", "expression"],
+
+            "additionalProperties": false
+
           }
+
+        },
+
+
+
+        "rules": {
+
+          "type": "array",
+
+          "items": {
+
+            "type": "object",
+
+            "properties": {
+
+              "id": { "type": "string" },
+
+              "if": { "type": "string" },
+
+
+
+              "then": {
+
+                "type": "array",
+
+                "minItems": 1,
+
+                "items": {
+
+                  "oneOf": [
+
+                    {
+
+                      "type": "object",
+
+                      "properties": {
+
+                        "set": { "type": "string" },
+
+                        "value": {}
+
+                      },
+
+                      "required": ["set", "value"],
+
+                      "additionalProperties": false
+
+                    },
+
+                    {
+
+                      "type": "object",
+
+                      "properties": {
+
+                        "lock": { "type": "string" },
+
+                        "value": { "type": "boolean" }
+
+                      },
+
+                      "required": ["lock", "value"],
+
+                      "additionalProperties": false
+
+                    },
+
+                    {
+
+                      "type": "object",
+
+                      "properties": {
+
+                        "add_po_note": { "type": "string" }
+
+                      },
+
+                      "required": ["add_po_note"],
+
+                      "additionalProperties": false
+
+                    }
+
+                  ]
+
+                }
+
+              },
+
+
+
+              "severity": { "type": "string", "enum": ["info", "warn", "error", "error_if_overridden"] },
+
+              "message": { "type": ["string", "null"] }
+
+            },
+
+            "required": ["id", "if", "then"],
+
+            "additionalProperties": false
+
+          }
+
         }
+
       },
-      "required": [
-        "record_type",
-        "spec_base",
-        "systems_available",
-        "grade_class_uns"
-      ]
+
+      "required": ["record_type", "policy_id", "inputs_required", "rules"],
+
+      "additionalProperties": false
+
+    },
+
+
+
+    {
+
+      "properties": {
+
+        "record_type": { "const": "spec_definition" },
+
+        "asme_spec": { "type": "string", "pattern": "^(SA|SB)-\\d+[A-Z0-9-]*$" },
+
+        "title": { "type": ["string", "null"] },
+
+        "astm_identical": { "type": ["string", "null"] },
+
+
+
+        "spec_systems": {
+
+          "type": "object",
+
+          "properties": {
+
+            "primary": { "type": "string", "enum": ["ASME"] },
+
+            "available": {
+
+              "type": "array",
+
+              "items": { "type": "string", "enum": ["ASME", "ASTM"] },
+
+              "minItems": 1
+
+            }
+
+          },
+
+          "required": ["primary", "available"],
+
+          "additionalProperties": true
+
+        },
+
+
+
+        "units_profile": { "type": "string", "enum": ["ImperialOnly"] },
+
+
+
+        "sources": { "type": ["array", "null"], "items": { "type": "string" } },
+
+
+
+        "ordering_fields": {
+
+          "type": "array",
+
+          "items": {
+
+            "type": "object",
+
+            "properties": {
+
+              "id": { "type": ["string", "null"] },
+
+
+
+              "key": {
+
+                "type": "string",
+
+                "minLength": 1,
+
+                "description": "Stable binding key used by GUI + output builder (REQUIRED)."
+
+              },
+
+
+
+              "prompt": { "type": "string", "minLength": 1 },
+
+
+
+              "input_type": {
+
+                "type": "string",
+
+                "enum": [
+
+                  "text",
+
+                  "number",
+
+                  "enum",
+
+                  "enum_or_text",
+
+                  "boolean",
+
+                  "multi_select",
+
+                  "number_with_unit",
+
+                  "composite",
+
+                  "sr_select",
+
+                  "fixed_text"
+
+                ]
+
+              },
+
+
+
+              "required": { "type": "boolean" },
+
+              "required_when": { "type": ["string", "null"] },
+
+
+
+              "options": { "type": ["array", "null"], "items": { "type": "string" }, "minItems": 1 },
+
+              "units": { "type": ["array", "null"], "items": { "type": "string" }, "minItems": 1 },
+
+
+
+              "notes": { "type": ["string", "null"] },
+
+              "source_ref": { "type": ["string", "null"] }
+
+            },
+
+            "required": ["key", "prompt", "input_type", "required"],
+
+            "additionalProperties": false,
+
+
+
+            "allOf": [
+
+              {
+
+                "if": { "properties": { "input_type": { "const": "enum" } } },
+
+                "then": { "required": ["options"] }
+
+              },
+
+              {
+
+                "if": { "properties": { "input_type": { "const": "multi_select" } } },
+
+                "then": { "required": ["options"] }
+
+              },
+
+              {
+
+                "if": { "properties": { "input_type": { "const": "number_with_unit" } } },
+
+                "then": { "required": ["units"] }
+
+              },
+
+              {
+
+                "if": { "properties": { "input_type": { "const": "fixed_text" } } },
+
+                "then": { "properties": { "required": { "const": false } } }
+
+              }
+
+            ]
+
+          }
+
+        },
+
+
+
+        "purchase_order_flags": { "type": ["object", "null"] },
+
+        "supplementary_requirements_catalog": { "type": ["array", "null"], "items": { "type": "object" } },
+
+        "rules": { "type": ["array", "null"], "items": { "type": "object" } }
+
+      },
+
+      "required": ["record_type", "asme_spec", "ordering_fields", "spec_systems", "units_profile"],
+
+      "additionalProperties": false
+
+    },
+
+
+
+    {
+
+      "properties": {
+
+        "record_type": { "const": "material_index" },
+
+        "spec_base": { "type": "string", "pattern": "^\\d+[A-Z0-9]*$" },
+
+        "spec_asme": { "type": ["string", "null"] },
+
+        "spec_astm": { "type": ["string", "null"] },
+
+
+
+        "systems_available": {
+
+          "type": "array",
+
+          "items": { "type": "string", "enum": ["ASME", "ASTM"] },
+
+          "minItems": 1
+
+        },
+
+
+
+        "grades": { "type": "array", "items": { "type": "string" } },
+
+        "classes": { "type": "array", "items": { "type": "string" } },
+
+
+
+        "grade_class_uns": {
+
+          "type": "array",
+
+          "minItems": 1,
+
+          "items": {
+
+            "type": "object",
+
+            "properties": {
+
+              "grade": { "type": ["string", "null"] },
+
+              "class": { "type": ["string", "null"] },
+
+              "uns": { "type": ["string", "null"], "pattern": "^[A-Z]\\d{5}$" }
+
+            },
+
+            "required": ["grade", "class", "uns"],
+
+            "additionalProperties": false
+
+          }
+
+        }
+
+      },
+
+      "required": ["record_type", "spec_base", "systems_available", "grade_class_uns"],
+
+      "additionalProperties": false
+
     }
+
   ]
+
 }

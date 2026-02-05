@@ -19,8 +19,8 @@ public sealed class NormalizedAsmeDataLoaderTests
 
         var jsonlPath = WriteTempFile("dataset.jsonl", """
         {"record_type":"global_policy","policy_id":"POL1","inputs_required":["code_use"],"rules":[{"id":"R1","if":"code_use == true","then":[{"set":"mtr_required","value":true},{"lock":"mtr_required","value":true},{"add_po_note":"Provide report."}]}],"enums":{"B16_MARKING_ONLY":["ASME B16.5"]}}
-        {"record_type":"spec_definition","asme_spec":"SA-TEST","title":"Test Spec","astm_identical":"A-1","spec_systems":{"primary":"ASME","available":["ASME"]},"ordering_fields":[{"id":"5.1","prompt":"Quantity","input_type":"text","required":true}]}
-        {"record_type":"material_index","spec_base":"TEST","systems_available":["ASME"],"grade_class_uns":[{"grade":null,"class":null,"uns":"K00000"}]}
+        {"record_type":"spec_definition","asme_spec":"SA-100","title":"Test Spec","astm_identical":"A-1","spec_systems":{"primary":"ASME","available":["ASME"]},"units_profile":"ImperialOnly","ordering_fields":[{"id":"5.1","key":"quantity","prompt":"Quantity","input_type":"text","required":true}]}
+        {"record_type":"material_index","spec_base":"100","systems_available":["ASME"],"grade_class_uns":[{"grade":null,"class":null,"uns":"K00000"}]}
         """);
 
         var loader = new NormalizedAsmeDataLoader();
@@ -28,7 +28,7 @@ public sealed class NormalizedAsmeDataLoaderTests
 
         Assert.Equal("POL1", dataset.GlobalPolicy.PolicyId);
         Assert.Single(dataset.Specs);
-        Assert.Equal("SA-TEST", dataset.Specs[0].AsmeSpec);
+        Assert.Equal("SA-100", dataset.Specs[0].AsmeSpec);
         Assert.Single(dataset.Specs[0].OrderingFields);
         Assert.True(dataset.Specs[0].OrderingFields[0].Required);
     }
@@ -47,9 +47,9 @@ public sealed class NormalizedAsmeDataLoaderTests
         """);
 
         var jsonlPath = WriteTempFile("dataset.jsonl", """
-        {"record_type":"global_policy","policy_id":"POL1","rules":[]}
+        {"record_type":"global_policy","policy_id":"POL1","inputs_required":["code_use"],"rules":[]}
         {"record_type":"spec_definition","ordering_fields":[]}
-        {"record_type":"material_index","spec_base":"TEST","systems_available":["ASME"],"grade_class_uns":[{"grade":null,"class":null,"uns":"K00000"}]}
+        {"record_type":"material_index","spec_base":"100","systems_available":["ASME"],"grade_class_uns":[{"grade":null,"class":null,"uns":"K00000"}]}
         """);
 
         var loader = new NormalizedAsmeDataLoader();
@@ -59,7 +59,7 @@ public sealed class NormalizedAsmeDataLoaderTests
     }
 
     [Fact]
-    public void Load_SkipsMalformedOrderingFields_InsteadOfFailingWholeDataset()
+    public void Load_Throws_OnMalformedOrderingFields()
     {
         var schemaPath = WriteTempFile("schema.json", """
         {
@@ -72,18 +72,15 @@ public sealed class NormalizedAsmeDataLoaderTests
         """);
 
         var jsonlPath = WriteTempFile("dataset.jsonl", """
-        {"record_type":"global_policy","policy_id":"POL1","rules":[]}
-        {"record_type":"spec_definition","asme_spec":"SA-TEST","spec_systems":{"primary":"ASME","available":["ASME"]},"ordering_fields":[{"id":"5.1","prompt":"","input_type":"text","required":true},{"id":"5.2","prompt":"Quantity","input_type":"text","required":"yes"},{"id":"5.3","prompt":"Size","input_type":"text","required":true}]}
-        {"record_type":"material_index","spec_base":"TEST","systems_available":["ASME"],"grade_class_uns":[{"grade":null,"class":null,"uns":"K00000"}]}
+        {"record_type":"global_policy","policy_id":"POL1","inputs_required":["code_use"],"rules":[]}
+        {"record_type":"spec_definition","asme_spec":"SA-100","spec_systems":{"primary":"ASME","available":["ASME"]},"units_profile":"ImperialOnly","ordering_fields":[{"id":"5.1","key":"","prompt":"","input_type":"text","required":true},{"id":"5.2","key":"quantity","prompt":"Quantity","input_type":"text","required":"yes"},{"id":"5.3","key":"size","prompt":"Size","input_type":"text","required":true}]}
+        {"record_type":"material_index","spec_base":"100","systems_available":["ASME"],"grade_class_uns":[{"grade":null,"class":null,"uns":"K00000"}]}
         """);
 
         var loader = new NormalizedAsmeDataLoader();
-        var dataset = loader.Load(jsonlPath, schemaPath);
+        var exception = Assert.Throws<NormalizedDataValidationException>(() => loader.Load(jsonlPath, schemaPath));
 
-        Assert.Single(dataset.Specs);
-        Assert.Equal(2, dataset.Specs[0].OrderingFields.Count);
-        Assert.Contains(loader.LastWarnings, warning => warning.Contains("field skipped", StringComparison.OrdinalIgnoreCase));
-        Assert.Contains(loader.LastWarnings, warning => warning.Contains("defaulting to false", StringComparison.OrdinalIgnoreCase));
+        Assert.Contains(exception.Errors, message => message.Contains("ordering_fields", StringComparison.OrdinalIgnoreCase));
     }
 
     private static string WriteTempFile(string fileName, string content)

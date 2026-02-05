@@ -44,7 +44,12 @@ public sealed class PurchaseOrderBuilder
         else
         {
             foreach (var field in input.FilledOrderingFields)
-                lines.Add($"- {field.Definition.Prompt}: {field.Value}");
+            {
+                if (string.Equals(field.Definition.InputType, "fixed_text", StringComparison.OrdinalIgnoreCase))
+                    lines.Add($"- {field.Definition.Prompt}");
+                else
+                    lines.Add($"- {field.Definition.Prompt}: {field.Value}");
+            }
         }
 
         lines.Add(string.Empty);

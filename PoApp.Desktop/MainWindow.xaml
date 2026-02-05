@@ -148,6 +148,21 @@
                                     <StackPanel>
                                         <TextBlock Text="{Binding Label}" TextWrapping="Wrap" FontWeight="SemiBold" />
                                         <TextBlock Text="{Binding RequiredHint}" FontSize="11" Foreground="#666" Margin="0,2,0,4" />
+                                        <TextBlock Text="Fixed text (included as-is)."
+                                                   FontSize="11"
+                                                   Foreground="#666"
+                                                   Margin="0,0,0,4">
+                                            <TextBlock.Style>
+                                                <Style TargetType="TextBlock">
+                                                    <Setter Property="Visibility" Value="Collapsed" />
+                                                    <Style.Triggers>
+                                                        <DataTrigger Binding="{Binding IsFixedText}" Value="True">
+                                                            <Setter Property="Visibility" Value="Visible" />
+                                                        </DataTrigger>
+                                                    </Style.Triggers>
+                                                </Style>
+                                            </TextBlock.Style>
+                                        </TextBlock>
 
                                         <TextBox Text="{Binding TextValue, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}">
                                             <TextBox.Style>
@@ -170,6 +185,22 @@
                                                     <Setter Property="Visibility" Value="Collapsed" />
                                                     <Style.Triggers>
                                                         <DataTrigger Binding="{Binding HasSingleSelectOptions}" Value="True">
+                                                            <Setter Property="Visibility" Value="Visible" />
+                                                        </DataTrigger>
+                                                    </Style.Triggers>
+                                                </Style>
+                                            </ComboBox.Style>
+                                        </ComboBox>
+
+                                        <ComboBox ItemsSource="{Binding Options}"
+                                                  SelectedItem="{Binding SelectedOption, Mode=TwoWay}"
+                                                  IsEditable="True"
+                                                  Margin="0,2,0,0">
+                                            <ComboBox.Style>
+                                                <Style TargetType="ComboBox">
+                                                    <Setter Property="Visibility" Value="Collapsed" />
+                                                    <Style.Triggers>
+                                                        <DataTrigger Binding="{Binding HasEditableSelectOptions}" Value="True">
                                                             <Setter Property="Visibility" Value="Visible" />
                                                         </DataTrigger>
                                                     </Style.Triggers>
