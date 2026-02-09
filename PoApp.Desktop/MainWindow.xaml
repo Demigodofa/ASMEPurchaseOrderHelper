@@ -22,34 +22,18 @@
                           Margin="0,0,0,8" />
 
                 <Grid Margin="0,0,0,10">
-                    <Grid.ColumnDefinitions>
-                        <ColumnDefinition Width="140" />
-                        <ColumnDefinition Width="8" />
-                        <ColumnDefinition Width="*" />
-                    </Grid.ColumnDefinitions>
-
-                    <ComboBox Grid.Column="0"
-                              ItemsSource="{Binding B16Standards}"
+                    <ComboBox ItemsSource="{Binding B16Standards}"
                               SelectedItem="{Binding SelectedB16Standard, Mode=TwoWay}"
-                              DisplayMemberPath="Display"
-                              IsEnabled="{Binding IsB16Item}" />
-
-                    <TextBlock Grid.Column="2"
-                               Text="{Binding B16HelpText}"
-                               TextWrapping="Wrap"
-                               Foreground="#666"
-                               FontSize="11">
-                        <TextBlock.Style>
-                            <Style TargetType="TextBlock">
-                                <Setter Property="Visibility" Value="Collapsed" />
-                                <Style.Triggers>
-                                    <DataTrigger Binding="{Binding ShowB16Help}" Value="True">
-                                        <Setter Property="Visibility" Value="Visible" />
-                                    </DataTrigger>
-                                </Style.Triggers>
-                            </Style>
-                        </TextBlock.Style>
-                    </TextBlock>
+                              IsEnabled="{Binding IsB16Item}"
+                              Width="90"
+                              HorizontalContentAlignment="Center"
+                              ToolTip="{Binding SelectedB16Standard.Description}">
+                        <ComboBox.ItemTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Code}" ToolTip="{Binding Description}" />
+                            </DataTemplate>
+                        </ComboBox.ItemTemplate>
+                    </ComboBox>
                 </Grid>
 
                 <CheckBox Content="MTR (CofC) Required"

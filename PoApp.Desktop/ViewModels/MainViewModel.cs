@@ -49,8 +49,6 @@ public partial class MainViewModel : ObservableObject
     [ObservableProperty] private bool showClassSelector;
     [ObservableProperty] private bool isB16Item;
     [ObservableProperty] private B16Option? selectedB16Standard;
-    [ObservableProperty] private bool showB16Help;
-    [ObservableProperty] private string b16HelpText = string.Empty;
 
     private bool mtrRequired;
     public bool MtrRequired
@@ -167,13 +165,7 @@ public partial class MainViewModel : ObservableObject
     partial void OnIsB16ItemChanged(bool value)
     {
         ApplyMtrPolicy();
-        UpdateB16HelpVisibility();
         Regenerate();
-    }
-
-    partial void OnSelectedB16StandardChanged(B16Option? value)
-    {
-        UpdateB16HelpVisibility();
     }
 
     partial void OnSelectedSpecChanged(SpecDefinitionRecord? value)
@@ -521,31 +513,13 @@ public partial class MainViewModel : ObservableObject
     private void PopulateB16Options()
     {
         B16Standards.Clear();
-        B16Standards.Add(new B16Option("B16.5", "B16.5"));
-        B16Standards.Add(new B16Option("B16.9", "B16.9"));
-        B16Standards.Add(new B16Option("B16.11", "B16.11"));
-        B16Standards.Add(new B16Option("B16.21", "B16.21"));
-        B16Standards.Add(new B16Option("B16.20", "B16.20"));
-        B16Standards.Add(new B16Option("B16.34", "B16.34"));
-        B16Standards.Add(new B16Option("B16.47", "B16.47"));
-
-        B16HelpText = string.Join(Environment.NewLine, new[]
-        {
-            "5: Pipe Flanges and Flanged Fittings (NPS 1/2 through 24; Classes 150-2500). Covers forged/cast steel, nickel alloys.",
-            "9: Factory-Made Wrought Butt-welding Fittings.",
-            "11: Forged Fittings, Socket-Welding and Threaded.",
-            "21: Metallic and Nonmetallic Gaskets for Pipe Flanges.",
-            "20: Metallic and Nonmetallic Gaskets for Pipe Flanges.",
-            "34: Valves - Flanged, Threaded, and Welding End (Pressure-Temperature Ratings).",
-            "47: Large Diameter Steel Pipe Flanges (NPS 26 through 60)."
-        });
-
-        UpdateB16HelpVisibility();
-    }
-
-    private void UpdateB16HelpVisibility()
-    {
-        ShowB16Help = IsB16Item && SelectedB16Standard is null;
+        B16Standards.Add(new B16Option("5", "B16.5 - Pipe Flanges and Flanged Fittings (NPS 1/2 through 24; Classes 150-2500). Covers forged/cast steel, nickel alloys."));
+        B16Standards.Add(new B16Option("9", "B16.9 - Factory-Made Wrought Butt-welding Fittings."));
+        B16Standards.Add(new B16Option("11", "B16.11 - Forged Fittings, Socket-Welding and Threaded."));
+        B16Standards.Add(new B16Option("21", "B16.21 - Metallic and Nonmetallic Gaskets for Pipe Flanges."));
+        B16Standards.Add(new B16Option("20", "B16.20 - Metallic and Nonmetallic Gaskets for Pipe Flanges."));
+        B16Standards.Add(new B16Option("34", "B16.34 - Valves - Flanged, Threaded, and Welding End (Pressure-Temperature Ratings)."));
+        B16Standards.Add(new B16Option("47", "B16.47 - Large Diameter Steel Pipe Flanges (NPS 26 through 60)."));
     }
 
     private static string BuildMaterialLabel(MaterialIndexRecord material, string systemKey)
@@ -830,4 +804,4 @@ public sealed record MaterialSpecOption(string SpecBase, string SpecDisplay, str
 
 public sealed record UnsCandidate(string Uns, string SpecBase, string? Grade, string? Class, string Display);
 
-public sealed record B16Option(string Code, string Display);
+public sealed record B16Option(string Code, string Description);
