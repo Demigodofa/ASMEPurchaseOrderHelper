@@ -17,30 +17,13 @@
             <StackPanel>
                 <TextBlock Text="Purchase Order Context" FontSize="20" FontWeight="SemiBold" Margin="0,0,0,10" />
 
-                <CheckBox Content="Code Use (ASME construction)"
-                          IsChecked="{Binding CodeUse, Mode=TwoWay}"
+                <CheckBox Content="B16 item (flange / valve / fitting / forging / casting)"
+                          IsChecked="{Binding IsB16Item, Mode=TwoWay}"
                           Margin="0,0,0,10" />
 
-                <TextBlock Text="Item Type" FontWeight="SemiBold" />
-                <ComboBox ItemsSource="{Binding ItemTypes}"
-                          SelectedItem="{Binding SelectedItemType, Mode=TwoWay}"
-                          Margin="0,6,0,10" />
-
-                <TextBlock Text="Order To Standard" FontWeight="SemiBold" />
-                <ComboBox ItemsSource="{Binding OrderToStandards}"
-                          SelectedItem="{Binding SelectedOrderToStandard, Mode=TwoWay}"
-                          Margin="0,6,0,10" />
-
-                <CheckBox Content="Marking Required (B16 items)"
-                          IsChecked="{Binding MarkingRequired, Mode=TwoWay}"
-                          Margin="0,0,0,6" />
-
-                <CheckBox Content="Purchaser Requires MTR/CMTR"
-                          IsChecked="{Binding PurchaserRequiresMtr, Mode=TwoWay}"
-                          Margin="0,0,0,10" />
-
-                <CheckBox Content="MTR Required"
-                          IsChecked="{Binding MtrRequired, Mode=TwoWay}"
+                <CheckBox Content="MTR (CofC) Required"
+                          IsChecked="{Binding MtrRequired}"
+                          IsEnabled="False"
                           Margin="0,0,0,6" />
                 <TextBlock Text="{Binding PolicyStatus}"
                            TextWrapping="Wrap"

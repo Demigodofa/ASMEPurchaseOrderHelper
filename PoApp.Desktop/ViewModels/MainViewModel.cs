@@ -19,18 +19,14 @@ public partial class MainViewModel : ObservableObject
     public ObservableCollection<string> GradeOptions { get; } = new();
     public ObservableCollection<string> ClassOptions { get; } = new();
     public ObservableCollection<UnsCandidate> UnsCandidates { get; } = new();
-    public ObservableCollection<string> ItemTypes { get; } = new();
-    public ObservableCollection<string> OrderToStandards { get; } = new();
     public ObservableCollection<OrderingFieldInput> OrderingFields { get; } = new();
 
     private readonly AsmeNormalizedDataset dataset;
-    private readonly GlobalPolicyEngine policyEngine = new();
     private readonly PurchaseOrderBuilder purchaseOrderBuilder = new();
     private readonly Dictionary<string, SpecDefinitionRecord> specsByAsme;
     private readonly Dictionary<string, MaterialIndexRecord> materialsByBase;
     private readonly List<MaterialIndexRecord> sortedMaterials;
 
-    private bool isApplyingPolicy;
     private bool lockedMtrRequiredValue;
     private string? selectedSpecBase;
 
@@ -50,11 +46,7 @@ public partial class MainViewModel : ObservableObject
     [ObservableProperty] private bool hasOrderingFields;
     [ObservableProperty] private bool showGradeSelector;
     [ObservableProperty] private bool showClassSelector;
-    [ObservableProperty] private bool codeUse = true;
-    [ObservableProperty] private string? selectedItemType;
-    [ObservableProperty] private string? selectedOrderToStandard;
-    [ObservableProperty] private bool markingRequired;
-    [ObservableProperty] private bool purchaserRequiresMtr;
+    [ObservableProperty] private bool isB16Item;
 
     private bool mtrRequired;
     public bool MtrRequired
@@ -65,11 +57,11 @@ public partial class MainViewModel : ObservableObject
             if (!SetProperty(ref mtrRequired, value))
                 return;
 
-            if (IsMtrLocked && !isApplyingPolicy && mtrRequired != lockedMtrRequiredValue)
+            if (IsMtrLocked && mtrRequired != lockedMtrRequiredValue)
             {
                 MessageBox.Show(
-                    "MTR Required is locked by the active global policy for the selected context.",
-                    "Policy Lock",
+                    "MTR Required is set automatically. Toggle the B16 item flag to change it.",
+                    "MTR Policy",
                     MessageBoxButton.OK,
                     MessageBoxImage.Warning);
 
@@ -111,11 +103,10 @@ public partial class MainViewModel : ObservableObject
         SpecSystems.Add(new SpecSystemOption("ASME", "ASME (SA/SB)"));
         SpecSystems.Add(new SpecSystemOption("ASTM", "ASTM (A/B)"));
 
-        PopulatePolicyEnums();
         BuildUnsCandidates();
 
         SelectedSpecSystem = SpecSystems.FirstOrDefault();
-        MtrRequired = true;
+        ApplyMtrPolicy();
         Regenerate();
     }
 
@@ -155,9 +146,9 @@ public partial class MainViewModel : ObservableObject
         if (value is null)
             return;
 
-        var targetSystem = CodeUse ? "ASME" : SelectedSpecSystem?.Key;
+        var targetSystem = SelectedSpecSystem?.Key;
         if (string.IsNullOrWhiteSpace(targetSystem))
-            targetSystem = CodeUse ? "ASME" : "ASTM";
+            targetSystem = "ASME";
 
         SelectedSpecSystem = SpecSystems.FirstOrDefault(option =>
             string.Equals(option.Key, targetSystem, StringComparison.OrdinalIgnoreCase));
@@ -168,33 +159,9 @@ public partial class MainViewModel : ObservableObject
         ApplyMaterialSelection(value.SpecBase, value.Grade, value.Class, value.Uns, preserveExistingGradeClass: true);
     }
 
-    partial void OnSelectedItemTypeChanged(string? value)
+    partial void OnIsB16ItemChanged(bool value)
     {
-        ApplyPolicy();
-        Regenerate();
-    }
-
-    partial void OnSelectedOrderToStandardChanged(string? value)
-    {
-        ApplyPolicy();
-        Regenerate();
-    }
-
-    partial void OnMarkingRequiredChanged(bool value)
-    {
-        ApplyPolicy();
-        Regenerate();
-    }
-
-    partial void OnPurchaserRequiresMtrChanged(bool value)
-    {
-        ApplyPolicy();
-        Regenerate();
-    }
-
-    partial void OnCodeUseChanged(bool value)
-    {
-        ApplyPolicy();
+        ApplyMtrPolicy();
         Regenerate();
     }
 
@@ -222,7 +189,7 @@ public partial class MainViewModel : ObservableObject
         }
 
         HasOrderingFields = OrderingFields.Count > 0;
-        ApplyPolicy();
+        ApplyMtrPolicy();
         Regenerate();
     }
 
@@ -302,25 +269,16 @@ public partial class MainViewModel : ObservableObject
             MessageBoxImage.Information);
     }
 
-    private void ApplyPolicy()
+    private void ApplyMtrPolicy()
     {
-        var policyResult = policyEngine.Evaluate(dataset.GlobalPolicy, BuildPolicyContext());
+        var mtrRequiredValue = !IsB16Item;
+        lockedMtrRequiredValue = mtrRequiredValue;
+        IsMtrLocked = true;
+        MtrRequired = mtrRequiredValue;
 
-        isApplyingPolicy = true;
-        lockedMtrRequiredValue = policyResult.MtrRequired;
-        IsMtrLocked = policyResult.IsMtrLocked;
-        MtrRequired = policyResult.MtrRequired;
-        isApplyingPolicy = false;
-
-        if (policyResult.Notes.Count == 0)
-        {
-            PolicyStatus = IsMtrLocked
-                ? "Policy applied with no explicit note."
-                : "No global policy lock for current context.";
-            return;
-        }
-
-        PolicyStatus = string.Join(" ", policyResult.Notes);
+        PolicyStatus = IsB16Item
+            ? "B16 item selected: MTR/CMTR not required."
+            : "MTR (CofC) required for all non-B16 items.";
     }
 
     private PurchaseOrderBuildResult BuildPurchaseOrderResult(SpecDefinitionRecord spec)
@@ -355,15 +313,13 @@ public partial class MainViewModel : ObservableObject
             }
         }
 
-        var policyResult = policyEngine.Evaluate(dataset.GlobalPolicy, BuildPolicyContext());
-
         var buildInput = new PurchaseOrderBuildInput(
             spec,
             BuildMaterialSelection(),
-            CodeUse,
-            ResolveOrderToStandardValue(),
+            CodeUse: true,
+            GoverningStandard: "ASME BPVC Section II",
             MtrRequired,
-            policyResult.Notes,
+            PolicyNotes: Array.Empty<string>(),
             filledFields,
             selectedSupplementaryRequirements
                 .Where(static code => !string.IsNullOrWhiteSpace(code))
@@ -375,17 +331,6 @@ public partial class MainViewModel : ObservableObject
                 .ToList());
 
         return purchaseOrderBuilder.Build(buildInput);
-    }
-
-    private GlobalPolicyContext BuildPolicyContext()
-    {
-        return new GlobalPolicyContext(
-            CodeUse,
-            SelectedItemType ?? ItemTypes.FirstOrDefault() ?? "RawMaterial",
-            ResolveOrderToStandardValue(),
-            MarkingRequired,
-            PurchaserRequiresMtr,
-            MtrRequired);
     }
 
     private MaterialSelection BuildMaterialSelection()
@@ -539,30 +484,6 @@ public partial class MainViewModel : ObservableObject
             : $"Equivalent to ASTM {SelectedSpec.AstmIdentical}";
     }
 
-    private void PopulatePolicyEnums()
-    {
-        if (dataset.GlobalPolicy.Enums.TryGetValue("ITEM_TYPE", out var itemTypes))
-        {
-            foreach (var item in itemTypes)
-                ItemTypes.Add(item);
-        }
-
-        if (ItemTypes.Count == 0)
-            ItemTypes.Add("RawMaterial");
-
-        if (dataset.GlobalPolicy.Enums.TryGetValue("ORDER_TO_STANDARD", out var standards))
-        {
-            foreach (var item in standards)
-                OrderToStandards.Add(item);
-        }
-
-        if (OrderToStandards.Count == 0)
-            OrderToStandards.Add("ASME BPVC Section II");
-
-        SelectedItemType = ItemTypes.FirstOrDefault();
-        SelectedOrderToStandard = OrderToStandards.FirstOrDefault();
-    }
-
     private void BuildUnsCandidates()
     {
         var candidates = new List<UnsCandidate>();
@@ -588,13 +509,6 @@ public partial class MainViewModel : ObservableObject
         {
             UnsCandidates.Add(candidate);
         }
-    }
-
-    private string ResolveOrderToStandardValue()
-    {
-        return string.IsNullOrWhiteSpace(SelectedOrderToStandard)
-            ? "ASME BPVC Section II"
-            : SelectedOrderToStandard.Trim();
     }
 
     private static string BuildMaterialLabel(MaterialIndexRecord material, string systemKey)
