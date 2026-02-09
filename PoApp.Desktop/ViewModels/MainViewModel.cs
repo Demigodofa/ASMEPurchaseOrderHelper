@@ -454,14 +454,7 @@ public partial class MainViewModel : ObservableObject
         foreach (var material in sortedMaterials)
         {
             var label = BuildMaterialLabel(material, SelectedSpecSystem.Key);
-            var display = label;
-            if (!string.IsNullOrWhiteSpace(material.SpecBase) && specsByAsme.TryGetValue(material.SpecAsme ?? $"SA-{material.SpecBase}", out var spec))
-            {
-                if (!string.IsNullOrWhiteSpace(spec.Title))
-                    display = $"{label} - {spec.Title}";
-            }
-
-            MaterialSpecs.Add(new MaterialSpecOption(material.SpecBase, label, display));
+            MaterialSpecs.Add(new MaterialSpecOption(material.SpecBase, label, label));
         }
     }
 

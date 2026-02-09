@@ -42,7 +42,7 @@
                 <TextBlock Text="Material Spec" FontWeight="SemiBold" />
                 <ComboBox ItemsSource="{Binding MaterialSpecs}"
                           SelectedItem="{Binding SelectedMaterialSpec, Mode=TwoWay}"
-                          DisplayMemberPath="DisplayLabel"
+                          DisplayMemberPath="SpecDisplay"
                           IsEditable="True"
                           IsTextSearchEnabled="True"
                           Margin="0,6,0,10" />
