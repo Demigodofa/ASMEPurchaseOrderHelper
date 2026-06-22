@@ -6,6 +6,13 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 import fitz
+import numpy as np
+from PIL import Image
+
+try:
+    from rapidocr_onnxruntime import RapidOCR
+except Exception:  # pragma: no cover - optional local OCR fallback
+    RapidOCR = None
 
 
 DEFAULT_METADATA = Path("data/private/sa106_mtr_pilot/metadata/sa106_acceptance_metadata.json")
@@ -23,6 +30,8 @@ ELEMENTS = {
     "nickel": {"symbol": "Ni", "aliases": ["NI", "NICKEL"]},
     "vanadium": {"symbol": "V", "aliases": ["V", "VANADIUM"]},
 }
+
+RAPID_OCR = None
 
 
 def clean_token(text: str) -> str:
@@ -67,6 +76,15 @@ def union_bbox(boxes: list[list[float]]) -> list[float]:
     ]
 
 
+def get_rapid_ocr():
+    global RAPID_OCR
+    if RapidOCR is None:
+        return None
+    if RAPID_OCR is None:
+        RAPID_OCR = RapidOCR()
+    return RAPID_OCR
+
+
 def open_input_as_pdf(path: Path) -> fitz.Document:
     suffix = path.suffix.lower()
     if suffix == ".pdf":
@@ -88,6 +106,9 @@ def extract_words(page, use_ocr: bool) -> tuple[list[dict], str]:
             method = "ocr"
         except Exception as exc:  # OCR availability varies by machine.
             method = f"native_ocr_failed:{type(exc).__name__}:{exc}"
+            rapid_words, rapid_method = extract_words_rapidocr(page)
+            if rapid_words:
+                return rapid_words, f"{method};{rapid_method}"
     words = [
         {
             "text": item[4],
@@ -99,6 +120,106 @@ def extract_words(page, use_ocr: bool) -> tuple[list[dict], str]:
         for item in words_raw
     ]
     return words, method
+
+
+def transform_rotated_point(x: float, y: float, angle: int, width: int, height: int) -> tuple[float, float]:
+    if angle == 0:
+        return x, y
+    if angle == 90:
+        return width - y, x
+    if angle == 180:
+        return width - x, height - y
+    if angle == 270:
+        return y, height - x
+    raise ValueError(angle)
+
+
+def transform_rotated_box(box: list[list[float]], angle: int, width: int, height: int, scale: float) -> list[float]:
+    points = [transform_rotated_point(point[0], point[1], angle, width, height) for point in box]
+    return [
+        min(point[0] for point in points) / scale,
+        min(point[1] for point in points) / scale,
+        max(point[0] for point in points) / scale,
+        max(point[1] for point in points) / scale,
+    ]
+
+
+def rapidocr_rotation_score(result: list) -> float:
+    text = " ".join(item[1] for item in (result or [])).upper()
+    confidence = sum(float(item[2]) for item in (result or [])) / max(1, len(result or []))
+    weighted_terms = {
+        "CERTIFIED": 7,
+        "TEST REPORT": 10,
+        "MATERIAL": 8,
+        "SEAMLESS": 7,
+        "TUBULAR": 5,
+        "GRADE": 8,
+        "A106": 12,
+        "SA-106": 14,
+        "HEAT": 7,
+        "CHEM": 8,
+        "TENSILE": 8,
+        "YIELD": 8,
+        "ELONG": 6,
+        "MILL": 4,
+        "P.O": 3,
+        "DATE": 3,
+    }
+    term_score = sum(weight for term, weight in weighted_terms.items() if term in text)
+    if "PAGE" in text[:120]:
+        term_score += 2
+    return term_score + confidence * 2 + min(len(result or []), 120) / 50
+
+
+def split_ocr_line_words(text: str, bbox: list[float], page_index: int, line_index: int) -> list[dict]:
+    tokens = [token for token in re.split(r"\s+", text.strip()) if token]
+    if not tokens:
+        return []
+    x0, y0, x1, y1 = bbox
+    width = max(1.0, x1 - x0)
+    total_chars = sum(max(1, len(token)) for token in tokens)
+    cursor = x0
+    words = []
+    for pos, token in enumerate(tokens):
+        token_width = width * max(1, len(token)) / total_chars
+        words.append(
+            {
+                "text": token,
+                "bbox": [cursor, y0, min(x1, cursor + token_width), y1],
+                "block": line_index,
+                "line": 0,
+                "word": pos,
+                "ocr_order": line_index,
+                "page_index": page_index,
+            }
+        )
+        cursor += token_width
+    return words
+
+
+def extract_words_rapidocr(page) -> tuple[list[dict], str]:
+    ocr = get_rapid_ocr()
+    if ocr is None:
+        return [], "rapidocr_unavailable"
+    scale = 2.0
+    pix = page.get_pixmap(matrix=fitz.Matrix(scale, scale), alpha=False)
+    base = Image.frombytes("RGB", [pix.width, pix.height], pix.samples)
+    best = None
+    for angle in [0, 90, 180, 270]:
+        image = base.rotate(angle, expand=True)
+        result, _elapsed = ocr(np.array(image))
+        result = result or []
+        score = rapidocr_rotation_score(result)
+        if best is None or score > best["score"]:
+            best = {"angle": angle, "result": result, "score": score}
+    words = []
+    for line_index, item in enumerate(best["result"]):
+        box, text, score = item
+        if float(score) < 0.45:
+            continue
+        bbox = transform_rotated_box(box, best["angle"], pix.width, pix.height, scale)
+        words.extend(split_ocr_line_words(text, bbox, page.number, line_index))
+    return words, f"rapidocr_angle_{best['angle']}_score_{best['score']:.2f}_lines_{len(best['result'])}"
 
 
 def build_lines(words: list[dict], page_index: int) -> list[dict]:
@@ -115,8 +236,11 @@ def build_lines(words: list[dict], page_index: int) -> list[dict]:
                 "text": " ".join(word["text"] for word in ordered),
                 "words": ordered,
                 "bbox": union_bbox(boxes),
+                "ocr_order": min(word.get("ocr_order", 999999) for word in ordered),
             }
         )
+    if any("ocr_order" in word for word in words):
+        return sorted(lines, key=lambda item: (item["page_index"], item["ocr_order"]))
     return sorted(lines, key=lambda item: (item["page_index"], item["bbox"][1], item["bbox"][0]))
 
 
@@ -145,11 +269,18 @@ def extract_identity(lines: list[dict]) -> dict:
         if match:
             grade = match.group(1)
             break
-    heat = None
-    heat_match = re.search(r"\bHEAT(?:\s*(?:NO|NUMBER|#))?\s*[:#]?\s*([A-Z0-9-]{3,})", upper)
-    if heat_match:
-        heat = heat_match.group(1)
-    return {"specification": spec, "grade": grade, "heat_number": heat}
+    heat_numbers = sorted(set(re.findall(r"\bEB\d{3,}\b", upper)))
+    explicit_heat = None
+    for line in lines:
+        line_upper = line["text"].upper()
+        if "HEAT AFFECTED ZONE" in line_upper:
+            continue
+        match = re.search(r"\bHEAT(?:\s*(?:NO|NUMBER|#))?\s*[:#]?\s*([A-Z0-9-]{3,})", line_upper)
+        if match and match.group(1) not in {"SEE", "REPORT"}:
+            explicit_heat = match.group(1)
+            break
+    heat = explicit_heat or (heat_numbers[0] if heat_numbers else None)
+    return {"specification": spec, "grade": grade, "heat_number": heat, "heat_numbers": heat_numbers}
 
 
 def find_numeric_line_after(lines: list[dict], start_idx: int, limit: int = 4) -> dict | None:
@@ -256,7 +387,80 @@ def extract_mechanical(lines: list[dict]) -> dict:
                         "bbox": line["bbox"],
                         "method": "line_keyword",
                     }
+    tensile_rows = extract_tensile_table_rows(lines)
+    if tensile_rows:
+        findings["tensile_table_rows"] = tensile_rows
     return findings
+
+
+def numeric_tokens_by_page(lines: list[dict], page_index: int) -> list[dict]:
+    tokens = []
+    for line in lines:
+        if line["page_index"] != page_index:
+            continue
+        for word in line["words"]:
+            text = word["text"]
+            if re.fullmatch(r"\d{2,3},\d{3}", text) or re.fullmatch(r"\d{2}\.\d", text):
+                tokens.append({"text": text, "bbox": word["bbox"], "page_index": page_index})
+    return tokens
+
+
+def extract_tensile_table_rows(lines: list[dict]) -> list[dict]:
+    rows = []
+    by_page = sorted(set(line["page_index"] for line in lines))
+    for page_index in by_page:
+        page_text = " ".join(line["text"].upper() for line in lines if line["page_index"] == page_index)
+        if "TENSILE" not in page_text or "YIELD" not in page_text or "ELONG" not in page_text:
+            continue
+        page_lines = [line for line in lines if line["page_index"] == page_index]
+        heat_ids = []
+        pipe_ids = []
+        for line in page_lines:
+            for word in line["words"]:
+                token = clean_token(word["text"])
+                if re.fullmatch(r"EB\d{3,}", token):
+                    heat_ids.append({"value": token, "bbox": word["bbox"], "page_index": page_index})
+                elif re.fullmatch(r"\d{4}", token):
+                    value = int(token)
+                    if 1000 <= value <= 9999:
+                        pipe_ids.append({"value": token, "bbox": word["bbox"], "page_index": page_index})
+        nums = numeric_tokens_by_page(lines, page_index)
+        strengths = [item for item in nums if "," in item["text"]]
+        elongations = [item for item in nums if "." in item["text"] and float(item["text"]) >= 10.0]
+        pair_count = len(strengths) // 2
+        for idx in range(pair_count):
+            first = strengths[idx * 2]
+            second = strengths[idx * 2 + 1]
+            first_value = parse_strength_number(first["text"])
+            second_value = parse_strength_number(second["text"])
+            if not first_value or not second_value:
+                continue
+            tensile, yield_strength = (first, second) if first_value["psi"] >= second_value["psi"] else (second, first)
+            row = {
+                "row_index": idx + 1,
+                "heat": heat_ids[idx]["value"] if idx < len(heat_ids) else None,
+                "pipe": pipe_ids[idx]["value"] if idx < len(pipe_ids) else None,
+                "tensile_strength": {
+                    **parse_strength_number(tensile["text"]),
+                    "page_index": page_index,
+                    "bbox": tensile["bbox"],
+                },
+                "yield_strength": {
+                    **parse_strength_number(yield_strength["text"]),
+                    "page_index": page_index,
+                    "bbox": yield_strength["bbox"],
+                },
+                "elongation": None,
+            }
+            if idx < len(elongations):
+                row["elongation"] = {
+                    "raw": elongations[idx]["text"],
+                    "value": float(elongations[idx]["text"]),
+                    "page_index": page_index,
+                    "bbox": elongations[idx]["bbox"],
+                }
+            rows.append(row)
+    return rows
 
 
 def compare_requirement(requirement: dict, value: float) -> dict:
@@ -320,7 +524,22 @@ def compare_chemistry(metadata: dict, identity: dict, chemistry: dict) -> dict:
 def compare_mechanical(metadata: dict, identity: dict, mechanical: dict) -> dict:
     grade = identity.get("grade")
     if grade not in {"A", "B", "C"}:
-        return {"status": "needs_review", "reason": "missing_or_unsupported_grade", "items": []}
+        items = []
+        for row in mechanical.get("tensile_table_rows", []):
+            for field in ["tensile_strength", "yield_strength", "elongation"]:
+                extracted = row.get(field)
+                if extracted:
+                    items.append(
+                        {
+                            "field": f"row_{row['row_index']}_{field}",
+                            "status": "needs_review",
+                            "extracted": extracted,
+                            "reason": "missing_or_unsupported_grade",
+                            "heat": row.get("heat"),
+                            "pipe": row.get("pipe"),
+                        }
+                    )
+        return {"status": "needs_review", "reason": "missing_or_unsupported_grade", "items": items}
     strength = metadata["mechanical_requirements"]["strength"][grade]
     items = []
     for key, req_key in [("tensile_strength", "tensile_strength_min"), ("yield_strength", "yield_strength_min")]:
