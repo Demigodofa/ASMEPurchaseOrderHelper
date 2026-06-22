@@ -31,6 +31,19 @@ ELEMENTS = {
     "vanadium": {"symbol": "V", "aliases": ["V", "VANADIUM"]},
 }
 
+CHEMISTRY_ROW_Y_BANDS = {
+    "carbon": (518.0, 546.0),
+    "manganese": (489.0, 517.0),
+    "phosphorus": (468.0, 494.0),
+    "sulfur": (446.0, 471.0),
+    "silicon": (426.0, 449.0),
+    "copper": (404.0, 427.0),
+    "nickel": (379.0, 403.0),
+    "chromium": (356.0, 379.0),
+    "molybdenum": (336.0, 357.0),
+    "vanadium": (307.0, 335.0),
+}
+
 RAPID_OCR = None
 
 
@@ -50,6 +63,26 @@ def parse_decimal(text: str) -> float | None:
     return value
 
 
+def parse_chemistry_number(text: str, element: str) -> float | None:
+    normal = parse_decimal(text)
+    if normal is not None and "." in text:
+        return normal
+    digits = re.sub(r"\D", "", text)
+    if not digits:
+        return None
+    if element == "vanadium":
+        if digits.startswith("1") or len(digits) < 4:
+            return None
+        return int(digits) / (10 ** len(digits))
+    if len(digits) >= 3 and digits.startswith("1"):
+        digits = digits[1:]
+    if element in {"phosphorus", "sulfur"}:
+        return int(digits) / 1000
+    if len(digits) <= 2:
+        return int(digits) / 100
+    return int(digits) / 1000
+
+
 def parse_strength_number(text: str) -> dict | None:
     nums = re.findall(r"\d+(?:,\d{3})*(?:\.\d+)?", text)
     if not nums:
@@ -65,6 +98,14 @@ def parse_strength_number(text: str) -> dict | None:
 
 def word_bbox(word: dict) -> list[float]:
     return word["bbox"]
+
+
+def bbox_center(box: list[float]) -> tuple[float, float]:
+    return ((box[0] + box[2]) / 2, (box[1] + box[3]) / 2)
+
+
+def pad_bbox(box: list[float], amount: float = 3.0) -> list[float]:
+    return [box[0] - amount, box[1] - amount, box[2] + amount, box[3] + amount]
 
 
 def union_bbox(boxes: list[list[float]]) -> list[float]:
@@ -252,23 +293,31 @@ def element_from_token(token: str) -> str | None:
     return None
 
 
+def extract_certified_grades(upper_text: str) -> list[str]:
+    grades = set()
+    for line in upper_text.splitlines():
+        compact = re.sub(r"[^A-Z0-9/.-]+", "", line)
+        if "A106" not in compact and "SA106" not in compact:
+            continue
+        for match in re.finditer(r"(?:GRADE|GR\.?)\s*([ABC])(?:\s*/\s*([ABC]))?", line):
+            grades.add(match.group(1))
+            if match.group(2):
+                grades.add(match.group(2))
+        for match in re.finditer(r"(?:GRADE|GR\.?)([ABC])(?:/([ABC]))?", compact):
+            grades.add(match.group(1))
+            if match.group(2):
+                grades.add(match.group(2))
+    return sorted(grades)
+
+
 def extract_identity(lines: list[dict]) -> dict:
     text = "\n".join(line["text"] for line in lines)
     upper = text.upper()
     spec = None
     if re.search(r"\bS?A\s*[-/]?\s*106(?:M)?\b", upper) or "A106" in upper:
         spec = "SA-106"
-    grade = None
-    grade_patterns = [
-        r"\bGR(?:ADE)?\.?\s*([ABC])\b",
-        r"\bSA\s*[-/]?\s*106(?:/SA-106M)?\s*(?:GR(?:ADE)?\.?)?\s*([ABC])\b",
-        r"\bA106(?:/A106M)?\s*(?:GR(?:ADE)?\.?)?\s*([ABC])\b",
-    ]
-    for pattern in grade_patterns:
-        match = re.search(pattern, upper)
-        if match:
-            grade = match.group(1)
-            break
+    certified_grades = extract_certified_grades(upper)
+    grade = certified_grades[0] if len(certified_grades) == 1 else None
     heat_numbers = sorted(set(re.findall(r"\bEB\d{3,}\b", upper)))
     explicit_heat = None
     for line in lines:
@@ -280,17 +329,39 @@ def extract_identity(lines: list[dict]) -> dict:
             explicit_heat = match.group(1)
             break
     heat = explicit_heat or (heat_numbers[0] if heat_numbers else None)
-    return {"specification": spec, "grade": grade, "heat_number": heat, "heat_numbers": heat_numbers}
+    return {"specification": spec, "grade": grade, "certified_grades": certified_grades, "heat_number": heat, "heat_numbers": heat_numbers}
 
 
-def apply_target_heat(identity: dict, target_heat: str | None) -> dict:
-    if not target_heat:
-        return identity
-    selected_heat = target_heat.upper()
-    heat_numbers = [heat.upper() for heat in identity.get("heat_numbers", [])]
-    result = {**identity, "target_heat_number": selected_heat, "target_heat_detected": selected_heat in heat_numbers}
-    if result["target_heat_detected"]:
-        result["heat_number"] = selected_heat
+def apply_expected_identity(identity: dict, target_heat: str | None, expected_grade: str | None, intended_use: str) -> dict:
+    result = {**identity, "intended_use": intended_use}
+    if target_heat:
+        selected_heat = target_heat.upper()
+        heat_numbers = [heat.upper() for heat in identity.get("heat_numbers", [])]
+        result.update({"target_heat_number": selected_heat, "target_heat_detected": selected_heat in heat_numbers})
+        if result["target_heat_detected"]:
+            result["heat_number"] = selected_heat
+    certified_grades = result.get("certified_grades", [])
+    if expected_grade:
+        expected = expected_grade.upper()
+        result["expected_grade"] = expected
+        result["grade"] = expected
+        result["grade_status"] = "pass" if expected in certified_grades else "fail"
+        result["grade_reason"] = "expected_grade_present_on_cert" if result["grade_status"] == "pass" else "expected_grade_not_certified"
+    elif len(certified_grades) > 1 and intended_use == "job":
+        result["grade"] = None
+        result["grade_status"] = "needs_input"
+        result["grade_reason"] = "job_material_with_dual_certified_grades_requires_expected_grade"
+    elif len(certified_grades) > 1:
+        result["grade"] = "/".join(certified_grades)
+        result["grade_status"] = "needs_review"
+        result["grade_reason"] = "dual_certified_grade_stock_review_only"
+    elif len(certified_grades) == 1:
+        result["grade"] = certified_grades[0]
+        result["grade_status"] = "pass"
+        result["grade_reason"] = "single_certified_grade"
+    else:
+        result["grade_status"] = "needs_input"
+        result["grade_reason"] = "missing_certified_grade"
     return result
 
 
@@ -302,7 +373,75 @@ def find_numeric_line_after(lines: list[dict], start_idx: int, limit: int = 4) -
     return None
 
 
-def extract_chemistry(lines: list[dict]) -> dict:
+def page_words(lines: list[dict], page_index: int) -> list[dict]:
+    words = []
+    for line in lines:
+        if line["page_index"] == page_index:
+            words.extend(line["words"])
+    return words
+
+
+def find_nearby_row_role(words: list[dict], center_x: float) -> str | None:
+    best = None
+    for word in words:
+        token = clean_token(word["text"])
+        if token not in {"HEAT", "PROD"}:
+            continue
+        word_x, word_y = bbox_center(word["bbox"])
+        if abs(word_x - center_x) > 12 or not (560 <= word_y <= 615):
+            continue
+        dist = abs(word_x - center_x)
+        if best is None or dist < best[0]:
+            best = (dist, token)
+    return best[1].lower() if best else None
+
+
+def extract_rotated_chemistry_rows(lines: list[dict], target_heat: str | None) -> list[dict]:
+    if not target_heat:
+        return []
+    selected_heat = target_heat.upper()
+    rows = []
+    for page_index in sorted(set(line["page_index"] for line in lines)):
+        text = " ".join(line["text"].upper() for line in lines if line["page_index"] == page_index)
+        if "C.E" not in text and "EUROPEAN CEV" not in text:
+            continue
+        words = page_words(lines, page_index)
+        heat_words = [word for word in words if clean_token(word["text"]) == selected_heat]
+        for row_index, heat_word in enumerate(heat_words, start=1):
+            center_x, _ = bbox_center(heat_word["bbox"])
+            row = {
+                "row_index": row_index,
+                "heat": selected_heat,
+                "role": find_nearby_row_role(words, center_x),
+                "page_index": page_index,
+                "bbox": [center_x - 9.0, 82.0, center_x + 9.0, 692.0],
+                "values": {},
+            }
+            for element, (low_y, high_y) in CHEMISTRY_ROW_Y_BANDS.items():
+                candidates = []
+                for word in words:
+                    word_x, word_y = bbox_center(word["bbox"])
+                    if abs(word_x - center_x) > 10 or not (low_y <= word_y <= high_y):
+                        continue
+                    value = parse_chemistry_number(word["text"], element)
+                    if value is None:
+                        continue
+                    candidates.append((abs(word_x - center_x), word, value))
+                if not candidates:
+                    continue
+                _dist, word, value = min(candidates, key=lambda item: item[0])
+                row["values"][element] = {
+                    "value": value,
+                    "raw": word["text"],
+                    "page_index": page_index,
+                    "bbox": word["bbox"],
+                    "method": "rotated_us_steel_row_band",
+                }
+            rows.append(row)
+    return rows
+
+
+def extract_chemistry(lines: list[dict], target_heat: str | None = None) -> dict:
     findings = {}
 
     # Pattern 1: a header line with many element symbols and a following numeric row.
@@ -364,6 +503,14 @@ def extract_chemistry(lines: list[dict]) -> dict:
                 "bbox": words[pos + 1]["bbox"],
                 "method": "adjacent_pair",
             }
+    chemistry_rows = extract_rotated_chemistry_rows(lines, target_heat)
+    if chemistry_rows:
+        findings["rows"] = chemistry_rows
+        for row in chemistry_rows:
+            if row.get("role") != "heat":
+                continue
+            for element, extracted in row["values"].items():
+                findings.setdefault(element, extracted)
     return findings
 
 
@@ -447,10 +594,19 @@ def extract_tensile_table_rows(lines: list[dict]) -> list[dict]:
             if not first_value or not second_value:
                 continue
             tensile, yield_strength = (first, second) if first_value["psi"] >= second_value["psi"] else (second, first)
+            heat_id = heat_ids[idx] if idx < len(heat_ids) else None
+            pipe_id = pipe_ids[idx] if idx < len(pipe_ids) else None
+            row_boxes = [tensile["bbox"], yield_strength["bbox"]]
+            if heat_id:
+                row_boxes.append(heat_id["bbox"])
+            if pipe_id:
+                row_boxes.append(pipe_id["bbox"])
             row = {
                 "row_index": idx + 1,
-                "heat": heat_ids[idx]["value"] if idx < len(heat_ids) else None,
-                "pipe": pipe_ids[idx]["value"] if idx < len(pipe_ids) else None,
+                "heat": heat_id["value"] if heat_id else None,
+                "heat_bbox": heat_id["bbox"] if heat_id else None,
+                "pipe": pipe_id["value"] if pipe_id else None,
+                "pipe_bbox": pipe_id["bbox"] if pipe_id else None,
                 "tensile_strength": {
                     **parse_strength_number(tensile["text"]),
                     "page_index": page_index,
@@ -464,12 +620,14 @@ def extract_tensile_table_rows(lines: list[dict]) -> list[dict]:
                 "elongation": None,
             }
             if idx < len(elongations):
+                row_boxes.append(elongations[idx]["bbox"])
                 row["elongation"] = {
                     "raw": elongations[idx]["text"],
                     "value": float(elongations[idx]["text"]),
                     "page_index": page_index,
                     "bbox": elongations[idx]["bbox"],
                 }
+            row["row_bbox"] = [union_bbox(row_boxes)[0] - 4.0, 210.0, union_bbox(row_boxes)[2] + 4.0, 690.0]
             rows.append(row)
     return rows
 
@@ -490,12 +648,88 @@ def compare_requirement(requirement: dict, value: float) -> dict:
     return {"status": "needs_review", "rule": qualifier}
 
 
+def aggregate_status(statuses: set[str]) -> str:
+    if "fail" in statuses:
+        return "fail"
+    if "needs_input" in statuses:
+        return "needs_input"
+    if "needs_review" in statuses or "missing" in statuses:
+        return "needs_review"
+    return "pass"
+
+
+def compare_identity(identity: dict) -> dict:
+    items = []
+    spec_status = "pass" if identity.get("specification") == "SA-106" else "fail"
+    items.append({"field": "specification", "status": spec_status, "extracted": {"raw": identity.get("specification")}})
+    grade_status = identity.get("grade_status") or ("pass" if identity.get("grade") in {"A", "B", "C"} else "needs_input")
+    items.append(
+        {
+            "field": "grade",
+            "status": grade_status,
+            "extracted": {"raw": identity.get("grade"), "certified_grades": identity.get("certified_grades", [])},
+            "reason": identity.get("grade_reason"),
+        }
+    )
+    if identity.get("target_heat_number"):
+        heat_status = "pass" if identity.get("target_heat_detected") else "fail"
+        items.append(
+            {
+                "field": "target_heat",
+                "status": heat_status,
+                "extracted": {"raw": identity.get("target_heat_number"), "heat_numbers": identity.get("heat_numbers", [])},
+            }
+        )
+    return {"status": aggregate_status({item["status"] for item in items}), "items": items}
+
+
 def compare_chemistry(metadata: dict, identity: dict, chemistry: dict) -> dict:
     grade = identity.get("grade")
     if grade not in {"A", "B", "C"}:
         return {"status": "needs_review", "reason": "missing_or_unsupported_grade", "items": []}
     requirements = metadata["chemical_requirements"]["requirements"]
     items = []
+    chemistry_rows = chemistry.get("rows") or []
+    if chemistry_rows:
+        for row in chemistry_rows:
+            row_values = row.get("values", {})
+            for element, requirement in requirements.items():
+                extracted = row_values.get(element)
+                grade_requirement = requirement["by_grade"][grade]
+                item = {
+                    "field": f"chemistry_row_{row['row_index']}_{row.get('role') or 'unknown'}_{element}",
+                    "requirement": {"qualifier": requirement["qualifier"], "grade_requirement": grade_requirement},
+                    "extracted": extracted,
+                    "heat": row.get("heat"),
+                    "row_role": row.get("role"),
+                }
+                if not extracted:
+                    item["status"] = "missing"
+                else:
+                    item.update(compare_requirement(item["requirement"], extracted["value"]))
+                items.append(item)
+            residual_keys = ["chromium", "copper", "molybdenum", "nickel", "vanadium"]
+            if all(key in row_values for key in residual_keys):
+                combined = sum(row_values[key]["value"] for key in residual_keys)
+                raw_notes = " ".join(metadata["chemical_requirements"]["notes"].get("raw_ocr_footnote_lines", []))
+                note_match = re.search(r"not exceed\s+(\d+(?:\.\d+)?)\s*%", raw_notes, re.I)
+                if note_match:
+                    limit = float(note_match.group(1))
+                    items.append(
+                        {
+                            "field": f"chemistry_row_{row['row_index']}_{row.get('role') or 'unknown'}_residual_elements_combined",
+                            "extracted": {"value": combined, "page_index": row.get("page_index"), "bbox": row.get("bbox")},
+                            "rule": "combined_max",
+                            "limit": limit,
+                            "status": "pass" if combined <= limit else "fail",
+                            "heat": row.get("heat"),
+                            "row_role": row.get("role"),
+                        }
+                    )
+        statuses = {item["status"] for item in items}
+        status = "fail" if "fail" in statuses else "needs_review" if statuses & {"missing", "needs_review"} else "pass"
+        return {"status": status, "items": items}
+
     for element, requirement in requirements.items():
         extracted = chemistry.get(element)
         grade_requirement = requirement["by_grade"][grade]
@@ -630,10 +864,97 @@ def compare_mechanical(metadata: dict, identity: dict, mechanical: dict, target_
     return {"status": status, "items": items}
 
 
+def highlight_item(field: str, page_index: int, bbox: list[float], raw: str, category: str, status: str = "evidence") -> dict:
+    return {
+        "field": field,
+        "status": status,
+        "category": category,
+        "extracted": {"raw": raw, "page_index": page_index, "bbox": bbox},
+    }
+
+
+def line_matches(line_text: str, compact_patterns: list[str]) -> bool:
+    compact = re.sub(r"[^A-Z0-9]+", "", line_text.upper())
+    return any(pattern in compact for pattern in compact_patterns)
+
+
+def extract_evidence_highlights(lines: list[dict], identity: dict, chemistry: dict, mechanical: dict, target_heat: str | None) -> list[dict]:
+    items = []
+    selected_heat = (target_heat or identity.get("heat_number") or "").upper()
+    pages_with_target_heat = {
+        line["page_index"]
+        for line in lines
+        if selected_heat and selected_heat in re.sub(r"[^A-Z0-9]+", "", line["text"].upper())
+    }
+
+    identity_patterns = [
+        "SPECIFICATIONANDGRADE",
+        "SMLSSTANDARDANDLINEPIPE",
+        "ASMESA106",
+        "ASTMA106",
+        "APPLICABLEREQUIREMENTS",
+    ]
+    material_patterns = ["ASROLLED", "6625168275", "02807112"]
+    test_patterns = [
+        "FULLLENGTHVISUAL",
+        "FULLLENGTHEMI",
+        "FULLLENGTHMPI",
+        "FULLLENGTHUT",
+        "ENDAREAINSPECTION",
+        "SPECIALENDAREA",
+        "NOREPAIRSBYWELDING",
+        "NOMERCURY",
+        "SAMPLEDTESTEDANDORINSPECTED",
+        "FULFILLSTHEREQUIREMENTS",
+    ]
+
+    for line in lines:
+        if line_matches(line["text"], identity_patterns):
+            items.append(highlight_item("material_identity_line", line["page_index"], pad_bbox(line["bbox"], 2.0), line["text"], "material_identity"))
+        if line_matches(line["text"], material_patterns):
+            items.append(highlight_item("received_size_condition_line", line["page_index"], pad_bbox(line["bbox"], 2.0), line["text"], "received_material"))
+        if line["page_index"] in pages_with_target_heat and line_matches(line["text"], test_patterns):
+            items.append(highlight_item("test_or_certification_line", line["page_index"], pad_bbox(line["bbox"], 2.0), line["text"], "testing_and_certification"))
+        for word in line["words"]:
+            if selected_heat and clean_token(word["text"]) == selected_heat:
+                items.append(highlight_item("target_heat", line["page_index"], pad_bbox(word["bbox"], 2.0), word["text"], "heat_traceability"))
+
+    for row in chemistry.get("rows", []):
+        if row.get("heat") == selected_heat and row.get("bbox") is not None:
+            items.append(
+                highlight_item(
+                    f"chemistry_{row.get('role') or 'row'}_row",
+                    row["page_index"],
+                    row["bbox"],
+                    f"{row.get('heat')} {row.get('role') or ''}".strip(),
+                    "chemistry_row",
+                )
+            )
+
+    for row in mechanical.get("tensile_table_rows", []):
+        if selected_heat and (row.get("heat") or "").upper() != selected_heat:
+            continue
+        if row.get("row_bbox") is not None:
+            page_index = row["tensile_strength"]["page_index"]
+            raw = " ".join(str(row.get(key) or "") for key in ["heat", "pipe"]).strip()
+            items.append(highlight_item("mechanical_tensile_row", page_index, row["row_bbox"], raw, "mechanical_row"))
+
+    return items
+
+
 def add_highlights(doc, report: dict):
-    colors = {"pass": (0.2, 0.8, 0.2), "fail": (1, 0.1, 0.1), "missing": (1, 0.8, 0), "needs_review": (1, 0.8, 0)}
-    for group in ["chemistry_check", "mechanical_check"]:
-        for item in report[group].get("items", []):
+    colors = {
+        "evidence": (0.99, 0.96, 0.52),
+        "pass": (0.99, 0.96, 0.52),
+        "fail": (1.0, 0.25, 0.25),
+        "missing": (1.0, 0.75, 0.25),
+        "needs_input": (1.0, 0.75, 0.25),
+        "needs_review": (0.99, 0.96, 0.52),
+    }
+    for group in ["evidence_highlights", "chemistry_check", "mechanical_check"]:
+        group_data = report.get(group, {})
+        entries = group_data if isinstance(group_data, list) else group_data.get("items", [])
+        for item in entries:
             extracted = item.get("extracted") or {}
             bbox = extracted.get("bbox")
             page_index = extracted.get("page_index")
@@ -641,8 +962,10 @@ def add_highlights(doc, report: dict):
                 continue
             page = doc[page_index]
             annot = page.add_rect_annot(fitz.Rect(bbox))
-            annot.set_colors(stroke=colors.get(item["status"], (1, 0.8, 0)))
-            annot.set_border(width=1.2)
+            color = colors.get(item["status"], colors["evidence"])
+            annot.set_colors(stroke=color, fill=color)
+            annot.set_opacity(0.35 if item["status"] != "fail" else 0.45)
+            annot.set_border(width=0.4)
             annot.set_info(content=f"{item['field']}: {item['status']}")
             annot.update()
 
@@ -656,6 +979,8 @@ def main() -> int:
     parser.add_argument("--start-page", type=int, default=1, help="1-based first PDF page to process.")
     parser.add_argument("--end-page", type=int, default=None, help="1-based last PDF page to process.")
     parser.add_argument("--target-heat", default=None, help="Limit mechanical row checks/highlights to this heat/product identifier.")
+    parser.add_argument("--expected-grade", choices=["A", "B", "C", "a", "b", "c"], default=None, help="Job/order grade to evaluate when the cert lists multiple grades.")
+    parser.add_argument("--intended-use", choices=["job", "stock"], default="job", help="Job material requires a known expected grade; stock can be reviewed as dual-certified.")
     args = parser.parse_args()
 
     mtr_path = Path(args.mtr)
@@ -679,23 +1004,30 @@ def main() -> int:
         page_methods.append({"page_index": page_index, "method": method, "word_count": len(words)})
         all_lines.extend(build_lines(words, page_index))
 
-    identity = apply_target_heat(extract_identity(all_lines), args.target_heat)
-    chemistry = extract_chemistry(all_lines)
+    identity = apply_expected_identity(extract_identity(all_lines), args.target_heat, args.expected_grade, args.intended_use)
+    chemistry = extract_chemistry(all_lines, args.target_heat)
     mechanical = extract_mechanical(all_lines)
+    identity_check = compare_identity(identity)
+    chemistry_check = compare_chemistry(metadata, identity, chemistry)
+    mechanical_check = compare_mechanical(metadata, identity, mechanical, args.target_heat)
+    evidence_highlights = extract_evidence_highlights(all_lines, identity, chemistry, mechanical, args.target_heat)
     report = {
         "created_utc": datetime.now(timezone.utc).isoformat(),
         "mtr_path": str(mtr_path),
         "metadata_path": str(metadata_path),
         "page_filter": {"start_page": args.start_page, "end_page": args.end_page, "target_heat": args.target_heat},
+        "order_context": {"expected_grade": args.expected_grade.upper() if args.expected_grade else None, "intended_use": args.intended_use},
         "page_methods": page_methods,
         "identity": identity,
         "chemistry_extraction": chemistry,
         "mechanical_extraction": mechanical,
-        "chemistry_check": compare_chemistry(metadata, identity, chemistry),
-        "mechanical_check": compare_mechanical(metadata, identity, mechanical, args.target_heat),
+        "identity_check": identity_check,
+        "chemistry_check": chemistry_check,
+        "mechanical_check": mechanical_check,
+        "evidence_highlights": evidence_highlights,
     }
-    statuses = {report["chemistry_check"]["status"], report["mechanical_check"]["status"]}
-    report["overall_status"] = "fail" if "fail" in statuses else "needs_review" if "needs_review" in statuses else "pass"
+    statuses = {report["identity_check"]["status"], report["chemistry_check"]["status"], report["mechanical_check"]["status"]}
+    report["overall_status"] = aggregate_status(statuses)
 
     stamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     out = Path(args.out_root) / f"{mtr_path.stem}_{stamp}"
