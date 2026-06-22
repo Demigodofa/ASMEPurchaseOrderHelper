@@ -283,6 +283,17 @@ def extract_identity(lines: list[dict]) -> dict:
     return {"specification": spec, "grade": grade, "heat_number": heat, "heat_numbers": heat_numbers}
 
 
+def apply_target_heat(identity: dict, target_heat: str | None) -> dict:
+    if not target_heat:
+        return identity
+    selected_heat = target_heat.upper()
+    heat_numbers = [heat.upper() for heat in identity.get("heat_numbers", [])]
+    result = {**identity, "target_heat_number": selected_heat, "target_heat_detected": selected_heat in heat_numbers}
+    if result["target_heat_detected"]:
+        result["heat_number"] = selected_heat
+    return result
+
+
 def find_numeric_line_after(lines: list[dict], start_idx: int, limit: int = 4) -> dict | None:
     for line in lines[start_idx + 1 : start_idx + 1 + limit]:
         nums = [word for word in line["words"] if parse_decimal(word["text"]) is not None]
@@ -521,11 +532,61 @@ def compare_chemistry(metadata: dict, identity: dict, chemistry: dict) -> dict:
     return {"status": status, "items": items}
 
 
-def compare_mechanical(metadata: dict, identity: dict, mechanical: dict) -> dict:
+def compare_strength_rows(metadata: dict, grade: str, rows: list[dict]) -> dict:
+    strength = metadata["mechanical_requirements"]["strength"][grade]
+    items = []
+    for row in rows:
+        for key, req_key in [("tensile_strength", "tensile_strength_min"), ("yield_strength", "yield_strength_min")]:
+            extracted = row.get(key)
+            req = strength[req_key]
+            item = {
+                "field": f"row_{row['row_index']}_{key}",
+                "requirement": {"rule": "min", "psi": req["psi"]},
+                "extracted": extracted,
+                "heat": row.get("heat"),
+                "pipe": row.get("pipe"),
+            }
+            if not extracted or "psi" not in extracted:
+                item["status"] = "missing"
+            else:
+                item["status"] = "pass" if extracted["psi"] >= req["psi"] else "fail"
+            items.append(item)
+        if row.get("elongation"):
+            items.append(
+                {
+                    "field": f"row_{row['row_index']}_elongation",
+                    "status": "needs_review",
+                    "extracted": row["elongation"],
+                    "heat": row.get("heat"),
+                    "pipe": row.get("pipe"),
+                    "reason": metadata["mechanical_requirements"]["elongation"]["auto_check_status"],
+                }
+            )
+        else:
+            items.append({"field": f"row_{row['row_index']}_elongation", "status": "missing", "heat": row.get("heat"), "pipe": row.get("pipe")})
+    statuses = {item["status"] for item in items}
+    status = "fail" if "fail" in statuses else "needs_review" if statuses & {"missing", "needs_review"} else "pass"
+    return {"status": status, "items": items}
+
+
+def compare_mechanical(metadata: dict, identity: dict, mechanical: dict, target_heat: str | None = None) -> dict:
     grade = identity.get("grade")
+    target_rows = mechanical.get("tensile_table_rows", [])
+    if target_heat:
+        selected_heat = target_heat.upper()
+        target_rows = [row for row in target_rows if (row.get("heat") or "").upper() == selected_heat]
+        if not target_rows:
+            parsed_heats = sorted({row.get("heat") for row in mechanical.get("tensile_table_rows", []) if row.get("heat")})
+            return {
+                "status": "needs_review",
+                "reason": "target_heat_not_found_in_tensile_rows",
+                "target_heat": selected_heat,
+                "parsed_heats": parsed_heats,
+                "items": [],
+            }
     if grade not in {"A", "B", "C"}:
         items = []
-        for row in mechanical.get("tensile_table_rows", []):
+        for row in target_rows:
             for field in ["tensile_strength", "yield_strength", "elongation"]:
                 extracted = row.get(field)
                 if extracted:
@@ -540,6 +601,8 @@ def compare_mechanical(metadata: dict, identity: dict, mechanical: dict) -> dict
                         }
                     )
         return {"status": "needs_review", "reason": "missing_or_unsupported_grade", "items": items}
+    if target_rows:
+        return compare_strength_rows(metadata, grade, target_rows)
     strength = metadata["mechanical_requirements"]["strength"][grade]
     items = []
     for key, req_key in [("tensile_strength", "tensile_strength_min"), ("yield_strength", "yield_strength_min")]:
@@ -590,6 +653,9 @@ def main() -> int:
     parser.add_argument("--metadata", default=str(DEFAULT_METADATA), help="SA-106 acceptance metadata JSON.")
     parser.add_argument("--out-root", default=str(DEFAULT_OUTPUT_ROOT), help="Private output root.")
     parser.add_argument("--force-ocr", action="store_true", help="Force OCR even if a text layer exists.")
+    parser.add_argument("--start-page", type=int, default=1, help="1-based first PDF page to process.")
+    parser.add_argument("--end-page", type=int, default=None, help="1-based last PDF page to process.")
+    parser.add_argument("--target-heat", default=None, help="Limit mechanical row checks/highlights to this heat/product identifier.")
     args = parser.parse_args()
 
     mtr_path = Path(args.mtr)
@@ -604,23 +670,29 @@ def main() -> int:
     all_lines = []
     page_methods = []
     for page_index, page in enumerate(doc):
+        page_number = page_index + 1
+        if page_number < args.start_page:
+            continue
+        if args.end_page is not None and page_number > args.end_page:
+            continue
         words, method = extract_words(page, args.force_ocr)
         page_methods.append({"page_index": page_index, "method": method, "word_count": len(words)})
         all_lines.extend(build_lines(words, page_index))
 
-    identity = extract_identity(all_lines)
+    identity = apply_target_heat(extract_identity(all_lines), args.target_heat)
     chemistry = extract_chemistry(all_lines)
     mechanical = extract_mechanical(all_lines)
     report = {
         "created_utc": datetime.now(timezone.utc).isoformat(),
         "mtr_path": str(mtr_path),
         "metadata_path": str(metadata_path),
+        "page_filter": {"start_page": args.start_page, "end_page": args.end_page, "target_heat": args.target_heat},
         "page_methods": page_methods,
         "identity": identity,
         "chemistry_extraction": chemistry,
         "mechanical_extraction": mechanical,
         "chemistry_check": compare_chemistry(metadata, identity, chemistry),
-        "mechanical_check": compare_mechanical(metadata, identity, mechanical),
+        "mechanical_check": compare_mechanical(metadata, identity, mechanical, args.target_heat),
     }
     statuses = {report["chemistry_check"]["status"], report["mechanical_check"]["status"]}
     report["overall_status"] = "fail" if "fail" in statuses else "needs_review" if "needs_review" in statuses else "pass"
